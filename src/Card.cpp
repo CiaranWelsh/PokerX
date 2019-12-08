@@ -23,8 +23,7 @@ namespace Game {
         bool validRank = std::any_of(std::begin(this->ranks), std::end(this->ranks), [&](int i) { return i == r; });
         bool validSuit = std::any_of(std::begin(this->suits), std::end(this->suits), [&](char i) { return i == s; });
         if (!validRank || !validSuit)
-            throw std::invalid_argument
-
+            throw std::invalid_argument("Invalid argument");
 
         this->suit = s;
         this->rank = r;
