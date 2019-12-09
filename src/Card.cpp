@@ -22,8 +22,8 @@ namespace Game {
 
         bool validRank = std::any_of(std::begin(this->ranks), std::end(this->ranks), [&](int i) { return i == r; });
         bool validSuit = std::any_of(std::begin(this->suits), std::end(this->suits), [&](char i) { return i == s; });
-        if (!validRank || !validSuit)
-            throw std::invalid_argument("Invalid argument");
+//        if (!validRank || !validSuit)
+//            throw std::invalid_argument("Invalid argument " << this->ranks);
 
         this->suit = s;
         this->rank = r;
@@ -39,7 +39,7 @@ namespace Game {
     }
 
     std::ostream &operator<<(std::ostream &out, const Card &c) {
-        out << "Card(" << c.rank << c.suit << ")" << std::endl;
+        out << "Card(" << c.rank << c.suit << ")";
         return out;
     }
 

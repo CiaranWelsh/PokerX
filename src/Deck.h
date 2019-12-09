@@ -10,14 +10,20 @@
 
 using namespace Game;
 
+
 class Deck {
 private:
-    int ranks[13] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
+
+    int ranks[13] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
     char suits[4] = {'S', 'H', 'D', 'H'};
     std::vector<Game::Card> deck;
+    vector <Card> buildDeck();
 public:
     Deck();
-    Deck shuffle();
+    Deck* shuffle();
+    friend std::ostream &operator<<(std::ostream &os, const Deck &d);
+    int len();
+    Card pop();
 };
 
 
