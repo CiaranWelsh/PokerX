@@ -257,7 +257,7 @@ void PrintTo(wchar_t wc, ostream* os) {
 
 // Prints the given array of characters to the ostream.  CharType must be either
 // char or wchar_t.
-// The array starts at begin, the length is len, it may include '\0' characters
+// The array starts at begin, the length is size, it may include '\0' characters
 // and may not be NUL-terminated.
 template <typename CharType>
 GTEST_ATTRIBUTE_NO_SANITIZE_MEMORY_
@@ -288,7 +288,7 @@ static CharFormat PrintCharsAsStringTo(
   return print_format;
 }
 
-// Prints a (const) char/wchar_t array of 'len' elements, starting at address
+// Prints a (const) char/wchar_t array of 'size' elements, starting at address
 // 'begin'.  CharType must be either char or wchar_t.
 template <typename CharType>
 GTEST_ATTRIBUTE_NO_SANITIZE_MEMORY_
@@ -317,12 +317,12 @@ static void UniversalPrintCharArray(
   *os << " (no terminating NUL)";
 }
 
-// Prints a (const) char array of 'len' elements, starting at address 'begin'.
+// Prints a (const) char array of 'size' elements, starting at address 'begin'.
 void UniversalPrintArray(const char* begin, size_t len, ostream* os) {
   UniversalPrintCharArray(begin, len, os);
 }
 
-// Prints a (const) wchar_t array of 'len' elements, starting at address
+// Prints a (const) wchar_t array of 'size' elements, starting at address
 // 'begin'.
 void UniversalPrintArray(const wchar_t* begin, size_t len, ostream* os) {
   UniversalPrintCharArray(begin, len, os);

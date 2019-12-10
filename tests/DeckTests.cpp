@@ -15,7 +15,7 @@
 
 TEST(DeckTests, TestLen) {
     Deck deck = Deck();
-    int actual = deck.len();
+    int actual = deck.size();
     int expected = 52;
     ASSERT_EQ(expected, actual);
 }
@@ -55,6 +55,11 @@ TEST(DeckTests, TestShuffle) {
     ASSERT_NE(expected.str(), actual.str());
 }
 
+TEST(DeckTests, Iteration) {
+    Deck deck = Deck();
+
+}
+
 
 TEST(DeckTests, TestPop) {
     Deck deck = Deck();
@@ -79,6 +84,24 @@ TEST(DeckTests, TestPop) {
     Card expectedCard = Card(2, 'S');
     bool ans = card == expectedCard;
     ASSERT_TRUE(ans);
+}
+
+TEST(DeckTests, IteratorTest) {
+    Deck deck = Deck();
+    std::vector<Card> cardVector;
+    for (const Card &card : deck) {
+        cardVector.push_back(card);
+    }
+    int expected = 52;
+    int actual = cardVector.size();
+    ASSERT_EQ(expected, actual);
+}
+
+TEST(DeckTests, GetOperatorTests) {
+    Deck deck = Deck();
+    Card actual = deck[4]; // 5th element
+    Card expected = Card(3, 'S');
+    ASSERT_TRUE(expected == actual);
 }
 
 

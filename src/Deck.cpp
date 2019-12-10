@@ -47,7 +47,7 @@ std::ostream &operator<<(std::ostream &os, const Deck &d) {
     return os;
 }
 
-int Deck::len() {
+int Deck::size() {
     return deck.size();
 }
 
@@ -59,4 +59,16 @@ Card Deck::pop() {
     Card card = deck[0];
     deck.erase(deck.begin());
     return card;
+}
+
+std::vector<Card>::iterator Deck::end() {
+    return this->deck.end();
+}
+
+std::vector<Card>::iterator Deck::begin() {
+    return this->deck.begin();
+}
+
+Card &Deck::operator[](int index) {
+    return this->deck[index];
 }

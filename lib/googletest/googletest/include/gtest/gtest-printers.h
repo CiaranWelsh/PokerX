@@ -724,7 +724,7 @@ class UniversalPrinter<::absl::variant<T...>> {
 
 #endif  // GTEST_HAS_ABSL
 
-// UniversalPrintArray(begin, len, os) prints an array of 'len'
+// UniversalPrintArray(begin, len, os) prints an array of 'size'
 // elements, starting at address 'begin'.
 template <typename T>
 void UniversalPrintArray(const T* begin, size_t len, ::std::ostream* os) {

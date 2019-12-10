@@ -22,8 +22,12 @@ public:
     Deck();
     Deck* shuffle();
     friend std::ostream &operator<<(std::ostream &os, const Deck &d);
-    int len();
+    int size();
     Card pop();
+    std::vector<Card>::iterator end();
+    std::vector<Card>::iterator  begin();
+
+    Card& operator[](int index);
 };
 
 
