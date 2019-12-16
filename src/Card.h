@@ -41,6 +41,32 @@ public:
     bool operator!=(const Card &other);
 };
 
+class CardCollection {
+public:
+
+    ~CardCollection();
+    CardCollection();
+    CardCollection(std::vector<Card> &cards);
+    CardCollection pushBack(Card &card);
+
+//    Card(const Card &other); // copy constructor
+//    friend std::ostream &operator<<(std::ostream &os, const Card &c);
+
+//    Card &operator=(const Card &c);
+//
+//    bool operator>(const Card &other);
+//
+//    bool operator<(const Card &other);
+//
+//    bool operator<=(const Card &other);
+//
+//    bool operator>=(const Card &other);
+//
+//    bool operator==(const Card &other);
+//
+//    bool operator!=(const Card &other);
+};
+
 }
 
 

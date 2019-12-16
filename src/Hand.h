@@ -11,52 +11,48 @@
 
 namespace Game {
     struct HoleCards {
-        HoleCards(Card &card1, Card &card2) : card1(card1), card2(card2) {};
+        HoleCards(Card *card1, Card *card2) : card1(card1), card2(card2) {};
 
-        Card &card1;
-        Card &card2;
+        Card *card1;
+        Card *card2;
     };
 
     struct CommunityCards {
-        /*
-         * 0 card constructor
-         */
-        CommunityCards() {
+        Card *flop1;
+        Card *flop2;
+        Card *flop3;
+        Card *turn;
+        Card *river;
 
-        }
+        CommunityCards() = default;
 
-        /*
-         * 3 card constructor
-         */
-        CommunityCards(Card card1= nullptr, Card &card2, Card &card3) : card1(card1),
-                                                   card2(card2), card3(card3) {}
+        CommunityCards(Card *card1, Card *card2, Card *card3);
 
-        /*
-         * 4 card constructor
-         */
-        CommunityCards(Card &card1, Card &card2,
-                       Card &card3, Card &card4) : card1(card1),
-                                                   card2(card2),
-                                                   card3(card3),
-                                                   card4(card4) {}
+        CommunityCards(Card *card1, Card *card2, Card *card3, Card *card4);
+
+        CommunityCards(Card *card1, Card *card2, Card *card3, Card *card4, Card *card5);
 
         /*
-         * 5 card constructor
+         * When cards is a vector of cards we
+         * unpack them into flop1-3 first, then the turn
+         * and then the river
          */
-        CommunityCards(Card &card1,
-                       Card &card2,
-                       Card &card3,
-                       Card &card4,
-                       Card &card5) : card1(card1),
-                                      card2(card2), card3(card3), card4(card4),
-                                      card5(card5) {}
+        explicit CommunityCards(std::vector<Card> &cards);
+    };
 
-
-        Card &card1;
-        Card &card2;
-        Card &card3;
-        Card &card4;
-        Card &card5;
+    class PlayerCards {
+    private:
+        HoleCards _holeCards;
+        CommunityCards _comCards;
+    public:
+        PlayerCards() = default;
+//        ~PlayerCards();
+//        PlayerCards(HoleCards hCards);
+//        PlayerCards(HoleCards hCards, CommunityCards commCards);
+//        void setHoleCards(HoleCards hCards);
+//        std::vector<Card> getHoleCards();
+//        void setCommCards(CommunityCards commCards);
+//        std::vector<Card> getcommCards();
     };
 
     class Hand {
@@ -64,13 +60,13 @@ namespace Game {
         HoleCards _holeCards;
         CommunityCards _communityCards;
     public:
-        Hand(HoleCards holeCards, CommunityCards communityCards) :
-                _holeCards(std::move(holeCards)),
-                _communityCards(std::move(communityCards)) {}; //constructor
+        Hand(HoleCards holeCards, CommunityCards communityCards); //constructor
         ~Hand(); // destructor
         Hand(const Hand &hand); // copy constructor
 
 //        Hand evaluate();
+
+        std::vector<Card> getCards();
     };
 };
 

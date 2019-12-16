@@ -73,6 +73,14 @@ TEST(CardTests, LessrThanOrEquals) {
     ASSERT_FALSE(fourOfHearts1 <= fourOfDiamonds);
 }
 
+TEST(CardCollectionTests, CardCollection) {
+    Game::Card fourOfHearts1 = Game::Card(4, 'H');
+    Game::Card fourOfHearts2 = Game::Card(4, 'H');
+    Game::CardCollection();
+
+
+}
+
 
 
 
