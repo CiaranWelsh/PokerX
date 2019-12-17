@@ -3,31 +3,26 @@
 //
 
 #include <iostream>
+#include <string>
 #include "Card.h"
+#include "CardCollection.h"
 #include <algorithm> // for str::find
 #include <iterator> // for str::begin, std::End
+#include <vector>
+#include <boost/lexical_cast.hpp>
 
 namespace Game {
-
 
     Card::Card(const Card &other) {
         rank = other.rank;
         suit = other.suit;
     }
 
-    Card::~Card() {
-    }
+    Card::~Card() = default;
 
-    Card::Card(int r, char s) {
-
-        bool validRank = std::any_of(std::begin(this->ranks), std::end(this->ranks), [&](int i) { return i == r; });
-        bool validSuit = std::any_of(std::begin(this->suits), std::end(this->suits), [&](char i) { return i == s; });
-//        if (!validRank || !validSuit)
-//            throw std::invalid_argument("Invalid argument " << this->ranks);
-
+    Card::Card(int r, std::string s) {
         this->suit = s;
         this->rank = r;
-
     }
 
     Card &Card::operator=(const Card &c) {

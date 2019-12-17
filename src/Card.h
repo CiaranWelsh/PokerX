@@ -8,64 +8,42 @@
 using namespace std;
 
 #include <string>
+#include <vector>
+#include <ctime>
+#include "NumCpp/Random/generator.hpp"
 
 namespace Game {
 
-class Card {
-private:
-    int ranks[13] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
-    char suits[4] = {'S', 'H', 'D', 'H'};
-public:
-    int rank; // 1 to 13
-    char suit;
+    const std::vector<int> RANKS = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
+    const std::vector<std::string> SUITS = {"S", "H", "D", "C"};
+    const int SEED = time(0);
 
-    Card(int r, char s);
+    class Card {
+    public:
+        int rank; // 1 to 13
+        basic_string<char> suit;
 
-    ~Card();
+        Card(int r, std::string s);
 
-    Card(const Card &other); // copy constructor
-    friend std::ostream &operator<<(std::ostream &os, const Card &c);
+        ~Card();
 
-    Card &operator=(const Card &c);
+        Card(const Card &other); // copy constructor
+        friend std::ostream &operator<<(std::ostream &os, const Card &c);
 
-    bool operator>(const Card &other);
+        Card &operator=(const Card &c);
 
-    bool operator<(const Card &other);
+        bool operator>(const Card &other);
 
-    bool operator<=(const Card &other);
+        bool operator<(const Card &other);
 
-    bool operator>=(const Card &other);
+        bool operator<=(const Card &other);
 
-    bool operator==(const Card &other);
+        bool operator>=(const Card &other);
 
-    bool operator!=(const Card &other);
-};
+        bool operator==(const Card &other);
 
-class CardCollection {
-public:
-
-    ~CardCollection();
-    CardCollection();
-    CardCollection(std::vector<Card> &cards);
-    CardCollection pushBack(Card &card);
-
-//    Card(const Card &other); // copy constructor
-//    friend std::ostream &operator<<(std::ostream &os, const Card &c);
-
-//    Card &operator=(const Card &c);
-//
-//    bool operator>(const Card &other);
-//
-//    bool operator<(const Card &other);
-//
-//    bool operator<=(const Card &other);
-//
-//    bool operator>=(const Card &other);
-//
-//    bool operator==(const Card &other);
-//
-//    bool operator!=(const Card &other);
-};
+        bool operator!=(const Card &other);
+    };
 
 }
 

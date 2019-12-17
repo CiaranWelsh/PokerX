@@ -1,0 +1,15 @@
+//
+// Created by CiaranWelsh on 17/12/2019.
+//
+
+#ifndef POKERSIMULATIONSINCPP_RANDOMNUMBERGENERATOR_H
+#define POKERSIMULATIONSINCPP_RANDOMNUMBERGENERATOR_H
+
+class RandomNumberGenerator {
+public:
+    RandomNumberGenerator();
+
+};
+
+
+#endif //POKERSIMULATIONSINCPP_RANDOMNUMBERGENERATOR_H

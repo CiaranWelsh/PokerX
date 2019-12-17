@@ -17,15 +17,14 @@ Deck::Deck() {
 }
 
 vector<Card> Deck::buildDeck() {
-    int sizeOfRanks = sizeof(ranks) / sizeof(int);
-    int sizeOfSuits = sizeof(suits) / sizeof(char);
-    for (int r = 2; r < sizeOfRanks + 2; r++) {
-        for (int s = 0; s < sizeOfSuits; s++) {
-            Card card = Card(r, this->suits[s]);
-            deck.push_back(card);
+    std::vector<Card> cards;
+    for (int r = 0; r < Game::RANKS.size(); r++) {
+        for (int s = 0; s < Game::SUITS.size(); s++) {
+            Card card = Card(Game::RANKS[r], Game::SUITS[s]);
+            cards.push_back(card);
         }
     }
-    return deck;
+    return cards;
 }
 
 Deck *Deck::shuffle() {
