@@ -20,3 +20,11 @@ Deck *Deck::shuffle() {
     return this;
 }
 
+Deck::Deck() : CardCollection() {
+    _cards = buildDeck();
+};
+
+Deck::Deck(vector<Game::Card> &cards):
+    CardCollection(cards){}
+
+Deck::~Deck() = default;

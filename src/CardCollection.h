@@ -19,9 +19,11 @@ namespace Game {
 
         ~CardCollection();
 
-        CardCollection(CardCollection &other);
+        CardCollection(const CardCollection &other);
 
         explicit CardCollection(int n);
+
+        CardCollection(CardCollection &other, int n);
 
         explicit CardCollection(vector<Game::Card> &cards);
 
@@ -39,10 +41,8 @@ namespace Game {
 
         vector<Game::Card> getCards();
 
-//
         void pushBack(Game::Card &card);
 
-//
         int size();
 
         void sort();

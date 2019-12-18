@@ -13,12 +13,9 @@ using namespace Game;
 
 class Deck : public CardCollection {
 public:
-//    explicit Deck(int n): CardCollection(n){};
-    Deck(): CardCollection(){
-    this->_cards = buildDeck();
-};
-    ~Deck() = default;
-    explicit Deck(vector<Game::Card> &cards): CardCollection(cards){};
+    Deck();
+    ~Deck();
+    explicit Deck(vector<Game::Card> &cards);
     Deck * shuffle();
 };
 

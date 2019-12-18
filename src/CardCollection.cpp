@@ -14,7 +14,7 @@
 
 namespace Game {
 
-    CardCollection::CardCollection(CardCollection &other) = default;
+    CardCollection::CardCollection(const CardCollection &other) = default;
 
     CardCollection::CardCollection() = default;
 
@@ -23,6 +23,52 @@ namespace Game {
     CardCollection::CardCollection(std::vector<Card> &cards) {
         _cards = cards;
     }
+
+
+    /*
+     * Constructor that takes an int @n between 1 and 52 and
+     * returns a CardCollection of unique cards of size @n.
+     */
+    CardCollection::CardCollection(int n) {
+        // error if n not between 1 and 52
+        if (n < 1 || n > 52) {
+            throw std::invalid_argument("n should be between "
+                                        "1 and 52. Got +\"" + std::to_string(n) + "\"");
+        }
+
+        std::vector<Card> deck = CardCollection::buildDeck();
+        std::vector<Card> cards;
+        for (int i = 0; i < n; i++) {
+            nc::NdArray<int> pick_a_card = nc::random::randInt<int>(nc::Shape(1, 1), 0, deck.size());
+            Card card = deck[pick_a_card[0, 0]];
+            cards.push_back(card);
+            deck.erase(deck.begin() + pick_a_card[0, 0]);
+        }
+        this->_cards = cards;
+    }
+
+    /*
+    * Select n random cards from the other cc and create new
+    * CardCollection from it. Function also removes the selected cards
+    * from other CardCollection
+    */
+    CardCollection::CardCollection(CardCollection &other, int n) {
+        // error if n not between 1 and 52
+        if (n < 1 || n > 52) {
+            throw std::invalid_argument("n should be between "
+                                        "1 and 52. Got +\"" + std::to_string(n) + "\"");
+        }
+
+        std::vector<Card> cards;
+        for (int i = 0; i < n; i++) {
+            nc::NdArray<int> pick_a_card = nc::random::randInt<int>(nc::Shape(1, 1), 0, other.size());
+            Card card = other[pick_a_card[0, 0]];
+            cards.push_back(card);
+            other._cards.erase(other.begin() + pick_a_card[0, 0]);
+        }
+        this->_cards = cards;
+    }
+
 
     void CardCollection::add(Card &card) {
         this->_cards.push_back(card);
@@ -97,46 +143,25 @@ namespace Game {
 
     vector<Card> CardCollection::buildDeck() {
         std::vector<Card> cards;
-        for (int r = 0; r < Game::RANKS.size(); r++) {
-            for (int s = 0; s < Game::SUITS.size(); s++) {
-                Card card = Card(Game::RANKS[r], Game::SUITS[s]);
+        for (int r : Game::RANKS) {
+            for (const auto &s : Game::SUITS) {
+                Card card = Card(r, s);
                 cards.push_back(card);
             }
         }
         return cards;
     }
 
-    /*
-     * Constructor that takes an int @n between 1 and 52 and
-     * returns a CardCollection of unique cards of size @n.
-     */
-    CardCollection::CardCollection(int n) {
-        // error if n not between 1 and 52
-        if (n < 1 || n > 52) {
-            throw std::invalid_argument("n should be between "
-                                        "1 and 52. Got +\"" + std::to_string(n) + "\"");
-        }
-
-        std::vector<Card> deck = CardCollection::buildDeck();
-        std::vector<Card> cards;
-        for (int i = 0; i < n; i++) {
-            nc::NdArray<int> pick_a_card = nc::random::randInt<int>(nc::Shape(1, 1), 0, deck.size());
-            Card card = deck[pick_a_card[0, 0]];
-            cards.push_back(card);
-            deck.erase(deck.begin() + pick_a_card[0, 0]);
-        }
-        this->_cards = cards;
-    }
-
-    /*
-     * Remove top card (index 0) from deck
-     * and return it
-     */
+/*
+ * Remove top card (index 0) from deck
+ * and return it
+ */
     Card CardCollection::pop() {
         Card card = _cards[0];
         _cards.erase(_cards.begin());
         return card;
     }
+
 }
 
 

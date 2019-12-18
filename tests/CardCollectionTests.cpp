@@ -88,6 +88,20 @@ TEST(CardCollectionTests, TestPop) {
 }
 
 
+TEST(CardCollectionTests, TestCardCollectionFromAnotherCardCollection) {
+    Card card1(6, "C");
+    Card card2(7, "C");
+    Card card3(8, "C");
+    Card card4(9, "C");
+    Card card5(10, "C");
+    std::vector<Card> cards {card1, card2, card3, card4, card5};
+    CardCollection cc(cards);
+    CardCollection cc2(cc, 2);
+    ASSERT_TRUE(cc.size() == 3);
+    ASSERT_TRUE(cc2.size() == 2);
+}
+
+
 
 
 
