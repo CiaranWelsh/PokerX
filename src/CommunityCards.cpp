@@ -2,6 +2,7 @@
 // Created by CiaranWelsh on 18/12/2019.
 //
 
+#include <stdexcept>
 #include "CommunityCards.h"
 
 
@@ -32,7 +33,14 @@ namespace Game {
 
     }
 
+    CommunityCards::CommunityCards(CardCollection container) : CardCollection(container){}
+
+    CommunityCards::CommunityCards(std::vector<Card> &container) : CardCollection(container){};
+
     CommunityCards::CommunityCards() = default;
 
     CommunityCards::~CommunityCards() = default;
+
+
+
 }

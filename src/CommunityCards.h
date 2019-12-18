@@ -13,6 +13,10 @@ namespace Game {
     public:
         CommunityCards();
 
+        explicit CommunityCards(vector<Card> &container);
+
+        explicit CommunityCards(CardCollection container);
+
         ~CommunityCards();
 
         CommunityCards(Game::Card &flop1, Game::Card &flop2, Game::Card &flop3);

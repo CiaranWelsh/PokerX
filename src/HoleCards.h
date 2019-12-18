@@ -6,11 +6,17 @@
 #define POKERSIMULATIONSINCPP_HOLECARDS_H
 
 #include "CardCollection.h"
+
 namespace Game {
     class HoleCards : public Game::CardCollection {
     public:
         HoleCards();
+
         ~HoleCards();
+
+        explicit HoleCards(vector<Card> &container);
+
+        explicit HoleCards(CardCollection container);
 
         HoleCards(Card &card1, Card &card2);
 

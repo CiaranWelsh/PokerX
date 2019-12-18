@@ -21,5 +21,9 @@ namespace Game {
         this->_cards = holeCards._cards;
     }
 
+    HoleCards::HoleCards(vector<Card> &container) : CardCollection(container) {}
+
+    HoleCards::HoleCards(CardCollection container) {}
+
 
 }

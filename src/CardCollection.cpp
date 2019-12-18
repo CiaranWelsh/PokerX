@@ -165,7 +165,7 @@ namespace Game {
         }
         // then remove cards. Must be done this way to preserve ordering
         // that we expect.
-        for (int i=0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             _cards.erase(_cards.begin());
 
         }
@@ -183,6 +183,9 @@ namespace Game {
     }
 
 }
+
+
+
 
 
 

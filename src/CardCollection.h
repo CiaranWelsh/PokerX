@@ -58,6 +58,8 @@ namespace Game {
         CardCollection pop(int n);
 
         Card pop();
+
+
     };
 }
 
