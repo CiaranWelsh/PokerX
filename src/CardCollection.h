@@ -55,6 +55,8 @@ namespace Game {
 
         static vector<Card> buildDeck();
 
+        CardCollection pop(int n);
+
         Card pop();
     };
 }

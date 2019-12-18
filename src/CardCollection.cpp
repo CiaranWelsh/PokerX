@@ -156,6 +156,26 @@ namespace Game {
  * Remove top card (index 0) from deck
  * and return it
  */
+    CardCollection CardCollection::pop(int n) {
+        CardCollection cc;
+        // add cards to collection
+        for (int i = 0; i < n; i++) {
+            Card card = _cards[i];
+            cc.add(card);
+        }
+        // then remove cards. Must be done this way to preserve ordering
+        // that we expect.
+        for (int i=0; i < n; i++){
+            _cards.erase(_cards.begin());
+
+        }
+        return cc;
+    }
+
+/*
+ * Remove top card (index 0) from deck
+ * and return it
+ */
     Card CardCollection::pop() {
         Card card = _cards[0];
         _cards.erase(_cards.begin());

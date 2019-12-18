@@ -87,6 +87,16 @@ TEST(CardCollectionTests, TestPop) {
     ASSERT_TRUE(new_card == card1);
 }
 
+TEST(CardCollectionTests, TestPopWithIntArg) {
+    Card card1(6, "C");
+    Card card2(7, "C");
+    Card card3(8, "C");
+    std::vector<Card> cards {card1, card2, card3};
+    CardCollection cc(cards);
+    CardCollection new_card = cc.pop(2);
+    ASSERT_TRUE(new_card[1] == card2);
+}
+
 
 TEST(CardCollectionTests, TestCardCollectionFromAnotherCardCollection) {
     Card card1(6, "C");
