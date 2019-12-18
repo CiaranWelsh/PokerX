@@ -117,7 +117,6 @@ namespace Game {
                                         "1 and 52. Got +\"" + std::to_string(n) + "\"");
         }
 
-
         std::vector<Card> deck = CardCollection::buildDeck();
         std::vector<Card> cards;
         for (int i = 0; i < n; i++) {
@@ -127,6 +126,16 @@ namespace Game {
             deck.erase(deck.begin() + pick_a_card[0, 0]);
         }
         this->_cards = cards;
+    }
+
+    /*
+     * Remove top card (index 0) from deck
+     * and return it
+     */
+    Card CardCollection::pop() {
+        Card card = _cards[0];
+        _cards.erase(_cards.begin());
+        return card;
     }
 }
 

@@ -22,46 +22,42 @@ TEST(CardCollectionTests, NoArgConstructor) {
 }
 
 TEST(CardCollectionTests, VectorArgConstructor) {
-    Deck deck = Deck();
-    std::vector<Card> cards;
-    for (int i = 0; i < 4; i++)
-        cards.push_back(deck.pop());
+    Card card1(10, "S");
+    Card card2(4, "S");
+    std::vector<Card> cards{card1, card2};
     CardCollection cc(cards);
-    int expected = 4;
+    int expected = 2;
     int actual = cc.size();
     ASSERT_EQ(expected, actual);
 }
 
 TEST(CardCollectionTests, AddCard) {
-    Deck deck = Deck();
-    std::vector<Card> cards;
-    for (int i = 0; i < 4; i++)
-        cards.push_back(deck.pop());
+    Card card1(10, "S");
+    Card card2(4, "S");
+    std::vector<Card> cards{card1, card2};
     CardCollection cc(cards);
     Card card(5, "D");
     cc.add(card);
-    int expected = 5;
+    int expected = 3;
     int actual = cc.size();
     ASSERT_EQ(expected, actual);
 }
 
 TEST(CardCollectionTests, AddCardsFromVector) {
-    Deck deck = Deck();
-    std::vector<Card> cards;
-    for (int i = 0; i < 4; i++)
-        cards.push_back(deck.pop());
+    Card card1(10, "S");
+    Card card2(4, "S");
+    std::vector<Card> cards{card1, card2};
     CardCollection cc(cards);
-
-    std::vector<Card> new_cards;
-    for (int i = 0; i < 4; i++)
-        new_cards.push_back(deck.pop());
+    Card card3(11, "S");
+    Card card4(5, "S");
+    std::vector<Card> new_cards{card3, card4};
     cc.add(new_cards);
-    int expected = 8;
+    int expected = 4;
     int actual = cc.size();
     ASSERT_EQ(expected, actual);
 }
 
-TEST(CardCollectionTests, EqualityTest){
+TEST(CardCollectionTests, EqualityTest) {
     CardCollection c1;
     CardCollection c2;
     Card card1(5, "H");
@@ -72,14 +68,39 @@ TEST(CardCollectionTests, EqualityTest){
 }
 
 
-TEST(CardCollectionTests, IterationTests2) {
+TEST(CardCollectionTests, ConsstructorFromInt) {
     // For any random operations you need to
     //  set the seed in a main block.
     nc::random::seed(time(NULL));
-
     CardCollection cards1(4);
     CardCollection cards2(4);
-
-    bool ans = cards1 == cards2;
     ASSERT_FALSE(cards1 == cards2);
 }
+
+
+TEST(CardCollectionTests, TestPop) {
+    Card card1(6, "C");
+    Card card2(7, "C");
+    std::vector<Card> cards {card1, card2};
+    CardCollection cc(cards);
+    Card new_card = cc.pop();
+    ASSERT_TRUE(new_card == card1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

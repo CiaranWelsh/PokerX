@@ -7,27 +7,19 @@
 
 #include "Card.h"
 #include <vector>
-
+#include "CardCollection.h"
 using namespace Game;
 
 
-class Deck {
-private:
-
-    int ranks[13] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
-    char suits[4] = {'S', 'H', 'D', 'H'};
-    std::vector<Game::Card> deck;
-    vector <Card> buildDeck();
+class Deck : public CardCollection {
 public:
-    Deck();
-    Deck* shuffle();
-    friend std::ostream &operator<<(std::ostream &os, const Deck &d);
-    int size();
-    Card pop();
-    std::vector<Card>::iterator end();
-    std::vector<Card>::iterator  begin();
-
-    Card& operator[](int index);
+//    explicit Deck(int n): CardCollection(n){};
+    Deck(): CardCollection(){
+    this->_cards = buildDeck();
+};
+    ~Deck() = default;
+    explicit Deck(vector<Game::Card> &cards): CardCollection(cards){};
+    Deck * shuffle();
 };
 
 

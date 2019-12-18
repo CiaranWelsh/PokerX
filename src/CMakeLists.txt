@@ -6,7 +6,7 @@ add_library(${BINARY}_lib STATIC
         Hand.h Hand.cpp
         Deck.h Deck.cpp
         CardCollection.h CardCollection.cpp
-        RandomNumberGenerator.cpp RandomNumberGenerator.h)
+        )
 
 
 

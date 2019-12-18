@@ -11,9 +11,9 @@
 namespace Game {
 
     class CardCollection {
-    private:
-        vector<Game::Card> _cards;
 
+    protected:
+        vector<Game::Card> _cards;
     public:
         CardCollection();
 
@@ -54,6 +54,8 @@ namespace Game {
         bool operator!=(const CardCollection &other);
 
         static vector<Card> buildDeck();
+
+        Card pop();
     };
 }
 
