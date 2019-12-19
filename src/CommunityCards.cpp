@@ -6,7 +6,7 @@
 #include "CommunityCards.h"
 
 
-namespace Game {
+namespace cards {
 
 
     CommunityCards::CommunityCards(Card &flop1, Card &flop2, Card &flop3) {

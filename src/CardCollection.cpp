@@ -12,7 +12,7 @@
 #include <ctime>
 #include "Card.h"
 
-namespace Game {
+namespace cards {
 
     CardCollection::CardCollection(const CardCollection &other) = default;
 
@@ -81,6 +81,8 @@ namespace Game {
     }
 
     std::ostream &operator<<(std::ostream &os, const CardCollection &cards) {
+        if (cards.empty())
+            return os << "";
         os << "[";
         for (int i = 0; i < cards._cards.size(); i++) {
             if (i == cards._cards.size() - 1)
@@ -143,8 +145,8 @@ namespace Game {
 
     vector<Card> CardCollection::buildDeck() {
         std::vector<Card> cards;
-        for (int r : Game::RANKS) {
-            for (const auto &s : Game::SUITS) {
+        for (int r : cards::RANKS) {
+            for (const auto &s : cards::SUITS) {
                 Card card = Card(r, s);
                 cards.push_back(card);
             }
@@ -181,6 +183,28 @@ namespace Game {
         _cards.erase(_cards.begin());
         return card;
     }
+
+    cards::CardCollection CardCollection::operator+(CardCollection &other) {
+        for (Card card : other._cards)
+            _cards.push_back(card);
+        return cards::CardCollection(_cards);
+    }
+
+    cards::CardCollection CardCollection::operator+=(CardCollection &other) {
+        return *this + other;
+    }
+
+    bool CardCollection::empty() const {
+        return _cards.empty();
+    }
+
+    CardCollection *CardCollection::shuffle() {
+    // obtain a time-based seed:
+    unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
+    std::default_random_engine e(seed);
+    std::shuffle(std::begin(_cards), std::end(_cards), e);
+    return this;
+}
 
 }
 

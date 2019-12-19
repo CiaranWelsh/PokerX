@@ -7,8 +7,8 @@
 
 #include "CardCollection.h"
 
-namespace Game {
-    class HoleCards : public Game::CardCollection {
+namespace cards {
+    class HoleCards : public cards::CardCollection {
     public:
         HoleCards();
 

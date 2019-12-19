@@ -6,7 +6,7 @@
 
 using namespace std;
 
-namespace Game {
+namespace cards {
 
     HoleCards::HoleCards() : CardCollection() {};
 
@@ -23,7 +23,7 @@ namespace Game {
 
     HoleCards::HoleCards(vector<Card> &container) : CardCollection(container) {}
 
-    HoleCards::HoleCards(CardCollection container) {}
+    HoleCards::HoleCards(CardCollection container) : CardCollection(container){}
 
 
 }

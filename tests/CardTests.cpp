@@ -7,7 +7,7 @@
 #include "Deck.h"
 #include "CardCollection.h"
 
-using namespace Game;
+using namespace cards;
 
 TEST(CardTests, SuitAttribute) {
     Card fourOfHearts = Card(4, "H");

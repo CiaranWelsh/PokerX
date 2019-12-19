@@ -12,22 +12,44 @@
 #include "CommunityCards.h"
 #include "HoleCards.h"
 
+using namespace cards;
 
-namespace Game {
+namespace eval {
 
     class Hand {
-    private:
+    protected:
         HoleCards _holeCards;
         CommunityCards _communityCards;
+        CardCollection _cards = _holeCards + _communityCards;
+    private:
+        friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
+
     public:
-        Hand(HoleCards &holeCards, CommunityCards &communityCards); //constructor
+        Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
         ~Hand(); // destructor
+
         Hand(const Hand &hand); // copy constructor
 
-//        Hand evaluate();
+        virtual CardCollection best5() = 0;
 
-        std::vector<Card> getCards();
+        virtual bool isa() = 0;
+
+        CommunityCards getCards();
+
+        void shuffle();
     };
+
+    class HighCard : public Hand{
+    public:
+        HighCard(HoleCards &holeCards, CommunityCards &communityCards);
+
+        CardCollection best5() override;
+
+        bool isa() override;
+
+    };
+
+
 };
 
 #endif //POKERSIMULATIONSINCPP_HAND_H

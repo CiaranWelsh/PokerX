@@ -10,7 +10,7 @@
 #include <boost/date_time/posix_time/posix_time.hpp>
 #include <chrono>
 
-using namespace Game;
+using namespace cards;
 TEST(CardCollectionTests, NoArgConstructor) {
     Card fourOfHearts1 = Card(4, "H");
     CardCollection cards;
@@ -81,7 +81,7 @@ TEST(CardCollectionTests, ConsstructorFromInt) {
 TEST(CardCollectionTests, TestPop) {
     Card card1(6, "C");
     Card card2(7, "C");
-    std::vector<Card> cards {card1, card2};
+    std::vector<Card> cards{card1, card2};
     CardCollection cc(cards);
     Card new_card = cc.pop();
     ASSERT_TRUE(new_card == card1);
@@ -91,7 +91,7 @@ TEST(CardCollectionTests, TestPopWithIntArg) {
     Card card1(6, "C");
     Card card2(7, "C");
     Card card3(8, "C");
-    std::vector<Card> cards {card1, card2, card3};
+    std::vector<Card> cards{card1, card2, card3};
     CardCollection cc(cards);
     CardCollection new_card = cc.pop(2);
     ASSERT_TRUE(new_card[1] == card2);
@@ -104,11 +104,43 @@ TEST(CardCollectionTests, TestCardCollectionFromAnotherCardCollection) {
     Card card3(8, "C");
     Card card4(9, "C");
     Card card5(10, "C");
-    std::vector<Card> cards {card1, card2, card3, card4, card5};
+    std::vector<Card> cards{card1, card2, card3, card4, card5};
     CardCollection cc(cards);
     CardCollection cc2(cc, 2);
     ASSERT_TRUE(cc.size() == 3);
     ASSERT_TRUE(cc2.size() == 2);
+}
+
+
+TEST(CardCollectionTests, TestOverloadingPlus) {
+    Card card1(6, "C");
+    Card card2(7, "C");
+    Card card3(8, "C");
+    Card card4(9, "C");
+    Card card5(10, "C");
+    std::vector<Card> cards1{card1, card2};
+    std::vector<Card> cards2{card3, card4, card5};
+    CardCollection cc(cards1);
+    CardCollection cc2(cards2);
+    cc = cc + cc2;
+    ASSERT_TRUE(cc.size() == 5);
+    cc += cc2;
+    ASSERT_TRUE(cc.size() == 8);
+}
+
+
+TEST(CardCollectionTests, TestSort) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(8, "H");
+    Card card4(9, "C");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    std::vector<Card> cards2{card5, card4, card3, card2, card1};
+    CardCollection cc(cards2);
+    cc.sort();
+    CardCollection cc2(cards1);
+    ASSERT_TRUE(cc2 == cc);
 }
 
 

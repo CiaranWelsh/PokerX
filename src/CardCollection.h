@@ -8,12 +8,12 @@
 #include <vector>
 #include "Card.h"
 
-namespace Game {
+namespace cards {
 
     class CardCollection {
 
     protected:
-        vector<Game::Card> _cards;
+        vector<cards::Card> _cards;
     public:
         CardCollection();
 
@@ -25,23 +25,27 @@ namespace Game {
 
         CardCollection(CardCollection &other, int n);
 
-        explicit CardCollection(vector<Game::Card> &cards);
+        explicit CardCollection(vector<cards::Card> &cards);
 
-        void add(Game::Card &card);
+        void add(cards::Card &card);
 
-        void add(vector<Game::Card> &cards);
+        void add(vector<cards::Card> &cards);
 
-        vector<Game::Card>::iterator end();
+        vector<cards::Card>::iterator end();
 
-        vector<Game::Card>::iterator begin();
+        vector<cards::Card>::iterator begin();
 
         friend ostream &operator<<(ostream &os, const CardCollection &c);
 
-        Game::Card operator[](int index);
+        cards::Card operator[](int index);
 
-        vector<Game::Card> getCards();
+        cards::CardCollection operator+(CardCollection &other);
 
-        void pushBack(Game::Card &card);
+        cards::CardCollection operator+=(CardCollection &other);
+
+        vector<cards::Card> getCards();
+
+        void pushBack(cards::Card &card);
 
         int size();
 
@@ -58,6 +62,10 @@ namespace Game {
         CardCollection pop(int n);
 
         Card pop();
+
+        bool empty() const;
+
+        CardCollection *shuffle();
 
 
     };

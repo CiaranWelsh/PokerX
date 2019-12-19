@@ -8,8 +8,8 @@
 #include "CardCollection.h"
 #include "Card.h"
 
-namespace Game {
-    class CommunityCards : public Game::CardCollection {
+namespace cards {
+    class CommunityCards : public cards::CardCollection {
     public:
         CommunityCards();
 
@@ -19,11 +19,11 @@ namespace Game {
 
         ~CommunityCards();
 
-        CommunityCards(Game::Card &flop1, Game::Card &flop2, Game::Card &flop3);
+        CommunityCards(cards::Card &flop1, cards::Card &flop2, cards::Card &flop3);
 
-        CommunityCards(Game::Card &flop1, Game::Card &flop2, Game::Card &flop3, Game::Card &turn);
+        CommunityCards(cards::Card &flop1, cards::Card &flop2, cards::Card &flop3, cards::Card &turn);
 
-        CommunityCards(Game::Card &flop1, Game::Card &flop2, Game::Card &flop3, Game::Card &turn, Game::Card &river);
+        CommunityCards(cards::Card &flop1, cards::Card &flop2, cards::Card &flop3, cards::Card &turn, cards::Card &river);
 
     };
 }

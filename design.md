@@ -2,9 +2,9 @@
 Design
 ======
 Namespaces Needed
-- Game
+- cards
     - Hand evaluator
-    - Game play
+    - cards play
 - Players
     - After the game is ready to be played, I'll be in a position to write 
     RL players. 

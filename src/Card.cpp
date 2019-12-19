@@ -11,7 +11,7 @@
 #include <vector>
 #include <boost/lexical_cast.hpp>
 
-namespace Game {
+namespace cards {
 
     Card::Card(const Card &other) {
         rank = other.rank;
@@ -38,33 +38,33 @@ namespace Game {
         return out;
     }
 
-    bool Game::Card::operator<(const Card &other) {
+    bool cards::Card::operator<(const Card &other) {
         return this->rank < other.rank;
     }
 
-    bool Game::Card::operator<=(const Card &other) {
+    bool cards::Card::operator<=(const Card &other) {
         if (this->rank == other.rank)
             return this->suit == other.suit;
         else
             return this->rank < other.rank;
     }
 
-    bool Game::Card::operator>(const Card &other) {
+    bool cards::Card::operator>(const Card &other) {
         return this->rank > other.rank;
     }
 
-    bool Game::Card::operator>=(const Card &other) {
+    bool cards::Card::operator>=(const Card &other) {
         if (this->rank == other.rank)
             return this->suit == other.suit;
         else
             return this->rank > other.rank;
     }
 
-    bool Game::Card::operator==(const Card &other) {
+    bool cards::Card::operator==(const Card &other) {
         return (this->rank == other.rank) && (this->suit == other.suit);
     }
 
-    bool Game::Card::operator!=(const Card &other) {
+    bool cards::Card::operator!=(const Card &other) {
         return !(this->operator==(other));
     }
 

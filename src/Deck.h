@@ -8,15 +8,14 @@
 #include "Card.h"
 #include <vector>
 #include "CardCollection.h"
-using namespace Game;
+using namespace cards;
 
 
 class Deck : public CardCollection {
 public:
     Deck();
     ~Deck();
-    explicit Deck(vector<Game::Card> &cards);
-    Deck * shuffle();
+    explicit Deck(vector<cards::Card> &cards);
 };
 
 

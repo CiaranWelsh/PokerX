@@ -12,7 +12,7 @@ using namespace std;
 #include <ctime>
 #include "NumCpp/Random/generator.hpp"
 
-namespace Game {
+namespace cards {
 
     const std::vector<int> RANKS = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
     const std::vector<std::string> SUITS = {"S", "H", "D", "C"};
