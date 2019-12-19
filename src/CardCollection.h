@@ -15,6 +15,22 @@ namespace cards {
     protected:
         vector<cards::Card> _cards;
     public:
+        friend ostream &operator<<(ostream &os, const CardCollection &c);
+
+        cards::Card operator[](int index);
+
+        CardCollection &operator()(unsigned int start, unsigned int end);
+
+        cards::CardCollection operator+(CardCollection &other);
+
+        cards::CardCollection operator+=(CardCollection &other);
+
+        CardCollection &operator=(const CardCollection &c);
+
+        bool operator==(const CardCollection &other);
+
+        bool operator!=(const CardCollection &other);
+
         CardCollection();
 
         ~CardCollection();
@@ -35,14 +51,6 @@ namespace cards {
 
         vector<cards::Card>::iterator begin();
 
-        friend ostream &operator<<(ostream &os, const CardCollection &c);
-
-        cards::Card operator[](int index);
-
-        cards::CardCollection operator+(CardCollection &other);
-
-        cards::CardCollection operator+=(CardCollection &other);
-
         vector<cards::Card> getCards();
 
         void pushBack(cards::Card &card);
@@ -50,12 +58,6 @@ namespace cards {
         int size();
 
         void sort();
-
-        CardCollection &operator=(const CardCollection &c);
-
-        bool operator==(const CardCollection &other);
-
-        bool operator!=(const CardCollection &other);
 
         static vector<Card> buildDeck();
 

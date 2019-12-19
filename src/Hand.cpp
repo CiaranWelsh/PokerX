@@ -7,12 +7,15 @@
 #include "iostream"
 #include "CommunityCards.h"
 #include "HoleCards.h"
+#include "errors.h"
 
 using namespace std;
 
 namespace eval {
 
-
+    /*
+     * Hand implementation
+     */
     Hand::Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) {
         _holeCards = holeCards;
         _communityCards = communityCards;
@@ -42,18 +45,31 @@ namespace eval {
         _cards.shuffle();
     }
 
-    HighCard::HighCard(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
+    CardCollection Hand::best5() {
+        throw errors::NotImplementedException();
+    }
 
-    CardCollection HighCard::best5() {
-//        return CardCollection(_cards[0, 5]);
-//    }
+    bool Hand::isa(){
+        throw errors::NotImplementedException();
+    }
+
 
     /*
-     * every hand is a high card hand
+     *
      */
-    bool HighCard::isa() {
-        return true;
-    }
+
+//    HighCard::HighCard(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
+//
+//    CardCollection HighCard::best5() {
+//        return _cards(0, 5);
+//    }
+//
+//    /*
+//     * every hand is a high card hand
+//     */
+//    bool HighCard::isa() {
+//        return true;
+//    }
 }
 
 

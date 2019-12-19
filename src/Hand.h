@@ -16,7 +16,15 @@ using namespace cards;
 
 namespace eval {
 
-    class Hand {
+    class HandInterface{
+    public:
+        virtual CardCollection best5() = 0;
+
+        virtual bool isa() = 0;
+
+    };
+
+    class Hand : HandInterface {
     protected:
         HoleCards _holeCards;
         CommunityCards _communityCards;
@@ -30,16 +38,16 @@ namespace eval {
 
         Hand(const Hand &hand); // copy constructor
 
-        virtual CardCollection best5() = 0;
-
-        virtual bool isa() = 0;
-
         CommunityCards getCards();
 
         void shuffle();
+
+        CardCollection best5() override;
+
+        bool isa() override;
     };
 
-    class HighCard : public Hand{
+    class HighCard : public HandInterface {
     public:
         HighCard(HoleCards &holeCards, CommunityCards &communityCards);
 

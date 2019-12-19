@@ -16,3 +16,4 @@ TEST(HoleCardTests, HoleCardTests) {
     Card expected(2, "S");
     ASSERT_TRUE(card1 == expected);
 }
+

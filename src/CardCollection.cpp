@@ -10,7 +10,10 @@
 #include <array>
 #include <chrono>
 #include <ctime>
+#include <valarray>
 #include "Card.h"
+#include <valarray>
+
 
 namespace cards {
 
@@ -104,6 +107,10 @@ namespace cards {
     Card CardCollection::operator[](int index) {
         return _cards[index];
     }
+
+//    Card CardCollection::operator[](std::slice slice) {
+//        return _cards[_cards.begin() + from, _cards.begin() + from + to];
+//    }
 
     bool CardCollection::operator==(const CardCollection &other) {
         if (this->_cards.size() != other._cards.size()) {
@@ -199,12 +206,18 @@ namespace cards {
     }
 
     CardCollection *CardCollection::shuffle() {
-    // obtain a time-based seed:
-    unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
-    std::default_random_engine e(seed);
-    std::shuffle(std::begin(_cards), std::end(_cards), e);
-    return this;
-}
+        // obtain a time-based seed:
+        unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
+        std::default_random_engine e(seed);
+        std::shuffle(std::begin(_cards), std::end(_cards), e);
+        return this;
+    }
+
+    CardCollection &CardCollection::operator()(unsigned int start, unsigned int end) {
+        std::vector<Card> sliced = std::vector<Card>(_cards.begin() + start, _cards.begin() + start + end);
+        this->_cards = sliced;
+        return *this;
+    }
 
 }
 
