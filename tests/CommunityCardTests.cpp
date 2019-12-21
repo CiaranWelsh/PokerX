@@ -2,9 +2,9 @@
 // Created by CiaranWelsh on 18/12/2019.
 //
 #include "gtest/gtest.h"
-#include "Card.h"
-#include "Hand.h"
-#include "Deck.h"
+#include "cards/Card.h"
+#include "eval/Hand.h"
+#include "cards/Deck.h"
 
 
 TEST(CommCardTests, CommCardsTests) {

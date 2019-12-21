@@ -2,9 +2,9 @@
 // Created by CiaranWelsh on 16/12/2019.
 //
 #include "gtest/gtest.h"
-#include "Card.h"
-#include "Deck.h"
-#include "CardCollection.h"
+#include "cards/Card.h"
+#include "cards/Deck.h"
+#include "cards/CardCollection.h"
 
 #include <boost/random/uniform_int.hpp>
 #include <boost/date_time/posix_time/posix_time.hpp>
@@ -141,6 +141,35 @@ TEST(CardCollectionTests, TestSort) {
     cc.sort();
     CardCollection cc2(cards1);
     ASSERT_TRUE(cc2 == cc);
+}
+
+
+TEST(CardCollectionTests, TestGetSuits) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(8, "H");
+    Card card4(9, "C");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc(cards1);
+    std::vector<int> ranks = cc.getRanks();
+    std::vector<int> expected = {6, 7, 8, 9, 10};
+    ASSERT_TRUE(expected == ranks);
+}
+
+
+
+TEST(CardCollectionTests, TestGetUniqueRanks) {
+    Card card1(6, "D");
+    Card card2(6, "C");
+    Card card3(6, "H");
+    Card card4(6, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc(cards1);
+    std::vector<int> unique_ranks = cc.getUniqueRanks();
+    std::vector<int> expected = {6, 10};
+    ASSERT_TRUE(expected == unique_ranks);
 }
 
 

@@ -2,10 +2,10 @@
 // Created by CiaranWelsh on 19/12/2019.
 //
 
-#include <Evaluator.h>
-#include "Deck.h"
-#include "Hand.h"
-#include "Card.h"
+#include <eval/Evaluator.h>
+#include "cards/Deck.h"
+#include "eval/Hand.h"
+#include "cards/Card.h"
 #include "gtest/gtest.h"
 
 using namespace eval;
@@ -76,7 +76,7 @@ protected:
     Card kingOfDiamonds = Card(13, "D");
     Card aceOfDiamonds = Card(14, "D");
 
-    eval::Hand highCard1 = createHand(
+    Hand highCard1 = createHand(
             twoOfClubs,
             fourOfDiamonds,
             sixOfHearts,
@@ -85,12 +85,34 @@ protected:
             aceOfClubs,
             eightOfClubs
     );
+    Hand pair1 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            sixOfHearts,
+            sevenOfClubs,
+            tenOfDiamonds,
+            aceOfClubs,
+            eightOfClubs
+    );
 };
 
-TEST_F(EvaluatorTests, t1){
-    Evaluator evaluator;
-    evaluator.evaluate(highCard1);
+TEST_F(EvaluatorTests, t2) {
+    Hand hand = highCard1;
+    const unique_ptr<Hand> &x = hand.evaluate();
+    std::string expected = "[Card(2C), Card(4D), Card(6H), Card(7C), Card(8C)]";
+    ostringstream actual;
+    actual << (*x).best5();
+    ASSERT_EQ(expected, actual.str());
+}
 
+TEST_F(EvaluatorTests, t3) {
+    Hand hand = pair1;
+    const unique_ptr<Hand> &x = hand.evaluate();
+    std::string expected = "[Card(2C), Card(4D), Card(6H), Card(7C), Card(8C)]";
+    ostringstream actual;
+    actual << (*x).best5();
+    cout << actual.str() << endl;
+//    ASSERT_EQ(expected, actual.str());
 }
 
 

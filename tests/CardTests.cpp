@@ -3,9 +3,9 @@
 //
 
 #include "gtest/gtest.h"
-#include "Card.h"
-#include "Deck.h"
-#include "CardCollection.h"
+#include "cards/Card.h"
+#include "cards/Deck.h"
+#include "cards/CardCollection.h"
 
 using namespace cards;
 

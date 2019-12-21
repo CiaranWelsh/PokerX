@@ -3,9 +3,9 @@
 //
 
 #include "gtest/gtest.h"
-#include "Card.h"
-#include "Hand.h"
-#include "Deck.h"
+#include "cards/Card.h"
+#include "eval/Hand.h"
+#include "cards/Deck.h"
 
 
 TEST(HoleCardTests, HoleCardTests) {

@@ -1,0 +1,9 @@
+file(GLOB HEADERS_OPTIMIZATION optimization/*.h)
+file(GLOB SOURCES_OPTIMIZATION optimization/*.cpp)
+
+# create source group for IDEs
+source_group(optimization FILES ${SOURCES_OPTIMIZATION} ${HEADERS_OPTIMIZATION})
+
+# add files to main COPASI sources
+set(COPASI_SOURCES ${COPASI_SOURCES} ${SOURCES_OPTIMIZATION})
+set(COPASI_HEADERS ${COPASI_HEADERS} ${HEADERS_OPTIMIZATION})

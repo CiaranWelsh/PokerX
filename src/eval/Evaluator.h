@@ -8,10 +8,12 @@
 #include <vector>
 #include "Hand.h"
 
+//need to figure out how to implement a factory design for hand objects. I'll have a single method or object
+// in which the user interacts with.
 namespace eval {
     class Evaluator {
     private:
-        pass
+
     public:
         Evaluator() = default;
 
