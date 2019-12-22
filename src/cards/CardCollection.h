@@ -75,6 +75,8 @@ namespace cards {
 
 
         vector<int> getUniqueRanks();
+
+        vector<std::string> getUniqueSuits();
     };
 }
 

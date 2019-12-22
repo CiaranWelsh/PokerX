@@ -245,6 +245,14 @@ namespace cards {
         return ranks;
     }
 
+    vector<std::string> CardCollection::getUniqueSuits() {
+        vector<std::string> suits = this->getSuits();
+        vector<std::string>::iterator ip;
+        ip = std::unique(suits.begin(), suits.begin() + suits.size());
+        suits.resize(std::distance(suits.begin(), ip));
+        return suits;
+    }
+
 }
 
 

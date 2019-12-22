@@ -108,10 +108,12 @@ TEST_F(EvaluatorTests, t2) {
 TEST_F(EvaluatorTests, t3) {
     Hand hand = pair1;
     const unique_ptr<Hand> &x = hand.evaluate();
-    std::string expected = "[Card(2C), Card(4D), Card(6H), Card(7C), Card(8C)]";
-    ostringstream actual;
-    actual << (*x).best5();
-    cout << actual.str() << endl;
+    cout << (*x).isa();
+    cout << (*x).best5();
+//    std::string expected = "[Card(2C), Card(4D), Card(6H), Card(7C), Card(8C)]";
+//    ostringstream actual;
+//    actual << (*x).best5();
+//    cout << actual.str() << endl;
 //    ASSERT_EQ(expected, actual.str());
 }
 

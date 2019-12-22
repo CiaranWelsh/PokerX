@@ -8,7 +8,10 @@ add_library(${BINARY}_lib STATIC
         cards/CardCollection.h cards/CardCollection.cpp
         cards/HoleCards.h cards/HoleCards.cpp
         cards/CommunityCards.h cards/CommunityCards.cpp
-        eval/Evaluator.cpp eval/Evaluator.h Errors.h)
+        eval/Evaluator.cpp eval/Evaluator.h
+        Errors.h
+        utils/Counter.h
+        )
 
 
 

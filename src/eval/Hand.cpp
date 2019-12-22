@@ -122,13 +122,15 @@ namespace eval {
     }
 
     CardCollection Pair::best5() {
+        if (!isa())
+            return _cards(0, 5);
+        cout << _cards<<endl;
         return CardCollection();
     }
 
     bool Pair::isa() {
-        std::vector<int> ranks = _cards.getRanks();
-        
-        return false;
+        std::vector<int> ranks = _cards.getUniqueRanks();
+        return ranks.size() == 6;
     }
 
     Pair::Pair(const Hand &hand) : Hand(hand) {

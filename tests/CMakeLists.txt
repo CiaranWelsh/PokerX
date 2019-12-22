@@ -6,6 +6,7 @@ add_executable(${BINARY} main.cpp
         CommunityCardTests.cpp
         HoleCardTests.cpp
         EvaluatorTests.cpp
+        CounterTests.cpp
         )
 
 add_test(NAME ${BINARY} COMMAND ${BINARY})
