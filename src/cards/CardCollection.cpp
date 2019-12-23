@@ -82,6 +82,11 @@ namespace cards {
             this->_cards.push_back(c);
         }
     }
+    void CardCollection::add(CardCollection cards) {
+        for (const Card &c : cards) {
+            this->_cards.push_back(c);
+        }
+    }
 
     std::ostream &operator<<(std::ostream &os, const CardCollection &cards) {
         if (cards.empty())
@@ -192,7 +197,7 @@ namespace cards {
     }
 
     cards::CardCollection CardCollection::operator+(CardCollection &other) {
-        for (Card card : other._cards)
+        for (const Card& card : other._cards)
             _cards.push_back(card);
         return cards::CardCollection(_cards);
     }
@@ -213,9 +218,10 @@ namespace cards {
         return this;
     }
 
-    CardCollection &CardCollection::operator()(unsigned int start, unsigned int end) {
-        std::vector<Card> sliced = std::vector<Card>(_cards.begin() + start, _cards.begin() + start + end);
-        this->_cards = sliced;
+    CardCollection CardCollection::operator()(unsigned int start, unsigned int end) {
+        std::vector<Card> sliced = std::vector<Card>(_cards.begin() + start, _cards.begin() + end);
+        cout << sliced.size() << endl;
+        _cards = sliced;
         return *this;
     }
 
@@ -251,6 +257,18 @@ namespace cards {
         ip = std::unique(suits.begin(), suits.begin() + suits.size());
         suits.resize(std::distance(suits.begin(), ip));
         return suits;
+    }
+
+    void CardCollection::erase(int index) {
+        _cards.erase(_cards.begin()+index);
+    }
+
+    reverse_iterator<vector<Card>::iterator> CardCollection::rend() {
+        return _cards.rend();
+    }
+
+    reverse_iterator<vector<Card>::iterator> CardCollection::rbegin(){
+        return _cards.rbegin();
     }
 
 }

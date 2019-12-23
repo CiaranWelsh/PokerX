@@ -20,7 +20,7 @@ namespace eval {
 
     class HandInterface {
     public:
-        virtual CardCollection best5() = 0;
+        virtual CardCollection best5(CardCollection cards) = 0;
 
         virtual bool isa() = 0;
 
@@ -45,11 +45,13 @@ namespace eval {
 
         void shuffle();
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
         std::unique_ptr<Hand> evaluate();
+
+        bool checkIfNRanksInHand(int n);
     };
 
     class HighCard : public Hand {
@@ -58,7 +60,7 @@ namespace eval {
 
         explicit HighCard(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -71,7 +73,7 @@ namespace eval {
 
         explicit Pair(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -84,7 +86,7 @@ namespace eval {
 
         explicit TwoPair(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -97,7 +99,7 @@ namespace eval {
 
         explicit ThreeOfAKind(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -110,7 +112,7 @@ namespace eval {
 
         explicit Straight(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -123,7 +125,7 @@ namespace eval {
 
         explicit Flush(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -135,7 +137,7 @@ namespace eval {
 
         explicit FullHouse(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -148,7 +150,7 @@ namespace eval {
 
         explicit FourOfAKind(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -161,7 +163,7 @@ namespace eval {
 
         explicit StraightFlush(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -173,7 +175,7 @@ namespace eval {
 
         explicit RoyalFlush(const Hand &hand);
 
-        CardCollection best5() override;
+        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 

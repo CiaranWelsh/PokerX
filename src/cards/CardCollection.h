@@ -19,7 +19,7 @@ namespace cards {
 
         cards::Card operator[](int index);
 
-        CardCollection &operator()(unsigned int start, unsigned int end);
+        CardCollection operator()(unsigned int start, unsigned int end);
 
         cards::CardCollection operator+(CardCollection &other);
 
@@ -47,9 +47,15 @@ namespace cards {
 
         void add(vector<cards::Card> &cards);
 
+        void erase(int index);
+
         vector<cards::Card>::iterator end();
 
         vector<cards::Card>::iterator begin();
+
+        reverse_iterator<vector<Card>::iterator> rbegin();
+
+        reverse_iterator<vector<Card>::iterator> rend();
 
         vector<cards::Card> getCards();
 
@@ -77,6 +83,8 @@ namespace cards {
         vector<int> getUniqueRanks();
 
         vector<std::string> getUniqueSuits();
+
+        void add(CardCollection cards);
     };
 }
 

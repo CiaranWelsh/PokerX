@@ -201,6 +201,49 @@ TEST(CardCollectionTests, TestGetUniqueSuits) {
 
 
 
+TEST(CardCollectionTests, TestRemove) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc(cards1);
+    cc.erase(3);
+    int actual = cc.size();
+    ASSERT_EQ(actual, 4);
+}
+
+
+TEST(CardCollectionTests, TestGetterOperator) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc(cards1);
+    Card card6 = cc[4];
+    ASSERT_TRUE(card5 == card6);
+}
+
+
+TEST(CardCollectionTests, TestGetterOperatorRange) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc1(cards1);
+    CardCollection actual = cc1(2, 4);
+    std::vector<Card> cc2{card3, card4};
+    CardCollection expected(cc2);
+    ASSERT_TRUE(expected ==  actual);
+}
+
+
+
 
 
 

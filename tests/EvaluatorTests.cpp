@@ -19,6 +19,17 @@ protected:
         return hand;
     };
 
+    static void checkBest5(Hand &hand, const std::string& expected) {
+        cout << "Checking Hand: " << hand << endl;
+        const unique_ptr<Hand> &x = hand.evaluate();
+        ostringstream actual;
+        CardCollection best5 = (*x).best5(hand.getCards());
+        best5.sort();
+        actual << best5;
+        cout << actual.str() << endl;
+        ASSERT_EQ(expected, actual.str());
+    }
+
 //    void SetUp() override {}
     Card twoOfClubs = Card(2, "C");
     Card threeOfClubs = Card(3, "C");
@@ -77,11 +88,11 @@ protected:
     Card aceOfDiamonds = Card(14, "D");
 
     Hand highCard1 = createHand(
-            twoOfClubs,
-            fourOfDiamonds,
-            sixOfHearts,
             sevenOfClubs,
+            fourOfDiamonds,
             tenOfDiamonds,
+            sixOfHearts,
+            twoOfClubs,
             aceOfClubs,
             eightOfClubs
     );
@@ -94,28 +105,149 @@ protected:
             aceOfClubs,
             eightOfClubs
     );
+    Hand two_pair1 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            sixOfHearts,
+            sixOfClubs,
+            tenOfDiamonds,
+            aceOfClubs,
+            eightOfClubs
+    );
+    Hand two_pair2 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            sixOfHearts,
+            sixOfClubs,
+            tenOfDiamonds,
+            tenOfClubs,
+            eightOfClubs
+    );
+    Hand two_pair3 = createHand(
+            sixOfHearts,
+            sixOfClubs,
+            tenOfDiamonds,
+            tenOfClubs,
+            eightOfClubs,
+            twoOfClubs,
+            twoOfDiamonds
+    );
+    Hand two_pair4 = createHand(
+            aceOfDiamonds,
+            eightOfDiamonds,
+            queenOfClubs,
+            aceOfClubs,
+            queenOfDiamonds,
+            eightOfClubs,
+            twoOfDiamonds
+    );
+    Hand two_pair5 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            fourOfDiamonds,
+            fourOfClubs,
+            queenOfDiamonds,
+            aceOfDiamonds,
+            kingOfClubs
+    );
+    Hand two_pair6 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            fourOfDiamonds,
+            fourOfClubs,
+            queenOfDiamonds,
+            queenOfClubs,
+            kingOfClubs
+    );
+    Hand three_of_a_kind1 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            twoOfHearts,
+            fourOfClubs,
+            queenOfDiamonds,
+            aceOfDiamonds,
+            kingOfClubs
+    );
 };
 
-TEST_F(EvaluatorTests, t2) {
+TEST_F(EvaluatorTests, TestHighCard) {
     Hand hand = highCard1;
-    const unique_ptr<Hand> &x = hand.evaluate();
-    std::string expected = "[Card(2C), Card(4D), Card(6H), Card(7C), Card(8C)]";
-    ostringstream actual;
-    actual << (*x).best5();
-    ASSERT_EQ(expected, actual.str());
+    std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
+    checkBest5(highCard1, expected);
 }
 
-TEST_F(EvaluatorTests, t3) {
+TEST_F(EvaluatorTests, TestPair) {
     Hand hand = pair1;
-    const unique_ptr<Hand> &x = hand.evaluate();
-    cout << (*x).isa();
-    cout << (*x).best5();
-//    std::string expected = "[Card(2C), Card(4D), Card(6H), Card(7C), Card(8C)]";
-//    ostringstream actual;
-//    actual << (*x).best5();
-//    cout << actual.str() << endl;
-//    ASSERT_EQ(expected, actual.str());
+    std::string expected = "[Card(2C), Card(2D), Card(8C), Card(10D), Card(14C)]";
+    checkBest5(pair1, expected);
 }
+
+
+TEST_F(EvaluatorTests, TestTwoPairIsA) {
+    Hand hand = two_pair1;
+    const unique_ptr<Hand> &x = hand.evaluate();
+    ostringstream actual;
+    actual << (*x).isa();
+    ASSERT_TRUE((*x).isa());
+}
+
+
+TEST_F(EvaluatorTests, TestTwoPairIsA2) {
+    Hand hand = two_pair6;
+    const unique_ptr<Hand> &x = hand.evaluate();
+    ostringstream actual;
+    actual << (*x).isa();
+    ASSERT_TRUE((*x).isa());
+}
+
+
+TEST_F(EvaluatorTests, TestTwoPair) {
+    Hand hand = two_pair1;
+    std::string expected = "[Card(2C), Card(2D), Card(6H), Card(6C), Card(14C)]";
+    checkBest5(two_pair1, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestTwoPair2) {
+    Hand hand = two_pair2;
+    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
+    checkBest5(two_pair2, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestTwoPair3) {
+    Hand hand = two_pair3;
+    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
+    checkBest5(two_pair3, expected);
+}
+
+TEST_F(EvaluatorTests, TestTwoPair4) {
+    Hand hand = two_pair4;
+    std::string expected = "[Card(8C), Card(12C), Card(12D), Card(14D), Card(14C)]";
+    checkBest5(two_pair4, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestTwoPair5) {
+    Hand hand = two_pair5;
+    std::string expected = "[Card(2C), Card(2D), Card(4D), Card(4C), Card(14D)]";
+    checkBest5(two_pair5, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestTwoPair6) {
+    Hand hand = two_pair6;
+    std::string expected = "[Card(4D), Card(4C), Card(12D), Card(12C), Card(13C)]";
+    checkBest5(two_pair6, expected);
+}
+
+
+
+
+
+
+
+
 
 
 

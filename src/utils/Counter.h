@@ -16,7 +16,7 @@ private:
 
     vector<T> _get_unique_elements() {
         vector<T> unique;
-        vector<std::string>::iterator ip;
+        typename vector<T>::iterator ip;
         ip = std::unique(_unique_elements.begin(), _unique_elements.begin() + _unique_elements.size());
         _unique_elements.resize(std::distance(_unique_elements.begin(), ip));
         return _unique_elements;
@@ -29,7 +29,7 @@ public:
 
     unordered_map<T, int> count() {
         unordered_map<T, int> map{};
-        for (const string &s: _get_unique_elements()) {
+        for (const T &s: _get_unique_elements()) {
             int count = 0;
             for (int t = 0; t < _to_be_counted.size(); t++) {
                 if (s == _to_be_counted[t]) {
