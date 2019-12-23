@@ -1,3 +1,6 @@
+#ifndef POKERSIMULATIONSINCPP_COUNTER_H
+#define POKERSIMULATIONSINCPP_COUNTER_H
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>
@@ -52,3 +55,6 @@ public:
     };
 
 };
+
+
+#endif // POKERSIMULATIONSINCPP_COUNTER_H
