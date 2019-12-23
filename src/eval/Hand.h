@@ -12,6 +12,7 @@
 #include "cards/CommunityCards.h"
 #include "cards/HoleCards.h"
 #include <memory>
+#include <utils/Counter.h>
 
 #define quote(x) #x
 
@@ -55,9 +56,58 @@ namespace eval {
 
         std::unique_ptr<Hand> evaluate();
 
-        bool checkIfNRanksInHand(int n);
+        bool xOfAKind(int x, int how_many = 1);
 
-        static CardCollection xOfAKind(CardCollection cards, int x);
+//        /*
+//         * Defined in .h file because templates wont compile in separate implementation
+//         * file. HandType can only be Pair, TwoPair, ThreeOfAKind or FourOfAKind
+//         */
+//        template<class HandType>
+//        CardCollection xOfAKindBest5(int x) {
+//            CardCollection cards = getCards();
+//            HandType handType(*this);
+//            if (!handType.isa())
+//                // if not isa HandType, return empty CardCollection.
+//                return CardCollection();
+//            CardCollection best5;
+//            Counter<int> counter(cards.getRanks());
+//            std::unordered_map<int, int> count = counter.count();
+//            // get the rank of the card which has a pair
+//            std::vector<int> ranks;
+//            for (pair<const int, int> i : counter.count()) {
+//                if (i.second == x) {
+//                    ranks.push_back(i.first);
+//                }
+//            }
+//            // cater for special case when we have three pairs
+//            // when we have 3 pairs, sort in ascending order and remove first element
+//            if (x == 2 && ranks.size() == 3) {
+//                std::sort(ranks.begin(), ranks.end());
+//                ranks.erase(ranks.begin());
+//            }
+//
+//            if (ranks.size() != 1)
+//                throw std::invalid_argument("Unhelpful error message");
+//            std::vector<int> idx_for_delete;
+//            for (int i = 0; i < ranks.size(); i++) {
+//                for (int j = 0; j < cards.size(); j++) {
+//                    if (getCards()[j].rank == ranks[i]) {
+//                        Card x = cards[j];
+//                        best5.add(x);
+//                        idx_for_delete.push_back(j);
+//                    }
+//                }
+//            }
+//            cout << idx_for_delete.size() << endl;
+//            for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
+//                cards.erase(*it);
+//            }
+//            cards.sort();
+//            best5.add(cards(2, cards.size()));
+//            return best5;
+//        }
+
+
     };
 
     class HighCard : public Hand {

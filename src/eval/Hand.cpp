@@ -12,15 +12,7 @@
 #include <typeinfo>
 #include "utils/Counter.h"
 
-#define quote(x) #x
-
 using namespace std;
-
-template<typename T>
-const char *getClassName(T) {
-    return typeid(T).name();
-}
-
 
 namespace eval {
 
@@ -65,6 +57,23 @@ namespace eval {
 
     bool Hand::isa() {
         throw errors::NotImplementedException();
+    }
+
+    /*
+     * Check for two, three and four of a kind.
+     * @x is one of 2, 3 or 4 and @how_many should
+     * be 1 for @x=2, @x=3 and @x=4 for pair, three of a
+     * kind and four of a kind and @how_many=2 for two pair.
+     */
+    bool Hand::xOfAKind(int x, int how_many) {
+        Counter<int> counter(getCards().getRanks());
+        // counter for number of cards with x copies, i.e. 2 for pair, 3 for three of a kind.
+        int num_x = 0;
+        for (pair<const int, int> i : counter.count()) {
+            if (i.second == x)
+                num_x += 1;
+        }
+        return num_x == how_many;
     }
 
     std::unique_ptr<Hand> Hand::evaluate() {
@@ -187,8 +196,7 @@ namespace eval {
     }
 
     bool Pair::isa() {
-        vector<int> x = _cards.getUniqueRanks();
-        return x.size() == 6;
+        return xOfAKind(2);
     }
 
     /*
@@ -239,13 +247,7 @@ namespace eval {
     }
 
     bool TwoPair::isa() {
-        Counter<int> counter(_cards.getRanks());
-        int num_pairs = 0;
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 2)
-                num_pairs += 1;
-        }
-        return num_pairs >= 2;
+        return xOfAKind(2, 2);
     }
 
     /*
@@ -257,13 +259,7 @@ namespace eval {
     ThreeOfAKind::ThreeOfAKind(const Hand &hand) : Hand(hand) {}
 
     bool ThreeOfAKind::isa() {
-        Counter<int> counter(_cards.getRanks());
-        int num_trips = 0;
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 3)
-                num_trips += 1;
-        }
-        return num_trips >= 1;
+        return xOfAKind(3);
     }
 
     CardCollection ThreeOfAKind::best5(CardCollection cards) {
@@ -301,9 +297,7 @@ namespace eval {
     }
 
 
-    Straight::Straight(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {
-
-    }
+    Straight::Straight(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
 
     CardCollection Straight::best5(CardCollection cards) {
         return CardCollection();
@@ -342,7 +336,12 @@ namespace eval {
     }
 
     bool FullHouse::isa() {
-        return false;
+        //check if pair
+        Pair pair = Pair(*this);
+        cout << "pair isa: " << pair.isa() << endl;
+        ThreeOfAKind three_of_a_kind = ThreeOfAKind(*this);
+        cout << "toak isa: " << three_of_a_kind.isa() << endl;
+        return pair.isa() && three_of_a_kind.isa();
     }
 
     FullHouse::FullHouse(const Hand &hand) : Hand(hand) {
@@ -389,13 +388,7 @@ namespace eval {
     }
 
     bool FourOfAKind::isa() {
-        Counter<int> counter(_cards.getRanks());
-        int num_trips = 0;
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 4)
-                num_trips += 1;
-        }
-        return num_trips >= 1;
+        return xOfAKind(2);
     }
 
     FourOfAKind::FourOfAKind(const Hand &hand) : Hand(hand) {

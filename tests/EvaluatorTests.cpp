@@ -30,6 +30,16 @@ protected:
         ASSERT_EQ(expected, actual.str());
     }
 
+    template<class ExpectedHand>
+    static void checkIsA(Hand &hand) {
+        cout << "Checking isa(): " << hand << endl;
+        const unique_ptr<Hand> &x = hand.evaluate();
+        ExpectedHand expected(hand);
+        bool actual = expected.isa();
+        ASSERT_TRUE(actual);
+
+    }
+
 //    void SetUp() override {}
     Card twoOfClubs = Card(2, "C");
     Card threeOfClubs = Card(3, "C");
@@ -168,23 +178,50 @@ protected:
             aceOfDiamonds,
             kingOfClubs
     );
+    Hand full_house1 = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            twoOfHearts,
+            queenOfClubs,
+            queenOfDiamonds,
+            aceOfDiamonds,
+            kingOfClubs
+    );
+    Hand four_of_a_kind = createHand(
+            twoOfClubs,
+            twoOfDiamonds,
+            twoOfHearts,
+            twoOfSpades,
+            queenOfDiamonds,
+            aceOfDiamonds,
+            kingOfClubs
+    );
 };
 
 
 
+TEST_F(EvaluatorTests, TestXOfAKind) {
+    ASSERT_TRUE(pair1.xOfAKind(2));
+}
+
+TEST_F(EvaluatorTests, TestXOfAKind3) {
+    ASSERT_TRUE(three_of_a_kind1.xOfAKind(3));
+}
+
+TEST_F(EvaluatorTests, TestXOfAKind4) {
+    ASSERT_TRUE(four_of_a_kind.xOfAKind(4));
+}
+
 
 TEST_F(EvaluatorTests, TestHighCard) {
-    Hand hand = highCard1;
     std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
     checkBest5(highCard1, expected);
 }
 
 TEST_F(EvaluatorTests, TestPair) {
-    Hand hand = pair1;
     std::string expected = "[Card(2C), Card(2D), Card(8C), Card(10D), Card(14C)]";
     checkBest5(pair1, expected);
 }
-
 
 TEST_F(EvaluatorTests, TestTwoPairIsA) {
     Hand hand = two_pair1;
@@ -193,23 +230,14 @@ TEST_F(EvaluatorTests, TestTwoPairIsA) {
     actual << (*x).isa();
     ASSERT_TRUE((*x).isa());
 }
-
-
 TEST_F(EvaluatorTests, TestTwoPairIsA2) {
-    Hand hand = two_pair6;
-    const unique_ptr<Hand> &x = hand.evaluate();
-    ostringstream actual;
-    actual << (*x).isa();
-    ASSERT_TRUE((*x).isa());
+    checkIsA<TwoPair>(two_pair1);
 }
 
-
 TEST_F(EvaluatorTests, TestTwoPair) {
-    Hand hand = two_pair1;
     std::string expected = "[Card(2C), Card(2D), Card(6H), Card(6C), Card(14C)]";
     checkBest5(two_pair1, expected);
 }
-
 
 TEST_F(EvaluatorTests, TestTwoPair2) {
     Hand hand = two_pair2;
@@ -217,9 +245,7 @@ TEST_F(EvaluatorTests, TestTwoPair2) {
     checkBest5(two_pair2, expected);
 }
 
-
 TEST_F(EvaluatorTests, TestTwoPair3) {
-    Hand hand = two_pair3;
     std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
     checkBest5(two_pair3, expected);
 }
@@ -230,25 +256,32 @@ TEST_F(EvaluatorTests, TestTwoPair4) {
     checkBest5(two_pair4, expected);
 }
 
-
 TEST_F(EvaluatorTests, TestTwoPair5) {
-    Hand hand = two_pair5;
     std::string expected = "[Card(2C), Card(2D), Card(4D), Card(4C), Card(14D)]";
     checkBest5(two_pair5, expected);
 }
 
-
 TEST_F(EvaluatorTests, TestTwoPair6) {
-    Hand hand = two_pair6;
     std::string expected = "[Card(4D), Card(4C), Card(12D), Card(12C), Card(13C)]";
     checkBest5(two_pair6, expected);
 }
 
 TEST_F(EvaluatorTests, TestThreeOfAKing1) {
-    Hand hand = three_of_a_kind1;
     std::string expected = "[Card(2C), Card(2D), Card(2H), Card(13C), Card(14D)]";
     checkBest5(three_of_a_kind1, expected);
 }
+
+
+TEST_F(EvaluatorTests, TestFullHouse1IsA) {
+    Pair pair(full_house1);
+    cout << pair << endl;
+    cout << pair.isa() << endl;
+    checkIsA<FullHouse>(full_house1);
+}
+
+//TEST_F(EvaluatorTests, TestXOfAKindBest5) {
+//    pair1.xOfAKindBest5(2);
+//}
 
 
 
