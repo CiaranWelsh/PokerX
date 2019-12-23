@@ -12,6 +12,7 @@
 #include "cards/CommunityCards.h"
 #include "cards/HoleCards.h"
 #include <memory>
+
 #define quote(x) #x
 
 using namespace cards;
@@ -28,11 +29,14 @@ namespace eval {
 
     class Hand : HandInterface {
     protected:
+        Hand(CardCollection collection);
+
         HoleCards _holeCards;
         CommunityCards _communityCards;
         CardCollection _cards = _holeCards + _communityCards;
     private:
         friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
+
         std::string name;
     public:
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
@@ -52,6 +56,8 @@ namespace eval {
         std::unique_ptr<Hand> evaluate();
 
         bool checkIfNRanksInHand(int n);
+
+        static CardCollection xOfAKind(CardCollection cards, int x);
     };
 
     class HighCard : public Hand {

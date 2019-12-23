@@ -19,7 +19,7 @@ protected:
         return hand;
     };
 
-    static void checkBest5(Hand &hand, const std::string& expected) {
+    static void checkBest5(Hand &hand, const std::string &expected) {
         cout << "Checking Hand: " << hand << endl;
         const unique_ptr<Hand> &x = hand.evaluate();
         ostringstream actual;
@@ -170,6 +170,9 @@ protected:
     );
 };
 
+
+
+
 TEST_F(EvaluatorTests, TestHighCard) {
     Hand hand = highCard1;
     std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
@@ -239,6 +242,12 @@ TEST_F(EvaluatorTests, TestTwoPair6) {
     Hand hand = two_pair6;
     std::string expected = "[Card(4D), Card(4C), Card(12D), Card(12C), Card(13C)]";
     checkBest5(two_pair6, expected);
+}
+
+TEST_F(EvaluatorTests, TestThreeOfAKing1) {
+    Hand hand = three_of_a_kind1;
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(13C), Card(14D)]";
+    checkBest5(three_of_a_kind1, expected);
 }
 
 

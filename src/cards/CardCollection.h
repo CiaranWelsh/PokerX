@@ -25,7 +25,9 @@ namespace cards {
 
         cards::CardCollection operator+=(CardCollection &other);
 
-        CardCollection &operator=(const CardCollection &c);
+        CardCollection &operator=(const vector<Card>& c);
+
+        CardCollection &operator=(CardCollection c);
 
         bool operator==(const CardCollection &other);
 

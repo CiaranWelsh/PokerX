@@ -142,8 +142,13 @@ namespace cards {
 
     }
 
-    CardCollection &CardCollection::operator=(const CardCollection &c) {
+    CardCollection &CardCollection::operator=(CardCollection c) {
         _cards = c._cards;
+        return *this;
+    }
+
+    CardCollection &CardCollection::operator=(const vector<Card>& c) {
+        _cards = c;
         return *this;
     }
 
