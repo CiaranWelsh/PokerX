@@ -102,8 +102,6 @@ namespace eval {
             best5.add(cards(2, cards.size()));
             return best5;
         }
-
-
     };
 
     class HighCard : public Hand {

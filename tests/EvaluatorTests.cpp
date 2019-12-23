@@ -273,16 +273,13 @@ TEST_F(EvaluatorTests, TestThreeOfAKing1) {
 
 
 TEST_F(EvaluatorTests, TestFullHouse1IsA) {
-    Pair pair(full_house1);
-    cout << pair << endl;
-    cout << pair.isa() << endl;
     checkIsA<FullHouse>(full_house1);
 }
 
-//TEST_F(EvaluatorTests, TestXOfAKindBest5) {
-//    CardCollection cards = pair1.xOfAKindBest5<Pair>(2);
-//    cout << cards << endl;
-//}
+TEST_F(EvaluatorTests, TestFullHouseBest5) {
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(12C), Card(12D)]";
+    checkBest5(full_house1, expected);
+}
 
 
 

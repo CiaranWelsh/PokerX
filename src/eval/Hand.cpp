@@ -236,15 +236,31 @@ namespace eval {
     }
 
     CardCollection FullHouse::best5(CardCollection cards) {
-        return CardCollection();
+        Counter<int> count(cards.getRanks());
+        int theThree, theTwo;
+        for (std::pair<const int, int> i: count.count()){
+            if (i.second == 2)
+                theTwo = i.first;
+            else if(i.second == 3)
+                theThree = i.first;
+        }
+        CardCollection best5;
+        for (Card i : cards){
+            if (i.rank == theThree)
+                best5.add(i);
+            else if (i.rank == theTwo)
+                best5.add(i);
+        }
+        if (best5.size() != 5)
+            throw errors::BadError();
+
+        return best5;
     }
 
     bool FullHouse::isa() {
         //check if pair
         Pair pair = Pair(*this);
-        cout << "pair isa: " << pair.isa() << endl;
         ThreeOfAKind three_of_a_kind = ThreeOfAKind(*this);
-        cout << "toak isa: " << three_of_a_kind.isa() << endl;
         return pair.isa() && three_of_a_kind.isa();
     }
 

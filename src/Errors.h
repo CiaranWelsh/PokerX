@@ -15,6 +15,11 @@ namespace errors {
         NotImplementedException() : std::logic_error("Function not yet implemented") {};
     };
 
+    class BadError : public std::logic_error {
+    public:
+        BadError() : std::logic_error("You did a bad") {};
+    };
+
 
 };
 
