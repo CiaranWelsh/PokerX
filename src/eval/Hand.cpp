@@ -388,7 +388,7 @@ namespace eval {
     }
 
     bool FourOfAKind::isa() {
-        return xOfAKind(2);
+        return xOfAKind(4);
     }
 
     FourOfAKind::FourOfAKind(const Hand &hand) : Hand(hand) {
