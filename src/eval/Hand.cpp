@@ -65,7 +65,7 @@ namespace eval {
      * be 1 for @x=2, @x=3 and @x=4 for pair, three of a
      * kind and four of a kind and @how_many=2 for two pair.
      */
-    bool Hand::xOfAKind(int x, int how_many) {
+    bool Hand::xOfAKindIsA(int x, int how_many) {
         Counter<int> counter(getCards().getRanks());
         // counter for number of cards with x copies, i.e. 2 for pair, 3 for three of a kind.
         int num_x = 0;
@@ -162,41 +162,11 @@ namespace eval {
     Pair::Pair(const Hand &hand) : Hand(hand) {}
 
     CardCollection Pair::best5(CardCollection cards) {
-        if (!isa())
-            return CardCollection();
-        CardCollection best5;
-        Counter<int> counter(cards.getRanks());
-        std::unordered_map<int, int> count = counter.count();
-        // get the rank of the card which has a pair
-        int rank_of_pair = 0;
-
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 2) {
-                rank_of_pair = i.first;
-                break;
-            }
-        }
-        cout << rank_of_pair << endl;
-        if (rank_of_pair == 0)
-            throw std::invalid_argument("Unhelpful error message");
-        std::vector<int> idx_for_delete;
-        for (int i = 0; i < cards.size(); i++) {
-            if (cards[i].rank == rank_of_pair) {
-                Card x = cards[i];
-                best5.add(x);
-                idx_for_delete.push_back(i);
-            }
-        }
-        for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
-            cards.erase(*it);
-        }
-        cards.sort();
-        best5.add(cards(2, cards.size()));
-        return best5;
+        return xOfAKindBest5<Pair>(2);
     }
 
     bool Pair::isa() {
-        return xOfAKind(2);
+        return xOfAKindIsA(2);
     }
 
     /*
@@ -207,47 +177,11 @@ namespace eval {
     TwoPair::TwoPair(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {};
 
     CardCollection TwoPair::best5(CardCollection cards) {
-        if (!isa())
-            return CardCollection();
-        CardCollection best5;
-        Counter<int> counter(cards.getRanks());
-        std::unordered_map<int, int> count = counter.count();
-        // get the rank of the card which has a pair
-        std::vector<int> rank_of_pairs;
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 2) {
-                rank_of_pairs.push_back(i.first);
-            }
-        }
-        // when we have 3 pairs, sort in ascending order and remove first element
-        if (rank_of_pairs.size() == 3) {
-            std::sort(rank_of_pairs.begin(), rank_of_pairs.end());
-            rank_of_pairs.erase(rank_of_pairs.begin());
-        }
-        // Should now always have 2 pairs
-        if (rank_of_pairs.size() != 2)
-            throw std::invalid_argument("Unhelpful error message");
-        std::vector<int> idx_for_delete;
-        for (int i1 = 0; i1 < rank_of_pairs.size(); i1++) {
-            for (int j = 0; j < cards.size(); j++) {
-                if (cards[j].rank == rank_of_pairs[i1]) {
-                    Card x = cards[j];
-                    best5.add(x);
-                    idx_for_delete.push_back(j);
-                }
-            }
-        }
-        cout << idx_for_delete.size() << endl;
-        for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
-            cards.erase(*it);
-        }
-        cards.sort();
-        best5.add(cards(2, cards.size()));
-        return best5;
+        return xOfAKindBest5<TwoPair>(2);
     }
 
     bool TwoPair::isa() {
-        return xOfAKind(2, 2);
+        return xOfAKindIsA(2, 2);
     }
 
     /*
@@ -259,41 +193,11 @@ namespace eval {
     ThreeOfAKind::ThreeOfAKind(const Hand &hand) : Hand(hand) {}
 
     bool ThreeOfAKind::isa() {
-        return xOfAKind(3);
+        return xOfAKindIsA(3);
     }
 
     CardCollection ThreeOfAKind::best5(CardCollection cards) {
-        if (!isa())
-            return CardCollection();
-        CardCollection best5;
-        Counter<int> counter(cards.getRanks());
-        std::unordered_map<int, int> count = counter.count();
-        // get the rank of the card which has a pair
-        std::vector<int> rank_of_trips;
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 3) {
-                rank_of_trips.push_back(i.first);
-            }
-        }
-        if (rank_of_trips.size() != 1)
-            throw std::invalid_argument("Unhelpful error message");
-        std::vector<int> idx_for_delete;
-        for (int i1 = 0; i1 < rank_of_trips.size(); i1++) {
-            for (int j = 0; j < cards.size(); j++) {
-                if (cards[j].rank == rank_of_trips[i1]) {
-                    Card x = cards[j];
-                    best5.add(x);
-                    idx_for_delete.push_back(j);
-                }
-            }
-        }
-        cout << idx_for_delete.size() << endl;
-        for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
-            cards.erase(*it);
-        }
-        cards.sort();
-        best5.add(cards(2, cards.size()));
-        return best5;
+        return xOfAKindBest5<ThreeOfAKind>(3);
     }
 
 
@@ -354,41 +258,12 @@ namespace eval {
     }
 
     CardCollection FourOfAKind::best5(CardCollection cards) {
-        if (!isa())
-            return CardCollection();
-        CardCollection best5;
-        Counter<int> counter(cards.getRanks());
-        std::unordered_map<int, int> count = counter.count();
-        // get the rank of the card which has a pair
-        std::vector<int> rank_of_trips;
-        for (pair<const int, int> i : counter.count()) {
-            if (i.second == 4) {
-                rank_of_trips.push_back(i.first);
-            }
-        }
-        if (rank_of_trips.size() != 1)
-            throw std::invalid_argument("Unhelpful error message");
-        std::vector<int> idx_for_delete;
-        for (int i1 = 0; i1 < rank_of_trips.size(); i1++) {
-            for (int j = 0; j < cards.size(); j++) {
-                if (cards[j].rank == rank_of_trips[i1]) {
-                    Card x = cards[j];
-                    best5.add(x);
-                    idx_for_delete.push_back(j);
-                }
-            }
-        }
-        cout << idx_for_delete.size() << endl;
-        for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
-            cards.erase(*it);
-        }
-        cards.sort();
-        best5.add(cards(2, cards.size()));
-        return best5;
+        return xOfAKindBest5<FourOfAKind>(4);
+
     }
 
     bool FourOfAKind::isa() {
-        return xOfAKind(4);
+        return xOfAKindIsA(4);
     }
 
     FourOfAKind::FourOfAKind(const Hand &hand) : Hand(hand) {

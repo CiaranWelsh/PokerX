@@ -56,7 +56,7 @@ namespace eval {
 
         std::unique_ptr<Hand> evaluate();
 
-        bool xOfAKind(int x, int how_many = 1);
+        bool xOfAKindIsA(int x, int how_many = 1);
 
         /*
          * Defined in .h file because templates wont compile in separate implementation
@@ -72,7 +72,7 @@ namespace eval {
             CardCollection best5;
             Counter<int> counter(cards.getRanks());
             std::unordered_map<int, int> count = counter.count();
-            // get the rank of the card which has a pair
+            // get the rank of the card which has a pair/two pair etc.
             std::vector<int> ranks;
             for (pair<const int, int> i : counter.count()) {
                 if (i.second == x) {
@@ -85,9 +85,6 @@ namespace eval {
                 std::sort(ranks.begin(), ranks.end());
                 ranks.erase(ranks.begin());
             }
-
-            if (ranks.size() != 1)
-                throw std::invalid_argument("Unhelpful error message");
             std::vector<int> idx_for_delete;
             for (int i = 0; i < ranks.size(); i++) {
                 for (int j = 0; j < cards.size(); j++) {
@@ -98,7 +95,6 @@ namespace eval {
                     }
                 }
             }
-            cout << idx_for_delete.size() << endl;
             for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
                 cards.erase(*it);
             }

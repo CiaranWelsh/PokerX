@@ -201,15 +201,15 @@ protected:
 
 
 TEST_F(EvaluatorTests, TestXOfAKind) {
-    ASSERT_TRUE(pair1.xOfAKind(2));
+    ASSERT_TRUE(pair1.xOfAKindIsA(2));
 }
 
 TEST_F(EvaluatorTests, TestXOfAKind3) {
-    ASSERT_TRUE(three_of_a_kind1.xOfAKind(3));
+    ASSERT_TRUE(three_of_a_kind1.xOfAKindIsA(3));
 }
 
 TEST_F(EvaluatorTests, TestXOfAKind4) {
-    ASSERT_TRUE(four_of_a_kind.xOfAKind(4));
+    ASSERT_TRUE(four_of_a_kind.xOfAKindIsA(4));
 }
 
 
@@ -280,7 +280,8 @@ TEST_F(EvaluatorTests, TestFullHouse1IsA) {
 }
 
 //TEST_F(EvaluatorTests, TestXOfAKindBest5) {
-//    pair1.xOfAKindBest5(2);
+//    CardCollection cards = pair1.xOfAKindBest5<Pair>(2);
+//    cout << cards << endl;
 //}
 
 
