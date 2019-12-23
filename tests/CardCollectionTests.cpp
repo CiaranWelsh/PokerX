@@ -242,6 +242,39 @@ TEST(CardCollectionTests, TestGetterOperatorRange) {
     ASSERT_TRUE(expected ==  actual);
 }
 
+TEST(CardCollectionTests, TestContains) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc1(cards1);
+    ASSERT_TRUE(cc1.contains(card4));
+}
+
+TEST(CardCollectionTests, TestContainsRank) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc1(cards1);
+    ASSERT_TRUE(cc1.containsRank(6));
+}
+
+TEST(CardCollectionTests, TestContainsSuit) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc1(cards1);
+    ASSERT_TRUE(cc1.containsSuit("C"));
+}
+
 
 
 

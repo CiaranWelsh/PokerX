@@ -196,8 +196,52 @@ protected:
             aceOfDiamonds,
             kingOfClubs
     );
+    Hand straight1 = createHand(
+            twoOfClubs,
+            threeOfDiamonds,
+            fourOfHearts,
+            fiveOfSpades,
+            sixOfDiamonds,
+            aceOfDiamonds,
+            kingOfClubs
+    );
+    Hand straight2 = createHand(
+            aceOfClubs,
+            twoOfClubs,
+            threeOfDiamonds,
+            fourOfHearts,
+            fiveOfSpades,
+            kingOfClubs,
+            queenOfClubs
+    );
+    Hand straight3 = createHand(
+            twoOfClubs,
+            threeOfDiamonds,
+            fourOfHearts,
+            fiveOfSpades,
+            sixOfClubs,
+            queenOfClubs,
+            kingOfClubs
+    );
+    Hand straight4 = createHand(
+            twoOfClubs,
+            fiveOfClubs,
+            sixOfHearts,
+            sevenOfClubs,
+            eightOfDiamonds,
+            nineOfClubs,
+            kingOfClubs
+    );
+    Hand straight5 = createHand(
+            twoOfClubs,
+            fiveOfClubs,
+            sevenOfClubs,
+            eightOfDiamonds,
+            nineOfClubs,
+            tenOfDiamonds,
+            jackOfClubs
+    );
 };
-
 
 
 TEST_F(EvaluatorTests, TestXOfAKind) {
@@ -230,6 +274,7 @@ TEST_F(EvaluatorTests, TestTwoPairIsA) {
     actual << (*x).isa();
     ASSERT_TRUE((*x).isa());
 }
+
 TEST_F(EvaluatorTests, TestTwoPairIsA2) {
     checkIsA<TwoPair>(two_pair1);
 }
@@ -281,6 +326,71 @@ TEST_F(EvaluatorTests, TestFullHouseBest5) {
     checkBest5(full_house1, expected);
 }
 
+
+TEST_F(EvaluatorTests, TestFourOfAKindIsA) {
+    checkIsA<FourOfAKind>(four_of_a_kind);
+}
+
+TEST_F(EvaluatorTests, TestFourOfAKindBest5) {
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(2S), Card(14D)]";
+        checkBest5(four_of_a_kind, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraight1IsA) {
+    Straight straight(straight1);
+    ASSERT_TRUE(straight.isa());
+}
+
+
+TEST_F(EvaluatorTests, TestStraight1Best5) {
+    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6D)]";
+    checkBest5(straight1, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestStraight2IsA) {
+    cout << straight2 << endl;
+    Straight straight(straight2);
+    ASSERT_TRUE(straight.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraight2Best5) {
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(12C), Card(12D)]";
+    checkBest5(straight2, expected);
+}
+
+
+
+TEST_F(EvaluatorTests, TestStraight3IsA) {
+    Straight straight(straight3);
+    ASSERT_TRUE(straight.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraight3Best5) {
+    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6C)]";
+    checkBest5(straight3, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraight4IsA) {
+    Straight straight(straight4);
+    ASSERT_TRUE(straight.isa());
+}
+
+
+TEST_F(EvaluatorTests, TestStraight4best5) {
+    std::string expected = "[Card(5C), Card(6H), Card(7C), Card(8D), Card(9C)]";
+    checkBest5(straight4, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraight5IsA) {
+    Straight straight(straight5);
+    ASSERT_TRUE(straight.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraight5best5) {
+    std::string expected = "[Card(7C), Card(8D), Card(9C), Card(10D), Card(11C)]";
+    checkBest5(straight5, expected);
+}
 
 
 

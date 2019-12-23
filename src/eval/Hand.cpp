@@ -204,10 +204,58 @@ namespace eval {
     Straight::Straight(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
 
     CardCollection Straight::best5(CardCollection cards) {
-        return CardCollection();
+//        cout << _cards << endl;
+        std::vector<int> ranks = _cards.getRanks();
+        // three frames are possible with 5 consequative numbers in 7
+        int frames[] = {0, 1, 2};
+
+        // flag for dealing with low aces
+        bool special_case = false;
+        std::vector<int> special_case_numbers = {2, 3, 4, 5};
+
+        CardCollection matches;
+        for (int frame : frames) {
+            matches.clear();
+            int current_rank = ranks[frame];
+            for (int i = 0; i < ranks.size(); i++) {
+                int rank = ranks[i];
+////                cout << "Current frame : " << frame << " Current rank : " << current_rank << " rank " << rank << endl;
+                if (current_rank == rank) {
+                    matches.add(cards[i]);
+                    current_rank++;
+////                    cout << "matches size: " << matches.size() << endl;
+                }
+                if (matches.size() == 4 && matches.containsRank(14) &&
+                    matches.getRanks() == special_case_numbers) {
+                    cout << "we got special" << endl;
+                    matches.add(*cards.findByRank(14));
+                }
+                if (matches.size() == 5)
+                    return matches;
+            }
+        }
+        return matches;
     }
 
+
     bool Straight::isa() {
+        cout << _cards << endl;
+        std::vector<int> ranks = _cards.getRanks();
+        // three frames are possible with 5 consequative numbers in 7
+        int frames[] = {0, 1, 2};
+        for (int frame : frames) {
+            std::vector<int> matches;
+            int current_rank = ranks[frame];
+            for (int rank : ranks) {
+                if (current_rank == rank) {
+                    matches.push_back(rank);
+                    current_rank++;
+                }
+                if (matches.size() == 5) {
+                    return true;
+                }
+            }
+        }
         return false;
     }
 
@@ -238,14 +286,14 @@ namespace eval {
     CardCollection FullHouse::best5(CardCollection cards) {
         Counter<int> count(cards.getRanks());
         int theThree, theTwo;
-        for (std::pair<const int, int> i: count.count()){
+        for (std::pair<const int, int> i: count.count()) {
             if (i.second == 2)
                 theTwo = i.first;
-            else if(i.second == 3)
+            else if (i.second == 3)
                 theThree = i.first;
         }
         CardCollection best5;
-        for (Card i : cards){
+        for (Card i : cards) {
             if (i.rank == theThree)
                 best5.add(i);
             else if (i.rank == theTwo)
@@ -275,7 +323,6 @@ namespace eval {
 
     CardCollection FourOfAKind::best5(CardCollection cards) {
         return xOfAKindBest5<FourOfAKind>(4);
-
     }
 
     bool FourOfAKind::isa() {

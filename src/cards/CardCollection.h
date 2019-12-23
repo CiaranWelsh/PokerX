@@ -45,9 +45,9 @@ namespace cards {
 
         explicit CardCollection(vector<cards::Card> &cards);
 
-        void add(cards::Card &card);
+        void add(cards::Card card);
 
-        void add(vector<cards::Card> &cards);
+        void add(vector<cards::Card> cards);
 
         void erase(int index);
 
@@ -87,6 +87,16 @@ namespace cards {
         vector<std::string> getUniqueSuits();
 
         void add(CardCollection cards);
+
+        bool contains(Card card);
+
+        bool containsRank(int rank);
+
+        bool containsSuit(std::string suit);
+
+        Card * findByRank(int i);
+
+        void clear();
     };
 }
 

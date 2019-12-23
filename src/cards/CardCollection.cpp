@@ -73,15 +73,16 @@ namespace cards {
     }
 
 
-    void CardCollection::add(Card &card) {
+    void CardCollection::add(Card card) {
         this->_cards.push_back(card);
     }
 
-    void CardCollection::add(std::vector<Card> &cards) {
+    void CardCollection::add(std::vector<Card> cards) {
         for (const Card &c : cards) {
             this->_cards.push_back(c);
         }
     }
+
     void CardCollection::add(CardCollection cards) {
         for (const Card &c : cards) {
             this->_cards.push_back(c);
@@ -147,7 +148,7 @@ namespace cards {
         return *this;
     }
 
-    CardCollection &CardCollection::operator=(const vector<Card>& c) {
+    CardCollection &CardCollection::operator=(const vector<Card> &c) {
         _cards = c;
         return *this;
     }
@@ -202,7 +203,7 @@ namespace cards {
     }
 
     cards::CardCollection CardCollection::operator+(CardCollection &other) {
-        for (const Card& card : other._cards)
+        for (const Card &card : other._cards)
             _cards.push_back(card);
         return cards::CardCollection(_cards);
     }
@@ -265,15 +266,52 @@ namespace cards {
     }
 
     void CardCollection::erase(int index) {
-        _cards.erase(_cards.begin()+index);
+        _cards.erase(_cards.begin() + index);
     }
 
     reverse_iterator<vector<Card>::iterator> CardCollection::rend() {
         return _cards.rend();
     }
 
-    reverse_iterator<vector<Card>::iterator> CardCollection::rbegin(){
+    reverse_iterator<vector<Card>::iterator> CardCollection::rbegin() {
         return _cards.rbegin();
+    }
+
+    bool CardCollection::contains(Card card) {
+        for (Card i : _cards) {
+            if (i == card)
+                return true;
+        }
+        return false;
+    }
+
+    bool CardCollection::containsRank(int rank) {
+        for (auto i : getRanks()) {
+            if (i == rank)
+                return true;
+        }
+        return false;
+    }
+
+    bool CardCollection::containsSuit(std::string suit) {
+        for (auto i : getSuits()) {
+            if (i == suit)
+                return true;
+        }
+        return false;
+    }
+
+    Card* CardCollection::findByRank(int rank) {
+        Card* ptr = nullptr;
+        for (Card card : _cards) {
+            if (card.rank == rank)
+                ptr = &card;
+        }
+        return ptr;
+    };
+
+    void CardCollection::clear() {
+        _cards.clear();
     }
 
 }
