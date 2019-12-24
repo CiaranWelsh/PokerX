@@ -30,16 +30,17 @@ namespace eval {
 
     class Hand : HandInterface {
     protected:
-        Hand(CardCollection collection);
-
         HoleCards _holeCards;
+
         CommunityCards _communityCards;
         CardCollection _cards = _holeCards + _communityCards;
     private:
         friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
-
         std::string name;
+
     public:
+        Hand(CardCollection collection);
+
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         ~Hand(); // destructor

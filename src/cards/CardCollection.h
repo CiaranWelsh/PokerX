@@ -94,9 +94,13 @@ namespace cards {
 
         bool containsSuit(std::string suit);
 
-        Card * findByRank(int i);
+        Card findByRank(int i);
 
         void clear();
+
+        CardCollection set_difference(CardCollection &other);
+
+        CardCollection set_intersection(CardCollection &other);
     };
 }
 

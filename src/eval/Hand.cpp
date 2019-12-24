@@ -200,84 +200,105 @@ namespace eval {
         return xOfAKindBest5<ThreeOfAKind>(3);
     }
 
-
+    /*
+     * Straight Implementation
+     */
     Straight::Straight(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
 
     CardCollection Straight::best5(CardCollection cards) {
-//        cout << _cards << endl;
+        if (!isa())
+            return CardCollection();
         std::vector<int> ranks = _cards.getRanks();
         // three frames are possible with 5 consequative numbers in 7
         int frames[] = {0, 1, 2};
 
-        // flag for dealing with low aces
-        bool special_case = false;
-        std::vector<int> special_case_numbers = {2, 3, 4, 5};
+        // Deal with low aces straights
+        CardCollection best5;
+        if (cards[0].rank == 2 && cards[1].rank == 3 && cards[2].rank == 4 &&
+            cards[3].rank == 5 && cards[6].rank == 14) {
+            for (int i : {0, 1, 2, 3, 7}) {
+                best5.add(cards[i]);
+            }
+        }
+
+        for (int frame : frames) {
+            best5.clear();
+            int current_rank = ranks[frame];
+            for (int i = 0; i < ranks.size(); i++) {
+                int rank = ranks[i];
+                if (current_rank == rank) {
+                    best5.add(cards[i]);
+                    current_rank++;
+                }
+                if (best5.size() == 5)
+                    return best5;
+            }
+        }
+        return best5;
+    }
+
+    bool Straight::isa() {
+        CardCollection cards = _cards;
+        std::vector<int> ranks = cards.getRanks();
+        // three frames are possible with 5 consequative numbers in 7
+        int frames[] = {0, 1, 2};
+
+        // deal with low aces
+        if (cards[0].rank == 2 && cards[1].rank == 3 && cards[2].rank == 4 &&
+            cards[3].rank == 5 && cards[6].rank == 14) {
+            return true;
+        }
 
         CardCollection matches;
         for (int frame : frames) {
             matches.clear();
             int current_rank = ranks[frame];
             for (int i = 0; i < ranks.size(); i++) {
+
                 int rank = ranks[i];
-////                cout << "Current frame : " << frame << " Current rank : " << current_rank << " rank " << rank << endl;
                 if (current_rank == rank) {
                     matches.add(cards[i]);
                     current_rank++;
-////                    cout << "matches size: " << matches.size() << endl;
-                }
-                if (matches.size() == 4 && matches.containsRank(14) &&
-                    matches.getRanks() == special_case_numbers) {
-                    cout << "we got special" << endl;
-                    matches.add(*cards.findByRank(14));
                 }
                 if (matches.size() == 5)
-                    return matches;
-            }
-        }
-        return matches;
-    }
-
-
-    bool Straight::isa() {
-        cout << _cards << endl;
-        std::vector<int> ranks = _cards.getRanks();
-        // three frames are possible with 5 consequative numbers in 7
-        int frames[] = {0, 1, 2};
-        for (int frame : frames) {
-            std::vector<int> matches;
-            int current_rank = ranks[frame];
-            for (int rank : ranks) {
-                if (current_rank == rank) {
-                    matches.push_back(rank);
-                    current_rank++;
-                }
-                if (matches.size() == 5) {
                     return true;
-                }
             }
         }
         return false;
     }
 
-    Straight::Straight(const Hand &hand) : Hand(hand) {
+    Straight::Straight(const Hand &hand) : Hand(hand) {}
 
-    }
-
-    Flush::Flush(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {
-
-    }
+    Flush::Flush(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
 
     CardCollection Flush::best5(CardCollection cards) {
-        return CardCollection();
+        if (!isa())
+            return CardCollection();
+        Counter<std::string> count(cards.getSuits());
+        CardCollection best5;
+        std::string which_suit;
+        for (const std::pair<const std::string, int> &i : count.count()) {
+            if (i.second == 5) {
+                which_suit = i.first;
+            }
+        }
+        for (Card card : cards)
+            if (card.suit == which_suit)
+                best5.add(card);
+        return best5;
     }
 
     bool Flush::isa() {
-        return false;
+        Counter<std::string> count(_cards.getSuits());
+        bool x = false;
+        for (const std::pair<const std::string, int> &i : count.count()) {
+            if (i.second == 5)
+                x = true;
+        }
+        return x;
     }
 
-    Flush::Flush(const Hand &hand) : Hand(hand) {
-
-    }
+    Flush::Flush(const Hand &hand) : Hand(hand) {}
 
     FullHouse::FullHouse(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {
 
@@ -339,17 +360,51 @@ namespace eval {
     }
 
     CardCollection StraightFlush::best5(CardCollection cards) {
-        return CardCollection();
+        if (!isa())
+            return CardCollection();
+
+        Counter<std::string> suit_count(_cards.getSuits());
+        Counter<int> rank_count(_cards.getRanks());
+        int which_rank = -1;
+        std::string which_suit = "";
+
+        for (pair<const int, int> i : rank_count.count()) {
+            cout << i.first << i.second << endl;
+            if (i.second == 5)
+                which_rank = i.first;
+        }
+
+        for (pair<const std::string, int> i : suit_count.count()) {
+            if (i.second == 5)
+                which_suit = i.first;
+        }
+        CardCollection best5;
+        for (const Card& card : _cards){
+            cout << "card.rank: " << card.rank << "; card.suit " << card.suit
+            << "which rank " << which_rank << "which suit: "<< which_suit << endl;
+            if (card.rank == which_rank && card.suit == which_suit)
+                best5.add(card);
+        }
+        cout << "best 5 is: " << best5 << endl;
+        if (best5.size() > 5){
+            best5.sort();
+            best5(best5.size()-5, best5.size());
+            return best5;
+        }
+
+        if (best5.size() < 5) {
+            cout << "best5 < 5: " << best5.size() << endl;
+            throw errors::BadError();
+        }
+        return best5;
     }
+
 
     bool StraightFlush::isa() {
-        return false;
-//        return Straight(_cards).isa() && Flush(_cards).isa();
+        return Straight(_cards).isa() && Flush(_cards).isa();
     }
 
-    StraightFlush::StraightFlush(const Hand &hand) : Hand(hand) {
-
-    }
+    StraightFlush::StraightFlush(const Hand &hand) : Hand(hand) {}
 
     RoyalFlush::RoyalFlush(HoleCards &holeCards, CommunityCards &communityCards)
             : Hand(holeCards, communityCards) {}

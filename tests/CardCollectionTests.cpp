@@ -171,7 +171,6 @@ TEST(CardCollectionTests, TestGetRanks) {
 }
 
 
-
 TEST(CardCollectionTests, TestGetUniqueRanks) {
     Card card1(6, "D");
     Card card2(6, "C");
@@ -198,7 +197,6 @@ TEST(CardCollectionTests, TestGetUniqueSuits) {
     std::vector<std::string> expected = {"D", "C", "H", "S"};
     ASSERT_TRUE(expected == unique_ranks);
 }
-
 
 
 TEST(CardCollectionTests, TestRemove) {
@@ -239,7 +237,7 @@ TEST(CardCollectionTests, TestGetterOperatorRange) {
     CardCollection actual = cc1(2, 4);
     std::vector<Card> cc2{card3, card4};
     CardCollection expected(cc2);
-    ASSERT_TRUE(expected ==  actual);
+    ASSERT_TRUE(expected == actual);
 }
 
 TEST(CardCollectionTests, TestContains) {
@@ -273,6 +271,58 @@ TEST(CardCollectionTests, TestContainsSuit) {
     std::vector<Card> cards1{card1, card2, card3, card4, card5};
     CardCollection cc1(cards1);
     ASSERT_TRUE(cc1.containsSuit("C"));
+}
+
+TEST(CardCollectionTests, TestFindByRank) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc1(cards1);
+    Card card = cc1.findByRank(7);
+    ASSERT_TRUE(card == card2);
+}
+
+TEST(CardCollectionTests, TestSetDifference) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+
+    Card card6(7, "H");
+    Card card7(13, "D");
+    Card card8(10, "D");
+    Card card9(9, "C");
+    Card card10(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    std::vector<Card> cards2{card6, card7, card8, card9, card10};
+    CardCollection cc1(cards1);
+    CardCollection cc2(cards2);
+    CardCollection diff = cc1.set_difference(cc2);
+    ASSERT_EQ(diff.size(), 4);
+}
+
+TEST(CardCollectionTests, TestSetIntersection) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+
+    Card card6(7, "H");
+    Card card7(13, "D");
+    Card card8(10, "D");
+    Card card9(9, "C");
+    Card card10(10, "S");
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    std::vector<Card> cards2{card6, card7, card8, card9, card10};
+    CardCollection cc1(cards1);
+    CardCollection cc2(cards2);
+    CardCollection diff = cc1.set_intersection(cc2);
+    ASSERT_EQ(diff.size(), 1);
 }
 
 

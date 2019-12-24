@@ -239,6 +239,33 @@ protected:
             eightOfDiamonds,
             nineOfClubs,
             tenOfDiamonds,
+            jackOfDiamonds
+    );
+    Hand flush1 = createHand(
+            twoOfClubs,
+            fiveOfClubs,
+            sevenOfClubs,
+            eightOfDiamonds,
+            nineOfClubs,
+            tenOfDiamonds,
+            jackOfClubs
+    );
+    Hand straight_flush1 = createHand(
+            twoOfClubs,
+            threeOfClubs,
+            fourOfClubs,
+            fiveOfClubs,
+            sixOfClubs,
+            tenOfDiamonds,
+            jackOfSpades
+    );
+    Hand straight_flush2 = createHand(
+            twoOfClubs,
+            threeOfClubs,
+            fourOfClubs,
+            fiveOfClubs,
+            sixOfClubs,
+            tenOfDiamonds,
             jackOfClubs
     );
 };
@@ -333,7 +360,7 @@ TEST_F(EvaluatorTests, TestFourOfAKindIsA) {
 
 TEST_F(EvaluatorTests, TestFourOfAKindBest5) {
     std::string expected = "[Card(2C), Card(2D), Card(2H), Card(2S), Card(14D)]";
-        checkBest5(four_of_a_kind, expected);
+    checkBest5(four_of_a_kind, expected);
 }
 
 TEST_F(EvaluatorTests, TestStraight1IsA) {
@@ -355,10 +382,9 @@ TEST_F(EvaluatorTests, TestStraight2IsA) {
 }
 
 TEST_F(EvaluatorTests, TestStraight2Best5) {
-    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(12C), Card(12D)]";
+    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(14C)]";
     checkBest5(straight2, expected);
 }
-
 
 
 TEST_F(EvaluatorTests, TestStraight3IsA) {
@@ -391,6 +417,39 @@ TEST_F(EvaluatorTests, TestStraight5best5) {
     std::string expected = "[Card(7C), Card(8D), Card(9C), Card(10D), Card(11C)]";
     checkBest5(straight5, expected);
 }
+
+TEST_F(EvaluatorTests, TestFlushIsA) {
+    Flush flush(flush1);
+    ASSERT_TRUE(flush.isa());
+}
+
+TEST_F(EvaluatorTests, TestFlushBest5) {
+    std::string expected = "[Card(2C), Card(5C), Card(7C), Card(9C), Card(11C)]";
+    checkBest5(flush1, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestStraightFlushIsA) {
+    StraightFlush straight_flush(straight_flush1);
+    ASSERT_TRUE(straight_flush.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushBest5) {
+    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
+    checkBest5(straight_flush1, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushIsA2) {
+    StraightFlush straight_flush(straight_flush2);
+    ASSERT_TRUE(straight_flush.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushBest52) {
+    std::string expected = "[Card(2C), Card(5C), Card(7C), Card(9C), Card(11C)]";
+    checkBest5(straight_flush2, expected);
+}
+
+
 
 
 

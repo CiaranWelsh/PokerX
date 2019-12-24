@@ -301,17 +301,34 @@ namespace cards {
         return false;
     }
 
-    Card* CardCollection::findByRank(int rank) {
+    Card CardCollection::findByRank(int rank) {
         Card* ptr = nullptr;
         for (Card card : _cards) {
-            if (card.rank == rank)
+            if (card.rank == rank) {
                 ptr = &card;
+                cout << "not null ptr" << endl;
+                return card;
+            }
         }
-        return ptr;
+        return* ptr;
     };
 
     void CardCollection::clear() {
         _cards.clear();
+    }
+
+    CardCollection CardCollection::set_difference(CardCollection &other) {
+        std::vector<Card> diff;
+        std::set_difference(_cards.begin(), _cards.end(), other.begin(), other.end(),
+        std::inserter(diff, diff.begin()));
+        return CardCollection(diff);
+    }
+
+    CardCollection CardCollection::set_intersection(CardCollection &other) {
+        std::vector<Card> intersect;
+        std::set_intersection(_cards.begin(), _cards.end(), other.begin(), other.end(),
+        std::inserter(intersect, intersect.begin()));
+        return CardCollection(intersect);
     }
 
 }
