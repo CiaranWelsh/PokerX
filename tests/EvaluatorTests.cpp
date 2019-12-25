@@ -445,7 +445,7 @@ TEST_F(EvaluatorTests, TestStraightFlushIsA2) {
 }
 
 TEST_F(EvaluatorTests, TestStraightFlushBest52) {
-    std::string expected = "[Card(2C), Card(5C), Card(7C), Card(9C), Card(11C)]";
+    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
     checkBest5(straight_flush2, expected);
 }
 

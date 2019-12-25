@@ -54,6 +54,10 @@ namespace eval {
     CardCollection Hand::best5(CardCollection cards) {
         return cards(2, cards.size());
     }
+    CardCollection Hand::best5() {
+        CardCollection cards = _cards;
+        return best5(cards);
+    }
 
     bool Hand::isa() {
         throw errors::NotImplementedException();
@@ -365,40 +369,11 @@ namespace eval {
 
         Counter<std::string> suit_count(_cards.getSuits());
         Counter<int> rank_count(_cards.getRanks());
-        int which_rank = -1;
-        std::string which_suit = "";
-
-        for (pair<const int, int> i : rank_count.count()) {
-            cout << i.first << i.second << endl;
-            if (i.second == 5)
-                which_rank = i.first;
-        }
-
-        for (pair<const std::string, int> i : suit_count.count()) {
-            if (i.second == 5)
-                which_suit = i.first;
-        }
-        CardCollection best5;
-        for (const Card& card : _cards){
-            cout << "card.rank: " << card.rank << "; card.suit " << card.suit
-            << "which rank " << which_rank << "which suit: "<< which_suit << endl;
-            if (card.rank == which_rank && card.suit == which_suit)
-                best5.add(card);
-        }
-        cout << "best 5 is: " << best5 << endl;
-        if (best5.size() > 5){
-            best5.sort();
-            best5(best5.size()-5, best5.size());
-            return best5;
-        }
-
-        if (best5.size() < 5) {
-            cout << "best5 < 5: " << best5.size() << endl;
-            throw errors::BadError();
-        }
+        Straight straight(_cards);
+        Flush flush(_cards);
+        CardCollection best5 = straight.Hand::best5().set_intersection(flush.Hand::best5());
         return best5;
     }
-
 
     bool StraightFlush::isa() {
         return Straight(_cards).isa() && Flush(_cards).isa();

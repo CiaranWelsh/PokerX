@@ -98,9 +98,9 @@ namespace cards {
 
         void clear();
 
-        CardCollection set_difference(CardCollection &other);
+        CardCollection set_difference(CardCollection other);
 
-        CardCollection set_intersection(CardCollection &other);
+        CardCollection set_intersection(CardCollection other);
     };
 }
 

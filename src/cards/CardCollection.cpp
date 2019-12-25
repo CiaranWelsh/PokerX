@@ -317,14 +317,14 @@ namespace cards {
         _cards.clear();
     }
 
-    CardCollection CardCollection::set_difference(CardCollection &other) {
+    CardCollection CardCollection::set_difference(CardCollection other) {
         std::vector<Card> diff;
         std::set_difference(_cards.begin(), _cards.end(), other.begin(), other.end(),
         std::inserter(diff, diff.begin()));
         return CardCollection(diff);
     }
 
-    CardCollection CardCollection::set_intersection(CardCollection &other) {
+    CardCollection CardCollection::set_intersection(CardCollection other) {
         std::vector<Card> intersect;
         std::set_intersection(_cards.begin(), _cards.end(), other.begin(), other.end(),
         std::inserter(intersect, intersect.begin()));
