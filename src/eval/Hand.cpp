@@ -385,11 +385,20 @@ namespace eval {
             : Hand(holeCards, communityCards) {}
 
     CardCollection RoyalFlush::best5(CardCollection cards) {
-        return CardCollection();
+        if (!isa())
+            return CardCollection();
+        StraightFlush straight_flush(cards);
+        return straight_flush.Hand::best5();
     }
 
     bool RoyalFlush::isa() {
-        return false;
+        StraightFlush sflush(_cards);
+        CardCollection sflushcards = sflush.Hand::best5();
+        return sflush.isa() && sflushcards[0].rank == 10
+               && sflushcards[1].rank == 11
+               && sflushcards[2].rank == 12
+               && sflushcards[3].rank == 13
+               && sflushcards[4].rank == 14;
     }
 
     RoyalFlush::RoyalFlush(const Hand &hand1) : Hand(hand1) {}

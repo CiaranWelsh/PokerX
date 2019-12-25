@@ -268,6 +268,15 @@ protected:
             tenOfDiamonds,
             jackOfClubs
     );
+    Hand royal_flush1 = createHand(
+            tenOfClubs,
+            jackOfClubs,
+            queenOfClubs,
+            kingOfClubs,
+            aceOfClubs,
+            tenOfDiamonds,
+            jackOfSpades
+    );
 };
 
 
@@ -447,6 +456,15 @@ TEST_F(EvaluatorTests, TestStraightFlushIsA2) {
 TEST_F(EvaluatorTests, TestStraightFlushBest52) {
     std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
     checkBest5(straight_flush2, expected);
+}
+TEST_F(EvaluatorTests, TestRoyalFlushIsA2) {
+    RoyalFlush royalFlush(royal_flush1);
+    ASSERT_TRUE(royalFlush.isa());
+}
+
+TEST_F(EvaluatorTests, TestRoyalFlushBest52) {
+    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]!";
+    checkBest5(royal_flush1, expected);
 }
 
 
