@@ -11,6 +11,17 @@ add_library(${BINARY}_lib STATIC
         eval/Evaluator.cpp eval/Evaluator.h
         Errors.h
         utils/Counter.h
+
+        players/Player.h players/Player.cpp
+#        players/Random.h players/Random.cpp
+        players/CallStation.h players/CallStation.cpp
+        players/ActionType.h
+
+#        game/Dealer.h game/Dealer.cpp
+#        game/Positions.h game/Positions.cpp
+#        game/Pot.h game/Pot.cpp
+#        game/Seat.h game/Seat.cpp
+#        game/Table.h game/Table.cpp
         )
 
 

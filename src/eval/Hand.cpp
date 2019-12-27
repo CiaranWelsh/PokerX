@@ -9,7 +9,6 @@
 #include "cards/CommunityCards.h"
 #include "cards/HoleCards.h"
 #include "Errors.h"
-#include <typeinfo>
 #include "utils/Counter.h"
 
 using namespace std;
@@ -136,6 +135,10 @@ namespace eval {
         unique_ptr<HighCard> highCard = std::make_unique<HighCard>(*this);
         return highCard;
     }
+
+//    Hand Hand::evaluate(const std::vector<Hand>& hands) {
+//        return ;
+//    }
 
     Hand::Hand(CardCollection collection) {
         if (collection.size() != 7)

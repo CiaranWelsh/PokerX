@@ -105,6 +105,8 @@ namespace eval {
         }
 
         CardCollection best5();
+
+        static Hand evaluate(const vector<Hand>& hands);
     };
 
     class HighCard : public Hand {
