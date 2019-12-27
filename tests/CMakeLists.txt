@@ -7,7 +7,7 @@ add_executable(${BINARY} main.cpp
         HoleCardTests.cpp
         EvaluatorTests.cpp
         CounterTests.cpp
-        PlayerTests.cpp)
+        PlayerTests.cpp PotTests.cpp)
 
 add_test(NAME ${BINARY} COMMAND ${BINARY})
 

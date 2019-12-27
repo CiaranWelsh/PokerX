@@ -8,8 +8,11 @@
 
 using namespace std;
 
-TEST(PlayerTests, test1){
+TEST(PlayerTests, test_ostream_operator){
     CallStation callStation("Boid");
+    string expected = "Player(name=\"Boid\", stack=0)";
+    ostringstream actual;
+    actual << callStation;
     cout << callStation;
-//    cout << callStation;
+    ASSERT_EQ(expected, actual.str());
 }

@@ -15,6 +15,10 @@ class Player {
 public:
     Player();
 
+    ~Player();
+
+    explicit Player(Player &player);
+
     double stack = 0;
 
     explicit Player(std::string name);
@@ -29,7 +33,7 @@ public:
 
     virtual ActionType play();
 
-    friend ostream& operator<<(ostream os, Player player);
+    friend ostream& operator<<(ostream& os, Player& player);
 };
 
 #endif //_PLAYER_H
