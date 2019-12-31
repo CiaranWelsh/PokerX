@@ -3,23 +3,31 @@
  */
 
 
+#include <iostream>
 #include "Pot.h"
 
-/**
- * Pot implementation
- */
 
+Pot::Pot(int value) : value((double) value) {};
 
-/**
- * @return Pot&
- */
-Pot& Pot::add() {
-    return null;
+Pot::Pot(Pot &pot) {this->value = pot.value;}
+
+Pot::Pot(double value) : value(value) {}
+
+Pot &Pot::operator+(const Pot &other) {
+    value += other.value;
+    return *this;
 }
 
-/**
- * @return Pot&
- */
-Pot& Pot::minus() {
-    return null;
+Pot &Pot::operator-(const Pot &other) {
+    value -= other.value;
+    return *this;
 }
+
+std::ostream &operator<<(std::ostream &os, const Pot &pot) {
+    os << "Pot(value=" << pot.value << ")";
+    return os;
+}
+
+Pot::Pot() = default;
+
+Pot::~Pot() = default;

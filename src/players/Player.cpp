@@ -30,8 +30,7 @@ void Player::setName(std::string name) {
 }
 
 ostream &operator<<(ostream &os, Player &player) {
-    std::string type = boost::typeindex::type_id<decltype(player)>().pretty_name();
-    os << type << "(name=\"" << player.getName() << "\", stack=" << player.stack << ")";
+    os << player.type << "(name=\"" << player.getName() << "\", stack=" << player.stack << ")";
     return os;
 }
 
@@ -42,6 +41,10 @@ ActionType Player::play() {
 Player::Player(Player &player) {
     stack = player.stack;
     _name = player.getName();
+}
+
+std::string Player::getType() {
+    return type;
 }
 
 Player::~Player() = default;

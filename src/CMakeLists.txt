@@ -13,13 +13,13 @@ add_library(${BINARY}_lib STATIC
         utils/Counter.h
 
         players/Player.h players/Player.cpp
-#        players/Random.h players/Random.cpp
         players/CallStation.h players/CallStation.cpp
         players/ActionType.h
+        #        players/Random.h players/Random.cpp
 
 #        game/Dealer.h game/Dealer.cpp
-#        game/Positions.h game/Positions.cpp
-#        game/Pot.h game/Pot.cpp
+        game/Positions.h game/Positions.cpp
+        game/Pot.h game/Pot.cpp
 #        game/Seat.h game/Seat.cpp
 #        game/Table.h game/Table.cpp
         )

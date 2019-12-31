@@ -11,13 +11,16 @@
 #include "ActionType.h"
 
 class Player {
+private:
+    std::string type = "Player";
+protected:
     std::string _name;
 public:
     Player();
 
     ~Player();
 
-    explicit Player(Player &player);
+    Player(Player &player);
 
     double stack = 0;
 
@@ -34,6 +37,8 @@ public:
     virtual ActionType play();
 
     friend ostream& operator<<(ostream& os, Player& player);
+
+    std::string getType();
 };
 
 #endif //_PLAYER_H
