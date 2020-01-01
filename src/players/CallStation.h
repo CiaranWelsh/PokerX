@@ -25,6 +25,8 @@ public:
 
     explicit CallStation(Player player);
 
+    explicit CallStation(Player *player);
+
     explicit CallStation(std::string name);
 
 };

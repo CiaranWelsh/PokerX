@@ -8,11 +8,14 @@
 
 #include "vector"
 #include "players/Player.h"
+#include <boost/shared_ptr.hpp>
 
 namespace game {
+    typedef boost::shared_ptr<Player> PlayerPtr;
+
     class Positions {
     private:
-        vector<Player*> _positions;
+        vector<PlayerPtr> _positions;
     public:
         Positions();
 
@@ -20,15 +23,21 @@ namespace game {
 
         Positions(Positions &positions);
 
-        vector<Player *> getPositions();
+        explicit Positions(std::vector<PlayerPtr> vec);
 
-        void addPlayer(Player *player);
+        vector<boost::shared_ptr<Player>> getPositions();
 
-        void addPlayer(Player *player, int index);
+        void addPlayer(const PlayerPtr& player_ptr);
+
+        void addPlayer(const PlayerPtr& player, int index);
 
         void rotate();
 
-        Player *operator[](int index);
+        PlayerPtr operator[](int index);
+
+        static Positions callStations(int howMany);
+
+        int size();
 
 
     };

@@ -5,6 +5,8 @@
 
 #include <players/CallStation.h>
 #include "Positions.h"
+#include <iostream>
+#include <sstream>
 
 /**
  * Positions implementation
@@ -17,36 +19,48 @@ namespace game {
     Positions::Positions(Positions &positions) {
         this->_positions = positions._positions;
     }
+    Positions::Positions(std::vector<PlayerPtr> vec) {
+        this->_positions = vec;
+    }
 
-    vector<Player *> Positions::getPositions() {
+    vector<boost::shared_ptr<Player>> Positions::getPositions() {
         return _positions;
     }
 
-    void Positions::addPlayer(Player *player) {
-        _positions.push_back(player);
+    void Positions::addPlayer(const PlayerPtr &player_ptr) {
+        _positions.push_back(player_ptr);
     }
 
-    void Positions::addPlayer(Player *player, int index) {
+    void Positions::addPlayer(const PlayerPtr &player, int index) {
         _positions.insert(_positions.begin() + index, player);
     }
 
     void Positions::rotate() {
-        Player front_player = *_positions[0];
+        PlayerPtr front_player = _positions[0];
         _positions.erase(_positions.begin());
-        _positions.push_back(&front_player);
+        _positions.push_back(front_player);
     }
 
-    /*
-     * This getter function needs to have a factory design
-     * of some variety. I intend to add more players later,
-     * and I dont know how many or their identity. Therefore
-     * instead of hard coding a bunch of if else s5tatements,
-     * find a way of implementing a design that means any player can be
-     * added to a position.
-     */
-    Player* Positions::operator[](int index) {
-        if (_positions[index]->getType() == "CallStation")
-            CallStation cs(*_positions[index]);
-            return *cs;
+    PlayerPtr Positions::operator[](int index) {
+        return _positions[index];
     }
+
+    Positions Positions::callStations(int howMany) {
+        ostringstream name;
+        std::vector<PlayerPtr> positions;
+        for (int i = 0; i < howMany; i++) {
+            name << "player" << i;
+            PlayerPtr ptr(new CallStation(name.str()));
+            positions.push_back(ptr);
+            name.flush();
+        };
+        Positions pos(positions);
+        return pos;
+    }
+
+
+    int Positions::size() {
+        return _positions.size();
+    }
+
 }
