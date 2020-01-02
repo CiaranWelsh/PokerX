@@ -22,13 +22,13 @@ public:
 
     Player(Player &player);
 
+    cards::HoleCards holeCards;
+
     double stack = 0;
 
     explicit Player(std::string name);
 
     bool inplay = false;
-
-    eval::Hand *hand{};
 
     std::string getName();
 

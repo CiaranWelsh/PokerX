@@ -1,35 +1,38 @@
 #ifndef _DEALER_H
 #define _DEALER_H
 
+#include <cards/Deck.h>
 #include "cards/HoleCards.h"
 #include "cards/CommunityCards.h"
 #include "cards/CardCollection.h"
 #include "cards/Card.h"
 #include "players/Player.h"
+#include "Players.h"
 
-class Dealer {
-public:
-    Dealer(Dealer &dealer);
+namespace game {
+    class Dealer {
+    private:
+        Deck deck;
+    public:
+        Dealer(Dealer &dealer);
 
-    Dealer();
+        Dealer();
 
-    cards::HoleCards dealHoleCards();
+        void shuffle();
 
-    cards::Card dealCard();
+        int deckSize();
 
-    void discardTopCard();
+        void dealHoleCards(Players &players);
 
-    cards::CardCollection dealFlop();
+        cards::Card dealCard();
 
-    cards::Card dealTurn();
+        cards::CardCollection dealFlop();
 
-    cards::Card dealRiver();
+        cards::Card dealTurn();
 
-    void presentOptions(void Player & player);
+        cards::Card dealRiver();
 
-    class Class1 {
+        void presentOptions(Player &player);
     };
-
-};
-
+}
 #endif //_DEALER_H

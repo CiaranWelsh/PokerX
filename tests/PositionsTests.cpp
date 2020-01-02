@@ -6,7 +6,7 @@
 #include "players/CallStation.h"
 #include "iostream"
 #include "game/Pot.h"
-#include "game/Positions.h"
+#include "game/Players.h"
 #include "players/CallStation.h"
 
 using namespace std;
@@ -14,7 +14,7 @@ using namespace game;
 
 class PositionsTests : public ::testing::Test {
 protected:
-    Positions positions;
+    Players positions;
 public:
     PositionsTests() {
         for (int i = 0; i < 9; i++) {
@@ -52,7 +52,7 @@ TEST_F(PositionsTests, TestAddPLayerIntoPosition5) {
 }
 
 TEST_F(PositionsTests, TestCallStationsStaticMethod) {
-    positions = Positions::callStations(6);
+    positions = Players::callStations(6);
     int expected = 6;
     int actual = positions.size();
     ASSERT_EQ(expected, actual);

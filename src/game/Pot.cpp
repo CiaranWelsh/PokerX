@@ -28,6 +28,15 @@ std::ostream &operator<<(std::ostream &os, const Pot &pot) {
     return os;
 }
 
+Pot &Pot::operator=(int amount) {
+    value = (double) amount;
+    return *this;
+}
+Pot &Pot::operator=(double amount) {
+    value = amount;
+    return *this;
+}
+
 Pot::Pot() = default;
 
 Pot::~Pot() = default;

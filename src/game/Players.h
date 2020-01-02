@@ -13,17 +13,17 @@
 namespace game {
     typedef boost::shared_ptr<Player> PlayerPtr;
 
-    class Positions {
+    class Players {
     private:
         vector<PlayerPtr> _positions;
     public:
-        Positions();
+        Players();
 
-        ~Positions();
+        ~Players();
 
-        Positions(Positions &positions);
+        Players(Players &positions);
 
-        explicit Positions(std::vector<PlayerPtr> vec);
+        explicit Players(std::vector<PlayerPtr> vec);
 
         vector<boost::shared_ptr<Player>> getPositions();
 
@@ -35,10 +35,13 @@ namespace game {
 
         PlayerPtr operator[](int index);
 
-        static Positions callStations(int howMany);
+        static Players callStations(int howMany, double start_amount=10);
 
         int size();
 
+        std::vector<PlayerPtr>::iterator begin();
+
+        std::vector<PlayerPtr>::iterator end();
 
     };
 }

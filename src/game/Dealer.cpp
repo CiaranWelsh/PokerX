@@ -12,58 +12,52 @@
  * Dealer implementation
  */
 
+namespace game {
 
+    Dealer::Dealer(Dealer &dealer) {}
 
-Dealer::Dealer(Dealer &dealer) {}
+    Dealer::Dealer() = default;
 
-/**
- * @return HoleCards
- */
-HoleCards Dealer::dealHoleCards() {
-    return HoleCards();
-}
+    void Dealer::dealHoleCards(Players &players) {
+        for (int i=0; i<2; i++) {
+            for (const PlayerPtr& player: players) {
+                player->holeCards.add(deck.pop());
+            }
+        }
+    }
 
-/**
- * @return Card
- */
-Card Dealer::dealCard() {
-    return Card;
-}
+    Card Dealer::dealCard() {
+        Card card = deck.pop();
+        return card;
+    }
 
-/**
- * @return void
- */
-void Dealer::discardTopCard() {
-    return;
-}
+    CardCollection Dealer::dealFlop() {
+        CardCollection flop;
+        deck.pop();
+        flop.add(deck.pop());
+        flop.add(deck.pop());
+        flop.add(deck.pop());
+        return flop;
+    }
 
-/**
- * @return CardCollection
- */
-CardCollection Dealer::dealFlop() {
-    return null;
-}
+    Card Dealer::dealTurn() {
+        deck.pop();
+        return deck.pop();
+    }
 
-/**
- * @return Card
- */
-Card Dealer::dealTurn() {
-    return null;
-}
+    Card Dealer::dealRiver() {
+        deck.pop();
+        return deck.pop();
+    }
 
-/**
- * @return Card
- */
-Card Dealer::dealRiver() {
-    return null;
-}
+    void Dealer::presentOptions(Player &player) {}
 
-/**
- * @param Player &player
- */
-void Dealer::presentOptions(void Player &player) {
+    void Dealer::shuffle() {
+        deck.shuffle();
+    }
+
+    int Dealer::deckSize() {
+        return deck.size();
+    }
 
 }
-/**
- * Class1 implementation
- */

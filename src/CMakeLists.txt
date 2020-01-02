@@ -17,12 +17,11 @@ add_library(${BINARY}_lib STATIC
         players/ActionType.h
         #        players/Random.h players/Random.cpp
 
-#        game/Dealer.h game/Dealer.cpp
-        game/Positions.h game/Positions.cpp
+        game/Dealer.h game/Dealer.cpp
+        game/Players.h game/Players.cpp
         game/Pot.h game/Pot.cpp
-#        game/Seat.h game/Seat.cpp
-#        game/Table.h game/Table.cpp
-        )
+        game/Table.h game/Table.cpp
+        game/Street.h)
 
 
 

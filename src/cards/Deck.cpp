@@ -15,6 +15,7 @@ using namespace std;
 
 Deck::Deck() : CardCollection() {
     _cards = buildDeck();
+    shuffle();
 };
 
 Deck::Deck(vector<cards::Card> &cards) :

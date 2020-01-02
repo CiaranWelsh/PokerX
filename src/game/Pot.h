@@ -1,7 +1,7 @@
 /**
  * Project PokerSimulationsInCpp
  */
-
+#include "ostream"
 
 #ifndef _POT_H
 #define _POT_H
@@ -23,6 +23,10 @@ public:
     Pot& operator+(const Pot& other);
 
     Pot& operator-(const Pot& other);
+
+    Pot& operator=(int amount);
+
+    Pot& operator=(double amount);
 
     friend std::ostream &operator<<(std::ostream &os, const Pot& pot);
 };
