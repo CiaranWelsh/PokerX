@@ -39,13 +39,15 @@ namespace eval {
         std::string name;
 
     public:
-        Hand(CardCollection collection);
+        explicit Hand(CardCollection collection);
 
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         ~Hand(); // destructor
 
         Hand(const Hand &hand); // copy constructor
+
+        Hand& operator=(const Hand& hand);
 
         CommunityCards getCards();
 
@@ -106,7 +108,6 @@ namespace eval {
 
         CardCollection best5();
 
-        static Hand evaluate(const vector<Hand>& hands);
     };
 
     class HighCard : public Hand {

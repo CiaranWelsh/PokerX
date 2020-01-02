@@ -20,6 +20,11 @@ namespace errors {
         BadError() : std::logic_error("You did a bad") {};
     };
 
+    class NullPointerException : public std::logic_error {
+    public:
+        NullPointerException() : std::logic_error("You have a nullptr where there shouldn't be one") {};
+    };
+
 
 };
 

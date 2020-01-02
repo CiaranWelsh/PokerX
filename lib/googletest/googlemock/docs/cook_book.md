@@ -2625,9 +2625,9 @@ using ::testing::SetArgPointee;
 ```
 
 However, if the action has its own state, you may be surprised if you share the
-action object. Suppose you have an action factory `IncrementCounter(init)` which
+action object. Suppose you have an action factory `IncrementCounter(reset)` which
 creates an action that increments and returns a counter whose initial value is
-`init`, using two actions created from the same expression and using a shared
+`reset`, using two actions created from the same expression and using a shared
 action will exhibit different behaviors. Example:
 
 ```cpp

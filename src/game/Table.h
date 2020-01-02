@@ -10,20 +10,38 @@
 #include "Dealer.h"
 #include "Players.h"
 #include "Street.h"
+#include "events/Event.h"
+//#include "events/time_event/BeginGame.h"
 
 namespace game {
     class Table {
     private:
-//        State current_state;
         Pot pot;
         double small_blind = 0.5;
         double big_blind = 1.0;
         Street street = Preflop;
         PlayerPtr current_player = players[0]; //Player 0 is the btn
-        bool begin_street = true;
+
     public:
 
-        void init();
+        // boolean flags marking poker landmarks
+        bool game_started = false;
+        bool game_ended = false;
+        bool small_blind_posted = false;
+        bool big_blind_posted = false;
+        bool ante_posted = false;
+        bool dealt_hole_cards = false;
+        bool preflop_done = false;
+        bool flop_done = false;
+        bool turn_done = false;
+        bool river_done = false;
+        bool dealt_preflop = false;
+        bool dealt_flop = false;
+        bool dealt_turn = false;
+        bool dealt_river = false;
+        bool showdown = false;
+
+        void reset();
 
         Table();
 
@@ -52,7 +70,11 @@ namespace game {
 
         void rotate_players();
 
+//        void setEvent(events::Event* event);
 
+        void step();
+
+//        events::Event* current_event = nullptr;
     };
 }
 #endif //_TABLE_H

@@ -18,6 +18,7 @@ TEST(DeckTests, TestLen) {
 
 TEST(DeckTests, TestOstream) {
     Deck deck;
+    deck.sort(); //unshuffle
     stringstream expected;
     expected
             << "[Card(2S), Card(2H), Card(2D), Card(2C), Card(3S), Card(3H), Card(3D), Card(3C),"
@@ -51,6 +52,7 @@ TEST(DeckTests, TestShuffle) {
 
 TEST(DeckTests, TestPop) {
     Deck deck;
+    deck.sort(); //unshuffle
     Card card = deck.pop();
     stringstream expected;
 
@@ -82,6 +84,7 @@ TEST(DeckTests, IteratorTest) {
 
 TEST(DeckTests, GetOperatorTests) {
     Deck deck;
+    deck.sort(); //unshuffle
     Card actual = deck[4]; // 5th element
     Card expected = Card(3, "S");
     ASSERT_TRUE(expected == actual);

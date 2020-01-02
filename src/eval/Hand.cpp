@@ -110,6 +110,9 @@ namespace eval {
         cout << "checking for Straight" << endl;
 
         unique_ptr<Straight> straight = std::make_unique<Straight>(*this);
+        cout << "dead" << endl;
+        cout << *straight << endl;
+
         if (straight->isa()) {
             return straight;
         }
@@ -145,6 +148,15 @@ namespace eval {
             throw std::invalid_argument("need 7 cards");
         this->_cards = collection.getCards();
     }
+
+//    Hand &Hand::operator=(const Hand &rhs) {
+//    if(this == &rhs)
+//       return *this;
+//    _holeCards = rhs._holeCards;
+//    _communityCards = rhs._communityCards;
+//    _cards = rhs._cards;
+//    return *this;
+//    }
 
     /*
      * High card implementation

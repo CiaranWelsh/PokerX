@@ -1,5 +1,6 @@
+#include <events/time_event/BeginGame.h>
 #include "Table.h"
-
+#include "errors.h"
 
 namespace game {
     void Table::resetPot() {
@@ -38,7 +39,11 @@ namespace game {
         return big_blind;
     }
 
-    Table::Table() = default;
+    Table::Table() {
+        reset();
+//        events::BeginGame beginGame;
+//        setEvent(&beginGame);
+    };
 
     Table::~Table() = default;
 
@@ -49,7 +54,7 @@ namespace game {
         return table;
     }
 
-    void Table::init() {
+    void Table::reset() {
         street = Preflop;
         pot = 0.0;
     }
@@ -57,6 +62,18 @@ namespace game {
     void Table::rotate_players() {
         players.rotate();
     }
+
+//    void Table::setEvent(events::Event *event) {
+//        current_event = event;
+//    }
+
+//    void Table::step() {
+//        if (!current_event)
+//            throw errors::NullPointerException();
+//        current_event->go();
+//    }
+
+
 }
 
 
