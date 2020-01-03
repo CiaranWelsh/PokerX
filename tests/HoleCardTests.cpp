@@ -10,10 +10,10 @@
 
 TEST(HoleCardTests, HoleCardTests) {
     Deck deck = Deck();
+    deck.sort();
     Card card1 = deck.pop();
     Card card2 = deck.pop();
     HoleCards h(card1, card2);
-    Card expected(2, "S");
-    ASSERT_TRUE(card1 == expected);
+    ASSERT_TRUE(card1.rank == 2);
 }
 

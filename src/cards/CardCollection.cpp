@@ -226,7 +226,6 @@ namespace cards {
 
     CardCollection CardCollection::operator()(unsigned int start, unsigned int end) {
         std::vector<Card> sliced = std::vector<Card>(_cards.begin() + start, _cards.begin() + end);
-        cout << sliced.size() << endl;
         _cards = sliced;
         return *this;
     }
@@ -306,7 +305,6 @@ namespace cards {
         for (Card card : _cards) {
             if (card.rank == rank) {
                 ptr = &card;
-                cout << "not null ptr" << endl;
                 return card;
             }
         }
@@ -329,6 +327,10 @@ namespace cards {
         std::set_intersection(_cards.begin(), _cards.end(), other.begin(), other.end(),
         std::inserter(intersect, intersect.begin()));
         return CardCollection(intersect);
+    }
+
+    CardCollection CardCollection::copy() {
+        return CardCollection(_cards);
     }
 
 }

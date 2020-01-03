@@ -9,6 +9,8 @@
 
 TEST(CommCardTests, CommCardsTests) {
     Deck deck = Deck();
+        deck.sort();
+
     Card card1 = deck.pop();
     Card card2 = deck.pop();
     Card card3 = deck.pop();
@@ -16,21 +18,19 @@ TEST(CommCardTests, CommCardsTests) {
     Card card5 = deck.pop();
     CommunityCards comm = CommunityCards(
             card1, card2, card3);
-    Card expected = Card(2, "S");
-    ASSERT_TRUE(comm[0] == expected);
+    ASSERT_TRUE(comm[0].rank == 2);
 }
 
 TEST(CommCardTests, CommCardsTestsTurn) {
     Deck deck = Deck();
+    deck.sort();
     Card card1 = deck.pop();
     Card card2 = deck.pop();
     Card card3 = deck.pop();
     Card card4 = deck.pop();
     CommunityCards comm = CommunityCards(
             card1, card2, card3, card4 );
-    Card expected = Card(2, "S");
-    cout << card1 << endl;
-    ASSERT_TRUE(card1 == expected);
+    ASSERT_TRUE(card1.rank == 2);
 }
 
 

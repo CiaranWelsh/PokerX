@@ -326,6 +326,20 @@ TEST(CardCollectionTests, TestSetIntersection) {
 }
 
 
+TEST(CardCollectionTests, TestCopy) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+    Card card4(12, "S");
+    Card card5(10, "S");
+
+    std::vector<Card> cards1{card1, card2, card3, card4, card5};
+    CardCollection cc1(cards1);
+    CardCollection cc2 = cc1.copy();
+    ASSERT_NE(&cc1, &cc2);
+}
+
+
 
 
 
