@@ -172,8 +172,6 @@ namespace eval {
     }
 
 
-
-
     /*
      * High card implementation
      */
@@ -226,8 +224,9 @@ namespace eval {
      */
 
     CardCollection Straight::best5(CardCollection cards) {
-        if (!isa())
+        if (!isa()) {
             return CardCollection();
+        }
         std::vector<int> ranks = _cards.getRanks();
         // three frames are possible with 5 consequative numbers in 7
         int frames[] = {0, 1, 2};
@@ -236,7 +235,7 @@ namespace eval {
         CardCollection best5;
         if (cards[0].rank == 2 && cards[1].rank == 3 && cards[2].rank == 4 &&
             cards[3].rank == 5 && cards[6].rank == 14) {
-            for (int i : {0, 1, 2, 3, 7}) {
+            for (int i : {0, 1, 2, 3, 6}) {
                 best5.add(cards[i]);
             }
         }
@@ -250,10 +249,12 @@ namespace eval {
                     best5.add(cards[i]);
                     current_rank++;
                 }
-                if (best5.size() == 5)
+                if (best5.size() == 5) {
                     return best5;
+                }
             }
         }
+        cout << "here9: " << endl;
         return best5;
     }
 

@@ -28,6 +28,7 @@ namespace eval {
 
     };
 
+
     class Hand : IHand {
     protected:
         HoleCards _holeCards;

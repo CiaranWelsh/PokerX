@@ -27,7 +27,6 @@ protected:
         ostringstream actual;
         cout << "here3: " << *x << endl;
         CardCollection best5 = x->best5(hand.getCards());
-        cout << "here4: " << *x << endl;
         best5.sort();
         actual << best5;
         cout << actual.str() << endl;
@@ -396,6 +395,7 @@ TEST_F(EvaluatorTests, TestStraight1Best5) {
     std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6D)]";
     checkBest5(straight1, expected);
 }
+
 
 
 //TEST_F(EvaluatorTests, TestStraight2IsA) {
