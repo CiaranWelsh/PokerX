@@ -15,11 +15,11 @@ using namespace std;
 using namespace game;
 
 TEST(SinglePokerHandTests, test) {
-    Table table;
-    table = Table::CallStationTable(9);
-    table.init(); // set turn_to_act to dealer, street to preflop, pot and subpots to 0, current player to nullptr, posgt blinds.
-    table.step();
-    table.reset();
+//    Table table;
+//    table = Table::CallStationTable(9);
+//    table.init(); // set turn_to_act to dealer, street to preflop, pot and subpots to 0, current player to nullptr, posgt blinds.
+//    table.step();
+//    table.reset();
 //    table.rotate_players();
 //    table.dealer.nextplayer();
 //    table.current_player.small_blind();

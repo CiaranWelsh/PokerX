@@ -20,7 +20,7 @@ using namespace cards;
 
 namespace eval {
 
-    class HandInterface {
+    class IHand {
     public:
         virtual CardCollection best5(CardCollection cards) = 0;
 
@@ -28,24 +28,30 @@ namespace eval {
 
     };
 
-    class Hand : HandInterface {
+    class Hand : IHand {
     protected:
         HoleCards _holeCards;
-
         CommunityCards _communityCards;
         CardCollection _cards = _holeCards + _communityCards;
     private:
+        std::string type = "Hand";
+
         friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
+
         std::string name;
 
     public:
-        Hand(CardCollection collection);
+        explicit Hand(CardCollection collection);
 
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         ~Hand(); // destructor
 
+        explicit Hand(Hand* hand);
+
         Hand(const Hand &hand); // copy constructor
+
+        Hand &operator=(Hand &hand); //copy assignment
 
         CommunityCards getCards();
 
@@ -54,8 +60,6 @@ namespace eval {
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
-
-        std::unique_ptr<Hand> evaluate();
 
         bool xOfAKindIsA(int x, int how_many = 1);
 
@@ -66,7 +70,7 @@ namespace eval {
         template<class HandType>
         CardCollection xOfAKindBest5(int x) {
             CardCollection cards = getCards();
-            HandType handType(*this);
+            HandType handType(_cards);
             if (!handType.isa())
                 // if not isa HandType, return empty CardCollection.
                 return CardCollection();
@@ -106,14 +110,25 @@ namespace eval {
 
         CardCollection best5();
 
-        static Hand evaluate(const vector<Hand>& hands);
+        std::unique_ptr<Hand> evaluate();
+
+        /*
+         * This is for determining which is the best hand.
+         * Not yet implemented as not needed until gameplay
+         * is ready.
+         */
+        static Hand evaluate(const vector<Hand> &hands);
+
+        bool operator==(Hand& hand);
+
+        bool operator!=(Hand& hand);
     };
 
     class HighCard : public Hand {
+    private:
+        std::string type = "HighCard";
     public:
-        HighCard(HoleCards &holeCards, CommunityCards &communityCards);
-
-        explicit HighCard(const Hand &hand);
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -124,35 +139,34 @@ namespace eval {
 
     class Pair : public Hand {
     public:
-        Pair(HoleCards &holeCards, CommunityCards &communityCards);
-
-        explicit Pair(const Hand &hand);
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
+        std::string type = "Pair";
     };
 
 
     class TwoPair : public Hand {
+    private:
     public:
-        TwoPair(HoleCards &holeCards, CommunityCards &communityCards);
-
-        explicit TwoPair(const Hand &hand);
+        std::string type = "TwoPair";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
-
     };
 
 
     class ThreeOfAKind : public Hand {
-    public:
-        ThreeOfAKind(HoleCards &holeCards, CommunityCards &communityCards);
 
-        explicit ThreeOfAKind(const Hand &hand);
+    private:
+    public:
+        std::string type = "ThreeOfAKind";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -162,10 +176,10 @@ namespace eval {
 
 
     class Straight : public Hand {
+    private:
     public:
-        Straight(HoleCards &holeCards, CommunityCards &communityCards);
-
-        explicit Straight(const Hand &hand);
+        std::string type = "Straight";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -175,10 +189,10 @@ namespace eval {
 
 
     class Flush : public Hand {
+    private:
     public:
-        Flush(HoleCards &holeCards, CommunityCards &communityCards);
-
-        explicit Flush(const Hand &hand);
+        std::string type = "Flush";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -187,10 +201,10 @@ namespace eval {
     };
 
     class FullHouse : public Hand {
+    private:
     public:
-        FullHouse(HoleCards &holeCards, CommunityCards &communityCards);
-
-        explicit FullHouse(const Hand &hand);
+        std::string type = "FullHouse";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -199,11 +213,10 @@ namespace eval {
     };
 
     class FourOfAKind : public Hand {
+    private:
     public:
-        FourOfAKind(HoleCards &holeCards,
-                    CommunityCards &communityCards);
-
-        explicit FourOfAKind(const Hand &hand);
+        std::string type = "FourOfAKind";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -212,11 +225,11 @@ namespace eval {
     };
 
     class StraightFlush : public Hand {
-    public:
-        StraightFlush(HoleCards &holeCards,
-                      CommunityCards &communityCards);
 
-        explicit StraightFlush(const Hand &hand);
+    private:
+    public:
+        std::string type = "StraightFlush";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -225,10 +238,11 @@ namespace eval {
     };
 
     class RoyalFlush : public Hand {
-    public:
-        RoyalFlush(HoleCards &holeCards, CommunityCards &communityCards);
 
-        explicit RoyalFlush(const Hand &hand);
+    private:
+    public:
+        std::string type = "RoyalFlush";
+        using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
 
