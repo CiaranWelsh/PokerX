@@ -6,14 +6,13 @@ add_executable(${BINARY} main.cpp
         CommunityCardTests.cpp
         HoleCardTests.cpp
         EvaluatorTests.cpp
-#        CounterTests.cpp
-#        PlayerTests.cpp
-#        PotTests.cpp
-#        PositionsTests.cpp
+        CounterTests.cpp
+        PlayerTests.cpp
+        PotTests.cpp
+        PositionsTests.cpp
 #        DealerTests.cpp
 #        TableTests.cpp
 #        SinglePokerHandTests.cpp
-#        EventTests.cpp
         )
 
 add_test(NAME ${BINARY} COMMAND ${BINARY})

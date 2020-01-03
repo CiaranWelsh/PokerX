@@ -36,6 +36,7 @@ namespace eval {
         name = (string) typeid(this).name();
     }
 
+
     CommunityCards Hand::getCards() {
         return CommunityCards(_cards);
     }
@@ -53,9 +54,9 @@ namespace eval {
     CardCollection Hand::best5(CardCollection cards) {
         return cards(2, cards.size());
     }
+
     CardCollection Hand::best5() {
-        CardCollection cards = _cards;
-        return best5(cards);
+        return best5(_cards);
     }
 
     bool Hand::isa() {
@@ -80,62 +81,61 @@ namespace eval {
     }
 
     std::unique_ptr<Hand> Hand::evaluate() {
+
         cout << "checking for RoyalFlush" << endl;
-        unique_ptr<RoyalFlush> royalFlush = std::make_unique<RoyalFlush>(*this);
+        unique_ptr<RoyalFlush> royalFlush = std::make_unique<RoyalFlush>(_cards);
         if (royalFlush->isa()) {
             return royalFlush;
         }
         cout << "checking for StraightFlush" << endl;
-        unique_ptr<StraightFlush> straightFlush = std::make_unique<StraightFlush>(*this);
+        unique_ptr<StraightFlush> straightFlush = std::make_unique<StraightFlush>(_cards);
         if (straightFlush->isa()) {
             return straightFlush;
         }
         cout << "checking for FourOfAKind" << endl;
 
-        unique_ptr<FourOfAKind> fourOfAKind = std::make_unique<FourOfAKind>(*this);
+        unique_ptr<FourOfAKind> fourOfAKind = std::make_unique<FourOfAKind>(_cards);
         if (fourOfAKind->isa()) {
             return fourOfAKind;
         }
         cout << "checking for FullHouse" << endl;
-        unique_ptr<FullHouse> fullHouse = std::make_unique<FullHouse>(*this);
+        unique_ptr<FullHouse> fullHouse = std::make_unique<FullHouse>(_cards);
         if (fullHouse->isa()) {
             return fullHouse;
         }
         cout << "checking for Flush" << endl;
 
-        unique_ptr<Flush> flush = std::make_unique<Flush>(*this);
+        unique_ptr<Flush> flush = std::make_unique<Flush>(_cards);
         if (flush->isa()) {
             return flush;
         }
         cout << "checking for Straight" << endl;
 
-        unique_ptr<Straight> straight = std::make_unique<Straight>(*this);
-        cout << "dead" << endl;
-        cout << *straight << endl;
 
+        unique_ptr<Straight> straight = std::make_unique<Straight>(_cards);
         if (straight->isa()) {
             return straight;
         }
         cout << "checking for ThreeOfAKind" << endl;
 
-        unique_ptr<ThreeOfAKind> threeOfAKind = std::make_unique<ThreeOfAKind>(*this);
+        unique_ptr<ThreeOfAKind> threeOfAKind = std::make_unique<ThreeOfAKind>(_cards);
         if (threeOfAKind->isa()) {
             return threeOfAKind;
         }
         cout << "checking for TwoPair" << endl;
 
-        unique_ptr<TwoPair> twoPair = std::make_unique<TwoPair>(*this);
+        unique_ptr<TwoPair> twoPair = std::make_unique<TwoPair>(_cards);
         if (twoPair->isa()) {
             return twoPair;
         }
         cout << "checking for Pair" << endl;
-        unique_ptr<Pair> pair = std::make_unique<Pair>(*this);
+        unique_ptr<Pair> pair = std::make_unique<Pair>(_cards);
         if (pair->isa()) {
             return pair;
         }
         cout << "checking for HighCard" << endl;
 
-        unique_ptr<HighCard> highCard = std::make_unique<HighCard>(*this);
+        unique_ptr<HighCard> highCard = std::make_unique<HighCard>(_cards);
         return highCard;
     }
 
@@ -149,19 +149,32 @@ namespace eval {
         this->_cards = collection.getCards();
     }
 
-//    Hand &Hand::operator=(const Hand &rhs) {
-//    if(this == &rhs)
-//       return *this;
-//    _holeCards = rhs._holeCards;
-//    _communityCards = rhs._communityCards;
-//    _cards = rhs._cards;
-//    return *this;
-//    }
+    Hand &Hand::operator=(Hand &hand) {
+        if ((*this) == hand)
+            return *this;
+        _cards = hand._cards;
+        _communityCards = hand._communityCards;
+        _holeCards = hand._holeCards;
+        return (*this);
+    }
+
+    Hand::Hand(Hand *hand) {
+        _cards = hand->_cards;
+        _communityCards = hand->_communityCards;
+        _holeCards = hand->_holeCards;
+    }
+
+    bool Hand::operator==(Hand &hand) {
+        return this->getCards() == hand.getCards();
+    }
+
+    bool Hand::operator!=(Hand &hand) {
+        return !(*this == hand);
+    }
 
     /*
      * High card implementation
      */
-    HighCard::HighCard(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
 
     CardCollection HighCard::best5(CardCollection cards) {
         return _cards(2, cards.size());
@@ -171,14 +184,9 @@ namespace eval {
         return true;
     }
 
-    HighCard::HighCard(const Hand &hand) : Hand(hand) {};
-
     /*
      * Pair implementation
      */
-    Pair::Pair(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {};
-
-    Pair::Pair(const Hand &hand) : Hand(hand) {}
 
     CardCollection Pair::best5(CardCollection cards) {
         return xOfAKindBest5<Pair>(2);
@@ -191,10 +199,6 @@ namespace eval {
     /*
      * Two pair implementation
      */
-    TwoPair::TwoPair(const Hand &hand) : Hand(hand) {}
-
-    TwoPair::TwoPair(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {};
-
     CardCollection TwoPair::best5(CardCollection cards) {
         return xOfAKindBest5<TwoPair>(2);
     }
@@ -206,10 +210,6 @@ namespace eval {
     /*
      * Three of a kind implementation
      */
-    ThreeOfAKind::ThreeOfAKind(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards,
-                                                                                            communityCards) {};
-
-    ThreeOfAKind::ThreeOfAKind(const Hand &hand) : Hand(hand) {}
 
     bool ThreeOfAKind::isa() {
         return xOfAKindIsA(3);
@@ -222,38 +222,53 @@ namespace eval {
     /*
      * Straight Implementation
      */
-    Straight::Straight(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
 
     CardCollection Straight::best5(CardCollection cards) {
-        if (!isa())
+        if (!isa()) {
             return CardCollection();
+        }
         std::vector<int> ranks = _cards.getRanks();
         // three frames are possible with 5 consequative numbers in 7
         int frames[] = {0, 1, 2};
 
         // Deal with low aces straights
-        CardCollection best5;
+        CardCollection best5_ace_low;
         if (cards[0].rank == 2 && cards[1].rank == 3 && cards[2].rank == 4 &&
             cards[3].rank == 5 && cards[6].rank == 14) {
-            for (int i : {0, 1, 2, 3, 7}) {
-                best5.add(cards[i]);
+            for (int i : {0, 1, 2, 3, 6}) {
+                best5_ace_low.add(cards[i]);
             }
         }
 
+        CardCollection best5;
         for (int frame : frames) {
-            best5.clear();
+            CardCollection best5_temp;
+            best5_temp.clear();
             int current_rank = ranks[frame];
             for (int i = 0; i < ranks.size(); i++) {
                 int rank = ranks[i];
                 if (current_rank == rank) {
-                    best5.add(cards[i]);
+                    best5_temp.add(cards[i]);
                     current_rank++;
                 }
-                if (best5.size() == 5)
-                    return best5;
+                if (best5_temp.size() == 5) {
+                    best5 = best5_temp.copy(); // will be replaced with a higher ranking straight if necessary
+                }
             }
         }
-        return best5;
+//        cout << "All cards: " << _cards << endl;
+//        cout << "best5 ace low: " << best5_ace_low << endl;
+//        cout << "best5: " << best5 << endl;
+        if (best5.size() == 5 && best5_ace_low.size() != 5) {
+//            cout << "here1: " <<  best5 << "here" << best5_ace_low << endl;
+            return best5;
+        } else if (best5.size() != 5 && best5_ace_low.size() == 5)
+            return best5_ace_low;
+        else if (best5.size() == 5 && best5_ace_low.size() == 5) {
+            return best5; // every other type of straight will beat an Ace low straight
+        } else {
+            throw errors::BadError();
+        }
     }
 
     bool Straight::isa() {
@@ -286,10 +301,6 @@ namespace eval {
         return false;
     }
 
-    Straight::Straight(const Hand &hand) : Hand(hand) {}
-
-    Flush::Flush(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {}
-
     CardCollection Flush::best5(CardCollection cards) {
         if (!isa())
             return CardCollection();
@@ -297,13 +308,17 @@ namespace eval {
         CardCollection best5;
         std::string which_suit;
         for (const std::pair<const std::string, int> &i : count.count()) {
-            if (i.second == 5) {
+            if (i.second >= 5) {
                 which_suit = i.first;
             }
         }
-        for (Card card : cards)
+        for (const Card& card : cards) {
             if (card.suit == which_suit)
                 best5.add(card);
+        }
+        if (best5.size() > 5) {
+            best5 = best5(best5.size() - 5, best5.size());
+        }
         return best5;
     }
 
@@ -311,17 +326,12 @@ namespace eval {
         Counter<std::string> count(_cards.getSuits());
         bool x = false;
         for (const std::pair<const std::string, int> &i : count.count()) {
-            if (i.second == 5)
+            if (i.second >= 5)
                 x = true;
         }
         return x;
     }
 
-    Flush::Flush(const Hand &hand) : Hand(hand) {}
-
-    FullHouse::FullHouse(HoleCards &holeCards, CommunityCards &communityCards) : Hand(holeCards, communityCards) {
-
-    }
 
     CardCollection FullHouse::best5(CardCollection cards) {
         Counter<int> count(cards.getRanks());
@@ -347,19 +357,11 @@ namespace eval {
 
     bool FullHouse::isa() {
         //check if pair
-        Pair pair = Pair(*this);
-        ThreeOfAKind three_of_a_kind = ThreeOfAKind(*this);
+        Pair pair = Pair((*this).getCards());
+        ThreeOfAKind three_of_a_kind = ThreeOfAKind((*this).getCards());
         return pair.isa() && three_of_a_kind.isa();
     }
 
-    FullHouse::FullHouse(const Hand &hand) : Hand(hand) {
-
-    }
-
-    FourOfAKind::FourOfAKind(HoleCards &holeCards,
-                             CommunityCards &communityCards) : Hand(holeCards, communityCards) {
-
-    }
 
     CardCollection FourOfAKind::best5(CardCollection cards) {
         return xOfAKindBest5<FourOfAKind>(4);
@@ -369,35 +371,24 @@ namespace eval {
         return xOfAKindIsA(4);
     }
 
-    FourOfAKind::FourOfAKind(const Hand &hand) : Hand(hand) {
-
-    }
-
-    StraightFlush::StraightFlush(HoleCards &holeCards,
-                                 CommunityCards &communityCards) : Hand(holeCards, communityCards) {
-
-    }
-
     CardCollection StraightFlush::best5(CardCollection cards) {
         if (!isa())
             return CardCollection();
-
-        Counter<std::string> suit_count(_cards.getSuits());
-        Counter<int> rank_count(_cards.getRanks());
         Straight straight(_cards);
-        Flush flush(_cards);
-        CardCollection best5 = straight.Hand::best5().set_intersection(flush.Hand::best5());
-        return best5;
+        /*
+         * we can directly return the straight here, since we have already checked
+         * that we have a straight flush. The straight returns the highest 5 cards
+         * in a row and all must be the same suit or we would have already returned empty CardCollection
+         */
+        return straight.Hand::best5();
     }
 
     bool StraightFlush::isa() {
-        return Straight(_cards).isa() && Flush(_cards).isa();
+        bool straight = Straight(_cards).isa();
+        bool flush = Flush(_cards).isa();
+//        cout << "Straight: "<< straight << " flush: " << flush << endl;
+        return straight && flush;
     }
-
-    StraightFlush::StraightFlush(const Hand &hand) : Hand(hand) {}
-
-    RoyalFlush::RoyalFlush(HoleCards &holeCards, CommunityCards &communityCards)
-            : Hand(holeCards, communityCards) {}
 
     CardCollection RoyalFlush::best5(CardCollection cards) {
         if (!isa())
@@ -415,9 +406,6 @@ namespace eval {
                && sflushcards[3].rank == 13
                && sflushcards[4].rank == 14;
     }
-
-    RoyalFlush::RoyalFlush(const Hand &hand1) : Hand(hand1) {}
-
 }
 
 

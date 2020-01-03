@@ -5938,7 +5938,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFvQrtiRjAdGFY="
 					},
-					"name": "HandInterface",
+					"name": "IHand",
 					"visibility": "package",
 					"operations": [
 						{
@@ -7607,7 +7607,7 @@
 											"top": 359,
 											"width": 118.8662109375,
 											"height": 13,
-											"text": "HandInterface"
+											"text": "IHand"
 										},
 										{
 											"_type": "LabelView",

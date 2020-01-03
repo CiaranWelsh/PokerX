@@ -8,7 +8,7 @@
 
 class Pot {
 public:
-    double value;
+    double value = 0.0;
 
     Pot();
 

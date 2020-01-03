@@ -101,6 +101,8 @@ namespace cards {
         CardCollection set_difference(CardCollection other);
 
         CardCollection set_intersection(CardCollection other);
+
+        CardCollection copy();
     };
 }
 
