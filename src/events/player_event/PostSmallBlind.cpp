@@ -8,9 +8,10 @@
 
 namespace events {
 
-    void PostSmallBlind::go(game::Table &table, const game::PlayerPtr &player) {
+    void PostSmallBlind::go(game::Table &table, game::PlayerPtr player) {
         double small_blind_amount = table.getSmallBlind();
-        player->play(Raise, small_blind_amount);
+        cout << *player << endl;
+//        player->play(Raise, small_blind_amount);
     };
 
 

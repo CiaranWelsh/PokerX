@@ -15,20 +15,28 @@
 using namespace std;
 using namespace events;
 
-class EventTests : public ::testing::Test{
+class EventTests : public ::testing::Test {
 protected:
+    EventTests() {}
+
     game::Players players;
-    EventTests() {
+    game::Table table;
+    void SetUp() {
         players = game::Players::callStations(9);
-        game::Table table(players);
+        game::Table table2(players);
+        table = table2;
     }
 };
+
+TEST_F(EventTests, x) {
+    table;
+}
 
 
 /*
  * BeginGame tests
  */
-TEST_F(EventTests, TestGameStartedFlagIsSwitched){
+TEST_F(EventTests, TestGameStartedFlagIsSwitched) {
     game::Table table;
     ASSERT_FALSE(table.game_started);
     BeginGame beginGame;
@@ -37,14 +45,14 @@ TEST_F(EventTests, TestGameStartedFlagIsSwitched){
 }
 
 
-TEST_F(EventTests, TestCorrectStreet){
+TEST_F(EventTests, TestCorrectStreet) {
     game::Table table;
     BeginGame beginGame;
     beginGame.go(table);
     ASSERT_EQ(table.street, game::Preflop);
 }
 
-TEST_F(EventTests, TestPotAmount){
+TEST_F(EventTests, TestPotAmount) {
     game::Table table;
     BeginGame beginGame;
     beginGame.go(table);
@@ -55,7 +63,7 @@ TEST_F(EventTests, TestPotAmount){
 /*
  * RotatePlayer tests
  */
-TEST_F(EventTests, TestRotatePlayers){
+TEST_F(EventTests, TestRotatePlayers) {
     game::Table table;
     RotatePlayers rotatePlayers;
     rotatePlayers.go(players);
@@ -69,14 +77,13 @@ TEST_F(EventTests, TestRotatePlayers){
 /*
  * PostSmallBlind tests
  */
-TEST_F(EventTests, TestPostSmallBlind){
-    game::Table table;
+TEST_F(EventTests, TestPostSmallBlind) {
     PostSmallBlind postSmallBlind;
     postSmallBlind.go(table, table.current_player);
-//    game::PlayerPtr player0 = players[0];
-//    std::string expected = "player1";
-//    std::string actual = player0->getName();
-//    ASSERT_EQ(expected, actual);
+    game::PlayerPtr player0 = players[0];
+    std::string expected = "player0";
+    std::string actual = player0->getName();
+    ASSERT_EQ(expected, actual);
 }
 
 

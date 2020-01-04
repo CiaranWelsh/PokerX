@@ -15,7 +15,7 @@ namespace events {
     public:
         using PlayerEvent::Event;
 
-        void go(game::Table &table, const game::PlayerPtr &player);
+        void go(game::Table &table, game::PlayerPtr player);
 
     };
 }
