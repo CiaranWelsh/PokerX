@@ -25,7 +25,7 @@ namespace game {
 
         explicit Players(std::vector<PlayerPtr> vec);
 
-        vector<boost::shared_ptr<Player>> getPositions();
+        vector<PlayerPtr> getPositions();
 
         void addPlayer(const PlayerPtr& player_ptr);
 

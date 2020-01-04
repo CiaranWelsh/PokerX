@@ -10,7 +10,7 @@
 #include "Dealer.h"
 #include "Players.h"
 #include "Street.h"
-#include "events/Event.h"
+//#include "events/Event.h"
 //#include "events/time_event/BeginGame.h"
 
 namespace game {
@@ -20,7 +20,7 @@ namespace game {
         double small_blind = 0.5;
         double big_blind = 1.0;
         Street street = Preflop;
-        PlayerPtr current_player = players[0]; //Player 0 is the btn
+        PlayerPtr current_player; //Player 0 is the btn
 
     public:
 

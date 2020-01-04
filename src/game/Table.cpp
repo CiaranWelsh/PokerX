@@ -13,6 +13,7 @@ namespace game {
 
     Table::Table(Players &players) {
         this->players = players;
+        current_player = players[0];
     }
 
     Table::Table(Table &table) {
