@@ -13,6 +13,7 @@ add_executable(${BINARY} main.cpp
         DealerTests.cpp
         TableTests.cpp
         SinglePokerHandTests.cpp
+        EventTests.cpp
         )
 
 add_test(NAME ${BINARY} COMMAND ${BINARY})

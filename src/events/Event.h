@@ -6,7 +6,7 @@
 #define POKERSIMULATIONSINCPP_EVENT_H
 
 #include <iostream>
-//#include "game/Table.h"
+#include "game/Table.h"
 #include "players/Player.h"
 
 namespace events {
@@ -29,7 +29,7 @@ namespace events {
 
         virtual void go() = 0;
 
-//        virtual void go(Table &table);
+//        virtual void go(game::Table &table);
     };
 }
 
