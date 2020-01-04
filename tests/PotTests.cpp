@@ -65,6 +65,14 @@ TEST(PotTests, TestNotEqual){
 
 
 
+TEST(PotTests, TestaddInt2){
+    Pot pot1(10);
+    pot1 += 0.5;
+    ASSERT_TRUE(pot1 == 10.5);
+}
+
+
+
 
 
 

@@ -35,7 +35,7 @@ add_library(${BINARY}_lib STATIC
         events/player_event/RotatePlayers.cpp
         events/player_event/RotatePlayers.h
         events/player_event/NextPlayer.h
-        events/player_event/PostSmallBlind.cpp events/player_event/PostSmallBlind.h)
+        events/player_event/PostSmallBlind.cpp events/player_event/PostSmallBlind.h events/player_event/PostBigBlind.cpp events/player_event/PostBigBlind.h)
 
 
 

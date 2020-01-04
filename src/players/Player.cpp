@@ -37,13 +37,21 @@ ostream &operator<<(ostream &os, Player &player) {
 void Player::play(ActionType action, double amount) {
     switch (action){
         case Raise:
+            cout << "player " << getName() << " raised" << endl;
             pot += amount;
-
+            stack -= amount;
+            break;
         case Call:
+            cout << "player " << getName() << " called" << endl;
             pot += amount;
+            stack -= amount;
+            break;
         case Fold:
-            ;
+            cout << "player " << getName() << " folded" << endl;
+            break;
         case Check:
+            cout << "player " << getName() << " checked" << endl;
+            break;
             ;
     }
 }
