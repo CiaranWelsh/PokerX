@@ -7,7 +7,7 @@
 
 namespace events {
 
-    std::string Event::getTarget() {
+    TargetType Event::getTarget() {
         return target;
     }
 

@@ -13,7 +13,7 @@
 namespace events {
     class BeginGame : public TimeEvent {
     private:
-        std::string target = "dealer";
+        TargetType target = Table;
         std::string description = "This event marks the start of a game, i.e. before preflop.";
     public:
         using TimeEvent::Event;

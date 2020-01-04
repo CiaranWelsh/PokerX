@@ -37,6 +37,33 @@ Pot &Pot::operator=(double amount) {
     return *this;
 }
 
+Pot &Pot::operator+(const double &amount) {
+    value += amount;
+    return *this;
+}
+
+Pot &Pot::operator-(const double &amount) {
+    value += amount;
+    return *this;
+}
+Pot &Pot::operator+=(const double &amount) {
+    value += amount;
+    return *this;
+}
+
+Pot &Pot::operator-=(const double &amount) {
+    value += amount;
+    return *this;
+}
+
+bool Pot::operator==(const double& amount) {
+    return value == amount;
+}
+
+bool Pot::operator!=(const double &amount) {
+    return (!(*this == amount));
+}
+
 Pot::Pot() = default;
 
 Pot::~Pot() = default;

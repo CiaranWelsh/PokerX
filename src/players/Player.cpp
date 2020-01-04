@@ -34,8 +34,18 @@ ostream &operator<<(ostream &os, Player &player) {
     return os;
 }
 
-ActionType Player::play() {
-    throw errors::NotImplementedException();
+void Player::play(ActionType action, double amount) {
+    switch (action){
+        case Raise:
+            pot += amount;
+
+        case Call:
+            pot += amount;
+        case Fold:
+            ;
+        case Check:
+            ;
+    }
 }
 
 Player::Player(Player &player) {

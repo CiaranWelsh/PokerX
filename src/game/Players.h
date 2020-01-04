@@ -43,6 +43,8 @@ namespace game {
 
         std::vector<PlayerPtr>::iterator end();
 
+        friend ostream& operator<<(ostream& os, Players &players);
+
     };
 }
 #endif //_POSITIONS_H

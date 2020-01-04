@@ -15,7 +15,7 @@ class CallStation: public Player {
 private:
     std::string type = "CallStation";
 public:
-    ActionType play() override;
+    ActionType play();
 
     CallStation();
 

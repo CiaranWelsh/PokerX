@@ -21,7 +21,21 @@ add_library(${BINARY}_lib STATIC
         game/Players.h game/Players.cpp
         game/Pot.h game/Pot.cpp
         game/Table.h game/Table.cpp
-        game/Street.h events/Event.cpp events/Event.h events/time_event/TimeEvent.cpp events/time_event/TimeEvent.h events/player_event/PlayerEvent.cpp events/player_event/PlayerEvent.h events/dealer_event/DealerEvent.cpp events/dealer_event/DealerEvent.h events/time_event/BeginGame.cpp events/time_event/BeginGame.h)
+        game/Street.h
+
+        events/Event.cpp events/Event.h
+        events/time_event/TimeEvent.cpp
+        events/time_event/TimeEvent.h
+        events/player_event/PlayerEvent.cpp
+        events/player_event/PlayerEvent.h
+        events/dealer_event/DealerEvent.cpp
+        events/dealer_event/DealerEvent.h
+        events/time_event/BeginGame.cpp
+        events/time_event/BeginGame.h
+        events/player_event/RotatePlayers.cpp
+        events/player_event/RotatePlayers.h
+        events/player_event/NextPlayer.h
+        events/player_event/PostSmallBlind.cpp events/player_event/PostSmallBlind.h)
 
 
 

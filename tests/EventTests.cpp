@@ -4,26 +4,32 @@
 
 #include <game/Table.h>
 #include <events/time_event/BeginGame.h>
+#include <events/player_event/RotatePlayers.h>
+#include <events/player_event/PostSmallBlind.h>
 #include "gtest/gtest.h"
 #include "iostream"
 #include "events/Event.h"
 #include "game/Table.h"
+#include "game/Players.h"
 
 using namespace std;
-using namespace game;
 using namespace events;
 
 class EventTests : public ::testing::Test{
 protected:
-    Players players;
+    game::Players players;
     EventTests() {
-        players = Players::callStations(9);
-        Table table(players);
+        players = game::Players::callStations(9);
+        game::Table table(players);
     }
 };
 
+
+/*
+ * BeginGame tests
+ */
 TEST_F(EventTests, TestGameStartedFlagIsSwitched){
-    Table table;
+    game::Table table;
     ASSERT_FALSE(table.game_started);
     BeginGame beginGame;
     beginGame.go(table);
@@ -32,17 +38,45 @@ TEST_F(EventTests, TestGameStartedFlagIsSwitched){
 
 
 TEST_F(EventTests, TestCorrectStreet){
-    Table table;
+    game::Table table;
     BeginGame beginGame;
     beginGame.go(table);
-    ASSERT_EQ(table.street, Preflop);
+    ASSERT_EQ(table.street, game::Preflop);
 }
 
 TEST_F(EventTests, TestPotAmount){
-    Table table;
+    game::Table table;
     BeginGame beginGame;
     beginGame.go(table);
     ASSERT_EQ(table.pot.value, 0.0);
+}
+
+
+/*
+ * RotatePlayer tests
+ */
+TEST_F(EventTests, TestRotatePlayers){
+    game::Table table;
+    RotatePlayers rotatePlayers;
+    rotatePlayers.go(players);
+    game::PlayerPtr player0 = players[0];
+    std::string expected = "player1";
+    std::string actual = player0->getName();
+    ASSERT_EQ(expected, actual);
+}
+
+
+/*
+ * PostSmallBlind tests
+ */
+TEST_F(EventTests, TestPostSmallBlind){
+    game::Table table;
+    PostSmallBlind postSmallBlind;
+    postSmallBlind.go(table, table.current_player);
+//    game::PlayerPtr player0 = players[0];
+//    std::string expected = "player1";
+//    std::string actual = player0->getName();
+//    ASSERT_EQ(expected, actual);
 }
 
 

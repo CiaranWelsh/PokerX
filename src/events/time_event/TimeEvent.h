@@ -11,7 +11,7 @@
 namespace events {
     class TimeEvent : public Event {
     private:
-        std::string target = "table";
+        TargetType target = None;
         std::string description = "Superclass of events related to time landmarks of Texas holdem poker.";
 
     public:

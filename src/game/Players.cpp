@@ -47,9 +47,9 @@ namespace game {
     }
 
     Players Players::callStations(int howMany, double start_amount) {
-        ostringstream name;
         std::vector<PlayerPtr> positions;
         for (int i = 0; i < howMany; i++) {
+            ostringstream name;
             name << "player" << i;
             PlayerPtr ptr(new CallStation(name.str()));
             ptr->stack = start_amount;
@@ -72,6 +72,20 @@ namespace game {
     std::vector<PlayerPtr>::iterator Players::end() {
         return _positions.end();
     }
+
+    ostream &operator<<(ostream &os, Players &players) {
+        os << "[";
+        for (int i = 0; i < players.size(); i++) {
+            if (i == players.size() - 1)
+                os << *players[i] << "]";
+            else
+                os << *players[i] << ", ";
+        }
+        os << "]";
+        return os;
+    }
+
+
 
 
 }

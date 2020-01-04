@@ -3,7 +3,6 @@
 //
 
 #include "gtest/gtest.h"
-#include "players/CallStation.h"
 #include "iostream"
 #include "game/Pot.h"
 
@@ -41,6 +40,27 @@ TEST(PotTests, TestMinusOverload){
     Pot pot2(50);
     Pot pot3 = pot2 - pot1;
     ASSERT_EQ(40, pot3.value);
+}
+
+
+
+TEST(PotTests, TestAddInt){
+    Pot pot1(10);
+    pot1 += 5;
+    ASSERT_TRUE(pot1 == 15);
+}
+
+TEST(PotTests, TestAddDouble){
+    Pot pot1(10);
+    pot1 += 5.0;
+    ASSERT_TRUE(pot1 == 15.0);
+}
+
+
+TEST(PotTests, TestNotEqual){
+    Pot pot1(10);
+    pot1 += 5.0;
+    ASSERT_TRUE(pot1 != 5.0);
 }
 
 

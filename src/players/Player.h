@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include <eval/Hand.h>
+#include <game/Pot.h>
 #include "ActionType.h"
 
 class Player {
@@ -16,6 +17,9 @@ private:
 protected:
     std::string _name;
 public:
+
+    Pot pot;
+
     Player();
 
     ~Player();
@@ -34,11 +38,12 @@ public:
 
     void setName(std::string name);
 
-    virtual ActionType play();
+    virtual void play(ActionType action, double amount=0.0);
 
-    friend ostream& operator<<(ostream& os, Player& player);
+    friend ostream &operator<<(ostream &os, Player &player);
 
     std::string getType();
+
 };
 
 #endif //_PLAYER_H

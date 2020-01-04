@@ -18,7 +18,7 @@ namespace game {
     private:
         double small_blind = 0.5;
         double big_blind = 1.0;
-        PlayerPtr current_player; //Player 0 is the btn
+        //Player 0 is the btn
 
     public:
 
@@ -75,6 +75,7 @@ namespace game {
 //        events::Event* current_event = nullptr;
         Street street = Preflop;
         Pot pot;
+        PlayerPtr current_player;
     };
 }
 #endif //_TABLE_H

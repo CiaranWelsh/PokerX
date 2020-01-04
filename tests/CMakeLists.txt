@@ -9,7 +9,7 @@ add_executable(${BINARY} main.cpp
         CounterTests.cpp
         PlayerTests.cpp
         PotTests.cpp
-        PositionsTests.cpp
+        PlayersTests.cpp
         DealerTests.cpp
         TableTests.cpp
         SinglePokerHandTests.cpp

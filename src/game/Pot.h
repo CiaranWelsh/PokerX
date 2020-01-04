@@ -22,11 +22,23 @@ public:
 
     Pot& operator+(const Pot& other);
 
+    Pot& operator+(const double& amount);
+
+    Pot& operator+=(const double& amount);
+
     Pot& operator-(const Pot& other);
+
+    Pot& operator-(const double& amount);
+
+    Pot& operator-=(const double& amount);
 
     Pot& operator=(int amount);
 
     Pot& operator=(double amount);
+
+    bool operator==(const double &amount);
+
+    bool operator!=(const double &amount);
 
     friend std::ostream &operator<<(std::ostream &os, const Pot& pot);
 };

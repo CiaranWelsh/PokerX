@@ -11,9 +11,13 @@
 
 namespace events {
 
+    enum TargetType {
+        Dealer, Table, None, Players
+    };
+
     class Event {
     private:
-        std::string target = "dealer";
+        TargetType target = None;
         std::string description = "Base event class";
         bool done = false;
     public:
@@ -21,15 +25,12 @@ namespace events {
 
         Event();
 
-        std::string getTarget();
+        TargetType getTarget();
 
         std::string getDescription();
 
         bool getDone();
 
-        virtual void go() = 0;
-
-//        virtual void go(game::Table &table);
     };
 }
 
