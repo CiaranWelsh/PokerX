@@ -33,7 +33,6 @@ protected:
  * BeginGame tests
  */
 TEST_F(EventTests, TestGameStartedFlagIsSwitched) {
-    game::Table table;
     ASSERT_FALSE(table.gamePlay.game_started);
     table.step();
     ASSERT_TRUE(table.gamePlay.game_started);

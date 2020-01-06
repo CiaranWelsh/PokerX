@@ -39,7 +39,7 @@ namespace game {
         events::BeginGame beginGame;
         events::RotatePlayers rotatePlayers;
         events::PostSmallBlind postSmallBlind;
-//        events::PostBigBlind postBigBlind;
+        events::PostBigBlind postBigBlind;
 
         // current event
         events::Event *current_event = &beginGame;
@@ -52,35 +52,13 @@ namespace game {
 
         Table(Table &table);
 
+        Table& operator=(const Table& other);
+
         ~Table();
-
-        void resetPot();
-
-        void setPositions();
-
-        void setSmallBlind(double sb);
-
-        void setBigBlind(double bb);
-
-        double getSmallBlind();
-
-        double getBigBlind();
 
         static Table CallStationTable(int howMany, double start_amount = 10.0);
 
-        void rotate_players();
-
-//        Table& operator=(const Table& other);
-
-//        void setEvent(events::Event* event);
-
         events::Event * step();
-
-//        events::Event *beginGame() {
-//            reset();
-//            beginGame.go(gamePlay.game_started);
-//            current_event = &rotatePlayers;
-//        }
 
     };
 }
