@@ -11,7 +11,21 @@ namespace events {
         players.rotate();
     }
 
-    void RotatePlayers::go(Player *player) {
-        throw errors::NotImplementedException();
+
+    TargetType RotatePlayers::getTarget() {
+        return target;
     }
+
+    std::string RotatePlayers::getDescription() {
+        return description;
+    }
+
+    bool RotatePlayers::getDone() {
+        return done;
+    }
+
+    std::string RotatePlayers::getId() {
+        return id;
+    }
+
 }

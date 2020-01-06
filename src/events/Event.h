@@ -6,32 +6,40 @@
 #define POKERSIMULATIONSINCPP_EVENT_H
 
 #include <iostream>
-#include "game/Table.h"
-#include "players/Player.h"
+#include "game/Dealer.h"
+#include "game/GamePlay.h"
 
 namespace events {
 
     enum TargetType {
-        Dealer, Table, None, Players
+        Dealer, Table, None, Players, GamePlay
     };
+
 
     class Event {
     private:
         TargetType target = None;
+        std::string id = "Event";
         std::string description = "Base event class";
         bool done = false;
     public:
-        ~Event();
+        virtual ~Event();
 
         Event();
 
-        TargetType getTarget();
+        virtual TargetType getTarget();
 
-        std::string getDescription();
+        virtual std::string getDescription();
 
-        bool getDone();
+        virtual bool getDone();
+
+        virtual std::string getId();
+
+        virtual void go(game::GamePlay &gamePlay);
 
     };
+
+
 }
 
 #endif //POKERSIMULATIONSINCPP_EVENT_H

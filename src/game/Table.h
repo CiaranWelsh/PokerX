@@ -3,17 +3,25 @@
  */
 
 
-#ifndef _TABLE_H
-#define _TABLE_H
+#ifndef POKERSIMULATIONSINCPP_TABLE_H
+#define POKERSIMULATIONSINCPP_TABLE_H
+
 
 #include "Pot.h"
 #include "Dealer.h"
 #include "Players.h"
 #include "Street.h"
-//#include "events/Event.h"
-//#include "events/time_event/BeginGame.h"
+#include "GamePlay.h"
+#include <events/time_event/BeginGame.h>
+#include <events/player_event/RotatePlayers.h>
+#include <events/player_event/PostBigBlind.h>
+#include <events/player_event/PostSmallBlind.h>
+#include "events/EventPtr.h"
 
 namespace game {
+
+    // some forward declarations
+
     class Table {
     private:
         double small_blind = 0.5;
@@ -21,23 +29,20 @@ namespace game {
         //Player 0 is the btn
 
     public:
+        // attributes
+        Dealer dealer;
+        Players players;
+        PlayerPtr current_player;
+        GamePlay gamePlay;
 
-        // boolean flags marking poker landmarks
-        bool game_started = false;
-        bool game_ended = false;
-        bool small_blind_posted = false;
-        bool big_blind_posted = false;
-        bool ante_posted = false;
-        bool dealt_hole_cards = false;
-        bool preflop_done = false;
-        bool flop_done = false;
-        bool turn_done = false;
-        bool river_done = false;
-        bool dealt_preflop = false;
-        bool dealt_flop = false;
-        bool dealt_turn = false;
-        bool dealt_river = false;
-        bool showdown = false;
+        // events
+        events::BeginGame beginGame;
+        events::RotatePlayers rotatePlayers;
+        events::PostSmallBlind postSmallBlind;
+//        events::PostBigBlind postBigBlind;
+
+        // current event
+        events::Event *current_event = &beginGame;
 
         void reset();
 
@@ -61,21 +66,22 @@ namespace game {
 
         double getBigBlind();
 
-        static Table CallStationTable(int howMany, double start_amount=10.0);
-
-        Dealer dealer;
-        Players players;
+        static Table CallStationTable(int howMany, double start_amount = 10.0);
 
         void rotate_players();
 
+//        Table& operator=(const Table& other);
+
 //        void setEvent(events::Event* event);
 
-        void step();
+        events::Event * step();
 
-//        events::Event* current_event = nullptr;
-        Street street = Preflop;
-        Pot pot;
-        PlayerPtr current_player;
+//        events::Event *beginGame() {
+//            reset();
+//            beginGame.go(gamePlay.game_started);
+//            current_event = &rotatePlayers;
+//        }
+
     };
 }
-#endif //_TABLE_H
+#endif //POKERSIMULATIONSINCPP_TABLE_H

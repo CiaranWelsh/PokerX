@@ -6,7 +6,9 @@
 #define POKERSIMULATIONSINCPP_POSTBIGBLIND_H
 
 #include "PlayerEvent.h"
-#include "game/Table.h"
+//#include "game/Table.h"
+
+// maybe these events should be implemented within the Table class?
 
 namespace events {
     class PostBigBlind : PlayerEvent {
@@ -15,7 +17,7 @@ namespace events {
     public:
         using PlayerEvent::Event;
 
-        void go(game::Table &table, game::PlayerPtr player);
+//        void go(game::Table &table, game::PlayerPtr player);
 
     };
 }

@@ -7,8 +7,8 @@
 
 namespace events {
 
-    void PostBigBlind::go(game::Table &table, game::PlayerPtr player) {
-        double big_blind_amount = table.getBigBlind();
-        player->play(Raise, big_blind_amount);
-    };
+//    void PostBigBlind::go(game::Table &table, game::PlayerPtr player) {
+//        double big_blind_amount = table.getBigBlind();
+//        player->play(Raise, big_blind_amount);
+//    };
 }

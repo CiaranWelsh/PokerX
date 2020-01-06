@@ -25,6 +25,11 @@ namespace errors {
         NullPointerException() : std::logic_error("You have a nullptr where there shouldn't be one") {};
     };
 
+    class EventNotChangedAfterStepError : public std::logic_error {
+    public:
+        EventNotChangedAfterStepError() : std::logic_error("The current Event subtype has not changed") {};
+    };
+
 
 };
 

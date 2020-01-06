@@ -12,14 +12,13 @@
 #include "events/Event.h"
 #include "game/Table.h"
 #include "game/Players.h"
+#include "game/Street.h"
 
 using namespace std;
 using namespace events;
 
 class EventTests : public ::testing::Test {
 protected:
-    EventTests() {}
-
     game::Players players;
     game::Table table;
     void SetUp() {
@@ -29,36 +28,60 @@ protected:
     }
 };
 
-TEST_F(EventTests, x) {
-    table;
-}
-
 
 /*
  * BeginGame tests
  */
 TEST_F(EventTests, TestGameStartedFlagIsSwitched) {
     game::Table table;
-    ASSERT_FALSE(table.game_started);
-    BeginGame beginGame;
-    beginGame.go(table);
-    ASSERT_TRUE(table.game_started);
+    ASSERT_FALSE(table.gamePlay.game_started);
+    table.step();
+    ASSERT_TRUE(table.gamePlay.game_started);
 }
-
 
 TEST_F(EventTests, TestCorrectStreet) {
     game::Table table;
-    BeginGame beginGame;
-    beginGame.go(table);
-    ASSERT_EQ(table.street, game::Preflop);
+    ASSERT_TRUE(table.gamePlay.street == game::Preflop);
 }
 
-TEST_F(EventTests, TestPotAmount) {
+TEST_F(EventTests, TestGetId) {
     game::Table table;
-    BeginGame beginGame;
-    beginGame.go(table);
-    ASSERT_EQ(table.pot.value, 0.0);
+    std::string expected = "BeginGame";
+    std::string actual = table.current_event->getId();
+    ASSERT_EQ(expected, actual);
 }
+
+TEST_F(EventTests, TestEventSwitchedToRotatePlayers) {
+    game::Table table;
+    table.step();
+    std::string expected = "RotatePlayers";
+    std::string actual = table.current_event->getId();
+    ASSERT_EQ(expected, actual);
+}
+
+TEST_F(EventTests, Test) {
+    game::Table table;
+    table.step();
+    table.step();
+//    std::string expected = "RotatePlayers";
+//    std::string actual = table.current_event->getId();
+//    ASSERT_EQ(expected, actual);
+}
+
+
+//TEST_F(EventTests, TestCorrectS
+//    ASSERT_EQ(table.street, game::Preflop);
+//}
+//
+//TEST_F(EventTests, TestPotAmount) {
+//    game::Table table;treet) {
+////    game::Table table;
+////    BeginGame beginGame;
+////    beginGame.go(table);
+//    BeginGame beginGame;
+//    beginGame.go(table);
+//    ASSERT_EQ(table.pot.value, 0.0);
+//}
 
 
 /*
@@ -90,7 +113,7 @@ TEST_F(EventTests, TestPostSmallBlind) {
     // small blind is 0.5
     game::PlayerPtr player0 = players[0];
     PostSmallBlind postSmallBlind;
-    postSmallBlind.go(table, table.current_player);
+//    postSmallBlind.go(table, table.current_player);
     ASSERT_TRUE(player0->stack == 9.5);
     ASSERT_TRUE(player0->pot == 0.5);
 }
@@ -111,7 +134,7 @@ TEST_F(EventTests, TestPostBigBlind) {
     // Big blind is 0.5
     game::PlayerPtr player0 = players[0];
     PostBigBlind postBigBlind;
-    postBigBlind.go(table, table.current_player);
+//    postBigBlind.go(table, table.current_player);
     ASSERT_TRUE(player0->stack == 9.0);
     ASSERT_TRUE(player0->pot == 1.0);
 }

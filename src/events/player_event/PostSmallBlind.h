@@ -6,17 +6,29 @@
 #define POKERSIMULATIONSINCPP_POSTSMALLBLIND_H
 
 #include "PlayerEvent.h"
-#include "game/Table.h"
 
 namespace events {
-    class PostSmallBlind : PlayerEvent {
+    class PostSmallBlind : public PlayerEvent {
     private:
+        TargetType target = None;
+        std::string id = "PostSmallBlind";
+        bool done = false;
         std::string description = "Post the small blind";
     public:
         using PlayerEvent::Event;
 
-        void go(game::Table &table, game::PlayerPtr player);
+        TargetType getTarget() override;
 
+        std::string getDescription() override;
+
+        bool getDone() override;
+
+        std::string getId() override;
+
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &player) override;
+
+
+//        virtual void go(game::GamePlay &gamePlay);
     };
 }
 

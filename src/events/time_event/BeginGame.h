@@ -8,19 +8,27 @@
 #include <string>
 #include <iostream>
 #include "TimeEvent.h"
-#include "game/Table.h"
 
 namespace events {
+
     class BeginGame : public TimeEvent {
     private:
-        TargetType target = Table;
+        std::string id = "BeginGame";
+        TargetType target = GamePlay;
         std::string description = "This event marks the start of a game, i.e. before preflop.";
+        bool done = false;
     public:
         using TimeEvent::Event;
 
-        void go() override;
+        TargetType getTarget() override;
 
-        void go(game::Table &table);
+        std::string getDescription() override;
+
+        bool getDone() override;
+
+        std::string getId() override;
+
+        void go(game::GamePlay &gamePlay) override;
 
     };
 }

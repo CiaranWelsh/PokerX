@@ -7,10 +7,23 @@
 
 namespace events {
 
-    void PostSmallBlind::go(game::Table &table, game::PlayerPtr player) {
-        double small_blind_amount = table.getSmallBlind();
-        player->play(Raise, small_blind_amount);
-    };
+    std::string PostSmallBlind::getId() {
+        return id;
+    }
 
+    bool PostSmallBlind::getDone() {
+        return done;
+    }
 
+    std::string PostSmallBlind::getDescription() {
+        return description;
+    }
+
+    TargetType PostSmallBlind::getTarget() {
+        return target;
+    }
+
+    void PostSmallBlind::go(game::GamePlay &gamePlay, game::PlayerPtr &player) {
+        player->play(Raise, gamePlay.small_blind);
+    }
 }

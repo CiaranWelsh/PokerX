@@ -3,7 +3,7 @@
 //
 
 #include "Event.h"
-
+#include <iostream>
 
 namespace events {
 
@@ -19,11 +19,16 @@ namespace events {
         return done;
     }
 
+    std::string Event::getId() {
+        return id;
+    }
+
+    void Event::go(game::GamePlay &gamePlay) {}
+
     Event::~Event() = default;
 
     Event::Event() = default;
 }
-
 
 
 

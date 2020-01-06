@@ -1,14 +1,12 @@
-#include <events/time_event/BeginGame.h>
+#ifndef POKERSIMULATIONSINCPP_TABLE_CPP
+#define POKERSIMULATIONSINCPP_TABLE_CPP
+
 #include "Table.h"
 #include "errors.h"
 
 namespace game {
     void Table::resetPot() {
-        pot.value = 0;
-    }
-
-    void Table::setPositions() {
-
+        gamePlay.pot.value = 0;
     }
 
     Table::Table(Players &players) {
@@ -19,10 +17,16 @@ namespace game {
     Table::Table(Table &table) {
         small_blind = table.small_blind;
         big_blind = table.big_blind;
-        pot = table.pot;
         players = table.players;
         dealer = table.dealer;
+        current_player = table.current_player;
+        gamePlay = table.gamePlay;
     }
+
+//    Table& Table::operator=(const Table& other){
+//        *this = other;
+//        return *this;
+//    }
 
     void Table::setSmallBlind(double sb) {
         small_blind = sb;
@@ -42,8 +46,6 @@ namespace game {
 
     Table::Table() {
         reset();
-//        events::BeginGame beginGame;
-//        setEvent(&beginGame);
     };
 
     Table::~Table() = default;
@@ -56,35 +58,39 @@ namespace game {
     }
 
     void Table::reset() {
-        street = Preflop;
-        pot = 0.0;
+        gamePlay.street = Preflop;
+        gamePlay.pot = 0.0;
     }
 
     void Table::rotate_players() {
         players.rotate();
     }
 
-//    void Table::setEvent(events::Event *event) {
-//        current_event = event;
-//    }
 
-//    void Table::step() {
-//        if (!current_event)
-//            throw errors::NullPointerException();
-//        current_event->go();
-//    }
+    events::Event *Table::step() {
+        if (!current_event)
+            throw errors::NullPointerException();
+        std::string copy_of_current_event_id = current_event->getId();
+
+        // first try this, catch exceptions and try again with the other arguments
+        current_event->go(gamePlay);
+
+
+        if (current_event->getId() == "BeginGame") {
+            current_event = &rotatePlayers;
+        }
+        else if (current_event->getId() == "RotatePlayers")
+            current_event = &postSmallBlind;
+
+        if (copy_of_current_event_id == current_event->getId())
+            throw errors::EventNotChangedAfterStepError();
+
+        return current_event;
+    }
 
 
 }
 
 
-
-
-
-
-
-
-
-
-
+#endif// POKERSIMULATIONSINCPP_TABLE_CPP
 

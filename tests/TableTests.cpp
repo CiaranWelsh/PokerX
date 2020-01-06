@@ -41,6 +41,13 @@ TEST(TableTests, TestCurrentPlayer){
     ASSERT_EQ(expected, player.getName());
 }
 
+TEST(TableTests, TestCurrentEvent){
+    Players players;
+    players = Players::callStations(9);
+    Table table(players);
+//    table.current_event->go();
+}
+
 
 
 

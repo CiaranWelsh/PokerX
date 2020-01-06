@@ -6,14 +6,22 @@
 #include "TimeEvent.h"
 
 
+namespace events {
 
-namespace events{
-
-    void TimeEvent::go() {
-        throw errors::NotImplementedException();
+    TargetType TimeEvent::getTarget() {
+        return target;
     }
 
-    void TimeEvent::go(game::Table &table) {
-        throw errors::NotImplementedException();
+    std::string TimeEvent::getDescription() {
+        return description;
     }
+
+    bool TimeEvent::getDone() {
+        return done;
+    }
+
+    std::string TimeEvent::getId() {
+        return id;
+    }
+
 }
