@@ -6,7 +6,7 @@
 
 namespace events{
 
-    void DealerEvent::go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) {
+    void DealerEvent::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
         cout << "go in DealerEvent" << endl;
     }
 }

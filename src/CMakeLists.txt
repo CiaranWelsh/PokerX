@@ -41,7 +41,7 @@ add_library(${BINARY}_lib STATIC
         events/player_event/PostBigBlind.cpp
         events/player_event/PostBigBlind.h
         events/EventPtr.h
-        game/GamePlay.h events/time_event/EndGame.cpp events/time_event/EndGame.h)
+        game/GamePlay.h events/time_event/EndGame.cpp events/time_event/EndGame.h events/dealer_event/DealHoleCards.cpp events/dealer_event/DealHoleCards.h)
 
 
 

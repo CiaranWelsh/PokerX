@@ -38,7 +38,7 @@ namespace events {
         /*
          * A go method for time_events
          */
-        virtual void go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer);
+        virtual void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer);
 
     };
 

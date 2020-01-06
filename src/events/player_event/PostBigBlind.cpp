@@ -7,7 +7,7 @@
 
 namespace events {
 
-    void PostBigBlind::go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) {
-        current_player->play(Raise, gamePlay.big_blind);
+    void PostBigBlind::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
+        players.getCurrentPlayer()->play(Raise, gamePlay.big_blind);
     }
 }

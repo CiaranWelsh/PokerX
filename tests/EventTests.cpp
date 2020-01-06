@@ -77,7 +77,7 @@ TEST_F(EventTests, TestRotatePlayersWorked) {
     ASSERT_EQ(expected, actual);
 }
 
-TEST_F(EventTests, TestBigBlind) {
+TEST_F(EventTests, TestGamePlay) {
     cout << endl;
     while (!table.gamePlay.game_ended) {
         table.step();

@@ -1,24 +1,21 @@
 //
-// Created by CiaranWelsh on 02/01/2020.
+// Created by CiaranWelsh on 06/01/2020.
 //
 
-#ifndef POKERSIMULATIONSINCPP_DEALEREVENT_H
-#define POKERSIMULATIONSINCPP_DEALEREVENT_H
+#ifndef POKERSIMULATIONSINCPP_DEALHOLECARDS_H
+#define POKERSIMULATIONSINCPP_DEALHOLECARDS_H
 
-#include "events/Event.h"
-
+#include "DealerEvent.h"
 
 namespace events {
-    class DealerEvent : public Event {
+    class DealHoleCards : public DealerEvent {
     public:
-        DealerEvent() {
+        DealHoleCards() {
             target = Dealer;
             description = "Events that the dealer must carry out";
             done = false;
             id = "DealerEvent";
         }
-
-        using Event::Event;
 
         void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) override;
 
@@ -27,4 +24,4 @@ namespace events {
 }
 
 
-#endif //POKERSIMULATIONSINCPP_DEALEREVENT_H
+#endif //POKERSIMULATIONSINCPP_DEALHOLECARDS_H

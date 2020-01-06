@@ -9,7 +9,7 @@
 namespace events {
 
 
-    void BeginGame::go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) {
+    void BeginGame::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
         gamePlay.game_started = true;
     }
 
