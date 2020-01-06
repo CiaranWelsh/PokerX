@@ -12,18 +12,16 @@ using namespace game;
 
 
 
-TEST(TableTests, TestNumberOfPlayers){
-    Players players;
-    players = Players::callStations(9);
+TEST(TableTests, TestNumberOfPlayers) {
+    Players players = Players::callStations(9);
     Table table(players);
     int actual = table.players.size();
     int expected = 9;
     ASSERT_EQ(expected, actual);
 }
 
-TEST(TableTests, TestAccessToPLayer){
-    Players players;
-    players = Players::callStations(9);
+TEST(TableTests, TestAccessToPLayer) {
+    Players players = Players::callStations(9);
     Table table(players);
     game::PlayerPtr ptr = table.players[0];
     Player player = *ptr;
@@ -31,22 +29,24 @@ TEST(TableTests, TestAccessToPLayer){
     ASSERT_EQ(expected, player.getName());
 }
 
-TEST(TableTests, TestCurrentPlayer){
-    Players players;
-    players = Players::callStations(9);
+TEST(TableTests, TestCurrentPlayer) {
+    Players players = Players::callStations(9);
     Table table(players);
-    game::PlayerPtr ptr = table.current_player;
-    Player player = *ptr;
+    PlayerPtr player = table.players.getCurrentPlayer();
     std::string expected = "player0";
-    ASSERT_EQ(expected, player.getName());
+    ASSERT_EQ(expected, player->getName());
 }
 
-TEST(TableTests, TestCurrentEvent){
-    Players players;
-    players = Players::callStations(9);
+TEST(TableTests, TestCurrentPlayerUpdatesAfterRotate) {
+    Players players = Players::callStations(9);
     Table table(players);
-//    table.current_event->go();
+    table.players.rotate();
+    PlayerPtr player = table.players.getCurrentPlayer();
+    std::string expected = "player1";
+    ASSERT_EQ(expected, player->getName());
 }
+
+
 
 
 

@@ -56,11 +56,13 @@ TEST_F(EventTests, TestEventSwitchedToRotatePlayers) {
     ASSERT_EQ(expected, actual);
 }
 TEST_F(EventTests, TestRotatePlayersWorked) {
-    cout << table.players << endl;
     table.step(); // begin game, switch active event to RotatePlayers
+    cout << endl;
+    cout << table.players << endl;
     table.step(); // Use the RotatePlayers.go method.
+    cout << table.players << endl;
     std::string expected = "player1";
-    std::string actual = table.current_player->getName();
+    std::string actual = table.players.getCurrentPlayer()->getName();
     ASSERT_EQ(expected, actual);
 }
 

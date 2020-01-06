@@ -8,21 +8,18 @@ namespace game {
 
     Table::Table(Players &players) {
         this->players = players;
-         current_player = players.getCurrentPlayer();
     }
 
     Table::Table(Table &table) {
         players = table.players;
         dealer = table.dealer;
         gamePlay = table.gamePlay;
-        current_player = table.current_player;
     }
 
     Table &Table::operator=(const Table &other) {
         players = other.players;
         dealer = other.dealer;
         gamePlay = other.gamePlay;
-        current_player = other.current_player;
         return *this;
     }
 
