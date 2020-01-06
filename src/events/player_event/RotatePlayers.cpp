@@ -11,7 +11,6 @@ namespace events {
         players.rotate();
     }
 
-
     TargetType RotatePlayers::getTarget() {
         return target;
     }

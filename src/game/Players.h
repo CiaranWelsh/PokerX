@@ -23,7 +23,7 @@ namespace game {
 
         ~Players();
 
-        Players(Players &positions);
+        Players(Players const &positions);
 
         PlayerPtr getCurrentPlayer();
 

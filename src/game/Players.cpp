@@ -18,7 +18,7 @@ namespace game {
 
     Players::~Players() = default;
 
-    Players::Players(Players &positions) {
+    Players::Players(Players const &positions) {
         this->_positions = positions._positions;
         current_player = _positions[0];
     }
@@ -43,6 +43,8 @@ namespace game {
         PlayerPtr front_player = _positions[0];
         _positions.erase(_positions.begin());
         _positions.push_back(front_player);
+        // must update current_player field
+        current_player = _positions[0];
     }
 
     void Players::next_player(){
@@ -99,6 +101,9 @@ namespace game {
     }
 
     PlayerPtr Players::getCurrentPlayer() {
+        if (current_player == nullptr){
+            throw errors::NullPointerException();
+        }
         return current_player;
     }
 
