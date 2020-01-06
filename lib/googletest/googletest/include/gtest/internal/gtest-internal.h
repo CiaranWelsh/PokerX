@@ -270,7 +270,7 @@ class FloatingPoint {
   //
   // The maximum error of a single floating-point operation is 0.5
   // units in the last place.  On Intel CPU's, all floating-point
-  // calculations are done with 80-bit precision, while double has 64
+  // calculations are game_ended with 80-bit precision, while double has 64
   // bits.  Therefore, 4 should be enough for ordinary use.
   //
   // See the following article for more details on ULP:

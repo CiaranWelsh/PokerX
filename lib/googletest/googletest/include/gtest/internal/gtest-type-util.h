@@ -727,7 +727,7 @@ struct Types50 {
 // Our solution is to combine the best part of the two approaches: a
 // user would write Types<T1, ..., TN>, and Google Test will translate
 // that to TypesN<T1, ..., TN> internally to make error messages
-// readable.  The translation is done by the 'type' member of the
+// readable.  The translation is game_ended by the 'type' member of the
 // Types template.
 template <typename T1 = internal::None, typename T2 = internal::None,
     typename T3 = internal::None, typename T4 = internal::None,
@@ -2435,7 +2435,7 @@ struct Templates50 {
 // Our solution is to combine the best part of the two approaches: a
 // user would write Templates<T1, ..., TN>, and Google Test will translate
 // that to TemplatesN<T1, ..., TN> internally to make error messages
-// readable.  The translation is done by the 'type' member of the
+// readable.  The translation is game_ended by the 'type' member of the
 // Templates template.
 template <GTEST_TEMPLATE_ T1 = NoneT, GTEST_TEMPLATE_ T2 = NoneT,
     GTEST_TEMPLATE_ T3 = NoneT, GTEST_TEMPLATE_ T4 = NoneT,

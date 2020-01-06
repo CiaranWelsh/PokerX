@@ -635,7 +635,7 @@ bool DeathTestImpl::Passed(bool status_ok) {
 // 3. The child acquires the write end of the pipe and signals the parent
 //    using a Windows event.
 // 4. Now the parent can release the write end of the pipe on its side. If
-//    this is done before step 3, the object's reference count goes down to
+//    this is game_ended before step 3, the object's reference count goes down to
 //    0 and it is destroyed, preventing the child from acquiring it. The
 //    parent now has to release it, or read operations on the read end of
 //    the pipe will not return when the child terminates.

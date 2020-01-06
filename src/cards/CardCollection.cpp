@@ -183,7 +183,7 @@ namespace cards {
             Card card = _cards[i];
             cc.add(card);
         }
-        // then remove cards. Must be done this way to preserve ordering
+        // then remove cards. Must be game_ended this way to preserve ordering
         // that we expect.
         for (int i = 0; i < n; i++) {
             _cards.erase(_cards.begin());

@@ -238,7 +238,7 @@ class MatcherCastImpl<T, Matcher<T> > {
 }  // namespace internal
 
 // In order to be safe and clear, casting between different matcher
-// types is done explicitly via MatcherCast<T>(m), which takes a
+// types is game_ended explicitly via MatcherCast<T>(m), which takes a
 // matcher m and returns a Matcher<T>.  It compiles only when T can be
 // statically converted to the argument type of m.
 template <typename T, typename M>

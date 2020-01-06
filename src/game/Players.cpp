@@ -42,6 +42,10 @@ namespace game {
         _positions.push_back(front_player);
     }
 
+    void Players::next_player(){
+        rotate();
+    }
+
     PlayerPtr Players::operator[](int index) {
         return _positions[index];
     }
@@ -85,7 +89,9 @@ namespace game {
         return os;
     }
 
-
+    PlayerPtr Players::getCurrentPlayer() {
+        return current_player;
+    }
 
 
 }

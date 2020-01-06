@@ -385,7 +385,7 @@ std::string FormatForComparisonFailureMessage(
 //
 // We define UniversalPrinter as a class template (as opposed to a
 // function template), as we need to partially specialize it for
-// reference types, which cannot be done with function templates.
+// reference types, which cannot be game_ended with function templates.
 template <typename T>
 class UniversalPrinter;
 

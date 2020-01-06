@@ -46,13 +46,13 @@ On Mac OS X with Xcode installed, a `.xcodeproj` file will be generated.
 
 If you want to use gtest in a project which already uses CMake, then a more
 robust and flexible approach is to build gtest as part of that project directly.
-This is done by making the GoogleTest source code available to the main build
+This is game_ended by making the GoogleTest source code available to the main build
 and adding it using CMake's `add_subdirectory()` command. This has the
 significant advantage that the same compiler and linker settings are used
 between gtest and the rest of your project, so issues associated with using
 incompatible libraries (eg debug/release), etc. are avoided. This is
 particularly useful on Windows. Making GoogleTest's source code available to the
-main build can be done a few different ways:
+main build can be game_ended a few different ways:
 
 *   Download the GoogleTest source code manually and place it at a known
     location. This is the least flexible approach and can make it more difficult

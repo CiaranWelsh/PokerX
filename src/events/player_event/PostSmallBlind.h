@@ -10,7 +10,7 @@
 namespace events {
     class PostSmallBlind : public PlayerEvent {
     private:
-        TargetType target = None;
+        TargetType target = Players;
         std::string id = "PostSmallBlind";
         bool done = false;
         std::string description = "Post the small blind";

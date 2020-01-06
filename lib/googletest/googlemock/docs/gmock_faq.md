@@ -112,7 +112,7 @@ your test more robust, for example, by adding something like:
 using ::testing::AnyNumber;
 using ::testing::Not;
 ...
-  // Ignores any log not done by us.
+  // Ignores any log not game_ended by us.
   EXPECT_CALL(log, Log(_, Not(EndsWith("/my_file.cc")), _))
       .Times(AnyNumber());
 ```

@@ -200,7 +200,7 @@ void ExpectationBase::DescribeCallCountTo(::std::ostream* os) const
 
 // Checks the action count (i.e. the number of WillOnce() and
 // WillRepeatedly() clauses) against the cardinality if this hasn't
-// been done before.  Prints a warning if there are too many or too
+// been game_ended before.  Prints a warning if there are too many or too
 // few actions.
 void ExpectationBase::CheckActionCountIfNotDone() const
     GTEST_LOCK_EXCLUDED_(mutex_) {

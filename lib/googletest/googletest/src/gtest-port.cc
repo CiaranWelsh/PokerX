@@ -439,7 +439,7 @@ void Mutex::ThreadSafeLazyInit() {
         break;
       case 1:
         // Somebody else is already initializing the mutex; spin until they
-        // are done.
+        // are game_ended.
         while (::InterlockedCompareExchange(&critical_section_init_phase_,
                                             2L,
                                             2L) != 2L) {

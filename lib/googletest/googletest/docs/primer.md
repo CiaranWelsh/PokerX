@@ -387,7 +387,7 @@ class QueueTest : public ::testing::Test {
 ```
 
 In this case, `TearDown()` is not needed since we don't have to clean up after
-each test, other than what's already done by the destructor.
+each test, other than what's already game_ended by the destructor.
 
 Now we'll write tests using `TEST_F()` and this fixture.
 
@@ -562,6 +562,6 @@ NOTE: `ParseGUnitFlags()` is deprecated in favor of `InitGoogleTest()`.
     on systems where the `pthreads` library is available. It is currently
     _unsafe_ to use Google Test assertions from two threads concurrently on
     other systems (e.g. Windows). In most tests this is not an issue as usually
-    the assertions are done in the main thread. If you want to help, you can
+    the assertions are game_ended in the main thread. If you want to help, you can
     volunteer to implement the necessary synchronization primitives in
     `gtest-port.h` for your platform.

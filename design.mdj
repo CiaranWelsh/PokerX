@@ -18029,7 +18029,7 @@
 							"top": 1224,
 							"width": 329,
 							"height": 169,
-							"text": "Dealer acts in different ways depending on the state of the flags. The begin_street is always True at the start of the street, and turned to false once the first move has been made by a player. This is to give me a way of distinguishing between all_players_equal before anybody has actually done anything. GThis flag must be true in order to progress onto the next street. The raised flag is how the dealer will know which set of options to offer a player. "
+							"text": "Dealer acts in different ways depending on the state of the flags. The begin_street is always True at the start of the street, and turned to false once the first move has been made by a player. This is to give me a way of distinguishing between all_players_equal before anybody has actually game_ended anything. GThis flag must be true in order to progress onto the next street. The raised flag is how the dealer will know which set of options to offer a player. "
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -29455,7 +29455,7 @@
 											"top": 659,
 											"width": 109.4716796875,
 											"height": 13,
-											"text": "+done: bool",
+											"text": "+game_ended: bool",
 											"horizontalAlignment": 0
 										}
 									],
@@ -34962,7 +34962,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvZvzYm0mR8dA="
 							},
-							"name": "done",
+							"name": "game_ended",
 							"type": "bool"
 						}
 					]

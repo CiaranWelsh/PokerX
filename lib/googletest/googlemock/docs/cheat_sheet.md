@@ -565,8 +565,8 @@ EXPECT_CALL(mock, Foo("Hi", _, _)).WillOnce(Invoke(Distance));
 callback type instead of a derived one, e.g.
 
 ```cpp
-  BlockingClosure* done = new BlockingClosure;
-  ... Invoke(done) ...;  // This won't compile!
+  BlockingClosure* game_ended = new BlockingClosure;
+  ... Invoke(game_ended) ...;  // This won't compile!
 
   Closure* done2 = new BlockingClosure;
   ... Invoke(done2) ...;  // This works.

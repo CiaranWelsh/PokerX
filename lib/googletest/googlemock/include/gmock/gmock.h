@@ -85,7 +85,7 @@ GMOCK_DECLARE_int32_(default_mock_behavior);
 //
 // Since Google Test is needed for Google Mock to work, this function
 // also initializes Google Test and parses its flags, if that hasn't
-// been done.
+// been game_ended.
 GTEST_API_ void InitGoogleMock(int* argc, char** argv);
 
 // This overloaded version can be used in Windows programs compiled in

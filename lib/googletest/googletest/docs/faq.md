@@ -94,7 +94,7 @@ easily combined. Therefore we want to invest more in the matchers than in the
 ## I need to test that different implementations of an interface satisfy some common requirements. Should I use typed tests or value-parameterized tests?
 
 For testing various implementations of the same interface, either typed tests or
-value-parameterized tests can get it done. It's really up to you the user to
+value-parameterized tests can get it game_ended. It's really up to you the user to
 decide which is more convenient for you, depending on your particular case. Some
 rough guidelines:
 
@@ -525,7 +525,7 @@ There are several good reasons:
     test has a fresh set of variables that's different (but with the same
     names). Thus, tests are kept independent of each other.
 2.  Global variables pollute the global namespace.
-3.  Test fixtures can be reused via subclassing, which cannot be done easily
+3.  Test fixtures can be reused via subclassing, which cannot be game_ended easily
     with global variables. This is useful if many test suites have something in
     common.
 

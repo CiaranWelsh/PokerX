@@ -829,7 +829,7 @@ class CartesianProductGenerator
 
       bool last = ThisI == 0;
       if (last) {
-        // We are done. Nothing else to propagate.
+        // We are game_ended. Nothing else to propagate.
         return;
       }
 

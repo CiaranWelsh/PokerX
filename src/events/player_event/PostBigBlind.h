@@ -6,18 +6,27 @@
 #define POKERSIMULATIONSINCPP_POSTBIGBLIND_H
 
 #include "PlayerEvent.h"
-//#include "game/Table.h"
-
-// maybe these events should be implemented within the Table class?
 
 namespace events {
-    class PostBigBlind : PlayerEvent {
+    class PostBigBlind : public PlayerEvent {
     private:
-        std::string description = "Post the small blind";
+        TargetType target = Players;
+        std::string id = "PostBigBlind";
+        bool done = false;
+        std::string description = "Post the big blind";
     public:
         using PlayerEvent::Event;
 
-//        void go(game::Table &table, game::PlayerPtr player);
+        TargetType getTarget() override;
+
+        std::string getDescription() override;
+
+        bool getDone() override;
+
+        std::string getId() override;
+
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &player) override;
+
 
     };
 }

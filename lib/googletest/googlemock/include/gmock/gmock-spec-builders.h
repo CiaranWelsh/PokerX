@@ -643,7 +643,7 @@ class GTEST_API_ Sequence {
 
 // An object of this type causes all EXPECT_CALL() statements
 // encountered in its scope to be put in an anonymous sequence.  The
-// work is done in the constructor and destructor.  You should only
+// work is game_ended in the constructor and destructor.  You should only
 // create an InSequence object on the stack.
 //
 // The sole purpose for this class is to support easy definition of
@@ -838,7 +838,7 @@ class GTEST_API_ ExpectationBase {
 
   // Checks the action count (i.e. the number of WillOnce() and
   // WillRepeatedly() clauses) against the cardinality if this hasn't
-  // been done before.  Prints a warning if there are too many or too
+  // been game_ended before.  Prints a warning if there are too many or too
   // few actions.
   void CheckActionCountIfNotDone() const
       GTEST_LOCK_EXCLUDED_(mutex_);
@@ -904,7 +904,7 @@ class TypedExpectation : public ExpectationBase {
         repeated_action_(DoDefault()) {}
 
   ~TypedExpectation() override {
-    // Check the validity of the action count if it hasn't been done
+    // Check the validity of the action count if it hasn't been game_ended
     // yet (for example, if the expectation was never used).
     CheckActionCountIfNotDone();
     for (UntypedActions::const_iterator it = untyped_actions_.begin();
@@ -1217,7 +1217,7 @@ class TypedExpectation : public ExpectationBase {
       Retire();
     }
 
-    // Must be done after IncrementCount()!
+    // Must be game_ended after IncrementCount()!
     *what << "Mock function call matches " << source_text() <<"...\n";
     return &(GetCurrentAction(mocker, args));
   }
@@ -1708,7 +1708,7 @@ class FunctionMocker<R(Args...)> final : public UntypedFunctionMockerBase {
       return nullptr;
     }
 
-    // This line must be done before calling GetActionForArguments(),
+    // This line must be game_ended before calling GetActionForArguments(),
     // which will increment the call count for *exp and thus affect
     // its saturation status.
     *is_excessive = exp->IsSaturated();

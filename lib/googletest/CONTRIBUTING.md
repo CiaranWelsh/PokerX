@@ -35,7 +35,7 @@ PR is acceptable as an alternative.
 3.  Also, coordinate with team members that are listed on the issue in question.
     This ensures that work isn't being duplicated and communicating your plan
     early also generally leads to better patches.
-4.  If your proposed change is accepted, and you haven't already done so, sign a
+4.  If your proposed change is accepted, and you haven't already game_ended so, sign a
     Contributor License Agreement (see details above).
 5.  Fork the desired repo, develop and test your code changes.
 6.  Ensure that your code adheres to the existing style in the sample to which
@@ -119,7 +119,7 @@ explicitly where your Python executable can be found:
     cmake -DPYTHON_EXECUTABLE=path/to/python ...
 
 Next, you can build Google Test and / or Google Mock and all desired tests. On
-\*nix, this is usually done by
+\*nix, this is usually game_ended by
 
     make
 

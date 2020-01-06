@@ -35,12 +35,13 @@ add_library(${BINARY}_lib STATIC
         events/player_event/RotatePlayers.cpp
         events/player_event/RotatePlayers.h
         events/player_event/NextPlayer.h
+        events/player_event/NextPlayer.cpp
         events/player_event/PostSmallBlind.cpp
         events/player_event/PostSmallBlind.h
         events/player_event/PostBigBlind.cpp
         events/player_event/PostBigBlind.h
         events/EventPtr.h
-        game/GamePlay.h)
+        game/GamePlay.h events/time_event/EndGame.cpp events/time_event/EndGame.h)
 
 
 

@@ -6,15 +6,30 @@
 #define POKERSIMULATIONSINCPP_NEXTPLAYER_H
 
 #include "PlayerEvent.h"
-#include "RotatePlayers.h"
+#include "game/Players.h"
 
 namespace events {
-    /*
-     * Conceptually, rotating players at the begining of a hand
-     * is the same as moving to the next player. To make this clear
-     * the folloing alias is defined.
-     */
-    typedef RotatePlayers NextPlayer;
+    class NextPlayer : public PlayerEvent {
+    private:
+        std::string id = "NextPlayer";
+        TargetType target = Players;
+        bool done = false;
+        std::string description = "Move to the next player that is in the game ";
+    public:
+        using PlayerEvent::Event;
+
+        void go(game::Players &players);
+
+        TargetType getTarget() override;
+
+        std::string getDescription() override;
+
+        bool getDone() override;
+
+        std::string getId() override;
+
+
+    };
 }
 
 #endif //POKERSIMULATIONSINCPP_NEXTPLAYER_H

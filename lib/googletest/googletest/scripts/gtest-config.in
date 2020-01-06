@@ -189,7 +189,7 @@ while test $# -gt 0; do
     *)                show_usage;         exit 1;;
   esac
   shift
-done
+game_ended
 
 # These have defaults filled in by the configure script but can also be
 # overridden by environment variables or command line parameters.

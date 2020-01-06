@@ -127,7 +127,7 @@ GTEST_DISABLE_MSC_WARNINGS_POP_()  //  4251
 // affects and considers failures generated in the current thread and
 // EXPECT_FATAL_FAILURE_ON_ALL_THREADS does the same but for all threads.
 //
-// The verification of the assertion is done correctly even when the statement
+// The verification of the assertion is game_ended correctly even when the statement
 // throws an exception or aborts the current function.
 //
 // Known restrictions:
@@ -187,7 +187,7 @@ GTEST_DISABLE_MSC_WARNINGS_POP_()  //  4251
 // 'statement' is allowed to reference local variables and members of
 // the current object.
 //
-// The verification of the assertion is done correctly even when the statement
+// The verification of the assertion is game_ended correctly even when the statement
 // throws an exception or aborts the current function.
 //
 // Known restrictions:

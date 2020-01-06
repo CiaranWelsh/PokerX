@@ -16,6 +16,8 @@ namespace game {
     class Players {
     private:
         vector<PlayerPtr> _positions;
+        PlayerPtr current_player = _positions[0];
+
     public:
         Players();
 
@@ -23,19 +25,21 @@ namespace game {
 
         Players(Players &positions);
 
+        PlayerPtr getCurrentPlayer();
+
         explicit Players(std::vector<PlayerPtr> vec);
 
         vector<PlayerPtr> getPositions();
 
-        void addPlayer(const PlayerPtr& player_ptr);
+        void addPlayer(const PlayerPtr &player_ptr);
 
-        void addPlayer(const PlayerPtr& player, int index);
+        void addPlayer(const PlayerPtr &player, int index);
 
         void rotate();
 
         PlayerPtr operator[](int index);
 
-        static Players callStations(int howMany, double start_amount=10);
+        static Players callStations(int howMany, double start_amount = 10);
 
         int size();
 
@@ -43,7 +47,9 @@ namespace game {
 
         std::vector<PlayerPtr>::iterator end();
 
-        friend ostream& operator<<(ostream& os, Players &players);
+        friend ostream &operator<<(ostream &os, Players &players);
+
+        void next_player();
 
     };
 }

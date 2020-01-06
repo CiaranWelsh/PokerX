@@ -61,7 +61,7 @@ gMock was built to help C++ programmers. It was inspired by jMock and EasyMock,
 but designed with C++'s specifics in mind. It is your friend if any of the
 following problems is bothering you:
 
-*   You are stuck with a sub-optimal design and wish you had done more
+*   You are stuck with a sub-optimal design and wish you had game_ended more
     prototyping before it was too late, but prototyping in C++ is by no means
     "rapid".
 *   Your tests are slow as they depend on too many libraries or use expensive
@@ -159,7 +159,7 @@ follow:
 *   Since you're overriding a virtual method, we suggest adding the `override`
     keyword. For const methods the 4th parameter becomes `(const, override)`,
     for non-const methods just `(override)`. This isn't mandatory.
-*   Repeat until all virtual functions you want to mock are done. (It goes
+*   Repeat until all virtual functions you want to mock are game_ended. (It goes
     without saying that *all* pure virtual methods in your abstract class must
     be either mocked or overridden.)
 
@@ -628,7 +628,7 @@ told you in the [Using Multiple Expectations](#MultiExpectations) section above.
 This example shows that **expectations in gMock are "sticky" by default**, in
 the sense that they remain active even after we have reached their invocation
 upper bounds. This is an important rule to remember, as it affects the meaning
-of the spec, and is **different** to how it's done in many other mocking
+of the spec, and is **different** to how it's game_ended in many other mocking
 frameworks (Why'd we do that? Because we think our rule makes the common cases
 easier to express and understand.).
 

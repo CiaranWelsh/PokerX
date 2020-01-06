@@ -7,8 +7,23 @@
 
 namespace events {
 
-//    void PostBigBlind::go(game::Table &table, game::PlayerPtr player) {
-//        double big_blind_amount = table.getBigBlind();
-//        player->play(Raise, big_blind_amount);
-//    };
+    void PostBigBlind::go(game::GamePlay &gamePlay, game::PlayerPtr &player) {
+        player->play(Raise, gamePlay.big_blind);
+    }
+
+    TargetType PostBigBlind::getTarget() {
+        return target;
+    }
+
+    std::string PostBigBlind::getDescription() {
+        return description;
+    }
+
+    bool PostBigBlind::getDone() {
+        return done;
+    }
+
+    std::string PostBigBlind::getId() {
+        return id;
+    }
 }

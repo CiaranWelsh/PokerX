@@ -1261,7 +1261,7 @@ std::string CreateUnifiedDiff(const std::vector<std::string>& left,
     }
 
     if (!hunk.has_edits()) {
-      // We are done. We don't want this hunk.
+      // We are game_ended. We don't want this hunk.
       break;
     }
 
@@ -2247,7 +2247,7 @@ Test::Test()
 }
 
 // The d'tor restores the states of all flags.  The actual work is
-// done by the d'tor of the gtest_flag_saver_ field, and thus not
+// game_ended by the d'tor of the gtest_flag_saver_ field, and thus not
 // visible here.
 Test::~Test() {
 }
@@ -2642,7 +2642,7 @@ namespace internal {
 
 // This method expands all parameterized tests registered with macros TEST_P
 // and INSTANTIATE_TEST_SUITE_P into regular tests and registers those.
-// This will be done just once during the program runtime.
+// This will be game_ended just once during the program runtime.
 void UnitTestImpl::RegisterParameterizedTests() {
   if (!parameterized_tests_registered_) {
     parameterized_test_registry_.RegisterTests();
@@ -2918,7 +2918,7 @@ static void PrintTestPartResult(const TestPartResult& test_part_result) {
   // corresponding source code location; otherwise they do nothing.
 #if GTEST_OS_WINDOWS && !GTEST_OS_WINDOWS_MOBILE
   // We don't call OutputDebugString*() on Windows Mobile, as printing
-  // to stdout is done by OutputDebugString() there already - we don't
+  // to stdout is game_ended by OutputDebugString() there already - we don't
   // want the same message printed twice.
   ::OutputDebugStringA(result.c_str());
   ::OutputDebugStringA("\n");
@@ -3026,7 +3026,7 @@ bool ShouldUseColor(bool stdout_is_tty) {
 // Helpers for printing colored strings to stdout. Note that on Windows, we
 // cannot simply emit special characters and have the terminal change colors.
 // This routine must actually emit the characters rather than return a string
-// that would be colored when printed, as can be done on Linux.
+// that would be colored when printed, as can be game_ended on Linux.
 void ColoredPrintf(GTestColor color, const char* fmt, ...) {
   va_list args;
   va_start(args, fmt);
@@ -4411,7 +4411,7 @@ void StreamingListener::SocketWriter::MakeConnection() {
     }
   }
 
-  freeaddrinfo(servinfo);  // all done with this structure
+  freeaddrinfo(servinfo);  // all game_ended with this structure
 
   if (sockfd_ == -1) {
     GTEST_LOG_(WARNING) << "stream_result_to: failed to connect to "
@@ -5300,7 +5300,7 @@ bool UnitTestImpl::RunAllTests() {
     // Shuffles test suites and tests if requested.
     if (has_tests_to_run && GTEST_FLAG(shuffle)) {
       random()->Reseed(static_cast<UInt32>(random_seed_));
-      // This should be done before calling OnTestIterationStart(),
+      // This should be game_ended before calling OnTestIterationStart(),
       // such that a test event listener can see the actual test order
       // in the event.
       ShuffleTests();

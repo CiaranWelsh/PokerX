@@ -21,6 +21,7 @@ class EventTests : public ::testing::Test {
 protected:
     game::Players players;
     game::Table table;
+
     void SetUp() {
         players = game::Players::callStations(9);
         game::Table table2(players);
@@ -33,39 +34,35 @@ protected:
  * BeginGame tests
  */
 TEST_F(EventTests, TestGameStartedFlagIsSwitched) {
-    game::Table table;
     ASSERT_FALSE(table.gamePlay.game_started);
     table.step();
     ASSERT_TRUE(table.gamePlay.game_started);
 }
 
 TEST_F(EventTests, TestCorrectStreet) {
-    game::Table table;
     ASSERT_TRUE(table.gamePlay.street == game::Preflop);
 }
 
 TEST_F(EventTests, TestGetId) {
-    game::Table table;
     std::string expected = "BeginGame";
     std::string actual = table.current_event->getId();
     ASSERT_EQ(expected, actual);
 }
 
 TEST_F(EventTests, TestEventSwitchedToRotatePlayers) {
-    game::Table table;
     table.step();
     std::string expected = "RotatePlayers";
     std::string actual = table.current_event->getId();
     ASSERT_EQ(expected, actual);
 }
 
-TEST_F(EventTests, Test) {
-    game::Table table;
-    table.step();
-    table.step();
-//    std::string expected = "RotatePlayers";
-//    std::string actual = table.current_event->getId();
-//    ASSERT_EQ(expected, actual);
+TEST_F(EventTests, TestBigBlind) {
+    while (!table.gamePlay.game_ended) {
+        table.step();
+        cout << "Current player: " << table.players.getCurrentPlayer()->getName();
+        cout << ", Current event: " << table.current_event->getId();
+        cout << ", Event description: " << table.current_event->getDescription() << endl;
+    }
 }
 
 

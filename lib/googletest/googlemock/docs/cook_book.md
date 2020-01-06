@@ -2232,8 +2232,8 @@ as long as it's safe to do so - nice, huh?
       ResultCallback<bool>* is_ok = ...;
       ... Invoke(is_ok) ...;  // This works.
 
-      BlockingClosure* done = new BlockingClosure;
-      ... Invoke(implicit_cast<Closure*>(done)) ...;  // The cast is necessary.
+      BlockingClosure* game_ended = new BlockingClosure;
+      ... Invoke(implicit_cast<Closure*>(game_ended)) ...;  // The cast is necessary.
     ```
 
 ### Using Functions with Extra Info as Actions
@@ -2317,8 +2317,8 @@ bool Job2(int n, char c) { ... }
       ResultCallback<bool>* is_ok = ...;
       ... InvokeWithoutArgs(is_ok) ...;  // This works.
 
-      BlockingClosure* done = ...;
-      ... InvokeWithoutArgs(implicit_cast<Closure*>(done)) ...;
+      BlockingClosure* game_ended = ...;
+      ... InvokeWithoutArgs(implicit_cast<Closure*>(game_ended)) ...;
       // The cast is necessary.
     ```
 
@@ -2685,12 +2685,12 @@ TEST(EventQueueTest, EnqueueEventTest) {
   EventQueue event_queue(&mock_event_dispatcher);
 
   const int32 kEventId = 321;
-  Notification done;
+  Notification game_ended;
   EXPECT_CALL(mock_event_dispatcher, DispatchEvent(kEventId))
-      .WillOnce(Notify(&done));
+      .WillOnce(Notify(&game_ended));
 
   event_queue.EnqueueEvent(kEventId);
-  done.WaitForNotification();
+  game_ended.WaitForNotification();
 }
 ```
 
@@ -3123,7 +3123,7 @@ happily together:
 *   Obviously, you can do step #1 without locking.
 *   When doing step #2 and #5, make sure no other thread is accessing `foo`.
     Obvious too, huh?
-*   #3 and #4 can be done either in one thread or in multiple threads - anyway
+*   #3 and #4 can be game_ended either in one thread or in multiple threads - anyway
     you want. gMock takes care of the locking, so you don't have to do any -
     unless required by your test logic.
 
@@ -3131,7 +3131,7 @@ If you violate the rules (for example, if you set expectations on a mock while
 another thread is calling its methods), you get undefined behavior. That's not
 fun, so don't do it.
 
-gMock guarantees that the action for a mock function is done in the same thread
+gMock guarantees that the action for a mock function is game_ended in the same thread
 that called the mock function. For example, in
 
 ```cpp

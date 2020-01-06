@@ -108,7 +108,7 @@ namespace internal2 {
 
 // Delegates to PrintBytesInObjectToImpl() to print the bytes in the
 // given object.  The delegation simplifies the implementation, which
-// uses the << operator and thus is easier done outside of the
+// uses the << operator and thus is easier game_ended outside of the
 // ::testing::internal namespace, which contains a << operator that
 // sometimes conflicts with the one in STL.
 void PrintBytesInObjectTo(const unsigned char* obj_bytes, size_t count,
