@@ -28,7 +28,7 @@ namespace game {
         // attributes
         Dealer dealer;
         Players players;
-        PlayerPtr current_player = players.getCurrentPlayer();
+        PlayerPtr current_player;
         GamePlay gamePlay;
 
         // events

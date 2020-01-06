@@ -30,6 +30,11 @@ namespace errors {
         EventNotChangedAfterStepError() : std::logic_error("The current Event subtype has not changed") {};
     };
 
+    class EmptyContainerError : public std::logic_error {
+    public:
+        EmptyContainerError() : std::logic_error("You are trying to access data from an empty container"){};
+    };
+
 
 };
 

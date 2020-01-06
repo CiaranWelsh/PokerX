@@ -8,6 +8,7 @@
 #include <iostream>
 #include <sstream>
 #include <utility>
+#include <dshow.h>
 
 /**
  * Positions implementation
@@ -47,6 +48,12 @@ namespace game {
     }
 
     PlayerPtr Players::operator[](int index) {
+        if (_positions.empty()){
+            throw errors::EmptyContainerError();
+        }
+        if (_positions[index] == NULL){
+            throw errors::NullPointerException();
+        }
         return _positions[index];
     }
 
