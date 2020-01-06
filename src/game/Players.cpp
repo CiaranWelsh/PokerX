@@ -20,9 +20,11 @@ namespace game {
 
     Players::Players(Players &positions) {
         this->_positions = positions._positions;
+        current_player = _positions[0];
     }
     Players::Players(std::vector<PlayerPtr> vec) {
         this->_positions = std::move(vec);
+        current_player = _positions[0];
     }
 
     vector<boost::shared_ptr<Player>> Players::getPositions() {

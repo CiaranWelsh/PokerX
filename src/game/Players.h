@@ -16,7 +16,7 @@ namespace game {
     class Players {
     private:
         vector<PlayerPtr> _positions;
-        PlayerPtr current_player = _positions[0];
+        PlayerPtr current_player;
 
     public:
         Players();
