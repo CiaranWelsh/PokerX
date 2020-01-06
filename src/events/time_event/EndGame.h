@@ -12,10 +12,10 @@ namespace events {
     class EndGame : public TimeEvent {
     public:
         EndGame() {
-            id = "BeginGame";
+            id = "EndGame";
             target = GamePlay;
-            description = "This event marks the start of a game, i.e. before preflop.";
-            done = false;
+            description = "This event marks the end of a game.";
+            done = true;
         }
 
         void go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) override;

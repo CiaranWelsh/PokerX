@@ -68,10 +68,8 @@ namespace game {
             players.next_player();
         }
 
-
-        if (copy_of_current_event_id == current_event->getId())
+        if (copy_of_current_event_id != "EndGame" && copy_of_current_event_id == current_event->getId())
             throw errors::EventNotChangedAfterStepError();
-
 
         return current_event;
     }

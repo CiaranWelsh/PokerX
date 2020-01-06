@@ -20,7 +20,8 @@ namespace events {
 
         using Event::Event;
 
-        virtual void go(game::Dealer &dealer);
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) override;
+
 
     };
 }
