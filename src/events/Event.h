@@ -17,11 +17,11 @@ namespace events {
 
 
     class Event {
-    private:
+    protected:
         TargetType target = None;
-        std::string id = "Event";
-        std::string description = "Base event class";
         bool done = false;
+        std::string description = "Base event class";
+        std::string id = "Event";
     public:
         virtual ~Event();
 
@@ -35,10 +35,12 @@ namespace events {
 
         virtual std::string getId();
 
-        virtual void go(game::GamePlay &gamePlay);
+        /*
+         * A go method for time_events
+         */
+        virtual void go(game::GamePlay &gamePlay, boost::shared_ptr<Player> &player);
 
     };
-
 
 }
 

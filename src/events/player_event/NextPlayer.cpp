@@ -6,4 +6,7 @@
 
 namespace events {
 
+    void NextPlayer::go(game::Players &players) {
+
+    }
 }

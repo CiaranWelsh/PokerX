@@ -9,23 +9,15 @@
 
 namespace events {
     class TimeEvent : public Event {
-    private:
-        TargetType target = None;
-        std::string id = "TimeEvent";
-        std::string description = "Superclass of events related to time landmarks of Texas holdem poker.";
-        bool done = false;
     public:
-        using Event::Event;
+        TimeEvent() {
+            target = None;
+            id = "TimeEvent";
+            description = "Superclass of events related to time landmarks of Texas holdem poker.";
+            done = false;
+        }
 
-        TargetType getTarget() override;
-
-        std::string getDescription() override;
-
-        bool getDone() override;
-
-        std::string getId() override;
-
-        void go(game::GamePlay &gamePlay) override {};
+        virtual void go(game::GamePlay &gamePlay, game::PlayerPtr &player);
 
     };
 }

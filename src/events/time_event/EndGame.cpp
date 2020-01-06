@@ -6,26 +6,8 @@
 
 namespace events {
 
-
-    void EndGame::go(game::GamePlay &gamePlay) {
+    void EndGame::go(game::GamePlay &gamePlay, game::PlayerPtr &player) {
         gamePlay.game_ended = true;
-    }
-
-
-    TargetType EndGame::getTarget() {
-        return target;
-    }
-
-    std::string EndGame::getDescription() {
-        return description;
-    }
-
-    bool EndGame::getDone() {
-        return done;
-    }
-
-    std::string EndGame::getId() {
-        return id;
     }
 
 }

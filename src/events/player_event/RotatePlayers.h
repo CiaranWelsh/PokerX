@@ -10,26 +10,16 @@
 
 namespace events {
     class RotatePlayers : public PlayerEvent {
-    private:
-        std::string id = "RotatePlayers";
-        TargetType target = Players;
-        bool done = false;
-        std::string description = "Rotate players at the begining of each round to "
-                                  "maintain fair positioning relative to the dealer";
     public:
-        using PlayerEvent::Event;
+        RotatePlayers() {
+            id = "RotatePlayers";
+            target = Players;
+            done = false;
+            description = "Rotate players at the begining of each round to "
+                                      "maintain fair positioning relative to the dealer";
+        }
 
         void go(game::Players &players);
-
-        TargetType getTarget() override;
-
-        std::string getDescription() override;
-
-        bool getDone() override;
-
-        std::string getId() override;
-
-
     };
 }
 

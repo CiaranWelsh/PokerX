@@ -10,10 +10,14 @@
 
 namespace events {
     class DealerEvent : public Event {
-    private:
-        TargetType target = Dealer;
-        std::string description = "Events that the dealer must carry out";
     public:
+        DealerEvent() {
+            target = Dealer;
+            description = "Events that the dealer must carry out";
+            done = false;
+            id = "DealerEvent";
+        }
+
         using Event::Event;
 
         virtual void go(game::Dealer &dealer);

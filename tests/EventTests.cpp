@@ -33,15 +33,13 @@ protected:
 /*
  * BeginGame tests
  */
-TEST_F(EventTests, TestGameStartedFlagIsSwitched) {
-    ASSERT_FALSE(table.gamePlay.game_started);
-    table.step();
-    ASSERT_TRUE(table.gamePlay.game_started);
+
+TEST_F(EventTests, TestInheritance) {
+    BeginGame beginGame;
+    std::string expected = "BeginGame";
+    ASSERT_EQ(expected, beginGame.getId());
 }
 
-TEST_F(EventTests, TestCorrectStreet) {
-    ASSERT_TRUE(table.gamePlay.street == game::Preflop);
-}
 
 TEST_F(EventTests, TestGetId) {
     std::string expected = "BeginGame";
@@ -49,12 +47,25 @@ TEST_F(EventTests, TestGetId) {
     ASSERT_EQ(expected, actual);
 }
 
+TEST_F(EventTests, TestGameStartedFlagIsSwitched) {
+    ASSERT_FALSE(table.gamePlay.game_started);
+    table.step();
+    ASSERT_TRUE(table.gamePlay.game_started);
+}
+
+
+TEST_F(EventTests, TestCorrectStreet) {
+    ASSERT_TRUE(table.gamePlay.street == game::Preflop);
+}
+
+
 TEST_F(EventTests, TestEventSwitchedToRotatePlayers) {
     table.step();
     std::string expected = "RotatePlayers";
     std::string actual = table.current_event->getId();
     ASSERT_EQ(expected, actual);
 }
+
 TEST_F(EventTests, TestRotatePlayersWorked) {
     table.step(); // begin game, switch active event to RotatePlayers
     cout << endl;

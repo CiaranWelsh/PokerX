@@ -10,23 +10,18 @@
 
 namespace events {
     class NextPlayer : public PlayerEvent {
-    private:
-        std::string id = "NextPlayer";
-        TargetType target = Players;
-        bool done = false;
-        std::string description = "Move to the next player that is in the game ";
     public:
+        NextPlayer() {
+            id = "NextPlayer";
+            target = Players;
+            done = false;
+            description = "Move to the next player that is in the game ";
+
+        }
+
         using PlayerEvent::Event;
 
         void go(game::Players &players);
-
-        TargetType getTarget() override;
-
-        std::string getDescription() override;
-
-        bool getDone() override;
-
-        std::string getId() override;
 
 
     };

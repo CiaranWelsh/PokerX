@@ -9,21 +9,13 @@
 
 namespace events {
     class PostBigBlind : public PlayerEvent {
-    private:
-        TargetType target = Players;
-        std::string id = "PostBigBlind";
-        bool done = false;
-        std::string description = "Post the big blind";
     public:
-        using PlayerEvent::Event;
-
-        TargetType getTarget() override;
-
-        std::string getDescription() override;
-
-        bool getDone() override;
-
-        std::string getId() override;
+        PostBigBlind() {
+            target = Players;
+            id = "PostBigBlind";
+            done = false;
+            description = "Post the big blind";
+        }
 
         void go(game::GamePlay &gamePlay, game::PlayerPtr &player) override;
 

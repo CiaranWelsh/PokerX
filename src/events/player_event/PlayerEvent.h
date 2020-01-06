@@ -10,28 +10,16 @@
 
 namespace events {
     class PlayerEvent : public Event {
-    private:
-        TargetType target = None;
-        std::string description = "Events relating to players";
-        std::string id = "PlayerEvent";
-        bool done = false;
     public:
-        using Event::Event;
-
-        TargetType getTarget() override;
-
-        std::string getDescription() override;
-
-        bool getDone() override;
-
-        std::string getId() override ;
+        PlayerEvent() {
+            target = None;
+            description = "Events relating to players";
+            id = "PlayerEvent";
+            done = false;
+        }
 
         virtual void go(game::GamePlay &gamePlay, game::PlayerPtr &player) {};
 
-
-//        virtual void go(game::Players &players) = 0;
-//
-//        virtual void go(Player* player) = 0;
     };
 }
 

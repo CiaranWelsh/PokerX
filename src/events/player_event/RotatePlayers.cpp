@@ -10,21 +10,4 @@ namespace events {
     void RotatePlayers::go(game::Players &players) {
         players.rotate();
     }
-
-    TargetType RotatePlayers::getTarget() {
-        return target;
-    }
-
-    std::string RotatePlayers::getDescription() {
-        return description;
-    }
-
-    bool RotatePlayers::getDone() {
-        return done;
-    }
-
-    std::string RotatePlayers::getId() {
-        return id;
-    }
-
 }

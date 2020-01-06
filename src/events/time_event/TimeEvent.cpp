@@ -8,20 +8,9 @@
 
 namespace events {
 
-    TargetType TimeEvent::getTarget() {
-        return target;
+    void TimeEvent::go(game::GamePlay &gamePlay, game::PlayerPtr &player) {
+        throw errors::NotImplementedException();
     }
-
-    std::string TimeEvent::getDescription() {
-        return description;
-    }
-
-    bool TimeEvent::getDone() {
-        return done;
-    }
-
-    std::string TimeEvent::getId() {
-        return id;
-    }
-
 }
+
+

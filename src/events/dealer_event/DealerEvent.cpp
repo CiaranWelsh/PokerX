@@ -6,4 +6,7 @@
 
 namespace events{
 
+    void DealerEvent::go(game::Dealer &dealer) {
+
+    }
 }

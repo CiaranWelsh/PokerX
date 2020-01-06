@@ -47,8 +47,11 @@ namespace game {
             throw errors::NullPointerException();
         std::string copy_of_current_event_id = current_event->getId();
 
-        // first try this, catch exceptions and try again with the other arguments
-        current_event->go(gamePlay);
+        cout << "Current ID: " << current_event->getId()<<endl;
+
+        // todo: first try this, catch exceptions and try again with the other arguments
+        PlayerPtr current_player = players.getCurrentPlayer();
+        current_event->go(gamePlay, current_player);
 
         if (current_event->getId() == "BeginGame") {
             current_event = &rotatePlayers;

@@ -4,6 +4,7 @@
 
 #include "Event.h"
 #include <iostream>
+#include <dshow.h>
 
 namespace events {
 
@@ -23,7 +24,9 @@ namespace events {
         return id;
     }
 
-    void Event::go(game::GamePlay &gamePlay) {}
+    void Event::go(game::GamePlay &gamePlay, boost::shared_ptr<Player> &player) {
+        throw errors::NotImplementedException();
+    }
 
     Event::~Event() = default;
 

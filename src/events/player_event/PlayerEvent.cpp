@@ -8,19 +8,4 @@
 
 namespace events{
 
-    TargetType PlayerEvent::getTarget() {
-        return target;
-    }
-
-    std::string PlayerEvent::getDescription() {
-        return description;
-    }
-
-    bool PlayerEvent::getDone() {
-        return done;
-    }
-
-    std::string PlayerEvent::getId() {
-        return id;
-    }
 }

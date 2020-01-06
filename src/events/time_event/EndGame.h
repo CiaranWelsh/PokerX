@@ -10,23 +10,15 @@
 
 namespace events {
     class EndGame : public TimeEvent {
-    private:
-        std::string id = "BeginGame";
-        TargetType target = GamePlay;
-        std::string description = "This event marks the start of a game, i.e. before preflop.";
-        bool done = false;
     public:
-        using TimeEvent::Event;
+        EndGame() {
+            id = "BeginGame";
+            target = GamePlay;
+            description = "This event marks the start of a game, i.e. before preflop.";
+            done = false;
+        }
 
-        TargetType getTarget() override;
-
-        std::string getDescription() override;
-
-        bool getDone() override;
-
-        std::string getId() override;
-
-        void go(game::GamePlay &gamePlay) override;
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &player) override;
 
     };
 }
