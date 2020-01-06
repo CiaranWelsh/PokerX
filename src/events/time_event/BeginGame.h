@@ -20,7 +20,7 @@ namespace events {
             description = "This event marks the start of a game, i.e. before preflop.";
             done = false;
         }
-        void go(game::GamePlay &gamePlay, game::PlayerPtr &player) override;
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) override;
     };
 }
 

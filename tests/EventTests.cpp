@@ -78,6 +78,7 @@ TEST_F(EventTests, TestRotatePlayersWorked) {
 }
 
 TEST_F(EventTests, TestBigBlind) {
+    cout << endl;
     while (!table.gamePlay.game_ended) {
         table.step();
         cout << "Current player: " << table.players.getCurrentPlayer()->getName();

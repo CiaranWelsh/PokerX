@@ -24,7 +24,7 @@ namespace events {
         return id;
     }
 
-    void Event::go(game::GamePlay &gamePlay, boost::shared_ptr<Player> &player) {
+    void Event::go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) {
         throw errors::NotImplementedException();
     }
 

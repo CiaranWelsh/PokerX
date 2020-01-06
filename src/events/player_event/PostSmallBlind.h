@@ -12,12 +12,12 @@ namespace events {
     public:
         PostSmallBlind() {
             target = Players;
-            string id = "PostSmallBlind";
+            id = "PostSmallBlind";
             done = false;
             description = "Post the small blind";
         }
 
-        void go(game::GamePlay &gamePlay, game::PlayerPtr &player) override;
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) override;
 
     };
 }

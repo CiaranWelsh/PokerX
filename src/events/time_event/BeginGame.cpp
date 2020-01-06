@@ -9,8 +9,7 @@
 namespace events {
 
 
-    void BeginGame::go(game::GamePlay &gamePlay, game::PlayerPtr &player) {
-        cout << "In BeginGame::go" << endl;
+    void BeginGame::go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) {
         gamePlay.game_started = true;
     }
 

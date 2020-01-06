@@ -18,7 +18,7 @@ namespace events {
             done = false;
         }
 
-        virtual void go(game::GamePlay &gamePlay, game::PlayerPtr &player) {};
+        void go(game::GamePlay &gamePlay, game::PlayerPtr &current_player, game::Dealer &dealer) override {};
 
     };
 }
