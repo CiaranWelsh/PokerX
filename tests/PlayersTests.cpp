@@ -86,3 +86,24 @@ TEST_F(PlayersTests, TestOstream) {
     stream << players;
     ASSERT_EQ(expected, stream.str());
 }
+
+TEST_F(PlayersTests, AllPlayersNotEqual) {
+    players = Players::callStations(6);
+    players[1]->pot = 30;
+    players[2]->pot = 50;
+    bool actual = players.checkAllPlayersEqual();
+    ASSERT_FALSE(actual);
+
+}
+TEST_F(PlayersTests, AllPlayersEqual) {
+    players = Players::callStations(6);
+    players[0]->pot = 50;
+    players[1]->pot = 50;
+    players[2]->pot = 50;
+    players[3]->pot = 50;
+    players[4]->pot = 50;
+    players[5]->pot = 50;
+    bool actual = players.checkAllPlayersEqual();
+    ASSERT_TRUE(actual);
+
+}

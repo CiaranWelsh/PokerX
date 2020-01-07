@@ -45,6 +45,8 @@ namespace game {
         // start with action_set pointing at action_set_check
         std::shared_ptr<ActionTypeVec> action_set = std::make_unique<ActionTypeVec>(action_set_check);
 
+        // When all players are equal after starting a street, we know to move on to the next street
+        bool all_players_equal = false;
 
     };
 }

@@ -53,6 +53,8 @@ namespace game {
 
         void next_player();
 
+        bool checkAllPlayersEqual();
+
     };
 }
 #endif //_POSITIONS_H

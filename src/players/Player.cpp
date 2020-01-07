@@ -3,8 +3,6 @@
  */
 #include "errors.h"
 #include "Player.h"
-#include "typeinfo"
-#include <boost/type_index.hpp>
 #include "ActionType.h"
 #include <iostream>
 #include <utility>
@@ -48,11 +46,16 @@ void Player::play(ActionType action, double amount) {
             break;
         case Fold:
             cout << "player " << getName() << " folded" << endl;
+            inplay = false;
             break;
         case Check:
             cout << "player " << getName() << " checked" << endl;
             break;
-            ;
+        case AllIn:
+            cout << "player " << getName() << " AllIn" << endl;
+            break;
+        case NoAction:
+            throw errors::InvalidActionError();
     }
 }
 

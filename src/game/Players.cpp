@@ -22,6 +22,7 @@ namespace game {
         this->_positions = positions._positions;
         current_player = _positions[0];
     }
+
     Players::Players(std::vector<PlayerPtr> vec) {
         this->_positions = std::move(vec);
         current_player = _positions[0];
@@ -45,24 +46,35 @@ namespace game {
         _positions.push_back(front_player);
         // must update current_player field
         current_player = _positions[0];
+        /*
+         * Makes this method recursive. Keep rotating until you find a
+         * player who is still in the game. All players should be inplace=true
+         * when the game begins
+         */
+        if (!current_player->inplay)
+            rotate();
+
     }
 
     void Players::previous_player() {
-        PlayerPtr back_player = _positions[size()-1];
-        _positions.erase(_positions.begin()+size()-1);
+        PlayerPtr back_player = _positions[size() - 1];
+        _positions.erase(_positions.begin() + size() - 1);
         _positions.insert(_positions.begin(), back_player);
         current_player = _positions[0];
+        if (!current_player->inplay)
+            previous_player();
+
     }
 
-    void Players::next_player(){
+    void Players::next_player() {
         rotate();
     }
 
     PlayerPtr Players::operator[](int index) {
-        if (_positions.empty()){
+        if (_positions.empty()) {
             throw errors::EmptyContainerError();
         }
-        if (_positions[index] == NULL){
+        if (_positions[index] == nullptr) {
             throw errors::NullPointerException();
         }
         return _positions[index];
@@ -78,7 +90,7 @@ namespace game {
             ptr->stack = start_amount;
             positions.push_back(ptr);
             name.flush();
-        };
+        }
         Players pos(positions);
         return pos;
     }
@@ -108,10 +120,24 @@ namespace game {
     }
 
     PlayerPtr Players::getCurrentPlayer() {
-        if (current_player == nullptr){
+        if (current_player == nullptr) {
             throw errors::NullPointerException();
         }
         return current_player;
+    }
+
+    bool Players::checkAllPlayersEqual() {
+        bool equal = true;
+        for (int i = 1; i < size(); i++) {
+            //todo overload Pot == and != operators
+            if (_positions[i]->pot.value != current_player->pot.value) {
+                equal = false;
+                break;
+            } else {
+                next_player();
+            }
+        }
+        return equal;
     }
 
 

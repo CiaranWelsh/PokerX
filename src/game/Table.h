@@ -12,14 +12,14 @@
 #include "Players.h"
 #include "Street.h"
 #include "GamePlay.h"
-#include <events/time_event/BeginGame.h>
 #include <events/player_event/RotatePlayers.h>
 #include <events/player_event/PostBigBlind.h>
 #include <events/player_event/PostSmallBlind.h>
-#include <events/time_event/EndGame.h>
-#include <events/dealer_event/DealHoleCards.h>
 #include <events/player_event/PlayerAction.h>
-#include <events/dealer_event/PresentOptions.h>
+#include <events/dealer_event/DealHoleCards.h>
+#include <events/time_event/BeginGame.h>
+#include <events/time_event/EndGame.h>
+#include <events/time_event/NextStreet.h>
 #include "events/EventPtr.h"
 
 namespace game {
@@ -40,8 +40,8 @@ namespace game {
         events::PostSmallBlind postSmallBlind;
         events::PostBigBlind postBigBlind;
         events::DealHoleCards dealHoleCards;
-        events::PresentOptions presentOptions;
         events::PlayerAction playerAction;
+        events::NextStreet nextStreet;
 
         // current event
         events::Event *current_event = &beginGame;

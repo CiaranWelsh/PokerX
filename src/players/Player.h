@@ -32,19 +32,21 @@ public:
 
     explicit Player(std::string name);
 
-    bool inplay = false;
+    bool inplay = true;
 
     std::string getName();
 
     void setName(std::string name);
 
-    virtual void play(ActionType action, double amount);
+    void play(ActionType action, double amount = 0.0);
 
     /*
      * This method should be overriden in Player classes. This
      * Is where an reinforcement learning algorithm could be implemented
      */
-    virtual ActionType choose_action(std::vector<ActionType> &actions){};
+    virtual ActionType choose_action(std::shared_ptr<std::vector<ActionType>> actions){
+        return NoAction;
+    };
 
     friend ostream &operator<<(ostream &os, Player &player);
 

@@ -26,7 +26,7 @@ namespace game {
 
     Table::Table() {
         reset();
-    };
+    }
 
     Table::~Table() = default;
 
@@ -60,14 +60,22 @@ namespace game {
         } else if (current_event->getId() == "PostBigBlind") {
             current_event = &dealHoleCards;
         } else if (current_event->getId() == "DealHoleCards") {
-            current_event = &presentOptions;
-        } else if (current_event->getId() == "PresentOptions") {
-            current_event = &endGame;
-//        } else if (current_event->getId() == "PlayerAction") {
-//            current_event = &endGame;
+            current_event = &playerAction;
+        } else if (current_event->getId() == "PlayerAction") {
+            // when all players left in the game have equal bets, next street
+            if (gamePlay.all_players_equal) {
+                current_event = &nextStreet;
+            } else {
+                // next player and go again
+                players.next_player();
+                current_event = &playerAction;
+            }
         }
 
-        if (copy_of_current_event_id != "EndGame" && copy_of_current_event_id == current_event->getId())
+        if ((
+                copy_of_current_event_id != "EndGame"
+            || copy_of_current_event_id != "PlayerAction")
+            && copy_of_current_event_id == current_event->getId())
             throw errors::EventNotChangedAfterStepError();
 
         return current_event;

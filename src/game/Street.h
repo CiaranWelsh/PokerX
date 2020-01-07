@@ -7,7 +7,7 @@
 
 namespace game {
     enum Street {
-        Preflop, Flop, Turn, River, showdown
+        Preflop, Flop, Turn, River, Showdown, EndGame
     };
 }
 #endif //POKERSIMULATIONSINCPP_STREET_H

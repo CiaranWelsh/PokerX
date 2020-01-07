@@ -14,5 +14,6 @@ namespace events {
          * Since the small blind is always dealt first.
          */
         players.previous_player();
+        gamePlay.big_blind_posted = true;
     }
 }
