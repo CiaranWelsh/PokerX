@@ -15,19 +15,11 @@ class CallStation: public Player {
 private:
     std::string type = "CallStation";
 public:
-    ActionType play();
+    using Player::Player;
 
-    CallStation();
+    ActionType choose_action(std::vector<ActionType> actions);
 
-    ~CallStation();
 
-    CallStation(CallStation &callStation);
-
-    explicit CallStation(Player player);
-
-    explicit CallStation(Player *player);
-
-    explicit CallStation(std::string name);
 
 };
 

@@ -22,7 +22,6 @@ namespace events {
 
         void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) override;
 
-
     };
 }
 

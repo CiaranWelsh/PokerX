@@ -47,22 +47,24 @@ namespace game {
             throw errors::NullPointerException();
         std::string copy_of_current_event_id = current_event->getId();
 
-        // todo: first try this, catch exceptions and try again with the other arguments
         current_event->go(gamePlay, players, dealer);
 
+        // Switch current event
         if (current_event->getId() == "BeginGame") {
             current_event = &rotatePlayers;
+
         } else if (current_event->getId() == "RotatePlayers") {
             current_event = &postSmallBlind;
-            players.next_player();
-        }
-        else if (current_event->getId() == "PostSmallBlind") {
+        } else if (current_event->getId() == "PostSmallBlind") {
             current_event = &postBigBlind;
-            players.next_player();
-        }
-        else if (current_event->getId() == "PostBigBlind") {
+        } else if (current_event->getId() == "PostBigBlind") {
+            current_event = &dealHoleCards;
+        } else if (current_event->getId() == "DealHoleCards") {
+            current_event = &presentOptions;
+        } else if (current_event->getId() == "PresentOptions") {
             current_event = &endGame;
-            players.next_player();
+//        } else if (current_event->getId() == "PlayerAction") {
+//            current_event = &endGame;
         }
 
         if (copy_of_current_event_id != "EndGame" && copy_of_current_event_id == current_event->getId())

@@ -37,6 +37,8 @@ namespace game {
 
         void rotate();
 
+        void previous_player();
+
         PlayerPtr operator[](int index);
 
         static Players callStations(int howMany, double start_amount = 10);

@@ -18,6 +18,8 @@ namespace game {
 
         Dealer();
 
+        Deck getDeck();
+
         void shuffle();
 
         int deckSize();

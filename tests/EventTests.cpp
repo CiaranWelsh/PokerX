@@ -77,31 +77,6 @@ TEST_F(EventTests, TestRotatePlayersWorked) {
     ASSERT_EQ(expected, actual);
 }
 
-TEST_F(EventTests, TestGamePlay) {
-    cout << endl;
-    while (!table.gamePlay.game_ended) {
-        table.step();
-        cout << "Current player: " << table.players.getCurrentPlayer()->getName();
-        cout << ", Current event: " << table.current_event->getId();
-        cout << ", Event description: " << table.current_event->getDescription() << endl;
-    }
-}
-
-
-//TEST_F(EventTests, TestCorrectS
-//    ASSERT_EQ(table.street, game::Preflop);
-//}
-//
-//TEST_F(EventTests, TestPotAmount) {
-//    game::Table table;treet) {
-////    game::Table table;
-////    BeginGame beginGame;
-////    beginGame.go(table);
-//    BeginGame beginGame;
-//    beginGame.go(table);
-//    ASSERT_EQ(table.pot.value, 0.0);
-//}
-
 
 /*
  * RotatePlayer tests
@@ -128,14 +103,15 @@ TEST_F(EventTests, TestPostSmallBlindPlayerPtrNotEmpty) {
     ASSERT_EQ(expected, actual);
 }
 
-//TEST_F(EventTests, TestPostSmallBlind) {
-//    // small blind is 0.5
-//    game::PlayerPtr player0 = players[0];
-//    PostSmallBlind postSmallBlind;
-////    postSmallBlind.go(table, table.current_player);
-//    ASSERT_TRUE(player0->stack == 9.5);
-//    ASSERT_TRUE(player0->pot == 0.5);
-//}
+
+TEST_F(EventTests, TestPostSmallBlind) {
+    game::PlayerPtr player0 = players[0];
+    PostSmallBlind postSmallBlind;
+    postSmallBlind.go(table.gamePlay, table.players, table.dealer);
+    ASSERT_TRUE(player0->stack == 9.5);
+    ASSERT_TRUE(player0->pot == 0.5);
+}
+
 
 
 /*
@@ -149,16 +125,72 @@ TEST_F(EventTests, TessmatPostBigBlindPlayerPtrNotEmpty) {
     ASSERT_EQ(expected, actual);
 }
 
-//TEST_F(EventTests, TestPostBigBlind) {
-//    // Big blind is 0.5
-//    game::PlayerPtr player0 = players[0];
-//    PostBigBlind postBigBlind;
-////    postBigBlind.go(table, table.current_player);
-//    ASSERT_TRUE(player0->stack == 9.0);
-//    ASSERT_TRUE(player0->pot == 1.0);
-//}
+TEST_F(EventTests, TestPostBigBlind) {
+    // Big blind is 0.5
+    game::PlayerPtr player0 = players[0];
+    PostBigBlind postBigBlind;
+    postBigBlind.go(table.gamePlay, table.players, table.dealer);
+    ASSERT_TRUE(player0->stack == 9.0);
+    ASSERT_TRUE(player0->pot == 1.0);
+}
+
+/*
+ * DealHoleCard tests
+ */
+TEST_F(EventTests, TestDealHoleCards) {
+    table.step(); //begin game
+    table.step(); //rotation
+    table.step(); //small blind
+    table.step(); //big blind
+    HoleCards holeCardsBefore = table.players.getCurrentPlayer()->holeCards;
+    ASSERT_NE(2, holeCardsBefore.size());
+    table.step(); //deal
+    HoleCards holeCardsAfter = table.players.getCurrentPlayer()->holeCards;
+    ASSERT_EQ(2, holeCardsAfter.size());
+}
+
+TEST_F(EventTests, TestDealHoleCardsOtherPlayersAlsoDealtCards) {
+    table.step(); //begin game
+    table.step(); //rotation
+    table.step(); //small blind
+    table.step(); //big blind
+    table.step(); //deal
+    HoleCards holeCardsAfter = table.players[5]->holeCards;
+    ASSERT_EQ(2, holeCardsAfter.size());
+}
+
+TEST_F(EventTests, TestNumberOfCardsLeft) {
+    table.step(); //begin game
+    table.step(); //rotation
+    table.step(); //small blind
+    table.step(); //big blind
+    table.step(); //deal
+    Deck cards_left = table.dealer.getDeck();
+    int expected = 52 - 9*2 - 1; // 52 cards, 9 players 2 cards each minus 1 for the discarded
+    ASSERT_EQ(expected, cards_left.size());
+}
+
+TEST_F(EventTests, TestCurrentPlayerPtrPointsAtUTGPlayer) {
+    table.step(); //begin game
+    table.step(); //rotation
+    table.step(); //small blind
+    table.step(); //big blind
+    table.step(); //deal
+    game::PlayerPtr player = table.players.getCurrentPlayer();
+    std::string expected = "player2";
+    ASSERT_EQ(expected, player->getName());
+}
 
 
+TEST_F(EventTests, TestGamePlay) {
+    cout << endl;
+    while (!table.gamePlay.game_ended) {
+        table.step();
+        cout << "Current player: " << table.players.getCurrentPlayer()->getName();
+        cout << ", Current event: " << table.current_event->getId();
+        cout << ", Event description: " << table.current_event->getDescription() << endl;
+    }
+}
 
 
 

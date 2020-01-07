@@ -5,6 +5,9 @@
 #ifndef POKERSIMULATIONSINCPP_GAMEPLAY_H
 #define POKERSIMULATIONSINCPP_GAMEPLAY_H
 
+#include <players/ActionType.h>
+#include <vector>
+#include <boost/shared_ptr.hpp>
 #include "Street.h"
 #include "Pot.h"
 
@@ -33,6 +36,15 @@ namespace game {
         double big_blind = 1.0;
 
         Pot pot;
+
+        // once somebody has raised, you can no longer check
+        bool raised = false;
+        typedef std::vector<ActionType> ActionTypeVec;
+        ActionTypeVec action_set_raise = {Call, Fold, Raise};
+        ActionTypeVec action_set_check = {Check, Call, Fold, Raise};
+        // start with action_set pointing at action_set_check
+        std::shared_ptr<ActionTypeVec> action_set = std::make_unique<ActionTypeVec>(action_set_check);
+
 
     };
 }

@@ -55,6 +55,14 @@ TEST_F(PlayersTests, TestNextPlayer) {
     ASSERT_EQ(expected, actual.str());
 }
 
+TEST_F(PlayersTests, TestPreviousPlayer) {
+    std::string expected = "player8";
+    players.previous_player();
+    ostringstream actual;
+    actual << players.getCurrentPlayer()->getName();
+    ASSERT_EQ(expected, actual.str());
+}
+
 TEST_F(PlayersTests, TestAddPLayerIntoPosition5) {
     std::string expected = "NewPlayer";
     PlayerPtr new_player(new CallStation("NewPlayer"));

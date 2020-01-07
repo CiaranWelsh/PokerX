@@ -19,6 +19,9 @@ namespace game {
     Dealer::Dealer() = default;
 
     void Dealer::dealHoleCards(Players &players) {
+        // dealer discards the top card
+        deck.pop();
+
         for (int i=0; i<2; i++) {
             for (const PlayerPtr& player: players) {
                 player->holeCards.add(deck.pop());
@@ -58,6 +61,10 @@ namespace game {
 
     int Dealer::deckSize() {
         return deck.size();
+    }
+
+    Deck Dealer::getDeck() {
+        return deck;
     }
 
 }

@@ -35,6 +35,11 @@ namespace errors {
         EmptyContainerError() : std::logic_error("You are trying to access data from an empty container"){};
     };
 
+    class InvalidActionError : public std::logic_error {
+    public:
+        InvalidActionError() : std::logic_error("You cannot use this action"){};
+    };
+
 
 };
 

@@ -47,6 +47,13 @@ namespace game {
         current_player = _positions[0];
     }
 
+    void Players::previous_player() {
+        PlayerPtr back_player = _positions[size()-1];
+        _positions.erase(_positions.begin()+size()-1);
+        _positions.insert(_positions.begin(), back_player);
+        current_player = _positions[0];
+    }
+
     void Players::next_player(){
         rotate();
     }
@@ -61,6 +68,7 @@ namespace game {
         return _positions[index];
     }
 
+
     Players Players::callStations(int howMany, double start_amount) {
         std::vector<PlayerPtr> positions;
         for (int i = 0; i < howMany; i++) {
@@ -74,7 +82,6 @@ namespace game {
         Players pos(positions);
         return pos;
     }
-
 
     int Players::size() {
         return _positions.size();

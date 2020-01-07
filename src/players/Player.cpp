@@ -65,4 +65,5 @@ std::string Player::getType() {
     return type;
 }
 
+
 Player::~Player() = default;

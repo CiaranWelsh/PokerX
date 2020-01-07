@@ -38,7 +38,13 @@ public:
 
     void setName(std::string name);
 
-    virtual void play(ActionType action, double amount=0.0);
+    virtual void play(ActionType action, double amount);
+
+    /*
+     * This method should be overriden in Player classes. This
+     * Is where an reinforcement learning algorithm could be implemented
+     */
+    virtual ActionType choose_action(std::vector<ActionType> actions);
 
     friend ostream &operator<<(ostream &os, Player &player);
 

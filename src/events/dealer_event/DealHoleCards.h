@@ -12,15 +12,15 @@ namespace events {
     public:
         DealHoleCards() {
             target = Dealer;
-            description = "Events that the dealer must carry out";
+            id = "DealHoleCards";
+            description = "Deal hole cards";
             done = false;
-            id = "DealerEvent";
         }
 
         void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) override;
 
-
     };
+
 }
 
 

@@ -17,6 +17,9 @@
 #include <events/player_event/PostBigBlind.h>
 #include <events/player_event/PostSmallBlind.h>
 #include <events/time_event/EndGame.h>
+#include <events/dealer_event/DealHoleCards.h>
+#include <events/player_event/PlayerAction.h>
+#include <events/dealer_event/PresentOptions.h>
 #include "events/EventPtr.h"
 
 namespace game {
@@ -36,6 +39,9 @@ namespace game {
         events::RotatePlayers rotatePlayers;
         events::PostSmallBlind postSmallBlind;
         events::PostBigBlind postBigBlind;
+        events::DealHoleCards dealHoleCards;
+        events::PresentOptions presentOptions;
+        events::PlayerAction playerAction;
 
         // current event
         events::Event *current_event = &beginGame;
