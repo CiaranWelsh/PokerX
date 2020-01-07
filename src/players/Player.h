@@ -44,7 +44,7 @@ public:
      * This method should be overriden in Player classes. This
      * Is where an reinforcement learning algorithm could be implemented
      */
-    virtual ActionType choose_action(std::vector<ActionType> actions);
+    virtual ActionType choose_action(std::vector<ActionType> &actions){};
 
     friend ostream &operator<<(ostream &os, Player &player);
 

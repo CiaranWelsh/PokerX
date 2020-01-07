@@ -17,7 +17,7 @@ private:
 public:
     using Player::Player;
 
-    ActionType choose_action(std::vector<ActionType> actions);
+    ActionType choose_action(std::vector<ActionType> &actions) override;
 
 
 
