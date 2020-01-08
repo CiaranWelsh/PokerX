@@ -45,10 +45,11 @@ namespace game {
     events::Event *Table::step() {
         if (!current_event)
             throw errors::NullPointerException("current_event ptr is nullptr. Whoops. ", __FILE__, __LINE__);
-//        std::string copy_of_current_event_id = current_event->getId();
 
-        double amount_to_call = getAmountToCall();
-        current_event->go(gamePlay, players, dealer, amount_to_call);
+        // modifies the amount to call within the gamePlay struct for the next player
+        updateAmountToCall();
+        cout << __FILE__ << __LINE__ << "The amount to call is: " << *gamePlay.amount_to_call << endl;
+        current_event->go(gamePlay, players, dealer, *gamePlay.amount_to_call);
 
         // Switch current event
         if (current_event->getId() == "BeginGame") {
@@ -63,10 +64,12 @@ namespace game {
             current_event = &playerAction;
         } else if (current_event->getId() == "PlayerAction") {
             // when all players left in the game have equal bets, next street
-            if (gamePlay.all_players_equal) {
+            if (players.checkAllPlayersEqual()) {
                 current_event = &nextStreet;
             } else {
                 // next player and go again
+                cout << "\n\nAll players equal bool is: " << gamePlay.all_players_equal << " So moving on to next player " << endl;
+                cout << players << endl;
                 players.next_player();
                 current_event = &playerAction;
             }
@@ -75,15 +78,17 @@ namespace game {
         return current_event;
     }
 
-    double Table::getAmountToCall() {
+    void Table::updateAmountToCall() {
         // largest bidder
         double &largest_bidder_amount = gamePlay.largest_bidder_amount;
         double &amount_player_has_in_their_pot = players.getCurrentPlayer()->pot.value;
+        cout << "\n current_player: " << players.getCurrentPlayer()->getName() << endl;
         cout << "largest bidder amount: " << largest_bidder_amount << endl;
-        cout << "amount player has in pot: " << amount_player_has_in_their_pot << endl;
+        cout << "amount player has in pot before calling: " << amount_player_has_in_their_pot << endl;
         if (amount_player_has_in_their_pot > largest_bidder_amount)
             throw errors::ValueError("This definately should not happen", __FILE__, __LINE__);
-        return largest_bidder_amount - amount_player_has_in_their_pot;
+        cout << "Therefore largest bidder amount minus amount player already has in pot is " << largest_bidder_amount - amount_player_has_in_their_pot << endl;
+        gamePlay.amount_to_call = std::make_unique<double>(largest_bidder_amount - amount_player_has_in_their_pot);
     }
 
 }

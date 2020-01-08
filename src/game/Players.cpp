@@ -41,6 +41,8 @@ namespace game {
     }
 
     void Players::rotate() {
+        cout << "Players::rotate function has been called "<<endl;
+
         PlayerPtr front_player = _positions[0];
         _positions.erase(_positions.begin());
         _positions.push_back(front_player);
@@ -71,10 +73,11 @@ namespace game {
 
     PlayerPtr Players::operator[](int index) {
         if (_positions.empty()) {
-            throw errors::EmptyContainerError();
+            throw errors::EmptyContainerError("You cannot get access to players "
+                                              "as there are not players yet.", __FILE__, __LINE__);
         }
         if (_positions[index] == nullptr) {
-            throw errors::NullPointerException();
+            throw errors::NullPointerException("In Players::operator[], index is a nullptr", __FILE__, __LINE__);
         }
         return _positions[index];
     }
@@ -120,7 +123,8 @@ namespace game {
 
     PlayerPtr Players::getCurrentPlayer() {
         if (current_player == nullptr) {
-            throw errors::NullPointerException();
+            throw errors::NullPointerException("Cannot get current player as "
+                                               "it is a nullptr", __FILE__, __LINE__);
         }
         return current_player;
     }

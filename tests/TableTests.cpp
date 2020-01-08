@@ -55,9 +55,9 @@ TEST(TableTests, TestAmountToCall) {
     table.step();
     table.step();
     table.step();
-    double amount = table.getAmountToCall();
+    table.updateAmountToCall();
     double expected = 1.0;
-    ASSERT_EQ(expected, amount);
+    ASSERT_EQ(expected, *table.gamePlay.amount_to_call);
 }
 
 

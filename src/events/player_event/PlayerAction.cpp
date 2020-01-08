@@ -10,7 +10,7 @@ void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, 
     boost::shared_ptr<Player> player = players.getCurrentPlayer();
     ActionType action = player->choose_action(gamePlay.action_set);
     if (action == NoAction)
-        throw errors::InvalidActionError();
+        throw errors::InvalidActionError("ActionType NoAction is not to be used", __FILE__, __LINE__);
     // need to calculate amount to call here and
     // accept amount to raise
     double amount = 0.0; // for fold and check
@@ -25,14 +25,18 @@ void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, 
         case Call: {
             cout << "amount to call is: " << amount_to_call << endl;
             amount = amount_to_call;
+            break;
         }
         case Raise: {
             amount = 1.0;
+            break;
         }
         case AllIn: {
             amount = 1.0;
+            break;
         }
         case NoAction: {
+            break;
         }
     }
 

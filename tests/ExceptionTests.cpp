@@ -12,9 +12,9 @@ TEST(ErrorsTests, TestException){
     int number = 4;
     cout << __FILE__ << endl;
     cout << __LINE__ << endl;
-    if (number == 4){
-        throw errors::NotImplementedError("e", __FILE__, __LINE__ );
-    }
+//    if (number == 4){
+//        throw errors::NotImplementedError("e", __FILE__, __LINE__ );
+//    }
 }
 
 

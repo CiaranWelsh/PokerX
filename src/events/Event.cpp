@@ -26,7 +26,8 @@ namespace events {
 
     void Event::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
                    double &amount_to_call) {
-        throw errors::NotImplementedException();
+        throw errors::NotImplementedException("Cannot use Event::go, only the "
+                                              "derived go methods", __FILE__, __LINE__);
     }
 
     Event::~Event() = default;

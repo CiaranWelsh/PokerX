@@ -107,8 +107,8 @@ TEST_F(EventTests, TestPostSmallBlindPlayerPtrNotEmpty) {
 TEST_F(EventTests, TestPostSmallBlind) {
     game::PlayerPtr player0 = players[0];
     PostSmallBlind postSmallBlind;
-    double amount = table.getAmountToCall();
-    postSmallBlind.go(table.gamePlay, table.players, table.dealer, amount);
+    table.updateAmountToCall();
+    postSmallBlind.go(table.gamePlay, table.players, table.dealer, *table.gamePlay.amount_to_call);
     ASSERT_TRUE(player0->stack == 9.5);
     ASSERT_TRUE(player0->pot == 0.5);
 }
@@ -129,7 +129,8 @@ TEST_F(EventTests, TessmatPostBigBlindPlayerPtrNotEmpty) {
 TEST_F(EventTests, TestPostBigBlind) {
     // Big blind is 0.5
     game::PlayerPtr player0 = players[0];
-    double amount = table.getAmountToCall();
+    table.updateAmountToCall();
+    double amount = *table.gamePlay.amount_to_call;
     PostBigBlind postBigBlind;
     postBigBlind.go(table.gamePlay, table.players, table.dealer, amount);
     ASSERT_TRUE(player0->stack == 9.0);
@@ -168,7 +169,7 @@ TEST_F(EventTests, TestNumberOfCardsLeft) {
     table.step(); //big blind
     table.step(); //deal
     Deck cards_left = table.dealer.getDeck();
-    int expected = 52 - 9*2 - 1; // 52 cards, 9 players 2 cards each minus 1 for the discarded
+    int expected = 52 - 9 * 2 - 1; // 52 cards, 9 players 2 cards each minus 1 for the discarded
     ASSERT_EQ(expected, cards_left.size());
 }
 
@@ -181,6 +182,29 @@ TEST_F(EventTests, TestCurrentPlayerPtrPointsAtUTGPlayer) {
     game::PlayerPtr player = table.players.getCurrentPlayer();
     std::string expected = "player2";
     ASSERT_EQ(expected, player->getName());
+}
+
+TEST_F(EventTests, Testx) {
+    table.step(); //begin game
+    table.step(); //rotation
+    table.step(); //small blind
+    table.step(); //big blind
+    table.step(); //deal
+    table.step(); //Player 2 UTG1 to act
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step(); // player 8 to act
+    table.step(); // back to small blind player1
+    cout << "All players equal? " << table.gamePlay.all_players_equal << endl;
+    table.step();
+    cout << "All players equal? " << table.gamePlay.all_players_equal << endl;
+//    table.step();
+//    game::PlayerPtr player = table.players.getCurrentPlayer();
+//    std::string expected = "player2";
+//    ASSERT_EQ(expected, player->getName());
 }
 
 

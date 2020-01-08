@@ -57,12 +57,9 @@ namespace game {
         std::shared_ptr<cards::Card> river;
 
         std::shared_ptr<double> highest_bidder;
-//        std::shared_ptr<double> amount_to_call;
-
-
+        std::shared_ptr<double> amount_to_call;
         std::shared_ptr<double> amount_raised;
         std::shared_ptr<double> amount_for_all_in;
-
         double largest_bidder_amount = 0.0;
     };
 }

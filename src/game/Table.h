@@ -62,7 +62,7 @@ namespace game {
 
         events::Event *step();
 
-        double getAmountToCall();
+        void updateAmountToCall();
 
     };
 }
