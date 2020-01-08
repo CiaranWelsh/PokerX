@@ -184,7 +184,7 @@ TEST_F(EventTests, TestCurrentPlayerPtrPointsAtUTGPlayer) {
     ASSERT_EQ(expected, player->getName());
 }
 
-TEST_F(EventTests, Testx) {
+TEST_F(EventTests, TestTransitionFromPreflopToFlop) {
     table.step(); //begin game
     table.step(); //rotation
     table.step(); //small blind
@@ -201,6 +201,7 @@ TEST_F(EventTests, Testx) {
     cout << "All players equal? " << table.gamePlay.all_players_equal << endl;
     table.step();
     cout << "All players equal? " << table.gamePlay.all_players_equal << endl;
+    ASSERT_EQ(table.gamePlay.street, game::Flop);
 //    table.step();
 //    game::PlayerPtr player = table.players.getCurrentPlayer();
 //    std::string expected = "player2";

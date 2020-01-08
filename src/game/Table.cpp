@@ -64,16 +64,28 @@ namespace game {
             current_event = &playerAction;
         } else if (current_event->getId() == "PlayerAction") {
             // when all players left in the game have equal bets, next street
+            cout << players << endl;
+            cout << "output from checkAllPlayersEqual: " << players.checkAllPlayersEqual() << endl;
+//            cout << "output from street_ended: " << gamePlay.street_ended << endl;
             if (players.checkAllPlayersEqual()) {
+                cout << "All players equal, moving on to next street: " << gamePlay.street << endl;
                 current_event = &nextStreet;
+                cout << "Moved on to next street: " << gamePlay.street << endl;
+                cout << "Amount in the main pot is now: " << gamePlay.pot << endl;
+//                gamePlay.street_ended = true;
             } else {
                 // next player and go again
-                cout << "\n\nAll players equal bool is: " << gamePlay.all_players_equal << " So moving on to next player " << endl;
+                cout << "All players not equal, moving on to next player" << endl;
                 cout << players << endl;
                 players.next_player();
                 current_event = &playerAction;
             }
         }
+        else if (current_event->getId() == "NextStreet") {
+            cout << "else if is on NextStreet" << endl;
+            current_event = &playerAction;
+        }
+
 
         return current_event;
     }
@@ -87,7 +99,8 @@ namespace game {
         cout << "amount player has in pot before calling: " << amount_player_has_in_their_pot << endl;
         if (amount_player_has_in_their_pot > largest_bidder_amount)
             throw errors::ValueError("This definately should not happen", __FILE__, __LINE__);
-        cout << "Therefore largest bidder amount minus amount player already has in pot is " << largest_bidder_amount - amount_player_has_in_their_pot << endl;
+        cout << "Therefore largest bidder amount minus amount player already has in pot is "
+             << largest_bidder_amount - amount_player_has_in_their_pot << endl;
         gamePlay.amount_to_call = std::make_unique<double>(largest_bidder_amount - amount_player_has_in_their_pot);
     }
 

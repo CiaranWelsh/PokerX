@@ -131,18 +131,16 @@ namespace game {
 
     bool Players::checkAllPlayersEqual() {
         bool equal = true;
+        PlayerPtr first = _positions[0];
         for (int i = 1; i < size(); i++) {
             //todo overload Pot == and != operators
-            if (_positions[i]->pot.value != current_player->pot.value) {
+            if (_positions[i]->pot.value != first->pot.value) {
                 equal = false;
                 break;
-            } else {
-                next_player();
             }
         }
         return equal;
     }
-
 
 }
 

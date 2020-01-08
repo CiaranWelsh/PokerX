@@ -19,10 +19,12 @@ namespace game {
         Street street = Preflop;
         bool game_started = false;
         bool game_ended = false;
+
         bool small_blind_posted = false;
         bool big_blind_posted = false;
         bool ante_posted = false;
         bool dealt_hole_cards = false;
+
         bool preflop_done = false;
         bool flop_done = false;
         bool turn_done = false;
