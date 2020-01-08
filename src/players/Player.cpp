@@ -34,6 +34,7 @@ ostream &operator<<(ostream &os, Player &player) {
 }
 
 void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
+    played_this_street = true;
     switch (action) {
         case Raise:
             cout << "player " << getName() << " raised" << endl;

@@ -55,6 +55,7 @@ namespace game {
 
         bool checkAllPlayersEqual();
 
+        bool noPlayersPlayedThisStreet();
     };
 }
 #endif //_POSITIONS_H

@@ -9,6 +9,7 @@
 #include <sstream>
 #include <utility>
 #include <dshow.h>
+#include <utils/EqualityChecker.h>
 
 /**
  * Positions implementation
@@ -41,7 +42,7 @@ namespace game {
     }
 
     void Players::rotate() {
-        cout << "Players::rotate function has been called "<<endl;
+        cout << "Players::rotate function has been called " << endl;
 
         PlayerPtr front_player = _positions[0];
         _positions.erase(_positions.begin());
@@ -130,16 +131,21 @@ namespace game {
     }
 
     bool Players::checkAllPlayersEqual() {
-        bool equal = true;
-        PlayerPtr first = _positions[0];
-        for (int i = 1; i < size(); i++) {
-            //todo overload Pot == and != operators
-            if (_positions[i]->pot.value != first->pot.value) {
-                equal = false;
-                break;
-            }
-        }
-        return equal;
+        std::vector<double> amounts;
+        for (PlayerPtr player : _positions)
+            amounts.push_back(player->pot.value);
+        return utils::EqualityChecker<double>(amounts);
+    }
+
+    /*
+     * If none of the players played in this street, we proceed
+     * with another round of betting.
+     */
+    bool Players::noPlayersPlayedThisStreet() {
+        std::vector<bool> vec;
+        for (PlayerPtr player : _positions)
+            vec.push_back(player->played_this_street);
+        return utils::EqualityChecker<bool>(vec);
     }
 
 }

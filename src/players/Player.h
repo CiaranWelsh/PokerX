@@ -29,11 +29,7 @@ public:
 
     cards::HoleCards holeCards;
 
-    double stack = 0;
-
     explicit Player(std::string name);
-
-    bool inplay = true;
 
     std::string getName();
 
@@ -52,6 +48,12 @@ public:
     friend ostream &operator<<(ostream &os, Player &player);
 
     std::string getType();
+
+    double stack = 0;
+
+    bool inplay = true;
+
+    bool played_this_street = false;
 
     bool all_in;
 };

@@ -15,6 +15,11 @@ void events::NextStreet::go(game::GamePlay &gamePlay, game::Players &players, ga
     // before start of street put ActionSet back to the one with check available
     gamePlay.action_set = gamePlay.action_set_check_ptr;
 
+    // set all players 'played_this_street' variable to false to allow proceeding with the
+    // next round of betting.
+    for (const game::PlayerPtr& player: players)
+        player->played_this_street = false;
+
 
     // move to the next street
     switch (gamePlay.street){

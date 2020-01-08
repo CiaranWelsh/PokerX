@@ -105,5 +105,4 @@ TEST_F(PlayersTests, AllPlayersEqual) {
     players[5]->pot = 50;
     bool actual = players.checkAllPlayersEqual();
     ASSERT_TRUE(actual);
-
 }

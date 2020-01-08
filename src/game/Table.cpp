@@ -66,8 +66,8 @@ namespace game {
             // when all players left in the game have equal bets, next street
             cout << players << endl;
             cout << "output from checkAllPlayersEqual: " << players.checkAllPlayersEqual() << endl;
-//            cout << "output from street_ended: " << gamePlay.street_ended << endl;
-            if (players.checkAllPlayersEqual()) {
+            // if all players are equal and all players have played this street, we can move on
+            if (players.checkAllPlayersEqual() && (!players.noPlayersPlayedThisStreet())) {
                 cout << "All players equal, moving on to next street: " << gamePlay.street << endl;
                 current_event = &nextStreet;
                 cout << "Moved on to next street: " << gamePlay.street << endl;
