@@ -9,6 +9,7 @@
 #include <iostream>
 #include <eval/Hand.h>
 #include <game/Pot.h>
+#include <game/GamePlay.h>
 #include "ActionType.h"
 
 class Player {
@@ -38,7 +39,7 @@ public:
 
     void setName(std::string name);
 
-    void play(ActionType action, double amount = 0.0);
+    void play(game::GamePlay &gamePlay, ActionType action, double amount);
 
     /*
      * This method should be overriden in Player classes. This
@@ -52,6 +53,7 @@ public:
 
     std::string getType();
 
+    bool all_in;
 };
 
 #endif //_PLAYER_H

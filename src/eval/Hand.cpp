@@ -60,7 +60,7 @@ namespace eval {
     }
 
     bool Hand::isa() {
-        throw errors::NotImplementedException();
+        throw errors::NotImplementedException("Member function Hand::isa is not implemented", __FILE__, __LINE__);
     }
 
     /*
@@ -267,7 +267,7 @@ namespace eval {
         else if (best5.size() == 5 && best5_ace_low.size() == 5) {
             return best5; // every other type of straight will beat an Ace low straight
         } else {
-            throw errors::BadError();
+            throw errors::BadError("You did a bad", __FILE__, __LINE__);
         }
     }
 
@@ -350,7 +350,8 @@ namespace eval {
                 best5.add(i);
         }
         if (best5.size() != 5)
-            throw errors::BadError();
+            throw errors::BadError("The best 5 cards do not have 5 cards in the "
+                                   "CardCollection", __FILE__, __LINE__);
 
         return best5;
     }

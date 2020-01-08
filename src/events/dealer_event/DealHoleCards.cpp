@@ -5,7 +5,8 @@
 #include "DealHoleCards.h"
 
 namespace events {
-    void DealHoleCards::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
+    void DealHoleCards::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
+                           double &amount_to_call) {
         dealer.dealHoleCards(players);
         // after dealing we point our player pointer at UTG1 position
         players.next_player(); // From small blind to big bling

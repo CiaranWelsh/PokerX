@@ -8,6 +8,7 @@
 #include <players/ActionType.h>
 #include <vector>
 #include <boost/shared_ptr.hpp>
+#include <cards/CardCollection.h>
 #include "Street.h"
 #include "Pot.h"
 
@@ -40,14 +41,29 @@ namespace game {
         // once somebody has raised, you can no longer check
         bool raised = false;
         typedef std::vector<ActionType> ActionTypeVec;
+
         ActionTypeVec action_set_raise = {Call, Fold, Raise};
+        std::shared_ptr<ActionTypeVec> action_set_raise_ptr = std::make_unique<ActionTypeVec>(action_set_raise);
         ActionTypeVec action_set_check = {Check, Call, Fold, Raise};
+        std::shared_ptr<ActionTypeVec> action_set_check_ptr = std::make_unique<ActionTypeVec>(action_set_check);
         // start with action_set pointing at action_set_check
         std::shared_ptr<ActionTypeVec> action_set = std::make_unique<ActionTypeVec>(action_set_check);
 
         // When all players are equal after starting a street, we know to move on to the next street
         bool all_players_equal = false;
 
+        std::shared_ptr<cards::CardCollection> flop;
+        std::shared_ptr<cards::Card> turn;
+        std::shared_ptr<cards::Card> river;
+
+        std::shared_ptr<double> highest_bidder;
+//        std::shared_ptr<double> amount_to_call;
+
+
+        std::shared_ptr<double> amount_raised;
+        std::shared_ptr<double> amount_for_all_in;
+
+        double largest_bidder_amount = 0.0;
     };
 }
 

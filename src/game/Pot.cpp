@@ -4,8 +4,9 @@
 
 
 #include <iostream>
+#include <dshow.h>
+#include <sstream>
 #include "Pot.h"
-
 
 Pot::Pot(int value) : value((double) value) {};
 
@@ -19,6 +20,11 @@ Pot &Pot::operator+(const Pot &other) {
 }
 
 Pot &Pot::operator-(const Pot &other) {
+    if (other.value > this->value){
+        std::ostringstream stream;
+        stream << R"(The value of "this" - "that" ()"<< this->value << " - " << other.value << ") is < 0";
+        throw errors::NegativePotValue(stream.str());
+    }
     value -= other.value;
     return *this;
 }
@@ -43,7 +49,12 @@ Pot &Pot::operator+(const double &amount) {
 }
 
 Pot &Pot::operator-(const double &amount) {
-    value += amount;
+        if (amount > this->value){
+        std::ostringstream stream;
+        stream << R"(The value of "this" - "that" ()"<< this->value << " - " << amount << ") is < 0";
+        throw errors::NegativePotValue(stream.str());
+    }
+    value -= amount;
     return *this;
 }
 Pot &Pot::operator+=(const double &amount) {
@@ -52,7 +63,7 @@ Pot &Pot::operator+=(const double &amount) {
 }
 
 Pot &Pot::operator-=(const double &amount) {
-    value += amount;
+    value -= amount;
     return *this;
 }
 

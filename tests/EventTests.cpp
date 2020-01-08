@@ -107,7 +107,8 @@ TEST_F(EventTests, TestPostSmallBlindPlayerPtrNotEmpty) {
 TEST_F(EventTests, TestPostSmallBlind) {
     game::PlayerPtr player0 = players[0];
     PostSmallBlind postSmallBlind;
-    postSmallBlind.go(table.gamePlay, table.players, table.dealer);
+    double amount = table.getAmountToCall();
+    postSmallBlind.go(table.gamePlay, table.players, table.dealer, amount);
     ASSERT_TRUE(player0->stack == 9.5);
     ASSERT_TRUE(player0->pot == 0.5);
 }
@@ -128,8 +129,9 @@ TEST_F(EventTests, TessmatPostBigBlindPlayerPtrNotEmpty) {
 TEST_F(EventTests, TestPostBigBlind) {
     // Big blind is 0.5
     game::PlayerPtr player0 = players[0];
+    double amount = table.getAmountToCall();
     PostBigBlind postBigBlind;
-    postBigBlind.go(table.gamePlay, table.players, table.dealer);
+    postBigBlind.go(table.gamePlay, table.players, table.dealer, amount);
     ASSERT_TRUE(player0->stack == 9.0);
     ASSERT_TRUE(player0->pot == 1.0);
 }

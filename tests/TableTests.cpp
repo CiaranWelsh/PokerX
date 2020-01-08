@@ -47,6 +47,20 @@ TEST(TableTests, TestCurrentPlayerUpdatesAfterRotate) {
 }
 
 
+TEST(TableTests, TestAmountToCall) {
+    Players players = Players::callStations(9);
+    Table table(players);
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    double amount = table.getAmountToCall();
+    double expected = 1.0;
+    ASSERT_EQ(expected, amount);
+}
+
+
 
 
 

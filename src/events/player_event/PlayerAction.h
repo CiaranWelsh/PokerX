@@ -20,7 +20,8 @@ namespace events {
 
         using PlayerEvent::Event;
 
-        void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) override;
+        void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
+                double &amount_to_call) override;
 
 
     };

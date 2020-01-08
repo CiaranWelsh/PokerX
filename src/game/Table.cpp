@@ -44,15 +44,15 @@ namespace game {
 
     events::Event *Table::step() {
         if (!current_event)
-            throw errors::NullPointerException();
-        std::string copy_of_current_event_id = current_event->getId();
+            throw errors::NullPointerException("current_event ptr is nullptr. Whoops. ", __FILE__, __LINE__);
+//        std::string copy_of_current_event_id = current_event->getId();
 
-        current_event->go(gamePlay, players, dealer);
+        double amount_to_call = getAmountToCall();
+        current_event->go(gamePlay, players, dealer, amount_to_call);
 
         // Switch current event
         if (current_event->getId() == "BeginGame") {
             current_event = &rotatePlayers;
-
         } else if (current_event->getId() == "RotatePlayers") {
             current_event = &postSmallBlind;
         } else if (current_event->getId() == "PostSmallBlind") {
@@ -72,15 +72,19 @@ namespace game {
             }
         }
 
-        if ((
-                copy_of_current_event_id != "EndGame"
-            || copy_of_current_event_id != "PlayerAction")
-            && copy_of_current_event_id == current_event->getId())
-            throw errors::EventNotChangedAfterStepError();
-
         return current_event;
     }
 
+    double Table::getAmountToCall() {
+        // largest bidder
+        double &largest_bidder_amount = gamePlay.largest_bidder_amount;
+        double &amount_player_has_in_their_pot = players.getCurrentPlayer()->pot.value;
+        cout << "largest bidder amount: " << largest_bidder_amount << endl;
+        cout << "amount player has in pot: " << amount_player_has_in_their_pot << endl;
+        if (amount_player_has_in_their_pot > largest_bidder_amount)
+            throw errors::ValueError("This definately should not happen", __FILE__, __LINE__);
+        return largest_bidder_amount - amount_player_has_in_their_pot;
+    }
 
 }
 

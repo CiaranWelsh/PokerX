@@ -53,7 +53,6 @@ namespace game {
          */
         if (!current_player->inplay)
             rotate();
-
     }
 
     void Players::previous_player() {

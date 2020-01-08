@@ -24,7 +24,8 @@ namespace events {
         return id;
     }
 
-    void Event::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
+    void Event::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
+                   double &amount_to_call) {
         throw errors::NotImplementedException();
     }
 

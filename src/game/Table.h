@@ -62,6 +62,8 @@ namespace game {
 
         events::Event *step();
 
+        double getAmountToCall();
+
     };
 }
 #endif //POKERSIMULATIONSINCPP_TABLE_H

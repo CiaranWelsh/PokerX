@@ -8,7 +8,8 @@
 
 namespace events {
 
-    void TimeEvent::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
+    void TimeEvent::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
+                       double &amount_to_call) {
         throw errors::NotImplementedException();
     }
 }

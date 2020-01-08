@@ -17,7 +17,7 @@ ActionType CallStation::choose_action(std::shared_ptr<std::vector<ActionType>> a
     ActionType action = Call;
     bool valid = std::find(actions->begin(), actions->end(), action) != actions->end();
     if (!valid){
-        throw errors::InvalidActionError();
+        throw errors::InvalidActionError("YOU CANNOT USE THIS ACTION HERE", __FILE__, __LINE__);
     }
     return action;
 }

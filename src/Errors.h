@@ -7,39 +7,106 @@
 
 
 #include <stdexcept>
+#include <sstream>
+#include <utility>
 
 namespace errors {
 
-    class NotImplementedException : public std::logic_error {
+    class Exception : public std::logic_error {
+        const char *msg;
+        int line;
+        std::string file;
+
+        std::string build_exception() const {
+            std::ostringstream stream;
+            stream << file << ":" << line << ": " << msg << std::endl;
+            return stream.str();
+        }
+
     public:
-        NotImplementedException() : std::logic_error("Function not yet implemented") {};
+//        Exception() :
+//                line(__LINE__),
+//                file(__FILE__),
+//                msg(""),
+//                std::logic_error(build_exception()) {};
+//        explicit Exception(const char* msg) :
+//                line(__LINE__),
+//                file(__FILE__),
+//                msg(msg),
+//                std::logic_error(build_exception()) {};
+
+        Exception(const char *msg, std::string file, int line) :
+                msg(msg),
+                line(line),
+                file(std::move(file)),
+                std::logic_error(build_exception()) {}
+
+        ~Exception() noexcept override = default;
+
+        Exception(Exception const &other) noexcept(true):
+                msg(other.msg),
+                line(other.line),
+                file(other.file),
+                logic_error(build_exception()) {};
+
+        Exception &operator=(Exception const &other) = default;
+
+        const char *what() const noexcept {
+            const char *out = build_exception().c_str();
+            return out;
+        }
     };
 
-    class BadError : public std::logic_error {
+
+    class AnotherError : public Exception {
     public:
-        BadError() : std::logic_error("You did a bad") {};
+        using Exception::Exception;
     };
 
-    class NullPointerException : public std::logic_error {
+    class BadError : public Exception {
     public:
-        NullPointerException() : std::logic_error("You have a nullptr where there shouldn't be one") {};
+        using Exception::Exception;
     };
 
-    class EventNotChangedAfterStepError : public std::logic_error {
+    class InvalidActionError : public Exception {
     public:
-        EventNotChangedAfterStepError() : std::logic_error("The current Event subtype has not changed") {};
+        using Exception::Exception;
     };
 
-    class EmptyContainerError : public std::logic_error {
+    class EmptyContainerError : public Exception {
     public:
-        EmptyContainerError() : std::logic_error("You are trying to access data from an empty container"){};
+        using Exception::Exception;
     };
 
-    class InvalidActionError : public std::logic_error {
+    class EventNotChangedAfterStepError : public Exception {
     public:
-        InvalidActionError() : std::logic_error("You cannot use this action"){};
+        using Exception::Exception;
     };
 
+    class NullPointerException : public Exception {
+    public:
+        using Exception::Exception;
+    };
+
+    class NegativePotValue : public Exception {
+    public:
+        using Exception::Exception;
+    };
+
+    class ValueError : public Exception {
+    public:
+        using Exception::Exception;
+    };
+
+    class NotImplementedError : public Exception {
+    public:
+        using Exception::Exception;
+    };
+
+    class NotImplementedException : public Exception {
+    public:
+        using Exception::Exception;
+    };
 
 };
 

@@ -7,8 +7,9 @@
 
 namespace events {
 
-    void PostSmallBlind::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer) {
-        players.getCurrentPlayer()->play(Raise, gamePlay.small_blind);
+    void PostSmallBlind::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
+                            double &amount_to_call) {
+        players.getCurrentPlayer()->play(gamePlay, Raise, gamePlay.small_blind);
         players.next_player();
         gamePlay.small_blind_posted = true;
     }
