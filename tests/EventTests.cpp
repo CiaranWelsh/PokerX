@@ -198,14 +198,8 @@ TEST_F(EventTests, TestTransitionFromPreflopToFlop) {
     table.step();
     table.step(); // player 8 to act
     table.step(); // back to small blind player1
-    cout << "All players equal? " << table.gamePlay.all_players_equal << endl;
     table.step();
-    cout << "All players equal? " << table.gamePlay.all_players_equal << endl;
     ASSERT_EQ(table.gamePlay.street, game::Flop);
-//    table.step();
-//    game::PlayerPtr player = table.players.getCurrentPlayer();
-//    std::string expected = "player2";
-//    ASSERT_EQ(expected, player->getName());
 }
 
 

@@ -95,6 +95,7 @@ TEST_F(PlayersTests, AllPlayersNotEqual) {
     ASSERT_FALSE(actual);
 
 }
+
 TEST_F(PlayersTests, AllPlayersEqual) {
     players = Players::callStations(6);
     players[0]->pot = 50;
@@ -106,3 +107,31 @@ TEST_F(PlayersTests, AllPlayersEqual) {
     bool actual = players.checkAllPlayersEqual();
     ASSERT_TRUE(actual);
 }
+
+TEST_F(PlayersTests, TestNoPlayersHavePlayedAStreet) {
+    players = Players::callStations(6);
+    players[0]->played_this_street = false;
+    players[1]->played_this_street = false;
+    players[2]->played_this_street = false;
+    players[3]->played_this_street = false;
+    players[4]->played_this_street = false;
+    players[5]->played_this_street = false;
+    bool actual = players.noPlayersPlayedThisStreet();
+    ASSERT_TRUE(actual);
+}
+
+TEST_F(PlayersTests, TestSomePlayersHavePlayedAStreet) {
+    players = Players::callStations(6);
+    players[0]->played_this_street = false;
+    players[1]->played_this_street = false;
+    players[2]->played_this_street = false;
+    players[3]->played_this_street = false;
+    players[4]->played_this_street = true;
+    players[5]->played_this_street = false;
+    bool actual = players.noPlayersPlayedThisStreet();
+    ASSERT_FALSE(actual);
+}
+
+
+
+
