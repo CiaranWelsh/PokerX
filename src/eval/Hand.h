@@ -13,12 +13,17 @@
 #include "cards/HoleCards.h"
 #include <memory>
 #include <utils/Counter.h>
+#include <map>
 
 #define quote(x) #x
 
 using namespace cards;
 
 namespace eval {
+    enum HandType {
+        Hand_, HighCard_, Pair_, TwoPair_, ThreeOfAKind_, Straight_, Flush_,
+        FullHouse_, FourOfAKind_, StraightFlush_, RoyalFlush_
+    };
 
     class IHand {
     public:
@@ -31,28 +36,47 @@ namespace eval {
 
     class Hand : IHand {
     protected:
+        std::map<std::string, int> hand_types;
         HoleCards _holeCards;
         CommunityCards _communityCards;
         CardCollection _cards = _holeCards + _communityCards;
+        std::string type_fake = "BaseHandClass";
+
+        std::map<std::string, int> handHeirachy();
+
     private:
-        std::string type = "Hand";
 
         friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
 
         std::string name;
 
     public:
+
+        HandType type = HandType::Hand_;
+
         explicit Hand(CardCollection collection);
+
+        explicit Hand(Hand *hand);
 
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
+        Hand(Hand &hand); // copy constructor
+
+        Hand(Hand &&) = default;
+
         ~Hand(); // destructor
 
-        explicit Hand(Hand* hand);
+        Hand &operator=(Hand hand); //copy assignment
 
-        Hand(const Hand &hand); // copy constructor
+        Hand &operator=(Hand &&) noexcept; //copy assignment
 
-        Hand &operator=(Hand &hand); //copy assignment
+        bool operator==(Hand &hand);
+
+        bool operator!=(Hand &hand);
+
+        bool operator>(Hand &hand);
+
+        bool operator<(Hand &hand);
 
         CommunityCards getCards();
 
@@ -61,6 +85,10 @@ namespace eval {
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
+
+        HandType getHandType();
+
+        std::string getTypeFake();
 
         bool xOfAKindIsA(int x, int how_many = 1);
 
@@ -120,16 +148,17 @@ namespace eval {
          */
         static Hand evaluate(const vector<Hand> &hands);
 
-        bool operator==(Hand& hand);
+        int sumBest5Ranks();
 
-        bool operator!=(Hand& hand);
     };
 
     class HighCard : public Hand {
-    private:
-        std::string type = "HighCard";
     public:
         using Hand::Hand;
+
+        explicit HighCard(Hand *hand);
+
+        explicit HighCard(CardCollection collection);
 
         CardCollection best5(CardCollection cards) override;
 
@@ -142,18 +171,25 @@ namespace eval {
     public:
         using Hand::Hand;
 
+
+        explicit Pair(Hand *hand);
+
+        explicit Pair(CardCollection collection);
+
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
-        std::string type = "Pair";
     };
 
 
     class TwoPair : public Hand {
     private:
     public:
-        std::string type = "TwoPair";
+        explicit TwoPair(Hand *hand);
+
+        explicit TwoPair(CardCollection collection);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -166,7 +202,8 @@ namespace eval {
 
     private:
     public:
-        std::string type = "ThreeOfAKind";
+        explicit ThreeOfAKind(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -179,7 +216,8 @@ namespace eval {
     class Straight : public Hand {
     private:
     public:
-        std::string type = "Straight";
+        explicit Straight(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -192,7 +230,8 @@ namespace eval {
     class Flush : public Hand {
     private:
     public:
-        std::string type = "Flush";
+        explicit Flush(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -204,7 +243,8 @@ namespace eval {
     class FullHouse : public Hand {
     private:
     public:
-        std::string type = "FullHouse";
+        explicit FullHouse(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -216,7 +256,8 @@ namespace eval {
     class FourOfAKind : public Hand {
     private:
     public:
-        std::string type = "FourOfAKind";
+        explicit FourOfAKind(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -229,7 +270,8 @@ namespace eval {
 
     private:
     public:
-        std::string type = "StraightFlush";
+        explicit StraightFlush(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;
@@ -242,7 +284,8 @@ namespace eval {
 
     private:
     public:
-        std::string type = "RoyalFlush";
+        explicit RoyalFlush(Hand *hand);
+
         using Hand::Hand;
 
         CardCollection best5(CardCollection cards) override;

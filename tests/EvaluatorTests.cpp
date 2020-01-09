@@ -12,7 +12,7 @@ using namespace eval;
 
 class EvaluatorTests : public ::testing::Test {
 protected:
-    eval::Hand createHand(Card hc1, Card hc2, Card flop1, Card flop2, Card flop3, Card turn, Card river) {
+    static eval::Hand createHand(Card hc1, Card hc2, Card flop1, Card flop2, Card flop3, Card turn, Card river) {
         HoleCards hc(hc1, hc2);
         CommunityCards cc(flop1, flop2, flop3, turn, river);
         eval::Hand hand(hc, cc);
@@ -113,6 +113,15 @@ protected:
             sevenOfClubs,
             tenOfDiamonds,
             aceOfClubs,
+            eightOfClubs
+    );
+    Hand pair2 = createHand(
+            twoOfClubs,
+            fourOfDiamonds,
+            sixOfHearts,
+            sevenOfClubs,
+            tenOfDiamonds,
+            tenOfClubs,
             eightOfClubs
     );
     Hand two_pair1 = createHand(
@@ -289,9 +298,18 @@ protected:
 };
 
 
+TEST_F(EvaluatorTests, TestSumRanks) {
+    ASSERT_EQ(49, pair1.sumBest5Ranks());
+}
+
+TEST_F(EvaluatorTests, TestSumRanks2) {
+    ASSERT_EQ(15, straight2.sumBest5Ranks());
+}
+
+
 TEST_F(EvaluatorTests, TestYouCanInstantiateAPair) {
     Pair pair(&pair1);
-    ASSERT_EQ(pair.type, "Pair");
+    ASSERT_EQ(pair.getHandType(), Pair_);
 }
 
 TEST_F(EvaluatorTests, TestEquality) {
@@ -493,9 +511,83 @@ TEST_F(EvaluatorTests, TestRoyalFlushBest52) {
 
 
 
+TEST_F(EvaluatorTests, ComparingHandsTests1) {
+    bool ans = pair1 > two_pair1;
+    ASSERT_FALSE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests2) {
+    bool ans = pair1 < two_pair1;
+    ASSERT_TRUE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests3) {
+    cout << straight1 << endl;
+    cout << two_pair1 << endl;
+    bool ans = straight1 > two_pair1;
+//    ASSERT_TRUE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests4) {
+    bool ans = straight1 < two_pair1;
+    ASSERT_FALSE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests5) {
+    bool ans = straight1 < straight2;
+    ASSERT_TRUE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests6) {
+    bool ans = straight2 > straight3;
+    ASSERT_TRUE(ans);
+}
+
+
+TEST_F(EvaluatorTests, ComparingHandsTests7) {
+    bool ans = pair1 > pair2;
+    ASSERT_TRUE(ans);
+}
+
+
+TEST_F(EvaluatorTests, Ex) {
+    std::vector<int> a{1, 2, 3};
+    std::vector<int> b{1, 2, 3};
+    bool ans = a == b;
+    cout << "Is a == b? " << ans;
+}
+////    eval::Evaluator;
+//    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
+//    checkBest5(royal_flush1, expected);
+//}
 
 
 
+
+
+
+TEST_F(EvaluatorTests, TestType) {
+    unique_ptr<Hand> hand = pair1.evaluate();
+    cout << *hand << endl;
+    cout << hand->getHandType() << endl;
+
+    Pair pair(pair1.getCards());
+    cout << pair << endl;
+    cout << pair.getHandType() << endl;
+
+}
+
+TEST_F(EvaluatorTests, TestTypeFake) {
+    cout << "this is a Hand object" << pair1.getTypeFake() << endl;
+//    unique_ptr<Hand> hand = pair1.evaluate();
+//    cout << *hand << endl;
+//    cout << hand->getHandType() << endl;
+//
+    Pair pair = Pair(pair1.getCards());
+    cout << "this is a Pair obj: "<<pair.getTypeFake() << endl;
+//    cout << pair.getHandType() << endl;
+
+}
 
 
 

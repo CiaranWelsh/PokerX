@@ -113,7 +113,6 @@ namespace game {
             cards.add(*gamePlay.turn);
         if (gamePlay.river != nullptr)
             cards.add(*gamePlay.river);
-
         return cards;
     }
 

@@ -10,10 +10,6 @@ using namespace std;
 
 namespace eval {
 
-    void eval::Evaluator::evaluate(eval::Hand &hand) {
-//        if ()
-    }
-
     void Evaluator::evaluate(std::vector<Hand> hands) {
 
     }

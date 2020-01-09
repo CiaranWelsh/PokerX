@@ -103,6 +103,8 @@ namespace cards {
         CardCollection set_intersection(CardCollection other);
 
         CardCollection copy();
+
+
     };
 }
 
