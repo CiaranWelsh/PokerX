@@ -99,18 +99,28 @@ TEST_F(EventTests, TestRotatePlayers) {
 /*
  * PostSmallBlind tests
  */
-TEST_F(EventTests, TestPostSmallBlindPlayerPtrNotEmpty) {
+TEST_F(EventTests, TestPostSmallBlind1) {
     table.step(); // begin
     table.step(); // rotate
     table.step(); // SB
     game::PlayerPtr player = table.players[0];
     double actual = table.players["player1"]->stack;
+    double expected = 9.5;
+    ASSERT_EQ(expected, actual);
+}
+
+TEST_F(EventTests, TestPostSmallBlind2) {
+    table.step(); // begin
+    table.step(); // rotate
+    table.step(); // SB
+    game::PlayerPtr player = table.players[0];
+    double actual = table.players["player1"]->pot.value;
     double expected = 0.5;
     ASSERT_EQ(expected, actual);
 }
 
 
-TEST_F(EventTests, TestPostSmallBlind) {
+TEST_F(EventTests, TestPostSmallBlind3) {
     game::PlayerPtr player0 = players[0];
     PostSmallBlind postSmallBlind;
     table.updateAmountToCall();
@@ -181,10 +191,8 @@ TEST_F(EventTests, TestNumberOfCardsLeft) {
 
 TEST_F(EventTests, TestCurrentPlayerPtrPointsAtUTGPlayer) {
     table.step(); //begin game
-    table.step(); //rotation
-    table.step(); //small blind
-    table.step(); //big blind
-    table.step(); //deal
+    table.step();
+    table.step();
     game::PlayerPtr player = table.players.getCurrentPlayer();
     std::string expected = "player2";
     ASSERT_EQ(expected, player->getName());
