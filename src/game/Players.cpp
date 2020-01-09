@@ -20,49 +20,59 @@ namespace game {
     Players::~Players() = default;
 
     Players::Players(Players const &positions) {
-        this->_positions = positions._positions;
-        current_player = _positions[0];
+        this->_players = positions._players;
+        current_player = _players[0];
     }
 
     Players::Players(std::vector<PlayerPtr> vec) {
-        this->_positions = std::move(vec);
-        current_player = _positions[0];
+        this->_players = std::move(vec);
+        current_player = _players[0];
     }
 
     vector<boost::shared_ptr<Player>> Players::getPositions() {
-        return _positions;
+        return _players;
     }
 
     void Players::addPlayer(const PlayerPtr &player_ptr) {
-        _positions.push_back(player_ptr);
+        _players.push_back(player_ptr);
     }
 
     void Players::addPlayer(const PlayerPtr &player, int index) {
-        _positions.insert(_positions.begin() + index, player);
+        _players.insert(_players.begin() + index, player);
     }
 
     void Players::rotate() {
-        cout << "Players::rotate function has been called " << endl;
-
-        PlayerPtr front_player = _positions[0];
-        _positions.erase(_positions.begin());
-        _positions.push_back(front_player);
+        PlayerPtr front_player = _players[0];
+        _players.erase(_players.begin());
+        _players.push_back(front_player);
         // must update current_player field
-        current_player = _positions[0];
+        current_player = _players[0];
         /*
          * Makes this method recursive. Keep rotating until you find a
          * player who is still in the game. All players should be inplace=true
          * when the game begins
          */
-        if (!current_player->inplay)
+        if (!current_player->inplay) {
             rotate();
+        }
+    }
+
+    PlayerPtr Players::operator[](const std::string& name){
+        PlayerPtr x;
+        for (const PlayerPtr& player : _players){
+            if (player->getName() == name)
+                x = player;
+        }
+        if (x == nullptr)
+            throw errors::NullPointerException("Did not find a player with that name", __FILE__, __LINE__);
+        return x;
     }
 
     void Players::previous_player() {
-        PlayerPtr back_player = _positions[size() - 1];
-        _positions.erase(_positions.begin() + size() - 1);
-        _positions.insert(_positions.begin(), back_player);
-        current_player = _positions[0];
+        PlayerPtr back_player = _players[size() - 1];
+        _players.erase(_players.begin() + size() - 1);
+        _players.insert(_players.begin(), back_player);
+        current_player = _players[0];
         if (!current_player->inplay)
             previous_player();
 
@@ -73,14 +83,14 @@ namespace game {
     }
 
     PlayerPtr Players::operator[](int index) {
-        if (_positions.empty()) {
+        if (_players.empty()) {
             throw errors::EmptyContainerError("You cannot get access to players "
                                               "as there are not players yet.", __FILE__, __LINE__);
         }
-        if (_positions[index] == nullptr) {
+        if (_players[index] == nullptr) {
             throw errors::NullPointerException("In Players::operator[], index is a nullptr", __FILE__, __LINE__);
         }
-        return _positions[index];
+        return _players[index];
     }
 
 
@@ -99,15 +109,15 @@ namespace game {
     }
 
     int Players::size() {
-        return _positions.size();
+        return _players.size();
     }
 
     std::vector<PlayerPtr>::iterator Players::begin() {
-        return _positions.begin();
+        return _players.begin();
     }
 
     std::vector<PlayerPtr>::iterator Players::end() {
-        return _positions.end();
+        return _players.end();
     }
 
     ostream &operator<<(ostream &os, Players &players) {
@@ -132,7 +142,7 @@ namespace game {
 
     bool Players::checkAllPlayersEqual() {
         std::vector<double> amounts;
-        for (PlayerPtr player : _positions)
+        for (PlayerPtr player : _players)
             amounts.push_back(player->pot.value);
         return utils::EqualityChecker<double>(amounts);
     }
@@ -143,7 +153,7 @@ namespace game {
      */
     bool Players::noPlayersPlayedThisStreet() {
         std::vector<bool> vec;
-        for (PlayerPtr player : _positions)
+        for (PlayerPtr player : _players)
             vec.push_back(player->played_this_street);
         return utils::EqualityChecker<bool>(vec);
     }

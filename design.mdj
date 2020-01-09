@@ -12621,7 +12621,7 @@
 											"top": 518,
 											"width": 268.455078125,
 											"height": 13,
-											"text": "«private»+_positions: vector<Player &players>",
+											"text": "«private»+_players: vector<Player &players>",
 											"horizontalAlignment": 0
 										}
 									],
@@ -18749,7 +18749,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvQtemHkqEAB8="
 							},
-							"name": "_positions",
+							"name": "_players",
 							"stereotype": "private",
 							"type": "vector<Player &players>"
 						}
@@ -28179,7 +28179,7 @@
 											"top": 197,
 											"width": 268.455078125,
 											"height": 13,
-											"text": "«private»+_positions: vector<Player &players>",
+											"text": "«private»+_players: vector<Player &players>",
 											"horizontalAlignment": 0
 										}
 									],

@@ -39,7 +39,7 @@ add_library(${BINARY}_lib STATIC
         events/player_event/PostBigBlind.cpp
         events/player_event/PostBigBlind.h
         events/EventPtr.h
-        game/GamePlay.h events/time_event/EndGame.cpp events/time_event/EndGame.h events/dealer_event/DealHoleCards.cpp events/dealer_event/DealHoleCards.h events/player_event/PlayerAction.cpp events/player_event/PlayerAction.h events/time_event/NextStreet.cpp events/time_event/NextStreet.h utils/EqualityChecker.h events/dealer_event/DealTurn.cpp events/dealer_event/DealTurn.h events/dealer_event/DealFlop.cpp events/dealer_event/DealFlop.h events/dealer_event/DealRiver.cpp events/dealer_event/DealRiver.h)
+        game/GamePlay.h events/time_event/EndGame.cpp events/time_event/EndGame.h events/dealer_event/DealHoleCards.cpp events/dealer_event/DealHoleCards.h events/player_event/PlayerAction.cpp events/player_event/PlayerAction.h events/time_event/NextStreet.cpp events/time_event/NextStreet.h utils/EqualityChecker.h events/dealer_event/DealTurn.cpp events/dealer_event/DealTurn.h events/dealer_event/DealFlop.cpp events/dealer_event/DealFlop.h events/dealer_event/DealRiver.cpp events/dealer_event/DealRiver.h utils/Log.h)
 
 
 

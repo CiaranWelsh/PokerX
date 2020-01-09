@@ -181,33 +181,23 @@ namespace eval {
     }
 
     bool Hand::operator<(Hand &hand) {
-        std::unique_ptr<Hand> mine = evaluate();
-        std::unique_ptr<Hand> theirs = hand.evaluate();
-        return *mine > *theirs;
+        HandType mine = evaluate()->type;
+        HandType theirs = hand.evaluate()->type;
+        if (mine == theirs) {
+            return sumBest5Ranks() < hand.sumBest5Ranks();
+        }
+        return mine < theirs;
     }
-//    bool Hand::operator<(Hand &hand) {
-//        HandType mine = evaluate()->type;
-//        HandType theirs = hand.evaluate()->type;
-//        if (mine == theirs) {
-//            return sumBest5Ranks() < hand.sumBest5Ranks();
-//        }
-//        return mine < theirs;
-//    }
 
     bool Hand::operator>(Hand &hand) {
-        HandType mine = getHandType();
-        HandType theirs = hand.getHandType();
-        cout << "mine " << mine << " sumbest5 " << sumBest5Ranks() << endl;
-        cout << "theirs " << theirs << " sum " << hand.sumBest5Ranks() << endl;
+        HandType mine = evaluate()->getHandType();
+        HandType theirs = hand.evaluate()->getHandType();
         if (mine == theirs) {
             return sumBest5Ranks() > hand.sumBest5Ranks();
         }
         return mine > theirs;
     }
 
-//    bool Hand::operator<(Hand &hand) {
-//        return sumBest5Ranks() > hand.sumBest5Ranks();
-//    }
 
     int Hand::sumBest5Ranks() {
         Straight straight(_cards);

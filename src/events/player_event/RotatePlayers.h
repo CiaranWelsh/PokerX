@@ -19,7 +19,8 @@ namespace events {
                                       "maintain fair positioning relative to the dealer";
         }
 
-        void go(game::Players &players);
+        void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
+                double &amount_to_call) override;
     };
 }
 

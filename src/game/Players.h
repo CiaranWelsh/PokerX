@@ -15,7 +15,7 @@ namespace game {
 
     class Players {
     private:
-        vector<PlayerPtr> _positions;
+        vector<PlayerPtr> _players;
         PlayerPtr current_player;
 
     public:
@@ -36,6 +36,8 @@ namespace game {
         void addPlayer(const PlayerPtr &player, int index);
 
         void rotate();
+
+        PlayerPtr operator[](const std::string& name);
 
         void previous_player();
 

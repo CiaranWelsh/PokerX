@@ -6,7 +6,6 @@
 #ifndef POKERSIMULATIONSINCPP_TABLE_H
 #define POKERSIMULATIONSINCPP_TABLE_H
 
-
 #include "Pot.h"
 #include "Dealer.h"
 #include "Players.h"
@@ -21,6 +20,7 @@
 #include <events/time_event/EndGame.h>
 #include <events/time_event/NextStreet.h>
 #include "events/EventPtr.h"
+#include "utils/Log.h"
 
 namespace game {
 

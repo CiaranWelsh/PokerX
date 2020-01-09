@@ -24,19 +24,15 @@ namespace errors {
         }
 
     public:
-//        Exception() :
-//                line(__LINE__),
-//                file(__FILE__),
-//                msg(""),
-//                std::logic_error(build_exception()) {};
-//        explicit Exception(const char* msg) :
-//                line(__LINE__),
-//                file(__FILE__),
-//                msg(msg),
-//                std::logic_error(build_exception()) {};
 
         Exception(const char *msg, std::string file, int line) :
                 msg(msg),
+                line(line),
+                file(std::move(file)),
+                std::logic_error(build_exception()) {}
+
+        Exception(std::string *msg, std::string file, int line) :
+                msg(reinterpret_cast<const char *>(msg)),
                 line(line),
                 file(std::move(file)),
                 std::logic_error(build_exception()) {}

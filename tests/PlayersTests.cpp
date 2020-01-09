@@ -133,5 +133,14 @@ TEST_F(PlayersTests, TestSomePlayersHavePlayedAStreet) {
 }
 
 
+TEST_F(PlayersTests, TestGetPlayerByName) {
+    players = Players::callStations(6);
+    PlayerPtr p = players["player3"];
+    std::string expected = "player3";
+    std::string actual = p->getName();
+    ASSERT_EQ(expected, actual);
+}
+
+
 
 

@@ -205,7 +205,7 @@ protected:
             aceOfDiamonds,
             kingOfClubs
     );
-    Hand straight1 = createHand(
+    Hand straight2to6 = createHand(
             twoOfClubs,
             threeOfDiamonds,
             fourOfHearts,
@@ -214,7 +214,7 @@ protected:
             aceOfDiamonds,
             kingOfClubs
     );
-    Hand straight2 = createHand(
+    Hand straight_low_ace = createHand(
             aceOfClubs,
             twoOfClubs,
             threeOfDiamonds,
@@ -223,7 +223,7 @@ protected:
             kingOfClubs,
             queenOfClubs
     );
-    Hand straight3 = createHand(
+    Hand straight2to6_2 = createHand(
             twoOfClubs,
             threeOfDiamonds,
             fourOfHearts,
@@ -303,7 +303,7 @@ TEST_F(EvaluatorTests, TestSumRanks) {
 }
 
 TEST_F(EvaluatorTests, TestSumRanks2) {
-    ASSERT_EQ(15, straight2.sumBest5Ranks());
+    ASSERT_EQ(15, straight_low_ace.sumBest5Ranks());
 }
 
 TEST_F(EvaluatorTests, TestYouCanInstantiateAPair) {
@@ -430,35 +430,35 @@ TEST_F(EvaluatorTests, TestFourOfAKindBest5) {
 }
 
 TEST_F(EvaluatorTests, TestStraight1IsA) {
-    checkIsA<Straight>(straight1);
+    checkIsA<Straight>(straight2to6);
 }
 
 
 TEST_F(EvaluatorTests, TestStraight1Best5) {
     std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6D)]";
-    checkBest5(straight1, expected);
+    checkBest5(straight2to6, expected);
 }
 
 
 TEST_F(EvaluatorTests, TestStraight2IsA) {
-    Straight straight(&straight2);
+    Straight straight(&straight_low_ace);
     ASSERT_TRUE(straight.isa());
 }
 
 TEST_F(EvaluatorTests, TestStraight2Best5) {
     std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(14C)]";
-    checkBest5(straight2, expected);
+    checkBest5(straight_low_ace, expected);
 }
 
 
 TEST_F(EvaluatorTests, TestStraight3IsA) {
-    Straight straight(&straight3);
+    Straight straight(&straight2to6_2);
     ASSERT_TRUE(straight.isa());
 }
 
 TEST_F(EvaluatorTests, TestStraight3Best5) {
     std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6C)]";
-    checkBest5(straight3, expected);
+    checkBest5(straight2to6_2, expected);
 }
 
 TEST_F(EvaluatorTests, TestStraight4IsA) {
@@ -529,7 +529,6 @@ TEST_F(EvaluatorTests, TestRoyalFlushBest52) {
 }
 
 
-
 TEST_F(EvaluatorTests, ComparingHandsTests1) {
     bool ans = pair1 > two_pair1;
     ASSERT_FALSE(ans);
@@ -541,24 +540,19 @@ TEST_F(EvaluatorTests, ComparingHandsTests2) {
 }
 
 TEST_F(EvaluatorTests, ComparingHandsTests3) {
-    cout << straight1 << endl;
+    cout << straight2to6 << endl;
     cout << two_pair1 << endl;
-    bool ans = straight1 > two_pair1;
+    bool ans = straight2to6 > two_pair1;
 //    ASSERT_TRUE(ans);
 }
 
 TEST_F(EvaluatorTests, ComparingHandsTests4) {
-    bool ans = straight1 < two_pair1;
+    bool ans = straight2to6 < two_pair1;
     ASSERT_FALSE(ans);
 }
 
 TEST_F(EvaluatorTests, ComparingHandsTests5) {
-    bool ans = straight1 < straight2;
-    ASSERT_TRUE(ans);
-}
-
-TEST_F(EvaluatorTests, ComparingHandsTests6) {
-    bool ans = straight2 > straight3;
+    bool ans = straight2to6 > straight_low_ace;
     ASSERT_TRUE(ans);
 }
 
@@ -567,69 +561,4 @@ TEST_F(EvaluatorTests, ComparingHandsTests7) {
     bool ans = pair1 > pair2;
     ASSERT_TRUE(ans);
 }
-
-
-TEST_F(EvaluatorTests, Ex) {
-    std::vector<int> a{1, 2, 3};
-    std::vector<int> b{1, 2, 3};
-    bool ans = a == b;
-    cout << "Is a == b? " << ans;
-}
-//////    eval::Evaluator;
-////    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
-////    checkBest5(royal_flush1, expected);
-////}
-//
-//
-//
-//
-//
-//
-//TEST_F(EvaluatorTests, TestType) {
-//    unique_ptr<Hand> hand = pair1.evaluate();
-//    cout << *hand << endl;
-//    cout << hand->getHandType() << endl;
-//
-//    Pair pair(pair1.getCards());
-//    cout << pair << endl;
-//    cout << pair.getHandType() << endl;
-//
-//}
-//
-//TEST_F(EvaluatorTests, TestTypeFake) {
-//    cout << "this is a Hand object" << pair1.getTypeFake() << endl;
-////    unique_ptr<Hand> hand = pair1.evaluate();
-////    cout << *hand << endl;
-////    cout << hand->getHandType() << endl;
-////
-//    Pair pair = Pair(pair1.getCards());
-//    cout << "this is a Pair obj: "<<pair.getTypeFake() << endl;
-////    cout << pair.getHandType() << endl;
-//
-//}
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
-
-
-
-
-
 
