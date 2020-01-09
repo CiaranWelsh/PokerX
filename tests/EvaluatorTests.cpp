@@ -306,10 +306,29 @@ TEST_F(EvaluatorTests, TestSumRanks2) {
     ASSERT_EQ(15, straight2.sumBest5Ranks());
 }
 
-
 TEST_F(EvaluatorTests, TestYouCanInstantiateAPair) {
     Pair pair(&pair1);
     ASSERT_EQ(pair.getHandType(), Pair_);
+}
+
+TEST_F(EvaluatorTests, TestThatYouCanCopyAPair) {
+    Pair pair(&pair1);
+    Pair another_pair = pair;
+    ASSERT_EQ(another_pair.getHandType(), Pair_);
+}
+
+TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlush) {
+    StraightFlush straightFlush(&straight_flush1);
+    ASSERT_EQ(straightFlush.getHandType(), StraightFlush_);
+}
+
+TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
+    unique_ptr<Hand> hand = straight_flush1.evaluate();
+    ASSERT_EQ(hand->getHandType(), StraightFlush_);
+}
+TEST_F(EvaluatorTests, TestThatYouCanCopyAHand) {
+    Hand hand = pair1;
+    ASSERT_EQ(hand.type, Hand_);
 }
 
 TEST_F(EvaluatorTests, TestEquality) {
@@ -556,57 +575,57 @@ TEST_F(EvaluatorTests, Ex) {
     bool ans = a == b;
     cout << "Is a == b? " << ans;
 }
-////    eval::Evaluator;
-//    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
-//    checkBest5(royal_flush1, expected);
-//}
-
-
-
-
-
-
-TEST_F(EvaluatorTests, TestType) {
-    unique_ptr<Hand> hand = pair1.evaluate();
-    cout << *hand << endl;
-    cout << hand->getHandType() << endl;
-
-    Pair pair(pair1.getCards());
-    cout << pair << endl;
-    cout << pair.getHandType() << endl;
-
-}
-
-TEST_F(EvaluatorTests, TestTypeFake) {
-    cout << "this is a Hand object" << pair1.getTypeFake() << endl;
+//////    eval::Evaluator;
+////    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
+////    checkBest5(royal_flush1, expected);
+////}
+//
+//
+//
+//
+//
+//
+//TEST_F(EvaluatorTests, TestType) {
 //    unique_ptr<Hand> hand = pair1.evaluate();
 //    cout << *hand << endl;
 //    cout << hand->getHandType() << endl;
 //
-    Pair pair = Pair(pair1.getCards());
-    cout << "this is a Pair obj: "<<pair.getTypeFake() << endl;
+//    Pair pair(pair1.getCards());
+//    cout << pair << endl;
 //    cout << pair.getHandType() << endl;
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+//}
+//
+//TEST_F(EvaluatorTests, TestTypeFake) {
+//    cout << "this is a Hand object" << pair1.getTypeFake() << endl;
+////    unique_ptr<Hand> hand = pair1.evaluate();
+////    cout << *hand << endl;
+////    cout << hand->getHandType() << endl;
+////
+//    Pair pair = Pair(pair1.getCards());
+//    cout << "this is a Pair obj: "<<pair.getTypeFake() << endl;
+////    cout << pair.getHandType() << endl;
+//
+//}
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 

@@ -15,6 +15,12 @@ using namespace std;
 
 namespace eval {
 
+    Hand::Hand(CardCollection collection) {
+        if (collection.size() != 7)
+            throw std::invalid_argument("need 7 cards");
+        this->_cards = collection.getCards();
+    }
+
     /*
      * Hand implementation
      */
@@ -24,22 +30,26 @@ namespace eval {
         _cards = holeCards + communityCards;
         // and sort the concatonated cards
         _cards.sort();
-        name = (string) typeid(this).name();
     }
 
     Hand::~Hand() = default;
 
-    Hand::Hand(Hand &hand) {
+    Hand::Hand(const Hand &hand) {
         this->_holeCards = hand._holeCards;
         this->_communityCards = hand._communityCards;
         this->_cards = hand._cards;
+        _cards.sort();
+        this->type = hand.getHandType();
+    }
+
+    Hand::Hand(Hand *hand) {
+        this->_holeCards = hand->_holeCards;
+        this->_communityCards = hand->_communityCards;
+        this->_cards = hand->_cards;
+        _cards.sort();
         name = (string) typeid(this).name();
     }
 
-
-    CommunityCards Hand::getCards() {
-        return CommunityCards(_cards);
-    }
 
     std::ostream &operator<<(std::ostream &os, const Hand &hand) {
         CardCollection best5 = hand._cards;
@@ -139,15 +149,10 @@ namespace eval {
         return highCard;
     }
 
-//    }
-
-//    Hand Hand::evaluate(const std::vector<Hand>& hands) {
-//        return ;
-    Hand::Hand(CardCollection collection) {
-        if (collection.size() != 7)
-            throw std::invalid_argument("need 7 cards");
-        this->_cards = collection.getCards();
+    CommunityCards Hand::getCards() {
+        return CommunityCards(_cards);
     }
+
 
     Hand &Hand::operator=(Hand hand) {
         if ((*this) == hand)
@@ -165,13 +170,6 @@ namespace eval {
         _communityCards = hand._communityCards;
         _holeCards = hand._holeCards;
         return (*this);
-    }
-
-
-    Hand::Hand(Hand *hand) {
-        _cards = hand->_cards;
-        _communityCards = hand->_communityCards;
-        _holeCards = hand->_holeCards;
     }
 
     bool Hand::operator==(Hand &hand) {
@@ -230,12 +228,8 @@ namespace eval {
         return sum;
     }
 
-    HandType Hand::getHandType() {
+    HandType Hand::getHandType() const {
         return type;
-    }
-
-    std::string Hand::getTypeFake() {
-        return type_fake;
     }
 
     std::map<std::string, int> Hand::handHeirachy() {
@@ -268,11 +262,11 @@ namespace eval {
 
 
     HighCard::HighCard(CardCollection collection) : Hand(collection) {
-        type = HighCard_;
+        type = HandType::Pair_;
     }
 
-    HighCard::HighCard(Hand*hand) : Hand(hand) {
-        type = HighCard_;
+    HighCard::HighCard(Hand *hand) : Hand(hand) {
+        type = HandType::Pair_;
     }
 
 
@@ -292,6 +286,10 @@ namespace eval {
         type = HandType::Pair_;
     }
 
+    Pair::Pair(Hand *hand) : Hand(hand) {
+        type = HandType::Pair_;
+    }
+
 /*
  * Two pair implementation
  */
@@ -303,12 +301,11 @@ namespace eval {
         return xOfAKindIsA(2, 2);
     }
 
-    TwoPair::TwoPair(Hand *hand) : Hand(hand) {
+    TwoPair::TwoPair(CardCollection collection) : Hand(collection) {
         type = HandType::TwoPair_;
     }
 
-
-    TwoPair::TwoPair(CardCollection collection) : Hand(collection) {
+    TwoPair::TwoPair(Hand *hand) : Hand(hand) {
         type = HandType::TwoPair_;
     }
 
@@ -324,12 +321,13 @@ namespace eval {
     CardCollection ThreeOfAKind::best5(CardCollection cards) {
         return xOfAKindBest5<ThreeOfAKind>(3);
     }
+    ThreeOfAKind::ThreeOfAKind(CardCollection collection) : Hand(collection) {
+        type = HandType::ThreeOfAKind_;
+    }
 
     ThreeOfAKind::ThreeOfAKind(Hand *hand) : Hand(hand) {
         type = HandType::ThreeOfAKind_;
-
     }
-
 /*
  * Straight Implementation
  */
@@ -412,9 +410,12 @@ namespace eval {
         return false;
     }
 
+    Straight::Straight(CardCollection collection) : Hand(collection) {
+        type = HandType::Straight_;
+    }
+
     Straight::Straight(Hand *hand) : Hand(hand) {
         type = HandType::Straight_;
-
     }
 
     CardCollection Flush::best5(CardCollection cards) {
@@ -447,12 +448,13 @@ namespace eval {
         }
         return x;
     }
+    Flush::Flush(CardCollection collection) : Hand(collection) {
+        type = HandType::Flush_;
+    }
 
     Flush::Flush(Hand *hand) : Hand(hand) {
         type = HandType::Flush_;
-
     }
-
 
     CardCollection FullHouse::best5(CardCollection cards) {
         Counter<int> count(cards.getRanks());
@@ -464,7 +466,7 @@ namespace eval {
                 theThree = i.first;
         }
         CardCollection best5;
-        for (Card i : cards) {
+        for (const Card& i : cards) {
             if (i.rank == theThree)
                 best5.add(i);
             else if (i.rank == theTwo)
@@ -483,10 +485,12 @@ namespace eval {
         ThreeOfAKind three_of_a_kind((*this).getCards());
         return pair.isa() && three_of_a_kind.isa();
     }
+    FullHouse::FullHouse(CardCollection collection) : Hand(collection) {
+        type = HandType::FullHouse_;
+    }
 
     FullHouse::FullHouse(Hand *hand) : Hand(hand) {
         type = HandType::FullHouse_;
-
     }
 
 
@@ -498,9 +502,12 @@ namespace eval {
         return xOfAKindIsA(4);
     }
 
+    FourOfAKind::FourOfAKind(CardCollection collection) : Hand(collection) {
+        type = HandType::FourOfAKind_;
+    }
+
     FourOfAKind::FourOfAKind(Hand *hand) : Hand(hand) {
         type = HandType::FourOfAKind_;
-
     }
 
     CardCollection StraightFlush::best5(CardCollection cards) {
@@ -522,9 +529,14 @@ namespace eval {
         return straight && flush;
     }
 
-    StraightFlush::StraightFlush(eval::Hand *hand) : Hand(hand) {
+    StraightFlush::StraightFlush(CardCollection collection) : Hand(collection) {
         type = HandType::StraightFlush_;
     }
+
+    StraightFlush::StraightFlush(Hand *hand) : Hand(hand) {
+        type = HandType::StraightFlush_;
+    }
+
 
     CardCollection RoyalFlush::best5(CardCollection cards) {
         if (!isa())
@@ -543,9 +555,12 @@ namespace eval {
                && sflushcards[4].rank == 14;
     }
 
+    RoyalFlush::RoyalFlush(CardCollection collection) : Hand(collection) {
+        type = HandType::RoyalFlush_;
+    }
+
     RoyalFlush::RoyalFlush(Hand *hand) : Hand(hand) {
         type = HandType::RoyalFlush_;
-
     }
 
 }

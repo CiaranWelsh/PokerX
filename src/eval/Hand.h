@@ -42,7 +42,7 @@ namespace eval {
         CardCollection _cards = _holeCards + _communityCards;
         std::string type_fake = "BaseHandClass";
 
-        std::map<std::string, int> handHeirachy();
+        static std::map<std::string, int> handHeirachy();
 
     private:
 
@@ -58,9 +58,9 @@ namespace eval {
 
         explicit Hand(Hand *hand);
 
-        Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
+        Hand(Hand const &hand);
 
-        Hand(Hand &hand); // copy constructor
+        Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         Hand(Hand &&) = default;
 
@@ -86,9 +86,7 @@ namespace eval {
 
         bool isa() override;
 
-        HandType getHandType();
-
-        std::string getTypeFake();
+        HandType getHandType() const;
 
         bool xOfAKindIsA(int x, int how_many = 1);
 
@@ -171,7 +169,6 @@ namespace eval {
     public:
         using Hand::Hand;
 
-
         explicit Pair(Hand *hand);
 
         explicit Pair(CardCollection collection);
@@ -206,6 +203,8 @@ namespace eval {
 
         using Hand::Hand;
 
+        explicit ThreeOfAKind(CardCollection collection);
+
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
@@ -219,6 +218,8 @@ namespace eval {
         explicit Straight(Hand *hand);
 
         using Hand::Hand;
+
+        explicit Straight(CardCollection collection);
 
         CardCollection best5(CardCollection cards) override;
 
@@ -234,6 +235,8 @@ namespace eval {
 
         using Hand::Hand;
 
+        explicit Flush(CardCollection collection);
+
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
@@ -247,6 +250,8 @@ namespace eval {
 
         using Hand::Hand;
 
+        explicit FullHouse(CardCollection collection);
+
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
@@ -259,6 +264,8 @@ namespace eval {
         explicit FourOfAKind(Hand *hand);
 
         using Hand::Hand;
+
+        explicit FourOfAKind(CardCollection collection);
 
         CardCollection best5(CardCollection cards) override;
 
@@ -274,6 +281,8 @@ namespace eval {
 
         using Hand::Hand;
 
+        explicit StraightFlush(CardCollection collection);
+
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
@@ -287,6 +296,8 @@ namespace eval {
         explicit RoyalFlush(Hand *hand);
 
         using Hand::Hand;
+
+        explicit RoyalFlush(CardCollection collection);
 
         CardCollection best5(CardCollection cards) override;
 
