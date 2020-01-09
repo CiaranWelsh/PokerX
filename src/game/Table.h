@@ -64,6 +64,8 @@ namespace game {
 
         void updateAmountToCall();
 
+        cards::CardCollection getCommunityCards();
+
     };
 }
 #endif //POKERSIMULATIONSINCPP_TABLE_H

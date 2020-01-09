@@ -105,6 +105,18 @@ namespace game {
         gamePlay.amount_to_call = std::make_unique<double>(largest_bidder_amount - amount_player_has_in_their_pot);
     }
 
+    cards::CardCollection Table::getCommunityCards() {
+        cards::CardCollection cards;
+        if(gamePlay.flop != nullptr)
+            cards.add(*gamePlay.flop);
+        if (gamePlay.turn != nullptr)
+            cards.add(*gamePlay.turn);
+        if (gamePlay.river != nullptr)
+            cards.add(*gamePlay.river);
+
+        return cards;
+    }
+
 }
 
 

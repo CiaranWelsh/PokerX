@@ -5,6 +5,8 @@
 #ifndef POKERSIMULATIONSINCPP_GAMEPLAY_H
 #define POKERSIMULATIONSINCPP_GAMEPLAY_H
 
+class community_cards;
+
 #include <players/ActionType.h>
 #include <vector>
 #include <boost/shared_ptr.hpp>
@@ -63,6 +65,7 @@ namespace game {
         std::shared_ptr<double> amount_raised;
         std::shared_ptr<double> amount_for_all_in;
         double largest_bidder_amount = 0.0;
+
     };
 }
 

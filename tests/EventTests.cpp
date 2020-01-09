@@ -207,6 +207,7 @@ TEST_F(EventTests, TestGamePlay) {
     cout << endl;
     while (!table.gamePlay.game_ended) {
         table.step();
+        cout << table.getCommunityCards() << endl;
         cout << "Current player: " << table.players.getCurrentPlayer()->getName();
         cout << ", Current event: " << table.current_event->getId();
         cout << ", Event description: " << table.current_event->getDescription() << endl;
