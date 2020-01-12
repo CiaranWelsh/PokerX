@@ -866,11 +866,6 @@ TEST_F(EvaluatorTests, TestSplitPot) {
     checkSplitPot(pair1, pair1);
 }
 
-//TEST_F(EvaluatorTests, Evaluate2PairHand) {
-//    // note: this doesn't really test must.
-//    checkWinnerPosition(pair1, pair2, Hand_);
-//}
-
 
 /*
  * What if the overloading functions operator> and operator<
