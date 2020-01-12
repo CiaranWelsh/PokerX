@@ -75,7 +75,6 @@ namespace game {
         current_player = _players[0];
         if (!current_player->inplay)
             previous_player();
-
     }
 
     void Players::next_player() {

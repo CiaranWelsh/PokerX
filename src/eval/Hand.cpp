@@ -19,6 +19,7 @@ namespace eval {
         if (collection.size() != 7)
             throw std::invalid_argument("need 7 cards");
         this->_cards = collection.getCards();
+        setValue();
     }
 
     /*
@@ -30,6 +31,7 @@ namespace eval {
         _cards = holeCards + communityCards;
         // and sort the concatonated cards
         _cards.sort();
+        setValue();
     }
 
     Hand::~Hand() = default;
@@ -40,6 +42,7 @@ namespace eval {
         this->_cards = hand._cards;
         _cards.sort();
         this->type = hand.getHandType();
+        this->value = hand.value;
     }
 
     Hand::Hand(Hand *hand) {
@@ -48,6 +51,7 @@ namespace eval {
         this->_cards = hand->_cards;
         _cards.sort();
         name = (string) typeid(this).name();
+        this->value = hand->value;
     }
 
 
@@ -235,6 +239,14 @@ namespace eval {
         return hand_heirachy;
     }
 
+    int Hand::getValue() {
+        return value;
+    }
+
+    void Hand::setValue() {
+        value = 0;
+    }
+
 
 /*
  * High card implementation
@@ -259,6 +271,18 @@ namespace eval {
         type = HandType::Pair_;
     }
 
+    void HighCard::setValue() {
+        value = *std::max_element(
+                getCards().getRanks().begin(),
+                getCards().getRanks().end()
+        );
+    }
+
+//    void HighCard::setValue() {
+//        int count = Counter<Card>(_cards);
+//        for
+//    }
+
 
 /*
  * Pair implementation
@@ -274,10 +298,26 @@ namespace eval {
 
     Pair::Pair(CardCollection collection) : Hand(collection) {
         type = HandType::Pair_;
+        setValue();
     }
 
     Pair::Pair(Hand *hand) : Hand(hand) {
         type = HandType::Pair_;
+        setValue();
+    }
+
+    void Pair::setValue() {
+        Counter<int> count = Counter<int>(this->getCards().getRanks());
+        cout << "county > "<< count << endl;
+        std::vector<int> val;
+        for (std::pair<int, int> i : count.count()){
+            if (i.second == 2){
+                val.push_back(i.first);
+            }
+        }
+        if (val.size()!=1)
+            throw errors::ValueError("Should only have 1 pair", __FILE__, __LINE__);
+        value = val[0];
     }
 
 /*
@@ -311,6 +351,7 @@ namespace eval {
     CardCollection ThreeOfAKind::best5(CardCollection cards) {
         return xOfAKindBest5<ThreeOfAKind>(3);
     }
+
     ThreeOfAKind::ThreeOfAKind(CardCollection collection) : Hand(collection) {
         type = HandType::ThreeOfAKind_;
     }
@@ -318,6 +359,7 @@ namespace eval {
     ThreeOfAKind::ThreeOfAKind(Hand *hand) : Hand(hand) {
         type = HandType::ThreeOfAKind_;
     }
+
 /*
  * Straight Implementation
  */
@@ -438,6 +480,7 @@ namespace eval {
         }
         return x;
     }
+
     Flush::Flush(CardCollection collection) : Hand(collection) {
         type = HandType::Flush_;
     }
@@ -456,7 +499,7 @@ namespace eval {
                 theThree = i.first;
         }
         CardCollection best5;
-        for (const Card& i : cards) {
+        for (const Card &i : cards) {
             if (i.rank == theThree)
                 best5.add(i);
             else if (i.rank == theTwo)
@@ -475,6 +518,7 @@ namespace eval {
         ThreeOfAKind three_of_a_kind((*this).getCards());
         return pair.isa() && three_of_a_kind.isa();
     }
+
     FullHouse::FullHouse(CardCollection collection) : Hand(collection) {
         type = HandType::FullHouse_;
     }

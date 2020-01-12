@@ -40,6 +40,38 @@ protected:
 
     }
 
+    static void checkWinnerHand(Hand hand1, Hand hand2, HandType expected_winner) {
+        std::vector<HandPtr> hvec;
+        hvec.push_back(make_shared<Hand>(hand1));
+        hvec.push_back(make_shared<Hand>(hand2));
+        eval::Evaluator evaluator;
+        std::map<int, HandType> x = evaluator.evaluate(hvec);
+        std::vector<HandType> values = Evaluator::getValuesOfMap(x);
+        std::vector<HandType> expected = {expected_winner};
+        ASSERT_EQ(expected, values);
+    }
+
+    static void checkWinnerPosition(Hand hand1, Hand hand2, int position) {
+        std::vector<HandPtr> hvec;
+        hvec.push_back(make_shared<Hand>(hand1));
+        hvec.push_back(make_shared<Hand>(hand2));
+        eval::Evaluator evaluator;
+        std::map<int, HandType> x = evaluator.evaluate(hvec);
+        std::vector<int> values = Evaluator::getKeysOfMap(x);
+        std::vector<int> expected = {position};
+        ASSERT_EQ(expected, values);
+    }
+
+    static void checkSplitPot(Hand hand1, Hand hand2) {
+        std::vector<HandPtr> hvec;
+        hvec.push_back(make_shared<Hand>(hand1));
+        hvec.push_back(make_shared<Hand>(hand2));
+        eval::Evaluator evaluator;
+        std::map<int, HandType> x = evaluator.evaluate(hvec);
+        ASSERT_EQ(2, x.size());
+    }
+
+
 //    void SetUp() override {}
     Card twoOfClubs = Card(2, "C");
     Card threeOfClubs = Card(3, "C");
@@ -326,6 +358,7 @@ TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
     unique_ptr<Hand> hand = straight_flush1.evaluate();
     ASSERT_EQ(hand->getHandType(), StraightFlush_);
 }
+
 TEST_F(EvaluatorTests, TestThatYouCanCopyAHand) {
     Hand hand = pair1;
     ASSERT_EQ(hand.type, Hand_);
@@ -561,4 +594,91 @@ TEST_F(EvaluatorTests, ComparingHandsTests7) {
     bool ans = pair1 > pair2;
     ASSERT_TRUE(ans);
 }
+
+
+TEST_F(EvaluatorTests, TestGetMaxOfMap) {
+    std::map<int, HandType> map;
+    map[0] = Pair_;
+    map[1] = TwoPair_;
+    map[2] = ThreeOfAKind_;
+    auto out = Evaluator::getMaxValueOfAMap(map);
+    ASSERT_EQ(ThreeOfAKind_, out.first);
+    ASSERT_EQ(2, out.second[0]);
+}
+
+TEST_F(EvaluatorTests, TestGetMaxOfMap2) {
+    std::map<int, int> map;
+    map[0] = 1;
+    map[1] = 3;
+    map[2] = 2;
+    auto out = Evaluator::getMaxValueOfAMap(map);
+    ASSERT_EQ(3, out.first);
+    ASSERT_EQ(1, out.second[0]);
+}
+
+TEST_F(EvaluatorTests, TestGetKeys) {
+    std::map<int, int> x;
+    x[0] = 1;
+    x[1] = 2;
+    std::vector<int> keys = Evaluator::getKeysOfMap(x);
+    std::vector<int> expected = {0, 1};
+    ASSERT_EQ(expected, keys);
+}
+
+TEST_F(EvaluatorTests, TestGetValues) {
+    std::map<int, int> x;
+    x[0] = 1;
+    x[1] = 2;
+    std::vector<int> values = Evaluator::getValuesOfMap(x);
+    std::vector<int> expected = {1, 2};
+    ASSERT_EQ(expected, values);
+}
+
+
+TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairPosition) {
+    checkWinnerPosition(pair1, two_pair1, 1);
+}
+
+TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairHandValue) {
+    checkWinnerHand(pair1, two_pair1, TwoPair_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindHand) {
+    checkWinnerHand(flush1, straight2to6, Flush_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightFlushVsThreeOfAKindPosition) {
+    checkWinnerPosition(flush1, straight2to6, 1);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
+    checkWinnerHand(three_of_a_kind1, straight_flush1, StraightFlush_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
+    checkWinnerPosition(three_of_a_kind1, straight_flush1, 1);
+}
+
+
+TEST_F(EvaluatorTests, TestSplitPot) {
+    checkSplitPot(pair1, pair1);
+}
+
+//TEST_F(EvaluatorTests, Evaluate2PairHand) {
+//    // note: this doesn't really test must.
+//    checkWinnerPosition(pair1, pair2, Hand_);
+//}
+
+
+/*
+ * What if the overloading functions operator> and operator<
+ * were to return different values, depending on whether
+ * the hand being compared again also has the same hand type.
+ */
+TEST_F(EvaluatorTests, TestSetValuePair) {
+    Pair pair(&pair1);
+    ASSERT_EQ(2, pair.getValue());
+}
+
+
 

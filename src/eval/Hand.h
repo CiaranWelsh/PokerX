@@ -20,6 +20,8 @@
 using namespace cards;
 
 namespace eval {
+
+
     enum HandType {
         Hand_, HighCard_, Pair_, TwoPair_, ThreeOfAKind_, Straight_, Flush_,
         FullHouse_, FourOfAKind_, StraightFlush_, RoyalFlush_
@@ -40,10 +42,10 @@ namespace eval {
         HoleCards _holeCards;
         CommunityCards _communityCards;
         CardCollection _cards = _holeCards + _communityCards;
-        std::string type_fake = "BaseHandClass";
-
         static std::map<std::string, int> handHeirachy();
 
+
+        int value = 0;
     private:
 
         friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
@@ -51,6 +53,10 @@ namespace eval {
         std::string name;
 
     public:
+
+        virtual void setValue();
+
+        int getValue();
 
         HandType type = HandType::Hand_;
 
@@ -139,16 +145,10 @@ namespace eval {
 
         std::unique_ptr<Hand> evaluate();
 
-        /*
-         * This is for determining which is the best hand.
-         * Not yet implemented as not needed until gameplay
-         * is ready.
-         */
-        static Hand evaluate(const vector<Hand> &hands);
-
         int sumBest5Ranks();
 
     };
+    typedef std::shared_ptr<Hand> HandPtr;
 
     class HighCard : public Hand {
     public:
@@ -162,6 +162,7 @@ namespace eval {
 
         bool isa() override;
 
+        void setValue() override;
     };
 
 
@@ -177,6 +178,7 @@ namespace eval {
 
         bool isa() override;
 
+        void setValue();
     };
 
 
