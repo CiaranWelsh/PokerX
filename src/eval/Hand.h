@@ -28,7 +28,7 @@ namespace eval {
 
     class IHand {
     public:
-        virtual CardCollection best5(CardCollection cards) = 0;
+        virtual CardCollection best5() = 0;
 
         virtual bool isa() = 0;
 
@@ -78,8 +78,6 @@ namespace eval {
         CommunityCards getCards();
 
         void shuffle();
-
-        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
@@ -132,7 +130,7 @@ namespace eval {
             return best5;
         }
 
-        virtual CardCollection best5();
+        virtual CardCollection best5() override ;
 
         std::shared_ptr<Hand> evaluate();
 
@@ -168,7 +166,7 @@ namespace eval {
 
         void setValue() override;
 
-        CardCollection best5(CardCollection cards);
+        CardCollection best5() override ;
     };
 
 
@@ -227,8 +225,6 @@ namespace eval {
 
         ThreeOfAKind(Hand &hand);
 
-//        ThreeOfAKind &operator=(Hand hand); //copy assignment
-
         ThreeOfAKind(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5() override;
@@ -250,11 +246,9 @@ namespace eval {
 
         Straight(Hand &hand);
 
-//        Straight &operator=(Hand hand); //copy assignment
-
         Straight(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
@@ -276,7 +270,7 @@ namespace eval {
 
         Flush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
@@ -294,11 +288,9 @@ namespace eval {
 
         FullHouse(Hand &hand);
 
-//        FullHouse &operator=(Hand hand); //copy assignment
-
         FullHouse(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
@@ -364,7 +356,7 @@ namespace eval {
 
         RoyalFlush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 

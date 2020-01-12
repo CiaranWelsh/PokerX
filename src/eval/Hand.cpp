@@ -67,12 +67,8 @@ namespace eval {
         cards_.shuffle();
     }
 
-    CardCollection Hand::best5(CardCollection cards) {
-        return cards(2, cards.size());
-    }
-
     CardCollection Hand::best5() {
-        return best5(cards_);
+        return cards_(2, cards_.size());
     }
 
     bool Hand::isa() {
@@ -205,7 +201,7 @@ namespace eval {
         HandType mine = evaluate()->type;
         HandType theirs = hand.evaluate()->type;
         if (mine == theirs) {
-            return sumBest5Ranks() < hand.sumBest5Ranks();
+            return value < hand.value;
         }
         return mine < theirs;
     }
@@ -214,7 +210,7 @@ namespace eval {
         HandType mine = evaluate()->getHandType();
         HandType theirs = hand.evaluate()->getHandType();
         if (mine == theirs) {
-            return sumBest5Ranks() > hand.sumBest5Ranks();
+            return value > hand.value;
         }
         return mine > theirs;
     }
@@ -224,7 +220,7 @@ namespace eval {
         Straight straight(cards_);
         StraightFlush straightFlush(cards_);
         std::vector<int> low_ranks = {2, 3, 4, 5, 14};
-        CardCollection straight_best5 = straight.best5(cards_);
+        CardCollection straight_best5 = straight.best5();
         std::vector<int> ranks_to_sum = cards_.getRanks();
 
         if (straight.isa() || straightFlush.isa()) {
@@ -328,8 +324,8 @@ namespace eval {
     }
 
 
-    CardCollection HighCard::best5(CardCollection cards) {
-        return cards_(2, cards.size());
+    CardCollection HighCard::best5() {
+        return cards_(2, cards_.size());
     }
 
     bool HighCard::isa() {
@@ -365,11 +361,6 @@ namespace eval {
         setValue();
         type = HandType::Pair_;
     }
-
-//    Pair &Pair::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
 
     Pair::Pair(Hand &&hand) noexcept : Hand(hand) {
         setValue();
@@ -416,10 +407,6 @@ namespace eval {
         type = HandType::TwoPair_;
     }
 
-//    TwoPair &TwoPair::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
 
     TwoPair::TwoPair(Hand &&hand) noexcept : Hand(hand) {
         setValue();
@@ -462,10 +449,6 @@ namespace eval {
         type = HandType::ThreeOfAKind_;
     }
 
-//    ThreeOfAKind &ThreeOfAKind::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
 
     ThreeOfAKind::ThreeOfAKind(Hand &&hand) noexcept : Hand(hand) {
         setValue();
@@ -509,17 +492,13 @@ namespace eval {
         type = HandType::Straight_;
     }
 
-//    Straight &Straight::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
 
     Straight::Straight(Hand &&hand) noexcept : Hand(hand) {
         setValue();
         type = HandType::Straight_;
     }
 
-    CardCollection Straight::best5(CardCollection cards) {
+    CardCollection Straight::best5() {
         if (!isa()) {
             return CardCollection();
         }
@@ -529,10 +508,10 @@ namespace eval {
 
         // Deal with low aces straights
         CardCollection best5_ace_low;
-        if (cards[0].rank == 2 && cards[1].rank == 3 && cards[2].rank == 4 &&
-            cards[3].rank == 5 && cards[6].rank == 14) {
+        if (cards_[0].rank == 2 && cards_[1].rank == 3 && cards_[2].rank == 4 &&
+            cards_[3].rank == 5 && cards_[6].rank == 14) {
             for (int i : {0, 1, 2, 3, 6}) {
-                best5_ace_low.add(cards[i]);
+                best5_ace_low.add(cards_[i]);
             }
         }
 
@@ -544,7 +523,7 @@ namespace eval {
             for (size_t i = 0; i < ranks.size(); i++) {
                 int rank = ranks[i];
                 if (current_rank == rank) {
-                    best5_temp.add(cards[i]);
+                    best5_temp.add(cards_[i]);
                     current_rank++;
                 }
                 if (best5_temp.size() == 5) {
@@ -594,6 +573,8 @@ namespace eval {
     }
 
     void Straight::setValue() {
+        // when we have a low straight, replace ace with value 1
+        if (best5().getRanks()[0])
         value = getLargestRank();
     }
 
@@ -630,10 +611,10 @@ namespace eval {
         type = HandType::Flush_;
     }
 
-    CardCollection Flush::best5(CardCollection cards) {
+    CardCollection Flush::best5() {
         if (!isa())
             return CardCollection();
-        Counter<std::string> count(cards.getSuits());
+        Counter<std::string> count(cards_.getSuits());
         CardCollection best5;
         std::string which_suit;
         for (const std::pair<const std::string, int> &i : count.count()) {
@@ -641,7 +622,7 @@ namespace eval {
                 which_suit = i.first;
             }
         }
-        for (const Card &card : cards) {
+        for (const Card &card : cards_) {
             if (card.suit == which_suit)
                 best5.add(card);
         }
@@ -698,8 +679,8 @@ namespace eval {
         type = HandType::FullHouse_;
     }
 
-    CardCollection FullHouse::best5(CardCollection cards) {
-        Counter<int> count(cards.getRanks());
+    CardCollection FullHouse::best5() {
+        Counter<int> count(cards_.getRanks());
         int theThree = 0, theTwo = 0;
         for (std::pair<const int, int> i: count.count()) {
             if (i.second == 2)
@@ -708,7 +689,7 @@ namespace eval {
                 theThree = i.first;
         }
         CardCollection best5;
-        for (const Card &i : cards) {
+        for (const Card &i : cards_) {
             if (i.rank == theThree)
                 best5.add(i);
             else if (i.rank == theTwo)
@@ -863,10 +844,10 @@ namespace eval {
         type = HandType::RoyalFlush_;
     }
 
-    CardCollection RoyalFlush::best5(CardCollection cards) {
+    CardCollection RoyalFlush::best5() {
         if (!isa())
             return CardCollection();
-        StraightFlush straight_flush(cards);
+        StraightFlush straight_flush(cards_);
         return straight_flush.best5();
     }
 

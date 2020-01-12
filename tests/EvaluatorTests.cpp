@@ -231,6 +231,15 @@ protected:
             aceOfDiamonds,
             kingOfClubs
     );
+    Hand full_house2 = createHand(
+            eightOfClubs,
+            eightOfDiamonds,
+            eightOfHearts,
+            queenOfClubs,
+            queenOfDiamonds,
+            aceOfDiamonds,
+            kingOfClubs
+    );
     Hand four_of_a_kind = createHand(
             twoOfClubs,
             twoOfDiamonds,
@@ -521,6 +530,63 @@ TEST_F(EvaluatorTests, TestSumRanks) {
 
 TEST_F(EvaluatorTests, TestSumRanks2) {
     ASSERT_EQ(15, straight_low_ace.sumBest5Ranks());
+}
+
+
+TEST_F(EvaluatorTests, TestGreaterThan1) {
+    ThreeOfAKind toak(&three_of_a_kind1);
+    FourOfAKind fourOfAKind(&four_of_a_kind);
+    bool actual = fourOfAKind > toak;
+    ASSERT_TRUE(actual);
+}
+
+TEST_F(EvaluatorTests, TestGreaterThan2) {
+    ThreeOfAKind toak(&three_of_a_kind1);
+    Pair pair(&pair1);
+    bool actual = pair > toak;
+    ASSERT_FALSE(actual);
+}
+
+TEST_F(EvaluatorTests, TestGreaterThanSameTypePair1) {
+    Pair paira(&pair1);
+    Pair pairb(&pair2);
+    bool actual = paira > pairb;
+    ASSERT_FALSE(actual);
+}
+
+TEST_F(EvaluatorTests, TestGreaterThanSameTypePair2) {
+    Pair paira(&pair1);
+    Pair pairb(&pair2);
+    cout << paira << endl;
+    cout << pairb << endl;
+    bool actual = paira < pairb;
+    ASSERT_TRUE(actual);
+}
+
+TEST_F(EvaluatorTests, TestGreaterThanSameTypeFullHouse1) {
+    FullHouse handa(&full_house1);
+    FullHouse handb(&full_house2);
+    bool actual = handa < handb;
+    ASSERT_TRUE(actual);
+}
+
+TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight1) {
+    Straight handa(&straight2to6);
+    Straight handb(&straight4);
+    cout << handa << endl;
+    cout << handb << endl;
+    bool actual = handa < handb;
+    ASSERT_TRUE(actual);
+}
+
+
+TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight2) {
+    Straight handa(&straight2to6);
+    Straight handb(&straight_low_ace);
+    cout << handa << endl;
+    cout << handb << endl;
+    bool actual = handa > handb;
+    ASSERT_TRUE(actual);
 }
 
 
@@ -837,31 +903,6 @@ TEST_F(EvaluatorTests, TestGetValues) {
 }
 
 
-TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairPosition) {
-    checkWinnerPosition(pair1, two_pair1, 1);
-}
-
-TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairHandValue) {
-    checkWinnerHand(pair1, two_pair1, TwoPair_);
-}
-
-TEST_F(EvaluatorTests, Evaluate2StraightVsFlushHand) {
-    checkWinnerHand(flush1, straight2to6, Flush_);
-}
-
-TEST_F(EvaluatorTests, Evaluate2StraightFlushVsStraight) {
-    checkWinnerPosition(flush1, straight2to6, 0);
-}
-
-TEST_F(EvaluatorTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
-    checkWinnerHand(three_of_a_kind1, straight_flush1, StraightFlush_);
-}
-
-TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
-    checkWinnerPosition(three_of_a_kind1, straight_flush1, 1);
-}
-
-
 TEST_F(EvaluatorTests, TestSplitPot) {
     checkSplitPot(pair1, pair1);
 }
@@ -918,10 +959,37 @@ TEST_F(EvaluatorTests, TestHandGetLArgestRank) {
 }
 
 
+TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairPosition) {
+    checkWinnerPosition(pair1, two_pair1, 1);
+}
+
+TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairHandValue) {
+    checkWinnerHand(pair1, two_pair1, TwoPair_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightVsFlushHand) {
+    checkWinnerHand(flush1, straight2to6, Flush_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightFlushVsStraight) {
+    checkWinnerPosition(flush1, straight2to6, 0);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
+    checkWinnerHand(three_of_a_kind1, straight_flush1, StraightFlush_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
+    checkWinnerPosition(three_of_a_kind1, straight_flush1, 1);
+}
 
 
 
-
+TEST_F(EvaluatorTests, EvaluateTheHigherOfTwoPairsPosition) {
+    cout << pair1 << endl;
+    cout << pair2 << endl;
+    checkWinnerPosition(pair1, pair2, 1);
+}
 
 
 
