@@ -71,9 +71,9 @@ namespace eval {
 
         bool operator!=(Hand &hand);
 
-//        bool operator>(Hand &hand);
-//
-//        bool operator<(Hand &hand);
+        bool operator>(Hand &hand);
+
+        bool operator<(Hand &hand);
 
         CommunityCards getCards();
 
@@ -136,7 +136,7 @@ namespace eval {
 
         std::shared_ptr<Hand> evaluate();
 
-//        int sumBest5Ranks();
+        int sumBest5Ranks();
 
         int getValueOfXOfAKind(int x);
 
@@ -183,9 +183,7 @@ namespace eval {
 
         Pair(Hand &hand);
 
-//        Pair &operator=(Hand hand); //copy assignment
-
-        Pair(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+        Pair(Hand&& hand) noexcept ;    // move constructor
 
         void setValue() override;
 

@@ -48,19 +48,12 @@ namespace eval {
 
     Hand::Hand(Hand *hand) {
 
-        cout << "Here 1" << endl;
         this->holeCards = hand->holeCards;
-        cout << "Here 2" << endl;
         this->communityCards = hand->communityCards;
-        cout << "Here 3" << endl;
         this->cards_ = hand->cards_;
-        cout << "Here 4" << endl;
         cards_.sort();
-        cout << "Here 5" << endl;
         name = (string) typeid(this).name();
-        cout << "Here 6" << endl;
         this->value = hand->value;
-        cout << "Here 7" << endl;
     }
 
 
@@ -95,72 +88,75 @@ namespace eval {
     bool Hand::xOfAKindIsA(int x, int how_many) {
         Counter<int> counter(getCards().getRanks());
         // counter for number of cards with x copies, i.e. 2 for pair, 3 for three of a kind.
-        int num_x = 0;
+        std::vector<int> num_x;
         for (pair<const int, int> i : counter.count()) {
             if (i.second == x)
-                num_x += 1;
+                num_x.push_back(i.first);
         }
-        return num_x == how_many;
+        // caters for situation where you have three pairs
+        if (x == 2 && how_many == 2 && num_x.size() == 3)
+            return true;
+        return num_x.size() == how_many;
     }
 
     std::shared_ptr<Hand> Hand::evaluate() {
 
-//        cout << "checking for RoyalFlush" << endl;
-//        std::shared_ptr<RoyalFlush> royalFlush = std::make_shared<RoyalFlush>(cards_);
-//        if (royalFlush->isa()) {
-//            return royalFlush;
-//        }
-//        cout << "checking for StraightFlush" << endl;
-//        std::shared_ptr<StraightFlush> straightFlush = std::make_shared<StraightFlush>(cards_);
-//        if (straightFlush->isa()) {
-//            return straightFlush;
-//        }
-//        cout << "checking for FourOfAKind" << endl;
-//
-//        std::shared_ptr<FourOfAKind> fourOfAKind = std::make_shared<FourOfAKind>(cards_);
-//        if (fourOfAKind->isa()) {
-//            return fourOfAKind;
-//        }
-//        cout << "checking for FullHouse" << endl;
-//        std::shared_ptr<FullHouse> fullHouse = std::make_shared<FullHouse>(cards_);
-//        if (fullHouse->isa()) {
-//            return fullHouse;
-//        }
-//        cout << "checking for Flush" << endl;
-//
-//        std::shared_ptr<Flush> flush = std::make_shared<Flush>(cards_);
-//        if (flush->isa()) {
-//            return flush;
-//        }
-//        cout << "checking for Straight" << endl;
-//
-//
-//        std::shared_ptr<Straight> straight = std::make_shared<Straight>(cards_);
-//        if (straight->isa()) {
-//            return straight;
-//        }
-//        cout << "checking for ThreeOfAKind" << endl;
-//
-//        std::shared_ptr<ThreeOfAKind> threeOfAKind = std::make_shared<ThreeOfAKind>(cards_);
-//        if (threeOfAKind->isa()) {
-//            return threeOfAKind;
-//        }
-//        cout << "checking for TwoPair" << endl;
-//
-//        std::shared_ptr<TwoPair> twoPair = std::make_shared<TwoPair>(cards_);
-//        if (twoPair->isa()) {
-//            return twoPair;
-//        }
+        cout << "checking for RoyalFlush" << endl;
+        std::shared_ptr<RoyalFlush> royalFlush = std::make_shared<RoyalFlush>(cards_);
+        if (royalFlush->isa()) {
+            return royalFlush;
+        }
+        cout << "checking for StraightFlush" << endl;
+        std::shared_ptr<StraightFlush> straightFlush = std::make_shared<StraightFlush>(cards_);
+        if (straightFlush->isa()) {
+            return straightFlush;
+        }
+        cout << "checking for FourOfAKind" << endl;
+
+        std::shared_ptr<FourOfAKind> fourOfAKind = std::make_shared<FourOfAKind>(cards_);
+        if (fourOfAKind->isa()) {
+            return fourOfAKind;
+        }
+        cout << "checking for FullHouse" << endl;
+        std::shared_ptr<FullHouse> fullHouse = std::make_shared<FullHouse>(cards_);
+        if (fullHouse->isa()) {
+            return fullHouse;
+        }
+        cout << "checking for Flush" << endl;
+
+        std::shared_ptr<Flush> flush = std::make_shared<Flush>(cards_);
+        if (flush->isa()) {
+            return flush;
+        }
+        cout << "checking for Straight" << endl;
+
+
+        std::shared_ptr<Straight> straight = std::make_shared<Straight>(cards_);
+        if (straight->isa()) {
+            return straight;
+        }
+        cout << "checking for ThreeOfAKind" << endl;
+
+        std::shared_ptr<ThreeOfAKind> threeOfAKind = std::make_shared<ThreeOfAKind>(cards_);
+        if (threeOfAKind->isa()) {
+            return threeOfAKind;
+        }
+        cout << "checking for TwoPair" << endl;
+
+        std::shared_ptr<TwoPair> twoPair = std::make_shared<TwoPair>(cards_);
+        if (twoPair->isa()) {
+            return twoPair;
+        }
         cout << "checking for Pair" << endl;
         std::shared_ptr<Pair> pair = std::make_shared<Pair>(cards_);
         if (pair->isa()) {
             return pair;
         }
-//        cout << "checking for HighCard" << endl;
-//
-//        std::shared_ptr<HighCard> highCard = std::make_shared<HighCard>(cards_);
-//        cout << "returning a hgh card" << endl;
-//        return highCard;
+        cout << "checking for HighCard" << endl;
+
+        std::shared_ptr<HighCard> highCard = std::make_shared<HighCard>(cards_);
+        cout << "returning a hgh card" << endl;
+        return highCard;
     }
 
     CommunityCards Hand::getCards() {
@@ -179,7 +175,6 @@ namespace eval {
     }
 
     Hand &Hand::operator=(Hand &&hand) noexcept {
-        cout << "Move assignment called " << endl;
         if ((*this) == hand)
             return *this;
         cards_ = hand.cards_;
@@ -206,51 +201,43 @@ namespace eval {
         return !(*this == hand);
     }
 
-//    bool Hand::operator<(Hand &hand) {
-//        HandType mine = evaluate()->type;
-//        HandType theirs = hand.evaluate()->type;
-//        if (mine == theirs) {
-//            return sumBest5Ranks() < hand.sumBest5Ranks();
-//        }
-//        return mine < theirs;
-//    }
-//
-//    bool Hand::operator>(Hand &hand) {
-//        HandType mine = evaluate()->getHandType();
-//        HandType theirs = hand.evaluate()->getHandType();
-//        if (mine == theirs) {
-//            return sumBest5Ranks() > hand.sumBest5Ranks();
-//        }
-//        return mine > theirs;
-//    }
+    bool Hand::operator<(Hand &hand) {
+        HandType mine = evaluate()->type;
+        HandType theirs = hand.evaluate()->type;
+        if (mine == theirs) {
+            return sumBest5Ranks() < hand.sumBest5Ranks();
+        }
+        return mine < theirs;
+    }
+
+    bool Hand::operator>(Hand &hand) {
+        HandType mine = evaluate()->getHandType();
+        HandType theirs = hand.evaluate()->getHandType();
+        if (mine == theirs) {
+            return sumBest5Ranks() > hand.sumBest5Ranks();
+        }
+        return mine > theirs;
+    }
 
 
-//    int Hand::sumBest5Ranks() {
-//        cout << "Here1" << endl;
-//        Straight straight(cards_);
-//        cout << "Here2" << endl;
-//        StraightFlush straightFlush(cards_);
-//        cout << "Here3" << endl;
-//        std::vector<int> low_ranks = {2, 3, 4, 5, 14};
-//        cout << "Here4" << endl;
-//        CardCollection straight_best5 = straight.best5(cards_);
-//        cout << "Here5" << endl;
-//        std::vector<int> ranks_to_sum = cards_.getRanks();
-//        cout << "Here6" << endl;
-//
-//        if (straight.isa() || straightFlush.isa()) {
-//            if (straight_best5.getRanks() == low_ranks) {
-//                ranks_to_sum = {1, 2, 3, 4, 5};
-//            }
-//        }
-//        cout << "Here7" << endl;
-//        int sum = 0;
-//        for (int rank : ranks_to_sum) {
-//            sum += rank;
-//        }
-//        cout << "Here8" << endl;
-//        return sum;
-//    }
+    int Hand::sumBest5Ranks() {
+        Straight straight(cards_);
+        StraightFlush straightFlush(cards_);
+        std::vector<int> low_ranks = {2, 3, 4, 5, 14};
+        CardCollection straight_best5 = straight.best5(cards_);
+        std::vector<int> ranks_to_sum = cards_.getRanks();
+
+        if (straight.isa() || straightFlush.isa()) {
+            if (straight_best5.getRanks() == low_ranks) {
+                ranks_to_sum = {1, 2, 3, 4, 5};
+            }
+        }
+        int sum = 0;
+        for (int rank : ranks_to_sum) {
+            sum += rank;
+        }
+        return sum;
+    }
 
     HandType Hand::getHandType() const {
         return type;
@@ -565,11 +552,7 @@ namespace eval {
                 }
             }
         }
-//        cout << "All cards: " << _cards << endl;
-//        cout << "best5 ace low: " << best5_ace_low << endl;
-//        cout << "best5: " << best5 << endl;
         if (best5.size() == 5 && best5_ace_low.size() != 5) {
-//            cout << "here1: " <<  best5 << "here" << best5_ace_low << endl;
             return best5;
         } else if (best5.size() != 5 && best5_ace_low.size() == 5)
             return best5_ace_low;
@@ -842,7 +825,6 @@ namespace eval {
     bool StraightFlush::isa() {
         bool straight = Straight(cards_).isa();
         bool flush = Flush(cards_).isa();
-//        cout << "Straight: "<< straight << " flush: " << flush << endl;
         return straight && flush;
     }
 
@@ -885,12 +867,12 @@ namespace eval {
         if (!isa())
             return CardCollection();
         StraightFlush straight_flush(cards);
-        return straight_flush.Hand::best5();
+        return straight_flush.best5();
     }
 
     bool RoyalFlush::isa() {
         StraightFlush sflush(cards_);
-        CardCollection sflushcards = sflush.Hand::best5();
+        CardCollection sflushcards = sflush.best5();
         return sflush.isa() && sflushcards[0].rank == 10
                && sflushcards[1].rank == 11
                && sflushcards[2].rank == 12

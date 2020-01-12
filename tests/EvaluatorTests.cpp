@@ -12,7 +12,7 @@ using namespace eval;
 
 class EvaluatorTests : public ::testing::Test {
 protected:
-    EvaluatorTests()= default;
+    EvaluatorTests() = default;
 
     static eval::Hand createHand(Card hc1, Card hc2, Card flop1, Card flop2, Card flop3, Card turn, Card river) {
         HoleCards hc(hc1, hc2);
@@ -37,7 +37,7 @@ protected:
     static void checkIsA(Hand &hand) {
         cout << "Checking isa(): " << hand << endl;
         const std::shared_ptr<Hand> &x = hand.evaluate();
-        ExpectedHand expected(std::make_shared<ExpectedHand>(hand));
+        ExpectedHand expected(&hand);
         bool actual = expected.isa();
         ASSERT_TRUE(actual);
 
@@ -332,7 +332,7 @@ protected:
     );
 };
 
-TEST_F(EvaluatorTests, TestInstantiation1){
+TEST_F(EvaluatorTests, TestInstantiation1) {
     CommunityCards communityCards;
     communityCards.add(jackOfSpades);
     communityCards.add(aceOfClubs);
@@ -345,7 +345,8 @@ TEST_F(EvaluatorTests, TestInstantiation1){
     Hand hand(holeCards, communityCards);
     ASSERT_TRUE(hand.type == Hand_);
 }
-TEST_F(EvaluatorTests, TestInstantiation2){
+
+TEST_F(EvaluatorTests, TestInstantiation2) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -357,7 +358,8 @@ TEST_F(EvaluatorTests, TestInstantiation2){
     Hand hand(cards);
     ASSERT_TRUE(hand.type == Hand_);
 }
-TEST_F(EvaluatorTests, TestInstantiation3){
+
+TEST_F(EvaluatorTests, TestInstantiation3) {
     CommunityCards communityCards;
     communityCards.add(jackOfSpades);
     communityCards.add(jackOfClubs);
@@ -370,7 +372,8 @@ TEST_F(EvaluatorTests, TestInstantiation3){
     Pair hand(holeCards, communityCards);
     ASSERT_TRUE(hand.type == Pair_);
 }
-TEST_F(EvaluatorTests, TestInstantiation4){
+
+TEST_F(EvaluatorTests, TestInstantiation4) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -382,14 +385,15 @@ TEST_F(EvaluatorTests, TestInstantiation4){
     Pair hand(cards);
     ASSERT_TRUE(hand.type == Pair_);
 }
-TEST_F(EvaluatorTests, TestCopyConstructor1){
+
+TEST_F(EvaluatorTests, TestCopyConstructor1) {
     Hand hand(highCard1);
     Hand hand2 = hand;
     cout << hand2.type << endl;
     ASSERT_TRUE(hand2.type == Hand_);
 }
 
-TEST_F(EvaluatorTests, TestCopyConstructor2){
+TEST_F(EvaluatorTests, TestCopyConstructor2) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -404,7 +408,7 @@ TEST_F(EvaluatorTests, TestCopyConstructor2){
     ASSERT_TRUE(hand2.type == Pair_);
 }
 
-TEST_F(EvaluatorTests, TestCopyConstructorHandRef1){
+TEST_F(EvaluatorTests, TestCopyConstructorHandRef1) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -418,7 +422,8 @@ TEST_F(EvaluatorTests, TestCopyConstructorHandRef1){
     cout << hand2.type << endl;
     ASSERT_TRUE(hand2.type == Hand_);
 }
-TEST_F(EvaluatorTests, TestCopyInstantiatePairFromAnotherPair){
+
+TEST_F(EvaluatorTests, TestCopyInstantiatePairFromAnotherPair) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -432,7 +437,8 @@ TEST_F(EvaluatorTests, TestCopyInstantiatePairFromAnotherPair){
     cout << hand2.type << endl;
     ASSERT_TRUE(hand2.type == Pair_);
 }
-TEST_F(EvaluatorTests, TestInstantiateFromHandPointerPair){
+
+TEST_F(EvaluatorTests, TestInstantiateFromHandPointerPair) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -448,7 +454,7 @@ TEST_F(EvaluatorTests, TestInstantiateFromHandPointerPair){
 }
 
 
-TEST_F(EvaluatorTests, TestMoveConstructorHand){
+TEST_F(EvaluatorTests, TestMoveConstructorHand) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -463,7 +469,7 @@ TEST_F(EvaluatorTests, TestMoveConstructorHand){
     ASSERT_TRUE(hand2.type == Hand_);
 }
 
-TEST_F(EvaluatorTests, TestMoveConstructorPair){
+TEST_F(EvaluatorTests, TestMoveConstructorPair) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -478,7 +484,7 @@ TEST_F(EvaluatorTests, TestMoveConstructorPair){
     ASSERT_TRUE(hand2.type == Pair_);
 }
 
-TEST_F(EvaluatorTests, TestMoveAssignmentHand){
+TEST_F(EvaluatorTests, TestMoveAssignmentHand) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -493,7 +499,7 @@ TEST_F(EvaluatorTests, TestMoveAssignmentHand){
     ASSERT_TRUE(hand2.type == Hand_);
 }
 
-TEST_F(EvaluatorTests, TestMoveAssignmentPair){
+TEST_F(EvaluatorTests, TestMoveAssignmentPair) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -509,404 +515,412 @@ TEST_F(EvaluatorTests, TestMoveAssignmentPair){
 }
 
 
-//TEST_F(EvaluatorTests, TestSumRanks) {
-//    ASSERT_EQ(49, pair1.sumBest5Ranks());
-//}
-
-//TEST_F(EvaluatorTests, TestSumRanks2) {
-//    ASSERT_EQ(15, straight_low_ace.sumBest5Ranks());
-//}
-//
-TEST_F(EvaluatorTests, TestYouCanInstantiateAPair) {
-    cout << pair1 << endl;
-//    Pair pair(pair1);
-//    Pair pair(std::make_shared<Pair>(pair1));
-//    ASSERT_EQ(pair.getHandType(), Pair_);
+TEST_F(EvaluatorTests, TestSumRanks) {
+    ASSERT_EQ(49, pair1.sumBest5Ranks());
 }
-//
-//TEST_F(EvaluatorTests, TestThatYouCanCopyAPair) {
-//    Pair pair(std::make_shared<Pair>(pair2));
-//    Pair another_pair = pair;
-//    ASSERT_EQ(another_pair.getHandType(), Pair_);
-//}
-//
-//TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlush) {
-//    StraightFlush straightFlush(std::make_shared<StraightFlush>(straight_flush1));
-//    ASSERT_EQ(straightFlush.getHandType(), StraightFlush_);
-//}
-//
-//TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
-//    std::shared_ptr<Hand> hand = straight_flush1.evaluate();
-//    ASSERT_EQ(hand->getHandType(), StraightFlush_);
-//}
-//
-//TEST_F(EvaluatorTests, TestThatYouCanCopyAHand) {
-//    Hand hand = pair1;
-//    ASSERT_EQ(hand.type, Hand_);
-//}
-//
-//TEST_F(EvaluatorTests, TestEquality) {
-//    Hand royal_flush_again = createHand(
-//            tenOfClubs,
-//            jackOfClubs,
-//            queenOfClubs,
-//            kingOfClubs,
-//            aceOfClubs,
-//            tenOfDiamonds,
-//            jackOfSpades
-//    )(<#initializer#>);
-//    ASSERT_TRUE(royal_flush1 == royal_flush_again);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestXOfAKind) {
-//    ASSERT_TRUE(pair1.xOfAKindIsA(2));
-//}
-//
-//TEST_F(EvaluatorTests, TestXOfAKind3) {
-//    ASSERT_TRUE(three_of_a_kind1.xOfAKindIsA(3));
-//}
-//
-//TEST_F(EvaluatorTests, TestXOfAKind4) {
-//    ASSERT_TRUE(four_of_a_kind.xOfAKindIsA(4));
-//}
-//
-//
+
+TEST_F(EvaluatorTests, TestSumRanks2) {
+    ASSERT_EQ(15, straight_low_ace.sumBest5Ranks());
+}
+
+
+TEST_F(EvaluatorTests, TestThatYouCanCopyAPair) {
+    Pair pair(&pair2);
+    Pair another_pair = pair;
+    ASSERT_EQ(another_pair.getHandType(), Pair_);
+}
+
+TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlush) {
+    StraightFlush straightFlush(&straight_flush1);
+    ASSERT_EQ(straightFlush.getHandType(), StraightFlush_);
+}
+
+TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
+    std::shared_ptr<Hand> hand = straight_flush1.evaluate();
+    ASSERT_EQ(hand->getHandType(), StraightFlush_);
+}
+
+TEST_F(EvaluatorTests, TestThatYouCanCopyAHand) {
+    Hand hand = pair1;
+    ASSERT_EQ(hand.type, Hand_);
+}
+
+TEST_F(EvaluatorTests, TestEquality) {
+    Hand royal_flush_again = createHand(
+            tenOfClubs,
+            jackOfClubs,
+            queenOfClubs,
+            kingOfClubs,
+            aceOfClubs,
+            tenOfDiamonds,
+            jackOfSpades
+    );
+    ASSERT_TRUE(royal_flush1 == royal_flush_again);
+}
+
+
+TEST_F(EvaluatorTests, TestXOfAKind) {
+    ASSERT_TRUE(pair1.xOfAKindIsA(2));
+}
+
+TEST_F(EvaluatorTests, TestXOfAKind3) {
+    ASSERT_TRUE(three_of_a_kind1.xOfAKindIsA(3));
+}
+
+TEST_F(EvaluatorTests, TestXOfAKind4) {
+    ASSERT_TRUE(four_of_a_kind.xOfAKindIsA(4));
+}
+
+
 //TEST_F(EvaluatorTests, TestHighCard) {
 //    std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
 //    checkBest5(highCard1, expected);
 //}
-//
-//TEST_F(EvaluatorTests, TestPair) {
-//    std::string expected = "[Card(2C), Card(2D), Card(8C), Card(10D), Card(14C)]";
-//    checkBest5(pair1, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestTwoPairIsA2) {
-//    checkIsA<TwoPair>(two_pair1);
-//}
-//
+
+TEST_F(EvaluatorTests, TestPair) {
+    std::string expected = "[Card(2C), Card(2D), Card(8C), Card(10D), Card(14C)]";
+    checkBest5(pair1, expected);
+}
+
+TEST_F(EvaluatorTests, TestTwoPairIsA2) {
+    checkIsA<TwoPair>(two_pair1);
+}
+
+TEST_F(EvaluatorTests, TestTwoPairIsA3) {
+    cout << two_pair2 << endl;
+    checkIsA<TwoPair>(two_pair2);
+}
+
 //TEST_F(EvaluatorTests, TestTwoPair) {
 //    std::string expected = "[Card(2C), Card(2D), Card(6H), Card(6C), Card(14C)]";
 //    checkBest5(two_pair1, expected);
 //}
-//
-//TEST_F(EvaluatorTests, TestTwoPair2) {
-//    Hand hand = two_pair2;
-//    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
-//    checkBest5(two_pair2, expected);
-//}
-//
+
+TEST_F(EvaluatorTests, TestTwoPair2) {
+    Hand hand = two_pair2;
+    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
+    checkBest5(two_pair2, expected);
+}
+
+TEST_F(EvaluatorTests, TestTwoPair22) {
+
+    Hand hand = two_pair2;
+    cout << two_pair2 << endl;
+    const std::shared_ptr<Hand> &x = two_pair2.evaluate();
+    cout << x->type << endl;
+    cout << x->best5() << endl;
+//    ostringstream actual;
+//    CardCollection best5 = x->best5();
+//    cout << best5 << endl;
+//    best5.sort();
+//    actual << best5;
+//    ASSERT_EQ(expected, actual.str());
+}
+
+
 //TEST_F(EvaluatorTests, TestTwoPair3) {
 //    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
 //    checkBest5(two_pair3, expected);
 //}
-//
-//TEST_F(EvaluatorTests, TestTwoPair4) {
-//    Hand hand = two_pair4;
-//    std::string expected = "[Card(8C), Card(12C), Card(12D), Card(14D), Card(14C)]";
-//    checkBest5(two_pair4, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestTwoPair5) {
-//    std::string expected = "[Card(2C), Card(2D), Card(4D), Card(4C), Card(14D)]";
-//    checkBest5(two_pair5, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestTwoPair6) {
-//    std::string expected = "[Card(4D), Card(4C), Card(12D), Card(12C), Card(13C)]";
-//    checkBest5(two_pair6, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestThreeOfAKing1) {
-//    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(13C), Card(14D)]";
-//    checkBest5(three_of_a_kind1, expected);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestFullHouse1IsA) {
-//    checkIsA<FullHouse>(full_house1);
-//}
-//
-//TEST_F(EvaluatorTests, TestFullHouseBest5) {
-//    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(12C), Card(12D)]";
-//    checkBest5(full_house1, expected);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestFourOfAKindIsA) {
-//    checkIsA<FourOfAKind>(four_of_a_kind);
-//}
-//
-//TEST_F(EvaluatorTests, TestFourOfAKindBest5) {
-//    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(2S), Card(14D)]";
-//    checkBest5(four_of_a_kind, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestStraight1IsA) {
-//    checkIsA<Straight>(straight2to6);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestStraight1Best5) {
-//    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6D)]";
-//    checkBest5(straight2to6, expected);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestStraight2IsA) {
-//    Straight straight(std::make_shared<Straight>(straight_low_ace));
-//    ASSERT_TRUE(straight.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestStraight2Best5) {
-//    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(14C)]";
-//    checkBest5(straight_low_ace, expected);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestStraight3IsA) {
-//    Straight straight(std::make_shared<Straight>(straight2to6_2));
-//    ASSERT_TRUE(straight.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestStraight3Best5) {
-//    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6C)]";
-//    checkBest5(straight2to6_2, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestStraight4IsA) {
-//    Straight straight(std::make_shared<Straight>(straight4));
-//    ASSERT_TRUE(straight.isa());
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestStraight4best5) {
-//    std::string expected = "[Card(5C), Card(6H), Card(7C), Card(8D), Card(9C)]";
-//    checkBest5(straight4, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestStraight5IsA) {
-//    Straight straight(std::make_shared<Straight>(straight5));
-//    ASSERT_TRUE(straight.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestStraight5best5) {
-//    std::string expected = "[Card(7C), Card(8D), Card(9C), Card(10D), Card(11D)]";
-//    checkBest5(straight5, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestFlushIsA) {
-//    Flush flush(std::make_shared<Flush>(flush1));
-//    ASSERT_TRUE(flush.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestFlushBest5) {
-//    std::string expected = "[Card(2C), Card(5C), Card(7C), Card(9C), Card(13C)]";
-//    checkBest5(flush1, expected);
+
+TEST_F(EvaluatorTests, TestTwoPair4) {
+    Hand hand = two_pair4;
+    std::string expected = "[Card(8C), Card(12C), Card(12D), Card(14D), Card(14C)]";
+    checkBest5(two_pair4, expected);
+}
+
+TEST_F(EvaluatorTests, TestTwoPair5) {
+    std::string expected = "[Card(2C), Card(2D), Card(4D), Card(4C), Card(14D)]";
+    checkBest5(two_pair5, expected);
+}
+
+TEST_F(EvaluatorTests, TestTwoPair6) {
+    std::string expected = "[Card(4D), Card(4C), Card(12D), Card(12C), Card(13C)]";
+    checkBest5(two_pair6, expected);
+}
+
+TEST_F(EvaluatorTests, TestThreeOfAKing1) {
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(13C), Card(14D)]";
+    checkBest5(three_of_a_kind1, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestFullHouse1IsA) {
+    checkIsA<FullHouse>(full_house1);
+}
+
+TEST_F(EvaluatorTests, TestFullHouseBest5) {
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(12C), Card(12D)]";
+    checkBest5(full_house1, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestFourOfAKindIsA) {
+    checkIsA<FourOfAKind>(four_of_a_kind);
+}
+
+TEST_F(EvaluatorTests, TestFourOfAKindBest5) {
+    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(2S), Card(14D)]";
+    checkBest5(four_of_a_kind, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraight1IsA) {
+    checkIsA<Straight>(straight2to6);
+}
+
+
+TEST_F(EvaluatorTests, TestStraight1Best5) {
+    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6D)]";
+    checkBest5(straight2to6, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestStraight2IsA) {
+    Straight straight(&straight_low_ace);
+    ASSERT_TRUE(straight.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraight2Best5) {
+    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(14C)]";
+    checkBest5(straight_low_ace, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestStraight3IsA) {
+    Straight straight(&straight2to6_2);
+    ASSERT_TRUE(straight.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraight3Best5) {
+    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6C)]";
+    checkBest5(straight2to6_2, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraight4IsA) {
+    Straight straight(&straight4);
+    ASSERT_TRUE(straight.isa());
+}
+
+
+TEST_F(EvaluatorTests, TestStraight4best5) {
+    std::string expected = "[Card(5C), Card(6H), Card(7C), Card(8D), Card(9C)]";
+    checkBest5(straight4, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraight5IsA) {
+    Straight straight(&straight5);
+    ASSERT_TRUE(straight.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraight5best5) {
+    std::string expected = "[Card(7C), Card(8D), Card(9C), Card(10D), Card(11D)]";
+    checkBest5(straight5, expected);
+}
+
+TEST_F(EvaluatorTests, TestFlushIsA) {
+    Flush flush(&flush1);
+    ASSERT_TRUE(flush.isa());
+}
+
+TEST_F(EvaluatorTests, TestFlushBest5) {
+    std::string expected = "[Card(2C), Card(5C), Card(7C), Card(9C), Card(13C)]";
+    checkBest5(flush1, expected);
+}
+
+
+TEST_F(EvaluatorTests, TestStraightFlushIsA) {
+    StraightFlush straight_flush(&straight_flush1);
+    ASSERT_TRUE(straight_flush.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushBest5) {
+    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
+    checkBest5(straight_flush1, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushIsA2) {
+    StraightFlush straight_flush(&straight_flush2);
+    ASSERT_TRUE(straight_flush.isa());
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushBest52) {
+    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
+    checkBest5(straight_flush2, expected);
+}
+
+TEST_F(EvaluatorTests, TestStraightFlushBest53) {
+    std::string expected = "[Card(3C), Card(4C), Card(5C), Card(6C), Card(7C)]";
+    checkBest5(straight_flush3, expected);
+}
+
+TEST_F(EvaluatorTests, TestRoyalFlushIsA2) {
+    RoyalFlush royalFlush(&royal_flush1);
+    ASSERT_TRUE(royalFlush.isa());
+}
+
+TEST_F(EvaluatorTests, TestRoyalFlushBest52) {
+    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
+    checkBest5(royal_flush1, expected);
+}
+
+
+TEST_F(EvaluatorTests, ComparingHandsTests1) {
+    bool ans = pair1 > two_pair1;
+    ASSERT_FALSE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests2) {
+    bool ans = pair1 < two_pair1;
+    ASSERT_TRUE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests3) {
+    cout << straight2to6 << endl;
+    cout << two_pair1 << endl;
+    bool ans = straight2to6 > two_pair1;
+//    ASSERT_TRUE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests4) {
+    bool ans = straight2to6 < two_pair1;
+    ASSERT_FALSE(ans);
+}
+
+TEST_F(EvaluatorTests, ComparingHandsTests5) {
+    bool ans = straight2to6 > straight_low_ace;
+    ASSERT_TRUE(ans);
+}
+
+
+TEST_F(EvaluatorTests, ComparingHandsTests7) {
+    bool ans = pair1 > pair2;
+    ASSERT_TRUE(ans);
+}
+
+
+TEST_F(EvaluatorTests, TestGetMaxOfMap) {
+    std::map<int, HandType> map;
+    map[0] = Pair_;
+    map[1] = TwoPair_;
+    map[2] = ThreeOfAKind_;
+    auto out = Evaluator::getMaxValueOfAMap(map);
+    ASSERT_EQ(ThreeOfAKind_, out.first);
+    ASSERT_EQ(2, out.second[0]);
+}
+
+TEST_F(EvaluatorTests, TestGetMaxOfMap2) {
+    std::map<int, int> map;
+    map[0] = 1;
+    map[1] = 3;
+    map[2] = 2;
+    auto out = Evaluator::getMaxValueOfAMap(map);
+    ASSERT_EQ(3, out.first);
+    ASSERT_EQ(1, out.second[0]);
+}
+
+TEST_F(EvaluatorTests, TestGetKeys) {
+    std::map<int, int> x;
+    x[0] = 1;
+    x[1] = 2;
+    std::vector<int> keys = Evaluator::getKeysOfMap(x);
+    std::vector<int> expected = {0, 1};
+    ASSERT_EQ(expected, keys);
+}
+
+TEST_F(EvaluatorTests, TestGetValues) {
+    std::map<int, int> x;
+    x[0] = 1;
+    x[1] = 2;
+    std::vector<int> values = Evaluator::getValuesOfMap(x);
+    std::vector<int> expected = {1, 2};
+    ASSERT_EQ(expected, values);
+}
+
+
+TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairPosition) {
+    checkWinnerPosition(pair1, two_pair1, 1);
+}
+
+TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairHandValue) {
+    checkWinnerHand(pair1, two_pair1, TwoPair_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightVsFlushHand) {
+    checkWinnerHand(flush1, straight2to6, Flush_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightFlushVsStraight) {
+    checkWinnerPosition(flush1, straight2to6, 0);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
+    checkWinnerHand(three_of_a_kind1, straight_flush1, StraightFlush_);
+}
+
+TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
+    checkWinnerPosition(three_of_a_kind1, straight_flush1, 1);
+}
+
+
+TEST_F(EvaluatorTests, TestSplitPot) {
+    checkSplitPot(pair1, pair1);
+}
+
+//TEST_F(EvaluatorTests, Evaluate2PairHand) {
+//    // note: this doesn't really test must.
+//    checkWinnerPosition(pair1, pair2, Hand_);
 //}
 
-//
-//TEST_F(EvaluatorTests, TestStraightFlushIsA) {
-//    StraightFlush straight_flush(&straight_flush1);
-//    ASSERT_TRUE(straight_flush.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestStraightFlushBest5) {
-//    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
-//    checkBest5(straight_flush1, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestStraightFlushIsA2) {
-//    StraightFlush straight_flush(&straight_flush2);
-//    ASSERT_TRUE(straight_flush.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestStraightFlushBest52) {
-//    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
-//    checkBest5(straight_flush2, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestStraightFlushBest53) {
-//    std::string expected = "[Card(3C), Card(4C), Card(5C), Card(6C), Card(7C)]";
-//    checkBest5(straight_flush3, expected);
-//}
-//
-//TEST_F(EvaluatorTests, TestRoyalFlushIsA2) {
-//    RoyalFlush royalFlush(&royal_flush1);
-//    ASSERT_TRUE(royalFlush.isa());
-//}
-//
-//TEST_F(EvaluatorTests, TestRoyalFlushBest52) {
-//    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
-//    checkBest5(royal_flush1, expected);
-//}
-//
-//
-//TEST_F(EvaluatorTests, ComparingHandsTests1) {
-//    bool ans = pair1 > two_pair1;
-//    ASSERT_FALSE(ans);
-//}
-//
-//TEST_F(EvaluatorTests, ComparingHandsTests2) {
-//    bool ans = pair1 < two_pair1;
-//    ASSERT_TRUE(ans);
-//}
-//
-//TEST_F(EvaluatorTests, ComparingHandsTests3) {
-//    cout << straight2to6 << endl;
-//    cout << two_pair1 << endl;
-//    bool ans = straight2to6 > two_pair1;
-////    ASSERT_TRUE(ans);
-//}
-//
-//TEST_F(EvaluatorTests, ComparingHandsTests4) {
-//    bool ans = straight2to6 < two_pair1;
-//    ASSERT_FALSE(ans);
-//}
-//
-//TEST_F(EvaluatorTests, ComparingHandsTests5) {
-//    bool ans = straight2to6 > straight_low_ace;
-//    ASSERT_TRUE(ans);
-//}
-//
-//
-//TEST_F(EvaluatorTests, ComparingHandsTests7) {
-//    bool ans = pair1 > pair2;
-//    ASSERT_TRUE(ans);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestGetMaxOfMap) {
-//    std::map<int, HandType> map;
-//    map[0] = Pair_;
-//    map[1] = TwoPair_;
-//    map[2] = ThreeOfAKind_;
-//    auto out = Evaluator::getMaxValueOfAMap(map);
-//    ASSERT_EQ(ThreeOfAKind_, out.first);
-//    ASSERT_EQ(2, out.second[0]);
-//}
-//
-//TEST_F(EvaluatorTests, TestGetMaxOfMap2) {
-//    std::map<int, int> map;
-//    map[0] = 1;
-//    map[1] = 3;
-//    map[2] = 2;
-//    auto out = Evaluator::getMaxValueOfAMap(map);
-//    ASSERT_EQ(3, out.first);
-//    ASSERT_EQ(1, out.second[0]);
-//}
-//
-//TEST_F(EvaluatorTests, TestGetKeys) {
-//    std::map<int, int> x;
-//    x[0] = 1;
-//    x[1] = 2;
-//    std::vector<int> keys = Evaluator::getKeysOfMap(x);
-//    std::vector<int> expected = {0, 1};
-//    ASSERT_EQ(expected, keys);
-//}
-//
-//TEST_F(EvaluatorTests, TestGetValues) {
-//    std::map<int, int> x;
-//    x[0] = 1;
-//    x[1] = 2;
-//    std::vector<int> values = Evaluator::getValuesOfMap(x);
-//    std::vector<int> expected = {1, 2};
-//    ASSERT_EQ(expected, values);
-//}
-//
-//
-//TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairPosition) {
-//    checkWinnerPosition(pair1, two_pair1, 1);
-//}
-//
-//TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairHandValue) {
-//    checkWinnerHand(pair1, two_pair1, TwoPair_);
-//}
-//
-//TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindHand) {
-//    checkWinnerHand(flush1, straight2to6, Flush_);
-//}
-//
-//TEST_F(EvaluatorTests, Evaluate2StraightFlushVsThreeOfAKindPosition) {
-//    checkWinnerPosition(flush1, straight2to6, 1);
-//}
-//
-//TEST_F(EvaluatorTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
-//    checkWinnerHand(three_of_a_kind1, straight_flush1, StraightFlush_);
-//}
-//
-//TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
-//    checkWinnerPosition(three_of_a_kind1, straight_flush1, 1);
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestSplitPot) {
-//    checkSplitPot(pair1, pair1);
-//}
-//
-////TEST_F(EvaluatorTests, Evaluate2PairHand) {
-////    // note: this doesn't really test must.
-////    checkWinnerPosition(pair1, pair2, Hand_);
-////}
-//
-//
-///*
-// * What if the overloading functions operator> and operator<
-// * were to return different values, depending on whether
-// * the hand being compared again also has the same hand type.
-// */
-//TEST_F(EvaluatorTests, TestSetValuePair) {
-//    Pair pair(&pair1);
-//    ASSERT_EQ(2, pair.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueTwoPair) {
-//    TwoPair twopair(&two_pair1);
-//    ASSERT_EQ(6, twopair.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueTOAK) {
-//    ThreeOfAKind toak(&three_of_a_kind1);
-//    ASSERT_EQ(2, toak.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueStraight) {
-//    Straight straight(&straight2to6_2);
-//    ASSERT_EQ(6, straight.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueFlush) {
-//    Flush flush(&flush1);
-//    ASSERT_EQ(13, flush.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueFullHouse) {
-//    FullHouse fullHouse(&full_house1);
-//    ASSERT_EQ(2, fullHouse.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueFOAK) {
-//    FourOfAKind fourOfAKind(&four_of_a_kind);
-//    ASSERT_EQ(2, fourOfAKind.getValue());
-//}
-//
-//TEST_F(EvaluatorTests, TestSetValueStraightFlush) {
-//    StraightFlush straightFlush(&straight_flush1);
-//    ASSERT_EQ(6, straightFlush.getValue());
-//}
-//
-//
-//TEST_F(EvaluatorTests, TestHandGetLArgestRank) {
-//    ASSERT_EQ(14, straight2to6.getLargestRank());
-//}
 
-//TEST_F(EvaluatorTests, TestMakeUnique) {
-//    HighCard highCard(std::make_shared<Hand>(highCard1));
-//    std::shared_ptr<HighCard> high_card_ptr = std::make_shared<HighCard>(highCard);
-//    ASSERT_EQ(7, high_card_ptr->getCards().size());
-//}
+/*
+ * What if the overloading functions operator> and operator<
+ * were to return different values, depending on whether
+ * the hand being compared again also has the same hand type.
+ */
+TEST_F(EvaluatorTests, TestSetValuePair) {
+    Pair pair(&pair1);
+    ASSERT_EQ(2, pair.getValue());
+}
 
+TEST_F(EvaluatorTests, TestSetValueTwoPair) {
+    TwoPair twopair(&two_pair1);
+    ASSERT_EQ(6, twopair.getValue());
+}
+
+TEST_F(EvaluatorTests, TestSetValueTOAK) {
+    ThreeOfAKind toak(&three_of_a_kind1);
+    ASSERT_EQ(2, toak.getValue());
+}
+
+TEST_F(EvaluatorTests, TestSetValueStraight) {
+    Straight straight(&straight2to6_2);
+    ASSERT_EQ(6, straight.getValue());
+}
+
+TEST_F(EvaluatorTests, TestSetValueFlush) {
+    Flush flush(&flush1);
+    ASSERT_EQ(13, flush.getValue());
+}
+
+TEST_F(EvaluatorTests, TestSetValueFullHouse) {
+    FullHouse fullHouse(&full_house1);
+    ASSERT_EQ(2, fullHouse.getValue());
+}
+
+TEST_F(EvaluatorTests, TestSetValueFOAK) {
+    FourOfAKind fourOfAKind(&four_of_a_kind);
+    ASSERT_EQ(2, fourOfAKind.getValue());
+}
+
+TEST_F(EvaluatorTests, TestSetValueStraightFlush) {
+    StraightFlush straightFlush(&straight_flush1);
+    ASSERT_EQ(6, straightFlush.getValue());
+}
+
+
+TEST_F(EvaluatorTests, TestHandGetLArgestRank) {
+    ASSERT_EQ(14, straight2to6.getLargestRank());
+}
 
 
 
