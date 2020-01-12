@@ -20,6 +20,7 @@ using namespace cards;
 namespace eval {
 
 
+
     enum HandType {
         Hand_, HighCard_, Pair_, TwoPair_, ThreeOfAKind_, Straight_, Flush_,
         FullHouse_, FourOfAKind_, StraightFlush_, RoyalFlush_
@@ -36,9 +37,9 @@ namespace eval {
 
     class Hand : IHand {
     protected:
-        HoleCards _holeCards;
-        CommunityCards _communityCards;
-        CardCollection _cards = _holeCards + _communityCards;
+        HoleCards holeCards;
+        CommunityCards communityCards;
+        CardCollection cards_ = holeCards + communityCards;
         int value = 0;
 
     private:
@@ -50,29 +51,29 @@ namespace eval {
     public:
         HandType type = HandType::Hand_;
 
-        explicit Hand(CardCollection &collection);
-
-        explicit Hand(const shared_ptr<Hand>& hand);
-
-        Hand(Hand &hand);
-
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
-        Hand(Hand &&) = default;
+        explicit Hand(CardCollection &collection);
+
+        explicit Hand(Hand* hand);
+
+        Hand(Hand &hand);
 
         ~Hand(); // destructor
 
         Hand &operator=(Hand hand); //copy assignment
 
-        Hand &operator=(Hand &&) noexcept; //copy assignment
+        Hand(Hand&& hand) noexcept ;    // move constructor
+
+        Hand &operator=(Hand &&hand) noexcept; //Move assignment
 
         bool operator==(Hand &hand);
 
         bool operator!=(Hand &hand);
 
-        bool operator>(Hand &hand);
-
-        bool operator<(Hand &hand);
+//        bool operator>(Hand &hand);
+//
+//        bool operator<(Hand &hand);
 
         CommunityCards getCards();
 
@@ -93,7 +94,7 @@ namespace eval {
         template<class HandType>
         CardCollection xOfAKindBest5(int x) {
             CardCollection cards = getCards();
-            HandType handType(_cards);
+            HandType handType(cards_);
             if (!handType.isa())
                 // if not isa HandType, return empty CardCollection.
                 return CardCollection();
@@ -135,7 +136,7 @@ namespace eval {
 
         std::shared_ptr<Hand> evaluate();
 
-        int sumBest5Ranks();
+//        int sumBest5Ranks();
 
         int getValueOfXOfAKind(int x);
 
@@ -151,43 +152,63 @@ namespace eval {
 
     class HighCard : public Hand {
     public:
-        using Hand::Hand;
-
-        explicit HighCard(const HandPtr& hand);
+        HighCard(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit HighCard(CardCollection &collection);
 
-        CardCollection best5(CardCollection cards) override;
+        explicit HighCard(Hand* hand);
+
+        HighCard(Hand &hand);
+
+//        HighCard &operator=(Hand hand); //copy assignment
+
+        HighCard(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
         void setValue() override;
+
+        CardCollection best5(CardCollection cards);
     };
 
 
     class Pair : public Hand {
     public:
-        using Hand::Hand;
 
-        explicit Pair(const HandPtr& hand);
+        Pair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit Pair(CardCollection &collection);
 
-        CardCollection best5() override;
+        explicit Pair(Hand* hand);
+
+        Pair(Hand &hand);
+
+//        Pair &operator=(Hand hand); //copy assignment
+
+        Pair(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+
+        void setValue() override;
 
         bool isa() override;
 
-        void setValue() override;
+        CardCollection best5() override;
     };
 
 
     class TwoPair : public Hand {
     public:
-        explicit TwoPair(const HandPtr& hand);
+
+        TwoPair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit TwoPair(CardCollection &collection);
 
-        using Hand::Hand;
+        explicit TwoPair(Hand* hand);
+
+        TwoPair(Hand &hand);
+
+//        TwoPair &operator=(Hand hand); //copy assignment
+
+        TwoPair(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5() override;
 
@@ -199,11 +220,18 @@ namespace eval {
 
     class ThreeOfAKind : public Hand {
     public:
-        explicit ThreeOfAKind(const HandPtr& hand);
 
-        using Hand::Hand;
+        ThreeOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit ThreeOfAKind(CardCollection &collection);
+
+        explicit ThreeOfAKind(Hand* hand);
+
+        ThreeOfAKind(Hand &hand);
+
+//        ThreeOfAKind &operator=(Hand hand); //copy assignment
+
+        ThreeOfAKind(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5() override;
 
@@ -215,11 +243,18 @@ namespace eval {
 
     class Straight : public Hand {
     public:
-        explicit Straight(const HandPtr& hand);
 
-        using Hand::Hand;
+        Straight(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit Straight(CardCollection &collection);
+
+        explicit Straight(Hand* hand);
+
+        Straight(Hand &hand);
+
+//        Straight &operator=(Hand hand); //copy assignment
+
+        Straight(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -231,11 +266,17 @@ namespace eval {
 
     class Flush : public Hand {
     public:
-        explicit Flush(const HandPtr& hand);
-
-        using Hand::Hand;
+        Flush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit Flush(CardCollection &collection);
+
+        explicit Flush(Hand* hand);
+
+        Flush(Hand &hand);
+
+//        Flush &operator=(Hand hand); //copy assignment
+
+        Flush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -246,11 +287,18 @@ namespace eval {
 
     class FullHouse : public Hand {
     public:
-        explicit FullHouse(const HandPtr& hand);
 
-        using Hand::Hand;
+        FullHouse(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit FullHouse(CardCollection &collection);
+
+        explicit FullHouse(Hand* hand);
+
+        FullHouse(Hand &hand);
+
+//        FullHouse &operator=(Hand hand); //copy assignment
+
+        FullHouse(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5(CardCollection cards) override;
 
@@ -261,11 +309,18 @@ namespace eval {
 
     class FourOfAKind : public Hand {
     public:
-        explicit FourOfAKind(const HandPtr& hand);
 
-        using Hand::Hand;
+        FourOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit FourOfAKind(CardCollection &collection);
+
+        explicit FourOfAKind(Hand* hand);
+
+        FourOfAKind(Hand &hand);
+
+        FourOfAKind &operator=(Hand hand); //copy assignment
+
+        FourOfAKind(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5() override;
 
@@ -276,11 +331,18 @@ namespace eval {
 
     class StraightFlush : public Hand {
     public:
-        explicit StraightFlush(const HandPtr& hand);
 
-        using Hand::Hand;
+        StraightFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit StraightFlush(CardCollection &collection);
+
+        explicit StraightFlush(Hand* hand);
+
+        StraightFlush(Hand &hand);
+
+//        StraightFlush &operator=(Hand hand); //copy assignment
+
+        StraightFlush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5() override;
 
@@ -291,11 +353,18 @@ namespace eval {
 
     class RoyalFlush : public Hand {
     public:
-        explicit RoyalFlush(const HandPtr& hand);
 
-        using Hand::Hand;
+        RoyalFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
         explicit RoyalFlush(CardCollection &collection);
+
+        explicit RoyalFlush(Hand* hand);
+
+        RoyalFlush(Hand &hand);
+
+//        RoyalFlush &operator=(Hand hand); //copy assignment
+
+        RoyalFlush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 
         CardCollection best5(CardCollection cards) override;
 
