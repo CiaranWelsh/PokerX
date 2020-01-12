@@ -15,8 +15,6 @@
 #include <utils/Counter.h>
 #include <map>
 
-#define quote(x) #x
-
 using namespace cards;
 
 namespace eval {
@@ -38,14 +36,11 @@ namespace eval {
 
     class Hand : IHand {
     protected:
-        std::map<std::string, int> hand_types;
         HoleCards _holeCards;
         CommunityCards _communityCards;
         CardCollection _cards = _holeCards + _communityCards;
-        static std::map<std::string, int> handHeirachy();
-
-
         int value = 0;
+
     private:
 
         friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
@@ -53,18 +48,13 @@ namespace eval {
         std::string name;
 
     public:
-
-        virtual void setValue();
-
-        int getValue();
-
         HandType type = HandType::Hand_;
 
-        explicit Hand(CardCollection collection);
+        explicit Hand(CardCollection &collection);
 
-        explicit Hand(Hand *hand);
+        explicit Hand(const shared_ptr<Hand>& hand);
 
-        Hand(Hand const &hand);
+        Hand(Hand &hand);
 
         Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 
@@ -124,11 +114,11 @@ namespace eval {
                 ranks.erase(ranks.begin());
             }
             std::vector<int> idx_for_delete;
-            for (int i = 0; i < ranks.size(); i++) {
+            for (int rank : ranks) {
                 for (int j = 0; j < cards.size(); j++) {
-                    if (getCards()[j].rank == ranks[i]) {
-                        Card x = cards[j];
-                        best5.add(x);
+                    if (getCards()[j].rank == rank) {
+                        Card card = cards[j];
+                        best5.add(card);
                         idx_for_delete.push_back(j);
                     }
                 }
@@ -141,22 +131,31 @@ namespace eval {
             return best5;
         }
 
-        CardCollection best5();
+        virtual CardCollection best5();
 
-        std::unique_ptr<Hand> evaluate();
+        std::shared_ptr<Hand> evaluate();
 
         int sumBest5Ranks();
 
+        int getValueOfXOfAKind(int x);
+
+        int getLargestRank();
+
+        virtual void setValue();
+
+        int getValue();
+
     };
+
     typedef std::shared_ptr<Hand> HandPtr;
 
     class HighCard : public Hand {
     public:
         using Hand::Hand;
 
-        explicit HighCard(Hand *hand);
+        explicit HighCard(const HandPtr& hand);
 
-        explicit HighCard(CardCollection collection);
+        explicit HighCard(CardCollection &collection);
 
         CardCollection best5(CardCollection cards) override;
 
@@ -170,144 +169,142 @@ namespace eval {
     public:
         using Hand::Hand;
 
-        explicit Pair(Hand *hand);
+        explicit Pair(const HandPtr& hand);
 
-        explicit Pair(CardCollection collection);
+        explicit Pair(CardCollection &collection);
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
-        void setValue();
+        void setValue() override;
     };
 
 
     class TwoPair : public Hand {
-    private:
     public:
-        explicit TwoPair(Hand *hand);
+        explicit TwoPair(const HandPtr& hand);
 
-        explicit TwoPair(CardCollection collection);
+        explicit TwoPair(CardCollection &collection);
 
         using Hand::Hand;
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
+
+        void setValue() override;
     };
 
 
     class ThreeOfAKind : public Hand {
-
-    private:
     public:
-        explicit ThreeOfAKind(Hand *hand);
+        explicit ThreeOfAKind(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit ThreeOfAKind(CardCollection collection);
+        explicit ThreeOfAKind(CardCollection &collection);
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
 
     class Straight : public Hand {
-    private:
     public:
-        explicit Straight(Hand *hand);
+        explicit Straight(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit Straight(CardCollection collection);
+        explicit Straight(CardCollection &collection);
 
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
 
     class Flush : public Hand {
-    private:
     public:
-        explicit Flush(Hand *hand);
+        explicit Flush(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit Flush(CardCollection collection);
+        explicit Flush(CardCollection &collection);
 
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
     class FullHouse : public Hand {
-    private:
     public:
-        explicit FullHouse(Hand *hand);
+        explicit FullHouse(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit FullHouse(CardCollection collection);
+        explicit FullHouse(CardCollection &collection);
 
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
     class FourOfAKind : public Hand {
-    private:
     public:
-        explicit FourOfAKind(Hand *hand);
+        explicit FourOfAKind(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit FourOfAKind(CardCollection collection);
+        explicit FourOfAKind(CardCollection &collection);
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
     class StraightFlush : public Hand {
-
-    private:
     public:
-        explicit StraightFlush(Hand *hand);
+        explicit StraightFlush(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit StraightFlush(CardCollection collection);
+        explicit StraightFlush(CardCollection &collection);
 
-        CardCollection best5(CardCollection cards) override;
+        CardCollection best5() override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
     class RoyalFlush : public Hand {
-
-    private:
     public:
-        explicit RoyalFlush(Hand *hand);
+        explicit RoyalFlush(const HandPtr& hand);
 
         using Hand::Hand;
 
-        explicit RoyalFlush(CardCollection collection);
+        explicit RoyalFlush(CardCollection &collection);
 
         CardCollection best5(CardCollection cards) override;
 
         bool isa() override;
 
+        void setValue() override;
     };
 
 
-};
+}
 
 #endif //POKERSIMULATIONSINCPP_HAND_H
