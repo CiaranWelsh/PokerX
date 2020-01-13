@@ -17,8 +17,9 @@ using namespace std;
 namespace eval {
 
     Hand::Hand(CardCollection &collection) {
-        if (collection.size() != 7)
+        if (collection.size() != 7) {
             throw std::invalid_argument("need 7 cards");
+        }
         this->cards_ = collection.getCards();
         setValue();
     }
@@ -96,11 +97,12 @@ namespace eval {
     }
 
     std::shared_ptr<Hand> Hand::evaluate() {
-
         cout << "checking for RoyalFlush" << endl;
-        std::shared_ptr<RoyalFlush> royalFlush = std::make_shared<RoyalFlush>(cards_);
-        if (royalFlush->isa()) {
-            return royalFlush;
+        CardCollection cards = getCards();
+        RoyalFlush royalFlush(cards);
+        std::shared_ptr<RoyalFlush> royalFlushPtr = std::make_shared<RoyalFlush>(&royalFlush);
+        if (royalFlushPtr->isa()) {
+            return royalFlushPtr;
         }
         cout << "checking for StraightFlush" << endl;
         std::shared_ptr<StraightFlush> straightFlush = std::make_shared<StraightFlush>(cards_);
@@ -293,7 +295,8 @@ namespace eval {
  *
  */
 
-    HighCard::HighCard(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    HighCard::HighCard(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                  communityCards) {
         setValue();
         type = HandType::HighCard_;
     }
@@ -338,8 +341,6 @@ namespace eval {
                 getCards().getRanks().end()
         );
     }
-
-
 
 
     Pair::Pair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
@@ -387,7 +388,8 @@ namespace eval {
 
 
 
-    TwoPair::TwoPair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    TwoPair::TwoPair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                communityCards) {
         setValue();
         type = HandType::TwoPair_;
     }
@@ -429,7 +431,8 @@ namespace eval {
 /*
  * Three of a kind implementation
  */
-    ThreeOfAKind::ThreeOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    ThreeOfAKind::ThreeOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                          communityCards) {
         setValue();
         type = HandType::ThreeOfAKind_;
     }
@@ -472,7 +475,8 @@ namespace eval {
  * Straight Implementation
  */
 
-    Straight::Straight(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    Straight::Straight(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                  communityCards) {
         setValue();
         type = HandType::Straight_;
     }
@@ -573,15 +577,30 @@ namespace eval {
     }
 
     void Straight::setValue() {
-        // when we have a low straight, replace ace with value 1
-        if (best5().getRanks()[0])
-        value = getLargestRank();
+        // protect against trying to access empty CardCollection
+        if (best5().empty()) {
+            value = 0;
+        } else {
+            // when we have a low straight, replace ace with value 1
+            std::vector<int> ranks = best5().getRanks();
+            if (
+                    ranks[0] == 2 &&
+                    ranks[1] == 3 &&
+                    ranks[2] == 4 &&
+                    ranks[3] == 5 &&
+                    ranks[4] == 14) {
+                value = 5;
+            } else {
+                value = getLargestRank();
+            }
+        }
     }
 
     /*
      * Flush implementation
      */
-    Flush::Flush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    Flush::Flush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                            communityCards) {
         setValue();
         type = HandType::Flush_;
     }
@@ -591,7 +610,8 @@ namespace eval {
         type = HandType::Flush_;
     }
 
-    Flush::Flush(Hand *hand) : Hand(hand) {
+    Flush::Flush(Hand
+                 *hand) : Hand(hand) {
         setValue();
         type = HandType::Flush_;
     }
@@ -601,12 +621,8 @@ namespace eval {
         type = HandType::Flush_;
     }
 
-//    Flush &Flush::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
-
-    Flush::Flush(Hand &&hand) noexcept : Hand(hand) {
+    Flush::Flush(Hand &&hand)
+    noexcept : Hand(hand) {
         setValue();
         type = HandType::Flush_;
     }
@@ -647,9 +663,8 @@ namespace eval {
     }
 
 
-
-
-    FullHouse::FullHouse(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    FullHouse::FullHouse(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                    communityCards) {
         setValue();
         type = HandType::FullHouse_;
     }
@@ -669,12 +684,8 @@ namespace eval {
         type = HandType::FullHouse_;
     }
 
-//    FullHouse &FullHouse::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
-
-    FullHouse::FullHouse(Hand &&hand) noexcept : Hand(hand) {
+    FullHouse::FullHouse(Hand &&hand)
+    noexcept : Hand(hand) {
         setValue();
         type = HandType::FullHouse_;
     }
@@ -714,7 +725,8 @@ namespace eval {
     }
 
 
-    FourOfAKind::FourOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    FourOfAKind::FourOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                        communityCards) {
         setValue();
         type = HandType::FourOfAKind_;
     }
@@ -740,7 +752,8 @@ namespace eval {
 //        type = hand.type;
 //    }
 
-    FourOfAKind::FourOfAKind(Hand &&hand) noexcept : Hand(hand) {
+    FourOfAKind::FourOfAKind(Hand &&hand)
+    noexcept : Hand(hand) {
         setValue();
         type = HandType::FourOfAKind_;
     }
@@ -761,7 +774,8 @@ namespace eval {
     /*
      * Straight flush implementation
      */
-    StraightFlush::StraightFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    StraightFlush::StraightFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(
+            holeCards, communityCards) {
         setValue();
         type = HandType::StraightFlush_;
     }
@@ -781,12 +795,8 @@ namespace eval {
         type = HandType::StraightFlush_;
     }
 
-//    StraightFlush &StraightFlush::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
-
-    StraightFlush::StraightFlush(Hand &&hand) noexcept : Hand(hand) {
+    StraightFlush::StraightFlush(Hand &&hand)
+    noexcept : Hand(hand) {
         setValue();
         type = HandType::StraightFlush_;
     }
@@ -800,7 +810,7 @@ namespace eval {
          * that we have a straight flush. The straight returns the highest 5 cards
          * in a row and all must be the same suit or we would have already returned empty CardCollection
          */
-        return straight.Hand::best5();
+        return straight.best5();
     }
 
     bool StraightFlush::isa() {
@@ -814,7 +824,8 @@ namespace eval {
     }
 
 
-    RoyalFlush::RoyalFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+    RoyalFlush::RoyalFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+                                                                                                      communityCards) {
         setValue();
         type = HandType::RoyalFlush_;
     }
@@ -839,7 +850,8 @@ namespace eval {
 //        type = hand.type;
 //    }
 
-    RoyalFlush::RoyalFlush(Hand &&hand) noexcept : Hand(hand) {
+    RoyalFlush::RoyalFlush(Hand &&hand)
+    noexcept : Hand(hand) {
         setValue();
         type = HandType::RoyalFlush_;
     }
