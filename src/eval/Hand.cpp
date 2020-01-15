@@ -27,7 +27,7 @@ namespace eval {
     /*
      * Hand implementation
      */
-    Hand::Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) {
+    Hand::Hand(HoleCards holeCards, cards::CommunityCards &communityCards) {
         holeCards = holeCards;
         communityCards = communityCards;
         cards_ = holeCards + communityCards;

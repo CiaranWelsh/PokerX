@@ -12,11 +12,12 @@ events::Showdown::go(game::GamePlay &gamePlay, game::Players &players, game::Dea
     cout << "Determining the winner" << endl;
     // collect hands
     std::vector<eval::HandPtr> hands;
+    cout << "community cards: " << gamePlay.communityCards << endl;
     for (auto player : players) {
 //        cout << "comm: " << gamePlay.communityCards << endl;
 //        cout << "hole: " << player->holeCards << endl;
         eval::Hand hand(player->holeCards, gamePlay.communityCards);
-        cout << "PLayer "<< player->getName() << "Hand " << hand << endl;
+        cout << "Player "<< player->getName() << player->holeCards << endl;
         eval::HandPtr handPtr(std::make_shared<eval::Hand>(hand));
 //        cout << "Handptr " << *handPtr << endl;
         hands.push_back(handPtr);

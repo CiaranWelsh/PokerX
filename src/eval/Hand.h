@@ -49,7 +49,7 @@ namespace eval {
     public:
         HandType type = HandType::Hand_;
 
-        Hand(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
+        Hand(HoleCards holeCards, cards::CommunityCards &communityCards);
 
         explicit Hand(CardCollection &collection);
 
