@@ -34,7 +34,6 @@ namespace game {
 
         cards::Card dealRiver();
 
-        void presentOptions(Player &player);
     };
 }
 #endif //_DEALER_H

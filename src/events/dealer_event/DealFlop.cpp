@@ -6,5 +6,5 @@
 
 void
 events::DealFlop::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer, double &amount_to_call) {
-    gamePlay.flop = std::make_unique<cards::CardCollection>(dealer.dealFlop());
+    gamePlay.communityCards.add(dealer.dealFlop());
 }

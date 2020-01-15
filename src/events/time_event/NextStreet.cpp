@@ -27,21 +27,21 @@ void events::NextStreet::go(game::GamePlay &gamePlay, game::Players &players, ga
             std::cout << "Moving from preflop to flop" << endl;
             gamePlay.street = game::Flop;
             gamePlay.preflop_done = true;
-            gamePlay.flop = std::make_unique<CardCollection>(dealer.dealFlop());
+            gamePlay.communityCards.add(dealer.dealFlop());
             break;
         }
         case game::Flop:{
             std::cout << "Moving from flop to turn" << endl;
             gamePlay.street = game::Turn;
             gamePlay.flop_done = true;
-            gamePlay.turn = std::make_unique<cards::Card>(dealer.dealTurn());
+            gamePlay.communityCards.add(dealer.dealTurn());
             break;
         }
         case game::Turn:{
             std::cout << "Moving from turn to river" << endl;
             gamePlay.street = game::River;
             gamePlay.turn_done = true;
-            gamePlay.river = std::make_unique<cards::Card>(dealer.dealRiver());
+            gamePlay.communityCards.add(dealer.dealRiver());
             break;
         }
         case game::River:{

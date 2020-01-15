@@ -75,8 +75,8 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
             throw errors::InvalidActionError("You should never get "
                                              "to NoAction", __FILE__, __LINE__);
     }
-    cout << "Player " << getName() << "with remaining stack " << stack << " has " << pot << " in their own ";
-    cout << "pot and there is a total of "<< gamePlay.pot << "in the main pot" << endl;
+//    cout << "Player " << getName() << "with remaining stack " << stack << " has " << pot << " in their own ";
+//    cout << "pot and there is a total of "<< gamePlay.pot << "in the main pot" << endl;
 }
 
 Player::Player(Player &player) {
@@ -86,6 +86,10 @@ Player::Player(Player &player) {
 
 std::string Player::getType() {
     return type;
+}
+
+eval::Hand Player::getHand(game::GamePlay &gamePlay) {
+    return eval::Hand(holeCards, gamePlay.communityCards);
 }
 
 

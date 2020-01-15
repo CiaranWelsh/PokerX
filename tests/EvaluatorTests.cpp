@@ -141,6 +141,15 @@ protected:
             aceOfClubs,
             eightOfClubs
     );
+    Hand highCard2 = createHand(
+            twoOfClubs,
+            fourOfSpades,
+            nineOfDiamonds,
+            tenOfDiamonds,
+            eightOfClubs,
+            kingOfHearts,
+            aceOfHearts
+    );
     Hand pair1 = createHand(
             twoOfClubs,
             twoOfDiamonds,
@@ -595,11 +604,9 @@ TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight1) {
 
 TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight2) {
     Straight handa(&straight2to6);
-    cout << "handa" << handa << " " << handa.getValue() << endl;
     Straight handb(&straight_low_ace);
-    cout << "handb" << handb << " " << handa.getValue() << endl;
-//    bool actual = handa > handb;
-//    ASSERT_TRUE(actual);
+    bool actual = handa > handb;
+    ASSERT_TRUE(actual);
 }
 
 
@@ -651,10 +658,15 @@ TEST_F(EvaluatorTests, TestXOfAKind4) {
 }
 
 
-//TEST_F(EvaluatorTests, TestHighCard) {
-//    std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
-//    checkBest5(highCard1, expected);
-//}
+TEST_F(EvaluatorTests, TestHighCard1) {
+    std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
+    checkBest5(highCard1, expected);
+}
+
+TEST_F(EvaluatorTests, TestHighCard2) {
+    std::string expected = "[Card(8C), Card(9D), Card(10D), Card(13H), Card(14H)]";
+    checkBest5(highCard2, expected);
+}
 
 TEST_F(EvaluatorTests, TestPair) {
     std::string expected = "[Card(2C), Card(2D), Card(8C), Card(10D), Card(14C)]";

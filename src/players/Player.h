@@ -56,6 +56,8 @@ public:
     bool played_this_street = false;
 
     bool all_in;
+
+    eval::Hand getHand(game::GamePlay &gamePlay);
 };
 
 #endif //_PLAYER_H

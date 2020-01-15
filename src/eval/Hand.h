@@ -19,8 +19,6 @@ using namespace cards;
 
 namespace eval {
 
-
-
     enum HandType {
         Hand_, HighCard_, Pair_, TwoPair_, ThreeOfAKind_, Straight_, Flush_,
         FullHouse_, FourOfAKind_, StraightFlush_, RoyalFlush_
@@ -64,6 +62,7 @@ namespace eval {
         Hand &operator=(Hand hand); //copy assignment
 
         Hand(Hand&& hand) noexcept ;    // move constructor
+
 
         Hand &operator=(Hand &&hand) noexcept; //Move assignment
 
@@ -143,7 +142,6 @@ namespace eval {
         virtual void setValue();
 
         int getValue();
-
     };
 
     typedef std::shared_ptr<Hand> HandPtr;

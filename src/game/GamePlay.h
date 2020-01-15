@@ -13,6 +13,8 @@ class community_cards;
 #include <cards/CardCollection.h>
 #include "Street.h"
 #include "Pot.h"
+#include "eval/Hand.h"
+#include "cards/CommunityCards.h"
 
 namespace game {
     struct GamePlay {
@@ -21,6 +23,9 @@ namespace game {
         Street street = Preflop;
         bool game_started = false;
         bool game_ended = false;
+
+        int winning_player;
+        eval::HandType winning_hand;
 
         bool small_blind_posted = false;
         bool big_blind_posted = false;
@@ -56,9 +61,7 @@ namespace game {
         // When all players are equal after starting a street, we know to move on to the next street
         bool all_players_equal = false;
 
-        std::shared_ptr<cards::CardCollection> flop;
-        std::shared_ptr<cards::Card> turn;
-        std::shared_ptr<cards::Card> river;
+        cards::CommunityCards communityCards;
 
         std::shared_ptr<double> highest_bidder;
         std::shared_ptr<double> amount_to_call;

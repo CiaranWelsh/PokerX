@@ -19,6 +19,7 @@
 #include <events/time_event/BeginGame.h>
 #include <events/time_event/EndGame.h>
 #include <events/time_event/NextStreet.h>
+#include <events/dealer_event/Showdown.h>
 #include "events/EventPtr.h"
 #include "utils/Log.h"
 
@@ -42,6 +43,7 @@ namespace game {
         events::DealHoleCards dealHoleCards;
         events::PlayerAction playerAction;
         events::NextStreet nextStreet;
+        events::Showdown showdown;
 
         // current event
         events::Event *current_event = &beginGame;

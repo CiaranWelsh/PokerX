@@ -23,8 +23,6 @@ namespace eval {
 
         Evaluator(Evaluator &&) = default;
 
-        HandPtr evaluate(Hand &hand);
-
         map<int, HandType> evaluate(std::vector<HandPtr> hands);
 
         template<class T>

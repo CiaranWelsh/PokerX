@@ -97,63 +97,63 @@ namespace eval {
     }
 
     std::shared_ptr<Hand> Hand::evaluate() {
-        cout << "checking for RoyalFlush" << endl;
+//        cout << "checking for RoyalFlush" << endl;
         CardCollection cards = getCards();
         RoyalFlush royalFlush(cards);
         std::shared_ptr<RoyalFlush> royalFlushPtr = std::make_shared<RoyalFlush>(&royalFlush);
         if (royalFlushPtr->isa()) {
             return royalFlushPtr;
         }
-        cout << "checking for StraightFlush" << endl;
+//        cout << "checking for StraightFlush" << endl;
         std::shared_ptr<StraightFlush> straightFlush = std::make_shared<StraightFlush>(cards_);
         if (straightFlush->isa()) {
             return straightFlush;
         }
-        cout << "checking for FourOfAKind" << endl;
+//        cout << "checking for FourOfAKind" << endl;
 
         std::shared_ptr<FourOfAKind> fourOfAKind = std::make_shared<FourOfAKind>(cards_);
         if (fourOfAKind->isa()) {
             return fourOfAKind;
         }
-        cout << "checking for FullHouse" << endl;
+//        cout << "checking for FullHouse" << endl;
         std::shared_ptr<FullHouse> fullHouse = std::make_shared<FullHouse>(cards_);
         if (fullHouse->isa()) {
             return fullHouse;
         }
-        cout << "checking for Flush" << endl;
+//        cout << "checking for Flush" << endl;
 
         std::shared_ptr<Flush> flush = std::make_shared<Flush>(cards_);
         if (flush->isa()) {
             return flush;
         }
-        cout << "checking for Straight" << endl;
+//        cout << "checking for Straight" << endl;
 
 
         std::shared_ptr<Straight> straight = std::make_shared<Straight>(cards_);
         if (straight->isa()) {
             return straight;
         }
-        cout << "checking for ThreeOfAKind" << endl;
+//        cout << "checking for ThreeOfAKind" << endl;
 
         std::shared_ptr<ThreeOfAKind> threeOfAKind = std::make_shared<ThreeOfAKind>(cards_);
         if (threeOfAKind->isa()) {
             return threeOfAKind;
         }
-        cout << "checking for TwoPair" << endl;
+//        cout << "checking for TwoPair" << endl;
 
         std::shared_ptr<TwoPair> twoPair = std::make_shared<TwoPair>(cards_);
         if (twoPair->isa()) {
             return twoPair;
         }
-        cout << "checking for Pair" << endl;
+//        cout << "checking for Pair" << endl;
         std::shared_ptr<Pair> pair = std::make_shared<Pair>(cards_);
         if (pair->isa()) {
             return pair;
         }
-        cout << "checking for HighCard" << endl;
+//        cout << "checking for HighCard" << endl;
 
         std::shared_ptr<HighCard> highCard = std::make_shared<HighCard>(cards_);
-        cout << "returning a hgh card" << endl;
+//        cout << "returning a high card" << endl;
         return highCard;
     }
 
@@ -316,11 +316,6 @@ namespace eval {
         type = HandType::HighCard_;
     }
 
-//    HighCard &HighCard::operator=(Hand hand) {
-//        setValue();
-//        type = hand.type;
-//    }
-
     HighCard::HighCard(Hand &&hand) noexcept : Hand(hand) {
         setValue();
         type = HandType::HighCard_;
@@ -336,12 +331,13 @@ namespace eval {
     }
 
     void HighCard::setValue() {
-        value = *std::max_element(
-                getCards().getRanks().begin(),
-                getCards().getRanks().end()
-        );
+        int max = 0;
+        for (auto i: getCards().getRanks()){
+            if (i > max)
+                i = max;
+        }
+        value = max;
     }
-
 
     Pair::Pair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
         setValue();

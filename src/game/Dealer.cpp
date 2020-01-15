@@ -53,8 +53,6 @@ namespace game {
         return deck.pop();
     }
 
-    void Dealer::presentOptions(Player &player) {}
-
     void Dealer::shuffle() {
         deck.shuffle();
     }
