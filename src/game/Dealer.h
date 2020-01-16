@@ -34,6 +34,7 @@ namespace game {
 
         cards::Card dealRiver();
 
+        void resetDeck();
     };
 }
 #endif //_DEALER_H

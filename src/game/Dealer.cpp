@@ -65,4 +65,9 @@ namespace game {
         return deck;
     }
 
+    void Dealer::resetDeck() {
+        Deck new_deck;
+        deck = new_deck;
+    }
+
 }

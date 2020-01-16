@@ -15,16 +15,16 @@ Player::Player() = default;
 
 
 Player::Player(std::string name) {
-    this->_name = std::move(name);
+    this->name = std::move(name);
 }
 
 
 std::string Player::getName() {
-    return _name;
+    return name;
 }
 
 void Player::setName(std::string name) {
-    _name = std::move(name);
+    name = std::move(name);
 
 }
 
@@ -81,7 +81,7 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
 
 Player::Player(Player &player) {
     stack = player.stack;
-    _name = player.getName();
+    name = player.getName();
 }
 
 std::string Player::getType() {
@@ -90,6 +90,17 @@ std::string Player::getType() {
 
 eval::Hand Player::getHand(game::GamePlay &gamePlay) {
     return eval::Hand(holeCards, gamePlay.communityCards);
+}
+
+void Player::reset() {
+    pot = 0;
+    HoleCards newHoleCards;
+    holeCards = newHoleCards;
+}
+
+Player::Player(std::string name, HoleCards holeCards) {
+    this->holeCards = holeCards;
+    this->name = name;
 }
 
 

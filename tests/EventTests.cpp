@@ -62,7 +62,7 @@ TEST_F(EventTests, TestCorrectStreet) {
 
 TEST_F(EventTests, TestEventSwitchedToRotatePlayers) {
     table.step();
-    std::string expected = "RotatePlayers";
+    std::string expected = "ResetGame";
     std::string actual = table.current_event->getId();
     ASSERT_EQ(expected, actual);
 }
@@ -102,6 +102,7 @@ TEST_F(EventTests, TestRotatePlayers) {
  */
 TEST_F(EventTests, TestPostSmallBlind1) {
     table.step(); // begin
+    table.step(); // reset game
     table.step(); // rotate
     table.step(); // SB
     game::PlayerPtr player = table.players[0];
@@ -112,6 +113,7 @@ TEST_F(EventTests, TestPostSmallBlind1) {
 
 TEST_F(EventTests, TestPostSmallBlind2) {
     table.step(); // begin
+    table.step(); // reset game
     table.step(); // rotate
     table.step(); // SB
     game::PlayerPtr player = table.players[0];
@@ -159,6 +161,7 @@ TEST_F(EventTests, TestPostBigBlind) {
  */
 TEST_F(EventTests, TestDealHoleCards) {
     table.step(); //begin game
+    table.step(); // reset game
     table.step(); //rotation
     table.step(); //small blind
     table.step(); //big blind
@@ -171,6 +174,7 @@ TEST_F(EventTests, TestDealHoleCards) {
 
 TEST_F(EventTests, TestDealHoleCardsOtherPlayersAlsoDealtCards) {
     table.step(); //begin game
+    table.step(); // reset game
     table.step(); //rotation
     table.step(); //small blind
     table.step(); //big blind
@@ -181,6 +185,7 @@ TEST_F(EventTests, TestDealHoleCardsOtherPlayersAlsoDealtCards) {
 
 TEST_F(EventTests, TestNumberOfCardsLeft) {
     table.step(); //begin game
+    table.step(); // reset game
     table.step(); //rotation
     table.step(); //small blind
     table.step(); //big blind
@@ -192,6 +197,7 @@ TEST_F(EventTests, TestNumberOfCardsLeft) {
 
 TEST_F(EventTests, TestCurrentPlayerPtrPointsAtUTGPlayer) {
     table.step(); //begin game
+    table.step(); // reset game
     table.step();
     table.step();
     game::PlayerPtr player = table.players.getCurrentPlayer();
@@ -201,6 +207,7 @@ TEST_F(EventTests, TestCurrentPlayerPtrPointsAtUTGPlayer) {
 
 TEST_F(EventTests, TestTransitionFromPreflopToFlop) {
     table.step(); //begin game
+    table.step(); // reset game
     table.step(); //rotation
     table.step(); //small blind
     table.step(); //big blind
@@ -212,88 +219,66 @@ TEST_F(EventTests, TestTransitionFromPreflopToFlop) {
     table.step();
     table.step();
     table.step(); // player 8 to act
+    table.step(); // reset game
     table.step(); // back to small blind player1
     table.step();
     ASSERT_EQ(table.gamePlay.street, game::Flop);
 }
 
 
-TEST_F(EventTests, TestGamePlay) {
+TEST_F(EventTests, TestGamePlayWithCallStations1) {
     cout << endl;
     while (!table.gamePlay.game_ended) {
         table.step();
-        cout << table.getCommunityCards() << endl;
-        cout << "Current player: " << table.players.getCurrentPlayer()->getName();
-        cout << ", Current event: " << table.current_event->getId();
-        cout << ", Event description: " << table.current_event->getDescription() << endl;
     }
-}
-
-TEST_F(EventTests, TestEvaluateAHand) {
-    std::vector<Card> player0_vec = {Card(3, "C"), Card(5, "C"), Card(8, "H"), Card(10, "C"), Card(11, "S"),
-                                     Card(12, "S"), Card(14, "D")};
-    CardCollection player0(player0_vec);
-    eval::Hand hand0(player0);
-    hand0.evaluate();
-
-    std::vector<Card> player1_vec = {Card(3, "C"), Card(5, "C"), Card(7, "C"), Card(7, "S"), Card(10, "C"),
-                                     Card(11, "S"), Card(14, "D")};
-    CardCollection player1(player1_vec);
-    eval::Hand hand1(player1);
-
-    std::vector<Card> player2_vec = {Card(3, "C"), Card(5, "S"), Card(5, "C"), Card(9, "S"), Card(10, "C"),
-                                     Card(11, "S"), Card(14, "D")};
-    CardCollection player2(player2_vec);
-    eval::Hand hand2(player2);
-
-    std::vector<Card> player3_vec = {Card(3, "C"), Card(5, "C"), Card(7, "H"), Card(10, "D"), Card(10, "C"),
-                                     Card(11, "S"), Card(14, "D")};
-    CardCollection player3(player3_vec);
-    eval::Hand hand3(player3);
-
-    std::vector<Card> player4_vec = {Card(3, "C"), Card(5, "C"), Card(10, "C"), Card(11, "S"), Card(12, "D"),
-                                     Card(14, "H"), Card(14, "D")};
-    CardCollection player4(player4_vec);
-    eval::Hand hand4(player4);
-
-    std::vector<Card> player5_vec = {Card(3, "C"), Card(5, "C"), Card(10, "H"), Card(10, "C"), Card(11, "S"),
-                                     Card(12, "C"), Card(14, "D")};
-    CardCollection player5(player5_vec);
-    eval::Hand hand5(player5);
-
-    std::vector<Card> player6_vec = {Card(3, "C"), Card(5, "C"), Card(6, "D"), Card(10, "C"), Card(11, "S"),
-                                     Card(13, "S"), Card(14, "D")};
-    CardCollection player6(player6_vec);
-    eval::Hand hand6(player6);
-
-    std::vector<Card> player7_vec = {Card(3, "C"), Card(4, "S"), Card(5, "C"), Card(10, "C"), Card(11, "S"),
-                                     Card(14, "C"), Card(14, "D")};
-    CardCollection player7(player7_vec);
-    eval::Hand hand7(player7);
-
-    std::vector<Card> player8_vec = {Card(3, "C"), Card(5, "H"), Card(5, "C"), Card(10, "S"), Card(10, "C"),
-                                     Card(11, "S"), Card(14, "D")};
-    CardCollection player8(player8_vec);
-    eval::Hand hand8(player8);
-
-    std::vector<std::shared_ptr<eval::Hand>> hands = {
-            std::make_shared<eval::Hand>(hand0),
-            std::make_shared<eval::Hand>(hand1),
-            std::make_shared<eval::Hand>(hand2),
-            std::make_shared<eval::Hand>(hand3),
-            std::make_shared<eval::Hand>(hand4),
-            std::make_shared<eval::Hand>(hand5),
-            std::make_shared<eval::Hand>(hand6),
-            std::make_shared<eval::Hand>(hand7),
-            std::make_shared<eval::Hand>(hand8)};
-
-    eval::Evaluator evaluator;
-    auto answer = evaluator.evaluate(hands);
-    ASSERT_TRUE(answer[8] == eval::HandType::TwoPair_);
-
 
 }
 
+TEST_F(EventTests, TestGameEndedFlagReset) {
+    cout << endl;
+    while (!table.gamePlay.game_ended) {
+        table.step();
+    }
+    ASSERT_TRUE(table.gamePlay.game_ended);
+    table.reset();
+    ASSERT_FALSE(table.gamePlay.game_ended);
+}
+//
+//TEST_F(EventTests, TestGamePlay3) {
+//    cout << endl;
+//    std::vector<int> winning_players;
+//    std::vector<eval::HandType> winning_hands;
+//    int num = 2;
+//    for (int i = 0; i < num; i++) {
+//        cout << table.gamePlay.game_ended << endl;
+//        while (!table.gamePlay.game_ended) {
+//            table.step();
+//        }
+//        winning_hands.push_back(table.gamePlay.winning_hand);
+//        winning_players.push_back(table.gamePlay.winning_players[0]);
+//        cout << "Winning hand " << table.gamePlay.winning_hand;
+//        cout << " Winning Player " << table.gamePlay.winning_players[0] << endl;
+//        table.reset();
+//    }
+//
+//}
+//
+//TEST_F(EventTests, TestGamePlay4) {
+//    cout << endl;
+//    while (!table.gamePlay.game_ended) {
+//        table.step();
+//    }
+//    table.reset();
+//
+//    while (!table.gamePlay.game_ended) {
+//        table.step();
+//    }
+////    table.reset();
+////    cout << table.gamePlay.pl
+////    I shold desctroy the current game play object and create a new one for
+////    each game that we play
+//
+//}
 
 
 

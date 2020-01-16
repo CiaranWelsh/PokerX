@@ -7,6 +7,8 @@
 #include "eval/Hand.h"
 #include "cards/Card.h"
 #include "gtest/gtest.h"
+#include "players/CallStation.h"
+#include "game/Table.h"
 
 using namespace eval;
 
@@ -72,6 +74,28 @@ protected:
         eval::Evaluator evaluator;
         std::map<int, HandType> x = evaluator.evaluate(hvec);
         ASSERT_EQ(2, x.size());
+    }
+
+    void checkSpecificConfiguration(CommunityCards communityCards, std::vector<HoleCards> holeCardsVec){
+//        Player player0("player0", holeCards0);
+//        Player player1("player1", holeCards0);
+//        Player player2("player2", holeCards0);
+//        Player player3("player3", holeCards0);
+//        Player player4("player4", holeCards0);
+//        Player player5("player5", holeCards0);
+//        Player player6("player6", holeCards0);
+//        Player player7("player7", holeCards0);
+//        Player player8("player8", holeCards0);
+        std::vector<std::shared_ptr<Player>> playerPtrVec;
+        for (int i =0; i< holeCardsVec.size(); i++){
+            ostringstream name;
+            name << "player"<<i;
+            Player player(name.str(), holeCardsVec[i]);
+            playerPtrVec.push_back(std::make_shared<Player>(player));
+            name.flush();
+        }
+//        game::Players players(playerPtrVec);
+//        game::Table table(players);
     }
 
 
@@ -1014,6 +1038,72 @@ TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
 TEST_F(EvaluatorTests, EvaluateTheHigherOfTwoPairsPosition) {
     checkWinnerPosition(pair1, pair2, 1);
 }
+
+
+TEST_F(EvaluatorTests, TestEvaluateAHand) {
+    std::vector<Card> player0_vec = {Card(3, "C"), Card(5, "C"), Card(8, "H"), Card(10, "C"), Card(11, "S"),
+                                     Card(12, "S"), Card(14, "D")};
+    CardCollection player0(player0_vec);
+    eval::Hand hand0(player0);
+    hand0.evaluate();
+
+    std::vector<Card> player1_vec = {Card(3, "C"), Card(5, "C"), Card(7, "C"), Card(7, "S"), Card(10, "C"),
+                                     Card(11, "S"), Card(14, "D")};
+    CardCollection player1(player1_vec);
+    eval::Hand hand1(player1);
+
+    std::vector<Card> player2_vec = {Card(3, "C"), Card(5, "S"), Card(5, "C"), Card(9, "S"), Card(10, "C"),
+                                     Card(11, "S"), Card(14, "D")};
+    CardCollection player2(player2_vec);
+    eval::Hand hand2(player2);
+
+    std::vector<Card> player3_vec = {Card(3, "C"), Card(5, "C"), Card(7, "H"), Card(10, "D"), Card(10, "C"),
+                                     Card(11, "S"), Card(14, "D")};
+    CardCollection player3(player3_vec);
+    eval::Hand hand3(player3);
+
+    std::vector<Card> player4_vec = {Card(3, "C"), Card(5, "C"), Card(10, "C"), Card(11, "S"), Card(12, "D"),
+                                     Card(14, "H"), Card(14, "D")};
+    CardCollection player4(player4_vec);
+    eval::Hand hand4(player4);
+
+    std::vector<Card> player5_vec = {Card(3, "C"), Card(5, "C"), Card(10, "H"), Card(10, "C"), Card(11, "S"),
+                                     Card(12, "C"), Card(14, "D")};
+    CardCollection player5(player5_vec);
+    eval::Hand hand5(player5);
+
+    std::vector<Card> player6_vec = {Card(3, "C"), Card(5, "C"), Card(6, "D"), Card(10, "C"), Card(11, "S"),
+                                     Card(13, "S"), Card(14, "D")};
+    CardCollection player6(player6_vec);
+    eval::Hand hand6(player6);
+
+    std::vector<Card> player7_vec = {Card(3, "C"), Card(4, "S"), Card(5, "C"), Card(10, "C"), Card(11, "S"),
+                                     Card(14, "C"), Card(14, "D")};
+    CardCollection player7(player7_vec);
+    eval::Hand hand7(player7);
+
+    std::vector<Card> player8_vec = {Card(3, "C"), Card(5, "H"), Card(5, "C"), Card(10, "S"), Card(10, "C"),
+                                     Card(11, "S"), Card(14, "D")};
+    CardCollection player8(player8_vec);
+    eval::Hand hand8(player8);
+
+    std::vector<std::shared_ptr<eval::Hand>> hands = {
+            std::make_shared<eval::Hand>(hand0),
+            std::make_shared<eval::Hand>(hand1),
+            std::make_shared<eval::Hand>(hand2),
+            std::make_shared<eval::Hand>(hand3),
+            std::make_shared<eval::Hand>(hand4),
+            std::make_shared<eval::Hand>(hand5),
+            std::make_shared<eval::Hand>(hand6),
+            std::make_shared<eval::Hand>(hand7),
+            std::make_shared<eval::Hand>(hand8)};
+
+    eval::Evaluator evaluator;
+    auto answer = evaluator.evaluate(hands);
+    ASSERT_TRUE(answer[8] == eval::HandType::TwoPair_);
+
+}
+
 
 
 

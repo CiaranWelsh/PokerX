@@ -11,6 +11,5 @@ namespace events {
                             double &amount_to_call) {
         players.getCurrentPlayer()->play(gamePlay, Raise, gamePlay.small_blind);
         players.next_player();
-        gamePlay.small_blind_posted = true;
     }
 }

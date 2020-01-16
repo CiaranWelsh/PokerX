@@ -26,17 +26,24 @@ events::Showdown::go(game::GamePlay &gamePlay, game::Players &players, game::Dea
     std::map<int, eval::HandType> winner = evaluator.evaluate(hands);
     std::vector<int> winning_player;
     std::vector<eval::Hand> winning_hand;
-//    for (auto i : winner)
-    if (winner.size() == 1) {
         for (auto i: winner) {
-            gamePlay.winning_player = i.first;
+            gamePlay.winning_players.push_back(i.first);
             gamePlay.winning_hand = i.second;
         }
-        cout << "winning player: " << gamePlay.winning_player << endl;
+    if (winner.size() == 1) {
+        cout << "winning player: " << gamePlay.winning_players[0] << endl;
         cout << "winning hand: " << gamePlay.winning_hand<< endl;
+        players[gamePlay.winning_players[0]]->pot.value += gamePlay.pot.value;
+        cout << "made it to after the pot " << endl;
     }
     else{
-        cout << "Not implemented " << endl;
-//        throw errors::NotImplementedError("Error", __FILE__, __LINE__);
+        cout <<"split pot between: ";
+        double amount_each = gamePlay.pot.value / winning_player.size();
+        for (auto i: gamePlay.winning_players){
+            cout << i << " and ";
+            players[i]->pot.value += amount_each;
+        }
+        cout << endl;
     }
+
 }

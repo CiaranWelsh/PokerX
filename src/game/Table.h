@@ -20,6 +20,7 @@
 #include <events/time_event/EndGame.h>
 #include <events/time_event/NextStreet.h>
 #include <events/dealer_event/Showdown.h>
+#include <events/dealer_event/ResetGame.h>
 #include "events/EventPtr.h"
 #include "utils/Log.h"
 
@@ -37,6 +38,7 @@ namespace game {
         // events
         events::BeginGame beginGame;
         events::EndGame endGame;
+        events::ResetGame resetGame;
         events::RotatePlayers rotatePlayers;
         events::PostSmallBlind postSmallBlind;
         events::PostBigBlind postBigBlind;

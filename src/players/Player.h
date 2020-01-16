@@ -16,7 +16,7 @@ class Player {
 private:
     std::string type = "Player";
 protected:
-    std::string _name;
+    std::string name;
 public:
 
     Pot pot;
@@ -30,6 +30,8 @@ public:
     cards::HoleCards holeCards;
 
     explicit Player(std::string name);
+
+    Player(std::string name, HoleCards holeCards);
 
     std::string getName();
 
@@ -58,6 +60,9 @@ public:
     bool all_in;
 
     eval::Hand getHand(game::GamePlay &gamePlay);
+
+    void reset();
+
 };
 
 #endif //_PLAYER_H
