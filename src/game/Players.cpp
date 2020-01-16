@@ -29,7 +29,7 @@ namespace game {
         current_player = _players[0];
     }
 
-    vector<boost::shared_ptr<Player>> Players::getPositions() {
+    vector<std::shared_ptr<Player>> Players::getPositions() {
         return _players;
     }
 

@@ -7,7 +7,7 @@
 
 void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
                               double &amount_to_call) {
-    boost::shared_ptr<Player> player = players.getCurrentPlayer();
+    std::shared_ptr<Player> player = players.getCurrentPlayer();
     ActionType action = player->choose_action(gamePlay.action_set);
     if (action == NoAction)
         throw errors::InvalidActionError("ActionType NoAction is not to be used", __FILE__, __LINE__);

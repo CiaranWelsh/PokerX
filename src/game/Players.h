@@ -11,7 +11,7 @@
 #include <boost/shared_ptr.hpp>
 
 namespace game {
-    typedef boost::shared_ptr<Player> PlayerPtr;
+    typedef std::shared_ptr<Player> PlayerPtr;
 
     class Players {
     private:
