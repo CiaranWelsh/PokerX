@@ -243,25 +243,30 @@ TEST_F(EventTests, TestGameEndedFlagReset) {
     table.reset();
     ASSERT_FALSE(table.gamePlay.game_ended);
 }
-//
-//TEST_F(EventTests, TestGamePlay3) {
-//    cout << endl;
-//    std::vector<int> winning_players;
-//    std::vector<eval::HandType> winning_hands;
-//    int num = 2;
-//    for (int i = 0; i < num; i++) {
-//        cout << table.gamePlay.game_ended << endl;
-//        while (!table.gamePlay.game_ended) {
-//            table.step();
-//        }
-//        winning_hands.push_back(table.gamePlay.winning_hand);
-//        winning_players.push_back(table.gamePlay.winning_players[0]);
-//        cout << "Winning hand " << table.gamePlay.winning_hand;
-//        cout << " Winning Player " << table.gamePlay.winning_players[0] << endl;
-//        table.reset();
-//    }
-//
-//}
+
+TEST_F(EventTests, TestGamePlay3) {
+    cout << endl;
+    std::vector<int> winning_players;
+    std::vector<eval::HandType> winning_hands;
+    int num = 1;
+    for (int i = 0; i < num; i++) {
+        cout << "Running iteration: " << i << endl;
+        cout << table.gamePlay.game_ended << endl;
+        while (!table.gamePlay.game_ended) {
+            table.step();
+        }
+        winning_hands.push_back(table.gamePlay.winning_hand);
+        winning_players.push_back(table.gamePlay.winning_players[0]);
+        cout << "Winning hand " << table.gamePlay.winning_hand;
+        cout << " Winning Player " << table.gamePlay.winning_players[0] << endl;
+        cout << "Community cards: " << table.gamePlay.communityCards<< endl;
+        for (auto player : table.players){
+            cout << player->getName() << " " << player->holeCards << endl;
+        }
+        table.reset();
+    }
+
+}
 //
 //TEST_F(EventTests, TestGamePlay4) {
 //    cout << endl;

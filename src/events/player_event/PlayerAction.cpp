@@ -23,7 +23,6 @@ void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, 
             break;
         }
         case Call: {
-            cout << "amount to call is: " << amount_to_call << endl;
             amount = amount_to_call;
             break;
         }

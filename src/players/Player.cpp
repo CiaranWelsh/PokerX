@@ -37,7 +37,7 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
     played_this_street = true;
     switch (action) {
         case Raise:
-            cout << "player " << getName() << " raised" << endl;
+//            cout << "player " << getName() << " raised" << endl;
             if (amount < gamePlay.largest_bidder_amount)
                 throw errors::ValueError("Amount raised is less that existing bid", __FILE__, __LINE__);
             if (amount > stack) {
@@ -50,7 +50,7 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
             stack -= amount;
             break;
         case Call:
-            cout << "player " << getName() << " called" << endl;
+//            cout << "player " << getName() << " called" << endl;
             if (amount > stack) {
                 // if call amount > stack, call recursively with AllIn
                 play(gamePlay, AllIn, stack);
@@ -59,14 +59,14 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
             stack -= amount;
             break;
         case Fold:
-            cout << "player " << getName() << " folded" << endl;
+//            cout << "player " << getName() << " folded" << endl;
             inplay = false;
             break;
         case Check:
-            cout << "player " << getName() << " checked" << endl;
+//            cout << "player " << getName() << " checked" << endl;
             break;
         case AllIn:
-            cout << "player " << getName() << " AllIn" << endl;
+//            cout << "player " << getName() << " AllIn" << endl;
             all_in = true;
             pot += stack;
             stack -= stack;
