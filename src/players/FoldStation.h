@@ -17,7 +17,7 @@ public:
 
     ActionType choose_action(std::shared_ptr<std::vector<ActionType>> actions) override;
 
-
+    std::string getType() override;
 
 };
 

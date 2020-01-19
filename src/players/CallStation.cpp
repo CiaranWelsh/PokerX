@@ -22,4 +22,8 @@ ActionType CallStation::choose_action(std::shared_ptr<std::vector<ActionType>> a
     return action;
 }
 
+std::string CallStation::getType() {
+    return type;
+}
+
 

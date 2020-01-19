@@ -64,33 +64,43 @@ namespace game {
         // Switch current event
         if (current_event->getId() == "BeginGame") {
             current_event = &resetGame;
+            cout << "Resetting game"<< endl;
         } else if (current_event->getId() == "ResetGame") {
             current_event = &rotatePlayers;
+            cout << "Rotating players"<< endl;
         } else if (current_event->getId() == "RotatePlayers") {
             current_event = &postSmallBlind;
+            cout << "Posting small blind"<< endl;
         } else if (current_event->getId() == "PostSmallBlind") {
             current_event = &postBigBlind;
+            cout << "Posting big blind"<< endl;
         } else if (current_event->getId() == "PostBigBlind") {
             current_event = &dealHoleCards;
+            cout << "Dealing hole cards"<< endl;
         } else if (current_event->getId() == "DealHoleCards") {
             current_event = &playerAction;
+            cout << "Player is acting"<< endl;
         } else if (current_event->getId() == "PlayerAction") {
             // when all players left in the game have equal bets and no players
             // have played yet this round, next street
             if (players.checkAllPlayersEqual() && (players.noPlayersPlayedThisStreet())) {
                 current_event = &nextStreet;
+                cout << "Moving to the next street "<< endl;
             } else {
                 if (gamePlay.street == River) {
                     players.next_player();
                     current_event = &showdown;
+                    cout << "Switching to showdown"<< endl;
                 } else {
                     // next player and go again
                     players.next_player();
                     current_event = &playerAction;
+                    cout << "Switching to next player"<< endl;
                 }
             }
         } else if (current_event->getId() == "NextStreet") {
             current_event = &playerAction;
+            cout << " "<< endl;
         } else if (current_event->getId() == "Showdown") {
             current_event = &endGame;
             cout << "Showdown complete" << endl;

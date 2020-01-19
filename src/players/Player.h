@@ -49,7 +49,7 @@ public:
 
     friend ostream &operator<<(ostream &os, Player &player);
 
-    std::string getType();
+    virtual std::string getType();
 
     double stack = 0;
 
@@ -57,7 +57,7 @@ public:
 
     bool played_this_street = false;
 
-    bool all_in;
+    bool all_in = false;
 
     eval::Hand getHand(game::GamePlay &gamePlay);
 

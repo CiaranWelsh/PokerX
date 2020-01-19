@@ -8,6 +8,7 @@
 #include <events/player_event/PostSmallBlind.h>
 #include <events/player_event/PostBigBlind.h>
 #include <eval/Evaluator.h>
+#include <players/FoldStation.h>
 #include "gtest/gtest.h"
 #include "iostream"
 #include "events/Event.h"
@@ -22,11 +23,19 @@ class EventTests : public ::testing::Test {
 protected:
     game::Players players;
     game::Table table;
+    game::Players playersWithFolder;
+    game::Table tableWithFolder;
 
     void SetUp() {
         players = game::Players::callStations(9);
         game::Table table2(players);
         table = table2;
+        players = game::Players::callStations(9);
+        playersWithFolder = players;
+        FoldStation foldStation("folder");
+        playersWithFolder[3] = std::make_shared<Player>(foldStation);
+        game::Table tableWithFolder2(playersWithFolder);
+        tableWithFolder = tableWithFolder2;
     }
 };
 
@@ -226,14 +235,6 @@ TEST_F(EventTests, TestTransitionFromPreflopToFlop) {
 }
 
 
-TEST_F(EventTests, TestGamePlayWithCallStations1) {
-    cout << endl;
-    while (!table.gamePlay.game_ended) {
-        table.step();
-    }
-
-}
-
 TEST_F(EventTests, TestGameEndedFlagReset) {
     cout << endl;
     while (!table.gamePlay.game_ended) {
@@ -248,7 +249,8 @@ TEST_F(EventTests, TestGamePlay3) {
     cout << endl;
     std::vector<int> winning_players;
     std::vector<eval::HandType> winning_hands;
-    int num = 1;
+    // test fails because all in isn't handled.
+    int num = 5;
     for (int i = 0; i < num; i++) {
         cout << "Running iteration: " << i << endl;
         cout << table.gamePlay.game_ended << endl;
@@ -259,14 +261,45 @@ TEST_F(EventTests, TestGamePlay3) {
         winning_players.push_back(table.gamePlay.winning_players[0]);
         cout << "Winning hand " << table.gamePlay.winning_hand;
         cout << " Winning Player " << table.gamePlay.winning_players[0] << endl;
-        cout << "Community cards: " << table.gamePlay.communityCards<< endl;
-        for (auto player : table.players){
+        cout << "Community cards: " << table.gamePlay.communityCards << endl;
+        for (auto player : table.players) {
             cout << player->getName() << " " << player->holeCards << endl;
         }
         table.reset();
     }
+}
+
+
+TEST_F(EventTests, TestGamePlayWithCallStations1) {
+    cout << endl;
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // resetting
+
+    for (auto player: tableWithFolder.players){
+
+        cout << player->getType() << endl;
+    }
+//    while (!tableWithFolder.gamePlay.game_ended) {
+//        table.step();
+//    }
 
 }
+
+
+
+
+
+
 //
 //TEST_F(EventTests, TestGamePlay4) {
 //    cout << endl;

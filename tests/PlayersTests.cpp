@@ -8,6 +8,7 @@
 #include "game/Pot.h"
 #include "game/Players.h"
 #include "players/CallStation.h"
+#include "players/FoldStation.h"
 
 using namespace std;
 using namespace game;
@@ -38,6 +39,7 @@ TEST_F(PlayersTests, TestCurrentPlayer) {
     actual << players.getCurrentPlayer()->getName();
     ASSERT_EQ(expected, actual.str());
 }
+
 TEST_F(PlayersTests, TestCurrentPlayerIsUpdatedAfterRotate) {
     std::string expected = "player1";
     players.rotate();
@@ -141,6 +143,23 @@ TEST_F(PlayersTests, TestGetPlayerByName) {
     ASSERT_EQ(expected, actual);
 }
 
+TEST_F(PlayersTests, TestCopyAssignmentOperator) {
+    Players players = Players::callStations(6);
+    CallStation callStation("NewCallStation");
+    std::shared_ptr<Player> callStationPtr = std::make_shared<Player>(callStation);
+    players[0] = callStationPtr;
+    std::string expected = "NewCallStation";
+    std::string actual = players[0]->getName();
+    ASSERT_EQ(expected, actual);
+}
 
 
-
+TEST(PlayerTests, TestThatWeCanCreateAMixedTable) {
+    Players players = game::Players::callStations(9);
+    FoldStation foldStation("Folder");
+    std::shared_ptr<Player> foldStationPtr = std::make_shared<Player>(foldStation);
+    players[0] = foldStationPtr;
+    for (auto i: players) {
+        cout << i->getName() << " " << i->getType() << endl;
+    }
+}

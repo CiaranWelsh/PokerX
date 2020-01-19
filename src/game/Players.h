@@ -15,7 +15,7 @@ namespace game {
 
     class Players {
     private:
-        vector<PlayerPtr> _players;
+        vector<PlayerPtr> players_;
         PlayerPtr current_player;
 
     public:
@@ -37,11 +37,13 @@ namespace game {
 
         void rotate();
 
-        PlayerPtr operator[](const std::string& name);
+        PlayerPtr operator[](std::string name);
+
+        PlayerPtr& operator[](int index);
+
+        PlayerPtr& operator=(int index);
 
         void previous_player();
-
-        PlayerPtr operator[](int index);
 
         static Players callStations(int howMany, double start_amount = 10);
 
@@ -58,6 +60,8 @@ namespace game {
         bool checkAllPlayersEqual();
 
         bool noPlayersPlayedThisStreet();
+
+        Players foldStations(int howMany, double start_amount);
     };
 }
 #endif //_POSITIONS_H

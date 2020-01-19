@@ -17,17 +17,21 @@ void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, 
     // when raised, switched to action set that doesn't contain check.
     switch (action) {
         case Check: {
+            cout << player->getName() << " has checked" << endl;
             break;
         }
         case Fold: {
+            cout << player->getName() << " has folded" << endl;
             break;
         }
         case Call: {
             amount = amount_to_call;
+            cout << player->getName() << " has called" << endl;
             break;
         }
         case Raise: {
             amount = 1.0;
+            cout << player->getName() << " has raised" << endl;
             break;
         }
         case AllIn: {

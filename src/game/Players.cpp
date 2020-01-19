@@ -10,7 +10,7 @@
 #include <utility>
 #include <dshow.h>
 #include <utils/EqualityChecker.h>
-
+#include "players/FoldStation.h"
 /**
  * Positions implementation
  */
@@ -20,33 +20,33 @@ namespace game {
     Players::~Players() = default;
 
     Players::Players(Players const &positions) {
-        this->_players = positions._players;
-        current_player = _players[0];
+        this->players_ = positions.players_;
+        current_player = players_[0];
     }
 
     Players::Players(std::vector<PlayerPtr> vec) {
-        this->_players = std::move(vec);
-        current_player = _players[0];
+        this->players_ = std::move(vec);
+        current_player = players_[0];
     }
 
     vector<std::shared_ptr<Player>> Players::getPositions() {
-        return _players;
+        return players_;
     }
 
     void Players::addPlayer(const PlayerPtr &player_ptr) {
-        _players.push_back(player_ptr);
+        players_.push_back(player_ptr);
     }
 
     void Players::addPlayer(const PlayerPtr &player, int index) {
-        _players.insert(_players.begin() + index, player);
+        players_.insert(players_.begin() + index, player);
     }
 
     void Players::rotate() {
-        PlayerPtr front_player = _players[0];
-        _players.erase(_players.begin());
-        _players.push_back(front_player);
+        PlayerPtr front_player = players_[0];
+        players_.erase(players_.begin());
+        players_.push_back(front_player);
         // must update current_player field
-        current_player = _players[0];
+        current_player = players_[0];
         /*
          * Makes this method recursive. Keep rotating until you find a
          * player who is still in the game. All players should be inplace=true
@@ -57,22 +57,11 @@ namespace game {
         }
     }
 
-    PlayerPtr Players::operator[](const std::string& name){
-        PlayerPtr x;
-        for (const PlayerPtr& player : _players){
-            if (player->getName() == name)
-                x = player;
-        }
-        if (x == nullptr)
-            throw errors::NullPointerException("Did not find a player with that name", __FILE__, __LINE__);
-        return x;
-    }
-
     void Players::previous_player() {
-        PlayerPtr back_player = _players[size() - 1];
-        _players.erase(_players.begin() + size() - 1);
-        _players.insert(_players.begin(), back_player);
-        current_player = _players[0];
+        PlayerPtr back_player = players_[size() - 1];
+        players_.erase(players_.begin() + size() - 1);
+        players_.insert(players_.begin(), back_player);
+        current_player = players_[0];
         if (!current_player->inplay)
             previous_player();
     }
@@ -81,17 +70,16 @@ namespace game {
         rotate();
     }
 
-    PlayerPtr Players::operator[](int index) {
-        if (_players.empty()) {
+    PlayerPtr& Players::operator[](int index) {
+        if (players_.empty()) {
             throw errors::EmptyContainerError("You cannot get access to players "
                                               "as there are not players yet.", __FILE__, __LINE__);
         }
-        if (_players[index] == nullptr) {
+        if (players_[index] == nullptr) {
             throw errors::NullPointerException("In Players::operator[], index is a nullptr", __FILE__, __LINE__);
         }
-        return _players[index];
+        return players_[index];
     }
-
 
     Players Players::callStations(int howMany, double start_amount) {
         std::vector<PlayerPtr> positions;
@@ -107,16 +95,46 @@ namespace game {
         return pos;
     }
 
+
+    Players Players::foldStations(int howMany, double start_amount) {
+        std::vector<PlayerPtr> positions;
+        for (int i = 0; i < howMany; i++) {
+            ostringstream name;
+            name << "player" << i;
+            PlayerPtr ptr(new FoldStation(name.str()));
+            ptr->stack = start_amount;
+            positions.push_back(ptr);
+            name.flush();
+        }
+        Players pos(positions);
+        return pos;
+    }
+
+    PlayerPtr& Players::operator=(int index) {
+        return players_[index];
+    }
+
+    PlayerPtr Players::operator[](std::string name){
+        PlayerPtr x;
+        for (const PlayerPtr& player : players_){
+            if (player->getName() == name)
+                x = player;
+        }
+        if (x == nullptr)
+            throw errors::NullPointerException("Did not find a player with that name", __FILE__, __LINE__);
+        return x;
+    }
+
     int Players::size() {
-        return _players.size();
+        return players_.size();
     }
 
     std::vector<PlayerPtr>::iterator Players::begin() {
-        return _players.begin();
+        return players_.begin();
     }
 
     std::vector<PlayerPtr>::iterator Players::end() {
-        return _players.end();
+        return players_.end();
     }
 
     ostream &operator<<(ostream &os, Players &players) {
@@ -141,7 +159,7 @@ namespace game {
 
     bool Players::checkAllPlayersEqual() {
         std::vector<double> amounts;
-        for (PlayerPtr player : _players)
+        for (PlayerPtr player : players_)
             amounts.push_back(player->pot.value);
         return utils::EqualityChecker<double>(amounts);
     }
@@ -152,7 +170,7 @@ namespace game {
      */
     bool Players::noPlayersPlayedThisStreet() {
         std::vector<bool> vec;
-        for (PlayerPtr player : _players)
+        for (PlayerPtr player : players_)
             vec.push_back(player->played_this_street);
         return utils::EqualityChecker<bool>(vec);
     }

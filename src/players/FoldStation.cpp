@@ -7,3 +7,7 @@
 ActionType FoldStation::choose_action(std::shared_ptr<std::vector<ActionType>> actions) {
     return Fold;
 }
+
+std::string FoldStation::getType() {
+    return type;
+}
