@@ -9,7 +9,7 @@
 #include <string>
 #include "Player.h"
 
-class FoldStation: public Player {
+class FoldStation : public Player {
 private:
     std::string type = "FoldStation";
 public:

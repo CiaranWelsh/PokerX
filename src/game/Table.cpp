@@ -79,7 +79,7 @@ namespace game {
             cout << "Dealing hole cards"<< endl;
         } else if (current_event->getId() == "DealHoleCards") {
             current_event = &playerAction;
-            cout << "Player is acting"<< endl;
+            cout << "PlayerAction"<< endl;
         } else if (current_event->getId() == "PlayerAction") {
             // when all players left in the game have equal bets and no players
             // have played yet this round, next street

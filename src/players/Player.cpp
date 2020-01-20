@@ -81,6 +81,7 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
 
 Player::Player(Player &player) {
     stack = player.stack;
+    inplay = player.inplay;
     name = player.getName();
 }
 
@@ -96,6 +97,7 @@ void Player::reset() {
     pot = 0;
     HoleCards newHoleCards;
     holeCards = newHoleCards;
+    inplay = true;
 }
 
 Player::Player(std::string name, HoleCards holeCards) {

@@ -159,7 +159,36 @@ TEST(PlayerTests, TestThatWeCanCreateAMixedTable) {
     FoldStation foldStation("Folder");
     std::shared_ptr<Player> foldStationPtr = std::make_shared<Player>(foldStation);
     players[0] = foldStationPtr;
+    std::string expected = "Folder";
+    std::string actual = players[0]->getName();
+    ASSERT_EQ(expected, actual);
+}
+
+TEST(PlayerTests, TestYouCanSetAPlayersInplayOption) {
+    Players players = game::Players::callStations(9);
+    players[1]->inplay = false;
+    ASSERT_FALSE(players[1]->inplay);
+}
+
+TEST(PlayerTests, TestCheckAllPlayersEqual) {
+    Players players = game::Players::callStations(9, 100);
     for (auto i: players) {
-        cout << i->getName() << " " << i->getType() << endl;
+        i->pot = 10;
     }
+    ASSERT_TRUE(players.checkAllPlayersEqual());
+}
+
+TEST(PlayerTests, TestCheckAllPlayersEqualWithAFoldedPlayer) {
+    Players players = game::Players::callStations(9, 100);
+    FoldStation foldStation("Folder");
+    foldStation.stack = 100;
+    foldStation.inplay = false;
+    std::shared_ptr<Player> foldStationPtr = std::make_shared<Player>(foldStation);
+    players[0] = foldStationPtr;
+    for (auto i: players) {
+        i->pot = 10;
+    }
+    players[0]->pot = 0;
+    ASSERT_TRUE(players.checkAllPlayersEqual());
+
 }

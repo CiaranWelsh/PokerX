@@ -33,7 +33,7 @@ protected:
         players = game::Players::callStations(9);
         playersWithFolder = players;
         FoldStation foldStation("folder");
-        playersWithFolder[3] = std::make_shared<Player>(foldStation);
+        playersWithFolder[5] = std::make_shared<Player>(foldStation);
         game::Table tableWithFolder2(playersWithFolder);
         tableWithFolder = tableWithFolder2;
     }
@@ -273,17 +273,13 @@ TEST_F(EventTests, TestGamePlay3) {
 TEST_F(EventTests, TestGamePlayWithCallStations1) {
     cout << endl;
     tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // rotating
+    tableWithFolder.step(); // small
+    tableWithFolder.step(); // big
+    tableWithFolder.step(); // utg1 calls
+    tableWithFolder.step(); // utg2 calls
+    cout << "here: " << endl;
+    tableWithFolder.step(); // folder here
 
     for (auto player: tableWithFolder.players){
 

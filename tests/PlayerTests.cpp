@@ -32,6 +32,19 @@ TEST(PlayerTests, TestFoldStationType) {
     ASSERT_EQ(expected, actual);
 }
 
+TEST(PlayerTests, TestYouCanSetInplay) {
+    FoldStation foldStation("Boid");
+    foldStation.inplay  = false;
+    ASSERT_FALSE(foldStation.inplay);
+}
+
+TEST(PlayerTests, TestYouCanSetInplayFromPtr) {
+    FoldStation foldStation("Boid");
+    foldStation.inplay = false;
+    std::shared_ptr<Player> foldStationPtr = std::make_shared<Player>(foldStation);
+    ASSERT_FALSE(foldStationPtr->inplay);
+}
+
 
 
 //TEST(PlayerTests, TestFolder){

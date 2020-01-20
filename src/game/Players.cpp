@@ -159,8 +159,10 @@ namespace game {
 
     bool Players::checkAllPlayersEqual() {
         std::vector<double> amounts;
-        for (PlayerPtr player : players_)
-            amounts.push_back(player->pot.value);
+        for (PlayerPtr player : players_) {
+            if (player->inplay)
+                amounts.push_back(player->pot.value);
+        }
         return utils::EqualityChecker<double>(amounts);
     }
 

@@ -21,6 +21,7 @@ void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, 
             break;
         }
         case Fold: {
+            player->inplay = false;
             cout << player->getName() << " has folded" << endl;
             break;
         }
