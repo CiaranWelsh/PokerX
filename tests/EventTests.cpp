@@ -9,6 +9,8 @@
 #include <events/player_event/PostBigBlind.h>
 #include <eval/Evaluator.h>
 #include <players/FoldStation.h>
+#include <players/Checker.h>
+#include <players/Raiser.h>
 #include "gtest/gtest.h"
 #include "iostream"
 #include "events/Event.h"
@@ -126,7 +128,7 @@ TEST_F(EventTests, TestPostSmallBlind2) {
     table.step(); // rotate
     table.step(); // SB
     game::PlayerPtr player = table.players[0];
-    double actual = table.players["player1"]->pot.value;
+    double actual = table.players["player1"]->pot;
     double expected = 0.5;
     ASSERT_EQ(expected, actual);
 }
@@ -170,7 +172,7 @@ TEST_F(EventTests, TestPostBigBlind) {
  */
 TEST_F(EventTests, TestDealHoleCards) {
     table.step(); //begin game
-    table.step(); // reset game
+    table.step(); //reset game
     table.step(); //rotation
     table.step(); //small blind
     table.step(); //big blind
@@ -235,15 +237,15 @@ TEST_F(EventTests, TestTransitionFromPreflopToFlop) {
 }
 
 
-TEST_F(EventTests, TestGameEndedFlagReset) {
-    cout << endl;
-    while (!table.gamePlay.game_ended) {
-        table.step();
-    }
-    ASSERT_TRUE(table.gamePlay.game_ended);
-    table.reset();
-    ASSERT_FALSE(table.gamePlay.game_ended);
-}
+//TEST_F(EventTests, TestGameEndedFlagReset) {
+//    cout << endl;
+//    while (!table.gamePlay.game_ended) {
+//        table.step();
+//    }
+//    ASSERT_TRUE(table.gamePlay.game_ended);
+//    table.reset();
+//    ASSERT_FALSE(table.gamePlay.game_ended);
+//}
 
 TEST_F(EventTests, TestGamePlay3) {
     cout << endl;
@@ -286,51 +288,116 @@ TEST_F(EventTests, TestGamePlayWithOneFolder) {
     ASSERT_FALSE(folder->inplay);
 }
 
-TEST_F(EventTests, TestGamePlayWithOneFolderCanSwitchToNextStreet) {
-    cout << endl;
-    tableWithFolder.step(); // resetting
-    tableWithFolder.step(); // rotating
-    tableWithFolder.step(); // small
-    tableWithFolder.step(); // big
-    tableWithFolder.step(); // utg1 calls
-    tableWithFolder.step(); // utg2 calls
-    tableWithFolder.step(); // Middle position calls
-    tableWithFolder.step(); // Hijack position calls
-    tableWithFolder.step(); // folder
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    // next street
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-    tableWithFolder.step();
-
-    std::shared_ptr<Player> folder = tableWithFolder.players["folder"];
-    ASSERT_FALSE(folder->inplay);
-}
 
 
-TEST_F(EventTests, TestGamePlayWi) {
-    cout << endl;
-    while(!tableWithFolder.gamePlay.game_ended){
-        tableWithFolder.step();
+//TEST_F(EventTests, TestGamePlayWi) {
+//    cout << endl;
+//    while(!tableWithFolder.gamePlay.game_ended){
+//        tableWithFolder.step();
+//    }
+//}
+
+
+
+class MixedTableTests : public ::testing::Test {
+protected:
+    game::Players players;
+    game::Table table;
+
+    // call station should always check if they can and call if they cant
+
+    void SetUp() {
+        FoldStation foldStation1("player5");
+        FoldStation foldStation2("player6");
+        Raiser raiser("player7");
+        foldStation1.stack = 100;
+        foldStation2.stack = 100;
+        raiser.stack = 100;
+        players = game::Players::callStations(9, 100);
+
+        players[5] = std::make_shared<FoldStation>(foldStation1);
+        players[6] = std::make_shared<FoldStation>(foldStation2);
+        players[7] = std::make_shared<Raiser>(raiser);
+
+        game::Table table2(players);
+
+        table = table2;
     }
+};
+
+
+
+TEST_F(MixedTableTests, TestMixedTablePotAmount) {
+    table.step(); // resetting
+    table.step(); // rotating
+    table.step(); // small
+    table.step(); // big
+    table.step(); // utg1 calls
+    table.step(); // utg2 calls
+    table.step(); // Middle position calls
+    table.step(); // Hijack position calls
+    table.step(); // folder
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+
+    cout << "Total in pot: " << table.gamePlay.pot << endl;
+    int expected = 21;
+    int actual = table.gamePlay.pot.value;
+    ASSERT_EQ(expected, actual);
 }
 
+TEST_F(MixedTableTests, TestAllPlayersEqualAtEndOfFlop) {
+    while(table.gamePlay.street == game::Preflop){
+        table.step();
+    }
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step(); // all players are equal here
+    ASSERT_TRUE(table.players.checkAllPlayersEqual());
+}
 
+TEST_F(MixedTableTests, TestMixedTable) {
+    while(table.gamePlay.street == game::Preflop){
+        table.step();
+    }
+    // 3 * 7 (2 people folded) = 21
+    cout << "Total in pot after preflop: " << table.gamePlay.pot << endl;
 
+//    while(table.gamePlay.street == game::Flop){
+//        table.step();
+//    }
+    // Flop + 3 * 7 (2 people folded) = 42
+//    cout << "Total in pot after flop: " << table.gamePlay.pot << endl;
 
-
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    table.step();
+    cout << "players equal? " << table.players.checkAllPlayersEqual() << endl;
+    table.step(); // all players are equal here
+    cout << "players equal? " << table.players.checkAllPlayersEqual() << endl;
+}
 
 //
 //TEST_F(EventTests, TestGamePlay4) {

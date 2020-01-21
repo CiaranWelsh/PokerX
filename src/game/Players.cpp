@@ -22,11 +22,21 @@ namespace game {
     Players::Players(Players const &positions) {
         this->players_ = positions.players_;
         current_player = players_[0];
+        button = players_[0];
+    }
+
+    void Players::setButton(PlayerPtr btn){
+        this->button = btn;
+    }
+
+    PlayerPtr Players::getButton(){
+        return button;
     }
 
     Players::Players(std::vector<PlayerPtr> vec) {
         this->players_ = std::move(vec);
         current_player = players_[0];
+        button = players_[0];
     }
 
     vector<std::shared_ptr<Player>> Players::getPositions() {
@@ -164,7 +174,7 @@ namespace game {
         std::vector<double> amounts;
         for (PlayerPtr player : players_) {
             if (player->inplay)
-                amounts.push_back(player->pot.value);
+                amounts.push_back(player->pot);
         }
         return utils::EqualityChecker<double>(amounts);
     }
@@ -175,8 +185,10 @@ namespace game {
      */
     bool Players::noPlayersPlayedThisStreet() {
         std::vector<bool> vec;
-        for (PlayerPtr player : players_)
-            vec.push_back(player->played_this_street);
+        for (PlayerPtr player : players_) {
+            if (player->inplay)
+                vec.push_back(player->played_this_street);
+        }
         return utils::EqualityChecker<bool>(vec);
     }
 

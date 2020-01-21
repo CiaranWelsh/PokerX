@@ -44,10 +44,13 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
                 // if call amount > stack, call recursively with AllIn
                 play(gamePlay, AllIn, stack);
             }
-
+            cout << endl;
+            cout << "raiser stack: " << stack << ", raiser pot amount << " << pot << endl;
             gamePlay.largest_bidder_amount = amount;
             pot += amount;
             stack -= amount;
+            cout << "raiser stack: " << stack << ", raiser pot amount << " << pot << endl;
+            cout << endl;
             break;
         case Call:
 //            cout << "player " << getName() << " called" << endl;

@@ -35,6 +35,7 @@ namespace game {
         ActionTypeVec action_set_raise = {Call, Fold, Raise};
         ActionTypeVec action_set_check = {Check, Call, Fold, Raise};
         std::shared_ptr<ActionTypeVec> action_set_check_ptr = std::make_unique<ActionTypeVec>(action_set_check);
+        std::shared_ptr<ActionTypeVec> action_set_raise_ptr = std::make_unique<ActionTypeVec>(action_set_raise);
         // start with action_set pointing at action_set_check
         std::shared_ptr<ActionTypeVec> action_set = std::make_unique<ActionTypeVec>(action_set_check);
         // When all players are equal after starting a street, we know to move on to the next street

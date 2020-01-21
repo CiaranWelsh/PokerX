@@ -83,6 +83,8 @@ namespace game {
         } else if (current_event->getId() == "PlayerAction") {
             // when all players left in the game have equal bets and no players
             // have played yet this round, next street
+            cout << "all players equal: " << players.checkAllPlayersEqual()
+            << ", No players played this street: " << players.noPlayersPlayedThisStreet() << endl;
             if (players.checkAllPlayersEqual() && (players.noPlayersPlayedThisStreet())) {
                 current_event = &nextStreet;
                 cout << "Moving to the next street "<< endl;
@@ -117,7 +119,7 @@ namespace game {
     void Table::updateAmountToCall() {
         // largest bidder
         double &largest_bidder_amount = gamePlay.largest_bidder_amount;
-        double &amount_player_has_in_their_pot = players.getCurrentPlayer()->pot.value;
+        double &amount_player_has_in_their_pot = players.getCurrentPlayer()->pot;
         gamePlay.amount_to_call = std::make_unique<double>(largest_bidder_amount - amount_player_has_in_their_pot);
     }
 

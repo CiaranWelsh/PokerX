@@ -53,7 +53,7 @@ public:
 
     cards::HoleCards holeCards;
 
-    Pot pot;
+    double pot;
 
     double stack = 0;
 

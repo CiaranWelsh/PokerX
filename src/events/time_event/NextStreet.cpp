@@ -8,8 +8,8 @@ void events::NextStreet::go(game::GamePlay &gamePlay, game::Players &players, ga
                             double &amount_to_call) {
     // collect player pots
     for (const game::PlayerPtr& playerPtr: players) {
-        gamePlay.pot += playerPtr->pot.value;
-        playerPtr->pot.value = 0;
+        gamePlay.pot += playerPtr->pot;
+        playerPtr->pot = 0;
     }
 
     // before start of street put ActionSet back to the one with check available
@@ -20,6 +20,12 @@ void events::NextStreet::go(game::GamePlay &gamePlay, game::Players &players, ga
     for (const game::PlayerPtr& player: players)
         player->played_this_street = false;
 
+    // reset players so that left to the btn goes first
+    while (players.getCurrentPlayer()->getName() != players.getButton()->getName()){
+        players.next_player();
+    }
+    // then one more so pointer starts on left to the dealer
+    players.next_player();
 
     // move to the next street
     switch (gamePlay.street){

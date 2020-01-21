@@ -17,6 +17,7 @@ namespace game {
     private:
         vector<PlayerPtr> players_;
         PlayerPtr current_player;
+        PlayerPtr button;
 
     public:
         Players();
@@ -62,6 +63,10 @@ namespace game {
         bool noPlayersPlayedThisStreet();
 
         Players foldStations(int howMany, double start_amount);
+
+        void setButton(PlayerPtr button);
+
+        PlayerPtr getButton();
     };
 }
 #endif //_POSITIONS_H

@@ -14,11 +14,12 @@
  */
 
 ActionType CallStation::choose_action(std::shared_ptr<std::vector<ActionType>> actions) {
-    ActionType action = Call;
-    bool valid = std::find(actions->begin(), actions->end(), action) != actions->end();
-    if (!valid){
-        throw errors::InvalidActionError("YOU CANNOT USE THIS ACTION HERE", __FILE__, __LINE__);
-    }
+    bool check_available = std::find(actions->begin(), actions->end(), Check) != actions->end();
+    ActionType action;
+    if (check_available)
+        action = Check;
+    else
+        action = Call;
     return action;
 }
 

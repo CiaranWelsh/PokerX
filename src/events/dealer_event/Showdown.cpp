@@ -33,7 +33,7 @@ events::Showdown::go(game::GamePlay &gamePlay, game::Players &players, game::Dea
     if (winner.size() == 1) {
 //        cout << "winning player: " << gamePlay.winning_players[0] << endl;
 //        cout << "winning hand: " << gamePlay.winning_hand<< endl;
-        players[gamePlay.winning_players[0]]->pot.value += gamePlay.pot.value;
+        players[gamePlay.winning_players[0]]->pot += gamePlay.pot.value;
 //        cout << "made it to after the pot " << endl;
     }
     else{
@@ -41,7 +41,7 @@ events::Showdown::go(game::GamePlay &gamePlay, game::Players &players, game::Dea
         double amount_each = gamePlay.pot.value / winning_player.size();
         for (auto i: gamePlay.winning_players){
 //            cout << i << " and ";
-            players[i]->pot.value += amount_each;
+            players[i]->pot += amount_each;
         }
 //        cout << endl;
     }
