@@ -146,7 +146,7 @@ TEST_F(PlayersTests, TestGetPlayerByName) {
 TEST_F(PlayersTests, TestCopyAssignmentOperator) {
     Players players = Players::callStations(6);
     CallStation callStation("NewCallStation");
-    std::shared_ptr<Player> callStationPtr = std::make_shared<Player>(callStation);
+    std::shared_ptr<Player> callStationPtr = std::make_shared<CallStation>(callStation);
     players[0] = callStationPtr;
     std::string expected = "NewCallStation";
     std::string actual = players[0]->getName();
@@ -157,7 +157,7 @@ TEST_F(PlayersTests, TestCopyAssignmentOperator) {
 TEST(PlayerTests, TestThatWeCanCreateAMixedTable) {
     Players players = game::Players::callStations(9);
     FoldStation foldStation("Folder");
-    std::shared_ptr<Player> foldStationPtr = std::make_shared<Player>(foldStation);
+    std::shared_ptr<Player> foldStationPtr = std::make_shared<FoldStation>(foldStation);
     players[0] = foldStationPtr;
     std::string expected = "Folder";
     std::string actual = players[0]->getName();
@@ -183,12 +183,25 @@ TEST(PlayerTests, TestCheckAllPlayersEqualWithAFoldedPlayer) {
     FoldStation foldStation("Folder");
     foldStation.stack = 100;
     foldStation.inplay = false;
-    std::shared_ptr<Player> foldStationPtr = std::make_shared<Player>(foldStation);
+    std::shared_ptr<Player> foldStationPtr = std::make_shared<FoldStation>(foldStation);
     players[0] = foldStationPtr;
     for (auto i: players) {
         i->pot = 10;
     }
     players[0]->pot = 0;
     ASSERT_TRUE(players.checkAllPlayersEqual());
+}
 
+TEST(PlayerTests, TestPlayerTypeWhenMixedSetOfPlayers) {
+    Players players = game::Players::callStations(9, 100);
+    FoldStation foldStation("Folder");
+    foldStation.stack = 100;
+    foldStation.inplay = false;
+    std::shared_ptr<Player> foldStationPtr = std::make_shared<FoldStation>(foldStation);
+    players[0] = foldStationPtr;
+    for (auto i: players) {
+        i->pot = 10;
+    }
+    players[0]->pot = 0;
+    ASSERT_TRUE(players.checkAllPlayersEqual());
 }

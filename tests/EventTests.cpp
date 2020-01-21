@@ -33,7 +33,7 @@ protected:
         players = game::Players::callStations(9);
         playersWithFolder = players;
         FoldStation foldStation("folder");
-        playersWithFolder[5] = std::make_shared<Player>(foldStation);
+        playersWithFolder[5] = std::make_shared<FoldStation>(foldStation);
         game::Table tableWithFolder2(playersWithFolder);
         tableWithFolder = tableWithFolder2;
     }
@@ -270,7 +270,7 @@ TEST_F(EventTests, TestGamePlay3) {
 }
 
 
-TEST_F(EventTests, TestGamePlayWithCallStations1) {
+TEST_F(EventTests, TestGamePlayWithOneFolder) {
     cout << endl;
     tableWithFolder.step(); // resetting
     tableWithFolder.step(); // rotating
@@ -278,17 +278,53 @@ TEST_F(EventTests, TestGamePlayWithCallStations1) {
     tableWithFolder.step(); // big
     tableWithFolder.step(); // utg1 calls
     tableWithFolder.step(); // utg2 calls
-    cout << "here: " << endl;
-    tableWithFolder.step(); // folder here
+    tableWithFolder.step(); // Middle position calls
+    tableWithFolder.step(); // Hijack position calls
+    tableWithFolder.step(); // folder
 
-    for (auto player: tableWithFolder.players){
+    std::shared_ptr<Player> folder = tableWithFolder.players["folder"];
+    ASSERT_FALSE(folder->inplay);
+}
 
-        cout << player->getType() << endl;
+TEST_F(EventTests, TestGamePlayWithOneFolderCanSwitchToNextStreet) {
+    cout << endl;
+    tableWithFolder.step(); // resetting
+    tableWithFolder.step(); // rotating
+    tableWithFolder.step(); // small
+    tableWithFolder.step(); // big
+    tableWithFolder.step(); // utg1 calls
+    tableWithFolder.step(); // utg2 calls
+    tableWithFolder.step(); // Middle position calls
+    tableWithFolder.step(); // Hijack position calls
+    tableWithFolder.step(); // folder
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    // next street
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+    tableWithFolder.step();
+
+    std::shared_ptr<Player> folder = tableWithFolder.players["folder"];
+    ASSERT_FALSE(folder->inplay);
+}
+
+
+TEST_F(EventTests, TestGamePlayWi) {
+    cout << endl;
+    while(!tableWithFolder.gamePlay.game_ended){
+        tableWithFolder.step();
     }
-//    while (!tableWithFolder.gamePlay.game_ended) {
-//        table.step();
-//    }
-
 }
 
 

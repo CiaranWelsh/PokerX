@@ -19,15 +19,13 @@ protected:
     std::string name;
 public:
 
-    Pot pot;
-
     Player();
 
     ~Player();
 
     Player(Player &player);
 
-    cards::HoleCards holeCards;
+    Player& operator=(Player &player);
 
     explicit Player(std::string name);
 
@@ -47,9 +45,15 @@ public:
         return NoAction;
     };
 
-    friend ostream &operator<<(ostream &os, Player &player);
-
     virtual std::string getType();
+
+    eval::Hand getHand(game::GamePlay &gamePlay);
+
+    void reset();
+
+    cards::HoleCards holeCards;
+
+    Pot pot;
 
     double stack = 0;
 
@@ -59,9 +63,7 @@ public:
 
     bool all_in = false;
 
-    eval::Hand getHand(game::GamePlay &gamePlay);
-
-    void reset();
+    friend ostream &operator<<(ostream &os, Player &player);
 
 };
 

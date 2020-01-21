@@ -9,6 +9,7 @@ void events::PlayerAction::go(game::GamePlay &gamePlay, game::Players &players, 
                               double &amount_to_call) {
     std::shared_ptr<Player> player = players.getCurrentPlayer();
     ActionType action = player->choose_action(gamePlay.action_set);
+    cout << "player name: " << player->getName()<< ", player type: " << player->getType()<< endl;
     if (action == NoAction)
         throw errors::InvalidActionError("ActionType NoAction is not to be used", __FILE__, __LINE__);
     // need to calculate amount to call here and

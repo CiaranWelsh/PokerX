@@ -14,6 +14,7 @@
 class CallStation: public Player {
 private:
     std::string type = "CallStation";
+
 public:
     using Player::Player;
 

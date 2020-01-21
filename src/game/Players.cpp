@@ -68,6 +68,9 @@ namespace game {
 
     void Players::next_player() {
         rotate();
+        // recursively call next player until you find a player who is still in the game
+        if (!current_player->inplay)
+            next_player();
     }
 
     PlayerPtr& Players::operator[](int index) {

@@ -80,9 +80,15 @@ void Player::play(game::GamePlay &gamePlay, ActionType action, double amount) {
 }
 
 Player::Player(Player &player) {
+    name = player.getName();
+    type = player.getType();
+    holeCards = player.holeCards;
     stack = player.stack;
     inplay = player.inplay;
-    name = player.getName();
+    pot = player.pot;
+    played_this_street = player.played_this_street;
+    all_in = player.all_in;
+
 }
 
 std::string Player::getType() {
@@ -98,11 +104,23 @@ void Player::reset() {
     HoleCards newHoleCards;
     holeCards = newHoleCards;
     inplay = true;
+    played_this_street = false;
+    all_in = false;
 }
 
 Player::Player(std::string name, HoleCards holeCards) {
     this->holeCards = holeCards;
     this->name = name;
+}
+
+Player &Player::operator=(Player &player) {
+    this->holeCards = player.holeCards;
+    this->pot = player.pot;
+    this->stack = player.stack;
+    this->inplay = player.inplay;
+    this->played_this_street = player.played_this_street;
+    this->all_in = player.all_in;
+    return *this;
 }
 
 
