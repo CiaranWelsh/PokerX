@@ -18,7 +18,7 @@ namespace events {
             description = "Player chooses to check, fold, call or raise.";
         }
 
-        using PlayerEvent::Event;
+//        using PlayerEvent::Event;
 
         void go(game::GamePlay &gamePlay, game::Players &players, game::Dealer &dealer,
                 double &amount_to_call) override;

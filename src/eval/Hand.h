@@ -7,10 +7,10 @@
 
 #include <tuple>
 #include <utility>
-#include "cards/Card.h"
-#include "cards/CardCollection.h"
-#include "cards/CommunityCards.h"
-#include "cards/HoleCards.h"
+#include "card/Card.h"
+#include "card/CardCollection.h"
+#include "card/CommunityCards.h"
+#include "card/HoleCards.h"
 #include <memory>
 #include <utils/Counter.h>
 #include <map>

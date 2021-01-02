@@ -9,12 +9,12 @@ class community_cards;
 
 #include <players/ActionType.h>
 #include <vector>
-#include <boost/shared_ptr.hpp>
-#include <cards/CardCollection.h>
+#include <memory>
+#include "card/CardCollection.h"
 #include "Street.h"
 #include "Pot.h"
 #include "eval/Hand.h"
-#include "cards/CommunityCards.h"
+#include "card/CommunityCards.h"
 
 namespace game {
     struct GamePlay {

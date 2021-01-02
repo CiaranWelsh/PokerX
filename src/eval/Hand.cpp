@@ -7,8 +7,8 @@
 #include <memory>
 #include "Hand.h"
 #include "iostream"
-#include "cards/CommunityCards.h"
-#include "cards/HoleCards.h"
+#include "card/CommunityCards.h"
+#include "card/HoleCards.h"
 #include "Errors.h"
 #include "utils/Counter.h"
 

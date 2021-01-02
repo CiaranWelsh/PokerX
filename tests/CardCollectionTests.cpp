@@ -6,8 +6,8 @@
 #include "cards/Deck.h"
 #include "cards/CardCollection.h"
 
-#include <boost/random/uniform_int.hpp>
-#include <boost/date_time/posix_time/posix_time.hpp>
+//#include <boost/random/uniform_int.hpp>
+//#include <boost/date_time/posix_time/posix_time.hpp>
 #include <chrono>
 
 using namespace cards;
@@ -68,15 +68,6 @@ TEST(CardCollectionTests, EqualityTest) {
 }
 
 
-TEST(CardCollectionTests, ConsstructorFromInt) {
-    // For any random operations you need to
-    //  set the seed in a main block.
-    nc::random::seed(time(NULL));
-    CardCollection cards1(4);
-    CardCollection cards2(4);
-    ASSERT_FALSE(cards1 == cards2);
-}
-
 
 TEST(CardCollectionTests, TestPop) {
     Card card1(6, "C");
@@ -97,19 +88,6 @@ TEST(CardCollectionTests, TestPopWithIntArg) {
     ASSERT_TRUE(new_card[1] == card2);
 }
 
-
-TEST(CardCollectionTests, TestCardCollectionFromAnotherCardCollection) {
-    Card card1(6, "C");
-    Card card2(7, "C");
-    Card card3(8, "C");
-    Card card4(9, "C");
-    Card card5(10, "C");
-    std::vector<Card> cards{card1, card2, card3, card4, card5};
-    CardCollection cc(cards);
-    CardCollection cc2(cc, 2);
-    ASSERT_TRUE(cc.size() == 3);
-    ASSERT_TRUE(cc2.size() == 2);
-}
 
 
 TEST(CardCollectionTests, TestOverloadingPlus) {

@@ -1,14 +1,13 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.15)
 
 project(PokerSimulationsInCpp)
 
+find_package(Boost REQUIRED)
 
-set(BOOST_DIR D:/boost_1_64_0)
-set(NUMCPP_DIR D:/NumCpp/include)
+message(STATUS "Boost_FOUND ${Boost_FOUND}")
 
-include_directories(src ${BOOST_DIR} ${NUMCPP_DIR})
+set(NUMCPP_INCLUDE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/extern/NumCpp/include")
 
 add_subdirectory(src)
 add_subdirectory(tests)
-add_subdirectory(lib/googletest)
 

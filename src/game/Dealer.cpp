@@ -4,9 +4,9 @@
 
 
 #include "Dealer.h"
-#include "cards/Card.h"
-#include "cards/CardCollection.h"
-#include "cards/CommunityCards.h"
+#include "card/Card.h"
+#include "card/CardCollection.h"
+#include "card/CommunityCards.h"
 
 /**
  * Dealer implementation

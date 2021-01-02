@@ -1,11 +1,11 @@
 #ifndef _DEALER_H
 #define _DEALER_H
 
-#include <cards/Deck.h>
-#include "cards/HoleCards.h"
-#include "cards/CommunityCards.h"
-#include "cards/CardCollection.h"
-#include "cards/Card.h"
+#include <card/Deck.h>
+#include "card/HoleCards.h"
+#include "card/CommunityCards.h"
+#include "card/CardCollection.h"
+#include "card/Card.h"
 #include "players/Player.h"
 #include "Players.h"
 

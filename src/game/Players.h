@@ -8,7 +8,7 @@
 
 #include "vector"
 #include "players/Player.h"
-#include <boost/shared_ptr.hpp>
+#include <memory>
 
 namespace game {
     typedef std::shared_ptr<Player> PlayerPtr;

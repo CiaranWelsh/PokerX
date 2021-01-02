@@ -1,16 +1,14 @@
-set(BINARY ${CMAKE_PROJECT_NAME})
+set(target poker)
 
-#add_executable(${BINARY}_run main.cpp Card.cpp Card.h Hand.cpp Hand.h)
-add_library(${BINARY}_lib STATIC
-        cards/Card.h cards/Card.cpp
+set(SOURCES         card/Card.h card/Card.cpp
         eval/Hand.h eval/Hand.cpp
-        cards/Deck.h cards/Deck.cpp
-        cards/CardCollection.h cards/CardCollection.cpp
-        cards/HoleCards.h cards/HoleCards.cpp
-        cards/CommunityCards.h cards/CommunityCards.cpp
+        card/Deck.h card/Deck.cpp
+        card/CardCollection.h card/CardCollection.cpp
+        card/HoleCards.h card/HoleCards.cpp
         eval/Evaluator.cpp eval/Evaluator.h
         Errors.h
         utils/Counter.h
+        utils/UniformRNG.h utils/UniformRNG.cpp
 
         players/Player.h players/Player.cpp
         players/CallStation.h players/CallStation.cpp
@@ -39,7 +37,23 @@ add_library(${BINARY}_lib STATIC
         events/player_event/PostBigBlind.cpp
         events/player_event/PostBigBlind.h
         events/EventPtr.h
-        game/GamePlay.h events/time_event/EndGame.cpp events/time_event/EndGame.h events/dealer_event/DealHoleCards.cpp events/dealer_event/DealHoleCards.h events/player_event/PlayerAction.cpp events/player_event/PlayerAction.h events/time_event/NextStreet.cpp events/time_event/NextStreet.h utils/EqualityChecker.h events/dealer_event/DealTurn.cpp events/dealer_event/DealTurn.h events/dealer_event/DealFlop.cpp events/dealer_event/DealFlop.h events/dealer_event/DealRiver.cpp events/dealer_event/DealRiver.h utils/Log.h utils/ArgMax.h events/dealer_event/Showdown.cpp events/dealer_event/Showdown.h players/FoldStation.cpp players/FoldStation.h events/dealer_event/ResetGame.cpp events/dealer_event/ResetGame.h players/Checker.cpp players/Checker.h players/Raiser.cpp players/Raiser.h players/PreflopRaiser.cpp players/PreflopRaiser.h)
+        game/GamePlay.h events/time_event/EndGame.cpp
+        events/time_event/EndGame.h events/dealer_event/DealHoleCards.cpp
+        events/dealer_event/DealHoleCards.h events/player_event/PlayerAction.cpp
+        events/player_event/PlayerAction.h events/time_event/NextStreet.cpp
+        events/time_event/NextStreet.h utils/EqualityChecker.h events/dealer_event/DealTurn.cpp
+        events/dealer_event/DealTurn.h events/dealer_event/DealFlop.cpp
+        events/dealer_event/DealFlop.h events/dealer_event/DealRiver.cpp
+        events/dealer_event/DealRiver.h utils/Log.h utils/ArgMax.h
+        events/dealer_event/Showdown.cpp events/dealer_event/Showdown.h
+        players/FoldStation.cpp players/FoldStation.h
+        events/dealer_event/ResetGame.cpp events/dealer_event/ResetGame.h
+        players/Checker.cpp players/Checker.h players/Raiser.cpp
+        players/Raiser.h players/PreflopRaiser.cpp players/PreflopRaiser.h
+)
+
+add_library(${target} STATIC ${SOURCES})
+target_include_directories(${target} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 
 
