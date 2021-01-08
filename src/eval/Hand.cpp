@@ -508,8 +508,8 @@ namespace eval {
 
         // Deal with low aces straights
         CardCollection best5_ace_low;
-        if (cards_[0].rank == 2 && cards_[1].rank == 3 && cards_[2].rank == 4 &&
-            cards_[3].rank == 5 && cards_[6].rank == 14) {
+        if (cards_[0].getRank() == 2 && cards_[1].getRank() == 3 && cards_[2].getRank() == 4 &&
+            cards_[3].getRank() == 5 && cards_[6].getRank() == 14) {
             for (int i : {0, 1, 2, 3, 6}) {
                 best5_ace_low.add(cards_[i]);
             }
@@ -549,8 +549,8 @@ namespace eval {
         int frames[] = {0, 1, 2};
 
         // deal with low aces
-        if (cards[0].rank == 2 && cards[1].rank == 3 && cards[2].rank == 4 &&
-            cards[3].rank == 5 && cards[6].rank == 14) {
+        if (cards[0].getRank() == 2 && cards[1].getRank() == 3 && cards[2].getRank() == 4 &&
+            cards[3].getRank() == 5 && cards[6].getRank() == 14) {
             return true;
         }
 
@@ -635,7 +635,7 @@ namespace eval {
             }
         }
         for (const Card &card : cards_) {
-            if (card.suit == which_suit)
+            if (card.getSuit() == which_suit)
                 best5.add(card);
         }
         if (best5.size() > 5) {
@@ -697,9 +697,9 @@ namespace eval {
         }
         CardCollection best5;
         for (const Card &i : cards_) {
-            if (i.rank == theThree)
+            if (i.getRank() == theThree)
                 best5.add(i);
-            else if (i.rank == theTwo)
+            else if (i.getRank() == theTwo)
                 best5.add(i);
         }
         if (best5.size() != 5)
@@ -862,11 +862,11 @@ namespace eval {
     bool RoyalFlush::isa() {
         StraightFlush sflush(cards_);
         CardCollection sflushcards = sflush.best5();
-        return sflush.isa() && sflushcards[0].rank == 10
-               && sflushcards[1].rank == 11
-               && sflushcards[2].rank == 12
-               && sflushcards[3].rank == 13
-               && sflushcards[4].rank == 14;
+        return sflush.isa() && sflushcards[0].getRank() == 10
+               && sflushcards[1].getRank() == 11
+               && sflushcards[2].getRank() == 12
+               && sflushcards[3].getRank() == 13
+               && sflushcards[4].getRank() == 14;
     }
 
     /*

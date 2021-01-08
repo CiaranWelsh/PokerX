@@ -3,70 +3,49 @@
 //
 
 #include <iostream>
-#include <string>
 #include "Card.h"
-#include "CardCollection.h"
-#include <algorithm> // for str::find
-#include <iterator> // for str::begin, std::End
+#include <iterator> //
 #include <utility>
-#include <vector>
-//#include <boost/lexical_cast.hpp>
 
 namespace cards {
 
-    Card::Card(const Card &other) {
-        rank = other.rank;
-        suit = other.suit;
-    }
+    Card::Card(int r, std::string s) : ICard(r, std::move(s)){}
 
-    Card::~Card() = default;
-
-    Card::Card(int r, std::string s) {
-        this->suit = std::move(s);
-        this->rank = r;
-    }
-
-    Card &Card::operator=(const Card &c) {
-        if (this == &c)
-            return *this;
-        rank = c.rank;
-        suit = c.suit;
-        return *this;
-    }
-
-    std::ostream &operator<<(std::ostream &out, const Card &c) {
-        out << "Card(" << c.rank << c.suit << ")";
+    std::ostream &operator<<(std::ostream &out, const ICard &c) {
+        out << "Card(" << c.rank_ << c.suit_ << ")";
         return out;
     }
 
-    bool cards::Card::operator<(const Card &other) {
-        return this->rank < other.rank;
+    bool ICard::operator<(const ICard &other) const {
+        return this->rank_ < other.rank_;
     }
 
-    bool cards::Card::operator<=(const Card &other) {
-        if (this->rank == other.rank)
-            return this->suit == other.suit;
-        else
-            return this->rank < other.rank;
+    bool ICard::operator<=(const ICard &other) const {
+        return rank_ <= other.rank_;
     }
 
-    bool cards::Card::operator>(const Card &other) {
-        return this->rank > other.rank;
+    bool ICard::operator>(const ICard &other) const {
+        return this->rank_ > other.rank_;
     }
 
-    bool cards::Card::operator>=(const Card &other) {
-        if (this->rank == other.rank)
-            return this->suit == other.suit;
-        else
-            return this->rank > other.rank;
+    bool ICard::operator>=(const ICard &other) const {
+        return rank_ >= other.rank_;
     }
 
-    bool cards::Card::operator==(const Card &other) {
-        return (this->rank == other.rank) && (this->suit == other.suit);
+    bool ICard::operator==(const ICard &other) const {
+        return (this->rank_ == other.rank_) && (this->suit_ == other.suit_);
     }
 
-    bool cards::Card::operator!=(const Card &other) {
-        return !(this->operator==(other));
+    bool ICard::operator!=(const ICard &other) const {
+        return !(operator==(other));
+    }
+
+    int Card::getRank() const {
+        return rank_;
+    }
+
+    std::string Card::getSuit() const {
+        return suit_;
     }
 
 }

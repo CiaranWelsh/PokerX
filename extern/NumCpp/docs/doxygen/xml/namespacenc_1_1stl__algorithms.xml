@@ -1037,9 +1037,9 @@
           </param>
         </templateparamlist>
         <type>OutputIt</type>
-        <definition>OutputIt nc::stl_algorithms::set_difference</definition>
+        <definition>OutputIt nc::stl_algorithms::setDifference</definition>
         <argsstring>(InputIt1 first1, InputIt1 last1, InputIt2 first2, InputIt2 last2, OutputIt destination)</argsstring>
-        <name>set_difference</name>
+        <name>setDifference</name>
         <param>
           <type>InputIt1</type>
           <declname>first1</declname>
@@ -1118,9 +1118,9 @@
           </param>
         </templateparamlist>
         <type>OutputIt</type>
-        <definition>OutputIt nc::stl_algorithms::set_intersection</definition>
+        <definition>OutputIt nc::stl_algorithms::setIntersection</definition>
         <argsstring>(InputIt1 first1, InputIt1 last1, InputIt2 first2, InputIt2 last2, OutputIt destination)</argsstring>
-        <name>set_intersection</name>
+        <name>setIntersection</name>
         <param>
           <type>InputIt1</type>
           <declname>first1</declname>

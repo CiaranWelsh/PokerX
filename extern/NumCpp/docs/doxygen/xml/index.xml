@@ -1414,8 +1414,8 @@
     <member refid="namespacenc_1_1stl__algorithms_1a8674f754c02402908901506e8681839f" kind="function"><name>replace</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a51eb1633787552e33ebede44bf5557a2" kind="function"><name>reverse</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a79bd84376c57067a06ea0302f4fc261a" kind="function"><name>rotate</name></member>
-    <member refid="namespacenc_1_1stl__algorithms_1a8cc83e2fb7a3d8302db0f4b19513ddd9" kind="function"><name>set_difference</name></member>
-    <member refid="namespacenc_1_1stl__algorithms_1a6d7aea8b69f7e1a1129daad900a4917d" kind="function"><name>set_intersection</name></member>
+    <member refid="namespacenc_1_1stl__algorithms_1a8cc83e2fb7a3d8302db0f4b19513ddd9" kind="function"><name>setDifference</name></member>
+    <member refid="namespacenc_1_1stl__algorithms_1a6d7aea8b69f7e1a1129daad900a4917d" kind="function"><name>setIntersection</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1adda22e93ced5035c66f63532ee1408b4" kind="function"><name>set_union</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a4987a29c6a989094d647f5a6de75cc6f" kind="function"><name>sort</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a0a7faa16f597cc09d2540b2edf467fee" kind="function"><name>stable_sort</name></member>

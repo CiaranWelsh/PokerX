@@ -3,9 +3,9 @@
 //
 
 #include <eval/Evaluator.h>
-#include "cards/Deck.h"
+#include "card/Deck.h"
 #include "eval/Hand.h"
-#include "cards/Card.h"
+#include "card/Card.h"
 #include "gtest/gtest.h"
 #include "players/CallStation.h"
 #include "game/Table.h"

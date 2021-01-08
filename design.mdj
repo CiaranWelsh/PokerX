@@ -4737,7 +4737,7 @@
 											"top": 888,
 											"width": 346.4677734375,
 											"height": 13,
-											"text": "~set_difference(other): set_difference",
+											"text": "~set_difference(other): setDifference",
 											"horizontalAlignment": 0
 										},
 										{
@@ -4754,7 +4754,7 @@
 											"top": 903,
 											"width": 346.4677734375,
 											"height": 13,
-											"text": "~set_intersection(other): set_intersection",
+											"text": "~set_intersection(other): setIntersection",
 											"horizontalAlignment": 0
 										}
 									],
@@ -6053,7 +6053,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvQrtiRzAkpvc="
 							},
-							"name": "CardCollection _cards",
+							"name": "CardCollection cards_",
 							"visibility": "protected",
 							"type": ""
 						}
@@ -7891,7 +7891,7 @@
 											"top": 694,
 											"width": 561.73583984375,
 											"height": 13,
-											"text": "#CardCollection _cards",
+											"text": "#CardCollection cards_",
 											"horizontalAlignment": 0
 										}
 									],
@@ -13588,7 +13588,7 @@
 											"top": 421,
 											"width": 561.73583984375,
 											"height": 13,
-											"text": "#CardCollection _cards",
+											"text": "#CardCollection cards_",
 											"horizontalAlignment": 0
 										}
 									],

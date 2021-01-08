@@ -8,40 +8,59 @@
 using namespace std;
 
 #include <string>
+#include <utility>
 #include <vector>
 #include <ctime>
 //#include "NumCpp/Random/generator.hpp"
 
 namespace cards {
 
-    const std::vector<int> RANKS = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
-    const std::vector<std::string> SUITS = {"S", "H", "D", "C"};
+    static std::vector<int> getRanks() {
+        std::vector<int> r = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
+        return r;
+    }
 
-    class Card {
+    static std::vector<std::string> getSuits() {
+        std::vector<std::string> s = {"S", "H", "D", "C"};
+        return s;
+    }
+
+    class ICard {
+    protected:
+        int rank_;
+        std::string suit_;
     public:
-        int rank; // 1 to 13
-        std::string suit;
+
+        ICard(int rank, std::string suit) : rank_(rank), suit_(std::move(suit)) {};
+
+        [[nodiscard]] virtual int getRank() const = 0;
+
+        [[nodiscard]] virtual std::string getSuit() const  = 0;
+
+        friend std::ostream &operator<<(std::ostream &os, const ICard &c);
+
+        bool operator>(const ICard &other) const;
+
+        bool operator<(const ICard &other) const;
+
+        bool operator<=(const ICard &other) const;
+
+        bool operator>=(const ICard &other) const;
+
+        bool operator==(const ICard &other) const;
+
+        bool operator!=(const ICard &other) const;
+    };
+
+    class Card : public ICard {
+    public:
 
         Card(int r, std::string s);
 
-        ~Card();
+        [[nodiscard]] int getRank() const override;
 
-        Card(const Card &other); // copy constructor
-        friend std::ostream &operator<<(std::ostream &os, const Card &c);
+        [[nodiscard]] std::string getSuit() const override;
 
-        Card &operator=(const Card &c);
-
-        bool operator>(const Card &other);
-
-        bool operator<(const Card &other);
-
-        bool operator<=(const Card &other);
-
-        bool operator>=(const Card &other);
-
-        bool operator==(const Card &other);
-
-        bool operator!=(const Card &other);
     };
 
 }

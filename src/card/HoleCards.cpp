@@ -18,7 +18,7 @@ namespace cards {
     }
 
     HoleCards::HoleCards(const HoleCards &holeCards) : CardCollection(holeCards) {
-        this->_cards = holeCards._cards;
+        this->cards_ = holeCards.cards_;
     }
 
     HoleCards::HoleCards(vector<Card> &container) : CardCollection(container) {}

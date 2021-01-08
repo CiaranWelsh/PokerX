@@ -3,29 +3,29 @@
 //
 
 #include "gtest/gtest.h"
-#include "cards/Card.h"
-#include "cards/Deck.h"
-#include "cards/CardCollection.h"
+#include "card/Card.h"
+#include "card/Deck.h"
+#include "card/CardCollection.h"
 
 using namespace cards;
 
 TEST(CardTests, SuitAttribute) {
     Card fourOfHearts = Card(4, "H");
-    ASSERT_EQ(fourOfHearts.suit, "H");
+    ASSERT_EQ(fourOfHearts.getSuit(), "H");
 }
 
 TEST(CardTests, CopyConstructor) {
     Card fourOfHearts = Card(4, "H");
     Card fiveOfSpades = Card(5, "S");
     fourOfHearts = fiveOfSpades;
-    ASSERT_EQ(fourOfHearts.suit, "S");
+    ASSERT_EQ(fourOfHearts.getSuit(), "S");
 }
 
 TEST(CardTests, AssignmentOperator) {
     Card fourOfHearts = Card(4, "H");
     Card fiveOfSpades = Card(5, "S");
     fourOfHearts = fiveOfSpades;
-    ASSERT_EQ(fourOfHearts.suit, "S");
+    ASSERT_EQ(fourOfHearts.getSuit(), "S");
 }
 
 TEST(CardTests, PutToOperator) {
@@ -74,17 +74,15 @@ TEST(CardTests, LessrThanOrEquals) {
     Card threeOfHearts = Card(3, "H");
     ASSERT_TRUE(fourOfHearts2 <= fourOfHearts1);
     ASSERT_TRUE(threeOfHearts <= fourOfHearts1);
-    ASSERT_FALSE(fourOfHearts1 <= fourOfDiamonds);
+    ASSERT_TRUE(fourOfHearts1 <= fourOfDiamonds);
 }
 
-TEST(CardTests, TestCout) {
-    Card fourOfHearts1 = Card(4, "H");
-//    cout << "\n" << fourOfHearts1 << endl;
-//    Deck deck = Deck();
-//    for (int i=0; i<deck.size(); i++){
-//        cout << deck[i] << endl;
-//    }
-
+TEST(CardTests, StreamTest){
+    Card fourOfHearts = Card(4, "H");
+    std::ostringstream os;
+    os << fourOfHearts;
+    std::string expected = "Card(4H)";
+    ASSERT_STREQ(os.str().c_str(), expected.c_str());
 }
 
 

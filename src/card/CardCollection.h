@@ -13,59 +13,55 @@ namespace cards {
     class CardCollection {
 
     protected:
-        vector<cards::Card> _cards;
+        vector<ICard *> cards_;
     public:
+
+        CardCollection() = default;
+
+        ~CardCollection() = default;
+
+        explicit CardCollection(vector<ICard*> cards);
+
         friend ostream &operator<<(ostream &os, const CardCollection &c);
 
-        cards::Card operator[](int index);
+        ICard* operator[](int index);
+
+        void add(ICard* card);
+
+        void add(const vector<ICard*>& cards);
 
         CardCollection operator()(unsigned int start, unsigned int end);
 
-        cards::CardCollection operator+(CardCollection &other);
+        CardCollection operator+(CardCollection &other);
 
-        cards::CardCollection operator+=(CardCollection &other);
+        CardCollection operator+=(CardCollection &other);
 
-        CardCollection &operator=(const vector<Card>& c);
+        CardCollection &operator=(const vector<ICard *> &c);
 
-        CardCollection &operator=(CardCollection c);
+        CardCollection &operator=(const CardCollection &c);
 
-        bool operator==(const CardCollection &other);
+        bool operator==(const CardCollection &other) const;
 
-        bool operator!=(const CardCollection &other);
-
-        CardCollection();
-
-        ~CardCollection();
-
-        CardCollection(const CardCollection &other);
-
-//        explicit CardCollection(int n);
-
-//        CardCollection(CardCollection &other, int n);
-
-        explicit CardCollection(vector<cards::Card> &cards);
-
-        void add(cards::Card card);
-
-        void add(vector<cards::Card> cards);
+        bool operator!=(const CardCollection &other) const ;
 
         void erase(int index);
 
-        vector<cards::Card>::iterator end();
+        [[nodiscard]] std::vector<ICard*>::const_iterator end() const;
 
-        vector<cards::Card>::iterator begin();
+        [[nodiscard]] std::vector<ICard*>::const_iterator begin() const;
 
-        reverse_iterator<vector<Card>::iterator> rbegin();
+        reverse_iterator<vector<ICard*>::iterator> rbegin();
 
-        reverse_iterator<vector<Card>::iterator> rend();
+        reverse_iterator<vector<ICard*>::iterator> rend();
 
-        vector<cards::Card> getCards();
+
+        vector<ICard*> getCards();
 
         vector<int> getRanks();
 
         vector<std::string> getSuits();
 
-        void pushBack(cards::Card &card);
+        void pushBack(ICard* card);
 
         int size();
 
@@ -75,7 +71,7 @@ namespace cards {
 
         CardCollection pop(int n);
 
-        Card pop();
+        ICard* pop();
 
         bool empty() const;
 
@@ -86,21 +82,21 @@ namespace cards {
 
         vector<std::string> getUniqueSuits();
 
-        void add(CardCollection cards);
+        void add(const CardCollection& cards);
 
-        bool contains(Card card);
+        bool contains(ICard* card);
 
         bool containsRank(int rank);
 
         bool containsSuit(std::string suit);
 
-        Card findByRank(int i);
+        ICard* findByRank(int i);
 
         void clear();
 
-        CardCollection set_difference(CardCollection other);
+        CardCollection setDifference(CardCollection& other) const;
 
-        CardCollection set_intersection(CardCollection other);
+        CardCollection setIntersection(CardCollection& other) const;
 
         CardCollection copy();
 

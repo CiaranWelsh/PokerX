@@ -2,3 +2,6 @@
 	path = lib/NumCpp
 	url = https://github.com/dpilger26/NumCpp.git
 
+[submodule "tests/googletest"]
+	path = tests/googletest
+	url = https://github.com/google/googletest.git

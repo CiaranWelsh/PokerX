@@ -14,7 +14,7 @@ using namespace std;
 
 
 Deck::Deck() : CardCollection() {
-    _cards = buildDeck();
+    cards_ = buildDeck();
     shuffle();
 };
 
