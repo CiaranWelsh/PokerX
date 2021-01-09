@@ -3,27 +3,14 @@
 //
 
 #include "HoleCards.h"
+#include "Error.h"
 
 using namespace std;
 
 namespace cards {
 
-    HoleCards::HoleCards() : CardCollection() {};
 
-    HoleCards::~HoleCards() {};
-
-    HoleCards::HoleCards(Card &card1, Card &card2) : CardCollection() {
-        this->add(card1);
-        this->add(card2);
+    HoleCards::HoleCards(ICard* card1, ICard* card2)
+        : RestrictedCardCollection({card1, card2}, 2){
     }
-
-    HoleCards::HoleCards(const HoleCards &holeCards) : CardCollection(holeCards) {
-        this->cards_ = holeCards.cards_;
-    }
-
-    HoleCards::HoleCards(vector<Card> &container) : CardCollection(container) {}
-
-    HoleCards::HoleCards(CardCollection container) : CardCollection(container){}
-
-
 }

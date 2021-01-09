@@ -1,12 +1,15 @@
 set(target poker)
 
 set(SOURCES
-        card/Card.h card/Card.cpp
-#        card/CardCollection2.h card/CardCollection2.cpp
-        card/CardCollection.h card/CardCollection.cpp
+        card/Card
+        card/CardCollection
+        card/RestrictedCardCollection
+        card/Deck
+        card/HoleCards
+        card/CommunityCards
+
+
 #        eval/Hand.h eval/Hand.cpp
-#        card/Deck.h card/Deck.cpp
-#        card/HoleCards.h card/HoleCards.cpp
 #        eval/Evaluator.cpp eval/Evaluator.h
 #        Errors.h
 #        utils/Counter.h

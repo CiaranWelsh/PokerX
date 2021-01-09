@@ -2,7 +2,7 @@
 #define POKERSIMULATIONSINCPP_TABLE_CPP
 
 #include "Table.h"
-#include "Errors.h"
+#include "Error.h"
 
 namespace game {
 

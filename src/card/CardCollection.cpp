@@ -11,6 +11,7 @@
 #include <utility>
 #include <valarray>
 #include <random>
+#include <set>
 #include "poker_export.h"
 
 namespace cards {
@@ -99,17 +100,6 @@ namespace cards {
 
     void CardCollection::sort() {
         std::sort(cards_.begin(), cards_.end());
-    }
-
-    vector<Card> CardCollection::buildDeck() {
-        std::vector<Card> cards;
-        for (int r : cards::getRanks()) {
-            for (const auto &s : cards::getSuits()) {
-                Card card = Card(r, s);
-                cards.push_back(card);
-            }
-        }
-        return cards;
     }
 
 /*
@@ -257,7 +247,7 @@ namespace cards {
 
     CardCollection CardCollection::setDifference(CardCollection &other) const {
         other.sort();
-        std::vector<ICard*> diff;
+        std::vector<ICard *> diff;
         std::set_difference(cards_.begin(), cards_.end(), other.begin(), other.end(),
                             std::inserter(diff, diff.begin()));
 
@@ -274,6 +264,26 @@ namespace cards {
 
     CardCollection CardCollection::copy() {
         return CardCollection(cards_);
+    }
+
+    bool CardCollection::isUniqueSet() {
+        /**
+         * We cannot use the adjacent_find algorithm directly on the pointers
+         * since this would check whether the pointer themselves are unique,
+         * not the values being pointed to. Instead, we extract the values
+         * into a vector of tuples for checking.
+         */
+        using Tuple = std::tuple<int, std::string>;
+        using VectorOfTuples = std::vector<Tuple>;
+        VectorOfTuples vectorOfTuples;
+        std::cout << size() << std::endl;
+        for (auto &i: getCards()) {
+            Tuple x(i->getRank(), i->getSuit());
+            vectorOfTuples.push_back(x);
+        }
+        bool unique = std::adjacent_find(vectorOfTuples.begin(), vectorOfTuples.end()) == vectorOfTuples.end();
+        return unique;
+
     }
 
 }

@@ -9,7 +9,7 @@
 #include "iostream"
 #include "card/CommunityCards.h"
 #include "card/HoleCards.h"
-#include "Errors.h"
+#include "Error.h"
 #include "utils/Counter.h"
 
 using namespace std;

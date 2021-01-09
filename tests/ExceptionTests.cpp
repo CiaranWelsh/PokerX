@@ -6,7 +6,7 @@
 #include "gtest/gtest.h"
 #include <string>
 #include <utils/Counter.h>
-#include "Errors.h"
+#include "Error.h"
 
 TEST(ErrorsTests, TestException){
     int number = 4;

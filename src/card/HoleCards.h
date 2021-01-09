@@ -5,22 +5,19 @@
 #ifndef POKERSIMULATIONSINCPP_HOLECARDS_H
 #define POKERSIMULATIONSINCPP_HOLECARDS_H
 
-#include "CardCollection.h"
+#include "RestrictedCardCollection.h"
 
 namespace cards {
-    class HoleCards : public cards::CardCollection {
+    class HoleCards : public RestrictedCardCollection {
+
     public:
-        HoleCards();
+        using RestrictedCardCollection::add;
 
-        ~HoleCards();
+        HoleCards() = default;
 
-        explicit HoleCards(vector<Card> &container);
+        ~HoleCards() override = default;
 
-        explicit HoleCards(CardCollection container);
-
-        HoleCards(Card &card1, Card &card2);
-
-        HoleCards(const HoleCards &holeCards);
+        HoleCards(ICard *card1, ICard *card2);
 
     };
 }

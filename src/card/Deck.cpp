@@ -3,6 +3,8 @@
 //
 
 #include "Deck.h"
+#include "Card.h"
+#include "Error.h"
 
 #include <algorithm>
 #include <random>
@@ -10,15 +12,87 @@
 #include <iostream>
 #include <sstream>
 
+/**
+ *  todo delete this class and just have a method in CardCollection that builds a deck.
+ *  This class is unnecessary.
+ */
+
 using namespace std;
 
+namespace cards {
 
-Deck::Deck() : CardCollection() {
-    cards_ = buildDeck();
-    shuffle();
-};
+    Deck::Deck() : RestrictedCardCollection(buildDeck(), 52){
+        if (!isUniqueSet()) {
+            LOGIC_ERROR << "Non unique elements found in Deck. A deck must be unique" << std::endl;
+        }
+    }
 
-Deck::Deck(vector<cards::Card> &cards) :
-        CardCollection(cards) {}
+    std::vector<ICard*> Deck::buildDeck() {
+        std::vector<ICard*> cards;
+        for (int r : cards::getRanks()) {
+            for (const auto &s : cards::getSuits()) {
+                ICard *iCard = new Card(r, s);
+                cards.push_back(iCard);
+            }
+        }
+        shuffle();
+        return cards;
+    }
 
-Deck::~Deck() = default;
+    Deck::~Deck() {
+        for (auto &it: cards_) {
+            delete it;
+        }
+    }
+
+    Deck::Deck(const Deck &deck) {
+        for (auto &it: deck) {
+            ICard *card = new Card();
+            card->setSuit(it->getSuit());
+            card->setRank(it->getRank());
+            cards_.push_back(card);
+        }
+    }
+
+    Deck::Deck(Deck &&deck) noexcept {
+        for (auto &it: deck) {
+            cards_.push_back(it);
+            delete it;
+        }
+    }
+
+    Deck &Deck::operator=(const Deck &deck) {
+        if (this != &deck) {
+            for (auto &it: deck) {
+                ICard *card = new Card();
+                card->setSuit(it->getSuit());
+                card->setRank(it->getRank());
+                cards_.push_back(card);
+            }
+        }
+        return *this;
+    }
+
+    Deck &Deck::operator=(Deck &&deck) noexcept {
+        if (this != &deck) {
+            for (auto &it: deck) {
+                cards_.push_back(it);
+                delete it;
+            }
+        }
+        return *this;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

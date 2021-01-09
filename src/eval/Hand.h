@@ -114,7 +114,7 @@ namespace eval {
             std::vector<int> idx_for_delete;
             for (int rank : ranks) {
                 for (int j = 0; j < cards.size(); j++) {
-                    if (getCards()[j].getRank() == rank) {
+                    if (getCards()[j]->getRank() == rank) {
                         Card card = cards[j];
                         best5.add(card);
                         idx_for_delete.push_back(j);

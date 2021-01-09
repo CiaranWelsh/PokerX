@@ -382,7 +382,28 @@ TEST(CardCollectionTests, TestCopyWithCopyAssignmentOp) {
     CardCollection cc2 = cc1;
     ASSERT_NE(&cc1, &cc2);
     ASSERT_EQ(cc1, cc2);
+}
 
+
+TEST(CardCollectionTests, TestIsUniqueWhenTrue) {
+    Card card1(6, "D");
+    Card card2(7, "C");
+    Card card3(2, "H");
+
+    std::vector<ICard *> cards1({&card1, &card2, &card3});
+    CardCollection cc1(cards1);
+    ASSERT_TRUE(cc1.isUniqueSet());
+}
+
+
+TEST(CardCollectionTests, TestIsUniqueWhenFalse) {
+    Card card1(6, "D");
+    Card card2(2, "H");
+    Card card3(2, "H");
+
+    std::vector<ICard *> cards1({&card1, &card2, &card3});
+    CardCollection cc1(cards1);
+    ASSERT_FALSE(cc1.isUniqueSet());
 }
 
 

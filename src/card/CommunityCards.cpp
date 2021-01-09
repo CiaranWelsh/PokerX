@@ -9,38 +9,15 @@
 namespace cards {
 
 
-    CommunityCards::CommunityCards(Card &flop1, Card &flop2, Card &flop3) {
-        this->add(flop1);
-        this->add(flop2);
-        this->add(flop3);
+    CommunityCards::CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3) 
+        : RestrictedCardCollection({flop1, flop2, flop3}, 5){}
 
-    }
+    CommunityCards::CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn)
+            : RestrictedCardCollection({flop1, flop2, flop3, turn}, 5){}
 
-    CommunityCards::CommunityCards(Card &flop1, Card &flop2, Card &flop3, Card &turn) {
-        this->add(flop1);
-        this->add(flop2);
-        this->add(flop3);
-        this->add(turn);
+    CommunityCards::CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn, ICard*river)
+            : RestrictedCardCollection({flop1, flop2, flop3, turn}, 5){}
 
-    }
-
-    CommunityCards::CommunityCards(Card &flop1, Card &flop2, Card &flop3, Card &turn, Card &river) {
-        this->add(flop1);
-        this->add(flop2);
-        this->add(flop3);
-        this->add(turn);
-        this->add(river);
-
-    }
-
-    CommunityCards::CommunityCards(CardCollection container) : CardCollection(container){}
-
-    CommunityCards::CommunityCards(std::vector<Card> &container) : CardCollection(container){};
-
-    CommunityCards::CommunityCards() = default;
-
-    CommunityCards::~CommunityCards() = default;
-
-
+    CommunityCards::CommunityCards(std::vector<ICard*> &cards) : RestrictedCardCollection(cards, 5){};
 
 }

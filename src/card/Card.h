@@ -8,10 +8,9 @@
 using namespace std;
 
 #include <string>
-#include <utility>
+#include <memory>
 #include <vector>
 #include <ctime>
-//#include "NumCpp/Random/generator.hpp"
 
 namespace cards {
 
@@ -27,15 +26,22 @@ namespace cards {
 
     class ICard {
     protected:
-        int rank_;
-        std::string suit_;
+        int rank_ = 14;
+        std::string suit_ = "S";
     public:
-
         ICard(int rank, std::string suit) : rank_(rank), suit_(std::move(suit)) {};
+
+        ICard() = default;
+
+        virtual ~ICard() = default;
+
+        virtual void setRank(int rank) = 0;
+
+        virtual void setSuit(const string &suit) = 0;
 
         [[nodiscard]] virtual int getRank() const = 0;
 
-        [[nodiscard]] virtual std::string getSuit() const  = 0;
+        [[nodiscard]] virtual std::string getSuit() const = 0;
 
         friend std::ostream &operator<<(std::ostream &os, const ICard &c);
 
@@ -55,13 +61,18 @@ namespace cards {
     class Card : public ICard {
     public:
 
-        Card(int r, std::string s);
+        using ICard::ICard;
+
+        void setRank(int rank) override;
+
+        void setSuit(const string &suit) override;
 
         [[nodiscard]] int getRank() const override;
 
         [[nodiscard]] std::string getSuit() const override;
-
     };
+
+    using ICardPtr = std::unique_ptr<ICard>;
 
 }
 

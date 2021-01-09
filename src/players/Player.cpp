@@ -1,7 +1,7 @@
 /**
  * Project PokerSimulationsInCpp
  */
-#include "Errors.h"
+#include "Error.h"
 #include "Player.h"
 #include "ActionType.h"
 #include <iostream>

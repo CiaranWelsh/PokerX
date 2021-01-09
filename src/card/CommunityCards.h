@@ -5,25 +5,25 @@
 #ifndef POKERSIMULATIONSINCPP_COMMUNITYCARDS_H
 #define POKERSIMULATIONSINCPP_COMMUNITYCARDS_H
 
-#include "CardCollection.h"
+#include"RestrictedCardCollection.h"
 #include "Card.h"
 
 namespace cards {
-    class CommunityCards : public cards::CardCollection {
+    class CommunityCards : public RestrictedCardCollection {
     public:
-        CommunityCards();
+        using RestrictedCardCollection::add;
 
-        explicit CommunityCards(vector<Card> &container);
+        CommunityCards() = default;
 
-        explicit CommunityCards(CardCollection container);
+        ~CommunityCards() override = default;
 
-        ~CommunityCards();
+        explicit CommunityCards(vector<ICard*> &cards);
 
-        CommunityCards(cards::Card &flop1, cards::Card &flop2, cards::Card &flop3);
+        CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3);
 
-        CommunityCards(cards::Card &flop1, cards::Card &flop2, cards::Card &flop3, cards::Card &turn);
+        CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn);
 
-        CommunityCards(cards::Card &flop1, cards::Card &flop2, cards::Card &flop3, cards::Card &turn, cards::Card &river);
+        CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn, ICard*river);
 
     };
 }

@@ -18,7 +18,7 @@ namespace cards {
 
         CardCollection() = default;
 
-        ~CardCollection() = default;
+        virtual ~CardCollection() = default;
 
         explicit CardCollection(vector<ICard*> cards);
 
@@ -26,9 +26,9 @@ namespace cards {
 
         ICard* operator[](int index);
 
-        void add(ICard* card);
+        virtual void add(ICard* card);
 
-        void add(const vector<ICard*>& cards);
+        virtual void add(const vector<ICard*>& cards);
 
         CardCollection operator()(unsigned int start, unsigned int end);
 
@@ -67,8 +67,6 @@ namespace cards {
 
         void sort();
 
-        static vector<Card> buildDeck();
-
         CardCollection pop(int n);
 
         ICard* pop();
@@ -100,6 +98,7 @@ namespace cards {
 
         CardCollection copy();
 
+        bool isUniqueSet();
 
     };
 }

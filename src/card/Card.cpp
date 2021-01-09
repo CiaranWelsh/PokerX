@@ -9,8 +9,6 @@
 
 namespace cards {
 
-    Card::Card(int r, std::string s) : ICard(r, std::move(s)){}
-
     std::ostream &operator<<(std::ostream &out, const ICard &c) {
         out << "Card(" << c.rank_ << c.suit_ << ")";
         return out;
@@ -38,6 +36,14 @@ namespace cards {
 
     bool ICard::operator!=(const ICard &other) const {
         return !(operator==(other));
+    }
+
+    void Card::setRank(int rank) {
+        rank_ = rank;
+    }
+
+    void Card::setSuit(const string &suit) {
+        suit_ = suit;
     }
 
     int Card::getRank() const {

@@ -2,6 +2,10 @@ cmake_minimum_required(VERSION 3.15)
 
 project(PokerSimulationsInCpp)
 
+###################################################################
+# Options and settings
+#
+
 # put all runtime targets (exe and dll) into bin
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/bin)
 
@@ -13,6 +17,14 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/lib)
 
 # export all on windows. Ignored on other.
 set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS TRUE)
+
+
+###################################################################
+#   Dependencies
+#
+
+#set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer -g")
+
 
 find_package(Boost REQUIRED)
 

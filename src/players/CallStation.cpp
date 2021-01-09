@@ -7,7 +7,7 @@
 
 #include <utility>
 #include "ActionType.h"
-#include "Errors.h"
+#include "Error.h"
 
 /*
  * CallStation implementation

@@ -31,7 +31,10 @@ endfunction()
 set(TestExecutables)
 add_test_executable(CardTests ON TestExecutables CardTests.cpp)
 add_test_executable(CardCollectionTests ON TestExecutables CardCollectionTests.cpp)
-#add_test_executable(CounterTests ON TestExecutables CounterTests.cpp)
+add_test_executable(RestricteCardCollectionTests ON TestExecutables RestrictedCardCollectionTests.cpp)
+add_test_executable(DeckTests ON TestExecutables DeckTests.cpp)
+add_test_executable(HoleCardTests ON TestExecutables HoleCardTests.cpp)
+add_test_executable(CommunityCardTests ON TestExecutables CommunityCardTests.cpp)
 
 
 #set(BINARY poker_tests)
