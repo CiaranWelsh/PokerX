@@ -1,6 +1,13 @@
 set(target poker)
 
+# todo refactor into C++ 20 style modules etc.
+
 set(SOURCES
+
+        CardCollectionObserver.h
+        ISubject.h
+
+        # Card sources
         card/Card
         card/CardCollection
         card/RestrictedCardCollection
@@ -8,8 +15,9 @@ set(SOURCES
         card/HoleCards
         card/CommunityCards
 
+        #Eval sources.
+        eval/Hand
 
-#        eval/Hand.h eval/Hand.cpp
 #        eval/Evaluator.cpp eval/Evaluator.h
 #        Errors.h
 #        utils/Counter.h

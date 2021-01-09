@@ -1,0 +1,14 @@
+//
+// Created by Ciaran on 09/01/2021.
+//
+
+#ifndef POKERSIMULATIONSINCPP_POKER_H
+#define POKERSIMULATIONSINCPP_POKER_H
+
+
+class Poker {
+
+};
+
+
+#endif //POKERSIMULATIONSINCPP_POKER_H

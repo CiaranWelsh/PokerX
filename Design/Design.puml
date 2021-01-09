@@ -1,0 +1,46 @@
+@startuml
+
+abstract class ICard
+class Card
+
+
+class CardCollection
+
+
+class RestrictedCardCollection
+
+class HoleCards
+
+class CommunityCards
+
+abstract class Hand
+
+Card <|-- ICard
+note on link: Child
+
+CardCollection o-- ICard
+note on link: Agg
+'abstract class AbstractList
+'abstract AbstractCollection
+'interface List
+'interface Collection
+'
+'List <|-- AbstractList
+'Collection <|-- AbstractCollection
+'
+'Collection <|- List
+'AbstractCollection <|- AbstractList
+'AbstractList <|-- ArrayList
+'
+'class ArrayList {
+'Object[] elementData
+'size()
+'}
+'
+'enum TimeUnit {
+'DAYS
+'HOURS
+'MINUTES
+'}
+
+@enduml

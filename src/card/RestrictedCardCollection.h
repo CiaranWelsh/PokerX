@@ -34,11 +34,13 @@ namespace cards {
          * can use this constructor to automatically set the max_cards_
          * variable to value of @param max_num_cards.
          */
-         RestrictedCardCollection(const std::vector<ICard*>& cards, int max_num_cards);
+         RestrictedCardCollection(const std::vector<ICard*>& cards, unsigned int max_num_cards);
+
+         explicit RestrictedCardCollection(unsigned int max_num_cards);
 
     private:
         /// maximum number of cards in this collection
-        int max_cards_ = 52;
+        unsigned int max_cards_ = 52;
 
         std::string err_msg_ = "This RestrictedCardCollection can only contain \"" + std::to_string(max_cards_) + "\"";
 

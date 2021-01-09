@@ -27,20 +27,20 @@ public:
 
 class MockCards {
 public:
-    MockCard lowAceOfSpaces;
-    MockCard twoOfSpaces;
-    MockCard threeOfSpaces;
-    MockCard fourOfSpaces;
-    MockCard fiveOfSpaces;
-    MockCard sixOfSpaces;
-    MockCard sevenOfSpaces;
-    MockCard eightOfSpaces;
-    MockCard nineOfSpaces;
-    MockCard tenOfSpaces;
-    MockCard jackOfSpaces;
-    MockCard queenOfSpaces;
-    MockCard kingOfSpaces;
-    MockCard aceOfSpaces;
+    MockCard lowAceOfSpades;
+    MockCard twoOfSpades;
+    MockCard threeOfSpades;
+    MockCard fourOfSpades;
+    MockCard fiveOfSpades;
+    MockCard sixOfSpades;
+    MockCard sevenOfSpades;
+    MockCard eightOfSpades;
+    MockCard nineOfSpades;
+    MockCard tenOfSpades;
+    MockCard jackOfSpades;
+    MockCard queenOfSpades;
+    MockCard kingOfSpades;
+    MockCard aceOfSpades;
 
     MockCard lowAceOfDiamonds;
     MockCard twoOfDiamonds;
@@ -89,34 +89,34 @@ public:
 
     MockCards() {
 
-        ON_CALL(twoOfSpaces, getRank()).WillByDefault(Return(2));
-        ON_CALL(twoOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(threeOfSpaces, getRank()).WillByDefault(Return(3));
-        ON_CALL(threeOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(fourOfSpaces, getRank()).WillByDefault(Return(4));
-        ON_CALL(fourOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(fiveOfSpaces, getRank()).WillByDefault(Return(5));
-        ON_CALL(fiveOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(sixOfSpaces, getRank()).WillByDefault(Return(6));
-        ON_CALL(sixOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(sevenOfSpaces, getRank()).WillByDefault(Return(7));
-        ON_CALL(sevenOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(eightOfSpaces, getRank()).WillByDefault(Return(8));
-        ON_CALL(eightOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(nineOfSpaces, getRank()).WillByDefault(Return(9));
-        ON_CALL(nineOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(tenOfSpaces, getRank()).WillByDefault(Return(10));
-        ON_CALL(tenOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(jackOfSpaces, getRank()).WillByDefault(Return(11));
-        ON_CALL(jackOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(queenOfSpaces, getRank()).WillByDefault(Return(12));
-        ON_CALL(queenOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(kingOfSpaces, getRank()).WillByDefault(Return(13));
-        ON_CALL(kingOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(aceOfSpaces, getRank()).WillByDefault(Return(14));
-        ON_CALL(aceOfSpaces, getSuit()).WillByDefault(Return("S"));
-        ON_CALL(lowAceOfSpaces, getRank()).WillByDefault(Return(1));
-        ON_CALL(lowAceOfSpaces, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(twoOfSpades, getRank()).WillByDefault(Return(2));
+        ON_CALL(twoOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(threeOfSpades, getRank()).WillByDefault(Return(3));
+        ON_CALL(threeOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(fourOfSpades, getRank()).WillByDefault(Return(4));
+        ON_CALL(fourOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(fiveOfSpades, getRank()).WillByDefault(Return(5));
+        ON_CALL(fiveOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(sixOfSpades, getRank()).WillByDefault(Return(6));
+        ON_CALL(sixOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(sevenOfSpades, getRank()).WillByDefault(Return(7));
+        ON_CALL(sevenOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(eightOfSpades, getRank()).WillByDefault(Return(8));
+        ON_CALL(eightOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(nineOfSpades, getRank()).WillByDefault(Return(9));
+        ON_CALL(nineOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(tenOfSpades, getRank()).WillByDefault(Return(10));
+        ON_CALL(tenOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(jackOfSpades, getRank()).WillByDefault(Return(11));
+        ON_CALL(jackOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(queenOfSpades, getRank()).WillByDefault(Return(12));
+        ON_CALL(queenOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(kingOfSpades, getRank()).WillByDefault(Return(13));
+        ON_CALL(kingOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(aceOfSpades, getRank()).WillByDefault(Return(14));
+        ON_CALL(aceOfSpades, getSuit()).WillByDefault(Return("S"));
+        ON_CALL(lowAceOfSpades, getRank()).WillByDefault(Return(1));
+        ON_CALL(lowAceOfSpades, getSuit()).WillByDefault(Return("S"));
 
         ON_CALL(twoOfDiamonds, getRank()).WillByDefault(Return(2));
         ON_CALL(twoOfDiamonds, getSuit()).WillByDefault(Return("D"));

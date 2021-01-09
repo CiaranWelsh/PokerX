@@ -5,8 +5,10 @@
 #ifndef POKERSIMULATIONSINCPP_COMMUNITYCARDS_H
 #define POKERSIMULATIONSINCPP_COMMUNITYCARDS_H
 
+#include <list>
 #include"RestrictedCardCollection.h"
 #include "Card.h"
+#include "ISubject.h"
 
 namespace cards {
     class CommunityCards : public RestrictedCardCollection {
@@ -24,6 +26,10 @@ namespace cards {
         CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn);
 
         CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn, ICard*river);
+
+
+    private:
+        std::list<CardCollectionObserver *> observer_list_;
 
     };
 }

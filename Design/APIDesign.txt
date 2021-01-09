@@ -1,0 +1,46 @@
+What am I trying to do?
+=======================
+
+- Write a fully functional poker api
+- I want it to be possible to play genuine games of poker with arbitrary numbers of players.
+- simulate poker games with random actions
+- Be able to read and write game hands from various sources and replay them
+- calculate poker statistics on full games. 
+
+
+Playing poker with fake money
+-----------------------------
+
+#include "poker.h"
+
+int main() {
+	/**
+	* Has getters and setters for controlling the game variables
+	*/
+	Poker poker;
+	poker.setNumPlayers(2);
+	poker.setSmallBlind(1);
+	poker.setBigBlind(2);
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

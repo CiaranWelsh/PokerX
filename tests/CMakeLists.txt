@@ -36,6 +36,8 @@ add_test_executable(DeckTests ON TestExecutables DeckTests.cpp)
 add_test_executable(HoleCardTests ON TestExecutables HoleCardTests.cpp)
 add_test_executable(CommunityCardTests ON TestExecutables CommunityCardTests.cpp)
 
+add_test_executable(HandTests ON TestExecutables HandTests.cpp)
+
 
 #set(BINARY poker_tests)
 #add_executable(${BINARY} main.cpp
