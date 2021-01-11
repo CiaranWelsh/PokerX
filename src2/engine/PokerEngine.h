@@ -1,0 +1,16 @@
+//
+// Created by Ciaran on 10/01/2021.
+//
+
+#ifndef POKERSIMULATIONSINCPP_POKERENGINE_H
+#define POKERSIMULATIONSINCPP_POKERENGINE_H
+
+
+
+class PokerEngine {
+
+};
+
+
+
+#endif //POKERSIMULATIONSINCPP_POKERENGINE_H
