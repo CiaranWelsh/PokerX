@@ -4676,7 +4676,7 @@ jQuery.fn.extend( {
 	hide: function() {
 		return showHide( this );
 	},
-	toggle: function( state ) {
+	action: function( state ) {
 		if ( typeof state === "boolean" ) {
 			return state ? this.show() : this.hide();
 		}
@@ -6769,7 +6769,7 @@ jQuery.fx.step = {};
 
 var
 	fxNow, inProgress,
-	rfxtypes = /^(?:toggle|show|hide)$/,
+	rfxtypes = /^(?:action|show|hide)$/,
 	rrun = /queueHooks$/;
 
 function schedule() {
@@ -6828,7 +6828,7 @@ function createTween( value, prop, animation ) {
 }
 
 function defaultPrefilter( elem, props, opts ) {
-	var prop, value, toggle, hooks, oldfire, propTween, restoreDisplay, display,
+	var prop, value, action, hooks, oldfire, propTween, restoreDisplay, display,
 		isBox = "width" in props || "height" in props,
 		anim = this,
 		orig = {},
@@ -6867,7 +6867,7 @@ function defaultPrefilter( elem, props, opts ) {
 		value = props[ prop ];
 		if ( rfxtypes.test( value ) ) {
 			delete props[ prop ];
-			toggle = toggle || value === "toggle";
+			action = action || value === "action";
 			if ( value === ( hidden ? "hide" : "show" ) ) {
 
 				// Pretend to be hidden if this is a "show" and
@@ -6960,7 +6960,7 @@ function defaultPrefilter( elem, props, opts ) {
 			}
 
 			// Store hidden/visible for toggle so `.stop().toggle()` "reverses"
-			if ( toggle ) {
+			if ( action ) {
 				dataShow.hidden = !hidden;
 			}
 
@@ -7367,7 +7367,7 @@ jQuery.fn.extend( {
 	}
 } );
 
-jQuery.each( [ "toggle", "show", "hide" ], function( i, name ) {
+jQuery.each( [ "action", "show", "hide" ], function( i, name ) {
 	var cssFn = jQuery.fn[ name ];
 	jQuery.fn[ name ] = function( speed, easing, callback ) {
 		return speed == null || typeof speed === "boolean" ?
@@ -7380,10 +7380,10 @@ jQuery.each( [ "toggle", "show", "hide" ], function( i, name ) {
 jQuery.each( {
 	slideDown: genFx( "show" ),
 	slideUp: genFx( "hide" ),
-	slideToggle: genFx( "toggle" ),
+	slideToggle: genFx( "action" ),
 	fadeIn: { opacity: "show" },
 	fadeOut: { opacity: "hide" },
-	fadeToggle: { opacity: "toggle" }
+	fadeToggle: { opacity: "action" }
 }, function( name, props ) {
 	jQuery.fn[ name ] = function( speed, easing, callback ) {
 		return this.animate( props, speed, easing, callback );

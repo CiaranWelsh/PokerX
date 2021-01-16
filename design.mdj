@@ -17454,7 +17454,7 @@
 											"top": 943,
 											"width": 182,
 											"height": 13,
-											"text": "State"
+											"text": "PokerEngineState"
 										},
 										{
 											"_type": "LabelView",
@@ -25842,7 +25842,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFvQtX1JEpKTv0="
 					},
-					"name": "State"
+					"name": "PokerEngineState"
 				},
 				{
 					"_type": "UMLClass",

@@ -4,45 +4,34 @@
 
 #include "gtest/gtest.h"
 #include "iostream"
-#include "game/Pot.h"
+#include "engine/Pot.h"
 
 using namespace std;
 
 
 TEST(PotTests, TestPotEmpty){
     Pot pot;
-    ASSERT_EQ(0, pot.value);
+    ASSERT_TRUE(pot == 0);
 }
 
 TEST(PotTests, TestPotValue){
     Pot pot(10);
-    ASSERT_EQ(10, pot.value);
+    ASSERT_TRUE(pot == 10);
 }
-
-TEST(PotTests, TestCopyConstructor){
-    Pot pot1(10);
-    Pot pot2(pot1);
-    std::cout << pot1 << endl;
-    std::cout << pot2;
-    ASSERT_EQ(10, pot2.value);
-}
-
 
 TEST(PotTests, TestPlusOverload){
     Pot pot1(10);
     Pot pot2(50);
     Pot pot3 = pot1 + pot2;
-    ASSERT_EQ(60, pot3.value);
+    ASSERT_TRUE(pot3 == 60);
 }
 
 TEST(PotTests, TestMinusOverload){
     Pot pot1(10);
     Pot pot2(50);
     Pot pot3 = pot2 - pot1;
-    ASSERT_EQ(40, pot3.value);
+    ASSERT_TRUE(pot3 == 40);
 }
-
-
 
 TEST(PotTests, TestAddInt){
     Pot pot1(10);
@@ -63,12 +52,16 @@ TEST(PotTests, TestNotEqual){
     ASSERT_TRUE(pot1 != 5.0);
 }
 
-
-
 TEST(PotTests, TestaddInt2){
     Pot pot1(10);
     pot1 += 0.5;
     ASSERT_TRUE(pot1 == 10.5);
+}
+
+TEST(PotTests, SetPotTo0){
+    Pot pot(10);
+    pot.reset();
+    ASSERT_TRUE(pot == 0);
 }
 
 
