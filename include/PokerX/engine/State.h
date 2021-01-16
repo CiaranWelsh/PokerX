@@ -26,18 +26,26 @@ namespace pokerx {
      */
     class State {
     public:
+        virtual ~State() = default;
+
         virtual void enter(StateMachine *machine) = 0;
 
         virtual void action(StateMachine *machine) = 0;
 
         virtual void exit(StateMachine *machine) = 0;
 
-        virtual ~State() = default;
-
         [[nodiscard]] virtual unsigned int getType() const = 0;
 
     private:
-        unsigned int type_ = 0; // hidden by subclasses
+        /**
+         * subclasses should also have a type_ that hides this
+         * type_.
+         *
+         * .. note:: this has been depreciated and will be removed
+         * Instead of having a subclass hide type_, they just hard code the
+         * type as the return value of getType().
+         */
+        unsigned int type_ = 0;
 
     };
 }

@@ -7,50 +7,91 @@
 
 #include "StateMachine.h"
 #include "State.h"
-#include "Player.h"
-#include "Pot.h"
-#include <vector>
+#include "GameVariables.h"
+//#include "Player.h"
+//#include "Pot.h"
+//#include <vector>
 
-namespace engine {
+namespace pokerx {
 
-    class PokerState;
 
     class PokerEngine : public StateMachine {
     public:
-        using StateMachine::StateMachine;
+        PokerEngine();
 
-        virtual void reset();
+        explicit PokerEngine(State* starting_state);
 
-        virtual void rotate();
+        void setState(State &state) override;
 
-        void action();
+        /**
+         * @brief Call the action method of the currently
+         * active state
+         *
+         * @details This method invokes the State::action method
+         * of the currently active state.
+         */
+        void action() override;
 
-        int getNPlayers() const;
+        /**
+         * @brief calls the action @param times times
+         */
+        void action(unsigned int times);
 
-        void setNPlayers(int nPlayers);
+        /**
+         * @brief Reset the game for another hand
+         */
+        void reset() override;
 
-        void setCurrentBet(float currentBet);
+        [[nodiscard]] const GameVariables &getGameVariables() const;
 
-        float getCurrentBet() const;
+    private:
+        /**
+         * @brief GameVariables contain all configurable
+         * elements of the current game. Number of players,
+         * current positions, etc.
+         */
+        GameVariables gameVariables_;
 
-        void contribPot(float amount);
-
-        const std::vector<Player *> &getPlayers() const;
-
-        const Pot &getPot() const;
-
-        State *getState() const override;
-
-
-    protected:
-
-        void initPlayers();
-
-        int nPlayers_ = 6;
-        std::vector<Player *> players_;
-        float currentBet_ = 0.0;
-        Pot pot_;
     };
+
+//    class PokerState;
+//
+//    class PokerEngine : public StateMachine {
+//    public:
+//        using StateMachine::StateMachine;
+//
+//        virtual void reset();
+//
+//        virtual void rotate();
+//
+//        void action();
+//
+//        int getNPlayers() const;
+//
+//        void setNPlayers(int nPlayers);
+//
+//        void setCurrentBet(float currentBet);
+//
+//        float getCurrentBet() const;
+//
+//        void contribPot(float amount);
+//
+//        const std::vector<Player *> &getPlayers() const;
+//
+//        const Pot &getPot() const;
+//
+//        State *getState() const override;
+//
+//
+//    protected:
+//
+//        void initPlayers();
+//
+//        int nPlayers_ = 6;
+//        std::vector<Player *> players_;
+//        float currentBet_ = 0.0;
+//        Pot pot_;
+//    };
 
 }
 

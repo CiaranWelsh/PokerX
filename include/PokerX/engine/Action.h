@@ -5,7 +5,7 @@
 #ifndef POKERSIMULATIONSINCPP_ACTION_H
 #define POKERSIMULATIONSINCPP_ACTION_H
 
-namespace engine {
+namespace pokerx {
     enum Action {
         CHECK,
         FOLD,

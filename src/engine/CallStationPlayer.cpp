@@ -5,7 +5,7 @@
 #include "CallStationPlayer.h"
 #include "Action.h"
 
-namespace engine {
+namespace pokerx {
 
     Action CallStationPlayer::selectAction(PokerEngine* engine) {
         return CALL;

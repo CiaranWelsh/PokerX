@@ -2,33 +2,42 @@
 // Created by Ciaran on 10/01/2021.
 //
 
-#include "ButtonMoves.h"
-#include "SmallBlind.h"
+#include "PokerX/engine/ButtonMoves.h"
+#include "PokerX/engine/SmallBlind.h"
+#include "PokerX/engine/PokerEngine.h"
+#include <iostream>
 
-namespace engine {
+namespace pokerx {
 
-    void ButtonMoves::enter(StateMachine *engine) {
-#ifdef DEBUG_MODE
-        std::cout << "Entering ButtonMoves state" <<std::endl;
-#endif
+    void ButtonMoves::enter(StateMachine *machine) {
+        /**
+         * Todo, implement a StateObserver for logging
+         * the game.
+         */
+        std::cout << "Entering ButtonMoves" << std::endl;
     }
 
-    void ButtonMoves::action(StateMachine *engine) {
-        // 1) reset the game for another game
-        engine->reset();
+    void ButtonMoves::action(StateMachine *machine) {
+        // cast down to PokerEngine
+        // problem: liskov substitution principle violated
+        auto* engine = dynamic_cast<PokerEngine*>(machine);
 
-        // 2) call for button to move to the left player
-        engine->rotate();
 
-        // 3) set engine state to post small blind 
+        // Reach out to PlayerManager and rotate player ordering
+//        std::cout<< engine->getGameVariables().getPot() << std::endl;
+
         engine->setState(SmallBlind::getInstance());
     }
 
-    void ButtonMoves::exit(StateMachine *engine) {
+    void ButtonMoves::exit(StateMachine *machine) {
 
     }
 
-    PokerEngineState &ButtonMoves::getInstance() {
+    unsigned int ButtonMoves::getType() const {
+        return BUTTON_MOVES;
+    }
+
+    ButtonMoves &ButtonMoves::getInstance() {
         static ButtonMoves singleton;
         return singleton;
     }

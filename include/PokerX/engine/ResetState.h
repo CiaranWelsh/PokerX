@@ -1,19 +1,15 @@
-//
-// Created by Ciaran on 10/01/2021.
-//
-
-#ifndef POKERSIMULATIONSINCPP_BUTTONMOVES_H
-#define POKERSIMULATIONSINCPP_BUTTONMOVES_H
+#ifndef POKERSIMULATIONSINCPP_RESETSTATE_H
+#define POKERSIMULATIONSINCPP_RESETSTATE_H
 
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/eState.h"
 
 namespace pokerx {
 
-    class ButtonMoves : public State {
+    class ResetState : public State {
     public:
 
-        ~ButtonMoves() override = default;
+        ~ResetState() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -23,15 +19,14 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static ButtonMoves& getInstance();
+        static ResetState& getInstance();
 
     private:
-        ButtonMoves() = default;
+        ResetState() = default;
 
     };
 
-
-
 }
 
-#endif //POKERSIMULATIONSINCPP_BUTTONMOVES_H
+
+#endif //POKERSIMULATIONSINCPP_RESETSTATE_H

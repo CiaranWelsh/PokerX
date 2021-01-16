@@ -2,20 +2,33 @@
 // Created by Ciaran on 10/01/2021.
 //
 
-#include "SmallBlind.h"
+#include <iostream>
+#include "PokerX/engine/SmallBlind.h"
+#include "PokerX/engine/BigBlind.h"
+#include "PokerX/engine/PokerEngine.h"
+#include "PokerX/engine/eState.h"
 
-namespace engine {
+namespace pokerx {
 
-    void SmallBlind::enter(PokerEngine *engine) {}
-
-    void SmallBlind::action(PokerEngine *engine) {
-
+    void SmallBlind::enter(StateMachine *machine) {
+        std::cout << "Entering SmallBlind" << std::endl;
     }
 
-    void SmallBlind::exit(PokerEngine *engine) {}
+    void SmallBlind::action(StateMachine *machine) {
 
-    PokerEngineState &SmallBlind::getInstance() {
+//        auto* engine = dynamic_cast<PokerEngine*>(machine);
+
+        machine->setState(BigBlind::getInstance());
+    }
+
+    void SmallBlind::exit(StateMachine *machine) {}
+
+    SmallBlind &SmallBlind::getInstance() {
         static SmallBlind singleton;
         return singleton;
+    }
+
+    unsigned int SmallBlind::getType() const {
+        return SMALL_BLIND;
     }
 }

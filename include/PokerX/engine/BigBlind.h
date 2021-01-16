@@ -1,19 +1,20 @@
 //
-// Created by Ciaran on 10/01/2021.
+// Created by Ciaran on 16/01/2021.
 //
 
-#ifndef POKERSIMULATIONSINCPP_BUTTONMOVES_H
-#define POKERSIMULATIONSINCPP_BUTTONMOVES_H
+#ifndef POKERX_BIGBLIND_H
+#define POKERX_BIGBLIND_H
+
 
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/eState.h"
 
 namespace pokerx {
 
-    class ButtonMoves : public State {
+    class BigBlind : public State {
     public:
 
-        ~ButtonMoves() override = default;
+        ~BigBlind() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -23,15 +24,14 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static ButtonMoves& getInstance();
+        static BigBlind& getInstance();
 
     private:
-        ButtonMoves() = default;
+        BigBlind() = default;
 
     };
 
-
-
 }
 
-#endif //POKERSIMULATIONSINCPP_BUTTONMOVES_H
+
+#endif //POKERX_BIGBLIND_H

@@ -2,8 +2,8 @@
 // Created by Ciaran on 16/01/2021.
 //
 
-#ifndef POKERX_ESTATE_H
-#define POKERX_ESTATE_H
+#ifndef POKERX_ENUMSTATE_H
+#define POKERX_ENUMSTATE_H
 
 enum eState {
     LIGHT_OFF = 0,
@@ -11,4 +11,4 @@ enum eState {
     LIGHT_HIGH = 2,
 };
 
-#endif //POKERX_ESTATE_H
+#endif //POKERX_ENUMSTATE_H

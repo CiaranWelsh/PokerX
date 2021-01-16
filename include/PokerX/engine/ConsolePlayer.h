@@ -11,7 +11,7 @@
 #include "Action.h"
 #include "PokerEngine.h"
 
-namespace engine {
+namespace pokerx {
     class ConsolePlayer : public Player {
     public:
         using Player::Player;

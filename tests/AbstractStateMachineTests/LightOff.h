@@ -7,7 +7,7 @@
 
 #include "PokerX/engine/StateMachine.h"
 #include "PokerX/engine/State.h"
-#include "eState.h"
+#include "enumState.h"
 using namespace pokerx;
 
 

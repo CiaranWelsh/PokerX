@@ -1,5 +1,5 @@
-#include "Pot.h"
-#include "Error.h"
+#include "PokerX/engine/Pot.h"
+#include "PokerX/Error.h"
 
 Pot::Pot(int value) : value_(static_cast<float>(value)) {};
 

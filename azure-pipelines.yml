@@ -1,0 +1,23 @@
+trigger:
+- master
+- develop
+
+strategy:
+  matrix:
+    linux:
+      imageName: 'ubuntu-20.04'
+    mac:
+      imageName: 'macos-10.15'
+    windows:
+      imageName: 'vs2019'
+
+stages:
+  - stage: Build and test
+    displayName: Build
+    jobs:
+
+
+
+
+
+

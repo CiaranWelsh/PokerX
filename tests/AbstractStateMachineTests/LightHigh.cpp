@@ -4,7 +4,7 @@
 
 #include "LightHigh.h"
 #include "LightOff.h"
-#include "eState.h"
+#include "enumState.h"
 
 void LightHigh::action(StateMachine *machine) {
     machine->setState(LightOff::getInstance());

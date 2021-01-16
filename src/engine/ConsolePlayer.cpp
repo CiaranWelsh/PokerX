@@ -6,7 +6,7 @@
 #include "ConsolePlayer.h"
 #include "NoLimitHoldem.h"
 
-namespace engine {
+namespace pokerx {
 
     Action ConsolePlayer::selectAction(PokerEngine *engine) {
         std::cout << "Enter action:" << std::endl;

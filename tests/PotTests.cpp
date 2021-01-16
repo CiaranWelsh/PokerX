@@ -4,7 +4,7 @@
 
 #include "gtest/gtest.h"
 #include "iostream"
-#include "engine/Pot.h"
+#include "PokerX/engine//Pot.h"
 
 using namespace std;
 

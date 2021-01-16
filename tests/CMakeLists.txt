@@ -10,19 +10,19 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
     add_executable(${BINARY} ${ARGN})
 
     if (${LINK_WITH_GOOGLETEST})
-        target_link_libraries(${BINARY} PRIVATE  gtest gtest_main gmock gmock_main)
+        target_link_libraries(${BINARY} PRIVATE gtest gtest_main gmock gmock_main)
     endif ()
 
-    if(LINK_WITH_POKERX_BINARY)
+    if (LINK_WITH_POKERX_BINARY)
         target_link_libraries(${BINARY} PRIVATE engine)
-    endif()
+    endif ()
 
     gtest_add_tests(TARGET ${BINARY})
 
     target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}")
 
-#    target_include_directories(${BINARY} PRIVATE "${NUMCPP_INCLUDE_DIR}")
-#    add_dependencies(${BINARY} poker)
+    #    target_include_directories(${BINARY} PRIVATE "${NUMCPP_INCLUDE_DIR}")
+    #    add_dependencies(${BINARY} poker)
 
     if ("${${OUT_VARIABLE}}" STREQUAL "")
         set(${OUT_VARIABLE} "${BINARY}" PARENT_SCOPE)
@@ -34,31 +34,76 @@ endfunction()
 
 set(TestExecutables)
 
+# A unit test style test for State class. We create an set
+# of light state from the abstract State class.
 add_test_executable(StateTests ON OFF TestExecutables
         StateTests.cpp
-        AbstractStateMachineTests/eState.h
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/State.h"
+        AbstractStateMachineTests/enumState.h
         AbstractStateMachineTests/LightOff.h
         AbstractStateMachineTests/LightOff.cpp
         AbstractStateMachineTests/LightLow.h
         AbstractStateMachineTests/LightLow.cpp
         AbstractStateMachineTests/LightHigh.h
         AbstractStateMachineTests/LightHigh.cpp
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/State.h"
         )
 
 
-
+# An integration style test on StateMachine and States. We create
+# a StateMachine simulation of a light switching states from Off to
+# low intensity to high intensity. The code uses the same
+# abstract interface as used in PokerEngine, but its much simpler.
 add_test_executable(StateMachineAbstractionTests ON OFF TestExecutables
         StateMachineTests.cpp
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/StateMachine.h"
+        "${POKERX_SOURCE_DIR}/engine/StateMachine.cpp"
+        AbstractStateMachineTests/enumState.h
         AbstractStateMachineTests/LightOff.h
         AbstractStateMachineTests/LightOff.cpp
         AbstractStateMachineTests/LightLow.h
         AbstractStateMachineTests/LightLow.cpp
         AbstractStateMachineTests/LightHigh.h
         AbstractStateMachineTests/LightHigh.cpp
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/StateMachine.h"
-        "${POKERX_SOURCE_DIR}/engine/StateMachine.cpp"
         )
+
+# GameVariable Unit tests
+add_test_executable(GameVariableTests ON OFF TestExecutables
+        GameVariableTests.cpp
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/GameVariables.h"
+        "${POKERX_SOURCE_DIR}/engine/GameVariables.cpp"
+        )
+
+# Pot Unit tests
+add_test_executable(PotTests.cpp ON OFF TestExecutables
+        PotTests.cpp
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/Pot.h"
+        "${POKERX_SOURCE_DIR}/engine/Pot.cpp"
+        )
+
+# integration tests for PokerEngine
+add_test_executable(PokerEngineStateMachineTests ON OFF TestExecutables
+        PokerEngineStateMachineTests.cpp
+
+        # Headers
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/StateMachine.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/State.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/PokerEngine.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/ResetState.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/Pot.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/ButtonMoves.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/SmallBlind.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/BigBlind.h"
+
+        # Sources
+        "${POKERX_SOURCE_DIR}/engine/StateMachine.cpp"
+        "${POKERX_SOURCE_DIR}/engine/PokerEngine.cpp"
+        "${POKERX_SOURCE_DIR}/engine/ResetState.cpp"
+        "${POKERX_SOURCE_DIR}/engine/ButtonMoves.cpp"
+        "${POKERX_SOURCE_DIR}/engine/Pot.cpp"
+        "${POKERX_SOURCE_DIR}/engine/SmallBlind.cpp"
+        "${POKERX_SOURCE_DIR}/engine/BigBlind.cpp"
+        )
+
 
 #add_test_executable(PokerTests ON  ON TestExecutables PokerTests.cpp)
 #add_test_executable(StateTests ON  ON TestExecutables IStateTests.cpp)

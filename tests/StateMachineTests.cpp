@@ -11,7 +11,7 @@
 
 #include "PokerX/engine/StateMachine.h"
 #include "AbstractStateMachineTests/LightOff.h"
-#include "AbstractStateMachineTests/eState.h"
+#include "AbstractStateMachineTests/enumState.h"
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
 using namespace pokerx;
@@ -31,6 +31,11 @@ public:
         state_ = &state;
         state_->exit(this);
     }
+
+    void reset() override {
+        state_ = &LightOff::getInstance();
+    }
+
 
 };
 
@@ -67,6 +72,15 @@ TEST_F(LightSwitchMachineTests, CheckThatLightIsOffAgainWhenActionCalledThreeTim
     sm.action();
     sm.action();
     sm.action();
+    ASSERT_EQ(LIGHT_OFF, sm.getState()->getType());
+}
+
+
+TEST_F(LightSwitchMachineTests, CheckThatResetMethodReturnsTheStateMachineToOffPosition){
+    LightSwitchMachine sm;
+    sm.action();
+    sm.action(); // StateMachine is in the LIGHT_HIGH state
+    sm.reset(); // reset StateMachine back to LIGHT_OFF state
     ASSERT_EQ(LIGHT_OFF, sm.getState()->getType());
 }
 

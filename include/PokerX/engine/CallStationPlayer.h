@@ -9,7 +9,7 @@
 #include "Action.h"
 #include "NoLimitHoldem.h"
 
-namespace engine {
+namespace pokerx {
     class CallStationPlayer : public Player {
     public:
         using Player::Player;

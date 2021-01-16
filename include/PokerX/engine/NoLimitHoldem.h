@@ -7,7 +7,7 @@
 
 #include "PokerEngine.h"
 
-namespace engine {
+namespace pokerx {
 
 
 //    class NoLimitHoldem : public PokerEngine {

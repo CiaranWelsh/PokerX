@@ -5,29 +5,31 @@
 #ifndef POKERSIMULATIONSINCPP_SMALLBLIND_H
 #define POKERSIMULATIONSINCPP_SMALLBLIND_H
 
-//#include "PokerState.h"
-//#include "PokerEngine.h"
-//
-//namespace engine {
-//
-//
-//    class SmallBlind : public PokerEngineState {
-//
-//    public:
-//        void enter(PokerEngine *engine) override;
-//
-//        void action(PokerEngine *engine) override;
-//
-//        void exit(PokerEngine *engine) override;
-//
-//        static PokerEngineState &getInstance();
-//
-//    private:
-//        SmallBlind() = default;
-//
-//    };
-//
-//
-//}
+
+#include "PokerX/engine/State.h"
+
+namespace pokerx {
+
+    class SmallBlind : public State {
+    public:
+
+        ~SmallBlind() override = default;
+
+        void enter(StateMachine *machine) override;
+
+        void action(StateMachine *machine) override;
+
+        void exit(StateMachine *machine) override;
+
+        [[nodiscard]] unsigned int getType() const override;
+
+        static SmallBlind& getInstance();
+
+    private:
+        SmallBlind() = default;
+
+    };
+
+}
 
 #endif //POKERSIMULATIONSINCPP_SMALLBLIND_H
