@@ -71,7 +71,8 @@ set(SOURCES
 )
 
 add_library(${target} STATIC ${SOURCES})
-target_include_directories(${target} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_BINARY_DIR})
+target_include_directories(${target} PUBLIC
+        ${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_BINARY_DIR})
 
 include(GenerateExportHeader)
 generate_export_header(${target})

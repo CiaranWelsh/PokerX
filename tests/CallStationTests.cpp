@@ -2,7 +2,7 @@
 #include "gtest/gtest.h"
 
 #include "engine/CallStationPlayer.h"
-#include "Mockups/MockEngine.h"
+#include "Mockups/MockPokerEngine.h"
 
 using namespace testing;
 using namespace engine;

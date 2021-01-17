@@ -14,7 +14,7 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
     endif ()
 
     if (LINK_WITH_POKERX_BINARY)
-        target_link_libraries(${BINARY} PRIVATE engine)
+        target_link_libraries(${BINARY} PRIVATE PokerX)
     endif ()
 
     gtest_add_tests(TARGET ${BINARY})
@@ -80,6 +80,59 @@ add_test_executable(PotTests.cpp ON OFF TestExecutables
         "${POKERX_SOURCE_DIR}/engine/Pot.cpp"
         )
 
+
+# ResetState Unit tests
+# Note: It is not possible to build the test with only the ResetState source code
+# because of compile errors. We therefore link to PokerX library
+add_test_executable(
+        ResetStateTests ON ON TestExecutables
+        ResetStateTests.cpp
+        Mockups/MockPokerEngine.h
+        Mockups/MockState.h
+        )
+
+
+# ButtonMoves Unit tests
+add_test_executable(
+        ButtonMovesTests ON ON TestExecutables
+        ButtonMovesTests.cpp
+        Mockups/MockPokerEngine.h
+        Mockups/MockState.h
+        )
+
+# PlayerManager unit tests
+add_test_executable(
+        PlayerManagerTests ON ON TestExecutables
+        PlayerManagerTests.cpp
+
+        # Headers
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/Player.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/PlayerManager.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/Action.h"
+
+        # Sources
+        "${POKERX_SOURCE_DIR}/engine/Player.cpp"
+        "${POKERX_SOURCE_DIR}/engine/PlayerManager.cpp"
+        "${POKERX_SOURCE_DIR}/engine/PlayerManager.cpp"
+
+)
+
+# Player unit tests
+add_test_executable(
+        PlayerTests ON OFF TestExecutables
+        PlayerTests.cpp
+
+        # Headers
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/Player.h"
+        "${POKERX_INCLUDE_DIR}/PokerX/engine/Action.h"
+
+        # Sources
+        "${POKERX_SOURCE_DIR}/engine/Player.cpp"
+        "${POKERX_SOURCE_DIR}/engine/PlayerManager.cpp"
+
+
+)
+
 # integration tests for PokerEngine
 add_test_executable(PokerEngineStateMachineTests ON OFF TestExecutables
         PokerEngineStateMachineTests.cpp
@@ -104,6 +157,13 @@ add_test_executable(PokerEngineStateMachineTests ON OFF TestExecutables
         "${POKERX_SOURCE_DIR}/engine/BigBlind.cpp"
         )
 
+# Tests for Cards
+add_test_executable(CardTests                       ON ON TestExecutables CardTests.cpp)
+add_test_executable(CardCollectionTests             ON ON TestExecutables CardCollectionTests.cpp)
+add_test_executable(RestricteCardCollectionTests    ON ON TestExecutables RestrictedCardCollectionTests.cpp)
+add_test_executable(DeckTests                       ON ON TestExecutables DeckTests.cpp)
+add_test_executable(HoleCardTests                   ON ON TestExecutables HoleCardTests.cpp)
+add_test_executable(CommunityCardTests              ON ON TestExecutables CommunityCardTests.cpp)
 
 #add_test_executable(PokerTests ON  ON TestExecutables PokerTests.cpp)
 #add_test_executable(StateTests ON  ON TestExecutables IStateTests.cpp)
@@ -113,11 +173,6 @@ add_test_executable(PokerEngineStateMachineTests ON OFF TestExecutables
 #
 #add_executable(x EngineTests.cpp)
 
-#add_test_executable(CardTests ON TestExecutables CardTests.cpp)
-#add_test_executable(CardCollectionTests ON TestExecutables CardCollectionTests.cpp)
-#add_test_executable(RestricteCardCollectionTests ON TestExecutables RestrictedCardCollectionTests.cpp)
-#add_test_executable(DeckTests ON TestExecutables DeckTests.cpp)
-#add_test_executable(HoleCardTests ON TestExecutables HoleCardTests.cpp)
-#add_test_executable(CommunityCardTests ON TestExecutables CommunityCardTests.cpp)
+
 #
 #add_test_executable(HandTests ON TestExecutables HandTests.cpp)

@@ -43,8 +43,7 @@ namespace pokerx {
     }
 
     void PokerEngine::reset() {
-//        gameVariables_.getPot().reset();
-//        pot_.reset(); // for example.
+        gameVariables_.getPot().reset();
     }
 
     const GameVariables &PokerEngine::getGameVariables() const {

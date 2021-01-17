@@ -7,10 +7,10 @@
 
 #include <utility>
 
-#include "card/Card.h"
+#include "PokerX/engine/Card.h"
 #include "gmock/gmock.h"
 
-using namespace cards;
+using namespace pokerx;
 using namespace testing;
 
 class MockCard : public ICard {

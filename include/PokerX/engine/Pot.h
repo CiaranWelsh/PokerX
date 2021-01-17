@@ -3,12 +3,11 @@
  */
 #include "ostream"
 
-#ifndef _POT_H
-#define _POT_H
+#ifndef POKERX_POT_H
+#define POKERX_POT_H
 
 class Pot {
 public:
-    float value_ = 0.0;
 
     Pot() = default;
 
@@ -16,25 +15,29 @@ public:
 
     explicit Pot(int value);
 
-    Pot& operator+(const Pot& other);
+    Pot &operator+(const Pot &other);
 
-    Pot& operator+(const float& amount);
+    Pot &operator+(const float &amount);
 
-    Pot& operator+=(const float& amount);
+    Pot &operator+=(const float &amount);
 
-    Pot& operator-(const Pot& other);
+    Pot &operator-(const Pot &other);
 
-    Pot& operator-(const float& amount);
+    Pot &operator-(const float &amount);
 
-    Pot& operator-=(const float& amount);
+    Pot &operator-=(const float &amount);
 
     bool operator==(const float &amount) const;
 
     bool operator!=(const float &amount);
 
-    friend std::ostream &operator<<(std::ostream &os, const Pot& pot);
+    friend std::ostream &operator<<(std::ostream &os, const Pot &pot);
 
     void reset();
+
+    [[nodiscard]] float getValue() const;
+private:
+    float value_ = 0.0;
 };
 
 #endif //_POT_H

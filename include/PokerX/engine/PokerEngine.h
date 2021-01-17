@@ -5,9 +5,10 @@
 #ifndef POKERSIMULATIONSINCPP_POKERENGINE_H
 #define POKERSIMULATIONSINCPP_POKERENGINE_H
 
-#include "StateMachine.h"
-#include "State.h"
-#include "GameVariables.h"
+#include "PokerX/engine/StateMachine.h"
+#include "PokerX/engine/State.h"
+#include "PokerX/engine/GameVariables.h"
+#include "PokerX/engine/PlayerManager.h"
 //#include "Player.h"
 //#include "Pot.h"
 //#include <vector>
@@ -51,6 +52,7 @@ namespace pokerx {
          * current positions, etc.
          */
         GameVariables gameVariables_;
+//        PlayerManager players_;
 
     };
 

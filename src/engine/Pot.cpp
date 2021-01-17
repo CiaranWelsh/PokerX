@@ -55,3 +55,7 @@ void Pot::reset() {
     value_ = 0;
 
 }
+
+float Pot::getValue() const {
+    return value_;
+}

@@ -5,9 +5,9 @@
 #ifndef POKERSIMULATIONSINCPP_PLAYER_H
 #define POKERSIMULATIONSINCPP_PLAYER_H
 
-#include "Action.h"
-#include "NoLimitHoldem.h"
-#include "PokerEngine.h"
+#include "PokerX/engine/Action.h"
+#include "PokerX/engine/GameVariables.h"
+#include <iostream>
 
 namespace pokerx {
 
@@ -15,31 +15,51 @@ namespace pokerx {
 
     class Player {
     public:
-        Player() = default;
+        Player(GameVariables& variables);
 
-        explicit Player(float stack) : stack_(stack){}
+        explicit Player(GameVariables& variables, std::string name, float stack);
 
         virtual Action selectAction(PokerEngine* engine) = 0;
 
-        [[nodiscard]] float getStack() const {
-            return stack_;
-        }
+        [[nodiscard]] const std::string &getName() const;
 
-        void setStack(float stack) {
-            stack_ = stack;
-        }
+        void setName(const std::string &name);
 
-        [[nodiscard]] bool isAllIn() const {
-            return isAllIn_;
-        }
+        friend std::ostream &operator<<(std::ostream &os, Player& player);
 
-        void setIsAllIn(bool isAllIn) {
-            isAllIn_ = isAllIn;
-        }
+        [[nodiscard]] float getStack() const;
+
+        void setStack(float stack);
+
+        [[nodiscard]] bool isAllIn() const;
+
+        void setIsAllIn(bool isAllIn);
+
+        [[nodiscard]] bool isInPlay() const;
+
+        void setIsInPlay(bool isInPlay);
 
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
+        bool isInPlay_ = true;
+        std::string name_;
+
+        GameVariables& gameVariables_;
+
+
+
+        /**
+         * What if the Player implemented the Observer interface with
+         * the GameVariables class?
+         * Player observes  subscribes to the GameVariables class
+         *
+         * We could just hold a reference to the GameVariables class within
+         * the Player class? This is simpler although might incur some
+         * recrusive dependencies that need resolving with forward declarations. Note,
+         * in languages where C++ like references are not possible, it would *have
+         * to be an observer.
+         */
     };
 
 }
