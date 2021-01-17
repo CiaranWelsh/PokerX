@@ -6,7 +6,7 @@
 #define POKERSIMULATIONSINCPP_STATEMACHINE_H
 
 #include "State.h"
-#include "eState.h"
+#include "eGamePlayState.h"
 
 namespace pokerx {
     class State;

@@ -3,7 +3,7 @@
 //
 
 #include "PokerX/engine/PokerEngine.h"
-#include "PokerX/engine/ResetState.h"
+#include "PokerX/engine/Reset.h"
 //#include <iostream>
 //#include <vector>
 //#include <cassert>
@@ -12,7 +12,7 @@
 namespace pokerx {
 
     PokerEngine::PokerEngine()
-        : StateMachine(&ResetState::getInstance()){}
+        : StateMachine(&Reset::getInstance()){}
 
     PokerEngine::PokerEngine(State* starting_state)
         : StateMachine(starting_state){}
@@ -38,6 +38,7 @@ namespace pokerx {
 
     void PokerEngine::action(unsigned int times) {
         for (int i=0; i<times; i++){
+            std::cout << i << std::endl;
             state_->action(this);
         }
     }

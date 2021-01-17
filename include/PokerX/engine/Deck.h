@@ -5,7 +5,7 @@
 #ifndef POKERSIMULATIONSINCPP_DECK_H
 #define POKERSIMULATIONSINCPP_DECK_H
 
-#include "Card.h"
+#include "PokerX/engine/Card.h"
 #include <vector>
 #include "RestrictedCardCollection.h"
 

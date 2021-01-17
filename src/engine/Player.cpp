@@ -8,11 +8,8 @@
 
 namespace pokerx {
 
-    Player::Player(GameVariables& variables)
-        :gameVariables_(variables){}
-
-    Player::Player(GameVariables& variables, std::string name, float stack)
-        : gameVariables_(variables), name_(std::move(name)), stack_(stack){}
+    Player::Player(std::string name, float stack)
+        :  name_(std::move(name)), stack_(stack){}
 
 
     std::ostream &operator<<(std::ostream &os, Player &player) {
@@ -50,6 +47,10 @@ namespace pokerx {
 
     void Player::setIsInPlay(bool isInPlay) {
         isInPlay_ = isInPlay;
+    }
+
+    const HoleCards &Player::getHoleCards() const {
+        return holeCards_;
     }
 
 

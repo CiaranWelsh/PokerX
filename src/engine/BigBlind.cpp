@@ -4,9 +4,9 @@
 
 #include <iostream>
 #include "PokerX/engine/BigBlind.h"
-#include "PokerX/engine/BigBlind.h"
+#include "PokerX/engine/Preflop.h"
 #include "PokerX/engine/PokerEngine.h"
-#include "PokerX/engine/eState.h"
+#include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
@@ -19,7 +19,7 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-//        engine->setState(BigBlind::getInstance());
+        engine->setState(Preflop::getInstance());
     }
 
     void BigBlind::exit(StateMachine *machine) {}
@@ -33,3 +33,4 @@ namespace pokerx {
         return BIG_BLIND;
     }
 }
+

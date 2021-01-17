@@ -60,18 +60,24 @@ add_library(
         include/PokerX/engine/CardCollection.h
         include/PokerX/engine/CommunityCards.h
         include/PokerX/engine/Deck.h
-        include/PokerX/engine/eState.h
+        include/PokerX/engine/Flop.h
+        include/PokerX/engine/eBettingState.h
+        include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h
+        include/PokerX/engine/Preflop.h
         include/PokerX/engine/Player.h
         include/PokerX/engine/PlayerManager.h
-        include/PokerX/engine/ResetState.h
+        include/PokerX/engine/Reset.h
         include/PokerX/engine/RestrictedCardCollection.h
+        include/PokerX/engine/River.h
+        include/PokerX/engine/Showdown.h
         include/PokerX/engine/SmallBlind.h
         include/PokerX/engine/State.h
         include/PokerX/engine/StateMachine.h
+        include/PokerX/engine/Turn.h
         include/PokerX/Error.h
 
         # sources
@@ -80,16 +86,22 @@ add_library(
         src/engine/Card.cpp
         src/engine/CardCollection.cpp
         src/engine/CommunityCards.cpp
+        src/engine/Deck.cpp
+        src/engine/Flop.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp
+        src/engine/Preflop.cpp
         src/engine/Player.cpp
         src/engine/PlayerManager.cpp
-        src/engine/ResetState.cpp
+        src/engine/Reset.cpp
         src/engine/RestrictedCardCollection.cpp
+        src/engine/River.cpp
+        src/engine/Showdown.cpp
         src/engine/SmallBlind.cpp
         src/engine/StateMachine.cpp
+        src/engine/Turn.cpp
 )
 
 target_include_directories(

@@ -1,19 +1,20 @@
 //
-// Created by Ciaran on 10/01/2021.
+// Created by Ciaran on 17/01/2021.
 //
 
-#ifndef POKERSIMULATIONSINCPP_BUTTONMOVES_H
-#define POKERSIMULATIONSINCPP_BUTTONMOVES_H
+#ifndef POKERX_SHOWDOWN_H
+#define POKERX_SHOWDOWN_H
+
 
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
-    class ButtonMoves : public State {
+    class Showdown : public State {
     public:
 
-        ~ButtonMoves() override = default;
+        ~Showdown() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -23,15 +24,13 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static ButtonMoves& getInstance();
+        static Showdown& getInstance();
 
     private:
-        ButtonMoves() = default;
+        Showdown() = default;
 
     };
 
-
-
 }
 
-#endif //POKERSIMULATIONSINCPP_BUTTONMOVES_H
+#endif //POKERX_SHOWDOWN_H

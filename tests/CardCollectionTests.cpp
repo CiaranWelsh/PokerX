@@ -10,7 +10,12 @@ using namespace testing;
 
 using namespace pokerx;
 
-TEST(CardCollectionTests, AddCardToCollection) {
+class CardCollectionTests  : public ::testing::Test {
+public: 
+    CardCollectionTests() = default;
+};
+
+TEST_F(CardCollectionTests, AddCardToCollection) {
     // Arrange
     MockCard fourOfHearts(4, "H");
     CardCollection cards;
@@ -22,7 +27,7 @@ TEST(CardCollectionTests, AddCardToCollection) {
     ASSERT_EQ(cards.size(), 1);
 }
 
-TEST(CardCollectionTests, TestConstructionFromVector) {
+TEST_F(CardCollectionTests, TestConstructionFromVector) {
     MockCard card1(10, "S");
     MockCard card2(4, "S");
     std::vector<ICard *> cards({&card1, &card2});
@@ -32,7 +37,7 @@ TEST(CardCollectionTests, TestConstructionFromVector) {
     ASSERT_EQ(expected, actual);
 }
 
-TEST(CardCollectionTests, AddCardsFromVector) {
+TEST_F(CardCollectionTests, AddCardsFromVector) {
     MockCard card1(11, "S");
     MockCard card2(5, "S");
     std::vector<ICard *> new_cards({&card1, &card2});
@@ -44,7 +49,7 @@ TEST(CardCollectionTests, AddCardsFromVector) {
 }
 
 
-TEST(CardCollectionTests, TestEqualityOperatorWorks) {
+TEST_F(CardCollectionTests, TestEqualityOperatorWorks) {
     CardCollection c1;
     CardCollection c2;
     MockCard card1(5, "H");
@@ -54,7 +59,7 @@ TEST(CardCollectionTests, TestEqualityOperatorWorks) {
     ASSERT_TRUE(c1 == c2);
 }
 
-TEST(CardCollectionTests, TestPopRemovesTopCardFromCollection) {
+TEST_F(CardCollectionTests, TestPopRemovesTopCardFromCollection) {
     MockCard card1(6, "C");
     EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
     EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("C"));
@@ -69,7 +74,7 @@ TEST(CardCollectionTests, TestPopRemovesTopCardFromCollection) {
     ASSERT_EQ("C", new_card->getSuit());
 }
 
-TEST(CardCollectionTests, TestPopWithIntArgReturnValueOfNCards) {
+TEST_F(CardCollectionTests, TestPopWithIntArgReturnValueOfNCards) {
     MockCard card1(6, "C");
     MockCard card2(7, "H");
     MockCard card3(8, "C");
@@ -89,7 +94,7 @@ TEST(CardCollectionTests, TestPopWithIntArgReturnValueOfNCards) {
     ASSERT_TRUE(suits == subset.getSuits());
 }
 
-TEST(CardCollectionTests, TestOverloadingPlusOperatorForConcat) {
+TEST_F(CardCollectionTests, TestOverloadingPlusOperatorForConcat) {
     MockCard card1(6, "C");
     MockCard card2(7, "C");
     MockCard card3(8, "C");
@@ -106,7 +111,7 @@ TEST(CardCollectionTests, TestOverloadingPlusOperatorForConcat) {
 }
 
 
-TEST(CardCollectionTests, TestSortCorrectlyOrdersCards) {
+TEST_F(CardCollectionTests, TestSortCorrectlyOrdersCards) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     MockCard card3(8, "H");
@@ -135,7 +140,7 @@ TEST(CardCollectionTests, TestSortCorrectlyOrdersCards) {
 }
 
 
-TEST(CardCollectionTests, TestGetSuitsCallsGetSuit) {
+TEST_F(CardCollectionTests, TestGetSuitsCallsGetSuit) {
     MockCard card1(6, "D");
     std::vector<ICard *> cards1({&card1});
     CardCollection cc(cards1);
@@ -143,7 +148,7 @@ TEST(CardCollectionTests, TestGetSuitsCallsGetSuit) {
     cc.getSuits();
 }
 
-TEST(CardCollectionTests, TestGetSuitsReturnsRightNumberOfCards) {
+TEST_F(CardCollectionTests, TestGetSuitsReturnsRightNumberOfCards) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     MockCard card3(8, "H");
@@ -154,7 +159,7 @@ TEST(CardCollectionTests, TestGetSuitsReturnsRightNumberOfCards) {
     ASSERT_EQ(5, cc.size());
 }
 
-TEST(CardCollectionTests, TestGetRanks) {
+TEST_F(CardCollectionTests, TestGetRanks) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
 
@@ -169,7 +174,7 @@ TEST(CardCollectionTests, TestGetRanks) {
 }
 
 
-TEST(CardCollectionTests, TestGetUniqueRanks) {
+TEST_F(CardCollectionTests, TestGetUniqueRanks) {
     MockCard card1(6, "D");
     MockCard card2(6, "C");
     MockCard card3(6, "H");
@@ -189,7 +194,7 @@ TEST(CardCollectionTests, TestGetUniqueRanks) {
 }
 
 
-TEST(CardCollectionTests, TestGetUniqueSuits) {
+TEST_F(CardCollectionTests, TestGetUniqueSuits) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     MockCard card3(2, "H");
@@ -210,7 +215,7 @@ TEST(CardCollectionTests, TestGetUniqueSuits) {
 }
 
 
-TEST(CardCollectionTests, TestRemoveCardFromCollection) {
+TEST_F(CardCollectionTests, TestRemoveCardFromCollection) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     std::vector<ICard *> cards1({&card1, &card2});
@@ -221,7 +226,7 @@ TEST(CardCollectionTests, TestRemoveCardFromCollection) {
 }
 
 
-TEST(CardCollectionTests, TestGetterOperatorReturnsCorrectCard) {
+TEST_F(CardCollectionTests, TestGetterOperatorReturnsCorrectCard) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
 
@@ -236,7 +241,7 @@ TEST(CardCollectionTests, TestGetterOperatorReturnsCorrectCard) {
 }
 
 
-TEST(CardCollectionTests, TestGetterOperatorRange) {
+TEST_F(CardCollectionTests, TestGetterOperatorRange) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     MockCard card3(2, "H");
@@ -253,7 +258,7 @@ TEST(CardCollectionTests, TestGetterOperatorRange) {
     ASSERT_EQ(expected, subset.getRanks());
 }
 
-TEST(CardCollectionTests, TestContainsWhenCardInCollection) {
+TEST_F(CardCollectionTests, TestContainsWhenCardInCollection) {
     MockCard card1(6, "D");
     MockCard card2(7, "D");
     std::vector<ICard *> cards1({&card1, &card2});
@@ -261,7 +266,7 @@ TEST(CardCollectionTests, TestContainsWhenCardInCollection) {
     ASSERT_TRUE(cc1.contains(&card1));
 }
 
-TEST(CardCollectionTests, TestContainsWhenCardNotInCollection) {
+TEST_F(CardCollectionTests, TestContainsWhenCardNotInCollection) {
     MockCard card1(6, "D");
     MockCard card2(7, "D");
     std::vector<ICard *> cards1({&card1});
@@ -269,7 +274,7 @@ TEST(CardCollectionTests, TestContainsWhenCardNotInCollection) {
     ASSERT_FALSE(cc1.contains(&card2));
 }
 
-TEST(CardCollectionTests, TestContainsRankWhenTrue) {
+TEST_F(CardCollectionTests, TestContainsRankWhenTrue) {
     MockCard card1(6, "D");
     EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
     std::vector<ICard *> cards1({&card1});
@@ -277,7 +282,7 @@ TEST(CardCollectionTests, TestContainsRankWhenTrue) {
     ASSERT_TRUE(cc1.containsRank(6));
 }
 
-TEST(CardCollectionTests, TestContainsRankWhenFalse) {
+TEST_F(CardCollectionTests, TestContainsRankWhenFalse) {
     MockCard card1(6, "D");
     EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
     std::vector<ICard *> cards1({&card1});
@@ -285,7 +290,7 @@ TEST(CardCollectionTests, TestContainsRankWhenFalse) {
     ASSERT_FALSE(cc1.containsRank(7));
 }
 
-TEST(CardCollectionTests, TestContainsSuitWhenTrue) {
+TEST_F(CardCollectionTests, TestContainsSuitWhenTrue) {
     MockCard card1(6, "D");
     EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
     std::vector<ICard *> cards1({&card1});
@@ -293,7 +298,7 @@ TEST(CardCollectionTests, TestContainsSuitWhenTrue) {
     ASSERT_TRUE(cc1.containsSuit("D"));
 }
 
-TEST(CardCollectionTests, TestContainsSuitWhenFalse) {
+TEST_F(CardCollectionTests, TestContainsSuitWhenFalse) {
     MockCard card1(6, "D");
     EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
     std::vector<ICard *> cards1({&card1});
@@ -301,7 +306,7 @@ TEST(CardCollectionTests, TestContainsSuitWhenFalse) {
     ASSERT_FALSE(cc1.containsSuit("C"));
 }
 
-//TEST(CardCollectionTests, TestFindByRank) { method deprecated.
+//TEST_F(CardCollectionTests, TestFindByRank) { method deprecated.
 //    MockCard card1(6, "D");
 //    MockCard card2(7, "C");
 //    MockCard card3(2, "H");
@@ -313,7 +318,7 @@ TEST(CardCollectionTests, TestContainsSuitWhenFalse) {
 //    ASSERT_TRUE(card == card2);
 //}
 
-TEST(CardCollectionTests, TestSetDifference) {
+TEST_F(CardCollectionTests, TestSetDifference) {
 
     MockCard card1(2, "D");
     MockCard card2(3, "D");
@@ -334,7 +339,7 @@ TEST(CardCollectionTests, TestSetDifference) {
     ASSERT_EQ("D", diff[0]->getSuit());
 }
 
-TEST(CardCollectionTests, TestSetIntersection) {
+TEST_F(CardCollectionTests, TestSetIntersection) {
 
     MockCard card1(2, "D");
     MockCard card2(3, "C");
@@ -356,7 +361,7 @@ TEST(CardCollectionTests, TestSetIntersection) {
 }
 
 
-TEST(CardCollectionTests, TestCopyWithMethod) {
+TEST_F(CardCollectionTests, TestCopyWithMethod) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     MockCard card3(2, "H");
@@ -370,7 +375,7 @@ TEST(CardCollectionTests, TestCopyWithMethod) {
     ASSERT_EQ(cc1, cc2);
 }
 
-TEST(CardCollectionTests, TestCopyWithCopyAssignmentOp) {
+TEST_F(CardCollectionTests, TestCopyWithCopyAssignmentOp) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
     MockCard card3(2, "H");
@@ -385,7 +390,7 @@ TEST(CardCollectionTests, TestCopyWithCopyAssignmentOp) {
 }
 
 
-TEST(CardCollectionTests, TestIsUniqueWhenTrue) {
+TEST_F(CardCollectionTests, TestIsUniqueWhenTrue) {
     Card card1(6, "D");
     Card card2(7, "C");
     Card card3(2, "H");
@@ -396,7 +401,7 @@ TEST(CardCollectionTests, TestIsUniqueWhenTrue) {
 }
 
 
-TEST(CardCollectionTests, TestIsUniqueWhenFalse) {
+TEST_F(CardCollectionTests, TestIsUniqueWhenFalse) {
     Card card1(6, "D");
     Card card2(2, "H");
     Card card3(2, "H");

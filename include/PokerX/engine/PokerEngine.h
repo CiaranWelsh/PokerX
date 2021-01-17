@@ -54,6 +54,16 @@ namespace pokerx {
         GameVariables gameVariables_;
 //        PlayerManager players_;
 
+        /**
+         * What if I had a "Manager" interface, and things that
+         * would have gone into gameVariables should be refactored
+         * into things that need managing.
+         *  - PlayerManager
+         *  - MoneyManager -- pot?
+         *  - CardManager? (Dealer)
+         *  - Gameplay factors like available actions
+         */
+
     };
 
 //    class PokerState;

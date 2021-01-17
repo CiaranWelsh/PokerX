@@ -9,6 +9,17 @@
 
 namespace pokerx {
 
+    /**
+     * The fact that GameVariables is difficult to make
+     * a interface for is probably a code smell.
+     *
+     * We could create a "Variables" interface. But then, what
+     * would go in it. Its too vague. And so is GameVariables.
+     * Therefore, I should consider refactoring GameVaribales
+     * into the components that will make up a GameVariables
+     * object.
+     */
+
     class GameVariables {
 
     public:

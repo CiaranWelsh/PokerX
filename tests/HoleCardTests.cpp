@@ -9,7 +9,12 @@
 
 using namespace testing;
 
-TEST(HoleCardTests, HoleCardTestGetRank) {
+class HoleCardTests : public ::testing::Test {
+public:
+    HoleCardTests() = default;
+};
+
+TEST_F(HoleCardTests, HoleCardTestGetRank) {
     MockCard card1(4, "S");
     MockCard card2(2, "D");
 
@@ -19,7 +24,7 @@ TEST(HoleCardTests, HoleCardTestGetRank) {
     ASSERT_TRUE(h[0]->getRank() == 4);
 }
 
-TEST(HoleCardTests, TestHoleCardFailsWithMoreThanTwoCards) {
+TEST_F(HoleCardTests, TestHoleCardFailsWithMoreThanTwoCards) {
     MockCard card1(4, "S");
     MockCard card2(4, "D");
     MockCard card3(6, "D");

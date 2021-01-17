@@ -6,7 +6,7 @@
 #include "PokerX/engine/SmallBlind.h"
 #include "PokerX/engine/BigBlind.h"
 #include "PokerX/engine/PokerEngine.h"
-#include "PokerX/engine/eState.h"
+#include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 

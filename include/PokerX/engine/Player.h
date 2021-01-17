@@ -7,6 +7,7 @@
 
 #include "PokerX/engine/Action.h"
 #include "PokerX/engine/GameVariables.h"
+#include "PokerX/engine/HoleCards.h"
 #include <iostream>
 
 namespace pokerx {
@@ -15,9 +16,9 @@ namespace pokerx {
 
     class Player {
     public:
-        Player(GameVariables& variables);
+        explicit Player() = default;
 
-        explicit Player(GameVariables& variables, std::string name, float stack);
+        Player(std::string name, float stack);
 
         virtual Action selectAction(PokerEngine* engine) = 0;
 
@@ -39,15 +40,15 @@ namespace pokerx {
 
         void setIsInPlay(bool isInPlay);
 
+        [[nodiscard]] const HoleCards &getHoleCards() const;
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
         bool isInPlay_ = true;
         std::string name_;
 
-        GameVariables& gameVariables_;
-
-
+        HoleCards holeCards_;
 
         /**
          * What if the Player implemented the Observer interface with

@@ -2,14 +2,14 @@
 #define POKERSIMULATIONSINCPP_RESETSTATE_H
 
 #include "PokerX/engine/State.h"
-#include "PokerX/engine/eState.h"
+#include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
-    class ResetState : public State {
+    class Reset : public State {
     public:
 
-        ~ResetState() override = default;
+        ~Reset() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -19,10 +19,10 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static ResetState& getInstance();
+        static Reset& getInstance();
 
     private:
-        ResetState() = default;
+        Reset() = default;
 
     };
 

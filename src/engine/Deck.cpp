@@ -2,9 +2,9 @@
 // Created by CiaranWelsh on 08/12/2019.
 //
 
-#include "Deck.h"
-#include "Card.h"
-#include "Error.h"
+#include "PokerX/engine/Deck.h"
+#include "PokerX/engine/Card.h"
+#include "PokerX/Error.h"
 
 #include <algorithm>
 #include <random>
@@ -29,13 +29,12 @@ namespace pokerx {
 
     std::vector<ICard*> Deck::buildDeck() {
         std::vector<ICard*> cards;
-        for (int r : cards::getRanks()) {
-            for (const auto &s : cards::getSuits()) {
+        for (int r : pokerx::getRanks()) {
+            for (const auto &s : pokerx::getSuits()) {
                 ICard *iCard = new Card(r, s);
                 cards.push_back(iCard);
             }
         }
-        shuffle();
         return cards;
     }
 

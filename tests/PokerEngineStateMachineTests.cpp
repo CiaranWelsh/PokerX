@@ -8,6 +8,7 @@
 #include "PokerX/engine/PokerEngine.h"
 
 using namespace pokerx;
+
 /**
  * Start state is a reset state.
  */
@@ -18,35 +19,62 @@ class PokerEngineStateMachineTests : public ::testing::Test {
 public:
     PokerEngineStateMachineTests() = default;
 
+    /**
+     * @brief turns a game of poker by calling the PokerEngine::action
+     * method @param times times then checks its State against @param state
+     * Test passes if they are equal
+     */
+    static void checkPokerEngineIsInCorrectState(int times, int state) {
+        PokerEngine engine;
+        engine.action(times);
+        ASSERT_EQ(state, engine.getState()->getType());
+    }
+
 };
 
 
 TEST_F(PokerEngineStateMachineTests, MakeSureTheDefaultStartingStateIsReset) {
-    PokerEngine engine;
-    ASSERT_EQ(RESET, engine.getState()->getType());
+    checkPokerEngineIsInCorrectState(0, RESET);
 }
 
 
 TEST_F(PokerEngineStateMachineTests, CallActionOnceAndChangeStateToButtonMoves) {
-    PokerEngine engine;
-    engine.action();
-    ASSERT_EQ(BUTTON_MOVES, engine.getState()->getType());
+    checkPokerEngineIsInCorrectState(1, BUTTON_MOVES);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction2TimesAndChangeStateToSmallBlind) {
-    PokerEngine engine;
-    engine.action();
-    engine.action();
-    ASSERT_EQ(SMALL_BLIND, engine.getState()->getType());
+    checkPokerEngineIsInCorrectState(2, SMALL_BLIND);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction3TimesAndChangeStateToBigBlind) {
-    PokerEngine engine;
-    engine.action();
-    engine.action();
-    engine.action();
-    ASSERT_EQ(BIG_BLIND, engine.getState()->getType());
+    checkPokerEngineIsInCorrectState(3, BIG_BLIND);
 }
+
+
+TEST_F(PokerEngineStateMachineTests, CallAction4TimesAndChangeStateToPreflop) {
+    checkPokerEngineIsInCorrectState(4, PREFLOP);
+}
+
+TEST_F(PokerEngineStateMachineTests, CallAction5TimesAndChangeStateToFlop) {
+    checkPokerEngineIsInCorrectState(5, FLOP);
+}
+
+TEST_F(PokerEngineStateMachineTests, CallAction6TimesAndChangeStateToTurn) {
+    checkPokerEngineIsInCorrectState(6, TURN);
+}
+
+TEST_F(PokerEngineStateMachineTests, CallAction7TimesAndChangeStateToRiver) {
+    checkPokerEngineIsInCorrectState(7, RIVER);
+}
+
+TEST_F(PokerEngineStateMachineTests, CallAction8TimesAndChangeStateToShowdown) {
+    checkPokerEngineIsInCorrectState(8, SHOWDOWN);
+}
+
+TEST_F(PokerEngineStateMachineTests, CallAction9TimesAndChangeStateBackToReset) {
+    checkPokerEngineIsInCorrectState(9, RESET);
+}
+
 
 
 

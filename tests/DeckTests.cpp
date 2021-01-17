@@ -10,7 +10,7 @@
 class DeckTests : public ::testing::Test {
 public:
 
-    DeckTests() {}
+    DeckTests() = default;
 };
 
 

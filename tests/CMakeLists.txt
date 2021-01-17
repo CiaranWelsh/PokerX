@@ -119,7 +119,7 @@ add_test_executable(
 
 # Player unit tests
 add_test_executable(
-        PlayerTests ON OFF TestExecutables
+        PlayerTests ON ON TestExecutables
         PlayerTests.cpp
 
         # Headers
@@ -134,30 +134,11 @@ add_test_executable(
 )
 
 # integration tests for PokerEngine
-add_test_executable(PokerEngineStateMachineTests ON OFF TestExecutables
+add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
         PokerEngineStateMachineTests.cpp
-
-        # Headers
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/StateMachine.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/State.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/PokerEngine.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/ResetState.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/Pot.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/ButtonMoves.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/SmallBlind.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/BigBlind.h"
-
-        # Sources
-        "${POKERX_SOURCE_DIR}/engine/StateMachine.cpp"
-        "${POKERX_SOURCE_DIR}/engine/PokerEngine.cpp"
-        "${POKERX_SOURCE_DIR}/engine/ResetState.cpp"
-        "${POKERX_SOURCE_DIR}/engine/ButtonMoves.cpp"
-        "${POKERX_SOURCE_DIR}/engine/Pot.cpp"
-        "${POKERX_SOURCE_DIR}/engine/SmallBlind.cpp"
-        "${POKERX_SOURCE_DIR}/engine/BigBlind.cpp"
         )
 
-# Tests for Cards
+# Tests for Cards and CardCollection objects
 add_test_executable(CardTests                       ON ON TestExecutables CardTests.cpp)
 add_test_executable(CardCollectionTests             ON ON TestExecutables CardCollectionTests.cpp)
 add_test_executable(RestricteCardCollectionTests    ON ON TestExecutables RestrictedCardCollectionTests.cpp)

@@ -1,6 +1,6 @@
 #include "gmock/gmock.h"
 
-#include "PokerX/engine/ResetState.h"
+#include "PokerX/engine/Reset.h"
 #include "Mockups/MockPokerEngine.h"
 #include "Mockups/MockPot.h"
 
@@ -24,13 +24,13 @@ public:
  * all we care about is that ResetState calls the reset() method from PokerEngine.
  */
 TEST_F(ResetStateTests, CheckThatResetStateCallsTheResetMethodOfPokerEngine) {
-    ResetState state = ResetState::getInstance();
+    Reset state = Reset::getInstance();
     EXPECT_CALL(engine, reset()).Times(1);
     state.action(&engine);
 }
 
 TEST_F(ResetStateTests, CheckThatResetStateCallsTheSetStateMethodOfPokerEngine) {
-    ResetState state = ResetState::getInstance();
+    Reset state = Reset::getInstance();
     EXPECT_CALL(engine, setState).Times(1);
     state.action(&engine);
 }
