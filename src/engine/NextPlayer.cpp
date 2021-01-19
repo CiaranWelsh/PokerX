@@ -24,6 +24,7 @@ namespace pokerx {
          */
         PlayerManager playerManager = engine->getPlayers();
 
+
         playerManager.rotate();
 
         engine->setState(PlayerToAct::getInstance());
@@ -37,6 +38,6 @@ namespace pokerx {
     }
 
     unsigned int NextPlayer::getType() const {
-        return NEXT_PLAYER;
+        return NEXT_PLAYER_STATE;
     }
 }

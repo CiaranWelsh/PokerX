@@ -17,7 +17,7 @@ namespace pokerx {
     public:
         PokerEngine();
 
-        explicit PokerEngine(State* starting_state);
+        explicit PokerEngine(State *starting_state);
 
         void setState(State &state) override;
 
@@ -43,6 +43,8 @@ namespace pokerx {
         [[nodiscard]] const GameVariables &getGameVariables() const;
 
         [[nodiscard]] const PlayerManager &getPlayers() const;
+
+
     private:
         /**
          * @brief GameVariables contain all configurable
@@ -55,6 +57,7 @@ namespace pokerx {
          * @brief variable to store all things regarding players
          */
         PlayerManager players_;
+
 
     };
 

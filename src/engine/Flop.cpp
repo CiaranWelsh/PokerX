@@ -33,7 +33,7 @@ namespace pokerx {
     }
 
     unsigned int Flop::getType() const {
-        return FLOP;
+        return FLOP_STATE;
     }
 }
 

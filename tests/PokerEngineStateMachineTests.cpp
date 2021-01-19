@@ -34,45 +34,75 @@ public:
 
 
 TEST_F(PokerEngineStateMachineTests, MakeSureTheDefaultStartingStateIsReset) {
-    checkPokerEngineIsInCorrectState(0, RESET);
+    checkPokerEngineIsInCorrectState(0, RESET_STATE);
 }
 
 
 TEST_F(PokerEngineStateMachineTests, CallActionOnceAndChangeStateToButtonMoves) {
-    checkPokerEngineIsInCorrectState(1, BUTTON_MOVES);
+    checkPokerEngineIsInCorrectState(1, BUTTON_MOVES_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction2TimesAndChangeStateToSmallBlind) {
-    checkPokerEngineIsInCorrectState(2, SMALL_BLIND);
+    checkPokerEngineIsInCorrectState(2, SMALL_BLIND_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction3TimesAndChangeStateToBigBlind) {
-    checkPokerEngineIsInCorrectState(3, BIG_BLIND);
+    checkPokerEngineIsInCorrectState(3, BIG_BLIND_STATE);
 }
 
 
 TEST_F(PokerEngineStateMachineTests, CallAction4TimesAndChangeStateToPreflop) {
-    checkPokerEngineIsInCorrectState(4, PREFLOP);
+    checkPokerEngineIsInCorrectState(4, PREFLOP_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction5TimesAndChangeStateToFlop) {
-    checkPokerEngineIsInCorrectState(5, FLOP);
+    checkPokerEngineIsInCorrectState(5, FLOP_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction6TimesAndChangeStateToTurn) {
-    checkPokerEngineIsInCorrectState(6, TURN);
+    checkPokerEngineIsInCorrectState(6, TURN_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction7TimesAndChangeStateToRiver) {
-    checkPokerEngineIsInCorrectState(7, RIVER);
+    checkPokerEngineIsInCorrectState(7, RIVER_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction8TimesAndChangeStateToShowdown) {
-    checkPokerEngineIsInCorrectState(8, SHOWDOWN);
+    checkPokerEngineIsInCorrectState(8, SHOWDOWN_STATE);
 }
 
 TEST_F(PokerEngineStateMachineTests, CallAction9TimesAndChangeStateBackToReset) {
-    checkPokerEngineIsInCorrectState(9, RESET);
+    checkPokerEngineIsInCorrectState(9, RESET_STATE);
+}
+
+
+TEST_F(PokerEngineStateMachineTests, Test) {
+    PokerEngine engine;
+
+    std::string x;
+    while (true) {
+        std::cout << "Enter one of: [none, check, fold, call, raise, all_in]" << std::endl;
+        std::cin >> x;
+        if (x == "N") {
+            break;
+        } else {
+            if (x == "none") {
+                engine.action(NONE);
+            } else if (x.empty()) {
+                engine.action(CALL);
+            } else if (x == "check") {
+                engine.action(NONE);
+            } else if (x == "fold") {
+                engine.action(NONE);
+            } else if (x == "call") {
+                engine.action(NONE);
+            } else if (x == "raise") {
+                engine.action(NONE);
+            } else if (x == "all_in") {
+                engine.action(ALL_IN);
+            }
+        }
+    }
 }
 
 

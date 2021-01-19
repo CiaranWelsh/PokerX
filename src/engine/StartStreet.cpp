@@ -27,6 +27,6 @@ namespace pokerx {
     }
 
     unsigned int StartStreet::getType() const {
-        return START_STREET;
+        return START_STREET_STATE;
     }
 }

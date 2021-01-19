@@ -68,6 +68,7 @@ namespace pokerx {
     const PlayerManager &PokerEngine::getPlayers() const {
         return players_;
     }
+
 //
 //    void PokerEngine::rotate() {
 //        Player *button = players_[0];

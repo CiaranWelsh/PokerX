@@ -18,6 +18,12 @@ public:
         return CALL;
     }
 
+    float raise() override{
+        float amount = getGameVariables()->getAmountToCall()*2;
+        stack_ -= amount;
+        return amount;
+    }
+
 
 };
 

@@ -9,12 +9,20 @@ namespace pokerx {
 
     void AllIn::enter(StateMachine *machine) {
         std::cout << "Entering AllIn" << std::endl;
-
     }
 
     void AllIn::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
+
+        // access the players
+        const PlayerManager& playerManager = engine->getPlayers();
+
+        // get currently active player
+        SharedPlayerPtr player = playerManager.getCurrentPlayer();
+
+        // call the allIn method
+        player->allIn();
 
         engine->setState(AllPlayersEqual::getInstance());
     }

@@ -11,7 +11,7 @@
 namespace pokerx {
 
 
-    template<typename T>
+    template<class T>
     class Observable {
     public:
         void notify(T &source, const std::string &data_field) {

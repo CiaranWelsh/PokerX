@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include "PokerX/engine/Call.h"
-#include "PokerX/engine/AllPlayersEqual.h"
+#include "PokerX/engine/RemoveCheckFromOptions.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -20,7 +20,16 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        engine->setState(AllPlayersEqual::getInstance());
+        // get a reference to the currently active player
+        const PlayerManager& playerManager = engine->getPlayers();
+
+        SharedPlayerPtr player = playerManager.getCurrentPlayer();
+
+        // amount is taken care of automatically by the observer mechanism
+        // in place between players and gameVariable
+        player->call();
+
+        engine->setState(RemoveCheckFromOptions::getInstance());
     }
 
     void Call::exit(StateMachine *machine) {}

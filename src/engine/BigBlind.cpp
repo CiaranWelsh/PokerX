@@ -16,10 +16,10 @@ namespace pokerx {
     }
 
     void BigBlind::action(StateMachine *machine) {
-
         auto *engine = dynamic_cast<PokerEngine *>(machine);
-
-        engine->setState(Preflop::getInstance());
+        const PlayerManager &manager = engine->getPlayers();
+        manager.getCurrentPlayer()->postBigBlind();
+        machine->setState(Preflop::getInstance());
     }
 
     void BigBlind::exit(StateMachine *machine) {}
@@ -30,7 +30,7 @@ namespace pokerx {
     }
 
     unsigned int BigBlind::getType() const {
-        return BIG_BLIND;
+        return BIG_BLIND_STATE;
     }
 }
 

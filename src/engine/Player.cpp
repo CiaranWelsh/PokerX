@@ -9,7 +9,7 @@
 namespace pokerx {
 
     Player::Player(std::string name, float stack)
-        :  name_(std::move(name)), stack_(stack){}
+            : name_(std::move(name)), stack_(stack) {}
 
     std::ostream &operator<<(std::ostream &os, Player &player) {
         os << player.getName() << "(stack=" << player.getStack() << ")" << std::endl;
@@ -22,6 +22,9 @@ namespace pokerx {
     }
 
     GameVariables *Player::getGameVariables() const {
+        if (gameVariables_ == nullptr){
+            RUNTIME_ERROR << "gameVariables is nullptr" << std::endl;
+        }
         return gameVariables_;
     }
 
@@ -65,30 +68,25 @@ namespace pokerx {
         setIsInPlay(false);
     }
 
+    void Player::checkGameVariablesNotNull() {
+        if (gameVariables_ == nullptr) {
+            RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
+                          << " been initialized." << std::endl;
+        }
+    }
+
     void Player::check() {
         // do nothing
+        checkGameVariablesNotNull();
+        if (!gameVariables_->isCheckAvailable()){
+            // todo handle this exception
+            RUNTIME_ERROR << "Check not available because there is money in the pot" << std::endl;
+        }
     }
 
     float Player::call() {
-        if (gameVariables_ == nullptr){
-            RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
-                << " been initialized." <<std::endl;
-        }
-        const float& amount = gameVariables_->getAmountToCall();
-        stack_ -= amount;
-        return amount;
-    }
-
-    float Player::raise(float amount) {
-        if (gameVariables_ == nullptr){
-            RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
-                << " been initialized." <<std::endl;
-        }
-        const float& call_amount = gameVariables_->getAmountToCall();
-        if (amount <= call_amount) {
-            LOGIC_ERROR << "Raise amount cannot be smaller or equal to the call"
-                           "amount" << std::endl;
-        }
+        checkGameVariablesNotNull();
+        const float &amount = gameVariables_->getAmountToCall();
         stack_ -= amount;
         return amount;
     }
@@ -97,6 +95,22 @@ namespace pokerx {
         float amount = stack_; // copy
         stack_ = 0;
         return amount;
+    }
+
+    void Player::postSmallBlind() {
+        /**
+         * Todo take into account the situation when a player no longer
+         * has enough money to play
+         */
+        float sb = gameVariables_->getSmallBlind();
+        stack_ -= sb;
+        gameVariables_->getPot() += sb;
+    }
+
+    void Player::postBigBlind() {
+        float bb = gameVariables_->getBigBlind();
+        stack_ -= bb;
+        gameVariables_->getPot() += bb;
     }
 
 

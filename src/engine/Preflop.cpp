@@ -19,6 +19,10 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
+        // inner state machine for round of betting.
+
+
+
         engine->setState(Flop::getInstance());
     }
 
@@ -30,7 +34,7 @@ namespace pokerx {
     }
 
     unsigned int Preflop::getType() const {
-        return PREFLOP;
+        return PREFLOP_STATE;
     }
 }
 

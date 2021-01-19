@@ -8,9 +8,9 @@
 namespace pokerx {
     enum eBettingState {
         ENTER_STREET,
-        PLAYER_TO_ACT,
+        PLAYER_TO_ACT_STATE,
         REMOVE_CHECK_FROM_ACTIONS,
-        NEXT_PLAYER,
+        NEXT_PLAYER_STATE,
         EXIT_STREET,
     };
 

@@ -38,6 +38,6 @@ namespace pokerx {
     }
 
     unsigned int AllPlayersEqual::getType() const {
-        return ALL_PLAYERS_EQUAL;
+        return ALL_PLAYERS_EQUAL_STATE;
     }
 }

@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/EndStreet.h"
-#include "PokerX/engine/AllPlayersEqual.h"
+#include "PokerX/engine/StartStreet.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -16,7 +16,35 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        engine->setState(AllPlayersEqual::getInstance());
+        GameVariables variables = engine->getGameVariables().getStreet();
+
+        switch (variables.getStreet()) {
+            case PREFLOP_STREET:
+                variables.setStreet(FLOP_STREET);
+                // then start another round of betting
+                engine->setState(StartStreet::getInstance());
+                break;
+            case FLOP_STREET:
+                variables.setStreet(TURN_STREET);
+                // then start another round of betting
+                engine->setState(StartStreet::getInstance());
+                break;
+            case TURN_STREET:
+                variables.setStreet(RIVER_STREET);
+                // then start another round of betting
+                engine->setState(StartStreet::getInstance());
+                break;
+            case RIVER_STREET:
+                variables.setStreet(SHOWDOWN_STREET);
+                // then start another round of betting
+                engine->setState(StartStreet::getInstance());
+                break;
+            case SHOWDOWN_STREET:
+                variables.setStreet(PREFLOP_STREET);
+                // This is were we invoke the hand evaluator and declare winner
+                // todo figure out hand evaluator code and put it here.
+                break;
+        }
     }
 
     void EndStreet::exit(StateMachine *machine) {}

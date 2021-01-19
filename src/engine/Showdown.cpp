@@ -34,7 +34,7 @@ namespace pokerx {
     }
 
     unsigned int Showdown::getType() const {
-        return SHOWDOWN;
+        return SHOWDOWN_STATE;
     }
 }
 

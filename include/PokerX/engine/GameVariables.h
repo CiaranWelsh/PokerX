@@ -7,6 +7,7 @@
 
 #include "PokerX/engine/Pot.h"
 #include "PokerX/engine/Observable.h"
+#include "PokerX/engine/Streets.h"
 
 namespace pokerx {
 
@@ -21,7 +22,7 @@ namespace pokerx {
      * object.
      */
 
-    class GameVariables : public Observable<GameVariables>{
+    class GameVariables : public Observable<GameVariables> {
 
     public:
 
@@ -35,6 +36,22 @@ namespace pokerx {
 
         void addToPot(const Pot &pot);
 
+        [[nodiscard]] bool isCheckAvailable() const;
+
+        void setCheckAvailable(bool checkAvailable);
+
+        [[nodiscard]] Street getStreet() const;
+
+        void setStreet(Street street);
+
+        [[nodiscard]] float getSmallBlind() const;
+
+        void setSmallBlind(float smallBlind);
+
+        [[nodiscard]] float getBigBlind() const;
+
+        void setBigBlind(float bigBlind);
+
     private:
         /**
          * @brief the amount of money in the pot
@@ -44,7 +61,29 @@ namespace pokerx {
         /**
          * @brief the amount to call the current bet
          */
-         float amount_to_call_ = 0.0;
+        float amount_to_call_ = 0.0;
+
+        /**
+         * @brief indicator variable that denotes whether players can
+         * check or not
+         */
+        bool checkAvailable_ = true;
+
+        /**
+         * @brief variable to denote the current street
+         */
+        Street street_ = PREFLOP_STREET;
+
+        /**
+         * @brief small blind amount
+         */
+        float smallBlind = 1.0;
+
+        /**
+         * @brief big blind amount
+         */
+        float bigBlind = 2.0;
+
 
     };
 }

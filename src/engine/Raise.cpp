@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/Raise.h"
-#include "PokerX/engine/Preflop.h"
+#include "PokerX/engine/RemoveCheckFromOptions.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -16,7 +16,16 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        engine->setState(Preflop::getInstance());
+        // access the players
+        const PlayerManager& playerManager = engine->getPlayers();
+
+        // get currently active player
+        SharedPlayerPtr player = playerManager.getCurrentPlayer();
+
+        // call the raise method
+        player->raise();
+
+        engine->setState(RemoveCheckFromOptions::getInstance());
     }
 
     void Raise::exit(StateMachine *machine) {}

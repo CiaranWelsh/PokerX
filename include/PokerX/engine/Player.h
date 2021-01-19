@@ -75,11 +75,15 @@ namespace pokerx {
          float call();
 
          /**
-          * @brief raise the current bet by @param amount
-          * This action sets the net amount to call value
-          * to the value of @param amount.
+          * @brief raise the current bet
+          * @details We cannot accept the raise amount as a parameter
+          * here because we have no way to enter it from where it'll be called
+          * i.e. from the Raise state, which only has an action call that accepts
+          * the state machine pointer. Therefore we need to allow subclasses to override
+          * this method to define their own strategy of raising. Perhaps
+          * triple bet raise, perhaps console or network input
           */
-         float raise(float amount);
+         virtual float raise() = 0;
 
          /**
           * @brief uses the Player::raise method but
@@ -88,6 +92,18 @@ namespace pokerx {
          float allIn();
 
         [[nodiscard]] GameVariables *getGameVariables() const;
+
+        /**
+         * @brief add the amount of chips dictated by the small blind
+         * into the pot
+         */
+         void postSmallBlind();
+
+        /**
+         * @brief add the amount of chips dictated by the small blind
+         * into the pot
+         */
+         void postBigBlind();
 
     protected:
         float stack_ = 1000.0;
@@ -107,6 +123,7 @@ namespace pokerx {
         GameVariables* gameVariables_ = nullptr;
 
 
+        void checkGameVariablesNotNull();
     };
 
     using PlayerPtr = std::unique_ptr<Player>;

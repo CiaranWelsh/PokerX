@@ -33,7 +33,7 @@ namespace pokerx {
     }
 
     unsigned int River::getType() const {
-        return RIVER;
+        return RIVER_STATE;
     }
 }
 

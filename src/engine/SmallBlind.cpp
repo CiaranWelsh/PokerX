@@ -15,9 +15,9 @@ namespace pokerx {
     }
 
     void SmallBlind::action(StateMachine *machine) {
-
-//        auto* engine = dynamic_cast<PokerEngine*>(machine);
-
+        auto* engine = dynamic_cast<PokerEngine*>(machine);
+        const PlayerManager& manager = engine->getPlayers();
+        manager.getCurrentPlayer()->postSmallBlind();
         machine->setState(BigBlind::getInstance());
     }
 
@@ -29,6 +29,6 @@ namespace pokerx {
     }
 
     unsigned int SmallBlind::getType() const {
-        return SMALL_BLIND;
+        return SMALL_BLIND_STATE;
     }
 }

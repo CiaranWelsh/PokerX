@@ -10,12 +10,12 @@
 namespace pokerx {
 
 
-    class StreetMachine : public StreetMachine {
-        void setState(State &state) override;
+    class StreetMachine : public StateMachine {
+        void setState(State &state) override {};
 
-        void action(Action action) override;
+        void action(Action action) override{};
 
-        void reset() override;
+        void reset() override{};
 
     };
 

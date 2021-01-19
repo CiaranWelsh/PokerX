@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/RemoveCheckFromOptions.h"
-#include "PokerX/engine/Preflop.h"
+#include "PokerX/engine/AllPlayersEqual.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -15,8 +15,9 @@ namespace pokerx {
     void RemoveCheckFromOptions::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
-
-        engine->setState(Preflop::getInstance());
+        GameVariables v = engine->getGameVariables();
+        v.setCheckAvailable(false);
+        engine->setState(AllPlayersEqual::getInstance());
     }
 
     void RemoveCheckFromOptions::exit(StateMachine *machine) {}
@@ -27,6 +28,6 @@ namespace pokerx {
     }
 
     unsigned int RemoveCheckFromOptions::getType() const {
-        return REMOVE_CHECK_FROM_OPTIONS;
+        return REMOVE_CHECK_FROM_OPTIONS_STATE;
     }
 }

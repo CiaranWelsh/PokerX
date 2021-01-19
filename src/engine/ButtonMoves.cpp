@@ -21,7 +21,11 @@ namespace pokerx {
         // cast down to PokerEngine
         // problem: liskov substitution principle violated
         auto* engine = dynamic_cast<PokerEngine*>(machine);
+        PlayerManager manager = engine->getPlayers();//.rotate();
 
+        std::cout << "Player btn was: " << *manager.getCurrentPlayer() <<std::endl;
+        manager.rotate();
+        std::cout << "Player btn is now: " << *manager.getCurrentPlayer() <<std::endl;
 
         // Reach out to PlayerManager and rotate player ordering
 //        std::cout<< engine->getGameVariables().getPot() << std::endl;
@@ -34,7 +38,7 @@ namespace pokerx {
     }
 
     unsigned int ButtonMoves::getType() const {
-        return BUTTON_MOVES;
+        return BUTTON_MOVES_STATE;
     }
 
     ButtonMoves &ButtonMoves::getInstance() {

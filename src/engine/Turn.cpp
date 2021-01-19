@@ -31,7 +31,7 @@ namespace pokerx {
     }
 
     unsigned int Turn::getType() const {
-        return TURN;
+        return TURN_STATE;
     }
 }
 

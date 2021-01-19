@@ -16,6 +16,15 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
+        // get a reference to the currently active player
+        const PlayerManager &playerManager = engine->getPlayers();
+
+        SharedPlayerPtr player = playerManager.getCurrentPlayer();
+
+        // does nothing except throws an error if
+        // GameVariables::checkAvailable = false
+        player->check();
+
         engine->setState(AllPlayersEqual::getInstance());
     }
 

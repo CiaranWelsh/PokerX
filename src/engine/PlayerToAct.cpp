@@ -67,6 +67,6 @@ namespace pokerx {
     }
 
     unsigned int PlayerToAct::getType() const {
-        return PLAYER_TO_ACT;
+        return PLAYER_TO_ACT_STATE;
     }
 }

@@ -25,7 +25,7 @@ namespace pokerx{
     void Reset::exit(StateMachine *machine) {}
 
     unsigned int Reset::getType() const {
-        return RESET;
+        return RESET_STATE;
     }
 
 }
