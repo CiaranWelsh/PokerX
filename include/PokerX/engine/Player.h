@@ -15,7 +15,7 @@
 
 /**
  * todo implement a Pot observer such that
- * players can subscribe and be notified of any pot changes
+ * players can addSubscriber and be notified of any pot changes
  */
 
 namespace pokerx {

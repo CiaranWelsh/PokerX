@@ -20,11 +20,11 @@ namespace pokerx {
             }
         }
 
-        void subscribe(Observer<T> *observer) {
+        void addSubscriber(Observer<T> *observer) {
             observers_.push_back(observer);
         }
 
-        void unsubscribe(Observer<T> *observer) {
+        void removeSubscriber(Observer<T> *observer) {
             for (int i = 0; i < observers_.size(); i++) {
                 if (observers_[i] == observer) {
                     observers_.erase(i);

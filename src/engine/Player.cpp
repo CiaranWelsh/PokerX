@@ -4,7 +4,7 @@
 
 #include "PokerX/engine/Player.h"
 #include <ostream>
-#include <utility>
+#include "PokerX/Error.h"
 
 namespace pokerx {
 
@@ -70,16 +70,33 @@ namespace pokerx {
     }
 
     float Player::call() {
-
-        return 0;
+        if (gameVariables_ == nullptr){
+            RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
+                << " been initialized." <<std::endl;
+        }
+        const float& amount = gameVariables_->getAmountToCall();
+        stack_ -= amount;
+        return amount;
     }
 
     float Player::raise(float amount) {
-        return 0;
+        if (gameVariables_ == nullptr){
+            RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
+                << " been initialized." <<std::endl;
+        }
+        const float& call_amount = gameVariables_->getAmountToCall();
+        if (amount <= call_amount) {
+            LOGIC_ERROR << "Raise amount cannot be smaller or equal to the call"
+                           "amount" << std::endl;
+        }
+        stack_ -= amount;
+        return amount;
     }
 
     float Player::allIn() {
-        return 0;
+        float amount = stack_; // copy
+        stack_ = 0;
+        return amount;
     }
 
 

@@ -7,6 +7,7 @@
 #include "gmock/gmock.h"
 
 #include "PokerX/engine/Player.h"
+#include "PokerX/engine/GameVariables.h"
 
 using namespace pokerx;
 
@@ -24,6 +25,7 @@ public:
 
 class PlayerTests : public ::testing::Test {
 public:
+    GameVariables gameVariables;
     PlayerTests() = default;
 };
 
@@ -54,15 +56,25 @@ TEST_F(PlayerTests, Check){
 
 
 TEST_F(PlayerTests, Call){
-    FakePlayer player;
+    FakePlayer player("p1", 100);
+    gameVariables.addSubscriber(&player);
+
+    gameVariables.setAmountToCall(10.0);
     float amount = player.call();
+    ASSERT_EQ(amount, 10.0);
+    ASSERT_EQ(player.getStack(), 90.0);
 
 }
 
-TEST_F(PlayerTests, Raise){
-    FakePlayer player;
-    player.raise(10.0);
-    float amount = player.call();
+TEST_F(PlayerTests, CheckRaiseWhenAmountIsGreaterThanCalAmount){
+    FakePlayer player("p1", 100);
+    gameVariables.addSubscriber(&player);
+
+    gameVariables.setAmountToCall(10.0);
+
+    float amount = player.raise(15.0);
+    ASSERT_EQ(amount, 15.0);
+    ASSERT_EQ(player.getStack(), 85.0);
 }
 
 
