@@ -9,12 +9,9 @@
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/GameVariables.h"
 #include "PokerX/engine/PlayerManager.h"
-//#include "Player.h"
-//#include "Pot.h"
-//#include <vector>
+
 
 namespace pokerx {
-
 
     class PokerEngine : public StateMachine {
     public:
@@ -31,7 +28,7 @@ namespace pokerx {
          * @details This method invokes the State::action method
          * of the currently active state.
          */
-        void action() override;
+        void action(Action action) override;
 
         /**
          * @brief calls the action @param times times
@@ -45,6 +42,7 @@ namespace pokerx {
 
         [[nodiscard]] const GameVariables &getGameVariables() const;
 
+        [[nodiscard]] const PlayerManager &getPlayers() const;
     private:
         /**
          * @brief GameVariables contain all configurable
@@ -52,58 +50,13 @@ namespace pokerx {
          * current positions, etc.
          */
         GameVariables gameVariables_;
-//        PlayerManager players_;
 
         /**
-         * What if I had a "Manager" interface, and things that
-         * would have gone into gameVariables should be refactored
-         * into things that need managing.
-         *  - PlayerManager
-         *  - MoneyManager -- pot?
-         *  - CardManager? (Dealer)
-         *  - Gameplay factors like available actions
+         * @brief variable to store all things regarding players
          */
+        PlayerManager players_;
 
     };
-
-//    class PokerState;
-//
-//    class PokerEngine : public StateMachine {
-//    public:
-//        using StateMachine::StateMachine;
-//
-//        virtual void reset();
-//
-//        virtual void rotate();
-//
-//        void action();
-//
-//        int getNPlayers() const;
-//
-//        void setNPlayers(int nPlayers);
-//
-//        void setCurrentBet(float currentBet);
-//
-//        float getCurrentBet() const;
-//
-//        void contribPot(float amount);
-//
-//        const std::vector<Player *> &getPlayers() const;
-//
-//        const Pot &getPot() const;
-//
-//        State *getState() const override;
-//
-//
-//    protected:
-//
-//        void initPlayers();
-//
-//        int nPlayers_ = 6;
-//        std::vector<Player *> players_;
-//        float currentBet_ = 0.0;
-//        Pot pot_;
-//    };
 
 }
 

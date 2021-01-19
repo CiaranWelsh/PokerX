@@ -5,22 +5,32 @@
 #ifndef POKERSIMULATIONSINCPP_PLAYER_H
 #define POKERSIMULATIONSINCPP_PLAYER_H
 
+#include "PokerX/engine/StateMachine.h"
 #include "PokerX/engine/Action.h"
 #include "PokerX/engine/GameVariables.h"
 #include "PokerX/engine/HoleCards.h"
+#include "PokerX/engine/Observer.h"
 #include <iostream>
+
+
+/**
+ * todo implement a Pot observer such that
+ * players can subscribe and be notified of any pot changes
+ */
 
 namespace pokerx {
 
     class PokerEngine;
 
-    class Player {
+    class Player : public Observer<GameVariables>{
     public:
         explicit Player() = default;
 
         Player(std::string name, float stack);
 
-        virtual Action selectAction(PokerEngine* engine) = 0;
+        virtual Action selectAction(StateMachine *engine) = 0;
+
+        void update(GameVariables &source, const std::string &data_field) override;
 
         [[nodiscard]] const std::string &getName() const;
 
@@ -42,6 +52,43 @@ namespace pokerx {
 
         [[nodiscard]] const HoleCards &getHoleCards() const;
 
+        /**
+         * @brief Change the isInPlay variable to false
+         * to indicate the this player has folded this round
+         */
+        void fold();
+
+        /**
+         * @brief Move on to the next player without
+         * putting money in the pot or folding. Not
+         * available when there is money in the pot
+         * that did not originate from the small or
+         * big blind.
+         */
+         void check();
+
+         /**
+          * @brief Call the current bet by putting the
+          * current bet size from this players stack into
+          * the pot
+          */
+         float call();
+
+         /**
+          * @brief raise the current bet by @param amount
+          * This action sets the net amount to call value
+          * to the value of @param amount.
+          */
+         float raise(float amount);
+
+         /**
+          * @brief uses the Player::raise method but
+          * with this players entire stack;
+          */
+         float allIn();
+
+        [[nodiscard]] GameVariables *getGameVariables() const;
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
@@ -51,17 +98,20 @@ namespace pokerx {
         HoleCards holeCards_;
 
         /**
-         * What if the Player implemented the Observer interface with
-         * the GameVariables class?
-         * Player observes  subscribes to the GameVariables class
-         *
-         * We could just hold a reference to the GameVariables class within
-         * the Player class? This is simpler although might incur some
-         * recrusive dependencies that need resolving with forward declarations. Note,
-         * in languages where C++ like references are not possible, it would *have
-         * to be an observer.
+         * @brief Stack pointer to a GameVariables object.
+         * @details When initialized, this variable will be nullptr.
+         * After the GameVariables::update method has been called,
+         * it'll be replaced with a pointer to the current GameVariables
+         * object, which is not a heap allocated pointer.
          */
+        GameVariables* gameVariables_ = nullptr;
+
+
     };
+
+    using PlayerPtr = std::unique_ptr<Player>;
+    using SharedPlayerPtr = std::shared_ptr<Player>;
+    using PlayerPtr2 = std::unique_ptr<PlayerPtr>;
 
 }
 

@@ -5,7 +5,7 @@
 #ifndef POKERSIMULATIONSINCPP_ISUBJECT_H
 #define POKERSIMULATIONSINCPP_ISUBJECT_H
 
-#include "CardCollectionObserver.h"
+#include "Observer.h"
 
 class ISubject {
  public:

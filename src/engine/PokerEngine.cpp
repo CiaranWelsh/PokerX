@@ -12,10 +12,24 @@
 namespace pokerx {
 
     PokerEngine::PokerEngine()
-        : StateMachine(&Reset::getInstance()){}
+            : StateMachine(&Reset::getInstance()) {
 
-    PokerEngine::PokerEngine(State* starting_state)
-        : StateMachine(starting_state){}
+        // All players subscribe to the gameVariables instance
+        // in order to observe the game play
+//        for (const auto& player: getPlayers()) {
+//            gameVariables_.subscribe(player);
+//        }
+    }
+
+    PokerEngine::PokerEngine(State *starting_state)
+            : StateMachine(starting_state) {
+
+        // All players subscribe to the gameVariables instance
+        // in order to observe the game play
+//        for (const auto& player: getPlayers()) {
+//            gameVariables_.subscribe(player);
+//        }
+    }
 
     void PokerEngine::setState(State &state) {
         // When we initially enter the setState method we
@@ -32,12 +46,12 @@ namespace pokerx {
         // enter and exit are by default empty
     }
 
-    void PokerEngine::action() {
+    void PokerEngine::action(Action action) {
         state_->action(this);
     }
 
     void PokerEngine::action(unsigned int times) {
-        for (int i=0; i<times; i++){
+        for (int i = 0; i < times; i++) {
             std::cout << i << std::endl;
             state_->action(this);
         }
@@ -49,6 +63,10 @@ namespace pokerx {
 
     const GameVariables &PokerEngine::getGameVariables() const {
         return gameVariables_;
+    }
+
+    const PlayerManager &PokerEngine::getPlayers() const {
+        return players_;
     }
 //
 //    void PokerEngine::rotate() {

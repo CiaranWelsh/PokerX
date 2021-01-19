@@ -104,17 +104,7 @@ add_test_executable(
 add_test_executable(
         PlayerManagerTests ON ON TestExecutables
         PlayerManagerTests.cpp
-
-        # Headers
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/Player.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/PlayerManager.h"
-        "${POKERX_INCLUDE_DIR}/PokerX/engine/Action.h"
-
-        # Sources
-        "${POKERX_SOURCE_DIR}/engine/Player.cpp"
-        "${POKERX_SOURCE_DIR}/engine/PlayerManager.cpp"
-        "${POKERX_SOURCE_DIR}/engine/PlayerManager.cpp"
-
+        Mockups/FakePlayer.h
 )
 
 # Player unit tests
@@ -132,6 +122,12 @@ add_test_executable(
 
 
 )
+
+# integration style tests to check the Player and GameVariables
+# classes interact correctly according to the observer pattern
+add_test_executable(ObserverPatternTests ON ON TestExecutables
+        GameVariableObserverTests.cpp
+        )
 
 # integration tests for PokerEngine
 add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables

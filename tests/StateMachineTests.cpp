@@ -9,6 +9,7 @@
  * But first, lets make sure it works.
  */
 
+#include <PokerX/engine/Action.h>
 #include "PokerX/engine/StateMachine.h"
 #include "AbstractStateMachineTests/LightOff.h"
 #include "AbstractStateMachineTests/enumState.h"
@@ -22,7 +23,7 @@ public:
 
     LightSwitchMachine() : StateMachine(&LightOff::getInstance()) {};
 
-    void action() override {
+    void action(Action action) override {
         state_->action(this);
     }
 
@@ -56,30 +57,30 @@ TEST_F(LightSwitchMachineTests, AssertLightMachineIsOffInitially){
 
 TEST_F(LightSwitchMachineTests, CheckThatLightIsLowWhenActionCalledOnce){
     LightSwitchMachine sm;
-    sm.action();
+    sm.action(NONE);
     ASSERT_EQ(LIGHT_LOW, sm.getState()->getType());
 }
 
 TEST_F(LightSwitchMachineTests, CheckThatLightIsHighWhenActionCalledTwice){
     LightSwitchMachine sm;
-    sm.action();
-    sm.action();
+    sm.action(NONE);
+    sm.action(NONE);
     ASSERT_EQ(LIGHT_HIGH, sm.getState()->getType());
 }
 
 TEST_F(LightSwitchMachineTests, CheckThatLightIsOffAgainWhenActionCalledThreeTimes){
     LightSwitchMachine sm;
-    sm.action();
-    sm.action();
-    sm.action();
+    sm.action(NONE);
+    sm.action(NONE);
+    sm.action(NONE);
     ASSERT_EQ(LIGHT_OFF, sm.getState()->getType());
 }
 
 
 TEST_F(LightSwitchMachineTests, CheckThatResetMethodReturnsTheStateMachineToOffPosition){
     LightSwitchMachine sm;
-    sm.action();
-    sm.action(); // StateMachine is in the LIGHT_HIGH state
+    sm.action(NONE);
+    sm.action(NONE); // StateMachine is in the LIGHT_HIGH state
     sm.reset(); // reset StateMachine back to LIGHT_OFF state
     ASSERT_EQ(LIGHT_OFF, sm.getState()->getType());
 }

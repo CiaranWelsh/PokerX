@@ -7,11 +7,12 @@
 
 namespace pokerx {
     enum Action {
-        CHECK,
-        FOLD,
-        CALL,
-        RAISE,
-        ALL_IN,
+        NONE = 0,
+        CHECK = 1,
+        FOLD = 2,
+        CALL = 3,
+        RAISE = 4,
+        ALL_IN = 5,
     };
 }
 #endif //POKERSIMULATIONSINCPP_ACTION_H

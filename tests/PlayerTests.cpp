@@ -2,6 +2,7 @@
 // Created by Ciaran on 17/01/2021.
 //
 
+#include <PokerX/engine/StateMachine.h>
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
 
@@ -16,7 +17,7 @@ public:
     /**
      * Our Fake player is a call station.
      */
-    Action selectAction(PokerEngine *engine) override {
+    Action selectAction(pokerx::StateMachine *engine) override {
         return CALL;
     }
 };
@@ -37,5 +38,57 @@ TEST_F(PlayerTests, TestPlayerStartingStack){
     FakePlayer player;
     ASSERT_EQ(1000.0, player.getStack());
 }
+
+TEST_F(PlayerTests, CheckPlayersIsInPlayFlagTurnedOffWhenFold){
+    FakePlayer player;
+    player.fold();
+    ASSERT_FALSE(player.isInPlay());
+}
+
+
+TEST_F(PlayerTests, Check){
+    FakePlayer player;
+    player.check();
+    ASSERT_TRUE(player.isInPlay());
+}
+
+
+TEST_F(PlayerTests, Call){
+    FakePlayer player;
+    float amount = player.call();
+
+}
+
+TEST_F(PlayerTests, Raise){
+    FakePlayer player;
+    player.raise(10.0);
+    float amount = player.call();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

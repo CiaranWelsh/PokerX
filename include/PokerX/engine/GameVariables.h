@@ -6,6 +6,7 @@
 #define POKERX_GAMEVARIABLES_H
 
 #include "PokerX/engine/Pot.h"
+#include "PokerX/engine/Observable.h"
 
 namespace pokerx {
 
@@ -20,7 +21,7 @@ namespace pokerx {
      * object.
      */
 
-    class GameVariables {
+    class GameVariables : public Observable<GameVariables>{
 
     public:
 
@@ -28,9 +29,22 @@ namespace pokerx {
 
         [[nodiscard]] Pot getPot() const;
 
+        [[nodiscard]] float getAmountToCall() const;
+
+        void setAmountToCall(float amountToCall);
+
+        void addToPot(const Pot &pot);
 
     private:
+        /**
+         * @brief the amount of money in the pot
+         */
         Pot pot_;
+
+        /**
+         * @brief the amount to call the current bet
+         */
+         float amount_to_call_ = 0.0;
 
     };
 }

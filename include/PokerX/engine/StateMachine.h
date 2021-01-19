@@ -7,6 +7,7 @@
 
 #include "State.h"
 #include "eGamePlayState.h"
+#include "Action.h"
 
 namespace pokerx {
     class State;
@@ -23,7 +24,7 @@ namespace pokerx {
          * @brief constructor that takes a
          * state to start the state machine in
          */
-        StateMachine(State *starting_state);
+        explicit StateMachine(State *starting_state);
 
         /**
          * @brief abstract method to change the current
@@ -43,7 +44,7 @@ namespace pokerx {
          * is the main entry point for "turning" the
          * game cycle
          */
-        virtual void action() = 0;
+        virtual void action(Action action = NONE) = 0;
 
         /**
          * @brief Abstract method to return the StateMachine back to the

@@ -16,7 +16,7 @@ namespace pokerx {
     public:
         using Player::Player;
 
-        Action selectAction(PokerEngine* engine) override;
+        Action selectAction(StateMachine *engine) override;
 
 
     };

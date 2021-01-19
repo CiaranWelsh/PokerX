@@ -54,20 +54,31 @@ add_library(
         PokerX STATIC
 
         # headers
+        include/PokerX/engine/Action.h
+        include/PokerX/engine/AllIn.h
+        include/PokerX/engine/AllPlayersEqual.h
         include/PokerX/engine/BigBlind.h
         include/PokerX/engine/ButtonMoves.h
+        include/PokerX/engine/Call.h
         include/PokerX/engine/Card.h
         include/PokerX/engine/CardCollection.h
         include/PokerX/engine/CommunityCards.h
+        include/PokerX/engine/Check.h
         include/PokerX/engine/Deck.h
         include/PokerX/engine/Flop.h
+        include/PokerX/engine/Fold.h
         include/PokerX/engine/eBettingState.h
         include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
+        include/PokerX/engine/Observer.h
+        include/PokerX/engine/Observable.h
+        include/PokerX/engine/NextPlayer.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h
         include/PokerX/engine/Preflop.h
+        include/PokerX/engine/Raise.h
+        include/PokerX/engine/RemoveCheckFromOptions.h
         include/PokerX/engine/Player.h
         include/PokerX/engine/PlayerManager.h
         include/PokerX/engine/Reset.h
@@ -75,24 +86,35 @@ add_library(
         include/PokerX/engine/River.h
         include/PokerX/engine/Showdown.h
         include/PokerX/engine/SmallBlind.h
+        include/PokerX/engine/StartStreet.h
         include/PokerX/engine/State.h
         include/PokerX/engine/StateMachine.h
+        include/PokerX/engine/StreetMachine.h
         include/PokerX/engine/Turn.h
+        include/PokerX/engine/PlayerToAct.h
         include/PokerX/Error.h
 
         # sources
+        src/engine/AllIn.cpp
+        src/engine/AllPlayersEqual.cpp
         src/engine/BigBlind.cpp
         src/engine/ButtonMoves.cpp
+        src/engine/Call.cpp
         src/engine/Card.cpp
         src/engine/CardCollection.cpp
+        src/engine/Check.cpp
         src/engine/CommunityCards.cpp
         src/engine/Deck.cpp
         src/engine/Flop.cpp
+        src/engine/Fold.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
+        src/engine/NextPlayer.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp
         src/engine/Preflop.cpp
+        src/engine/Raise.cpp
+        src/engine/RemoveCheckFromOptions.cpp
         src/engine/Player.cpp
         src/engine/PlayerManager.cpp
         src/engine/Reset.cpp
@@ -100,8 +122,11 @@ add_library(
         src/engine/River.cpp
         src/engine/Showdown.cpp
         src/engine/SmallBlind.cpp
+        src/engine/StartStreet.cpp
         src/engine/StateMachine.cpp
+        src/engine/StreetMachine.cpp
         src/engine/Turn.cpp
+        src/engine/PlayerToAct.cpp
 )
 
 target_include_directories(

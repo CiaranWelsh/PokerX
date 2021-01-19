@@ -11,10 +11,18 @@ namespace pokerx {
     Player::Player(std::string name, float stack)
         :  name_(std::move(name)), stack_(stack){}
 
-
     std::ostream &operator<<(std::ostream &os, Player &player) {
         os << player.getName() << "(stack=" << player.getStack() << ")" << std::endl;
         return os;
+    }
+
+    void Player::update(GameVariables &source, const string &data_field) {
+        // store the reference
+        gameVariables_ = &source;
+    }
+
+    GameVariables *Player::getGameVariables() const {
+        return gameVariables_;
     }
 
     const std::string &Player::getName() const {
@@ -51,6 +59,27 @@ namespace pokerx {
 
     const HoleCards &Player::getHoleCards() const {
         return holeCards_;
+    }
+
+    void Player::fold() {
+        setIsInPlay(false);
+    }
+
+    void Player::check() {
+        // do nothing
+    }
+
+    float Player::call() {
+
+        return 0;
+    }
+
+    float Player::raise(float amount) {
+        return 0;
+    }
+
+    float Player::allIn() {
+        return 0;
     }
 
 

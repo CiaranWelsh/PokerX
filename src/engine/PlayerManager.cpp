@@ -4,16 +4,23 @@
 
 #include <PokerX/Error.h>
 #include <algorithm>
+#include <utility>
 #include "PokerX/engine/PlayerManager.h"
 
 namespace pokerx {
 
-    void PlayerManager::addPlayer(Player *player) {
+    void PlayerManager::addPlayer(const SharedPlayerPtr& player) {
         players_.push_back(player);
     }
 
+    void PlayerManager::update(GameVariables &source, const string &data_field) {
+        for (const auto& player: players_){
+            player->update(source, data_field);
+        }
+    }
+
     void PlayerManager::rotate() {
-        Player *front_player = players_[0];
+        SharedPlayerPtr front_player = std::move(players_[0]);
         players_.erase(players_.begin());
         players_.push_back(front_player);
         // must update current_player field
@@ -29,7 +36,7 @@ namespace pokerx {
     }
 
 
-    Player *&PlayerManager::operator[](int index) {
+    SharedPlayerPtr &PlayerManager::operator[](int index) {
         if (players_.empty()) {
             LOGIC_ERROR << "You cannot get access to players "
                         << "as there are not players yet." << std::endl;
@@ -41,17 +48,17 @@ namespace pokerx {
         return players_.size();
     }
 
-    std::vector<Player *>::iterator PlayerManager::begin() {
+    std::vector<SharedPlayerPtr>::const_iterator PlayerManager::begin() const {
         return players_.begin();
     }
 
-    std::vector<Player *>::iterator PlayerManager::end() {
+    std::vector<SharedPlayerPtr>::const_iterator PlayerManager::end() const {
         return players_.end();
     }
 
-    bool PlayerManager::checkAllPlayersEqual() {
+    bool PlayerManager::checkAllPlayersEqual() const {
         std::vector<float> amounts;
-        for (Player* player : players_) {
+        for (const auto & player : players_) {
             if (player->isInPlay())
                 amounts.push_back(player->getStack());
         }
@@ -64,11 +71,11 @@ namespace pokerx {
     }
 
 
-    void PlayerManager::setButton(Player *button) {
-        button_ = button;
+    void PlayerManager::setButton(SharedPlayerPtr button) {
+        button_ = std::move(button);
     }
 
-    Player *PlayerManager::getButton() {
+    SharedPlayerPtr PlayerManager::getButton() {
         return button_;
     }
 
@@ -84,24 +91,25 @@ namespace pokerx {
         return os;
     }
 
-    Player *PlayerManager::getCurrentPlayer() const {
+    SharedPlayerPtr PlayerManager::getCurrentPlayer() const {
         return current_player_;
     }
 
-    void PlayerManager::setCurrentPlayer(Player *currentPlayer) {
-        current_player_ = currentPlayer;
+    void PlayerManager::setCurrentPlayer(SharedPlayerPtr currentPlayer) {
+        current_player_ = std::move(currentPlayer);
     }
 
-    Player *PlayerManager::operator[](const std::string &name){
-        Player* x = nullptr;
-        for (auto* player : players_){
+    SharedPlayerPtr PlayerManager::operator[](const std::string &name) {
+        SharedPlayerPtr x = nullptr;
+        for (const auto& player : players_) {
             if (player->getName() == name)
                 x = player;
         }
         if (x == nullptr)
-            LOGIC_ERROR<<"Did not find a player with that name" << std::endl;
+            LOGIC_ERROR << "Did not find a player with that name" << std::endl;
         return x;
     }
+
 
 
 }

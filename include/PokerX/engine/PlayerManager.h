@@ -17,35 +17,57 @@ namespace pokerx {
 
         PlayerManager() = default;
 
-        void addPlayer(Player* player);
+        /**
+         * @brief calls each of the contained Player objects update method
+         * to implement the observer
+         */
+        void update(GameVariables &source, const std::string &data_field);
+
+
+        void addPlayer(const SharedPlayerPtr &player);
 
         void rotate();
 
-        Player* operator[](const std::string& name);
+        SharedPlayerPtr operator[](const std::string &name);
 
-        Player* &operator[](int index);
+        SharedPlayerPtr &operator[](int index);
 
         int size();
 
-        std::vector<Player*>::iterator begin();
+        [[nodiscard]] std::vector<SharedPlayerPtr>::const_iterator begin() const;
 
-        std::vector<Player*>::iterator end();
+        [[nodiscard]] std::vector<SharedPlayerPtr>::const_iterator end() const;
 
         friend std::ostream &operator<<(std::ostream &os, PlayerManager &players);
 
-        bool checkAllPlayersEqual();
+        [[nodiscard]] bool checkAllPlayersEqual() const;
 
-        void setButton(Player* button);
+        void setButton(SharedPlayerPtr button);
 
-        Player* getButton();
-        [[nodiscard]] Player *getCurrentPlayer() const;
+        SharedPlayerPtr getButton();
 
-        void setCurrentPlayer(Player *currentPlayer);
+        [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const;
+
+        void setCurrentPlayer(SharedPlayerPtr currentPlayer);
+
+        template<class T>
+        static PlayerManager populate(unsigned int n, float stack) {
+            PlayerManager manager;
+            int i = 0;
+            while (i < n){
+                std::ostringstream os;
+                os << "Player" << i;
+                manager.addPlayer(std::make_shared<T>(T(os.str(), stack)));
+                i++;
+            }
+            return manager;
+        }
+
     private:
-        std::vector<Player*> players_;
+        std::vector<SharedPlayerPtr> players_;
 
-        Player* current_player_;
-        Player* button_;
+        SharedPlayerPtr current_player_;
+        SharedPlayerPtr button_;
     };
 }
 
