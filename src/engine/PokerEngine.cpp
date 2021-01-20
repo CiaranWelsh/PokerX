@@ -18,7 +18,6 @@ namespace pokerx {
         // player. This can be thought of as an initialization handshake
         // where players and GameVariables agree to observe/be observed.
         players_.watch(variables);
-
     }
 
     PokerEngine::PokerEngine()

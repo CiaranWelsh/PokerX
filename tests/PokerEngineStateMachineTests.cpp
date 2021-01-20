@@ -10,7 +10,12 @@
 using namespace pokerx;
 
 /**
- * Start state is a reset state.
+ * todo this unit test is going to be tricky because we'll have to mock
+ * the PlayerManager
+ *
+ * To mock a PlayerManager, we need an interface. What about
+ * An ItemManager? What about using interface segregation and
+ * having a "Watcher" interface that implements the update method.
  */
 
 

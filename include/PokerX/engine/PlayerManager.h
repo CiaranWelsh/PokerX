@@ -12,6 +12,12 @@
 
 namespace pokerx {
 
+    /**
+     * @brief Container class for Player instances.
+     * @details
+     * @todo Create some interfacs that PlayerManager can implement
+     * Container, watcher, item manager
+     */
     class PlayerManager {
 
     public:
@@ -21,9 +27,9 @@ namespace pokerx {
         /**
          * @brief calls each of the contained Player objects update method
          * to implement the observer
+         * @note Could have the PlayerManager observe the GameVariables instead?
          */
         void update(GameVariables &source, const std::string &data_field);
-
 
         void addPlayer(const SharedPlayerPtr &player);
 

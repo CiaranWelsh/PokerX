@@ -7,6 +7,7 @@
 using namespace pokerx;
 
 int main() {
+
     PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(6, 100.0);
     GameVariables variables;
     PokerEngine engine(playerManager, variables);
