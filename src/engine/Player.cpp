@@ -3,8 +3,8 @@
 //
 
 #include "PokerX/engine/Player.h"
-#include <ostream>
 #include "PokerX/Error.h"
+#include <ostream>
 
 namespace pokerx {
 
@@ -22,9 +22,7 @@ namespace pokerx {
     }
 
     GameVariables *Player::getGameVariables() const {
-        if (gameVariables_ == nullptr){
-            RUNTIME_ERROR << "gameVariables is nullptr" << std::endl;
-        }
+        checkGameVariablesNotNull();
         return gameVariables_;
     }
 
@@ -64,14 +62,18 @@ namespace pokerx {
         return holeCards_;
     }
 
+    void Player::watch(GameVariables& variables){
+        gameVariables_ = &variables;
+    }
+
     void Player::fold() {
         setIsInPlay(false);
     }
 
-    void Player::checkGameVariablesNotNull() {
+    void Player::checkGameVariablesNotNull() const {
         if (gameVariables_ == nullptr) {
             RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
-                          << " been initialized." << std::endl;
+                          << " been initialized. Use the PlayerManager::watch method " << std::endl;
         }
     }
 
@@ -102,12 +104,14 @@ namespace pokerx {
          * Todo take into account the situation when a player no longer
          * has enough money to play
          */
+        checkGameVariablesNotNull();
         float sb = gameVariables_->getSmallBlind();
         stack_ -= sb;
         gameVariables_->getPot() += sb;
     }
 
     void Player::postBigBlind() {
+        checkGameVariablesNotNull();
         float bb = gameVariables_->getBigBlind();
         stack_ -= bb;
         gameVariables_->getPot() += bb;

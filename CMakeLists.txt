@@ -47,6 +47,8 @@ if (${CMAKE_CURRENT_SOURCE_DIR} EQUAL ${CMAKE_SOURCE_DIR})
     endif ()
 endif ()
 
+set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fno-omit-frame-pointer -fsanitize=address")
+
 #########################################################
 #   Build PokerX library
 #
@@ -60,6 +62,7 @@ add_library(
         include/PokerX/engine/BigBlind.h
         include/PokerX/engine/ButtonMoves.h
         include/PokerX/engine/Call.h
+        include/PokerX/engine/CallStationPlayer.h
         include/PokerX/engine/Card.h
         include/PokerX/engine/CardCollection.h
         include/PokerX/engine/CommunityCards.h
@@ -100,6 +103,7 @@ add_library(
         src/engine/BigBlind.cpp
         src/engine/ButtonMoves.cpp
         src/engine/Call.cpp
+        src/engine/CallStationPlayer.cpp
         src/engine/Card.cpp
         src/engine/CardCollection.cpp
         src/engine/Check.cpp
@@ -131,8 +135,8 @@ add_library(
 
 target_include_directories(
         PokerX PUBLIC
-        include
-        ${CMAKE_CURRENT_BINARY_DIR}
+        "${CMAKE_CURRENT_SOURCE_DIR}/include"
+        "${CMAKE_CURRENT_BINARY_DIR}"
 )
 include(GenerateExportHeader)
 generate_export_header(PokerX)

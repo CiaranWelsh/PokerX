@@ -9,15 +9,24 @@
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/GameVariables.h"
 #include "PokerX/engine/PlayerManager.h"
+#include "pokerx_export.h"
 
 
 namespace pokerx {
 
     class PokerEngine : public StateMachine {
     public:
-        PokerEngine();
+        /**
+         * @brief deprecated constructor. We need manager and variables.
+         */
+        POKERX_DEPRECATED PokerEngine();
 
-        explicit PokerEngine(State *starting_state);
+        /**
+         * @brief deprecated constructor. We need manager and variables.
+         */
+        POKERX_DEPRECATED explicit PokerEngine(State *starting_state);
+
+        PokerEngine(PlayerManager& manager, GameVariables& variables);
 
         void setState(State &state) override;
 
@@ -44,6 +53,10 @@ namespace pokerx {
 
         [[nodiscard]] const PlayerManager &getPlayers() const;
 
+
+        void bind(PlayerManager& manager);
+
+        void bind(GameVariables& gameVariables);
 
     private:
         /**

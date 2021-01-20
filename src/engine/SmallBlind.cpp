@@ -7,6 +7,7 @@
 #include "PokerX/engine/BigBlind.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
+#include "PokerX/Error.h"
 
 namespace pokerx {
 
@@ -15,8 +16,11 @@ namespace pokerx {
     }
 
     void SmallBlind::action(StateMachine *machine) {
+        CHECK_NULLPTR(machine, "StateMachine");
         auto* engine = dynamic_cast<PokerEngine*>(machine);
+        CHECK_NULLPTR(engine, "engine");
         const PlayerManager& manager = engine->getPlayers();
+        CHECK_NULLPTR(manager.getCurrentPlayer(), "playerManager::getCurrentPlayer");
         manager.getCurrentPlayer()->postSmallBlind();
         machine->setState(BigBlind::getInstance());
     }

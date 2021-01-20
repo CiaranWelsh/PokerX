@@ -5,9 +5,8 @@
 #ifndef POKERSIMULATIONSINCPP_CALLSTATIONPLAYER_H
 #define POKERSIMULATIONSINCPP_CALLSTATIONPLAYER_H
 
-#include "Player.h"
-#include "Action.h"
-#include "NoLimitHoldem.h"
+#include "PokerX/engine/Player.h"
+#include "PokerX/engine/Action.h"
 
 namespace pokerx {
     class CallStationPlayer : public Player {
@@ -15,6 +14,8 @@ namespace pokerx {
         using Player::Player;
 
         Action selectAction(StateMachine *engine) override;
+
+        float raise() override;
 
 
     };

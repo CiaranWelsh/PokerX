@@ -142,6 +142,9 @@ add_test_executable(DeckTests                       ON ON TestExecutables DeckTe
 add_test_executable(HoleCardTests                   ON ON TestExecutables HoleCardTests.cpp)
 add_test_executable(CommunityCardTests              ON ON TestExecutables CommunityCardTests.cpp)
 
+add_executable(AConsoleGame AConsoleGame.cpp)
+target_link_libraries(AConsoleGame PRIVATE PokerX)
+
 #add_test_executable(PokerTests ON  ON TestExecutables PokerTests.cpp)
 #add_test_executable(StateTests ON  ON TestExecutables IStateTests.cpp)
 #add_test_executable(EngineTests ON ON  TestExecutables EngineTests.cpp)

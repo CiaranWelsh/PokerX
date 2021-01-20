@@ -53,6 +53,14 @@ namespace pokerx {
         [[nodiscard]] const HoleCards &getHoleCards() const;
 
         /**
+         * @brief associate this player with a GameVariables object
+         * @details Since the GameVariables object is a reference
+         * only, we must initialize this variable before use. This should
+         * never need to be done by users.
+         */
+         void watch(GameVariables& variables);
+
+        /**
          * @brief Change the isInPlay variable to false
          * to indicate the this player has folded this round
          */
@@ -122,8 +130,7 @@ namespace pokerx {
          */
         GameVariables* gameVariables_ = nullptr;
 
-
-        void checkGameVariablesNotNull();
+        void checkGameVariablesNotNull() const;
     };
 
     using PlayerPtr = std::unique_ptr<Player>;

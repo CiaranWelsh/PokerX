@@ -43,18 +43,18 @@ namespace pokerx {
     }
 
     float GameVariables::getSmallBlind() const {
-        return smallBlind;
+        return smallBlind_;
     }
 
     void GameVariables::setSmallBlind(float smallBlind) {
-        GameVariables::smallBlind = smallBlind;
+        smallBlind_ = smallBlind;
     }
 
     float GameVariables::getBigBlind() const {
-        return bigBlind;
+        return bigBlind_;
     }
 
     void GameVariables::setBigBlind(float bigBlind) {
-        GameVariables::bigBlind = bigBlind;
+        bigBlind_ = bigBlind;
     }
 }

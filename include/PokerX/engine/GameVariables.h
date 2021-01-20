@@ -77,12 +77,12 @@ namespace pokerx {
         /**
          * @brief small blind amount
          */
-        float smallBlind = 1.0;
+        float smallBlind_ = 1.0;
 
         /**
          * @brief big blind amount
          */
-        float bigBlind = 2.0;
+        float bigBlind_ = 2.0;
 
 
     };

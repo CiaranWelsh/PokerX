@@ -5,6 +5,7 @@
 #include "PokerX/engine/ButtonMoves.h"
 #include "PokerX/engine/SmallBlind.h"
 #include "PokerX/engine/PokerEngine.h"
+#include "PokerX/Error.h"
 #include <iostream>
 
 namespace pokerx {
@@ -18,10 +19,13 @@ namespace pokerx {
     }
 
     void ButtonMoves::action(StateMachine *machine) {
+        CHECK_NULLPTR(machine, "StateMachine");
         // cast down to PokerEngine
         // problem: liskov substitution principle violated
         auto* engine = dynamic_cast<PokerEngine*>(machine);
         PlayerManager manager = engine->getPlayers();//.rotate();
+
+        CHECK_NULLPTR(manager.getCurrentPlayer(), "PlayerManager::getCurrentPlayer");
 
         std::cout << "Player btn was: " << *manager.getCurrentPlayer() <<std::endl;
         manager.rotate();

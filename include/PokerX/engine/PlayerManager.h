@@ -8,6 +8,7 @@
 #include <vector>
 #include "PokerX/engine/Player.h"
 #include <iostream>
+#include <sstream>
 
 namespace pokerx {
 
@@ -62,6 +63,15 @@ namespace pokerx {
             }
             return manager;
         }
+
+        /**
+         * @brief Configure all players to observe the GameVariables
+         * reference
+         * @details This method is important for the observer pattern that is
+         * implemented between GameVariables class and Player instances.
+         * Players observe the GameVariables
+         */
+        void watch(GameVariables& variables);
 
     private:
         std::vector<SharedPlayerPtr> players_;

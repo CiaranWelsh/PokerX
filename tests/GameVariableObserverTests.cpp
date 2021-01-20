@@ -26,6 +26,10 @@ public:
     Action selectAction(pokerx::StateMachine *engine) override {
         return CALL;
     }
+
+    float raise() override {
+        return 0;
+    }
 };
 
 
@@ -41,6 +45,7 @@ public:
 
 TEST_F(GameVariableObserverTests, CheckThatGetGameVariablesDoesNotReturnNullptr) {
     GameVariables gameVariables; //observed
+    playerManager.watch(gameVariables);
 
     // We artificially change the amount to call
     gameVariables.setAmountToCall(10.0);
@@ -54,6 +59,7 @@ TEST_F(GameVariableObserverTests, CheckThatGetGameVariablesDoesNotReturnNullptr)
 
 TEST_F(GameVariableObserverTests, CheckThatAmountToCallIsProperlyUpdated) {
     GameVariables gameVariables; //observed
+    playerManager.watch(gameVariables);
 
     // We artificially change the amount to call
     gameVariables.setAmountToCall(10.0);
@@ -61,9 +67,26 @@ TEST_F(GameVariableObserverTests, CheckThatAmountToCallIsProperlyUpdated) {
     // Notify observers of the change
     playerManager.update(gameVariables, "amountToCall");
 
-    for (const auto& player : playerManager){
+    for (const auto &player : playerManager) {
         ASSERT_EQ(10.0, player->getGameVariables()->getAmountToCall());
     }
+
+}
+
+
+TEST_F(GameVariableObserverTests, EmployTheWatchMethodToAssociatePlayerManagerAndGameVariables) {
+    GameVariables gameVariables; //observed
+
+    // associate the players in the playerManager object
+    // with the gameVariables object. The players will now
+    // "watch" the gameVariables
+    playerManager.watch(gameVariables);
+
+    // When we neglect to use the watch method the gameVariable reference inside
+    // player instances are nullptr.
+    ASSERT_FALSE(
+            playerManager.getCurrentPlayer()->getGameVariables() == nullptr
+    );
 
 }
 

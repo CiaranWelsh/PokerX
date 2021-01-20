@@ -10,6 +10,13 @@
 namespace pokerx {
 
     void PlayerManager::addPlayer(const SharedPlayerPtr& player) {
+        // When there are no players yet in the PlayerManager,
+        // the first player that is added bcomes the currently active player
+        // as well as the button
+        if (players_.empty()){
+            setButton(player);
+            setCurrentPlayer(player);
+        }
         players_.push_back(player);
     }
 
@@ -110,6 +117,12 @@ namespace pokerx {
         return x;
     }
 
+    void PlayerManager::watch(GameVariables& variables) {
+        for (const auto& it: players_){
+            it->watch(variables);
+            variables.addSubscriber(it);
+        }
+    }
 
 
 }
