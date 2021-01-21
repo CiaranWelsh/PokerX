@@ -28,7 +28,10 @@ namespace pokerx {
         CHECK_NULLPTR(manager.getCurrentPlayer(), "PlayerManager::getCurrentPlayer");
 
         std::cout << "Player btn was: " << *manager.getCurrentPlayer() <<std::endl;
-        manager.rotate();
+
+        manager.nextPlayer();
+        manager.moveButton();
+
         std::cout << "Player btn is now: " << *manager.getCurrentPlayer() <<std::endl;
 
         // Reach out to PlayerManager and rotate player ordering

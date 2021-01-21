@@ -12,19 +12,15 @@ using namespace pokerx;
 class PlayerManagerTests : public ::testing::Test {
 public:
     FakePlayer btn;
-    PlayerManager playerManager;
+    PlayerManager playerManager = PlayerManager::populate<FakePlayer>(6, 100.0);
 
-    PlayerManagerTests() {
-        for (int i = 0; i < 6; i++) {
-            std::ostringstream os;
-            os << "Player" << i;
-            std::shared_ptr<FakePlayer> playerPtr =
-                    std::make_shared<FakePlayer>(FakePlayer(os.str(), 1000.0));
-            playerManager.addPlayer(playerPtr);
-        }
-    };
+    PlayerManagerTests() = default;
 };
 
+TEST_F(PlayerManagerTests, TestPopulateMethodCreatesRightNumberOfPlayers){
+    PlayerManager playerManager = PlayerManager::populate<FakePlayer>(6, 100.0);
+    ASSERT_EQ(6, playerManager.size());
+}
 
 TEST_F(PlayerManagerTests, CheckThatNoneOfThePlayersAreNullptr) {
     for (const auto &player : playerManager) {
@@ -40,9 +36,20 @@ TEST_F(PlayerManagerTests, CheckThatCurrentPlayerIsNotNullptr) {
     ASSERT_FALSE(playerManager.getCurrentPlayer() == nullptr);
 }
 
-TEST_F(PlayerManagerTests, CheckThatTheOrderingOfPlayersCanBeRotated) {
+TEST_F(PlayerManagerTests, TestAddAPlayer) {
+    // check that original size is 6
+    ASSERT_EQ(6, playerManager.size());
+    FakePlayer player;
+    playerManager.add(std::make_shared<FakePlayer>(player));
+    ASSERT_EQ(7, playerManager.size());
+}
 
-    ASSERT_FALSE(playerManager.getCurrentPlayer() == nullptr);
+TEST_F(PlayerManagerTests, TestPlayerRotation) {
+    // player manager index starts with 0
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 0);
+    playerManager.nextPlayer();
+    // and should be player 1 after 1 rotation
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
 }
 
 

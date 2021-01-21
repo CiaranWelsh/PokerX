@@ -9,63 +9,19 @@
 
 namespace pokerx {
 
-    void PlayerManager::addPlayer(const SharedPlayerPtr& player) {
-        // When there are no players yet in the PlayerManager,
-        // the first player that is added bcomes the currently active player
-        // as well as the button
-        if (players_.empty()){
-            setButton(player);
-            setCurrentPlayer(player);
-        }
-        players_.push_back(player);
+    void PlayerManager::add(const SharedPlayerPtr player) {
+        contents_.push_back(player);
     }
 
     void PlayerManager::update(GameVariables &source, const string &data_field) {
-        for (const auto& player: players_){
+        for (const auto& player: contents_){
             player->update(source, data_field);
         }
     }
 
-    void PlayerManager::rotate() {
-        SharedPlayerPtr front_player = std::move(players_[0]);
-        players_.erase(players_.begin());
-        players_.push_back(front_player);
-        // must update current_player field
-        current_player_ = players_[0];
-        /*
-         * Makes this method recursive. Keep rotating until you find a
-         * player who is still in the game. All players should be inplace=true
-         * when the game begins
-         */
-        if (!current_player_->isInPlay()) {
-            rotate();
-        }
-    }
-
-
-    SharedPlayerPtr &PlayerManager::operator[](int index) {
-        if (players_.empty()) {
-            LOGIC_ERROR << "You cannot get access to players "
-                        << "as there are not players yet." << std::endl;
-        }
-        return players_[index];
-    }
-
-    int PlayerManager::size() {
-        return players_.size();
-    }
-
-    std::vector<SharedPlayerPtr>::const_iterator PlayerManager::begin() const {
-        return players_.begin();
-    }
-
-    std::vector<SharedPlayerPtr>::const_iterator PlayerManager::end() const {
-        return players_.end();
-    }
-
     bool PlayerManager::checkAllPlayersEqual() const {
         std::vector<float> amounts;
-        for (const auto & player : players_) {
+        for (const auto & player : contents_) {
             if (player->isInPlay())
                 amounts.push_back(player->getStack());
         }
@@ -77,14 +33,6 @@ namespace pokerx {
         return equal;
     }
 
-
-    void PlayerManager::setButton(SharedPlayerPtr button) {
-        button_ = std::move(button);
-    }
-
-    SharedPlayerPtr PlayerManager::getButton() {
-        return button_;
-    }
 
     std::ostream &operator<<(std::ostream &os, PlayerManager &players) {
         os << "[";
@@ -98,30 +46,79 @@ namespace pokerx {
         return os;
     }
 
-    SharedPlayerPtr PlayerManager::getCurrentPlayer() const {
-        return current_player_;
-    }
-
-    void PlayerManager::setCurrentPlayer(SharedPlayerPtr currentPlayer) {
-        current_player_ = std::move(currentPlayer);
-    }
-
-    SharedPlayerPtr PlayerManager::operator[](const std::string &name) {
-        SharedPlayerPtr x = nullptr;
-        for (const auto& player : players_) {
-            if (player->getName() == name)
-                x = player;
-        }
-        if (x == nullptr)
-            LOGIC_ERROR << "Did not find a player with that name" << std::endl;
-        return x;
-    }
-
     void PlayerManager::watch(GameVariables& variables) {
-        for (const auto& it: players_){
+        for (const auto& it: contents_){
             it->watch(variables);
             variables.addSubscriber(it);
         }
+    }
+
+
+    void PlayerManager::moveButton() {
+        // if button index == vector size -1: btn is 0
+        if (getButtonIdx() == size()){
+            setButtonIdx(0);
+        } else {
+            // else i++
+            setButtonIdx(getButtonIdx() + 1);
+        }
+    }
+
+    void PlayerManager::moveCurrentPlayer() {
+        // if button index == vector size -1: btn is 0
+        if (getCurrentPlayerIdx() == size()){
+            setCurrentPlayerIdx(0);
+        } else {
+            // else i++
+            setCurrentPlayerIdx(getCurrentPlayerIdx() + 1);
+        }
+    }
+
+    SharedPlayerPtr PlayerManager::getButton() {
+        return contents_[getButtonIdx()];
+    }
+
+    const SharedPlayerPtr &PlayerManager::getCurrentPlayer() const {
+        return contents_[getCurrentPlayerIdx()];
+    }
+
+    int PlayerManager::getButtonIdx() const {
+        return button_idx;
+    }
+
+    void PlayerManager::setButtonIdx(int buttonIdx) {
+        button_idx = buttonIdx;
+    }
+
+    int PlayerManager::getCurrentPlayerIdx() const {
+        return current_player_idx;
+    }
+
+    void PlayerManager::setCurrentPlayerIdx(int currentPlayerIdx) {
+        current_player_idx = currentPlayerIdx;
+    }
+
+    void PlayerManager::rotateContainerContents() {
+        {
+            if (contents_.size() == 1) {
+                return;
+            }
+            std::vector<SharedPlayerPtr> new_contents(contents_.size());
+
+            for (int i = 0; i < contents_.size() - 1; i++) { // -1 for penultimate element
+                new_contents[i + 1] = contents_[i];
+            }
+
+            // deal with last
+            new_contents[0] = contents_[contents_.size() - 1];
+            // assign new contents vector to old
+            contents_ = new_contents;
+        }
+    }
+
+    void PlayerManager::nextPlayer() {
+        rotateContainerContents();
+        moveCurrentPlayer();
     }
 
 

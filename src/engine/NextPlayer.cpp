@@ -24,8 +24,8 @@ namespace pokerx {
          */
         PlayerManager playerManager = engine->getPlayers();
 
-
-        playerManager.rotate();
+        // rotate
+        playerManager.nextPlayer();
 
         engine->setState(PlayerToAct::getInstance());
     }

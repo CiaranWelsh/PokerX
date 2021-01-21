@@ -7,6 +7,7 @@
 
 #include <vector>
 #include "PokerX/engine/Player.h"
+#include "PokerX/engine/RotatoryContainer.h"
 #include <iostream>
 #include <sstream>
 
@@ -15,10 +16,8 @@ namespace pokerx {
     /**
      * @brief Container class for Player instances.
      * @details
-     * @todo Create some interfacs that PlayerManager can implement
-     * Container, watcher, item manager
      */
-    class PlayerManager {
+    class PlayerManager : public RotatoryContainer<SharedPlayerPtr> {
 
     public:
 
@@ -31,31 +30,13 @@ namespace pokerx {
          */
         void update(GameVariables &source, const std::string &data_field);
 
-        void addPlayer(const SharedPlayerPtr &player);
-
-        void rotate();
-
-        SharedPlayerPtr operator[](const std::string &name);
-
-        SharedPlayerPtr &operator[](int index);
-
-        int size();
-
-        [[nodiscard]] std::vector<SharedPlayerPtr>::const_iterator begin() const;
-
-        [[nodiscard]] std::vector<SharedPlayerPtr>::const_iterator end() const;
-
-        friend std::ostream &operator<<(std::ostream &os, PlayerManager &players);
+        void add(SharedPlayerPtr player) override;
 
         [[nodiscard]] bool checkAllPlayersEqual() const;
 
-        void setButton(SharedPlayerPtr button);
-
         SharedPlayerPtr getButton();
 
-        [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const;
-
-        void setCurrentPlayer(SharedPlayerPtr currentPlayer);
+        [[nodiscard]] const SharedPlayerPtr &getCurrentPlayer() const;
 
         template<class T>
         static PlayerManager populate(unsigned int n, float stack) {
@@ -64,7 +45,7 @@ namespace pokerx {
             while (i < n) {
                 std::ostringstream os;
                 os << "Player" << i;
-                manager.addPlayer(std::make_shared<T>(T(os.str(), stack)));
+                manager.add(std::make_shared<T>(T(os.str(), stack)));
                 i++;
             }
             return manager;
@@ -79,11 +60,45 @@ namespace pokerx {
          */
         void watch(GameVariables &variables);
 
-    private:
-        std::vector<SharedPlayerPtr> players_;
+        void moveButton();
 
-        SharedPlayerPtr current_player_;
-        SharedPlayerPtr button_;
+        /**
+         * @brief rotate players and move the current player
+         * pointer onto the next player.
+         */
+        void nextPlayer();
+
+        [[nodiscard]] int getButtonIdx() const;
+
+        void setButtonIdx(int buttonIdx);
+
+        [[nodiscard]] int getCurrentPlayerIdx() const;
+
+        void setCurrentPlayerIdx(int currentPlayerIdx);
+
+
+    protected:
+
+        /**
+         * @brief implements the abstract method from superclass
+         * for rotating the contents vector.
+         * @details This method does *not* move the button or
+         * the current player, only rotates the players once.
+         * @see nextPlayer for another method that rotates the players
+         * *and* moves current player pointer
+         */
+        void rotateContainerContents() override;
+
+    private:
+
+        /**
+         * @brief implements the logic for moving the player pointer.
+         */
+        void moveCurrentPlayer();
+
+        int button_idx = 0;
+        int current_player_idx = 0;
+
     };
 }
 

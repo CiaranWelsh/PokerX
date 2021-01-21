@@ -15,7 +15,7 @@ namespace pokerx {
         explicit Container(T contents)
                 : contents_(contents) {};
 
-        explicit Container(std::initializer_list<T> init)
+        Container(std::initializer_list<T> init)
             : contents_(init){}
 
         virtual void add(T item) {
@@ -38,12 +38,12 @@ namespace pokerx {
             return contents_.end();
         };
 
-        std::ostream &operator<<(std::ostream &os) {
-            for (int i = 0; i < size(); i++) {
-                os << contents_[i] << ", " << std::endl;
-            }
-            return os;
-        };
+//        std::ostream &operator<<(std::ostream &os) {
+//            for (int i = 0; i < size(); i++) {
+//                os << contents_[i] << ", " << std::endl;
+//            }
+//            return os;
+//        };
 
         void reserve(size_t n) {
             contents_.reserve(n);
@@ -55,6 +55,10 @@ namespace pokerx {
 
         Container<T>& operator!=(const Container<T>& other){
             return contents_ != other.contents_;
+        }
+
+        T operator[](int index){
+            return contents_[index];
         }
 
     protected:
