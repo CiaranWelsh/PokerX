@@ -62,6 +62,8 @@ add_library(
         include/PokerX/engine/BigBlind.h
         include/PokerX/engine/ButtonMoves.h
         include/PokerX/engine/Call.h
+        include/PokerX/engine/Container.h
+        include/PokerX/engine/RotatoryContainer.h
         include/PokerX/engine/CallStationPlayer.h
         include/PokerX/engine/Card.h
         include/PokerX/engine/CardCollection.h

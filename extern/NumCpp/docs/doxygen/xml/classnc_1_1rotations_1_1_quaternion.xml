@@ -857,9 +857,9 @@
       </memberdef>
       <memberdef kind="function" id="classnc_1_1rotations_1_1_quaternion_1a2e19c4d0b48d7f73e0aa273d85435370" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="classnc_1_1_nd_array" kindref="compound">NdArray</ref>&lt; double &gt;</type>
-        <definition>NdArray&lt;double&gt; nc::rotations::Quaternion::rotate</definition>
+        <definition>NdArray&lt;double&gt; nc::rotations::Quaternion::rotateBackwards</definition>
         <argsstring>(const NdArray&lt; double &gt; &amp;inVector) const</argsstring>
-        <name>rotate</name>
+        <name>rotateBackwards</name>
         <param>
           <type>const <ref refid="classnc_1_1_nd_array" kindref="compound">NdArray</ref>&lt; double &gt; &amp;</type>
           <declname>inVector</declname>
@@ -867,7 +867,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>rotate a vector using the quaternion</para><para><parameterlist kind="param"><parameteritem>
+<para>rotateBackwards a vector using the quaternion</para><para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>inVector</parametername>
 </parameternamelist>
@@ -883,9 +883,9 @@
       </memberdef>
       <memberdef kind="function" id="classnc_1_1rotations_1_1_quaternion_1a3e0593a2ad77fad88afdfb8a34b9c036" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="classnc_1_1_vec3" kindref="compound">Vec3</ref></type>
-        <definition>Vec3 nc::rotations::Quaternion::rotate</definition>
+        <definition>Vec3 nc::rotations::Quaternion::rotateBackwards</definition>
         <argsstring>(const Vec3 &amp;inVec3) const noexcept</argsstring>
-        <name>rotate</name>
+        <name>rotateBackwards</name>
         <param>
           <type>const <ref refid="classnc_1_1_vec3" kindref="compound">Vec3</ref> &amp;</type>
           <declname>inVec3</declname>
@@ -893,7 +893,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>rotate a vector using the quaternion</para><para><parameterlist kind="param"><parameteritem>
+<para>rotateBackwards a vector using the quaternion</para><para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>inVec3</parametername>
 </parameternamelist>
@@ -1186,7 +1186,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>returns a quaternion to rotate about the x-axis by the input angle</para><para><parameterlist kind="param"><parameteritem>
+<para>returns a quaternion to rotateBackwards about the x-axis by the input angle</para><para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>inAngle</parametername>
 </parameternamelist>
@@ -1212,7 +1212,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>returns a quaternion to rotate about the y-axis by the input angle</para><para><parameterlist kind="param"><parameteritem>
+<para>returns a quaternion to rotateBackwards about the y-axis by the input angle</para><para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>inAngle</parametername>
 </parameternamelist>
@@ -1238,7 +1238,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para>returns a quaternion to rotate about the y-axis by the input angle</para><para><parameterlist kind="param"><parameteritem>
+<para>returns a quaternion to rotateBackwards about the y-axis by the input angle</para><para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>inAngle</parametername>
 </parameternamelist>
@@ -1343,8 +1343,8 @@
       <member refid="classnc_1_1rotations_1_1_quaternion_1abbacae2cb36d4f7e93e1cf130f8ca6b4" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>Quaternion</name></member>
       <member refid="classnc_1_1rotations_1_1_quaternion_1a81b7db9d5e593a61272e09ce7dcc1325" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>Quaternion</name></member>
       <member refid="classnc_1_1rotations_1_1_quaternion_1a26f2a9303f0521ee36d92467ab45e3ab" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>roll</name></member>
-      <member refid="classnc_1_1rotations_1_1_quaternion_1a2e19c4d0b48d7f73e0aa273d85435370" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>rotate</name></member>
-      <member refid="classnc_1_1rotations_1_1_quaternion_1a3e0593a2ad77fad88afdfb8a34b9c036" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>rotate</name></member>
+      <member refid="classnc_1_1rotations_1_1_quaternion_1a2e19c4d0b48d7f73e0aa273d85435370" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>rotateBackwards</name></member>
+      <member refid="classnc_1_1rotations_1_1_quaternion_1a3e0593a2ad77fad88afdfb8a34b9c036" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>rotateBackwards</name></member>
       <member refid="classnc_1_1rotations_1_1_quaternion_1a075b6f1befef247f5d638c91e1a451fd" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>s</name></member>
       <member refid="classnc_1_1rotations_1_1_quaternion_1a7a39f199e4d1ad773b93c69e66ae0415" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>slerp</name></member>
       <member refid="classnc_1_1rotations_1_1_quaternion_1a687155cd6469c095941b94a738119da9" prot="public" virt="non-virtual"><scope>nc::rotations::Quaternion</scope><name>slerp</name></member>

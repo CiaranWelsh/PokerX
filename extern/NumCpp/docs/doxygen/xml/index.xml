@@ -589,8 +589,8 @@
     <member refid="classnc_1_1rotations_1_1_quaternion_1a601b444c8c8f820700844d7ab5f743ba" kind="function"><name>pitch</name></member>
     <member refid="classnc_1_1rotations_1_1_quaternion_1a44994f000aba8de9f11a169a62782ebd" kind="function"><name>print</name></member>
     <member refid="classnc_1_1rotations_1_1_quaternion_1a26f2a9303f0521ee36d92467ab45e3ab" kind="function"><name>roll</name></member>
-    <member refid="classnc_1_1rotations_1_1_quaternion_1a2e19c4d0b48d7f73e0aa273d85435370" kind="function"><name>rotate</name></member>
-    <member refid="classnc_1_1rotations_1_1_quaternion_1a3e0593a2ad77fad88afdfb8a34b9c036" kind="function"><name>rotate</name></member>
+    <member refid="classnc_1_1rotations_1_1_quaternion_1a2e19c4d0b48d7f73e0aa273d85435370" kind="function"><name>rotateBackwards</name></member>
+    <member refid="classnc_1_1rotations_1_1_quaternion_1a3e0593a2ad77fad88afdfb8a34b9c036" kind="function"><name>rotateBackwards</name></member>
     <member refid="classnc_1_1rotations_1_1_quaternion_1a075b6f1befef247f5d638c91e1a451fd" kind="function"><name>s</name></member>
     <member refid="classnc_1_1rotations_1_1_quaternion_1a687155cd6469c095941b94a738119da9" kind="function"><name>slerp</name></member>
     <member refid="classnc_1_1rotations_1_1_quaternion_1ad03a97f148be61e687944af11fe45c99" kind="function"><name>str</name></member>
@@ -1413,7 +1413,7 @@
     <member refid="namespacenc_1_1stl__algorithms_1a946075f627d142f66626b03c30de8a16" kind="function"><name>nth_element</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a8674f754c02402908901506e8681839f" kind="function"><name>replace</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a51eb1633787552e33ebede44bf5557a2" kind="function"><name>reverse</name></member>
-    <member refid="namespacenc_1_1stl__algorithms_1a79bd84376c57067a06ea0302f4fc261a" kind="function"><name>rotate</name></member>
+    <member refid="namespacenc_1_1stl__algorithms_1a79bd84376c57067a06ea0302f4fc261a" kind="function"><name>rotateBackwards</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a8cc83e2fb7a3d8302db0f4b19513ddd9" kind="function"><name>setDifference</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1a6d7aea8b69f7e1a1129daad900a4917d" kind="function"><name>setIntersection</name></member>
     <member refid="namespacenc_1_1stl__algorithms_1adda22e93ced5035c66f63532ee1408b4" kind="function"><name>set_union</name></member>

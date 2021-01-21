@@ -166,9 +166,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a44994f000aba8de9f11a169a62782ebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26f2a9303f0521ee36d92467ab45e3ab"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnc_1_1rotations_1_1_quaternion.html#a26f2a9303f0521ee36d92467ab45e3ab">roll</a> () const noexcept</td></tr>
 <tr class="separator:a26f2a9303f0521ee36d92467ab45e3ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e19c4d0b48d7f73e0aa273d85435370"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt; double &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnc_1_1rotations_1_1_quaternion.html#a2e19c4d0b48d7f73e0aa273d85435370">rotate</a> (const <a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt; double &gt; &amp;inVector) const</td></tr>
+<tr class="memitem:a2e19c4d0b48d7f73e0aa273d85435370"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt; double &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnc_1_1rotations_1_1_quaternion.html#a2e19c4d0b48d7f73e0aa273d85435370">rotateBackwards</a> (const <a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt; double &gt; &amp;inVector) const</td></tr>
 <tr class="separator:a2e19c4d0b48d7f73e0aa273d85435370"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e0593a2ad77fad88afdfb8a34b9c036"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnc_1_1_vec3.html">Vec3</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnc_1_1rotations_1_1_quaternion.html#a3e0593a2ad77fad88afdfb8a34b9c036">rotate</a> (const <a class="el" href="classnc_1_1_vec3.html">Vec3</a> &amp;inVec3) const noexcept</td></tr>
+<tr class="memitem:a3e0593a2ad77fad88afdfb8a34b9c036"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnc_1_1_vec3.html">Vec3</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnc_1_1rotations_1_1_quaternion.html#a3e0593a2ad77fad88afdfb8a34b9c036">rotateBackwards</a> (const <a class="el" href="classnc_1_1_vec3.html">Vec3</a> &amp;inVec3) const noexcept</td></tr>
 <tr class="separator:a3e0593a2ad77fad88afdfb8a34b9c036"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a075b6f1befef247f5d638c91e1a451fd"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnc_1_1rotations_1_1_quaternion.html#a075b6f1befef247f5d638c91e1a451fd">s</a> () const noexcept</td></tr>
 <tr class="separator:a075b6f1befef247f5d638c91e1a451fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1405,7 +1405,7 @@ Friends</h2></td></tr>
 </div>
 </div>
 <a id="a2e19c4d0b48d7f73e0aa273d85435370"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e19c4d0b48d7f73e0aa273d85435370">&#9670;&nbsp;</a></span>rotate() <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e19c4d0b48d7f73e0aa273d85435370">&#9670;&nbsp;</a></span>rotateBackwards() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1414,7 +1414,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt;double&gt; nc::rotations::Quaternion::rotate </td>
+          <td class="memname"><a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt;double&gt; nc::rotations::Quaternion::rotateBackwards </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="classnc_1_1_nd_array.html">NdArray</a>&lt; double &gt; &amp;&#160;</td>
           <td class="paramname"><em>inVector</em></td><td>)</td>
@@ -1427,7 +1427,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>rotate a vector using the quaternion</p>
+<p>rotateBackwards a vector using the quaternion</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">inVector</td><td>(cartesian vector with x,y,z components) </td></tr>
@@ -1439,7 +1439,7 @@ Friends</h2></td></tr>
 </div>
 </div>
 <a id="a3e0593a2ad77fad88afdfb8a34b9c036"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e0593a2ad77fad88afdfb8a34b9c036">&#9670;&nbsp;</a></span>rotate() <span class="overload">[2/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e0593a2ad77fad88afdfb8a34b9c036">&#9670;&nbsp;</a></span>rotateBackwards() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1448,7 +1448,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classnc_1_1_vec3.html">Vec3</a> nc::rotations::Quaternion::rotate </td>
+          <td class="memname"><a class="el" href="classnc_1_1_vec3.html">Vec3</a> nc::rotations::Quaternion::rotateBackwards </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="classnc_1_1_vec3.html">Vec3</a> &amp;&#160;</td>
           <td class="paramname"><em>inVec3</em></td><td>)</td>
@@ -1461,7 +1461,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>rotate a vector using the quaternion</p>
+<p>rotateBackwards a vector using the quaternion</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">inVec3</td><td></td></tr>
@@ -1700,7 +1700,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>returns a quaternion to rotate about the x-axis by the input angle</p>
+<p>returns a quaternion to rotateBackwards about the x-axis by the input angle</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">inAngle</td><td>(radians) </td></tr>
@@ -1761,7 +1761,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>returns a quaternion to rotate about the y-axis by the input angle</p>
+<p>returns a quaternion to rotateBackwards about the y-axis by the input angle</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">inAngle</td><td>(radians) </td></tr>
@@ -1795,7 +1795,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>returns a quaternion to rotate about the y-axis by the input angle</p>
+<p>returns a quaternion to rotateBackwards about the y-axis by the input angle</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">inAngle</td><td>(radians) </td></tr>

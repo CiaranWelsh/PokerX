@@ -20,7 +20,7 @@ namespace pokerx {
         /**
          * Note possible bug. playerManager is a copy,
          * but getPlayers returns a const ref. So are
-         * we calling rotate on the right player manager, or a copy?
+         * we calling rotateBackwards on the right player manager, or a copy?
          */
         PlayerManager playerManager = engine->getPlayers();
 

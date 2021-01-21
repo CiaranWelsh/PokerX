@@ -39,7 +39,7 @@
 <area shape="rect" id="node46" href="$classnc_1_1rotations_1_1_quaternion.html#addcc7fb7b4acd4201e7f5b90ef207f4d" title="nc::rotations::Quaternion\l::Quaternion" alt="" coords="191,1941,356,1983"/>
 <area shape="rect" id="node47" href="$classnc_1_1rotations_1_1_quaternion.html#aafb38c20ae954808d18179e227223bd9" title="nc::rotations::Quaternion\l::angleAxisRotation" alt="" coords="191,2059,356,2100"/>
 <area shape="rect" id="node48" href="$classnc_1_1rotations_1_1_d_c_m.html#a7a11261d59892e485106cb0f521c807e" title="nc::rotations::DCM\l::angleAxisRotation" alt="" coords="435,2029,569,2071"/>
-<area shape="rect" id="node49" href="$classnc_1_1rotations_1_1_quaternion.html#ac0d338fe7e9bb4a3a9ab2386f3f4f7c4" title="nc::rotations::Quaternion\l::rotate" alt="" coords="191,2124,356,2165"/>
+<area shape="rect" id="node49" href="$classnc_1_1rotations_1_1_quaternion.html#ac0d338fe7e9bb4a3a9ab2386f3f4f7c4" title="nc::rotations::Quaternion\l::rotateBackwards" alt="" coords="191,2124,356,2165"/>
 <area shape="rect" id="node50" href="$classnc_1_1rotations_1_1_quaternion.html#af3870229595bf00f7afe33f186fbb349" title="nc::rotations::Quaternion\l::operator*" alt="" coords="191,2189,356,2231"/>
 <area shape="rect" id="node5" href="$namespacenc_1_1filter.html#af458756f8ba429d5673744c3e86b08a6" title="nc::filter::addBoundary1d" alt="" coords="419,415,585,442"/>
 <area shape="rect" id="node7" href="$namespacenc_1_1filter.html#a03cc5a48e29d6f25636789b65366f243" title="nc::filter::gaussianFilter1d" alt="" coords="857,145,1028,171"/>

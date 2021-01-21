@@ -979,9 +979,9 @@
           </param>
         </templateparamlist>
         <type>void</type>
-        <definition>void nc::stl_algorithms::rotate</definition>
+        <definition>void nc::stl_algorithms::rotateBackwards</definition>
         <argsstring>(ForwardIt first, ForwardIt firstN, ForwardIt last)</argsstring>
-        <name>rotate</name>
+        <name>rotateBackwards</name>
         <param>
           <type>ForwardIt</type>
           <declname>first</declname>

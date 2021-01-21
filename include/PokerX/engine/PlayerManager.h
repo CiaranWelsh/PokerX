@@ -61,7 +61,7 @@ namespace pokerx {
         static PlayerManager populate(unsigned int n, float stack) {
             PlayerManager manager;
             int i = 0;
-            while (i < n){
+            while (i < n) {
                 std::ostringstream os;
                 os << "Player" << i;
                 manager.addPlayer(std::make_shared<T>(T(os.str(), stack)));
@@ -77,7 +77,7 @@ namespace pokerx {
          * implemented between GameVariables class and Player instances.
          * Players observe the GameVariables
          */
-        void watch(GameVariables& variables);
+        void watch(GameVariables &variables);
 
     private:
         std::vector<SharedPlayerPtr> players_;

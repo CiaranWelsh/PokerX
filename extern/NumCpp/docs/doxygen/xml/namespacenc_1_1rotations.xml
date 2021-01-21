@@ -30,21 +30,21 @@
 <parametername>k</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>the axis to rotate around </para></parameterdescription>
+<para>the axis to rotateBackwards around </para></parameterdescription>
 </parameteritem>
 <parameteritem>
 <parameternamelist>
 <parametername>theta</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>the angle in radians to rotate </para></parameterdescription>
+<para>the angle in radians to rotateBackwards </para></parameterdescription>
 </parameteritem>
 <parameteritem>
 <parameternamelist>
 <parametername>v</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>the vector to rotate</para></parameterdescription>
+<para>the vector to rotateBackwards</para></parameterdescription>
 </parameteritem>
 </parameterlist>
 <simplesect kind="return"><para><ref refid="classnc_1_1_vec3" kindref="compound">Vec3</ref> </para></simplesect>
@@ -83,21 +83,21 @@
 <parametername>k</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>the axis to rotate around </para></parameterdescription>
+<para>the axis to rotateBackwards around </para></parameterdescription>
 </parameteritem>
 <parameteritem>
 <parameternamelist>
 <parametername>theta</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>the angle in radians to rotate </para></parameterdescription>
+<para>the angle in radians to rotateBackwards </para></parameterdescription>
 </parameteritem>
 <parameteritem>
 <parameternamelist>
 <parametername>v</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>the vector to rotate</para></parameterdescription>
+<para>the vector to rotateBackwards</para></parameterdescription>
 </parameteritem>
 </parameterlist>
 <simplesect kind="return"><para><ref refid="classnc_1_1_nd_array" kindref="compound">NdArray&lt;double&gt;</ref> </para></simplesect>

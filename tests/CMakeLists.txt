@@ -145,6 +145,10 @@ add_test_executable(CommunityCardTests              ON ON TestExecutables Commun
 add_executable(AConsoleGame AConsoleGame.cpp)
 target_link_libraries(AConsoleGame PRIVATE PokerX)
 
+
+add_test_executable(ContainerTests.cpp              ON ON TestExecutables ContainerTests.cpp)
+
+
 #add_test_executable(PokerTests ON  ON TestExecutables PokerTests.cpp)
 #add_test_executable(StateTests ON  ON TestExecutables IStateTests.cpp)
 #add_test_executable(EngineTests ON ON  TestExecutables EngineTests.cpp)
