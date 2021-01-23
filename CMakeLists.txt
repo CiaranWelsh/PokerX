@@ -152,3 +152,5 @@ generate_export_header(PokerX)
 
 add_subdirectory(tests)
 
+install(TARGETS PokerX)
+
