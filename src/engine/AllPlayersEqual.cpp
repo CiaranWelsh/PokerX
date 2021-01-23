@@ -16,9 +16,9 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         // get reference to the Player manager
-        const PlayerManager& playerManager = engine->getPlayers();
+        IPlayerManager *playerManager = engine->getPlayers();
 
-        bool all_players_equal = playerManager.checkAllPlayersEqual();
+        bool all_players_equal = playerManager->checkAllPlayersEqual();
 
         if (all_players_equal){
             // if all players are equal we end the street

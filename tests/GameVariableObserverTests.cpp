@@ -51,7 +51,7 @@ TEST_F(GameVariableObserverTests, CheckThatGetGameVariablesDoesNotReturnNullptr)
     gameVariables.setAmountToCall(10.0);
 
     // Notify observers of the change
-    playerManager.update(gameVariables, "amountToCall");
+    playerManager.updateObservers(gameVariables, "amountToCall");
 
     ASSERT_NE(playerManager[0], nullptr);
 
@@ -65,7 +65,7 @@ TEST_F(GameVariableObserverTests, CheckThatAmountToCallIsProperlyUpdated) {
     gameVariables.setAmountToCall(10.0);
 
     // Notify observers of the change
-    playerManager.update(gameVariables, "amountToCall");
+    playerManager.updateObservers(gameVariables, "amountToCall");
 
     for (const auto &player : playerManager) {
         ASSERT_EQ(10.0, player->getGameVariables()->getAmountToCall());

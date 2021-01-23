@@ -13,8 +13,8 @@ namespace pokerx {
         contents_.push_back(player);
     }
 
-    void PlayerManager::update(GameVariables &source, const string &data_field) {
-        for (const auto& player: contents_){
+    void PlayerManager::updateObservers(IGameVariables &source, const string &data_field) {
+        for (const auto &player: contents_) {
             player->update(source, data_field);
         }
     }
@@ -46,10 +46,10 @@ namespace pokerx {
         return os;
     }
 
-    void PlayerManager::watch(GameVariables& variables) {
-        for (const auto& it: contents_){
+    void PlayerManager::watch(IGameVariables *variables) {
+        for (const auto &it: contents_) {
             it->watch(variables);
-            variables.addSubscriber(it);
+            variables->registerObserver(it);
         }
     }
 

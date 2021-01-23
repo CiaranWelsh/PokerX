@@ -15,8 +15,8 @@ namespace pokerx {
     void RemoveCheckFromOptions::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
-        GameVariables v = engine->getGameVariables();
-        v.setCheckAvailable(false);
+        IGameVariables *v = engine->getGameVariables();
+        v->setCheckAvailable(false);
         engine->setState(AllPlayersEqual::getInstance());
     }
 

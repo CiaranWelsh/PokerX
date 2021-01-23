@@ -52,6 +52,14 @@ TEST_F(PlayerManagerTests, TestPlayerRotation) {
     ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
 }
 
+TEST_F(PlayerManagerTests, CheckThatWeCanMoveTheButton) {
+    // player manager index starts with 0
+    ASSERT_EQ(playerManager.getButtonIdx(), 0);
+    playerManager.moveButton();
+    // and should be player 1 after 1 rotation
+    ASSERT_EQ(playerManager.getButtonIdx(), 1);
+}
+
 
 
 

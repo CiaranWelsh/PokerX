@@ -132,6 +132,8 @@ add_test_executable(ObserverPatternTests ON ON TestExecutables
 # integration tests for PokerEngine
 add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
         PokerEngineStateMachineTests.cpp
+        Mockups/FakePlayer.h
+        Mockups/MockPlayerManager.h
         )
 
 # Tests for Cards and CardCollection objects

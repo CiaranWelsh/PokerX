@@ -6,6 +6,8 @@
 #include "gtest/gtest.h"
 
 #include "PokerX/engine/PokerEngine.h"
+#include "Mockups/MockPlayerManager.h"
+#include "Mockups/MockGameVariables.h"
 
 using namespace pokerx;
 
@@ -15,7 +17,7 @@ using namespace pokerx;
  *
  * To mock a PlayerManager, we need an interface. What about
  * An ItemManager? What about using interface segregation and
- * having a "Watcher" interface that implements the update method.
+ * having a "Watcher" interface that implements the updateObservers method.
  */
 
 
@@ -30,7 +32,12 @@ public:
      * Test passes if they are equal
      */
     static void checkPokerEngineIsInCorrectState(int times, int state) {
-        PokerEngine engine;
+        MockPlayerManager mockPlayerManager;
+
+        // game variables is considered part of this unit.
+        // hard to fake/mock
+        MockGameVariables mockGameVariables;
+        PokerEngine engine(&mockPlayerManager, &mockGameVariables);
         engine.action(times);
         ASSERT_EQ(state, engine.getState()->getType());
     }

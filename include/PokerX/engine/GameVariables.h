@@ -8,51 +8,48 @@
 #include "PokerX/engine/Pot.h"
 #include "PokerX/engine/Observable.h"
 #include "PokerX/engine/Streets.h"
+#include "PokerX/engine/IGameVariables.h"
+#include "PokerX/engine/CardCollection.h"
+#include <memory>
 
 namespace pokerx {
 
-    /**
-     * The fact that GameVariables is difficult to make
-     * a interface for is probably a code smell.
-     *
-     * We could create a "Variables" interface. But then, what
-     * would go in it. Its too vague. And so is GameVariables.
-     * Therefore, I should consider refactoring GameVaribales
-     * into the components that will make up a GameVariables
-     * object.
-     */
-
-    class GameVariables : public Observable<GameVariables> {
+    class GameVariables : public IGameVariables {
 
     public:
 
         GameVariables() = default;
 
-        [[nodiscard]] Pot getPot() const;
+        [[nodiscard]] Pot getPot() const override;
 
-        [[nodiscard]] float getAmountToCall() const;
+        [[nodiscard]] float getAmountToCall() const override;
 
-        void setAmountToCall(float amountToCall);
+        void setAmountToCall(float amountToCall) override;
 
-        void addToPot(const Pot &pot);
+        void addToPot(const Pot &pot) override;
 
-        [[nodiscard]] bool isCheckAvailable() const;
+        [[nodiscard]] bool isCheckAvailable() const override;
 
-        void setCheckAvailable(bool checkAvailable);
+        void setCheckAvailable(bool checkAvailable) override;
 
-        [[nodiscard]] Street getStreet() const;
+        [[nodiscard]] Street getStreet() const override;
 
-        void setStreet(Street street);
+        void setStreet(Street street) override;
 
-        [[nodiscard]] float getSmallBlind() const;
+        [[nodiscard]] float getSmallBlind() const override;
 
-        void setSmallBlind(float smallBlind);
+        void setSmallBlind(float smallBlind) override;
 
-        [[nodiscard]] float getBigBlind() const;
+        [[nodiscard]] float getBigBlind() const override;
 
-        void setBigBlind(float bigBlind);
+        void setBigBlind(float bigBlind) override;
 
     private:
+        /**
+         * @brief Storage for Commmunity cards.
+         */
+        std::unique_ptr<CardCollection> communityCards;
+
         /**
          * @brief the amount of money in the pot
          */
@@ -83,7 +80,6 @@ namespace pokerx {
          * @brief big blind amount
          */
         float bigBlind_ = 2.0;
-
 
     };
 }

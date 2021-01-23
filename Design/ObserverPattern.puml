@@ -1,0 +1,82 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+'class Bar<T>
+'class "Foo<T>" as Foo_t
+'class "Foo<int>" as Foo_int
+'class "Foo<double>" as Foo_double
+'Foo_t <|-- Foo_int
+'Foo_t <|-- Foo_double
+
+
+abstract class Observer<T> {
+    update()
+}
+
+class "Observer<IGameVariables>" as IGameVariablesObserver
+
+Observer <|-- IGameVariablesObserver
+
+abstract class Player
+
+IGameVariablesObserver <|-- Player
+
+abstract class Observable<T> {
+    notify()
+    addSubscriber()
+    removeSubscriber()
+    observers_: vector<T>
+}
+abstract class IGameVariables
+
+class "Observable<IGameVariables>" as IGameVariablesObservable
+Observable <|-- IGameVariablesObservable
+
+Player --> IGameVariables: "subscribes\n to"
+
+IGameVariables --> Player: "notify\n change"
+
+IGameVariablesObservable <|-- IGameVariables
+
+class PlayerType
+
+Player <|-- PlayerType
+
+class GameVariables
+
+IGameVariables <|-- GameVariables
+
+
+
+
+
+
+
+
+
+
+
+'abstract class AbstractList
+'abstract AbstractCollection
+'interface List
+'interface Collection
+'
+'List <|-- AbstractList
+'Collection <|-- AbstractCollection
+'
+'Collection <|- List
+'AbstractCollection <|- AbstractList
+'AbstractList <|-- ArrayList
+'
+'class ArrayList {
+'Object[] elementData
+'size()
+'}
+'
+'enum TimeUnit {
+'DAYS
+'HOURS
+'MINUTES
+'}
+
+@enduml

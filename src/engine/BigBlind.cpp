@@ -17,8 +17,8 @@ namespace pokerx {
 
     void BigBlind::action(StateMachine *machine) {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
-        const PlayerManager &manager = engine->getPlayers();
-        manager.getCurrentPlayer()->postBigBlind();
+        IPlayerManager *manager = engine->getPlayers();
+        manager->getCurrentPlayer()->postBigBlind();
         machine->setState(Preflop::getInstance());
     }
 

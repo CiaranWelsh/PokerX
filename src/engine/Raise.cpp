@@ -17,10 +17,10 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         // access the players
-        const PlayerManager& playerManager = engine->getPlayers();
+        IPlayerManager *playerManager = engine->getPlayers();
 
         // get currently active player
-        SharedPlayerPtr player = playerManager.getCurrentPlayer();
+        SharedPlayerPtr player = playerManager->getCurrentPlayer();
 
         // call the raise method
         player->raise();

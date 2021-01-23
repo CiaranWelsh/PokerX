@@ -22,10 +22,10 @@ namespace pokerx {
          * but getPlayers returns a const ref. So are
          * we calling rotateBackwards on the right player manager, or a copy?
          */
-        PlayerManager playerManager = engine->getPlayers();
+        IPlayerManager *playerManager = engine->getPlayers();
 
         // rotate
-        playerManager.nextPlayer();
+        playerManager->nextPlayer();
 
         engine->setState(PlayerToAct::getInstance());
     }

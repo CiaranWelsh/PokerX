@@ -8,37 +8,51 @@
 
 namespace pokerx {
 
-    PokerEngine::PokerEngine(PlayerManager& manager, GameVariables& variables)
-            : StateMachine(&Reset::getInstance()),
-              players_(manager),
-              gameVariables_(variables){
+//    PokerEngine::PokerEngine(IPlayerManager& manager, IGameVariables& variables)
+//            : StateMachine(&Reset::getInstance()),
+//              players_(manager),
+//              gameVariables_(variables){
+//
+//        // initialize the IPlayerManager with reference to IGameVariables
+//        // and calls the addSubscriber method of IGameVariables with each
+//        // player. This can be thought of as an initialization handshake
+//        // where players and IGameVariables agree to observe/be observed.
+//        players_.watch(variables);
+//    }
+//
+//    PokerEngine::PokerEngine()
+//            : StateMachine(&Reset::getInstance()) {
+//
+//        // All players subscribe to the IGameVariables instance
+//        // in order to observe the game play
+//        for (const auto& player: getPlayers()) {
+//            gameVariables_.addSubscriber(player);
+//        }
+//    }
+//
+//    PokerEngine::PokerEngine(State *starting_state)
+//            : StateMachine(starting_state) {
+//
+//        // All players subscribe to the IGameVariables instance
+//        // in order to observe the game play
+//        for (const auto* player: getPlayers()) {
+//            gameVariables_->addSubscriber(player);
+//        }
+//    }
 
-        // initialize the PlayerManager with reference to GameVariables
-        // and calls the addSubscriber method of gameVariables with each
-        // player. This can be thought of as an initialization handshake
-        // where players and GameVariables agree to observe/be observed.
-        players_.watch(variables);
-    }
+    PokerEngine::PokerEngine(IPlayerManager *playerManager, IGameVariables *variables)
+            : StateMachine(&Reset::getInstance()), players_(playerManager), gameVariables_(variables) {
 
-    PokerEngine::PokerEngine()
-            : StateMachine(&Reset::getInstance()) {
+        CHECK_NULLPTR(playerManager, "playerManager");
+        CHECK_NULLPTR(variables, "variables");
 
-        // All players subscribe to the gameVariables instance
+        // All players subscribe to the IGameVariables instance
         // in order to observe the game play
-        for (const auto& player: getPlayers()) {
-            gameVariables_.addSubscriber(player);
+        for (auto player: *getPlayers()) {
+            gameVariables_->registerObserver(player);
         }
     }
 
-    PokerEngine::PokerEngine(State *starting_state)
-            : StateMachine(starting_state) {
-
-        // All players subscribe to the gameVariables instance
-        // in order to observe the game play
-        for (const auto& player: getPlayers()) {
-            gameVariables_.addSubscriber(player);
-        }
-    }
 
     void PokerEngine::setState(State &state) {
         // When we initially enter the setState method we
@@ -67,25 +81,27 @@ namespace pokerx {
     }
 
     void PokerEngine::reset() {
-        gameVariables_.getPot().reset();
+        gameVariables_->getPot().reset();
     }
 
-    const GameVariables &PokerEngine::getGameVariables() const {
+    IGameVariables *PokerEngine::getGameVariables() const {
         return gameVariables_;
     }
 
-    const PlayerManager &PokerEngine::getPlayers() const {
+    IPlayerManager *PokerEngine::getPlayers() const {
         return players_;
     }
 
-    void PokerEngine::bind(PlayerManager &manager) {
-        CHECK_NULLPTR(manager.getCurrentPlayer(), "PlayerManager::getCurrentPlayer()");
+    void PokerEngine::bind(IPlayerManager *manager) {
+        CHECK_NULLPTR(manager.getCurrentPlayer(), "IPlayerManager::getCurrentPlayer()");
         players_ = manager;
     }
 
-    void PokerEngine::bind(GameVariables &gameVariables) {
+    void PokerEngine::bind(IGameVariables *gameVariables) {
         gameVariables_ = gameVariables;
     }
+
+
 
 
 }

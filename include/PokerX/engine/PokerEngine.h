@@ -7,8 +7,8 @@
 
 #include "PokerX/engine/StateMachine.h"
 #include "PokerX/engine/State.h"
-#include "PokerX/engine/GameVariables.h"
-#include "PokerX/engine/PlayerManager.h"
+#include "PokerX/engine/IGameVariables.h"
+#include "PokerX/engine/IPlayerManager.h"
 #include "pokerx_export.h"
 
 
@@ -16,17 +16,13 @@ namespace pokerx {
 
     class PokerEngine : public StateMachine {
     public:
-        /**
-         * @brief deprecated constructor. We need manager and variables.
-         */
-        POKERX_DEPRECATED PokerEngine();
 
         /**
-         * @brief deprecated constructor. We need manager and variables.
+         * Container base enables dependency injection but the more specialized
+         * PlayerManager has methods required by PokerEngine, so we've broken
+         * the liskov substitution principle. So, how do we fix it. 
          */
-        POKERX_DEPRECATED explicit PokerEngine(State *starting_state);
-
-        PokerEngine(PlayerManager& manager, GameVariables& variables);
+        PokerEngine(IPlayerManager *playerManager, IGameVariables *variables);
 
         void setState(State &state) override;
 
@@ -49,14 +45,13 @@ namespace pokerx {
          */
         void reset() override;
 
-        [[nodiscard]] const GameVariables &getGameVariables() const;
+        [[nodiscard]] IGameVariables *getGameVariables() const;
 
-        [[nodiscard]] const PlayerManager &getPlayers() const;
+        [[nodiscard]] IPlayerManager *getPlayers() const;
 
+        void bind(IPlayerManager *manager);
 
-        void bind(PlayerManager& manager);
-
-        void bind(GameVariables& gameVariables);
+        void bind(IGameVariables *gameVariables);
 
     private:
         /**
@@ -64,12 +59,12 @@ namespace pokerx {
          * elements of the current game. Number of players,
          * current positions, etc.
          */
-        GameVariables gameVariables_;
+        IGameVariables *gameVariables_;
 
         /**
          * @brief variable to store all things regarding players
          */
-        PlayerManager players_;
+        IPlayerManager *players_;
 
 
     };

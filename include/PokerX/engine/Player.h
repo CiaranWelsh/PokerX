@@ -7,22 +7,24 @@
 
 #include "PokerX/engine/StateMachine.h"
 #include "PokerX/engine/Action.h"
-#include "PokerX/engine/GameVariables.h"
 #include "PokerX/engine/HoleCards.h"
 #include "PokerX/engine/Observer.h"
 #include <iostream>
 
+#include "PokerX/engine/IGameVariables.h"
 
 /**
  * todo implement a Pot observer such that
- * players can addSubscriber and be notified of any pot changes
+ * players can registerObserver and be notified of any pot changes
  */
 
 namespace pokerx {
 
     class PokerEngine;
 
-    class Player : public Observer<GameVariables>{
+    class IGameVariables;
+
+    class Player : public Observer<IGameVariables> {
     public:
         explicit Player() = default;
 
@@ -30,7 +32,7 @@ namespace pokerx {
 
         virtual Action selectAction(StateMachine *engine) = 0;
 
-        void update(GameVariables &source, const std::string &data_field) override;
+        void update(IGameVariables &source, const std::string &data_field) override;
 
         [[nodiscard]] const std::string &getName() const;
 
@@ -58,7 +60,7 @@ namespace pokerx {
          * only, we must initialize this variable before use. This should
          * never need to be done by users.
          */
-         void watch(GameVariables& variables);
+        void watch(IGameVariables *variables);
 
         /**
          * @brief Change the isInPlay variable to false
@@ -99,7 +101,7 @@ namespace pokerx {
           */
          float allIn();
 
-        [[nodiscard]] GameVariables *getGameVariables() const;
+        [[nodiscard]] IGameVariables *getGameVariables() const;
 
         /**
          * @brief add the amount of chips dictated by the small blind
@@ -124,11 +126,11 @@ namespace pokerx {
         /**
          * @brief Stack pointer to a GameVariables object.
          * @details When initialized, this variable will be nullptr.
-         * After the GameVariables::update method has been called,
+         * After the GameVariables::updateObservers method has been called,
          * it'll be replaced with a pointer to the current GameVariables
          * object, which is not a heap allocated pointer.
          */
-        GameVariables* gameVariables_ = nullptr;
+        IGameVariables *gameVariables_ = nullptr;
 
         void checkGameVariablesNotNull() const;
     };

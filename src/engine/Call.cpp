@@ -4,6 +4,7 @@
 
 
 #include <iostream>
+#include <PokerX/engine/PlayerManager.h>
 #include "PokerX/engine/Call.h"
 #include "PokerX/engine/RemoveCheckFromOptions.h"
 #include "PokerX/engine/PokerEngine.h"
@@ -21,9 +22,9 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         // get a reference to the currently active player
-        const PlayerManager& playerManager = engine->getPlayers();
+        IPlayerManager *playerManager = engine->getPlayers();
 
-        SharedPlayerPtr player = playerManager.getCurrentPlayer();
+        const SharedPlayerPtr &player = playerManager->getCurrentPlayer();
 
         // amount is taken care of automatically by the observer mechanism
         // in place between players and gameVariable

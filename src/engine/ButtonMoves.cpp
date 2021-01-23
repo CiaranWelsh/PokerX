@@ -22,17 +22,17 @@ namespace pokerx {
         CHECK_NULLPTR(machine, "StateMachine");
         // cast down to PokerEngine
         // problem: liskov substitution principle violated
-        auto* engine = dynamic_cast<PokerEngine*>(machine);
-        PlayerManager manager = engine->getPlayers();//.rotate();
+        auto *engine = dynamic_cast<PokerEngine *>(machine);
+        IPlayerManager *manager = engine->getPlayers();//.rotate();
 
-        CHECK_NULLPTR(manager.getCurrentPlayer(), "PlayerManager::getCurrentPlayer");
+        CHECK_NULLPTR(manager->getCurrentPlayer(), "PlayerManager::getCurrentPlayer");
 
-        std::cout << "Player btn was: " << *manager.getCurrentPlayer() <<std::endl;
+        std::cout << "Player btn was: " << *manager.getCurrentPlayer() << std::endl;
 
-        manager.nextPlayer();
-        manager.moveButton();
+        manager->nextPlayer();
+        manager->moveButton();
 
-        std::cout << "Player btn is now: " << *manager.getCurrentPlayer() <<std::endl;
+        std::cout << "Player btn is now: " << *manager->getCurrentPlayer() << std::endl;
 
         // Reach out to PlayerManager and rotate player ordering
 //        std::cout<< engine->getGameVariables().getPot() << std::endl;

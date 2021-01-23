@@ -48,13 +48,13 @@ public:
 
 TEST_F(PlayerTests, TestPlayerStartingStack) {
     FakePlayer player;
-    gameVariables.addSubscriber(&player);
+    gameVariables.registerObserver(&player);
     ASSERT_EQ(1000.0, player.getStack());
 }
 
 TEST_F(PlayerTests, CheckPlayersIsInPlayFlagTurnedOffWhenFold) {
     FakePlayer player;
-    gameVariables.addSubscriber(&player);
+    gameVariables.registerObserver(&player);
     player.fold();
     ASSERT_FALSE(player.isInPlay());
 }
@@ -62,7 +62,7 @@ TEST_F(PlayerTests, CheckPlayersIsInPlayFlagTurnedOffWhenFold) {
 
 TEST_F(PlayerTests, MakeSureThatErrorWhenCheckNotAvailable) {
     FakePlayer player;
-    gameVariables.addSubscriber(&player);
+    gameVariables.registerObserver(&player);
     gameVariables.setCheckAvailable(false);
     // something has to be updated
     ASSERT_THROW(player.check(), std::runtime_error);
@@ -70,7 +70,7 @@ TEST_F(PlayerTests, MakeSureThatErrorWhenCheckNotAvailable) {
 
 TEST_F(PlayerTests, TestCheckActionWorks) {
     FakePlayer player;
-    gameVariables.addSubscriber(&player);
+    gameVariables.registerObserver(&player);
     gameVariables.setCheckAvailable(true);
     ASSERT_NO_THROW(player.check());
 }
@@ -78,7 +78,7 @@ TEST_F(PlayerTests, TestCheckActionWorks) {
 
 TEST_F(PlayerTests, Call) {
     FakePlayer player("p1", 100);
-    gameVariables.addSubscriber(&player);
+    gameVariables.registerObserver(&player);
 
     gameVariables.setAmountToCall(10.0);
     float amount = player.call();
@@ -89,7 +89,7 @@ TEST_F(PlayerTests, Call) {
 
 TEST_F(PlayerTests, CheckRaiseWhenAmountIsGreaterThanCalAmount) {
     FakePlayer player("p1", 100.0);
-    gameVariables.addSubscriber(&player);
+    gameVariables.registerObserver(&player);
 
     gameVariables.setAmountToCall(10.0);
 

@@ -8,35 +8,38 @@
 #include <vector>
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/RotatoryContainer.h"
+#include "PokerX/engine/IPlayerManager.h"
 #include <iostream>
 #include <sstream>
 
 namespace pokerx {
 
+
     /**
      * @brief Container class for Player instances.
      * @details
      */
-    class PlayerManager : public RotatoryContainer<SharedPlayerPtr> {
+    class PlayerManager : public IPlayerManager {
 
     public:
 
         PlayerManager() = default;
 
         /**
-         * @brief calls each of the contained Player objects update method
+         * @brief calls each of the contained Player objects updateObservers method
          * to implement the observer
+         * @details
          * @note Could have the PlayerManager observe the GameVariables instead?
          */
-        void update(GameVariables &source, const std::string &data_field);
+        void updateObservers(IGameVariables &source, const std::string &data_field);
 
         void add(SharedPlayerPtr player) override;
 
-        [[nodiscard]] bool checkAllPlayersEqual() const;
+        [[nodiscard]] bool checkAllPlayersEqual() const override;
 
-        SharedPlayerPtr getButton();
+        SharedPlayerPtr getButton() override;
 
-        [[nodiscard]] const SharedPlayerPtr &getCurrentPlayer() const;
+        [[nodiscard]] const SharedPlayerPtr &getCurrentPlayer() const override;
 
         template<class T>
         static PlayerManager populate(unsigned int n, float stack) {
@@ -58,23 +61,23 @@ namespace pokerx {
          * implemented between GameVariables class and Player instances.
          * Players observe the GameVariables
          */
-        void watch(GameVariables &variables);
+        void watch(IGameVariables *variables) override;
 
-        void moveButton();
+        void moveButton() override;
 
         /**
          * @brief rotate players and move the current player
          * pointer onto the next player.
          */
-        void nextPlayer();
+        void nextPlayer() override;
 
-        [[nodiscard]] int getButtonIdx() const;
+        [[nodiscard]] int getButtonIdx() const override;
 
-        void setButtonIdx(int buttonIdx);
+        void setButtonIdx(int buttonIdx) override;
 
-        [[nodiscard]] int getCurrentPlayerIdx() const;
+        [[nodiscard]] int getCurrentPlayerIdx() const override;
 
-        void setCurrentPlayerIdx(int currentPlayerIdx);
+        void setCurrentPlayerIdx(int currentPlayerIdx) override;
 
 
     protected:
@@ -94,10 +97,8 @@ namespace pokerx {
         /**
          * @brief implements the logic for moving the player pointer.
          */
-        void moveCurrentPlayer();
+        void moveCurrentPlayer() override;
 
-        int button_idx = 0;
-        int current_player_idx = 0;
 
     };
 }

@@ -16,12 +16,12 @@ namespace pokerx {
         return os;
     }
 
-    void Player::update(GameVariables &source, const string &data_field) {
+    void Player::update(IGameVariables &source, const string &data_field) {
         // store the reference
         gameVariables_ = &source;
     }
 
-    GameVariables *Player::getGameVariables() const {
+    IGameVariables *Player::getGameVariables() const {
         checkGameVariablesNotNull();
         return gameVariables_;
     }
@@ -62,8 +62,8 @@ namespace pokerx {
         return holeCards_;
     }
 
-    void Player::watch(GameVariables& variables){
-        gameVariables_ = &variables;
+    void Player::watch(IGameVariables *variables) {
+        gameVariables_ = variables;
     }
 
     void Player::fold() {

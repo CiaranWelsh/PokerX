@@ -16,12 +16,12 @@ namespace pokerx {
     }
 
     void GameVariables::setAmountToCall(float amountToCall) {
-        notify(*this, "AmountToCall");
+        notifyObservers(*this, "AmountToCall");
         amount_to_call_ = amountToCall;
     }
 
     void GameVariables::addToPot(const Pot &pot) {
-        notify(*this, "Pot");
+        notifyObservers(*this, "Pot");
         pot_ = pot;
     }
 
@@ -30,7 +30,7 @@ namespace pokerx {
     }
 
     void GameVariables::setCheckAvailable(bool checkAvailable) {
-        notify(*this, "checkAvailable");
+        notifyObservers(*this, "checkAvailable");
         GameVariables::checkAvailable_ = checkAvailable;
     }
 
