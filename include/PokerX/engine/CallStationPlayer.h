@@ -13,6 +13,8 @@ namespace pokerx {
     public:
         using Player::Player;
 
+        ~CallStationPlayer() override = default;
+
         Action selectAction(StateMachine *engine) override;
 
         float raise() override;

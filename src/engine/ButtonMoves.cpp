@@ -21,13 +21,13 @@ namespace pokerx {
     void ButtonMoves::action(StateMachine *machine) {
         CHECK_NULLPTR(machine, "StateMachine");
         // cast down to PokerEngine
-        // problem: liskov substitution principle violated
+        // problem: liskov substitution principle violated because StateMachine superclass
+        // of PokerEngine does not have a PlayerManager
         auto *engine = dynamic_cast<PokerEngine *>(machine);
-        IPlayerManager *manager = engine->getPlayers();//.rotate();
-
+        IPlayerManager *manager = engine->getPlayers();
         CHECK_NULLPTR(manager->getCurrentPlayer(), "PlayerManager::getCurrentPlayer");
 
-        std::cout << "Player btn was: " << *manager.getCurrentPlayer() << std::endl;
+        std::cout << "Player btn was: " << *manager->getCurrentPlayer() << std::endl;
 
         manager->nextPlayer();
         manager->moveButton();

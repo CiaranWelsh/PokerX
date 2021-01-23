@@ -6,7 +6,6 @@
 #define POKERX_GAMEVARIABLES_H
 
 #include "PokerX/engine/Pot.h"
-#include "PokerX/engine/Observable.h"
 #include "PokerX/engine/Streets.h"
 #include "PokerX/engine/IGameVariables.h"
 #include "PokerX/engine/CardCollection.h"
@@ -19,6 +18,8 @@ namespace pokerx {
     public:
 
         GameVariables() = default;
+
+        ~GameVariables() override = default;
 
         [[nodiscard]] Pot getPot() const override;
 

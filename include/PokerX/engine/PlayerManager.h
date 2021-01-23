@@ -39,7 +39,7 @@ namespace pokerx {
 
         SharedPlayerPtr getButton() override;
 
-        [[nodiscard]] const SharedPlayerPtr &getCurrentPlayer() const override;
+        [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const override;
 
         template<class T>
         static PlayerManager populate(unsigned int n, float stack) {

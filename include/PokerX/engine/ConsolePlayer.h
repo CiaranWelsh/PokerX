@@ -16,6 +16,8 @@ namespace pokerx {
     public:
         using Player::Player;
 
+        ~ConsolePlayer() override = default;
+
         Action selectAction(StateMachine *engine) override;
 
 

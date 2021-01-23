@@ -15,6 +15,8 @@ class MockGameVariables : public IGameVariables {
 public:
     MockGameVariables() = default;
 
+    ~MockGameVariables() override = default;
+
     MOCK_METHOD(Pot, getPot, (), (const));
 
     MOCK_METHOD(float, getAmountToCall, (), (const));
@@ -37,7 +39,7 @@ public:
 
     MOCK_METHOD(float, getBigBlind, (), (const));
 
-    MOCK_METHOD(void, setBigBlind, (float), ())
+    MOCK_METHOD(void, setBigBlind, (float), ());
 
 };
 

@@ -8,12 +8,9 @@
 
 namespace pokerx {
 
-    Player::Player(std::string name, float stack)
-            : name_(std::move(name)), stack_(stack) {}
 
     std::ostream &operator<<(std::ostream &os, Player &player) {
-        os << player.getName() << "(stack=" << player.getStack() << ")" << std::endl;
-        return os;
+        return player.print(os);
     }
 
     void Player::update(IGameVariables &source, const string &data_field) {
@@ -64,7 +61,10 @@ namespace pokerx {
 
     void Player::watch(IGameVariables *variables) {
         gameVariables_ = variables;
+//        std::cout << __FILE_NAME__<<":"<<__LINE__<<": possible memory related error"<<std::endl;
+        gameVariables_->registerObserver(this);
     }
+
 
     void Player::fold() {
         setIsInPlay(false);
@@ -73,7 +73,8 @@ namespace pokerx {
     void Player::checkGameVariablesNotNull() const {
         if (gameVariables_ == nullptr) {
             RUNTIME_ERROR << "GameVariables object of player " << name_ << " has not yet "
-                          << " been initialized. Use the PlayerManager::watch method " << std::endl;
+                          << " been initialized. Use the PlayerManager::watch or "
+                             "Player::watch method before gameplay" << std::endl;
         }
     }
 
@@ -116,6 +117,7 @@ namespace pokerx {
         stack_ -= bb;
         gameVariables_->getPot() += bb;
     }
+
 
 
 }

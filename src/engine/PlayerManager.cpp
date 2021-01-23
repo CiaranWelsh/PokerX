@@ -47,9 +47,12 @@ namespace pokerx {
     }
 
     void PlayerManager::watch(IGameVariables *variables) {
-        for (const auto &it: contents_) {
-            it->watch(variables);
-            variables->registerObserver(it);
+        /**
+         *
+         */
+        for (const auto &player: contents_) {
+            player->watch(variables);
+//            variables->registerObserver(player);
         }
     }
 
@@ -78,7 +81,7 @@ namespace pokerx {
         return contents_[getButtonIdx()];
     }
 
-    const SharedPlayerPtr &PlayerManager::getCurrentPlayer() const {
+    SharedPlayerPtr PlayerManager::getCurrentPlayer() const {
         return contents_[getCurrentPlayerIdx()];
     }
 

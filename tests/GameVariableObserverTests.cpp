@@ -20,6 +20,8 @@ class FakePlayer : public Player {
 public:
     using Player::Player;
 
+    ~FakePlayer() override = default;
+
     /**
      * Our Fake player is a call station.
      */
@@ -45,7 +47,7 @@ public:
 
 TEST_F(GameVariableObserverTests, CheckThatGetGameVariablesDoesNotReturnNullptr) {
     GameVariables gameVariables; //observed
-    playerManager.watch(gameVariables);
+    playerManager.watch(&gameVariables);
 
     // We artificially change the amount to call
     gameVariables.setAmountToCall(10.0);
@@ -59,7 +61,7 @@ TEST_F(GameVariableObserverTests, CheckThatGetGameVariablesDoesNotReturnNullptr)
 
 TEST_F(GameVariableObserverTests, CheckThatAmountToCallIsProperlyUpdated) {
     GameVariables gameVariables; //observed
-    playerManager.watch(gameVariables);
+    playerManager.watch(&gameVariables);
 
     // We artificially change the amount to call
     gameVariables.setAmountToCall(10.0);
@@ -80,7 +82,7 @@ TEST_F(GameVariableObserverTests, EmployTheWatchMethodToAssociatePlayerManagerAn
     // associate the players in the playerManager object
     // with the gameVariables object. The players will now
     // "watch" the gameVariables
-    playerManager.watch(gameVariables);
+    playerManager.watch(&gameVariables);
 
     // When we neglect to use the watch method the gameVariable reference inside
     // player instances are nullptr.
@@ -89,6 +91,27 @@ TEST_F(GameVariableObserverTests, EmployTheWatchMethodToAssociatePlayerManagerAn
     );
 
 }
+
+TEST_F(GameVariableObserverTests, CanWeUseTheWatchMethodToSubscribeToObservers) {
+    GameVariables gameVariables; //observed
+
+    playerManager.watch(&gameVariables);
+    /*
+     * This isn't working because gameariables is a stack not heap address. So
+     * we can't make shred
+     */
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 

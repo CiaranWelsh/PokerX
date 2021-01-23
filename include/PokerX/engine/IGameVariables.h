@@ -7,15 +7,15 @@
 
 #include "PokerX/engine/Pot.h"
 #include "PokerX/engine/Streets.h"
-#include "PokerX/engine/Observable.h"
+#include "PokerX/engine/IObservable.h"
 
 namespace pokerx {
 
-    template<class T>
-    class Observable;
 
     class IGameVariables : public Observable<IGameVariables> {
     public:
+
+        ~IGameVariables() override = default;
 
         [[nodiscard]] virtual Pot getPot() const = 0;
 

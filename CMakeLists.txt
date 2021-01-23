@@ -76,8 +76,11 @@ add_library(
         include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
-        include/PokerX/engine/Observer.h
-        include/PokerX/engine/Observable.h
+        include/PokerX/engine/IGameVariables.h
+        include/PokerX/engine/IPlayer.h
+        include/PokerX/engine/IPlayerManager.h
+        include/PokerX/engine/IObserver.h
+        include/PokerX/engine/IObservable.h
         include/PokerX/engine/NextPlayer.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h

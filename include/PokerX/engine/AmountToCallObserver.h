@@ -6,7 +6,7 @@
 #define POKERX_AMOUNTTOCALLOBSERVER_H
 
 
-#include "PokerX/engine/Observer.h"
+#include "PokerX/engine/IObserver.h"
 
 namespace pokerx {
 

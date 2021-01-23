@@ -93,7 +93,7 @@ namespace pokerx {
     }
 
     void PokerEngine::bind(IPlayerManager *manager) {
-        CHECK_NULLPTR(manager.getCurrentPlayer(), "IPlayerManager::getCurrentPlayer()");
+        CHECK_NULLPTR(manager->getCurrentPlayer(), "IPlayerManager::getCurrentPlayer()");
         players_ = manager;
     }
 

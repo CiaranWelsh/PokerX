@@ -15,7 +15,7 @@ namespace pokerx {
 
         virtual SharedPlayerPtr getButton() = 0;
 
-        [[nodiscard]] virtual const SharedPlayerPtr &getCurrentPlayer() const = 0;
+        [[nodiscard]] virtual SharedPlayerPtr getCurrentPlayer() const = 0;
 
         virtual void watch(IGameVariables *variables) = 0;
 

@@ -9,9 +9,9 @@
 namespace pokerx {
 
     template<class T>
-    class Observer {
+    class IObserver {
     public:
-        virtual ~Observer() = default;
+        virtual ~IObserver() = default;
 
         virtual void update(T& source, const std::string& data_field) = 0;
     };

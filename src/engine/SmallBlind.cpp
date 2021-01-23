@@ -19,9 +19,9 @@ namespace pokerx {
         CHECK_NULLPTR(machine, "StateMachine");
         auto* engine = dynamic_cast<PokerEngine*>(machine);
         CHECK_NULLPTR(engine, "engine");
-        const PlayerManager& manager = engine->getPlayers();
-        CHECK_NULLPTR(manager.getCurrentPlayer(), "playerManager::getCurrentPlayer");
-        manager.getCurrentPlayer()->postSmallBlind();
+        IPlayerManager* manager = engine->getPlayers();
+        CHECK_NULLPTR(manager->getCurrentPlayer(), "playerManager::getCurrentPlayer");
+        manager->getCurrentPlayer()->postSmallBlind();
         machine->setState(BigBlind::getInstance());
     }
 

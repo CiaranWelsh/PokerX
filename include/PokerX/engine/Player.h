@@ -5,139 +5,68 @@
 #ifndef POKERSIMULATIONSINCPP_PLAYER_H
 #define POKERSIMULATIONSINCPP_PLAYER_H
 
-#include "PokerX/engine/StateMachine.h"
-#include "PokerX/engine/Action.h"
-#include "PokerX/engine/HoleCards.h"
-#include "PokerX/engine/Observer.h"
-#include <iostream>
-
+#include "PokerX/engine/IPlayer.h"
 #include "PokerX/engine/IGameVariables.h"
-
-/**
- * todo implement a Pot observer such that
- * players can registerObserver and be notified of any pot changes
- */
 
 namespace pokerx {
 
     class PokerEngine;
 
-    class IGameVariables;
 
-    class Player : public Observer<IGameVariables> {
+    class Player : public IPlayer {
     public:
         explicit Player() = default;
 
-        Player(std::string name, float stack);
+        using IPlayer::IPlayer;
 
-        virtual Action selectAction(StateMachine *engine) = 0;
+        ~Player() override = default;
 
         void update(IGameVariables &source, const std::string &data_field) override;
 
-        [[nodiscard]] const std::string &getName() const;
+        friend std::ostream &operator<<(std::ostream &os, Player& IPlayer);
 
-        void setName(const std::string &name);
+        [[nodiscard]] const std::string &getName() const override;
 
-        friend std::ostream &operator<<(std::ostream &os, Player& player);
+        void setName(const std::string &name) override;
 
-        [[nodiscard]] float getStack() const;
+        [[nodiscard]] float getStack() const override;
 
-        void setStack(float stack);
+        void setStack(float stack) override;
 
-        [[nodiscard]] bool isAllIn() const;
+        [[nodiscard]] bool isAllIn() const override;
 
-        void setIsAllIn(bool isAllIn);
+        void setIsAllIn(bool isAllIn) override;
 
-        [[nodiscard]] bool isInPlay() const;
+        [[nodiscard]] bool isInPlay() const override;
 
-        void setIsInPlay(bool isInPlay);
+        void setIsInPlay(bool isInPlay) override;
 
-        [[nodiscard]] const HoleCards &getHoleCards() const;
+        [[nodiscard]] const HoleCards &getHoleCards() const override;
 
-        /**
-         * @brief associate this player with a GameVariables object
-         * @details Since the GameVariables object is a reference
-         * only, we must initialize this variable before use. This should
-         * never need to be done by users.
-         */
-        void watch(IGameVariables *variables);
+        void watch(IGameVariables *variables) override;
 
-        /**
-         * @brief Change the isInPlay variable to false
-         * to indicate the this player has folded this round
-         */
-        void fold();
+        static void watch(SharedIPlayerPtr player, IGameVariables* variables);
 
-        /**
-         * @brief Move on to the next player without
-         * putting money in the pot or folding. Not
-         * available when there is money in the pot
-         * that did not originate from the small or
-         * big blind.
-         */
-         void check();
+        void fold() override;
 
-         /**
-          * @brief Call the current bet by putting the
-          * current bet size from this players stack into
-          * the pot
-          */
-         float call();
+        void check() override;
 
-         /**
-          * @brief raise the current bet
-          * @details We cannot accept the raise amount as a parameter
-          * here because we have no way to enter it from where it'll be called
-          * i.e. from the Raise state, which only has an action call that accepts
-          * the state machine pointer. Therefore we need to allow subclasses to override
-          * this method to define their own strategy of raising. Perhaps
-          * triple bet raise, perhaps console or network input
-          */
-         virtual float raise() = 0;
+        float call() override;
 
-         /**
-          * @brief uses the Player::raise method but
-          * with this players entire stack;
-          */
-         float allIn();
+        float allIn() override;
 
-        [[nodiscard]] IGameVariables *getGameVariables() const;
+        [[nodiscard]] IGameVariables *getGameVariables() const override;
+        void postSmallBlind() override;
 
-        /**
-         * @brief add the amount of chips dictated by the small blind
-         * into the pot
-         */
-         void postSmallBlind();
-
-        /**
-         * @brief add the amount of chips dictated by the small blind
-         * into the pot
-         */
-         void postBigBlind();
+        void postBigBlind() override;
 
     protected:
-        float stack_ = 1000.0;
-        bool isAllIn_ = false;
-        bool isInPlay_ = true;
-        std::string name_;
 
-        HoleCards holeCards_;
-
-        /**
-         * @brief Stack pointer to a GameVariables object.
-         * @details When initialized, this variable will be nullptr.
-         * After the GameVariables::updateObservers method has been called,
-         * it'll be replaced with a pointer to the current GameVariables
-         * object, which is not a heap allocated pointer.
-         */
-        IGameVariables *gameVariables_ = nullptr;
-
-        void checkGameVariablesNotNull() const;
+        void checkGameVariablesNotNull() const override;
     };
 
     using PlayerPtr = std::unique_ptr<Player>;
     using SharedPlayerPtr = std::shared_ptr<Player>;
-    using PlayerPtr2 = std::unique_ptr<PlayerPtr>;
 
 }
 
