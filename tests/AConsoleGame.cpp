@@ -23,19 +23,19 @@ int main() {
             break;
         } else {
             if (userInput == "none") {
-                engine.action(NONE);
+                engine.action();
             } else if (userInput.empty()) {
-                engine.action(CALL);
+                engine.action();
             } else if (userInput == "check") {
-                engine.action(CHECK);
+                engine.action();
             } else if (userInput == "fold") {
-                engine.action(FOLD);
+                engine.action();
             } else if (userInput == "call") {
-                engine.action(CALL);
+                engine.action();
             } else if (userInput == "raise") {
-                engine.action(RAISE);
+                engine.action();
             } else if (userInput == "all_in") {
-                engine.action(ALL_IN);
+                engine.action();
             } else {
                 // now for regexes
 //                std::smatch sm;

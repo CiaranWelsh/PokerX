@@ -36,16 +36,12 @@ namespace pokerx {
         // enter and exit are by default empty
     }
 
-    void PokerEngine::action(Action action) {
-        if (getState()->getType() == PLAYER_TO_ACT_STATE && action == NONE) {
-            LOGIC_ERROR << "Cannot chooses NONE action when its a players turn to act" << std::endl;
-        }
+    void PokerEngine::action() {
         state_->action(this);
     }
 
     void PokerEngine::action(unsigned int times) {
         for (int i = 0; i < times; i++) {
-            std::cout << i << std::endl;
             state_->action(this);
         }
     }

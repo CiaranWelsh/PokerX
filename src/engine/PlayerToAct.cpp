@@ -24,6 +24,10 @@ namespace pokerx {
         // select action using whatever strategy Player types define
         Action action = player->selectAction(machine);
 
+        if (action == NONE) {
+            LOGIC_ERROR << "Cannot chooses NONE action when its a players turn to act" << std::endl;
+        }
+
         /**
          * We could remove several of the states by implement the
          * logic of actions here, instead of their own state. Try that

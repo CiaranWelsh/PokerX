@@ -23,7 +23,7 @@ public:
 
     LightSwitchMachine() : StateMachine(&LightOff::getInstance()) {};
 
-    void action(Action action) override {
+    void action() override {
         state_->action(this);
     }
 
@@ -57,30 +57,30 @@ TEST_F(LightSwitchMachineTests, AssertLightMachineIsOffInitially){
 
 TEST_F(LightSwitchMachineTests, CheckThatLightIsLowWhenActionCalledOnce){
     LightSwitchMachine sm;
-    sm.action(NONE);
+    sm.action();
     ASSERT_EQ(LIGHT_LOW, sm.getState()->getType());
 }
 
 TEST_F(LightSwitchMachineTests, CheckThatLightIsHighWhenActionCalledTwice){
     LightSwitchMachine sm;
-    sm.action(NONE);
-    sm.action(NONE);
+    sm.action();
+    sm.action();
     ASSERT_EQ(LIGHT_HIGH, sm.getState()->getType());
 }
 
 TEST_F(LightSwitchMachineTests, CheckThatLightIsOffAgainWhenActionCalledThreeTimes){
     LightSwitchMachine sm;
-    sm.action(NONE);
-    sm.action(NONE);
-    sm.action(NONE);
+    sm.action();
+    sm.action();
+    sm.action();
     ASSERT_EQ(LIGHT_OFF, sm.getState()->getType());
 }
 
 
 TEST_F(LightSwitchMachineTests, CheckThatResetMethodReturnsTheStateMachineToOffPosition){
     LightSwitchMachine sm;
-    sm.action(NONE);
-    sm.action(NONE); // StateMachine is in the LIGHT_HIGH state
+    sm.action();
+    sm.action(); // StateMachine is in the LIGHT_HIGH state
     sm.reset(); // reset StateMachine back to LIGHT_OFF state
     ASSERT_EQ(LIGHT_OFF, sm.getState()->getType());
 }

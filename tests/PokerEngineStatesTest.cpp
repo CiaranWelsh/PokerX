@@ -60,7 +60,7 @@ TEST_F(PokerEngineStatesTest, AssertSmallBlindSubtractsFromStack) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), SMALL_BLIND_STATE);
 
-    engine->action(NONE);
+    engine->action();
 
     ASSERT_EQ(engine->getPlayers()->getPlayer(1)->getStack(), 999);
     ASSERT_EQ(engine->getGameVariables()->getPot(), 1);
@@ -76,7 +76,7 @@ TEST_F(PokerEngineStatesTest, AssertBigBlindSubtractsFromStack) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), BIG_BLIND_STATE);
 
-    engine->action(NONE);
+    engine->action();
 
     ASSERT_EQ(engine->getPlayers()->getPlayer(2)->getStack(), 998);
     ASSERT_EQ(engine->getGameVariables()->getPot(), 2);
@@ -93,7 +93,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActErrorsWhenUserPicksNONEAction) {
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
     ASSERT_THROW(
-            engine->action(NONE),
+            engine->action(),
             std::logic_error
     );
 }
@@ -108,7 +108,7 @@ TEST_F(PokerEngineStatesTest, CheckCheckActioinPlayerStillHasStack) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(CHECK);
+    engine->action();
 
     // Player still has stack
     ASSERT_EQ(engine->getPlayers()->getPlayer(3)->getStack(), 1000.0);
@@ -125,7 +125,7 @@ TEST_F(PokerEngineStatesTest, CheckCheckActionNoNewMoneyInPot) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(CHECK);
+    engine->action();
 
     // No new money in pot
     ASSERT_EQ(engine->getGameVariables()->getPot(), 0.0);
@@ -146,7 +146,7 @@ TEST_F(PokerEngineStatesTest, CheckCheckActionCheckOptionStillAvailableToOtherPl
      * This isn't working because we're using a callstation player
      * The action chosen should be propagated to the palayer???
      */
-    engine->action(CHECK);
+    engine->action();
 
     // Check option still available for other players
     ASSERT_TRUE(engine->getGameVariables()->isCheckAvailable());
@@ -164,7 +164,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndChipsRemovedFromStack) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(CALL);
+    engine->action();
 
     ASSERT_EQ(980, engine->getPlayers()->getPlayer(3)->getStack());
 }
@@ -181,7 +181,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndAmountToCallIsCorrect) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(CALL);
+    engine->action();
 
     ASSERT_EQ(20, engine->getGameVariables()->getAmountToCall());
 }
@@ -198,7 +198,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndPotIsCorrect) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(CALL);
+    engine->action();
 
     ASSERT_EQ(20, engine->getGameVariables()->getPot());
 }
@@ -215,7 +215,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndCheckOptionIsRemoved) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(CALL);
+    engine->action();
 
     /*
      * Current impl changes th state path to be Call, so it'll  actually happen on the
@@ -234,7 +234,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFolds) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(FOLD);
+    engine->action();
 
     ASSERT_EQ(1000, engine->getPlayers()->getPlayer(3)->getStack());
 
@@ -249,7 +249,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerStackStayThSame) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(FOLD);
+    engine->action();
 
     ASSERT_EQ(1000, engine->getPlayers()->getPlayer(3)->getStack());
 }
@@ -263,7 +263,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAmountToCallIsStill0) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(FOLD);
+    engine->action();
 
     ASSERT_EQ(0, engine->getGameVariables()->getAmountToCall());
 }
@@ -277,7 +277,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPotIsStill0) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(FOLD);
+    engine->action();
 
     ASSERT_EQ(0, engine->getGameVariables()->getPot());
 }
@@ -291,7 +291,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerHasFolded) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(FOLD);
+    engine->action();
 
     ASSERT_TRUE(engine->getPlayers()->getPlayer(3)->hasFolded());
 }
@@ -306,7 +306,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAndCheckOptionStillAvailableForOth
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(FOLD);
+    engine->action();
 
     ASSERT_TRUE(engine->getGameVariables()->isCheckAvailable());
 
@@ -325,7 +325,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaisePotAmountIsRight) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(RAISE);
+    engine->action();
 
     ASSERT_EQ(60, engine->getGameVariables()->getPot());
 }
@@ -343,7 +343,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaiseStackAmountIsRight) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(RAISE);
+    engine->action();
 
     ASSERT_EQ(960, engine->getPlayers()->getPlayer(4)->getStack());
 }
@@ -361,7 +361,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaiseCheckNotAvailableForOtherPlayers) 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(RAISE);
+    engine->action();
 
     ASSERT_FALSE(engine->getGameVariables()->isCheckAvailable());
 }
@@ -380,7 +380,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInPotAmount) {
     //and the pot
     engine->getGameVariables()->getPot() += 20.0;
 
-    engine->action(ALL_IN);
+    engine->action();
 
     ASSERT_EQ(1020, engine->getGameVariables()->getPot());
 
@@ -400,7 +400,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInStackAmount) {
     //and the pot
     engine->getGameVariables()->getPot() += 20.0;
 
-    engine->action(ALL_IN);
+    engine->action();
 
     ASSERT_EQ(0, engine->getPlayers()->getPlayer(5)->getStack());
 
@@ -419,7 +419,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActAllInPotAmountIsCorrect) {
     //and the pot
     engine->getGameVariables()->getPot() += 20.0;
 
-    engine->action(ALL_IN);
+    engine->action();
 
     ASSERT_EQ(1020, engine->getGameVariables()->getPot());
 
@@ -438,7 +438,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActAllStackAmountIsCorrect) {
     //and the pot
     engine->getGameVariables()->getPot() += 20.0;
 
-    engine->action(ALL_IN);
+    engine->action();
 
     ASSERT_EQ(0, engine->getPlayers()->getPlayer(5)->getStack());
 
@@ -457,7 +457,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInCheckNotAvailableToNextPlayer) {
     //and the pot
     engine->getGameVariables()->getPot() += 20.0;
 
-    engine->action(ALL_IN);
+    engine->action();
 
     ASSERT_FALSE(engine->getGameVariables()->isCheckAvailable());
 

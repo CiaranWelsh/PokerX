@@ -13,7 +13,7 @@ namespace pokerx {
     class StreetMachine : public StateMachine {
         void setState(State &state) override {};
 
-        void action(Action action) override{};
+        void action() override{};
 
         void reset() override{};
 

@@ -44,7 +44,7 @@ namespace pokerx {
          * is the main entry point for "turning" the
          * game cycle
          */
-        virtual void action(Action action = NONE) = 0;
+        virtual void action() = 0;
 
         /**
          * @brief Abstract method to return the StateMachine back to the

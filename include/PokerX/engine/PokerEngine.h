@@ -33,7 +33,7 @@ namespace pokerx {
          * @details This method invokes the State::action method
          * of the currently active state.
          */
-        void action(Action action) override;
+        void action() override;
 
         /**
          * @brief calls the action @param times times
