@@ -22,7 +22,7 @@ stages:
               cd $(BUILD_DIR)
               cmake -DCMAKE_INSTALL_PREFIX=$(INSTALL_DIR) ..
               cmake --build $(BUILD_DIR) --target install --config Release -j 12
-              ctest --verbose --extra-verbose .
+              ctest --verbose --extra-verbose --parallel 8 .
 
       - job: BuildMac
         timeoutInMinutes: "0"
@@ -49,7 +49,7 @@ stages:
               cd $(BUILD_DIR)
               cmake -DCMAKE_INSTALL_PREFIX=$(INSTALL_DIR) ..
               cmake --build $(BUILD_DIR) --target install --config Release -j 12
-              ctest --verbose --extra-verbose .
+              ctest --verbose --extra-verbose --parallel 8 .
 
       - job: BuildWindows
         timeoutInMinutes: "0"
@@ -71,7 +71,7 @@ stages:
               cd $(BUILD_DIR)
               cmake -DCMAKE_INSTALL_PREFIX=$(INSTALL_DIR) ..
               cmake --build $(BUILD_DIR) --target install --config Release -j 12
-              ctest --verbose --extra-verbose .
+              ctest --verbose --extra-verbose --parallel 8 .
 
 
 
