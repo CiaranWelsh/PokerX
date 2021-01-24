@@ -26,26 +26,10 @@ set(POKERX_SOURCE_DIR "${POKERX_ROOT_DIR}/src")
 #   Dependencies
 #
 
-#set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer -g")
-
-
-find_package(Boost REQUIRED)
-
-message(STATUS "Boost_FOUND ${Boost_FOUND}")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer -g")
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_VERBOSE_MAKEFILE ON)
-
-set(NUMCPP_INCLUDE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/extern/NumCpp/include")
-
-option(SHOW_DEBUG_STATEMENTS "When defined, extra print statements are output to console during execution" OFF)
-if (${CMAKE_CURRENT_SOURCE_DIR} EQUAL ${CMAKE_SOURCE_DIR})
-    if (${CMAKE_BUILD_TYPE} EQUAL "Debug")
-        if (SHOW_DEBUG_STATEMENTS)
-            add_definitions(DEBUG_MODE)
-        endif ()
-    endif ()
-endif ()
 
 set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fno-omit-frame-pointer -fsanitize=address")
 
