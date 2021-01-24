@@ -50,12 +50,14 @@ add_library(
         include/PokerX/engine/Card.h
         include/PokerX/engine/CardCollection.h
         include/PokerX/engine/CommunityCards.h
+        include/PokerX/engine/CheckerPlayer.h
         include/PokerX/engine/Deck.h
         include/PokerX/engine/DealHoleCards.h
         include/PokerX/engine/DealFlop.h
         include/PokerX/engine/DealTurn.h
         include/PokerX/engine/DealRiver.h
         include/PokerX/engine/EndStreet.h
+        include/PokerX/engine/FolderPlayer.h
         include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
@@ -95,6 +97,7 @@ add_library(
         src/engine/Card.cpp
         src/engine/CardCollection.cpp
         src/engine/CommunityCards.cpp
+        src/engine/CheckerPlayer.cpp
         src/engine/Deck.cpp
         src/engine/DealHoleCards.cpp
         src/engine/DealFlop.cpp
@@ -102,6 +105,7 @@ add_library(
         src/engine/DealRiver.cpp
         src/engine/EndStreet.cpp
         src/engine/Flop.cpp
+        src/engine/FolderPlayer.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
         src/engine/NextPlayer.cpp

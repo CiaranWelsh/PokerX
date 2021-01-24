@@ -14,21 +14,38 @@ using namespace pokerx;
 class PokerEngineStatesTest : public ::testing::Test {
 
 public:
-    PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(4, 1000.0);
+    PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(2, 1000.0);
 
     GameVariables gameVariables;
 
     std::unique_ptr<PokerEngine> engine = nullptr;
 
-    RaiserPlayer raiser;
-
+    RaiserPlayer raiserPlayer;
     AllInPlayer allInPlayer;
+    FolderPlayer folderPlayer;
+    CheckerPlayer checkerPlayer;
 
     PokerEngineStatesTest() {
-        playerManager.add(std::make_shared<RaiserPlayer>(raiser));
+        // name the players to easily find them in the tests
+        raiserPlayer.setName("Raiser");
+        allInPlayer.setName("AllIner");
+        folderPlayer.setName("Folder");
+        checkerPlayer.setName("Checker");
+        playerManager.getPlayer(0)->setName("Caller");
+
+        // add the players to a total of 6
+        playerManager.add(std::make_shared<RaiserPlayer>(raiserPlayer));
         playerManager.add(std::make_shared<AllInPlayer>(allInPlayer));
+        playerManager.add(std::make_shared<FolderPlayer>(folderPlayer));
+        playerManager.add(std::make_shared<CheckerPlayer>(checkerPlayer));
+
         engine = std::make_unique<PokerEngine>(&playerManager, &gameVariables);
 
+        // label the players if they do not already have a name
+        engine->getPlayers()->enumerateEmptyPlayerNames(); // PLayer1  onl
+
+        // set everybodies stack to 1000.0
+        engine->getPlayers()->setStackSizeTo(1000.0);
     };
 
     /**
@@ -80,30 +97,13 @@ TEST_F(PokerEngineStatesTest, AssertBigBlindSubtractsFromStack) {
 
     ASSERT_EQ(engine->getPlayers()->getPlayer(2)->getStack(), 998);
     ASSERT_EQ(engine->getGameVariables()->getPot(), 2);
-
 }
-
-TEST_F(PokerEngineStatesTest, CheckPlayerToActErrorsWhenUserPicksNONEAction) {
-    engine->setState(PlayerToAct::getInstance());
-
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
-
-    // will always be true if setState works
-    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
-
-    ASSERT_THROW(
-            engine->action(),
-            std::logic_error
-    );
-}
-
 
 TEST_F(PokerEngineStatesTest, CheckCheckActioinPlayerStillHasStack) {
     engine->setState(PlayerToAct::getInstance());
 
     // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Checker");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -120,7 +120,7 @@ TEST_F(PokerEngineStatesTest, CheckCheckActionNoNewMoneyInPot) {
     engine->setState(PlayerToAct::getInstance());
 
     // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Checker");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -133,11 +133,10 @@ TEST_F(PokerEngineStatesTest, CheckCheckActionNoNewMoneyInPot) {
     // Check option still available for other players
 }
 
-TEST_F(PokerEngineStatesTest, CheckCheckActionCheckOptionStillAvailableToOtherPlayers) {
+TEST_F(PokerEngineStatesTest, TestOptionStillAvailableToOtherPlayersAfterCheck) {
     engine->setState(PlayerToAct::getInstance());
 
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Checker");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -155,8 +154,8 @@ TEST_F(PokerEngineStatesTest, CheckCheckActionCheckOptionStillAvailableToOtherPl
 TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndChipsRemovedFromStack) {
     engine->setState(PlayerToAct::getInstance());
 
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Caller");
+
 
     // we manafacture an existing amount to call for test purposes
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -166,14 +165,13 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndChipsRemovedFromStack) {
 
     engine->action();
 
-    ASSERT_EQ(980, engine->getPlayers()->getPlayer(3)->getStack());
+    ASSERT_EQ(980, engine->getPlayers()->getPlayerByName("Caller")->getStack());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndAmountToCallIsCorrect) {
     engine->setState(PlayerToAct::getInstance());
 
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Caller");
 
     // we manafacture an existing amount to call for test purposes
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -189,8 +187,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndAmountToCallIsCorrect) {
 TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndPotIsCorrect) {
     engine->setState(PlayerToAct::getInstance());
 
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Caller");
 
     // we manafacture an existing amount to call for test purposes
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -205,9 +202,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndPotIsCorrect) {
 
 TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndCheckOptionIsRemoved) {
     engine->setState(PlayerToAct::getInstance());
-
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Caller");
 
     // we manafacture an existing amount to call for test purposes
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -228,8 +223,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndCheckOptionIsRemoved) {
 TEST_F(PokerEngineStatesTest, CheckPlayerFolds) {
     engine->setState(PlayerToAct::getInstance());
 
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Folder");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -243,8 +237,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFolds) {
 TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerStackStayThSame) {
     engine->setState(PlayerToAct::getInstance());
 
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Folder");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -256,9 +249,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerStackStayThSame) {
 
 TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAmountToCallIsStill0) {
     engine->setState(PlayerToAct::getInstance());
-
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Folder");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -270,9 +261,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAmountToCallIsStill0) {
 
 TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPotIsStill0) {
     engine->setState(PlayerToAct::getInstance());
-
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Folder");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -284,9 +273,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPotIsStill0) {
 
 TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerHasFolded) {
     engine->setState(PlayerToAct::getInstance());
-
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Folder");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -299,9 +286,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerHasFolded) {
 
 TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAndCheckOptionStillAvailableForOtherPlayers){
     engine->setState(PlayerToAct::getInstance());
-
-    // use UTG player
-    engine->getPlayers()->setCurrentPlayerIdx(3);
+    engine->getPlayers()->setCurrentPlayerByName("Folder");
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
@@ -314,8 +299,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAndCheckOptionStillAvailableForOth
 
 TEST_F(PokerEngineStatesTest, CheckPlayerRaisePotAmountIsRight) {
     engine->setState(PlayerToAct::getInstance());
-
-    engine->getPlayers()->setCurrentPlayerIdx(4);
+    engine->getPlayers()->setCurrentPlayerByName("Raiser");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -332,8 +316,8 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaisePotAmountIsRight) {
 
 TEST_F(PokerEngineStatesTest, CheckPlayerRaiseStackAmountIsRight) {
     engine->setState(PlayerToAct::getInstance());
+    engine->getPlayers()->setCurrentPlayerByName("Raiser");
 
-    engine->getPlayers()->setCurrentPlayerIdx(4);
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -345,13 +329,13 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaiseStackAmountIsRight) {
 
     engine->action();
 
-    ASSERT_EQ(960, engine->getPlayers()->getPlayer(4)->getStack());
+    ASSERT_EQ(960, engine->getPlayers()->getPlayerByName("Raiser")->getStack());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerRaiseCheckNotAvailableForOtherPlayers) {
     engine->setState(PlayerToAct::getInstance());
 
-    engine->getPlayers()->setCurrentPlayerIdx(4);
+    engine->getPlayers()->setCurrentPlayerByName("Raiser");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -373,7 +357,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInPotAmount) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->getPlayers()->setCurrentPlayerIdx(5);
+    engine->getPlayers()->setCurrentPlayerByName("AllIner");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -393,7 +377,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInStackAmount) {
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
 
-    engine->getPlayers()->setCurrentPlayerIdx(5);
+    engine->getPlayers()->setCurrentPlayerByName("AllIner");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -402,7 +386,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInStackAmount) {
 
     engine->action();
 
-    ASSERT_EQ(0, engine->getPlayers()->getPlayer(5)->getStack());
+    ASSERT_EQ(0, engine->getPlayers()->getPlayerByName("AllIner")->getStack());
 
 }
 
@@ -412,7 +396,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActAllInPotAmountIsCorrect) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->getPlayers()->setCurrentPlayerIdx(5);
+    engine->getPlayers()->setCurrentPlayerByName("AllIner");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -431,7 +415,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActAllStackAmountIsCorrect) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->getPlayers()->setCurrentPlayerIdx(5);
+    engine->getPlayers()->setCurrentPlayerByName("AllIner");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);
@@ -440,7 +424,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActAllStackAmountIsCorrect) {
 
     engine->action();
 
-    ASSERT_EQ(0, engine->getPlayers()->getPlayer(5)->getStack());
+    ASSERT_EQ(0, engine->getPlayers()->getPlayerByName("AllIner")->getStack());
 
 }
 
@@ -450,7 +434,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInCheckNotAvailableToNextPlayer) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->getPlayers()->setCurrentPlayerIdx(5);
+    engine->getPlayers()->setCurrentPlayerByName("AllIner");
 
     // we need to set an amount to call before as can raise
     engine->getGameVariables()->setAmountToCall(20.0);

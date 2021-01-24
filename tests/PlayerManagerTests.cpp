@@ -73,6 +73,37 @@ TEST_F(PlayerManagerTests, TestNextPlayer) {
 }
 
 
+TEST_F(PlayerManagerTests, TestSetAllPlayersStacks) {
+    playerManager.setStackSizeTo(15.0);
+    for (auto player: playerManager) {
+        ASSERT_EQ(player->getStack(), 15.0);
+    }
+}
+
+
+TEST_F(PlayerManagerTests, TestSetCurrentPlayerIdxByName) {
+    // set a players name
+    playerManager.getPlayer(3)->setName("James");
+    playerManager.setCurrentPlayerByName("James");
+    ASSERT_STREQ(playerManager.getCurrentPlayer()->getName().c_str(), "James");
+}
+
+TEST_F(PlayerManagerTests, TestGetIndexOfPlayer) {
+    // set a players name
+    auto player = playerManager.getPlayer(3);
+    ASSERT_EQ(3, playerManager.getIndexOfPlayer(player));
+}
+
+
+TEST_F(PlayerManagerTests, TestGetPlayerByName) {
+    // set a players name
+    auto player = playerManager.getPlayer(3);
+    player->setName("James");
+    ASSERT_STREQ("James", playerManager.getPlayerByName("James")->getName().c_str());
+}
+
+
+
 
 
 

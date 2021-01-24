@@ -83,8 +83,24 @@ namespace pokerx {
 
         void setCurrentPlayerIdx(int currentPlayerIdx) override;
 
-        friend std::ostream & operator<<(std::ostream& os, PlayerManager& playerManager);
+        void setCurrentPlayerByName(const std::string &name) override;
 
+        friend std::ostream &operator<<(std::ostream &os, PlayerManager &playerManager);
+
+        void setStackSizeTo(float amount) override;
+
+        void enumeratePlayerNames() override;
+
+        void enumerateEmptyPlayerNames() override;
+
+        std::vector<std::string> getPlayerNames() override;
+
+        SharedIPlayerPtr getPlayerByName(const std::string &name) override;
+
+        /**
+         * @brief get the index in PlayerManager of @param player
+         */
+        int getIndexOfPlayer(const SharedIPlayerPtr &player) override;
     };
 }
 

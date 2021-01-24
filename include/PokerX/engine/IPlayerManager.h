@@ -27,6 +27,24 @@ namespace pokerx {
 
         virtual void setCurrentPlayerIdx(int currentPlayerIdx) = 0;
 
+        virtual void setCurrentPlayerByName(const std::string& name) = 0;
+
+        virtual SharedIPlayerPtr getPlayerByName(const std::string &name) = 0;
+
+        /**
+         * @brief get the index in PlayerManager of @param player
+         */
+        virtual int getIndexOfPlayer(const SharedIPlayerPtr &player) = 0;
+
+        virtual void setStackSizeTo(float amount) = 0;
+
+        virtual void enumeratePlayerNames() = 0;
+
+        virtual void enumerateEmptyPlayerNames() = 0;
+
+        virtual std::vector<std::string> getPlayerNames() = 0;
+
+
     protected:
         int current_player_idx = 0;
 

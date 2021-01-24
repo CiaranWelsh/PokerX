@@ -90,4 +90,6 @@ namespace pokerx {
     void GameVariables::setGamesPlayed(unsigned int gamesPlayed) {
         gamesPlayed_ = gamesPlayed;
     }
+
+
 }

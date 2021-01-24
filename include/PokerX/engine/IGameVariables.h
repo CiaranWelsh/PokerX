@@ -58,6 +58,7 @@ namespace pokerx {
 
         virtual void setGamesPlayed(unsigned int gamesPlayed) = 0;
 
+
     protected:
 
         Pot pot_;

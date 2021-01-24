@@ -61,6 +61,7 @@ namespace pokerx {
 
         void setGamesPlayed(unsigned int gamesPlayed) override;
 
+
     private:
         /**
          * A deck of cards
