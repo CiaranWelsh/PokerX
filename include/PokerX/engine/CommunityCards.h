@@ -17,7 +17,7 @@ namespace pokerx {
 
         ~CommunityCards() override = default;
 
-        explicit CommunityCards(vector<ICard*> &cards);
+        explicit CommunityCards(std::vector<ICard*> &cards);
 
         CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3);
 

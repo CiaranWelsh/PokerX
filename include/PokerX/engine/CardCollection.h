@@ -13,22 +13,22 @@ namespace pokerx {
     class CardCollection {
 
     protected:
-        vector<ICard *> cards_;
+        std::vector<ICard *> cards_;
     public:
 
         CardCollection() = default;
 
         virtual ~CardCollection() = default;
 
-        explicit CardCollection(vector<ICard*> cards);
+        explicit CardCollection(std::vector<ICard*> cards);
 
-        friend ostream &operator<<(ostream &os, const CardCollection &c);
+        friend std::ostream &operator<<(std::ostream &os, const CardCollection &c);
 
         ICard* operator[](int index);
 
         virtual void add(ICard* card);
 
-        virtual void add(const vector<ICard*>& cards);
+        virtual void add(const std::vector<ICard*>& cards);
 
         CardCollection operator()(unsigned int start, unsigned int end);
 
@@ -36,7 +36,7 @@ namespace pokerx {
 
         CardCollection operator+=(CardCollection &other);
 
-        CardCollection &operator=(const vector<ICard *> &c);
+        CardCollection &operator=(const std::vector<ICard *> &c);
 
         CardCollection &operator=(const CardCollection &c);
 
@@ -50,16 +50,16 @@ namespace pokerx {
 
         [[nodiscard]] std::vector<ICard*>::const_iterator begin() const;
 
-        reverse_iterator<vector<ICard*>::iterator> rbegin();
+        std::reverse_iterator<std::vector<ICard*>::iterator> rbegin();
 
-        reverse_iterator<vector<ICard*>::iterator> rend();
+        std::reverse_iterator<std::vector<ICard*>::iterator> rend();
 
 
-        vector<ICard*> getCards();
+        std::vector<ICard*> getCards();
 
-        vector<int> getRanks();
+        std::vector<int> getRanks();
 
-        vector<std::string> getSuits();
+        std::vector<std::string> getSuits();
 
         void pushBack(ICard* card);
 
@@ -76,9 +76,9 @@ namespace pokerx {
         CardCollection *shuffle();
 
 
-        vector<int> getUniqueRanks();
+        std::vector<int> getUniqueRanks();
 
-        vector<std::string> getUniqueSuits();
+        std::vector<std::string> getUniqueSuits();
 
         void add(const CardCollection& cards);
 

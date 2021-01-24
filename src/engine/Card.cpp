@@ -40,7 +40,7 @@ namespace pokerx {
         rank_ = rank;
     }
 
-    void Card::setSuit(const string &suit) {
+    void Card::setSuit(const std::string &suit) {
         suit_ = suit;
     }
 

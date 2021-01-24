@@ -16,7 +16,7 @@ namespace pokerx {
 
         ~RestrictedCardCollection() override = default;
 
-        void add(const vector<ICard *> &cards) override;
+        void add(const std::vector<ICard *> &cards) override;
 
         void add(ICard *card) override;
 

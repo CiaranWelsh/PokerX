@@ -30,7 +30,7 @@ namespace pokerx {
         }
     }
 
-    void RestrictedCardCollection::add(const vector<ICard *> &cards) {
+    void RestrictedCardCollection::add(const std::vector<ICard *> &cards) {
         if (size() + cards.size() > max_cards_){
             LOGIC_ERROR << err_msg_ << std::endl;
         }

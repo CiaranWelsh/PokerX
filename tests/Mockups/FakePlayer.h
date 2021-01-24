@@ -3,6 +3,7 @@
 
 #include "MockPokerEngine.h"
 #include "PokerX/engine/Action.h"
+#include "PokerX/engine/Player.h"
 
 using namespace pokerx;
 
@@ -18,10 +19,10 @@ public:
         return CALL;
     }
 
-    float raise() override{
+    void raise() override{
         float amount = getGameVariables()->getAmountToCall()*2;
         stack_ -= amount;
-        return amount;
+        getGameVariables()->getPot() += amount;
     }
 
 

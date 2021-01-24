@@ -5,8 +5,6 @@
 #ifndef POKERSIMULATIONSINCPP_CARD_H
 #define POKERSIMULATIONSINCPP_CARD_H
 
-using namespace std;
-
 #include <string>
 #include <memory>
 #include <vector>
@@ -37,7 +35,7 @@ namespace pokerx {
 
         virtual void setRank(int rank) = 0;
 
-        virtual void setSuit(const string &suit) = 0;
+        virtual void setSuit(const std::string &suit) = 0;
 
         [[nodiscard]] virtual int getRank() const = 0;
 
@@ -65,7 +63,7 @@ namespace pokerx {
 
         void setRank(int rank) override;
 
-        void setSuit(const string &suit) override;
+        void setSuit(const std::string &suit) override;
 
         [[nodiscard]] int getRank() const override;
 

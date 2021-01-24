@@ -6,35 +6,13 @@
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
 
+#include "Mockups/FakePlayer.h"
+
 #include "PokerX/engine/GameVariables.h"
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/PlayerManager.h"
 
 using namespace pokerx;
-
-/**
- *  We create a simple fake Player
- *
- */
-class FakePlayer : public Player {
-public:
-    using Player::Player;
-
-    ~FakePlayer() override = default;
-
-    /**
-     * Our Fake player is a call station.
-     */
-    Action selectAction(pokerx::StateMachine *engine) override {
-        return CALL;
-    }
-
-    float raise() override {
-        return 0;
-    }
-
-
-};
 
 
 class GameVariableObserverTests : public ::testing::Test {

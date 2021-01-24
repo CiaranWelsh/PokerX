@@ -8,38 +8,13 @@
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/Action.h"
 #include "Mockups/MockGameVariables.h"
+#include "Mockups/MockPot.h"
+#include "Mockups/FakePlayer.h"
 
 
 using namespace pokerx;
 
-class FakePlayer : public Player {
-public:
-    using Player::Player;
-
-    ~FakePlayer() override = default;
-
-    /**
-     * Our Fake player is a call station.
-     */
-    pokerx::Action selectAction(pokerx::StateMachine *engine) override {
-        return CALL;
-    }
-
-    /**
-     * FakePlayer's raising strategy is to double the call amount
-     * But it'll never be used
-     */
-    float raise() override {
-        float amount = 2 * getGameVariables()->getAmountToCall();
-        stack_ -= amount;
-        return amount;
-    }
-
-    friend std::ostream& operator<<(std::ostream& os, const FakePlayer& player);
-
-};
-
-std::ostream &operator<<(ostream &os, const FakePlayer& player) {
+std::ostream &operator<<(std::ostream &os, const FakePlayer& player) {
     return player.print(os);
 }
 
@@ -47,6 +22,8 @@ std::ostream &operator<<(ostream &os, const FakePlayer& player) {
 class PlayerTests : public ::testing::Test {
 public:
     MockGameVariables gameVariables;
+
+    MockPot pot;
 
     ~PlayerTests() override = default;
 
@@ -86,11 +63,11 @@ TEST_F(PlayerTests, TestCheckPlayersStackUnchanged) {
 
 
 TEST_F(PlayerTests, TestCallReducesPlayerStack) {
+    EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
+    EXPECT_CALL(gameVariables, getPot).Times(1).WillRepeatedly(ReturnRef(pot));
     FakePlayer player("p1", 100);
     player.watch(&gameVariables);
-    EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
-    float amount = player.call();
-    ASSERT_EQ(amount, 10.0);
+    player.call();
     ASSERT_EQ(player.getStack(), 90.0);
 }
 
@@ -100,12 +77,12 @@ TEST_F(PlayerTests, TestRaiseWhenAmountIsGreaterThanCallAmount) {
 
     // set amount to call to 10
     EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
+    EXPECT_CALL(gameVariables, getPot).Times(1).WillRepeatedly(ReturnRef(pot));
 
     // player raises to 20
-    float amount = player.raise();
+    player.raise();
 
     // This particular players raising strategy is to double the call amount (see definition)
-    ASSERT_EQ(amount, 20.0);
     ASSERT_EQ(player.getStack(), 80.0);
 }
 

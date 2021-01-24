@@ -13,7 +13,7 @@ namespace pokerx {
         contents_.push_back(player);
     }
 
-    void PlayerManager::updateObservers(IGameVariables &source, const string &data_field) {
+    void PlayerManager::updateObservers(IGameVariables &source, const std::string &data_field) {
         for (const auto &player: contents_) {
             player->update(source, data_field);
         }

@@ -1,6 +1,3 @@
-enable_testing()
-
-include(GoogleTest)
 add_subdirectory(googletest)
 
 add_subdirectory(Mockups)
@@ -19,7 +16,9 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
         target_link_libraries(${BINARY} PRIVATE PokerX)
     endif ()
 
-    gtest_add_tests(TARGET ${BINARY})
+    message(STATUS "BINARY ${BINARY}")
+
+    gtest_discover_tests(${BINARY})
 
     target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}")
 
@@ -50,6 +49,7 @@ add_test_executable(StateTests ON OFF TestExecutables
         AbstractStateMachineTests/LightHigh.cpp
         )
 
+gtest_discover_tests(StateTests)
 
 # An integration style test on StateMachine and States. We create
 # a StateMachine simulation of a light switching states from Off to
@@ -69,7 +69,7 @@ add_test_executable(StateMachineAbstractionTests ON OFF TestExecutables
         )
 
 # GameVariable Unit tests
-add_test_executable(GameVariableTests ON OFF TestExecutables
+add_test_executable(GameVariableTests ON ON TestExecutables
         GameVariableTests.cpp
         "${POKERX_INCLUDE_DIR}/PokerX/engine/GameVariables.h"
         "${POKERX_SOURCE_DIR}/engine/GameVariables.cpp"
@@ -153,14 +153,6 @@ target_link_libraries(AConsoleGame PRIVATE PokerX)
 add_test_executable(ContainerTests.cpp              ON ON TestExecutables ContainerTests.cpp)
 
 
-#add_test_executable(PokerTests ON  ON TestExecutables PokerTests.cpp)
-#add_test_executable(StateTests ON  ON TestExecutables IStateTests.cpp)
-#add_test_executable(EngineTests ON ON  TestExecutables EngineTests.cpp)
-#add_test_executable(PotTests ON ON TestExecutables PotTests.cpp)
-#add_test_executable(CallStationTests ON ON TestExecutables CallStationTests.cpp)
-#
-#add_executable(x EngineTests.cpp)
-
-
-#
-#add_test_executable(HandTests ON TestExecutables HandTests.cpp)
+install(
+        TARGETS ${TestExecutables}
+)

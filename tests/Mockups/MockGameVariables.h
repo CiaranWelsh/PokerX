@@ -17,11 +17,7 @@ public:
 
     ~MockGameVariables() override = default;
 
-    MOCK_METHOD(Pot, getPot, (), (const))
-
-    Pot &
-
-    ;
+    MOCK_METHOD(Pot &, getPot, (), ());
 
     MOCK_METHOD(float, getAmountToCall, (), (const));
 
@@ -44,6 +40,22 @@ public:
     MOCK_METHOD(float, getBigBlind, (), (const));
 
     MOCK_METHOD(void, setBigBlind, (float), ());
+
+    MOCK_METHOD(Deck &, getDeck, (), ());
+
+    MOCK_METHOD(void, setDeck, (const Deck &), ());
+
+    MOCK_METHOD(const std::unique_ptr<CardCollection> &, getCommunityCards, (), (const));
+
+    MOCK_METHOD(void, setCommunityCards, (std::unique_ptr<CardCollection>), ());
+
+    MOCK_METHOD(unsigned int, getN, (), (const));
+
+    MOCK_METHOD(void, setN, (unsigned int), ());
+
+    MOCK_METHOD(unsigned int, getGamesPlayed, (), (const));
+
+    MOCK_METHOD(void, setGamesPlayed, (unsigned int), ());
 
 };
 

@@ -49,9 +49,9 @@ namespace pokerx {
 
         void setDeck(const Deck &deck) override;
 
-        [[nodiscard]] const unique_ptr <CardCollection> &getCommunityCards() const override;
+        [[nodiscard]] const std::unique_ptr <CardCollection> &getCommunityCards() const override;
 
-        void setCommunityCards(unique_ptr <CardCollection> communityCards) override;
+        void setCommunityCards(std::unique_ptr <CardCollection> communityCards) override;
 
         [[nodiscard]] unsigned int getN() const override;
 

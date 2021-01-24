@@ -18,7 +18,7 @@ public:
 
     GameVariables gameVariables;
 
-    unique_ptr<PokerEngine> engine = nullptr;
+    std::unique_ptr<PokerEngine> engine = nullptr;
 
     RaiserPlayer raiser;
 

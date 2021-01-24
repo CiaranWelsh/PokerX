@@ -135,8 +135,12 @@ generate_export_header(PokerX)
 #########################################################
 #   Build tests
 #
+include(GoogleTest)
+include(CTest)
+enable_testing()
 
 add_subdirectory(tests)
 
 install(TARGETS PokerX)
 
+install(DIRECTORY include DESTINATION .)

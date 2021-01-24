@@ -31,7 +31,7 @@ namespace pokerx {
          * superclass
          * @details pass IGameVariables by reference
          */
-        void update(IGameVariables &source, const string &data_field) override {
+        void update(IGameVariables &source, const std::string &data_field) override {
             // store the reference
             gameVariables_ = &source;
         }
@@ -41,7 +41,7 @@ namespace pokerx {
          * superclass
          * @details pass IGameVariables by pointer
          */
-        void update(IGameVariables *source, const string &data_field) override {
+        void update(IGameVariables *source, const std::string &data_field) override {
             // store the reference
             gameVariables_ = source;
         }

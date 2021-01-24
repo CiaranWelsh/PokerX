@@ -35,7 +35,7 @@ TEST_F(CardTests, AssignmentOperator) {
 
 TEST_F(CardTests, PutToOperator) {
     Card fourOfHearts = Card(4, "H");
-    cout << "\n" << fourOfHearts << endl;
+    std::cout << "\n" << fourOfHearts << std::endl;
 }
 
 TEST_F(CardTests, EqualsOperator) {

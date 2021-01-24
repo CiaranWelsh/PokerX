@@ -88,7 +88,7 @@ namespace pokerx {
 
     CardCollection &CardCollection::operator=(const CardCollection &c) = default;
 
-    CardCollection &CardCollection::operator=(const vector<ICard *> &c) {
+    CardCollection &CardCollection::operator=(const std::vector<ICard *> &c) {
         cards_ = c;
         return *this;
     }
@@ -159,8 +159,8 @@ namespace pokerx {
         return *this;
     }
 
-    vector<int> CardCollection::getRanks() {
-        vector<int> ranks;
+    std::vector<int> CardCollection::getRanks() {
+        std::vector<int> ranks;
         for (const ICard *card: cards_) {
             int r = card->getRank();
             ranks.push_back(r);
@@ -168,25 +168,25 @@ namespace pokerx {
         return ranks;
     }
 
-    vector<std::string> CardCollection::getSuits() {
-        vector<std::string> suits;
+    std::vector<std::string> CardCollection::getSuits() {
+        std::vector<std::string> suits;
         for (const ICard *card: cards_) {
             suits.push_back(card->getSuit());
         }
         return suits;
     }
 
-    vector<int> CardCollection::getUniqueRanks() {
-        vector<int> ranks = this->getRanks();
-        vector<int>::iterator ip;
+    std::vector<int> CardCollection::getUniqueRanks() {
+        std::vector<int> ranks = this->getRanks();
+        std::vector<int>::iterator ip;
         ip = std::unique(ranks.begin(), ranks.begin() + ranks.size());
         ranks.resize(std::distance(ranks.begin(), ip));
         return ranks;
     }
 
-    vector<std::string> CardCollection::getUniqueSuits() {
-        vector<std::string> suits = this->getSuits();
-        vector<std::string>::iterator ip;
+    std::vector<std::string> CardCollection::getUniqueSuits() {
+        std::vector<std::string> suits = this->getSuits();
+        std::vector<std::string>::iterator ip;
         ip = std::unique(suits.begin(), suits.begin() + suits.size());
         suits.resize(std::distance(suits.begin(), ip));
         return suits;
@@ -196,11 +196,11 @@ namespace pokerx {
         cards_.erase(cards_.begin() + index);
     }
 
-    reverse_iterator<vector<ICard *>::iterator> CardCollection::rend() {
+    std::reverse_iterator<std::vector<ICard *>::iterator> CardCollection::rend() {
         return cards_.rend();
     }
 
-    reverse_iterator<vector<ICard *>::iterator> CardCollection::rbegin() {
+    std::reverse_iterator<std::vector<ICard *>::iterator> CardCollection::rbegin() {
         return cards_.rbegin();
     }
 

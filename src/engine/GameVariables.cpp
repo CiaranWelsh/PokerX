@@ -67,11 +67,11 @@ namespace pokerx {
         deck_ = deck;
     }
 
-    const unique_ptr<CardCollection> &GameVariables::getCommunityCards() const {
+    const std::unique_ptr<CardCollection> &GameVariables::getCommunityCards() const {
         return communityCards_;
     }
 
-    void GameVariables::setCommunityCards(unique_ptr<CardCollection> communityCards) {
+    void GameVariables::setCommunityCards(std::unique_ptr<CardCollection> communityCards) {
         communityCards_ = std::move(communityCards);
     }
 
