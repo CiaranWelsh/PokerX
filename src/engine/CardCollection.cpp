@@ -97,8 +97,15 @@ namespace pokerx {
         return !(*this == other);
     }
 
+    /**
+     * Private, hidden, used for sorting function
+     */
+    bool compareCardPtrs(ICard *a, ICard *b) {
+        return (*a < *b);
+    }
+
     void CardCollection::sort() {
-        std::sort(cards_.begin(), cards_.end());
+        std::sort(cards_.begin(), cards_.end(), compareCardPtrs);
     }
 
 /*
@@ -221,7 +228,7 @@ namespace pokerx {
         return false;
     }
 
-    bool CardCollection::containsSuit(const std::string& suit) {
+    bool CardCollection::containsSuit(const std::string &suit) {
         for (const auto &i : getSuits()) {
             if (i == suit)
                 return true;
@@ -248,7 +255,7 @@ namespace pokerx {
         other.sort();
         std::vector<ICard *> diff;
         std::set_difference(cards_.begin(), cards_.end(), other.begin(), other.end(),
-                            std::inserter(diff, diff.begin()));
+                            std::inserter(diff, diff.begin()), compareCardPtrs);
 
         return CardCollection(diff);
     }
@@ -257,7 +264,7 @@ namespace pokerx {
         other.sort();
         std::vector<ICard *> intersect;
         std::set_intersection(begin(), end(), other.begin(), other.end(),
-                              std::inserter(intersect, intersect.begin()));
+                              std::inserter(intersect, intersect.begin()), compareCardPtrs);
         return CardCollection(intersect);
     }
 
@@ -272,6 +279,7 @@ namespace pokerx {
          * not the values being pointed to. Instead, we extract the values
          * into a vector of tuples for checking.
          */
+        sort();
         using Tuple = std::tuple<int, std::string>;
         using VectorOfTuples = std::vector<Tuple>;
         VectorOfTuples vectorOfTuples;

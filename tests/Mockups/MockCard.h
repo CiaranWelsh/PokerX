@@ -23,6 +23,14 @@ public:
     MOCK_METHOD(std::string, getSuit, (), (const, override));
     MOCK_METHOD(void, setRank, (int), (override));
     MOCK_METHOD(void, setSuit, (const std::string&), (override));
+
+    using ICard::operator==;
+    using ICard::operator!=;
+    using ICard::operator>;
+    using ICard::operator>=;
+    using ICard::operator<;
+    using ICard::operator<=;
+
 };
 
 class MockCards {

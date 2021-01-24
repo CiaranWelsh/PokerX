@@ -131,6 +131,7 @@ TEST_F(CardCollectionTests, TestSortCorrectlyOrdersCards) {
     EXPECT_CALL(card5, getSuit()).Times(1).WillRepeatedly(Return("S"));
 
     std::vector<ICard *> cards2({&card5, &card4, &card3, &card2, &card1});
+
     CardCollection cc(cards2);
     cc.sort();
     std::vector<int> ranks = {6, 7, 8, 9, 10};

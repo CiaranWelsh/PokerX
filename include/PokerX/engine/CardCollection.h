@@ -12,8 +12,6 @@ namespace pokerx {
 
     class CardCollection {
 
-    protected:
-        std::vector<ICard *> cards_;
     public:
 
         CardCollection() = default;
@@ -100,6 +98,8 @@ namespace pokerx {
 
         bool isUniqueSet();
 
+    protected:
+        std::vector<ICard *> cards_;
     };
 }
 
