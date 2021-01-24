@@ -197,7 +197,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndPotIsCorrect) {
 
     engine->action();
 
-    ASSERT_EQ(20, engine->getGameVariables()->getPot());
+    ASSERT_EQ(20, engine->getGameVariables()->getPot().getValue());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndCheckOptionIsRemoved) {
@@ -268,7 +268,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPotIsStill0) {
 
     engine->action();
 
-    ASSERT_EQ(0, engine->getGameVariables()->getPot());
+    ASSERT_EQ(0, engine->getGameVariables()->getPot().getValue());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerHasFolded) {
@@ -311,7 +311,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaisePotAmountIsRight) {
 
     engine->action();
 
-    ASSERT_EQ(60, engine->getGameVariables()->getPot());
+    ASSERT_EQ(60, engine->getGameVariables()->getPot().getValue());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerRaiseStackAmountIsRight) {
@@ -366,7 +366,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInPotAmount) {
 
     engine->action();
 
-    ASSERT_EQ(1020, engine->getGameVariables()->getPot());
+    ASSERT_EQ(1020, engine->getGameVariables()->getPot().getValue());
 
 }
 
@@ -405,7 +405,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerToActAllInPotAmountIsCorrect) {
 
     engine->action();
 
-    ASSERT_EQ(1020, engine->getGameVariables()->getPot());
+    ASSERT_EQ(1020, engine->getGameVariables()->getPot().getValue());
 
 }
 
