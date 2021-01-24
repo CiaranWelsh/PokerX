@@ -3,11 +3,7 @@
 #include "PokerX/engine/PlayerToAct.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
-#include "PokerX/engine/Check.h"
-#include "PokerX/engine/Fold.h"
-#include "PokerX/engine/Raise.h"
-#include "PokerX/engine/Call.h"
-#include "PokerX/engine/AllIn.h"
+#include "PokerX/engine/AllPlayersEqual.h"
 #include "PokerX/Error.h"
 
 namespace pokerx {
@@ -28,38 +24,49 @@ namespace pokerx {
         // select action using whatever strategy Player types define
         Action action = player->selectAction(machine);
 
+        /**
+         * We could remove several of the states by implement the
+         * logic of actions here, instead of their own state. Try that
+         */
         switch (action) {
             case CHECK : {
-                engine->setState(Check::getInstance());
+                player->check();
                 break;
             }
             
             case FOLD : {
-                engine->setState(Fold::getInstance());
+                player->fold();
                 break;
             }
 
             case CALL : {
-                engine->setState(Call::getInstance());
+                player->call();
+                engine->getGameVariables()->setCheckAvailable(false);
                 break;
             }
 
             case RAISE : {
-                engine->setState(Raise::getInstance());
+                player->raise();
+                engine->getGameVariables()->setCheckAvailable(false);
                 break;
             }
 
             case ALL_IN : {
-                engine->setState(AllIn::getInstance());
+                player->allIn();
+                engine->getGameVariables()->setCheckAvailable(false);
                 break;
             }
             default:
                 LOGIC_ERROR << "Shouldn't ever get here" << std::endl;
-
         }
+
+        engine->setState(AllPlayersEqual::getInstance());
+
     }
 
-    void PlayerToAct::exit(StateMachine *machine) {}
+    void PlayerToAct::exit(StateMachine *machine) {
+        PokerEngine::nextPlayer(machine);
+    }
 
     PlayerToAct &PlayerToAct::getInstance() {
         static PlayerToAct singleton;

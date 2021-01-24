@@ -28,6 +28,11 @@ namespace pokerx {
         END_STREET_STATE = 17,
         PLAYER_TO_ACT_STATE = 18,
         NEXT_STREET_STATE = 19,
+
+        DEAL_HOLE_CARDS_STATE = 20,
+        DEAL_FLOP_STATE = 21,
+        DEAL_TURN_STATE = 22,
+        DEAL_RIVER_STATE = 23
     };
 
 }

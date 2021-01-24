@@ -41,7 +41,7 @@ namespace pokerx {
     }
 
     void ButtonMoves::exit(StateMachine *machine) {
-
+        PokerEngine::nextPlayer(machine);
     }
 
     unsigned int ButtonMoves::getType() const {

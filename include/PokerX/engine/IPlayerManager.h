@@ -21,6 +21,8 @@ namespace pokerx {
 
         virtual void nextPlayer() = 0;
 
+        virtual SharedIPlayerPtr getPlayer(unsigned int n) = 0;
+
         [[nodiscard]] virtual int getCurrentPlayerIdx() const = 0;
 
         virtual void setCurrentPlayerIdx(int currentPlayerIdx) = 0;

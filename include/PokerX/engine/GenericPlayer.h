@@ -2,18 +2,18 @@
 // Created by Ciaran on 10/01/2021.
 //
 
-#ifndef POKERSIMULATIONSINCPP_RAISERPLAYER_H
-#define POKERSIMULATIONSINCPP_RAISERPLAYER_H
+#ifndef POKERSIMULATIONSINCPP_GenericPlayer_H
+#define POKERSIMULATIONSINCPP_GenericPlayer_H
 
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/Action.h"
 
 namespace pokerx {
-    class RaiserPlayer : public Player {
+    class GenericPlayer : public Player {
     public:
         using Player::Player;
 
-        ~RaiserPlayer() override = default;
+        ~GenericPlayer() override = default;
 
         Action selectAction(StateMachine *engine) override;
 
@@ -23,4 +23,4 @@ namespace pokerx {
     };
 }
 
-#endif //POKERSIMULATIONSINCPP_CALLSTATIONPLAYER_H
+#endif //POKERSIMULATIONSINCPP_GenericPlayer_H

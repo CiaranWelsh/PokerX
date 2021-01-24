@@ -2,17 +2,20 @@
 // Created by Ciaran on 18/01/2021.
 //
 
-#ifndef POKERX_ALLIN_H
-#define POKERX_ALLIN_H
+#ifndef POKERX_ENTERSTREET_H
+#define POKERX_ENTERSTREET_H
 
-#include "PokerX/engine/StateMachine.h"
+
+
+#include "PokerX/engine/State.h"
+#include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
-    class AllIn : public State {
+    class EnterStreet : public State {
     public:
 
-        ~AllIn() override = default;
+        ~EnterStreet() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -22,10 +25,10 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static AllIn& getInstance();
+        static EnterStreet& getInstance();
 
     private:
-        AllIn() = default;
+        EnterStreet() = default;
 
     };
 
@@ -33,4 +36,4 @@ namespace pokerx {
 
 
 
-#endif //POKERX_ALLIN_H
+#endif //POKERX_ENTERSTREET_H

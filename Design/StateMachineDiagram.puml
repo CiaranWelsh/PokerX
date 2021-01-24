@@ -1,24 +1,122 @@
 @startuml
 'https://plantuml.com/state-diagram
 
-scale 350 width
-[*] --> NotShooting
 
-state NotShooting {
-  [*] --> Idle
-  Idle --> Configuring : EvConfig
-  Configuring --> Idle : EvConfig
+'scale 500 width
+'left to right direction
+
+
+state BigBlind {
+
 }
 
-state Configuring {
-  [*] --> NewValueSelection
-  NewValueSelection --> NewValuePreview : EvNewValue
-  NewValuePreview --> NewValueSelection : EvNewValueRejected
-  NewValuePreview --> NewValueSelection : EvNewValueSaved
+state Betting {
+    [*] --> EnterStreet
+    EnterStreet --> PlayerToAct
+    PlayerToAct --> Check
+    PlayerToAct --> Fold
+    PlayerToAct --> Call
+    PlayerToAct --> Raise
+    Check --> AllPlayersEqual
+    Fold --> AllPlayersEqual
+    Call --> AllPlayersEqual : remove\ncheck
+    Raise --> AllPlayersEqual : remove\ncheck
+    AllIn --> AllPlayersEqual : remove\ncheck
+    AllPlayersEqual --> EndStreet : Yes
+    AllPlayersEqual --> NextPlayer : No
+    EndStreet --> [*]
+    NextPlayer --> PlayerToAct
+}
 
-  state NewValuePreview {
-     State1 -> State2
-  }
+state ButtonMoves {
+
+}
+
+
+
+state NextStreet {
+
+}
+
+
+state Reset {
+
+}
+
+
+state Showdown {
+
+}
+
+state SmallBlind {
+
+}
+
+
+
+state DealHoleCards{
+
+}
+
+state DealFlop{
+
+}
+
+state DealTurn{
+
+}
+
+state DealRiver{
+
+}
+
+
+
+' interactions between states
+[*] --> Reset
+Reset --> ButtonMoves
+ButtonMoves --> SmallBlind
+SmallBlind --> BigBlind
+BigBlind --> DealHoleCards
+Betting --> NextStreet
+NextStreet --> DealFlop : Flop
+NextStreet --> DealTurn : Turn
+NextStreet --> DealRiver : River
+NextStreet --> Showdown : Showdown
+Showdown --> Reset
+DealHoleCards   --> Betting
+DealFlop        --> Betting
+DealTurn        --> Betting
+DealRiver       -->  Betting
+
+Showdown --> [*]
+
+
+
+
+
+
+
+
+
+'scale 350 width
+'[*] --> NotShooting
+'
+'state NotShooting {
+'  [*] --> Idle
+'  Idle --> Configuring : EvConfig
+'  Configuring --> Idle : EvConfig
+'}
+'
+'state Configuring {
+'  [*] --> NewValueSelection
+'  NewValueSelection --> NewValuePreview : EvNewValue
+'  NewValuePreview --> NewValueSelection : EvNewValueRejected
+'  NewValuePreview --> NewValueSelection : EvNewValueSaved
+'
+'  state NewValuePreview {
+'     State1 -> State2
+'  }
 
 }
 @enduml

@@ -12,9 +12,25 @@ namespace pokerx {
         return CALL;
     }
 
-    float pokerx::CallStationPlayer::raise() {
+    void pokerx::CallStationPlayer::raise() {
         // call station never raises.
-        // violates interface segregation rule
-        return 0;
+        // raise anyway for testing
+        float amount = gameVariables_->getAmountToCall()*2;
+        std::cout << amount << std::endl;
+        gameVariables_->getPot() += amount;
+        stack_ -= amount;
     }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+

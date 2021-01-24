@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "PokerX/engine/BigBlind.h"
-#include "PokerX/engine/PreflopBetting.h"
+#include "PokerX/engine/DealHoleCards.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -19,10 +19,12 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
         IPlayerManager *manager = engine->getPlayers();
         manager->getCurrentPlayer()->postBigBlind();
-        machine->setState(PreflopBetting::getInstance());
+        machine->setState(DealHoleCards::getInstance());
     }
 
-    void BigBlind::exit(StateMachine *machine) {}
+    void BigBlind::exit(StateMachine *machine) {
+        PokerEngine::nextPlayer(machine);
+    }
 
     BigBlind &BigBlind::getInstance() {
         static BigBlind singleton;

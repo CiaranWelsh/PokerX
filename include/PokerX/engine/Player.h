@@ -37,11 +37,11 @@ namespace pokerx {
 
         void setIsAllIn(bool isAllIn) override;
 
-        [[nodiscard]] bool isInPlay() const override;
+        [[nodiscard]] bool hasFolded() const override;
 
-        void setIsInPlay(bool isInPlay) override;
+        void setHasFolded(bool isInPlay) override;
 
-        [[nodiscard]] const HoleCards &getHoleCards() const override;
+        [[nodiscard]] HoleCards &getHoleCards() override;
 
         void watch(IGameVariables *variables) override;
 
@@ -49,9 +49,9 @@ namespace pokerx {
 
         void check() override;
 
-        float call() override;
+        void call() override;
 
-        float allIn() override;
+        void allIn() override;
 
         [[nodiscard]] IGameVariables *getGameVariables() const override;
 

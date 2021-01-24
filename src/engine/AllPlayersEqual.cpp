@@ -30,7 +30,9 @@ namespace pokerx {
 
     }
 
-    void AllPlayersEqual::exit(StateMachine *machine) {}
+    void AllPlayersEqual::exit(StateMachine *machine) {
+        PokerEngine::nextPlayer(machine);
+    }
 
     AllPlayersEqual &AllPlayersEqual::getInstance() {
         static AllPlayersEqual singleton;

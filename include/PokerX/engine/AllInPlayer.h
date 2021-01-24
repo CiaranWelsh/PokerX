@@ -2,18 +2,18 @@
 // Created by Ciaran on 10/01/2021.
 //
 
-#ifndef POKERSIMULATIONSINCPP_CALLSTATIONPLAYER_H
-#define POKERSIMULATIONSINCPP_CALLSTATIONPLAYER_H
+#ifndef POKERSIMULATIONSINCPP_AllInPlayer_H
+#define POKERSIMULATIONSINCPP_AllInPlayer_H
 
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/Action.h"
 
 namespace pokerx {
-    class CallStationPlayer : public Player {
+    class AllInPlayer : public Player {
     public:
         using Player::Player;
 
-        ~CallStationPlayer() override = default;
+        ~AllInPlayer() override = default;
 
         Action selectAction(StateMachine *engine) override;
 
@@ -23,4 +23,4 @@ namespace pokerx {
     };
 }
 
-#endif //POKERSIMULATIONSINCPP_CALLSTATIONPLAYER_H
+#endif //POKERSIMULATIONSINCPP_AllInPlayer_H

@@ -22,7 +22,7 @@ namespace pokerx {
     bool PlayerManager::checkAllPlayersEqual() const {
         std::vector<float> amounts;
         for (const auto & player : contents_) {
-            if (player->isInPlay())
+            if (player->hasFolded())
                 amounts.push_back(player->getStack());
         }
 
@@ -70,7 +70,16 @@ namespace pokerx {
         return current_player_idx;
     }
 
+    SharedIPlayerPtr PlayerManager::getPlayer(unsigned int n){
+        return contents_[n];
+    }
+
     void PlayerManager::setCurrentPlayerIdx(int currentPlayerIdx) {
+        if (currentPlayerIdx < 0){
+            LOGIC_ERROR << "Can't have a negative index player" << std::endl;
+        } else if (currentPlayerIdx > size() - 1) {
+            LOGIC_ERROR << "Can't set player index greater than number of players" << std::endl;
+        }
         current_player_idx = currentPlayerIdx;
     }
 

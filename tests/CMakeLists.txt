@@ -133,7 +133,7 @@ add_test_executable(ObserverPatternTests ON ON TestExecutables
 
 # integration tests for PokerEngine
 add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
-        PokerEngineIntegrationTests.cpp
+        PokerEngineStatesTest.cpp
         Mockups/MockPlayer.h
         Mockups/MockPlayerManager.h
         )

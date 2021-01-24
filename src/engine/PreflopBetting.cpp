@@ -5,13 +5,14 @@
 #include <iostream>
 #include "PokerX/engine/PreflopBetting.h"
 #include "PokerX/engine/Flop.h"
+#include "PokerX/engine/PlayerToAct.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
     void PreflopBetting::enter(StateMachine *machine) {
-        std::cout << "Entering PreflopBetting" << std::endl;
+        std::cout << "Entering Preflop Betting" << std::endl;
 
     }
 
@@ -19,9 +20,7 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        // inner state machine for round of betting.
-
-        engine->setState(Flop::getInstance());
+        engine->setState(PlayerToAct::getInstance());
     }
 
     void PreflopBetting::exit(StateMachine *machine) {}

@@ -35,9 +35,9 @@ public:
 
     MOCK_METHOD(void, setIsAllIn, (bool), ());
 
-    MOCK_METHOD(bool, isInPlay, (), (const));
+    MOCK_METHOD(bool, hasFolded, (), (const));
 
-    MOCK_METHOD(void, setIsInPlay, (bool isInPlay), ());
+    MOCK_METHOD(void, setHasFolded, (bool hasFolded), ());
 
     MOCK_METHOD(HoleCards &, getHoleCards, (), (const));
 

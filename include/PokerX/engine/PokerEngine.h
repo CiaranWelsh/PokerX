@@ -59,6 +59,20 @@ namespace pokerx {
          */
         static void nextPlayer(StateMachine *machine);
 
+        void dealHoleCards() const;
+
+        void dealFlop();
+
+        void dealTurn();
+
+        void dealRiver();
+
+        /**
+         * @brief evaluate all hands of players in the game
+         * and determine who has won. The winning players stack
+         * is increased by the pot amount.
+         */
+        void determineWinner();
 
     private:
         /**

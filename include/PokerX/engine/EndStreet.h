@@ -5,6 +5,8 @@
 #ifndef POKERX_ENDSTREET_H
 #define POKERX_ENDSTREET_H
 
+#include "PokerX/engine/State.h"
+#include "PokerX/engine/StateMachine.h"
 
 namespace pokerx {
 

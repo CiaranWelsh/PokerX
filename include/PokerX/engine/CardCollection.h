@@ -71,7 +71,7 @@ namespace pokerx {
 
         ICard* pop();
 
-        bool empty() const;
+        [[nodiscard]] bool empty() const;
 
         CardCollection *shuffle();
 

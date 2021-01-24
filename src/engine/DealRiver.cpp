@@ -1,27 +1,34 @@
 
 #include <iostream>
-#include "PokerX/engine/DealFlop.h"
-#include "PokerX/engine/StartStreet.h"
+#include "PokerX/engine/DealRiver.h"
+#include "PokerX/engine/EnterStreet.h"
 #include "PokerX/engine/PokerEngine.h"
+#include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
-    void DealFlop::enter(StateMachine *machine) {
+    void DealRiver::enter(StateMachine *machine) {
         std::cout << "Entering StreetEnd" << std::endl;
     }
 
-    void DealFlop::action(StateMachine *machine) {
-        
+    void DealRiver::action(StateMachine *machine) {
+        auto *engine = dynamic_cast<PokerEngine *>(machine);
+
+        // liskov wouldn't be happy with this
+        engine->dealRiver();
+        machine->setState(EnterStreet::getInstance());
     }
 
-    void DealFlop::exit(StateMachine *machine) {}
+    void DealRiver::exit(StateMachine *machine) {
+        PokerEngine::nextPlayer(machine);
+    }
 
-    DealFlop &DealFlop::getInstance() {
-        static DealFlop singleton;
+    DealRiver &DealRiver::getInstance() {
+        static DealRiver singleton;
         return singleton;
     }
 
-    unsigned int DealFlop::getType() const {
-        return DEAL_FLOP_STATE;
+    unsigned int DealRiver::getType() const {
+        return DEAL_RIVER_STATE;
     }
 }

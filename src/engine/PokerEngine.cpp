@@ -5,6 +5,7 @@
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/Reset.h"
 #include "PokerX/Error.h"
+#include "PokerX/Error.h"
 
 namespace pokerx {
 
@@ -36,6 +37,9 @@ namespace pokerx {
     }
 
     void PokerEngine::action(Action action) {
+        if (getState()->getType() == PLAYER_TO_ACT_STATE && action == NONE) {
+            LOGIC_ERROR << "Cannot chooses NONE action when its a players turn to act" << std::endl;
+        }
         state_->action(this);
     }
 
@@ -67,11 +71,63 @@ namespace pokerx {
         gameVariables_ = gameVariables;
     }
 
-    void PokerEngine::nextPlayer(StateMachine* machine){
+    void PokerEngine::nextPlayer(StateMachine *machine) {
         CHECK_NULLPTR(machine, "StateMachine");
-        auto* engine = dynamic_cast<PokerEngine*>(machine);
+        auto *engine = dynamic_cast<PokerEngine *>(machine);
         engine->getPlayers()->nextPlayer();
     }
 
+    void PokerEngine::dealHoleCards() const {
+        // get a reference to the deck
+        Deck& deck = getGameVariables()->getDeck();
+
+        // We shuffle the deck. This is the only time we do so
+        deck.shuffle();
+
+        // Start left of dealer i.e. the button
+        int current_player = 1; // Start left of dealer (btn)
+        int number_of_players = getPlayers()->size();
+
+        for (int i = 0; i < number_of_players * 2; i++) {
+            // todo implement logic for a player to be sitting out here
+            getPlayers()->getCurrentPlayer()->getHoleCards().add(deck.pop());
+        }
+    }
+
+    void PokerEngine::dealFlop() {
+        // get a reference to the deck
+        Deck& deck = getGameVariables()->getDeck();
+
+        // discard top card
+        deck.pop();
+
+        gameVariables_->getCommunityCards()->add(deck.pop());
+        gameVariables_->getCommunityCards()->add(deck.pop());
+        gameVariables_->getCommunityCards()->add(deck.pop());
+
+    }
+
+    void PokerEngine::dealTurn() {
+        Deck& deck = getGameVariables()->getDeck();
+
+        // discard top card
+        deck.pop();
+
+        gameVariables_->getCommunityCards()->add(deck.pop());
+
+    }
+
+    void PokerEngine::dealRiver() {
+        Deck& deck = getGameVariables()->getDeck();
+
+        // discard top card
+        deck.pop();
+
+        gameVariables_->getCommunityCards()->add(deck.pop());
+    }
+
+    void PokerEngine::determineWinner() {
+        std::cout << "Determine the winner code here" << std::endl;
+    }
 
 }

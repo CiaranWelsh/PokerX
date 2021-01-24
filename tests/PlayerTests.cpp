@@ -63,7 +63,7 @@ TEST_F(PlayerTests, TestPlayerStartingStack) {
 TEST_F(PlayerTests, CheckPlayersIsInPlayFlagTurnedOffWhenFold) {
     FakePlayer player;
     player.fold();
-    ASSERT_FALSE(player.isInPlay());
+    ASSERT_FALSE(player.hasFolded());
 }
 
 

@@ -2,6 +2,7 @@
 // Created by Ciaran on 16/01/2021.
 //
 
+#include <PokerX/engine/Deck.h>
 #include "PokerX/engine/GameVariables.h"
 
 
@@ -56,5 +57,37 @@ namespace pokerx {
 
     void GameVariables::setBigBlind(float bigBlind) {
         bigBlind_ = bigBlind;
+    }
+
+    pokerx::Deck &GameVariables::getDeck() {
+        return deck_;
+    }
+
+    void GameVariables::setDeck(const pokerx::Deck &deck) {
+        deck_ = deck;
+    }
+
+    const unique_ptr<CardCollection> &GameVariables::getCommunityCards() const {
+        return communityCards_;
+    }
+
+    void GameVariables::setCommunityCards(unique_ptr<CardCollection> communityCards) {
+        communityCards_ = std::move(communityCards);
+    }
+
+    unsigned int GameVariables::getN() const {
+        return n_;
+    }
+
+    void GameVariables::setN(unsigned int n) {
+        n_ = n;
+    }
+
+    unsigned int GameVariables::getGamesPlayed() const {
+        return gamesPlayed_;
+    }
+
+    void GameVariables::setGamesPlayed(unsigned int gamesPlayed) {
+        gamesPlayed_ = gamesPlayed;
     }
 }

@@ -2,18 +2,18 @@
 // Created by Ciaran on 18/01/2021.
 //
 
-#ifndef POKERX_DealHoleCards_H
-#define POKERX_DealHoleCards_H
+#ifndef POKERX_DealFlop_H
+#define POKERX_DealFlop_H
 
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/StateMachine.h"
 
 namespace pokerx {
 
-    class DealHoleCards : public State {
+    class DealFlop : public State {
     public:
 
-        ~DealHoleCards() override = default;
+        ~DealFlop() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -23,10 +23,10 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static DealHoleCards& getInstance();
+        static DealFlop& getInstance();
 
     private:
-        DealHoleCards() = default;
+        DealFlop() = default;
 
     };
 
@@ -34,4 +34,4 @@ namespace pokerx {
 
 
 
-#endif //POKERX_DealHoleCards_H
+#endif //POKERX_DealFlop_H

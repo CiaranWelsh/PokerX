@@ -74,6 +74,11 @@ namespace pokerx {
          */
         void nextPlayer() override;
 
+        /**
+         * @brief get the player indexed by @param n
+         */
+        SharedIPlayerPtr getPlayer(unsigned int n) override;
+
         [[nodiscard]] int getCurrentPlayerIdx() const override;
 
         void setCurrentPlayerIdx(int currentPlayerIdx) override;

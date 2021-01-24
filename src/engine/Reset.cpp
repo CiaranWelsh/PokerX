@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <PokerX/engine/PokerEngine.h>
 #include "PokerX/engine/Reset.h"
 #include "PokerX/engine/ButtonMoves.h"
 
@@ -22,7 +23,9 @@ namespace pokerx{
         std::cout << "Entering ResetState" << std::endl;
     }
 
-    void Reset::exit(StateMachine *machine) {}
+    void Reset::exit(StateMachine *machine) {
+        PokerEngine::nextPlayer(machine);
+    }
 
     unsigned int Reset::getType() const {
         return RESET_STATE;

@@ -21,7 +21,7 @@ namespace pokerx {
 
         ~GameVariables() override = default;
 
-        [[nodiscard]] Pot & getPot() override;
+        [[nodiscard]] Pot &getPot() override;
 
         [[nodiscard]] float getAmountToCall() const override;
 
@@ -45,11 +45,32 @@ namespace pokerx {
 
         void setBigBlind(float bigBlind) override;
 
+        [[nodiscard]] Deck &getDeck() override;
+
+        void setDeck(const Deck &deck) override;
+
+        [[nodiscard]] const unique_ptr <CardCollection> &getCommunityCards() const override;
+
+        void setCommunityCards(unique_ptr <CardCollection> communityCards) override;
+
+        [[nodiscard]] unsigned int getN() const override;
+
+        void setN(unsigned int n) override;
+
+        [[nodiscard]] unsigned int getGamesPlayed() const override;
+
+        void setGamesPlayed(unsigned int gamesPlayed) override;
+
     private:
+        /**
+         * A deck of cards
+         */
+        Deck deck_;
+
         /**
          * @brief Storage for Commmunity cards.
          */
-        std::unique_ptr<CardCollection> communityCards;
+        std::unique_ptr<CardCollection> communityCards_{};
 
         /**
          * @brief the amount of money in the pot

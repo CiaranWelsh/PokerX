@@ -23,10 +23,22 @@ namespace pokerx {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
+        engine->determineWinner();
+
         engine->setState(Reset::getInstance());
     }
 
-    void Showdown::exit(StateMachine *machine) {}
+    void Showdown::exit(StateMachine *machine) {
+        auto* engine = dynamic_cast<PokerEngine*>(machine);
+        if (engine->getGameVariables()->getGamesPlayed() < engine->getGameVariables()->getN()){
+            // play another game
+            PokerEngine::nextPlayer(machine);
+        } else {
+            // we done
+            // todo print out more interesting information. Logger? Observational data recorder? Stats?
+            std::cout <<"Number of games played: " << engine->getGameVariables()->getN() << std::endl;
+        }
+    }
 
     Showdown &Showdown::getInstance() {
         static Showdown singleton;

@@ -2,18 +2,18 @@
 // Created by Ciaran on 18/01/2021.
 //
 
-#ifndef POKERX_DealRiver_H
-#define POKERX_DealRiver_H
+#ifndef POKERX_DealTurn_H
+#define POKERX_DealTurn_H
 
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/StateMachine.h"
 
 namespace pokerx {
 
-    class DealRiver : public State {
+    class DealTurn : public State {
     public:
 
-        ~DealRiver() override = default;
+        ~DealTurn() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -23,10 +23,10 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static DealRiver& getInstance();
+        static DealTurn& getInstance();
 
     private:
-        DealRiver() = default;
+        DealTurn() = default;
 
     };
 
@@ -34,4 +34,4 @@ namespace pokerx {
 
 
 
-#endif //POKERX_DealRiver_H
+#endif //POKERX_DealTurn_H

@@ -2,18 +2,18 @@
 // Created by Ciaran on 18/01/2021.
 //
 
-#ifndef POKERX_ENDSTREET_H
-#define POKERX_ENDSTREET_H
+#ifndef POKERX_DealHoleCards_H
+#define POKERX_DealHoleCards_H
 
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/StateMachine.h"
 
 namespace pokerx {
 
-    class EndStreet : public State {
+    class DealHoleCards : public State {
     public:
 
-        ~EndStreet() override = default;
+        ~DealHoleCards() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -23,10 +23,10 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static EndStreet& getInstance();
+        static DealHoleCards& getInstance();
 
     private:
-        EndStreet() = default;
+        DealHoleCards() = default;
 
     };
 
@@ -34,4 +34,4 @@ namespace pokerx {
 
 
 
-#endif //POKERX_ENDSTREET_H
+#endif //POKERX_DealHoleCards_H

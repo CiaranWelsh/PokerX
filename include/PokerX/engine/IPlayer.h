@@ -68,11 +68,11 @@ namespace pokerx {
 
         virtual void setIsAllIn(bool isAllIn) = 0;
 
-        [[nodiscard]] virtual bool isInPlay() const = 0;
+        [[nodiscard]] virtual bool hasFolded() const = 0;
 
-        virtual void setIsInPlay(bool isInPlay) = 0;
+        virtual void setHasFolded(bool isInPlay) = 0;
 
-        [[nodiscard]] virtual const HoleCards &getHoleCards() const = 0;
+        [[nodiscard]] virtual HoleCards &getHoleCards() = 0;
 
         /**
          * @brief associate this IPlayer with a GameVariables object
@@ -87,7 +87,7 @@ namespace pokerx {
         virtual void watch(IGameVariables *variables) = 0;
 
         /**
-         * @brief Change the isInPlay variable to false
+         * @brief Change the hasFolded variable to false
          * to indicate the this IPlayer has folded this round
          */
         virtual void fold() = 0;
@@ -106,7 +106,7 @@ namespace pokerx {
          * current bet size from this players stack into
          * the pot
          */
-        virtual float call() = 0;
+        virtual void call() = 0;
 
         /**
          * @brief raise the current bet
@@ -117,13 +117,13 @@ namespace pokerx {
          * this method to define their own strategy of raising. Perhaps
          * triple bet raise, perhaps console or network input
          */
-        virtual float raise() = 0;
+        virtual void raise() = 0;
 
         /**
          * @brief uses the IPlayer::raise method but
          * with this players entire stack;
          */
-        virtual float allIn() = 0;
+        virtual void allIn() = 0;
 
         [[nodiscard]] virtual IGameVariables *getGameVariables() const = 0;
 

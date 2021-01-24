@@ -57,22 +57,21 @@ add_library(
 
         # headers
         include/PokerX/engine/Action.h
-        include/PokerX/engine/AllIn.h
+        include/PokerX/engine/AllInPlayer.h
         include/PokerX/engine/AllPlayersEqual.h
         include/PokerX/engine/BigBlind.h
         include/PokerX/engine/ButtonMoves.h
-        include/PokerX/engine/Call.h
         include/PokerX/engine/Container.h
-        include/PokerX/engine/RotatoryContainer.h
         include/PokerX/engine/CallStationPlayer.h
         include/PokerX/engine/Card.h
         include/PokerX/engine/CardCollection.h
         include/PokerX/engine/CommunityCards.h
-        include/PokerX/engine/Check.h
         include/PokerX/engine/Deck.h
-        include/PokerX/engine/Flop.h
-        include/PokerX/engine/Fold.h
-        include/PokerX/engine/eBettingState.h
+        include/PokerX/engine/DealHoleCards.h
+        include/PokerX/engine/DealFlop.h
+        include/PokerX/engine/DealTurn.h
+        include/PokerX/engine/DealRiver.h
+        include/PokerX/engine/EndStreet.h
         include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
@@ -82,11 +81,12 @@ add_library(
         include/PokerX/engine/IObserver.h
         include/PokerX/engine/IObservableSharedPtr.h
         include/PokerX/engine/NextPlayer.h
+        include/PokerX/engine/NextStreet.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h
         include/PokerX/engine/PreflopBetting.h
-        include/PokerX/engine/Raise.h
-        include/PokerX/engine/RemoveCheckFromOptions.h
+        include/PokerX/engine/RaiserPlayer.h
+        include/PokerX/engine/RotatoryContainer.h
         include/PokerX/engine/Player.h
         include/PokerX/engine/PlayerManager.h
         include/PokerX/engine/Reset.h
@@ -94,7 +94,7 @@ add_library(
         include/PokerX/engine/River.h
         include/PokerX/engine/Showdown.h
         include/PokerX/engine/SmallBlind.h
-        include/PokerX/engine/StartStreet.h
+        include/PokerX/engine/EnterStreet.h
         include/PokerX/engine/State.h
         include/PokerX/engine/StateMachine.h
         include/PokerX/engine/StreetMachine.h
@@ -103,35 +103,37 @@ add_library(
         include/PokerX/Error.h
 
         # sources
-        src/engine/AllIn.cpp
+        src/engine/AllInPlayer.cpp
         src/engine/AllPlayersEqual.cpp
         src/engine/BigBlind.cpp
         src/engine/ButtonMoves.cpp
-        src/engine/Call.cpp
         src/engine/CallStationPlayer.cpp
         src/engine/Card.cpp
         src/engine/CardCollection.cpp
-        src/engine/Check.cpp
         src/engine/CommunityCards.cpp
         src/engine/Deck.cpp
+        src/engine/DealHoleCards.cpp
+        src/engine/DealFlop.cpp
+        src/engine/DealTurn.cpp
+        src/engine/DealRiver.cpp
+        src/engine/EndStreet.cpp
         src/engine/Flop.cpp
-        src/engine/Fold.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
         src/engine/NextPlayer.cpp
+        src/engine/NextStreet.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp
         src/engine/PreflopBetting.cpp
-        src/engine/Raise.cpp
-        src/engine/RemoveCheckFromOptions.cpp
         src/engine/Player.cpp
         src/engine/PlayerManager.cpp
+        src/engine/RaiserPlayer.cpp
         src/engine/Reset.cpp
         src/engine/RestrictedCardCollection.cpp
         src/engine/River.cpp
         src/engine/Showdown.cpp
         src/engine/SmallBlind.cpp
-        src/engine/StartStreet.cpp
+        src/engine/EnterStreet.cpp
         src/engine/StateMachine.cpp
         src/engine/StreetMachine.cpp
         src/engine/Turn.cpp

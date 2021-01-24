@@ -43,15 +43,15 @@ namespace pokerx {
         isAllIn_ = isAllIn;
     }
 
-    bool Player::isInPlay() const {
+    bool Player::hasFolded() const {
         return isInPlay_;
     }
 
-    void Player::setIsInPlay(bool isInPlay) {
+    void Player::setHasFolded(bool isInPlay) {
         isInPlay_ = isInPlay;
     }
 
-    const HoleCards &Player::getHoleCards() const {
+    HoleCards &Player::getHoleCards() {
         return holeCards_;
     }
 
@@ -63,7 +63,7 @@ namespace pokerx {
 
 
     void Player::fold() {
-        setIsInPlay(false);
+        setHasFolded(false);
     }
 
     void Player::checkGameVariablesNotNull() const {
@@ -83,18 +83,25 @@ namespace pokerx {
         }
     }
 
-    float Player::call() {
+    void Player::call() {
         checkGameVariablesNotNull();
         const float &amount = gameVariables_->getAmountToCall();
+        if (amount > stack_){
+            RUNTIME_ERROR << "Amount to call is greater than your stack" << std::endl;
+        } else if(amount == stack_)
+            setIsAllIn(true);
         stack_ -= amount;
-        return amount;
+        getGameVariables()->getPot() += amount;
     }
 
-    float Player::allIn() {
+    void Player::allIn() {
+        setIsAllIn(true);
         float amount = stack_; // copy
         stack_ = 0;
-        return amount;
+        getGameVariables()->getPot() += amount;
     }
+
+    // raise is left virtual
 
     void Player::postSmallBlind() {
         /**
