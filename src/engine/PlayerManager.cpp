@@ -20,11 +20,11 @@ namespace pokerx {
         }
     }
 
-    bool PlayerManager::checkAllPlayersEqual() const {
+    bool PlayerManager::allPlayersEqual() const {
         std::vector<float> amounts;
         for (const auto &player : contents_) {
             if (player->hasFolded())
-                amounts.push_back(player->getStack());
+                amounts.push_back(player->getAmountContrib());
         }
 
         bool equal = false;
@@ -156,5 +156,10 @@ namespace pokerx {
         }
     }
 
+    void PlayerManager::resetAmountContribThisStreet() {
+        for(auto player: contents_){
+            player->setAmountContrib(0.0);
+        }
+    }
 
 }

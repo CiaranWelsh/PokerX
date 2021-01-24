@@ -67,12 +67,13 @@ add_library(
         include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
+        include/PokerX/engine/Hand.h
+        include/PokerX/engine/HandEvaluator.h
         include/PokerX/engine/IGameVariables.h
         include/PokerX/engine/IPlayer.h
         include/PokerX/engine/IPlayerManager.h
         include/PokerX/engine/IObserver.h
         include/PokerX/engine/IObservableSharedPtr.h
-        include/PokerX/engine/NextPlayer.h
         include/PokerX/engine/NextStreet.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h
@@ -114,7 +115,8 @@ add_library(
         src/engine/FolderPlayer.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
-        src/engine/NextPlayer.cpp
+        src/engine/Hand.cpp
+        src/engine/HandEvaluator.cpp
         src/engine/NextStreet.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp

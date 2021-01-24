@@ -6,16 +6,15 @@
 #define POKERSIMULATIONSINCPP_HAND_H
 
 #include <tuple>
-#include <utility>
-#include "card/Card.h"
-#include "card/CardCollection.h"
-#include "card/CommunityCards.h"
-#include "card/HoleCards.h"
 #include <memory>
-#include <utils/Counter.h>
 #include <map>
+#include "PokerX/engine/Card.h"
+#include "PokerX/engine/CardCollection.h"
+#include "PokerX/engine/CommunityCards.h"
+#include "PokerX/engine/HoleCards.h"
+#include <PokerX/engine/Counter.h>
 
-using namespace cards;
+using namespace pokerx;
 
 namespace eval {
 
@@ -45,10 +44,9 @@ class Hand : public RestrictedCardCollection{
         virtual bool isa() = 0;
 
 private:
-    HoleCards holeCards_;
+    const HoleCards& holeCards_;
 
-    // Hand should Observe communityCards.
-    CommunityCards &communityCards_;
+    const CommunityCards &communityCards_;
 
 
 //class Hand : public RestrictedCardCollection{

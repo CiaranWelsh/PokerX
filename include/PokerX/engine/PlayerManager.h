@@ -40,7 +40,7 @@ namespace pokerx {
 
         void add(SharedPlayerPtr player) override;
 
-        [[nodiscard]] bool checkAllPlayersEqual() const override;
+        [[nodiscard]] bool allPlayersEqual() const override;
 
         [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const override;
 
@@ -101,6 +101,8 @@ namespace pokerx {
          * @brief get the index in PlayerManager of @param player
          */
         int getIndexOfPlayer(const SharedIPlayerPtr &player) override;
+
+        void resetAmountContribThisStreet() override;
     };
 }
 

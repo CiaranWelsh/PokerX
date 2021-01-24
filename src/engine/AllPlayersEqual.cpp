@@ -2,7 +2,7 @@
 #include <iostream>
 #include "PokerX/engine/AllPlayersEqual.h"
 #include "PokerX/engine/EndStreet.h"
-#include "PokerX/engine/NextPlayer.h"
+#include "PokerX/engine/PlayerToAct.h"
 #include "PokerX/engine/PokerEngine.h"
 
 namespace pokerx {
@@ -18,14 +18,14 @@ namespace pokerx {
         // get reference to the Player manager
         IPlayerManager *playerManager = engine->getPlayers();
 
-        bool all_players_equal = playerManager->checkAllPlayersEqual();
+        bool all_players_equal = playerManager->allPlayersEqual();
 
         if (all_players_equal){
             // if all players are equal we end the street
             engine->setState(EndStreet::getInstance());
         } else {
             // otherwise we go get the next player
-            engine->setState(NextPlayer::getInstance());
+            engine->setState(PlayerToAct::getInstance());
         }
 
     }

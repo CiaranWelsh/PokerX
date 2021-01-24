@@ -139,10 +139,30 @@ namespace pokerx {
          */
         virtual void postBigBlind() = 0;
 
+        /**
+         * @brief Get the amount contributed to the pot
+         * by this player, this street.
+         * @details this number resets to 0 at the start of each betting
+         * round
+         *
+         * // todo implement resetting of this state variable
+         */
+        [[nodiscard]] virtual float getAmountContrib() const = 0;
+
+        virtual void setAmountContrib(float amount) = 0;
+
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
         bool isInPlay_ = true;
+
+        /**
+         * A running total of the amount spent
+         * this street
+         */
+        float amountContrib_ = 0.0;
+
         std::string name_;
 
         HoleCards holeCards_{};

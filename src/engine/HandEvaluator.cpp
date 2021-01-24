@@ -2,8 +2,8 @@
 // Created by CiaranWelsh on 19/12/2019.
 //
 
-#include "Evaluator.h"
-#include "Hand.h"
+#include "PokerX/engine/HandEvaluator.h"
+#include "PokerX/engine/Hand.h"
 #include <iostream>
 #include <dshow.h>
 
@@ -11,7 +11,7 @@ using namespace std;
 
 namespace eval {
 
-    std::map<int, HandType> Evaluator::evaluate(std::vector<HandPtr> hands) {
+    std::map<int, HandType> HandEvaluator::evaluate(std::vector<HandPtr> hands) {
         // collect hand subclass objects in a map
         typedef std::map<int, HandPtr> HandMap;
         HandMap hand_types;

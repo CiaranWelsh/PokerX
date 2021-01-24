@@ -284,7 +284,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerHasFolded) {
 }
 
 
-TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAndCheckOptionStillAvailableForOtherPlayers){
+TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAndCheckOptionStillAvailableForOtherPlayers) {
     engine->setState(PlayerToAct::getInstance());
     engine->getPlayers()->setCurrentPlayerByName("Folder");
 
@@ -444,6 +444,123 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInCheckNotAvailableToNextPlayer) {
     engine->action();
 
     ASSERT_FALSE(engine->getGameVariables()->isCheckAvailable());
+
+}
+
+
+TEST_F(PokerEngineStatesTest, TestAllPlayersEqualWhenTheyAreNot) {
+    engine->setState(AllPlayersEqual::getInstance());
+    // players need a pivate count of how much they have contributed to the pot
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), ALL_PLAYERS_EQUAL_STATE);
+
+    // make up some bets
+    engine->getPlayers()->getPlayer(0)->setAmountContrib(10);
+    engine->getPlayers()->getPlayer(1)->setAmountContrib(20);
+    engine->getPlayers()->getPlayer(2)->setAmountContrib(30);
+
+    // add 60 to the pot
+    engine->getGameVariables()->getPot() += 60;
+
+    //  players left to act
+    engine->action();
+
+    // if we are in PlayerToAct State, then we've correctly assessed that
+    // all players that have not folded are not equal
+
+    // todo work out how this works when one player is all in
+    // we'll handle this edge case later
+
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+}
+
+TEST_F(PokerEngineStatesTest, TestAllPlayersEqualWhenTheyAreEqual) {
+    engine->setState(AllPlayersEqual::getInstance());
+    // players need a pivate count of how much they have contributed to the pot
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), ALL_PLAYERS_EQUAL_STATE);
+
+    // make up some bets
+    engine->getPlayers()->getPlayer(0)->setAmountContrib(20);
+    engine->getPlayers()->getPlayer(1)->setAmountContrib(20);
+    engine->getPlayers()->getPlayer(2)->setAmountContrib(20);
+    engine->getPlayers()->getPlayer(3)->setAmountContrib(20);
+    engine->getPlayers()->getPlayer(4)->setAmountContrib(20);
+    engine->getPlayers()->getPlayer(5)->setAmountContrib(20);
+
+    // add 60 to the pot
+    engine->getGameVariables()->getPot() += 100;
+
+    //  players left to act
+    engine->action();
+
+
+    ASSERT_EQ(engine->getState()->getType(), END_STREET_STATE);
+
+}
+
+TEST_F(PokerEngineStatesTest, TestNextStreetPreflopToFlop) {
+
+    // need to remember to reset players pot contributions
+
+    engine->setState(NextStreet::getInstance());
+
+    ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
+
+    // default street is preflop
+    engine->action(); // change to FLOP
+    ASSERT_EQ(engine->getGameVariables()->getStreet(), FLOP_STREET);
+
+}
+
+TEST_F(PokerEngineStatesTest, TestNextStreetFlopToTurn) {
+
+    // need to remember to reset players pot contributions
+
+    engine->setState(NextStreet::getInstance());
+
+    engine->getGameVariables()->setStreet(FLOP_STREET);
+
+    ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
+
+    // default street is preflop
+    engine->action(); // change to FLOP
+    ASSERT_EQ(engine->getGameVariables()->getStreet(), TURN_STREET);
+
+}
+
+TEST_F(PokerEngineStatesTest, TestNextStreetTurnToRiver) {
+
+    // need to remember to reset players pot contributions
+
+    engine->setState(NextStreet::getInstance());
+
+    engine->getGameVariables()->setStreet(TURN_STREET);
+
+    ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
+
+    // default street is preflop
+    engine->action(); // change to FLOP
+    ASSERT_EQ(engine->getGameVariables()->getStreet(), RIVER_STREET);
+
+}
+
+TEST_F(PokerEngineStatesTest, TestNextStreetRiverToShowdown) {
+
+    // need to remember to reset players pot contributions
+
+    engine->setState(NextStreet::getInstance());
+
+    engine->getGameVariables()->setStreet(RIVER_STREET);
+
+    ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
+
+    // default street is preflop
+    engine->action(); // change to FLOP
+    ASSERT_EQ(engine->getGameVariables()->getStreet(), SHOWDOWN_STREET);
 
 }
 

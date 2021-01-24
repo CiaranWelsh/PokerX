@@ -6,24 +6,22 @@
 #define POKERSIMULATIONSINCPP_EVALUATOR_H
 
 #include <vector>
-#include "Hand.h"
+#include "PokerX/engine/Hand.h"
 
-//need to figure out how to implement a factory design for hand objects. I'll have a single method or object
-// in which the user interacts with.
-namespace eval {
-    class Evaluator {
+namespace pokerx {
+    class HandEvaluator {
     private:
 
     public:
-        Evaluator() = default;
+        HandEvaluator() = default;
 
-        ~Evaluator() = default;
+        ~HandEvaluator() = default;
 
-        Evaluator(const Evaluator &evaluator) = default;
+        HandEvaluator(const HandEvaluator &evaluator) = default;
 
-        Evaluator(Evaluator &&) = default;
+        HandEvaluator(HandEvaluator &&) = default;
 
-        map<int, HandType> evaluate(std::vector<HandPtr> hands);
+        std::map<int, HandType> evaluate(std::vector<HandPtr> hands);
 
         template<class T>
         static std::pair<T, std::vector<int>> getMaxValueOfAMap(const std::map<int, T> &map) {
