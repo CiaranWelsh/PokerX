@@ -14,13 +14,16 @@ using namespace pokerx;
 class PokerEngineIntegrationTests : public ::testing::Test {
 
 public:
-    PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(6, 1000.0);
+    PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(5, 1000.0);
 
     GameVariables gameVariables;
 
     unique_ptr<PokerEngine> engine = nullptr;
 
+    RaiserPlayer raiser;
+
     PokerEngineIntegrationTests(){
+        playerManager.add(std::make_shared<RaiserPlayer>(raiser));
         engine = std::make_unique<PokerEngine>(&playerManager, &gameVariables);
 
     };
@@ -72,15 +75,95 @@ TEST_F(PokerEngineIntegrationTests, AssertBigBlindSubtractsFromStack) {
 
 }
 
-TEST_F(PokerEngineIntegrationTests, Preflop) {
-    engine->setState(PreflopBetting::getInstance());
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToActErrorsWhenUserPicksNONEAction) {
+    engine->setState(PlayerToAct::getInstance());
 
     // will always be true if setState works
-    ASSERT_EQ(engine->getState()->getType(), PREFLOP_STATE);
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action(NONE);
+    ASSERT_THROW(
+            engine->action(NONE),
+            std::logic_error
+    );
+}
+
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToAct) {
+    engine->setState(PlayerToAct::getInstance());
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+    engine->action(CHECK);
+}
+
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToActCheck) {
+    engine->setState(PlayerToAct::getInstance());
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+    engine->action(CHECK);
+}
+
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToActCall) {
+    engine->setState(PlayerToAct::getInstance());
+
+    // we manafacture an existing amount to call for test purposes
+    engine->getGameVariables()->setAmountToCall(20.0);
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+    engine->action(CALL);
+
+    ASSERT_EQ(980, engine->getPlayers()->getCurrentPlayer()->getStack());
+    ASSERT_EQ(20, engine->getGameVariables()->getAmountToCall());
+    ASSERT_EQ(20, engine->getGameVariables()->getPot());
+}
+
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToActFold) {
+    engine->setState(PlayerToAct::getInstance());
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+    engine->action(FOLD);
+
+    ASSERT_EQ(1000, engine->getPlayers()->getCurrentPlayer()->getStack());
+    ASSERT_EQ(0, engine->getGameVariables()->getAmountToCall());
+    ASSERT_EQ(0, engine->getGameVariables()->getPot());
+    ASSERT_TRUE(engine->getPlayers()->getCurrentPlayer()->hasFolded());
+}
+
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToActRaise) {
+    engine->setState(PlayerToAct::getInstance());
+
+    engine->getPlayers()->setCurrentPlayerIdx(5);
+
+    // we need to set an amount to call before as can raise
+    engine->getGameVariables()->setAmountToCall(20.0);
+    //and the pot
+    engine->getGameVariables()->getPot() += 20.0;
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+    engine->action(RAISE);
+
+    ASSERT_EQ(20, engine->getGameVariables()->getAmountToCall());
+    ASSERT_EQ(60, engine->getGameVariables()->getPot());
+    ASSERT_EQ(960, engine->getPlayers()->getCurrentPlayer()->getStack());
+//    ASSERT_TRUE(engine->getPlayers()->getCurrentPlayer()->hasFolded());
+}
 
 
+TEST_F(PokerEngineIntegrationTests, CheckPlayerToActAllIn) {
+    engine->setState(PlayerToAct::getInstance());
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
+
+    engine->action(ALL_IN);
 }
 
 
