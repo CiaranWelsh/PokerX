@@ -80,11 +80,11 @@ add_library(
         include/PokerX/engine/IPlayer.h
         include/PokerX/engine/IPlayerManager.h
         include/PokerX/engine/IObserver.h
-        include/PokerX/engine/IObservable.h
+        include/PokerX/engine/IObservableSharedPtr.h
         include/PokerX/engine/NextPlayer.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h
-        include/PokerX/engine/Preflop.h
+        include/PokerX/engine/PreflopBetting.h
         include/PokerX/engine/Raise.h
         include/PokerX/engine/RemoveCheckFromOptions.h
         include/PokerX/engine/Player.h
@@ -121,7 +121,7 @@ add_library(
         src/engine/NextPlayer.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp
-        src/engine/Preflop.cpp
+        src/engine/PreflopBetting.cpp
         src/engine/Raise.cpp
         src/engine/RemoveCheckFromOptions.cpp
         src/engine/Player.cpp

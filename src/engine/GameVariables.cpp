@@ -7,7 +7,7 @@
 
 namespace pokerx {
 
-    Pot GameVariables::getPot() const {
+    Pot & GameVariables::getPot() {
         return pot_;
     }
 

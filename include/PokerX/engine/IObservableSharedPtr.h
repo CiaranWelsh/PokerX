@@ -2,8 +2,8 @@
 // Created by Ciaran on 09/01/2021.
 //
 
-#ifndef POKERSIMULATIONSINCPP_ISUBJECT_H
-#define POKERSIMULATIONSINCPP_ISUBJECT_H
+#ifndef POKERSIMULATIONSINCPP_IOBSERVABLERAWPTR_H
+#define POKERSIMULATIONSINCPP_IOBSERVABLERAWPTR_H
 
 #include <vector>
 #include <memory>
@@ -12,14 +12,17 @@
 
 namespace pokerx {
 
-
+    /**
+     * @brief implementation of the Observable portion of the Observer
+     * pattern. Uses SharedPtr<T> to store references to Observers
+     */
     template<class T>
-    class Observable {
-        using SharedObserverPtr = std::shared_ptr<IObserver < T>>;
+    class [[maybe_unused]] IObservableSharedPtr {
+        using SharedObserverPtr = std::shared_ptr<IObserver<T>>;
 
     public:
 
-        virtual ~Observable<T>() = default;
+        virtual ~IObservableSharedPtr<T>() = default;
 
         /**
          * @brief notify all subscribed observers (@see registerObserver)
@@ -43,20 +46,6 @@ namespace pokerx {
             observers_.push_back(observer);
         }
 
-        /**
-         * @brief regester an observer (or subscriber) to this
-         * observable.
-         * @details Once subscribed, Observers are informed of
-         * any changes when the notifyObservers method is called.
-         * A shared pointer is created from the raw input pointer
-         * and stored in the observers_ vector.
-         * @param observer A non-owning raw pointer to an IObserver<T>
-         * type.
-         */
-        void registerObserver(IObserver <T> *observer) {
-
-            observers_.push_back(std::shared_ptr<IObserver<T>>(observer));
-        }
 
         /**
          * @brief remove a observer from the list of observers

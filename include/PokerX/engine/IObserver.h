@@ -14,6 +14,8 @@ namespace pokerx {
         virtual ~IObserver() = default;
 
         virtual void update(T& source, const std::string& data_field) = 0;
+
+        virtual void update(T* source, const std::string& data_field) = 0;
     };
 
 

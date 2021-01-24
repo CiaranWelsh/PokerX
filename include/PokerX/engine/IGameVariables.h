@@ -7,17 +7,17 @@
 
 #include "PokerX/engine/Pot.h"
 #include "PokerX/engine/Streets.h"
-#include "PokerX/engine/IObservable.h"
+#include "PokerX/engine/IObservableRawPtr.h"
 
 namespace pokerx {
 
 
-    class IGameVariables : public Observable<IGameVariables> {
+    class IGameVariables : public IObservableRawPtr<IGameVariables> {
     public:
 
         ~IGameVariables() override = default;
 
-        [[nodiscard]] virtual Pot getPot() const = 0;
+        [[nodiscard]] virtual Pot & getPot() = 0;
 
         [[nodiscard]] virtual float getAmountToCall() const = 0;
 

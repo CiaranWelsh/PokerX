@@ -25,7 +25,9 @@ namespace pokerx {
         machine->setState(BigBlind::getInstance());
     }
 
-    void SmallBlind::exit(StateMachine *machine) {}
+    void SmallBlind::exit(StateMachine *machine) {
+        PokerEngine::nextPlayer(machine);
+    }
 
     SmallBlind &SmallBlind::getInstance() {
         static SmallBlind singleton;

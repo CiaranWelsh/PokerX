@@ -17,7 +17,12 @@ namespace pokerx {
 
     /**
      * @brief Container class for Player instances.
-     * @details
+     * @details Responsible for the rotatory aspects of poker.
+     * When the current cards are done with, the button moves.
+     * We do this by rotating the order of the vector, so in a
+     * 6 player game, player 6 becomes player 1. Therefore,  the button
+     * and all the positions (Btn, UTG etc) are fixed numerical values (0 = btn).
+     * A call to nextPlayer on the other hand, increments the currentPlayerIdx.
      */
     class PlayerManager : public IPlayerManager {
 
@@ -36,8 +41,6 @@ namespace pokerx {
         void add(SharedPlayerPtr player) override;
 
         [[nodiscard]] bool checkAllPlayersEqual() const override;
-
-        SharedPlayerPtr getButton() override;
 
         [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const override;
 
@@ -71,34 +74,11 @@ namespace pokerx {
          */
         void nextPlayer() override;
 
-        [[nodiscard]] int getButtonIdx() const override;
-
-        void setButtonIdx(int buttonIdx) override;
-
         [[nodiscard]] int getCurrentPlayerIdx() const override;
 
         void setCurrentPlayerIdx(int currentPlayerIdx) override;
 
-
-    protected:
-
-        /**
-         * @brief implements the abstract method from superclass
-         * for rotating the contents vector.
-         * @details This method does *not* move the button or
-         * the current player, only rotates the players once.
-         * @see nextPlayer for another method that rotates the players
-         * *and* moves current player pointer
-         */
-        void rotateContainerContents() override;
-
-    private:
-
-        /**
-         * @brief implements the logic for moving the player pointer.
-         */
-        void moveCurrentPlayer() override;
-
+        friend std::ostream & operator<<(std::ostream& os, PlayerManager& playerManager);
 
     };
 }

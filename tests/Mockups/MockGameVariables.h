@@ -17,7 +17,11 @@ public:
 
     ~MockGameVariables() override = default;
 
-    MOCK_METHOD(Pot, getPot, (), (const));
+    MOCK_METHOD(Pot, getPot, (), (const))
+
+    Pot &
+
+    ;
 
     MOCK_METHOD(float, getAmountToCall, (), (const));
 

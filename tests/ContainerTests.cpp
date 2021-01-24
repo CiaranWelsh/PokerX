@@ -32,14 +32,14 @@ TEST_F(ContainerTests, TestThatRotationFunctionOfRotatoryContainerWorksWithInput
     using RotatoryIntContainer = RotatoryContainer<int>;
     RotatoryIntContainer container({1});
     std::vector<int> x({1});
-    ++container;
+    container.rotateContainerContents();
     ASSERT_EQ(container.getContents(), x);
 }
 TEST_F(ContainerTests, TestThatRotationFunctionOfRotatoryContainerWorksWithInputSize2){
     using RotatoryIntContainer = RotatoryContainer<int>;
     RotatoryIntContainer container({1, 2});
     std::vector<int> x({2, 1});
-    ++container;
+    container.rotateContainerContents();
     ASSERT_EQ(container.getContents(), x);
 }
 
@@ -47,6 +47,6 @@ TEST_F(ContainerTests, TestThatRotationFunctionOfRotatoryContainerWorksWithInput
     using RotatoryIntContainer = RotatoryContainer<int>;
     RotatoryIntContainer container({1, 2, 3});
     std::vector<int> x({3, 1, 2});
-    ++container;
+    container.rotateContainerContents();
     ASSERT_EQ(container.getContents(), x);
 }

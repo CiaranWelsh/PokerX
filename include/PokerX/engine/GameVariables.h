@@ -21,7 +21,7 @@ namespace pokerx {
 
         ~GameVariables() override = default;
 
-        [[nodiscard]] Pot getPot() const override;
+        [[nodiscard]] Pot & getPot() override;
 
         [[nodiscard]] float getAmountToCall() const override;
 

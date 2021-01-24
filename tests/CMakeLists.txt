@@ -1,5 +1,7 @@
-add_subdirectory(googletest)
+enable_testing()
+
 include(GoogleTest)
+add_subdirectory(googletest)
 
 add_subdirectory(Mockups)
 
@@ -131,8 +133,8 @@ add_test_executable(ObserverPatternTests ON ON TestExecutables
 
 # integration tests for PokerEngine
 add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
-        PokerEngineStateMachineTests.cpp
-        Mockups/FakePlayer.h
+        PokerEngineIntegrationTests.cpp
+        Mockups/MockPlayer.h
         Mockups/MockPlayerManager.h
         )
 
@@ -144,7 +146,7 @@ add_test_executable(DeckTests                       ON ON TestExecutables DeckTe
 add_test_executable(HoleCardTests                   ON ON TestExecutables HoleCardTests.cpp)
 add_test_executable(CommunityCardTests              ON ON TestExecutables CommunityCardTests.cpp)
 
-add_executable(AConsoleGame AConsoleGame.cpp)
+add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h)
 target_link_libraries(AConsoleGame PRIVATE PokerX)
 
 

@@ -3,37 +3,35 @@
 //
 
 #include <iostream>
-#include "PokerX/engine/Preflop.h"
+#include "PokerX/engine/PreflopBetting.h"
 #include "PokerX/engine/Flop.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
-    void Preflop::enter(StateMachine *machine) {
-        std::cout << "Entering Preflop" << std::endl;
+    void PreflopBetting::enter(StateMachine *machine) {
+        std::cout << "Entering PreflopBetting" << std::endl;
 
     }
 
-    void Preflop::action(StateMachine *machine) {
+    void PreflopBetting::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         // inner state machine for round of betting.
 
-
-
         engine->setState(Flop::getInstance());
     }
 
-    void Preflop::exit(StateMachine *machine) {}
+    void PreflopBetting::exit(StateMachine *machine) {}
 
-    Preflop &Preflop::getInstance() {
-        static Preflop singleton;
+    PreflopBetting &PreflopBetting::getInstance() {
+        static PreflopBetting singleton;
         return singleton;
     }
 
-    unsigned int Preflop::getType() const {
+    unsigned int PreflopBetting::getType() const {
         return PREFLOP_STATE;
     }
 }

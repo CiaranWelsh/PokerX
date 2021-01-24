@@ -13,8 +13,6 @@ namespace pokerx {
     public:
         [[nodiscard]] virtual bool checkAllPlayersEqual() const = 0;
 
-        virtual SharedPlayerPtr getButton() = 0;
-
         [[nodiscard]] virtual SharedPlayerPtr getCurrentPlayer() const = 0;
 
         virtual void watch(IGameVariables *variables) = 0;
@@ -23,19 +21,12 @@ namespace pokerx {
 
         virtual void nextPlayer() = 0;
 
-        [[nodiscard]] virtual int getButtonIdx() const = 0;
-
-        virtual void setButtonIdx(int buttonIdx) = 0;
-
         [[nodiscard]] virtual int getCurrentPlayerIdx() const = 0;
 
         virtual void setCurrentPlayerIdx(int currentPlayerIdx) = 0;
 
     protected:
-        int button_idx = 0;
         int current_player_idx = 0;
-
-        virtual void moveCurrentPlayer() = 0;
 
     };
 }

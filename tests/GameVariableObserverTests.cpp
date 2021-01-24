@@ -32,6 +32,8 @@ public:
     float raise() override {
         return 0;
     }
+
+
 };
 
 
@@ -76,7 +78,19 @@ TEST_F(GameVariableObserverTests, CheckThatAmountToCallIsProperlyUpdated) {
 }
 
 
-TEST_F(GameVariableObserverTests, EmployTheWatchMethodToAssociatePlayerManagerAndGameVariables) {
+TEST_F(GameVariableObserverTests, CanWeUseTheWatchMethodToSubscribeToObservers) {
+    /**
+     * So we have a playerManager which houses players.
+     * Players watch or obsever GamePlayers.
+     * Using any of the setters for GameVariables initializes the
+     * GameVariables reference in the Player class.
+     * ... But if you try to access the PLayer::gameVariables
+     * without first having initialized (via setter method), we'll
+     * get segfault. This is bad design, so I'm trying to introduce a
+     * watch method that we do all that is necessary to configure the
+     * observer (by registering for observer) and initializing the
+     * gameVariables reference in Player objects
+     */
     GameVariables gameVariables; //observed
 
     // associate the players in the playerManager object
@@ -85,23 +99,13 @@ TEST_F(GameVariableObserverTests, EmployTheWatchMethodToAssociatePlayerManagerAn
     playerManager.watch(&gameVariables);
 
     // When we neglect to use the watch method the gameVariable reference inside
-    // player instances are nullptr.
+    // player instances are nullptr. This test ensures that this is not the case
     ASSERT_FALSE(
             playerManager.getCurrentPlayer()->getGameVariables() == nullptr
     );
 
 }
 
-TEST_F(GameVariableObserverTests, CanWeUseTheWatchMethodToSubscribeToObservers) {
-    GameVariables gameVariables; //observed
-
-    playerManager.watch(&gameVariables);
-    /*
-     * This isn't working because gameariables is a stack not heap address. So
-     * we can't make shred
-     */
-
-}
 
 
 

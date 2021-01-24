@@ -9,13 +9,9 @@
 namespace pokerx {
 
 
+
     std::ostream &operator<<(std::ostream &os, Player &player) {
         return player.print(os);
-    }
-
-    void Player::update(IGameVariables &source, const string &data_field) {
-        // store the reference
-        gameVariables_ = &source;
     }
 
     IGameVariables *Player::getGameVariables() const {

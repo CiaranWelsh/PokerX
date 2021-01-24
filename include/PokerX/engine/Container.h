@@ -7,10 +7,16 @@
 
 namespace pokerx {
 
+    /**
+     * todo make CardCollection implement the container
+     */
+
     template<class T>
     class Container {
     public:
         Container() = default;
+
+        virtual ~Container() = default;
 
         explicit Container(T contents)
                 : contents_(contents) {};

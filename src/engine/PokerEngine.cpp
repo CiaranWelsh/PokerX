@@ -8,38 +8,6 @@
 
 namespace pokerx {
 
-//    PokerEngine::PokerEngine(IPlayerManager& manager, IGameVariables& variables)
-//            : StateMachine(&Reset::getInstance()),
-//              players_(manager),
-//              gameVariables_(variables){
-//
-//        // initialize the IPlayerManager with reference to IGameVariables
-//        // and calls the addSubscriber method of IGameVariables with each
-//        // player. This can be thought of as an initialization handshake
-//        // where players and IGameVariables agree to observe/be observed.
-//        players_.watch(variables);
-//    }
-//
-//    PokerEngine::PokerEngine()
-//            : StateMachine(&Reset::getInstance()) {
-//
-//        // All players subscribe to the IGameVariables instance
-//        // in order to observe the game play
-//        for (const auto& player: getPlayers()) {
-//            gameVariables_.addSubscriber(player);
-//        }
-//    }
-//
-//    PokerEngine::PokerEngine(State *starting_state)
-//            : StateMachine(starting_state) {
-//
-//        // All players subscribe to the IGameVariables instance
-//        // in order to observe the game play
-//        for (const auto* player: getPlayers()) {
-//            gameVariables_->addSubscriber(player);
-//        }
-//    }
-
     PokerEngine::PokerEngine(IPlayerManager *playerManager, IGameVariables *variables)
             : StateMachine(&Reset::getInstance()), players_(playerManager), gameVariables_(variables) {
 
@@ -48,9 +16,7 @@ namespace pokerx {
 
         // All players subscribe to the IGameVariables instance
         // in order to observe the game play
-        for (auto player: *getPlayers()) {
-            gameVariables_->registerObserver(player);
-        }
+        playerManager->watch(gameVariables_);
     }
 
 
@@ -101,7 +67,11 @@ namespace pokerx {
         gameVariables_ = gameVariables;
     }
 
-
+    void PokerEngine::nextPlayer(StateMachine* machine){
+        CHECK_NULLPTR(machine, "StateMachine");
+        auto* engine = dynamic_cast<PokerEngine*>(machine);
+        engine->getPlayers()->nextPlayer();
+    }
 
 
 }

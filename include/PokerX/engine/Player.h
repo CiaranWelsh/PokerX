@@ -21,7 +21,7 @@ namespace pokerx {
 
         ~Player() override = default;
 
-        void update(IGameVariables &source, const std::string &data_field) override;
+//        void update(IGameVariables &source, const std::string &data_field) override;
 
         friend std::ostream &operator<<(std::ostream &os, Player& IPlayer);
 
@@ -45,8 +45,6 @@ namespace pokerx {
 
         void watch(IGameVariables *variables) override;
 
-        static void watch(SharedIPlayerPtr player, IGameVariables* variables);
-
         void fold() override;
 
         void check() override;
@@ -56,6 +54,7 @@ namespace pokerx {
         float allIn() override;
 
         [[nodiscard]] IGameVariables *getGameVariables() const override;
+
         void postSmallBlind() override;
 
         void postBigBlind() override;

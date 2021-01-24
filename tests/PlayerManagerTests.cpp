@@ -17,7 +17,7 @@ public:
     PlayerManagerTests() = default;
 };
 
-TEST_F(PlayerManagerTests, TestPopulateMethodCreatesRightNumberOfPlayers){
+TEST_F(PlayerManagerTests, TestPopulateMethodCreatesRightNumberOfPlayers) {
     PlayerManager playerManager = PlayerManager::populate<FakePlayer>(6, 100.0);
     ASSERT_EQ(6, playerManager.size());
 }
@@ -26,10 +26,6 @@ TEST_F(PlayerManagerTests, CheckThatNoneOfThePlayersAreNullptr) {
     for (const auto &player : playerManager) {
         ASSERT_FALSE(player == nullptr);
     }
-}
-
-TEST_F(PlayerManagerTests, CheckThatButtonIsNotNullptr) {
-    ASSERT_FALSE(playerManager.getButton() == nullptr);
 }
 
 TEST_F(PlayerManagerTests, CheckThatCurrentPlayerIsNotNullptr) {
@@ -44,21 +40,38 @@ TEST_F(PlayerManagerTests, TestAddAPlayer) {
     ASSERT_EQ(7, playerManager.size());
 }
 
-TEST_F(PlayerManagerTests, TestPlayerRotation) {
-    // player manager index starts with 0
+/**
+ * At the end of a round the game resets and the button moves
+ * Practically what happens in the order of the container
+ * shifts and the last becomes the first. Then the button is 0 again
+ */
+TEST_F(PlayerManagerTests, TestMoveButton) {
+    std::cout << playerManager << std::endl;
+    playerManager.moveButton();
+    std::cout << playerManager << std::endl;
+    // and should be player 5 after 1 rotation
+    ASSERT_STREQ(playerManager[0]->getName().c_str(), "Player5");
+
+    // But the current index should be at 0, ready for a new round of betting
     ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 0);
-    playerManager.nextPlayer();
-    // and should be player 1 after 1 rotation
-    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
 }
 
-TEST_F(PlayerManagerTests, CheckThatWeCanMoveTheButton) {
-    // player manager index starts with 0
-    ASSERT_EQ(playerManager.getButtonIdx(), 0);
-    playerManager.moveButton();
-    // and should be player 1 after 1 rotation
-    ASSERT_EQ(playerManager.getButtonIdx(), 1);
+TEST_F(PlayerManagerTests, TestNextPlayer) {
+    std::cout << playerManager << std::endl;
+    playerManager.nextPlayer();
+    std::cout << playerManager << std::endl;
+
+    // Players have not rotated so Player0 should still be at position 0
+    ASSERT_STREQ(playerManager[0]->getName().c_str(), "Player0");
+
+    // But the current index should be at 1, since player 0 has taken their go
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
+    ASSERT_STREQ(
+            playerManager.getCurrentPlayer()->getName().c_str(),
+            "Player1"
+    );
 }
+
 
 
 

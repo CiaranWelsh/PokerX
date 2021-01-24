@@ -53,6 +53,13 @@ namespace pokerx {
 
         void bind(IGameVariables *gameVariables);
 
+        /**
+         * @brief move the PokerEngine to the next player.
+         * @details static allocation
+         */
+        static void nextPlayer(StateMachine *machine);
+
+
     private:
         /**
          * @brief GameVariables contain all configurable

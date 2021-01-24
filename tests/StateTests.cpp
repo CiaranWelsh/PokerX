@@ -8,7 +8,7 @@
 #include "AbstractStateMachineTests/LightOff.h"
 #include "AbstractStateMachineTests/LightLow.h"
 #include "AbstractStateMachineTests/LightHigh.h"
-#include "AbstractStateMachineTests/eState.h"
+#include "AbstractStateMachineTests/enumState.h"
 
 class LightSwitchStateTests : public ::testing::Test {
 public:

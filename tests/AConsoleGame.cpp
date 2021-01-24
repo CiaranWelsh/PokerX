@@ -3,6 +3,7 @@
 #include "PokerX/engine/PlayerManager.h"
 #include "PokerX/engine/CallStationPlayer.h"
 #include "PokerX/engine/GameVariables.h"
+#include <regex>
 
 using namespace pokerx;
 
@@ -10,30 +11,40 @@ int main() {
 
     PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(6, 100.0);
     GameVariables variables;
-    PokerEngine engine(playerManager, variables);
+    PokerEngine engine(&playerManager, &variables);
 
 
-    std::string x;
+    std::string userInput;
     while (true) {
         std::cout << "Enter one of: [none, check, fold, call, raise, all_in]" << std::endl;
-        std::cin >> x;
-        if (x == "N") {
+        std::cout << "> ";
+        std::cin >> userInput;
+        if (userInput == "N") {
             break;
         } else {
-            if (x == "none") {
+            if (userInput == "none") {
                 engine.action(NONE);
-            } else if (x.empty()) {
+            } else if (userInput.empty()) {
                 engine.action(CALL);
-            } else if (x == "check") {
+            } else if (userInput == "check") {
                 engine.action(CHECK);
-            } else if (x == "fold") {
+            } else if (userInput == "fold") {
                 engine.action(FOLD);
-            } else if (x == "call") {
+            } else if (userInput == "call") {
                 engine.action(CALL);
-            } else if (x == "raise") {
+            } else if (userInput == "raise") {
                 engine.action(RAISE);
-            } else if (x == "all_in") {
+            } else if (userInput == "all_in") {
                 engine.action(ALL_IN);
+            } else {
+                // now for regexes
+//                std::smatch sm;
+//                std::regex variables_regex("^variables\.(.*)\(\)");
+//                if (std::regex_match(userInput, variables_regex)) {
+//                    std::regex_match(userInput, sm, variables_regex);
+//                    std::cout << "matched: " << sm[0] << std::endl;
+//                    std::cout << variables << std::endl;
+//                };
             }
         }
     }

@@ -23,9 +23,9 @@ public:
 
     MOCK_METHOD(SharedPlayerPtr, getButton, (), ());
 
-    MOCK_METHOD(const SharedPlayerPtr &, getCurrentPlayer, (), (const));
+    MOCK_METHOD(SharedPlayerPtr,  getCurrentPlayer, () , (const ));
 
-    MOCK_METHOD(void, watch, (GameVariables * ), ());
+    MOCK_METHOD(void, watch, (IGameVariables * ), ());
 
     MOCK_METHOD(void, moveButton, (), ());
 

@@ -2,8 +2,8 @@
 // Created by Ciaran on 17/01/2021.
 //
 
-#ifndef POKERX_PREFLOP_H
-#define POKERX_PREFLOP_H
+#ifndef POKERX_PREFLOPBETTING_H
+#define POKERX_PREFLOPBETTING_H
 
 
 #include "PokerX/engine/State.h"
@@ -11,10 +11,10 @@
 
 namespace pokerx {
 
-    class Preflop : public State {
+    class PreflopBetting : public State {
     public:
 
-        ~Preflop() override = default;
+        ~PreflopBetting() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -24,13 +24,13 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static Preflop& getInstance();
+        static PreflopBetting& getInstance();
 
     private:
-        Preflop() = default;
+        PreflopBetting() = default;
 
     };
 
 }
 
-#endif //POKERX_PREFLOP_H
+#endif //POKERX_PREFLOPBETTING_H

@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/Fold.h"
-#include "PokerX/engine/Preflop.h"
+#include "PokerX/engine/PreflopBetting.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -23,7 +23,7 @@ namespace pokerx {
 
         player->fold();
 
-        engine->setState(Preflop::getInstance());
+        engine->setState(PreflopBetting::getInstance());
     }
 
     void Fold::exit(StateMachine *machine) {}

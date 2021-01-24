@@ -47,29 +47,14 @@ namespace pokerx {
     }
 
     void PlayerManager::watch(IGameVariables *variables) {
-        /**
-         *
-         */
         for (const auto &player: contents_) {
             player->watch(variables);
-//            variables->registerObserver(player);
         }
     }
 
-
-    void PlayerManager::moveButton() {
+    void PlayerManager::nextPlayer() {
         // if button index == vector size -1: btn is 0
-        if (getButtonIdx() == size()){
-            setButtonIdx(0);
-        } else {
-            // else i++
-            setButtonIdx(getButtonIdx() + 1);
-        }
-    }
-
-    void PlayerManager::moveCurrentPlayer() {
-        // if button index == vector size -1: btn is 0
-        if (getCurrentPlayerIdx() == size()){
+        if (getCurrentPlayerIdx() == size() - 1){
             setCurrentPlayerIdx(0);
         } else {
             // else i++
@@ -77,20 +62,8 @@ namespace pokerx {
         }
     }
 
-    SharedPlayerPtr PlayerManager::getButton() {
-        return contents_[getButtonIdx()];
-    }
-
     SharedPlayerPtr PlayerManager::getCurrentPlayer() const {
         return contents_[getCurrentPlayerIdx()];
-    }
-
-    int PlayerManager::getButtonIdx() const {
-        return button_idx;
-    }
-
-    void PlayerManager::setButtonIdx(int buttonIdx) {
-        button_idx = buttonIdx;
     }
 
     int PlayerManager::getCurrentPlayerIdx() const {
@@ -101,28 +74,8 @@ namespace pokerx {
         current_player_idx = currentPlayerIdx;
     }
 
-    void PlayerManager::rotateContainerContents() {
-        {
-            if (contents_.size() == 1) {
-                return;
-            }
-            std::vector<SharedPlayerPtr> new_contents(contents_.size());
-
-            for (int i = 0; i < contents_.size() - 1; i++) { // -1 for penultimate element
-                new_contents[i + 1] = contents_[i];
-            }
-
-            // deal with last
-            new_contents[0] = contents_[contents_.size() - 1];
-            // assign new contents vector to old
-            contents_ = new_contents;
-        }
-    }
-
-    void PlayerManager::nextPlayer() {
+    void PlayerManager::moveButton() {
         rotateContainerContents();
-        moveCurrentPlayer();
     }
-
 
 }

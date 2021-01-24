@@ -17,16 +17,35 @@
 
 namespace pokerx {
 
-    class IPlayer :
-            public IObserver<IGameVariables>,
-            public std::enable_shared_from_this<IPlayer> {
+    class IPlayer : public IObserver<IGameVariables>{
     public:
         explicit IPlayer() = default;
 
         IPlayer(std::string name, float stack)
                 : name_(std::move(name)), stack_(stack) {};
 
-        virtual ~IPlayer() override = default;
+        ~IPlayer() override = default;
+
+        /**
+         * @brief implement the update method from the IObserver<IGameVariables>
+         * superclass
+         * @details pass IGameVariables by reference
+         */
+        void update(IGameVariables &source, const string &data_field) override {
+            // store the reference
+            gameVariables_ = &source;
+        }
+
+        /**
+         * @brief implement the update method from the IObserver<IGameVariables>
+         * superclass
+         * @details pass IGameVariables by pointer
+         */
+        void update(IGameVariables *source, const string &data_field) override {
+            // store the reference
+            gameVariables_ = source;
+        }
+
         /**
          * @brief choose an action
          */
@@ -37,7 +56,7 @@ namespace pokerx {
         virtual void setName(const std::string &name) = 0;
 
         std::ostream &print(std::ostream& os) const {
-            os << getName() << "(stack=" << getStack() << ")" << std::endl;
+            os << getName() << "(stack=" << getStack() << ")";
             return os;
         }
 
