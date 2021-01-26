@@ -7,31 +7,31 @@
 
 #include "Mockups/MockCard.h"
 #include "TestHands.h"
-#include "PokerX/engine/hands/Pair.h"
+#include "PokerX/engine/hands/StraightFlush.h"
 
 using namespace pokerx;
 
-class PairTests : public ::testing::Test {
+class StraightFlushTests : public ::testing::Test {
 public:
     TestHands hands;
-    PairTests() = default;
+    StraightFlushTests() = default;
 };
 
-TEST_F(PairTests, TestPairIsWhenItISAPair){
-    pokerx::Pair pair(hands.pair1.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(StraightFlushTests, TestStraightFlush1){
+    StraightFlush sflush(hands.straight_flush1.getCards());
+    ASSERT_TRUE(sflush.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItISAPair2){
-    pokerx::Pair pair(hands.pair2.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(StraightFlushTests, TestStraightFlush2){
+    StraightFlush sflush(hands.straight_flush2.getCards());
+    ASSERT_TRUE(sflush.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItIsNot){
-    pokerx::Pair pair(hands.highCard1.getCards());
-    ASSERT_FALSE(pair.isA());
+TEST_F(StraightFlushTests, TestStraightFlush3){
+    StraightFlush sflush(hands.straight_flush3.getCards());
+    ASSERT_FALSE(sflush.isA());
 }
 
 

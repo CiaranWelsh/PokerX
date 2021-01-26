@@ -18,4 +18,8 @@ namespace pokerx{
     HandType ThreeOfAKind::getHandType() const {
         return THREE_OF_A_KIND;
     }
+
+    int ThreeOfAKind::getValue() {
+        return getValueOfXOfAKind(3);
+    }
 }

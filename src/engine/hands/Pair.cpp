@@ -21,5 +21,10 @@ namespace pokerx{
         return PAIR;
     }
 
+    int Pair::getValue() {
+        value_ = getValueOfXOfAKind(2);
+        return value_;
+    }
+
 
 }

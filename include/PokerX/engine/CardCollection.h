@@ -166,6 +166,8 @@ namespace pokerx {
 
     protected:
         std::vector<ICard *> cards_;
+
+        int getValueOfXOfAKind(int x);
     };
 
     using SharedCardCollection = std::shared_ptr<CardCollection>;

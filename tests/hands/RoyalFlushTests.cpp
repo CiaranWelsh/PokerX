@@ -7,32 +7,22 @@
 
 #include "Mockups/MockCard.h"
 #include "TestHands.h"
-#include "PokerX/engine/hands/Pair.h"
+#include "PokerX/engine/hands/RoyalFlush.h"
 
 using namespace pokerx;
 
-class PairTests : public ::testing::Test {
+class RoyalFlushTests : public ::testing::Test {
 public:
     TestHands hands;
-    PairTests() = default;
+    RoyalFlushTests() = default;
 };
 
-TEST_F(PairTests, TestPairIsWhenItISAPair){
-    pokerx::Pair pair(hands.pair1.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(RoyalFlushTests, TestIsAWhenTrue){
+    RoyalFlush royalFlush(hands.royal_flush1.getCards());
+    ASSERT_TRUE(royalFlush.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItISAPair2){
-    pokerx::Pair pair(hands.pair2.getCards());
-    ASSERT_TRUE(pair.isA());
-}
-
-
-TEST_F(PairTests, TestPairIsWhenItIsNot){
-    pokerx::Pair pair(hands.highCard1.getCards());
-    ASSERT_FALSE(pair.isA());
-}
 
 
 

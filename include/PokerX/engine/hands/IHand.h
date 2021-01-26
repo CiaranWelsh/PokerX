@@ -31,6 +31,11 @@ namespace pokerx {
 
         [[nodiscard]] virtual HandType getHandType() const = 0;
 
+        [[nodiscard]] virtual int getValue() = 0;
+
+    protected:
+        int value_;
+        virtual void setValue(int value);
 
     };
 }

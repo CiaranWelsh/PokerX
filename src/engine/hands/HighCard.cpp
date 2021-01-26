@@ -3,7 +3,8 @@
 //
 
 #include "PokerX/engine/hands/HighCard.h"
-namespace pokerx{
+
+namespace pokerx {
 
 
     std::shared_ptr<CardCollection> HighCard::getBestFive() const {
@@ -13,10 +14,23 @@ namespace pokerx{
     }
 
     bool HighCard::isA() const {
-        return false;
+        return true;
     }
 
     HandType HighCard::getHandType() const {
-        return TWO_PAIR;
+        return HIGH_CARD;
+    }
+
+    int HighCard::getValue() {
+        CardCollection cc(cards_);
+        int max = 0;
+        for (auto i: cc.getRanks()) {
+            if (i > max)
+                i = max;
+        }
+        setValue(max);
     }
 }
+
+
+

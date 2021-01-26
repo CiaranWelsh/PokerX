@@ -7,31 +7,36 @@
 
 #include "Mockups/MockCard.h"
 #include "TestHands.h"
-#include "PokerX/engine/hands/Pair.h"
+#include "PokerX/engine/hands/Straight.h"
 
 using namespace pokerx;
 
-class PairTests : public ::testing::Test {
+class StraightTests : public ::testing::Test {
 public:
     TestHands hands;
-    PairTests() = default;
+    StraightTests() = default;
 };
 
-TEST_F(PairTests, TestPairIsWhenItISAPair){
-    pokerx::Pair pair(hands.pair1.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(StraightTests, Straight2To6){
+    pokerx::Straight straight(hands.straight2to6.getCards());
+    ASSERT_TRUE(straight.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItISAPair2){
-    pokerx::Pair pair(hands.pair2.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(StraightTests, Straight2To62){
+    pokerx::Straight straight(hands.straight2to6_2.getCards());
+    ASSERT_TRUE(straight.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItIsNot){
-    pokerx::Pair pair(hands.highCard1.getCards());
-    ASSERT_FALSE(pair.isA());
+TEST_F(StraightTests, Straight4){
+    pokerx::Straight straight(hands.straight4.getCards());
+    ASSERT_FALSE(straight.isA());
+}
+
+TEST_F(StraightTests, Straight5){
+    pokerx::Straight straight(hands.straight5.getCards());
+    ASSERT_FALSE(straight.isA());
 }
 
 

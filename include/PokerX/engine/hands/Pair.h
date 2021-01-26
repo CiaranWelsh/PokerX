@@ -22,6 +22,8 @@ namespace pokerx {
 
         [[nodiscard]] HandType getHandType() const override;
 
+        int getValue() override;
+
     };
 }
 

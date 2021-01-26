@@ -19,4 +19,8 @@ namespace pokerx{
     HandType TwoPair::getHandType() const {
         return TWO_PAIR;
     }
+
+    int TwoPair::getValue() {
+        return getValueOfXOfAKind(2);
+    }
 }

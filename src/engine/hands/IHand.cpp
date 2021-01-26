@@ -29,6 +29,10 @@ namespace pokerx {
         return false;
     }
 
+    void IHand::setValue(int value) {
+        value_ = value;
+    }
+
 }
 
 

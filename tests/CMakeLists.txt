@@ -47,8 +47,6 @@ add_test_executable(StateTests ON OFF TestExecutables
         AbstractStateMachineTests/LightHigh.cpp
         )
 
-gtest_discover_tests(StateTests)
-
 # An integration style test on StateMachine and States. We create
 # a StateMachine simulation of a light switching states from Off to
 # low intensity to high intensity. The code uses the same
@@ -119,8 +117,6 @@ add_test_executable(
         # Sources
         "${POKERX_SOURCE_DIR}/engine/Player.cpp"
         "${POKERX_SOURCE_DIR}/engine/PlayerManager.cpp"
-
-
 )
 
 # integration style tests to check the Player and GameVariables
@@ -155,12 +151,13 @@ add_test_executable(FullHouseTests                  ON ON TestExecutables hands/
 add_test_executable(FourOfAKind                     ON ON TestExecutables hands/FOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(StraightFlushTests              ON ON TestExecutables hands/StraightFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(RoyalFlushTests                 ON ON TestExecutables hands/RoyalFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
-
-add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h HandEvaluatorTests.cpp hands/PairTests.cpp hands/TestHands.h)
+#add_test_executable(HandEvaluatorTests                 ON ON TestExecutables Ev.cpp Mockups/MockCard.h hands/TestHands.h)
+#
+add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h hands/TestHands.h)
 target_link_libraries(AConsoleGame PRIVATE PokerX)
 
 
-add_test_executable(ContainerTests.cpp              ON ON TestExecutables ContainerTests.cpp  )
+add_test_executable(ContainerTests              ON ON TestExecutables ContainerTests.cpp  )
 
 
 install(

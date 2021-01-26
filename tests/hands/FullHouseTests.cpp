@@ -7,32 +7,27 @@
 
 #include "Mockups/MockCard.h"
 #include "TestHands.h"
-#include "PokerX/engine/hands/Pair.h"
+#include "PokerX/engine/hands/FullHouse.h"
 
 using namespace pokerx;
 
-class PairTests : public ::testing::Test {
+class FlushTests : public ::testing::Test {
 public:
     TestHands hands;
-    PairTests() = default;
+    FlushTests() = default;
 };
 
-TEST_F(PairTests, TestPairIsWhenItISAPair){
-    pokerx::Pair pair(hands.pair1.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(FlushTests, TestFullhouse1){
+    pokerx::FullHouse fullHouse(hands.full_house1.getCards());
+    ASSERT_TRUE(fullHouse.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItISAPair2){
-    pokerx::Pair pair(hands.pair2.getCards());
-    ASSERT_TRUE(pair.isA());
+TEST_F(FlushTests, TestFullHouse){
+    pokerx::FullHouse fullHouse(hands.full_house2.getCards());
+    ASSERT_TRUE(fullHouse.isA());
 }
 
-
-TEST_F(PairTests, TestPairIsWhenItIsNot){
-    pokerx::Pair pair(hands.highCard1.getCards());
-    ASSERT_FALSE(pair.isA());
-}
 
 
 

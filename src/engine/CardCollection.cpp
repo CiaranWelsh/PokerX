@@ -11,6 +11,7 @@
 #include <random>
 #include <set>
 #include "PokerX/engine/CardCollection.h"
+#include "PokerX/Error.h"
 #include "pokerx_export.h"
 
 namespace pokerx {
@@ -312,7 +313,29 @@ namespace pokerx {
         return num_x.size() == how_many;
     }
 
-
+    int CardCollection::getValueOfXOfAKind(int x) {
+        CardCollection cc(cards_);
+        Counter<int> count = Counter<int>(cc.getRanks());
+        std::vector<int> val;
+        for (std::pair<int, int> i : count.count()) {
+            if (i.second == x) {
+                val.push_back(i.first);
+            }
+        }
+        // protect against not finding any x
+        if (val.empty()) {
+            return 0;
+        }
+        // when we have 2 pair, return the largest rank
+        if (val.size() > 1) {
+            return *std::max_element(val.begin(), val.end());
+        } else {
+            if (val.size() != 1) {
+                LOGIC_ERROR << "Should only have 1" << std::endl;
+            }
+            return val[0];
+        }
+    }
 
 }
 
