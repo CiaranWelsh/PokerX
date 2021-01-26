@@ -7,47 +7,47 @@
 #include <string>
 #include <algorithm>
 
-using namespace std;
+//using namespace std;
 
 template<class T>
 class Counter {
-private:
-    vector<T> _to_be_counted;
-    vector<T> _unique_elements;
 
-    unordered_map<T, int> _count = count();
-
-    vector<T> _get_unique_elements() {
-        vector<T> unique;
-        typename vector<T>::iterator ip;
-        ip = std::unique(_unique_elements.begin(), _unique_elements.begin() + _unique_elements.size());
-        _unique_elements.resize(std::distance(_unique_elements.begin(), ip));
-        return _unique_elements;
-    }
 
 public:
-    explicit Counter(vector<T> to_be_counted) : _to_be_counted(to_be_counted), _unique_elements(to_be_counted) {
-        this->_unique_elements = _get_unique_elements();
+    explicit Counter(std::vector<T> to_be_counted) : to_be_counted_(to_be_counted), unique_elements_(to_be_counted) {
+        this->unique_elements_ = get_unique_elements();
     };
 
-    unordered_map<T, int> count() {
-        unordered_map<T, int> map{};
-        for (const T &s: _get_unique_elements()) {
+    std::unordered_map<T, int> count() {
+        std::unordered_map<T, int> map{};
+        for (auto &s: get_unique_elements()) {
             int count = 0;
-            for (int t = 0; t < _to_be_counted.size(); t++) {
-                if (s == _to_be_counted[t]) {
+            for (int t = 0; t < to_be_counted_.size(); t++) {
+                if (s == to_be_counted_[t]) {
                     count += 1;
                 }
-                bool x = s == _to_be_counted[t];
             }
             map[s] = count;
         }
         return map;
     };
+private:
+    std::vector<T> to_be_counted_;
+    std::vector<T> unique_elements_;
 
-    friend ostream &operator<<(ostream &os, const Counter &count) {
+    std::unordered_map<T, int> count_ = count();
+
+    std::vector<T> get_unique_elements() {
+        std::vector<T> unique;
+        typename std::vector<T>::iterator ip;
+        ip = std::unique(unique_elements_.begin(), unique_elements_.begin() + unique_elements_.size());
+        unique_elements_.resize(std::distance(unique_elements_.begin(), ip));
+        return unique_elements_;
+    }
+
+    friend std::ostream &operator<<(std::ostream &os, const Counter &count) {
         os << "{";
-        for (auto &element : count._count) {
+        for (auto &element : count.count_) {
             os << element.first << ": " << element.second << ", ";
         }
         os << "\b\b}";

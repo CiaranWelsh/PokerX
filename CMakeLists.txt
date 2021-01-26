@@ -67,8 +67,6 @@ add_library(
         include/PokerX/engine/eGamePlayState.h
         include/PokerX/engine/GameVariables.h
         include/PokerX/engine/HoleCards.h
-        include/PokerX/engine/Hand.h
-        include/PokerX/engine/HandEvaluator.h
         include/PokerX/engine/IGameVariables.h
         include/PokerX/engine/IPlayer.h
         include/PokerX/engine/IPlayerManager.h
@@ -94,6 +92,20 @@ add_library(
         include/PokerX/engine/Turn.h
         include/PokerX/engine/PlayerToAct.h
         include/PokerX/Error.h
+        include/PokerX/engine/hands/Hand.h
+        include/PokerX/engine/hands/Pair.h
+        include/PokerX/engine/hands/TwoPair.h
+        include/PokerX/engine/hands/HighCard.h
+        include/PokerX/engine/hands/ThreeOfAKind.h
+        include/PokerX/engine/hands/Straight.h
+        include/PokerX/engine/hands/Flush.h
+        include/PokerX/engine/hands/FullHouse.h
+        include/PokerX/engine/hands/FourOfAKind.h
+        include/PokerX/engine/hands/StraightFlush.h
+        include/PokerX/engine/hands/RoyalFlush.h
+        include/PokerX/engine/hands/Best5.h
+        include/PokerX/engine/hands/HandType.h
+        include/PokerX/engine/hands/IHand.h
 
         # sources
         src/engine/AllInPlayer.cpp
@@ -115,8 +127,6 @@ add_library(
         src/engine/FolderPlayer.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
-        src/engine/Hand.cpp
-        src/engine/HandEvaluator.cpp
         src/engine/NextStreet.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp
@@ -134,6 +144,19 @@ add_library(
         src/engine/StreetMachine.cpp
         src/engine/Turn.cpp
         src/engine/PlayerToAct.cpp
+        src/engine/hands/Hand.cpp
+        src/engine/hands/Pair.cpp
+        src/engine/hands/TwoPair.cpp
+        src/engine/hands/HighCard.cpp
+        src/engine/hands/ThreeOfAKind.cpp
+        src/engine/hands/Straight.cpp
+        src/engine/hands/Flush.cpp
+        src/engine/hands/FullHouse.cpp
+        src/engine/hands/FourOfAKind.cpp
+        src/engine/hands/StraightFlush.cpp
+        src/engine/hands/RoyalFlush.cpp
+        src/engine/hands/Best5.cpp
+        src/engine/hands/IHand.cpp
 )
 
 target_include_directories(

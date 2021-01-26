@@ -1,0 +1,53 @@
+@startuml
+'https://plantuml.com/object-diagram
+
+
+class CardCollection
+class RestrictedCardCollection
+class BestFive
+enum HandType
+class Hand {
+    getType: HandType
+    getBestFive: BestFive
+
+    isAPair()
+    ...()
+}
+CardCollection <|-- RestrictedCardCollection
+RestrictedCardCollection <|-- Hand : 7 cards\nonly
+RestrictedCardCollection <|-- BestFive : 5 cards\nonly
+
+note left of Hand {
+    std::vector<Hand> hands;
+    Hand winner = std::max(hands);
+}
+
+Hand --> HandType : Determines
+Hand --> BestFive : Returns
+
+interface IHand {
+    type HandType
+    getType()
+    getBestFive()
+    ComparisonOperators()
+}
+
+
+
+
+
+
+
+'object London
+'object Washington
+'object Berlin
+'object NewYork
+'
+'map CapitalCity {
+' UK *-> London
+' USA *--> Washington
+' Germany *---> Berlin
+'}
+
+'NewYork --> CapitalCity::USA
+@enduml

@@ -15,6 +15,9 @@
 
 namespace pokerx {
 
+    CardCollection::CardCollection(std::initializer_list<ICard *> init)
+        : cards_(init){}
+
     CardCollection::CardCollection(std::vector<ICard *> cards) :
             cards_(std::move(cards)) {}
 
@@ -73,11 +76,11 @@ namespace pokerx {
         return equal;
     }
 
-    int CardCollection::size() {
+    int CardCollection::size() const{
         return cards_.size();
     }
 
-    std::vector<ICard *> CardCollection::getCards() {
+    std::vector<ICard *> CardCollection::getCards() const {
         return cards_;
     }
 
@@ -138,13 +141,13 @@ namespace pokerx {
         return card;
     }
 
-    CardCollection CardCollection::operator+(CardCollection &other) {
+    CardCollection &CardCollection::operator+(CardCollection &other) {
         for (const ICard *card : other.cards_)
             cards_.push_back(const_cast<ICard *&&>(card));
-        return CardCollection(cards_);
+        return *this;
     }
 
-    CardCollection CardCollection::operator+=(CardCollection &other) {
+    CardCollection &CardCollection::operator+=(CardCollection &other) {
         return *this + other;
     }
 
@@ -160,13 +163,13 @@ namespace pokerx {
         return this;
     }
 
-    CardCollection CardCollection::operator()(unsigned int start, unsigned int end) {
+    CardCollection &CardCollection::operator()(unsigned int start, unsigned int end) {
         std::vector<ICard *> sliced = std::vector<ICard *>(cards_.begin() + start, cards_.begin() + end);
         cards_ = sliced;
         return *this;
     }
 
-    std::vector<int> CardCollection::getRanks() {
+    std::vector<int> CardCollection::getRanks() const {
         std::vector<int> ranks;
         for (const ICard *card: cards_) {
             int r = card->getRank();
@@ -292,6 +295,24 @@ namespace pokerx {
         return unique;
 
     }
+
+    bool CardCollection::xOfAKindIsA(int x, int how_many) const {
+        CardCollection cc(getCards());
+        Counter<int> counter(cc.getRanks());
+        // counter for number of cards with x copies, i.e. 2 for pair, 3 for three of a kind.
+        std::vector<int> num_x;
+        std::cout <<counter<<std::endl;
+        for (auto i : counter.count()) {
+            if (i.second == x)
+                num_x.push_back(i.first);
+        }
+        // caters for situation where you have three pairs
+        if (x == 2 && how_many == 2 && num_x.size() == 3)
+            return true;
+        return num_x.size() == how_many;
+    }
+
+
 
 }
 

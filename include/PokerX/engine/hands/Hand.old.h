@@ -16,7 +16,7 @@
 
 using namespace pokerx;
 
-namespace eval {
+namespace pokerx {
 
     enum eHandType {
         Hand_,
@@ -33,27 +33,27 @@ namespace eval {
     };
 
 
-class Hand : public RestrictedCardCollection{
-    public:
-        ~Hand() override = default;
-
-        Hand();
-
-        virtual CardCollection best5() = 0;
-
-        virtual bool isa() = 0;
-
-private:
-    const HoleCards& holeCards_;
-
-    const CommunityCards &communityCards_;
+//class Hand.old : public RestrictedCardCollection{
+//    public:
+//        Hand.old.old() override = default;
+//
+//        Hand.old();
+//
+//        virtual CardCollection best5() = 0;
+//
+//        virtual bool isa() = 0;
+//
+//private:
+//    const HoleCards& holeCards_;
+//
+//    const CommunityCards &communityCards_;
 
 
 //class Hand : public RestrictedCardCollection{
 //    public:
-//        ~Hand() override = default;
+//        Hand) override = default;
 //
-//        Hand() = default;
+//        Hand();
 //
 //        virtual CardCollection best5() = 0;
 //
@@ -61,22 +61,22 @@ private:
 //
 //        eHandType type = eHandType::Hand_;
 //
-//        Hand(HoleCards holeCards, cards::CommunityCards &communityCards);
+//        Hand.old(HoleCards holeCards, cards::CommunityCards &communityCards);
 //
-//        explicit Hand(CardCollection &collection);
+//        explicit Hand.old(CardCollection &collection);
 //
-//        explicit Hand(Hand* hand);
+//        explicit Hand.old(Hand.old* hand);
 //
-//        Hand(Hand &hand);
+//        Hand.old(Hand.old &hand);
 //
 //
-//        bool operator==(Hand &hand);
+//        bool operator==(Hand.old &hand);
 //
-//        bool operator!=(Hand &hand);
+//        bool operator!=(Hand.old &hand);
 //
-//        bool operator>(Hand &hand);
+//        bool operator>(Hand.old &hand);
 //
-//        bool operator<(Hand &hand);
+//        bool operator<(Hand.old &hand);
 //
 //        CommunityCards getCards();
 //
@@ -135,7 +135,7 @@ private:
 //
 //        virtual CardCollection best5() override ;
 //
-//        std::shared_ptr<Hand> evaluate();
+//        std::shared_ptr<Hand.old> evaluate();
 //
 //        int sumBest5Ranks();
 //
@@ -146,35 +146,38 @@ private:
 //        virtual void setValue();
 //
 //        int getValue();
-
-    protected:
-        HoleCards holeCards;
-        CommunityCards communityCards;
-        CardCollection cards_ = holeCards + communityCards;
-        int value = 0;
-
-    private:
-
-        friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
-
-        std::string name;
-    };
-
-//    typedef std::shared_ptr<Hand> HandPtr;
+//    const CardCollection getCards() const;
 //
-//    class HighCard : public Hand {
+//    void setCards(const CardCollection &cards);
+//
+//protected:
+//        HoleCards holeCards;
+//        CommunityCards communityCards;
+//        CardCollection cards_;
+//        int value = 0;
+//
+//private:
+//
+//        friend std::ostream &operator<<(std::ostream &os, const Hand &hand);
+//
+//        std::string name;
+//    };
+
+//    typedef std::shared_ptr<Hand.old> HandPtr;
+//
+//    class HighCard : public Hand.old {
 //    public:
 //        HighCard(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit HighCard(CardCollection &collection);
 //
-//        explicit HighCard(Hand* hand);
+//        explicit HighCard(Hand.old* hand);
 //
-//        HighCard(Hand &hand);
+//        HighCard(Hand.old &hand);
 //
-////        HighCard &operator=(Hand hand); //copy assignment
+////        HighCard &operator=(Hand.old hand); //copy assignment
 //
-//        HighCard(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        HighCard(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        bool isa() override;
 //
@@ -184,18 +187,18 @@ private:
 //    };
 //
 //
-//    class Pair : public Hand {
+//    class Pair : public Hand.old {
 //    public:
 //
 //        Pair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit Pair(CardCollection &collection);
 //
-//        explicit Pair(Hand* hand);
+//        explicit Pair(Hand.old* hand);
 //
-//        Pair(Hand &hand);
+//        Pair(Hand.old &hand);
 //
-//        Pair(Hand&& hand) noexcept ;    // move constructor
+//        Pair(Hand.old&& hand) noexcept ;    // move constructor
 //
 //        void setValue() override;
 //
@@ -205,20 +208,20 @@ private:
 //    };
 //
 //
-//    class TwoPair : public Hand {
+//    class TwoPair : public Hand.old {
 //    public:
 //
 //        TwoPair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit TwoPair(CardCollection &collection);
 //
-//        explicit TwoPair(Hand* hand);
+//        explicit TwoPair(Hand.old* hand);
 //
-//        TwoPair(Hand &hand);
+//        TwoPair(Hand.old &hand);
 //
-////        TwoPair &operator=(Hand hand); //copy assignment
+////        TwoPair &operator=(Hand.old hand); //copy assignment
 //
-//        TwoPair(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        TwoPair(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -228,18 +231,18 @@ private:
 //    };
 //
 //
-//    class ThreeOfAKind : public Hand {
+//    class ThreeOfAKind : public Hand.old {
 //    public:
 //
 //        ThreeOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit ThreeOfAKind(CardCollection &collection);
 //
-//        explicit ThreeOfAKind(Hand* hand);
+//        explicit ThreeOfAKind(Hand.old* hand);
 //
-//        ThreeOfAKind(Hand &hand);
+//        ThreeOfAKind(Hand.old &hand);
 //
-//        ThreeOfAKind(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        ThreeOfAKind(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -249,18 +252,18 @@ private:
 //    };
 //
 //
-//    class Straight : public Hand {
+//    class Straight : public Hand.old {
 //    public:
 //
 //        Straight(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit Straight(CardCollection &collection);
 //
-//        explicit Straight(Hand* hand);
+//        explicit Straight(Hand.old* hand);
 //
-//        Straight(Hand &hand);
+//        Straight(Hand.old &hand);
 //
-//        Straight(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        Straight(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -270,19 +273,19 @@ private:
 //    };
 //
 //
-//    class Flush : public Hand {
+//    class Flush : public Hand.old {
 //    public:
 //        Flush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit Flush(CardCollection &collection);
 //
-//        explicit Flush(Hand* hand);
+//        explicit Flush(Hand.old* hand);
 //
-//        Flush(Hand &hand);
+//        Flush(Hand.old &hand);
 //
-////        Flush &operator=(Hand hand); //copy assignment
+////        Flush &operator=(Hand.old hand); //copy assignment
 //
-//        Flush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        Flush(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -291,18 +294,18 @@ private:
 //        void setValue() override;
 //    };
 //
-//    class FullHouse : public Hand {
+//    class FullHouse : public Hand.old {
 //    public:
 //
 //        FullHouse(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit FullHouse(CardCollection &collection);
 //
-//        explicit FullHouse(Hand* hand);
+//        explicit FullHouse(Hand.old* hand);
 //
-//        FullHouse(Hand &hand);
+//        FullHouse(Hand.old &hand);
 //
-//        FullHouse(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        FullHouse(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -311,20 +314,20 @@ private:
 //        void setValue() override;
 //    };
 //
-//    class FourOfAKind : public Hand {
+//    class FourOfAKind : public Hand.old {
 //    public:
 //
 //        FourOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit FourOfAKind(CardCollection &collection);
 //
-//        explicit FourOfAKind(Hand* hand);
+//        explicit FourOfAKind(Hand.old* hand);
 //
-//        FourOfAKind(Hand &hand);
+//        FourOfAKind(Hand.old &hand);
 //
-//        FourOfAKind &operator=(Hand hand); //copy assignment
+//        FourOfAKind &operator=(Hand.old hand); //copy assignment
 //
-//        FourOfAKind(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        FourOfAKind(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -333,20 +336,20 @@ private:
 //        void setValue() override;
 //    };
 //
-//    class StraightFlush : public Hand {
+//    class StraightFlush : public Hand.old {
 //    public:
 //
 //        StraightFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit StraightFlush(CardCollection &collection);
 //
-//        explicit StraightFlush(Hand* hand);
+//        explicit StraightFlush(Hand.old* hand);
 //
-//        StraightFlush(Hand &hand);
+//        StraightFlush(Hand.old &hand);
 //
-////        StraightFlush &operator=(Hand hand); //copy assignment
+////        StraightFlush &operator=(Hand.old hand); //copy assignment
 //
-//        StraightFlush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        StraightFlush(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //
@@ -355,20 +358,20 @@ private:
 //        void setValue() override;
 //    };
 //
-//    class RoyalFlush : public Hand {
+//    class RoyalFlush : public Hand.old {
 //    public:
 //
 //        RoyalFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards);
 //
 //        explicit RoyalFlush(CardCollection &collection);
 //
-//        explicit RoyalFlush(Hand* hand);
+//        explicit RoyalFlush(Hand.old* hand);
 //
-//        RoyalFlush(Hand &hand);
+//        RoyalFlush(Hand.old &hand);
 //
-////        RoyalFlush &operator=(Hand hand); //copy assignment
+////        RoyalFlush &operator=(Hand.old hand); //copy assignment
 //
-//        RoyalFlush(Hand&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
+//        RoyalFlush(Hand.old&& hand) noexcept ;    // move constructor        CardCollection best5(CardCollection cards) override;
 //
 //        CardCollection best5() override;
 //

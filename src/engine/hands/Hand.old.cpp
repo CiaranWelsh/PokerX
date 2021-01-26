@@ -5,20 +5,28 @@
 #include <utility>
 #include <vector>
 #include <memory>
-#include "PokerX/engine/Hand.h"
+#include "PokerX/engine/hands/Hand.old.h"
 #include "iostream"
-#include "card/CommunityCards.h"
-#include "card/HoleCards.h"
-#include "Error.h"
-#include "utils/Counter.h"
+#include "PokerX/engine/CommunityCards.h"
+#include "PokerX/engine/HoleCards.h"
+#include "PokerX/Error.h"
+#include "PokerX/engine/Counter.h"
 
 using namespace std;
 
-namespace eval {
+namespace pokerx {
 
-    Hand::Hand() : RestrictedCardCollection(7) {}
+//    Hand::Hand() : RestrictedCardCollection(7) {}
+//
+//    const CardCollection &Hand::getCards() const {
+//        return cards_;
+//    }
+//
+//    void Hand::setCards(const CardCollection &cards) {
+//        cards_ = cards;
+//    }
 
-//    Hand::Hand(CardCollection &collection) {
+//    Hand.old::Hand.old(CardCollection &collection) {
 //        if (collection.size() != 7) {
 //            throw std::invalid_argument("need 7 cards");
 //        }
@@ -27,9 +35,9 @@ namespace eval {
 //    }
 //
 //    /*
-//     * Hand implementation
+//     * Hand.old implementation
 //     */
-//    Hand::Hand(HoleCards holeCards, cards::CommunityCards &communityCards) {
+//    Hand.old::Hand.old(HoleCards holeCards, cards::CommunityCards &communityCards) {
 //        holeCards = holeCards;
 //        communityCards = communityCards;
 //        cards_ = holeCards + communityCards;
@@ -38,9 +46,9 @@ namespace eval {
 //        setValue();
 //    }
 //
-//    Hand::~Hand() = default;
+//    Hand.old::Hand.old.old() = default;
 //
-//    Hand::Hand(Hand &hand) {
+//    Hand.old::Hand.old(Hand.old &hand) {
 //        holeCards = hand.holeCards;
 //        communityCards = hand.communityCards;
 //        cards_ = hand.cards_;
@@ -49,7 +57,7 @@ namespace eval {
 //        value = hand.value;
 //    }
 //
-//    Hand::Hand(Hand *hand) {
+//    Hand.old::Hand.old(Hand.old *hand) {
 //
 //        this->holeCards = hand->holeCards;
 //        this->communityCards = hand->communityCards;
@@ -60,22 +68,22 @@ namespace eval {
 //    }
 //
 //
-//    std::ostream &operator<<(std::ostream &os, const Hand &hand) {
+//    std::ostream &operator<<(std::ostream &os, const Hand.old &hand) {
 //        CardCollection best5 = hand.cards_;
 //        os << best5;
 //        return os;
 //    }
 //
-//    void Hand::shuffle() {
+//    void Hand.old::shuffle() {
 //        cards_.shuffle();
 //    }
 //
-//    CardCollection Hand::best5() {
+//    CardCollection Hand.old::best5() {
 //        return cards_(2, cards_.size());
 //    }
 //
-//    bool Hand::isa() {
-//        throw errors::NotImplementedException("Member function Hand::isa is not implemented", __FILE__, __LINE__);
+//    bool Hand.old::isa() {
+//        throw errors::NotImplementedException("Member function Hand.old::isa is not implemented", __FILE__, __LINE__);
 //    }
 //
 //    /*
@@ -84,7 +92,7 @@ namespace eval {
 //     * be 1 for @x=2, @x=3 and @x=4 for pair, three of a
 //     * kind and four of a kind and @how_many=2 for two pair.
 //     */
-//    bool Hand::xOfAKindIsA(int x, int how_many) {
+//    bool Hand.old::xOfAKindIsA(int x, int how_many) {
 //        Counter<int> counter(getCards().getRanks());
 //        // counter for number of cards with x copies, i.e. 2 for pair, 3 for three of a kind.
 //        std::vector<int> num_x;
@@ -98,7 +106,7 @@ namespace eval {
 //        return num_x.size() == how_many;
 //    }
 //
-//    std::shared_ptr<Hand> Hand::evaluate() {
+//    std::shared_ptr<Hand.old> Hand.old::evaluate() {
 ////        cout << "checking for RoyalFlush" << endl;
 //        CardCollection cards = getCards();
 //        RoyalFlush royalFlush(cards);
@@ -159,12 +167,12 @@ namespace eval {
 //        return highCard;
 //    }
 //
-//    CommunityCards Hand::getCards() {
+//    CommunityCards Hand.old::getCards() {
 //        return CommunityCards(cards_);
 //    }
 //
 //
-//    Hand &Hand::operator=(Hand hand) {
+//    Hand.old &Hand.old::operator=(Hand.old hand) {
 //        if ((*this) == hand)
 //            return *this;
 //        cards_ = hand.cards_;
@@ -174,7 +182,7 @@ namespace eval {
 //        return (*this);
 //    }
 //
-//    Hand &Hand::operator=(Hand &&hand) noexcept {
+//    Hand.old &Hand.old::operator=(Hand.old &&hand) noexcept {
 //        if ((*this) == hand)
 //            return *this;
 //        cards_ = hand.cards_;
@@ -185,7 +193,7 @@ namespace eval {
 //        return (*this);
 //    }
 //
-//    Hand::Hand(Hand &&hand) noexcept {
+//    Hand.old::Hand.old(Hand.old &&hand) noexcept {
 //        cards_ = hand.cards_;
 //        communityCards = hand.communityCards;
 //        holeCards = hand.holeCards;
@@ -193,15 +201,15 @@ namespace eval {
 //        type = hand.type;
 //    }
 //
-//    bool Hand::operator==(Hand &hand) {
+//    bool Hand.old::operator==(Hand.old &hand) {
 //        return this->getCards() == hand.getCards();
 //    }
 //
-//    bool Hand::operator!=(Hand &hand) {
+//    bool Hand.old::operator!=(Hand.old &hand) {
 //        return !(*this == hand);
 //    }
 //
-//    bool Hand::operator<(Hand &hand) {
+//    bool Hand.old::operator<(Hand.old &hand) {
 //        eHandType mine = evaluate()->type;
 //        eHandType theirs = hand.evaluate()->type;
 //        if (mine == theirs) {
@@ -210,7 +218,7 @@ namespace eval {
 //        return mine < theirs;
 //    }
 //
-//    bool Hand::operator>(Hand &hand) {
+//    bool Hand.old::operator>(Hand.old &hand) {
 //        eHandType mine = evaluate()->getHandType();
 //        eHandType theirs = hand.evaluate()->getHandType();
 //        if (mine == theirs) {
@@ -220,7 +228,7 @@ namespace eval {
 //    }
 //
 //
-//    int Hand::sumBest5Ranks() {
+//    int Hand.old::sumBest5Ranks() {
 //        Straight straight(cards_);
 //        StraightFlush straightFlush(cards_);
 //        std::vector<int> low_ranks = {2, 3, 4, 5, 14};
@@ -239,16 +247,16 @@ namespace eval {
 //        return sum;
 //    }
 //
-//    eHandType Hand::getHandType() const {
+//    eHandType Hand.old::getHandType() const {
 //        return type;
 //    }
 //
 //
-//    int Hand::getValue() {
+//    int Hand.old::getValue() {
 //        return value;
 //    }
 //
-//    void Hand::setValue() {
+//    void Hand.old::setValue() {
 //        value = 0;
 //    }
 //
@@ -258,7 +266,7 @@ namespace eval {
 //     * expect 2
 //     *
 //     */
-//    int Hand::getValueOfXOfAKind(int x) {
+//    int Hand.old::getValueOfXOfAKind(int x) {
 //        Counter<int> count = Counter<int>(this->getCards().getRanks());
 //        std::vector<int> val;
 //        for (std::pair<int, int> i : count.count()) {
@@ -281,7 +289,7 @@ namespace eval {
 //        }
 //    }
 //
-//    int Hand::getLargestRank() {
+//    int Hand.old::getLargestRank() {
 //        int max_val = 0;
 //        for (int &i : best5().getRanks()) {
 //            if (i > max_val)
@@ -297,28 +305,28 @@ namespace eval {
 // *
 // */
 //
-//    HighCard::HighCard(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    HighCard::HighCard(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                  communityCards) {
 //        setValue();
 //        type = eHandType::HighCard_;
 //    }
 //
-//    HighCard::HighCard(CardCollection &collection) : Hand(collection) {
+//    HighCard::HighCard(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::HighCard_;
 //    }
 //
-//    HighCard::HighCard(Hand *hand) : Hand(hand) {
+//    HighCard::HighCard(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::HighCard_;
 //    }
 //
-//    HighCard::HighCard(Hand &hand) : Hand(hand) {
+//    HighCard::HighCard(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::HighCard_;
 //    }
 //
-//    HighCard::HighCard(Hand &&hand) noexcept : Hand(hand) {
+//    HighCard::HighCard(Hand.old &&hand) noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::HighCard_;
 //    }
@@ -341,27 +349,27 @@ namespace eval {
 //        value = max;
 //    }
 //
-//    Pair::Pair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards, communityCards) {
+//    Pair::Pair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards, communityCards) {
 //        setValue();
 //        type = eHandType::Pair_;
 //    }
 //
-//    Pair::Pair(CardCollection &collection) : Hand(collection) {
+//    Pair::Pair(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::Pair_;
 //    }
 //
-//    Pair::Pair(Hand *hand) : Hand(hand) {
+//    Pair::Pair(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Pair_;
 //    }
 //
-//    Pair::Pair(Hand &hand) : Hand(hand) {
+//    Pair::Pair(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Pair_;
 //    }
 //
-//    Pair::Pair(Hand &&hand) noexcept : Hand(hand) {
+//    Pair::Pair(Hand.old &&hand) noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Pair_;
 //    }
@@ -386,29 +394,29 @@ namespace eval {
 //
 //
 //
-//    TwoPair::TwoPair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    TwoPair::TwoPair(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                communityCards) {
 //        setValue();
 //        type = eHandType::TwoPair_;
 //    }
 //
-//    TwoPair::TwoPair(CardCollection &collection) : Hand(collection) {
+//    TwoPair::TwoPair(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::TwoPair_;
 //    }
 //
-//    TwoPair::TwoPair(Hand *hand) : Hand(hand) {
+//    TwoPair::TwoPair(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::TwoPair_;
 //    }
 //
-//    TwoPair::TwoPair(Hand &hand) : Hand(hand) {
+//    TwoPair::TwoPair(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::TwoPair_;
 //    }
 //
 //
-//    TwoPair::TwoPair(Hand &&hand) noexcept : Hand(hand) {
+//    TwoPair::TwoPair(Hand.old &&hand) noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::TwoPair_;
 //    }
@@ -429,29 +437,29 @@ namespace eval {
 ///*
 // * Three of a kind implementation
 // */
-//    ThreeOfAKind::ThreeOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    ThreeOfAKind::ThreeOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                          communityCards) {
 //        setValue();
 //        type = eHandType::ThreeOfAKind_;
 //    }
 //
-//    ThreeOfAKind::ThreeOfAKind(CardCollection &collection) : Hand(collection) {
+//    ThreeOfAKind::ThreeOfAKind(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::ThreeOfAKind_;
 //    }
 //
-//    ThreeOfAKind::ThreeOfAKind(Hand *hand) : Hand(hand) {
+//    ThreeOfAKind::ThreeOfAKind(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::ThreeOfAKind_;
 //    }
 //
-//    ThreeOfAKind::ThreeOfAKind(Hand &hand) : Hand(hand) {
+//    ThreeOfAKind::ThreeOfAKind(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::ThreeOfAKind_;
 //    }
 //
 //
-//    ThreeOfAKind::ThreeOfAKind(Hand &&hand) noexcept : Hand(hand) {
+//    ThreeOfAKind::ThreeOfAKind(Hand.old &&hand) noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::ThreeOfAKind_;
 //    }
@@ -473,29 +481,29 @@ namespace eval {
 // * Straight Implementation
 // */
 //
-//    Straight::Straight(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    Straight::Straight(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                  communityCards) {
 //        setValue();
 //        type = eHandType::Straight_;
 //    }
 //
-//    Straight::Straight(CardCollection &collection) : Hand(collection) {
+//    Straight::Straight(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::Straight_;
 //    }
 //
-//    Straight::Straight(Hand *hand) : Hand(hand) {
+//    Straight::Straight(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Straight_;
 //    }
 //
-//    Straight::Straight(Hand &hand) : Hand(hand) {
+//    Straight::Straight(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Straight_;
 //    }
 //
 //
-//    Straight::Straight(Hand &&hand) noexcept : Hand(hand) {
+//    Straight::Straight(Hand.old &&hand) noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Straight_;
 //    }
@@ -597,30 +605,30 @@ namespace eval {
 //    /*
 //     * Flush implementation
 //     */
-//    Flush::Flush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    Flush::Flush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                            communityCards) {
 //        setValue();
 //        type = eHandType::Flush_;
 //    }
 //
-//    Flush::Flush(CardCollection &collection) : Hand(collection) {
+//    Flush::Flush(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::Flush_;
 //    }
 //
-//    Flush::Flush(Hand
-//                 *hand) : Hand(hand) {
+//    Flush::Flush(Hand.old
+//                 *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Flush_;
 //    }
 //
-//    Flush::Flush(Hand &hand) : Hand(hand) {
+//    Flush::Flush(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Flush_;
 //    }
 //
-//    Flush::Flush(Hand &&hand)
-//    noexcept : Hand(hand) {
+//    Flush::Flush(Hand.old &&hand)
+//    noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::Flush_;
 //    }
@@ -661,29 +669,29 @@ namespace eval {
 //    }
 //
 //
-//    FullHouse::FullHouse(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    FullHouse::FullHouse(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                    communityCards) {
 //        setValue();
 //        type = eHandType::FullHouse_;
 //    }
 //
-//    FullHouse::FullHouse(CardCollection &collection) : Hand(collection) {
+//    FullHouse::FullHouse(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::FullHouse_;
 //    }
 //
-//    FullHouse::FullHouse(Hand *hand) : Hand(hand) {
+//    FullHouse::FullHouse(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::FullHouse_;
 //    }
 //
-//    FullHouse::FullHouse(Hand &hand) : Hand(hand) {
+//    FullHouse::FullHouse(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::FullHouse_;
 //    }
 //
-//    FullHouse::FullHouse(Hand &&hand)
-//    noexcept : Hand(hand) {
+//    FullHouse::FullHouse(Hand.old &&hand)
+//    noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::FullHouse_;
 //    }
@@ -723,35 +731,35 @@ namespace eval {
 //    }
 //
 //
-//    FourOfAKind::FourOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    FourOfAKind::FourOfAKind(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                        communityCards) {
 //        setValue();
 //        type = eHandType::FourOfAKind_;
 //    }
 //
 //
-//    FourOfAKind::FourOfAKind(CardCollection &collection) : Hand(collection) {
+//    FourOfAKind::FourOfAKind(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::FourOfAKind_;
 //    }
 //
-//    FourOfAKind::FourOfAKind(Hand *hand) : Hand(hand) {
+//    FourOfAKind::FourOfAKind(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::FourOfAKind_;
 //    }
 //
-//    FourOfAKind::FourOfAKind(Hand &hand) : Hand(hand) {
+//    FourOfAKind::FourOfAKind(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::FourOfAKind_;
 //    }
 //
-////    FourOfAKind &FourOfAKind::operator=(Hand hand) {
+////    FourOfAKind &FourOfAKind::operator=(Hand.old hand) {
 ////        setValue();
 ////        type = hand.type;
 ////    }
 //
-//    FourOfAKind::FourOfAKind(Hand &&hand)
-//    noexcept : Hand(hand) {
+//    FourOfAKind::FourOfAKind(Hand.old &&hand)
+//    noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::FourOfAKind_;
 //    }
@@ -772,29 +780,29 @@ namespace eval {
 //    /*
 //     * Straight flush implementation
 //     */
-//    StraightFlush::StraightFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(
+//    StraightFlush::StraightFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(
 //            holeCards, communityCards) {
 //        setValue();
 //        type = eHandType::StraightFlush_;
 //    }
 //
-//    StraightFlush::StraightFlush(CardCollection &collection) : Hand(collection) {
+//    StraightFlush::StraightFlush(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::StraightFlush_;
 //    }
 //
-//    StraightFlush::StraightFlush(Hand *hand) : Hand(hand) {
+//    StraightFlush::StraightFlush(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::StraightFlush_;
 //    }
 //
-//    StraightFlush::StraightFlush(Hand &hand) : Hand(hand) {
+//    StraightFlush::StraightFlush(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::StraightFlush_;
 //    }
 //
-//    StraightFlush::StraightFlush(Hand &&hand)
-//    noexcept : Hand(hand) {
+//    StraightFlush::StraightFlush(Hand.old &&hand)
+//    noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::StraightFlush_;
 //    }
@@ -822,34 +830,34 @@ namespace eval {
 //    }
 //
 //
-//    RoyalFlush::RoyalFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand(holeCards,
+//    RoyalFlush::RoyalFlush(cards::HoleCards &holeCards, cards::CommunityCards &communityCards) : Hand.old(holeCards,
 //                                                                                                      communityCards) {
 //        setValue();
 //        type = eHandType::RoyalFlush_;
 //    }
 //
-//    RoyalFlush::RoyalFlush(CardCollection &collection) : Hand(collection) {
+//    RoyalFlush::RoyalFlush(CardCollection &collection) : Hand.old(collection) {
 //        setValue();
 //        type = eHandType::RoyalFlush_;
 //    }
 //
-//    RoyalFlush::RoyalFlush(Hand *hand) : Hand(hand) {
+//    RoyalFlush::RoyalFlush(Hand.old *hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::RoyalFlush_;
 //    }
 //
-//    RoyalFlush::RoyalFlush(Hand &hand) : Hand(hand) {
+//    RoyalFlush::RoyalFlush(Hand.old &hand) : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::RoyalFlush_;
 //    }
 //
-////    RoyalFlush &RoyalFlush::operator=(Hand hand) {
+////    RoyalFlush &RoyalFlush::operator=(Hand.old hand) {
 ////        setValue();
 ////        type = hand.type;
 ////    }
 //
-//    RoyalFlush::RoyalFlush(Hand &&hand)
-//    noexcept : Hand(hand) {
+//    RoyalFlush::RoyalFlush(Hand.old &&hand)
+//    noexcept : Hand.old(hand) {
 //        setValue();
 //        type = eHandType::RoyalFlush_;
 //    }

@@ -18,7 +18,7 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
 
     gtest_discover_tests(${BINARY})
 
-    target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}")
+    target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}")
 
     #    target_include_directories(${BINARY} PRIVATE "${NUMCPP_INCLUDE_DIR}")
     #    add_dependencies(${BINARY} poker)
@@ -144,11 +144,23 @@ add_test_executable(DeckTests                       ON ON TestExecutables DeckTe
 add_test_executable(HoleCardTests                   ON ON TestExecutables HoleCardTests.cpp)
 add_test_executable(CommunityCardTests              ON ON TestExecutables CommunityCardTests.cpp)
 
-add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h)
+# Tests for specific hand evaluations
+add_test_executable(CounterTests                    ON ON TestExecutables CounterTests.cpp)
+add_test_executable(PairTests                       ON ON TestExecutables hands/PairTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(TwoPairTests                    ON ON TestExecutables hands/TwoPairTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(TOAKTests                       ON ON TestExecutables hands/TOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(StraightTests                   ON ON TestExecutables hands/StraightTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(FlushTests                      ON ON TestExecutables hands/FlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(FullHouseTests                  ON ON TestExecutables hands/FullHouseTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(FourOfAKind                     ON ON TestExecutables hands/FOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(StraightFlushTests              ON ON TestExecutables hands/StraightFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(RoyalFlushTests                 ON ON TestExecutables hands/RoyalFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
+
+add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h HandEvaluatorTests.cpp hands/PairTests.cpp hands/TestHands.h)
 target_link_libraries(AConsoleGame PRIVATE PokerX)
 
 
-add_test_executable(ContainerTests.cpp              ON ON TestExecutables ContainerTests.cpp)
+add_test_executable(ContainerTests.cpp              ON ON TestExecutables ContainerTests.cpp  )
 
 
 install(

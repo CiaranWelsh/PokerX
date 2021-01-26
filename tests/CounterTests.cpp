@@ -4,10 +4,14 @@
 
 #include "gtest/gtest.h"
 #include <string>
-#include <utils/Counter.h>
+#include <PokerX/engine/Counter.h>
 
+class CounterTests : public ::testing::Test {
+public:
+    CounterTests() = default;
+};
 
-TEST(CounterTests, teststring) {
+TEST_F(CounterTests, teststring) {
     std::vector<std::string> x = {"A", "A", "B", "B", "C", "D", "D", "D"};
     Counter<std::string> counter(x);
     std::unordered_map<std::string, int> count = counter.count();
@@ -17,7 +21,7 @@ TEST(CounterTests, teststring) {
     ASSERT_TRUE(count["C"] == 1);
 }
 
-TEST(CounterTests, testInt) {
+TEST_F(CounterTests, testInt) {
     std::vector<int> x = {1, 1, 1, 4, 4, 4, 6, 6, 6, 7, 7, 7, 4, 3, 3};
     Counter<int> counter(x);
     std::unordered_map<int, int> count = counter.count();

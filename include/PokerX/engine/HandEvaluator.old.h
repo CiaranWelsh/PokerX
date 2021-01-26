@@ -6,7 +6,7 @@
 #define POKERSIMULATIONSINCPP_EVALUATOR_H
 
 #include <vector>
-#include "PokerX/engine/Hand.h"
+#include "PokerX/engine/hands/Hand.old.h"
 
 namespace pokerx {
     class HandEvaluator {

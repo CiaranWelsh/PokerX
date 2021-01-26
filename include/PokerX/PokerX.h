@@ -24,8 +24,6 @@
 #include "PokerX/engine/eGamePlayState.h"
 #include "PokerX/engine/GameVariables.h"
 #include "PokerX/engine/HoleCards.h"
-#include "PokerX/engine/Hand.h"
-#include "PokerX/engine/HandEvaluator.h"
 #include "PokerX/engine/IGameVariables.h"
 #include "PokerX/engine/IPlayer.h"
 #include "PokerX/engine/IPlayerManager.h"

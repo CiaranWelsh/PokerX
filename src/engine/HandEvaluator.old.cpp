@@ -2,8 +2,8 @@
 // Created by CiaranWelsh on 19/12/2019.
 //
 
-#include "PokerX/engine/HandEvaluator.h"
-#include "PokerX/engine/Hand.h"
+#include "PokerX/engine/HandEvaluator.old.h"
+#include "PokerX/engine/hands/Hand.old.h"
 #include <iostream>
 #include <dshow.h>
 
@@ -39,7 +39,7 @@ namespace eval {
             hand_evaluations_hand_types.push_back(hand_evaluation.second);
         }
 
-        // Count instances of Hand values
+        // Count instances of Hand.old values
         Counter<HandType> counter(hand_evaluations_hand_types);
 
         // get the value of the element with max HandType value

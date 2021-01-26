@@ -4,9 +4,8 @@
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
 
-#include "PokerX/engine/Evaluator.h"
+#include "PokerX/engine/HandEvaluator.old.h"
 #include "PokerX/engine/Deck.h"
-#include "PokerX/engine/Hand.h"
 #include "PokerX/engine/Card.h"
 
 
@@ -16,16 +15,24 @@ class EvaluatorTests : public ::testing::Test {
 protected:
     EvaluatorTests() = default;
 
-    static Hand createHand(Card hc1, Card hc2, Card flop1, Card flop2, Card flop3, Card turn, Card river) {
+    static HighCard createHand(
+            ICard *hc1,
+            ICard *hc2,
+            ICard *flop1,
+            ICard *flop2,
+            ICard *flop3,
+            ICard *turn,
+            ICard *river
+    ) {
         HoleCards hc(hc1, hc2);
         CommunityCards cc(flop1, flop2, flop3, turn, river);
-        Hand hand(hc, cc);
+        HighCard hand(hc, cc);
         return hand;
     };
 
-    static void checkBest5(Hand &hand, const std::string &expected) {
-        cout << "Checking Hand: " << hand << endl;
-        const std::shared_ptr<Hand> &x = hand.evaluate();
+    static void checkBest5(HighCard &hand, const std::string &expected) {
+        cout << "Checking HighCard.old: " << hand << endl;
+        const std::shared_ptr<HighCard> &x = hand.evaluate();
         cout << "hand has been checked" << endl;
         ostringstream actual;
         CardCollection best5 = x->best5();
@@ -36,19 +43,19 @@ protected:
     }
 
     template<class ExpectedHand>
-    static void checkIsA(Hand &hand) {
+    static void checkIsA(HighCard &hand) {
         cout << "Checking isa(): " << hand << endl;
-        const std::shared_ptr<Hand> &x = hand.evaluate();
+        const std::shared_ptr<HighCard> &x = hand.evaluate();
         ExpectedHand expected(&hand);
         bool actual = expected.isa();
         ASSERT_TRUE(actual);
 
     }
 
-    static void checkWinnerHand(Hand hand1, Hand hand2, HandType expected_winner) {
+    static void checkWinnerHand(HighCard hand1, HighCard hand2, HandType expected_winner) {
         std::vector<HandPtr> hvec;
-        hvec.push_back(make_shared<Hand>(hand1));
-        hvec.push_back(make_shared<Hand>(hand2));
+        hvec.push_back(make_shared<HighCard>(hand1));
+        hvec.push_back(make_shared<HighCard>(hand2));
         Evaluator evaluator;
         std::map<int, HandType> x = evaluator.evaluate(hvec);
         std::vector<HandType> values = Evaluator::getValuesOfMap(x);
@@ -56,10 +63,10 @@ protected:
         ASSERT_EQ(expected, values);
     }
 
-    static void checkWinnerPosition(Hand hand1, Hand hand2, int position) {
+    static void checkWinnerPosition(HighCard hand1, HighCard hand2, int position) {
         std::vector<HandPtr> hvec;
-        hvec.push_back(make_shared<Hand>(hand1));
-        hvec.push_back(make_shared<Hand>(hand2));
+        hvec.push_back(make_shared<HighCard>(hand1));
+        hvec.push_back(make_shared<HighCard>(hand2));
         Evaluator evaluator;
         std::map<int, HandType> x = evaluator.evaluate(hvec);
         std::vector<int> values = Evaluator::getKeysOfMap(x);
@@ -67,16 +74,16 @@ protected:
         ASSERT_EQ(expected, values);
     }
 
-    static void checkSplitPot(Hand hand1, Hand hand2) {
+    static void checkSplitPot(HighCard hand1, HighCard hand2) {
         std::vector<HandPtr> hvec;
-        hvec.push_back(make_shared<Hand>(hand1));
-        hvec.push_back(make_shared<Hand>(hand2));
+        hvec.push_back(make_shared<HighCard>(hand1));
+        hvec.push_back(make_shared<HighCard>(hand2));
         Evaluator evaluator;
         std::map<int, HandType> x = evaluator.evaluate(hvec);
         ASSERT_EQ(2, x.size());
     }
 
-    void checkSpecificConfiguration(CommunityCards communityCards, std::vector<HoleCards> holeCardsVec){
+    void checkSpecificConfiguration(CommunityCards communityCards, std::vector<HoleCards> holeCardsVec) {
 //        Player player0("player0", holeCards0);
 //        Player player1("player1", holeCards0);
 //        Player player2("player2", holeCards0);
@@ -87,9 +94,9 @@ protected:
 //        Player player7("player7", holeCards0);
 //        Player player8("player8", holeCards0);
         std::vector<std::shared_ptr<Player>> playerPtrVec;
-        for (int i =0; i< holeCardsVec.size(); i++){
+        for (int i = 0; i < holeCardsVec.size(); i++) {
             ostringstream name;
-            name << "player"<<i;
+            name << "player" << i;
             Player player(name.str(), holeCardsVec[i]);
             playerPtrVec.push_back(std::make_shared<Player>(player));
             name.flush();
@@ -156,221 +163,221 @@ protected:
     Card kingOfDiamonds = Card(13, "D");
     Card aceOfDiamonds = Card(14, "D");
 
-    Hand highCard1 = createHand(
-            sevenOfClubs,
-            fourOfDiamonds,
-            tenOfDiamonds,
-            sixOfHearts,
-            twoOfClubs,
-            aceOfClubs,
-            eightOfClubs
+    HighCard highCard1 = createHand(
+            &sevenOfClubs,
+            &fourOfDiamonds,
+            &tenOfDiamonds,
+            &sixOfHearts,
+            &twoOfClubs,
+            &aceOfClubs,
+            &eightOfClubs
     );
-    Hand highCard2 = createHand(
-            twoOfClubs,
-            fourOfSpades,
-            nineOfDiamonds,
-            tenOfDiamonds,
-            eightOfClubs,
-            kingOfHearts,
-            aceOfHearts
+    HighCard highCard2 = createHand(
+            &twoOfClubs,
+            &fourOfSpades,
+            &nineOfDiamonds,
+            &tenOfDiamonds,
+            &eightOfClubs,
+            &kingOfHearts,
+            &aceOfHearts
     );
-    Hand pair1 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            sixOfHearts,
-            sevenOfClubs,
-            tenOfDiamonds,
-            aceOfClubs,
-            eightOfClubs
+    HighCard pair1 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &sixOfHearts,
+            &sevenOfClubs,
+            &tenOfDiamonds,
+            &aceOfClubs,
+            &eightOfClubs
     );
-    Hand pair2 = createHand(
-            twoOfClubs,
-            fourOfDiamonds,
-            sixOfHearts,
-            sevenOfClubs,
-            tenOfDiamonds,
-            tenOfClubs,
-            eightOfClubs
+    HighCard pair2 = createHand(
+            &twoOfClubs,
+            &fourOfDiamonds,
+            &sixOfHearts,
+            &sevenOfClubs,
+            &tenOfDiamonds,
+            &tenOfClubs,
+            &eightOfClubs
     );
-    Hand two_pair1 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            sixOfHearts,
-            sixOfClubs,
-            tenOfDiamonds,
-            aceOfClubs,
-            eightOfClubs
+    HighCard two_pair1 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &sixOfHearts,
+            &sixOfClubs,
+            &tenOfDiamonds,
+            &aceOfClubs,
+            &eightOfClubs
     );
-    Hand two_pair2 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            sixOfHearts,
-            sixOfClubs,
-            tenOfDiamonds,
-            tenOfClubs,
-            eightOfClubs
+    HighCard two_pair2 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &sixOfHearts,
+            &sixOfClubs,
+            &tenOfDiamonds,
+            &tenOfClubs,
+            &eightOfClubs
     );
-    Hand two_pair3 = createHand(
-            sixOfHearts,
-            sixOfClubs,
-            tenOfDiamonds,
-            tenOfClubs,
-            eightOfClubs,
-            twoOfClubs,
-            twoOfDiamonds
+    HighCard two_pair3 = createHand(
+            &sixOfHearts,
+            &sixOfClubs,
+            &tenOfDiamonds,
+            &tenOfClubs,
+            &eightOfClubs,
+            &twoOfClubs,
+            &twoOfDiamonds
     );
-    Hand two_pair4 = createHand(
-            aceOfDiamonds,
-            eightOfDiamonds,
-            queenOfClubs,
-            aceOfClubs,
-            queenOfDiamonds,
-            eightOfClubs,
-            twoOfDiamonds
+    HighCard two_pair4 = createHand(
+            &aceOfDiamonds,
+            &eightOfDiamonds,
+            &queenOfClubs,
+            &aceOfClubs,
+            &queenOfDiamonds,
+            &eightOfClubs,
+            &twoOfDiamonds
     );
-    Hand two_pair5 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            fourOfDiamonds,
-            fourOfClubs,
-            queenOfDiamonds,
-            aceOfDiamonds,
-            kingOfClubs
+    HighCard two_pair5 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &fourOfDiamonds,
+            &fourOfClubs,
+            &queenOfDiamonds,
+            &aceOfDiamonds,
+            &kingOfClubs
     );
-    Hand two_pair6 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            fourOfDiamonds,
-            fourOfClubs,
-            queenOfDiamonds,
-            queenOfClubs,
-            kingOfClubs
+    HighCard two_pair6 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &fourOfDiamonds,
+            &fourOfClubs,
+            &queenOfDiamonds,
+            &queenOfClubs,
+            &kingOfClubs
     );
-    Hand three_of_a_kind1 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            twoOfHearts,
-            fourOfClubs,
-            queenOfDiamonds,
-            aceOfDiamonds,
-            kingOfClubs
+    HighCard three_of_a_kind1 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &twoOfHearts,
+            &fourOfClubs,
+            &queenOfDiamonds,
+            &aceOfDiamonds,
+            &kingOfClubs
     );
-    Hand full_house1 = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            twoOfHearts,
-            queenOfClubs,
-            queenOfDiamonds,
-            aceOfDiamonds,
-            kingOfClubs
+    HighCard full_house1 = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &twoOfHearts,
+            &queenOfClubs,
+            &queenOfDiamonds,
+            &aceOfDiamonds,
+            &kingOfClubs
     );
-    Hand full_house2 = createHand(
-            eightOfClubs,
-            eightOfDiamonds,
-            eightOfHearts,
-            queenOfClubs,
-            queenOfDiamonds,
-            aceOfDiamonds,
-            kingOfClubs
+    HighCard full_house2 = createHand(
+            &eightOfClubs,
+            &eightOfDiamonds,
+            &eightOfHearts,
+            &queenOfClubs,
+            &queenOfDiamonds,
+            &aceOfDiamonds,
+            &kingOfClubs
     );
-    Hand four_of_a_kind = createHand(
-            twoOfClubs,
-            twoOfDiamonds,
-            twoOfHearts,
-            twoOfSpades,
-            queenOfDiamonds,
-            aceOfDiamonds,
-            kingOfClubs
+    HighCard four_of_a_kind = createHand(
+            &twoOfClubs,
+            &twoOfDiamonds,
+            &twoOfHearts,
+            &twoOfSpades,
+            &queenOfDiamonds,
+            &aceOfDiamonds,
+            &kingOfClubs
     );
-    Hand straight2to6 = createHand(
-            twoOfClubs,
-            threeOfDiamonds,
-            fourOfHearts,
-            fiveOfSpades,
-            sixOfDiamonds,
-            aceOfDiamonds,
-            kingOfClubs
+    HighCard straight2to6 = createHand(
+            &twoOfClubs,
+            &threeOfDiamonds,
+            &fourOfHearts,
+            &fiveOfSpades,
+            &sixOfDiamonds,
+            &aceOfDiamonds,
+            &kingOfClubs
     );
-    Hand straight_low_ace = createHand(
-            aceOfClubs,
-            twoOfClubs,
-            threeOfDiamonds,
-            fourOfHearts,
-            fiveOfSpades,
-            kingOfClubs,
-            queenOfClubs
+    HighCard straight_low_ace = createHand(
+            &aceOfClubs,
+            &twoOfClubs,
+            &threeOfDiamonds,
+            &fourOfHearts,
+            &fiveOfSpades,
+            &kingOfClubs,
+            &queenOfClubs
     );
-    Hand straight2to6_2 = createHand(
-            twoOfClubs,
-            threeOfDiamonds,
-            fourOfHearts,
-            fiveOfSpades,
-            sixOfClubs,
-            queenOfClubs,
-            kingOfClubs
+    HighCard straight2to6_2 = createHand(
+            &twoOfClubs,
+            &threeOfDiamonds,
+            &fourOfHearts,
+            &fiveOfSpades,
+            &sixOfClubs,
+            &queenOfClubs,
+            &kingOfClubs
     );
-    Hand straight4 = createHand(
-            twoOfClubs,
-            fiveOfClubs,
-            sixOfHearts,
-            sevenOfClubs,
-            eightOfDiamonds,
-            nineOfClubs,
-            kingOfHearts
+    HighCard straight4 = createHand(
+            &twoOfClubs,
+            &fiveOfClubs,
+            &sixOfHearts,
+            &sevenOfClubs,
+            &eightOfDiamonds,
+            &nineOfClubs,
+            &kingOfHearts
     );
-    Hand straight5 = createHand(
-            twoOfClubs,
-            fiveOfClubs,
-            sevenOfClubs,
-            eightOfDiamonds,
-            nineOfClubs,
-            tenOfDiamonds,
-            jackOfDiamonds
+    HighCard straight5 = createHand(
+            &twoOfClubs,
+            &fiveOfClubs,
+            &sevenOfClubs,
+            &eightOfDiamonds,
+            &nineOfClubs,
+            &tenOfDiamonds,
+            &jackOfDiamonds
     );
-    Hand flush1 = createHand(
-            twoOfClubs,
-            fiveOfClubs,
-            sevenOfClubs,
-            eightOfDiamonds,
-            nineOfClubs,
-            tenOfDiamonds,
-            kingOfClubs
+    HighCard flush1 = createHand(
+            &twoOfClubs,
+            &fiveOfClubs,
+            &sevenOfClubs,
+            &eightOfDiamonds,
+            &nineOfClubs,
+            &tenOfDiamonds,
+            &kingOfClubs
     );
-    Hand straight_flush1 = createHand(
-            twoOfClubs,
-            threeOfClubs,
-            fourOfClubs,
-            fiveOfClubs,
-            sixOfClubs,
-            tenOfDiamonds,
-            jackOfSpades
+    HighCard straight_flush1 = createHand(
+            &twoOfClubs,
+            &threeOfClubs,
+            &fourOfClubs,
+            &fiveOfClubs,
+            &sixOfClubs,
+            &tenOfDiamonds,
+            &jackOfSpades
     );
-    Hand straight_flush2 = createHand(
-            twoOfClubs,
-            threeOfClubs,
-            fourOfClubs,
-            fiveOfClubs,
-            sixOfClubs,
-            tenOfDiamonds,
-            jackOfClubs
+    HighCard straight_flush2 = createHand(
+            &twoOfClubs,
+            &threeOfClubs,
+            &fourOfClubs,
+            &fiveOfClubs,
+            &sixOfClubs,
+            &tenOfDiamonds,
+            &jackOfClubs
     );
-    Hand straight_flush3 = createHand(
-            twoOfClubs,
-            threeOfClubs,
-            fourOfClubs,
-            fiveOfClubs,
-            sixOfClubs,
-            sevenOfClubs,
-            jackOfClubs
+    HighCard straight_flush3 = createHand(
+            &twoOfClubs,
+            &threeOfClubs,
+            &fourOfClubs,
+            &fiveOfClubs,
+            &sixOfClubs,
+            &sevenOfClubs,
+            &jackOfClubs
     );
-    Hand royal_flush1 = createHand(
-            tenOfClubs,
-            jackOfClubs,
-            queenOfClubs,
-            kingOfClubs,
-            aceOfClubs,
-            tenOfDiamonds,
-            jackOfSpades
+    HighCard royal_flush1 = createHand(
+            &tenOfClubs,
+            &jackOfClubs,
+            &queenOfClubs,
+            &kingOfClubs,
+            &aceOfClubs,
+            &tenOfDiamonds,
+            &jackOfSpades
     );
 };
 
@@ -384,7 +391,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
     cards.add(sixOfHearts);
     cards.add(sevenOfClubs);
     cards.add(nineOfClubs);
-    Hand hand(cards);
+    HighCard hand(cards);
     ASSERT_TRUE(hand.type == Hand_);
 }
 
@@ -426,8 +433,8 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //TEST_F(EvaluatorTests, TestCopyConstructor1) {
-//    Hand hand(highCard1);
-//    Hand hand2 = hand;
+//    HighCard.old hand(highCard1);
+//    HighCard.old hand2 = hand;
 //    cout << hand2.type << endl;
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
@@ -456,8 +463,8 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    cards.add(sixOfHearts);
 //    cards.add(sevenOfClubs);
 //    cards.add(nineOfClubs);
-//    Hand hand(cards);
-//    Hand hand2(hand);
+//    HighCard.old hand(cards);
+//    HighCard.old hand2(hand);
 //    cout << hand2.type << endl;
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
@@ -486,7 +493,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    cards.add(sixOfHearts);
 //    cards.add(sevenOfClubs);
 //    cards.add(nineOfClubs);
-//    Hand hand(cards);
+//    HighCard.old hand(cards);
 //    Pair hand2(&hand);
 //    cout << hand2.type << endl;
 //    ASSERT_TRUE(hand2.type == Pair_);
@@ -502,8 +509,8 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    cards.add(sixOfHearts);
 //    cards.add(sevenOfClubs);
 //    cards.add(nineOfClubs);
-//    Hand hand(cards);
-//    Hand hand2(std::move(hand));
+//    HighCard.old hand(cards);
+//    HighCard.old hand2(std::move(hand));
 //    cout << hand2.type << endl;
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
@@ -532,8 +539,8 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    cards.add(sixOfHearts);
 //    cards.add(sevenOfClubs);
 //    cards.add(nineOfClubs);
-//    Hand hand(cards);
-//    Hand hand2 = std::move(hand);
+//    HighCard.old hand(cards);
+//    HighCard.old hand2 = std::move(hand);
 //    cout << hand2.type << endl;
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
@@ -633,17 +640,17 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
-//    std::shared_ptr<Hand> hand = straight_flush1.evaluate();
+//    std::shared_ptr<HighCard.old> hand = straight_flush1.evaluate();
 //    ASSERT_EQ(hand->getHandType(), StraightFlush_);
 //}
 //
 //TEST_F(EvaluatorTests, TestThatYouCanCopyAHand) {
-//    Hand hand = pair1;
+//    HighCard.old hand = pair1;
 //    ASSERT_EQ(hand.type, Hand_);
 //}
 //
 //TEST_F(EvaluatorTests, TestEquality) {
-//    Hand royal_flush_again = createHand(
+//    HighCard.old royal_flush_again = createHand(
 //            tenOfClubs,
 //            jackOfClubs,
 //            queenOfClubs,
@@ -699,16 +706,16 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 ////}
 //
 //TEST_F(EvaluatorTests, TestTwoPair2) {
-//    Hand hand = two_pair2;
+//    HighCard.old hand = two_pair2;
 //    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
 //    checkBest5(two_pair2, expected);
 //}
 //
 //TEST_F(EvaluatorTests, TestTwoPair22) {
 //
-//    Hand hand = two_pair2;
+//    HighCard.old hand = two_pair2;
 //    cout << two_pair2 << endl;
-//    const std::shared_ptr<Hand> &x = two_pair2.evaluate();
+//    const std::shared_ptr<HighCard.old> &x = two_pair2.evaluate();
 //    cout << x->type << endl;
 //    cout << x->best5() << endl;
 ////    ostringstream actual;
@@ -726,7 +733,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 ////}
 //
 //TEST_F(EvaluatorTests, TestTwoPair4) {
-//    Hand hand = two_pair4;
+//    HighCard.old hand = two_pair4;
 //    std::string expected = "[Card(8C), Card(12C), Card(12D), Card(14D), Card(14C)]";
 //    checkBest5(two_pair4, expected);
 //}
@@ -1031,59 +1038,59 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    std::vector<Card> player0_vec = {Card(3, "C"), Card(5, "C"), Card(8, "H"), Card(10, "C"), Card(11, "S"),
 //                                     Card(12, "S"), Card(14, "D")};
 //    CardCollection player0(player0_vec);
-//    Hand hand0(player0);
+//    HighCard.old hand0(player0);
 //    hand0.evaluate();
 //
 //    std::vector<Card> player1_vec = {Card(3, "C"), Card(5, "C"), Card(7, "C"), Card(7, "S"), Card(10, "C"),
 //                                     Card(11, "S"), Card(14, "D")};
 //    CardCollection player1(player1_vec);
-//    Hand hand1(player1);
+//    HighCard.old hand1(player1);
 //
 //    std::vector<Card> player2_vec = {Card(3, "C"), Card(5, "S"), Card(5, "C"), Card(9, "S"), Card(10, "C"),
 //                                     Card(11, "S"), Card(14, "D")};
 //    CardCollection player2(player2_vec);
-//    Hand hand2(player2);
+//    HighCard.old hand2(player2);
 //
 //    std::vector<Card> player3_vec = {Card(3, "C"), Card(5, "C"), Card(7, "H"), Card(10, "D"), Card(10, "C"),
 //                                     Card(11, "S"), Card(14, "D")};
 //    CardCollection player3(player3_vec);
-//    Hand hand3(player3);
+//    HighCard.old hand3(player3);
 //
 //    std::vector<Card> player4_vec = {Card(3, "C"), Card(5, "C"), Card(10, "C"), Card(11, "S"), Card(12, "D"),
 //                                     Card(14, "H"), Card(14, "D")};
 //    CardCollection player4(player4_vec);
-//    Hand hand4(player4);
+//    HighCard.old hand4(player4);
 //
 //    std::vector<Card> player5_vec = {Card(3, "C"), Card(5, "C"), Card(10, "H"), Card(10, "C"), Card(11, "S"),
 //                                     Card(12, "C"), Card(14, "D")};
 //    CardCollection player5(player5_vec);
-//    Hand hand5(player5);
+//    HighCard.old hand5(player5);
 //
 //    std::vector<Card> player6_vec = {Card(3, "C"), Card(5, "C"), Card(6, "D"), Card(10, "C"), Card(11, "S"),
 //                                     Card(13, "S"), Card(14, "D")};
 //    CardCollection player6(player6_vec);
-//    Hand hand6(player6);
+//    HighCard.old hand6(player6);
 //
 //    std::vector<Card> player7_vec = {Card(3, "C"), Card(4, "S"), Card(5, "C"), Card(10, "C"), Card(11, "S"),
 //                                     Card(14, "C"), Card(14, "D")};
 //    CardCollection player7(player7_vec);
-//    Hand hand7(player7);
+//    HighCard.old hand7(player7);
 //
 //    std::vector<Card> player8_vec = {Card(3, "C"), Card(5, "H"), Card(5, "C"), Card(10, "S"), Card(10, "C"),
 //                                     Card(11, "S"), Card(14, "D")};
 //    CardCollection player8(player8_vec);
-//    Hand hand8(player8);
+//    HighCard.old hand8(player8);
 //
-//    std::vector<std::shared_ptr<Hand>> hands = {
-//            std::make_shared<Hand>(hand0),
-//            std::make_shared<Hand>(hand1),
-//            std::make_shared<Hand>(hand2),
-//            std::make_shared<Hand>(hand3),
-//            std::make_shared<Hand>(hand4),
-//            std::make_shared<Hand>(hand5),
-//            std::make_shared<Hand>(hand6),
-//            std::make_shared<Hand>(hand7),
-//            std::make_shared<Hand>(hand8)};
+//    std::vector<std::shared_ptr<HighCard.old>> hands = {
+//            std::make_shared<HighCard.old>(hand0),
+//            std::make_shared<HighCard.old>(hand1),
+//            std::make_shared<HighCard.old>(hand2),
+//            std::make_shared<HighCard.old>(hand3),
+//            std::make_shared<HighCard.old>(hand4),
+//            std::make_shared<HighCard.old>(hand5),
+//            std::make_shared<HighCard.old>(hand6),
+//            std::make_shared<HighCard.old>(hand7),
+//            std::make_shared<HighCard.old>(hand8)};
 //
 //    Evaluator evaluator;
 //    auto answer = evaluator.evaluate(hands);
