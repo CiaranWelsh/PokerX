@@ -566,7 +566,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //TEST_F(EvaluatorTests, TestSumRanks2) {
-//    ASSERT_EQ(15, straight_low_ace.sumBest5Ranks());
+//    ASSERT_EQ(15, straightAto5.sumBest5Ranks());
 //}
 //
 //TEST_F(EvaluatorTests, InstantiateStraightWithPair) {
@@ -614,7 +614,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //
 //TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight1) {
 //    Straight handa(&straight2to6);
-//    Straight handb(&straight4);
+//    Straight handb(&straight5to9);
 //    bool actual = handb > handa;
 //    ASSERT_TRUE(actual);
 //}
@@ -622,7 +622,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //
 //TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight2) {
 //    Straight handa(&straight2to6);
-//    Straight handb(&straight_low_ace);
+//    Straight handb(&straightAto5);
 //    bool actual = handa > handb;
 //    ASSERT_TRUE(actual);
 //}
@@ -785,13 +785,13 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //
 //
 //TEST_F(EvaluatorTests, TestStraight2IsA) {
-//    Straight straight(&straight_low_ace);
+//    Straight straight(&straightAto5);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
 //TEST_F(EvaluatorTests, TestStraight2Best5) {
 //    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(14C)]";
-//    checkBest5(straight_low_ace, expected);
+//    checkBest5(straightAto5, expected);
 //}
 //
 //
@@ -806,24 +806,24 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //TEST_F(EvaluatorTests, TestStraight4IsA) {
-//    Straight straight(&straight4);
+//    Straight straight(&straight5to9);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
 //
 //TEST_F(EvaluatorTests, TestStraight4best5) {
 //    std::string expected = "[Card(5C), Card(6H), Card(7C), Card(8D), Card(9C)]";
-//    checkBest5(straight4, expected);
+//    checkBest5(straight5to9, expected);
 //}
 //
 //TEST_F(EvaluatorTests, TestStraight5IsA) {
-//    Straight straight(&straight5);
+//    Straight straight(&straight7toJ);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
 //TEST_F(EvaluatorTests, TestStraight5best5) {
 //    std::string expected = "[Card(7C), Card(8D), Card(9C), Card(10D), Card(11D)]";
-//    checkBest5(straight5, expected);
+//    checkBest5(straight7toJ, expected);
 //}
 //
 //TEST_F(EvaluatorTests, TestFlushIsA) {

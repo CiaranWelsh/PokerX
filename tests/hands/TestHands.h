@@ -10,7 +10,7 @@
 
 class TestHands {
 public:
-    MockCards mockCards;
+    Cards cards;
     TestHands() = default;
 
     static Hand createHand(ICard* hc1, ICard* hc2, ICard* flop1, ICard* flop2, ICard* flop3, ICard* turn, ICard* river ){
@@ -18,220 +18,249 @@ public:
     }
 
     Hand highCard1 = createHand(
-            &mockCards.sevenOfClubs,
-            &mockCards.fourOfDiamonds,
-            &mockCards.tenOfDiamonds,
-            &mockCards.sixOfHearts,
-            &mockCards.twoOfClubs,
-            &mockCards.aceOfClubs,
-            &mockCards.eightOfClubs
+            &cards.sevenOfClubs,
+            &cards.fourOfDiamonds,
+            &cards.tenOfDiamonds,
+            &cards.sixOfHearts,
+            &cards.twoOfClubs,
+            &cards.aceOfClubs,
+            &cards.eightOfClubs
     );
     Hand highCard2 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.fourOfSpades,
-            &mockCards.nineOfDiamonds,
-            &mockCards.tenOfDiamonds,
-            &mockCards.eightOfClubs,
-            &mockCards.kingOfHearts,
-            &mockCards.aceOfHearts
+            &cards.twoOfClubs,
+            &cards.fourOfSpades,
+            &cards.nineOfDiamonds,
+            &cards.tenOfDiamonds,
+            &cards.eightOfClubs,
+            &cards.kingOfHearts,
+            &cards.aceOfHearts
     );
     Hand pair1 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.sixOfHearts,
-            &mockCards.sevenOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.aceOfClubs,
-            &mockCards.eightOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.sixOfHearts,
+            &cards.sevenOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.aceOfClubs,
+            &cards.eightOfClubs
     );
     Hand pair2 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.fourOfDiamonds,
-            &mockCards.sixOfHearts,
-            &mockCards.sevenOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.tenOfClubs,
-            &mockCards.eightOfClubs
+            &cards.twoOfClubs,
+            &cards.fourOfDiamonds,
+            &cards.sixOfHearts,
+            &cards.sevenOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.tenOfClubs,
+            &cards.eightOfClubs
     );
     Hand two_pair1 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.sixOfHearts,
-            &mockCards.sixOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.aceOfClubs,
-            &mockCards.eightOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.sixOfHearts,
+            &cards.sixOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.aceOfClubs,
+            &cards.eightOfClubs
     );
     Hand two_pair2 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.sixOfHearts,
-            &mockCards.sixOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.tenOfClubs,
-            &mockCards.eightOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.sixOfHearts,
+            &cards.sixOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.tenOfClubs,
+            &cards.eightOfClubs
     );
     Hand two_pair3 = createHand(
-            &mockCards.sixOfHearts,
-            &mockCards.sixOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.tenOfClubs,
-            &mockCards.eightOfClubs,
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds
+            &cards.sixOfHearts,
+            &cards.sixOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.tenOfClubs,
+            &cards.eightOfClubs,
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds
     );
     Hand two_pair4 = createHand(
-            &mockCards.aceOfDiamonds,
-            &mockCards.eightOfDiamonds,
-            &mockCards.queenOfClubs,
-            &mockCards.aceOfClubs,
-            &mockCards.queenOfDiamonds,
-            &mockCards.eightOfClubs,
-            &mockCards.twoOfDiamonds
+            &cards.aceOfDiamonds,
+            &cards.eightOfDiamonds,
+            &cards.queenOfClubs,
+            &cards.aceOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.eightOfClubs,
+            &cards.twoOfDiamonds
     );
     Hand two_pair5 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.fourOfDiamonds,
-            &mockCards.fourOfClubs,
-            &mockCards.queenOfDiamonds,
-            &mockCards.aceOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.fourOfDiamonds,
+            &cards.fourOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs
     );
     Hand two_pair6 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.fourOfDiamonds,
-            &mockCards.fourOfClubs,
-            &mockCards.queenOfDiamonds,
-            &mockCards.queenOfClubs,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.fourOfDiamonds,
+            &cards.fourOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.queenOfClubs,
+            &cards.kingOfClubs
     );
     Hand three_of_a_kind1 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.twoOfHearts,
-            &mockCards.fourOfClubs,
-            &mockCards.queenOfDiamonds,
-            &mockCards.aceOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.twoOfHearts,
+            &cards.fourOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs
     );
     Hand full_house1 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.twoOfHearts,
-            &mockCards.queenOfClubs,
-            &mockCards.queenOfDiamonds,
-            &mockCards.aceOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.twoOfHearts,
+            &cards.queenOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs
     );
     Hand full_house2 = createHand(
-            &mockCards.eightOfClubs,
-            &mockCards.eightOfDiamonds,
-            &mockCards.eightOfHearts,
-            &mockCards.queenOfClubs,
-            &mockCards.queenOfDiamonds,
-            &mockCards.aceOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.eightOfClubs,
+            &cards.eightOfDiamonds,
+            &cards.eightOfHearts,
+            &cards.queenOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs
     );
     Hand four_of_a_kind = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.twoOfDiamonds,
-            &mockCards.twoOfHearts,
-            &mockCards.twoOfSpades,
-            &mockCards.queenOfDiamonds,
-            &mockCards.aceOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.twoOfDiamonds,
+            &cards.twoOfHearts,
+            &cards.twoOfSpades,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs
     );
     Hand straight2to6 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.threeOfDiamonds,
-            &mockCards.fourOfHearts,
-            &mockCards.fiveOfSpades,
-            &mockCards.sixOfDiamonds,
-            &mockCards.aceOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.threeOfDiamonds,
+            &cards.fourOfHearts,
+            &cards.fiveOfSpades,
+            &cards.sixOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs
     );
-    Hand straight_low_ace = createHand(
-            &mockCards.aceOfClubs,
-            &mockCards.twoOfClubs,
-            &mockCards.threeOfDiamonds,
-            &mockCards.fourOfHearts,
-            &mockCards.fiveOfSpades,
-            &mockCards.kingOfClubs,
-            &mockCards.queenOfClubs
+    Hand straightAto5 = createHand(
+            &cards.aceOfClubs,
+            &cards.twoOfClubs,
+            &cards.threeOfDiamonds,
+            &cards.fourOfHearts,
+            &cards.fiveOfSpades,
+            &cards.kingOfClubs,
+            &cards.queenOfClubs
     );
     Hand straight2to6_2 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.threeOfDiamonds,
-            &mockCards.fourOfHearts,
-            &mockCards.fiveOfSpades,
-            &mockCards.sixOfClubs,
-            &mockCards.queenOfClubs,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.threeOfDiamonds,
+            &cards.fourOfHearts,
+            &cards.fiveOfSpades,
+            &cards.sixOfClubs,
+            &cards.queenOfClubs,
+            &cards.kingOfClubs
     );
-    Hand straight4 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.fiveOfClubs,
-            &mockCards.sixOfHearts,
-            &mockCards.sevenOfClubs,
-            &mockCards.eightOfDiamonds,
-            &mockCards.nineOfClubs,
-            &mockCards.kingOfHearts
+    Hand straight5to9 = createHand(
+            &cards.twoOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sixOfHearts,
+            &cards.sevenOfClubs,
+            &cards.eightOfDiamonds,
+            &cards.nineOfClubs,
+            &cards.kingOfHearts
     );
-    Hand straight5 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.fiveOfClubs,
-            &mockCards.sevenOfClubs,
-            &mockCards.eightOfDiamonds,
-            &mockCards.nineOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.jackOfDiamonds
+    Hand straight7toJ = createHand(
+            &cards.twoOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sevenOfClubs,
+            &cards.eightOfDiamonds,
+            &cards.nineOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.jackOfDiamonds
     );
+    Hand straight2to9 = createHand(
+            &cards.twoOfClubs,
+            &cards.threeOfDiamonds,
+            &cards.fourOfClubs,
+            &cards.fiveOfHearts,
+            &cards.sixOfSpades,
+            &cards.sevenOfHearts,
+            &cards.eightOfDiamonds
+    );
+    Hand straight10toAce = createHand(
+            &cards.twoOfClubs,
+            &cards.threeOfDiamonds,
+            &cards.tenOfSpades,
+            &cards.jackOfClubs,
+            &cards.queenOfHearts,
+            &cards.kingOfHearts,
+            &cards.aceOfClubs
+    );
+
+    Hand straightWithPairs = createHand(
+            &cards.queenOfSpades,
+            &cards.aceOfDiamonds,
+            &cards.tenOfSpades,
+            &cards.jackOfClubs,
+            &cards.queenOfHearts,
+            &cards.kingOfHearts,
+            &cards.aceOfClubs
+    );
+
     Hand flush1 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.fiveOfClubs,
-            &mockCards.sevenOfClubs,
-            &mockCards.eightOfDiamonds,
-            &mockCards.nineOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.kingOfClubs
+            &cards.twoOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sevenOfClubs,
+            &cards.eightOfDiamonds,
+            &cards.nineOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.kingOfClubs
     );
     Hand straight_flush1 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.threeOfClubs,
-            &mockCards.fourOfClubs,
-            &mockCards.fiveOfClubs,
-            &mockCards.sixOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.jackOfSpades
+            &cards.twoOfClubs,
+            &cards.threeOfClubs,
+            &cards.fourOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sixOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.jackOfSpades
     );
     Hand straight_flush2 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.threeOfClubs,
-            &mockCards.fourOfClubs,
-            &mockCards.fiveOfClubs,
-            &mockCards.sixOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.jackOfClubs
+            &cards.twoOfClubs,
+            &cards.threeOfClubs,
+            &cards.fourOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sixOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.jackOfClubs
     );
     Hand straight_flush3 = createHand(
-            &mockCards.twoOfClubs,
-            &mockCards.threeOfClubs,
-            &mockCards.fourOfClubs,
-            &mockCards.fiveOfClubs,
-            &mockCards.sixOfClubs,
-            &mockCards.sevenOfClubs,
-            &mockCards.jackOfClubs
+            &cards.twoOfClubs,
+            &cards.threeOfClubs,
+            &cards.fourOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sixOfClubs,
+            &cards.sevenOfClubs,
+            &cards.jackOfClubs
     );
     Hand royal_flush1 = createHand(
-            &mockCards.tenOfClubs,
-            &mockCards.jackOfClubs,
-            &mockCards.queenOfClubs,
-            &mockCards.kingOfClubs,
-            &mockCards.aceOfClubs,
-            &mockCards.tenOfDiamonds,
-            &mockCards.jackOfSpades
+            &cards.tenOfClubs,
+            &cards.jackOfClubs,
+            &cards.queenOfClubs,
+            &cards.kingOfClubs,
+            &cards.aceOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.jackOfSpades
     );
 };
 

@@ -14,18 +14,49 @@ using namespace pokerx;
 class FlushTests : public ::testing::Test {
 public:
     TestHands hands;
+    Cards cards;
+
     FlushTests() = default;
 };
 
-TEST_F(FlushTests, TestFullhouse1){
+TEST_F(FlushTests, TestFullhouse1) {
     pokerx::FullHouse fullHouse(hands.full_house1.getCards());
     ASSERT_TRUE(fullHouse.isA());
 }
 
 
-TEST_F(FlushTests, TestFullHouse){
+TEST_F(FlushTests, TestFullHouse) {
     pokerx::FullHouse fullHouse(hands.full_house2.getCards());
     ASSERT_TRUE(fullHouse.isA());
+}
+
+TEST_F(FlushTests, TestFullhouse1BestFive) {
+    pokerx::FullHouse fullHouse(hands.full_house1.getCards());
+    CardCollection cc(
+            {
+                    &cards.twoOfClubs,
+                    &cards.twoOfDiamonds,
+                    &cards.twoOfHearts,
+                    &cards.queenOfClubs,
+                    &cards.queenOfDiamonds,
+            }
+    );
+    ASSERT_EQ(cc, *fullHouse.getBestFive());
+}
+
+
+TEST_F(FlushTests, TestFullHouseBestFive) {
+    pokerx::FullHouse fullHouse(hands.full_house2.getCards());
+    CardCollection cc(
+            {
+                    &cards.eightOfClubs,
+                    &cards.eightOfDiamonds,
+                    &cards.eightOfHearts,
+                    &cards.queenOfClubs,
+                    &cards.queenOfDiamonds,
+            }
+    );
+    ASSERT_EQ(cc, *fullHouse.getBestFive());
 }
 
 

@@ -19,18 +19,18 @@ namespace pokerx {
 //    Hand::Hand() : RestrictedCardCollection(7) {}
 //
 //    const CardCollection &Hand::getCards() const {
-//        return cards_;
+//        return mockCards;
 //    }
 //
 //    void Hand::setCards(const CardCollection &cards) {
-//        cards_ = cards;
+//        mockCards = cards;
 //    }
 
 //    Hand.old::Hand.old(CardCollection &collection) {
 //        if (collection.size() != 7) {
 //            throw std::invalid_argument("need 7 cards");
 //        }
-//        this->cards_ = collection.getCards();
+//        this->mockCards = collection.getCards();
 //        setValue();
 //    }
 //
@@ -40,9 +40,9 @@ namespace pokerx {
 //    Hand.old::Hand.old(HoleCards holeCards, cards::CommunityCards &communityCards) {
 //        holeCards = holeCards;
 //        communityCards = communityCards;
-//        cards_ = holeCards + communityCards;
+//        mockCards = holeCards + communityCards;
 //        // and sort the concatonated cards
-//        cards_.sort();
+//        mockCards.sort();
 //        setValue();
 //    }
 //
@@ -51,8 +51,8 @@ namespace pokerx {
 //    Hand.old::Hand.old(Hand.old &hand) {
 //        holeCards = hand.holeCards;
 //        communityCards = hand.communityCards;
-//        cards_ = hand.cards_;
-//        cards_.sort();
+//        mockCards = hand.mockCards;
+//        mockCards.sort();
 //        type = hand.getHandType();
 //        value = hand.value;
 //    }
@@ -61,25 +61,25 @@ namespace pokerx {
 //
 //        this->holeCards = hand->holeCards;
 //        this->communityCards = hand->communityCards;
-//        this->cards_ = hand->cards_;
-//        cards_.sort();
+//        this->mockCards = hand->mockCards;
+//        mockCards.sort();
 //        name = (string) typeid(this).name();
 //        this->value = hand->value;
 //    }
 //
 //
 //    std::ostream &operator<<(std::ostream &os, const Hand.old &hand) {
-//        CardCollection best5 = hand.cards_;
+//        CardCollection best5 = hand.mockCards;
 //        os << best5;
 //        return os;
 //    }
 //
 //    void Hand.old::shuffle() {
-//        cards_.shuffle();
+//        mockCards.shuffle();
 //    }
 //
 //    CardCollection Hand.old::best5() {
-//        return cards_(2, cards_.size());
+//        return mockCards(2, mockCards.size());
 //    }
 //
 //    bool Hand.old::isa() {
@@ -115,67 +115,67 @@ namespace pokerx {
 //            return royalFlushPtr;
 //        }
 ////        cout << "checking for StraightFlush" << endl;
-//        std::shared_ptr<StraightFlush> straightFlush = std::make_shared<StraightFlush>(cards_);
+//        std::shared_ptr<StraightFlush> straightFlush = std::make_shared<StraightFlush>(mockCards);
 //        if (straightFlush->isa()) {
 //            return straightFlush;
 //        }
 ////        cout << "checking for FourOfAKind" << endl;
 //
-//        std::shared_ptr<FourOfAKind> fourOfAKind = std::make_shared<FourOfAKind>(cards_);
+//        std::shared_ptr<FourOfAKind> fourOfAKind = std::make_shared<FourOfAKind>(mockCards);
 //        if (fourOfAKind->isa()) {
 //            return fourOfAKind;
 //        }
 ////        cout << "checking for FullHouse" << endl;
-//        std::shared_ptr<FullHouse> fullHouse = std::make_shared<FullHouse>(cards_);
+//        std::shared_ptr<FullHouse> fullHouse = std::make_shared<FullHouse>(mockCards);
 //        if (fullHouse->isa()) {
 //            return fullHouse;
 //        }
 ////        cout << "checking for Flush" << endl;
 //
-//        std::shared_ptr<Flush> flush = std::make_shared<Flush>(cards_);
+//        std::shared_ptr<Flush> flush = std::make_shared<Flush>(mockCards);
 //        if (flush->isa()) {
 //            return flush;
 //        }
 ////        cout << "checking for Straight" << endl;
 //
 //
-//        std::shared_ptr<Straight> straight = std::make_shared<Straight>(cards_);
+//        std::shared_ptr<Straight> straight = std::make_shared<Straight>(mockCards);
 //        if (straight->isa()) {
 //            return straight;
 //        }
 ////        cout << "checking for ThreeOfAKind" << endl;
 //
-//        std::shared_ptr<ThreeOfAKind> threeOfAKind = std::make_shared<ThreeOfAKind>(cards_);
+//        std::shared_ptr<ThreeOfAKind> threeOfAKind = std::make_shared<ThreeOfAKind>(mockCards);
 //        if (threeOfAKind->isa()) {
 //            return threeOfAKind;
 //        }
 ////        cout << "checking for TwoPair" << endl;
 //
-//        std::shared_ptr<TwoPair> twoPair = std::make_shared<TwoPair>(cards_);
+//        std::shared_ptr<TwoPair> twoPair = std::make_shared<TwoPair>(mockCards);
 //        if (twoPair->isa()) {
 //            return twoPair;
 //        }
 ////        cout << "checking for Pair" << endl;
-//        std::shared_ptr<Pair> pair = std::make_shared<Pair>(cards_);
+//        std::shared_ptr<Pair> pair = std::make_shared<Pair>(mockCards);
 //        if (pair->isa()) {
 //            return pair;
 //        }
 ////        cout << "checking for HighCard" << endl;
 //
-//        std::shared_ptr<HighCard> highCard = std::make_shared<HighCard>(cards_);
+//        std::shared_ptr<HighCard> highCard = std::make_shared<HighCard>(mockCards);
 ////        cout << "returning a high card" << endl;
 //        return highCard;
 //    }
 //
 //    CommunityCards Hand.old::getCards() {
-//        return CommunityCards(cards_);
+//        return CommunityCards(mockCards);
 //    }
 //
 //
 //    Hand.old &Hand.old::operator=(Hand.old hand) {
 //        if ((*this) == hand)
 //            return *this;
-//        cards_ = hand.cards_;
+//        mockCards = hand.mockCards;
 //        communityCards = hand.communityCards;
 //        holeCards = hand.holeCards;
 //        value = hand.value;
@@ -185,7 +185,7 @@ namespace pokerx {
 //    Hand.old &Hand.old::operator=(Hand.old &&hand) noexcept {
 //        if ((*this) == hand)
 //            return *this;
-//        cards_ = hand.cards_;
+//        mockCards = hand.mockCards;
 //        communityCards = hand.communityCards;
 //        holeCards = hand.holeCards;
 //        value = hand.value;
@@ -194,7 +194,7 @@ namespace pokerx {
 //    }
 //
 //    Hand.old::Hand.old(Hand.old &&hand) noexcept {
-//        cards_ = hand.cards_;
+//        mockCards = hand.mockCards;
 //        communityCards = hand.communityCards;
 //        holeCards = hand.holeCards;
 //        value = hand.value;
@@ -229,11 +229,11 @@ namespace pokerx {
 //
 //
 //    int Hand.old::sumBest5Ranks() {
-//        Straight straight(cards_);
-//        StraightFlush straightFlush(cards_);
+//        Straight straight(mockCards);
+//        StraightFlush straightFlush(mockCards);
 //        std::vector<int> low_ranks = {2, 3, 4, 5, 14};
 //        CardCollection straight_best5 = straight.best5();
-//        std::vector<int> ranks_to_sum = cards_.getRanks();
+//        std::vector<int> ranks_to_sum = mockCards.getRanks();
 //
 //        if (straight.isa() || straightFlush.isa()) {
 //            if (straight_best5.getRanks() == low_ranks) {
@@ -333,7 +333,7 @@ namespace pokerx {
 //
 //
 //    CardCollection HighCard::best5() {
-//        return cards_(2, cards_.size());
+//        return mockCards(2, mockCards.size());
 //    }
 //
 //    bool HighCard::isa() {
@@ -512,16 +512,16 @@ namespace pokerx {
 //        if (!isa()) {
 //            return CardCollection();
 //        }
-//        std::vector<int> ranks = cards_.getRanks();
+//        std::vector<int> ranks = mockCards.getRanks();
 //        // three frames are possible with 5 consequative numbers in 7
 //        int frames[] = {0, 1, 2};
 //
 //        // Deal with low aces straights
 //        CardCollection best5_ace_low;
-//        if (cards_[0].getRank() == 2 && cards_[1].getRank() == 3 && cards_[2].getRank() == 4 &&
-//            cards_[3].getRank() == 5 && cards_[6].getRank() == 14) {
+//        if (mockCards[0].getRank() == 2 && mockCards[1].getRank() == 3 && mockCards[2].getRank() == 4 &&
+//            mockCards[3].getRank() == 5 && mockCards[6].getRank() == 14) {
 //            for (int i : {0, 1, 2, 3, 6}) {
-//                best5_ace_low.add(cards_[i]);
+//                best5_ace_low.add(mockCards[i]);
 //            }
 //        }
 //
@@ -533,7 +533,7 @@ namespace pokerx {
 //            for (size_t i = 0; i < ranks.size(); i++) {
 //                int rank = ranks[i];
 //                if (current_rank == rank) {
-//                    best5_temp.add(cards_[i]);
+//                    best5_temp.add(mockCards[i]);
 //                    current_rank++;
 //                }
 //                if (best5_temp.size() == 5) {
@@ -553,7 +553,7 @@ namespace pokerx {
 //    }
 //
 //    bool Straight::isa() {
-//        CardCollection cards = cards_;
+//        CardCollection cards = mockCards;
 //        std::vector<int> ranks = cards.getRanks();
 //        // three frames are possible with 5 consequative numbers in 7
 //        int frames[] = {0, 1, 2};
@@ -636,7 +636,7 @@ namespace pokerx {
 //    CardCollection Flush::best5() {
 //        if (!isa())
 //            return CardCollection();
-//        Counter<std::string> count(cards_.getSuits());
+//        Counter<std::string> count(mockCards.getSuits());
 //        CardCollection best5;
 //        std::string which_suit;
 //        for (const std::pair<const std::string, int> &i : count.count()) {
@@ -644,7 +644,7 @@ namespace pokerx {
 //                which_suit = i.first;
 //            }
 //        }
-//        for (const Card &card : cards_) {
+//        for (const Card &card : mockCards) {
 //            if (card.getSuit() == which_suit)
 //                best5.add(card);
 //        }
@@ -655,7 +655,7 @@ namespace pokerx {
 //    }
 //
 //    bool Flush::isa() {
-//        Counter<std::string> count(cards_.getSuits());
+//        Counter<std::string> count(mockCards.getSuits());
 //        bool x = false;
 //        for (const std::pair<const std::string, int> &i : count.count()) {
 //            if (i.second >= 5)
@@ -697,7 +697,7 @@ namespace pokerx {
 //    }
 //
 //    CardCollection FullHouse::best5() {
-//        Counter<int> count(cards_.getRanks());
+//        Counter<int> count(mockCards.getRanks());
 //        int theThree = 0, theTwo = 0;
 //        for (std::pair<const int, int> i: count.count()) {
 //            if (i.second == 2)
@@ -706,7 +706,7 @@ namespace pokerx {
 //                theThree = i.first;
 //        }
 //        CardCollection best5;
-//        for (const Card &i : cards_) {
+//        for (const Card &i : mockCards) {
 //            if (i.getRank() == theThree)
 //                best5.add(i);
 //            else if (i.getRank() == theTwo)
@@ -725,8 +725,8 @@ namespace pokerx {
 //
 //    bool FullHouse::isa() {
 //        //check if pair
-//        Pair pair(cards_);
-//        ThreeOfAKind three_of_a_kind(cards_);
+//        Pair pair(mockCards);
+//        ThreeOfAKind three_of_a_kind(mockCards);
 //        return pair.isa() && three_of_a_kind.isa();
 //    }
 //
@@ -810,7 +810,7 @@ namespace pokerx {
 //    CardCollection StraightFlush::best5() {
 //        if (!isa())
 //            return CardCollection();
-//        Straight straight(cards_);
+//        Straight straight(mockCards);
 //        /*
 //         * we can directly return the straight here, since we have already checked
 //         * that we have a straight flush. The straight returns the highest 5 cards
@@ -820,8 +820,8 @@ namespace pokerx {
 //    }
 //
 //    bool StraightFlush::isa() {
-//        bool straight = Straight(cards_).isa();
-//        bool flush = Flush(cards_).isa();
+//        bool straight = Straight(mockCards).isa();
+//        bool flush = Flush(mockCards).isa();
 //        return straight && flush;
 //    }
 //
@@ -865,12 +865,12 @@ namespace pokerx {
 //    CardCollection RoyalFlush::best5() {
 //        if (!isa())
 //            return CardCollection();
-//        StraightFlush straight_flush(cards_);
+//        StraightFlush straight_flush(mockCards);
 //        return straight_flush.best5();
 //    }
 //
 //    bool RoyalFlush::isa() {
-//        StraightFlush sflush(cards_);
+//        StraightFlush sflush(mockCards);
 //        CardCollection sflushcards = sflush.best5();
 //        return sflush.isa() && sflushcards[0].getRank() == 10
 //               && sflushcards[1].getRank() == 11

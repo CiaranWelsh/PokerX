@@ -13,30 +13,171 @@ using namespace pokerx;
 
 class StraightTests : public ::testing::Test {
 public:
+    Cards cards;
     TestHands hands;
+
     StraightTests() = default;
 };
 
-TEST_F(StraightTests, Straight2To6){
+TEST_F(StraightTests, StraightAto5) {
+    pokerx::Straight straight(hands.straightAto5.getCards());
+    ASSERT_TRUE(straight.isA());
+}
+
+TEST_F(StraightTests, Straight2To6) {
     pokerx::Straight straight(hands.straight2to6.getCards());
     ASSERT_TRUE(straight.isA());
 }
 
 
-TEST_F(StraightTests, Straight2To62){
+TEST_F(StraightTests, Straight2To62) {
     pokerx::Straight straight(hands.straight2to6_2.getCards());
     ASSERT_TRUE(straight.isA());
 }
 
 
-TEST_F(StraightTests, Straight4){
-    pokerx::Straight straight(hands.straight4.getCards());
-    ASSERT_FALSE(straight.isA());
+TEST_F(StraightTests, Straight4) {
+    pokerx::Straight straight(hands.straight5to9.getCards());
+    ASSERT_TRUE(straight.isA());
 }
 
-TEST_F(StraightTests, Straight5){
-    pokerx::Straight straight(hands.straight5.getCards());
-    ASSERT_FALSE(straight.isA());
+TEST_F(StraightTests, Straight5) {
+    pokerx::Straight straight(hands.straight7toJ.getCards());
+    ASSERT_TRUE(straight.isA());
+}
+
+
+TEST_F(StraightTests, Straight6) {
+    pokerx::Straight straight(hands.straight2to9.getCards());
+    ASSERT_TRUE(straight.isA());
+}
+
+TEST_F(StraightTests, Straight7) {
+    pokerx::Straight straight(hands.straight10toAce.getCards());
+    ASSERT_TRUE(straight.isA());
+}
+
+TEST_F(StraightTests, Straight8) {
+    pokerx::Straight straight(hands.straightWithPairs.getCards());
+    ASSERT_TRUE(straight.isA());
+}
+
+
+TEST_F(StraightTests, StraightAto5Best5) {
+    pokerx::Straight straight(hands.straightAto5.getCards());
+    CardCollection cc(
+            {
+                    &cards.aceOfClubs,
+                    &cards.twoOfClubs,
+                    &cards.threeOfDiamonds,
+                    &cards.fourOfHearts,
+                    &cards.fiveOfSpades,
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+TEST_F(StraightTests, Straight2To6Best5) {
+    pokerx::Straight straight(hands.straight2to6.getCards());
+    CardCollection cc(
+            {
+                    &cards.twoOfClubs,
+                    &cards.threeOfDiamonds,
+                    &cards.fourOfHearts,
+                    &cards.fiveOfSpades,
+                    &cards.sixOfDiamonds,
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+
+TEST_F(StraightTests, Straight2To62Best5) {
+    pokerx::Straight straight(hands.straight2to6_2.getCards());
+    CardCollection cc(
+            {
+                    &cards.twoOfClubs,
+                    &cards.threeOfDiamonds,
+                    &cards.fourOfHearts,
+                    &cards.fiveOfSpades,
+                    &cards.sixOfClubs,
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+
+TEST_F(StraightTests, Straight4Best5) {
+    pokerx::Straight straight(hands.straight5to9.getCards());
+    CardCollection cc(
+            {
+                    &cards.fiveOfClubs,
+                    &cards.sixOfHearts,
+                    &cards.sevenOfClubs,
+                    &cards.eightOfDiamonds,
+                    &cards.nineOfClubs,
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+TEST_F(StraightTests, Straight5Best5) {
+    pokerx::Straight straight(hands.straight7toJ.getCards());
+    CardCollection cc(
+            {
+                    &cards.sevenOfClubs,
+                    &cards.eightOfDiamonds,
+                    &cards.nineOfClubs,
+                    &cards.tenOfDiamonds,
+                    &cards.jackOfDiamonds
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+
+TEST_F(StraightTests, Straight6Best5) {
+    pokerx::Straight straight(hands.straight2to9.getCards());
+    CardCollection cc(
+            {
+                    &cards.fourOfClubs,
+                    &cards.fiveOfHearts,
+                    &cards.sixOfSpades,
+                    &cards.sevenOfHearts,
+                    &cards.eightOfDiamonds
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+
+TEST_F(StraightTests, Straight7Best5TenToAce) {
+    pokerx::Straight straight(hands.straight10toAce.getCards());
+    CardCollection cc(
+            {
+                    &cards.tenOfSpades,
+                    &cards.jackOfClubs,
+                    &cards.queenOfHearts,
+                    &cards.kingOfHearts,
+                    &cards.aceOfClubs
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
+}
+
+
+TEST_F(StraightTests, StraightWithPairs) {
+    pokerx::Straight straight(hands.straightWithPairs.getCards());
+    CardCollection cc(
+            {
+                    &cards.tenOfSpades,
+                    &cards.jackOfClubs,
+                    &cards.queenOfHearts,
+                    &cards.kingOfHearts,
+                    &cards.aceOfClubs
+            }
+    );
+    ASSERT_EQ(cc, *straight.getBestFive());
 }
 
 

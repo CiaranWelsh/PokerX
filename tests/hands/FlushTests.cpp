@@ -14,12 +14,25 @@ using namespace pokerx;
 class FlushTests : public ::testing::Test {
 public:
     TestHands hands;
+    Cards cards;
     FlushTests() = default;
 };
 
-TEST_F(FlushTests, TestPairIsWhenItISAPair){
+TEST_F(FlushTests, TestFlush){
     pokerx::Flush flush(hands.flush1.getCards());
     ASSERT_TRUE(flush.isA());
+}
+
+TEST_F(FlushTests, TestFlushBestFive){
+    pokerx::Flush flush(hands.flush1.getCards());
+    CardCollection cc({
+                              &cards.twoOfClubs,
+                              &cards.fiveOfClubs,
+                              &cards.sevenOfClubs,
+                              &cards.nineOfClubs,
+                              &cards.kingOfClubs
+                      });
+    ASSERT_EQ(cc, *flush.getBestFive());
 }
 
 

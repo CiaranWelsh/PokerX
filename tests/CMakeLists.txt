@@ -142,6 +142,7 @@ add_test_executable(CommunityCardTests              ON ON TestExecutables Commun
 
 # Tests for specific hand evaluations
 add_test_executable(CounterTests                    ON ON TestExecutables CounterTests.cpp)
+add_test_executable(HighCardTests                   ON ON TestExecutables hands/HighCardTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(PairTests                       ON ON TestExecutables hands/PairTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(TwoPairTests                    ON ON TestExecutables hands/TwoPairTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(TOAKTests                       ON ON TestExecutables hands/TOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)

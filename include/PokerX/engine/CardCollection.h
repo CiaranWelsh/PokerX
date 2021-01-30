@@ -6,9 +6,9 @@
 #define POKERSIMULATIONSINCPP_CARDCOLLECTION_H
 
 #include <vector>
+#include <set>
 #include "PokerX/engine/Card.h"
 #include "PokerX/engine/Counter.h"
-//#include "PokerX/engine/hands/Best5.h"
 
 namespace pokerx {
 
@@ -32,7 +32,7 @@ namespace pokerx {
 
         virtual void add(const std::vector<ICard *> &cards);
 
-        CardCollection& operator()(unsigned int start, unsigned int end);
+        CardCollection operator()(unsigned int start, unsigned int end);
 
         CardCollection &operator+(CardCollection &other);
 
@@ -68,9 +68,13 @@ namespace pokerx {
 
         void sort();
 
+        CardCollection pop_back(int n);
+
         CardCollection pop(int n);
 
         ICard *pop();
+
+        ICard *pop_back();
 
         [[nodiscard]] bool empty() const;
 
@@ -78,7 +82,7 @@ namespace pokerx {
 
         std::vector<int> getUniqueRanks();
 
-        std::vector<std::string> getUniqueSuits();
+        std::set<std::string> getUniqueSuits();
 
         void add(const CardCollection &cards);
 
@@ -118,26 +122,21 @@ namespace pokerx {
          * must be Pair, TwoPair, ThreeOfAKind or FourOfAKind
          *
          */
-        template<class HandType>
+        template<typename HandType>
         [[nodiscard]] CardCollection xOfAKindBest5(int x) const {
-            if (size() > 7 ) {
-                return CardCollection();
-            }
+            CardCollection cards( getCards());
             HandType handType(cards_);
             if (!handType.isA())
-                // if not isa HandType, return empty CardCollection.
+                //  if not isa HandType, return empty CardCollection.
                 return CardCollection();
             CardCollection best5;
-            Counter<int> counter(getRanks());
-
-            // rank: number
+            Counter<int> counter(cards.getRanks());
             std::unordered_map<int, int> count = counter.count();
-
             // get the rank of the card which has a pair/two pair etc.
             std::vector<int> ranks;
-            for (std::pair<const int, int> i : count) {
-                if (i.second == x) {
-                    ranks.push_back(i.first);
+            for (auto [rank, count] : counter.count()) {
+                if (count == x) {
+                    ranks.push_back(rank);
                 }
             }
             // cater for special case when we have three pairs
@@ -146,20 +145,21 @@ namespace pokerx {
                 std::sort(ranks.begin(), ranks.end());
                 ranks.erase(ranks.begin());
             }
-//            std::vector<int> idx_for_delete;
-//            for (int rank : ranks) {
-//                for (int j = 0; j < size(); j++) {
-//                    if (getCards()[j]->getRank() == rank) {
-//                        best5.add(cards_[j]);
-//                        idx_for_delete.push_back(j);
-//                    }
-//                }
-//            }
-//            for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
-//                cards.erase(*it);
-//            }
-//            cards.sort();
-//            best5.add(cards(2, cards.size()));
+            std::vector<int> idx_for_delete;
+            for (int rank : ranks) {
+                for (int j = 0; j < cards.size(); j++) {
+                    if (getCards()[j]->getRank() == rank) {
+                        ICard* card = cards[j];
+                        best5.add(card);
+                        idx_for_delete.push_back(j);
+                    }
+                }
+            }
+            for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
+                cards.erase(*it);
+            }
+            cards.sort();
+            best5.add(cards(2, cards.size()));
             return best5;
         }
 

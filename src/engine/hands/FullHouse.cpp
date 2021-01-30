@@ -30,7 +30,7 @@ std::shared_ptr<CardCollection> FullHouse::getBestFive() const {
     }
     CardCollection best5;
     for (auto i : cards_) {
-        if (i->getRank() == theThree || i->getRank() == theThree)
+        if (i->getRank() == theTwo || i->getRank() == theThree)
             best5.add(i);
     }
     if (best5.size() != 5)

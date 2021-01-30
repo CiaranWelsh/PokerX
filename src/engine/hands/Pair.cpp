@@ -13,6 +13,7 @@ namespace pokerx{
     }
 
     std::shared_ptr<CardCollection> Pair::getBestFive() const {
+        CardCollection cc = xOfAKindBest5<Pair>(2);
         return std::make_shared<CardCollection>(
                 xOfAKindBest5<Pair>(2));
     }

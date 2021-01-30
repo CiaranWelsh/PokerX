@@ -14,12 +14,29 @@ using namespace pokerx;
 class ThreeOfAKindTests : public ::testing::Test {
 public:
     TestHands hands;
+    Cards cards;
+
     ThreeOfAKindTests() = default;
 };
 
-TEST_F(ThreeOfAKindTests, TestThreeOfAKindIsWhenItISAThreeOfAKind){
-    pokerx::ThreeOfAKind ThreeOfAKind(hands.three_of_a_kind1.getCards());
-    ASSERT_TRUE(ThreeOfAKind.isA());
+TEST_F(ThreeOfAKindTests, TestThreeOfAKindIsWhenItISAThreeOfAKind) {
+    pokerx::ThreeOfAKind threeOfAKind(hands.three_of_a_kind1.getCards());
+    ASSERT_TRUE(threeOfAKind.isA());
+}
+
+
+TEST_F(ThreeOfAKindTests, TestThreeOfAKindBestFive) {
+    pokerx::ThreeOfAKind threeOfAKind(hands.three_of_a_kind1.getCards());
+    CardCollection cc(
+            {
+                    &cards.twoOfClubs,
+                    &cards.twoOfDiamonds,
+                    &cards.twoOfHearts,
+                    &cards.kingOfClubs,
+                    &cards.aceOfDiamonds,
+            }
+    );
+    ASSERT_EQ(cc, *threeOfAKind.getBestFive());
 }
 
 

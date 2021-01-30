@@ -14,12 +14,25 @@ using namespace pokerx;
 class RoyalFlushTests : public ::testing::Test {
 public:
     TestHands hands;
+    Cards cards;
     RoyalFlushTests() = default;
 };
 
-TEST_F(RoyalFlushTests, TestIsAWhenTrue){
+TEST_F(RoyalFlushTests, TestIsA){
     RoyalFlush royalFlush(hands.royal_flush1.getCards());
     ASSERT_TRUE(royalFlush.isA());
+}
+
+TEST_F(RoyalFlushTests, TestBest5){
+    RoyalFlush royalFlush(hands.royal_flush1.getCards());
+    CardCollection cc ({
+            &cards.tenOfClubs,
+            &cards.jackOfClubs,
+            &cards.queenOfClubs,
+            &cards.kingOfClubs,
+            &cards.aceOfClubs,
+    });
+    ASSERT_EQ(cc, *royalFlush.getBestFive());
 }
 
 

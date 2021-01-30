@@ -95,7 +95,7 @@ namespace pokerx {
 //        template<class HandType>
 //        CardCollection xOfAKindBest5(int x) {
 //            CardCollection cards = getCards();
-//            HandType handType(cards_);
+//            HandType handType(mockCards);
 //            if (!handType.isa())
 //                // if not isa HandType, return empty CardCollection.
 //                return CardCollection();
@@ -153,7 +153,7 @@ namespace pokerx {
 //protected:
 //        HoleCards holeCards;
 //        CommunityCards communityCards;
-//        CardCollection cards_;
+//        CardCollection mockCards;
 //        int value = 0;
 //
 //private:

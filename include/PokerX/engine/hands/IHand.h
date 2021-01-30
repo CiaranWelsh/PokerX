@@ -5,7 +5,7 @@
 #ifndef POKERX_IHAND_H
 #define POKERX_IHAND_H
 
-#include "PokerX/engine/RestrictedCardCollection.h"
+#include <PokerX/engine/RestrictedCardCollection.h>
 #include "PokerX/engine/hands/HandType.h"
 
 namespace pokerx {

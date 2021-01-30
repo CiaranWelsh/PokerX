@@ -30,7 +30,6 @@ option(WITH_ASAN "compiile with adress sanitizer" OFF)
 
 if (WITH_ASAN)
     if (APPLE AND NOT UNIX)
-        # easy way to deal with existance problem for now
         set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer -g")
     endif ()
 endif ()

@@ -4550,7 +4550,7 @@
 											"top": 723,
 											"width": 346.4677734375,
 											"height": 13,
-											"text": "~pop(): pop",
+											"text": "~pop_back(): pop",
 											"horizontalAlignment": 0
 										},
 										{
@@ -6053,7 +6053,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvQrtiRzAkpvc="
 							},
-							"name": "CardCollection cards_",
+							"name": "CardCollection mockCards",
 							"visibility": "protected",
 							"type": ""
 						}
@@ -7891,7 +7891,7 @@
 											"top": 694,
 											"width": 561.73583984375,
 											"height": 13,
-											"text": "#CardCollection cards_",
+											"text": "#CardCollection mockCards",
 											"horizontalAlignment": 0
 										}
 									],
@@ -13588,7 +13588,7 @@
 											"top": 421,
 											"width": 561.73583984375,
 											"height": 13,
-											"text": "#CardCollection cards_",
+											"text": "#CardCollection mockCards",
 											"horizontalAlignment": 0
 										}
 									],

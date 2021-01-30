@@ -13,26 +13,56 @@ using namespace pokerx;
 
 class PairTests : public ::testing::Test {
 public:
+    Cards cards;
     TestHands hands;
+
     PairTests() = default;
 };
 
-TEST_F(PairTests, TestPairIsWhenItISAPair){
+TEST_F(PairTests, TestPairIsWhenItISAPair) {
     pokerx::Pair pair(hands.pair1.getCards());
     ASSERT_TRUE(pair.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItISAPair2){
+TEST_F(PairTests, TestPairIsWhenItISAPair2) {
     pokerx::Pair pair(hands.pair2.getCards());
     ASSERT_TRUE(pair.isA());
 }
 
 
-TEST_F(PairTests, TestPairIsWhenItIsNot){
+TEST_F(PairTests, TestPairIsWhenItIsNot) {
     pokerx::Pair pair(hands.highCard1.getCards());
     ASSERT_FALSE(pair.isA());
 }
+
+
+TEST_F(PairTests, TestPairIsWhenItISAPairBest5) {
+    pokerx::Pair pair(hands.pair1.getCards());
+    auto bestFive = pair.getBestFive();
+    CardCollection cc({
+                              &cards.twoOfClubs,
+                              &cards.twoOfDiamonds,
+                              &cards.eightOfClubs,
+                              &cards.tenOfDiamonds,
+                              &cards.aceOfClubs,
+                      });
+    ASSERT_TRUE(*bestFive == cc);
+}
+
+TEST_F(PairTests, TestPairIsWhenItISAPairBest5Pair2) {
+    pokerx::Pair pair(hands.pair2.getCards());
+    auto bestFive = pair.getBestFive();
+    CardCollection cc({
+                              &cards.sixOfHearts,
+                              &cards.sevenOfClubs,
+                              &cards.eightOfClubs,
+                              &cards.tenOfDiamonds,
+                              &cards.tenOfClubs,
+                      });
+    ASSERT_EQ(*bestFive, cc);
+}
+
 
 
 
