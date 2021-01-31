@@ -154,8 +154,8 @@ add_test_executable(FourOfAKind ON ON TestExecutables hands/FOAKTests.cpp Mockup
 add_test_executable(StraightFlushTests ON ON TestExecutables hands/StraightFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(RoyalFlushTests ON ON TestExecutables hands/RoyalFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
-add_test_executable(HandTests.cpp ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(EvaluatorTests.cpp ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(HandTests ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(EvaluatorTests ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
 #add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h hands/TestHands.h EvaluatorTests.cpp HandTests.cpp)
 #target_link_libraries(AConsoleGame PRIVATE PokerX)
