@@ -11,7 +11,7 @@
 namespace pokerx {
     class IPlayerManager : public RotatoryContainer<SharedPlayerPtr> {
     public:
-        [[nodiscard]] virtual bool checkAllPlayersEqual() const = 0;
+        [[nodiscard]] virtual bool allPlayersEqual() const = 0;
 
         [[nodiscard]] virtual SharedPlayerPtr getCurrentPlayer() const = 0;
 
@@ -44,6 +44,7 @@ namespace pokerx {
 
         virtual std::vector<std::string> getPlayerNames() = 0;
 
+        virtual void resetAmountContribThisStreet() = 0;
 
     protected:
         int current_player_idx = 0;

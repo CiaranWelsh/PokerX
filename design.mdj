@@ -4550,7 +4550,7 @@
 											"top": 723,
 											"width": 346.4677734375,
 											"height": 13,
-											"text": "~pop(): pop",
+											"text": "~pop_back(): pop",
 											"horizontalAlignment": 0
 										},
 										{
@@ -5938,7 +5938,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFvQrtiRjAdGFY="
 					},
-					"name": "IHand",
+					"name": "Hand",
 					"visibility": "package",
 					"operations": [
 						{
@@ -6053,7 +6053,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvQrtiRzAkpvc="
 							},
-							"name": "CardCollection cards_",
+							"name": "CardCollection mockCards",
 							"visibility": "protected",
 							"type": ""
 						}
@@ -7607,7 +7607,7 @@
 											"top": 359,
 											"width": 118.8662109375,
 											"height": 13,
-											"text": "IHand"
+											"text": "Hand"
 										},
 										{
 											"_type": "LabelView",
@@ -7891,7 +7891,7 @@
 											"top": 694,
 											"width": 561.73583984375,
 											"height": 13,
-											"text": "#CardCollection cards_",
+											"text": "#CardCollection mockCards",
 											"horizontalAlignment": 0
 										}
 									],
@@ -11701,7 +11701,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvQr532TrwoVI="
 							},
-							"name": "[object Object] _count",
+							"name": "[object Object] count_",
 							"visibility": "private",
 							"type": ""
 						}
@@ -11713,7 +11713,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvQr532TrwoVI="
 							},
-							"name": "_get_unique_elements",
+							"name": "get_unique_elements",
 							"visibility": "private",
 							"parameters": [
 								{
@@ -13588,7 +13588,7 @@
 											"top": 421,
 											"width": 561.73583984375,
 											"height": 13,
-											"text": "#CardCollection cards_",
+											"text": "#CardCollection mockCards",
 											"horizontalAlignment": 0
 										}
 									],

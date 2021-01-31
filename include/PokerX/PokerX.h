@@ -29,7 +29,7 @@
 #include "PokerX/engine/IPlayerManager.h"
 #include "PokerX/engine/IObserver.h"
 #include "PokerX/engine/IObservableSharedPtr.h"
-#include "PokerX/engine/NextPlayer.h"
+#include "PokerX/engine/NextStreet.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/Pot.h"
 #include "PokerX/engine/PreflopBetting.h"

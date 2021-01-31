@@ -11,12 +11,21 @@
 #include <random>
 #include <set>
 #include "PokerX/engine/CardCollection.h"
+#include "PokerX/Error.h"
 #include "pokerx_export.h"
+
 
 namespace pokerx {
 
+    CardCollection::CardCollection(std::initializer_list<ICard *> init)
+            : cards_(init) {
+        sort();
+    }
+
     CardCollection::CardCollection(std::vector<ICard *> cards) :
-            cards_(std::move(cards)) {}
+            cards_(std::move(cards)) {
+        sort();
+    }
 
     std::ostream &operator<<(std::ostream &os, const CardCollection &cards) {
         if (cards.empty())
@@ -24,31 +33,42 @@ namespace pokerx {
         os << "[";
         for (int i = 0; i < cards.cards_.size(); i++) {
             if (i == cards.cards_.size() - 1)
-                os << cards.cards_[i] << "]";
+                os << *cards.cards_[i] << "]";
             else
-                os << cards.cards_[i] << ", ";
+                os << *cards.cards_[i] << ", ";
         }
         return os;
     }
 
-    ICard *CardCollection::operator[](int index) {
+    ICard *CardCollection::operator[](unsigned int index) {
         return cards_[index];
     }
 
 
     void CardCollection::add(ICard *card) {
-        cards_.push_back(card);
+        if (empty()){
+            cards_.push_back(card);
+            return;
+        }
+        // insert into right spot to maintain ordered vector
+        auto first_index_smaller_than_card = std::find_if(cards_.begin(), cards_.end(), [card](ICard *s) {
+            return s->getRank() > card->getRank();
+        });
+        if (first_index_smaller_than_card == cards_.end()) // element not found
+            cards_.push_back(card);
+        else
+            cards_.insert(first_index_smaller_than_card, card);
     }
 
     void CardCollection::add(const std::vector<ICard *> &cards) {
         for (auto &c : cards) {
-            cards_.push_back(c);
+            add(c);
         }
     }
 
     void CardCollection::add(const CardCollection &cards) {
         for (auto &c : cards) {
-            cards_.push_back(c);
+            add(c);
         }
     }
 
@@ -73,11 +93,11 @@ namespace pokerx {
         return equal;
     }
 
-    int CardCollection::size() {
+    int CardCollection::size() const {
         return cards_.size();
     }
 
-    std::vector<ICard *> CardCollection::getCards() {
+    std::vector<ICard *> CardCollection::getCards() const {
         return cards_;
     }
 
@@ -101,50 +121,68 @@ namespace pokerx {
      * Private, hidden, used for sorting function
      */
     bool compareCardPtrs(ICard *a, ICard *b) {
-        return (*a < *b);
+        std::unordered_map<std::string, int> suit_values;
+        suit_values["C"] = 1;
+        suit_values["D"] = 2;
+        suit_values["H"] = 3;
+        suit_values["S"] = 4;
+        if (a->getRank() == b->getRank())
+            return suit_values[a->getSuit()] < suit_values[b->getSuit()];
+        else
+            return (a->getRank() < b->getRank());
     }
 
     void CardCollection::sort() {
         std::sort(cards_.begin(), cards_.end(), compareCardPtrs);
     }
 
-/*
- * Remove top card (index 0) from deck
- * and return it
- */
-    CardCollection CardCollection::pop(int n) {
+    CardCollection CardCollection::pop_back(int n) {
+        if (n > size()){
+            const int& s = size();
+            LOGIC_ERROR << "Can't pop more than " << s << " cards." << std::endl;
+        }
         CardCollection cc;
         // add cards to collection
         for (int i = 0; i < n; i++) {
-            ICard *card = cards_[i];
-            cc.add(card);
-        }
-        // then remove cards. Must be game_ended this way to preserve ordering
-        // that we expect.
-        for (int i = 0; i < n; i++) {
-            cards_.erase(cards_.begin());
-
+            cc.add(pop_back());
         }
         return cc;
     }
 
-/*
- * Remove top card (index 0) from deck
- * and return it
- */
+    CardCollection CardCollection::pop(int n) {
+        if (n > size()){
+            const int& s = size();
+            LOGIC_ERROR << "Can't pop more than " << s << " cards." << std::endl;
+        }
+        CardCollection cc;
+        // add cards to collection
+        int count = 0;
+        while (count != n){
+            cc.add(pop());
+            count++;
+        }
+        return cc;
+    }
+
     ICard *CardCollection::pop() {
+        ICard *card = cards_[size() - 1];
+        cards_.erase(cards_.end()-1 );
+        return card;
+    }
+
+    ICard *CardCollection::pop_back() {
         ICard *card = cards_[0];
         cards_.erase(cards_.begin());
         return card;
     }
 
-    CardCollection CardCollection::operator+(CardCollection &other) {
+    CardCollection &CardCollection::operator+(CardCollection &other) {
         for (const ICard *card : other.cards_)
             cards_.push_back(const_cast<ICard *&&>(card));
-        return CardCollection(cards_);
+        return *this;
     }
 
-    CardCollection CardCollection::operator+=(CardCollection &other) {
+    CardCollection &CardCollection::operator+=(CardCollection &other) {
         return *this + other;
     }
 
@@ -162,11 +200,10 @@ namespace pokerx {
 
     CardCollection CardCollection::operator()(unsigned int start, unsigned int end) {
         std::vector<ICard *> sliced = std::vector<ICard *>(cards_.begin() + start, cards_.begin() + end);
-        cards_ = sliced;
-        return *this;
+        return CardCollection(sliced);
     }
 
-    std::vector<int> CardCollection::getRanks() {
+    std::vector<int> CardCollection::getRanks() const {
         std::vector<int> ranks;
         for (const ICard *card: cards_) {
             int r = card->getRank();
@@ -191,11 +228,9 @@ namespace pokerx {
         return ranks;
     }
 
-    std::vector<std::string> CardCollection::getUniqueSuits() {
-        std::vector<std::string> suits = this->getSuits();
-        std::vector<std::string>::iterator ip;
-        ip = std::unique(suits.begin(), suits.begin() + suits.size());
-        suits.resize(std::distance(suits.begin(), ip));
+    std::set<std::string> CardCollection::getUniqueSuits() {
+        auto all_suits = getSuits();
+        std::set suits(all_suits.begin(), all_suits.end());
         return suits;
     }
 
@@ -291,6 +326,45 @@ namespace pokerx {
         bool unique = std::adjacent_find(vectorOfTuples.begin(), vectorOfTuples.end()) == vectorOfTuples.end();
         return unique;
 
+    }
+
+    bool CardCollection::xOfAKindIsA(int x, int how_many) const {
+        CardCollection cc(getCards());
+        Counter<int> counter(cc.getRanks());
+        // counter for number of cards with x copies, i.e. 2 for pair, 3 for three of a kind.
+        std::vector<int> num_x;
+        for (auto i : counter.count()) {
+            if (i.second == x)
+                num_x.push_back(i.first);
+        }
+        // caters for situation where you have three pairs
+        if (x == 2 && how_many == 2 && num_x.size() == 3)
+            return true;
+        return num_x.size() == how_many;
+    }
+
+    int CardCollection::getValueOfXOfAKind(int x) {
+        CardCollection cc(cards_);
+        Counter<int> count = Counter<int>(cc.getRanks());
+        std::vector<int> val;
+        for (std::pair<int, int> i : count.count()) {
+            if (i.second == x) {
+                val.push_back(i.first);
+            }
+        }
+        // protect against not finding any x
+        if (val.empty()) {
+            return 0;
+        }
+        // when we have 2 pair, return the largest rank
+        if (val.size() > 1) {
+            return *std::max_element(val.begin(), val.end());
+        } else {
+            if (val.size() != 1) {
+                LOGIC_ERROR << "Should only have 1" << std::endl;
+            }
+            return val[0];
+        }
     }
 
 }

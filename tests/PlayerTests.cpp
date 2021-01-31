@@ -14,7 +14,7 @@
 
 using namespace pokerx;
 
-std::ostream &operator<<(std::ostream &os, const FakePlayer& player) {
+std::ostream &operator<<(std::ostream &os, const FakePlayer &player) {
     return player.print(os);
 }
 
@@ -71,6 +71,17 @@ TEST_F(PlayerTests, TestCallReducesPlayerStack) {
     ASSERT_EQ(player.getStack(), 90.0);
 }
 
+TEST_F(PlayerTests, TestAmountContributedIncrementsWhenCall) {
+    // not yet implemented
+//    EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
+//    EXPECT_CALL(gameVariables, getPot).Times(1).WillRepeatedly(ReturnRef(pot));
+//    FakePlayer player("p1", 100);
+//    player.watch(&gameVariables);
+//    player.call();
+//    ASSERT_EQ(player.getStack(), 90.0);
+}
+
+
 TEST_F(PlayerTests, TestRaiseWhenAmountIsGreaterThanCallAmount) {
     FakePlayer player("p1", 100.0);
     player.watch(&gameVariables);
@@ -85,8 +96,6 @@ TEST_F(PlayerTests, TestRaiseWhenAmountIsGreaterThanCallAmount) {
     // This particular players raising strategy is to double the call amount (see definition)
     ASSERT_EQ(player.getStack(), 80.0);
 }
-
-
 
 
 

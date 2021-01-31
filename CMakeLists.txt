@@ -6,14 +6,16 @@ project(PokerX)
 # Options and settings
 #
 
+include(GnuInstallDirs)
+
 # put all runtime targets (exe and dll) into bin
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/bin)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_INSTALL_BINDIR}")
 
 # put libraries into lib
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/lib)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_INSTALL_LIBDIR}")
 
 # archives
-set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/lib)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${CMAKE_INSTALL_LIBDIR}")
 
 # export all on windows. Ignored on other.
 set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS TRUE)
@@ -30,7 +32,6 @@ option(WITH_ASAN "compiile with adress sanitizer" OFF)
 
 if (WITH_ASAN)
     if (APPLE AND NOT UNIX)
-        # easy way to deal with existance problem for now
         set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer -g")
     endif ()
 endif ()
@@ -72,7 +73,6 @@ add_library(
         include/PokerX/engine/IPlayerManager.h
         include/PokerX/engine/IObserver.h
         include/PokerX/engine/IObservableSharedPtr.h
-        include/PokerX/engine/NextPlayer.h
         include/PokerX/engine/NextStreet.h
         include/PokerX/engine/PokerEngine.h
         include/PokerX/engine/Pot.h
@@ -93,6 +93,20 @@ add_library(
         include/PokerX/engine/Turn.h
         include/PokerX/engine/PlayerToAct.h
         include/PokerX/Error.h
+        include/PokerX/engine/hands/Hand.h
+        include/PokerX/engine/hands/Pair.h
+        include/PokerX/engine/hands/TwoPair.h
+        include/PokerX/engine/hands/HighCard.h
+        include/PokerX/engine/hands/ThreeOfAKind.h
+        include/PokerX/engine/hands/Straight.h
+        include/PokerX/engine/hands/Flush.h
+        include/PokerX/engine/hands/FullHouse.h
+        include/PokerX/engine/hands/FourOfAKind.h
+        include/PokerX/engine/hands/StraightFlush.h
+        include/PokerX/engine/hands/RoyalFlush.h
+        include/PokerX/engine/hands/Best5.h
+        include/PokerX/engine/hands/HandType.h
+        include/PokerX/engine/hands/IHand.h
 
         # sources
         src/engine/AllInPlayer.cpp
@@ -114,7 +128,6 @@ add_library(
         src/engine/FolderPlayer.cpp
         src/engine/GameVariables.cpp
         src/engine/HoleCards.cpp
-        src/engine/NextPlayer.cpp
         src/engine/NextStreet.cpp
         src/engine/PokerEngine.cpp
         src/engine/Pot.cpp
@@ -132,7 +145,20 @@ add_library(
         src/engine/StreetMachine.cpp
         src/engine/Turn.cpp
         src/engine/PlayerToAct.cpp
-)
+        src/engine/hands/Hand.cpp
+        src/engine/hands/Pair.cpp
+        src/engine/hands/TwoPair.cpp
+        src/engine/hands/HighCard.cpp
+        src/engine/hands/ThreeOfAKind.cpp
+        src/engine/hands/Straight.cpp
+        src/engine/hands/Flush.cpp
+        src/engine/hands/FullHouse.cpp
+        src/engine/hands/FourOfAKind.cpp
+        src/engine/hands/StraightFlush.cpp
+        src/engine/hands/RoyalFlush.cpp
+        src/engine/hands/Best5.cpp
+        src/engine/hands/IHand.cpp
+        src/engine/Evaluator.cpp include/PokerX/engine/Evaluator.h)
 
 target_include_directories(
         PokerX PUBLIC

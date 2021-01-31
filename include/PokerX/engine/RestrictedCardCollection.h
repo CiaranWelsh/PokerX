@@ -12,6 +12,8 @@ namespace pokerx {
     class RestrictedCardCollection : public CardCollection {
     public:
 
+        using CardCollection::CardCollection;
+
         RestrictedCardCollection() = default;
 
         ~RestrictedCardCollection() override = default;

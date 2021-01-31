@@ -11,17 +11,13 @@ using namespace testing;
 
 class HoleCardTests : public ::testing::Test {
 public:
+    Cards cards;
     HoleCardTests() = default;
 };
 
 TEST_F(HoleCardTests, HoleCardTestGetRank) {
-    MockCard card1(4, "S");
-    MockCard card2(2, "D");
-
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(4));
-
-    HoleCards h(&card1, &card2);
-    ASSERT_TRUE(h[0]->getRank() == 4);
+    HoleCards h(&cards.fourOfSpades, &cards.twoOfDiamonds);
+    ASSERT_TRUE(h[0]->getRank() == 2);
 }
 
 TEST_F(HoleCardTests, TestHoleCardFailsWithMoreThanTwoCards) {

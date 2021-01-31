@@ -59,9 +59,15 @@ namespace pokerx {
 
         void postBigBlind() override;
 
+        [[nodiscard]] float getAmountContrib() const override;
+
+        void setAmountContrib(float amount) override;
+
+
     protected:
 
         void checkGameVariablesNotNull() const override;
+
     };
 
     using PlayerPtr = std::unique_ptr<Player>;

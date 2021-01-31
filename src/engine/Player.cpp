@@ -90,6 +90,7 @@ namespace pokerx {
             RUNTIME_ERROR << "Amount to call is greater than your stack" << std::endl;
         } else if(amount == stack_)
             setIsAllIn(true);
+        amountContrib_ += amount;
         stack_ -= amount;
         getGameVariables()->getPot() += amount;
     }
@@ -98,6 +99,7 @@ namespace pokerx {
         setIsAllIn(true);
         float amount = stack_; // copy
         stack_ = 0;
+        amountContrib_ += amount;
         getGameVariables()->getPot() += amount;
     }
 
@@ -121,6 +123,13 @@ namespace pokerx {
         gameVariables_->getPot() += bb;
     }
 
+    float Player::getAmountContrib() const {
+        return amountContrib_;
+    }
+
+    void Player::setAmountContrib(float amount) {
+        amountContrib_ = amount;
+    }
 
 
 }

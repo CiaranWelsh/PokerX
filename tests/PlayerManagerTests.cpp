@@ -103,6 +103,37 @@ TEST_F(PlayerManagerTests, TestGetPlayerByName) {
 }
 
 
+TEST_F(PlayerManagerTests, CheckAllPlayersEqualWhenTrue) {
+    playerManager[0]->setAmountContrib(10);
+    playerManager[1]->setAmountContrib(10);
+    playerManager[2]->setAmountContrib(10);
+    playerManager[3]->setAmountContrib(10);
+    playerManager[4]->setAmountContrib(10);
+    playerManager[5]->setAmountContrib(10);
+
+    ASSERT_TRUE(playerManager.allPlayersEqual());
+
+}
+
+
+TEST_F(PlayerManagerTests, CheckThankYouCanSetAmountContrib) {
+    playerManager.getPlayer(0)->setAmountContrib(10);
+    ASSERT_EQ(10, playerManager.getPlayer(0)->getAmountContrib());
+}
+
+TEST_F(PlayerManagerTests, CheckAllPlayersEqualWhenFalseTrue) {
+    playerManager[0]->setAmountContrib(10);
+    playerManager[1]->setAmountContrib(20);
+    playerManager[2]->setAmountContrib(30);
+    playerManager[3]->setAmountContrib(40);
+    playerManager[4]->setAmountContrib(50);
+    playerManager[5]->setAmountContrib(60);
+
+    ASSERT_FALSE(playerManager.allPlayersEqual());
+
+}
+
+
 
 
 

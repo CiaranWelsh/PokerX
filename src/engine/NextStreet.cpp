@@ -19,18 +19,22 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
         switch (engine->getGameVariables()->getStreet()) {
             case PREFLOP_STREET:
+                engine->getPlayers()->resetAmountContribThisStreet();
                 engine->getGameVariables()->setStreet(FLOP_STREET);
                 engine->setState(DealFlop::getInstance());
                 break;
             case FLOP_STREET:
+                engine->getPlayers()->resetAmountContribThisStreet();
                 engine->getGameVariables()->setStreet(TURN_STREET);
                 engine->setState(DealTurn::getInstance());
                 break;
             case TURN_STREET:
+                engine->getPlayers()->resetAmountContribThisStreet();
                 engine->getGameVariables()->setStreet(RIVER_STREET);
                 engine->setState(DealRiver::getInstance());
                 break;
             case RIVER_STREET:
+                engine->getPlayers()->resetAmountContribThisStreet();
                 engine->getGameVariables()->setStreet(SHOWDOWN_STREET);
                 engine->setState(Showdown::getInstance());
                 break;
