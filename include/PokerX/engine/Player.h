@@ -5,6 +5,7 @@
 #ifndef POKERSIMULATIONSINCPP_PLAYER_H
 #define POKERSIMULATIONSINCPP_PLAYER_H
 
+#include <PokerX/engine/hands/Hand.h>
 #include "PokerX/engine/IPlayer.h"
 #include "PokerX/engine/IGameVariables.h"
 
@@ -63,6 +64,8 @@ namespace pokerx {
 
         void setAmountContrib(float amount) override;
 
+        Hand getHand() override;
+
 
     protected:
 
@@ -70,7 +73,6 @@ namespace pokerx {
 
     };
 
-    using PlayerPtr = std::unique_ptr<Player>;
     using SharedPlayerPtr = std::shared_ptr<Player>;
 
 }

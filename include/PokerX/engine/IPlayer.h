@@ -151,6 +151,8 @@ namespace pokerx {
 
         virtual void setAmountContrib(float amount) = 0;
 
+        virtual Hand getHand() = 0;
+
 
     protected:
         float stack_ = 1000.0;

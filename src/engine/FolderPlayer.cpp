@@ -16,7 +16,6 @@ namespace pokerx {
         // call station never raises.
         // raise anyway for testing
         float amount = gameVariables_->getAmountToCall()*2;
-        std::cout << amount << std::endl;
         gameVariables_->getPot() += amount;
         stack_ -= amount;
     }

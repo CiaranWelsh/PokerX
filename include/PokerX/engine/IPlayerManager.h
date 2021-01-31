@@ -5,6 +5,7 @@
 #ifndef POKERX_IPLAYERMANAGER_H
 #define POKERX_IPLAYERMANAGER_H
 
+#include <PokerX/engine/hands/Hand.h>
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/RotatoryContainer.h"
 
@@ -45,6 +46,8 @@ namespace pokerx {
         virtual std::vector<std::string> getPlayerNames() = 0;
 
         virtual void resetAmountContribThisStreet() = 0;
+
+        virtual std::vector<Hand> getPlayerHands() = 0;
 
     protected:
         int current_player_idx = 0;

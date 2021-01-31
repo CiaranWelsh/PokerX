@@ -157,9 +157,17 @@ namespace pokerx {
     }
 
     void PlayerManager::resetAmountContribThisStreet() {
-        for(auto player: contents_){
+        for(const auto& player: contents_){
             player->setAmountContrib(0.0);
         }
+    }
+
+    std::vector<Hand> PlayerManager::getPlayerHands() {
+        std::vector<Hand> hands;
+        for (const auto& player: contents_){
+            hands.emplace_back(Hand(player->getHand()));
+        }
+        return std::vector<Hand>();
     }
 
 }

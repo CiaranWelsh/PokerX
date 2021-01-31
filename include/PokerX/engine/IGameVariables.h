@@ -46,9 +46,9 @@ namespace pokerx {
 
         virtual void setDeck(const Deck &deck) = 0;
 
-        [[nodiscard]] virtual const std::unique_ptr<CardCollection> &getCommunityCards() const = 0;
+        [[nodiscard]] virtual CardCollection getCommunityCards() const = 0;
 
-        virtual void setCommunityCards( std::unique_ptr<CardCollection> communityCards) = 0;
+        virtual void setCommunityCards(CardCollection communityCards) = 0;
 
         [[nodiscard]] virtual unsigned int getN() const = 0;
 

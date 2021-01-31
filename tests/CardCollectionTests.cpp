@@ -333,17 +333,6 @@ TEST_F(CardCollectionTests, TestContainsSuitWhenFalse) {
     ASSERT_FALSE(cc1.containsSuit("C"));
 }
 
-//TEST_F(CardCollectionTests, TestFindByRank) { method deprecated.
-//    MockCard card1(6, "D");
-//    MockCard card2(7, "C");
-//    MockCard card3(2, "H");
-//    MockCard card4(12, "S");
-//    MockCard card5(10, "S");
-//    std::vector<ICard*> cards1({&card1, &card2, &card3, &card4, &card5});
-//    CardCollection cc1(cards1);
-//    MockCard card = cc1.findByRank(7);
-//    ASSERT_TRUE(card == card2);
-//}
 
 TEST_F(CardCollectionTests, TestSetDifference) {
 

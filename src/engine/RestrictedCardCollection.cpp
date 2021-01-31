@@ -9,9 +9,6 @@ namespace pokerx {
 
     RestrictedCardCollection::RestrictedCardCollection(std::vector<ICard *> cards)
         : CardCollection(std::move(cards)), max_cards_(cards_.size()){
-        std::cout << "size: " << size() << std::endl;
-        std::cout << "mac_cards: " << max_cards_ << std::endl;
-
         if (size() > max_cards_) {
             LOGIC_ERROR << err_msg_ << std::endl;
         }
@@ -42,6 +39,13 @@ namespace pokerx {
             LOGIC_ERROR << err_msg_ << std::endl;
         }
         CardCollection::add(card);
+    }
+
+    void RestrictedCardCollection::add(const CardCollection &cardCollection) {
+        if (size() == max_cards_){
+            LOGIC_ERROR << err_msg_ << std::endl;
+        }
+        CardCollection::add(cardCollection);
     }
 
 

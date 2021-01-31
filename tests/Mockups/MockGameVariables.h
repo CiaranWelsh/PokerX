@@ -45,9 +45,15 @@ public:
 
     MOCK_METHOD(void, setDeck, (const Deck &), ());
 
-    MOCK_METHOD(const std::unique_ptr<CardCollection> &, getCommunityCards, (), (const));
+    MOCK_METHOD(const std::unique_ptr<CardCollection> &, getCommunityCards, (), (const))
 
-    MOCK_METHOD(void, setCommunityCards, (std::unique_ptr<CardCollection>), ());
+    CardCollection
+
+    ;
+
+    MOCK_METHOD(void, setCommunityCards, (std::unique_ptr<CardCollection>), ())pokerx::CardCollection
+
+    ;
 
     MOCK_METHOD(unsigned int, getN, (), (const));
 

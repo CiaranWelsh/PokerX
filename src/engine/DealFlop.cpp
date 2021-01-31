@@ -8,7 +8,7 @@
 namespace pokerx {
 
     void DealFlop::enter(StateMachine *machine) {
-        std::cout << "Entering StreetEnd" << std::endl;
+        std::cout << "Entering DealFlop" << std::endl;
     }
 
     void DealFlop::action(StateMachine *machine) {

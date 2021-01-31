@@ -7,14 +7,13 @@
 namespace pokerx {
 
     void DealTurn::enter(StateMachine *machine) {
-        std::cout << "Entering StreetEnd" << std::endl;
+        std::cout << "Entering DealTurn" << std::endl;
     }
 
     void DealTurn::action(StateMachine *machine) {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        // liskov wouldn't be happy with this
-        engine->dealHoleCards();
+        engine->dealTurn();
         machine->setState(EnterStreet::getInstance());
     }
 

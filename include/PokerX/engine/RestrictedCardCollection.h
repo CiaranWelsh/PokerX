@@ -22,6 +22,8 @@ namespace pokerx {
 
         void add(ICard *card) override;
 
+        void add(const CardCollection &cardCollection) override;
+
     protected:
 
         /**

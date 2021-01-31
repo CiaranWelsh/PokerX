@@ -14,7 +14,6 @@ namespace pokerx {
 
     void pokerx::RaiserPlayer::raise() {
         float amount = gameVariables_->getAmountToCall()*2;
-        std::cout << amount << std::endl;
         gameVariables_->getPot() += amount;
         stack_ -= amount;
     }

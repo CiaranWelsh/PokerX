@@ -2,6 +2,7 @@
 // Created by Ciaran on 10/01/2021.
 //
 
+#include <PokerX/engine/Evaluator.h>
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/Reset.h"
 #include "PokerX/Error.h"
@@ -97,9 +98,9 @@ namespace pokerx {
         // discard top card
         deck.pop();
 
-        gameVariables_->getCommunityCards()->add(deck.pop());
-        gameVariables_->getCommunityCards()->add(deck.pop());
-        gameVariables_->getCommunityCards()->add(deck.pop());
+        gameVariables_->getCommunityCards().add(deck.pop());
+        gameVariables_->getCommunityCards().add(deck.pop());
+        gameVariables_->getCommunityCards().add(deck.pop());
 
     }
 
@@ -109,7 +110,7 @@ namespace pokerx {
         // discard top card
         deck.pop();
 
-        gameVariables_->getCommunityCards()->add(deck.pop());
+        gameVariables_->getCommunityCards().add(deck.pop());
 
     }
 
@@ -119,11 +120,12 @@ namespace pokerx {
         // discard top card
         deck.pop();
 
-        gameVariables_->getCommunityCards()->add(deck.pop());
+        gameVariables_->getCommunityCards().add(deck.pop());
     }
 
     void PokerEngine::determineWinner() {
-        std::cout << "Determine the winner code here" << std::endl;
+        Evaluator eval;
+        eval.evaluate(players_->getPlayerHands());
     }
 
 }

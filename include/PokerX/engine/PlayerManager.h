@@ -103,6 +103,10 @@ namespace pokerx {
         int getIndexOfPlayer(const SharedIPlayerPtr &player) override;
 
         void resetAmountContribThisStreet() override;
+
+        std::vector<Hand> getPlayerHands() override;
+
+
     };
 }
 

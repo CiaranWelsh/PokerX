@@ -20,6 +20,7 @@ namespace pokerx {
 
         using RestrictedCardCollection::RestrictedCardCollection;
 
+
         Hand();
 
         ~Hand() override = default;
@@ -31,7 +32,7 @@ namespace pokerx {
          * @details Algorithms starts at ROYAL_FLUSH and works its way
          * down the hierachy returning when it evaluates to true.
          */
-        HandType getType() const;
+        [[nodiscard]] HandType getType() const;
 
         bool operator==(const Hand& other)  const;
 

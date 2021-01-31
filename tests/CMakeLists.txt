@@ -160,10 +160,9 @@ add_test_executable(RoyalFlushTests ON ON TestExecutables hands/RoyalFlushTests.
 add_test_executable(HandTests ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(EvaluatorTests ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
-#add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h hands/TestHands.h EvaluatorTests.cpp HandTests.cpp)
-#target_link_libraries(AConsoleGame PRIVATE PokerX)
-#
-#
+add_executable(PokerXConsoleGame AConsoleGame.cpp)
+target_link_libraries(PokerXConsoleGame PRIVATE PokerX)
+
 
 
 install(

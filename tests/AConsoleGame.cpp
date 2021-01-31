@@ -13,28 +13,27 @@ int main() {
     GameVariables variables;
     PokerEngine engine(&playerManager, &variables);
 
-
     std::string userInput;
     while (true) {
-        std::cout << "Enter one of: [none, check, fold, call, raise, all_in]" << std::endl;
+        std::cout << "Enter one of: [Finish [Ff], check [a], fold [s], call [w], raise [d], all_in [c]]" << std::endl;
         std::cout << "> ";
         std::cin >> userInput;
-        if (userInput == "N") {
+        if (userInput == "Finish" | userInput == "F" | userInput == "f") {
             break;
         } else {
             if (userInput == "none") {
                 engine.action();
             } else if (userInput.empty()) {
                 engine.action();
-            } else if (userInput == "check") {
+            } else if (userInput == "check" | userInput == "a") {
                 engine.action();
-            } else if (userInput == "fold") {
+            } else if (userInput == "fold" | userInput == "s") {
                 engine.action();
-            } else if (userInput == "call") {
+            } else if (userInput == "call" | userInput == "w") {
                 engine.action();
-            } else if (userInput == "raise") {
+            } else if (userInput == "raise" | userInput == "d") {
                 engine.action();
-            } else if (userInput == "all_in") {
+            } else if (userInput == "all_in" | userInput == "c") {
                 engine.action();
             } else {
                 // now for regexes

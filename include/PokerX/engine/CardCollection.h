@@ -32,6 +32,8 @@ namespace pokerx {
 
         virtual void add(const std::vector<ICard *> &cards);
 
+        virtual void add(const CardCollection &cards);
+
         CardCollection operator()(unsigned int start, unsigned int end);
 
         CardCollection &operator+(CardCollection &other);
@@ -83,8 +85,6 @@ namespace pokerx {
         std::vector<int> getUniqueRanks();
 
         std::set<std::string> getUniqueSuits();
-
-        void add(const CardCollection &cards);
 
         bool contains(ICard *card);
 

@@ -5,6 +5,7 @@
 #include "PokerX/engine/Player.h"
 #include "PokerX/Error.h"
 #include <ostream>
+#include <PokerX/engine/hands/Hand.h>
 
 namespace pokerx {
 
@@ -57,7 +58,7 @@ namespace pokerx {
 
     void Player::watch(IGameVariables *variables) {
         gameVariables_ = variables;
-//        std::cout << __FILE_NAME__<<":"<<__LINE__<<": possible memory related error"<<std::endl;
+//         __FILE_NAME__<<":"<<__LINE__<<": possible memory related error"<<std::endl;
         gameVariables_->registerObserver(this);
     }
 
@@ -129,6 +130,14 @@ namespace pokerx {
 
     void Player::setAmountContrib(float amount) {
         amountContrib_ = amount;
+    }
+
+    Hand Player::getHand() {
+        const CardCollection & comm = getGameVariables()->getCommunityCards();
+        Hand hand;
+        hand.add(comm);
+        hand.add(getHoleCards().getCards());
+        return hand;
     }
 
 

@@ -318,7 +318,6 @@ namespace pokerx {
         using Tuple = std::tuple<int, std::string>;
         using VectorOfTuples = std::vector<Tuple>;
         VectorOfTuples vectorOfTuples;
-        std::cout << size() << std::endl;
         for (auto &i: getCards()) {
             Tuple x(i->getRank(), i->getSuit());
             vectorOfTuples.push_back(x);
