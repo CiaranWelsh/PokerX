@@ -20,8 +20,7 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
 
     target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}")
 
-    #    target_include_directories(${BINARY} PRIVATE "${NUMCPP_INCLUDE_DIR}")
-    #    add_dependencies(${BINARY} poker)
+    add_dependencies(${BINARY} PokerX gtest gtest_main gmock gmock_main)
 
     if ("${${OUT_VARIABLE}}" STREQUAL "")
         set(${OUT_VARIABLE} "${BINARY}" PARENT_SCOPE)
@@ -87,7 +86,7 @@ add_test_executable(
         ResetStateTests.cpp
         Mockups/MockPokerEngine.h
         Mockups/MockState.h
-        )
+)
 
 
 # ButtonMoves Unit tests
@@ -96,7 +95,7 @@ add_test_executable(
         ButtonMovesTests.cpp
         Mockups/MockPokerEngine.h
         Mockups/MockState.h
-        )
+)
 
 # PlayerManager unit tests
 add_test_executable(
@@ -132,31 +131,31 @@ add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
         Mockups/MockPlayerManager.h
         )
 
-add_test_executable(ContainerTests              ON ON TestExecutables ContainerTests.cpp  )
+add_test_executable(ContainerTests ON ON TestExecutables ContainerTests.cpp)
 
 # Tests for Cards and CardCollection objects
-add_test_executable(CardTests                       ON ON TestExecutables CardTests.cpp)
-add_test_executable(CardCollectionTests             ON ON TestExecutables CardCollectionTests.cpp)
-add_test_executable(RestricteCardCollectionTests    ON ON TestExecutables RestrictedCardCollectionTests.cpp)
-add_test_executable(DeckTests                       ON ON TestExecutables DeckTests.cpp)
-add_test_executable(HoleCardTests                   ON ON TestExecutables HoleCardTests.cpp)
-add_test_executable(CommunityCardTests              ON ON TestExecutables CommunityCardTests.cpp)
+add_test_executable(CardTests ON ON TestExecutables CardTests.cpp)
+add_test_executable(CardCollectionTests ON ON TestExecutables CardCollectionTests.cpp)
+add_test_executable(RestricteCardCollectionTests ON ON TestExecutables RestrictedCardCollectionTests.cpp)
+add_test_executable(DeckTests ON ON TestExecutables DeckTests.cpp)
+add_test_executable(HoleCardTests ON ON TestExecutables HoleCardTests.cpp)
+add_test_executable(CommunityCardTests ON ON TestExecutables CommunityCardTests.cpp)
 
 # Tests for specific hand evaluations
-add_test_executable(CounterTests                    ON ON TestExecutables CounterTests.cpp)
-add_test_executable(HighCardTests                   ON ON TestExecutables hands/HighCardTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(PairTests                       ON ON TestExecutables hands/PairTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(TwoPairTests                    ON ON TestExecutables hands/TwoPairTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(TOAKTests                       ON ON TestExecutables hands/TOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(StraightTests                   ON ON TestExecutables hands/StraightTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(FlushTests                      ON ON TestExecutables hands/FlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(FullHouseTests                  ON ON TestExecutables hands/FullHouseTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(FourOfAKind                     ON ON TestExecutables hands/FOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(StraightFlushTests              ON ON TestExecutables hands/StraightFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(RoyalFlushTests                 ON ON TestExecutables hands/RoyalFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(CounterTests ON ON TestExecutables CounterTests.cpp)
+add_test_executable(HighCardTests ON ON TestExecutables hands/HighCardTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(PairTests ON ON TestExecutables hands/PairTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(TwoPairTests ON ON TestExecutables hands/TwoPairTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(TOAKTests ON ON TestExecutables hands/TOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(StraightTests ON ON TestExecutables hands/StraightTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(FlushTests ON ON TestExecutables hands/FlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(FullHouseTests ON ON TestExecutables hands/FullHouseTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(FourOfAKind ON ON TestExecutables hands/FOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(StraightFlushTests ON ON TestExecutables hands/StraightFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(RoyalFlushTests ON ON TestExecutables hands/RoyalFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
-add_test_executable(HandTests.cpp                   ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
-add_test_executable(EvaluatorTests.cpp              ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(HandTests.cpp ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(EvaluatorTests.cpp ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
 #add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h hands/TestHands.h EvaluatorTests.cpp HandTests.cpp)
 #target_link_libraries(AConsoleGame PRIVATE PokerX)
