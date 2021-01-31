@@ -5,7 +5,7 @@ stages:
       - job: BuildLinux
         timeoutInMinutes: "0"
         pool:
-          vmImage: 'ubuntu-18.04'
+          vmImage: 'ubuntu-20.04'
         variables:
           BUILD_DIR: '$(System.DefaultWorkingDirectory)/build'
           SOURCE_DIR: '$(System.DefaultWorkingDirectory)'

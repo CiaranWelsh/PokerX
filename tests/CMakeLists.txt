@@ -74,7 +74,7 @@ add_test_executable(GameVariableTests ON ON TestExecutables
         )
 
 # Pot Unit tests
-add_test_executable(PotTests.cpp ON OFF TestExecutables
+add_test_executable(PotTests ON OFF TestExecutables
         PotTests.cpp
         "${POKERX_INCLUDE_DIR}/PokerX/engine/Pot.h"
         "${POKERX_SOURCE_DIR}/engine/Pot.cpp"
