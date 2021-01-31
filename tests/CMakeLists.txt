@@ -16,7 +16,10 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
         target_link_libraries(${BINARY} PRIVATE PokerX)
     endif ()
 
-    gtest_discover_tests(${BINARY} WORKING_DIRECTORY "${CMAKE_BINARY_DIR}")
+    gtest_discover_tests(${BINARY}
+            WORKING_DIRECTORY "${CMAKE_BINARY_DIR}"
+            XML_OUTPUT_DIR "${CMAKE_BINARY_DIR}/GTestXMLOutput"
+            )
 
     target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}")
 
