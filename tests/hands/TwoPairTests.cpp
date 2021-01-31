@@ -20,38 +20,38 @@ public:
 };
 
 TEST_F(TwoPairTests, TestTwoPair1IsA) {
-    pokerx::TwoPair twoPair(hands.two_pair1.getCards());
+    pokerx::TwoPair twoPair(hands.two_pair1);
     ASSERT_TRUE(twoPair.isA());
 }
 
 TEST_F(TwoPairTests, TestTwoPair2IsA) {
-    pokerx::TwoPair twoPair(hands.two_pair2.getCards());
+    pokerx::TwoPair twoPair(hands.two_pair2);
     ASSERT_TRUE(twoPair.isA());
 }
 
 TEST_F(TwoPairTests, TestTwoPair3IsA) {
-    pokerx::TwoPair twoPair(hands.two_pair3.getCards());
+    pokerx::TwoPair twoPair(hands.TwoPairSixAndTens);
     ASSERT_TRUE(twoPair.isA());
 }
 
 TEST_F(TwoPairTests, TestTwoPair4IsA) {
-    pokerx::TwoPair twoPair(hands.two_pair4.getCards());
+    pokerx::TwoPair twoPair(hands.TwoPairAceAndQueens);
     ASSERT_TRUE(twoPair.isA());
 }
 
 TEST_F(TwoPairTests, TestTwoPair5IsA) {
-    pokerx::TwoPair twoPair(hands.two_pair5.getCards());
+    pokerx::TwoPair twoPair(hands.two_pair5);
     ASSERT_TRUE(twoPair.isA());
 }
 
 TEST_F(TwoPairTests, TestTwoPair6IsA) {
-    pokerx::TwoPair twoPair(hands.two_pair6.getCards());
+    pokerx::TwoPair twoPair(hands.TwoPairFourAndQueens);
     ASSERT_TRUE(twoPair.isA());
 }
 
 
 TEST_F(TwoPairTests, TestTwoPair1BestFive) {
-    pokerx::TwoPair twoPair(hands.two_pair1.getCards());
+    pokerx::TwoPair twoPair(hands.two_pair1);
     CardCollection expected({
                                     &cards.twoOfClubs,
                                     &cards.twoOfDiamonds,
@@ -63,7 +63,7 @@ TEST_F(TwoPairTests, TestTwoPair1BestFive) {
 }
 
 TEST_F(TwoPairTests, TestTwoPair2BestFive) {
-    pokerx::TwoPair twoPair(hands.two_pair2.getCards());
+    pokerx::TwoPair twoPair(hands.two_pair2);
     CardCollection expected({
                                     &cards.sixOfHearts,
                                     &cards.sixOfClubs,
@@ -75,7 +75,7 @@ TEST_F(TwoPairTests, TestTwoPair2BestFive) {
 }
 
 TEST_F(TwoPairTests, TestTwoPair3BestFive) {
-    pokerx::TwoPair twoPair(hands.two_pair3.getCards());
+    pokerx::TwoPair twoPair(hands.TwoPairSixAndTens);
     CardCollection expected({
                                     &cards.sixOfHearts,
                                     &cards.sixOfClubs,
@@ -87,7 +87,7 @@ TEST_F(TwoPairTests, TestTwoPair3BestFive) {
 }
 
 TEST_F(TwoPairTests, TestTwoPair4BestFive) {
-    pokerx::TwoPair twoPair(hands.two_pair4.getCards());
+    pokerx::TwoPair twoPair(hands.TwoPairAceAndQueens);
     CardCollection expected({
                                     &cards.eightOfDiamonds,
                                     &cards.queenOfClubs,
@@ -99,7 +99,7 @@ TEST_F(TwoPairTests, TestTwoPair4BestFive) {
 }
 
 TEST_F(TwoPairTests, TestTwoPair5BestFive) {
-    pokerx::TwoPair twoPair(hands.two_pair5.getCards());
+    pokerx::TwoPair twoPair(hands.two_pair5);
     CardCollection expected({
                                     &cards.twoOfClubs,
                                     &cards.twoOfDiamonds,
@@ -111,7 +111,7 @@ TEST_F(TwoPairTests, TestTwoPair5BestFive) {
 }
 
 TEST_F(TwoPairTests, TestTwoPair6BestFive) {
-    pokerx::TwoPair twoPair(hands.two_pair6.getCards());
+    pokerx::TwoPair twoPair(hands.TwoPairFourAndQueens);
     CardCollection expected({
                                     &cards.fourOfDiamonds,
                                     &cards.fourOfClubs,
@@ -123,7 +123,7 @@ TEST_F(TwoPairTests, TestTwoPair6BestFive) {
 }
 
 TEST_F(TwoPairTests, TestPairIsntTwoPair){
-    TwoPair twoPair(hands.pair1.getCards());
+    TwoPair twoPair(hands.pair2sAceHigh);
     ASSERT_FALSE(twoPair.isA());
 }
 

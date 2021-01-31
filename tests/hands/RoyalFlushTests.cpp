@@ -19,12 +19,12 @@ public:
 };
 
 TEST_F(RoyalFlushTests, TestIsA){
-    RoyalFlush royalFlush(hands.royal_flush1.getCards());
+    RoyalFlush royalFlush(hands.royalFlushClubs);
     ASSERT_TRUE(royalFlush.isA());
 }
 
 TEST_F(RoyalFlushTests, TestBest5){
-    RoyalFlush royalFlush(hands.royal_flush1.getCards());
+    RoyalFlush royalFlush(hands.royalFlushClubs);
     CardCollection cc ({
             &cards.tenOfClubs,
             &cards.jackOfClubs,

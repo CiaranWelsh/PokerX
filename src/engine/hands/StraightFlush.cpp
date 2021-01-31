@@ -30,9 +30,8 @@ namespace pokerx{
     }
 
     int StraightFlush::getValue() {
-        CardCollection cc(cards_);
-        cc.sort();
-        value_ = cc[cc.size()-1]->getRank();
+        auto cc = getBestFive();
+        value_ = (*cc)[cc->size()-1]->getRank();
         return value_;
     }
 }

@@ -24,36 +24,44 @@ namespace pokerx {
 
         ~Hand() override = default;
 
-        Best5 *bestFive();
+        std::shared_ptr<CardCollection> bestFiveCards();
 
         /**
          * @brief determine what hand these cards evaluate to
          * @details Algorithms starts at ROYAL_FLUSH and works its way
          * down the hierachy returning when it evaluates to true.
          */
-        HandType getType();
+        HandType getType() const;
+
+        bool operator==(const Hand& other)  const;
+
+        bool operator!=(const Hand &other) const;
+
+        bool operator<(const Hand& other) const;
+
+        bool operator>(const Hand& other) const;
 
 
     private:
-        bool isHighCard();
+        [[nodiscard]] bool isHighCard() const;
 
-        bool isPair();
+        [[nodiscard]] bool isPair() const;
 
-        bool isTwoPair();
+        [[nodiscard]] bool isTwoPair() const;
 
-        bool isThreeOfAKind();
+        [[nodiscard]] bool isThreeOfAKind() const;
 
-        bool isStraight();
+        [[nodiscard]] bool isStraight() const;
 
-        bool isFlush();
+        [[nodiscard]] bool isFlush() const;
 
-        bool isFullHouse();
+        [[nodiscard]] bool isFullHouse() const;
 
-        bool isFourOfAKind();
+        [[nodiscard]] bool isFourOfAKind() const;
 
-        bool isStraightFlush();
+        [[nodiscard]] bool isStraightFlush() const;
 
-        bool isRoyalFlush();
+        [[nodiscard]] bool isRoyalFlush() const;
     };
 
 }

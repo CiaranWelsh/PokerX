@@ -26,7 +26,7 @@ namespace pokerx {
 
         friend std::ostream &operator<<(std::ostream &os, const CardCollection &c);
 
-        ICard *operator[](int index);
+        ICard *operator[](unsigned int index);
 
         virtual void add(ICard *card);
 

@@ -20,25 +20,25 @@ public:
 };
 
 TEST_F(PairTests, TestPairIsWhenItISAPair) {
-    pokerx::Pair pair(hands.pair1.getCards());
+    pokerx::Pair pair(hands.pair2sAceHigh);
     ASSERT_TRUE(pair.isA());
 }
 
 
 TEST_F(PairTests, TestPairIsWhenItISAPair2) {
-    pokerx::Pair pair(hands.pair2.getCards());
+    pokerx::Pair pair(hands.pair10s8high);
     ASSERT_TRUE(pair.isA());
 }
 
 
 TEST_F(PairTests, TestPairIsWhenItIsNot) {
-    pokerx::Pair pair(hands.highCard1.getCards());
+    pokerx::Pair pair(hands.highCardAceTen);
     ASSERT_FALSE(pair.isA());
 }
 
 
 TEST_F(PairTests, TestPairIsWhenItISAPairBest5) {
-    pokerx::Pair pair(hands.pair1.getCards());
+    pokerx::Pair pair(hands.pair2sAceHigh);
     auto bestFive = pair.getBestFive();
     CardCollection cc({
                               &cards.twoOfClubs,
@@ -51,7 +51,7 @@ TEST_F(PairTests, TestPairIsWhenItISAPairBest5) {
 }
 
 TEST_F(PairTests, TestPairIsWhenItISAPairBest5Pair2) {
-    pokerx::Pair pair(hands.pair2.getCards());
+    pokerx::Pair pair(hands.pair10s8high);
     auto bestFive = pair.getBestFive();
     CardCollection cc({
                               &cards.sixOfHearts,

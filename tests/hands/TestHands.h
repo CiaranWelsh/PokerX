@@ -17,16 +17,16 @@ public:
         return Hand({hc1, hc2, flop1, flop2, flop3, turn, river});
     }
 
-    Hand highCard1 = createHand(
-            &cards.sevenOfClubs,
-            &cards.fourOfDiamonds,
-            &cards.tenOfDiamonds,
-            &cards.sixOfHearts,
+    Hand highCardAceTen = createHand(
             &cards.twoOfClubs,
-            &cards.aceOfClubs,
-            &cards.eightOfClubs
+            &cards.fourOfDiamonds,
+            &cards.sixOfHearts,
+            &cards.sevenOfClubs,
+            &cards.eightOfClubs,
+            &cards.tenOfDiamonds,
+            &cards.aceOfClubs
     );
-    Hand highCard2 = createHand(
+    Hand highCardAceKing = createHand(
             &cards.twoOfClubs,
             &cards.fourOfSpades,
             &cards.nineOfDiamonds,
@@ -35,7 +35,7 @@ public:
             &cards.kingOfHearts,
             &cards.aceOfHearts
     );
-    Hand pair1 = createHand(
+    Hand pair2sAceHigh = createHand(
             &cards.twoOfClubs,
             &cards.twoOfDiamonds,
             &cards.sixOfHearts,
@@ -44,7 +44,7 @@ public:
             &cards.aceOfClubs,
             &cards.eightOfClubs
     );
-    Hand pair2 = createHand(
+    Hand pair10s8high = createHand(
             &cards.twoOfClubs,
             &cards.fourOfDiamonds,
             &cards.sixOfHearts,
@@ -71,7 +71,7 @@ public:
             &cards.tenOfClubs,
             &cards.eightOfClubs
     );
-    Hand two_pair3 = createHand(
+    Hand TwoPairSixAndTens = createHand(
             &cards.sixOfHearts,
             &cards.sixOfClubs,
             &cards.tenOfDiamonds,
@@ -80,15 +80,16 @@ public:
             &cards.twoOfClubs,
             &cards.twoOfDiamonds
     );
-    Hand two_pair4 = createHand(
-            &cards.aceOfDiamonds,
+    Hand TwoPairAceAndQueens = createHand(
+            &cards.twoOfDiamonds,
             &cards.eightOfDiamonds,
-            &cards.queenOfClubs,
-            &cards.aceOfClubs,
-            &cards.queenOfDiamonds,
             &cards.eightOfClubs,
-            &cards.twoOfDiamonds
+            &cards.queenOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.aceOfClubs
     );
+
     Hand two_pair5 = createHand(
             &cards.twoOfClubs,
             &cards.twoOfDiamonds,
@@ -98,7 +99,7 @@ public:
             &cards.aceOfDiamonds,
             &cards.kingOfClubs
     );
-    Hand two_pair6 = createHand(
+    Hand TwoPairFourAndQueens = createHand(
             &cards.twoOfClubs,
             &cards.twoOfDiamonds,
             &cards.fourOfDiamonds,
@@ -107,7 +108,7 @@ public:
             &cards.queenOfClubs,
             &cards.kingOfClubs
     );
-    Hand three_of_a_kind1 = createHand(
+    Hand threeOfAKindThrees = createHand(
             &cards.twoOfClubs,
             &cards.twoOfDiamonds,
             &cards.twoOfHearts,
@@ -116,7 +117,16 @@ public:
             &cards.aceOfDiamonds,
             &cards.kingOfClubs
     );
-    Hand full_house1 = createHand(
+    Hand three_of_a_kind2 = createHand(
+            &cards.fourOfClubs,
+            &cards.fiveOfClubs,
+            &cards.queenOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.kingOfClubs,
+            &cards.kingOfSpades,
+            &cards.kingOfDiamonds
+    );
+    Hand fullHouseTwosfullOfThrees = createHand(
             &cards.twoOfClubs,
             &cards.twoOfDiamonds,
             &cards.twoOfHearts,
@@ -125,7 +135,7 @@ public:
             &cards.aceOfDiamonds,
             &cards.kingOfClubs
     );
-    Hand full_house2 = createHand(
+    Hand fullHouseEightsFullOfQueens = createHand(
             &cards.eightOfClubs,
             &cards.eightOfDiamonds,
             &cards.eightOfHearts,
@@ -134,13 +144,22 @@ public:
             &cards.aceOfDiamonds,
             &cards.kingOfClubs
     );
-    Hand four_of_a_kind = createHand(
+    Hand fourOfAKindTwos = createHand(
             &cards.twoOfClubs,
             &cards.twoOfDiamonds,
             &cards.twoOfHearts,
             &cards.twoOfSpades,
             &cards.queenOfDiamonds,
             &cards.aceOfDiamonds,
+            &cards.kingOfClubs
+    );
+    Hand fourOfAKindSixes = createHand(
+            &cards.twoOfClubs,
+            &cards.threeOfDiamonds,
+            &cards.sixOfSpades,
+            &cards.sixOfDiamonds,
+            &cards.sixOfClubs,
+            &cards.sixOfHearts,
             &cards.kingOfClubs
     );
     Hand straight2to6 = createHand(
@@ -217,7 +236,7 @@ public:
             &cards.aceOfClubs
     );
 
-    Hand flush1 = createHand(
+    Hand flushKingHigh = createHand(
             &cards.twoOfClubs,
             &cards.fiveOfClubs,
             &cards.sevenOfClubs,
@@ -226,7 +245,17 @@ public:
             &cards.tenOfDiamonds,
             &cards.kingOfClubs
     );
-    Hand straight_flush1 = createHand(
+
+    Hand flushTenHigh = createHand(
+            &cards.twoOfClubs,
+            &cards.fiveOfClubs,
+            &cards.sevenOfClubs,
+            &cards.eightOfDiamonds,
+            &cards.nineOfClubs,
+            &cards.tenOfClubs,
+            &cards.twoOfDiamonds
+    );
+    Hand straightFlushSixHigh = createHand(
             &cards.twoOfClubs,
             &cards.threeOfClubs,
             &cards.fourOfClubs,
@@ -235,14 +264,14 @@ public:
             &cards.tenOfDiamonds,
             &cards.jackOfSpades
     );
-    Hand straight_flush2 = createHand(
+    Hand straightFlushTenHigh = createHand(
             &cards.twoOfClubs,
             &cards.threeOfClubs,
-            &cards.fourOfClubs,
-            &cards.fiveOfClubs,
             &cards.sixOfClubs,
-            &cards.tenOfDiamonds,
-            &cards.jackOfClubs
+            &cards.sevenOfClubs,
+            &cards.eightOfClubs,
+            &cards.nineOfClubs,
+            &cards.tenOfClubs
     );
     Hand straight_flush3 = createHand(
             &cards.twoOfClubs,
@@ -253,13 +282,22 @@ public:
             &cards.sevenOfClubs,
             &cards.jackOfClubs
     );
-    Hand royal_flush1 = createHand(
+    Hand royalFlushClubs = createHand(
             &cards.tenOfClubs,
             &cards.jackOfClubs,
             &cards.queenOfClubs,
             &cards.kingOfClubs,
             &cards.aceOfClubs,
             &cards.tenOfDiamonds,
+            &cards.jackOfSpades
+    );
+    Hand royalFlushDiamonds = createHand(
+            &cards.tenOfDiamonds,
+            &cards.jackOfDiamonds,
+            &cards.queenOfDiamonds,
+            &cards.kingOfDiamonds,
+            &cards.aceOfDiamonds,
+            &cards.tenOfClubs,
             &cards.jackOfSpades
     );
 };

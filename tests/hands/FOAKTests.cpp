@@ -20,13 +20,13 @@ public:
 };
 
 TEST_F(FourOfAKindTests, TestFourOfAKindIsWhenItISAFourOfAKind) {
-    pokerx::FourOfAKind FourOfAKind(hands.four_of_a_kind.getCards());
+    pokerx::FourOfAKind FourOfAKind(hands.fourOfAKindTwos);
     ASSERT_TRUE(FourOfAKind.isA());
 }
 
 
 TEST_F(FourOfAKindTests, TestFourOfAKindBest5) {
-    pokerx::FourOfAKind FourOfAKind(hands.four_of_a_kind.getCards());
+    pokerx::FourOfAKind FourOfAKind(hands.fourOfAKindTwos);
     CardCollection cc({
                               &cards.twoOfClubs,
                               &cards.twoOfDiamonds,

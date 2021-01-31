@@ -22,13 +22,12 @@ namespace pokerx {
     }
 
     int HighCard::getValue() {
-        CardCollection cc(cards_);
-        int max = 0;
-        for (auto i: cc.getRanks()) {
-            if (i > max)
-                i = max;
+        CardCollection cc(*getBestFive());
+        int sum = 0;
+        for (auto rank: cc.getRanks()) {
+            sum += rank;
         }
-        setValue(max);
+        return sum;
     }
 }
 

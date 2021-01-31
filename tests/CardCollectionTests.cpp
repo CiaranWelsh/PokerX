@@ -100,8 +100,8 @@ TEST_F(CardCollectionTests, TestEqualityOperatorWorks) {
 
 TEST_F(CardCollectionTests, TestPopRemovesTopCardFromCollection) {
     MockCard card1(6, "C");
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("C"));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card1, getSuit()).WillRepeatedly(Return("C"));
 
     std::vector<ICard *> cards({&card1});
     CardCollection cc(cards);
@@ -148,22 +148,21 @@ TEST_F(CardCollectionTests, TestSortCorrectlyOrdersCards) {
     MockCard card4(9, "C");
     MockCard card5(10, "S");
 
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card2, getRank()).Times(1).WillRepeatedly(Return(7));
-    EXPECT_CALL(card3, getRank()).Times(1).WillRepeatedly(Return(8));
-    EXPECT_CALL(card4, getRank()).Times(1).WillRepeatedly(Return(9));
-    EXPECT_CALL(card5, getRank()).Times(1).WillRepeatedly(Return(10));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card2, getRank()).WillRepeatedly(Return(7));
+    EXPECT_CALL(card3, getRank()).WillRepeatedly(Return(8));
+    EXPECT_CALL(card4, getRank()).WillRepeatedly(Return(9));
+    EXPECT_CALL(card5, getRank()).WillRepeatedly(Return(10));
 
-    EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
-    EXPECT_CALL(card2, getSuit()).Times(1).WillRepeatedly(Return("C"));
-    EXPECT_CALL(card3, getSuit()).Times(1).WillRepeatedly(Return("H"));
-    EXPECT_CALL(card4, getSuit()).Times(1).WillRepeatedly(Return("C"));
-    EXPECT_CALL(card5, getSuit()).Times(1).WillRepeatedly(Return("S"));
+    EXPECT_CALL(card1, getSuit()).WillRepeatedly(Return("D"));
+    EXPECT_CALL(card2, getSuit()).WillRepeatedly(Return("C"));
+    EXPECT_CALL(card3, getSuit()).WillRepeatedly(Return("H"));
+    EXPECT_CALL(card4, getSuit()).WillRepeatedly(Return("C"));
+    EXPECT_CALL(card5, getSuit()).WillRepeatedly(Return("S"));
 
     std::vector<ICard *> cards2({&card5, &card4, &card3, &card2, &card1});
 
     CardCollection cc(cards2);
-    cc.sort();
     std::vector<int> ranks = {6, 7, 8, 9, 10};
     std::vector<std::string> suits = {"D", "C", "H", "C", "S"};
     ASSERT_EQ(ranks, cc.getRanks());
@@ -175,7 +174,7 @@ TEST_F(CardCollectionTests, TestGetSuitsCallsGetSuit) {
     MockCard card1(6, "D");
     std::vector<ICard *> cards1({&card1});
     CardCollection cc(cards1);
-    EXPECT_CALL(card1, getSuit()).Times(1);
+    EXPECT_CALL(card1, getSuit());
     cc.getSuits();
 }
 
@@ -194,8 +193,8 @@ TEST_F(CardCollectionTests, TestGetRanks) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
 
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card2, getRank()).Times(1).WillRepeatedly(Return(7));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card2, getRank()).WillRepeatedly(Return(7));
 
     std::vector<ICard *> cards1({&card1, &card2});
     CardCollection cc(cards1);
@@ -212,11 +211,11 @@ TEST_F(CardCollectionTests, TestGetUniqueRanks) {
     MockCard card4(6, "S");
     MockCard card5(10, "S");
 
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card2, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card3, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card4, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card5, getRank()).Times(1).WillRepeatedly(Return(10));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card2, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card3, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card4, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card5, getRank()).WillRepeatedly(Return(10));
 
     std::vector<ICard *> cards1({&card1, &card2, &card3, &card4, &card5});
     CardCollection cc(cards1);
@@ -232,11 +231,11 @@ TEST_F(CardCollectionTests, TestGetUniqueSuits) {
     MockCard card4(12, "S");
     MockCard card5(10, "S");
 
-    EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
-    EXPECT_CALL(card2, getSuit()).Times(1).WillRepeatedly(Return("D"));
-    EXPECT_CALL(card3, getSuit()).Times(1).WillRepeatedly(Return("S"));
-    EXPECT_CALL(card4, getSuit()).Times(1).WillRepeatedly(Return("S"));
-    EXPECT_CALL(card5, getSuit()).Times(1).WillRepeatedly(Return("S"));
+    EXPECT_CALL(card1, getSuit()).WillRepeatedly(Return("D"));
+    EXPECT_CALL(card2, getSuit()).WillRepeatedly(Return("D"));
+    EXPECT_CALL(card3, getSuit()).WillRepeatedly(Return("S"));
+    EXPECT_CALL(card4, getSuit()).WillRepeatedly(Return("S"));
+    EXPECT_CALL(card5, getSuit()).WillRepeatedly(Return("S"));
 
     std::vector<ICard *> cards1({&card1, &card2, &card3, &card4, &card5});
     CardCollection cc(cards1);
@@ -261,8 +260,8 @@ TEST_F(CardCollectionTests, TestGetterOperatorReturnsCorrectCard) {
     MockCard card1(6, "D");
     MockCard card2(7, "C");
 
-    EXPECT_CALL(card2, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(card2, getSuit()).Times(1).WillRepeatedly(Return("C"));
+    EXPECT_CALL(card2, getRank()).WillRepeatedly(Return(6));
+    EXPECT_CALL(card2, getSuit()).WillRepeatedly(Return("C"));
 
     std::vector<ICard *> cards({&card1, &card2});
     CardCollection cc(cards);
@@ -304,7 +303,7 @@ TEST_F(CardCollectionTests, TestContainsWhenCardNotInCollection) {
 
 TEST_F(CardCollectionTests, TestContainsRankWhenTrue) {
     MockCard card1(6, "D");
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));
     std::vector<ICard *> cards1({&card1});
     CardCollection cc1(cards1);
     ASSERT_TRUE(cc1.containsRank(6));
@@ -312,7 +311,7 @@ TEST_F(CardCollectionTests, TestContainsRankWhenTrue) {
 
 TEST_F(CardCollectionTests, TestContainsRankWhenFalse) {
     MockCard card1(6, "D");
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(6));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));
     std::vector<ICard *> cards1({&card1});
     CardCollection cc1(cards1);
     ASSERT_FALSE(cc1.containsRank(7));
@@ -320,7 +319,7 @@ TEST_F(CardCollectionTests, TestContainsRankWhenFalse) {
 
 TEST_F(CardCollectionTests, TestContainsSuitWhenTrue) {
     MockCard card1(6, "D");
-    EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
+    EXPECT_CALL(card1, getSuit()).WillRepeatedly(Return("D"));
     std::vector<ICard *> cards1({&card1});
     CardCollection cc1(cards1);
     ASSERT_TRUE(cc1.containsSuit("D"));
@@ -328,7 +327,7 @@ TEST_F(CardCollectionTests, TestContainsSuitWhenTrue) {
 
 TEST_F(CardCollectionTests, TestContainsSuitWhenFalse) {
     MockCard card1(6, "D");
-    EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
+    EXPECT_CALL(card1, getSuit()).WillRepeatedly(Return("D"));
     std::vector<ICard *> cards1({&card1});
     CardCollection cc1(cards1);
     ASSERT_FALSE(cc1.containsSuit("C"));
@@ -352,8 +351,8 @@ TEST_F(CardCollectionTests, TestSetDifference) {
     MockCard card2(3, "D");
     MockCard card3(4, "D");
 
-    EXPECT_CALL(card1, getRank()).Times(1).WillRepeatedly(Return(2));
-    EXPECT_CALL(card1, getSuit()).Times(1).WillRepeatedly(Return("D"));
+    EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(2));
+    EXPECT_CALL(card1, getSuit()).WillRepeatedly(Return("D"));
 
     std::vector<ICard *> cards1({&card1, &card2});
     std::vector<ICard *> cards2({&card2, &card3});
@@ -369,15 +368,8 @@ TEST_F(CardCollectionTests, TestSetDifference) {
 
 TEST_F(CardCollectionTests, TestSetIntersection) {
 
-    MockCard card1(2, "D");
-    MockCard card2(3, "C");
-    MockCard card3(4, "D");
-
-    EXPECT_CALL(card2, getRank()).Times(1).WillRepeatedly(Return(3));
-    EXPECT_CALL(card2, getSuit()).Times(1).WillRepeatedly(Return("C"));
-
-    std::vector<ICard *> cards1({&card1, &card2});
-    std::vector<ICard *> cards2({&card2, &card3});
+    std::vector<ICard *> cards1({&mockCards.twoOfDiamonds, &mockCards.threeOfClubs});
+    std::vector<ICard *> cards2({&mockCards.threeOfClubs, &mockCards.fourOfDiamonds});
     std::vector<ICard *> cards_out;
 
     CardCollection cc1(cards1);

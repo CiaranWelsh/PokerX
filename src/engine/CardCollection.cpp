@@ -40,7 +40,7 @@ namespace pokerx {
         return os;
     }
 
-    ICard *CardCollection::operator[](int index) {
+    ICard *CardCollection::operator[](unsigned int index) {
         return cards_[index];
     }
 

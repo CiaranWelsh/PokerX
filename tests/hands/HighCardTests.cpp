@@ -20,13 +20,13 @@ public:
 };
 
 TEST_F(HighCardTests, TestHighCard1IsA) {
-    pokerx::HighCard highCard(hands.highCard1.getCards());
+    pokerx::HighCard highCard(hands.highCardAceTen);
     ASSERT_TRUE(highCard.isA());
 }
 
 
 TEST_F(HighCardTests, TestHighCard1BestFive) {
-    pokerx::HighCard highCard(hands.highCard1.getCards());
+    pokerx::HighCard highCard(hands.highCardAceTen);
     CardCollection expected({
                                     &cards.sixOfHearts,
                                     &cards.sevenOfClubs,
@@ -40,13 +40,13 @@ TEST_F(HighCardTests, TestHighCard1BestFive) {
 
 
 TEST_F(HighCardTests, TestHighCard2IsA) {
-    pokerx::HighCard highCard(hands.highCard2.getCards());
+    pokerx::HighCard highCard(hands.highCardAceKing);
     ASSERT_TRUE(highCard.isA());
 }
 
 
 TEST_F(HighCardTests, TestHighCard2BestFive) {
-    pokerx::HighCard highCard(hands.highCard2.getCards());
+    pokerx::HighCard highCard(hands.highCardAceKing);
     CardCollection expected({
                                     &cards.eightOfClubs,
                                     &cards.nineOfDiamonds,

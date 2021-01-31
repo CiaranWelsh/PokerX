@@ -20,24 +20,19 @@ public:
 };
 
 TEST_F(StraightFlushTests, TestStraightFlush1) {
-    StraightFlush sflush(hands.straight_flush1.getCards());
+    StraightFlush sflush(hands.straightFlushSixHigh);
     ASSERT_TRUE(sflush.isA());
 }
 
 
 TEST_F(StraightFlushTests, TestStraightFlush2) {
-    StraightFlush sflush(hands.straight_flush2.getCards());
+    StraightFlush sflush(hands.straightFlushTenHigh);
     ASSERT_TRUE(sflush.isA());
 }
 
-
-TEST_F(StraightFlushTests, TestStraightFlush3) {
-    StraightFlush sflush(hands.straight_flush3.getCards());
-    ASSERT_TRUE(sflush.isA());
-}
 
 TEST_F(StraightFlushTests, TestStraightFlush1BestFive) {
-    StraightFlush sflush(hands.straight_flush1.getCards());
+    StraightFlush sflush(hands.straightFlushSixHigh);
     CardCollection cc(
             {
                     &cards.twoOfClubs,
@@ -52,14 +47,14 @@ TEST_F(StraightFlushTests, TestStraightFlush1BestFive) {
 
 
 TEST_F(StraightFlushTests, TestStraightFlush2BestFive) {
-    StraightFlush sflush(hands.straight_flush2.getCards());
+    StraightFlush sflush(hands.straightFlushTenHigh);
     CardCollection cc(
             {
-                    &cards.twoOfClubs,
-                    &cards.threeOfClubs,
-                    &cards.fourOfClubs,
-                    &cards.fiveOfClubs,
                     &cards.sixOfClubs,
+                    &cards.sevenOfClubs,
+                    &cards.eightOfClubs,
+                    &cards.nineOfClubs,
+                    &cards.tenOfClubs
             }
     );
     ASSERT_EQ(cc, *sflush.getBestFive());
@@ -67,7 +62,7 @@ TEST_F(StraightFlushTests, TestStraightFlush2BestFive) {
 
 
 TEST_F(StraightFlushTests, TestStraightFlush3BestFive) {
-    StraightFlush sflush(hands.straight_flush3.getCards());
+    StraightFlush sflush(hands.straight_flush3);
     CardCollection cc(
             {
                     &cards.threeOfClubs,
@@ -78,6 +73,13 @@ TEST_F(StraightFlushTests, TestStraightFlush3BestFive) {
             }
     );
     ASSERT_EQ(cc, *sflush.getBestFive());
+}
+
+TEST_F(StraightFlushTests, TestStraightFlushValueOf1) {
+    StraightFlush sflush10(hands.straightFlushTenHigh);
+    StraightFlush sflush6(hands.straightFlushSixHigh);
+    std::cout << sflush10.getValue() << std::endl;
+    std::cout << sflush6.getValue() << std::endl;
 }
 
 

@@ -18,10 +18,11 @@ public:
 
 TEST_F(CommunityCardTests, EnsureCorrectRepresentationOfCardsInCollection) {
     CommunityCards comm = CommunityCards(&mockCards.sixOfDiamonds, &mockCards.fiveOfDiamonds, &mockCards.fourOfHearts);
-    EXPECT_CALL(mockCards.sixOfDiamonds, getRank()).Times(1).WillRepeatedly(Return(6));
-    EXPECT_CALL(mockCards.sixOfDiamonds, getSuit()).Times(1).WillRepeatedly(Return("D"));
-    ASSERT_EQ(comm[0]->getRank(), 6);
-    ASSERT_EQ(comm[0]->getSuit(), "D");
+    EXPECT_CALL(mockCards.fourOfHearts, getRank()).WillRepeatedly(Return(4));
+    EXPECT_CALL(mockCards.fourOfHearts, getSuit()).WillRepeatedly(Return("H"));
+
+    ASSERT_EQ(comm[0]->getRank(), 4);
+    ASSERT_EQ(comm[0]->getSuit(), "H");
 }
 
 

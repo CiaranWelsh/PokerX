@@ -6,6 +6,8 @@
 
 namespace pokerx {
 
+
+
     bool IHand::operator==(const IHand& hand) {
         if (getHandType() == hand.getHandType()) {
             // we have two of the same type

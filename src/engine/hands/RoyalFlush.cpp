@@ -4,7 +4,8 @@
 
 #include <PokerX/engine/hands/StraightFlush.h>
 #include "PokerX/engine/hands/RoyalFlush.h"
-namespace pokerx{
+
+namespace pokerx {
 
     bool RoyalFlush::isA() const {
         StraightFlush sflush(cards_);
@@ -12,10 +13,10 @@ namespace pokerx{
             return false;
         CardCollection sflushcards = *(sflush.getBestFive());
         return sflush.isA() && (sflushcards[0]->getRank() == 10
-               && sflushcards[1]->getRank() == 11
-               && sflushcards[2]->getRank() == 12
-               && sflushcards[3]->getRank() == 13
-               && sflushcards[4]->getRank() == 14);
+                                && sflushcards[1]->getRank() == 11
+                                && sflushcards[2]->getRank() == 12
+                                && sflushcards[3]->getRank() == 13
+                                && sflushcards[4]->getRank() == 14);
     }
 
 
@@ -32,8 +33,8 @@ namespace pokerx{
     }
 
     int RoyalFlush::getValue() {
-        CardCollection cc;
-        value_ = cc[cc.size()-1]->getRank();
+        auto cc = getBestFive();
+        value_ = (*cc)[cc->size() - 1]->getRank();
         return value_;
     }
 }

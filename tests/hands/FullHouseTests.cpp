@@ -20,18 +20,18 @@ public:
 };
 
 TEST_F(FlushTests, TestFullhouse1) {
-    pokerx::FullHouse fullHouse(hands.full_house1.getCards());
+    pokerx::FullHouse fullHouse(hands.fullHouseTwosfullOfThrees);
     ASSERT_TRUE(fullHouse.isA());
 }
 
 
 TEST_F(FlushTests, TestFullHouse) {
-    pokerx::FullHouse fullHouse(hands.full_house2.getCards());
+    pokerx::FullHouse fullHouse(hands.fullHouseEightsFullOfQueens);
     ASSERT_TRUE(fullHouse.isA());
 }
 
 TEST_F(FlushTests, TestFullhouse1BestFive) {
-    pokerx::FullHouse fullHouse(hands.full_house1.getCards());
+    pokerx::FullHouse fullHouse(hands.fullHouseTwosfullOfThrees);
     CardCollection cc(
             {
                     &cards.twoOfClubs,
@@ -46,7 +46,7 @@ TEST_F(FlushTests, TestFullhouse1BestFive) {
 
 
 TEST_F(FlushTests, TestFullHouseBestFive) {
-    pokerx::FullHouse fullHouse(hands.full_house2.getCards());
+    pokerx::FullHouse fullHouse(hands.fullHouseEightsFullOfQueens);
     CardCollection cc(
             {
                     &cards.eightOfClubs,

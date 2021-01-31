@@ -7,6 +7,7 @@
 
 #include <PokerX/engine/RestrictedCardCollection.h>
 #include "PokerX/engine/hands/HandType.h"
+#include "PokerX/engine/hands/Hand.h"
 
 namespace pokerx {
 
@@ -15,7 +16,9 @@ namespace pokerx {
     public:
         using RestrictedCardCollection::RestrictedCardCollection;
 
-        explicit IHand(const std::vector<ICard *> &cards) : RestrictedCardCollection(cards, 7) {}
+        explicit IHand(const std::vector<ICard *> &cards) : RestrictedCardCollection(cards, 7) {};
+
+        IHand(Hand const &other) : RestrictedCardCollection(other.getCards(), 7) {};
 
         [[nodiscard]] virtual bool isA() const = 0;
 
