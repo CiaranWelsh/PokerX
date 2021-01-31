@@ -14,11 +14,10 @@ namespace pokerx {
     class IHand : public RestrictedCardCollection {
 
     public:
-        using RestrictedCardCollection::RestrictedCardCollection;
 
         explicit IHand(const std::vector<ICard *> &cards) : RestrictedCardCollection(cards, 7) {};
 
-        IHand(Hand const &other) : RestrictedCardCollection(other.getCards(), 7) {};
+        explicit IHand(Hand const &other) : RestrictedCardCollection(other.getCards(), 7) {};
 
         [[nodiscard]] virtual bool isA() const = 0;
 
