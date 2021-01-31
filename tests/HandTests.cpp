@@ -5,7 +5,7 @@
 #include "gtest/gtest.h"
 #include "hands/TestHands.h"
 #include "PokerX/engine/hands/Straight.h"
-#include <execution>
+
 
 /**
  * The Hand class is the public interface to the hand types API.

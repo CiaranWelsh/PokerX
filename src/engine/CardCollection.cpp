@@ -13,7 +13,7 @@
 #include "PokerX/engine/CardCollection.h"
 #include "PokerX/Error.h"
 #include "pokerx_export.h"
-#include <execution>
+
 
 namespace pokerx {
 
