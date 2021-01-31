@@ -156,7 +156,7 @@ add_library(
         src/engine/hands/RoyalFlush.cpp
         src/engine/hands/Best5.cpp
         src/engine/hands/IHand.cpp
-)
+        src/engine/Evaluator.cpp include/PokerX/engine/Evaluator.h)
 
 target_include_directories(
         PokerX PUBLIC

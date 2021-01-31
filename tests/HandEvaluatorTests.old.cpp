@@ -11,9 +11,9 @@
 
 using namespace pokerx;
 
-class EvaluatorTests : public ::testing::Test {
+class HandTests : public ::testing::Test {
 protected:
-    EvaluatorTests() = default;
+    HandTests() = default;
 
     static HighCard createHand(
             ICard *hc1,
@@ -382,7 +382,7 @@ protected:
 };
 
 
-TEST_F(EvaluatorTests, TestInstantiation2) {
+TEST_F(HandTests, TestInstantiation2) {
     CardCollection cards;
     cards.add(jackOfSpades);
     cards.add(aceOfClubs);
@@ -395,7 +395,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
     ASSERT_TRUE(hand.type == Hand_);
 }
 
-//TEST_F(EvaluatorTests, TestInstantiation3) {
+//TEST_F(HandTests, TestInstantiation3) {
 //    CommunityCards communityCards;
 //    communityCards.add(jackOfSpades);
 //    communityCards.add(jackOfClubs);
@@ -409,17 +409,17 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand.type == Pair_);
 //}
 //
-//TEST_F(EvaluatorTests, TestInstantiationStraight) {
+//TEST_F(HandTests, TestInstantiationStraight) {
 //    Straight straight(straight2to6);
 //    ASSERT_TRUE(straight.type == Straight_);
 //}
 //
-//TEST_F(EvaluatorTests, TestInstantiationRoyalFlush) {
+//TEST_F(HandTests, TestInstantiationRoyalFlush) {
 //    RoyalFlush royalFlush(royal_flush1);
 //    ASSERT_TRUE(royalFlush.type == RoyalFlush_);
 //}
 //
-//TEST_F(EvaluatorTests, TestInstantiation4) {
+//TEST_F(HandTests, TestInstantiation4) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -432,14 +432,14 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand.type == Pair_);
 //}
 //
-//TEST_F(EvaluatorTests, TestCopyConstructor1) {
+//TEST_F(HandTests, TestCopyConstructor1) {
 //    HighCard.old hand(highCard1);
 //    HighCard.old hand2 = hand;
 //    cout << hand2.type << endl;
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
 //
-//TEST_F(EvaluatorTests, TestCopyConstructor2) {
+//TEST_F(HandTests, TestCopyConstructor2) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -454,7 +454,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand2.type == Pair_);
 //}
 //
-//TEST_F(EvaluatorTests, TestCopyConstructorHandRef1) {
+//TEST_F(HandTests, TestCopyConstructorHandRef1) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -469,7 +469,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
 //
-//TEST_F(EvaluatorTests, TestCopyInstantiatePairFromAnotherPair) {
+//TEST_F(HandTests, TestCopyInstantiatePairFromAnotherPair) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -484,7 +484,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand2.type == Pair_);
 //}
 //
-//TEST_F(EvaluatorTests, TestInstantiateFromHandPointerPair) {
+//TEST_F(HandTests, TestInstantiateFromHandPointerPair) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -500,7 +500,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestMoveConstructorHand) {
+//TEST_F(HandTests, TestMoveConstructorHand) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -515,7 +515,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
 //
-//TEST_F(EvaluatorTests, TestMoveConstructorPair) {
+//TEST_F(HandTests, TestMoveConstructorPair) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -530,7 +530,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand2.type == Pair_);
 //}
 //
-//TEST_F(EvaluatorTests, TestMoveAssignmentHand) {
+//TEST_F(HandTests, TestMoveAssignmentHand) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -545,7 +545,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(hand2.type == Hand_);
 //}
 //
-//TEST_F(EvaluatorTests, TestMoveAssignmentPair) {
+//TEST_F(HandTests, TestMoveAssignmentPair) {
 //    CardCollection cards;
 //    cards.add(jackOfSpades);
 //    cards.add(aceOfClubs);
@@ -561,42 +561,42 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestSumRanks) {
+//TEST_F(HandTests, TestSumRanks) {
 //    ASSERT_EQ(49, pair1.sumBest5Ranks());
 //}
 //
-//TEST_F(EvaluatorTests, TestSumRanks2) {
+//TEST_F(HandTests, TestSumRanks2) {
 //    ASSERT_EQ(15, straightAto5.sumBest5Ranks());
 //}
 //
-//TEST_F(EvaluatorTests, InstantiateStraightWithPair) {
+//TEST_F(HandTests, InstantiateStraightWithPair) {
 //    Straight straight(pair1);
 //    ASSERT_FALSE(straight.isa());
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestGreaterThan1) {
+//TEST_F(HandTests, TestGreaterThan1) {
 //    ThreeOfAKind toak(&three_of_a_kind1);
 //    FourOfAKind fourOfAKind(&four_of_a_kind);
 //    bool actual = fourOfAKind > toak;
 ////    ASSERT_TRUE(actual);
 //}
 //
-//TEST_F(EvaluatorTests, TestGreaterThan2) {
+//TEST_F(HandTests, TestGreaterThan2) {
 //    ThreeOfAKind toak(&three_of_a_kind1);
 //    Pair pair(&pair1);
 //    bool actual = pair > toak;
 //    ASSERT_FALSE(actual);
 //}
 //
-//TEST_F(EvaluatorTests, TestGreaterThanSameTypePair1) {
+//TEST_F(HandTests, TestGreaterThanSameTypePair1) {
 //    Pair paira(&pair1);
 //    Pair pairb(&pair2);
 //    bool actual = paira > pairb;
 //    ASSERT_FALSE(actual);
 //}
 //
-//TEST_F(EvaluatorTests, TestGreaterThanSameTypePair2) {
+//TEST_F(HandTests, TestGreaterThanSameTypePair2) {
 //    Pair paira(&pair1);
 //    Pair pairb(&pair2);
 //    cout << paira << endl;
@@ -605,14 +605,14 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_TRUE(actual);
 //}
 //
-//TEST_F(EvaluatorTests, TestGreaterThanSameTypeFullHouse1) {
+//TEST_F(HandTests, TestGreaterThanSameTypeFullHouse1) {
 //    FullHouse handa(&full_house1);
 //    FullHouse handb(&full_house2);
 //    bool actual = handa < handb;
 //    ASSERT_TRUE(actual);
 //}
 //
-//TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight1) {
+//TEST_F(HandTests, TestGreaterThanSameTypeStraight1) {
 //    Straight handa(&straight2to6);
 //    Straight handb(&straight5to9);
 //    bool actual = handb > handa;
@@ -620,7 +620,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestGreaterThanSameTypeStraight2) {
+//TEST_F(HandTests, TestGreaterThanSameTypeStraight2) {
 //    Straight handa(&straight2to6);
 //    Straight handb(&straightAto5);
 //    bool actual = handa > handb;
@@ -628,28 +628,28 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestThatYouCanCopyAPair) {
+//TEST_F(HandTests, TestThatYouCanCopyAPair) {
 //    Pair pair(&pair2);
 //    Pair another_pair = pair;
 //    ASSERT_EQ(another_pair.getHandType(), Pair_);
 //}
 //
-//TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlush) {
+//TEST_F(HandTests, TestThatYouCanMakeAStraightFlush) {
 //    StraightFlush straightFlush(&straight_flush1);
 //    ASSERT_EQ(straightFlush.getHandType(), StraightFlush_);
 //}
 //
-//TEST_F(EvaluatorTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
+//TEST_F(HandTests, TestThatYouCanMakeAStraightFlushFromEvaluate) {
 //    std::shared_ptr<HighCard.old> hand = straight_flush1.evaluate();
 //    ASSERT_EQ(hand->getHandType(), StraightFlush_);
 //}
 //
-//TEST_F(EvaluatorTests, TestThatYouCanCopyAHand) {
+//TEST_F(HandTests, TestThatYouCanCopyAHand) {
 //    HighCard.old hand = pair1;
 //    ASSERT_EQ(hand.type, Hand_);
 //}
 //
-//TEST_F(EvaluatorTests, TestEquality) {
+//TEST_F(HandTests, TestEquality) {
 //    HighCard.old royal_flush_again = createHand(
 //            tenOfClubs,
 //            jackOfClubs,
@@ -663,55 +663,55 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestXOfAKind) {
+//TEST_F(HandTests, TestXOfAKind) {
 //    ASSERT_TRUE(pair1.xOfAKindIsA(2));
 //}
 //
-//TEST_F(EvaluatorTests, TestXOfAKind3) {
+//TEST_F(HandTests, TestXOfAKind3) {
 //    ASSERT_TRUE(three_of_a_kind1.xOfAKindIsA(3));
 //}
 //
-//TEST_F(EvaluatorTests, TestXOfAKind4) {
+//TEST_F(HandTests, TestXOfAKind4) {
 //    ASSERT_TRUE(four_of_a_kind.xOfAKindIsA(4));
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestHighCard1) {
+//TEST_F(HandTests, TestHighCard1) {
 //    std::string expected = "[Card(6H), Card(7C), Card(8C), Card(10D), Card(14C)]";
 //    checkBest5(highCard1, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestHighCard2) {
+//TEST_F(HandTests, TestHighCard2) {
 //    std::string expected = "[Card(8C), Card(9D), Card(10D), Card(13H), Card(14H)]";
 //    checkBest5(highCard2, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestPair) {
+//TEST_F(HandTests, TestPair) {
 //    std::string expected = "[Card(2C), Card(2D), Card(8C), Card(10D), Card(14C)]";
 //    checkBest5(pair1, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestTwoPairIsA2) {
+//TEST_F(HandTests, TestTwoPairIsA2) {
 //    checkIsA<TwoPair>(two_pair1);
 //}
 //
-//TEST_F(EvaluatorTests, TestTwoPairIsA3) {
+//TEST_F(HandTests, TestTwoPairIsA3) {
 //    cout << two_pair2 << endl;
 //    checkIsA<TwoPair>(two_pair2);
 //}
 //
-////TEST_F(EvaluatorTests, TestTwoPair) {
+////TEST_F(HandTests, TestTwoPair) {
 ////    std::string expected = "[Card(2C), Card(2D), Card(6H), Card(6C), Card(14C)]";
 ////    checkBest5(two_pair1, expected);
 ////}
 //
-//TEST_F(EvaluatorTests, TestTwoPair2) {
+//TEST_F(HandTests, TestTwoPair2) {
 //    HighCard.old hand = two_pair2;
 //    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
 //    checkBest5(two_pair2, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestTwoPair22) {
+//TEST_F(HandTests, TestTwoPair22) {
 //
 //    HighCard.old hand = two_pair2;
 //    cout << two_pair2 << endl;
@@ -727,174 +727,174 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-////TEST_F(EvaluatorTests, TestTwoPair3) {
+////TEST_F(HandTests, TestTwoPair3) {
 ////    std::string expected = "[Card(6H), Card(6C), Card(8C), Card(10D), Card(10C)]";
 ////    checkBest5(two_pair3, expected);
 ////}
 //
-//TEST_F(EvaluatorTests, TestTwoPair4) {
+//TEST_F(HandTests, TestTwoPair4) {
 //    HighCard.old hand = two_pair4;
 //    std::string expected = "[Card(8C), Card(12C), Card(12D), Card(14D), Card(14C)]";
 //    checkBest5(two_pair4, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestTwoPair5) {
+//TEST_F(HandTests, TestTwoPair5) {
 //    std::string expected = "[Card(2C), Card(2D), Card(4D), Card(4C), Card(14D)]";
 //    checkBest5(two_pair5, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestTwoPair6) {
+//TEST_F(HandTests, TestTwoPair6) {
 //    std::string expected = "[Card(4D), Card(4C), Card(12D), Card(12C), Card(13C)]";
 //    checkBest5(two_pair6, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestThreeOfAKing1) {
+//TEST_F(HandTests, TestThreeOfAKing1) {
 //    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(13C), Card(14D)]";
 //    checkBest5(three_of_a_kind1, expected);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestFullHouse1IsA) {
+//TEST_F(HandTests, TestFullHouse1IsA) {
 //    checkIsA<FullHouse>(full_house1);
 //}
 //
-//TEST_F(EvaluatorTests, TestFullHouseBest5) {
+//TEST_F(HandTests, TestFullHouseBest5) {
 //    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(12C), Card(12D)]";
 //    checkBest5(full_house1, expected);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestFourOfAKindIsA) {
+//TEST_F(HandTests, TestFourOfAKindIsA) {
 //    checkIsA<FourOfAKind>(four_of_a_kind);
 //}
 //
-//TEST_F(EvaluatorTests, TestFourOfAKindBest5) {
+//TEST_F(HandTests, TestFourOfAKindBest5) {
 //    std::string expected = "[Card(2C), Card(2D), Card(2H), Card(2S), Card(14D)]";
 //    checkBest5(four_of_a_kind, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestStraight1IsA) {
+//TEST_F(HandTests, TestStraight1IsA) {
 //    checkIsA<Straight>(straight2to6);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestStraight1Best5) {
+//TEST_F(HandTests, TestStraight1Best5) {
 //    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6D)]";
 //    checkBest5(straight2to6, expected);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestStraight2IsA) {
+//TEST_F(HandTests, TestStraight2IsA) {
 //    Straight straight(&straightAto5);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestStraight2Best5) {
+//TEST_F(HandTests, TestStraight2Best5) {
 //    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(14C)]";
 //    checkBest5(straightAto5, expected);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestStraight3IsA) {
+//TEST_F(HandTests, TestStraight3IsA) {
 //    Straight straight(&straight2to6_2);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestStraight3Best5) {
+//TEST_F(HandTests, TestStraight3Best5) {
 //    std::string expected = "[Card(2C), Card(3D), Card(4H), Card(5S), Card(6C)]";
 //    checkBest5(straight2to6_2, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestStraight4IsA) {
+//TEST_F(HandTests, TestStraight4IsA) {
 //    Straight straight(&straight5to9);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestStraight4best5) {
+//TEST_F(HandTests, TestStraight4best5) {
 //    std::string expected = "[Card(5C), Card(6H), Card(7C), Card(8D), Card(9C)]";
 //    checkBest5(straight5to9, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestStraight5IsA) {
+//TEST_F(HandTests, TestStraight5IsA) {
 //    Straight straight(&straight7toJ);
 //    ASSERT_TRUE(straight.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestStraight5best5) {
+//TEST_F(HandTests, TestStraight5best5) {
 //    std::string expected = "[Card(7C), Card(8D), Card(9C), Card(10D), Card(11D)]";
 //    checkBest5(straight7toJ, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestFlushIsA) {
+//TEST_F(HandTests, TestFlushIsA) {
 //    Flush flush(&flush1);
 //    ASSERT_TRUE(flush.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestFlushBest5) {
+//TEST_F(HandTests, TestFlushBest5) {
 //    std::string expected = "[Card(2C), Card(5C), Card(7C), Card(9C), Card(13C)]";
 //    checkBest5(flush1, expected);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestStraightFlushIsA) {
+//TEST_F(HandTests, TestStraightFlushIsA) {
 //    StraightFlush straight_flush(&straight_flush1);
 //    ASSERT_TRUE(straight_flush.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestStraightFlushBest5) {
+//TEST_F(HandTests, TestStraightFlushBest5) {
 //    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
 //    checkBest5(straight_flush1, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestStraightFlushIsA2) {
+//TEST_F(HandTests, TestStraightFlushIsA2) {
 //    StraightFlush straight_flush(&straight_flush2);
 //    ASSERT_TRUE(straight_flush.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestStraightFlushBest52) {
+//TEST_F(HandTests, TestStraightFlushBest52) {
 //    std::string expected = "[Card(2C), Card(3C), Card(4C), Card(5C), Card(6C)]";
 //    checkBest5(straight_flush2, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestStraightFlushBest53) {
+//TEST_F(HandTests, TestStraightFlushBest53) {
 //    std::string expected = "[Card(3C), Card(4C), Card(5C), Card(6C), Card(7C)]";
 //    checkBest5(straight_flush3, expected);
 //}
 //
-//TEST_F(EvaluatorTests, TestRoyalFlushIsA2) {
+//TEST_F(HandTests, TestRoyalFlushIsA2) {
 //    RoyalFlush royalFlush(&royal_flush1);
 //    ASSERT_TRUE(royalFlush.isa());
 //}
 //
-//TEST_F(EvaluatorTests, TestRoyalFlushBest52) {
+//TEST_F(HandTests, TestRoyalFlushBest52) {
 //    std::string expected = "[Card(10C), Card(11C), Card(12C), Card(13C), Card(14C)]";
 //    checkBest5(royal_flush1, expected);
 //}
 //
 //
-//TEST_F(EvaluatorTests, ComparingHandsTests1) {
+//TEST_F(HandTests, ComparingHandsTests1) {
 //    Pair pair(pair1);
 //    TwoPair twoPair(two_pair2);
 //    bool ans = pair1 > twoPair;
 //    ASSERT_FALSE(ans);
 //}
 //
-//TEST_F(EvaluatorTests, ComparingHandsTests2) {
+//TEST_F(HandTests, ComparingHandsTests2) {
 //    Pair pair(pair1);
 //    TwoPair twoPair(two_pair2);
 //    bool ans = pair < twoPair;
 //    ASSERT_TRUE(ans);
 //}
 //
-//TEST_F(EvaluatorTests, ComparingHandsTests3) {
+//TEST_F(HandTests, ComparingHandsTests3) {
 //    Straight straight1(straight2to6);
 //    TwoPair twoPair(two_pair2);
 //    bool ans = straight1 > twoPair;
 //    ASSERT_TRUE(ans);
 //}
 //
-//TEST_F(EvaluatorTests, ComparingHandsTests4) {
+//TEST_F(HandTests, ComparingHandsTests4) {
 //    Straight straight(straight2to6);
 //    TwoPair twoPair(two_pair2);
 //    bool ans = straight < twoPair;
@@ -902,7 +902,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, ComparingHandsTests7) {
+//TEST_F(HandTests, ComparingHandsTests7) {
 //    Pair paira(pair1);
 //    Pair pairb(pair2);
 //    bool ans = paira > pairb;
@@ -910,7 +910,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestGetMaxOfMap) {
+//TEST_F(HandTests, TestGetMaxOfMap) {
 //    std::map<int, HandType> map;
 //    map[0] = Pair_;
 //    map[1] = TwoPair_;
@@ -920,7 +920,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_EQ(2, out.second[0]);
 //}
 //
-//TEST_F(EvaluatorTests, TestGetMaxOfMap2) {
+//TEST_F(HandTests, TestGetMaxOfMap2) {
 //    std::map<int, int> map;
 //    map[0] = 1;
 //    map[1] = 3;
@@ -930,7 +930,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_EQ(1, out.second[0]);
 //}
 //
-//TEST_F(EvaluatorTests, TestGetKeys) {
+//TEST_F(HandTests, TestGetKeys) {
 //    std::map<int, int> x;
 //    x[0] = 1;
 //    x[1] = 2;
@@ -939,7 +939,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //    ASSERT_EQ(expected, keys);
 //}
 //
-//TEST_F(EvaluatorTests, TestGetValues) {
+//TEST_F(HandTests, TestGetValues) {
 //    std::map<int, int> x;
 //    x[0] = 1;
 //    x[1] = 2;
@@ -949,7 +949,7 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestSplitPot) {
+//TEST_F(HandTests, TestSplitPot) {
 //    checkSplitPot(pair1, pair1);
 //}
 //
@@ -959,82 +959,82 @@ TEST_F(EvaluatorTests, TestInstantiation2) {
 // * were to return different values, depending on whether
 // * the hand being compared again also has the same hand type.
 // */
-//TEST_F(EvaluatorTests, TestSetValuePair) {
+//TEST_F(HandTests, TestSetValuePair) {
 //    Pair pair(&pair1);
 //    ASSERT_EQ(2, pair.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueTwoPair) {
+//TEST_F(HandTests, TestSetValueTwoPair) {
 //    TwoPair twopair(&two_pair1);
 //    ASSERT_EQ(6, twopair.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueTOAK) {
+//TEST_F(HandTests, TestSetValueTOAK) {
 //    ThreeOfAKind toak(&three_of_a_kind1);
 //    ASSERT_EQ(2, toak.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueStraight) {
+//TEST_F(HandTests, TestSetValueStraight) {
 //    Straight straight(&straight2to6_2);
 //    ASSERT_EQ(6, straight.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueFlush) {
+//TEST_F(HandTests, TestSetValueFlush) {
 //    Flush flush(&flush1);
 //    ASSERT_EQ(13, flush.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueFullHouse) {
+//TEST_F(HandTests, TestSetValueFullHouse) {
 //    FullHouse fullHouse(&full_house1);
 //    ASSERT_EQ(2, fullHouse.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueFOAK) {
+//TEST_F(HandTests, TestSetValueFOAK) {
 //    FourOfAKind fourOfAKind(&four_of_a_kind);
 //    ASSERT_EQ(2, fourOfAKind.getValue());
 //}
 //
-//TEST_F(EvaluatorTests, TestSetValueStraightFlush) {
+//TEST_F(HandTests, TestSetValueStraightFlush) {
 //    StraightFlush straightFlush(&straight_flush1);
 //    ASSERT_EQ(6, straightFlush.getValue());
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestHandGetLArgestRank) {
+//TEST_F(HandTests, TestHandGetLArgestRank) {
 //    ASSERT_EQ(14, straight2to6.getLargestRank());
 //}
 //
 //
-//TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairPosition) {
+//TEST_F(HandTests, Evaluate2PairVsTwoPairPosition) {
 //    checkWinnerPosition(pair1, two_pair1, 1);
 //}
 //
-//TEST_F(EvaluatorTests, Evaluate2PairVsTwoPairHandValue) {
+//TEST_F(HandTests, Evaluate2PairVsTwoPairHandValue) {
 //    checkWinnerHand(pair1, two_pair1, TwoPair_);
 //}
 //
-//TEST_F(EvaluatorTests, Evaluate2StraightVsFlushHand) {
+//TEST_F(HandTests, Evaluate2StraightVsFlushHand) {
 //    checkWinnerHand(flush1, straight2to6, Flush_);
 //}
 //
-//TEST_F(EvaluatorTests, Evaluate2StraightFlushVsStraight) {
+//TEST_F(HandTests, Evaluate2StraightFlushVsStraight) {
 //    checkWinnerPosition(flush1, straight2to6, 0);
 //}
 //
-//TEST_F(EvaluatorTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
+//TEST_F(HandTests, Evaluate2StraighFlushtVsThreeOfAKindHand) {
 //    checkWinnerHand(three_of_a_kind1, straight_flush1, StraightFlush_);
 //}
 //
-//TEST_F(EvaluatorTests, Evaluate2StraightVsThreeOfAKindPosition) {
+//TEST_F(HandTests, Evaluate2StraightVsThreeOfAKindPosition) {
 //    checkWinnerPosition(three_of_a_kind1, straight_flush1, 1);
 //}
 //
-//TEST_F(EvaluatorTests, EvaluateTheHigherOfTwoPairsPosition) {
+//TEST_F(HandTests, EvaluateTheHigherOfTwoPairsPosition) {
 //    checkWinnerPosition(pair1, pair2, 1);
 //}
 //
 //
-//TEST_F(EvaluatorTests, TestEvaluateAHand) {
+//TEST_F(HandTests, TestEvaluateAHand) {
 //    std::vector<Card> player0_vec = {Card(3, "C"), Card(5, "C"), Card(8, "H"), Card(10, "C"), Card(11, "S"),
 //                                     Card(12, "S"), Card(14, "D")};
 //    CardCollection player0(player0_vec);

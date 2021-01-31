@@ -55,38 +55,44 @@ namespace pokerx {
         return pair.isA();
     }
 
-
-
     bool Hand::isTwoPair() {
-        return false;
+        TwoPair twoPair(cards_);
+        return twoPair.isA();
     }
 
     bool Hand::isThreeOfAKind() {
-        return false;
+        ThreeOfAKind threeOfAKind(cards_);
+        return threeOfAKind.isA();
     }
 
     bool Hand::isStraight() {
-        return false;
+        Straight straight(cards_);
+        return straight.isA();
     }
 
     bool Hand::isFlush() {
-        return false;
+        Flush flush(cards_);
+        return flush.isA();
     }
 
     bool Hand::isFullHouse() {
-        return false;
+        FullHouse fullHouse(cards_);
+        return fullHouse.isA();
     }
 
     bool Hand::isFourOfAKind() {
-        return false;
+        FourOfAKind fourOfAKind(cards_);
+        return fourOfAKind.isA();
     }
 
     bool Hand::isStraightFlush() {
-        return false;
+        StraightFlush straightFlush(cards_);
+        return straightFlush.isA();
     }
 
     bool Hand::isRoyalFlush() {
-        return false;
+        RoyalFlush royalFlush(cards_);
+        return royalFlush.isA();
     }
 
     Best5 *Hand::bestFive() {

@@ -132,6 +132,8 @@ add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
         Mockups/MockPlayerManager.h
         )
 
+add_test_executable(ContainerTests              ON ON TestExecutables ContainerTests.cpp  )
+
 # Tests for Cards and CardCollection objects
 add_test_executable(CardTests                       ON ON TestExecutables CardTests.cpp)
 add_test_executable(CardCollectionTests             ON ON TestExecutables CardCollectionTests.cpp)
@@ -152,13 +154,14 @@ add_test_executable(FullHouseTests                  ON ON TestExecutables hands/
 add_test_executable(FourOfAKind                     ON ON TestExecutables hands/FOAKTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(StraightFlushTests              ON ON TestExecutables hands/StraightFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(RoyalFlushTests                 ON ON TestExecutables hands/RoyalFlushTests.cpp Mockups/MockCard.h hands/TestHands.h)
-#add_test_executable(HandEvaluatorTests                 ON ON TestExecutables Ev.cpp Mockups/MockCard.h hands/TestHands.h)
+
+add_test_executable(HandTests.cpp                   ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
+add_test_executable(EvaluatorTests.cpp              ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
+
+#add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h hands/TestHands.h EvaluatorTests.cpp HandTests.cpp)
+#target_link_libraries(AConsoleGame PRIVATE PokerX)
 #
-add_executable(AConsoleGame AConsoleGame.cpp Mockups/MockPlayer.h hands/TestHands.h)
-target_link_libraries(AConsoleGame PRIVATE PokerX)
-
-
-add_test_executable(ContainerTests              ON ON TestExecutables ContainerTests.cpp  )
+#
 
 
 install(

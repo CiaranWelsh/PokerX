@@ -122,6 +122,10 @@ TEST_F(TwoPairTests, TestTwoPair6BestFive) {
     ASSERT_EQ(expected, *twoPair.getBestFive());
 }
 
+TEST_F(TwoPairTests, TestPairIsntTwoPair){
+    TwoPair twoPair(hands.pair1.getCards());
+    ASSERT_FALSE(twoPair.isA());
+}
 
 
 
