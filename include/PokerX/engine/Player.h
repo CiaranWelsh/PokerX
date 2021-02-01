@@ -13,6 +13,8 @@ namespace pokerx {
 
     class PokerEngine;
 
+    class GameVariables;
+
 
     class Player : public IPlayer {
     public:
@@ -24,7 +26,7 @@ namespace pokerx {
 
 //        void update(IGameVariables &source, const std::string &data_field) override;
 
-        friend std::ostream &operator<<(std::ostream &os, Player& IPlayer);
+        friend std::ostream &operator<<(std::ostream &os, Player &IPlayer);
 
         [[nodiscard]] const std::string &getName() const override;
 
@@ -41,6 +43,10 @@ namespace pokerx {
         [[nodiscard]] bool hasFolded() const override;
 
         void setHasFolded(bool isInPlay) override;
+
+        bool isSittingOut() const override;
+
+        void setSittingOut(bool isSittingOut) override;
 
         [[nodiscard]] HoleCards &getHoleCards() override;
 
@@ -65,6 +71,8 @@ namespace pokerx {
         void setAmountContrib(float amount) override;
 
         Hand getHand() override;
+
+        void reset() override;
 
 
     protected:

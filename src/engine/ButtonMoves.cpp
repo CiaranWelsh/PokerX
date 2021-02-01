@@ -29,13 +29,9 @@ namespace pokerx {
 
         std::cout << "Player btn was: " << *manager->getCurrentPlayer() << std::endl;
 
-        manager->nextPlayer();
         manager->moveButton();
 
         std::cout << "Player btn is now: " << *manager->getCurrentPlayer() << std::endl;
-
-        // Reach out to PlayerManager and rotate player ordering
-//        std::cout<< engine->getGameVariables().getPot() << std::endl;
 
         engine->setState(SmallBlind::getInstance());
     }

@@ -3,7 +3,6 @@
 //
 
 #include <PokerX/engine/RaiserPlayer.h>
-
 #include "PokerX/engine/Action.h"
 
 namespace pokerx {
@@ -14,8 +13,8 @@ namespace pokerx {
 
     void pokerx::RaiserPlayer::raise() {
         float amount = gameVariables_->getAmountToCall()*2;
-        gameVariables_->getPot() += amount;
-        stack_ -= amount;
+
+        gameVariables_->raise(this, amount);
     }
 
 }

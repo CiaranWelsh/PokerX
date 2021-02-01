@@ -12,13 +12,13 @@ namespace pokerx {
 
     void BigBlind::enter(StateMachine *machine) {
         std::cout << "Entering BigBlind" << std::endl;
-
     }
 
     void BigBlind::action(StateMachine *machine) {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
         IPlayerManager *manager = engine->getPlayers();
         manager->getCurrentPlayer()->postBigBlind();
+
         machine->setState(DealHoleCards::getInstance());
     }
 

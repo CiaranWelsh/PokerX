@@ -31,14 +31,19 @@ namespace pokerx {
         // we then set the new state
         state_ = &state;
 
-        // And we get a chance to do stuff to this new state immediately after switching
-        state_->exit(this);
 
         // enter and exit are by default empty
     }
 
     void PokerEngine::action() {
         state_->action(this);
+
+        // And we get a chance to do stuff to this new state immediately after switching
+        // we use exit for moving to the next player, which
+        // we only want to do after we have performed the action
+        // this is different from the original state machine design
+        // whereby exit was conducted after assigning state to state_ in setState().
+        state_->exit(this);
     }
 
     void PokerEngine::action(unsigned int times) {
@@ -48,7 +53,8 @@ namespace pokerx {
     }
 
     void PokerEngine::reset() {
-        gameVariables_->getPot().reset();
+        gameVariables_->reset();
+        players_->reset();
     }
 
     IGameVariables *PokerEngine::getGameVariables() const {
@@ -82,7 +88,6 @@ namespace pokerx {
         deck.shuffle();
 
         // Start left of dealer i.e. the button
-        int current_player = 1; // Start left of dealer (btn)
         int number_of_players = getPlayers()->size();
 
         for (int i = 0; i < number_of_players * 2; i++) {

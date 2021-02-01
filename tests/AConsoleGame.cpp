@@ -1,18 +1,13 @@
 #include <iostream>
-#include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/PlayerManager.h"
 #include "PokerX/engine/CallStationPlayer.h"
 #include "PokerX/engine/GameVariables.h"
+#include <PokerX/engine/PokerEngine.h>
 #include <regex>
 
 using namespace pokerx;
 
-int main() {
-
-    PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(6, 100.0);
-    GameVariables variables;
-    PokerEngine engine(&playerManager, &variables);
-
+void userInputOptions( PokerEngine *engine){
     std::string userInput;
     while (true) {
         std::cout << "Enter one of: [Finish [Ff], check [a], fold [s], call [w], raise [d], all_in [c]]" << std::endl;
@@ -22,31 +17,34 @@ int main() {
             break;
         } else {
             if (userInput == "none") {
-                engine.action();
+                engine->action();
             } else if (userInput.empty()) {
-                engine.action();
+                engine->action();
             } else if (userInput == "check" | userInput == "a") {
-                engine.action();
+                engine->action();
             } else if (userInput == "fold" | userInput == "s") {
-                engine.action();
+                engine->action();
             } else if (userInput == "call" | userInput == "w") {
-                engine.action();
+                engine->action();
             } else if (userInput == "raise" | userInput == "d") {
-                engine.action();
+                engine->action();
             } else if (userInput == "all_in" | userInput == "c") {
-                engine.action();
+                engine->action();
             } else {
-                // now for regexes
-//                std::smatch sm;
-//                std::regex variables_regex("^variables\.(.*)\(\)");
-//                if (std::regex_match(userInput, variables_regex)) {
-//                    std::regex_match(userInput, sm, variables_regex);
-//                    std::cout << "matched: " << sm[0] << std::endl;
-//                    std::cout << variables << std::endl;
-//                };
             }
         }
     }
+
+}
+
+int main() {
+
+    PlayerManager playerManager = PlayerManager::populate<CallStationPlayer>(6, 100.0);
+    GameVariables variables;
+    PokerEngine engine(&playerManager, &variables);
+
+    userInputOptions(&engine);
+
 }
 
 

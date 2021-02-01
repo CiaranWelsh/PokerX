@@ -52,6 +52,14 @@ namespace pokerx {
         isInPlay_ = isInPlay;
     }
 
+    bool Player::isSittingOut() const {
+        return isSittingOut_;
+    }
+
+    void Player::setSittingOut(bool isSittingOut) {
+        isSittingOut_ = isSittingOut;
+    }
+
     HoleCards &Player::getHoleCards() {
         return holeCards_;
     }
@@ -115,6 +123,8 @@ namespace pokerx {
         float sb = gameVariables_->getSmallBlind();
         stack_ -= sb;
         gameVariables_->getPot() += sb;
+        amountContrib_ += sb;
+        gameVariables_->setAmountToCall(sb);
     }
 
     void Player::postBigBlind() {
@@ -122,6 +132,8 @@ namespace pokerx {
         float bb = gameVariables_->getBigBlind();
         stack_ -= bb;
         gameVariables_->getPot() += bb;
+        amountContrib_ += bb;
+        gameVariables_->setAmountToCall(bb);
     }
 
     float Player::getAmountContrib() const {
@@ -138,6 +150,17 @@ namespace pokerx {
         hand.add(comm);
         hand.add(getHoleCards().getCards());
         return hand;
+    }
+
+    void Player::reset(){
+        holeCards_ = HoleCards();
+        setHasFolded(false);
+        setIsAllIn(false);
+        if (stack_ == 0){
+            setSittingOut(true);
+        } else{
+            setSittingOut(false);
+        }
     }
 
 

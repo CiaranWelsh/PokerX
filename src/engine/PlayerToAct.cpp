@@ -44,6 +44,7 @@ namespace pokerx {
             }
 
             case CALL : {
+                // todo need to add amount called to players amountContrib attribute
                 player->call();
                 engine->getGameVariables()->setCheckAvailable(false);
                 break;
@@ -51,6 +52,7 @@ namespace pokerx {
 
             case RAISE : {
                 player->raise();
+
                 engine->getGameVariables()->setCheckAvailable(false);
                 break;
             }

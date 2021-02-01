@@ -17,6 +17,8 @@
 
 namespace pokerx {
 
+    class IGameVariables;
+
     class IPlayer : public IObserver<IGameVariables>{
     public:
         explicit IPlayer() = default;
@@ -71,6 +73,10 @@ namespace pokerx {
         [[nodiscard]] virtual bool hasFolded() const = 0;
 
         virtual void setHasFolded(bool isInPlay) = 0;
+
+        [[nodiscard]] virtual bool isSittingOut() const = 0;
+
+        virtual void setSittingOut(bool isSittingOut) = 0;
 
         [[nodiscard]] virtual HoleCards &getHoleCards() = 0;
 
@@ -153,11 +159,13 @@ namespace pokerx {
 
         virtual Hand getHand() = 0;
 
+        virtual void reset() = 0;
 
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
         bool isInPlay_ = true;
+        bool isSittingOut_ = false;
 
         /**
          * A running total of the amount spent

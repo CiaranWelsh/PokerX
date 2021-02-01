@@ -72,7 +72,7 @@ namespace pokerx {
     }
 
     void GameVariables::setCommunityCards(CardCollection communityCards) {
-        communityCards_ = std::move(communityCards);
+        communityCards_ = communityCards;
     }
 
     unsigned int GameVariables::getN() const {
@@ -91,5 +91,20 @@ namespace pokerx {
         gamesPlayed_ = gamesPlayed;
     }
 
+    void GameVariables::reset(){
+        getPot() = Pot();
+        communityCards_ = CardCollection();
+        setAmountToCall(0);
+        setCheckAvailable(true);
+        setStreet(PREFLOP_STREET);
+        setDeck(Deck());
+
+    }
+    void GameVariables::raise(Player *player, float amount) {
+        player->setStack(player->getStack() - amount);
+        getPot() += amount;
+        player->setAmountContrib(amount);
+        setAmountToCall(amount);
+    }
 
 }

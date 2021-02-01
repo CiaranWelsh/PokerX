@@ -23,7 +23,7 @@ namespace pokerx {
     bool PlayerManager::allPlayersEqual() const {
         std::vector<float> amounts;
         for (const auto &player : contents_) {
-            if (player->hasFolded())
+            if (!player->hasFolded() || !player->isSittingOut() )
                 amounts.push_back(player->getAmountContrib());
         }
 
@@ -118,6 +118,10 @@ namespace pokerx {
                     << ". These are your players: " << *this << std::endl;
     }
 
+    SharedIPlayerPtr PlayerManager::getButton(){
+        return getPlayer(0);
+    }
+
     std::vector<std::string> PlayerManager::getPlayerNames() {
         std::vector<std::string> names;
         for (const auto &player : contents_) {
@@ -169,5 +173,23 @@ namespace pokerx {
         }
         return std::vector<Hand>();
     }
+
+    void PlayerManager::reset(){
+        for (const auto& player: contents_){
+            player->reset();
+        }
+    }
+
+    SharedIPlayerPtr PlayerManager::getSmallBlind() {
+        return getPlayer(1);
+    }
+
+    SharedIPlayerPtr PlayerManager::getBigBlind() {
+        if (size() == 2){
+            return getPlayer(0);
+        }
+        return getPlayer(2);
+    }
+
 
 }

@@ -59,7 +59,6 @@ public:
         engine1.action(times);
         ASSERT_EQ(state, engine1.getState()->getType());
     }
-
 };
 
 
@@ -67,37 +66,93 @@ TEST_F(PokerEngineStatesTest, MakeSureTheDefaultStartingStateIsReset) {
     checkPokerEngineIsInCorrectState(0, RESET_STATE);
 }
 
-
-TEST_F(PokerEngineStatesTest, AssertSmallBlindSubtractsFromStack) {
-    engine->setState(SmallBlind::getInstance());
-
-    // small blind is idx 1
-    engine->getPlayers()->setCurrentPlayerIdx(1);
-
-    // will always be true if setState works
-    ASSERT_EQ(engine->getState()->getType(), SMALL_BLIND_STATE);
-
-    engine->action();
-
-    ASSERT_EQ(engine->getPlayers()->getPlayer(1)->getStack(), 999);
-    ASSERT_EQ(engine->getGameVariables()->getPot(), 1);
+TEST_F(PokerEngineStatesTest, CheckThatResetStateWorks) {
+    PokerEngine engine(&playerManager, &gameVariables);
+    while (true) {
+        engine.action();
+    }
 
 }
 
-TEST_F(PokerEngineStatesTest, AssertBigBlindSubtractsFromStack) {
-    engine->setState(BigBlind::getInstance());
+/**
+ * make sure that when the button moves, that players correctly get rotated.
+ */
+TEST_F(PokerEngineStatesTest, CheckThatNextPlayerIsButtonAfterButtonMovesIsCalled) {
+    PokerEngine pokerEngine(&playerManager, &gameVariables);
+    pokerEngine.setState(ButtonMoves::getInstance());
+    const std::string &current_button = playerManager.getButton()->getName();
+    pokerEngine.action();
+    const std::string &next_button = playerManager.getButton()->getName();
+    ASSERT_STRNE(current_button.c_str(), next_button.c_str());
 
-    // bb is index 2
-    engine->getPlayers()->setCurrentPlayerIdx(2);
-
-    // will always be true if setState works
-    ASSERT_EQ(engine->getState()->getType(), BIG_BLIND_STATE);
-
-    engine->action();
-
-    ASSERT_EQ(engine->getPlayers()->getPlayer(2)->getStack(), 998);
-    ASSERT_EQ(engine->getGameVariables()->getPot(), 2);
 }
+
+/**
+ * Check the small blind correctly entered into the pot
+ */
+TEST_F(PokerEngineStatesTest, CheckSmallBlind) {
+    gameVariables.setSmallBlind(5);
+    playerManager.setStackSizeTo(100);
+    PokerEngine pokerEngine(&playerManager, &gameVariables);
+    pokerEngine.setState(SmallBlind::getInstance());
+    float potBefore = gameVariables.getPot().getValue();
+    ASSERT_EQ(potBefore, 0.0);
+    pokerEngine.action();
+    float potAfter = gameVariables.getPot().getValue();
+    ASSERT_EQ(potAfter, 5.0);
+    ASSERT_EQ(95.0, playerManager.getSmallBlind()->getStack());
+
+}
+/**
+ * Check the big blind correctly entered into the pot
+ */
+TEST_F(PokerEngineStatesTest, CheckBigBlind) {
+    gameVariables.setBigBlind(10);
+    playerManager.setStackSizeTo(100);
+
+    // we bypass the small blind
+    playerManager.nextPlayer();
+
+    PokerEngine pokerEngine(&playerManager, &gameVariables);
+    pokerEngine.setState(BigBlind::getInstance());
+    float potBefore = gameVariables.getPot().getValue();
+    ASSERT_EQ(potBefore, 0.0);
+    pokerEngine.action();
+    float potAfter = gameVariables.getPot().getValue();
+    ASSERT_EQ(potAfter, 10.0);
+    ASSERT_EQ(90.0, playerManager.getBigBlind()->getStack());
+}
+
+/**
+ * Test that the big blind is the first amount to call
+ */
+TEST_F(PokerEngineStatesTest, CheckBigBlindIsTheAmountToCallForPlayer3) {
+    gameVariables.setBigBlind(10);
+    playerManager.setStackSizeTo(100);
+
+    // we bypass the small blind
+    playerManager.nextPlayer();
+
+    PokerEngine pokerEngine(&playerManager, &gameVariables);
+    pokerEngine.setState(BigBlind::getInstance());
+    ASSERT_EQ(gameVariables.getBigBlind(), gameVariables.getAmountToCall());
+}
+
+/**
+ * Test that amount to call is updated after raise or all in
+ */
+
+
+/**
+ * Raiser and callers need to add money to the amount contrib field
+ */
+
+
+
+
+
+
+
 
 TEST_F(PokerEngineStatesTest, CheckCheckActioinPlayerStillHasStack) {
     engine->setState(PlayerToAct::getInstance());
@@ -450,7 +505,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInCheckNotAvailableToNextPlayer) {
 
 TEST_F(PokerEngineStatesTest, TestAllPlayersEqualWhenTheyAreNot) {
     engine->setState(AllPlayersEqual::getInstance());
-    // players need a pivate count of how much they have contributed to the pot
+    // players need a private count of how much they have contributed to the pot
 
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), ALL_PLAYERS_EQUAL_STATE);

@@ -27,7 +27,6 @@ namespace pokerx {
             // otherwise we go get the next player
             engine->setState(PlayerToAct::getInstance());
         }
-
     }
 
     void AllPlayersEqual::exit(StateMachine *machine) {

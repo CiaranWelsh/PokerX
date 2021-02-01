@@ -98,6 +98,11 @@ namespace pokerx {
         SharedIPlayerPtr getPlayerByName(const std::string &name) override;
 
         /**
+         * @brief get the player at index 0, which is the button
+         */
+        SharedIPlayerPtr getButton() override;
+
+        /**
          * @brief get the index in PlayerManager of @param player
          */
         int getIndexOfPlayer(const SharedIPlayerPtr &player) override;
@@ -106,7 +111,12 @@ namespace pokerx {
 
         std::vector<Hand> getPlayerHands() override;
 
+        void reset() override;
 
+
+        SharedIPlayerPtr getSmallBlind() override;
+
+        SharedIPlayerPtr getBigBlind() override;
     };
 }
 

@@ -8,10 +8,13 @@
 #include "PokerX/engine/Pot.h"
 #include "PokerX/engine/Streets.h"
 #include "PokerX/engine/IObservableRawPtr.h"
-#include "Deck.h"
+#include "PokerX/engine/Deck.h"
+
+#include "PokerX/engine/Player.h"
 
 namespace pokerx {
 
+    class Player;
 
     class IGameVariables : public IObservableRawPtr<IGameVariables> {
     public:
@@ -58,6 +61,13 @@ namespace pokerx {
 
         virtual void setGamesPlayed(unsigned int gamesPlayed) = 0;
 
+        virtual void reset() = 0;
+
+        /**
+         * @brief Raisers will call this method from thier
+         * raise method, using this as first argument.
+         */
+        virtual void raise(Player *player, float amount) = 0;
 
     protected:
 

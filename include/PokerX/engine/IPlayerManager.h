@@ -32,9 +32,8 @@ namespace pokerx {
 
         virtual SharedIPlayerPtr getPlayerByName(const std::string &name) = 0;
 
-        /**
-         * @brief get the index in PlayerManager of @param player
-         */
+        virtual SharedIPlayerPtr getButton() = 0;
+
         virtual int getIndexOfPlayer(const SharedIPlayerPtr &player) = 0;
 
         virtual void setStackSizeTo(float amount) = 0;
@@ -48,6 +47,13 @@ namespace pokerx {
         virtual void resetAmountContribThisStreet() = 0;
 
         virtual std::vector<Hand> getPlayerHands() = 0;
+
+        virtual void reset() = 0;
+
+        virtual SharedIPlayerPtr getSmallBlind() = 0;
+
+        virtual SharedIPlayerPtr getBigBlind() = 0;
+
 
     protected:
         int current_player_idx = 0;

@@ -61,6 +61,9 @@ namespace pokerx {
 
         void setGamesPlayed(unsigned int gamesPlayed) override;
 
+        void reset() override ;
+
+        void raise(Player *player, float amount) override;
 
     private:
         /**
@@ -103,6 +106,11 @@ namespace pokerx {
          * @brief big blind amount
          */
         float bigBlind_ = 2.0;
+
+        /**
+         * @brief count of how many games player
+         */
+         unsigned int count = 0;
 
     };
 }
