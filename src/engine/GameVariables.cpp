@@ -26,14 +26,6 @@ namespace pokerx {
         pot_ = pot;
     }
 
-    bool GameVariables::isCheckAvailable() const {
-        return checkAvailable_;
-    }
-
-    void GameVariables::setCheckAvailable(bool checkAvailable) {
-        notifyObservers(*this, "checkAvailable");
-        GameVariables::checkAvailable_ = checkAvailable;
-    }
 
     Street GameVariables::getStreet() const {
         return street_;
@@ -83,7 +75,7 @@ namespace pokerx {
         n_ = n;
     }
 
-    unsigned int GameVariables::getGamesPlayed() const {
+    unsigned int GameVariables::numGamesPlayed() const {
         return gamesPlayed_;
     }
 
@@ -95,16 +87,34 @@ namespace pokerx {
         getPot() = Pot();
         communityCards_ = CardCollection();
         setAmountToCall(0);
-        setCheckAvailable(true);
+        setBetPlaced(false);
         setStreet(PREFLOP_STREET);
         setDeck(Deck());
-
+//        setDone(false); // no, this is only for a hard reset
     }
-    void GameVariables::raise(Player *player, float amount) {
-        player->setStack(player->getStack() - amount);
-        getPot() += amount;
-        player->setAmountContrib(amount);
-        setAmountToCall(amount);
+
+    bool GameVariables::isDone() const {
+        return done_;
+    }
+
+    void GameVariables::setDone(bool done) {
+        done_ = done;
+    }
+
+    bool GameVariables::hasBetBeenPlaced() const {
+        return betPlaced_;
+    }
+
+    void GameVariables::setBetPlaced(bool betPlaced) {
+        betPlaced_ = betPlaced;
+    }
+
+    std::string GameVariables::getCurrencySymbol() const {
+        return currencySymbol_;
+    }
+
+    void GameVariables::setCurrencySymbol(bool symbol) {
+        currencySymbol_ = symbol;
     }
 
 }

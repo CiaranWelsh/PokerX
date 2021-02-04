@@ -9,15 +9,15 @@
 namespace pokerx {
 
     Action pokerx::CallStationPlayer::selectAction(StateMachine *engine) {
-        return CALL;
+        return CALL; // policy.next_action()???
     }
 
-    void pokerx::CallStationPlayer::raise() {
+    float pokerx::CallStationPlayer::raise() {
         // call station never raises.
         // raise anyway for testing
         float amount = gameVariables_->getAmountToCall()*2;
-        gameVariables_->getPot() += amount;
-        stack_ -= amount;
+        return amount;
+
     }
 
 }

@@ -17,8 +17,7 @@ namespace pokerx {
 
         Action selectAction(StateMachine *engine) override;
 
-        void raise() override;
-
+        float raise() override;
 
     };
 }

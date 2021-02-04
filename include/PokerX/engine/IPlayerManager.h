@@ -8,10 +8,13 @@
 #include <PokerX/engine/hands/Hand.h>
 #include "PokerX/engine/Player.h"
 #include "PokerX/engine/RotatoryContainer.h"
+#include <algorithm>
 
 namespace pokerx {
     class IPlayerManager : public RotatoryContainer<SharedPlayerPtr> {
     public:
+        using RotatoryContainer<SharedPlayerPtr>::RotatoryContainer;
+
         [[nodiscard]] virtual bool allPlayersEqual() const = 0;
 
         [[nodiscard]] virtual SharedPlayerPtr getCurrentPlayer() const = 0;
@@ -28,11 +31,13 @@ namespace pokerx {
 
         virtual void setCurrentPlayerIdx(int currentPlayerIdx) = 0;
 
-        virtual void setCurrentPlayerByName(const std::string& name) = 0;
+        virtual void setCurrentPlayerByName(const std::string &name) = 0;
 
         virtual SharedIPlayerPtr getPlayerByName(const std::string &name) = 0;
 
         virtual SharedIPlayerPtr getButton() = 0;
+
+        virtual void setButton(std::string playerName) = 0;
 
         virtual int getIndexOfPlayer(const SharedIPlayerPtr &player) = 0;
 

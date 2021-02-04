@@ -107,6 +107,9 @@ add_library(
         include/PokerX/engine/hands/Best5.h
         include/PokerX/engine/hands/HandType.h
         include/PokerX/engine/hands/IHand.h
+        include/PokerX/engine/Evaluator.h
+        include/PokerX/engine/Policy.h
+        include/PokerX/engine/PolicyPlayer.h
 
         # sources
         src/engine/AllInPlayer.cpp
@@ -158,7 +161,12 @@ add_library(
         src/engine/hands/RoyalFlush.cpp
         src/engine/hands/Best5.cpp
         src/engine/hands/IHand.cpp
-        src/engine/Evaluator.cpp include/PokerX/engine/Evaluator.h)
+        src/engine/Evaluator.cpp
+        src/engine/Policy.cpp
+        src/engine/PolicyPlayer.cpp
+
+
+)
 
 target_include_directories(
         PokerX PUBLIC

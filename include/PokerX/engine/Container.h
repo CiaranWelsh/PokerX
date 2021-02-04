@@ -18,17 +18,19 @@ namespace pokerx {
 
         virtual ~Container() = default;
 
-        explicit Container(T contents)
-                : contents_(contents) {};
+        explicit Container(T contents): contents_(contents) {};
 
-        Container(std::initializer_list<T> init)
-            : contents_(init){}
+        explicit Container(std::initializer_list<T> init)
+            : contents_(std::vector<T>(init.begin(), init.end())){}
+
+        explicit Container(std::vector<T> init)
+            : contents_(init){};
 
         virtual void add(T item) {
             contents_.push_back(item);
         };
 
-        const std::vector<T> &getContents() const {
+        [[nodiscard]] const std::vector<T> &getContents() const {
             return contents_;
         }
 
@@ -68,7 +70,7 @@ namespace pokerx {
         }
 
     protected:
-        std::vector <T> contents_;
+        std::vector <T> contents_{};
     };
 
 }

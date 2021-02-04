@@ -203,7 +203,7 @@ TEST_F(PokerEngineStatesTest, TestOptionStillAvailableToOtherPlayersAfterCheck) 
     engine->action();
 
     // Check option still available for other players
-    ASSERT_TRUE(engine->getGameVariables()->isCheckAvailable());
+    ASSERT_TRUE(!engine->getGameVariables()->hasBetBeenPlaced());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndChipsRemovedFromStack) {
@@ -272,7 +272,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerCallsAndCheckOptionIsRemoved) {
      * next call to action!
      */
 
-    ASSERT_FALSE(engine->getGameVariables()->isCheckAvailable());
+    ASSERT_FALSE(!engine->getGameVariables()->hasBetBeenPlaced());
 }
 
 TEST_F(PokerEngineStatesTest, CheckPlayerFolds) {
@@ -348,7 +348,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsAndCheckOptionStillAvailableForOth
 
     engine->action();
 
-    ASSERT_TRUE(engine->getGameVariables()->isCheckAvailable());
+    ASSERT_TRUE(!engine->getGameVariables()->hasBetBeenPlaced());
 
 }
 
@@ -402,7 +402,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerRaiseCheckNotAvailableForOtherPlayers) 
 
     engine->action();
 
-    ASSERT_FALSE(engine->getGameVariables()->isCheckAvailable());
+    ASSERT_FALSE(!engine->getGameVariables()->hasBetBeenPlaced());
 }
 
 
@@ -498,7 +498,7 @@ TEST_F(PokerEngineStatesTest, CheckPlayerAllInCheckNotAvailableToNextPlayer) {
 
     engine->action();
 
-    ASSERT_FALSE(engine->getGameVariables()->isCheckAvailable());
+    ASSERT_FALSE(!engine->getGameVariables()->hasBetBeenPlaced());
 
 }
 

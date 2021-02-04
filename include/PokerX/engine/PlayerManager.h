@@ -28,6 +28,8 @@ namespace pokerx {
 
     public:
 
+        using IPlayerManager::IPlayerManager;
+
         PlayerManager() = default;
 
         /**
@@ -101,6 +103,12 @@ namespace pokerx {
          * @brief get the player at index 0, which is the button
          */
         SharedIPlayerPtr getButton() override;
+
+        /**
+         * @brief set the player with name @param playerName
+         * as the button.
+         */
+        void setButton(std::string playerName) override;
 
         /**
          * @brief get the index in PlayerManager of @param player

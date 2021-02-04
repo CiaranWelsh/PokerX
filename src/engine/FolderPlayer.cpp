@@ -12,12 +12,13 @@ namespace pokerx {
         return FOLD;
     }
 
-    void pokerx::FolderPlayer::raise() {
+    float pokerx::FolderPlayer::raise() {
         // call station never raises.
         // raise anyway for testing
         float amount = gameVariables_->getAmountToCall()*2;
         gameVariables_->getPot() += amount;
         stack_ -= amount;
+        return amount;
     }
 
 }

@@ -11,10 +11,10 @@ namespace pokerx {
         return RAISE;
     }
 
-    void pokerx::RaiserPlayer::raise() {
+    float pokerx::RaiserPlayer::raise() {
         float amount = gameVariables_->getAmountToCall()*2;
-
-        gameVariables_->raise(this, amount);
+        doRaise(amount);
+        return amount;
     }
 
 }

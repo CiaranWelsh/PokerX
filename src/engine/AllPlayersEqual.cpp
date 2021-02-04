@@ -11,6 +11,8 @@ namespace pokerx {
         std::cout << "Entering AllPlayersEqual" << std::endl;
     }
 
+
+
     void AllPlayersEqual::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
@@ -20,7 +22,7 @@ namespace pokerx {
 
         bool all_players_equal = playerManager->allPlayersEqual();
 
-        if (all_players_equal){
+        if (all_players_equal) {
             // if all players are equal we end the street
             engine->setState(EndStreet::getInstance());
         } else {
@@ -29,9 +31,7 @@ namespace pokerx {
         }
     }
 
-    void AllPlayersEqual::exit(StateMachine *machine) {
-        PokerEngine::nextPlayer(machine);
-    }
+    void AllPlayersEqual::exit(StateMachine *machine) {}
 
     AllPlayersEqual &AllPlayersEqual::getInstance() {
         static AllPlayersEqual singleton;

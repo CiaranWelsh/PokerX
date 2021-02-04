@@ -29,10 +29,6 @@ namespace pokerx {
 
         void addToPot(const Pot &pot) override;
 
-        [[nodiscard]] bool isCheckAvailable() const override;
-
-        void setCheckAvailable(bool checkAvailable) override;
-
         [[nodiscard]] Street getStreet() const override;
 
         void setStreet(Street street) override;
@@ -57,60 +53,24 @@ namespace pokerx {
 
         void setN(unsigned int n) override;
 
-        [[nodiscard]] unsigned int getGamesPlayed() const override;
+        [[nodiscard]] unsigned int numGamesPlayed() const override;
 
         void setGamesPlayed(unsigned int gamesPlayed) override;
 
         void reset() override ;
 
-        void raise(Player *player, float amount) override;
+        [[nodiscard]] bool isDone() const override;
 
-    private:
-        /**
-         * A deck of cards
-         */
-        Deck deck_;
+        void setDone(bool done) override;
 
-        /**
-         * @brief Storage for Commmunity cards.
-         */
-        CardCollection communityCards_{};
+        [[nodiscard]] bool hasBetBeenPlaced() const override;
 
-        /**
-         * @brief the amount of money in the pot
-         */
-        Pot pot_;
+        void setBetPlaced(bool done) override;
 
-        /**
-         * @brief the amount to call the current bet
-         */
-        float amount_to_call_ = 0.0;
+        [[nodiscard]] std::string getCurrencySymbol() const override;
 
-        /**
-         * @brief indicator variable that denotes whether players can
-         * check or not
-         */
-        bool checkAvailable_ = true;
+        void setCurrencySymbol(bool symbol) override;
 
-        /**
-         * @brief variable to denote the current street
-         */
-        Street street_ = PREFLOP_STREET;
-
-        /**
-         * @brief small blind amount
-         */
-        float smallBlind_ = 1.0;
-
-        /**
-         * @brief big blind amount
-         */
-        float bigBlind_ = 2.0;
-
-        /**
-         * @brief count of how many games player
-         */
-         unsigned int count = 0;
 
     };
 }

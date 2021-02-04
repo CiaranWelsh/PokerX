@@ -12,6 +12,8 @@
 #include <iostream>
 #include <sstream>
 #include <memory>
+#include <utility>
+#include <PokerX/engine/Policy.h>
 
 #include "PokerX/engine/IGameVariables.h"
 
@@ -27,6 +29,12 @@ namespace pokerx {
                 : name_(std::move(name)), stack_(stack) {};
 
         ~IPlayer() override = default;
+
+        IPlayer(std::string  name, float stack, std::vector<Action> actionPolicy)
+            : name_(std::move(name)), stack_(stack), policy_(Policy(actionPolicy)){};
+
+        IPlayer(std::string  name, float stack, std::vector<Action> actionPolicy, std::vector<float> raisePolicy)
+            : name_(std::move(name)), stack_(stack), policy_(Policy(actionPolicy, raisePolicy)){};
 
         /**
          * @brief implement the update method from the IObserver<IGameVariables>
@@ -123,7 +131,7 @@ namespace pokerx {
          * this method to define their own strategy of raising. Perhaps
          * triple bet raise, perhaps console or network input
          */
-        virtual void raise() = 0;
+        virtual float raise() = 0;
 
         /**
          * @brief uses the IPlayer::raise method but
@@ -161,11 +169,22 @@ namespace pokerx {
 
         virtual void reset() = 0;
 
+        virtual void doRaise(float amountToRaiseTo) = 0;
+
+        [[nodiscard]] virtual const Policy &getPolicy() const = 0;
+
+        virtual void setPolicy(const Policy &policy) = 0;
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
-        bool isInPlay_ = true;
+        bool hasFolded_ = false;
         bool isSittingOut_ = false;
+
+        /**
+         *
+         */
+        Policy policy_{};
 
         /**
          * A running total of the amount spent

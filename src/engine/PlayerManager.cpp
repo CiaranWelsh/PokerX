@@ -28,7 +28,7 @@ namespace pokerx {
         }
 
         bool equal = false;
-        if (std::adjacent_find(amounts.begin(), amounts.end(), std::not_equal_to<>()) == amounts.end()) {
+        if (std::equal(amounts.begin() + 1, amounts.end(), amounts.begin())) {
             equal = true;
         }
         return equal;
@@ -54,12 +54,17 @@ namespace pokerx {
     }
 
     void PlayerManager::nextPlayer() {
+//        seg sault somwhere herer
         // if button index == vector size -1: btn is 0
         if (getCurrentPlayerIdx() == size() - 1) {
             setCurrentPlayerIdx(0);
         } else {
             // else i++
             setCurrentPlayerIdx(getCurrentPlayerIdx() + 1);
+        }
+        // now check if player is sitting out or folded and recurse if needed
+        if(getCurrentPlayer()->hasFolded() || getCurrentPlayer()->isSittingOut()){
+            nextPlayer();
         }
     }
 
@@ -120,6 +125,14 @@ namespace pokerx {
 
     SharedIPlayerPtr PlayerManager::getButton(){
         return getPlayer(0);
+    }
+
+    void PlayerManager::setButton(std::string playerName){
+        auto player = getPlayerByName(playerName);
+        while(getIndexOfPlayer(player) != 0){
+            rotateContainerContents();
+        }
+
     }
 
     std::vector<std::string> PlayerManager::getPlayerNames() {

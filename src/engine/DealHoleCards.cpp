@@ -13,14 +13,12 @@ namespace pokerx {
     void DealHoleCards::action(StateMachine *machine) {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        // liskov wouldn't be happy with this
+        // liskov wouldn't be happy with this (nerd)
         engine->dealHoleCards();
         machine->setState(EnterStreet::getInstance());
     }
 
-    void DealHoleCards::exit(StateMachine *machine) {
-        PokerEngine::nextPlayer(machine);
-    }
+    void DealHoleCards::exit(StateMachine *machine) {}
 
     DealHoleCards &DealHoleCards::getInstance() {
         static DealHoleCards singleton;

@@ -56,19 +56,58 @@ TEST_F(PlayerManagerTests, TestMoveButton) {
     ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 0);
 }
 
-TEST_F(PlayerManagerTests, TestNextPlayer) {
-    std::cout << playerManager << std::endl;
-    playerManager.nextPlayer();
-    std::cout << playerManager << std::endl;
+TEST_F(PlayerManagerTests, TestNextPlayerSimple) {
 
     // Players have not rotated so Player0 should still be at position 0
     ASSERT_STREQ(playerManager[0]->getName().c_str(), "Player0");
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 0);
 
-    // But the current index should be at 1, since player 0 has taken their go
-    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
+    playerManager.nextPlayer();
+
     ASSERT_STREQ(
             playerManager.getCurrentPlayer()->getName().c_str(),
             "Player1"
+    );
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
+}
+
+TEST_F(PlayerManagerTests, TestNextPlayerWhenAplayerHasFolded) {
+    ASSERT_STREQ(playerManager[0]->getName().c_str(), "Player0");
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 0);
+
+    // This time player 0 has folded by default
+    playerManager.getPlayer(1)->setHasFolded(true);
+
+    playerManager.nextPlayer();
+
+
+    // Players have not rotated so Player0 should still be at position 0
+
+    // But the current index should be at 1, since player 0 has taken their go
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 2);
+    ASSERT_STREQ(
+            playerManager.getCurrentPlayer()->getName().c_str(),
+            "Player2"
+    );
+}
+
+TEST_F(PlayerManagerTests, TestNextPlayerWhenPlayerIsSittingOut) {
+    ASSERT_STREQ(playerManager[0]->getName().c_str(), "Player0");
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 0);
+
+    // This time player 0 has folded by defaul
+    playerManager.getPlayer(1)->setSittingOut(true);
+
+    playerManager.nextPlayer();
+
+
+    // Players have not rotated so Player0 should still be at position 0
+
+    // But the current index should be at 1, since player 0 has taken their go
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 2);
+    ASSERT_STREQ(
+            playerManager.getCurrentPlayer()->getName().c_str(),
+            "Player2"
     );
 }
 
@@ -121,7 +160,7 @@ TEST_F(PlayerManagerTests, CheckThankYouCanSetAmountContrib) {
     ASSERT_EQ(10, playerManager.getPlayer(0)->getAmountContrib());
 }
 
-TEST_F(PlayerManagerTests, CheckAllPlayersEqualWhenFalseTrue) {
+TEST_F(PlayerManagerTests, CheckAllPlayersEqualWhenFalse) {
     playerManager[0]->setAmountContrib(10);
     playerManager[1]->setAmountContrib(20);
     playerManager[2]->setAmountContrib(30);
@@ -130,6 +169,28 @@ TEST_F(PlayerManagerTests, CheckAllPlayersEqualWhenFalseTrue) {
     playerManager[5]->setAmountContrib(60);
 
     ASSERT_FALSE(playerManager.allPlayersEqual());
+
+}
+TEST_F(PlayerManagerTests, CheckAllPlayersEqualWithFloats) {
+    playerManager[0]->setAmountContrib(10.567);
+    playerManager[1]->setAmountContrib(10.432);
+    playerManager[2]->setAmountContrib(10.443);
+    playerManager[3]->setAmountContrib(10.342);
+    playerManager[4]->setAmountContrib(10.121);
+    playerManager[5]->setAmountContrib(10.5667);
+
+    ASSERT_FALSE(playerManager.allPlayersEqual());
+
+}
+
+TEST_F(PlayerManagerTests, CheckThatSePlayerToButtonWorks) {
+    playerManager.setButton("Player4");
+    ASSERT_STREQ(
+            playerManager.getButton()->getName().c_str(),
+            "Player4"
+    );
+    auto player4 = playerManager.getPlayerByName("Player4");
+    ASSERT_EQ(0, playerManager.getIndexOfPlayer(player4));
 
 }
 

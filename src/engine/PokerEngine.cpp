@@ -23,13 +23,23 @@ namespace pokerx {
 
 
     void PokerEngine::setState(State &state) {
+
+        // And we get a chance to do stuff to this new state immediately after switching
+        // we use exit for moving to the next player, which
+        // we only want to do after we have performed the action
+        // this is different from the original state machine design
+        // whereby exit was conducted after assigning state to state_ in setState().
+
+        // also remember that we must call exit first since we'll be calling
+        // exit on the last state before changing it.
+        state_->exit(this);
+
+        // we then set the new state
+        state_ = &state;
         // When we initially enter the setState method we
         // can use the enter method to do stuff
         // with our existing state
         state_->enter(this);
-
-        // we then set the new state
-        state_ = &state;
 
 
         // enter and exit are by default empty
@@ -38,12 +48,6 @@ namespace pokerx {
     void PokerEngine::action() {
         state_->action(this);
 
-        // And we get a chance to do stuff to this new state immediately after switching
-        // we use exit for moving to the next player, which
-        // we only want to do after we have performed the action
-        // this is different from the original state machine design
-        // whereby exit was conducted after assigning state to state_ in setState().
-        state_->exit(this);
     }
 
     void PokerEngine::action(unsigned int times) {
@@ -81,24 +85,32 @@ namespace pokerx {
     }
 
     void PokerEngine::dealHoleCards() const {
+
+        // todo inject way of controlling the cards for reproducing games
+
         // get a reference to the deck
-        Deck& deck = getGameVariables()->getDeck();
+        Deck &deck = getGameVariables()->getDeck();
 
         // We shuffle the deck. This is the only time we do so
         deck.shuffle();
 
-        // Start left of dealer i.e. the button
+        // Start left of dealer ( the button)
         int number_of_players = getPlayers()->size();
 
-        for (int i = 0; i < number_of_players * 2; i++) {
-            // todo implement logic for a player to be sitting out here
-            getPlayers()->getCurrentPlayer()->getHoleCards().add(deck.pop());
+        for (int card_number = 0; card_number < 2; card_number++) {
+            for (int i = 1; i < number_of_players + 1; i++) {
+                int idx = i % number_of_players;
+                const auto &player = getPlayers()->getPlayer(idx);
+                player->getHoleCards().add(deck.pop());
+                std::cout << player->getHoleCards() << std::endl;
+            }
         }
+
     }
 
     void PokerEngine::dealFlop() {
         // get a reference to the deck
-        Deck& deck = getGameVariables()->getDeck();
+        Deck &deck = getGameVariables()->getDeck();
 
         // discard top card
         deck.pop();
@@ -110,7 +122,7 @@ namespace pokerx {
     }
 
     void PokerEngine::dealTurn() {
-        Deck& deck = getGameVariables()->getDeck();
+        Deck &deck = getGameVariables()->getDeck();
 
         // discard top card
         deck.pop();
@@ -120,7 +132,7 @@ namespace pokerx {
     }
 
     void PokerEngine::dealRiver() {
-        Deck& deck = getGameVariables()->getDeck();
+        Deck &deck = getGameVariables()->getDeck();
 
         // discard top card
         deck.pop();

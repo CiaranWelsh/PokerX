@@ -35,35 +35,66 @@ namespace pokerx {
         switch (action) {
             case CHECK : {
                 player->check();
+                std::cout << player->getName() << ": checks" << std::endl;
                 break;
             }
             
             case FOLD : {
                 player->fold();
+                std::cout << player->getName() << ": folds" << std::endl;
                 break;
             }
 
             case CALL : {
                 // todo need to add amount called to players amountContrib attribute
+                // todo check available and bet placed actually indicate the same things. Consolidate.
                 player->call();
-                engine->getGameVariables()->setCheckAvailable(false);
+//                engine->getGameVariables()->setCheckAvailable(false);
+                engine->getGameVariables()->setBetPlaced(true);
+                std::cout << player->getName() << ": calls" << std::endl;
                 break;
             }
 
             case RAISE : {
-                player->raise();
 
-                engine->getGameVariables()->setCheckAvailable(false);
+                // make riase return amount to raise to and implement the loic i need here
+                float amountToRaiseTo = player->raise();
+//                engine->getGameVariables()->setCheckAvailable(false);
+                // if no one has bet yet is "bets", if someone already bet then its raises
+                if (engine->getGameVariables()->hasBetBeenPlaced()) {
+                    std::cout << player->getName() << ": raises "
+                              << player->getGameVariables()->getAmountToCall() << " to "
+                              << amountToRaiseTo << std::endl;
+                } else {
+                    std::cout << player->getName() << ": bets "
+                              << amountToRaiseTo << std::endl;
+                }
+                // and update the amount to call to the amount raised
+                player->getGameVariables()->setAmountToCall(amountToRaiseTo);
+                engine->getGameVariables()->setBetPlaced(true);
                 break;
             }
 
             case ALL_IN : {
                 player->allIn();
-                engine->getGameVariables()->setCheckAvailable(false);
+
+                if (engine->getGameVariables()->hasBetBeenPlaced()) {
+                    std::cout << player->getName() << ": raises "
+                              << player->getGameVariables()->getAmountToCall() << " to "
+                              << player->getStack() << std::endl;
+                } else {
+                    std::cout << player->getName() << ": bets "
+                              << player->getStack() << std::endl;
+                }
+
+                engine->getGameVariables()->setBetPlaced(true);
+                std::cout << player->getName() << ": raises " << std::endl; // and is all-in
                 break;
             }
             default:
                 LOGIC_ERROR << "Shouldn't ever get here" << std::endl;
+            case NONE:
+                break;
         }
 
         engine->setState(AllPlayersEqual::getInstance());

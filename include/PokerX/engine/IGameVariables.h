@@ -29,10 +29,6 @@ namespace pokerx {
 
         virtual void addToPot(const Pot &pot) = 0;
 
-        [[nodiscard]] virtual bool isCheckAvailable() const = 0;
-
-        virtual void setCheckAvailable(bool checkAvailable) = 0;
-
         [[nodiscard]] virtual Street getStreet() const = 0;
 
         virtual void setStreet(Street street) = 0;
@@ -57,31 +53,31 @@ namespace pokerx {
 
         virtual void setN(unsigned int n)= 0;
 
-        [[nodiscard]] virtual unsigned int getGamesPlayed() const = 0;
+        [[nodiscard]] virtual unsigned int numGamesPlayed() const = 0;
 
         virtual void setGamesPlayed(unsigned int gamesPlayed) = 0;
 
         virtual void reset() = 0;
 
-        /**
-         * @brief Raisers will call this method from thier
-         * raise method, using this as first argument.
-         */
-        virtual void raise(Player *player, float amount) = 0;
+//        /**
+//         * @brief Raisers will call this method from thier
+//         * raise method, using this as first argument.
+//         */
+//        virtual void raise(Player *player, float amount) = 0;
+
+        [[nodiscard]] virtual bool isDone() const = 0;
+
+        virtual void setDone(bool done) = 0 ;
+
+        [[nodiscard]] virtual bool hasBetBeenPlaced() const = 0;
+
+        virtual void setBetPlaced(bool done) = 0 ;
+
+        [[nodiscard]] virtual std::string getCurrencySymbol() const = 0;
+
+        virtual void setCurrencySymbol(bool symbol) = 0 ;
 
     protected:
-
-        Pot pot_;
-
-        float amount_to_call_ = 0.0;
-
-        bool checkAvailable_ = true;
-
-        Street street_ = PREFLOP_STREET;
-
-        float smallBlind_ = 1.0;
-
-        float bigBlind_ = 2.0;
 
         /**
          * Number of games to play
@@ -91,7 +87,66 @@ namespace pokerx {
         /**
          * Number of games player
          */
-        unsigned int gamesPlayed_;
+        unsigned int gamesPlayed_ = 0;
+
+        /**
+          * A deck of cards
+          */
+        Deck deck_;
+
+        /**
+         * @brief Storage for Commmunity cards.
+         */
+        CardCollection communityCards_{};
+
+        /**
+         * @brief the amount of money in the pot
+         */
+        Pot pot_;
+
+        /**
+         * @brief the amount to call the current bet
+         */
+        float amount_to_call_ = 0.0;
+
+        /**
+         * @brief set to true once somebody other than the blinds
+         * have put money in the pot, false otherwise. When true
+         * players can no longer check.
+         */
+        bool betPlaced_ = false;
+
+        /**
+         * @brief variable to denote the current street
+         */
+        Street street_ = PREFLOP_STREET;
+
+        /**
+         * @brief small blind amount
+         */
+        float smallBlind_ = 1.0;
+
+        /**
+         * @brief big blind amount
+         */
+        float bigBlind_ = 2.0;
+
+        /**
+         * @brief count of how many games player
+         */
+        unsigned int count = 0;
+
+        /**
+         * @bief set to true once all N games
+         * have been played
+         */
+        bool done_ = false;
+
+        /**
+         * @brief Currency symbol like $ or £.
+         * Default to dollar.
+         */
+        std::string currencySymbol_ = "$";
 
     };
 

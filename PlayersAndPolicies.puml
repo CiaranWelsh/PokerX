@@ -1,0 +1,39 @@
+@startuml
+
+
+
+class Player{
+    policy_
+    setPolicy()
+    getPolicy()
+}
+
+' which features to observe
+' should be state variables
+' like hole cards, community cards
+' from a single round.
+' but we can't save these.
+' we need a model.
+
+' note that we can use tf from c++ bu also from python.
+' might be good to use python anyway for all the machine learning
+' models that are preimplemented? Could use callback functions?
+' It'd only be the player that some of the implementation would be Python.
+' game state changes, the updated variables are inputs into a nn
+
+class Policy{
+    inputFeatures_
+}
+
+Player <-- Policy : binds\nto
+
+
+
+
+
+
+
+
+
+
+@enduml

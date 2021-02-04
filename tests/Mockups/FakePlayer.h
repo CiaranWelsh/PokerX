@@ -19,10 +19,11 @@ public:
         return CALL;
     }
 
-    void raise() override{
+    float raise() override{
         float amount = getGameVariables()->getAmountToCall()*2;
         stack_ -= amount;
         getGameVariables()->getPot() += amount;
+        return amount;
     }
 
 

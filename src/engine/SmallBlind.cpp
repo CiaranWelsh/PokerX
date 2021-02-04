@@ -21,8 +21,12 @@ namespace pokerx {
         CHECK_NULLPTR(engine, "engine");
         IPlayerManager* manager = engine->getPlayers();
         CHECK_NULLPTR(manager->getCurrentPlayer(), "playerManager::getCurrentPlayer");
+        std::cout << manager->getCurrentPlayer()->getName() <<
+            ": posts small blind " << engine->getGameVariables()->getCurrencySymbol()
+            << engine->getGameVariables()->getSmallBlind()  << std::endl;
         manager->getCurrentPlayer()->postSmallBlind();
         machine->setState(BigBlind::getInstance());
+
     }
 
     void SmallBlind::exit(StateMachine *machine) {

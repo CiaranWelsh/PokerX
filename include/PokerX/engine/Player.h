@@ -42,7 +42,7 @@ namespace pokerx {
 
         [[nodiscard]] bool hasFolded() const override;
 
-        void setHasFolded(bool isInPlay) override;
+        void setHasFolded(bool hasFolded) override;
 
         bool isSittingOut() const override;
 
@@ -74,6 +74,11 @@ namespace pokerx {
 
         void reset() override;
 
+        void doRaise(float amountToRaiseTo) override;
+
+        [[nodiscard]] const Policy &getPolicy() const override;
+
+        void setPolicy(const Policy &policy) override;
 
     protected:
 

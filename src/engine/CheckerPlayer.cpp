@@ -12,12 +12,13 @@ namespace pokerx {
         return CHECK;
     }
 
-    void pokerx::CheckerPlayer::raise() {
+    float pokerx::CheckerPlayer::raise() {
         // call station never raises.
         // raise anyway for testing
         float amount = gameVariables_->getAmountToCall()*2;
         gameVariables_->getPot() += amount;
         stack_ -= amount;
+        return amount;
     }
 
 }

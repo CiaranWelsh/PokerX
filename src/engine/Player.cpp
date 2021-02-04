@@ -9,8 +9,6 @@
 
 namespace pokerx {
 
-
-
     std::ostream &operator<<(std::ostream &os, Player &player) {
         return player.print(os);
     }
@@ -37,7 +35,7 @@ namespace pokerx {
     }
 
     [[nodiscard]] bool Player::isAllIn() const {
-        return stack_ == 0.0;
+        return isAllIn_;
     }
 
     void Player::setIsAllIn(bool isAllIn) {
@@ -45,11 +43,11 @@ namespace pokerx {
     }
 
     bool Player::hasFolded() const {
-        return isInPlay_;
+        return hasFolded_;
     }
 
-    void Player::setHasFolded(bool isInPlay) {
-        isInPlay_ = isInPlay;
+    void Player::setHasFolded(bool hasFolded) {
+        hasFolded_ = hasFolded;
     }
 
     bool Player::isSittingOut() const {
@@ -72,7 +70,7 @@ namespace pokerx {
 
 
     void Player::fold() {
-        setHasFolded(false);
+        setHasFolded(true);
     }
 
     void Player::checkGameVariablesNotNull() const {
@@ -86,9 +84,9 @@ namespace pokerx {
     void Player::check() {
         // do nothing
         checkGameVariablesNotNull();
-        if (!gameVariables_->isCheckAvailable()){
+        if (gameVariables_->hasBetBeenPlaced()){
             // todo handle this exception
-            RUNTIME_ERROR << "Check not available because there is money in the pot" << std::endl;
+            RUNTIME_ERROR << "Check not available because a bet has been placed" << std::endl;
         }
     }
 
@@ -163,7 +161,20 @@ namespace pokerx {
         }
     }
 
+    void Player::doRaise(float amountToRaiseTo) {
+        amountContrib_ += amountToRaiseTo;
+        gameVariables_->getPot() += amountToRaiseTo;
+        stack_ -= amountToRaiseTo;
+    }
 
+
+    [[nodiscard]] const Policy &Player::getPolicy() const {
+        return policy_;
+    }
+
+    void Player::setPolicy(const Policy &policy) {
+        policy_ = policy;
+    }
 }
 
 

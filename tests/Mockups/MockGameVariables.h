@@ -25,9 +25,9 @@ public:
 
     MOCK_METHOD(void, addToPot, (const Pot &), ());
 
-    MOCK_METHOD(bool, isCheckAvailable, (), (const));
+    MOCK_METHOD(bool, hasBetBeenPlaced, (), (const));
 
-    MOCK_METHOD(void, setCheckAvailable, (bool), ());
+    MOCK_METHOD(void, setBetPlaced, (bool), ());
 
     MOCK_METHOD(Street, getStreet, (), (const));
 
@@ -53,7 +53,7 @@ public:
 
     MOCK_METHOD(void, setN, (unsigned int), ());
 
-    MOCK_METHOD(unsigned int, getGamesPlayed, (), (const));
+    MOCK_METHOD(unsigned int, numGamesPlayed, (), (const));
 
     MOCK_METHOD(void, setGamesPlayed, (unsigned int), ());
 

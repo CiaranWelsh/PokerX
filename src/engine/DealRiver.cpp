@@ -19,9 +19,7 @@ namespace pokerx {
         machine->setState(EnterStreet::getInstance());
     }
 
-    void DealRiver::exit(StateMachine *machine) {
-        PokerEngine::nextPlayer(machine);
-    }
+    void DealRiver::exit(StateMachine *machine) {}
 
     DealRiver &DealRiver::getInstance() {
         static DealRiver singleton;

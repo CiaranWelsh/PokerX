@@ -56,7 +56,7 @@ TEST_F(PlayerTests, TestCheckErrorsWhenCheckNotAvailable) {
 TEST_F(PlayerTests, TestCheckPlayersStackUnchanged) {
     FakePlayer player;
     player.watch(&gameVariables);
-    EXPECT_CALL(gameVariables, isCheckAvailable).Times(1).WillRepeatedly(Return(true));
+    EXPECT_CALL(gameVariables, hasBetBeenPlaced).Times(1).WillRepeatedly(Return(true));
     player.check();
     ASSERT_EQ(player.getStack(), 1000.0);
 }

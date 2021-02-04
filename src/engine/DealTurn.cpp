@@ -17,9 +17,7 @@ namespace pokerx {
         machine->setState(EnterStreet::getInstance());
     }
 
-    void DealTurn::exit(StateMachine *machine) {
-        PokerEngine::nextPlayer(machine);
-    }
+    void DealTurn::exit(StateMachine *machine) {}
 
     DealTurn &DealTurn::getInstance() {
         static DealTurn singleton;
