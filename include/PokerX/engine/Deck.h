@@ -32,8 +32,20 @@ namespace pokerx {
 
         Deck& operator=(Deck&& deck) noexcept;
 
+        /**
+         * @brief deletes the current deck and
+         * restarts with a fresh one
+         */
+        void reset();
+
 
     private:
+
+        /**
+         * @brief deletes the resources allocated for storing cards
+         */
+        void deleteCards();
+
         /**
          * Create a deck
          */

@@ -180,7 +180,28 @@ TEST_F(PlayerManagerTests, CheckAllPlayersEqualWithFloats) {
     playerManager[5]->setAmountContrib(10.5667);
 
     ASSERT_FALSE(playerManager.allPlayersEqual());
+}
 
+TEST_F(PlayerManagerTests, CheckAllPlayerTakenAtLeastOneTurnWhenTrue) {
+    playerManager[0]->setNumActionsThisStreet(1);
+    playerManager[1]->setNumActionsThisStreet(1);
+    playerManager[2]->setNumActionsThisStreet(1);
+    playerManager[3]->setNumActionsThisStreet(1);
+    playerManager[4]->setNumActionsThisStreet(1);
+    playerManager[5]->setNumActionsThisStreet(1);
+
+    ASSERT_TRUE(playerManager.allPlayersTakenAtLeastOneTurn());
+}
+
+TEST_F(PlayerManagerTests, CheckAllPlayerTakenAtLeastOneTurnWhenFalse) {
+    playerManager[0]->setNumActionsThisStreet(1);
+    playerManager[1]->setNumActionsThisStreet(1);
+    playerManager[2]->setNumActionsThisStreet(1);
+    playerManager[3]->setNumActionsThisStreet(1);
+    playerManager[4]->setNumActionsThisStreet(1);
+    playerManager[5]->setNumActionsThisStreet(0);
+
+    ASSERT_FALSE(playerManager.allPlayersTakenAtLeastOneTurn());
 }
 
 TEST_F(PlayerManagerTests, CheckThatSePlayerToButtonWorks) {

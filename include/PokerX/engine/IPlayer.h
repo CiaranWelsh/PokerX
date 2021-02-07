@@ -171,9 +171,13 @@ namespace pokerx {
 
         virtual void doRaise(float amountToRaiseTo) = 0;
 
-        [[nodiscard]] virtual const Policy &getPolicy() const = 0;
+        [[nodiscard]] virtual Policy * getPolicy() = 0;
 
         virtual void setPolicy(const Policy &policy) = 0;
+
+        [[nodiscard]] virtual unsigned int getNumActionsThisStreet() const = 0;
+
+        virtual void setNumActionsThisStreet(unsigned int numActionsThisStreet) = 0;
 
     protected:
         float stack_ = 1000.0;
@@ -206,6 +210,14 @@ namespace pokerx {
         IGameVariables *gameVariables_ = nullptr;
 
         virtual void checkGameVariablesNotNull() const = 0;
+
+        /**
+         * @brief counts the number of times this player has
+         * taken an action this round of betting. Count
+         * resets to 0 at the start of each street.
+         */
+         unsigned int numActionsThisStreet_;
+
     };
 
     using IPlayerPtr = std::unique_ptr<IPlayer>;

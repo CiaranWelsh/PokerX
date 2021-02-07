@@ -69,7 +69,7 @@ namespace pokerx {
 
         [[nodiscard]] std::string getCurrencySymbol() const override;
 
-        void setCurrencySymbol(bool symbol) override;
+        void setCurrencySymbol(const std::string& symbol) override;
 
 
     };

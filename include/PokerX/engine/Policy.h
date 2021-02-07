@@ -95,6 +95,8 @@ namespace pokerx {
 
         void setRaiseAmounts(const std::vector<float> &raiseAmounts);
 
+        float getNextRaiseAmount();
+
     private:
 
         std::vector<Action> actions_;
@@ -102,6 +104,8 @@ namespace pokerx {
         std::vector<float> raiseAmounts_;
 
         int nextAction_ = 0;
+
+        int nextRaise_ = 0;
 
     };
 

@@ -9,7 +9,7 @@
 namespace pokerx {
 
     void PlayerToAct::enter(StateMachine *machine) {
-        std::cout << "Entering TurnToAct" << std::endl;
+
 
     }
 
@@ -34,6 +34,7 @@ namespace pokerx {
          */
         switch (action) {
             case CHECK : {
+                // check *is available when you are big blind and
                 player->check();
                 std::cout << player->getName() << ": checks" << std::endl;
                 break;
@@ -51,7 +52,9 @@ namespace pokerx {
                 player->call();
 //                engine->getGameVariables()->setCheckAvailable(false);
                 engine->getGameVariables()->setBetPlaced(true);
-                std::cout << player->getName() << ": calls" << std::endl;
+                std::cout << player->getName() << ": calls "
+                    << player->getGameVariables()->getCurrencySymbol()
+                    << player->getGameVariables()->getAmountToCall() << std::endl;
                 break;
             }
 
@@ -102,7 +105,7 @@ namespace pokerx {
     }
 
     void PlayerToAct::exit(StateMachine *machine) {
-        PokerEngine::nextPlayer(machine);
+        //PokerEngine::nextPlayer(machine);
     }
 
     PlayerToAct &PlayerToAct::getInstance() {

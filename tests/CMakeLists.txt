@@ -127,6 +127,10 @@ add_test_executable(ObserverPatternTests ON ON TestExecutables
         GameVariableObserverTests.cpp
         )
 
+add_test_executable(PolicyTests ON ON TestExecutables
+        PolicyTests.cpp
+        )
+
 # integration tests for PokerEngine
 add_test_executable(PokerEngineStateMachineTests ON ON TestExecutables
         PokerEngineStatesTest.cpp
@@ -160,7 +164,7 @@ add_test_executable(RoyalFlushTests ON ON TestExecutables hands/RoyalFlushTests.
 add_test_executable(HandTests ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(EvaluatorTests ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
-add_executable(PokerXConsoleGame AConsoleGame.cpp )
+add_executable(PokerXConsoleGame AConsoleGame.cpp PolicyTests.cpp)
 target_link_libraries(PokerXConsoleGame PRIVATE PokerX)
 
 add_test_executable(GameScenarioTests ON ON TestExecutables GameScenarioTests.cpp)

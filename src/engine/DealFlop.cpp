@@ -8,14 +8,16 @@
 namespace pokerx {
 
     void DealFlop::enter(StateMachine *machine) {
-        std::cout << "Entering DealFlop" << std::endl;
+
     }
 
     void DealFlop::action(StateMachine *machine) {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         // liskov wouldn't be happy with this
-        engine->dealFlop();
+        CardCollection flop = engine->dealFlop();
+        std::cout << "*** FLOP *** " << flop << std::endl;
+        engine->getGameVariables()->setCommunityCards(flop);
         machine->setState(EnterStreet::getInstance());
     }
 

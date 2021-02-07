@@ -61,11 +61,11 @@ namespace pokerx {
 
         void dealHoleCards() const;
 
-        void dealFlop();
+        CardCollection dealFlop();
 
-        void dealTurn();
+        ICard* dealTurn() const;
 
-        void dealRiver();
+        ICard* dealRiver() const;
 
         /**
          * @brief evaluate all hands of players in the game

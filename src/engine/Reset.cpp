@@ -20,7 +20,7 @@ namespace pokerx{
     }
 
     void Reset::enter(StateMachine *machine) {
-        std::cout << "Entering ResetState" << std::endl;
+
     }
 
     void Reset::exit(StateMachine *machine) {

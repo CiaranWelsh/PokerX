@@ -15,7 +15,6 @@
 namespace pokerx {
 
     void Showdown::enter(StateMachine *machine) {
-        std::cout << "Entering Showdown" << std::endl;
 
     }
 

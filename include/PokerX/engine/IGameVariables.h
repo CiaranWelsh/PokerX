@@ -75,7 +75,8 @@ namespace pokerx {
 
         [[nodiscard]] virtual std::string getCurrencySymbol() const = 0;
 
-        virtual void setCurrencySymbol(bool symbol) = 0 ;
+        virtual void setCurrencySymbol(const std::string& symbol) = 0 ;
+
 
     protected:
 

@@ -11,7 +11,7 @@
 namespace pokerx {
 
     void BigBlind::enter(StateMachine *machine) {
-        std::cout << "Entering BigBlind" << std::endl;
+
     }
 
     void BigBlind::action(StateMachine *machine) {

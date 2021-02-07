@@ -64,13 +64,13 @@ namespace pokerx {
 
     void Player::watch(IGameVariables *variables) {
         gameVariables_ = variables;
-//         __FILE_NAME__<<":"<<__LINE__<<": possible memory related error"<<std::endl;
         gameVariables_->registerObserver(this);
     }
 
 
     void Player::fold() {
         setHasFolded(true);
+        numActionsThisStreet_ += 1;
     }
 
     void Player::checkGameVariablesNotNull() const {
@@ -84,10 +84,11 @@ namespace pokerx {
     void Player::check() {
         // do nothing
         checkGameVariablesNotNull();
-        if (gameVariables_->hasBetBeenPlaced()){
-            // todo handle this exception
-            RUNTIME_ERROR << "Check not available because a bet has been placed" << std::endl;
-        }
+        // has bet other than the blinds been placed?
+        // everyone gets a chance to raise
+
+        // increment the number of actions this player has taken
+        numActionsThisStreet_ += 1;
     }
 
     void Player::call() {
@@ -100,6 +101,7 @@ namespace pokerx {
         amountContrib_ += amount;
         stack_ -= amount;
         getGameVariables()->getPot() += amount;
+        numActionsThisStreet_ += 1;
     }
 
     void Player::allIn() {
@@ -108,9 +110,18 @@ namespace pokerx {
         stack_ = 0;
         amountContrib_ += amount;
         getGameVariables()->getPot() += amount;
+        numActionsThisStreet_ += 1;
     }
 
-    // raise is left virtual
+    // raise is left virtual but the subclass should call
+    // doRaise. Its up to the subclass to determine the strategy
+
+    void Player::doRaise(float amountToRaiseTo) {
+        amountContrib_ += amountToRaiseTo;
+        gameVariables_->getPot() += amountToRaiseTo;
+        stack_ -= amountToRaiseTo;
+        numActionsThisStreet_ += 1;
+    }
 
     void Player::postSmallBlind() {
         /**
@@ -151,6 +162,7 @@ namespace pokerx {
     }
 
     void Player::reset(){
+        setNumActionsThisStreet(0);
         holeCards_ = HoleCards();
         setHasFolded(false);
         setIsAllIn(false);
@@ -161,20 +173,23 @@ namespace pokerx {
         }
     }
 
-    void Player::doRaise(float amountToRaiseTo) {
-        amountContrib_ += amountToRaiseTo;
-        gameVariables_->getPot() += amountToRaiseTo;
-        stack_ -= amountToRaiseTo;
-    }
 
-
-    [[nodiscard]] const Policy &Player::getPolicy() const {
-        return policy_;
+    [[nodiscard]] Policy * Player::getPolicy()  {
+        return &policy_;
     }
 
     void Player::setPolicy(const Policy &policy) {
         policy_ = policy;
     }
+
+    unsigned int Player::getNumActionsThisStreet() const {
+        return numActionsThisStreet_;
+    }
+
+    void Player::setNumActionsThisStreet(unsigned int numActionsThisStreet) {
+        numActionsThisStreet_ = numActionsThisStreet;
+    }
+
 }
 
 

@@ -102,44 +102,42 @@ namespace pokerx {
                 int idx = i % number_of_players;
                 const auto &player = getPlayers()->getPlayer(idx);
                 player->getHoleCards().add(deck.pop());
-                std::cout << player->getHoleCards() << std::endl;
             }
         }
 
     }
 
-    void PokerEngine::dealFlop() {
+    CardCollection PokerEngine::dealFlop() {
         // get a reference to the deck
         Deck &deck = getGameVariables()->getDeck();
-
+        CardCollection community = gameVariables_->getCommunityCards();
         // discard top card
         deck.pop();
 
-        gameVariables_->getCommunityCards().add(deck.pop());
-        gameVariables_->getCommunityCards().add(deck.pop());
-        gameVariables_->getCommunityCards().add(deck.pop());
+        community.add(deck.pop());
+        community.add(deck.pop());
+        community.add(deck.pop());
+        return community;
 
     }
 
-    void PokerEngine::dealTurn() {
+    ICard* PokerEngine::dealTurn() const {
         Deck &deck = getGameVariables()->getDeck();
-
         // discard top card
         deck.pop();
 
-        gameVariables_->getCommunityCards().add(deck.pop());
+        return deck.pop();
 
     }
 
-    void PokerEngine::dealRiver() {
+    ICard* PokerEngine::dealRiver() const {
         Deck &deck = getGameVariables()->getDeck();
-
         // discard top card
         deck.pop();
 
-        gameVariables_->getCommunityCards().add(deck.pop());
-    }
+        return deck.pop();
 
+    }
     void PokerEngine::determineWinner() {
         Evaluator eval;
         eval.evaluate(players_->getPlayerHands());

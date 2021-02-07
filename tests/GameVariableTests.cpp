@@ -11,9 +11,10 @@ public:
 };
 
 
-TEST_F(GameVariablesTests, test){
+TEST_F(GameVariablesTests, CheckDeckHas52Cards){
     GameVariables variables;
-    variables.getPot();
+    const Deck& deck = variables.getDeck();
+    ASSERT_EQ(52, deck.size());
 
 }
 

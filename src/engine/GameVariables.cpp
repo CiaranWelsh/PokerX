@@ -89,8 +89,8 @@ namespace pokerx {
         setAmountToCall(0);
         setBetPlaced(false);
         setStreet(PREFLOP_STREET);
-        setDeck(Deck());
-//        setDone(false); // no, this is only for a hard reset
+        getDeck().reset();
+//        setDone(false); // no, this is only for a hard reset (end of epoch)
     }
 
     bool GameVariables::isDone() const {
@@ -113,8 +113,10 @@ namespace pokerx {
         return currencySymbol_;
     }
 
-    void GameVariables::setCurrencySymbol(bool symbol) {
+    void GameVariables::setCurrencySymbol(const std::string& symbol) {
         currencySymbol_ = symbol;
     }
+
+
 
 }

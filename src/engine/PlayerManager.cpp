@@ -20,11 +20,18 @@ namespace pokerx {
         }
     }
 
-    bool PlayerManager::allPlayersEqual() const {
+    bool PlayerManager::allPlayersEqual() {
         std::vector<float> amounts;
         for (const auto &player : contents_) {
-            if (!player->hasFolded() || !player->isSittingOut() )
-                amounts.push_back(player->getAmountContrib());
+            // if the player has folded continue
+            if (player->hasFolded())
+                continue;
+
+            // if player is sitting out, continue
+            if (player->isSittingOut())
+                continue;
+
+            amounts.push_back(player->getAmountContrib());
         }
 
         bool equal = false;
@@ -32,6 +39,20 @@ namespace pokerx {
             equal = true;
         }
         return equal;
+    }
+
+    bool PlayerManager::allPlayersTakenAtLeastOneTurn() {
+        std::vector<int> turnCounts;
+        for (auto &player : contents_) {
+            turnCounts.push_back(player->getNumActionsThisStreet());
+        }
+        bool allPlayersTakenAtLeastOneTurn = true;
+        if (std::find_if(turnCounts.begin(), turnCounts.end(), [](int x) {
+            return x == 0;
+        }) != turnCounts.end()) {
+            allPlayersTakenAtLeastOneTurn = false;
+        }
+        return allPlayersTakenAtLeastOneTurn;
     }
 
 
@@ -54,7 +75,6 @@ namespace pokerx {
     }
 
     void PlayerManager::nextPlayer() {
-//        seg sault somwhere herer
         // if button index == vector size -1: btn is 0
         if (getCurrentPlayerIdx() == size() - 1) {
             setCurrentPlayerIdx(0);
@@ -63,7 +83,7 @@ namespace pokerx {
             setCurrentPlayerIdx(getCurrentPlayerIdx() + 1);
         }
         // now check if player is sitting out or folded and recurse if needed
-        if(getCurrentPlayer()->hasFolded() || getCurrentPlayer()->isSittingOut()){
+        if (getCurrentPlayer()->hasFolded() || getCurrentPlayer()->isSittingOut()) {
             nextPlayer();
         }
     }
@@ -90,12 +110,12 @@ namespace pokerx {
     }
 
     int PlayerManager::getIndexOfPlayer(const SharedIPlayerPtr &player) {
-        const std::string& name = player->getName();
+        const std::string &name = player->getName();
         auto iter = std::find(contents_.begin(), contents_.end(), player);
-        if (iter == contents_.end()){
-            LOGIC_ERROR << "Player \"" << name  << "\" not in this PlayerManager. "
-                                                               "These are available players: "
-                                                               "" << *this << std::endl;
+        if (iter == contents_.end()) {
+            LOGIC_ERROR << "Player \"" << name << "\" not in this PlayerManager. "
+                                                  "These are available players: "
+                                                  "" << *this << std::endl;
         }
         return std::distance(contents_.begin(), iter);
     }
@@ -123,13 +143,13 @@ namespace pokerx {
                     << ". These are your players: " << *this << std::endl;
     }
 
-    SharedIPlayerPtr PlayerManager::getButton(){
+    SharedIPlayerPtr PlayerManager::getButton() {
         return getPlayer(0);
     }
 
-    void PlayerManager::setButton(std::string playerName){
+    void PlayerManager::setButton(std::string playerName) {
         auto player = getPlayerByName(playerName);
-        while(getIndexOfPlayer(player) != 0){
+        while (getIndexOfPlayer(player) != 0) {
             rotateContainerContents();
         }
 
@@ -174,21 +194,21 @@ namespace pokerx {
     }
 
     void PlayerManager::resetAmountContribThisStreet() {
-        for(const auto& player: contents_){
+        for (const auto &player: contents_) {
             player->setAmountContrib(0.0);
         }
     }
 
     std::vector<Hand> PlayerManager::getPlayerHands() {
         std::vector<Hand> hands;
-        for (const auto& player: contents_){
+        for (const auto &player: contents_) {
             hands.emplace_back(Hand(player->getHand()));
         }
         return std::vector<Hand>();
     }
 
-    void PlayerManager::reset(){
-        for (const auto& player: contents_){
+    void PlayerManager::reset() {
+        for (const auto &player: contents_) {
             player->reset();
         }
     }
@@ -198,7 +218,7 @@ namespace pokerx {
     }
 
     SharedIPlayerPtr PlayerManager::getBigBlind() {
-        if (size() == 2){
+        if (size() == 2) {
             return getPlayer(0);
         }
         return getPlayer(2);

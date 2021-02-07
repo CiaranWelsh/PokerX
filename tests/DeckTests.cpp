@@ -50,6 +50,23 @@ TEST_F(DeckTests, TestGetFirstCardInDeck) {
     delete card;
 }
 
+TEST_F(DeckTests, TestCreateNewDeck) {
+    Deck deck;
+    ASSERT_EQ(52, deck.size());
+    Deck deck2;
+    deck = deck2;
+    ASSERT_EQ(52, deck2.size());
+}
+
+TEST_F(DeckTests, TestResetCards) {
+    Deck deck;
+    ASSERT_EQ(52, deck.size());
+    deck.pop(5);
+    ASSERT_EQ(47, deck.size());
+    deck.reset();
+    ASSERT_EQ(52, deck.size());
+}
+
 
 
 

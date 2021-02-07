@@ -15,8 +15,8 @@ namespace pokerx {
     Policy::Policy(std::vector<Action> actions)
             : actions_(std::move(actions)) {}
 
-    Policy::Policy(std::vector<Action>  actions, std::vector<float>  raiseAmounts)
-            : actions_(std::move(actions)), raiseAmounts_(std::move(raiseAmounts)){}
+    Policy::Policy(std::vector<Action> actions, std::vector<float> raiseAmounts)
+            : actions_(std::move(actions)), raiseAmounts_(std::move(raiseAmounts)) {}
 
     const std::vector<Action> &Policy::getActions() const {
         return actions_;
@@ -47,5 +47,16 @@ namespace pokerx {
     void Policy::setNextAction(int nextAction) {
         nextAction_ = nextAction;
     }
+
+    float Policy::getNextRaiseAmount() {
+        float amount = getRaiseAmounts()[nextRaise_];
+        if (nextRaise_ == raiseAmounts_.size() - 1) {
+            nextRaise_ = 0;
+        } else {
+            nextRaise_ += 1; // increment raise slot
+        }
+        return amount;
+    }
+
 
 }

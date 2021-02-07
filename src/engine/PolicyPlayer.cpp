@@ -8,12 +8,11 @@
 namespace pokerx {
 
     Action pokerx::PolicyPlayer::selectAction(StateMachine *engine) {
-        Policy p= getPolicy();
-        return p.nextAction();
+        return getPolicy()->nextAction();
     }
 
     float pokerx::PolicyPlayer::raise() {
-        float amount = gameVariables_->getAmountToCall() * 3;
+        float amount = getPolicy()->getNextRaiseAmount();
         doRaise(amount);
         return amount;
     }

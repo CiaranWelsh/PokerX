@@ -39,9 +39,18 @@ namespace pokerx {
     }
 
     Deck::~Deck() {
+        deleteCards();
+    }
+
+    void Deck::deleteCards(){
         for (auto &it: cards_) {
             delete it;
         }
+    }
+
+    void Deck::reset(){
+        deleteCards();
+        cards_ = buildDeck();
     }
 
     Deck::Deck(const Deck &deck) {

@@ -12,7 +12,7 @@
 namespace pokerx {
 
     void SmallBlind::enter(StateMachine *machine) {
-        std::cout << "Entering SmallBlind" << std::endl;
+
     }
 
     void SmallBlind::action(StateMachine *machine) {

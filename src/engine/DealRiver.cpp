@@ -8,14 +8,19 @@
 namespace pokerx {
 
     void DealRiver::enter(StateMachine *machine) {
-        std::cout << "Entering DealRiver" << std::endl;
+
     }
 
     void DealRiver::action(StateMachine *machine) {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        // liskov wouldn't be happy with this
-        engine->dealRiver();
+        ICard* river = engine->dealRiver();
+        std::cout << "*** RIVER *** " << *river << std::endl;
+        CardCollection community = engine->getGameVariables()->getCommunityCards();
+        community.add(river);
+
+        engine->getGameVariables()->setCommunityCards(community);
+
         machine->setState(EnterStreet::getInstance());
     }
 

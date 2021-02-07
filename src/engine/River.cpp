@@ -14,7 +14,7 @@
 namespace pokerx {
 
     void River::enter(StateMachine *machine) {
-        std::cout << "Entering River" << std::endl;
+
 
     }
 

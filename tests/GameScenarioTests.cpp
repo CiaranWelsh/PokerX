@@ -93,7 +93,7 @@ TEST_F(GameScenarioTests, TestRaiserAfterCall) {
  *       Lord_Antoan: folds
  *       DrLevty: checks
  *       *** FLOP *** [Td Jd 2h]
- *       DrLevty: checks
+ *          DrLevty: checks
  *       Ohhh Jeee: bets $0.24
  *       DrLevty: calls $0.24
  *       *** TURN *** [Td Jd 2h] [7c]
@@ -146,7 +146,7 @@ TEST_F(GameScenarioTests, TestRealGame1){
     // button is always player 0, but the table rotates when game starts
     // so current player index should always start at 1 for the sb.
 //    ASSERT_EQ(1, players.getCurrentPlayerIdx());
-    while(engine.getState()->getType() != PLAYER_TO_ACT_STATE){
+    while(engine.getState()->getType() != DEAL_FLOP_STATE ){
         engine.action();
     }
 

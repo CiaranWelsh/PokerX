@@ -15,7 +15,7 @@ namespace pokerx {
     public:
         using RotatoryContainer<SharedPlayerPtr>::RotatoryContainer;
 
-        [[nodiscard]] virtual bool allPlayersEqual() const = 0;
+        [[nodiscard]] virtual bool allPlayersEqual() = 0;
 
         [[nodiscard]] virtual SharedPlayerPtr getCurrentPlayer() const = 0;
 
@@ -58,6 +58,8 @@ namespace pokerx {
         virtual SharedIPlayerPtr getSmallBlind() = 0;
 
         virtual SharedIPlayerPtr getBigBlind() = 0;
+
+        virtual bool allPlayersTakenAtLeastOneTurn() = 0;
 
 
     protected:

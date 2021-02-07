@@ -8,20 +8,21 @@
 namespace pokerx {
 
     void EnterStreet::enter(StateMachine *machine) {
-        std::cout << "Entering EnterStreet" << std::endl;
+
     }
 
     void EnterStreet::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
-        /**
-         * Maybe this State isn't needed. Since it gives us options
-         * to customize what happens depending on street later on
-         * I'll leave it in for now. If this is not needed we can easily
-         * remove
-         */
-
+        // we reset the number of actions for each player still in the game
+        for (const auto& player: *engine->getPlayers()){
+            // this logic is hard to visualise - so storing it in a variable helps for looking with debugger
+            bool truth = !player->hasFolded() && !player->isSittingOut();
+            if (truth){
+                player->setNumActionsThisStreet(0);
+            }
+        }
         engine->setState(PlayerToAct::getInstance());
     }
 

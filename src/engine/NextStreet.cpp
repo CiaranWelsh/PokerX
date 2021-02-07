@@ -12,7 +12,7 @@
 namespace pokerx {
 
     void NextStreet::enter(StateMachine *machine) {
-        std::cout << "Entering NextStreet" << std::endl;
+
     }
 
     void NextStreet::action(StateMachine *machine) {
@@ -45,7 +45,6 @@ namespace pokerx {
     }
 
     void NextStreet::exit(StateMachine *machine) {
-        PokerEngine::nextPlayer(machine);
     }
 
     NextStreet &NextStreet::getInstance() {

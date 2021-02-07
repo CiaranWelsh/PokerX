@@ -76,9 +76,13 @@ namespace pokerx {
 
         void doRaise(float amountToRaiseTo) override;
 
-        [[nodiscard]] const Policy &getPolicy() const override;
+        [[nodiscard]] Policy * getPolicy() override;
 
         void setPolicy(const Policy &policy) override;
+
+        [[nodiscard]] unsigned int getNumActionsThisStreet() const override;
+
+        void setNumActionsThisStreet(unsigned int numActionsThisStreet) override;
 
     protected:
 

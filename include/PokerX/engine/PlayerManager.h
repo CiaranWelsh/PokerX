@@ -42,7 +42,7 @@ namespace pokerx {
 
         void add(SharedPlayerPtr player) override;
 
-        [[nodiscard]] bool allPlayersEqual() const override;
+        [[nodiscard]] bool allPlayersEqual() override;
 
         [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const override;
 
@@ -125,6 +125,13 @@ namespace pokerx {
         SharedIPlayerPtr getSmallBlind() override;
 
         SharedIPlayerPtr getBigBlind() override;
+
+        /**
+         * @brief indicator method that returns true
+         * when all players have taken at least 1 turn this
+         * street.
+         */
+        bool allPlayersTakenAtLeastOneTurn() override;
     };
 }
 

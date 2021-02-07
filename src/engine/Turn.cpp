@@ -12,7 +12,7 @@
 namespace pokerx {
 
     void Turn::enter(StateMachine *machine) {
-        std::cout << "Entering Turn" << std::endl;
+
 
     }
 

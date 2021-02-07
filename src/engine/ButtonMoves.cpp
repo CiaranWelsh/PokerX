@@ -15,7 +15,7 @@ namespace pokerx {
          * Todo, implement a StateObserver for logging
          * the game.
          */
-        std::cout << "Entering ButtonMoves" << std::endl;
+
     }
 
     void ButtonMoves::action(StateMachine *machine) {

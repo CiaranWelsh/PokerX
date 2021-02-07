@@ -1,16 +1,15 @@
 
 #include <iostream>
 #include "PokerX/engine/AllPlayersEqual.h"
-#include "PokerX/engine/EndStreet.h"
+#include "PokerX/engine/NextStreet.h"
 #include "PokerX/engine/PlayerToAct.h"
 #include "PokerX/engine/PokerEngine.h"
 
 namespace pokerx {
 
     void AllPlayersEqual::enter(StateMachine *machine) {
-        std::cout << "Entering AllPlayersEqual" << std::endl;
-    }
 
+    }
 
 
     void AllPlayersEqual::action(StateMachine *machine) {
@@ -21,12 +20,15 @@ namespace pokerx {
         IPlayerManager *playerManager = engine->getPlayers();
 
         bool all_players_equal = playerManager->allPlayersEqual();
+        bool allPlayersPlayedAtLeastOneActionThisRound = playerManager->allPlayersTakenAtLeastOneTurn();
 
-        if (all_players_equal) {
-            // if all players are equal we end the street
-            engine->setState(EndStreet::getInstance());
+        if (all_players_equal && allPlayersPlayedAtLeastOneActionThisRound) {
+            // if all players are equal
+            // and everyone has played an action (including check) then we move on to next street
+            engine->setState(NextStreet::getInstance());
         } else {
             // otherwise we go get the next player
+            engine->getPlayers()->nextPlayer();
             engine->setState(PlayerToAct::getInstance());
         }
     }

@@ -14,7 +14,7 @@
 namespace pokerx {
 
     void Flop::enter(StateMachine *machine) {
-        std::cout << "Entering Flop" << std::endl;
+
 
     }
 

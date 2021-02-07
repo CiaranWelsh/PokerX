@@ -12,7 +12,7 @@
 namespace pokerx {
 
     void PreflopBetting::enter(StateMachine *machine) {
-        std::cout << "Entering Preflop Betting" << std::endl;
+
 
     }
 
