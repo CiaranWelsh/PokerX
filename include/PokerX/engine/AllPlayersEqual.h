@@ -10,6 +10,8 @@
 
 namespace pokerx {
 
+    // todo rename this class something more appropriate
+
     class AllPlayersEqual : public State {
     public:
 

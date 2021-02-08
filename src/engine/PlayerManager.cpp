@@ -224,5 +224,19 @@ namespace pokerx {
         return getPlayer(2);
     }
 
+    int PlayerManager::getNumPlayersStillInPot(){
+        int count = 0;
+        for (auto& player: contents_){
+            if (player->isSittingOut()){
+                continue;
+            }
+            if (player->hasFolded()){
+                continue;
+            }
+            count += 1;
+        }
+        return count;
+    }
+
 
 }

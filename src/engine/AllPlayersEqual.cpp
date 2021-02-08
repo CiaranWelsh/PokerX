@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <PokerX/engine/Showdown.h>
 #include "PokerX/engine/AllPlayersEqual.h"
 #include "PokerX/engine/NextStreet.h"
 #include "PokerX/engine/PlayerToAct.h"
@@ -18,6 +19,12 @@ namespace pokerx {
 
         // get reference to the Player manager
         IPlayerManager *playerManager = engine->getPlayers();
+
+        // if everyone else has folded we have a winner
+        if (playerManager->getNumPlayersStillInPot() == 1) {
+            engine->setState(Showdown::getInstance());
+            return;
+        }
 
         bool all_players_equal = playerManager->allPlayersEqual();
         bool allPlayersPlayedAtLeastOneActionThisRound = playerManager->allPlayersTakenAtLeastOneTurn();

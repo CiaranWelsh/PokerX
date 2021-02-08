@@ -15,8 +15,9 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         ICard* river = engine->dealRiver();
-        std::cout << "*** RIVER *** " << *river << std::endl;
+
         CardCollection community = engine->getGameVariables()->getCommunityCards();
+        std::cout << "*** RIVER *** " << community << "  [" << *river << "]" << std::endl;
         community.add(river);
 
         engine->getGameVariables()->setCommunityCards(community);

@@ -21,6 +21,7 @@ namespace pokerx {
             bool truth = !player->hasFolded() && !player->isSittingOut();
             if (truth){
                 player->setNumActionsThisStreet(0);
+                engine->getGameVariables()->setBetPlaced(false);
             }
         }
         engine->setState(PlayerToAct::getInstance());

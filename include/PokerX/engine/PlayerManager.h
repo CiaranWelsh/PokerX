@@ -132,6 +132,8 @@ namespace pokerx {
          * street.
          */
         bool allPlayersTakenAtLeastOneTurn() override;
+
+        int getNumPlayersStillInPot();
     };
 }
 

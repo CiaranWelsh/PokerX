@@ -146,9 +146,9 @@ TEST_F(GameScenarioTests, TestRealGame1){
     // button is always player 0, but the table rotates when game starts
     // so current player index should always start at 1 for the sb.
 //    ASSERT_EQ(1, players.getCurrentPlayerIdx());
-    while(engine.getState()->getType() != DEAL_FLOP_STATE ){
-        engine.action();
-    }
+//    while(engine.getState()->getType() != TURN_STATE ){
+//        engine.action();
+//    }
 
     // next player needs to ignore folded or sitting out individuals
     while(!gameVariables.isDone()){

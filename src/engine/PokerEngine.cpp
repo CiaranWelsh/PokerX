@@ -47,7 +47,6 @@ namespace pokerx {
 
     void PokerEngine::action() {
         state_->action(this);
-
     }
 
     void PokerEngine::action(unsigned int times) {
@@ -140,7 +139,29 @@ namespace pokerx {
     }
     void PokerEngine::determineWinner() {
         Evaluator eval;
-        eval.evaluate(players_->getPlayerHands());
+        auto [winnerIdx, hand] = eval.evaluate(players_->getPlayerHands());
+        std::cout << "winner is " << winnerIdx << " with " << hand << std::endl;
+
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
