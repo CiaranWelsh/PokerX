@@ -34,6 +34,11 @@ namespace pokerx {
          */
         [[nodiscard]] HandType getType() const;
 
+        /**
+         * @brief returns the hand type as a string
+         */
+        static std::string getHandTypeStr(HandType type);
+
         bool operator==(const Hand& other)  const;
 
         bool operator!=(const Hand &other) const;

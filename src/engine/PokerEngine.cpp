@@ -46,7 +46,19 @@ namespace pokerx {
     }
 
     void PokerEngine::action() {
-        state_->action(this);
+        // when its time to take player input we just call action, since we
+        // only want to take one action set. Also at showdown we also only want to execute
+        // showdown action
+        if (state_->getType() == PLAYER_TO_ACT_STATE | state_->getType() == SHOWDOWN_STATE) {
+            state_->action(this);
+        }
+
+        // otherwise we keep turning the wheel until its a players turn to act
+        // so that users only see the player action states
+        while ((state_->getType() != PLAYER_TO_ACT_STATE) && !gameVariables_->isDone()) {
+            state_->action(this);
+        }
+
     }
 
     void PokerEngine::action(unsigned int times) {
@@ -120,7 +132,7 @@ namespace pokerx {
 
     }
 
-    ICard* PokerEngine::dealTurn() const {
+    ICard *PokerEngine::dealTurn() const {
         Deck &deck = getGameVariables()->getDeck();
         // discard top card
         deck.pop();
@@ -129,7 +141,7 @@ namespace pokerx {
 
     }
 
-    ICard* PokerEngine::dealRiver() const {
+    ICard *PokerEngine::dealRiver() const {
         Deck &deck = getGameVariables()->getDeck();
         // discard top card
         deck.pop();
@@ -137,9 +149,10 @@ namespace pokerx {
         return deck.pop();
 
     }
+
     void PokerEngine::determineWinner() {
         Evaluator eval;
-        auto [winnerIdx, hand] = eval.evaluate(players_->getPlayerHands());
+        auto[winnerIdx, hand] = eval.evaluate(players_->getPlayerHands());
         std::cout << "winner is " << winnerIdx << " with " << hand << std::endl;
 
     }

@@ -11,8 +11,10 @@
 #include <random>
 #include <set>
 #include "PokerX/engine/CardCollection.h"
+#include "PokerX/engine/RandomNumberGenerator.h"
 #include "PokerX/Error.h"
 #include "pokerx_export.h"
+
 
 
 namespace pokerx {
@@ -191,10 +193,7 @@ namespace pokerx {
     }
 
     CardCollection *CardCollection::shuffle() {
-        // obtain a time-based seed:
-        unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
-        std::default_random_engine e(seed);
-        std::shuffle(std::begin(cards_), std::end(cards_), e);
+        std::shuffle(std::begin(cards_), std::end(cards_), RandomNumberGenerator::getInstance().getGenerator());
         return this;
     }
 

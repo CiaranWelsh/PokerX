@@ -2,8 +2,8 @@
 // Created by Ciaran on 18/01/2021.
 //
 
-#ifndef POKERX_ENTERSTREET_H
-#define POKERX_ENTERSTREET_H
+#ifndef POKERX_STREETSTART_H
+#define POKERX_STREETSTART_H
 
 
 
@@ -12,10 +12,10 @@
 
 namespace pokerx {
 
-    class EnterStreet : public State {
+    class StreetStart : public State {
     public:
 
-        ~EnterStreet() override = default;
+        ~StreetStart() override = default;
 
         void enter(StateMachine *machine) override;
 
@@ -25,10 +25,10 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static EnterStreet& getInstance();
+        static StreetStart& getInstance();
 
     private:
-        EnterStreet() = default;
+        StreetStart() = default;
 
     };
 
@@ -36,4 +36,4 @@ namespace pokerx {
 
 
 
-#endif //POKERX_ENTERSTREET_H
+#endif //POKERX_STREETSTART_H

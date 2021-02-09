@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/DealTurn.h"
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PokerEngine.h"
 
 namespace pokerx {
@@ -18,7 +18,7 @@ namespace pokerx {
         std::cout << "*** TURN *** " << community << "  [" << *turn << "]" << std::endl;
         community.add(turn);
         engine->getGameVariables()->setCommunityCards(community);
-        machine->setState(EnterStreet::getInstance());
+        machine->setState(StreetStart::getInstance());
     }
 
     void DealTurn::exit(StateMachine *machine) {}

@@ -3,6 +3,7 @@
 //
 
 #include <PokerX/engine/Deck.h>
+#include <PokerX/engine/RandomNumberGenerator.h>
 #include "PokerX/engine/GameVariables.h"
 
 
@@ -117,7 +118,9 @@ namespace pokerx {
         currencySymbol_ = symbol;
     }
 
-
+    void GameVariables::setSeed(unsigned long long int seed) {
+        RandomNumberGenerator::getInstance().setSeed(seed);
+    }
 
 
 }

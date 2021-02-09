@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/DealRiver.h"
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -22,7 +22,7 @@ namespace pokerx {
 
         engine->getGameVariables()->setCommunityCards(community);
 
-        machine->setState(EnterStreet::getInstance());
+        machine->setState(StreetStart::getInstance());
     }
 
     void DealRiver::exit(StateMachine *machine) {}

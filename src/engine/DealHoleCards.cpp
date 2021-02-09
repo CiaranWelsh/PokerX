@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/DealHoleCards.h"
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PokerEngine.h"
 
 namespace pokerx {
@@ -16,7 +16,7 @@ namespace pokerx {
         // liskov wouldn't be happy with this (nerd)
         std::cout << "*** HOLE CARDS ***" << std::endl;
         engine->dealHoleCards();
-        machine->setState(EnterStreet::getInstance());
+        machine->setState(StreetStart::getInstance());
     }
 
     void DealHoleCards::exit(StateMachine *machine) {}

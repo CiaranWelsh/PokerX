@@ -19,4 +19,6 @@ enum HandType {
     ROYAL_FLUSH = 10,
 };
 
+
+
 #endif //POKERX_HANDTYPE_H

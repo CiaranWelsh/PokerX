@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include "PokerX/engine/DealFlop.h"
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -18,7 +18,7 @@ namespace pokerx {
         CardCollection flop = engine->dealFlop();
         std::cout << "*** FLOP *** " << flop << std::endl;
         engine->getGameVariables()->setCommunityCards(flop);
-        machine->setState(EnterStreet::getInstance());
+        machine->setState(StreetStart::getInstance());
     }
 
     void DealFlop::exit(StateMachine *machine) {}

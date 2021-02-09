@@ -47,22 +47,18 @@ namespace pokerx {
             }
 
             case CALL : {
-                // todo need to add amount called to players amountContrib attribute
-                // todo check available and bet placed actually indicate the same things. Consolidate.
-                player->call();
-//                engine->getGameVariables()->setCheckAvailable(false);
-                engine->getGameVariables()->setBetPlaced(true);
                 std::cout << player->getName() << ": calls "
                     << player->getGameVariables()->getCurrencySymbol()
-                    << player->getGameVariables()->getAmountToCall() << std::endl;
+                    << player->getGameVariables()->getAmountToCall()
+                        - player->getAmountContrib() << std::endl;
+                player->call();
+                engine->getGameVariables()->setBetPlaced(true);
                 break;
             }
 
             case RAISE : {
 
-                // make riase return amount to raise to and implement the loic i need here
                 float amountToRaiseTo = player->raise();
-//                engine->getGameVariables()->setCheckAvailable(false);
                 // if no one has bet yet is "bets", if someone already bet then its raises
                 if (engine->getGameVariables()->hasBetBeenPlaced()) {
                     std::cout << player->getName() << ": raises "

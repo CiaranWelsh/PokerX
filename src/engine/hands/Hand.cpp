@@ -49,6 +49,23 @@ namespace pokerx {
         }
     }
 
+    std::string Hand::getHandTypeStr(HandType type){
+        std::string handTypeStrings[11] = {
+                "No Hand",
+                "High Card",
+                "Pair",
+                "Two Pair",
+                "Three of a Kind",
+                "Straight",
+                "Flush",
+                "Full House",
+                "Four of a Kind",
+                "Straight Flush",
+                "Royal Flush",
+        };
+        return handTypeStrings[type];
+    }
+
     bool Hand::isHighCard() const {
         return true;
     }

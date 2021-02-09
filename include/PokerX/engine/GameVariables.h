@@ -72,7 +72,7 @@ namespace pokerx {
         void setCurrencySymbol(const std::string& symbol) override;
 
 
-
+        void setSeed(unsigned long long seed) override;
     };
 }
 

@@ -41,7 +41,7 @@
 #include "PokerX/engine/River.h"
 #include "PokerX/engine/Showdown.h"
 #include "PokerX/engine/SmallBlind.h"
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/StateMachine.h"
 #include "PokerX/engine/StreetMachine.h"

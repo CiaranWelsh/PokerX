@@ -152,8 +152,8 @@ namespace pokerx {
         while (getIndexOfPlayer(player) != 0) {
             rotateContainerContents();
         }
-
     }
+
 
     std::vector<std::string> PlayerManager::getPlayerNames() {
         std::vector<std::string> names;
@@ -204,7 +204,7 @@ namespace pokerx {
         for (const auto &player: contents_) {
             hands.emplace_back(Hand(player->getHand()));
         }
-        return std::vector<Hand>();
+        return hands;
     }
 
     void PlayerManager::reset() {

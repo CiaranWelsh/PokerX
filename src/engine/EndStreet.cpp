@@ -2,7 +2,7 @@
 #include <iostream>
 #include <PokerX/engine/NextStreet.h>
 #include "PokerX/engine/EndStreet.h"
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PokerEngine.h"
 
 namespace pokerx {

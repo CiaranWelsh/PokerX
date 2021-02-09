@@ -1,17 +1,17 @@
 
 #include <iostream>
-#include "PokerX/engine/EnterStreet.h"
+#include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PlayerToAct.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/eGamePlayState.h"
 
 namespace pokerx {
 
-    void EnterStreet::enter(StateMachine *machine) {
+    void StreetStart::enter(StateMachine *machine) {
 
     }
 
-    void EnterStreet::action(StateMachine *machine) {
+    void StreetStart::action(StateMachine *machine) {
 
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
@@ -22,19 +22,21 @@ namespace pokerx {
             if (truth){
                 player->setNumActionsThisStreet(0);
                 engine->getGameVariables()->setBetPlaced(false);
+                player->setAmountContrib(0);
             }
         }
+        engine->getGameVariables()->setAmountToCall(0);
         engine->setState(PlayerToAct::getInstance());
     }
 
-    void EnterStreet::exit(StateMachine *machine) {}
+    void StreetStart::exit(StateMachine *machine) {}
 
-    EnterStreet &EnterStreet::getInstance() {
-        static EnterStreet singleton;
+    StreetStart &StreetStart::getInstance() {
+        static StreetStart singleton;
         return singleton;
     }
 
-    unsigned int EnterStreet::getType() const {
+    unsigned int StreetStart::getType() const {
         return START_STREET_STATE;
     }
 }

@@ -83,10 +83,11 @@ add_library(
         include/PokerX/engine/PlayerManager.h
         include/PokerX/engine/Reset.h
         include/PokerX/engine/RestrictedCardCollection.h
+        include/PokerX/engine/RandomNumberGenerator.h
         include/PokerX/engine/River.h
         include/PokerX/engine/Showdown.h
         include/PokerX/engine/SmallBlind.h
-        include/PokerX/engine/EnterStreet.h
+        include/PokerX/engine/StreetStart.h
         include/PokerX/engine/State.h
         include/PokerX/engine/StateMachine.h
         include/PokerX/engine/StreetMachine.h
@@ -137,13 +138,14 @@ add_library(
         src/engine/PreflopBetting.cpp
         src/engine/Player.cpp
         src/engine/PlayerManager.cpp
+        src/engine/RandomNumberGenerator.cpp
         src/engine/RaiserPlayer.cpp
         src/engine/Reset.cpp
         src/engine/RestrictedCardCollection.cpp
         src/engine/River.cpp
         src/engine/Showdown.cpp
         src/engine/SmallBlind.cpp
-        src/engine/EnterStreet.cpp
+        src/engine/StreetStart.cpp
         src/engine/StateMachine.cpp
         src/engine/StreetMachine.cpp
         src/engine/Turn.cpp

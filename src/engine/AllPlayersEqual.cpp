@@ -33,10 +33,18 @@ namespace pokerx {
             // if all players are equal
             // and everyone has played an action (including check) then we move on to next street
             engine->setState(NextStreet::getInstance());
+            // when we change street, we need to start again left of the dealer.
+            // so we go to the dealer
+            engine->getPlayers()->setCurrentPlayerByName(
+                    engine->getPlayers()->getButton()->getName()
+            );
+            // and hit next player (which recursively bypasses players who are not in the game
+            engine->getPlayers()->nextPlayer();
+
         } else {
             // otherwise we go get the next player
-            engine->getPlayers()->nextPlayer();
             engine->setState(PlayerToAct::getInstance());
+            engine->getPlayers()->nextPlayer();
         }
     }
 

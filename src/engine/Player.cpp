@@ -93,7 +93,8 @@ namespace pokerx {
 
     void Player::call() {
         checkGameVariablesNotNull();
-        const float &amount = gameVariables_->getAmountToCall();
+        // amount to call is alwas the amount already contributed minus
+        const float &amount = gameVariables_->getAmountToCall() - amountContrib_;
         if (amount > stack_){
             RUNTIME_ERROR << "Amount to call is greater than your stack" << std::endl;
         } else if(amount == stack_)

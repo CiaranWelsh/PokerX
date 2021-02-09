@@ -77,6 +77,8 @@ namespace pokerx {
 
         virtual void setCurrencySymbol(const std::string& symbol) = 0 ;
 
+        virtual void setSeed(unsigned long long seed) = 0;
+
     protected:
 
         /**
