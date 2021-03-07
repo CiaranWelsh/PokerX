@@ -1,4 +1,9 @@
 #include <utility>
+#include <PokerX/engine/SmallBlind.h>
+#include <PokerX/engine/BigBlind.h>
+#include <PokerX/engine/DealHoleCards.h>
+#include <PokerX/engine/Deck.h>
+#include <PokerX/engine/HoleCards.h>
 
 #include "gtest/gtest.h"
 #include "Mockups/MockGameVariables.h"
@@ -6,6 +11,20 @@
 #include "Mockups/MockPlayer.h"
 #include "PokerX/engine/PokerEngine.h"
 #include "PokerX/engine/Pot.h" // not mocked. Too simple.
+
+// state includes
+#include "PokerX/engine/Reset.h"
+#include "PokerX/engine/ButtonMoves.h"
+
+/**
+ * This set of tests focuses on
+ * testing the poker engine up to preflop
+ * stage of the game. We use mocked versions
+ * of the GameVariables, PlayerManager and Player
+ * types but the real version of poker engine States.
+ * I.e. the States are considered a part of this test
+ * as they need to be doing the right thing
+ */
 
 
 class PreflopTests : public ::testing::Test {
@@ -18,6 +37,7 @@ public:
     std::shared_ptr<MockPlayer> p4;
     std::shared_ptr<MockPlayer> p5;
     std::shared_ptr<MockPlayer> p6;
+
     PreflopTests() {
         p1 = makePlayer("DrLevty", 10.01);
         p2 = makePlayer("OhhhJeee", 4.86);
@@ -25,14 +45,41 @@ public:
         p4 = makePlayer("aka_Kranv1ch", 10);
         p5 = makePlayer("Malyar-88", 3.97);
         p6 = makePlayer("Lorn_Antoan", 10.25);
+
+        // set the button
+        ON_CALL(playerManager, getButton)
+                .WillByDefault(Return(p1));
+        ON_CALL(playerManager, getSmallBlind)
+                .WillByDefault(Return(p2));
+        ON_CALL(playerManager, getBigBlind)
+                .WillByDefault(Return(p3));
+
+        // define what playerManager returns when call to getPlayer
+        ON_CALL(playerManager, getPlayer(1))
+            .WillByDefault(Return(p1));
+        ON_CALL(playerManager, getPlayer(2))
+            .WillByDefault(Return(p2));
+        ON_CALL(playerManager, getPlayer(3))
+            .WillByDefault(Return(p3));
+        ON_CALL(playerManager, getPlayer(4))
+            .WillByDefault(Return(p4));
+        ON_CALL(playerManager, getPlayer(5))
+            .WillByDefault(Return(p5));
+        ON_CALL(playerManager, getPlayer(6))
+            .WillByDefault(Return(p6));
+
+        EXPECT_CALL(playerManager, watch)
+                .Times(1); // always gets called once
+        EXPECT_CALL(playerManager, nextPlayer)
+            .Times(AnyNumber());
     };
 
-    std::shared_ptr<MockPlayer> makePlayer(const std::string& name, float stack){
+    std::shared_ptr<MockPlayer> makePlayer(const std::string &name, float stack) {
         std::shared_ptr<MockPlayer> p = std::make_shared<MockPlayer>();
         ON_CALL(*p, getName)
-            .WillByDefault(ReturnRef(name));
+                .WillByDefault(ReturnRef(name));
         ON_CALL(*p, getStack)
-            .WillByDefault(Return(stack));
+                .WillByDefault(Return(stack));
         return p;
     }
 };
@@ -49,12 +96,7 @@ public:
  * Ohhh Jeee: posts small blind $0.05
  * gokudousan: posts big blind $0.10
  */
-TEST_F(PreflopTests, CheckSmallBlindPays5Cents){
-
-    // prime the pot for returning the correct amount
-    Pot pot(0.05);
-    ON_CALL(gameVariables, getPot)
-        .WillByDefault(ReturnRef(pot));
+TEST_F(PreflopTests, CheckEngineCallsReset) {
 
     // first call to action resets the game, calls watch for initialize observer
     // and gets the next player ready.
@@ -67,122 +109,145 @@ TEST_F(PreflopTests, CheckSmallBlindPays5Cents){
 
     PokerEngine engine(&playerManager, &gameVariables);
 
-    ON_CALL(playerManager, getCurrentPlayer)
-        .WillByDefault(Return(p2));
-    ASSERT_STREQ("Ohhh Jeee",
-            playerManager.getCurrentPlayer()->getName().c_str()
-    );
-
-
-
-    // get the SB player. Get his stack
-    // Get the pot an check amount
-
+    EXPECT_CALL(playerManager, nextPlayer);
 
     engine.action(1);
+    // note: the actual consequences of calling reset are tested elsewhere
+    // here we onnly ensure the interconnectively between engine and
+    // the reset state is what we expect.
+
+    ASSERT_EQ(engine.getState()->getType(), BUTTON_MOVES_STATE);
 
 }
 
+/**
+ * @brief the first time button moves is called, it is assumed
+ * that we are on game 0, and we have just started so the player
+ * who is currently the button, should stay the button.
+ * When numGamesPlayer > 0, move button will actually move the button,
+ * and this is the subject of CheckEngineCallsButtonMovesSecondTime
+ */
+TEST_F(PreflopTests, CheckEngineCallsButtonMovesFirstTime) {
+    Deck deck;
+    ON_CALL(playerManager, getCurrentPlayer)
+            .WillByDefault(Return(p1));
 
-//
-///**
-// * Interface for X
-// */
-//class AbstractX {
-//
-//    virtual int getNumber() const = 0;
-//};
-//
-//
-///**
-// * Holds a number
-// */
-//class X : public AbstractX {
-//public:
-//    X() = default;
-//    explicit X(int x): number(x){};
-//
-//    [[nodiscard]] int getNumber() const override {
-//        return number;
-//    }
-//private:
-//    int number;
-//};
-//
-///**
-// * Interfact for Y
-// */
-//class AbstractY {
-//
-//    virtual std::shared_ptr<X> getPtrToX() = 0;
-//};
-//
-///**
-// * Implementation of Y. Has method that returns shared
-// * pointer to X
-// */
-//class Y : public AbstractY{
-//public:
-//    Y() = default;
-//
-//    explicit Y(X x): xPtr(std::make_shared<X>(x)){};
-//
-//    std::shared_ptr<X> getPtrToX() override{
-//        return xPtr;
-//    }
-//
-//private:
-//    std::shared_ptr<X> xPtr;
-//};
-//
-//class MockedX : public AbstractX {
-//public:
-//    MOCK_METHOD(int, getNumber, (), (const, override));
-//
-//};
-//
-//class MockedY : public AbstractY {
-//public:
-//    MOCK_METHOD(std::shared_ptr<X>, getPtrToX, (), (override));
-//};
-//
-//
-///**
-// * Z uses both X and Y. When Z is under test,
-// * we use mocks of both X and Y.
-// */
-//class Z {
-//public:
-//    Z() = default;
-//
-//    Z(std::shared_ptr<AbstractX> x, std::shared_ptr<AbstractY> y)
-//        : x_(std::move(x)), y_(std::move(y)){};
-//
-//    void doSomethingCool(){
-//
-//    }
-//
-//private:
-//    std::shared_ptr<AbstractX> x_;
-//    std::shared_ptr<AbstractY> y_;
-//
-//};
-//
-//
-//TEST(UnitTestForZ, test){
-//    MockedY y;
-//    MockedX x;
-//    std::shared_ptr<MockedX> sharedX = std::make_shared<MockedX>(MockedX());
-//    //Z z(&x, &y);
-////    z.doSomethingCool();
-//
-//
-//
-//}
+    ON_CALL(gameVariables, numGamesPlayed)
+            .WillByDefault(Return(0));
 
+    PokerEngine engine(&playerManager, &gameVariables);
+    engine.setState(ButtonMoves::getInstance());
 
+    ASSERT_EQ(engine.getState()->getType(), BUTTON_MOVES_STATE);
 
+    engine.action(1);
 
+    ASSERT_EQ(SMALL_BLIND_STATE, engine.getState()->getType());
+
+}
+
+TEST_F(PreflopTests, CheckEngineCallsButtonMovesSecondTime) {
+    ON_CALL(playerManager, getCurrentPlayer)
+            .WillByDefault(Return(p1));
+
+    ON_CALL(gameVariables, numGamesPlayed)
+            .WillByDefault(Return(1));
+
+    PokerEngine engine(&playerManager, &gameVariables);
+    engine.setState(ButtonMoves::getInstance());
+
+    ASSERT_EQ(engine.getState()->getType(), BUTTON_MOVES_STATE);
+
+    EXPECT_CALL(playerManager, moveButton).Times(1);
+
+    engine.action(1);
+
+    ASSERT_EQ(SMALL_BLIND_STATE, engine.getState()->getType());
+}
+
+TEST_F(PreflopTests, CheckEngineCallsSmallBlind) {
+    EXPECT_CALL(playerManager, getCurrentPlayer)
+            .WillRepeatedly(Return(p2));
+
+    EXPECT_CALL(*p2, postSmallBlind)
+            .Times(1);
+
+    EXPECT_CALL(gameVariables, getSmallBlind)
+            .WillRepeatedly(Return(0.05));
+
+    EXPECT_CALL(gameVariables, getCurrencySymbol)
+            .WillRepeatedly(Return("$"));
+
+    PokerEngine engine(&playerManager, &gameVariables);
+    engine.setState(SmallBlind::getInstance());
+
+    ASSERT_EQ(engine.getState()->getType(), SMALL_BLIND_STATE);
+
+    engine.action(1);
+
+    ASSERT_EQ(BIG_BLIND_STATE, engine.getState()->getType());
+
+}
+
+TEST_F(PreflopTests, CheckEngineCallsBigBlind) {
+    EXPECT_CALL(playerManager, getCurrentPlayer)
+            .WillRepeatedly(Return(p3));
+
+    EXPECT_CALL(*p3, postBigBlind)
+            .Times(1);
+
+    EXPECT_CALL(gameVariables, getBigBlind)
+            .WillRepeatedly(Return(0.1));
+
+    EXPECT_CALL(gameVariables, getCurrencySymbol)
+            .WillRepeatedly(Return("$"));
+
+    PokerEngine engine(&playerManager, &gameVariables);
+    engine.setState(BigBlind::getInstance());
+
+    ASSERT_EQ(engine.getState()->getType(), BIG_BLIND_STATE);
+
+    engine.action(1);
+
+    ASSERT_EQ(DEAL_HOLE_CARDS_STATE, engine.getState()->getType());
+}
+
+TEST_F(PreflopTests, CheckDealHoleCards) {
+    EXPECT_CALL(playerManager, getCurrentPlayer)
+            .WillRepeatedly(Return(p4)); // UTG player
+
+    Deck deck;
+    EXPECT_CALL(gameVariables, getDeck)
+        .Times(1)
+        .WillRepeatedly(ReturnRef(deck));
+
+    HoleCards hc1;
+    EXPECT_CALL(*p1, getHoleCards)
+        .WillRepeatedly(ReturnRef(hc1));
+    HoleCards hc2;
+    EXPECT_CALL(*p2, getHoleCards)
+        .WillRepeatedly(ReturnRef(hc2));
+    HoleCards hc3;
+    EXPECT_CALL(*p3, getHoleCards)
+        .WillRepeatedly(ReturnRef(hc3));
+    HoleCards hc4;
+    EXPECT_CALL(*p4, getHoleCards)
+        .WillRepeatedly(ReturnRef(hc4));
+    HoleCards hc5;
+    EXPECT_CALL(*p5, getHoleCards)
+        .WillRepeatedly(ReturnRef(hc5));
+    HoleCards hc6;
+    EXPECT_CALL(*p6, getHoleCards)
+        .WillRepeatedly(ReturnRef(hc6));
+
+    PokerEngine engine(&playerManager, &gameVariables);
+    engine.setState(DealHoleCards::getInstance());
+
+    engine.action(1);
+
+    ASSERT_EQ(engine.getState()->getType(), START_STREET_STATE);
+
+}
 
 
 

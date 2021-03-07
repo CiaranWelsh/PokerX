@@ -63,7 +63,6 @@ public:
 
     MOCK_METHOD(bool, isSittingOut, (), (const, override));
     MOCK_METHOD(void, setSittingOut, (bool), (override));
-    MOCK_METHOD(HoleCards &, getHoleCards, (), (const override));
     MOCK_METHOD(float, getAmountContrib, (), (const, override));
     MOCK_METHOD(void, setAmountContrib, (float), (override));
     MOCK_METHOD(Hand, getHand, (), (override));

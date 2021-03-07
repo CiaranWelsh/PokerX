@@ -42,9 +42,7 @@ namespace pokerx {
         engine->setState(SmallBlind::getInstance());
     }
 
-    void ButtonMoves::exit(StateMachine *machine) {
-//        PokerEngine::nextPlayer(machine);
-    }
+    void ButtonMoves::exit(StateMachine *machine) {}
 
     unsigned int ButtonMoves::getType() const {
         return BUTTON_MOVES_STATE;
