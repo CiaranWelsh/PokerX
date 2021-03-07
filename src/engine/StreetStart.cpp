@@ -22,10 +22,18 @@ namespace pokerx {
             if (truth){
                 player->setNumActionsThisStreet(0);
                 engine->getGameVariables()->setBetPlaced(false);
-                player->setAmountContrib(0);
+                //player->setAmountContrib(0);
             }
         }
-        engine->getGameVariables()->setAmountToCall(0);
+        // set the amount to call variable to 0 for start of all streets
+        // except for PREFLOP when it is equa to big blind
+        if (engine->getGameVariables()->getStreet() == PREFLOP_STREET){
+            engine->getGameVariables()->setAmountToCall(
+                    engine->getGameVariables()->getBigBlind()
+            );
+        } else {
+            engine->getGameVariables()->setAmountToCall(0);
+        }
         engine->setState(PlayerToAct::getInstance());
     }
 

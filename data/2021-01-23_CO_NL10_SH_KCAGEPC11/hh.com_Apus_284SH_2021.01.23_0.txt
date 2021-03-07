@@ -1,0 +1,938 @@
+﻿PokerStars Hand #222948676946:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:31:01 ET
+Table 'Apus III' 6-max Seat #5 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10.42 in chips) 
+Seat 3: Microbiom ($9.55 in chips) 
+Seat 4: 1920kbps ($11.09 in chips) 
+Seat 5: chiaradia1206 ($10.91 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Artemka0055: posts small blind $0.05
+guro aye1234: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: raises $0.20 to $0.30
+Microbiom: raises $0.75 to $1.05
+1920kbps: folds 
+chiaradia1206: folds 
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: folds 
+Uncalled bet ($0.75) returned to Microbiom
+Microbiom collected $0.75 from pot
+Microbiom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: guro aye1234 (big blind) folded before Flop
+Seat 2: Cranzilla folded before Flop
+Seat 3: Microbiom collected ($0.75)
+Seat 4: 1920kbps folded before Flop (didn't bet)
+Seat 5: chiaradia1206 (button) folded before Flop (didn't bet)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948685543:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:31:33 ET
+Table 'Apus III' 6-max Seat #6 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10.12 in chips) 
+Seat 3: Microbiom ($10 in chips) 
+Seat 4: 1920kbps ($11.09 in chips) 
+Seat 5: chiaradia1206 ($10.91 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+guro aye1234: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+Microbiom: folds 
+1920kbps: raises $0.20 to $0.30
+chiaradia1206: calls $0.30
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: calls $0.20
+*** FLOP *** [5s 2s 7c]
+Cranzilla: checks 
+1920kbps: checks 
+chiaradia1206: checks 
+*** TURN *** [5s 2s 7c] [9d]
+Cranzilla: checks 
+1920kbps: checks 
+chiaradia1206: checks 
+*** RIVER *** [5s 2s 7c 9d] [Th]
+Cranzilla: checks 
+1920kbps: checks 
+chiaradia1206: checks 
+*** SHOW DOWN ***
+Cranzilla: shows [Js Qh] (high card Queen)
+1920kbps: shows [6c 6h] (a pair of Sixes)
+chiaradia1206: mucks hand 
+1920kbps collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [5s 2s 7c 9d Th]
+Seat 1: guro aye1234 (small blind) folded before Flop
+Seat 2: Cranzilla (big blind) showed [Js Qh] and lost with high card Queen
+Seat 3: Microbiom folded before Flop (didn't bet)
+Seat 4: 1920kbps showed [6c 6h] and won ($0.91) with a pair of Sixes
+Seat 5: chiaradia1206 mucked
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948695086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:32:09 ET
+Table 'Apus III' 6-max Seat #1 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10 in chips) 
+Seat 4: 1920kbps ($11.70 in chips) 
+Seat 5: chiaradia1206 ($10.61 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Cranzilla: posts small blind $0.05
+Microbiom: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+chiaradia1206: calls $0.10
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: folds 
+1920kbps is disconnected 
+Microbiom: raises $0.20 to $0.30
+chiaradia1206: calls $0.20
+*** FLOP *** [2c Jc 3h]
+Microbiom: bets $0.36
+chiaradia1206: folds 
+Uncalled bet ($0.36) returned to Microbiom
+Microbiom collected $0.62 from pot
+Microbiom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2c Jc 3h]
+Seat 1: guro aye1234 (button) folded before Flop (didn't bet)
+Seat 2: Cranzilla (small blind) folded before Flop
+Seat 3: Microbiom (big blind) collected ($0.62)
+Seat 4: 1920kbps folded before Flop (didn't bet)
+Seat 5: chiaradia1206 folded on the Flop
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948700421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:32:29 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.32 in chips) 
+Seat 5: chiaradia1206 ($10.31 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Microbiom: posts small blind $0.05
+1920kbps has timed out while disconnected
+1920kbps: is sitting out 
+chiaradia1206: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: folds 
+Microbiom: folds 
+Uncalled bet ($0.05) returned to chiaradia1206
+chiaradia1206 collected $0.10 from pot
+chiaradia1206: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: guro aye1234 folded before Flop (didn't bet)
+Seat 2: Cranzilla (button) folded before Flop (didn't bet)
+Seat 3: Microbiom (small blind) folded before Flop
+Seat 5: chiaradia1206 (big blind) collected ($0.10)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948706896:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:32:54 ET
+Table 'Apus III' 6-max Seat #3 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.27 in chips) 
+Seat 5: chiaradia1206 ($10.36 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+chiaradia1206: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+*** HOLE CARDS ***
+guro aye1234: folds 
+Cranzilla: folds 
+Microbiom: folds 
+chiaradia1206: calls $0.05
+Artemka0055: raises $0.20 to $0.30
+chiaradia1206: calls $0.20
+*** FLOP *** [Ah 7s 9h]
+chiaradia1206: bets $0.30
+Artemka0055: calls $0.30
+*** TURN *** [Ah 7s 9h] [7c]
+chiaradia1206: bets $0.58
+Artemka0055: calls $0.58
+*** RIVER *** [Ah 7s 9h 7c] [Ac]
+chiaradia1206: bets $1.13
+Artemka0055: calls $1.13
+*** SHOW DOWN ***
+chiaradia1206: shows [4s 5s] (two pair, Aces and Sevens)
+Artemka0055: shows [Kc 9c] (two pair, Aces and Nines)
+Artemka0055 collected $4.41 from pot
+*** SUMMARY ***
+Total pot $4.62 | Rake $0.21 
+Board [Ah 7s 9h 7c Ac]
+Seat 1: guro aye1234 folded before Flop (didn't bet)
+Seat 2: Cranzilla folded before Flop (didn't bet)
+Seat 3: Microbiom (button) folded before Flop (didn't bet)
+Seat 5: chiaradia1206 (small blind) showed [4s 5s] and lost with two pair, Aces and Sevens
+Seat 6: Artemka0055 (big blind) showed [Kc 9c] and won ($4.41) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #222948721015:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:33:46 ET
+Table 'Apus III' 6-max Seat #5 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.27 in chips) 
+Seat 5: chiaradia1206 ($8.05 in chips) 
+Seat 6: Artemka0055 ($12.10 in chips) 
+Artemka0055: posts small blind $0.05
+guro aye1234: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: raises $0.20 to $0.30
+Microbiom: folds 
+chiaradia1206: calls $0.30
+Artemka0055: folds 
+guro aye1234: raises $1 to $1.30
+Cranzilla: folds 
+chiaradia1206: folds 
+Uncalled bet ($1) returned to guro aye1234
+guro aye1234 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: guro aye1234 (big blind) collected ($0.95)
+Seat 2: Cranzilla folded before Flop
+Seat 3: Microbiom folded before Flop (didn't bet)
+Seat 5: chiaradia1206 (button) folded before Flop
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948729932:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:34:20 ET
+Table 'Apus III' 6-max Seat #6 is the button
+Seat 1: guro aye1234 ($10.65 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.27 in chips) 
+Seat 5: chiaradia1206 ($9.30 in chips) 
+Seat 6: Artemka0055 ($12.05 in chips) 
+guro aye1234: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+Microbiom: raises $0.15 to $0.25
+chiaradia1206: folds 
+Artemka0055: folds 
+guro aye1234: calls $0.20
+Cranzilla: calls $0.15
+*** FLOP *** [9d As 7s]
+guro aye1234: checks 
+Cranzilla: checks 
+Microbiom: bets $0.24
+guro aye1234: folds 
+Cranzilla: folds 
+Uncalled bet ($0.24) returned to Microbiom
+Microbiom collected $0.72 from pot
+Microbiom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9d As 7s]
+Seat 1: guro aye1234 (small blind) folded on the Flop
+Seat 2: Cranzilla (big blind) folded on the Flop
+Seat 3: Microbiom collected ($0.72)
+Seat 5: chiaradia1206 folded before Flop (didn't bet)
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948744769:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:35:15 ET
+Table 'Apus III' 6-max Seat #1 is the button
+Seat 1: guro aye1234 ($10.40 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.74 in chips) 
+Seat 5: chiaradia1206 ($9.30 in chips) 
+Seat 6: Artemka0055 ($12.05 in chips) 
+Cranzilla: posts small blind $0.05
+Microbiom: posts big blind $0.10
+*** HOLE CARDS ***
+chiaradia1206: calls $0.10
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: folds 
+Microbiom: checks 
+*** FLOP *** [Js 4d Qs]
+Microbiom: checks 
+chiaradia1206: bets $0.12
+Microbiom: calls $0.12
+*** TURN *** [Js 4d Qs] [3c]
+Microbiom: checks 
+chiaradia1206: bets $0.47
+Microbiom: folds 
+Uncalled bet ($0.47) returned to chiaradia1206
+chiaradia1206 collected $0.47 from pot
+chiaradia1206: shows [Qd]
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Js 4d Qs 3c]
+Seat 1: guro aye1234 (button) folded before Flop (didn't bet)
+Seat 2: Cranzilla (small blind) folded before Flop
+Seat 3: Microbiom (big blind) folded on the Turn
+Seat 5: chiaradia1206 collected ($0.47)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948755739:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:35:56 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 1: guro aye1234 ($10.40 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.52 in chips) 
+Seat 4: 1920kbps ($11.70 in chips) 
+Seat 5: chiaradia1206 ($9.55 in chips) 
+Seat 6: Artemka0055 ($12.05 in chips) 
+Microbiom: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+chiaradia1206: raises $0.25 to $0.35
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: folds 
+Microbiom: folds 
+1920kbps: folds 
+Uncalled bet ($0.25) returned to chiaradia1206
+chiaradia1206 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: guro aye1234 folded before Flop (didn't bet)
+Seat 2: Cranzilla (button) folded before Flop (didn't bet)
+Seat 3: Microbiom (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) folded before Flop
+Seat 5: chiaradia1206 collected ($0.25)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948759877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:36:11 ET
+Table 'Apus III' 6-max Seat #3 is the button
+Seat 1: guro aye1234 ($10.40 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.47 in chips) 
+Seat 4: 1920kbps ($11.60 in chips) 
+Seat 5: chiaradia1206 ($9.70 in chips) 
+Seat 6: Artemka0055 ($12.05 in chips) 
+1920kbps: posts small blind $0.05
+chiaradia1206: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: folds 
+Microbiom: folds 
+1920kbps: folds 
+Uncalled bet ($0.05) returned to chiaradia1206
+chiaradia1206 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: guro aye1234 folded before Flop (didn't bet)
+Seat 2: Cranzilla folded before Flop (didn't bet)
+Seat 3: Microbiom (button) folded before Flop (didn't bet)
+Seat 4: 1920kbps (small blind) folded before Flop
+Seat 5: chiaradia1206 (big blind) collected ($0.10)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948766253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:36:35 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 1: guro aye1234 ($10.40 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.47 in chips) 
+Seat 4: 1920kbps ($11.55 in chips) 
+Seat 5: chiaradia1206 ($9.75 in chips) 
+Seat 6: Artemka0055 ($12.05 in chips) 
+chiaradia1206: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+*** HOLE CARDS ***
+guro aye1234: folds 
+Cranzilla has timed out
+Cranzilla: folds 
+Microbiom: folds 
+1920kbps: folds 
+chiaradia1206: calls $0.05
+Artemka0055: checks 
+*** FLOP *** [9s Qh Ts]
+chiaradia1206: bets $0.19
+Artemka0055: folds 
+Uncalled bet ($0.19) returned to chiaradia1206
+chiaradia1206 collected $0.19 from pot
+chiaradia1206: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9s Qh Ts]
+Seat 1: guro aye1234 folded before Flop (didn't bet)
+Seat 2: Cranzilla folded before Flop (didn't bet)
+Seat 3: Microbiom folded before Flop (didn't bet)
+Seat 4: 1920kbps (button) folded before Flop (didn't bet)
+Seat 5: chiaradia1206 (small blind) collected ($0.19)
+Seat 6: Artemka0055 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222948774052:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:37:03 ET
+Table 'Apus III' 6-max Seat #5 is the button
+Seat 1: guro aye1234 ($10.40 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.47 in chips) 
+Seat 4: 1920kbps ($11.55 in chips) 
+Seat 5: chiaradia1206 ($9.84 in chips) 
+Seat 6: Artemka0055 ($11.95 in chips) 
+Artemka0055: posts small blind $0.05
+guro aye1234: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Microbiom: folds 
+1920kbps: raises $0.20 to $0.30
+chiaradia1206: folds 
+Artemka0055: folds 
+guro aye1234: calls $0.20
+*** FLOP *** [Kc 4c 4s]
+guro aye1234: checks 
+1920kbps: bets $0.40
+guro aye1234: folds 
+Uncalled bet ($0.40) returned to 1920kbps
+1920kbps collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Kc 4c 4s]
+Seat 1: guro aye1234 (big blind) folded on the Flop
+Seat 2: Cranzilla folded before Flop (didn't bet)
+Seat 3: Microbiom folded before Flop (didn't bet)
+Seat 4: 1920kbps collected ($0.62)
+Seat 5: chiaradia1206 (button) folded before Flop (didn't bet)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948780683:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:37:28 ET
+Table 'Apus III' 6-max Seat #6 is the button
+Seat 1: guro aye1234 ($10.10 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.47 in chips) 
+Seat 4: 1920kbps ($11.87 in chips) 
+Seat 5: chiaradia1206 ($9.84 in chips) 
+Seat 6: Artemka0055 ($11.90 in chips) 
+guro aye1234: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+Microbiom: folds 
+1920kbps: folds 
+chiaradia1206: calls $0.10
+Artemka0055: folds 
+guro aye1234: folds 
+Cranzilla: checks 
+*** FLOP *** [2c 6d 2h]
+Cranzilla: checks 
+chiaradia1206: checks 
+*** TURN *** [2c 6d 2h] [Ks]
+Cranzilla: checks 
+chiaradia1206: bets $0.12
+Cranzilla: folds 
+Uncalled bet ($0.12) returned to chiaradia1206
+chiaradia1206 collected $0.24 from pot
+chiaradia1206: shows [Kc]
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 6d 2h Ks]
+Seat 1: guro aye1234 (small blind) folded before Flop
+Seat 2: Cranzilla (big blind) folded on the Turn
+Seat 3: Microbiom folded before Flop (didn't bet)
+Seat 4: 1920kbps folded before Flop (didn't bet)
+Seat 5: chiaradia1206 collected ($0.24)
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948795094:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:38:21 ET
+Table 'Apus III' 6-max Seat #1 is the button
+Seat 1: guro aye1234 ($10.05 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.47 in chips) 
+Seat 4: 1920kbps ($11.87 in chips) 
+Seat 5: chiaradia1206 ($9.98 in chips) 
+Seat 6: Artemka0055 ($11.90 in chips) 
+Cranzilla: posts small blind $0.05
+Microbiom: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+chiaradia1206: calls $0.10
+Artemka0055: folds 
+guro aye1234: raises $0.30 to $0.40
+Cranzilla: folds 
+Microbiom: folds 
+chiaradia1206: calls $0.30
+*** FLOP *** [3c 9d Qd]
+chiaradia1206: bets $0.91
+guro aye1234: calls $0.91
+*** TURN *** [3c 9d Qd] [Qs]
+chiaradia1206: checks 
+guro aye1234: bets $1.30
+chiaradia1206: calls $1.30
+*** RIVER *** [3c 9d Qd Qs] [Td]
+chiaradia1206: bets $2.57
+guro aye1234: folds 
+Uncalled bet ($2.57) returned to chiaradia1206
+chiaradia1206 collected $5.13 from pot
+*** SUMMARY ***
+Total pot $5.37 | Rake $0.24 
+Board [3c 9d Qd Qs Td]
+Seat 1: guro aye1234 (button) folded on the River
+Seat 2: Cranzilla (small blind) folded before Flop
+Seat 3: Microbiom (big blind) folded before Flop
+Seat 4: 1920kbps folded before Flop (didn't bet)
+Seat 5: chiaradia1206 collected ($5.13)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948812876:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:39:27 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 1: guro aye1234 ($10 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.37 in chips) 
+Seat 4: 1920kbps ($11.87 in chips) 
+Seat 6: Artemka0055 ($11.90 in chips) 
+Microbiom: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+chiaradia1206 leaves the table
+guro aye1234: raises $0.15 to $0.25
+Cranzilla: folds 
+Microbiom: folds 
+1920kbps: folds 
+Uncalled bet ($0.15) returned to guro aye1234
+guro aye1234 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: guro aye1234 collected ($0.25)
+Seat 2: Cranzilla (button) folded before Flop (didn't bet)
+Seat 3: Microbiom (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) folded before Flop
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948818225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:39:46 ET
+Table 'Apus III' 6-max Seat #3 is the button
+Seat 1: guro aye1234 ($10.15 in chips) 
+Seat 2: Cranzilla ($10 in chips) 
+Seat 3: Microbiom ($10.32 in chips) 
+Seat 4: 1920kbps ($11.77 in chips) 
+Seat 6: Artemka0055 ($11.90 in chips) 
+1920kbps: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+*** HOLE CARDS ***
+guro aye1234: folds 
+Cranzilla: raises $0.20 to $0.30
+Microbiom: folds 
+1920kbps: folds 
+Artemka0055: folds 
+Uncalled bet ($0.20) returned to Cranzilla
+Cranzilla collected $0.25 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: guro aye1234 folded before Flop (didn't bet)
+Seat 2: Cranzilla collected ($0.25)
+Seat 3: Microbiom (button) folded before Flop (didn't bet)
+Seat 4: 1920kbps (small blind) folded before Flop
+Seat 6: Artemka0055 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948824391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:40:09 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.15 in chips) 
+Seat 3: Microbiom ($10.32 in chips) 
+Seat 4: 1920kbps ($11.72 in chips) 
+Seat 6: Artemka0055 ($11.80 in chips) 
+Artemka0055: posts small blind $0.05
+guro aye1234: is sitting out 
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+guro aye1234 leaves the table
+Microbiom: raises $0.15 to $0.25
+1920kbps: folds 
+Artemka0055: folds 
+Cranzilla: folds 
+Uncalled bet ($0.15) returned to Microbiom
+Microbiom collected $0.25 from pot
+Microbiom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Cranzilla (big blind) folded before Flop
+Seat 3: Microbiom collected ($0.25)
+Seat 4: 1920kbps (button) folded before Flop (didn't bet)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948831306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:40:34 ET
+Table 'Apus III' 6-max Seat #6 is the button
+Seat 2: Cranzilla ($10.05 in chips) 
+Seat 4: 1920kbps ($11.72 in chips) 
+Seat 6: Artemka0055 ($11.75 in chips) 
+Cranzilla: posts small blind $0.05
+Microbiom: is sitting out 
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: raises $0.20 to $0.30
+Microbiom leaves the table
+Cranzilla: folds 
+1920kbps: folds 
+Uncalled bet ($0.20) returned to Artemka0055
+Artemka0055 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Cranzilla (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) folded before Flop
+Seat 6: Artemka0055 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222948833961:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:40:43 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10 in chips) 
+Seat 4: 1920kbps ($11.62 in chips) 
+1920kbps: posts small blind $0.05
+Artemka0055: is sitting out 
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.15 to $0.25
+Cranzilla: folds 
+Uncalled bet ($0.15) returned to 1920kbps
+1920kbps collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (big blind) folded before Flop
+Seat 4: 1920kbps (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222948836647:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:40:53 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10 in chips) 
+Seat 4: 1920kbps ($11.72 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: raises $0.20 to $0.30
+1920kbps: folds 
+Uncalled bet ($0.20) returned to Cranzilla
+Cranzilla collected $0.20 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) collected ($0.20)
+Seat 4: 1920kbps (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948839185:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:02 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.10 in chips) 
+Seat 4: 1920kbps ($11.62 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.20 to $0.30
+Cranzilla: raises $0.71 to $1.01
+Artemka0055 leaves the table
+1920kbps: folds 
+Uncalled bet ($0.71) returned to Cranzilla
+Cranzilla collected $0.60 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Cranzilla (big blind) collected ($0.60)
+Seat 4: 1920kbps (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948842725:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:15 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.40 in chips) 
+Seat 4: 1920kbps ($11.32 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948844470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:21 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.35 in chips) 
+Seat 4: 1920kbps ($11.37 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.15 to $0.25
+Cranzilla: folds 
+Uncalled bet ($0.15) returned to 1920kbps
+1920kbps collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (big blind) folded before Flop
+Seat 4: 1920kbps (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222948847873:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:33 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.25 in chips) 
+Seat 4: 1920kbps ($11.47 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948849781:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:40 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.20 in chips) 
+Seat 4: 1920kbps ($11.52 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Uncalled bet ($0.05) returned to Cranzilla
+Cranzilla collected $0.10 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (big blind) collected ($0.10)
+Seat 4: 1920kbps (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948850957:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:44 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.25 in chips) 
+Seat 4: 1920kbps ($11.47 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948852702:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:51 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.20 in chips) 
+Seat 4: 1920kbps ($11.52 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Uncalled bet ($0.05) returned to Cranzilla
+Cranzilla collected $0.10 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (big blind) collected ($0.10)
+Seat 4: 1920kbps (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948854048:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:55 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.25 in chips) 
+Seat 4: 1920kbps ($11.47 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: raises $0.20 to $0.30
+1920kbps: calls $0.20
+*** FLOP *** [7h 5d 3h]
+1920kbps: checks 
+Cranzilla: checks 
+*** TURN *** [7h 5d 3h] [4h]
+1920kbps: checks 
+Cranzilla: checks 
+*** RIVER *** [7h 5d 3h 4h] [7s]
+1920kbps: checks 
+Cranzilla: checks 
+*** SHOW DOWN ***
+1920kbps: shows [Qc 9s] (a pair of Sevens)
+Cranzilla: shows [Ac 6d] (a straight, Three to Seven)
+Cranzilla collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [7h 5d 3h 4h 7s]
+Seat 2: Cranzilla (button) (small blind) showed [Ac 6d] and won ($0.57) with a straight, Three to Seven
+Seat 4: 1920kbps (big blind) showed [Qc 9s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #222948866939:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:42:32 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.52 in chips) 
+Seat 4: 1920kbps ($11.17 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Uncalled bet ($0.05) returned to Cranzilla
+Cranzilla collected $0.10 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (big blind) collected ($0.10)
+Seat 4: 1920kbps (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948868451:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:42:38 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.57 in chips) 
+Seat 4: 1920kbps ($11.12 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: raises $0.10 to $0.20
+1920kbps: folds 
+Uncalled bet ($0.10) returned to Cranzilla
+Cranzilla collected $0.20 from pot
+Cranzilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) collected ($0.20)
+Seat 4: 1920kbps (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948871867:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:42:50 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.67 in chips) 
+Seat 4: 1920kbps ($11.02 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.20 to $0.30
+Cranzilla: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (big blind) folded before Flop
+Seat 4: 1920kbps (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222948873816:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:42:56 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.57 in chips) 
+Seat 4: 1920kbps ($11.12 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948875473:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:43:02 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.52 in chips) 
+Seat 4: 1920kbps ($11.17 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.20 to $0.30
+Cranzilla: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (big blind) folded before Flop
+Seat 4: 1920kbps (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222948877546:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:43:10 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.42 in chips) 
+Seat 4: 1920kbps ($11.27 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948878840:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:43:14 ET
+Table 'Apus III' 6-max Seat #4 is the button
+Seat 2: Cranzilla ($10.37 in chips) 
+Seat 4: 1920kbps ($11.32 in chips) 
+1920kbps: posts small blind $0.05
+Cranzilla: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.20 to $0.30
+Cranzilla: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cranzilla (big blind) folded before Flop
+Seat 4: 1920kbps (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222948880977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:43:22 ET
+Table 'Apus III' 6-max Seat #2 is the button
+Seat 2: Cranzilla ($10.27 in chips) 
+Seat 4: 1920kbps ($11.42 in chips) 
+Cranzilla: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Cranzilla: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cranzilla (button) (small blind) folded before Flop
+Seat 4: 1920kbps (big blind) collected ($0.10)
+
+
+

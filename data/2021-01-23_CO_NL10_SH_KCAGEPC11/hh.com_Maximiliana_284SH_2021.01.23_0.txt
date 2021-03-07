@@ -1,0 +1,4898 @@
+﻿PokerStars Hand #222942203661:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:01:20 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.54 in chips) 
+Seat 3: EZEQUIEL.C10 ($7.70 in chips) 
+Seat 4: unmix ($11.38 in chips) 
+Seat 5: fraternitati ($13.82 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+unmix: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: folds 
+SKV_1985: raises $0.20 to $0.30
+EZEQUIEL.C10: raises $0.70 to $1
+unmix: folds 
+SKV_1985: folds 
+Uncalled bet ($0.70) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.70 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop
+Seat 3: EZEQUIEL.C10 (small blind) collected ($0.70)
+Seat 4: unmix (big blind) folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942217202:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:01:56 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.24 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.10 in chips) 
+Seat 4: unmix ($11.28 in chips) 
+Seat 5: fraternitati ($13.82 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+rubduckofdeath: sits out 
+*** HOLE CARDS ***
+EColo06!: folds 
+SKV_1985: folds 
+EZEQUIEL.C10: folds 
+unmix: raises $0.20 to $0.30
+fraternitati: calls $0.20
+*** FLOP *** [7c 3d Qd]
+unmix: checks 
+fraternitati: bets $0.29
+unmix: raises $1.15 to $1.44
+fraternitati: folds 
+Uncalled bet ($1.15) returned to unmix
+unmix collected $1.13 from pot
+unmix: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [7c 3d Qd]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: unmix (small blind) collected ($1.13)
+Seat 5: fraternitati (big blind) folded on the Flop
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942228193:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:26 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.24 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.10 in chips) 
+Seat 4: unmix ($11.82 in chips) 
+Seat 5: fraternitati ($13.23 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+rubduckofdeath: sits out 
+*** HOLE CARDS ***
+SKV_1985: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+Uncalled bet ($0.20) returned to SKV_1985
+SKV_1985 collected $0.25 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 collected ($0.25)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942233574:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:39 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.39 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.10 in chips) 
+Seat 4: unmix ($11.82 in chips) 
+Seat 5: fraternitati ($13.18 in chips) 
+Seat 6: EColo06! ($10.28 in chips) 
+EColo06!: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+rubduckofdeath: sits out 
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+SKV_1985: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.20 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222942239595:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:55 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($10.29 in chips) 
+Seat 2: rubduckofdeath ($11.66 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.10 in chips) 
+Seat 4: unmix ($11.82 in chips) 
+Seat 5: fraternitati ($13.18 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+SKV_1985: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: raises $0.20 to $0.30
+EColo06!: folds 
+SKV_1985: folds 
+rubduckofdeath: calls $0.20
+*** FLOP *** [2d Qd Jh]
+rubduckofdeath: checks 
+fraternitati: bets $0.31
+rubduckofdeath: folds 
+Uncalled bet ($0.31) returned to fraternitati
+fraternitati collected $0.62 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2d Qd Jh]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati collected ($0.62)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942248282:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:03:17 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($11.36 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.10 in chips) 
+Seat 4: unmix ($11.82 in chips) 
+Seat 5: fraternitati ($13.50 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.05) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.10 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) collected ($0.10)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942253141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:03:30 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.15 in chips) 
+Seat 4: unmix ($11.82 in chips) 
+Seat 5: fraternitati ($13.50 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+unmix: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.05) returned to unmix
+unmix collected $0.10 from pot
+unmix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: unmix (big blind) collected ($0.10)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942263938:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:03:58 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.10 in chips) 
+Seat 4: unmix ($11.87 in chips) 
+Seat 5: fraternitati ($13.50 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: raises $0.20 to $0.30
+unmix: folds 
+fraternitati: calls $0.20
+*** FLOP *** [Ks 8d Kh]
+fraternitati: checks 
+EZEQUIEL.C10: checks 
+*** TURN *** [Ks 8d Kh] [7s]
+fraternitati: checks 
+EZEQUIEL.C10: bets $0.50
+fraternitati: folds 
+Uncalled bet ($0.50) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.62 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ks 8d Kh 7s]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) collected ($0.62)
+Seat 4: unmix (small blind) folded before Flop
+Seat 5: fraternitati (big blind) folded on the Turn
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942283903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:04:50 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.42 in chips) 
+Seat 4: unmix ($11.82 in chips) 
+Seat 5: fraternitati ($13.20 in chips) 
+Seat 6: EColo06! ($10.38 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+unmix: raises $0.20 to $0.30
+fraternitati: calls $0.25
+EColo06!: folds 
+*** FLOP *** [Jd Kd 7d]
+fraternitati: checks 
+unmix: checks 
+*** TURN *** [Jd Kd 7d] [6s]
+fraternitati: checks 
+unmix: checks 
+*** RIVER *** [Jd Kd 7d 6s] [3d]
+fraternitati: checks 
+unmix: checks 
+*** SHOW DOWN ***
+fraternitati: shows [Js 5s] (a pair of Jacks)
+unmix: mucks hand 
+fraternitati collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Jd Kd 7d 6s 3d]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix (button) mucked
+Seat 5: fraternitati (small blind) showed [Js 5s] and won ($0.67) with a pair of Jacks
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942298069:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:05:27 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.42 in chips) 
+Seat 4: unmix ($11.52 in chips) 
+Seat 5: fraternitati ($13.57 in chips) 
+Seat 6: EColo06! ($10.28 in chips) 
+EColo06!: posts small blind $0.05
+SKV_1985: is sitting out 
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+unmix: raises $0.20 to $0.30
+fraternitati: folds 
+EColo06!: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to unmix
+unmix collected $0.25 from pot
+unmix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix collected ($0.25)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942303951:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:05:42 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 2: rubduckofdeath ($11.21 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.42 in chips) 
+Seat 4: unmix ($11.67 in chips) 
+Seat 5: fraternitati ($13.57 in chips) 
+Seat 6: EColo06! ($10.23 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.20) returned to rubduckofdeath
+rubduckofdeath collected $0.20 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: rubduckofdeath (small blind) collected ($0.20)
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942313704:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:06:08 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.32 in chips) 
+Seat 4: unmix ($11.67 in chips) 
+Seat 5: fraternitati ($13.57 in chips) 
+Seat 6: EColo06! ($10.23 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+unmix: posts big blind $0.10
+SKV_1985: sits out 
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: folds 
+SKV_1985 leaves the table
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.05) returned to unmix
+unmix collected $0.10 from pot
+unmix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: unmix (big blind) collected ($0.10)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942320094:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:06:24 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.27 in chips) 
+Seat 4: unmix ($11.72 in chips) 
+Seat 5: fraternitati ($13.57 in chips) 
+Seat 6: EColo06! ($10.23 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+otchislen joins the table at seat #1 
+rubduckofdeath: folds 
+EZEQUIEL.C10: raises $0.12 to $0.22
+unmix: calls $0.17
+fraternitati: folds 
+*** FLOP *** [2s 2c 4s]
+unmix: bets $0.26
+EZEQUIEL.C10: calls $0.26
+*** TURN *** [2s 2c 4s] [3d]
+unmix: checks 
+EZEQUIEL.C10: checks 
+*** RIVER *** [2s 2c 4s 3d] [7s]
+unmix: checks 
+EZEQUIEL.C10: bets $0.56
+unmix: folds 
+Uncalled bet ($0.56) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $1.01 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.05 
+Board [2s 2c 4s 3d 7s]
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) collected ($1.01)
+Seat 4: unmix (small blind) folded on the River
+Seat 5: fraternitati (big blind) folded before Flop
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942348103:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:07:30 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: otchislen ($10 in chips) 
+Seat 2: rubduckofdeath ($11.31 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.80 in chips) 
+Seat 4: unmix ($11.24 in chips) 
+Seat 5: fraternitati ($13.47 in chips) 
+Seat 6: EColo06! ($10.23 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+otchislen: posts big blind $0.10
+*** HOLE CARDS ***
+otchislen: checks 
+rubduckofdeath: raises $0.35 to $0.45
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+otchislen: folds 
+Uncalled bet ($0.35) returned to rubduckofdeath
+rubduckofdeath collected $0.35 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: otchislen folded before Flop (didn't bet)
+Seat 2: rubduckofdeath collected ($0.35)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942353024:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:07:42 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: otchislen ($9.90 in chips) 
+Seat 2: rubduckofdeath ($11.56 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.80 in chips) 
+Seat 4: unmix ($11.24 in chips) 
+Seat 5: fraternitati ($13.42 in chips) 
+Seat 6: EColo06! ($10.13 in chips) 
+EColo06!: posts small blind $0.05
+otchislen: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: raises $0.15 to $0.25
+EColo06!: folds 
+otchislen: calls $0.15
+*** FLOP *** [4s 3s Ac]
+otchislen: checks 
+fraternitati: bets $0.27
+otchislen: calls $0.27
+*** TURN *** [4s 3s Ac] [3d]
+otchislen: bets $0.38
+fraternitati: raises $1.20 to $1.58
+otchislen: folds 
+Uncalled bet ($1.20) returned to fraternitati
+fraternitati collected $1.77 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [4s 3s Ac 3d]
+Seat 1: otchislen (big blind) folded on the Turn
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati (button) collected ($1.77)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942375770:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:08:42 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: otchislen ($9 in chips) 
+Seat 2: rubduckofdeath ($11.56 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.80 in chips) 
+Seat 4: unmix ($11.24 in chips) 
+Seat 5: fraternitati ($14.29 in chips) 
+Seat 6: EColo06! ($10.08 in chips) 
+otchislen: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10 has timed out
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+otchislen: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.25 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: otchislen (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942384166:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:09:03 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: otchislen ($8.95 in chips) 
+Seat 2: rubduckofdeath ($11.46 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.80 in chips) 
+Seat 4: unmix ($11.24 in chips) 
+Seat 5: fraternitati ($14.29 in chips) 
+Seat 6: EColo06! ($10.23 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+otchislen: folds 
+rubduckofdeath: raises $0.70 to $1
+EZEQUIEL.C10: folds 
+EColo06!: folds 
+Uncalled bet ($0.70) returned to rubduckofdeath
+rubduckofdeath collected $0.70 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: otchislen (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) collected ($0.70)
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop
+
+
+
+PokerStars Hand #222942402354:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:09:38 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: otchislen ($8.95 in chips) 
+Seat 2: rubduckofdeath ($11.86 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.70 in chips) 
+Seat 4: unmix ($11.24 in chips) 
+Seat 5: fraternitati ($14.29 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+unmix: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+otchislen: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+unmix: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.25 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: otchislen folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: unmix (big blind) folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! collected ($0.25)
+
+
+
+PokerStars Hand #222942410998:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:10:00 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: otchislen ($8.95 in chips) 
+Seat 2: rubduckofdeath ($11.86 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.65 in chips) 
+Seat 4: unmix ($11.14 in chips) 
+Seat 5: fraternitati ($14.29 in chips) 
+Seat 6: EColo06! ($10.15 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+otchislen: raises $0.20 to $0.30
+rubduckofdeath: folds 
+EZEQUIEL.C10: calls $0.30
+unmix: folds 
+fraternitati: folds 
+*** FLOP *** [8d Jd Qc]
+otchislen: checks 
+EZEQUIEL.C10: checks 
+*** TURN *** [8d Jd Qc] [Kh]
+otchislen: checks 
+EZEQUIEL.C10: bets $0.40
+otchislen: calls $0.40
+*** RIVER *** [8d Jd Qc Kh] [5s]
+otchislen: checks 
+EZEQUIEL.C10: bets $1.20
+otchislen: folds 
+Uncalled bet ($1.20) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $1.48 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [8d Jd Qc Kh 5s]
+Seat 1: otchislen folded on the River
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) collected ($1.48)
+Seat 4: unmix (small blind) folded before Flop
+Seat 5: fraternitati (big blind) folded before Flop
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942445455:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:11:24 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: otchislen ($8.25 in chips) 
+Seat 2: rubduckofdeath ($11.86 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.43 in chips) 
+Seat 4: unmix ($11.09 in chips) 
+Seat 5: fraternitati ($14.19 in chips) 
+Seat 6: EColo06! ($10.15 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+otchislen: raises $0.15 to $0.25
+rubduckofdeath: calls $0.25
+EZEQUIEL.C10: calls $0.25
+unmix: folds 
+fraternitati: calls $0.20
+EColo06!: folds 
+*** FLOP *** [8s Qh Kd]
+fraternitati: checks 
+otchislen: checks 
+rubduckofdeath: bets $0.53
+EZEQUIEL.C10: folds 
+fraternitati: folds 
+otchislen: calls $0.53
+*** TURN *** [8s Qh Kd] [4d]
+otchislen: bets $1.05
+rubduckofdeath: calls $1.05
+*** RIVER *** [8s Qh Kd 4d] [9c]
+otchislen: checks 
+rubduckofdeath: checks 
+*** SHOW DOWN ***
+otchislen: shows [9s Js] (a pair of Nines)
+rubduckofdeath: shows [Kh Th] (a pair of Kings)
+rubduckofdeath collected $4.07 from pot
+*** SUMMARY ***
+Total pot $4.26 | Rake $0.19 
+Board [8s Qh Kd 4d 9c]
+Seat 1: otchislen showed [9s Js] and lost with a pair of Nines
+Seat 2: rubduckofdeath showed [Kh Th] and won ($4.07) with a pair of Kings
+Seat 3: EZEQUIEL.C10 folded on the Flop
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded on the Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942471648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:12:33 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: otchislen ($6.42 in chips) 
+Seat 2: rubduckofdeath ($14.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.18 in chips) 
+Seat 4: unmix ($11.09 in chips) 
+Seat 5: fraternitati ($13.94 in chips) 
+Seat 6: EColo06! ($10.05 in chips) 
+EColo06!: posts small blind $0.05
+otchislen: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+Uncalled bet ($0.05) returned to otchislen
+otchislen collected $0.10 from pot
+otchislen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: otchislen (big blind) collected ($0.10)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942477186:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:12:48 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: otchislen ($6.47 in chips) 
+Seat 2: rubduckofdeath ($14.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.18 in chips) 
+Seat 4: unmix ($11.09 in chips) 
+Seat 5: fraternitati ($13.94 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+otchislen: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+otchislen: raises $0.20 to $0.30
+rubduckofdeath: calls $0.20
+*** FLOP *** [4h As Kh]
+otchislen: checks 
+rubduckofdeath: checks 
+*** TURN *** [4h As Kh] [9d]
+otchislen: checks 
+rubduckofdeath: checks 
+*** RIVER *** [4h As Kh 9d] [Ks]
+otchislen: bets $1.17
+rubduckofdeath: folds 
+Uncalled bet ($1.17) returned to otchislen
+otchislen collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4h As Kh 9d Ks]
+Seat 1: otchislen (small blind) collected ($0.57)
+Seat 2: rubduckofdeath (big blind) folded on the River
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942490834:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:24 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: otchislen ($6.74 in chips) 
+Seat 2: rubduckofdeath ($13.80 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.18 in chips) 
+Seat 4: unmix ($11.09 in chips) 
+Seat 5: fraternitati ($13.94 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: raises $0.20 to $0.30
+EColo06!: folds 
+otchislen: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.20) returned to fraternitati
+fraternitati collected $0.25 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: otchislen (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati collected ($0.25)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942502623:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:55 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: otchislen ($6.74 in chips) 
+Seat 2: rubduckofdeath ($13.75 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.08 in chips) 
+Seat 4: unmix ($11.09 in chips) 
+Seat 5: fraternitati ($14.09 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+unmix: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+otchislen: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+unmix: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.25 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: otchislen folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: unmix (big blind) folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! collected ($0.25)
+
+
+
+PokerStars Hand #222942508612:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:14:11 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: otchislen ($6.74 in chips) 
+Seat 2: rubduckofdeath ($13.75 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.03 in chips) 
+Seat 4: unmix ($10.99 in chips) 
+Seat 5: fraternitati ($14.09 in chips) 
+Seat 6: EColo06! ($10.15 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+otchislen: raises $0.14 to $0.24
+rubduckofdeath: calls $0.24
+EZEQUIEL.C10: folds 
+unmix: calls $0.19
+fraternitati: raises $1.96 to $2.20
+otchislen: raises $4.54 to $6.74 and is all-in
+rubduckofdeath: folds 
+unmix: folds 
+fraternitati: calls $4.54
+*** FLOP *** [9c 6h Qs]
+*** TURN *** [9c 6h Qs] [9d]
+*** RIVER *** [9c 6h Qs 9d] [2d]
+*** SHOW DOWN ***
+fraternitati: shows [Jh Ah] (a pair of Nines)
+otchislen: shows [Ac Ts] (a pair of Nines - lower kicker)
+fraternitati cashed out the hand for $9.78 | Cash Out Fee $0.10
+*** SUMMARY ***
+Total pot $13.96 | Rake $0.63 
+Board [9c 6h Qs 9d 2d]
+Seat 1: otchislen showed [Ac Ts] and lost with a pair of Nines
+Seat 2: rubduckofdeath folded before Flop
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: unmix (small blind) folded before Flop
+Seat 5: fraternitati (big blind) showed [Jh Ah] and won ($13.33) with a pair of Nines (pot not awarded as player cashed out)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942532463:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:15:09 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 2: rubduckofdeath ($13.51 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.03 in chips) 
+Seat 4: unmix ($10.75 in chips) 
+Seat 5: fraternitati ($17.13 in chips) 
+Seat 6: EColo06! ($10.15 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+unmix: folds 
+otchislen leaves the table
+fraternitati: raises $0.15 to $0.25
+EColo06!: folds 
+Uncalled bet ($0.15) returned to fraternitati
+fraternitati collected $0.20 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) collected ($0.20)
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942538703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:15:26 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 2: rubduckofdeath ($13.51 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.03 in chips) 
+Seat 4: unmix ($10.75 in chips) 
+Seat 5: fraternitati ($17.23 in chips) 
+Seat 6: EColo06! ($10.05 in chips) 
+GGR817 joins the table at seat #1 
+EColo06!: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+Uncalled bet ($0.05) returned to rubduckofdeath
+rubduckofdeath collected $0.10 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: rubduckofdeath (big blind) collected ($0.10)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942542386:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:15:35 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 2: rubduckofdeath ($13.56 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.03 in chips) 
+Seat 4: unmix ($10.75 in chips) 
+Seat 5: fraternitati ($17.23 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: raises $0.15 to $0.25
+EColo06!: folds 
+rubduckofdeath: calls $0.20
+EZEQUIEL.C10: folds 
+*** FLOP *** [4d Ad Qh]
+rubduckofdeath: checks 
+fraternitati: checks 
+*** TURN *** [4d Ad Qh] [9s]
+rubduckofdeath: checks 
+fraternitati: bets $0.29
+rubduckofdeath: calls $0.29
+*** RIVER *** [4d Ad Qh 9s] [7h]
+rubduckofdeath: checks 
+fraternitati: checks 
+*** SHOW DOWN ***
+rubduckofdeath: shows [Qd Jh] (a pair of Queens)
+fraternitati: shows [As 6c] (a pair of Aces)
+fraternitati collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [4d Ad Qh 9s 7h]
+Seat 2: rubduckofdeath (small blind) showed [Qd Jh] and lost with a pair of Queens
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati showed [As 6c] and won ($1.13) with a pair of Aces
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942555589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:11 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 2: rubduckofdeath ($13.02 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.93 in chips) 
+Seat 4: unmix ($10.75 in chips) 
+Seat 5: fraternitati ($17.82 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+unmix: posts big blind $0.10
+GGR817: sits out 
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.05) returned to unmix
+unmix collected $0.10 from pot
+unmix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: unmix (big blind) collected ($0.10)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942560771:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:24 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 2: rubduckofdeath ($13.02 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.88 in chips) 
+Seat 4: unmix ($10.80 in chips) 
+Seat 5: fraternitati ($17.82 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+GGR817: sits out 
+*** HOLE CARDS ***
+EColo06!: raises $0.20 to $0.30
+rubduckofdeath: raises $0.75 to $1.05
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+Uncalled bet ($0.75) returned to rubduckofdeath
+rubduckofdeath collected $0.75 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 2: rubduckofdeath collected ($0.75)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: unmix (small blind) folded before Flop
+Seat 5: fraternitati (big blind) folded before Flop
+Seat 6: EColo06! folded before Flop
+
+
+
+PokerStars Hand #222942568558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:45 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 2: rubduckofdeath ($13.47 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.88 in chips) 
+Seat 4: unmix ($10.75 in chips) 
+Seat 5: fraternitati ($17.72 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+GGR817: sits out 
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: calls $0.30
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+*** FLOP *** [5s 7d 7s]
+rubduckofdeath: checks 
+EZEQUIEL.C10: checks 
+*** TURN *** [5s 7d 7s] [4h]
+rubduckofdeath: checks 
+EZEQUIEL.C10: checks 
+*** RIVER *** [5s 7d 7s 4h] [9h]
+rubduckofdeath: checks 
+EZEQUIEL.C10: bets $0.54
+rubduckofdeath: folds 
+Uncalled bet ($0.54) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.72 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5s 7d 7s 4h 9h]
+Seat 2: rubduckofdeath folded on the River
+Seat 3: EZEQUIEL.C10 collected ($0.72)
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942595205:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:17:56 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($13.17 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.30 in chips) 
+Seat 4: unmix ($10.75 in chips) 
+Seat 5: fraternitati ($17.67 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+unmix: calls $0.30
+fraternitati: folds 
+EColo06!: folds 
+GGR817: calls $0.20
+*** FLOP *** [6d As Jh]
+GGR817: checks 
+rubduckofdeath: bets $0.33
+unmix: folds 
+GGR817: calls $0.33
+*** TURN *** [6d As Jh] [2s]
+GGR817: checks 
+rubduckofdeath: checks 
+*** RIVER *** [6d As Jh 2s] [4d]
+GGR817: bets $1.10
+rubduckofdeath: folds 
+Uncalled bet ($1.10) returned to GGR817
+GGR817 collected $1.54 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.07 
+Board [6d As Jh 2s 4d]
+Seat 1: GGR817 (big blind) collected ($1.54)
+Seat 2: rubduckofdeath folded on the River
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded on the Flop
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942632307:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:19:15 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.91 in chips) 
+Seat 2: rubduckofdeath ($12.54 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.30 in chips) 
+Seat 4: unmix ($10.45 in chips) 
+Seat 5: fraternitati ($17.67 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+GGR817: folds 
+Uncalled bet ($0.05) returned to rubduckofdeath
+rubduckofdeath collected $0.10 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) collected ($0.10)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942637362:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:19:28 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.86 in chips) 
+Seat 2: rubduckofdeath ($12.59 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.30 in chips) 
+Seat 4: unmix ($10.45 in chips) 
+Seat 5: fraternitati ($17.67 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: raises $0.20 to $0.30
+unmix leaves the table
+max2294 joins the table at seat #4 
+EColo06! has timed out
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.20) returned to fraternitati
+fraternitati collected $0.25 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati collected ($0.25)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942648666:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:19:59 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.86 in chips) 
+Seat 2: rubduckofdeath ($12.54 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.20 in chips) 
+Seat 4: max2294 ($10 in chips) 
+Seat 5: fraternitati ($17.82 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+max2294: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: raises $0.70 to $1
+max2294: folds 
+rubduckofdeath: calls $0.70
+*** FLOP *** [Kd Qd Ad]
+EZEQUIEL.C10: checks 
+rubduckofdeath: checks 
+*** TURN *** [Kd Qd Ad] [2h]
+EZEQUIEL.C10: bets $1.11
+rubduckofdeath: folds 
+Uncalled bet ($1.11) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $2.01 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [Kd Qd Ad 2h]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded on the Turn
+Seat 3: EZEQUIEL.C10 (small blind) collected ($2.01)
+Seat 4: max2294 (big blind) folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942675561:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:21:11 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10.86 in chips) 
+Seat 2: rubduckofdeath ($11.54 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($9.90 in chips) 
+Seat 5: fraternitati ($17.82 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+max2294: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: raises $0.20 to $0.30
+fraternitati: calls $0.20
+*** FLOP *** [4c Qs 6s]
+max2294: bets $0.29
+fraternitati: calls $0.29
+*** TURN *** [4c Qs 6s] [6h]
+max2294: bets $0.60
+fraternitati: calls $0.60
+*** RIVER *** [4c Qs 6s 6h] [9h]
+max2294: bets $2.27
+fraternitati: raises $2.27 to $4.54
+max2294: raises $4.17 to $8.71 and is all-in
+fraternitati: calls $4.17
+*** SHOW DOWN ***
+max2294: shows [9c 9s] (a full house, Nines full of Sixes)
+fraternitati: shows [4s 4d] (a full house, Fours full of Sixes)
+max2294 collected $18.91 from pot
+*** SUMMARY ***
+Total pot $19.80 | Rake $0.89 
+Board [4c Qs 6s 6h 9h]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: max2294 (small blind) showed [9c 9s] and won ($18.91) with a full house, Nines full of Sixes
+Seat 5: fraternitati (big blind) showed [4s 4d] and lost with a full house, Fours full of Sixes
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942718812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:23:07 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.86 in chips) 
+Seat 2: rubduckofdeath ($11.54 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($18.91 in chips) 
+Seat 5: fraternitati ($7.92 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: calls $0.30
+EZEQUIEL.C10: folds 
+max2294: folds 
+fraternitati: folds 
+EColo06!: folds 
+*** FLOP *** [Tc Th 2s]
+GGR817: bets $0.24
+rubduckofdeath: raises $0.60 to $0.84
+GGR817: folds 
+Uncalled bet ($0.60) returned to rubduckofdeath
+rubduckofdeath collected $1.17 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.23 | Rake $0.06 
+Board [Tc Th 2s]
+Seat 1: GGR817 folded on the Flop
+Seat 2: rubduckofdeath collected ($1.17)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942739165:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:24:03 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10.32 in chips) 
+Seat 2: rubduckofdeath ($12.17 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($18.91 in chips) 
+Seat 5: fraternitati ($7.87 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+GGR817: calls $0.20
+*** FLOP *** [6h 8s 8c]
+EColo06!: checks 
+GGR817: checks 
+*** TURN *** [6h 8s 8c] [6c]
+EColo06!: checks 
+GGR817: checks 
+*** RIVER *** [6h 8s 8c 6c] [7c]
+EColo06!: checks 
+GGR817: bets $0.43
+EColo06!: folds 
+Uncalled bet ($0.43) returned to GGR817
+GGR817 collected $0.57 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6h 8s 8c 6c 7c]
+Seat 1: GGR817 (big blind) collected ($0.57)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded on the River
+
+
+
+PokerStars Hand #222942768668:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:25:23 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.59 in chips) 
+Seat 2: rubduckofdeath ($12.17 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($18.91 in chips) 
+Seat 5: fraternitati ($7.87 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+max2294: raises $0.20 to $0.30
+fraternitati: folds 
+EColo06!: raises $0.60 to $0.90
+GGR817: folds 
+rubduckofdeath: folds 
+max2294: folds [As]
+Uncalled bet ($0.60) returned to EColo06!
+EColo06! collected $0.75 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) collected ($0.75)
+
+
+
+PokerStars Hand #222942780557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:25:56 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.54 in chips) 
+Seat 2: rubduckofdeath ($12.07 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($18.61 in chips) 
+Seat 5: fraternitati ($7.87 in chips) 
+Seat 6: EColo06! ($10.45 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+max2294: folds 
+fraternitati: folds 
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.05) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.10 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) collected ($0.10)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942784184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:26:06 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.54 in chips) 
+Seat 2: rubduckofdeath ($12.02 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.26 in chips) 
+Seat 4: max2294 ($18.61 in chips) 
+Seat 5: fraternitati ($7.87 in chips) 
+Seat 6: EColo06! ($10.45 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+max2294: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: raises $0.20 to $0.30
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: calls $0.30
+EZEQUIEL.C10: folds 
+max2294: folds 
+*** FLOP *** [8s Ks Th]
+fraternitati: checks 
+rubduckofdeath: checks 
+*** TURN *** [8s Ks Th] [4s]
+fraternitati: bets $0.36
+rubduckofdeath: calls $0.36
+*** RIVER *** [8s Ks Th 4s] [5d]
+fraternitati: bets $0.93
+rubduckofdeath: folds 
+Uncalled bet ($0.93) returned to fraternitati
+fraternitati collected $1.40 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [8s Ks Th 4s 5d]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded on the River
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: max2294 (big blind) folded before Flop
+Seat 5: fraternitati collected ($1.40)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942801984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:26:55 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10.54 in chips) 
+Seat 2: rubduckofdeath ($11.36 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($18.51 in chips) 
+Seat 5: fraternitati ($8.61 in chips) 
+Seat 6: EColo06! ($10.45 in chips) 
+max2294: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: calls $0.05
+fraternitati: raises $0.20 to $0.30
+max2294: calls $0.20
+*** FLOP *** [5s Qh 3d]
+max2294: checks 
+fraternitati: bets $0.29
+max2294: folds 
+Uncalled bet ($0.29) returned to fraternitati
+fraternitati collected $0.57 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [5s Qh 3d]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: max2294 (small blind) folded on the Flop
+Seat 5: fraternitati (big blind) collected ($0.57)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942816192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:27:34 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.54 in chips) 
+Seat 2: rubduckofdeath ($11.36 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($18.21 in chips) 
+Seat 5: fraternitati ($8.88 in chips) 
+Seat 6: EColo06! ($10.45 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: calls $0.30
+fraternitati: calls $0.25
+EColo06!: folds 
+*** FLOP *** [Ah Ac 9d]
+fraternitati: bets $0.48
+GGR817: folds 
+max2294: folds 
+Uncalled bet ($0.48) returned to fraternitati
+fraternitati collected $0.96 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ah Ac 9d]
+Seat 1: GGR817 folded on the Flop
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 (button) folded on the Flop
+Seat 5: fraternitati (small blind) collected ($0.96)
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942830211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:28:12 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($11.36 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($17.91 in chips) 
+Seat 5: fraternitati ($9.54 in chips) 
+Seat 6: EColo06! ($10.35 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+fraternitati: folds 
+EColo06!: folds 
+Uncalled bet ($0.05) returned to GGR817
+GGR817 collected $0.10 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 (big blind) collected ($0.10)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942836845:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:28:31 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.29 in chips) 
+Seat 2: rubduckofdeath ($11.36 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($17.91 in chips) 
+Seat 5: fraternitati ($9.54 in chips) 
+Seat 6: EColo06! ($10.30 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+max2294: folds 
+fraternitati: folds 
+EColo06!: folds 
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to GGR817
+GGR817 collected $0.20 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: GGR817 (small blind) collected ($0.20)
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942847141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:28:59 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.39 in chips) 
+Seat 2: rubduckofdeath ($11.26 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.21 in chips) 
+Seat 4: max2294 ($17.91 in chips) 
+Seat 5: fraternitati ($9.54 in chips) 
+Seat 6: EColo06! ($10.30 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+max2294: raises $0.20 to $0.30
+fraternitati: folds 
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.20) returned to max2294
+max2294 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: max2294 collected ($0.25)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942860072:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:29:22 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.39 in chips) 
+Seat 2: rubduckofdeath ($11.21 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.11 in chips) 
+Seat 4: max2294 ($18.06 in chips) 
+Seat 5: fraternitati ($9.54 in chips) 
+Seat 6: EColo06! ($10.30 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+max2294: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: raises $0.20 to $0.30
+EColo06!: folds 
+GGR817 has timed out
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+Uncalled bet ($0.20) returned to fraternitati
+fraternitati collected $0.25 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: max2294 (big blind) folded before Flop
+Seat 5: fraternitati collected ($0.25)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942876937:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:30:01 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 2: rubduckofdeath ($11.21 in chips) 
+Seat 3: EZEQUIEL.C10 ($10.06 in chips) 
+Seat 4: max2294 ($17.96 in chips) 
+Seat 5: fraternitati ($9.69 in chips) 
+Seat 6: EColo06! ($10.30 in chips) 
+max2294: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: raises $0.60 to $0.90
+max2294: folds 
+fraternitati: raises $1.10 to $2
+rubduckofdeath: folds 
+EZEQUIEL.C10: calls $1.10
+*** FLOP *** [3d Ad 9c]
+fraternitati: checks 
+EZEQUIEL.C10: checks 
+*** TURN *** [3d Ad 9c] [4d]
+fraternitati: bets $2.08
+EZEQUIEL.C10: calls $2.08
+*** RIVER *** [3d Ad 9c 4d] [5h]
+fraternitati: checks 
+EZEQUIEL.C10: bets $5.98 and is all-in
+fraternitati: calls $5.61 and is all-in
+Uncalled bet ($0.37) returned to EZEQUIEL.C10
+*** SHOW DOWN ***
+EZEQUIEL.C10: shows [As Qs] (a pair of Aces)
+fraternitati: shows [Ks Kd] (a pair of Kings)
+EZEQUIEL.C10 collected $18.84 from pot
+*** SUMMARY ***
+Total pot $19.73 | Rake $0.89 
+Board [3d Ad 9c 4d 5h]
+Seat 2: rubduckofdeath folded before Flop
+Seat 3: EZEQUIEL.C10 (button) showed [As Qs] and won ($18.84) with a pair of Aces
+Seat 4: max2294 (small blind) folded before Flop
+Seat 5: fraternitati (big blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942903013:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:31:14 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.39 in chips) 
+Seat 2: rubduckofdeath ($10.91 in chips) 
+Seat 3: EZEQUIEL.C10 ($19.21 in chips) 
+Seat 4: max2294 ($17.91 in chips) 
+Seat 6: EColo06! ($10.30 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+max2294: calls $0.30
+EColo06!: folds 
+GGR817: folds 
+*** FLOP *** [8c 4c Qd]
+rubduckofdeath: checks 
+max2294: bets $0.36
+rubduckofdeath: calls $0.36
+*** TURN *** [8c 4c Qd] [Qh]
+rubduckofdeath: checks 
+max2294: checks 
+*** RIVER *** [8c 4c Qd Qh] [5s]
+rubduckofdeath: checks 
+max2294: checks 
+*** SHOW DOWN ***
+rubduckofdeath: shows [Jh Th] (a pair of Queens)
+max2294: shows [Ah Jc] (a pair of Queens - Ace kicker)
+max2294 collected $1.40 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [8c 4c Qd Qh 5s]
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath showed [Jh Th] and lost with a pair of Queens
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 (button) showed [Ah Jc] and won ($1.40) with a pair of Queens
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942925972:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:18 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.29 in chips) 
+Seat 2: rubduckofdeath ($10.25 in chips) 
+Seat 3: EZEQUIEL.C10 ($19.21 in chips) 
+Seat 4: max2294 ($18.65 in chips) 
+Seat 6: EColo06! ($10.25 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+fraternitati: sits out 
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+max2294: folds 
+EColo06!: raises $0.20 to $0.30
+GGR817: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.25 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 6: EColo06! (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942932414:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:36 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($10.15 in chips) 
+Seat 3: EZEQUIEL.C10 ($19.21 in chips) 
+Seat 4: max2294 ($18.65 in chips) 
+Seat 6: EColo06! ($10.40 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+fraternitati: sits out 
+*** HOLE CARDS ***
+max2294: raises $0.20 to $0.30
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.20) returned to max2294
+max2294 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: max2294 collected ($0.25)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942941131:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:33:00 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($10.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($19.11 in chips) 
+Seat 4: max2294 ($18.80 in chips) 
+Seat 6: EColo06! ($10.40 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+max2294: posts big blind $0.10
+fraternitati: sits out 
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: calls $0.05
+max2294: checks 
+*** FLOP *** [Td 9s 4c]
+EZEQUIEL.C10: checks 
+max2294: checks 
+*** TURN *** [Td 9s 4c] [Js]
+EZEQUIEL.C10: checks 
+max2294: checks 
+*** RIVER *** [Td 9s 4c Js] [Ts]
+EZEQUIEL.C10: bets $0.10
+max2294: folds 
+Uncalled bet ($0.10) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.19 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Td 9s 4c Js Ts]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) collected ($0.19)
+Seat 4: max2294 (big blind) folded on the River
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942971381:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:34:10 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($10.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($19.20 in chips) 
+Seat 4: max2294 ($18.70 in chips) 
+Seat 5: fraternitati ($10 in chips) 
+Seat 6: EColo06! ($10.40 in chips) 
+max2294: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: raises $0.10 to $0.20
+fraternitati: raises $0.50 to $0.70
+max2294: folds 
+Uncalled bet ($0.50) returned to fraternitati
+fraternitati collected $0.40 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: max2294 (small blind) folded before Flop
+Seat 5: fraternitati (big blind) collected ($0.40)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942980660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:34:36 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($10.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($19.20 in chips) 
+Seat 4: max2294 ($18.50 in chips) 
+Seat 5: fraternitati ($10.20 in chips) 
+Seat 6: EColo06! ($10.40 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: raises $0.20 to $0.30
+max2294: folds 
+fraternitati: raises $0.70 to $1
+EColo06!: folds 
+EZEQUIEL.C10: raises $1.50 to $2.50
+fraternitati: calls $1.50
+*** FLOP *** [9s 6s 8c]
+fraternitati: checks 
+EZEQUIEL.C10: bets $2.80
+fraternitati: raises $4.90 to $7.70 and is all-in
+EZEQUIEL.C10: calls $4.90
+EZEQUIEL.C10 has timed out
+*** TURN *** [9s 6s 8c] [7d]
+*** RIVER *** [9s 6s 8c 7d] [2c]
+*** SHOW DOWN ***
+fraternitati: shows [9d 8d] (two pair, Nines and Eights)
+EZEQUIEL.C10: shows [Kd Kh] (a pair of Kings)
+fraternitati cashed out the hand for $14.14 | Cash Out Fee $0.14
+*** SUMMARY ***
+Total pot $20.50 | Rake $0.92 
+Board [9s 6s 8c 7d 2c]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 showed [Kd Kh] and lost with a pair of Kings
+Seat 4: max2294 (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) showed [9d 8d] and won ($19.58) with two pair, Nines and Eights (pot not awarded as player cashed out)
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943007870:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:35:52 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($10.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9 in chips) 
+Seat 4: max2294 ($18.50 in chips) 
+Seat 5: fraternitati ($14.14 in chips) 
+Seat 6: EColo06! ($10.30 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+fraternitati: raises $0.20 to $0.30
+EColo06!: folds 
+GGR817: folds 
+Uncalled bet ($0.20) returned to fraternitati
+fraternitati collected $0.25 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: fraternitati (button) collected ($0.25)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943018285:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:36:22 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.14 in chips) 
+Seat 2: rubduckofdeath ($10.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9 in chips) 
+Seat 4: max2294 ($18.50 in chips) 
+Seat 5: fraternitati ($14.29 in chips) 
+Seat 6: EColo06! ($10.25 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+max2294: folds 
+fraternitati: folds 
+EColo06!: raises $0.20 to $0.30
+GGR817: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.25 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: EColo06! (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943026375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:36:45 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.09 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9 in chips) 
+Seat 4: max2294 ($18.50 in chips) 
+Seat 5: fraternitati ($14.29 in chips) 
+Seat 6: EColo06! ($10.40 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+max2294: raises $0.20 to $0.30
+fraternitati: raises $0.50 to $0.80
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: raises $1.20 to $2
+fraternitati: calls $1.20
+*** FLOP *** [6d 5h Qs]
+max2294: bets $1.98
+fraternitati: calls $1.98
+*** TURN *** [6d 5h Qs] [9h]
+max2294: bets $14.52 and is all-in
+fraternitati: calls $10.31 and is all-in
+Uncalled bet ($4.21) returned to max2294
+*** RIVER *** [6d 5h Qs 9h] [6s]
+*** SHOW DOWN ***
+max2294: shows [As Ah] (two pair, Aces and Sixes)
+fraternitati: shows [Qc Jc] (two pair, Queens and Sixes)
+max2294 collected $27.44 from pot
+*** SUMMARY ***
+Total pot $28.73 | Rake $1.29 
+Board [6d 5h Qs 9h 6s]
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 4: max2294 showed [As Ah] and won ($27.44) with two pair, Aces and Sixes
+Seat 5: fraternitati showed [Qc Jc] and lost with two pair, Queens and Sixes
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943051489:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:37:57 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.09 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.90 in chips) 
+Seat 4: max2294 ($31.65 in chips) 
+Seat 6: EColo06! ($10.40 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+max2294: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: raises $0.20 to $0.30
+GGR817: folds 
+rubduckofdeath: folds 
+fraternitati leaves the table
+EZEQUIEL.C10: folds 
+max2294: raises $0.70 to $1
+alfaomegabet joins the table at seat #5 
+EColo06!: folds 
+Uncalled bet ($0.70) returned to max2294
+max2294 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: max2294 (big blind) collected ($0.65)
+Seat 6: EColo06! folded before Flop
+
+
+
+PokerStars Hand #222943062718:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:38:29 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10.09 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.85 in chips) 
+Seat 4: max2294 ($32 in chips) 
+Seat 5: alfaomegabet ($10 in chips) 
+Seat 6: EColo06! ($10.10 in chips) 
+max2294: posts small blind $0.05
+alfaomegabet: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+Uncalled bet ($0.05) returned to alfaomegabet
+alfaomegabet collected $0.10 from pot
+alfaomegabet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: max2294 (small blind) folded before Flop
+Seat 5: alfaomegabet (big blind) collected ($0.10)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943070712:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:38:52 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.09 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.85 in chips) 
+Seat 4: max2294 ($31.95 in chips) 
+Seat 5: alfaomegabet ($10.05 in chips) 
+Seat 6: EColo06! ($10.10 in chips) 
+alfaomegabet: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+alfaomegabet: folds 
+EColo06!: folds 
+Uncalled bet ($0.20) returned to GGR817
+GGR817 collected $0.25 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 collected ($0.25)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 (button) folded before Flop (didn't bet)
+Seat 5: alfaomegabet (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943077743:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:12 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10.24 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.85 in chips) 
+Seat 4: max2294 ($31.95 in chips) 
+Seat 5: alfaomegabet ($10 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+max2294: folds 
+alfaomegabet: raises $0.20 to $0.30
+EColo06!: folds 
+GGR817: folds 
+Uncalled bet ($0.20) returned to alfaomegabet
+alfaomegabet collected $0.25 from pot
+alfaomegabet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: alfaomegabet (button) collected ($0.25)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943089061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:45 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.14 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.85 in chips) 
+Seat 4: max2294 ($31.95 in chips) 
+Seat 5: alfaomegabet ($10.15 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+max2294: folds 
+alfaomegabet: folds 
+EColo06!: raises $0.20 to $0.30
+GGR817: folds 
+rubduckofdeath: calls $0.20
+*** FLOP *** [6d 5d 3d]
+rubduckofdeath: checks 
+EColo06!: checks 
+*** TURN *** [6d 5d 3d] [5c]
+rubduckofdeath: bets $0.31
+EColo06!: raises $0.68 to $0.99
+rubduckofdeath: calls $0.68
+*** RIVER *** [6d 5d 3d 5c] [8h]
+rubduckofdeath: checks 
+EColo06!: bets $0.83
+rubduckofdeath: folds 
+Uncalled bet ($0.83) returned to EColo06!
+EColo06! collected $2.51 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.63 | Rake $0.12 
+Board [6d 5d 3d 5c 8h]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the River
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: alfaomegabet folded before Flop (didn't bet)
+Seat 6: EColo06! (button) collected ($2.51)
+
+
+
+PokerStars Hand #222943111078:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:40:48 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.09 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.85 in chips) 
+Seat 4: max2294 ($31.95 in chips) 
+Seat 5: alfaomegabet ($10.15 in chips) 
+Seat 6: EColo06! ($11.22 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+max2294: folds 
+alfaomegabet: folds 
+EColo06!: folds 
+GGR817: raises $0.15 to $0.25
+rubduckofdeath: folds 
+EZEQUIEL.C10: calls $0.15
+*** FLOP *** [9s Qh 7c]
+EZEQUIEL.C10: checks 
+GGR817: bets $0.27
+EZEQUIEL.C10: calls $0.27
+*** TURN *** [9s Qh 7c] [9d]
+EZEQUIEL.C10: checks 
+GGR817: checks 
+*** RIVER *** [9s Qh 7c 9d] [2s]
+EZEQUIEL.C10: bets $0.30
+GGR817: folds 
+Uncalled bet ($0.30) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $1.04 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [9s Qh 7c 9d 2s]
+Seat 1: GGR817 (button) folded on the River
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) collected ($1.04)
+Seat 4: max2294 folded before Flop (didn't bet)
+Seat 5: alfaomegabet folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943133128:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:52 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.37 in chips) 
+Seat 5: alfaomegabet ($10.15 in chips) 
+Seat 6: EColo06! ($11.22 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+max2294: is sitting out 
+alfaomegabet: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: raises $0.20 to $0.30
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+alfaomegabet: folds 
+Uncalled bet ($0.20) returned to EColo06!
+EColo06! collected $0.25 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 5: alfaomegabet (big blind) folded before Flop
+Seat 6: EColo06! collected ($0.25)
+
+
+
+PokerStars Hand #222943137648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:05 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.32 in chips) 
+Seat 5: alfaomegabet ($10.05 in chips) 
+Seat 6: EColo06! ($11.37 in chips) 
+max2294 leaves the table
+alfaomegabet: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: folds 
+Ger Cortes joins the table at seat #4 
+EZEQUIEL.C10: folds 
+alfaomegabet: folds 
+Uncalled bet ($0.05) returned to EColo06!
+EColo06! collected $0.10 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 5: alfaomegabet (small blind) folded before Flop
+Seat 6: EColo06! (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943141541:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:16 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.32 in chips) 
+Seat 5: alfaomegabet ($10 in chips) 
+Seat 6: EColo06! ($11.42 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+Ger Cortes: sits out 
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+alfaomegabet: calls $0.30
+EColo06!: calls $0.25
+GGR817: folds 
+*** FLOP *** [6h Qc 2h]
+EColo06!: checks 
+rubduckofdeath: bets $0.33
+alfaomegabet: raises $1.25 to $1.58
+EColo06!: folds 
+rubduckofdeath: folds 
+Uncalled bet ($1.25) returned to alfaomegabet
+alfaomegabet collected $1.59 from pot
+alfaomegabet: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.07 
+Board [6h Qc 2h]
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath folded on the Flop
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 5: alfaomegabet (button) collected ($1.59)
+Seat 6: EColo06! (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222943164812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:17 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.32 in chips) 
+Seat 5: alfaomegabet ($10.96 in chips) 
+Seat 6: EColo06! ($11.12 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+Ger Cortes: sits out 
+*** HOLE CARDS ***
+EZEQUIEL.C10: raises $0.20 to $0.30
+alfaomegabet: folds 
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.25 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: EZEQUIEL.C10 collected ($0.25)
+Seat 5: alfaomegabet folded before Flop (didn't bet)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941805466:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:42:59 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.46 in chips) 
+Seat 2: rubduckofdeath ($10.94 in chips) 
+Seat 3: krcampbll ($20.28 in chips) 
+Seat 5: fraternitati ($8.96 in chips) 
+Seat 6: Gav10862 ($4.57 in chips) 
+krcampbll: posts small blind $0.05
+unmix has timed out
+unmix: is sitting out 
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+unmix is disconnected 
+Gav10862: raises $0.20 to $0.30
+SKV_1985: folds 
+rubduckofdeath: raises $0.75 to $1.05
+krcampbll: folds 
+fraternitati: folds 
+Gav10862: folds 
+Uncalled bet ($0.75) returned to rubduckofdeath
+rubduckofdeath collected $0.75 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) collected ($0.75)
+Seat 3: krcampbll (small blind) folded before Flop
+Seat 5: fraternitati (big blind) folded before Flop
+Seat 6: Gav10862 folded before Flop
+
+
+
+PokerStars Hand #222941819727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:43:35 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.46 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($20.23 in chips) 
+Seat 5: fraternitati ($8.86 in chips) 
+Seat 6: Gav10862 ($4.27 in chips) 
+fraternitati: posts small blind $0.05
+Gav10862: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: raises $0.20 to $0.30
+fraternitati: folds 
+Gav10862: folds 
+Uncalled bet ($0.20) returned to krcampbll
+krcampbll collected $0.25 from pot
+krcampbll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: krcampbll (button) collected ($0.25)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: Gav10862 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222941824977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:43:48 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.46 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($20.38 in chips) 
+Seat 5: fraternitati ($8.81 in chips) 
+Seat 6: Gav10862 ($4.17 in chips) 
+Gav10862: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+krcampbll: folds 
+fraternitati: raises $0.15 to $0.25
+Gav10862: calls $0.20
+SKV_1985: folds 
+*** FLOP *** [Qc 6s 7s]
+Gav10862: checks 
+fraternitati: checks 
+*** TURN *** [Qc 6s 7s] [As]
+Gav10862: checks 
+fraternitati: bets $0.29
+Gav10862: calls $0.29
+*** RIVER *** [Qc 6s 7s As] [7h]
+Gav10862: checks 
+fraternitati: bets $0.75
+Gav10862: folds 
+Uncalled bet ($0.75) returned to fraternitati
+fraternitati collected $1.13 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [Qc 6s 7s As 7h]
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: krcampbll folded before Flop (didn't bet)
+Seat 5: fraternitati (button) collected ($1.13)
+Seat 6: Gav10862 (small blind) folded on the River
+
+
+
+PokerStars Hand #222941847755:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:44:46 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($10.36 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($20.38 in chips) 
+Seat 5: fraternitati ($9.40 in chips) 
+Seat 6: Gav10862 ($3.63 in chips) 
+SKV_1985: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+krcampbll: folds 
+fraternitati: raises $0.15 to $0.25
+Gav10862: calls $0.25
+SKV_1985: folds 
+rubduckofdeath: folds 
+*** FLOP *** [Qc Qh 3h]
+fraternitati: bets $0.31
+Gav10862: raises $3.07 to $3.38 and is all-in
+fraternitati: folds 
+Uncalled bet ($3.07) returned to Gav10862
+Gav10862 collected $1.21 from pot
+Gav10862: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [Qc Qh 3h]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: krcampbll folded before Flop (didn't bet)
+Seat 5: fraternitati folded on the Flop
+Seat 6: Gav10862 (button) collected ($1.21)
+
+
+
+PokerStars Hand #222941861327:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:21 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.31 in chips) 
+Seat 2: rubduckofdeath ($11.29 in chips) 
+Seat 3: krcampbll ($20.38 in chips) 
+Seat 5: fraternitati ($8.84 in chips) 
+Seat 6: Gav10862 ($4.28 in chips) 
+rubduckofdeath: posts small blind $0.05
+krcampbll: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+Gav10862: folds 
+SKV_1985: folds 
+rubduckofdeath: raises $0.20 to $0.30
+krcampbll: folds 
+Uncalled bet ($0.20) returned to rubduckofdeath
+rubduckofdeath collected $0.20 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) collected ($0.20)
+Seat 3: krcampbll (big blind) folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: Gav10862 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941869276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:41 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.31 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($20.28 in chips) 
+Seat 4: unmix ($9.57 in chips) 
+Seat 5: fraternitati ($8.84 in chips) 
+Seat 6: Gav10862 ($4.28 in chips) 
+krcampbll: posts small blind $0.05
+unmix: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: folds 
+Gav10862: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: raises $0.20 to $0.30
+unmix: folds 
+Uncalled bet ($0.20) returned to krcampbll
+krcampbll collected $0.20 from pot
+krcampbll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: krcampbll (small blind) collected ($0.20)
+Seat 4: unmix (big blind) folded before Flop
+Seat 5: fraternitati folded before Flop (didn't bet)
+Seat 6: Gav10862 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941877093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:01 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.31 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($20.38 in chips) 
+Seat 4: unmix ($9.47 in chips) 
+Seat 5: fraternitati ($8.84 in chips) 
+Seat 6: Gav10862 ($4.28 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+Gav10862: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: folds 
+unmix: folds 
+Uncalled bet ($0.05) returned to fraternitati
+fraternitati collected $0.10 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: krcampbll (button) folded before Flop (didn't bet)
+Seat 4: unmix (small blind) folded before Flop
+Seat 5: fraternitati (big blind) collected ($0.10)
+Seat 6: Gav10862 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941880487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:10 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.31 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($20.38 in chips) 
+Seat 4: unmix ($9.42 in chips) 
+Seat 5: fraternitati ($8.89 in chips) 
+Seat 6: Gav10862 ($4.28 in chips) 
+fraternitati: posts small blind $0.05
+Gav10862: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: raises $0.10 to $0.20
+unmix: calls $0.20
+fraternitati: folds 
+Gav10862: calls $0.10
+*** FLOP *** [7h 4h 6c]
+Gav10862: bets $0.45
+krcampbll: calls $0.45
+unmix: raises $1.97 to $2.42
+Gav10862: raises $1.66 to $4.08 and is all-in
+krcampbll: folds 
+unmix: calls $1.66
+*** TURN *** [7h 4h 6c] [Jd]
+*** RIVER *** [7h 4h 6c Jd] [8d]
+*** SHOW DOWN ***
+Gav10862: shows [7s 3s] (a pair of Sevens)
+unmix: shows [Jc Jh] (three of a kind, Jacks)
+unmix cashed out the hand for $6.07 | Cash Out Fee $0.06
+*** SUMMARY ***
+Total pot $9.26 | Rake $0.42 
+Board [7h 4h 6c Jd 8d]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: krcampbll folded on the Flop
+Seat 4: unmix (button) showed [Jc Jh] and won ($8.84) with three of a kind, Jacks (pot not awarded as player cashed out)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: Gav10862 (big blind) showed [7s 3s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #222941899884:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:47:00 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.31 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($19.73 in chips) 
+Seat 4: unmix ($11.21 in chips) 
+Seat 5: fraternitati ($8.84 in chips) 
+SKV_1985: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+krcampbll: folds 
+Gav10862 leaves the table
+unmix: folds 
+fraternitati: folds 
+SKV_1985: folds 
+Uncalled bet ($0.05) returned to rubduckofdeath
+rubduckofdeath collected $0.10 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) collected ($0.10)
+Seat 3: krcampbll folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941905698:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:47:15 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.26 in chips) 
+Seat 2: rubduckofdeath ($11.44 in chips) 
+Seat 3: krcampbll ($19.73 in chips) 
+Seat 4: unmix ($11.21 in chips) 
+Seat 5: fraternitati ($8.84 in chips) 
+rubduckofdeath: posts small blind $0.05
+krcampbll: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: folds 
+fraternitati: folds 
+SKV_1985: raises $0.20 to $0.30
+rubduckofdeath: folds 
+krcampbll: calls $0.20
+*** FLOP *** [7c 2d 2h]
+krcampbll: checks 
+SKV_1985: checks 
+*** TURN *** [7c 2d 2h] [3c]
+EColo06! joins the table at seat #6 
+krcampbll: checks 
+SKV_1985: checks 
+*** RIVER *** [7c 2d 2h 3c] [6h]
+krcampbll: checks 
+SKV_1985: checks 
+*** SHOW DOWN ***
+krcampbll: shows [4h Jh] (a pair of Deuces)
+SKV_1985: shows [9s Jc] (a pair of Deuces - Jack+Nine kicker)
+SKV_1985 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7c 2d 2h 3c 6h]
+Seat 1: SKV_1985 (button) showed [9s Jc] and won ($0.62) with a pair of Deuces
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: krcampbll (big blind) showed [4h Jh] and lost with a pair of Deuces
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941922559:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:47:59 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.58 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($19.43 in chips) 
+Seat 4: unmix ($11.21 in chips) 
+Seat 5: fraternitati ($8.84 in chips) 
+krcampbll: posts small blind $0.05
+unmix: posts big blind $0.10
+EColo06!: sits out 
+*** HOLE CARDS ***
+fraternitati: raises $0.15 to $0.25
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: folds 
+unmix: calls $0.15
+*** FLOP *** [Js 5d Th]
+unmix: bets $0.53
+fraternitati: calls $0.53
+*** TURN *** [Js 5d Th] [7h]
+unmix: bets $0.77
+fraternitati: calls $0.77
+*** RIVER *** [Js 5d Th 7h] [3d]
+unmix: checks 
+fraternitati: checks 
+*** SHOW DOWN ***
+unmix: shows [Qd Jd] (a pair of Jacks)
+fraternitati: mucks hand 
+unmix collected $3.01 from pot
+*** SUMMARY ***
+Total pot $3.15 | Rake $0.14 
+Board [Js 5d Th 7h 3d]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: krcampbll (small blind) folded before Flop
+Seat 4: unmix (big blind) showed [Qd Jd] and won ($3.01) with a pair of Jacks
+Seat 5: fraternitati mucked
+
+
+
+PokerStars Hand #222941942756:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:51 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.58 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($19.38 in chips) 
+Seat 4: unmix ($12.67 in chips) 
+Seat 5: fraternitati ($7.29 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+EColo06!: sits out 
+*** HOLE CARDS ***
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: raises $0.20 to $0.30
+unmix: folds 
+fraternitati: folds 
+Uncalled bet ($0.20) returned to krcampbll
+krcampbll collected $0.25 from pot
+krcampbll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: krcampbll (button) collected ($0.25)
+Seat 4: unmix (small blind) folded before Flop
+Seat 5: fraternitati (big blind) folded before Flop
+
+
+
+PokerStars Hand #222941948799:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:49:07 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.58 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($19.53 in chips) 
+Seat 4: unmix ($12.62 in chips) 
+Seat 5: fraternitati ($7.19 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: raises $0.20 to $0.30
+unmix: folds 
+fraternitati: folds 
+EColo06!: calls $0.20
+*** FLOP *** [Ac 3d Ad]
+EColo06!: checks 
+krcampbll: bets $0.30
+EColo06!: folds 
+Uncalled bet ($0.30) returned to krcampbll
+krcampbll collected $0.62 from pot
+krcampbll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ac 3d Ad]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: krcampbll collected ($0.62)
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222941957188:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:49:28 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.58 in chips) 
+Seat 2: rubduckofdeath ($11.39 in chips) 
+Seat 3: krcampbll ($19.85 in chips) 
+Seat 4: unmix ($12.62 in chips) 
+Seat 5: fraternitati ($10 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+EColo06!: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+krcampbll: folds 
+unmix: calls $0.30
+fraternitati: folds 
+EColo06!: folds 
+SKV_1985: folds 
+*** FLOP *** [8s 2h 8d]
+rubduckofdeath: checks 
+unmix: checks 
+*** TURN *** [8s 2h 8d] [9c]
+rubduckofdeath: checks 
+unmix: checks 
+*** RIVER *** [8s 2h 8d 9c] [7h]
+rubduckofdeath: checks 
+unmix: checks 
+*** SHOW DOWN ***
+rubduckofdeath: shows [As Td] (a pair of Eights)
+unmix: mucks hand 
+rubduckofdeath collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8s 2h 8d 9c 7h]
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 2: rubduckofdeath showed [As Td] and won ($0.72) with a pair of Eights
+Seat 3: krcampbll folded before Flop (didn't bet)
+Seat 4: unmix mucked
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222941980456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:50:29 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($10.48 in chips) 
+Seat 2: rubduckofdeath ($11.81 in chips) 
+Seat 3: krcampbll ($19.85 in chips) 
+Seat 4: unmix ($12.32 in chips) 
+Seat 5: fraternitati ($10 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+SKV_1985: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+krcampbll has timed out
+krcampbll: folds 
+unmix: folds 
+fraternitati: raises $0.20 to $0.30
+EColo06!: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.20) returned to fraternitati
+fraternitati collected $0.25 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: krcampbll folded before Flop (didn't bet)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati collected ($0.25)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941991637:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:50:58 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.43 in chips) 
+Seat 2: rubduckofdeath ($11.71 in chips) 
+Seat 3: krcampbll ($19.85 in chips) 
+Seat 4: unmix ($12.32 in chips) 
+Seat 5: fraternitati ($10.15 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+krcampbll: posts big blind $0.10
+*** HOLE CARDS ***
+unmix: raises $0.20 to $0.30
+fraternitati: calls $0.30
+EColo06!: folds 
+SKV_1985: folds 
+rubduckofdeath: folds 
+krcampbll: folds 
+*** FLOP *** [7s 6h Th]
+unmix: checks 
+fraternitati: bets $0.36
+unmix: folds 
+Uncalled bet ($0.36) returned to fraternitati
+fraternitati collected $0.72 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [7s 6h Th]
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: krcampbll (big blind) folded before Flop
+Seat 4: unmix folded on the Flop
+Seat 5: fraternitati collected ($0.72)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942002859:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:51:27 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.43 in chips) 
+Seat 2: rubduckofdeath ($11.66 in chips) 
+Seat 3: krcampbll ($19.75 in chips) 
+Seat 4: unmix ($12.02 in chips) 
+Seat 5: fraternitati ($10.57 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+krcampbll: posts small blind $0.05
+unmix: posts big blind $0.10
+*** HOLE CARDS ***
+fraternitati: raises $0.15 to $0.25
+EColo06!: folds 
+SKV_1985: calls $0.25
+rubduckofdeath: folds 
+rubduckofdeath leaves the table
+krcampbll: folds 
+unmix: folds 
+*** FLOP *** [Qh As Jh]
+fraternitati: bets $0.31
+SKV_1985: folds 
+Uncalled bet ($0.31) returned to fraternitati
+fraternitati collected $0.62 from pot
+fraternitati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qh As Jh]
+Seat 1: SKV_1985 folded on the Flop
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: krcampbll (small blind) folded before Flop
+Seat 4: unmix (big blind) folded before Flop
+Seat 5: fraternitati collected ($0.62)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942009732:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:51:45 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.18 in chips) 
+Seat 3: krcampbll ($19.70 in chips) 
+Seat 4: unmix ($11.92 in chips) 
+Seat 5: fraternitati ($10.94 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+unmix: posts small blind $0.05
+fraternitati: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+SKV_1985: folds 
+krcampbll: folds 
+KramSS joins the table at seat #2 
+unmix: raises $0.35 to $0.45
+fraternitati: folds 
+Uncalled bet ($0.35) returned to unmix
+unmix collected $0.20 from pot
+unmix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 3: krcampbll (button) folded before Flop (didn't bet)
+Seat 4: unmix (small blind) collected ($0.20)
+Seat 5: fraternitati (big blind) folded before Flop
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942015904:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:52:01 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.18 in chips) 
+Seat 3: krcampbll ($19.70 in chips) 
+Seat 4: unmix ($12.02 in chips) 
+Seat 5: fraternitati ($10.84 in chips) 
+Seat 6: EColo06! ($10 in chips) 
+fraternitati: posts small blind $0.05
+EColo06!: posts big blind $0.10
+KramSS: sits out 
+*** HOLE CARDS ***
+SKV_1985: folds 
+krcampbll: folds 
+unmix: folds 
+fraternitati: folds 
+Uncalled bet ($0.05) returned to EColo06!
+EColo06! collected $0.10 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 3: krcampbll folded before Flop (didn't bet)
+Seat 4: unmix (button) folded before Flop (didn't bet)
+Seat 5: fraternitati (small blind) folded before Flop
+Seat 6: EColo06! (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222942020331:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:52:13 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.18 in chips) 
+Seat 3: krcampbll ($19.70 in chips) 
+Seat 4: unmix ($12.02 in chips) 
+Seat 5: fraternitati ($10.79 in chips) 
+Seat 6: EColo06! ($10.05 in chips) 
+EColo06!: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+KramSS: sits out 
+*** HOLE CARDS ***
+krcampbll: raises $0.20 to $0.30
+unmix: folds 
+fraternitati: folds 
+EColo06!: folds 
+SKV_1985: folds 
+Uncalled bet ($0.20) returned to krcampbll
+krcampbll collected $0.25 from pot
+krcampbll: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 3: krcampbll collected ($0.25)
+Seat 4: unmix folded before Flop (didn't bet)
+Seat 5: fraternitati (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943178571:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:57 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.27 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.17 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: alfaomegabet ($10.96 in chips) 
+Seat 6: EColo06! ($11.12 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+alfaomegabet: folds 
+EColo06!: folds 
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: calls $0.30
+EZEQUIEL.C10: folds 
+Ger Cortes: calls $0.20
+*** FLOP *** [8h 8c 5s]
+Ger Cortes: checks 
+GGR817: checks 
+rubduckofdeath: checks 
+*** TURN *** [8h 8c 5s] [Ad]
+Ger Cortes: checks 
+GGR817: checks 
+rubduckofdeath: checks 
+*** RIVER *** [8h 8c 5s Ad] [4s]
+Ger Cortes: checks 
+GGR817: checks 
+rubduckofdeath: checks 
+*** SHOW DOWN ***
+Ger Cortes: shows [7h 7c] (two pair, Eights and Sevens)
+GGR817: mucks hand 
+rubduckofdeath: shows [9c 9h] (two pair, Nines and Eights)
+rubduckofdeath collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8h 8c 5s Ad 4s]
+Seat 1: GGR817 mucked
+Seat 2: rubduckofdeath (button) showed [9c 9h] and won ($0.91) with two pair, Nines and Eights
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) showed [7h 7c] and lost with two pair, Eights and Sevens
+Seat 5: alfaomegabet folded before Flop (didn't bet)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943196708:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:50 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.88 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.12 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: alfaomegabet ($10.96 in chips) 
+Seat 6: EColo06! ($11.12 in chips) 
+Ger Cortes: posts small blind $0.05
+alfaomegabet: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+Uncalled bet ($0.05) returned to alfaomegabet
+alfaomegabet collected $0.10 from pot
+alfaomegabet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) folded before Flop
+Seat 5: alfaomegabet (big blind) collected ($0.10)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943203315:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:09 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.88 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.12 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: alfaomegabet ($11.01 in chips) 
+Seat 6: EColo06! ($11.12 in chips) 
+alfaomegabet: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+alfaomegabet: raises $0.20 to $0.30
+EColo06!: folds 
+Uncalled bet ($0.20) returned to alfaomegabet
+alfaomegabet collected $0.20 from pot
+alfaomegabet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) folded before Flop (didn't bet)
+Seat 5: alfaomegabet (small blind) collected ($0.20)
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943209428:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:27 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.88 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.12 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: alfaomegabet ($11.11 in chips) 
+Seat 6: EColo06! ($11.02 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+alfaomegabet: raises $0.20 to $0.30
+EColo06!: folds 
+GGR817: calls $0.20
+*** FLOP *** [8h 6h Js]
+GGR817: checks 
+alfaomegabet: bets $0.20
+GGR817: calls $0.20
+*** TURN *** [8h 6h Js] [Jh]
+GGR817: checks 
+alfaomegabet: checks 
+*** RIVER *** [8h 6h Js Jh] [Ks]
+GGR817: checks 
+alfaomegabet: checks 
+*** SHOW DOWN ***
+GGR817: shows [As 8d] (two pair, Jacks and Eights)
+alfaomegabet: shows [Qd Qc] (two pair, Queens and Jacks)
+alfaomegabet collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8h 6h Js Jh Ks]
+Seat 1: GGR817 (big blind) showed [As 8d] and lost with two pair, Jacks and Eights
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: alfaomegabet (button) showed [Qd Qc] and won ($1) with two pair, Queens and Jacks
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943232401:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:25 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.88 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.12 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: alfaomegabet ($11.61 in chips) 
+Seat 6: EColo06! ($10.97 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+alfaomegabet: folds 
+EColo06!: folds 
+alfaomegabet leaves the table
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: calls $0.20
+*** FLOP *** [Tc 4d Ks]
+jersavard97 joins the table at seat #5 
+GGR817: checks 
+rubduckofdeath: bets $0.29
+GGR817: folds 
+Uncalled bet ($0.29) returned to rubduckofdeath
+rubduckofdeath collected $0.57 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc 4d Ks]
+Seat 1: GGR817 (small blind) folded on the Flop
+Seat 2: rubduckofdeath (big blind) collected ($0.57)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: alfaomegabet folded before Flop (didn't bet)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943245557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:03 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.15 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.12 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: jersavard97 ($4.20 in chips) 
+Seat 6: EColo06! ($10.97 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+jersavard97: posts big blind $0.10
+*** HOLE CARDS ***
+Ger Cortes: folds 
+jersavard97: checks 
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: checks 
+*** FLOP *** [9s Ts 4d]
+EZEQUIEL.C10: checks 
+jersavard97: bets $0.10
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.10) returned to jersavard97
+jersavard97 collected $0.24 from pot
+jersavard97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s Ts 4d]
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded on the Flop
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: jersavard97 collected ($0.24)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943258491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:41 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($9.02 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: jersavard97 ($4.34 in chips) 
+Seat 6: EColo06! ($10.97 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+jersavard97: raises $0.10 to $0.20
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+Uncalled bet ($0.10) returned to jersavard97
+jersavard97 collected $0.25 from pot
+jersavard97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) folded before Flop
+Seat 5: jersavard97 collected ($0.25)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943263917:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:57 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.10 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.97 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: jersavard97 ($4.49 in chips) 
+Seat 6: EColo06! ($10.97 in chips) 
+Ger Cortes: posts small blind $0.05
+jersavard97: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: calls $0.30
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+jersavard97: calls $0.20
+*** FLOP *** [6c 3c 8s]
+jersavard97: checks 
+GGR817: checks 
+rubduckofdeath: checks 
+*** TURN *** [6c 3c 8s] [Qd]
+jersavard97: checks 
+GGR817: bets $0.30
+rubduckofdeath: calls $0.30
+jersavard97: calls $0.30
+*** RIVER *** [6c 3c 8s Qd] [3h]
+jersavard97: bets $0.40
+GGR817: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.40) returned to jersavard97
+jersavard97 collected $1.77 from pot
+jersavard97: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [6c 3c 8s Qd 3h]
+Seat 1: GGR817 folded on the River
+Seat 2: rubduckofdeath folded on the River
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) folded before Flop
+Seat 5: jersavard97 (big blind) collected ($1.77)
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943294045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:08 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.50 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.97 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: jersavard97 ($5.66 in chips) 
+Seat 6: EColo06! ($10.97 in chips) 
+jersavard97: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: raises $0.15 to $0.25
+jersavard97: raises $0.15 to $0.40
+EColo06!: folds 
+Ger Cortes: calls $0.15
+*** FLOP *** [5s 9c Ah]
+jersavard97: checks 
+Ger Cortes: checks 
+*** TURN *** [5s 9c Ah] [9h]
+jersavard97: checks 
+Ger Cortes: checks 
+*** RIVER *** [5s 9c Ah 9h] [9s]
+jersavard97: bets $0.10
+Ger Cortes: calls $0.10
+*** SHOW DOWN ***
+jersavard97: shows [Kc Tc] (three of a kind, Nines)
+Ger Cortes: shows [3c 3s] (a full house, Nines full of Threes)
+Ger Cortes collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5s 9c Ah 9h 9s]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) showed [3c 3s] and won ($1.05) with a full house, Nines full of Threes
+Seat 5: jersavard97 (small blind) showed [Kc Tc] and lost with three of a kind, Nines
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943316408:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:14 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.50 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.97 in chips) 
+Seat 4: Ger Cortes ($10.55 in chips) 
+Seat 5: jersavard97 ($5.16 in chips) 
+Seat 6: EColo06! ($10.87 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: raises $0.15 to $0.25
+jersavard97: calls $0.25
+EColo06!: folds 
+GGR817: folds 
+*** FLOP *** [Kd Ah 6h]
+Ger Cortes: bets $0.30
+jersavard97: calls $0.30
+*** TURN *** [Kd Ah 6h] [5d]
+Ger Cortes: bets $0.50
+jersavard97: calls $0.50
+*** RIVER *** [Kd Ah 6h 5d] [6s]
+Ger Cortes: checks 
+jersavard97: checks 
+*** SHOW DOWN ***
+Ger Cortes: shows [8s 9s] (a pair of Sixes)
+jersavard97: shows [Ks 2s] (two pair, Kings and Sixes)
+jersavard97 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Kd Ah 6h 5d 6s]
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes showed [8s 9s] and lost with a pair of Sixes
+Seat 5: jersavard97 (button) showed [Ks 2s] and won ($2.15) with two pair, Kings and Sixes
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943335263:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:11 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.50 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.97 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: jersavard97 ($6.26 in chips) 
+Seat 6: EColo06! ($10.82 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+jersavard97: calls $0.10
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: checks 
+*** FLOP *** [2c 4d 9s]
+rubduckofdeath: checks 
+jersavard97: checks 
+*** TURN *** [2c 4d 9s] [Qd]
+rubduckofdeath: checks 
+jersavard97: bets $0.10
+rubduckofdeath: calls $0.10
+*** RIVER *** [2c 4d 9s Qd] [Js]
+rubduckofdeath: checks 
+jersavard97: bets $0.30
+rubduckofdeath: folds 
+Uncalled bet ($0.30) returned to jersavard97
+jersavard97 collected $0.43 from pot
+jersavard97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c 4d 9s Qd Js]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the River
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: jersavard97 collected ($0.43)
+Seat 6: EColo06! (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943355448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:50 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.30 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.97 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: jersavard97 ($6.49 in chips) 
+Seat 6: EColo06! ($10.82 in chips) 
+rubduckofdeath: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+Ger Cortes: raises $0.15 to $0.25
+jersavard97: raises $0.15 to $0.40
+EColo06!: calls $0.40
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: calls $0.30
+Ger Cortes: calls $0.15
+*** FLOP *** [Kd 4s Ks]
+EZEQUIEL.C10: checks 
+Ger Cortes: checks 
+jersavard97: bets $0.50
+EColo06!: calls $0.50
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+*** TURN *** [Kd 4s Ks] [3c]
+jersavard97: checks 
+EColo06!: checks 
+*** RIVER *** [Kd 4s Ks 3c] [9s]
+jersavard97: bets $0.40
+EColo06!: raises $9.52 to $9.92 and is all-in
+jersavard97: calls $5.19 and is all-in
+Uncalled bet ($4.33) returned to EColo06!
+*** SHOW DOWN ***
+EColo06!: shows [5s As] (a flush, Ace high)
+jersavard97: shows [7h 7d] (two pair, Kings and Sevens)
+EColo06! collected $13.21 from pot
+*** SUMMARY ***
+Total pot $13.83 | Rake $0.62 
+Board [Kd 4s Ks 3c 9s]
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: EZEQUIEL.C10 (big blind) folded on the Flop
+Seat 4: Ger Cortes folded on the Flop
+Seat 5: jersavard97 showed [7h 7d] and lost with two pair, Kings and Sevens
+Seat 6: EColo06! showed [5s As] and won ($13.21) with a flush, Ace high
+
+
+
+PokerStars Hand #222943390402:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:34 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.25 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.57 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 6: EColo06! ($17.54 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+jersavard97 leaves the table
+EColo06!: folds 
+GGR817: folds 
+Steven1McKay joins the table at seat #5 
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+Ger Cortes: calls $0.20
+*** FLOP *** [7d 7s Qs]
+Ger Cortes: checks 
+rubduckofdeath: checks 
+*** TURN *** [7d 7s Qs] [Jd]
+Ger Cortes: checks 
+rubduckofdeath: checks 
+*** RIVER *** [7d 7s Qs Jd] [Kd]
+Ger Cortes: checks 
+rubduckofdeath: checks 
+*** SHOW DOWN ***
+Ger Cortes: shows [8c 9c] (a pair of Sevens)
+rubduckofdeath: shows [Tc Kh] (two pair, Kings and Sevens)
+rubduckofdeath collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7d 7s Qs Jd Kd]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) showed [Tc Kh] and won ($0.62) with two pair, Kings and Sevens
+Seat 3: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) showed [8c 9c] and lost with a pair of Sevens
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943404304:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:15 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.57 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.52 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: Steven1McKay ($10 in chips) 
+Seat 6: EColo06! ($17.54 in chips) 
+Ger Cortes: posts small blind $0.05
+Steven1McKay: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: raises $0.20 to $0.30
+Steven1McKay: calls $0.20
+*** FLOP *** [7h Ts 6d]
+Ger Cortes: bets $0.31
+Steven1McKay: calls $0.31
+*** TURN *** [7h Ts 6d] [4s]
+Ger Cortes: checks 
+Steven1McKay: bets $0.72
+Ger Cortes: raises $2.08 to $2.80
+Steven1McKay: calls $2.08
+*** RIVER *** [7h Ts 6d 4s] [Kh]
+Ger Cortes: bets $6.59 and is all-in
+Steven1McKay: calls $6.59 and is all-in
+*** SHOW DOWN ***
+Ger Cortes: shows [Jh Jc] (a pair of Jacks)
+Steven1McKay: shows [8h Kc] (a pair of Kings)
+Steven1McKay collected $19.10 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0.90 
+Board [7h Ts 6d 4s Kh]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) showed [Jh Jc] and lost with a pair of Jacks
+Seat 5: Steven1McKay (big blind) showed [8h Kc] and won ($19.10) with a pair of Kings
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943428237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:33 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.57 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.52 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: Steven1McKay ($19.10 in chips) 
+Seat 6: EColo06! ($17.54 in chips) 
+Steven1McKay: posts small blind $0.05
+EColo06!: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: folds 
+EZEQUIEL.C10: folds 
+Ger Cortes: raises $0.15 to $0.25
+Steven1McKay: folds 
+EColo06!: folds 
+Uncalled bet ($0.15) returned to Ger Cortes
+Ger Cortes collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) collected ($0.25)
+Seat 5: Steven1McKay (small blind) folded before Flop
+Seat 6: EColo06! (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943433074:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:52 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.57 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.52 in chips) 
+Seat 4: Ger Cortes ($10.15 in chips) 
+Seat 5: Steven1McKay ($19.05 in chips) 
+Seat 6: EColo06! ($17.44 in chips) 
+EColo06!: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+Steven1McKay: folds 
+EColo06!: folds 
+GGR817: folds 
+Uncalled bet ($0.20) returned to rubduckofdeath
+rubduckofdeath collected $0.25 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath collected ($0.25)
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: Steven1McKay (button) folded before Flop (didn't bet)
+Seat 6: EColo06! (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943436882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:07 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.72 in chips) 
+Seat 3: EZEQUIEL.C10 ($8.52 in chips) 
+Seat 4: Ger Cortes ($10.15 in chips) 
+Seat 5: Steven1McKay ($19.05 in chips) 
+Seat 6: EColo06! ($17.39 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+Ger Cortes: folds 
+Steven1McKay: folds 
+EZEQUIEL.C10 leaves the table
+EColo06!: raises $0.20 to $0.30
+GGR817: folds 
+rubduckofdeath: calls $0.20
+*** FLOP *** [Jc 6s Js]
+rubduckofdeath: checks 
+EColo06!: checks 
+*** TURN *** [Jc 6s Js] [Ad]
+rubduckofdeath: checks 
+EColo06!: bets $0.31
+rubduckofdeath: folds 
+Uncalled bet ($0.31) returned to EColo06!
+EColo06! collected $0.62 from pot
+EColo06!: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Jc 6s Js Ad]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the Turn
+Seat 3: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: Steven1McKay folded before Flop (didn't bet)
+Seat 6: EColo06! (button) collected ($0.62)
+
+
+
+PokerStars Hand #222943448929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:55 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.42 in chips) 
+Seat 4: Ger Cortes ($10.15 in chips) 
+Seat 5: Steven1McKay ($19.05 in chips) 
+Seat 6: EColo06! ($17.71 in chips) 
+rubduckofdeath: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+Steven1McKay: raises $0.10 to $0.20
+crankthatsoulja joins the table at seat #3 
+EColo06!: folds 
+GGR817: folds 
+rubduckofdeath: raises $0.50 to $0.70
+Ger Cortes: folds 
+Steven1McKay: folds 
+Uncalled bet ($0.50) returned to rubduckofdeath
+rubduckofdeath collected $0.50 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) collected ($0.50)
+Seat 4: Ger Cortes (big blind) folded before Flop
+Seat 5: Steven1McKay folded before Flop
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943454375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:16 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.72 in chips) 
+Seat 4: Ger Cortes ($10.05 in chips) 
+Seat 5: Steven1McKay ($18.85 in chips) 
+Seat 6: EColo06! ($17.71 in chips) 
+Ger Cortes: posts small blind $0.05
+Steven1McKay: posts big blind $0.10
+*** HOLE CARDS ***
+EColo06!: folds 
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: folds 
+Ger Cortes: folds 
+Steven1McKay: folds 
+Uncalled bet ($0.20) returned to GGR817
+GGR817 collected $0.25 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 collected ($0.25)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) folded before Flop
+Seat 5: Steven1McKay (big blind) folded before Flop
+Seat 6: EColo06! folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943459251:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:35 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.15 in chips) 
+Seat 2: rubduckofdeath ($10.72 in chips) 
+Seat 3: crankthatsoulja ($6 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: Steven1McKay ($18.75 in chips) 
+Steven1McKay: posts small blind $0.05
+EColo06!: is sitting out 
+GGR817: posts big blind $0.10
+EColo06! leaves the table
+crankthatsoulja: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+crankthatsoulja: checks 
+Ger Cortes: folds 
+Steven1McKay: folds 
+GGR817: checks 
+*** FLOP *** [Td 7s 6s]
+GGR817: checks 
+crankthatsoulja: checks 
+*** TURN *** [Td 7s 6s] [Qc]
+GGR817: checks 
+crankthatsoulja: checks 
+*** RIVER *** [Td 7s 6s Qc] [3s]
+starii13 joins the table at seat #6 
+GGR817: checks 
+crankthatsoulja: bets $0.30
+GGR817: folds 
+Uncalled bet ($0.30) returned to crankthatsoulja
+crankthatsoulja collected $0.24 from pot
+crankthatsoulja: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Td 7s 6s Qc 3s]
+Seat 1: GGR817 (big blind) folded on the River
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: crankthatsoulja collected ($0.24)
+Seat 4: Ger Cortes (button) folded before Flop (didn't bet)
+Seat 5: Steven1McKay (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943475744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:39 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10.05 in chips) 
+Seat 2: rubduckofdeath ($10.72 in chips) 
+Seat 3: crankthatsoulja ($6.14 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: Steven1McKay ($18.70 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+crankthatsoulja: calls $0.10
+Ger Cortes: folds 
+Steven1McKay: folds 
+GGR817: folds 
+rubduckofdeath: checks 
+*** FLOP *** [6h 4c 5d]
+rubduckofdeath: checks 
+crankthatsoulja: checks 
+*** TURN *** [6h 4c 5d] [Tc]
+rubduckofdeath: bets $0.10
+crankthatsoulja: calls $0.10
+*** RIVER *** [6h 4c 5d Tc] [9h]
+rubduckofdeath: checks 
+crankthatsoulja: bets $0.30
+rubduckofdeath: folds 
+Uncalled bet ($0.30) returned to crankthatsoulja
+crankthatsoulja collected $0.43 from pot
+crankthatsoulja: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [6h 4c 5d Tc 9h]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the River
+Seat 3: crankthatsoulja collected ($0.43)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: Steven1McKay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943490836:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:39 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.52 in chips) 
+Seat 3: crankthatsoulja ($6.37 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: Steven1McKay ($18.70 in chips) 
+rubduckofdeath: posts small blind $0.05
+crankthatsoulja: posts big blind $0.10
+starii13: sits out 
+*** HOLE CARDS ***
+Ger Cortes: folds 
+Steven1McKay: folds 
+GGR817: raises $0.15 to $0.25
+rubduckofdeath: folds 
+crankthatsoulja: folds 
+Uncalled bet ($0.15) returned to GGR817
+GGR817 collected $0.25 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (button) collected ($0.25)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: crankthatsoulja (big blind) folded before Flop
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: Steven1McKay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943495602:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:57 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.15 in chips) 
+Seat 2: rubduckofdeath ($10.47 in chips) 
+Seat 3: crankthatsoulja ($6.27 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: Steven1McKay ($18.70 in chips) 
+crankthatsoulja: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+starii13: sits out 
+*** HOLE CARDS ***
+Steven1McKay: folds 
+GGR817: folds 
+Steven1McKay leaves the table
+rubduckofdeath: folds 
+crankthatsoulja: calls $0.05
+Ger Cortes: raises $0.20 to $0.30
+crankthatsoulja: calls $0.20
+*** FLOP *** [Ac Tc 3d]
+crankthatsoulja: checks 
+Ger Cortes: checks 
+*** TURN *** [Ac Tc 3d] [Qd]
+crankthatsoulja: checks 
+Ger Cortes: bets $0.44
+crankthatsoulja: folds 
+Uncalled bet ($0.44) returned to Ger Cortes
+Ger Cortes collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ac Tc 3d Qd]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: crankthatsoulja (small blind) folded on the Turn
+Seat 4: Ger Cortes (big blind) collected ($0.57)
+Seat 5: Steven1McKay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943507626:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:38 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10.15 in chips) 
+Seat 2: rubduckofdeath ($10.47 in chips) 
+Seat 3: crankthatsoulja ($5.97 in chips) 
+Seat 4: Ger Cortes ($10.27 in chips) 
+Seat 6: starii13 ($10 in chips) 
+Ger Cortes: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: folds 
+crankthatsoulja: calls $0.30
+Ger Cortes: calls $0.25
+starii13: folds 
+*** FLOP *** [6s 9s 7h]
+Ger Cortes: checks 
+BigJohhnny69 joins the table at seat #5 
+GGR817: checks 
+crankthatsoulja: bets $0.20
+Ger Cortes: folds 
+GGR817: calls $0.20
+*** TURN *** [6s 9s 7h] [9c]
+GGR817: checks 
+crankthatsoulja: bets $0.30
+GGR817: calls $0.30
+*** RIVER *** [6s 9s 7h 9c] [5s]
+GGR817: checks 
+crankthatsoulja: bets $0.50
+GGR817: folds 
+Uncalled bet ($0.50) returned to crankthatsoulja
+crankthatsoulja collected $1.91 from pot
+crankthatsoulja: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [6s 9s 7h 9c 5s]
+Seat 1: GGR817 folded on the River
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: crankthatsoulja (button) collected ($1.91)
+Seat 4: Ger Cortes (small blind) folded on the Flop
+Seat 6: starii13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943538329:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:14 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.47 in chips) 
+Seat 3: crankthatsoulja ($7.08 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 6: starii13 ($10 in chips) 
+starii13: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+crankthatsoulja: folds 
+Ger Cortes: folds 
+starii13: folds 
+Uncalled bet ($0.05) returned to GGR817
+GGR817 collected $0.10 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 (big blind) collected ($0.10)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: crankthatsoulja folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) folded before Flop (didn't bet)
+Seat 6: starii13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943573738:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:04 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: crankthatsoulja ($7.49 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($4.27 in chips) 
+Seat 6: starii13 ($10 in chips) 
+crankthatsoulja: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+BigJohhnny69: calls $0.10
+starii13: folds 
+GGR817: raises $0.30 to $0.40
+rubduckofdeath: folds 
+crankthatsoulja: calls $0.35
+Ger Cortes: calls $0.30
+BigJohhnny69: calls $0.30
+*** FLOP *** [Qc 3s 7h]
+crankthatsoulja: bets $0.30
+Ger Cortes: folds 
+BigJohhnny69: folds 
+GGR817: calls $0.30
+*** TURN *** [Qc 3s 7h] [2h]
+crankthatsoulja: bets $0.40
+GGR817: calls $0.40
+*** RIVER *** [Qc 3s 7h 2h] [2s]
+crankthatsoulja: bets $0.60
+GGR817: calls $0.60
+*** SHOW DOWN ***
+crankthatsoulja: shows [Ah Ac] (two pair, Aces and Deuces)
+GGR817: mucks hand 
+crankthatsoulja collected $4.01 from pot
+*** SUMMARY ***
+Total pot $4.20 | Rake $0.19 
+Board [Qc 3s 7h 2h 2s]
+Seat 1: GGR817 mucked
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: crankthatsoulja (small blind) showed [Ah Ac] and won ($4.01) with two pair, Aces and Deuces
+Seat 4: Ger Cortes (big blind) folded on the Flop
+Seat 5: BigJohhnny69 folded on the Flop
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943606264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:34 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: crankthatsoulja ($9.80 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($3.87 in chips) 
+Seat 6: starii13 ($10 in chips) 
+Ger Cortes: posts small blind $0.05
+BigJohhnny69: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+crankthatsoulja: calls $0.10
+Ger Cortes: calls $0.05
+BigJohhnny69: checks 
+*** FLOP *** [Kd Js Jd]
+Ger Cortes: checks 
+BigJohhnny69: bets $0.10
+crankthatsoulja: calls $0.10
+Ger Cortes: calls $0.10
+*** TURN *** [Kd Js Jd] [8d]
+Ger Cortes: checks 
+BigJohhnny69: bets $0.10
+crankthatsoulja: raises $0.20 to $0.30
+Ger Cortes: folds 
+BigJohhnny69: calls $0.20
+*** RIVER *** [Kd Js Jd 8d] [8c]
+BigJohhnny69: bets $0.10
+crankthatsoulja: raises $0.70 to $0.80
+BigJohhnny69: folds 
+Uncalled bet ($0.70) returned to crankthatsoulja
+crankthatsoulja collected $1.34 from pot
+crankthatsoulja: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [Kd Js Jd 8d 8c]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: crankthatsoulja (button) collected ($1.34)
+Seat 4: Ger Cortes (small blind) folded on the Turn
+Seat 5: BigJohhnny69 (big blind) folded on the River
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943625765:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:35 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10 in chips) 
+Seat 3: crankthatsoulja ($10.54 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($3.27 in chips) 
+Seat 6: starii13 ($10 in chips) 
+BigJohhnny69: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: raises $0.20 to $0.30
+crankthatsoulja: calls $0.30
+Ger Cortes: folds 
+BigJohhnny69: raises $0.20 to $0.50
+starii13: folds 
+rubduckofdeath: raises $1.40 to $1.90
+crankthatsoulja: calls $1.60
+BigJohhnny69: raises $1.37 to $3.27 and is all-in
+rubduckofdeath: calls $1.37
+crankthatsoulja: calls $1.37
+*** FLOP *** [4s 9d 3h]
+rubduckofdeath: checks 
+crankthatsoulja: checks 
+*** TURN *** [4s 9d 3h] [9h]
+rubduckofdeath: checks 
+crankthatsoulja: checks 
+*** RIVER *** [4s 9d 3h 9h] [3c]
+rubduckofdeath: checks 
+crankthatsoulja: bets $0.50
+rubduckofdeath: calls $0.50
+*** SHOW DOWN ***
+crankthatsoulja: shows [Jh Kc] (two pair, Nines and Threes)
+rubduckofdeath: shows [Ah Kd] (two pair, Nines and Threes - Ace kicker)
+rubduckofdeath collected $0.96 from side pot
+BigJohhnny69: shows [Ts Ad] (two pair, Nines and Threes)
+BigJohhnny69 collected $4.73 from main pot
+rubduckofdeath collected $4.73 from main pot
+*** SUMMARY ***
+Total pot $10.91 Main pot $9.46. Side pot $0.96. | Rake $0.49 
+Board [4s 9d 3h 9h 3c]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath showed [Ah Kd] and won ($5.69) with two pair, Nines and Threes
+Seat 3: crankthatsoulja showed [Jh Kc] and lost with two pair, Nines and Threes
+Seat 4: Ger Cortes (button) folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 (small blind) showed [Ts Ad] and won ($4.73) with two pair, Nines and Threes
+Seat 6: starii13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943648400:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:45 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.92 in chips) 
+Seat 3: crankthatsoulja ($6.77 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($4.73 in chips) 
+Seat 6: starii13 ($10 in chips) 
+starii13: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+crankthatsoulja: calls $0.30
+Ger Cortes: folds 
+BigJohhnny69: calls $0.30
+starii13: folds 
+GGR817: folds 
+*** FLOP *** [2h Qs Kc]
+rubduckofdeath: bets $0.33
+crankthatsoulja: calls $0.33
+BigJohhnny69: calls $0.33
+*** TURN *** [2h Qs Kc] [8h]
+rubduckofdeath: checks 
+crankthatsoulja: checks 
+BigJohhnny69: checks 
+*** RIVER *** [2h Qs Kc 8h] [5c]
+rubduckofdeath: checks 
+crankthatsoulja: bets $0.20
+BigJohhnny69: calls $0.20
+rubduckofdeath: calls $0.20
+*** SHOW DOWN ***
+crankthatsoulja: shows [Ah 3h] (high card Ace)
+BigJohhnny69: shows [4h 2d] (a pair of Deuces)
+rubduckofdeath: mucks hand 
+BigJohhnny69 collected $2.52 from pot
+*** SUMMARY ***
+Total pot $2.64 | Rake $0.12 
+Board [2h Qs Kc 8h 5c]
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath mucked
+Seat 3: crankthatsoulja showed [Ah 3h] and lost with high card Ace
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 (button) showed [4h 2d] and won ($2.52) with a pair of Deuces
+Seat 6: starii13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943671591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:57 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.09 in chips) 
+Seat 3: crankthatsoulja ($5.94 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($6.42 in chips) 
+Seat 6: starii13 ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+crankthatsoulja: calls $0.10
+Ger Cortes: folds 
+BigJohhnny69: calls $0.10
+starii13: raises $0.20 to $0.30
+GGR817: raises $0.90 to $1.20
+rubduckofdeath: folds 
+crankthatsoulja: folds 
+BigJohhnny69: calls $1.10
+starii13: folds 
+*** FLOP *** [6h 4s 7d]
+GGR817: bets $0.91
+BigJohhnny69: raises $4.31 to $5.22 and is all-in
+GGR817: folds 
+Uncalled bet ($4.31) returned to BigJohhnny69
+BigJohhnny69 collected $4.51 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.72 | Rake $0.21 
+Board [6h 4s 7d]
+Seat 1: GGR817 (small blind) folded on the Flop
+Seat 2: rubduckofdeath (big blind) folded before Flop
+Seat 3: crankthatsoulja folded before Flop
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 collected ($4.51)
+Seat 6: starii13 (button) folded before Flop
+
+
+
+PokerStars Hand #222943694146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:07 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.99 in chips) 
+Seat 3: crankthatsoulja ($5.84 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($8.82 in chips) 
+Seat 6: starii13 ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+crankthatsoulja: posts big blind $0.10
+*** HOLE CARDS ***
+Ger Cortes: raises $0.15 to $0.25
+BigJohhnny69: calls $0.25
+starii13: folds 
+GGR817: calls $0.25
+rubduckofdeath: folds 
+crankthatsoulja: folds 
+*** FLOP *** [As 4s 2s]
+Ger Cortes: checks 
+BigJohhnny69: checks 
+GGR817: checks 
+*** TURN *** [As 4s 2s] [6s]
+Ger Cortes: checks 
+BigJohhnny69: checks 
+GGR817: checks 
+*** RIVER *** [As 4s 2s 6s] [Qs]
+Ger Cortes: checks 
+BigJohhnny69: bets $0.86
+GGR817: folds 
+Ger Cortes: folds 
+Uncalled bet ($0.86) returned to BigJohhnny69
+BigJohhnny69 collected $0.86 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [As 4s 2s 6s Qs]
+Seat 1: GGR817 (button) folded on the River
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: crankthatsoulja (big blind) folded before Flop
+Seat 4: Ger Cortes folded on the River
+Seat 5: BigJohhnny69 collected ($0.86)
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943717164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:16 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.94 in chips) 
+Seat 3: crankthatsoulja ($5.74 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($9.43 in chips) 
+Seat 6: starii13 ($10 in chips) 
+crankthatsoulja: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+BigJohhnny69 has timed out
+BigJohhnny69: folds 
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: raises $0.20 to $0.30
+crankthatsoulja: folds 
+Ger Cortes: folds 
+Uncalled bet ($0.20) returned to rubduckofdeath
+rubduckofdeath collected $0.25 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) collected ($0.25)
+Seat 3: crankthatsoulja (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) folded before Flop
+Seat 5: BigJohhnny69 folded before Flop (didn't bet)
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943725533:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:42 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.09 in chips) 
+Seat 3: crankthatsoulja ($5.69 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($9.43 in chips) 
+Seat 6: starii13 ($10 in chips) 
+Ger Cortes: posts small blind $0.05
+BigJohhnny69: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+crankthatsoulja: folds 
+crankthatsoulja leaves the table
+crankthatsoulja joins the table at seat #3 
+Ger Cortes: folds 
+Uncalled bet ($0.05) returned to BigJohhnny69
+BigJohhnny69 collected $0.10 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: crankthatsoulja (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) folded before Flop
+Seat 5: BigJohhnny69 (big blind) collected ($0.10)
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943734240:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:57 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.09 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($9.48 in chips) 
+Seat 6: starii13 ($10 in chips) 
+BigJohhnny69: posts small blind $0.05
+starii13: posts big blind $0.10
+crankthatsoulja: sits out 
+*** HOLE CARDS ***
+GGR817: folds 
+crankthatsoulja leaves the table
+rubduckofdeath: folds 
+Ger Cortes: raises $0.15 to $0.25
+BigJohhnny69: calls $0.20
+starii13: folds 
+*** FLOP *** [Jd 4c 2s]
+BigJohhnny69: bets $0.10
+Ger Cortes: raises $0.25 to $0.35
+BigJohhnny69: calls $0.25
+*** TURN *** [Jd 4c 2s] [Ts]
+BigJohhnny69: bets $0.62
+Ger Cortes: calls $0.62
+*** RIVER *** [Jd 4c 2s Ts] [2d]
+BigJohhnny69: checks 
+Ger Cortes: checks 
+*** SHOW DOWN ***
+BigJohhnny69: shows [Js Qd] (two pair, Jacks and Deuces)
+Ger Cortes: mucks hand 
+BigJohhnny69 collected $2.43 from pot
+*** SUMMARY ***
+Total pot $2.54 | Rake $0.11 
+Board [Jd 4c 2s Ts 2d]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) mucked
+Seat 5: BigJohhnny69 (small blind) showed [Js Qd] and won ($2.43) with two pair, Jacks and Deuces
+Seat 6: starii13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943752923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:56 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.09 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($10.69 in chips) 
+Seat 6: starii13 ($10 in chips) 
+starii13: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+Ger Cortes: folds 
+BigJohhnny69: folds 
+starii13: folds 
+Uncalled bet ($0.05) returned to GGR817
+GGR817 collected $0.10 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: GGR817 (big blind) collected ($0.10)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 (button) folded before Flop (didn't bet)
+Seat 6: starii13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943755788:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:05 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.05 in chips) 
+Seat 2: rubduckofdeath ($11.09 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($10.69 in chips) 
+Seat 6: starii13 ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+Ger Cortes: folds 
+BigJohhnny69: raises $0.10 to $0.20
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: calls $0.10
+*** FLOP *** [3d 2c 4s]
+rubduckofdeath: checks 
+BigJohhnny69: bets $0.10
+rubduckofdeath: calls $0.10
+*** TURN *** [3d 2c 4s] [2h]
+rubduckofdeath: checks 
+BigJohhnny69: bets $0.10
+rubduckofdeath: calls $0.10
+*** RIVER *** [3d 2c 4s 2h] [Qc]
+kjohnson1409 joins the table at seat #3 
+rubduckofdeath: checks 
+BigJohhnny69: checks 
+*** SHOW DOWN ***
+rubduckofdeath: shows [6c Ac] (a pair of Deuces)
+BigJohhnny69: shows [4h 7h] (two pair, Fours and Deuces)
+BigJohhnny69 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [3d 2c 4s 2h Qc]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) showed [6c Ac] and lost with a pair of Deuces
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 showed [4h 7h] and won ($0.81) with two pair, Fours and Deuces
+Seat 6: starii13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943767373:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:41 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.69 in chips) 
+Seat 3: kjohnson1409 ($8 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($11.10 in chips) 
+Seat 6: starii13 ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+kjohnson1409: posts big blind $0.10
+*** HOLE CARDS ***
+Ger Cortes: folds 
+BigJohhnny69: raises $0.10 to $0.20
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+kjohnson1409: folds 
+Uncalled bet ($0.10) returned to BigJohhnny69
+BigJohhnny69 collected $0.25 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: kjohnson1409 (big blind) folded before Flop
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 collected ($0.25)
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943775821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:07 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($10.64 in chips) 
+Seat 3: kjohnson1409 ($7.90 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($11.25 in chips) 
+Seat 6: starii13 ($10 in chips) 
+kjohnson1409: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+BigJohhnny69: raises $0.10 to $0.20
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: raises $0.35 to $0.55
+kjohnson1409: folds 
+Ger Cortes: folds 
+BigJohhnny69: calls $0.35
+*** FLOP *** [2d 3c 5s]
+BigJohhnny69: bets $0.10
+rubduckofdeath: raises $0.70 to $0.80
+BigJohhnny69: calls $0.70
+*** TURN *** [2d 3c 5s] [7d]
+BigJohhnny69: bets $0.10
+rubduckofdeath: raises $1.46 to $1.56
+BigJohhnny69: calls $1.46
+*** RIVER *** [2d 3c 5s 7d] [Kd]
+BigJohhnny69: checks 
+rubduckofdeath: bets $2.85
+BigJohhnny69: folds 
+Uncalled bet ($2.85) returned to rubduckofdeath
+rubduckofdeath collected $5.70 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.97 | Rake $0.27 
+Board [2d 3c 5s 7d Kd]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) collected ($5.70)
+Seat 3: kjohnson1409 (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) folded before Flop
+Seat 5: BigJohhnny69 folded on the River
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943796453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:11 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($13.43 in chips) 
+Seat 3: kjohnson1409 ($7.85 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($8.34 in chips) 
+Seat 6: starii13 ($10 in chips) 
+Ger Cortes: posts small blind $0.05
+BigJohhnny69: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+kjohnson1409: raises $0.20 to $0.30
+Ger Cortes: folds 
+BigJohhnny69: calls $0.20
+*** FLOP *** [Tc Kd Qc]
+BigJohhnny69: bets $0.31
+kjohnson1409: calls $0.31
+*** TURN *** [Tc Kd Qc] [4d]
+BigJohhnny69: bets $0.10
+kjohnson1409: raises $0.71 to $0.81
+BigJohhnny69: calls $0.71
+*** RIVER *** [Tc Kd Qc 4d] [2h]
+BigJohhnny69: bets $0.10
+kjohnson1409: calls $0.10
+*** SHOW DOWN ***
+BigJohhnny69: shows [Qh 5s] (a pair of Queens)
+kjohnson1409: shows [Qs 9s] (a pair of Queens - King+Ten+Nine kicker)
+kjohnson1409 collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.09 | Rake $0.14 
+Board [Tc Kd Qc 4d 2h]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: kjohnson1409 (button) showed [Qs 9s] and won ($2.95) with a pair of Queens
+Seat 4: Ger Cortes (small blind) folded before Flop
+Seat 5: BigJohhnny69 (big blind) showed [Qh 5s] and lost with a pair of Queens
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943819063:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:22 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($13.43 in chips) 
+Seat 3: kjohnson1409 ($9.28 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($6.82 in chips) 
+Seat 6: starii13 ($10 in chips) 
+BigJohhnny69: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+BigJohhnny69 is disconnected 
+GGR817: raises $0.20 to $0.30
+rubduckofdeath: folds 
+kjohnson1409: folds 
+Ger Cortes: folds 
+BigJohhnny69 has timed out while disconnected
+BigJohhnny69: folds 
+starii13: folds 
+Uncalled bet ($0.20) returned to GGR817
+GGR817 collected $0.25 from pot
+GGR817: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 collected ($0.25)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: kjohnson1409 folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 (small blind) folded before Flop
+Seat 6: starii13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943829947:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:56 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10.15 in chips) 
+Seat 2: rubduckofdeath ($13.43 in chips) 
+Seat 3: kjohnson1409 ($9.28 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 6: starii13 ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+kjohnson1409: raises $0.20 to $0.30
+Ger Cortes: folds 
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: calls $0.20
+*** FLOP *** [Ah 4h Ks]
+rubduckofdeath: checks 
+kjohnson1409: bets $0.41
+rubduckofdeath: folds 
+Uncalled bet ($0.41) returned to kjohnson1409
+kjohnson1409 collected $0.62 from pot
+kjohnson1409: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ah 4h Ks]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the Flop
+Seat 3: kjohnson1409 collected ($0.62)
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 6: starii13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943850477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:33 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10.10 in chips) 
+Seat 2: rubduckofdeath ($13.13 in chips) 
+Seat 3: kjohnson1409 ($9.60 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($6.77 in chips) 
+Seat 6: starii13 ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+kjohnson1409: posts big blind $0.10
+*** HOLE CARDS ***
+Ger Cortes: raises $0.15 to $0.25
+BigJohhnny69: calls $0.25
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+kjohnson1409: folds 
+*** FLOP *** [9c 8h 3s]
+Ger Cortes: checks 
+BigJohhnny69: bets $0.62
+Ger Cortes: folds 
+Uncalled bet ($0.62) returned to BigJohhnny69
+BigJohhnny69 collected $0.62 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9c 8h 3s]
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 3: kjohnson1409 (big blind) folded before Flop
+Seat 4: Ger Cortes folded on the Flop
+Seat 5: BigJohhnny69 collected ($0.62)
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943871764:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:17 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10.10 in chips) 
+Seat 2: rubduckofdeath ($13.08 in chips) 
+Seat 3: kjohnson1409 ($9.50 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($7.14 in chips) 
+Seat 6: starii13 ($10 in chips) 
+kjohnson1409: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+BigJohhnny69: raises $0.10 to $0.20
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+kjohnson1409: folds 
+Ger Cortes: folds 
+Uncalled bet ($0.10) returned to BigJohhnny69
+BigJohhnny69 collected $0.25 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 3: kjohnson1409 (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) folded before Flop
+Seat 5: BigJohhnny69 collected ($0.25)
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943876489:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:32 ET
+Table 'Maximiliana' 6-max Seat #3 is the button
+Seat 1: GGR817 ($10.10 in chips) 
+Seat 2: rubduckofdeath ($13.08 in chips) 
+Seat 3: kjohnson1409 ($9.45 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($7.29 in chips) 
+Seat 6: starii13 ($10 in chips) 
+Ger Cortes: posts small blind $0.05
+BigJohhnny69: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: raises $0.20 to $0.30
+kjohnson1409: folds 
+Ger Cortes: raises $0.90 to $1.20
+BigJohhnny69: calls $1.10
+rubduckofdeath: calls $0.90
+*** FLOP *** [8c 6s Jh]
+Ger Cortes: bets $1.50
+BigJohhnny69: calls $1.50
+rubduckofdeath: folds 
+*** TURN *** [8c 6s Jh] [Qc]
+Ger Cortes: bets $7.30 and is all-in
+BigJohhnny69: folds 
+Uncalled bet ($7.30) returned to Ger Cortes
+Ger Cortes collected $6.30 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [8c 6s Jh Qc]
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded on the Flop
+Seat 3: kjohnson1409 (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) collected ($6.30)
+Seat 5: BigJohhnny69 (big blind) folded on the Turn
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943899571:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:44 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($10.10 in chips) 
+Seat 2: rubduckofdeath ($11.88 in chips) 
+Seat 3: kjohnson1409 ($9.45 in chips) 
+Seat 4: Ger Cortes ($13.60 in chips) 
+Seat 5: BigJohhnny69 ($4.59 in chips) 
+Seat 6: starii13 ($10 in chips) 
+BigJohhnny69: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+GGR817: folds 
+rubduckofdeath: folds 
+kjohnson1409: folds 
+Ger Cortes: raises $0.15 to $0.25
+BigJohhnny69: raises $0.60 to $0.85
+starii13: folds 
+Ger Cortes: folds 
+Uncalled bet ($0.60) returned to BigJohhnny69
+BigJohhnny69 collected $0.60 from pot
+BigJohhnny69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: GGR817 folded before Flop (didn't bet)
+Seat 2: rubduckofdeath folded before Flop (didn't bet)
+Seat 3: kjohnson1409 folded before Flop (didn't bet)
+Seat 4: Ger Cortes (button) folded before Flop
+Seat 5: BigJohhnny69 (small blind) collected ($0.60)
+Seat 6: starii13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943910625:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:19 ET
+Table 'Maximiliana' 6-max Seat #5 is the button
+Seat 1: GGR817 ($10.10 in chips) 
+Seat 2: rubduckofdeath ($11.88 in chips) 
+Seat 3: kjohnson1409 ($9.45 in chips) 
+Seat 4: Ger Cortes ($13.35 in chips) 
+Seat 5: BigJohhnny69 ($4.94 in chips) 
+Seat 6: starii13 ($10 in chips) 
+starii13: posts small blind $0.05
+GGR817: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+kjohnson1409: folds 
+Ger Cortes: raises $0.70 to $1
+BigJohhnny69: raises $0.70 to $1.70
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+Ger Cortes: raises $0.70 to $2.40
+BigJohhnny69: calls $0.70
+*** FLOP *** [7s 8h 5c]
+Ger Cortes: checks 
+BigJohhnny69: bets $2.54 and is all-in
+Ger Cortes: calls $2.54
+*** TURN *** [7s 8h 5c] [6d]
+*** RIVER *** [7s 8h 5c 6d] [Jd]
+*** SHOW DOWN ***
+Ger Cortes: shows [Ad Ac] (a pair of Aces)
+BigJohhnny69: shows [4s 8s] (a straight, Four to Eight)
+BigJohhnny69 collected $9.87 from pot
+*** SUMMARY ***
+Total pot $10.33 | Rake $0.46 
+Board [7s 8h 5c 6d Jd]
+Seat 1: GGR817 (big blind) folded before Flop
+Seat 2: rubduckofdeath folded before Flop
+Seat 3: kjohnson1409 folded before Flop (didn't bet)
+Seat 4: Ger Cortes showed [Ad Ac] and lost with a pair of Aces
+Seat 5: BigJohhnny69 (button) showed [4s 8s] and won ($9.87) with a straight, Four to Eight
+Seat 6: starii13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943933871:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:32 ET
+Table 'Maximiliana' 6-max Seat #6 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.58 in chips) 
+Seat 3: kjohnson1409 ($9.45 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($9.87 in chips) 
+Seat 6: starii13 ($10 in chips) 
+GGR817: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+kjohnson1409: raises $0.20 to $0.30
+Ger Cortes: folds 
+BigJohhnny69: calls $0.30
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: calls $0.20
+*** FLOP *** [8d 6s 8s]
+rubduckofdeath: checks 
+kjohnson1409: checks 
+BigJohhnny69: checks 
+*** TURN *** [8d 6s 8s] [9h]
+rubduckofdeath: checks 
+kjohnson1409: checks 
+BigJohhnny69: bets $0.10
+rubduckofdeath: calls $0.10
+kjohnson1409: calls $0.10
+*** RIVER *** [8d 6s 8s 9h] [7d]
+rubduckofdeath: checks 
+kjohnson1409: bets $0.60
+BigJohhnny69: raises $8.87 to $9.47 and is all-in
+rubduckofdeath: folds 
+kjohnson1409: calls $8.45 and is all-in
+Uncalled bet ($0.42) returned to BigJohhnny69
+*** SHOW DOWN ***
+BigJohhnny69: shows [6h 8c] (a full house, Eights full of Sixes)
+kjohnson1409: shows [Ad Td] (a straight, Six to Ten)
+BigJohhnny69 collected $18.48 from pot
+*** SUMMARY ***
+Total pot $19.35 | Rake $0.87 
+Board [8d 6s 8s 9h 7d]
+Seat 1: GGR817 (small blind) folded before Flop
+Seat 2: rubduckofdeath (big blind) folded on the River
+Seat 3: kjohnson1409 showed [Ad Td] and lost with a straight, Six to Ten
+Seat 4: Ger Cortes folded before Flop (didn't bet)
+Seat 5: BigJohhnny69 showed [6h 8c] and won ($18.48) with a full house, Eights full of Sixes
+Seat 6: starii13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943964905:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:10 ET
+Table 'Maximiliana' 6-max Seat #1 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.18 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($18.90 in chips) 
+Seat 6: starii13 ($10 in chips) 
+rubduckofdeath: posts small blind $0.05
+Ger Cortes: posts big blind $0.10
+*** HOLE CARDS ***
+BigJohhnny69: calls $0.10
+starii13: folds 
+GGR817: folds 
+rubduckofdeath: folds 
+Ger Cortes: checks 
+*** FLOP *** [3d Jh 9h]
+Ger Cortes: checks 
+BigJohhnny69: bets $0.10
+Ger Cortes: calls $0.10
+*** TURN *** [3d Jh 9h] [As]
+Ger Cortes: checks 
+BigJohhnny69: checks 
+*** RIVER *** [3d Jh 9h As] [5h]
+Ger Cortes: bets $0.24
+BigJohhnny69: calls $0.24
+*** SHOW DOWN ***
+Ger Cortes: shows [Jc 8c] (a pair of Jacks)
+BigJohhnny69: shows [Ac 5d] (two pair, Aces and Fives)
+BigJohhnny69 collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.04 
+Board [3d Jh 9h As 5h]
+Seat 1: GGR817 (button) folded before Flop (didn't bet)
+Seat 2: rubduckofdeath (small blind) folded before Flop
+Seat 4: Ger Cortes (big blind) showed [Jc 8c] and lost with a pair of Jacks
+Seat 5: BigJohhnny69 showed [Ac 5d] and won ($0.89) with two pair, Aces and Fives
+Seat 6: starii13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943981479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:02 ET
+Table 'Maximiliana' 6-max Seat #2 is the button
+Seat 1: GGR817 ($10 in chips) 
+Seat 2: rubduckofdeath ($11.13 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 5: BigJohhnny69 ($19.35 in chips) 
+Seat 6: starii13 ($10 in chips) 
+Ger Cortes: posts small blind $0.05
+BigJohhnny69: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: calls $0.10
+GGR817: raises $0.40 to $0.50
+rubduckofdeath: folds 
+Ger Cortes: raises $1 to $1.50
+BigJohhnny69: folds 
+starii13: folds 
+GGR817: calls $1
+*** FLOP *** [Ah 9c Jd]
+Ger Cortes: bets $1.01
+GGR817: calls $1.01
+*** TURN *** [Ah 9c Jd] [8d]
+Ger Cortes: bets $2.50
+rubduckofdeath leaves the table
+GGR817: calls $2.50
+*** RIVER *** [Ah 9c Jd 8d] [Qs]
+BigJohhnny69 leaves the table
+Ger Cortes: bets $4.99 and is all-in
+GGR817: calls $4.99 and is all-in
+*** SHOW DOWN ***
+Ger Cortes: shows [Qh Ac] (two pair, Aces and Queens)
+GGR817: shows [9h Th] (a straight, Eight to Queen)
+GGR817 collected $19.29 from pot
+*** SUMMARY ***
+Total pot $20.20 | Rake $0.91 
+Board [Ah 9c Jd 8d Qs]
+Seat 1: GGR817 showed [9h Th] and won ($19.29) with a straight, Eight to Queen
+Seat 2: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 4: Ger Cortes (small blind) showed [Qh Ac] and lost with two pair, Aces and Queens
+Seat 5: BigJohhnny69 (big blind) folded before Flop
+Seat 6: starii13 folded before Flop
+
+
+
+PokerStars Hand #222944022580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:11 ET
+Table 'Maximiliana' 6-max Seat #4 is the button
+Seat 1: GGR817 ($19.29 in chips) 
+Seat 4: Ger Cortes ($10 in chips) 
+Seat 6: starii13 ($10 in chips) 
+starii13: posts small blind $0.05
+GGR817: posts big blind $0.10
+kjohnson1409: sits out 
+*** HOLE CARDS ***
+Ger Cortes: folds 
+Ger Cortes leaves the table
+starii13: raises $0.20 to $0.30
+GGR817: calls $0.20
+*** FLOP *** [7d 4c 2c]
+kjohnson1409 leaves the table
+starii13: checks 
+GGR817: checks 
+*** TURN *** [7d 4c 2c] [9c]
+starii13: checks 
+GGR817: checks 
+*** RIVER *** [7d 4c 2c 9c] [Kh]
+starii13: bets $0.21
+GGR817: folds 
+Uncalled bet ($0.21) returned to starii13
+starii13 collected $0.57 from pot
+starii13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [7d 4c 2c 9c Kh]
+Seat 1: GGR817 (big blind) folded on the River
+Seat 4: Ger Cortes (button) folded before Flop (didn't bet)
+Seat 6: starii13 (small blind) collected ($0.57)
+
+
+

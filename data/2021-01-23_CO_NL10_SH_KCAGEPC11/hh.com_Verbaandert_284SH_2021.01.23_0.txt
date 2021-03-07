@@ -1,0 +1,3976 @@
+﻿PokerStars Hand #222979773600:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:25:56 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: Java0621 ($14.47 in chips) 
+Seat 2: Bigboy2512 ($10.58 in chips) 
+Seat 3: Rosska(Rus) ($10.15 in chips) 
+Seat 4: CvB85 ($10.94 in chips) 
+Seat 5: OnlyBluff08 ($9.55 in chips) 
+Seat 6: Schengo90 ($9.65 in chips) 
+Java0621: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: calls $0.30
+OnlyBluff08: folds 
+Schengo90: calls $0.30
+Java0621: folds 
+Bigboy2512: folds 
+*** FLOP *** [6h Kc Td]
+Rosska(Rus): bets $0.75
+CvB85: calls $0.75
+Schengo90: folds 
+*** TURN *** [6h Kc Td] [Ah]
+Rosska(Rus): checks 
+CvB85: checks 
+*** RIVER *** [6h Kc Td Ah] [9c]
+Rosska(Rus): checks 
+CvB85: bets $1.70
+Rosska(Rus): folds 
+Uncalled bet ($1.70) returned to CvB85
+CvB85 collected $2.44 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [6h Kc Td Ah 9c]
+Seat 1: Java0621 (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded on the River
+Seat 4: CvB85 collected ($2.44)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded on the Flop
+
+
+
+PokerStars Hand #222979792829:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:26:32 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: Java0621 ($14.42 in chips) 
+Seat 2: Bigboy2512 ($10.48 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.55 in chips) 
+Seat 6: Schengo90 ($9.35 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: raises $0.20 to $0.30
+Schengo90: folds 
+Java0621: calls $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+*** FLOP *** [8h Ac Qd]
+OnlyBluff08: checks 
+Java0621: checks 
+*** TURN *** [8h Ac Qd] [Qh]
+OnlyBluff08: checks 
+Java0621: bets $0.40
+OnlyBluff08: folds 
+Uncalled bet ($0.40) returned to Java0621
+Java0621 collected $0.72 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8h Ac Qd Qh]
+Seat 1: Java0621 (button) collected ($0.72)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded on the Turn
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979813951:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:27:07 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: Java0621 ($14.84 in chips) 
+Seat 2: Bigboy2512 ($10.43 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.25 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.05) returned to CvB85
+CvB85 collected $0.10 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($0.10)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979819428:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:27:18 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: Java0621 ($14.84 in chips) 
+Seat 2: Bigboy2512 ($10.43 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.38 in chips) 
+Seat 5: OnlyBluff08 ($9.25 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: raises $0.15 to $0.25
+Rosska(Rus): raises $0.75 to $1
+CvB85: folds 
+OnlyBluff08: folds 
+Bigboy2512: calls $0.75
+*** FLOP *** [4d Td 8h]
+Bigboy2512: checks 
+Rosska(Rus): bets $1.58
+Bigboy2512: calls $1.58
+*** TURN *** [4d Td 8h] [Ks]
+Bigboy2512: checks 
+Rosska(Rus): checks 
+*** RIVER *** [4d Td 8h Ks] [Kh]
+Bigboy2512: bets $7.85 and is all-in
+Rosska(Rus): folds 
+Uncalled bet ($7.85) returned to Bigboy2512
+Bigboy2512 collected $5.07 from pot
+*** SUMMARY ***
+Total pot $5.31 | Rake $0.24 
+Board [4d Td 8h Ks Kh]
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 collected ($5.07)
+Seat 3: Rosska(Rus) (button) folded on the River
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979844537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:05 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: Java0621 ($14.84 in chips) 
+Seat 2: Bigboy2512 ($12.92 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.15 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: calls $0.20
+*** FLOP *** [Js Qc Td]
+Schengo90: checks 
+Java0621: checks 
+*** TURN *** [Js Qc Td] [3h]
+Schengo90: checks 
+Java0621: bets $0.40
+Schengo90: folds 
+Uncalled bet ($0.40) returned to Java0621
+Java0621 collected $0.62 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Js Qc Td 3h]
+Seat 1: Java0621 collected ($0.62)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222979856994:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:29 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: Java0621 ($15.16 in chips) 
+Seat 2: Bigboy2512 ($12.92 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.10 in chips) 
+Seat 6: Schengo90 ($9.70 in chips) 
+Schengo90: posts small blind $0.05
+Java0621: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: calls $0.20
+*** FLOP *** [9c 2s 9h]
+Java0621: checks 
+Rosska(Rus): checks 
+*** TURN *** [9c 2s 9h] [Kd]
+Java0621: checks 
+Rosska(Rus): checks 
+*** RIVER *** [9c 2s 9h Kd] [7h]
+Java0621: checks 
+Rosska(Rus): checks 
+*** SHOW DOWN ***
+Java0621: shows [Ah 9s] (three of a kind, Nines)
+Rosska(Rus): mucks hand 
+Java0621 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9c 2s 9h Kd 7h]
+Seat 1: Java0621 (big blind) showed [Ah 9s] and won ($0.62) with three of a kind, Nines
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) mucked
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979877577:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:09 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: Java0621 ($15.48 in chips) 
+Seat 2: Bigboy2512 ($12.92 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.10 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+Java0621: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: folds 
+Uncalled bet ($0.05) returned to Bigboy2512
+Bigboy2512 collected $0.10 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Java0621 (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) collected ($0.10)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979881929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:17 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: Java0621 ($15.43 in chips) 
+Seat 2: Bigboy2512 ($12.97 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.10 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.05) returned to Rosska(Rus)
+Rosska(Rus) collected $0.10 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Java0621 (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) collected ($0.10)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979889209:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:31 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: Java0621 ($15.43 in chips) 
+Seat 2: Bigboy2512 ($12.92 in chips) 
+Seat 3: Rosska(Rus) ($10.05 in chips) 
+Seat 4: CvB85 ($12.33 in chips) 
+Seat 5: OnlyBluff08 ($9.10 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.05) returned to CvB85
+CvB85 collected $0.10 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($0.10)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979893996:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:41 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: Java0621 ($15.43 in chips) 
+Seat 2: Bigboy2512 ($12.92 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.38 in chips) 
+Seat 5: OnlyBluff08 ($9.10 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: raises $0.15 to $0.25
+Rosska(Rus): folds 
+CvB85: calls $0.20
+OnlyBluff08: folds 
+*** FLOP *** [Qs 7h 3d]
+CvB85: checks 
+Bigboy2512: bets $0.23
+CvB85: folds 
+Uncalled bet ($0.23) returned to Bigboy2512
+Bigboy2512 collected $0.57 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qs 7h 3d]
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 collected ($0.57)
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded on the Flop
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979907681:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:30:06 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: Java0621 ($15.43 in chips) 
+Seat 2: Bigboy2512 ($13.24 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.13 in chips) 
+Seat 5: OnlyBluff08 ($9 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: raises $0.75 to $1.05
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: calls $0.75
+*** FLOP *** [5d Ts 8s]
+Java0621: checks 
+CvB85: checks 
+*** TURN *** [5d Ts 8s] [Jh]
+Java0621: checks 
+CvB85: bets $1.10
+Java0621: raises $2.40 to $3.50
+CvB85: calls $2.40
+*** RIVER *** [5d Ts 8s Jh] [7c]
+Java0621: bets $4.70
+CvB85: folds 
+Uncalled bet ($4.70) returned to Java0621
+Java0621 collected $8.83 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.42 
+Board [5d Ts 8s Jh 7c]
+Seat 1: Java0621 collected ($8.83)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded on the River
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979944120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:17 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: Java0621 ($19.71 in chips) 
+Seat 2: Bigboy2512 ($13.24 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($7.58 in chips) 
+Seat 5: OnlyBluff08 ($8.95 in chips) 
+Seat 6: Schengo90 ($9.90 in chips) 
+Schengo90: posts small blind $0.05
+Java0621: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Schengo90: raises $0.70 to $1
+Java0621: folds 
+CvB85: calls $0.70
+*** FLOP *** [6h Ad 9h]
+Schengo90: bets $1.50
+CvB85: calls $1.50
+*** TURN *** [6h Ad 9h] [Jc]
+Schengo90: bets $2.93
+CvB85: folds 
+Uncalled bet ($2.93) returned to Schengo90
+Schengo90 collected $4.87 from pot
+Schengo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.23 
+Board [6h Ad 9h Jc]
+Seat 1: Java0621 (big blind) folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded on the Turn
+Seat 5: OnlyBluff08 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) collected ($4.87)
+
+
+
+PokerStars Hand #222979985275:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:21 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: Java0621 ($19.61 in chips) 
+Seat 2: Bigboy2512 ($13.24 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($10 in chips) 
+Seat 5: OnlyBluff08 ($10 in chips) 
+Seat 6: Schengo90 ($12.27 in chips) 
+Java0621: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Java0621 (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 collected ($0.25)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979991796:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:33 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: Java0621 ($19.56 in chips) 
+Seat 2: Bigboy2512 ($13.14 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($10.15 in chips) 
+Seat 5: OnlyBluff08 ($10 in chips) 
+Seat 6: Schengo90 ($12.27 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.20) returned to Java0621
+Java0621 collected $0.25 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Java0621 (button) collected ($0.25)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980001806:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:53 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: Java0621 ($19.71 in chips) 
+Seat 2: Bigboy2512 ($13.09 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($10.15 in chips) 
+Seat 5: OnlyBluff08 ($10 in chips) 
+Seat 6: Schengo90 ($12.27 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: raises $0.80 to $1.10
+Java0621: calls $0.80
+*** FLOP *** [Ad 7h Js]
+CvB85: bets $1.08
+Java0621: calls $1.08
+*** TURN *** [Ad 7h Js] [3c]
+CvB85: bets $2.20
+Java0621: folds 
+Uncalled bet ($2.20) returned to CvB85
+CvB85 collected $4.21 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [Ad 7h Js 3c]
+Seat 1: Java0621 folded on the Turn
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($4.21)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980020019:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:33:29 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: Java0621 ($17.53 in chips) 
+Seat 2: Bigboy2512 ($13.09 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.18 in chips) 
+Seat 5: OnlyBluff08 ($10 in chips) 
+Seat 6: Schengo90 ($12.27 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: raises $0.15 to $0.25
+Rosska(Rus): folds 
+CvB85: calls $0.20
+OnlyBluff08: calls $0.15
+*** FLOP *** [3s Qh 7s]
+CvB85: checks 
+OnlyBluff08: checks 
+Bigboy2512: checks 
+*** TURN *** [3s Qh 7s] [7h]
+CvB85: bets $0.40
+OnlyBluff08: folds 
+Bigboy2512: calls $0.40
+*** RIVER *** [3s Qh 7s 7h] [Ac]
+CvB85: checks 
+Bigboy2512: checks 
+*** SHOW DOWN ***
+CvB85: shows [6h 5h] (a pair of Sevens)
+Bigboy2512: shows [Jd Qs] (two pair, Queens and Sevens)
+Bigboy2512 collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [3s Qh 7s 7h Ac]
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 showed [Jd Qs] and won ($1.48) with two pair, Queens and Sevens
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) showed [6h 5h] and lost with a pair of Sevens
+Seat 5: OnlyBluff08 (big blind) folded on the Turn
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980039360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:34:07 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: Java0621 ($17.53 in chips) 
+Seat 2: Bigboy2512 ($13.92 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($11.53 in chips) 
+Seat 5: OnlyBluff08 ($9.75 in chips) 
+Seat 6: Schengo90 ($12.27 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+Java0621: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: calls $0.05
+Schengo90: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Uncalled bet ($0.20) returned to Schengo90
+Schengo90 collected $0.20 from pot
+Schengo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #222980047085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:34:22 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: Java0621 ($17.53 in chips) 
+Seat 2: Bigboy2512 ($13.92 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($11.53 in chips) 
+Seat 5: OnlyBluff08 ($9.65 in chips) 
+Seat 6: Schengo90 ($12.37 in chips) 
+Schengo90: posts small blind $0.05
+Java0621: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: raises $0.15 to $0.25
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: calls $0.25
+Schengo90: folds 
+Java0621: folds 
+*** FLOP *** [Kc Jh 3d]
+Bigboy2512: bets $0.41
+OnlyBluff08: folds 
+Uncalled bet ($0.41) returned to Bigboy2512
+Bigboy2512 collected $0.62 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Kc Jh 3d]
+Seat 1: Java0621 (big blind) folded before Flop
+Seat 2: Bigboy2512 collected ($0.62)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded on the Flop
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980056253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:34:41 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: Java0621 ($17.43 in chips) 
+Seat 2: Bigboy2512 ($14.29 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($11.53 in chips) 
+Seat 5: OnlyBluff08 ($9.40 in chips) 
+Seat 6: Schengo90 ($12.32 in chips) 
+Java0621: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Java0621 (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 collected ($0.25)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980064984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:34:58 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: Java0621 ($17.38 in chips) 
+Seat 2: Bigboy2512 ($14.19 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($11.68 in chips) 
+Seat 5: OnlyBluff08 ($9.40 in chips) 
+Seat 6: Schengo90 ($12.32 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: calls $0.30
+Bigboy2512: folds 
+Rosska(Rus): calls $0.20
+*** FLOP *** [2c 6s Tc]
+Rosska(Rus): checks 
+CvB85: checks 
+Java0621: bets $0.46
+Rosska(Rus): folds 
+CvB85: folds 
+Uncalled bet ($0.46) returned to Java0621
+Java0621 collected $0.91 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [2c 6s Tc]
+Seat 1: Java0621 (button) collected ($0.91)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) folded on the Flop
+Seat 4: CvB85 folded on the Flop
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980084557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:35:37 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: Java0621 ($17.99 in chips) 
+Seat 2: Bigboy2512 ($14.14 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($11.38 in chips) 
+Seat 5: OnlyBluff08 ($9.40 in chips) 
+Seat 6: Schengo90 ($12.32 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: calls $0.20
+*** FLOP *** [Ts Kd 7d]
+CvB85: checks 
+Java0621: bets $0.31
+CvB85: raises $1.24 to $1.55
+Java0621: folds 
+Uncalled bet ($1.24) returned to CvB85
+CvB85 collected $1.21 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [Ts Kd 7d]
+Seat 1: Java0621 folded on the Flop
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($1.21)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980098744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:36:05 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: Java0621 ($17.38 in chips) 
+Seat 2: Bigboy2512 ($14.14 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($11.98 in chips) 
+Seat 5: OnlyBluff08 ($9.40 in chips) 
+Seat 6: Schengo90 ($12.32 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Java0621: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.20 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Java0621 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) collected ($0.20)
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980107443:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:36:22 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: Java0621 ($17.38 in chips) 
+Seat 2: Bigboy2512 ($14.14 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.08 in chips) 
+Seat 5: OnlyBluff08 ($9.30 in chips) 
+Seat 6: Schengo90 ($12.32 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Uncalled bet ($0.20) returned to Java0621
+Java0621 collected $0.25 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Java0621 collected ($0.25)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980119241:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:36:45 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: Java0621 ($17.53 in chips) 
+Seat 2: Bigboy2512 ($14.14 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.08 in chips) 
+Seat 5: OnlyBluff08 ($9.25 in chips) 
+Seat 6: Schengo90 ($12.22 in chips) 
+Schengo90: posts small blind $0.05
+Java0621: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Uncalled bet ($0.05) returned to Java0621
+Java0621 collected $0.10 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Java0621 (big blind) collected ($0.10)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980128130:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:37:03 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: Java0621 ($17.58 in chips) 
+Seat 2: Bigboy2512 ($14.14 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.08 in chips) 
+Seat 5: OnlyBluff08 ($9.25 in chips) 
+Seat 6: Schengo90 ($12.17 in chips) 
+Java0621: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Java0621: raises $0.20 to $0.30
+Bigboy2512: folds 
+Uncalled bet ($0.20) returned to Java0621
+Java0621 collected $0.20 from pot
+Java0621: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Java0621 (small blind) collected ($0.20)
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980141236:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:37:29 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: Java0621 ($17.68 in chips) 
+Seat 2: Bigboy2512 ($14.04 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.08 in chips) 
+Seat 5: OnlyBluff08 ($9.25 in chips) 
+Seat 6: Schengo90 ($12.17 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: raises $0.20 to $0.30
+Schengo90: folds 
+Java0621: calls $0.30
+Bigboy2512: folds 
+Rosska(Rus): calls $0.20
+*** FLOP *** [Th 2d 5c]
+Rosska(Rus): checks 
+OnlyBluff08: bets $0.30
+Java0621: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.30) returned to OnlyBluff08
+OnlyBluff08 collected $0.91 from pot
+Java0621 leaves the table
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Th 2d 5c]
+Seat 1: Java0621 (button) folded on the Flop
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) folded on the Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 collected ($0.91)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980154621:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:37:55 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.08 in chips) 
+Seat 5: OnlyBluff08 ($9.86 in chips) 
+Seat 6: Schengo90 ($12.17 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.05) returned to CvB85
+CvB85 collected $0.10 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($0.10)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980159333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:38:05 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($12.13 in chips) 
+Seat 5: OnlyBluff08 ($9.86 in chips) 
+Seat 6: Schengo90 ($12.17 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: raises $0.60 to $0.90
+CvB85: raises $1.80 to $2.70
+OnlyBluff08: calls $1.80
+*** FLOP *** [3s 7h Qc]
+seyed1332 joins the table at seat #1 
+CvB85: bets $2.58
+OnlyBluff08: calls $2.58
+*** TURN *** [3s 7h Qc] [Kd]
+CvB85: checks 
+OnlyBluff08: checks 
+*** RIVER *** [3s 7h Qc Kd] [7c]
+CvB85: checks 
+OnlyBluff08: bets $4.58 and is all-in
+CvB85: folds 
+Uncalled bet ($4.58) returned to OnlyBluff08
+OnlyBluff08 collected $10.08 from pot
+*** SUMMARY ***
+Total pot $10.56 | Rake $0.48 
+Board [3s 7h Qc Kd 7c]
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded on the River
+Seat 5: OnlyBluff08 (big blind) collected ($10.08)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980203234:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:39:32 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: seyed1332 ($4 in chips) 
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($10 in chips) 
+Seat 4: CvB85 ($6.85 in chips) 
+Seat 5: OnlyBluff08 ($14.66 in chips) 
+Seat 6: Schengo90 ($12.17 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+seyed1332: posts big blind $0.10
+*** HOLE CARDS ***
+seyed1332: checks 
+Bigboy2512: folds 
+Rosska(Rus): raises $0.30 to $0.40
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: calls $0.30
+seyed1332: calls $0.30
+*** FLOP *** [9h 6s 2d]
+Schengo90: checks 
+seyed1332: checks 
+Rosska(Rus): bets $0.86
+Schengo90: folds 
+seyed1332: calls $0.86
+*** TURN *** [9h 6s 2d] [3d]
+seyed1332: checks 
+Rosska(Rus): bets $2.75
+seyed1332: calls $2.74 and is all-in
+Uncalled bet ($0.01) returned to Rosska(Rus)
+*** RIVER *** [9h 6s 2d 3d] [5s]
+*** SHOW DOWN ***
+seyed1332: shows [9s 8c] (a pair of Nines)
+Rosska(Rus): shows [Jh Jc] (a pair of Jacks)
+Rosska(Rus) collected $8.07 from pot
+*** SUMMARY ***
+Total pot $8.45 | Rake $0.38 
+Board [9h 6s 2d 3d 5s]
+Seat 1: seyed1332 showed [9s 8c] and lost with a pair of Nines
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) showed [Jh Jc] and won ($8.07) with a pair of Jacks
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222980225896:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:40:18 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($14.07 in chips) 
+Seat 4: CvB85 ($10 in chips) 
+Seat 5: OnlyBluff08 ($14.61 in chips) 
+Seat 6: Schengo90 ($11.77 in chips) 
+Schengo90: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: raises $0.20 to $0.30
+Schengo90: calls $0.25
+Bigboy2512: folds 
+*** FLOP *** [Th 6d 9h]
+Schengo90: checks 
+OnlyBluff08: checks 
+*** TURN *** [Th 6d 9h] [Tc]
+Schengo90: bets $0.33
+OnlyBluff08: calls $0.33
+*** RIVER *** [Th 6d 9h Tc] [3s]
+Schengo90: bets $0.75
+OnlyBluff08: calls $0.75
+*** SHOW DOWN ***
+Schengo90: shows [Qs Jh] (a pair of Tens)
+OnlyBluff08: shows [8s Ad] (a pair of Tens - Ace kicker)
+OnlyBluff08 collected $2.73 from pot
+*** SUMMARY ***
+Total pot $2.86 | Rake $0.13 
+Board [Th 6d 9h Tc 3s]
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) showed [8s Ad] and won ($2.73) with a pair of Tens
+Seat 6: Schengo90 (small blind) showed [Qs Jh] and lost with a pair of Tens
+
+
+
+PokerStars Hand #222980241908:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:40:50 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 2: Bigboy2512 ($13.89 in chips) 
+Seat 3: Rosska(Rus) ($14.07 in chips) 
+Seat 4: CvB85 ($10 in chips) 
+Seat 5: OnlyBluff08 ($15.96 in chips) 
+Seat 6: Schengo90 ($10.39 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Bigboy2512: raises $0.30 to $0.40
+Rosska(Rus): folds 
+Uncalled bet ($0.30) returned to Bigboy2512
+Bigboy2512 collected $0.20 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bigboy2512 (small blind) collected ($0.20)
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980249614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:41:06 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: seyed1332 ($4 in chips) 
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($13.97 in chips) 
+Seat 4: CvB85 ($10 in chips) 
+Seat 5: OnlyBluff08 ($15.96 in chips) 
+Seat 6: Schengo90 ($10.39 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+seyed1332: posts small & big blinds $0.15
+*** HOLE CARDS ***
+OnlyBluff08: raises $0.30 to $0.40
+Schengo90: folds 
+seyed1332: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: calls $0.30
+*** FLOP *** [4d 5c 5d]
+CvB85: checks 
+OnlyBluff08: checks 
+*** TURN *** [4d 5c 5d] [6c]
+CvB85: bets $0.48
+OnlyBluff08: calls $0.48
+*** RIVER *** [4d 5c 5d 6c] [7c]
+CvB85: bets $1
+OnlyBluff08: folds 
+Uncalled bet ($1) returned to CvB85
+CvB85 collected $1.87 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [4d 5c 5d 6c 7c]
+Seat 1: seyed1332 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($1.87)
+Seat 5: OnlyBluff08 folded on the River
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980264437:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:41:36 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: seyed1332 ($3.85 in chips) 
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($13.92 in chips) 
+Seat 4: CvB85 ($10.99 in chips) 
+Seat 5: OnlyBluff08 ($15.08 in chips) 
+Seat 6: Schengo90 ($10.39 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+seyed1332: raises $0.10 to $0.20
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Uncalled bet ($0.10) returned to seyed1332
+seyed1332 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: seyed1332 collected ($0.25)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980270357:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:41:48 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: seyed1332 ($4 in chips) 
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($13.92 in chips) 
+Seat 4: CvB85 ($10.94 in chips) 
+Seat 5: OnlyBluff08 ($14.98 in chips) 
+Seat 6: Schengo90 ($10.39 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+seyed1332: calls $0.10
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: raises $0.35 to $0.45
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: folds 
+Uncalled bet ($0.35) returned to CvB85
+CvB85 collected $0.35 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: seyed1332 folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) collected ($0.35)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980276114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:42:00 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: seyed1332 ($3.90 in chips) 
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($13.92 in chips) 
+Seat 4: CvB85 ($11.19 in chips) 
+Seat 5: OnlyBluff08 ($14.93 in chips) 
+Seat 6: Schengo90 ($10.29 in chips) 
+Schengo90: posts small blind $0.05
+seyed1332: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: raises $0.10 to $0.20
+Schengo90: folds 
+seyed1332: calls $0.10
+*** FLOP *** [8h 9d 3c]
+seyed1332: bets $0.10
+OnlyBluff08: calls $0.10
+*** TURN *** [8h 9d 3c] [Jd]
+seyed1332: bets $0.10
+OnlyBluff08: calls $0.10
+*** RIVER *** [8h 9d 3c Jd] [Qh]
+seyed1332: bets $0.30
+OnlyBluff08: folds 
+Uncalled bet ($0.30) returned to seyed1332
+seyed1332 collected $0.81 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [8h 9d 3c Jd Qh]
+Seat 1: seyed1332 (big blind) collected ($0.81)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded on the River
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980295257:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:42:39 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: seyed1332 ($4.31 in chips) 
+Seat 2: Bigboy2512 ($13.99 in chips) 
+Seat 3: Rosska(Rus) ($13.92 in chips) 
+Seat 4: CvB85 ($11.19 in chips) 
+Seat 5: OnlyBluff08 ($14.53 in chips) 
+Seat 6: Schengo90 ($10.24 in chips) 
+seyed1332: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: calls $0.05
+Bigboy2512: raises $0.30 to $0.40
+seyed1332: calls $0.30
+*** FLOP *** [4s 6c 4c]
+seyed1332: checks 
+Bigboy2512: checks 
+*** TURN *** [4s 6c 4c] [Qh]
+seyed1332: checks 
+Bigboy2512: bets $0.50
+seyed1332: folds 
+Uncalled bet ($0.50) returned to Bigboy2512
+Bigboy2512 collected $0.76 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [4s 6c 4c Qh]
+Seat 1: seyed1332 (small blind) folded on the Turn
+Seat 2: Bigboy2512 (big blind) collected ($0.76)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980312586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:43:14 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: seyed1332 ($3.91 in chips) 
+Seat 2: Bigboy2512 ($14.35 in chips) 
+Seat 3: Rosska(Rus) ($13.92 in chips) 
+Seat 4: CvB85 ($11.19 in chips) 
+Seat 5: OnlyBluff08 ($14.53 in chips) 
+Seat 6: Schengo90 ($10.24 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90 has timed out
+Schengo90: folds 
+seyed1332: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.05) returned to Rosska(Rus)
+Rosska(Rus) collected $0.10 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: seyed1332 (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) collected ($0.10)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980321892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:43:33 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: seyed1332 ($3.91 in chips) 
+Seat 2: Bigboy2512 ($14.30 in chips) 
+Seat 3: Rosska(Rus) ($13.97 in chips) 
+Seat 4: CvB85 ($11.19 in chips) 
+Seat 5: OnlyBluff08 ($14.53 in chips) 
+Seat 6: Schengo90 ($10.24 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+Uncalled bet ($0.20) returned to seyed1332
+seyed1332 collected $0.25 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: seyed1332 collected ($0.25)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980329710:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:43:49 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: seyed1332 ($4.06 in chips) 
+Seat 2: Bigboy2512 ($14.30 in chips) 
+Seat 3: Rosska(Rus) ($13.92 in chips) 
+Seat 4: CvB85 ($11.09 in chips) 
+Seat 5: OnlyBluff08 ($14.53 in chips) 
+Seat 6: Schengo90 ($10.24 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+seyed1332: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): raises $0.70 to $1
+CvB85: folds 
+OnlyBluff08: folds 
+seyed1332: folds 
+Uncalled bet ($0.70) returned to Rosska(Rus)
+Rosska(Rus) collected $0.75 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: seyed1332 folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) collected ($0.75)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980337650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:44:05 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: seyed1332 ($3.76 in chips) 
+Seat 2: Bigboy2512 ($14.30 in chips) 
+Seat 3: Rosska(Rus) ($14.37 in chips) 
+Seat 4: CvB85 ($11.04 in chips) 
+Seat 5: OnlyBluff08 ($14.43 in chips) 
+Seat 6: Schengo90 ($10.24 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+seyed1332: calls $0.10
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: checks 
+*** FLOP *** [Ts 2c Td]
+Schengo90: bets $0.24
+seyed1332: raises $0.24 to $0.48
+Schengo90: calls $0.24
+*** TURN *** [Ts 2c Td] [3s]
+Schengo90: checks 
+seyed1332: bets $0.40
+Schengo90: folds 
+Uncalled bet ($0.40) returned to seyed1332
+seyed1332 collected $1.16 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.05 
+Board [Ts 2c Td 3s]
+Seat 1: seyed1332 collected ($1.16)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222980353134:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:44:36 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: seyed1332 ($4.34 in chips) 
+Seat 2: Bigboy2512 ($14.30 in chips) 
+Seat 3: Rosska(Rus) ($14.37 in chips) 
+Seat 4: CvB85 ($11.04 in chips) 
+Seat 5: OnlyBluff08 ($14.38 in chips) 
+Seat 6: Schengo90 ($9.66 in chips) 
+Schengo90: posts small blind $0.05
+seyed1332: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: raises $0.15 to $0.25
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: calls $0.15
+*** FLOP *** [5d 8s 8h]
+seyed1332: checks 
+Bigboy2512: bets $0.35
+seyed1332: folds 
+Uncalled bet ($0.35) returned to Bigboy2512
+Bigboy2512 collected $0.53 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5d 8s 8h]
+Seat 1: seyed1332 (big blind) folded on the Flop
+Seat 2: Bigboy2512 collected ($0.53)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980368391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:45:07 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: seyed1332 ($4.09 in chips) 
+Seat 2: Bigboy2512 ($14.58 in chips) 
+Seat 3: Rosska(Rus) ($14.37 in chips) 
+Seat 4: CvB85 ($11.04 in chips) 
+Seat 5: OnlyBluff08 ($14.38 in chips) 
+Seat 6: Schengo90 ($9.61 in chips) 
+seyed1332: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Schengo90: calls $0.30
+seyed1332: calls $0.25
+Bigboy2512: folds 
+*** FLOP *** [Js Tc 2s]
+seyed1332: checks 
+CvB85: bets $0.50
+Schengo90: folds 
+seyed1332: folds 
+Uncalled bet ($0.50) returned to CvB85
+CvB85 collected $0.96 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Js Tc 2s]
+Seat 1: seyed1332 (small blind) folded on the Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 collected ($0.96)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded on the Flop
+
+
+
+PokerStars Hand #222980377809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:45:27 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: seyed1332 ($3.79 in chips) 
+Seat 2: Bigboy2512 ($14.48 in chips) 
+Seat 3: Rosska(Rus) ($14.37 in chips) 
+Seat 4: CvB85 ($11.70 in chips) 
+Seat 5: OnlyBluff08 ($14.38 in chips) 
+Seat 6: Schengo90 ($9.31 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: raises $0.20 to $0.30
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: calls $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+*** FLOP *** [5h 4c Qc]
+CvB85: checks 
+seyed1332: bets $0.40
+CvB85: folds 
+Uncalled bet ($0.40) returned to seyed1332
+seyed1332 collected $0.72 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5h 4c Qc]
+Seat 1: seyed1332 (button) collected ($0.72)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded on the Flop
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980392609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:45:57 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: seyed1332 ($4.21 in chips) 
+Seat 2: Bigboy2512 ($14.43 in chips) 
+Seat 3: Rosska(Rus) ($14.27 in chips) 
+Seat 4: CvB85 ($11.40 in chips) 
+Seat 5: OnlyBluff08 ($14.38 in chips) 
+Seat 6: Schengo90 ($9.31 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: raises $0.20 to $0.30
+Schengo90: folds 
+seyed1332: folds 
+Bigboy2512: folds 
+Rosska(Rus): calls $0.25
+CvB85: folds 
+*** FLOP *** [3s 9h 4h]
+Rosska(Rus): bets $0.52
+OnlyBluff08: folds 
+Uncalled bet ($0.52) returned to Rosska(Rus)
+Rosska(Rus) collected $0.67 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3s 9h 4h]
+Seat 1: seyed1332 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) collected ($0.67)
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 5: OnlyBluff08 folded on the Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980404759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:46:22 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: seyed1332 ($4.21 in chips) 
+Seat 2: Bigboy2512 ($14.43 in chips) 
+Seat 3: Rosska(Rus) ($14.64 in chips) 
+Seat 4: CvB85 ($11.30 in chips) 
+Seat 5: OnlyBluff08 ($14.08 in chips) 
+Seat 6: Schengo90 ($9.31 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+seyed1332: raises $0.10 to $0.20
+Bigboy2512: folds 
+Rosska(Rus): calls $0.20
+CvB85: raises $0.90 to $1.10
+OnlyBluff08: folds 
+seyed1332: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.90) returned to CvB85
+CvB85 collected $0.70 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: seyed1332 folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop
+Seat 4: CvB85 (small blind) collected ($0.70)
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980417399:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:46:48 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: seyed1332 ($4.01 in chips) 
+Seat 2: Bigboy2512 ($14.43 in chips) 
+Seat 3: Rosska(Rus) ($14.44 in chips) 
+Seat 4: CvB85 ($11.80 in chips) 
+Seat 5: OnlyBluff08 ($13.98 in chips) 
+Seat 6: Schengo90 ($9.31 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+seyed1332: folds 
+Bigboy2512: folds 
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: calls $0.20
+*** FLOP *** [Jc 7h 4h]
+Schengo90: bets $0.41
+Rosska(Rus): calls $0.41
+*** TURN *** [Jc 7h 4h] [9h]
+Schengo90: bets $0.80
+Rosska(Rus): raises $1.80 to $2.60
+Schengo90: calls $1.80
+*** RIVER *** [Jc 7h 4h 9h] [3d]
+Schengo90: checks 
+Rosska(Rus): bets $6
+Schengo90: calls $6 and is all-in
+*** SHOW DOWN ***
+Rosska(Rus): shows [5h Kh] (a flush, King high)
+Schengo90: shows [Qh Qc] (a pair of Queens)
+Rosska(Rus) collected $17.83 from pot
+*** SUMMARY ***
+Total pot $18.67 | Rake $0.84 
+Board [Jc 7h 4h 9h 3d]
+Seat 1: seyed1332 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) showed [5h Kh] and won ($17.83) with a flush, King high
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) showed [Qh Qc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #222980459120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:47:51 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: seyed1332 ($4.01 in chips) 
+Seat 2: Bigboy2512 ($14.43 in chips) 
+Seat 3: Rosska(Rus) ($22.96 in chips) 
+Seat 4: CvB85 ($11.80 in chips) 
+Seat 5: OnlyBluff08 ($13.93 in chips) 
+seyed1332: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: raises $0.20 to $0.30
+seyed1332: calls $0.25
+Bigboy2512: raises $1 to $1.30
+OnlyBluff08: calls $1
+seyed1332: folds 
+*** FLOP *** [6c 9d 2h]
+Bigboy2512: checks 
+OnlyBluff08: checks 
+*** TURN *** [6c 9d 2h] [Th]
+Bigboy2512: checks 
+OnlyBluff08: bets $1
+Bigboy2512: calls $1
+*** RIVER *** [6c 9d 2h Th] [Kc]
+Bigboy2512: checks 
+OnlyBluff08: checks 
+*** SHOW DOWN ***
+Bigboy2512: shows [Ah Kd] (a pair of Kings)
+OnlyBluff08: mucks hand 
+Bigboy2512 collected $4.68 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.22 
+Board [6c 9d 2h Th Kc]
+Seat 1: seyed1332 (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) showed [Ah Kd] and won ($4.68) with a pair of Kings
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) mucked
+
+
+
+PokerStars Hand #222980483977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:48:43 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: seyed1332 ($3.71 in chips) 
+Seat 2: Bigboy2512 ($16.81 in chips) 
+Seat 3: Rosska(Rus) ($22.96 in chips) 
+Seat 4: CvB85 ($11.80 in chips) 
+Seat 5: OnlyBluff08 ($11.63 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: folds 
+seyed1332: calls $0.10
+Bigboy2512: raises $0.40 to $0.50
+Rosska(Rus): folds 
+seyed1332: calls $0.40
+*** FLOP *** [Qc 7h Tc]
+Bigboy2512: bets $0.69
+seyed1332: folds 
+Uncalled bet ($0.69) returned to Bigboy2512
+Bigboy2512 collected $1.05 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Qc 7h Tc]
+Seat 1: seyed1332 (button) folded on the Flop
+Seat 2: Bigboy2512 (small blind) collected ($1.05)
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980495319:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:49:06 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: seyed1332 ($3.21 in chips) 
+Seat 2: Bigboy2512 ($17.36 in chips) 
+Seat 3: Rosska(Rus) ($22.86 in chips) 
+Seat 4: CvB85 ($11.80 in chips) 
+Seat 5: OnlyBluff08 ($11.63 in chips) 
+Seat 6: Schengo90 ($10 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+Schengo90: posts small blind $0.05
+*** HOLE CARDS ***
+OnlyBluff08: raises $0.20 to $0.30
+Schengo90: folds 
+seyed1332: calls $0.30
+Bigboy2512: calls $0.30
+Rosska(Rus): folds 
+CvB85: folds 
+*** FLOP *** [Ts 5s 8c]
+OnlyBluff08: checks 
+seyed1332: checks 
+Bigboy2512: checks 
+*** TURN *** [Ts 5s 8c] [6c]
+OnlyBluff08: checks 
+seyed1332: bets $1.05
+Bigboy2512: folds 
+OnlyBluff08: folds 
+Uncalled bet ($1.05) returned to seyed1332
+seyed1332 collected $1.05 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ts 5s 8c 6c]
+Seat 1: seyed1332 collected ($1.05)
+Seat 2: Bigboy2512 (button) folded on the Turn
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 5: OnlyBluff08 folded on the Turn
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980518566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:49:55 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: seyed1332 ($3.96 in chips) 
+Seat 2: Bigboy2512 ($17.06 in chips) 
+Seat 3: Rosska(Rus) ($22.81 in chips) 
+Seat 4: CvB85 ($11.70 in chips) 
+Seat 5: OnlyBluff08 ($11.33 in chips) 
+Seat 6: Schengo90 ($9.95 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+seyed1332: folds 
+Bigboy2512: folds 
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+OnlyBluff08: calls $0.20
+*** FLOP *** [8d 2s 2d]
+OnlyBluff08: checks 
+Rosska(Rus): bets $0.48
+OnlyBluff08: calls $0.48
+*** TURN *** [8d 2s 2d] [Jc]
+OnlyBluff08: checks 
+Rosska(Rus): bets $1.19
+OnlyBluff08: folds 
+Uncalled bet ($1.19) returned to Rosska(Rus)
+Rosska(Rus) collected $1.54 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.07 
+Board [8d 2s 2d Jc]
+Seat 1: seyed1332 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) collected ($1.54)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: OnlyBluff08 (big blind) folded on the Turn
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980542546:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:50:46 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: seyed1332 ($3.96 in chips) 
+Seat 2: Bigboy2512 ($17.06 in chips) 
+Seat 3: Rosska(Rus) ($23.57 in chips) 
+Seat 4: CvB85 ($11.65 in chips) 
+Seat 5: OnlyBluff08 ($10.55 in chips) 
+Seat 6: Schengo90 ($9.95 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+seyed1332: raises $0.10 to $0.20
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Uncalled bet ($0.10) returned to seyed1332
+seyed1332 collected $0.25 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: seyed1332 collected ($0.25)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980547629:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:50:56 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: seyed1332 ($4.11 in chips) 
+Seat 2: Bigboy2512 ($17.06 in chips) 
+Seat 3: Rosska(Rus) ($23.57 in chips) 
+Seat 4: CvB85 ($11.65 in chips) 
+Seat 5: OnlyBluff08 ($10.50 in chips) 
+Seat 6: Schengo90 ($9.85 in chips) 
+Schengo90: posts small blind $0.05
+seyed1332: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: folds 
+Uncalled bet ($0.05) returned to seyed1332
+seyed1332 collected $0.10 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: seyed1332 (big blind) collected ($0.10)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980553043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:51:08 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: seyed1332 ($4.16 in chips) 
+Seat 2: Bigboy2512 ($17.06 in chips) 
+Seat 3: Rosska(Rus) ($23.57 in chips) 
+Seat 4: CvB85 ($11.65 in chips) 
+Seat 5: OnlyBluff08 ($10.50 in chips) 
+Seat 6: Schengo90 ($9.80 in chips) 
+seyed1332: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: raises $0.75 to $1.05
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.75) returned to CvB85
+CvB85 collected $0.75 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: seyed1332 (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop
+Seat 4: CvB85 collected ($0.75)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980560817:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:51:24 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: seyed1332 ($4.11 in chips) 
+Seat 2: Bigboy2512 ($16.96 in chips) 
+Seat 3: Rosska(Rus) ($23.27 in chips) 
+Seat 4: CvB85 ($12.10 in chips) 
+Seat 5: OnlyBluff08 ($10.50 in chips) 
+Seat 6: Schengo90 ($9.80 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+OnlyBluff08: folds 
+Schengo90: raises $0.15 to $0.25
+seyed1332: folds 
+Bigboy2512: raises $0.75 to $1
+Rosska(Rus): folds 
+Schengo90: folds 
+Uncalled bet ($0.75) returned to Bigboy2512
+Bigboy2512 collected $0.60 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seyed1332 (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) collected ($0.60)
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop
+
+
+
+PokerStars Hand #222980568413:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:51:40 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: seyed1332 ($4.11 in chips) 
+Seat 2: Bigboy2512 ($17.31 in chips) 
+Seat 3: Rosska(Rus) ($23.17 in chips) 
+Seat 4: CvB85 ($12.10 in chips) 
+Seat 5: OnlyBluff08 ($10.50 in chips) 
+Seat 6: Schengo90 ($9.55 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+OnlyBluff08: folds 
+Schengo90: folds 
+seyed1332: calls $0.10
+Bigboy2512: folds 
+Rosska(Rus): raises $0.30 to $0.40
+CvB85: folds 
+seyed1332: folds 
+Uncalled bet ($0.30) returned to Rosska(Rus)
+Rosska(Rus) collected $0.30 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: seyed1332 folded before Flop
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) collected ($0.30)
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 5: OnlyBluff08 folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980573913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:51:52 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: seyed1332 ($4.01 in chips) 
+Seat 2: Bigboy2512 ($17.31 in chips) 
+Seat 3: Rosska(Rus) ($23.37 in chips) 
+Seat 4: CvB85 ($12 in chips) 
+Seat 5: OnlyBluff08 ($10.50 in chips) 
+Seat 6: Schengo90 ($9.55 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+seyed1332: raises $0.20 to $0.30
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: folds 
+Uncalled bet ($0.20) returned to seyed1332
+seyed1332 collected $0.25 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: seyed1332 collected ($0.25)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980578007:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:52:01 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: seyed1332 ($4.16 in chips) 
+Seat 2: Bigboy2512 ($17.31 in chips) 
+Seat 3: Rosska(Rus) ($23.37 in chips) 
+Seat 4: CvB85 ($11.95 in chips) 
+Seat 5: OnlyBluff08 ($10.40 in chips) 
+Seat 6: Schengo90 ($9.55 in chips) 
+OnlyBluff08: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+seyed1332: raises $0.30 to $0.40
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08: calls $0.35
+Schengo90: folds 
+*** FLOP *** [3c Kd Jh]
+OnlyBluff08: checks 
+seyed1332: bets $0.40
+OnlyBluff08: folds 
+Uncalled bet ($0.40) returned to seyed1332
+seyed1332 collected $0.86 from pot
+seyed1332: shows [Ad Qc]
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [3c Kd Jh]
+Seat 1: seyed1332 collected ($0.86)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (small blind) folded on the Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980594794:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:52:36 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: seyed1332 ($4.62 in chips) 
+Seat 2: Bigboy2512 ($17.31 in chips) 
+Seat 3: Rosska(Rus) ($23.37 in chips) 
+Seat 4: CvB85 ($11.95 in chips) 
+Seat 5: OnlyBluff08 ($10 in chips) 
+Seat 6: Schengo90 ($9.45 in chips) 
+Schengo90: posts small blind $0.05
+seyed1332: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+OnlyBluff08 has timed out
+OnlyBluff08: folds 
+Schengo90: folds 
+Uncalled bet ($0.05) returned to seyed1332
+seyed1332 collected $0.10 from pot
+seyed1332: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: seyed1332 (big blind) collected ($0.10)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: OnlyBluff08 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980608168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:53:05 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: seyed1332 ($4.67 in chips) 
+Seat 2: Bigboy2512 ($17.31 in chips) 
+Seat 3: Rosska(Rus) ($23.37 in chips) 
+Seat 4: CvB85 ($11.95 in chips) 
+Seat 6: Schengo90 ($9.40 in chips) 
+seyed1332: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+Schengo90: calls $0.30
+seyed1332: calls $0.25
+Bigboy2512: folds 
+*** FLOP *** [Qc 9d Td]
+seyed1332: checks 
+Rosska(Rus): bets $0.76
+Schengo90: calls $0.76
+seyed1332: raises $3.24 to $4
+Rosska(Rus): calls $3.24
+Schengo90: folds 
+*** TURN *** [Qc 9d Td] [2h]
+seyed1332: bets $0.37 and is all-in
+Rosska(Rus): calls $0.37
+*** RIVER *** [Qc 9d Td 2h] [Th]
+*** SHOW DOWN ***
+seyed1332: shows [Jc 8d] (a straight, Eight to Queen)
+Rosska(Rus): shows [Jd Kh] (a straight, Nine to King)
+Rosska(Rus) collected $10.03 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.47 
+Board [Qc 9d Td 2h Th]
+Seat 1: seyed1332 (small blind) showed [Jc 8d] and lost with a straight, Eight to Queen
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) showed [Jd Kh] and won ($10.03) with a straight, Nine to King
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded on the Flop
+
+
+
+PokerStars Hand #222980633482:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:53:58 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($17.21 in chips) 
+Seat 3: Rosska(Rus) ($28.73 in chips) 
+Seat 4: CvB85 ($11.95 in chips) 
+Seat 6: Schengo90 ($8.34 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Bigboy2512: folds 
+Rosska(Rus): raises $0.20 to $0.30
+seyed1332 leaves the table
+CvB85: calls $0.20
+*** FLOP *** [Ts 3s 2d]
+Rosska(Rus): checks 
+KramSS joins the table at seat #1 
+CvB85: bets $0.30
+Rosska(Rus): folds 
+Uncalled bet ($0.30) returned to CvB85
+CvB85 collected $0.57 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ts 3s 2d]
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (small blind) folded on the Flop
+Seat 4: CvB85 (big blind) collected ($0.57)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980642399:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:54:17 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($17.21 in chips) 
+Seat 3: Rosska(Rus) ($28.43 in chips) 
+Seat 4: CvB85 ($12.22 in chips) 
+Seat 5: OnlyBluff08 ($10 in chips) 
+Seat 6: Schengo90 ($8.34 in chips) 
+CvB85: posts small blind $0.05
+OnlyBluff08: posts big blind $0.10
+KramSS: sits out 
+*** HOLE CARDS ***
+Schengo90: raises $0.15 to $0.25
+Bigboy2512: folds 
+Rosska(Rus): folds 
+KramSS leaves the table
+CvB85: calls $0.20
+OnlyBluff08: folds 
+*** FLOP *** [Tc 8c 9d]
+OnlyBluff08 leaves the table
+CvB85: checks 
+Schengo90: bets $0.38
+CvB85: folds 
+Uncalled bet ($0.38) returned to Schengo90
+Schengo90 collected $0.57 from pot
+Schengo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc 8c 9d]
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded on the Flop
+Seat 5: OnlyBluff08 (big blind) folded before Flop
+Seat 6: Schengo90 collected ($0.57)
+
+
+
+PokerStars Hand #222980655263:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:54:45 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 2: Bigboy2512 ($17.21 in chips) 
+Seat 3: Rosska(Rus) ($28.43 in chips) 
+Seat 4: CvB85 ($11.97 in chips) 
+Seat 6: Schengo90 ($8.66 in chips) 
+Schengo90: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+Schengo90: folds 
+Bigboy2512: calls $0.20
+*** FLOP *** [Js Th Kd]
+Bigboy2512: checks 
+Rosska(Rus): checks 
+*** TURN *** [Js Th Kd] [7d]
+Bigboy2512: checks 
+Rosska(Rus): checks 
+*** RIVER *** [Js Th Kd 7d] [4h]
+Bigboy2512: bets $0.50
+Rosska(Rus): folds 
+Uncalled bet ($0.50) returned to Bigboy2512
+Bigboy2512 collected $0.62 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Js Th Kd 7d 4h]
+Seat 2: Bigboy2512 (big blind) collected ($0.62)
+Seat 3: Rosska(Rus) folded on the River
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980667101:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:11 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 2: Bigboy2512 ($17.53 in chips) 
+Seat 3: Rosska(Rus) ($28.13 in chips) 
+Seat 4: CvB85 ($11.97 in chips) 
+Seat 6: Schengo90 ($8.61 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+Schengo90: folds 
+Bigboy2512: raises $0.30 to $0.40
+Rosska(Rus): folds 
+Uncalled bet ($0.30) returned to Bigboy2512
+Bigboy2512 collected $0.20 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bigboy2512 (small blind) collected ($0.20)
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980670272:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:20 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($17.63 in chips) 
+Seat 3: Rosska(Rus) ($28.03 in chips) 
+Seat 4: CvB85 ($11.97 in chips) 
+Seat 6: Schengo90 ($8.61 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+Bigboy2512: raises $0.15 to $0.25
+Rosska(Rus): folds 
+CvB85: folds 
+Uncalled bet ($0.15) returned to Bigboy2512
+Bigboy2512 collected $0.25 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 (button) collected ($0.25)
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980674818:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:32 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($17.78 in chips) 
+Seat 3: Rosska(Rus) ($27.98 in chips) 
+Seat 4: CvB85 ($11.87 in chips) 
+Seat 6: Schengo90 ($8.61 in chips) 
+CvB85: posts small blind $0.05
+Schengo90: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+Schengo90: folds 
+Uncalled bet ($0.20) returned to Rosska(Rus)
+Rosska(Rus) collected $0.25 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) collected ($0.25)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980677553:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:40 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 2: Bigboy2512 ($17.78 in chips) 
+Seat 3: Rosska(Rus) ($28.13 in chips) 
+Seat 4: CvB85 ($11.82 in chips) 
+Seat 6: Schengo90 ($8.51 in chips) 
+Schengo90: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+Schengo90: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.20) returned to Rosska(Rus)
+Rosska(Rus) collected $0.25 from pot
+Rosska(Rus): doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) collected ($0.25)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980680079:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:47 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 2: Bigboy2512 ($17.68 in chips) 
+Seat 3: Rosska(Rus) ($28.28 in chips) 
+Seat 4: CvB85 ($11.82 in chips) 
+Seat 6: Schengo90 ($8.46 in chips) 
+Bigboy2512: posts small blind $0.05
+Rosska(Rus): posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: raises $0.20 to $0.30
+Schengo90: folds 
+Bigboy2512: folds 
+Rosska(Rus): folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Rosska(Rus) (big blind) folded before Flop
+Seat 4: CvB85 collected ($0.25)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980683550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:57 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($17.63 in chips) 
+Seat 3: Rosska(Rus) ($28.18 in chips) 
+Seat 4: CvB85 ($11.97 in chips) 
+Seat 6: Schengo90 ($8.46 in chips) 
+Rosska(Rus): posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: raises $0.15 to $0.25
+Bigboy2512: calls $0.25
+Rosska(Rus): folds 
+CvB85: folds 
+*** FLOP *** [2h 5s Kc]
+Schengo90: checks 
+Bigboy2512: checks 
+*** TURN *** [2h 5s Kc] [9h]
+!llmat!c joins the table at seat #1 
+Schengo90: checks 
+Bigboy2512: bets $0.20
+Schengo90: calls $0.20
+*** RIVER *** [2h 5s Kc 9h] [Ac]
+Schengo90: checks 
+Bigboy2512: checks 
+*** SHOW DOWN ***
+Schengo90: shows [Qs Tc] (high card Ace)
+Bigboy2512: shows [Ah Qc] (a pair of Aces)
+Bigboy2512 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [2h 5s Kc 9h Ac]
+Seat 2: Bigboy2512 (button) showed [Ah Qc] and won ($1) with a pair of Aces
+Seat 3: Rosska(Rus) (small blind) folded before Flop
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 6: Schengo90 showed [Qs Tc] and lost with high card Ace
+
+
+
+PokerStars Hand #222980709808:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:09 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($18.18 in chips) 
+Seat 3: Rosska(Rus) ($28.13 in chips) 
+Seat 4: CvB85 ($11.87 in chips) 
+Seat 6: Schengo90 ($8.01 in chips) 
+CvB85: posts small blind $0.05
+Schengo90: posts big blind $0.10
+!llmat!c: sits out 
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): raises $0.20 to $0.30
+CvB85: folds 
+Schengo90: raises $0.65 to $0.95
+Rosska(Rus): folds 
+Uncalled bet ($0.65) returned to Schengo90
+Schengo90 collected $0.65 from pot
+Schengo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) (button) folded before Flop
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) collected ($0.65)
+
+
+
+PokerStars Hand #222980714249:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:21 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: !llmat!c ($10 in chips) 
+Seat 2: Bigboy2512 ($18.18 in chips) 
+Seat 3: Rosska(Rus) ($27.83 in chips) 
+Seat 4: CvB85 ($11.82 in chips) 
+Seat 6: Schengo90 ($8.36 in chips) 
+Schengo90: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Rosska(Rus): folds 
+CvB85: folds 
+Schengo90: folds 
+Uncalled bet ($0.05) returned to !llmat!c
+!llmat!c collected $0.10 from pot
+!llmat!c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: !llmat!c (big blind) collected ($0.10)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980716908:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:29 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($10.05 in chips) 
+Seat 2: Bigboy2512 ($18.18 in chips) 
+Seat 3: Rosska(Rus) ($27.83 in chips) 
+Seat 4: CvB85 ($11.82 in chips) 
+Seat 6: Schengo90 ($8.31 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rosska(Rus): folds 
+CvB85: raises $0.20 to $0.30
+Schengo90: folds 
+Rosska(Rus) leaves the table
+!llmat!c: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Rosska(Rus) folded before Flop (didn't bet)
+Seat 4: CvB85 collected ($0.25)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980722951:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:45 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($10 in chips) 
+Seat 2: Bigboy2512 ($18.08 in chips) 
+Seat 4: CvB85 ($11.97 in chips) 
+Seat 6: Schengo90 ($8.31 in chips) 
+Bigboy2512: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+pezao sp joins the table at seat #5 
+!llmat!c: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.05) returned to CvB85
+CvB85 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: !llmat!c (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 4: CvB85 (big blind) collected ($0.10)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980727919:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:59 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($10 in chips) 
+Seat 2: Bigboy2512 ($18.03 in chips) 
+Seat 4: CvB85 ($12.02 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Schengo90 ($8.31 in chips) 
+CvB85: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+Schengo90: folds 
+!llmat!c: folds 
+Bigboy2512: folds 
+Benjj335 joins the table at seat #3 
+CvB85: calls $0.05
+pezao sp: checks 
+*** FLOP *** [Th Kh 2h]
+CvB85: bets $0.10
+pezao sp: folds 
+Uncalled bet ($0.10) returned to CvB85
+CvB85 collected $0.19 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th Kh 2h]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) collected ($0.19)
+Seat 5: pezao sp (big blind) folded on the Flop
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980741113:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:58:36 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: !llmat!c ($10 in chips) 
+Seat 2: Bigboy2512 ($18.03 in chips) 
+Seat 4: CvB85 ($12.11 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Schengo90 ($8.31 in chips) 
+pezao sp: posts small blind $0.05
+Schengo90: posts big blind $0.10
+Benjj335: sits out 
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: folds 
+CvB85: raises $0.20 to $0.30
+Benjj335 leaves the table
+pezao sp: folds 
+Schengo90: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 4: CvB85 (button) collected ($0.25)
+Seat 5: pezao sp (small blind) folded before Flop
+Seat 6: Schengo90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980749956:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:00 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($10 in chips) 
+Seat 2: Bigboy2512 ($18.03 in chips) 
+Seat 4: CvB85 ($12.26 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Schengo90 ($8.21 in chips) 
+Schengo90: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: raises $0.15 to $0.25
+Baron Horton joins the table at seat #3 
+CvB85: folds 
+pezao sp: folds 
+Schengo90: folds 
+!llmat!c: raises $0.85 to $1.10
+Bigboy2512: folds 
+Uncalled bet ($0.85) returned to !llmat!c
+!llmat!c collected $0.55 from pot
+!llmat!c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: !llmat!c (big blind) collected ($0.55)
+Seat 2: Bigboy2512 folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) folded before Flop (didn't bet)
+Seat 6: Schengo90 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980764336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:40 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($10.30 in chips) 
+Seat 2: Bigboy2512 ($17.78 in chips) 
+Seat 4: CvB85 ($12.26 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Schengo90 ($8.16 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+Baron Horton: sits out 
+*** HOLE CARDS ***
+CvB85: raises $0.20 to $0.30
+pezao sp: folds 
+Schengo90: folds 
+!llmat!c: folds 
+Bigboy2512: raises $1 to $1.30
+CvB85: calls $1
+*** FLOP *** [7d 9h 2h]
+Bigboy2512: bets $1.67
+CvB85: folds 
+Uncalled bet ($1.67) returned to Bigboy2512
+Bigboy2512 collected $2.53 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [7d 9h 2h]
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) collected ($2.53)
+Seat 4: CvB85 folded on the Flop
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Schengo90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980786837:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:37 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($10.25 in chips) 
+Seat 2: Bigboy2512 ($19.01 in chips) 
+Seat 3: Baron Horton ($8 in chips) 
+Seat 4: CvB85 ($10.96 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Schengo90 ($8.16 in chips) 
+Bigboy2512: posts small blind $0.05
+Baron Horton: posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+pezao sp: folds 
+Schengo90 has timed out
+Schengo90: folds 
+!llmat!c: raises $0.15 to $0.25
+Bigboy2512: folds 
+Baron Horton: folds 
+Uncalled bet ($0.15) returned to !llmat!c
+!llmat!c collected $0.25 from pot
+!llmat!c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (button) collected ($0.25)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Baron Horton (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Schengo90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980795823:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:58 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($10.40 in chips) 
+Seat 2: Bigboy2512 ($18.96 in chips) 
+Seat 3: Baron Horton ($7.90 in chips) 
+Seat 4: CvB85 ($10.96 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Baron Horton: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+!llmat!c: folds 
+Bigboy2512: folds 
+Baron Horton: calls $0.05
+CvB85: checks 
+*** FLOP *** [3c Qd 7h]
+Baron Horton: checks 
+CvB85: checks 
+*** TURN *** [3c Qd 7h] [5h]
+Baron Horton: checks 
+CvB85: bets $0.10
+Baron Horton: folds 
+Uncalled bet ($0.10) returned to CvB85
+CvB85 collected $0.19 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3c Qd 7h 5h]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: Baron Horton (small blind) folded on the Turn
+Seat 4: CvB85 (big blind) collected ($0.19)
+Seat 5: pezao sp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980806261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:01:23 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: !llmat!c ($10.40 in chips) 
+Seat 2: Bigboy2512 ($18.96 in chips) 
+Seat 3: Baron Horton ($7.80 in chips) 
+Seat 4: CvB85 ($11.05 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+CvB85: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: folds 
+Baron Horton: folds 
+CvB85: raises $0.20 to $0.30
+pezao sp: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.20 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Baron Horton (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) collected ($0.20)
+Seat 5: pezao sp (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980933185:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:05:39 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: !llmat!c ($10.79 in chips) 
+Seat 2: Bigboy2512 ($20.59 in chips) 
+Seat 3: Baron Horton ($8.23 in chips) 
+Seat 4: CvB85 ($10.49 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Driverofpoker ($7.60 in chips) 
+pezao sp: posts small blind $0.05
+Driverofpoker: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: raises $0.15 to $0.25
+Baron Horton: folds 
+CvB85: raises $0.65 to $0.90
+pezao sp: folds 
+Driverofpoker: calls $0.80
+Bigboy2512: folds 
+*** FLOP *** [6c Jh Jc]
+Driverofpoker: checks 
+CvB85: bets $0.70
+Driverofpoker: folds 
+Uncalled bet ($0.70) returned to CvB85
+CvB85 collected $2.01 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [6c Jh Jc]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop
+Seat 3: Baron Horton folded before Flop (didn't bet)
+Seat 4: CvB85 (button) collected ($2.01)
+Seat 5: pezao sp (small blind) folded before Flop
+Seat 6: Driverofpoker (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222980953779:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:06:23 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($10.79 in chips) 
+Seat 2: Bigboy2512 ($20.34 in chips) 
+Seat 3: Baron Horton ($8.23 in chips) 
+Seat 4: CvB85 ($11.60 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Driverofpoker ($6.70 in chips) 
+Driverofpoker: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Baron Horton: folds 
+CvB85: folds 
+pezao sp: raises $0.15 to $0.25
+Driverofpoker: calls $0.20
+!llmat!c: folds 
+*** FLOP *** [4d 3s Qs]
+Driverofpoker: bets $0.10
+pezao sp: raises $0.40 to $0.50
+Driverofpoker: calls $0.40
+*** TURN *** [4d 3s Qs] [5c]
+Driverofpoker: bets $0.10
+pezao sp: calls $0.10
+*** RIVER *** [4d 3s Qs 5c] [6c]
+Driverofpoker: bets $0.10
+pezao sp: calls $0.10
+*** SHOW DOWN ***
+Driverofpoker: shows [Qd 3h] (two pair, Queens and Threes)
+pezao sp: mucks hand 
+Driverofpoker collected $1.91 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [4d 3s Qs 5c 6c]
+Seat 1: !llmat!c (big blind) folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Baron Horton folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) mucked
+Seat 6: Driverofpoker (small blind) showed [Qd 3h] and won ($1.91) with two pair, Queens and Threes
+
+
+
+PokerStars Hand #222980979031:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:07:17 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($10.69 in chips) 
+Seat 2: Bigboy2512 ($20.34 in chips) 
+Seat 3: Baron Horton ($8.23 in chips) 
+Seat 4: CvB85 ($11.60 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Driverofpoker ($7.66 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Baron Horton: calls $0.10
+CvB85: raises $0.35 to $0.45
+pezao sp: folds 
+Driverofpoker: folds 
+!llmat!c: folds 
+Bigboy2512: folds 
+Baron Horton: calls $0.35
+*** FLOP *** [7d 5s Qd]
+Baron Horton: checks 
+CvB85: bets $0.50
+Baron Horton: calls $0.50
+*** TURN *** [7d 5s Qd] [3d]
+Baron Horton: checks 
+CvB85: checks 
+*** RIVER *** [7d 5s Qd 3d] [Kh]
+Baron Horton: bets $1.30
+CvB85: calls $1.30
+*** SHOW DOWN ***
+Baron Horton: shows [Kc Qh] (two pair, Kings and Queens)
+CvB85: mucks hand 
+Baron Horton collected $4.44 from pot
+*** SUMMARY ***
+Total pot $4.65 | Rake $0.21 
+Board [7d 5s Qd 3d Kh]
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Baron Horton showed [Kc Qh] and won ($4.44) with two pair, Kings and Queens
+Seat 4: CvB85 mucked
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980997229:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:07:57 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($10.64 in chips) 
+Seat 2: Bigboy2512 ($20.24 in chips) 
+Seat 3: Baron Horton ($10.42 in chips) 
+Seat 4: CvB85 ($9.35 in chips) 
+Seat 6: Driverofpoker ($7.66 in chips) 
+Bigboy2512: posts small blind $0.05
+Baron Horton: posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: raises $0.20 to $0.30
+Driverofpoker: folds 
+!llmat!c: folds 
+Bigboy2512: folds 
+Baron Horton: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: Baron Horton (big blind) folded before Flop
+Seat 4: CvB85 collected ($0.25)
+Seat 6: Driverofpoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981002941:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:09 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($10.64 in chips) 
+Seat 2: Bigboy2512 ($20.19 in chips) 
+Seat 3: Baron Horton ($10.32 in chips) 
+Seat 4: CvB85 ($9.50 in chips) 
+Seat 6: Driverofpoker ($7.66 in chips) 
+Baron Horton: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+Bigboy2512: raises $0.30 to $0.40
+Baron Horton: folds 
+CvB85: calls $0.30
+Driverofpoker: calls $0.30
+*** FLOP *** [Ad Jc Jh]
+CvB85: checks 
+Driverofpoker: checks 
+Bigboy2512: bets $0.70
+CvB85: folds 
+Driverofpoker: calls $0.70
+*** TURN *** [Ad Jc Jh] [7d]
+Driverofpoker: checks 
+Bigboy2512: bets $1.01
+Driverofpoker: calls $1.01
+*** RIVER *** [Ad Jc Jh 7d] [Qd]
+Driverofpoker: bets $0.10
+Bigboy2512: calls $0.10
+*** SHOW DOWN ***
+Driverofpoker: shows [9s 9c] (two pair, Jacks and Nines)
+Bigboy2512: shows [Jd Kd] (a flush, Ace high)
+Bigboy2512 collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.87 | Rake $0.22 
+Board [Ad Jc Jh 7d Qd]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) showed [Jd Kd] and won ($4.65) with a flush, Ace high
+Seat 3: Baron Horton (small blind) folded before Flop
+Seat 4: CvB85 (big blind) folded on the Flop
+Seat 6: Driverofpoker showed [9s 9c] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #222981034661:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:58 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: !llmat!c ($10.64 in chips) 
+Seat 2: Bigboy2512 ($22.63 in chips) 
+Seat 3: Baron Horton ($10.27 in chips) 
+Seat 4: CvB85 ($9.10 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Driverofpoker ($5.45 in chips) 
+CvB85: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+Bigboy2512: folds 
+Baron Horton: calls $0.10
+CvB85: calls $0.05
+pezao sp: checks 
+*** FLOP *** [Kc 6h 9d]
+CvB85: checks 
+pezao sp: checks 
+Driverofpoker: checks 
+Baron Horton: checks 
+*** TURN *** [Kc 6h 9d] [6c]
+CvB85: checks 
+pezao sp: checks 
+Driverofpoker: checks 
+Baron Horton: checks 
+*** RIVER *** [Kc 6h 9d 6c] [5c]
+CvB85: checks 
+pezao sp: checks 
+Driverofpoker: checks 
+Baron Horton: checks 
+*** SHOW DOWN ***
+CvB85: shows [Qc 7h] (a pair of Sixes)
+pezao sp: mucks hand 
+Driverofpoker: shows [Kh 4s] (two pair, Kings and Sixes)
+Baron Horton: mucks hand 
+Driverofpoker collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kc 6h 9d 6c 5c]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Baron Horton (button) mucked
+Seat 4: CvB85 (small blind) showed [Qc 7h] and lost with a pair of Sixes
+Seat 5: pezao sp (big blind) mucked
+Seat 6: Driverofpoker showed [Kh 4s] and won ($0.38) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #222981069422:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:10:15 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: !llmat!c ($10.64 in chips) 
+Seat 2: Bigboy2512 ($22.63 in chips) 
+Seat 3: Baron Horton ($10.17 in chips) 
+Seat 4: CvB85 ($9 in chips) 
+Seat 5: pezao sp ($10 in chips) 
+Seat 6: Driverofpoker ($5.73 in chips) 
+pezao sp: posts small blind $0.05
+Driverofpoker: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: raises $0.15 to $0.25
+Baron Horton: folds 
+CvB85: folds 
+pezao sp: raises $0.75 to $1
+Driverofpoker: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.75) returned to pezao sp
+pezao sp collected $0.60 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop
+Seat 3: Baron Horton folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: pezao sp (small blind) collected ($0.60)
+Seat 6: Driverofpoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981086143:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:10:51 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($10.64 in chips) 
+Seat 2: Bigboy2512 ($22.38 in chips) 
+Seat 3: Baron Horton ($10.17 in chips) 
+Seat 4: CvB85 ($9 in chips) 
+Seat 5: pezao sp ($10.35 in chips) 
+Seat 6: Driverofpoker ($5.63 in chips) 
+Driverofpoker: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Baron Horton: folds 
+CvB85: folds 
+pezao sp: raises $0.15 to $0.25
+Driverofpoker: folds 
+!llmat!c: folds 
+Uncalled bet ($0.15) returned to pezao sp
+pezao sp collected $0.25 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (big blind) folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Baron Horton folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) collected ($0.25)
+Seat 6: Driverofpoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981092414:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:11:05 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($10.54 in chips) 
+Seat 2: Bigboy2512 ($22.38 in chips) 
+Seat 3: Baron Horton ($10.17 in chips) 
+Seat 4: CvB85 ($9 in chips) 
+Seat 5: pezao sp ($10.50 in chips) 
+Seat 6: Driverofpoker ($5.58 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Baron Horton: folds 
+CvB85: folds 
+pezao sp: raises $0.15 to $0.25
+Driverofpoker: folds 
+!llmat!c: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.15) returned to pezao sp
+pezao sp collected $0.25 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: Baron Horton folded before Flop (didn't bet)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp collected ($0.25)
+Seat 6: Driverofpoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981104641:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:11:32 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($10.49 in chips) 
+Seat 2: Bigboy2512 ($22.28 in chips) 
+Seat 3: Baron Horton ($10.17 in chips) 
+Seat 4: CvB85 ($9 in chips) 
+Seat 5: pezao sp ($10.65 in chips) 
+Seat 6: Driverofpoker ($5.58 in chips) 
+Bigboy2512: posts small blind $0.05
+Baron Horton: posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+pezao sp: folds 
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+Bigboy2512: raises $0.30 to $0.40
+Baron Horton: folds 
+Driverofpoker: calls $0.30
+*** FLOP *** [4c 6s 2h]
+Bigboy2512: checks 
+Driverofpoker: bets $0.43
+Bigboy2512: folds 
+Uncalled bet ($0.43) returned to Driverofpoker
+Driverofpoker collected $0.86 from pot
+Driverofpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [4c 6s 2h]
+Seat 1: !llmat!c (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) folded on the Flop
+Seat 3: Baron Horton (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker collected ($0.86)
+
+
+
+PokerStars Hand #222981124638:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:12:17 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($10.49 in chips) 
+Seat 2: Bigboy2512 ($21.88 in chips) 
+Seat 3: Baron Horton ($10.07 in chips) 
+Seat 4: CvB85 ($9 in chips) 
+Seat 5: pezao sp ($10.65 in chips) 
+Seat 6: Driverofpoker ($6.04 in chips) 
+Baron Horton: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: raises $0.15 to $0.25
+Driverofpoker: calls $0.25
+!llmat!c: folds 
+Bigboy2512: calls $0.25
+Baron Horton: folds 
+CvB85: calls $0.15
+*** FLOP *** [5c Qs Jc]
+CvB85: checks 
+pezao sp: checks 
+Driverofpoker: checks 
+Bigboy2512: checks 
+*** TURN *** [5c Qs Jc] [Td]
+CvB85: checks 
+pezao sp: checks 
+Driverofpoker: checks 
+Bigboy2512: checks 
+*** RIVER *** [5c Qs Jc Td] [6c]
+CvB85: bets $0.60
+pezao sp: folds 
+Driverofpoker: folds 
+Bigboy2512: calls $0.60
+*** SHOW DOWN ***
+CvB85: shows [Qc Th] (two pair, Queens and Tens)
+Bigboy2512: mucks hand 
+CvB85 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [5c Qs Jc Td 6c]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) mucked
+Seat 3: Baron Horton (small blind) folded before Flop
+Seat 4: CvB85 (big blind) showed [Qc Th] and won ($2.15) with two pair, Queens and Tens
+Seat 5: pezao sp folded on the River
+Seat 6: Driverofpoker folded on the River
+
+
+
+PokerStars Hand #222981165502:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:48 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: !llmat!c ($10.49 in chips) 
+Seat 2: Bigboy2512 ($21.03 in chips) 
+Seat 3: Baron Horton ($10.02 in chips) 
+Seat 4: CvB85 ($10.30 in chips) 
+Seat 5: pezao sp ($10.40 in chips) 
+Seat 6: Driverofpoker ($5.79 in chips) 
+CvB85: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+Bigboy2512: raises $0.15 to $0.25
+Baron Horton: folds 
+CvB85: folds 
+pezao sp: folds 
+Driverofpoker: calls $0.15
+*** FLOP *** [5d Ac 5c]
+Driverofpoker: checks 
+Bigboy2512: bets $0.41
+Driverofpoker: folds 
+Uncalled bet ($0.41) returned to Bigboy2512
+Bigboy2512 collected $0.62 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5d Ac 5c]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 collected ($0.62)
+Seat 3: Baron Horton (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: pezao sp (big blind) folded before Flop
+Seat 6: Driverofpoker folded on the Flop
+
+
+
+PokerStars Hand #222981186218:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:14:34 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: !llmat!c ($10.49 in chips) 
+Seat 2: Bigboy2512 ($21.40 in chips) 
+Seat 3: Baron Horton ($10.02 in chips) 
+Seat 4: CvB85 ($10.25 in chips) 
+Seat 5: pezao sp ($10.30 in chips) 
+Seat 6: Driverofpoker ($5.54 in chips) 
+pezao sp: posts small blind $0.05
+Driverofpoker: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: folds 
+Baron Horton: folds 
+CvB85: raises $0.20 to $0.30
+pezao sp: folds 
+Driverofpoker: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Baron Horton folded before Flop (didn't bet)
+Seat 4: CvB85 (button) collected ($0.25)
+Seat 5: pezao sp (small blind) folded before Flop
+Seat 6: Driverofpoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981194287:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:14:52 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($10.49 in chips) 
+Seat 2: Bigboy2512 ($21.40 in chips) 
+Seat 3: Baron Horton ($10.02 in chips) 
+Seat 4: CvB85 ($10.40 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($5.44 in chips) 
+Driverofpoker: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+Baron Horton: calls $0.10
+CvB85: folds 
+pezao sp: folds 
+Driverofpoker: calls $0.05
+!llmat!c: checks 
+*** FLOP *** [Kc 5h 7c]
+Driverofpoker: bets $0.10
+!llmat!c: calls $0.10
+Baron Horton: calls $0.10
+*** TURN *** [Kc 5h 7c] [8h]
+Driverofpoker: bets $0.10
+!llmat!c: raises $0.87 to $0.97
+Baron Horton: folds 
+Driverofpoker: calls $0.87
+*** RIVER *** [Kc 5h 7c 8h] [Jd]
+Driverofpoker: bets $0.10
+!llmat!c: raises $1.90 to $2
+Driverofpoker: calls $1.90
+*** SHOW DOWN ***
+!llmat!c: shows [9c 6c] (a straight, Five to Nine)
+Driverofpoker: mucks hand 
+!llmat!c collected $6.25 from pot
+*** SUMMARY ***
+Total pot $6.54 | Rake $0.29 
+Board [Kc 5h 7c 8h Jd]
+Seat 1: !llmat!c (big blind) showed [9c 6c] and won ($6.25) with a straight, Five to Nine
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: Baron Horton folded on the Turn
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) folded before Flop (didn't bet)
+Seat 6: Driverofpoker (small blind) mucked
+
+
+
+PokerStars Hand #222981229865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:16:12 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($13.57 in chips) 
+Seat 2: Bigboy2512 ($21.40 in chips) 
+Seat 3: Baron Horton ($9.82 in chips) 
+Seat 4: CvB85 ($10.40 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($2.27 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Baron Horton: calls $0.10
+CvB85: folds 
+pezao sp: folds 
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+Bigboy2512: checks 
+*** FLOP *** [7h 5c Th]
+Bigboy2512: checks 
+Baron Horton: checks 
+Driverofpoker: checks 
+*** TURN *** [7h 5c Th] [3c]
+Bigboy2512: checks 
+Baron Horton: checks 
+Driverofpoker: checks 
+*** RIVER *** [7h 5c Th 3c] [6d]
+Bigboy2512: bets $0.25
+Baron Horton: folds 
+Driverofpoker: raises $1.92 to $2.17 and is all-in
+Bigboy2512: folds 
+Uncalled bet ($1.92) returned to Driverofpoker
+Driverofpoker collected $0.81 from pot
+Driverofpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [7h 5c Th 3c 6d]
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded on the River
+Seat 3: Baron Horton folded on the River
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker (button) collected ($0.81)
+
+
+
+PokerStars Hand #222981252397:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:17:03 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($13.52 in chips) 
+Seat 2: Bigboy2512 ($21.05 in chips) 
+Seat 4: CvB85 ($10.40 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($2.73 in chips) 
+Bigboy2512: posts small blind $0.05
+Baron Horton: is sitting out 
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+Baron Horton leaves the table
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+Bigboy2512: folds 
+CvB85: checks 
+*** FLOP *** [5s 2d 2c]
+CvB85: checks 
+Driverofpoker: bets $0.12
+CvB85: folds 
+Uncalled bet ($0.12) returned to Driverofpoker
+Driverofpoker collected $0.24 from pot
+Driverofpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5s 2d 2c]
+Seat 1: !llmat!c (button) folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 4: CvB85 (big blind) folded on the Flop
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker collected ($0.24)
+
+
+
+PokerStars Hand #222981263948:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:17:29 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($13.52 in chips) 
+Seat 2: Bigboy2512 ($21 in chips) 
+Seat 4: CvB85 ($10.30 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($2.87 in chips) 
+CvB85: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+Driverofpoker: folds 
+!llmat!c: folds 
+Bigboy2512: folds 
+frol123 joins the table at seat #3 
+CvB85: folds 
+Uncalled bet ($0.05) returned to pezao sp
+pezao sp collected $0.10 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: pezao sp (big blind) collected ($0.10)
+Seat 6: Driverofpoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981268310:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:17:39 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 1: !llmat!c ($13.52 in chips) 
+Seat 2: Bigboy2512 ($21 in chips) 
+Seat 4: CvB85 ($10.25 in chips) 
+Seat 5: pezao sp ($10.30 in chips) 
+Seat 6: Driverofpoker ($2.87 in chips) 
+pezao sp: posts small blind $0.05
+Driverofpoker: posts big blind $0.10
+frol123: sits out 
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: folds 
+CvB85: raises $0.20 to $0.30
+pezao sp: folds 
+Driverofpoker: calls $0.20
+*** FLOP *** [9c Jc Ks]
+Driverofpoker: bets $0.31
+CvB85: calls $0.31
+*** TURN *** [9c Jc Ks] [Ac]
+Driverofpoker: bets $2.26 and is all-in
+CvB85: folds 
+Uncalled bet ($2.26) returned to Driverofpoker
+Driverofpoker collected $1.21 from pot
+Driverofpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [9c Jc Ks Ac]
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded on the Turn
+Seat 5: pezao sp (small blind) folded before Flop
+Seat 6: Driverofpoker (big blind) collected ($1.21)
+
+
+
+PokerStars Hand #222981286502:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:18:20 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($13.52 in chips) 
+Seat 2: Bigboy2512 ($21 in chips) 
+Seat 4: CvB85 ($9.64 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($3.47 in chips) 
+Driverofpoker: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+frol123: sits out 
+*** HOLE CARDS ***
+Bigboy2512: folds 
+CvB85: raises $0.20 to $0.30
+pezao sp: folds 
+Driverofpoker: folds 
+!llmat!c: folds 
+Uncalled bet ($0.20) returned to CvB85
+CvB85 collected $0.25 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (big blind) folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 4: CvB85 collected ($0.25)
+Seat 5: pezao sp (button) folded before Flop (didn't bet)
+Seat 6: Driverofpoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981293192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:18:36 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($13.42 in chips) 
+Seat 2: Bigboy2512 ($21 in chips) 
+Seat 4: CvB85 ($9.79 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($3.42 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+frol123: sits out 
+*** HOLE CARDS ***
+CvB85: raises $0.20 to $0.30
+pezao sp: folds 
+Driverofpoker: calls $0.30
+!llmat!c: folds 
+Bigboy2512: folds 
+*** FLOP *** [2s Qs 2c]
+CvB85: bets $0.36
+Driverofpoker: folds 
+Uncalled bet ($0.36) returned to CvB85
+CvB85 collected $0.72 from pot
+CvB85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2s Qs 2c]
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 4: CvB85 collected ($0.72)
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker (button) folded on the Flop
+
+
+
+PokerStars Hand #222981302551:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:18:57 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($13.37 in chips) 
+Seat 2: Bigboy2512 ($20.90 in chips) 
+Seat 3: frol123 ($10 in chips) 
+Seat 4: CvB85 ($10.21 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($3.12 in chips) 
+Bigboy2512: posts small blind $0.05
+frol123: posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+pezao sp: folds 
+Driverofpoker: folds 
+!llmat!c: raises $0.15 to $0.25
+Bigboy2512: folds 
+frol123: folds 
+Uncalled bet ($0.15) returned to !llmat!c
+!llmat!c collected $0.25 from pot
+!llmat!c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (button) collected ($0.25)
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: frol123 (big blind) folded before Flop
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981308243:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:19:10 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($13.52 in chips) 
+Seat 2: Bigboy2512 ($20.85 in chips) 
+Seat 3: frol123 ($9.90 in chips) 
+Seat 4: CvB85 ($10.21 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($3.12 in chips) 
+frol123: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+Driverofpoker: calls $0.10
+!llmat!c: raises $0.30 to $0.40
+Bigboy2512: folds 
+frol123: folds 
+CvB85: calls $0.30
+Driverofpoker: calls $0.30
+*** FLOP *** [Jh 8s Kd]
+CvB85: checks 
+Driverofpoker: checks 
+!llmat!c: bets $0.39
+CvB85: calls $0.39
+Driverofpoker: folds 
+*** TURN *** [Jh 8s Kd] [Ah]
+CvB85: checks 
+!llmat!c: bets $1.28
+CvB85: calls $1.28
+*** RIVER *** [Jh 8s Kd Ah] [9c]
+CvB85: checks 
+!llmat!c: checks 
+*** SHOW DOWN ***
+CvB85: shows [Jc Jd] (three of a kind, Jacks)
+!llmat!c: mucks hand 
+CvB85 collected $4.38 from pot
+*** SUMMARY ***
+Total pot $4.59 | Rake $0.21 
+Board [Jh 8s Kd Ah 9c]
+Seat 1: !llmat!c mucked
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: frol123 (small blind) folded before Flop
+Seat 4: CvB85 (big blind) showed [Jc Jd] and won ($4.38) with three of a kind, Jacks
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker folded on the Flop
+
+
+
+PokerStars Hand #222981351037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:20:48 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: !llmat!c ($11.45 in chips) 
+Seat 2: Bigboy2512 ($20.85 in chips) 
+Seat 3: frol123 ($9.85 in chips) 
+Seat 5: pezao sp ($10.25 in chips) 
+Seat 6: Driverofpoker ($2.72 in chips) 
+CvB85 is disconnected 
+CvB85 has timed out while disconnected
+CvB85: is sitting out 
+pezao sp: posts small blind $0.05
+Driverofpoker: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: folds 
+Bigboy2512: folds 
+frol123: raises $0.15 to $0.25
+pezao sp: folds 
+Driverofpoker: folds 
+Uncalled bet ($0.15) returned to frol123
+frol123 collected $0.25 from pot
+frol123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: frol123 (button) collected ($0.25)
+Seat 5: pezao sp (small blind) folded before Flop
+Seat 6: Driverofpoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981363798:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:21:17 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($11.45 in chips) 
+Seat 2: Bigboy2512 ($20.85 in chips) 
+Seat 3: frol123 ($10 in chips) 
+Seat 5: pezao sp ($10.20 in chips) 
+Seat 6: Driverofpoker ($2.62 in chips) 
+Driverofpoker: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+frol123: folds 
+pezao sp: raises $0.15 to $0.25
+Driverofpoker: folds 
+!llmat!c: folds 
+Uncalled bet ($0.15) returned to pezao sp
+pezao sp collected $0.25 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (big blind) folded before Flop
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: frol123 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) collected ($0.25)
+Seat 6: Driverofpoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981372046:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:21:36 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($11.35 in chips) 
+Seat 3: frol123 ($10 in chips) 
+Seat 5: pezao sp ($10.35 in chips) 
+Seat 6: Driverofpoker ($2.57 in chips) 
+!llmat!c: posts small blind $0.05
+Bigboy2512: is sitting out 
+frol123: posts big blind $0.10
+CvB85: sits out 
+*** HOLE CARDS ***
+Bigboy2512 leaves the table
+pezao sp: raises $0.15 to $0.25
+Driverofpoker: folds 
+CvB85 is disconnected 
+!llmat!c: folds 
+frol123: folds 
+Uncalled bet ($0.15) returned to pezao sp
+pezao sp collected $0.25 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: !llmat!c (small blind) folded before Flop
+Seat 3: frol123 (big blind) folded before Flop
+Seat 5: pezao sp collected ($0.25)
+Seat 6: Driverofpoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981378370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:21:51 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($11.30 in chips) 
+Seat 3: frol123 ($9.90 in chips) 
+Seat 5: pezao sp ($10.50 in chips) 
+Seat 6: Driverofpoker ($2.57 in chips) 
+frol123: posts small blind $0.05
+CvB85 has timed out while disconnected
+CvB85: is sitting out 
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+Driverofpoker: calls $0.10
+!llmat!c: folds 
+frol123: calls $0.05
+pezao sp: checks 
+*** FLOP *** [Kd 5c 6h]
+frol123: bets $0.22
+pezao sp: folds 
+Driverofpoker: calls $0.22
+*** TURN *** [Kd 5c 6h] [Js]
+frol123: bets $0.53
+Driverofpoker: raises $0.53 to $1.06
+frol123: folds 
+Uncalled bet ($0.53) returned to Driverofpoker
+Driverofpoker collected $1.72 from pot
+Driverofpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Kd 5c 6h Js]
+Seat 1: !llmat!c (button) folded before Flop (didn't bet)
+Seat 3: frol123 (small blind) folded on the Turn
+Seat 5: pezao sp (big blind) folded on the Flop
+Seat 6: Driverofpoker collected ($1.72)
+
+
+
+PokerStars Hand #222981395635:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:22:31 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: !llmat!c ($11.30 in chips) 
+Seat 3: frol123 ($9.05 in chips) 
+Seat 5: pezao sp ($10.40 in chips) 
+Seat 6: Driverofpoker ($3.44 in chips) 
+pezao sp: posts small blind $0.05
+Driverofpoker: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: folds 
+frol123: raises $0.15 to $0.25
+Alaken100 joins the table at seat #2 
+pezao sp: raises $0.75 to $1
+Driverofpoker: folds 
+frol123: folds 
+Uncalled bet ($0.75) returned to pezao sp
+pezao sp collected $0.60 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 3: frol123 (button) folded before Flop
+Seat 5: pezao sp (small blind) collected ($0.60)
+Seat 6: Driverofpoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981402196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:22:46 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 1: !llmat!c ($11.30 in chips) 
+Seat 3: frol123 ($8.80 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+Seat 6: Driverofpoker ($3.34 in chips) 
+Driverofpoker: posts small blind $0.05
+!llmat!c: posts big blind $0.10
+Alaken100: sits out 
+*** HOLE CARDS ***
+frol123: folds 
+pezao sp: folds 
+Driverofpoker: calls $0.05
+!llmat!c: checks 
+*** FLOP *** [Jc Kd 8c]
+Driverofpoker: bets $0.10
+!llmat!c: calls $0.10
+*** TURN *** [Jc Kd 8c] [Qd]
+Driverofpoker: checks 
+!llmat!c: bets $0.25
+Driverofpoker: folds 
+Uncalled bet ($0.25) returned to !llmat!c
+!llmat!c collected $0.38 from pot
+!llmat!c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Jc Kd 8c Qd]
+Seat 1: !llmat!c (big blind) collected ($0.38)
+Seat 3: frol123 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) folded before Flop (didn't bet)
+Seat 6: Driverofpoker (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222981426203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:23:35 ET
+Table 'Verbaandert' 6-max Seat #6 is the button
+Seat 1: !llmat!c ($11.48 in chips) 
+Seat 2: Alaken100 ($10 in chips) 
+Seat 3: frol123 ($8.80 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+Seat 6: Driverofpoker ($3.14 in chips) 
+!llmat!c: posts small blind $0.05
+Alaken100: posts big blind $0.10
+CvB85: sits out 
+*** HOLE CARDS ***
+frol123: folds 
+pezao sp: folds 
+Driverofpoker: calls $0.10
+!llmat!c: calls $0.05
+Alaken100: checks 
+*** FLOP *** [4c Qs Tc]
+!llmat!c: checks 
+Alaken100: checks 
+Driverofpoker: checks 
+*** TURN *** [4c Qs Tc] [Qc]
+!llmat!c: checks 
+Alaken100: checks 
+Driverofpoker: bets $3.04 and is all-in
+!llmat!c: folds 
+Alaken100: folds 
+Uncalled bet ($3.04) returned to Driverofpoker
+Driverofpoker collected $0.29 from pot
+Driverofpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4c Qs Tc Qc]
+Seat 1: !llmat!c (small blind) folded on the Turn
+Seat 2: Alaken100 (big blind) folded on the Turn
+Seat 3: frol123 folded before Flop (didn't bet)
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker (button) collected ($0.29)
+
+
+
+PokerStars Hand #222981464976:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:25:03 ET
+Table 'Verbaandert' 6-max Seat #1 is the button
+Seat 1: !llmat!c ($11.38 in chips) 
+Seat 2: Alaken100 ($9.90 in chips) 
+Seat 3: frol123 ($8.80 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+Seat 6: Driverofpoker ($3.33 in chips) 
+Alaken100: posts small blind $0.05
+frol123: posts big blind $0.10
+CvB85: sits out 
+*** HOLE CARDS ***
+pezao sp: folds 
+Driverofpoker: calls $0.10
+!llmat!c: raises $0.30 to $0.40
+Alaken100: folds 
+frol123: calls $0.30
+Driverofpoker: calls $0.30
+*** FLOP *** [8c 7h 4s]
+frol123: checks 
+Driverofpoker: checks 
+!llmat!c: checks 
+*** TURN *** [8c 7h 4s] [Qc]
+frol123: checks 
+Driverofpoker: checks 
+!llmat!c: bets $0.98
+frol123: folds 
+Driverofpoker: folds 
+Uncalled bet ($0.98) returned to !llmat!c
+!llmat!c collected $1.19 from pot
+!llmat!c: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [8c 7h 4s Qc]
+Seat 1: !llmat!c (button) collected ($1.19)
+Seat 2: Alaken100 (small blind) folded before Flop
+Seat 3: frol123 (big blind) folded on the Turn
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker folded on the Turn
+
+
+
+PokerStars Hand #222981490139:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:26:00 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 1: !llmat!c ($12.17 in chips) 
+Seat 2: Alaken100 ($9.85 in chips) 
+Seat 3: frol123 ($8.40 in chips) 
+Seat 4: CvB85 ($12.52 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+Seat 6: Driverofpoker ($2.93 in chips) 
+frol123: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+Driverofpoker: folds 
+!llmat!c: folds 
+Alaken100: raises $0.22 to $0.32
+frol123: raises $0.74 to $1.06
+CvB85: folds 
+Driverofpoker leaves the table
+Alaken100: folds 
+Uncalled bet ($0.74) returned to frol123
+frol123 collected $0.74 from pot
+frol123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.74 | Rake $0 
+Seat 1: !llmat!c folded before Flop (didn't bet)
+Seat 2: Alaken100 (button) folded before Flop
+Seat 3: frol123 (small blind) collected ($0.74)
+Seat 4: CvB85 (big blind) folded before Flop
+Seat 5: pezao sp folded before Flop (didn't bet)
+Seat 6: Driverofpoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981502135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:26:28 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 1: !llmat!c ($12.17 in chips) 
+Seat 2: Alaken100 ($9.53 in chips) 
+Seat 3: frol123 ($8.82 in chips) 
+Seat 4: CvB85 ($12.42 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+CvB85: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+!llmat!c: raises $0.15 to $0.25
+Alaken100: calls $0.25
+frol123: raises $0.90 to $1.15
+CvB85: folds 
+pezao sp: folds 
+!llmat!c: folds 
+Alaken100: raises $1.85 to $3
+frol123: calls $1.85
+*** FLOP *** [8h 5h Th]
+Alaken100: checks 
+frol123: checks 
+*** TURN *** [8h 5h Th] [Qh]
+Alaken100: checks 
+frol123: checks 
+*** RIVER *** [8h 5h Th Qh] [2s]
+Alaken100: checks 
+frol123: checks 
+*** SHOW DOWN ***
+Alaken100: shows [Ts Td] (three of a kind, Tens)
+frol123: mucks hand 
+Alaken100 collected $6.11 from pot
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.29 
+Board [8h 5h Th Qh 2s]
+Seat 1: !llmat!c folded before Flop
+Seat 2: Alaken100 showed [Ts Td] and won ($6.11) with three of a kind, Tens
+Seat 3: frol123 (button) mucked
+Seat 4: CvB85 (small blind) folded before Flop
+Seat 5: pezao sp (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981558937:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:28:22 ET
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 2: Alaken100 ($12.64 in chips) 
+Seat 3: frol123 ($5.82 in chips) 
+Seat 4: CvB85 ($12.37 in chips) 
+Seat 5: pezao sp ($10.65 in chips) 
+pezao sp: posts small blind $0.05
+!llmat!c: is sitting out 
+Alaken100: posts big blind $0.10
+*** HOLE CARDS ***
+frol123: folds 
+!llmat!c leaves the table
+CvB85: folds 
+pezao sp: raises $0.20 to $0.30
+Alaken100: folds 
+Uncalled bet ($0.20) returned to pezao sp
+pezao sp collected $0.20 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alaken100 (big blind) folded before Flop
+Seat 3: frol123 folded before Flop (didn't bet)
+Seat 4: CvB85 (button) folded before Flop (didn't bet)
+Seat 5: pezao sp (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222981567211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:28:41 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 2: Alaken100 ($12.54 in chips) 
+Seat 3: frol123 ($10 in chips) 
+Seat 4: CvB85 ($12.37 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+Alaken100: posts small blind $0.05
+frol123: posts big blind $0.10
+*** HOLE CARDS ***
+CvB85: folds 
+pezao sp: folds 
+Alaken100: folds 
+Uncalled bet ($0.05) returned to frol123
+frol123 collected $0.10 from pot
+frol123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Alaken100 (small blind) folded before Flop
+Seat 3: frol123 (big blind) collected ($0.10)
+Seat 4: CvB85 folded before Flop (didn't bet)
+Seat 5: pezao sp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981571268:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:28:51 ET
+Table 'Verbaandert' 6-max Seat #2 is the button
+Seat 2: Alaken100 ($12.49 in chips) 
+Seat 3: frol123 ($10.05 in chips) 
+Seat 4: CvB85 ($12.37 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+frol123: posts small blind $0.05
+CvB85: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+Alaken100: folds 
+frol123: raises $0.15 to $0.25
+CvB85: calls $0.15
+*** FLOP *** [4h 2d As]
+frol123: bets $0.36
+CvB85: folds 
+Uncalled bet ($0.36) returned to frol123
+frol123 collected $0.48 from pot
+frol123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4h 2d As]
+Seat 2: Alaken100 (button) folded before Flop (didn't bet)
+Seat 3: frol123 (small blind) collected ($0.48)
+Seat 4: CvB85 (big blind) folded on the Flop
+Seat 5: pezao sp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981581081:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:29:14 ET
+Table 'Verbaandert' 6-max Seat #5 is the button
+Seat 3: frol123 ($10.28 in chips) 
+Seat 5: pezao sp ($10.75 in chips) 
+pezao sp: posts small blind $0.05
+CvB85 leaves the table
+Alaken100: is sitting out 
+frol123: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+Uncalled bet ($0.05) returned to frol123
+frol123 collected $0.10 from pot
+frol123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: frol123 (big blind) collected ($0.10)
+Seat 5: pezao sp (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981584994:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:29:23 ET
+Table 'Verbaandert' 6-max Seat #3 is the button
+Seat 3: frol123 ($10.33 in chips) 
+Seat 5: pezao sp ($10.70 in chips) 
+frol123: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+frol123: raises $0.10 to $0.20
+Alaken100 leaves the table
+pezao sp: folds 
+Uncalled bet ($0.10) returned to frol123
+frol123 collected $0.20 from pot
+frol123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: frol123 (button) (small blind) collected ($0.20)
+Seat 5: pezao sp (big blind) folded before Flop
+
+
+

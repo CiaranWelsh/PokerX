@@ -1,0 +1,1196 @@
+﻿PokerStars Hand #222957606576:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:46:52 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 1: SHB94 ($6.21 in chips) 
+Seat 2: raevehaj ($9.95 in chips) 
+Seat 3: balisstica ($10.80 in chips) 
+Seat 4: robotov ($10.99 in chips) 
+Seat 5: Satyi1 ($11.91 in chips) 
+Seat 6: FairyFish ($10 in chips) 
+FairyFish: posts small blind $0.05
+SHB94: posts big blind $0.10
+*** HOLE CARDS ***
+raevehaj: folds 
+balisstica: folds 
+robotov: folds 
+Satyi1: raises $0.15 to $0.25
+FairyFish: folds 
+SHB94: calls $0.15
+*** FLOP *** [3d Qh Js]
+SHB94: checks 
+Satyi1: checks 
+*** TURN *** [3d Qh Js] [Qc]
+SHB94: checks 
+Satyi1: checks 
+*** RIVER *** [3d Qh Js Qc] [Ks]
+SHB94: checks 
+Satyi1: checks 
+*** SHOW DOWN ***
+SHB94: shows [5h 8c] (a pair of Queens)
+Satyi1: shows [As 7d] (a pair of Queens - Ace kicker)
+Satyi1 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3d Qh Js Qc Ks]
+Seat 1: SHB94 (big blind) showed [5h 8c] and lost with a pair of Queens
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 (button) showed [As 7d] and won ($0.53) with a pair of Queens
+Seat 6: FairyFish (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957620609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:47:17 ET
+Table 'Gadolin II' 6-max Seat #6 is the button
+Seat 1: SHB94 ($5.96 in chips) 
+Seat 2: raevehaj ($9.95 in chips) 
+Seat 3: balisstica ($10.80 in chips) 
+Seat 4: robotov ($10.99 in chips) 
+Seat 5: Satyi1 ($12.19 in chips) 
+Seat 6: FairyFish ($10 in chips) 
+SHB94: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+robotov has timed out
+robotov: folds 
+Satyi1: raises $0.20 to $0.30
+FairyFish: calls $0.30
+SHB94: calls $0.25
+raevehaj: folds 
+*** FLOP *** [7d 4c 6c]
+SHB94: checks 
+Satyi1: checks 
+FairyFish: bets $0.90
+SHB94: calls $0.90
+Satyi1: folds 
+*** TURN *** [7d 4c 6c] [8c]
+SHB94: bets $1.10
+FairyFish: calls $1.10
+*** RIVER *** [7d 4c 6c 8c] [4s]
+SHB94: bets $1.10
+FairyFish: raises $6.60 to $7.70 and is all-in
+SHB94: calls $2.56 and is all-in
+Uncalled bet ($4.04) returned to FairyFish
+*** SHOW DOWN ***
+FairyFish: shows [6s 6h] (a full house, Sixes full of Fours)
+SHB94: shows [5h Kc] (a straight, Four to Eight)
+FairyFish collected $11.77 from pot
+*** SUMMARY ***
+Total pot $12.32 | Rake $0.55 
+Board [7d 4c 6c 8c 4s]
+Seat 1: SHB94 (small blind) showed [5h Kc] and lost with a straight, Four to Eight
+Seat 2: raevehaj (big blind) folded before Flop
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded on the Flop
+Seat 6: FairyFish (button) showed [6s 6h] and won ($11.77) with a full house, Sixes full of Fours
+
+
+
+PokerStars Hand #222957673545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:48:52 ET
+Table 'Gadolin II' 6-max Seat #2 is the button
+Seat 2: raevehaj ($9.85 in chips) 
+Seat 3: balisstica ($10.80 in chips) 
+Seat 4: robotov ($10.99 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($15.81 in chips) 
+balisstica: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+Satyi1: folds 
+FairyFish: raises $0.15 to $0.25
+raevehaj: folds 
+balisstica: folds 
+robotov: calls $0.15
+*** FLOP *** [Kc 9h Ac]
+robotov: checks 
+FairyFish: checks 
+*** TURN *** [Kc 9h Ac] [Qc]
+robotov: bets $0.50
+FairyFish: folds 
+Uncalled bet ($0.50) returned to robotov
+robotov collected $0.53 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Kc 9h Ac Qc]
+Seat 2: raevehaj (button) folded before Flop (didn't bet)
+Seat 3: balisstica (small blind) folded before Flop
+Seat 4: robotov (big blind) collected ($0.53)
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish folded on the Turn
+
+
+
+PokerStars Hand #222957707079:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:49:53 ET
+Table 'Gadolin II' 6-max Seat #3 is the button
+Seat 1: SHB94 ($10 in chips) 
+Seat 2: raevehaj ($9.85 in chips) 
+Seat 3: balisstica ($10.75 in chips) 
+Seat 4: robotov ($11.27 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($15.56 in chips) 
+robotov: posts small blind $0.05
+Satyi1: posts big blind $0.10
+*** HOLE CARDS ***
+FairyFish: folds 
+SHB94: folds 
+raevehaj: folds 
+balisstica: folds 
+robotov: folds 
+Uncalled bet ($0.05) returned to Satyi1
+Satyi1 collected $0.10 from pot
+Satyi1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SHB94 folded before Flop (didn't bet)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica (button) folded before Flop (didn't bet)
+Seat 4: robotov (small blind) folded before Flop
+Seat 5: Satyi1 (big blind) collected ($0.10)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957712619:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:02 ET
+Table 'Gadolin II' 6-max Seat #4 is the button
+Seat 1: SHB94 ($10 in chips) 
+Seat 2: raevehaj ($9.85 in chips) 
+Seat 3: balisstica ($10.75 in chips) 
+Seat 4: robotov ($11.22 in chips) 
+Seat 5: Satyi1 ($11.94 in chips) 
+Seat 6: FairyFish ($15.56 in chips) 
+Satyi1: posts small blind $0.05
+FairyFish: posts big blind $0.10
+*** HOLE CARDS ***
+SHB94: raises $0.40 to $0.50
+raevehaj: folds 
+balisstica: folds 
+robotov: folds 
+Satyi1: folds 
+FairyFish: folds 
+Uncalled bet ($0.40) returned to SHB94
+SHB94 collected $0.25 from pot
+SHB94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SHB94 collected ($0.25)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov (button) folded before Flop (didn't bet)
+Seat 5: Satyi1 (small blind) folded before Flop
+Seat 6: FairyFish (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957724737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:24 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 1: SHB94 ($10.15 in chips) 
+Seat 2: raevehaj ($9.85 in chips) 
+Seat 3: balisstica ($10.75 in chips) 
+Seat 4: robotov ($11.22 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($15.46 in chips) 
+FairyFish: posts small blind $0.05
+SHB94: posts big blind $0.10
+*** HOLE CARDS ***
+raevehaj: folds 
+balisstica: raises $0.20 to $0.30
+robotov: folds 
+Satyi1: folds 
+FairyFish: folds 
+SHB94: calls $0.20
+*** FLOP *** [4h Js 2s]
+SHB94: bets $0.50
+balisstica: calls $0.50
+*** TURN *** [4h Js 2s] [7s]
+SHB94: bets $0.50
+balisstica: folds 
+Uncalled bet ($0.50) returned to SHB94
+SHB94 collected $1.58 from pot
+SHB94: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [4h Js 2s 7s]
+Seat 1: SHB94 (big blind) collected ($1.58)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded on the Turn
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 (button) folded before Flop (didn't bet)
+Seat 6: FairyFish (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957746689:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:51:04 ET
+Table 'Gadolin II' 6-max Seat #6 is the button
+Seat 1: SHB94 ($10.93 in chips) 
+Seat 2: raevehaj ($9.85 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($11.22 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($15.41 in chips) 
+SHB94: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+robotov: raises $0.20 to $0.30
+Satyi1: folds 
+FairyFish: calls $0.30
+SHB94: raises $0.30 to $0.60
+raevehaj: folds 
+robotov: calls $0.30
+FairyFish: raises $2.35 to $2.95
+SHB94: calls $2.35
+robotov: folds 
+*** FLOP *** [Jc 2s Kh]
+SHB94: checks 
+FairyFish: bets $2.08
+SHB94: folds 
+Uncalled bet ($2.08) returned to FairyFish
+FairyFish collected $6.30 from pot
+FairyFish: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [Jc 2s Kh]
+Seat 1: SHB94 (small blind) folded on the Flop
+Seat 2: raevehaj (big blind) folded before Flop
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov folded before Flop
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish (button) collected ($6.30)
+
+
+
+PokerStars Hand #222957776048:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:51:57 ET
+Table 'Gadolin II' 6-max Seat #1 is the button
+Seat 1: SHB94 ($7.98 in chips) 
+Seat 2: raevehaj ($9.75 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.62 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($18.76 in chips) 
+raevehaj: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+Satyi1: folds 
+FairyFish has timed out
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: calls $0.05
+balisstica: checks 
+*** FLOP *** [Ks Js 9h]
+raevehaj: checks 
+balisstica: checks 
+SHB94: checks 
+*** TURN *** [Ks Js 9h] [6s]
+raevehaj: bets $0.29
+balisstica: folds 
+SHB94: folds 
+Uncalled bet ($0.29) returned to raevehaj
+raevehaj collected $0.29 from pot
+raevehaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ks Js 9h 6s]
+Seat 1: SHB94 (button) folded on the Turn
+Seat 2: raevehaj (small blind) collected ($0.29)
+Seat 3: balisstica (big blind) folded on the Turn
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957806091:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:52:52 ET
+Table 'Gadolin II' 6-max Seat #2 is the button
+Seat 1: SHB94 ($7.88 in chips) 
+Seat 2: raevehaj ($9.94 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.62 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($18.76 in chips) 
+balisstica: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+Satyi1 has timed out
+Satyi1: folds 
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: folds 
+balisstica: folds 
+robotov: raises $0.30 to $0.40
+SHB94: calls $0.30
+*** FLOP *** [7h 3d Ac]
+robotov: checks 
+SHB94: checks 
+*** TURN *** [7h 3d Ac] [Qc]
+robotov: checks 
+SHB94: bets $0.50
+robotov: calls $0.50
+*** RIVER *** [7h 3d Ac Qc] [4s]
+robotov: checks 
+SHB94: checks 
+*** SHOW DOWN ***
+robotov: shows [9d 8d] (high card Ace)
+SHB94: shows [7c 6c] (a pair of Sevens)
+SHB94 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [7h 3d Ac Qc 4s]
+Seat 1: SHB94 showed [7c 6c] and won ($1.77) with a pair of Sevens
+Seat 2: raevehaj (button) folded before Flop (didn't bet)
+Seat 3: balisstica (small blind) folded before Flop
+Seat 4: robotov (big blind) showed [9d 8d] and lost with high card Ace
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957832633:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:53:40 ET
+Table 'Gadolin II' 6-max Seat #3 is the button
+Seat 1: SHB94 ($8.75 in chips) 
+Seat 2: raevehaj ($9.94 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($11.89 in chips) 
+Seat 6: FairyFish ($18.76 in chips) 
+robotov: posts small blind $0.05
+Satyi1: posts big blind $0.10
+*** HOLE CARDS ***
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: calls $0.10
+balisstica: folds 
+robotov: raises $0.50 to $0.60
+Satyi1: folds 
+SHB94: folds 
+raevehaj: folds 
+Uncalled bet ($0.50) returned to robotov
+robotov collected $0.40 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: SHB94 folded before Flop
+Seat 2: raevehaj folded before Flop
+Seat 3: balisstica (button) folded before Flop (didn't bet)
+Seat 4: robotov (small blind) collected ($0.40)
+Seat 5: Satyi1 (big blind) folded before Flop
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957845052:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:54:03 ET
+Table 'Gadolin II' 6-max Seat #4 is the button
+Seat 1: SHB94 ($8.65 in chips) 
+Seat 2: raevehaj ($9.84 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.30 in chips) 
+Seat 5: Satyi1 ($11.79 in chips) 
+Seat 6: FairyFish ($18.76 in chips) 
+Satyi1: posts small blind $0.05
+FairyFish: posts big blind $0.10
+*** HOLE CARDS ***
+SHB94: calls $0.10
+raevehaj: folds 
+balisstica: folds 
+robotov: folds 
+Satyi1: raises $0.20 to $0.30
+FairyFish: folds 
+SHB94: calls $0.20
+*** FLOP *** [3d 9d 3h]
+Satyi1: checks 
+SHB94: bets $0.30
+Satyi1: calls $0.30
+*** TURN *** [3d 9d 3h] [6h]
+Satyi1: checks 
+SHB94: checks 
+*** RIVER *** [3d 9d 3h 6h] [4s]
+Satyi1: checks 
+SHB94: checks 
+*** SHOW DOWN ***
+Satyi1: shows [Ks 7h] (a pair of Threes)
+SHB94: mucks hand 
+Satyi1 collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [3d 9d 3h 6h 4s]
+Seat 1: SHB94 mucked
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov (button) folded before Flop (didn't bet)
+Seat 5: Satyi1 (small blind) showed [Ks 7h] and won ($1.24) with a pair of Threes
+Seat 6: FairyFish (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957867080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:54:43 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 1: SHB94 ($8.05 in chips) 
+Seat 2: raevehaj ($9.84 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.30 in chips) 
+Seat 5: Satyi1 ($12.43 in chips) 
+Seat 6: FairyFish ($18.66 in chips) 
+FairyFish: posts small blind $0.05
+SHB94: posts big blind $0.10
+*** HOLE CARDS ***
+raevehaj: folds 
+balisstica: folds 
+robotov: folds 
+Satyi1: raises $0.15 to $0.25
+FairyFish: folds 
+SHB94: calls $0.15
+*** FLOP *** [4c Ac 5s]
+SHB94: checks 
+Satyi1: bets $0.40
+SHB94: folds 
+Uncalled bet ($0.40) returned to Satyi1
+Satyi1 collected $0.53 from pot
+Satyi1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4c Ac 5s]
+Seat 1: SHB94 (big blind) folded on the Flop
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 (button) collected ($0.53)
+Seat 6: FairyFish (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957877913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:55:03 ET
+Table 'Gadolin II' 6-max Seat #6 is the button
+Seat 1: SHB94 ($7.80 in chips) 
+Seat 2: raevehaj ($9.84 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.30 in chips) 
+Seat 5: Satyi1 ($12.71 in chips) 
+Seat 6: FairyFish ($18.61 in chips) 
+SHB94: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+robotov: folds 
+Satyi1: folds 
+FairyFish: folds 
+SHB94: calls $0.05
+raevehaj: checks 
+*** FLOP *** [Ad 5s 3h]
+SHB94: bets $0.40
+raevehaj: calls $0.40
+*** TURN *** [Ad 5s 3h] [9h]
+SHB94: bets $0.40
+raevehaj: calls $0.40
+*** RIVER *** [Ad 5s 3h 9h] [Ks]
+SHB94: checks 
+raevehaj: bets $0.86
+SHB94: folds 
+Uncalled bet ($0.86) returned to raevehaj
+raevehaj collected $1.72 from pot
+raevehaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Ad 5s 3h 9h Ks]
+Seat 1: SHB94 (small blind) folded on the River
+Seat 2: raevehaj (big blind) collected ($1.72)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957898182:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:55:48 ET
+Table 'Gadolin II' 6-max Seat #1 is the button
+Seat 1: SHB94 ($6.90 in chips) 
+Seat 2: raevehaj ($10.66 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.30 in chips) 
+Seat 5: Satyi1 ($12.71 in chips) 
+Seat 6: FairyFish ($18.61 in chips) 
+raevehaj: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+Satyi1: raises $0.20 to $0.30
+FairyFish: folds 
+SHB94: folds 
+raevehaj: folds 
+balisstica: folds 
+Uncalled bet ($0.20) returned to Satyi1
+Satyi1 collected $0.25 from pot
+Satyi1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SHB94 (button) folded before Flop (didn't bet)
+Seat 2: raevehaj (small blind) folded before Flop
+Seat 3: balisstica (big blind) folded before Flop
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 collected ($0.25)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957904330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:56:02 ET
+Table 'Gadolin II' 6-max Seat #2 is the button
+Seat 1: SHB94 ($6.90 in chips) 
+Seat 2: raevehaj ($10.61 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.30 in chips) 
+Seat 5: Satyi1 ($12.86 in chips) 
+Seat 6: FairyFish ($18.61 in chips) 
+balisstica: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+Satyi1: folds 
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: folds 
+balisstica: folds 
+robotov: checks 
+*** FLOP *** [2d 2s 7c]
+robotov: checks 
+SHB94: bets $0.30
+robotov: folds 
+Uncalled bet ($0.30) returned to SHB94
+SHB94 collected $0.24 from pot
+SHB94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2d 2s 7c]
+Seat 1: SHB94 collected ($0.24)
+Seat 2: raevehaj (button) folded before Flop (didn't bet)
+Seat 3: balisstica (small blind) folded before Flop
+Seat 4: robotov (big blind) folded on the Flop
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957921202:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:56:41 ET
+Table 'Gadolin II' 6-max Seat #3 is the button
+Seat 1: SHB94 ($7.04 in chips) 
+Seat 2: raevehaj ($10.61 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10.20 in chips) 
+Seat 5: Satyi1 ($12.86 in chips) 
+Seat 6: FairyFish ($18.61 in chips) 
+robotov: posts small blind $0.05
+Satyi1: posts big blind $0.10
+*** HOLE CARDS ***
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: folds 
+balisstica: folds 
+robotov: raises $0.30 to $0.40
+Satyi1: folds 
+SHB94: calls $0.30
+*** FLOP *** [6c 7h Qc]
+robotov: checks 
+SHB94: checks 
+*** TURN *** [6c 7h Qc] [Kc]
+robotov: checks 
+SHB94: checks 
+*** RIVER *** [6c 7h Qc Kc] [Ts]
+robotov: checks 
+SHB94: bets $0.50
+robotov: folds 
+Uncalled bet ($0.50) returned to SHB94
+SHB94 collected $0.86 from pot
+SHB94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [6c 7h Qc Kc Ts]
+Seat 1: SHB94 collected ($0.86)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica (button) folded before Flop (didn't bet)
+Seat 4: robotov (small blind) folded on the River
+Seat 5: Satyi1 (big blind) folded before Flop
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957941017:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:57:26 ET
+Table 'Gadolin II' 6-max Seat #4 is the button
+Seat 1: SHB94 ($7.50 in chips) 
+Seat 2: raevehaj ($10.61 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($12.76 in chips) 
+Seat 6: FairyFish ($18.61 in chips) 
+Satyi1: posts small blind $0.05
+FairyFish: posts big blind $0.10
+*** HOLE CARDS ***
+SHB94: calls $0.10
+raevehaj: folds 
+balisstica: folds 
+robotov: folds 
+Satyi1: calls $0.05
+FairyFish: checks 
+*** FLOP *** [4c 6s 5c]
+Satyi1: checks 
+FairyFish: checks 
+SHB94: checks 
+*** TURN *** [4c 6s 5c] [2s]
+Satyi1: checks 
+FairyFish: checks 
+SHB94: bets $0.30
+Satyi1: folds 
+FairyFish: folds 
+Uncalled bet ($0.30) returned to SHB94
+SHB94 collected $0.29 from pot
+SHB94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4c 6s 5c 2s]
+Seat 1: SHB94 collected ($0.29)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov (button) folded before Flop (didn't bet)
+Seat 5: Satyi1 (small blind) folded on the Turn
+Seat 6: FairyFish (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222957968725:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:58:29 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 1: SHB94 ($7.69 in chips) 
+Seat 2: raevehaj ($10.61 in chips) 
+Seat 3: balisstica ($10 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($12.66 in chips) 
+Seat 6: FairyFish ($18.51 in chips) 
+FairyFish: posts small blind $0.05
+SHB94: posts big blind $0.10
+*** HOLE CARDS ***
+raevehaj: folds 
+balisstica has timed out
+balisstica: folds 
+robotov: folds 
+Satyi1: folds 
+FairyFish: raises $0.20 to $0.30
+SHB94: calls $0.20
+*** FLOP *** [Td Kc 4s]
+FairyFish: bets $0.38
+SHB94: folds 
+Uncalled bet ($0.38) returned to FairyFish
+FairyFish collected $0.57 from pot
+FairyFish: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Td Kc 4s]
+Seat 1: SHB94 (big blind) folded on the Flop
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: balisstica folded before Flop (didn't bet)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 (button) folded before Flop (didn't bet)
+Seat 6: FairyFish (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #222957983618:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:00 ET
+Table 'Gadolin II' 6-max Seat #6 is the button
+Seat 1: SHB94 ($7.39 in chips) 
+Seat 2: raevehaj ($10.61 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($12.66 in chips) 
+Seat 6: FairyFish ($18.78 in chips) 
+SHB94: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica leaves the table
+robotov: folds 
+Satyi1: folds 
+FairyFish: raises $0.15 to $0.25
+Vaha379 joins the table at seat #3 
+SHB94: calls $0.20
+raevehaj: folds 
+*** FLOP *** [6c 7d 7s]
+SHB94: checks 
+FairyFish: bets $0.19
+SHB94: calls $0.19
+*** TURN *** [6c 7d 7s] [3s]
+SHB94: bets $0.70
+FairyFish: folds 
+Uncalled bet ($0.70) returned to SHB94
+SHB94 collected $0.94 from pot
+SHB94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [6c 7d 7s 3s]
+Seat 1: SHB94 (small blind) collected ($0.94)
+Seat 2: raevehaj (big blind) folded before Flop
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish (button) folded on the Turn
+
+
+
+PokerStars Hand #222958005274:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:50 ET
+Table 'Gadolin II' 6-max Seat #1 is the button
+Seat 1: SHB94 ($7.89 in chips) 
+Seat 2: raevehaj ($10.51 in chips) 
+Seat 3: Vaha379 ($10 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($12.66 in chips) 
+Seat 6: FairyFish ($18.34 in chips) 
+raevehaj: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+Satyi1: folds 
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: folds 
+Vaha379: raises $0.45 to $0.55
+SHB94: calls $0.45
+*** FLOP *** [Kh 4s 6c]
+Vaha379: bets $0.55
+SHB94: folds 
+Uncalled bet ($0.55) returned to Vaha379
+Vaha379 collected $1.10 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Kh 4s 6c]
+Seat 1: SHB94 (button) folded on the Flop
+Seat 2: raevehaj (small blind) folded before Flop
+Seat 3: Vaha379 (big blind) collected ($1.10)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958014874:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:00:11 ET
+Table 'Gadolin II' 6-max Seat #2 is the button
+Seat 1: SHB94 ($7.34 in chips) 
+Seat 2: raevehaj ($10.46 in chips) 
+Seat 3: Vaha379 ($10.55 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($12.66 in chips) 
+Seat 6: FairyFish ($18.34 in chips) 
+Vaha379: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+Satyi1: folds 
+FairyFish: folds 
+SHB94: folds 
+raevehaj: folds 
+Vaha379: folds 
+Uncalled bet ($0.05) returned to robotov
+robotov collected $0.10 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SHB94 folded before Flop (didn't bet)
+Seat 2: raevehaj (button) folded before Flop (didn't bet)
+Seat 3: Vaha379 (small blind) folded before Flop
+Seat 4: robotov (big blind) collected ($0.10)
+Seat 5: Satyi1 folded before Flop (didn't bet)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958019934:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:00:22 ET
+Table 'Gadolin II' 6-max Seat #3 is the button
+Seat 1: SHB94 ($7.34 in chips) 
+Seat 2: raevehaj ($10.46 in chips) 
+Seat 3: Vaha379 ($10.50 in chips) 
+Seat 4: robotov ($10.05 in chips) 
+Seat 5: Satyi1 ($12.66 in chips) 
+Seat 6: FairyFish ($18.34 in chips) 
+robotov: posts small blind $0.05
+Satyi1: posts big blind $0.10
+*** HOLE CARDS ***
+FairyFish: folds 
+SHB94: calls $0.10
+raevehaj: folds 
+Vaha379: folds 
+robotov: folds 
+Satyi1: checks 
+*** FLOP *** [Kd 7c 8h]
+Satyi1: checks 
+SHB94: checks 
+*** TURN *** [Kd 7c 8h] [Qc]
+Satyi1: checks 
+SHB94: checks 
+*** RIVER *** [Kd 7c 8h Qc] [Th]
+Satyi1: bets $0.10
+SHB94: folds 
+Uncalled bet ($0.10) returned to Satyi1
+Satyi1 collected $0.24 from pot
+Satyi1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd 7c 8h Qc Th]
+Seat 1: SHB94 folded on the River
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: Vaha379 (button) folded before Flop (didn't bet)
+Seat 4: robotov (small blind) folded before Flop
+Seat 5: Satyi1 (big blind) collected ($0.24)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958033592:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:00:51 ET
+Table 'Gadolin II' 6-max Seat #4 is the button
+Seat 1: SHB94 ($7.24 in chips) 
+Seat 2: raevehaj ($10.46 in chips) 
+Seat 3: Vaha379 ($10.50 in chips) 
+Seat 4: robotov ($10 in chips) 
+Seat 5: Satyi1 ($12.80 in chips) 
+Seat 6: FairyFish ($18.34 in chips) 
+Satyi1: posts small blind $0.05
+FairyFish: posts big blind $0.10
+*** HOLE CARDS ***
+SHB94: folds 
+SHB94 leaves the table
+raevehaj: folds 
+Vaha379: folds 
+robotov: raises $0.15 to $0.25
+Satyi1: folds 
+FairyFish: calls $0.15
+*** FLOP *** [7d Th 7c]
+FairyFish: checks 
+robotov: checks 
+*** TURN *** [7d Th 7c] [5s]
+FairyFish: bets $0.35
+robotov: calls $0.35
+*** RIVER *** [7d Th 7c 5s] [2d]
+FairyFish: bets $0.45
+robotov: calls $0.45
+*** SHOW DOWN ***
+FairyFish: shows [8s 9d] (a pair of Sevens)
+robotov: shows [5d Ad] (two pair, Sevens and Fives)
+robotov collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [7d Th 7c 5s 2d]
+Seat 1: SHB94 folded before Flop (didn't bet)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: Vaha379 folded before Flop (didn't bet)
+Seat 4: robotov (button) showed [5d Ad] and won ($2.05) with two pair, Sevens and Fives
+Seat 5: Satyi1 (small blind) folded before Flop
+Seat 6: FairyFish (big blind) showed [8s 9d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #222958055466:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:01:35 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 2: raevehaj ($10.46 in chips) 
+Seat 3: Vaha379 ($10.50 in chips) 
+Seat 4: robotov ($11 in chips) 
+Seat 5: Satyi1 ($12.75 in chips) 
+Seat 6: FairyFish ($17.29 in chips) 
+FairyFish: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+robotov: raises $0.20 to $0.30
+Satyi1: folds 
+FairyFish: folds 
+raevehaj: folds 
+Uncalled bet ($0.20) returned to robotov
+robotov collected $0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: raevehaj (big blind) folded before Flop
+Seat 3: Vaha379 folded before Flop (didn't bet)
+Seat 4: robotov collected ($0.25)
+Seat 5: Satyi1 (button) folded before Flop (didn't bet)
+Seat 6: FairyFish (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958062785:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:01:47 ET
+Table 'Gadolin II' 6-max Seat #6 is the button
+Seat 2: raevehaj ($10.36 in chips) 
+Seat 3: Vaha379 ($10.50 in chips) 
+Seat 4: robotov ($11.15 in chips) 
+Seat 5: Satyi1 ($12.75 in chips) 
+Seat 6: FairyFish ($17.24 in chips) 
+raevehaj: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+Satyi1: raises $0.20 to $0.30
+FairyFish: raises $0.60 to $0.90
+raevehaj: folds 
+Vaha379: folds 
+Satyi1: folds 
+Uncalled bet ($0.60) returned to FairyFish
+FairyFish collected $0.75 from pot
+FairyFish: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 2: raevehaj (small blind) folded before Flop
+Seat 3: Vaha379 (big blind) folded before Flop
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded before Flop
+Seat 6: FairyFish (button) collected ($0.75)
+
+
+
+PokerStars Hand #222958072972:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:02:06 ET
+Table 'Gadolin II' 6-max Seat #2 is the button
+Seat 2: raevehaj ($10.31 in chips) 
+Seat 3: Vaha379 ($10.40 in chips) 
+Seat 4: robotov ($11.15 in chips) 
+Seat 5: Satyi1 ($12.45 in chips) 
+Seat 6: FairyFish ($17.69 in chips) 
+Vaha379: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+Satyi1: raises $0.20 to $0.30
+Quatrehuith joins the table at seat #1 
+FairyFish: folds 
+raevehaj: folds 
+Vaha379: folds 
+robotov: calls $0.20
+*** FLOP *** [6d 4d 2d]
+robotov: checks 
+Satyi1: bets $0.20
+robotov: folds 
+Uncalled bet ($0.20) returned to Satyi1
+Satyi1 collected $0.62 from pot
+Satyi1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [6d 4d 2d]
+Seat 2: raevehaj (button) folded before Flop (didn't bet)
+Seat 3: Vaha379 (small blind) folded before Flop
+Seat 4: robotov (big blind) folded on the Flop
+Seat 5: Satyi1 collected ($0.62)
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958084910:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:02:30 ET
+Table 'Gadolin II' 6-max Seat #3 is the button
+Seat 2: raevehaj ($10.31 in chips) 
+Seat 3: Vaha379 ($10.35 in chips) 
+Seat 4: robotov ($10.85 in chips) 
+Seat 5: Satyi1 ($12.77 in chips) 
+Seat 6: FairyFish ($17.69 in chips) 
+robotov: posts small blind $0.05
+Satyi1: posts big blind $0.10
+Quatrehuith: sits out 
+*** HOLE CARDS ***
+FairyFish: folds 
+raevehaj: raises $0.20 to $0.30
+Vaha379: folds 
+robotov: folds 
+Satyi1: calls $0.20
+*** FLOP *** [3c 7h 2h]
+Satyi1: checks 
+raevehaj: checks 
+*** TURN *** [3c 7h 2h] [9c]
+Satyi1: checks 
+raevehaj: bets $0.31
+Satyi1: calls $0.31
+*** RIVER *** [3c 7h 2h 9c] [Kc]
+Satyi1: checks 
+raevehaj: bets $0.61
+Satyi1: calls $0.61
+*** SHOW DOWN ***
+raevehaj: shows [Ah 8s] (high card Ace)
+Satyi1: shows [5s 5c] (a pair of Fives)
+Satyi1 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.11 
+Board [3c 7h 2h 9c Kc]
+Seat 2: raevehaj showed [Ah 8s] and lost with high card Ace
+Seat 3: Vaha379 (button) folded before Flop (didn't bet)
+Seat 4: robotov (small blind) folded before Flop
+Seat 5: Satyi1 (big blind) showed [5s 5c] and won ($2.38) with a pair of Fives
+Seat 6: FairyFish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958114174:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:03:23 ET
+Table 'Gadolin II' 6-max Seat #4 is the button
+Seat 1: Quatrehuith ($10 in chips) 
+Seat 2: raevehaj ($9.09 in chips) 
+Seat 3: Vaha379 ($10.35 in chips) 
+Seat 4: robotov ($10.80 in chips) 
+Seat 5: Satyi1 ($13.93 in chips) 
+Satyi1: posts small blind $0.05
+FairyFish: is sitting out 
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+raevehaj: folds 
+Vaha379: folds 
+robotov: folds 
+Satyi1: folds 
+Uncalled bet ($0.05) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Quatrehuith (big blind) collected ($0.10)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: Vaha379 folded before Flop (didn't bet)
+Seat 4: robotov (button) folded before Flop (didn't bet)
+Seat 5: Satyi1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958123839:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:03:36 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 1: Quatrehuith ($10.05 in chips) 
+Seat 2: raevehaj ($9.09 in chips) 
+Seat 3: Vaha379 ($10.35 in chips) 
+Seat 4: robotov ($10.80 in chips) 
+Seat 5: Satyi1 ($13.88 in chips) 
+Quatrehuith: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: raises $0.20 to $0.30
+robotov: folds 
+Satyi1: folds 
+Quatrehuith: folds 
+raevehaj: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Quatrehuith (small blind) folded before Flop
+Seat 2: raevehaj (big blind) folded before Flop
+Seat 3: Vaha379 collected ($0.25)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958132733:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:03:52 ET
+Table 'Gadolin II' 6-max Seat #1 is the button
+Seat 1: Quatrehuith ($10 in chips) 
+Seat 2: raevehaj ($8.99 in chips) 
+Seat 3: Vaha379 ($10.50 in chips) 
+Seat 4: robotov ($10.80 in chips) 
+Seat 5: Satyi1 ($13.88 in chips) 
+raevehaj: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+Satyi1: raises $0.20 to $0.30
+Quatrehuith: folds 
+raevehaj: folds 
+Vaha379: raises $0.75 to $1.05
+Satyi1: calls $0.75
+*** FLOP *** [9h 6c 6s]
+Vaha379: bets $0.62
+Satyi1: calls $0.62
+*** TURN *** [9h 6c 6s] [Ah]
+Vaha379: bets $1.32
+Satyi1: calls $1.32
+*** RIVER *** [9h 6c 6s Ah] [6h]
+Vaha379: bets $2.08
+Satyi1: folds 
+Uncalled bet ($2.08) returned to Vaha379
+Vaha379 collected $5.76 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.03 | Rake $0.27 
+Board [9h 6c 6s Ah 6h]
+Seat 1: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 2: raevehaj (small blind) folded before Flop
+Seat 3: Vaha379 (big blind) collected ($5.76)
+Seat 4: robotov folded before Flop (didn't bet)
+Seat 5: Satyi1 folded on the River
+
+
+
+PokerStars Hand #222958181019:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:05:16 ET
+Table 'Gadolin II' 6-max Seat #2 is the button
+Seat 1: Quatrehuith ($10 in chips) 
+Seat 2: raevehaj ($8.94 in chips) 
+Seat 3: Vaha379 ($13.27 in chips) 
+Seat 5: Satyi1 ($10.89 in chips) 
+Vaha379: posts small blind $0.05
+robotov: is sitting out 
+Satyi1: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+robotov leaves the table
+raevehaj: folds 
+Vaha379: folds 
+Uncalled bet ($0.05) returned to Satyi1
+Satyi1 collected $0.10 from pot
+Satyi1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Quatrehuith folded before Flop (didn't bet)
+Seat 2: raevehaj (button) folded before Flop (didn't bet)
+Seat 3: Vaha379 (small blind) folded before Flop
+Seat 5: Satyi1 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222958185238:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:05:24 ET
+Table 'Gadolin II' 6-max Seat #3 is the button
+Seat 1: Quatrehuith ($10 in chips) 
+Seat 2: raevehaj ($8.94 in chips) 
+Seat 3: Vaha379 ($13.22 in chips) 
+Seat 5: Satyi1 ($10.94 in chips) 
+Satyi1: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+raevehaj: folds 
+Vaha379: folds 
+Vaha379 leaves the table
+FairyFish leaves the table
+Satyi1: folds 
+Uncalled bet ($0.05) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Quatrehuith (big blind) collected ($0.10)
+Seat 2: raevehaj folded before Flop (didn't bet)
+Seat 3: Vaha379 (button) folded before Flop (didn't bet)
+Seat 5: Satyi1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958191345:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:05:34 ET
+Table 'Gadolin II' 6-max Seat #5 is the button
+Seat 1: Quatrehuith ($10.05 in chips) 
+Seat 2: raevehaj ($8.94 in chips) 
+Seat 5: Satyi1 ($10.89 in chips) 
+Quatrehuith: posts small blind $0.05
+raevehaj: posts big blind $0.10
+*** HOLE CARDS ***
+Satyi1: raises $0.15 to $0.25
+Quatrehuith: folds 
+raevehaj: calls $0.15
+*** FLOP *** [4h Qs 2d]
+Quatrehuith leaves the table
+raevehaj: checks 
+Satyi1: bets $0.17
+raevehaj: calls $0.17
+*** TURN *** [4h Qs 2d] [8c]
+raevehaj: checks 
+Satyi1: checks 
+*** RIVER *** [4h Qs 2d 8c] [Td]
+raevehaj: bets $0.43
+Satyi1: calls $0.43
+*** SHOW DOWN ***
+raevehaj: shows [6d 7d] (high card Queen)
+Satyi1: shows [8s Jh] (a pair of Eights)
+Satyi1 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [4h Qs 2d 8c Td]
+Seat 1: Quatrehuith (small blind) folded before Flop
+Seat 2: raevehaj (big blind) showed [6d 7d] and lost with high card Queen
+Seat 5: Satyi1 (button) showed [8s Jh] and won ($1.67) with a pair of Eights
+
+
+

@@ -1,0 +1,5634 @@
+﻿PokerStars Hand #222972271120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:28:52 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: ArmaTheGreat ($4.36 in chips) 
+Seat 2: Vecherov ($10 in chips) 
+Seat 3: I_Not_Alone ($10.73 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+I_Not_Alone: posts small blind $0.05
+casimiro124: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+ArmaTheGreat: calls $0.10
+Vecherov: folds 
+I_Not_Alone: folds 
+casimiro124: checks 
+*** FLOP *** [3h Qs 5s]
+RoN Navi joins the table at seat #5 
+casimiro124: checks 
+ArmaTheGreat: checks 
+*** TURN *** [3h Qs 5s] [8h]
+casimiro124: checks 
+ArmaTheGreat: checks 
+*** RIVER *** [3h Qs 5s 8h] [2d]
+casimiro124: checks 
+ArmaTheGreat: checks 
+*** SHOW DOWN ***
+casimiro124: shows [Th 6h] (high card Queen)
+ArmaTheGreat: shows [3s Jh] (a pair of Threes)
+ArmaTheGreat collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h Qs 5s 8h 2d]
+Seat 1: ArmaTheGreat showed [3s Jh] and won ($0.24) with a pair of Threes
+Seat 2: Vecherov (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: casimiro124 (big blind) showed [Th 6h] and lost with high card Queen
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972305702:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:33 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: ArmaTheGreat ($4.50 in chips) 
+Seat 2: Vecherov ($10 in chips) 
+Seat 3: I_Not_Alone ($10.68 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 5: RoN Navi ($10 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+casimiro124: posts small blind $0.05
+RoN Navi: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+ArmaTheGreat: folds 
+Vecherov: folds 
+I_Not_Alone: raises $0.15 to $0.25
+casimiro124: folds 
+RoN Navi: folds 
+Uncalled bet ($0.15) returned to I_Not_Alone
+I_Not_Alone collected $0.25 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ArmaTheGreat folded before Flop (didn't bet)
+Seat 2: Vecherov folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) collected ($0.25)
+Seat 4: casimiro124 (small blind) folded before Flop
+Seat 5: RoN Navi (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972318656:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:48 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: ArmaTheGreat ($4.50 in chips) 
+Seat 2: Vecherov ($10 in chips) 
+Seat 3: I_Not_Alone ($10.83 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 5: RoN Navi ($10 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+RoN Navi: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+ArmaTheGreat: calls $0.10
+Vecherov: raises $0.30 to $0.40
+I_Not_Alone: folds 
+casimiro124: folds 
+RoN Navi: folds 
+homeroxx2018: folds 
+ArmaTheGreat: calls $0.30
+*** FLOP *** [9h 7s Qh]
+ArmaTheGreat: checks 
+Vecherov: checks 
+*** TURN *** [9h 7s Qh] [Ts]
+ArmaTheGreat: bets $0.46
+Vecherov: folds 
+Uncalled bet ($0.46) returned to ArmaTheGreat
+ArmaTheGreat collected $0.91 from pot
+ArmaTheGreat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9h 7s Qh Ts]
+Seat 1: ArmaTheGreat collected ($0.91)
+Seat 2: Vecherov folded on the Turn
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: casimiro124 (button) folded before Flop (didn't bet)
+Seat 5: RoN Navi (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972355858:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:30:31 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: ArmaTheGreat ($5.01 in chips) 
+Seat 2: Vecherov ($10 in chips) 
+Seat 3: I_Not_Alone ($10.83 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 5: RoN Navi ($10 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+homeroxx2018: posts small blind $0.05
+ArmaTheGreat: posts big blind $0.10
+*** HOLE CARDS ***
+Vecherov: folds 
+I_Not_Alone: folds 
+casimiro124: folds 
+RoN Navi: raises $0.15 to $0.25
+homeroxx2018: folds 
+ArmaTheGreat: calls $0.15
+*** FLOP *** [8d 3s 3c]
+ArmaTheGreat: checks 
+RoN Navi: bets $0.27
+ArmaTheGreat: calls $0.27
+*** TURN *** [8d 3s 3c] [Ah]
+ArmaTheGreat: checks 
+RoN Navi: checks 
+*** RIVER *** [8d 3s 3c Ah] [5h]
+ArmaTheGreat: checks 
+RoN Navi: checks 
+*** SHOW DOWN ***
+ArmaTheGreat: shows [Qc Jh] (a pair of Threes)
+RoN Navi: shows [Qd 8s] (two pair, Eights and Threes)
+RoN Navi collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [8d 3s 3c Ah 5h]
+Seat 1: ArmaTheGreat (big blind) showed [Qc Jh] and lost with a pair of Threes
+Seat 2: Vecherov folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: casimiro124 folded before Flop (didn't bet)
+Seat 5: RoN Navi (button) showed [Qd 8s] and won ($1.04) with two pair, Eights and Threes
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972393669:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:31:11 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: ArmaTheGreat ($4.49 in chips) 
+Seat 2: Vecherov ($10 in chips) 
+Seat 3: I_Not_Alone ($10.83 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 5: RoN Navi ($10.52 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+ArmaTheGreat: posts small blind $0.05
+Vecherov: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+casimiro124: folds 
+RoN Navi: folds 
+homeroxx2018: raises $0.20 to $0.30
+ArmaTheGreat: calls $0.25
+Vecherov: folds 
+*** FLOP *** [Kh 7s Th]
+ArmaTheGreat: bets $0.67
+homeroxx2018: folds 
+Uncalled bet ($0.67) returned to ArmaTheGreat
+ArmaTheGreat collected $0.67 from pot
+ArmaTheGreat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Kh 7s Th]
+Seat 1: ArmaTheGreat (small blind) collected ($0.67)
+Seat 2: Vecherov (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: casimiro124 folded before Flop (didn't bet)
+Seat 5: RoN Navi folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded on the Flop
+
+
+
+PokerStars Hand #222972590835:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:05 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 2: Vecherov ($10.47 in chips) 
+Seat 3: I_Not_Alone ($11.45 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 5: RoN Navi ($10.37 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+I_Not_Alone: posts small blind $0.05
+casimiro124: posts big blind $0.10
+CherryFullin: sits out 
+*** HOLE CARDS ***
+RoN Navi: folds 
+homeroxx2018: raises $0.20 to $0.30
+Vecherov: folds 
+I_Not_Alone: folds 
+casimiro124: folds 
+Uncalled bet ($0.20) returned to homeroxx2018
+homeroxx2018 collected $0.25 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Vecherov (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: casimiro124 (big blind) folded before Flop
+Seat 5: RoN Navi folded before Flop (didn't bet)
+Seat 6: homeroxx2018 collected ($0.25)
+
+
+
+PokerStars Hand #222972602545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:19 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 2: Vecherov ($10.47 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 6: homeroxx2018 ($10.15 in chips) 
+casimiro124: posts small blind $0.05
+RoN Navi: is sitting out 
+homeroxx2018: posts big blind $0.10
+CherryFullin: sits out 
+*** HOLE CARDS ***
+Vecherov: folds 
+I_Not_Alone: folds 
+casimiro124: raises $0.20 to $0.30
+RoN Navi leaves the table
+Feryman78 joins the table at seat #5 
+homeroxx2018: raises $0.60 to $0.90
+casimiro124: calls $0.60
+*** FLOP *** [3s 2d 3c]
+casimiro124: checks 
+homeroxx2018: bets $0.86
+casimiro124: calls $0.86
+*** TURN *** [3s 2d 3c] [3d]
+casimiro124: checks 
+homeroxx2018: bets $2.52
+casimiro124: calls $2.52
+*** RIVER *** [3s 2d 3c 3d] [6d]
+casimiro124: checks 
+homeroxx2018: bets $5.87 and is all-in
+casimiro124: folds 
+Uncalled bet ($5.87) returned to homeroxx2018
+homeroxx2018 collected $8.17 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.56 | Rake $0.39 
+Board [3s 2d 3c 3d 6d]
+Seat 2: Vecherov folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: casimiro124 (small blind) folded on the River
+Seat 6: homeroxx2018 (big blind) collected ($8.17)
+
+
+
+PokerStars Hand #222972667944:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:37 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: CherryFullin ($10 in chips) 
+Seat 2: Vecherov ($10.47 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 6: homeroxx2018 ($14.04 in chips) 
+homeroxx2018: posts small blind $0.05
+CherryFullin: posts big blind $0.10
+*** HOLE CARDS ***
+Vecherov: raises $0.20 to $0.30
+I_Not_Alone: folds 
+casimiro124: folds 
+homeroxx2018: raises $0.60 to $0.90
+CherryFullin: folds 
+Vecherov: calls $0.60
+*** FLOP *** [Ad Qs Qh]
+homeroxx2018: bets $0.60
+Vecherov: calls $0.60
+*** TURN *** [Ad Qs Qh] [3c]
+homeroxx2018: checks 
+Vecherov: bets $1.85
+homeroxx2018: calls $1.85
+*** RIVER *** [Ad Qs Qh 3c] [2c]
+homeroxx2018: checks 
+Vecherov: checks 
+*** SHOW DOWN ***
+homeroxx2018: shows [Kc Ah] (two pair, Aces and Queens)
+Vecherov: mucks hand 
+homeroxx2018 collected $6.49 from pot
+*** SUMMARY ***
+Total pot $6.80 | Rake $0.31 
+Board [Ad Qs Qh 3c 2c]
+Seat 1: CherryFullin (big blind) folded before Flop
+Seat 2: Vecherov mucked
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: casimiro124 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) showed [Kc Ah] and won ($6.49) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #222972739387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:02 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: CherryFullin ($10 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: casimiro124 ($10 in chips) 
+Seat 6: homeroxx2018 ($17.18 in chips) 
+CherryFullin: posts small blind $0.05
+Vecherov: is sitting out 
+I_Not_Alone: posts big blind $0.10
+Feryman78: sits out 
+*** HOLE CARDS ***
+Vecherov leaves the table
+casimiro124: folds 
+homeroxx2018: raises $0.20 to $0.30
+CherryFullin: folds 
+I_Not_Alone: folds 
+Uncalled bet ($0.20) returned to homeroxx2018
+homeroxx2018 collected $0.25 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: CherryFullin (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: casimiro124 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222972748372:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:13 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: CherryFullin ($10 in chips) 
+Seat 3: I_Not_Alone ($11.30 in chips) 
+Seat 5: Feryman78 ($5 in chips) 
+Seat 6: homeroxx2018 ($17.33 in chips) 
+I_Not_Alone: posts small blind $0.05
+casimiro124: is sitting out 
+Feryman78: posts big blind $0.10
+*** HOLE CARDS ***
+casimiro124 leaves the table
+homeroxx2018: folds 
+CherryFullin: raises $0.15 to $0.25
+I_Not_Alone: folds 
+Feryman78: calls $0.15
+*** FLOP *** [5d 9d Jd]
+Feryman78: checks 
+CherryFullin: checks 
+*** TURN *** [5d 9d Jd] [3h]
+Feryman78: checks 
+CherryFullin: checks 
+*** RIVER *** [5d 9d Jd 3h] [8h]
+Feryman78: checks 
+CherryFullin: checks 
+*** SHOW DOWN ***
+Feryman78: shows [7h Ks] (high card King)
+CherryFullin: shows [5s 4s] (a pair of Fives)
+CherryFullin collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5d 9d Jd 3h 8h]
+Seat 1: CherryFullin (button) showed [5s 4s] and won ($0.53) with a pair of Fives
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 5: Feryman78 (big blind) showed [7h Ks] and lost with high card King
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972780849:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:52 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: CherryFullin ($10.28 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 5: Feryman78 ($4.75 in chips) 
+Seat 6: homeroxx2018 ($17.33 in chips) 
+Feryman78: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+CherryFullin: folds 
+I_Not_Alone: folds 
+Feryman78: calls $0.05
+homeroxx2018: checks 
+*** FLOP *** [7h Qs Ts]
+Feryman78: checks 
+homeroxx2018: checks 
+*** TURN *** [7h Qs Ts] [Tc]
+Feryman78: checks 
+homeroxx2018: checks 
+*** RIVER *** [7h Qs Ts Tc] [Kd]
+Feryman78: checks 
+homeroxx2018: checks 
+*** SHOW DOWN ***
+Feryman78: shows [5h 6d] (a pair of Tens)
+homeroxx2018: shows [4d 2c] (a pair of Tens)
+Feryman78 collected $0.10 from pot
+homeroxx2018 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7h Qs Ts Tc Kd]
+Seat 1: CherryFullin folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 5: Feryman78 (small blind) showed [5h 6d] and won ($0.10) with a pair of Tens
+Seat 6: homeroxx2018 (big blind) showed [4d 2c] and won ($0.09) with a pair of Tens
+
+
+
+PokerStars Hand #222972798889:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:14 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: CherryFullin ($10.28 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 5: Feryman78 ($4.75 in chips) 
+Seat 6: homeroxx2018 ($17.32 in chips) 
+homeroxx2018: posts small blind $0.05
+CherryFullin: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+Feryman78: calls $0.25
+homeroxx2018: folds 
+CherryFullin: folds 
+*** FLOP *** [Jd 9c Jc]
+I_Not_Alone: checks 
+Feryman78: checks 
+*** TURN *** [Jd 9c Jc] [4d]
+I_Not_Alone: checks 
+BazKaLT joins the table at seat #2 
+Feryman78: checks 
+*** RIVER *** [Jd 9c Jc 4d] [3d]
+I_Not_Alone: checks 
+johhnn123 joins the table at seat #4 
+Feryman78: bets $0.70
+I_Not_Alone: folds 
+Uncalled bet ($0.70) returned to Feryman78
+Feryman78 collected $0.62 from pot
+Feryman78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Jd 9c Jc 4d 3d]
+Seat 1: CherryFullin (big blind) folded before Flop
+Seat 3: I_Not_Alone folded on the River
+Seat 5: Feryman78 (button) collected ($0.62)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972842842:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:55 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: CherryFullin ($10.18 in chips) 
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11 in chips) 
+Seat 5: Feryman78 ($5.12 in chips) 
+Seat 6: homeroxx2018 ($17.27 in chips) 
+CherryFullin: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+johhnn123: sits out 
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+Feryman78: calls $0.25
+homeroxx2018: folds 
+CherryFullin: folds 
+BazKaLT: folds 
+*** FLOP *** [7h 2c Qd]
+I_Not_Alone: checks 
+Feryman78: checks 
+*** TURN *** [7h 2c Qd] [Qc]
+I_Not_Alone: checks 
+Feryman78: checks 
+*** RIVER *** [7h 2c Qd Qc] [2d]
+I_Not_Alone: checks 
+Feryman78: checks 
+*** SHOW DOWN ***
+I_Not_Alone: shows [Ad 7d] (two pair, Queens and Sevens)
+Feryman78: mucks hand 
+I_Not_Alone collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7h 2c Qd Qc 2d]
+Seat 1: CherryFullin (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone showed [Ad 7d] and won ($0.62) with two pair, Queens and Sevens
+Seat 5: Feryman78 mucked
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972863043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:19 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: CherryFullin ($10.13 in chips) 
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11.37 in chips) 
+Seat 5: Feryman78 ($4.87 in chips) 
+Seat 6: homeroxx2018 ($17.27 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+johhnn123: sits out 
+*** HOLE CARDS ***
+Feryman78: calls $0.10
+homeroxx2018: raises $0.40 to $0.50
+CherryFullin: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+Feryman78: calls $0.40
+*** FLOP *** [Kd Jd 7c]
+Feryman78: bets $1.10
+homeroxx2018: folds 
+Uncalled bet ($1.10) returned to Feryman78
+Feryman78 collected $1.10 from pot
+Feryman78: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Kd Jd 7c]
+Seat 1: CherryFullin (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 5: Feryman78 collected ($1.10)
+Seat 6: homeroxx2018 folded on the Flop
+
+
+
+PokerStars Hand #222972883283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:44 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: CherryFullin ($10.13 in chips) 
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11.27 in chips) 
+Seat 4: johhnn123 ($10 in chips) 
+Seat 5: Feryman78 ($5.47 in chips) 
+Seat 6: homeroxx2018 ($16.77 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Feryman78: calls $0.10
+homeroxx2018: folds 
+CherryFullin: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: checks 
+*** FLOP *** [Th Ts As]
+johhnn123: checks 
+Feryman78: checks 
+*** TURN *** [Th Ts As] [7d]
+johhnn123: checks 
+Feryman78: bets $0.24
+johhnn123: folds 
+Uncalled bet ($0.24) returned to Feryman78
+Feryman78 collected $0.24 from pot
+Feryman78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Th Ts As 7d]
+Seat 1: CherryFullin folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded on the Turn
+Seat 5: Feryman78 collected ($0.24)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972905168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:10 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: CherryFullin ($10.13 in chips) 
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($9.90 in chips) 
+Seat 5: Feryman78 ($5.61 in chips) 
+Seat 6: homeroxx2018 ($16.77 in chips) 
+johhnn123: posts small blind $0.05
+Feryman78: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+CherryFullin: raises $0.15 to $0.25
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Feryman78: calls $0.15
+*** FLOP *** [8d 9h 3c]
+Feryman78: bets $0.53
+CherryFullin: folds 
+Uncalled bet ($0.53) returned to Feryman78
+Feryman78 collected $0.53 from pot
+Feryman78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8d 9h 3c]
+Seat 1: CherryFullin folded on the Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Feryman78 (big blind) collected ($0.53)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972928114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:38 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: CherryFullin ($10 in chips) 
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($9.85 in chips) 
+Seat 5: Feryman78 ($5.89 in chips) 
+Seat 6: homeroxx2018 ($16.77 in chips) 
+Feryman78: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+CherryFullin: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+Feryman78: calls $0.20
+homeroxx2018: folds 
+*** FLOP *** [4d 6s 5c]
+Feryman78: bets $0.57
+johhnn123: raises $0.86 to $1.43
+Feryman78: calls $0.86
+*** TURN *** [4d 6s 5c] [Qd]
+Feryman78: bets $1.65
+johhnn123: calls $1.65
+*** RIVER *** [4d 6s 5c Qd] [9d]
+Feryman78: bets $1.30
+johhnn123: calls $1.30
+*** SHOW DOWN ***
+Feryman78: shows [8h 6h] (a pair of Sixes)
+johhnn123: shows [7d 7c] (a pair of Sevens)
+johhnn123 collected $8.94 from pot
+*** SUMMARY ***
+Total pot $9.36 | Rake $0.42 
+Board [4d 6s 5c Qd 9d]
+Seat 1: CherryFullin folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) showed [7d 7c] and won ($8.94) with a pair of Sevens
+Seat 5: Feryman78 (small blind) showed [8h 6h] and lost with a pair of Sixes
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972975171:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:42:35 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($14.16 in chips) 
+Seat 5: Feryman78 ($1.26 in chips) 
+Seat 6: homeroxx2018 ($16.67 in chips) 
+homeroxx2018: posts small blind $0.05
+CherryFullin: is sitting out 
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+Feryman78: folds 
+homeroxx2018: folds 
+BazKaLT: folds 
+Uncalled bet ($0.15) returned to I_Not_Alone
+I_Not_Alone collected $0.25 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone collected ($0.25)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Feryman78 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973004202:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:11 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 2: BazKaLT ($10 in chips) 
+Seat 3: I_Not_Alone ($11.37 in chips) 
+Seat 4: johhnn123 ($14.16 in chips) 
+Seat 5: Feryman78 ($1.26 in chips) 
+Seat 6: homeroxx2018 ($16.62 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: calls $0.10
+Feryman78: folds 
+homeroxx2018: raises $0.40 to $0.50
+BazKaLT: calls $0.45
+I_Not_Alone: folds 
+johhnn123: folds 
+*** FLOP *** [2h Qh 9h]
+BazKaLT: checks 
+homeroxx2018: checks 
+*** TURN *** [2h Qh 9h] [6d]
+BazKaLT: bets $0.76
+CherryFullin leaves the table
+homeroxx2018: folds 
+Uncalled bet ($0.76) returned to BazKaLT
+BazKaLT collected $1.15 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [2h Qh 9h 6d]
+Seat 2: BazKaLT (small blind) collected ($1.15)
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop
+Seat 5: Feryman78 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded on the Turn
+
+
+
+PokerStars Hand #222973029814:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:42 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 2: BazKaLT ($10.65 in chips) 
+Seat 3: I_Not_Alone ($11.27 in chips) 
+Seat 4: johhnn123 ($14.06 in chips) 
+Seat 5: Feryman78 ($1.26 in chips) 
+Seat 6: homeroxx2018 ($16.12 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Feryman78: raises $1.16 to $1.26 and is all-in
+homeroxx2018: folds 
+Einius19 joins the table at seat #1 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($1.16) returned to Feryman78
+Feryman78 collected $0.25 from pot
+Feryman78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Feryman78 collected ($0.25)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973041693:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:57 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($4 in chips) 
+Seat 2: BazKaLT ($10.65 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($13.96 in chips) 
+Seat 5: Feryman78 ($1.41 in chips) 
+Seat 6: homeroxx2018 ($16.12 in chips) 
+johhnn123: posts small blind $0.05
+Feryman78: posts big blind $0.10
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.20
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.25
+Feryman78: calls $0.20
+*** FLOP *** [3h 9s 8c]
+johhnn123: checks 
+Feryman78: bets $1.11 and is all-in
+homeroxx2018: folds 
+Einius19: folds 
+johhnn123: calls $1.11
+*** TURN *** [3h 9s 8c] [Qh]
+*** RIVER *** [3h 9s 8c Qh] [Td]
+*** SHOW DOWN ***
+johhnn123: shows [Jh Jd] (a straight, Eight to Queen)
+Feryman78: shows [6s 8d] (a pair of Eights)
+johhnn123 cashed out the hand for $2.59 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.42 | Rake $0.15 
+Board [3h 9s 8c Qh Td]
+Seat 1: Einius19 folded on the Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) showed [Jh Jd] and won ($3.27) with a straight, Eight to Queen (pot not awarded as player cashed out)
+Seat 5: Feryman78 (big blind) showed [6s 8d] and lost with a pair of Eights
+Seat 6: homeroxx2018 folded on the Flop
+
+
+
+PokerStars Hand #222973080028:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:44:44 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($3.70 in chips) 
+Seat 2: BazKaLT ($10.65 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($15.14 in chips) 
+Seat 6: homeroxx2018 ($15.82 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Feryman78 leaves the table
+homeroxx2018: folds 
+Uncalled bet ($0.05) returned to Einius19
+Einius19 collected $0.10 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Einius19 (big blind) collected ($0.10)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973088668:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:44:54 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($3.75 in chips) 
+Seat 2: BazKaLT ($10.65 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($15.14 in chips) 
+Seat 6: homeroxx2018 ($15.77 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+RomanVM94 joins the table at seat #5 
+johhnn123: raises $0.15 to $0.25
+homeroxx2018: raises $0.65 to $0.90
+Einius19: folds 
+BazKaLT: folds 
+johhnn123: folds 
+Uncalled bet ($0.65) returned to homeroxx2018
+homeroxx2018 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop
+Seat 6: homeroxx2018 (button) collected ($0.65)
+
+
+
+PokerStars Hand #222973108168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:45:18 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($3.70 in chips) 
+Seat 2: BazKaLT ($10.55 in chips) 
+Seat 3: I_Not_Alone ($11.22 in chips) 
+Seat 4: johhnn123 ($14.89 in chips) 
+Seat 6: homeroxx2018 ($16.17 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+RomanVM94: sits out 
+*** HOLE CARDS ***
+johhnn123: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: checks 
+*** FLOP *** [2c Qh Kc]
+I_Not_Alone: checks 
+Einius19: checks 
+*** TURN *** [2c Qh Kc] [6s]
+I_Not_Alone: bets $0.10
+Einius19: calls $0.10
+*** RIVER *** [2c Qh Kc 6s] [Jh]
+I_Not_Alone: bets $0.22
+Einius19: folds 
+Uncalled bet ($0.22) returned to I_Not_Alone
+I_Not_Alone collected $0.43 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c Qh Kc 6s Jh]
+Seat 1: Einius19 (button) folded on the River
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) collected ($0.43)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973127486:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:45:41 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($3.50 in chips) 
+Seat 2: BazKaLT ($10.50 in chips) 
+Seat 3: I_Not_Alone ($11.45 in chips) 
+Seat 4: johhnn123 ($14.89 in chips) 
+Seat 5: RomanVM94 ($10 in chips) 
+Seat 6: homeroxx2018 ($16.17 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: raises $0.10 to $0.20
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: calls $0.20
+I_Not_Alone: folds 
+johhnn123: folds 
+*** FLOP *** [8d Qs 6h]
+RomanVM94: checks 
+BazKaLT: bets $0.27
+RomanVM94: folds 
+Uncalled bet ($0.27) returned to BazKaLT
+BazKaLT collected $0.53 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8d Qs 6h]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) collected ($0.53)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: RomanVM94 folded on the Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973146147:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:03 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($3.50 in chips) 
+Seat 2: BazKaLT ($10.83 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: johhnn123 ($14.79 in chips) 
+Seat 5: RomanVM94 ($9.80 in chips) 
+Seat 6: homeroxx2018 ($16.17 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: raises $0.20 to $0.30
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: raises $1.90 to $2.20
+homeroxx2018: folds 
+Uncalled bet ($1.90) returned to RomanVM94
+RomanVM94 collected $0.65 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) collected ($0.65)
+Seat 6: homeroxx2018 folded before Flop
+
+
+
+PokerStars Hand #222973160045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:20 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($3.50 in chips) 
+Seat 2: BazKaLT ($10.83 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: johhnn123 ($14.74 in chips) 
+Seat 5: RomanVM94 ($10.15 in chips) 
+Seat 6: homeroxx2018 ($15.87 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: calls $0.05
+homeroxx2018: raises $0.40 to $0.50
+Einius19: calls $0.40
+RomanVM94: folds 
+*** FLOP *** [Jh 5d 3s]
+homeroxx2018: bets $0.53
+Einius19: folds 
+Uncalled bet ($0.53) returned to homeroxx2018
+homeroxx2018 collected $1.05 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jh 5d 3s]
+Seat 1: Einius19 folded on the Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) collected ($1.05)
+
+
+
+PokerStars Hand #222973181341:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:45 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($3 in chips) 
+Seat 2: BazKaLT ($10.83 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: johhnn123 ($14.74 in chips) 
+Seat 5: RomanVM94 ($10.05 in chips) 
+Seat 6: homeroxx2018 ($16.42 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.20 to $0.30
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: calls $0.20
+*** FLOP *** [Kh 5d 9h]
+Einius19: checks 
+johhnn123: checks 
+*** TURN *** [Kh 5d 9h] [3s]
+Einius19: checks 
+johhnn123: bets $0.31
+Einius19: calls $0.31
+*** RIVER *** [Kh 5d 9h 3s] [6d]
+Einius19: bets $1.21
+johhnn123: folds 
+Uncalled bet ($1.21) returned to Einius19
+Einius19 collected $1.21 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [Kh 5d 9h 3s 6d]
+Seat 1: Einius19 (big blind) collected ($1.21)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded on the River
+Seat 5: RomanVM94 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973218185:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:47:30 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($3.60 in chips) 
+Seat 2: BazKaLT ($10.83 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: johhnn123 ($14.13 in chips) 
+Seat 5: RomanVM94 ($10.05 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: calls $0.20
+BazKaLT: calls $0.15
+*** FLOP *** [2s 4c 3s]
+Einius19: checks 
+BazKaLT: bets $0.48
+johhnn123: folds 
+Einius19: calls $0.48
+*** TURN *** [2s 4c 3s] [9c]
+Einius19: checks 
+BazKaLT: bets $1.08
+Einius19: folds 
+Uncalled bet ($1.08) returned to BazKaLT
+BazKaLT collected $1.63 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.08 
+Board [2s 4c 3s 9c]
+Seat 1: Einius19 (small blind) folded on the Turn
+Seat 2: BazKaLT (big blind) collected ($1.63)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded on the Flop
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973245707:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:48:03 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($2.87 in chips) 
+Seat 2: BazKaLT ($11.73 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: johhnn123 ($13.88 in chips) 
+Seat 5: RomanVM94 ($10.05 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: checks 
+*** FLOP *** [Ah Jd 7c]
+I_Not_Alone: checks 
+RomanVM94: bets $0.40
+I_Not_Alone: folds 
+Uncalled bet ($0.40) returned to RomanVM94
+RomanVM94 collected $0.24 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah Jd 7c]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded on the Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 collected ($0.24)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973267146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:48:28 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($2.87 in chips) 
+Seat 2: BazKaLT ($11.68 in chips) 
+Seat 3: I_Not_Alone ($11.30 in chips) 
+Seat 4: johhnn123 ($13.88 in chips) 
+Seat 5: RomanVM94 ($10.19 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.40 to $0.50
+I_Not_Alone: folds 
+johhnn123: calls $0.40
+RomanVM94: folds 
+Einius19: calls $0.40
+*** FLOP *** [4s 9d 5c]
+johhnn123: checks 
+Einius19: checks 
+BazKaLT: checks 
+*** TURN *** [4s 9d 5c] [2s]
+johhnn123: bets $0.90
+Einius19: calls $0.90
+BazKaLT: raises $2.40 to $3.30
+johhnn123: folds 
+Einius19: calls $1.47 and is all-in
+Uncalled bet ($0.93) returned to BazKaLT
+*** RIVER *** [4s 9d 5c 2s] [7c]
+*** SHOW DOWN ***
+Einius19: shows [Qh 4h] (a pair of Fours)
+BazKaLT: shows [9s 9c] (three of a kind, Nines)
+BazKaLT collected $6.96 from pot
+*** SUMMARY ***
+Total pot $7.29 | Rake $0.33 
+Board [4s 9d 5c 2s 7c]
+Seat 1: Einius19 showed [Qh 4h] and lost with a pair of Fours
+Seat 2: BazKaLT (button) showed [9s 9c] and won ($6.96) with three of a kind, Nines
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded on the Turn
+Seat 5: RomanVM94 folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973307823:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:49:16 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 2: BazKaLT ($15.77 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 4: johhnn123 ($12.48 in chips) 
+Seat 5: RomanVM94 ($10.09 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: raises $0.20 to $0.30
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+Uncalled bet ($0.20) returned to homeroxx2018
+homeroxx2018 collected $0.25 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) folded before Flop
+Seat 6: homeroxx2018 collected ($0.25)
+
+
+
+PokerStars Hand #222973318352:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:49:28 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($4 in chips) 
+Seat 2: BazKaLT ($15.77 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 4: johhnn123 ($12.43 in chips) 
+Seat 5: RomanVM94 ($9.99 in chips) 
+Seat 6: homeroxx2018 ($16.52 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: checks 
+*** FLOP *** [8d Ks Jc]
+homeroxx2018: checks 
+Einius19: bets $0.10
+homeroxx2018: folds 
+Uncalled bet ($0.10) returned to Einius19
+Einius19 collected $0.24 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d Ks Jc]
+Seat 1: Einius19 collected ($0.24)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222973339121:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:49:53 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.14 in chips) 
+Seat 2: BazKaLT ($15.77 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 4: johhnn123 ($12.43 in chips) 
+Seat 5: RomanVM94 ($9.94 in chips) 
+Seat 6: homeroxx2018 ($16.42 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: folds 
+Uncalled bet ($0.15) returned to johhnn123
+johhnn123 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (big blind) folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 collected ($0.25)
+Seat 5: RomanVM94 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973351731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:50:08 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($4.04 in chips) 
+Seat 2: BazKaLT ($15.77 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 4: johhnn123 ($12.58 in chips) 
+Seat 5: RomanVM94 ($9.94 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: calls $0.10
+RomanVM94: raises $0.60 to $0.70
+homeroxx2018: folds 
+Einius19: calls $0.65
+BazKaLT: folds 
+johhnn123: calls $0.60
+*** FLOP *** [8c Kd 5h]
+Einius19: bets $1.05
+johhnn123: folds 
+RomanVM94: folds 
+Uncalled bet ($1.05) returned to Einius19
+Einius19 collected $2.10 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.10 
+Board [8c Kd 5h]
+Seat 1: Einius19 (small blind) collected ($2.10)
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded on the Flop
+Seat 5: RomanVM94 folded on the Flop
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973370803:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:50:31 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($5.44 in chips) 
+Seat 2: BazKaLT ($15.67 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 4: johhnn123 ($11.88 in chips) 
+Seat 5: RomanVM94 ($9.24 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.50 to $0.60
+I_Not_Alone: folds 
+RomanVM94: folds 
+Einius19: folds 
+Uncalled bet ($0.50) returned to BazKaLT
+BazKaLT collected $0.40 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: Einius19 (button) folded before Flop
+Seat 2: BazKaLT (small blind) collected ($0.40)
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973385897:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:50:49 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($5.34 in chips) 
+Seat 2: BazKaLT ($15.97 in chips) 
+Seat 3: I_Not_Alone ($11.15 in chips) 
+Seat 4: johhnn123 ($11.88 in chips) 
+Seat 5: RomanVM94 ($9.14 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: raises $0.50 to $0.60
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.50) returned to RomanVM94
+RomanVM94 collected $0.25 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: RomanVM94 collected ($0.25)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973395711:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:51:01 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($5.34 in chips) 
+Seat 2: BazKaLT ($15.97 in chips) 
+Seat 3: I_Not_Alone ($11.10 in chips) 
+Seat 4: johhnn123 ($11.78 in chips) 
+Seat 5: RomanVM94 ($9.29 in chips) 
+Seat 6: homeroxx2018 ($16.37 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.30
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.25
+RomanVM94: calls $0.20
+*** FLOP *** [Kh Ac 6h]
+johhnn123: checks 
+RomanVM94: checks 
+homeroxx2018: checks 
+Einius19: bets $0.57
+johhnn123: folds 
+RomanVM94: calls $0.57
+homeroxx2018: calls $0.57
+*** TURN *** [Kh Ac 6h] [3c]
+RomanVM94: checks 
+homeroxx2018: checks 
+Einius19: checks 
+*** RIVER *** [Kh Ac 6h 3c] [8d]
+RomanVM94: checks 
+homeroxx2018: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+RomanVM94: shows [Td Qs] (high card Ace)
+homeroxx2018: shows [2s As] (a pair of Aces)
+Einius19: mucks hand 
+homeroxx2018 collected $2.78 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.13 
+Board [Kh Ac 6h 3c 8d]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded on the Flop
+Seat 5: RomanVM94 (big blind) showed [Td Qs] and lost with high card Ace
+Seat 6: homeroxx2018 showed [2s As] and won ($2.78) with a pair of Aces
+
+
+
+PokerStars Hand #222973431456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:51:44 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($4.47 in chips) 
+Seat 2: BazKaLT ($15.97 in chips) 
+Seat 3: I_Not_Alone ($11.10 in chips) 
+Seat 4: johhnn123 ($11.48 in chips) 
+Seat 5: RomanVM94 ($8.42 in chips) 
+Seat 6: homeroxx2018 ($18.28 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: calls $0.25
+RomanVM94: folds 
+homeroxx2018: folds 
+*** FLOP *** [7s 6s 2s]
+BazKaLT: checks 
+johhnn123: bets $0.31
+BazKaLT: folds 
+Uncalled bet ($0.31) returned to johhnn123
+johhnn123 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7s 6s 2s]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded on the Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) collected ($0.62)
+Seat 5: RomanVM94 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973453973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:52:10 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.47 in chips) 
+Seat 2: BazKaLT ($15.72 in chips) 
+Seat 3: I_Not_Alone ($11.10 in chips) 
+Seat 4: johhnn123 ($11.85 in chips) 
+Seat 5: RomanVM94 ($8.37 in chips) 
+Seat 6: homeroxx2018 ($18.18 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: calls $0.10
+I_Not_Alone: raises $0.20 to $0.30
+johhnn123: calls $0.30
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: calls $0.20
+BazKaLT: folds 
+*** FLOP *** [Qs 2h 5h]
+Einius19: bets $0.50
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.50) returned to Einius19
+Einius19 collected $1 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Qs 2h 5h]
+Seat 1: Einius19 (big blind) collected ($1)
+Seat 2: BazKaLT folded before Flop
+Seat 3: I_Not_Alone folded on the Flop
+Seat 4: johhnn123 folded on the Flop
+Seat 5: RomanVM94 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973475849:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:52:36 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($5.17 in chips) 
+Seat 2: BazKaLT ($15.62 in chips) 
+Seat 3: I_Not_Alone ($10.80 in chips) 
+Seat 4: johhnn123 ($11.55 in chips) 
+Seat 5: RomanVM94 ($8.37 in chips) 
+Seat 6: homeroxx2018 ($18.13 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: calls $0.25
+RomanVM94: calls $0.25
+homeroxx2018: folds 
+Einius19: calls $0.20
+BazKaLT: folds 
+*** FLOP *** [2c 5d 3s]
+Einius19: bets $0.52
+I_Not_Alone: raises $0.98 to $1.50
+johhnn123: calls $1.50
+RomanVM94: folds 
+Einius19: calls $0.98
+*** TURN *** [2c 5d 3s] [4d]
+Einius19: bets $3.42 and is all-in
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($3.42) returned to Einius19
+Einius19 collected $5.35 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [2c 5d 3s 4d]
+Seat 1: Einius19 (small blind) collected ($5.35)
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded on the Turn
+Seat 4: johhnn123 folded on the Turn
+Seat 5: RomanVM94 folded on the Flop
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973512353:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:53:20 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($8.77 in chips) 
+Seat 2: BazKaLT ($15.52 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.80 in chips) 
+Seat 5: RomanVM94 ($8.12 in chips) 
+Seat 6: homeroxx2018 ($18.13 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: calls $0.10
+RomanVM94: raises $0.40 to $0.50
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.40
+*** FLOP *** [9s Ks 8h]
+johhnn123: checks 
+RomanVM94: bets $0.60
+johhnn123: folds 
+Uncalled bet ($0.60) returned to RomanVM94
+RomanVM94 collected $1.10 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [9s Ks 8h]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded on the Flop
+Seat 5: RomanVM94 collected ($1.10)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973532850:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:53:45 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($8.77 in chips) 
+Seat 2: BazKaLT ($15.47 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.50 in chips) 
+Seat 5: RomanVM94 ($8.72 in chips) 
+Seat 6: homeroxx2018 ($18.13 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.20
+*** FLOP *** [6c Js 9d]
+johhnn123: bets $0.31
+homeroxx2018: calls $0.31
+*** TURN *** [6c Js 9d] [8c]
+johhnn123: bets $0.61
+homeroxx2018: raises $16.91 to $17.52 and is all-in
+johhnn123: folds 
+Uncalled bet ($16.91) returned to homeroxx2018
+homeroxx2018 collected $2.38 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.11 
+Board [6c Js 9d 8c]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded on the Turn
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 collected ($2.38)
+
+
+
+PokerStars Hand #222973567916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:54:27 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($8.77 in chips) 
+Seat 2: BazKaLT ($15.47 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($8.28 in chips) 
+Seat 5: RomanVM94 ($8.72 in chips) 
+Seat 6: homeroxx2018 ($19.29 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+RomanVM94: folds 
+Uncalled bet ($0.15) returned to johhnn123
+johhnn123 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) collected ($0.20)
+Seat 5: RomanVM94 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973585776:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:54:49 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($8.77 in chips) 
+Seat 2: BazKaLT ($15.47 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($10 in chips) 
+Seat 5: RomanVM94 ($8.62 in chips) 
+Seat 6: homeroxx2018 ($19.29 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: raises $0.15 to $0.40
+homeroxx2018: folds 
+BazKaLT: calls $0.15
+*** FLOP *** [Kc Tc Ts]
+RomanVM94: bets $0.43
+BazKaLT: folds 
+Uncalled bet ($0.43) returned to RomanVM94
+RomanVM94 collected $0.86 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Kc Tc Ts]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded on the Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) collected ($0.86)
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973599917:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:55:06 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($8.77 in chips) 
+Seat 2: BazKaLT ($15.07 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($10 in chips) 
+Seat 5: RomanVM94 ($9.08 in chips) 
+Seat 6: homeroxx2018 ($19.19 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: folds 
+Uncalled bet ($0.15) returned to I_Not_Alone
+I_Not_Alone collected $0.25 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (big blind) folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone collected ($0.25)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973611128:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:55:24 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($8.67 in chips) 
+Seat 2: BazKaLT ($15.07 in chips) 
+Seat 3: I_Not_Alone ($10.15 in chips) 
+Seat 4: johhnn123 ($10 in chips) 
+Seat 5: RomanVM94 ($9.08 in chips) 
+Seat 6: homeroxx2018 ($19.14 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.05
+BazKaLT: checks 
+*** FLOP *** [Qd 6c Kh]
+Einius19: checks 
+BazKaLT: bets $0.15
+RomanVM94: folds 
+Einius19: folds 
+Uncalled bet ($0.15) returned to BazKaLT
+BazKaLT collected $0.29 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Qd 6c Kh]
+Seat 1: Einius19 (small blind) folded on the Flop
+Seat 2: BazKaLT (big blind) collected ($0.29)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded on the Flop
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973622656:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:55:44 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($8.57 in chips) 
+Seat 2: BazKaLT ($15.26 in chips) 
+Seat 3: I_Not_Alone ($10.15 in chips) 
+Seat 4: johhnn123 ($10 in chips) 
+Seat 5: RomanVM94 ($8.98 in chips) 
+Seat 6: homeroxx2018 ($19.14 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: folds 
+BazKaLT: raises $0.70 to $1
+I_Not_Alone: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.70) returned to BazKaLT
+BazKaLT collected $0.70 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) collected ($0.70)
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop
+
+
+
+PokerStars Hand #222973633218:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:03 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($8.57 in chips) 
+Seat 2: BazKaLT ($15.66 in chips) 
+Seat 3: I_Not_Alone ($10.05 in chips) 
+Seat 4: johhnn123 ($10 in chips) 
+Seat 5: RomanVM94 ($8.98 in chips) 
+Seat 6: homeroxx2018 ($18.84 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.40 to $0.50
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+Einius19: calls $0.40
+*** FLOP *** [3s Js 2s]
+Einius19: checks 
+BazKaLT: bets $0.60
+Einius19: folds 
+Uncalled bet ($0.60) returned to BazKaLT
+BazKaLT collected $1.19 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [3s Js 2s]
+Seat 1: Einius19 folded on the Flop
+Seat 2: BazKaLT (button) collected ($1.19)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: RomanVM94 folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973647461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:28 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($8.07 in chips) 
+Seat 2: BazKaLT ($16.35 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.90 in chips) 
+Seat 5: RomanVM94 ($8.88 in chips) 
+Seat 6: homeroxx2018 ($18.84 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: raises $0.20 to $0.30
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+Uncalled bet ($0.20) returned to Einius19
+Einius19 collected $0.25 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 collected ($0.25)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973656443:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:44 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($8.22 in chips) 
+Seat 2: BazKaLT ($16.35 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.85 in chips) 
+Seat 5: RomanVM94 ($8.78 in chips) 
+Seat 6: homeroxx2018 ($18.84 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: calls $0.05
+homeroxx2018: checks 
+*** FLOP *** [6c 8s Kh]
+RomanVM94: checks 
+homeroxx2018: checks 
+Einius19: bets $0.29
+RomanVM94: folds 
+homeroxx2018: calls $0.29
+*** TURN *** [6c 8s Kh] [6h]
+homeroxx2018: checks 
+Einius19: checks 
+*** RIVER *** [6c 8s Kh 6h] [7s]
+homeroxx2018: bets $0.63
+Einius19: calls $0.63
+*** SHOW DOWN ***
+homeroxx2018: shows [Ks 2c] (two pair, Kings and Sixes)
+Einius19: shows [Kd Qc] (two pair, Kings and Sixes - Queen kicker)
+Einius19 collected $2.04 from pot
+*** SUMMARY ***
+Total pot $2.14 | Rake $0.10 
+Board [6c 8s Kh 6h 7s]
+Seat 1: Einius19 showed [Kd Qc] and won ($2.04) with two pair, Kings and Sixes
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) folded on the Flop
+Seat 6: homeroxx2018 (big blind) showed [Ks 2c] and lost with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #222973683797:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:31 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($9.24 in chips) 
+Seat 2: BazKaLT ($16.35 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.85 in chips) 
+Seat 5: RomanVM94 ($8.68 in chips) 
+Seat 6: homeroxx2018 ($17.82 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: calls $0.15
+*** FLOP *** [4s 9s 6s]
+Einius19: bets $0.26
+BazKaLT: folds 
+Uncalled bet ($0.26) returned to Einius19
+Einius19 collected $0.53 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4s 9s 6s]
+Seat 1: Einius19 (big blind) collected ($0.53)
+Seat 2: BazKaLT folded on the Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973694638:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:50 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($9.52 in chips) 
+Seat 2: BazKaLT ($16.10 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.85 in chips) 
+Seat 5: RomanVM94 ($8.68 in chips) 
+Seat 6: homeroxx2018 ($17.77 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: calls $0.05
+BazKaLT: raises $0.30 to $0.40
+Einius19: folds 
+Uncalled bet ($0.30) returned to BazKaLT
+BazKaLT collected $0.20 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) collected ($0.20)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973703397:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:05 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($9.42 in chips) 
+Seat 2: BazKaLT ($16.20 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($9.85 in chips) 
+Seat 5: RomanVM94 ($8.68 in chips) 
+Seat 6: homeroxx2018 ($17.77 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: checks 
+*** FLOP *** [5c 3c Jc]
+I_Not_Alone: checks 
+Einius19: checks 
+*** TURN *** [5c 3c Jc] [6s]
+I_Not_Alone: checks 
+Einius19: checks 
+*** RIVER *** [5c 3c Jc 6s] [Ah]
+I_Not_Alone: bets $0.30
+Einius19: folds 
+Uncalled bet ($0.30) returned to I_Not_Alone
+I_Not_Alone collected $0.24 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5c 3c Jc 6s Ah]
+Seat 1: Einius19 (button) folded on the River
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) collected ($0.24)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973718309:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:31 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($9.32 in chips) 
+Seat 2: BazKaLT ($16.15 in chips) 
+Seat 3: I_Not_Alone ($10.14 in chips) 
+Seat 4: johhnn123 ($9.85 in chips) 
+Seat 5: RomanVM94 ($8.68 in chips) 
+Seat 6: homeroxx2018 ($17.77 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: checks 
+*** FLOP *** [Ah 3s 3d]
+johhnn123: bets $0.17
+RomanVM94: folds 
+Einius19: raises $0.34 to $0.51
+johhnn123: raises $0.59 to $1.10
+Einius19: calls $0.59
+*** TURN *** [Ah 3s 3d] [Jd]
+johhnn123: bets $2.10
+Einius19: calls $2.10
+*** RIVER *** [Ah 3s 3d Jd] [2d]
+johhnn123: bets $4.84
+Einius19: folds 
+Uncalled bet ($4.84) returned to johhnn123
+johhnn123 collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [Ah 3s 3d Jd 2d]
+Seat 1: Einius19 folded on the River
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) collected ($6.45)
+Seat 5: RomanVM94 folded on the Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973748963:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:24 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($6.02 in chips) 
+Seat 2: BazKaLT ($16.15 in chips) 
+Seat 3: I_Not_Alone ($10.09 in chips) 
+Seat 4: johhnn123 ($13 in chips) 
+Seat 5: RomanVM94 ($8.58 in chips) 
+Seat 6: homeroxx2018 ($17.77 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: raises $0.10 to $0.20
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.15
+RomanVM94: folds 
+*** FLOP *** [7d 3c 4s]
+johhnn123: checks 
+Einius19: bets $0.24
+johhnn123: calls $0.24
+*** TURN *** [7d 3c 4s] [9h]
+johhnn123: checks 
+Einius19: checks 
+*** RIVER *** [7d 3c 4s 9h] [3h]
+johhnn123: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+johhnn123: shows [3d 5s] (three of a kind, Threes)
+Einius19: mucks hand 
+johhnn123 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [7d 3c 4s 9h 3h]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) showed [3d 5s] and won ($0.94) with three of a kind, Threes
+Seat 5: RomanVM94 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973772339:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:03 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($5.58 in chips) 
+Seat 2: BazKaLT ($16.15 in chips) 
+Seat 3: I_Not_Alone ($10.09 in chips) 
+Seat 4: johhnn123 ($13.50 in chips) 
+Seat 5: RomanVM94 ($8.48 in chips) 
+Seat 6: homeroxx2018 ($17.77 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19 has timed out
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+RomanVM94: calls $0.20
+homeroxx2018: calls $0.15
+*** FLOP *** [Js 4d 6d]
+RomanVM94: checks 
+homeroxx2018: checks 
+johhnn123: checks 
+*** TURN *** [Js 4d 6d] [Kc]
+RomanVM94: checks 
+homeroxx2018: checks 
+johhnn123: bets $1.10
+RomanVM94: folds 
+homeroxx2018: calls $1.10
+*** RIVER *** [Js 4d 6d Kc] [Jh]
+homeroxx2018: checks 
+johhnn123: bets $3.30
+homeroxx2018: calls $3.30
+*** SHOW DOWN ***
+johhnn123: shows [Jc Kd] (a full house, Jacks full of Kings)
+homeroxx2018: mucks hand 
+johhnn123 collected $9.12 from pot
+*** SUMMARY ***
+Total pot $9.55 | Rake $0.43 
+Board [Js 4d 6d Kc Jh]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) showed [Jc Kd] and won ($9.12) with a full house, Jacks full of Kings
+Seat 5: RomanVM94 (small blind) folded on the Turn
+Seat 6: homeroxx2018 (big blind) mucked
+
+
+
+PokerStars Hand #222973814612:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:07 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($5.58 in chips) 
+Seat 2: BazKaLT ($16.15 in chips) 
+Seat 3: I_Not_Alone ($10.09 in chips) 
+Seat 4: johhnn123 ($17.97 in chips) 
+Seat 5: RomanVM94 ($8.23 in chips) 
+Seat 6: homeroxx2018 ($13.12 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: calls $0.25
+RomanVM94: raises $0.75 to $1
+homeroxx2018: folds 
+Einius19: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.75) returned to RomanVM94
+RomanVM94 collected $0.90 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 1: Einius19 (big blind) folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop
+Seat 4: johhnn123 folded before Flop
+Seat 5: RomanVM94 (button) collected ($0.90)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973830000:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:27 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($5.48 in chips) 
+Seat 2: BazKaLT ($16.15 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.72 in chips) 
+Seat 5: RomanVM94 ($8.88 in chips) 
+Seat 6: homeroxx2018 ($13.07 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+RomanVM94: calls $0.25
+homeroxx2018: folds 
+Einius19: calls $0.20
+BazKaLT: calls $0.15
+*** FLOP *** [3d 2c 9s]
+Einius19: bets $0.20
+BazKaLT: folds 
+I_Not_Alone: folds 
+RomanVM94: raises $0.80 to $1
+Einius19: calls $0.80
+*** TURN *** [3d 2c 9s] [Jc]
+Einius19: checks 
+RomanVM94: bets $0.60
+Einius19: folds 
+Uncalled bet ($0.60) returned to RomanVM94
+RomanVM94 collected $2.86 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [3d 2c 9s Jc]
+Seat 1: Einius19 (small blind) folded on the Turn
+Seat 2: BazKaLT (big blind) folded on the Flop
+Seat 3: I_Not_Alone folded on the Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 collected ($2.86)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973864569:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:02:10 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($4.23 in chips) 
+Seat 2: BazKaLT ($15.90 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.72 in chips) 
+Seat 5: RomanVM94 ($10.49 in chips) 
+Seat 6: homeroxx2018 ($13.07 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: calls $0.10
+homeroxx2018: raises $0.40 to $0.50
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+RomanVM94: folds 
+Uncalled bet ($0.40) returned to homeroxx2018
+homeroxx2018 collected $0.35 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop
+Seat 6: homeroxx2018 collected ($0.35)
+
+
+
+PokerStars Hand #222973880063:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:02:29 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($4.23 in chips) 
+Seat 2: BazKaLT ($15.85 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.72 in chips) 
+Seat 5: RomanVM94 ($10.39 in chips) 
+Seat 6: homeroxx2018 ($13.32 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: raises $0.50 to $0.60
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: calls $0.60
+I_Not_Alone: folds 
+johhnn123: folds 
+*** FLOP *** [8s 5s 4d]
+RomanVM94: checks 
+BazKaLT: checks 
+*** TURN *** [8s 5s 4d] [Ts]
+RomanVM94: checks 
+BazKaLT: bets $0.85
+RomanVM94: folds 
+Uncalled bet ($0.85) returned to BazKaLT
+BazKaLT collected $1.29 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [8s 5s 4d Ts]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) collected ($1.29)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: RomanVM94 folded on the Turn
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973908494:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:04 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($4.23 in chips) 
+Seat 2: BazKaLT ($16.54 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.62 in chips) 
+Seat 5: RomanVM94 ($9.79 in chips) 
+Seat 6: homeroxx2018 ($13.32 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: raises $0.10 to $0.20
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: calls $0.10
+*** FLOP *** [7h 5s 4d]
+RomanVM94: checks 
+Einius19: checks 
+*** TURN *** [7h 5s 4d] [3h]
+RomanVM94: bets $0.10
+Einius19: calls $0.10
+*** RIVER *** [7h 5s 4d 3h] [8s]
+RomanVM94: bets $0.30
+Einius19: raises $0.90 to $1.20
+RomanVM94: folds 
+Uncalled bet ($0.90) returned to Einius19
+Einius19 collected $1.19 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [7h 5s 4d 3h 8s]
+Seat 1: Einius19 collected ($1.19)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) folded on the River
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973935223:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:35 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($4.82 in chips) 
+Seat 2: BazKaLT ($16.54 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.57 in chips) 
+Seat 5: RomanVM94 ($9.19 in chips) 
+Seat 6: homeroxx2018 ($13.32 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: raises $0.40 to $0.50
+Einius19: folds 
+Uncalled bet ($0.40) returned to homeroxx2018
+homeroxx2018 collected $0.25 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) collected ($0.25)
+
+
+
+PokerStars Hand #222973960880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:54 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.72 in chips) 
+Seat 2: BazKaLT ($16.54 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.57 in chips) 
+Seat 5: RomanVM94 ($9.14 in chips) 
+Seat 6: homeroxx2018 ($13.47 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+RomanVM94: calls $0.25
+homeroxx2018: folds 
+Einius19: calls $0.15
+*** FLOP *** [4s Ac 5d]
+Einius19: bets $0.76
+johhnn123: folds 
+RomanVM94: folds 
+Uncalled bet ($0.76) returned to Einius19
+Einius19 collected $0.76 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [4s Ac 5d]
+Seat 1: Einius19 (big blind) collected ($0.76)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded on the Flop
+Seat 5: RomanVM94 (button) folded on the Flop
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973991494:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:19 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($5.23 in chips) 
+Seat 2: BazKaLT ($16.54 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.32 in chips) 
+Seat 5: RomanVM94 ($8.89 in chips) 
+Seat 6: homeroxx2018 ($13.42 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+Uncalled bet ($0.15) returned to I_Not_Alone
+I_Not_Alone collected $0.25 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone collected ($0.25)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974006312:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:36 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($5.18 in chips) 
+Seat 2: BazKaLT ($16.44 in chips) 
+Seat 3: I_Not_Alone ($10.15 in chips) 
+Seat 4: johhnn123 ($17.32 in chips) 
+Seat 5: RomanVM94 ($8.89 in chips) 
+Seat 6: homeroxx2018 ($13.42 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: calls $0.10
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: checks 
+*** FLOP *** [9d Ad Kh]
+I_Not_Alone: checks 
+johhnn123: checks 
+RomanVM94: checks 
+Einius19: checks 
+*** TURN *** [9d Ad Kh] [Jd]
+I_Not_Alone: checks 
+johhnn123: checks 
+RomanVM94: bets $0.50
+Einius19: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.50) returned to RomanVM94
+RomanVM94 collected $0.43 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9d Ad Kh Jd]
+Seat 1: Einius19 (button) folded on the Turn
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded on the Turn
+Seat 4: johhnn123 folded on the Turn
+Seat 5: RomanVM94 collected ($0.43)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974038481:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:14 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($5.08 in chips) 
+Seat 2: BazKaLT ($16.39 in chips) 
+Seat 3: I_Not_Alone ($10.05 in chips) 
+Seat 4: johhnn123 ($17.22 in chips) 
+Seat 5: RomanVM94 ($9.22 in chips) 
+Seat 6: homeroxx2018 ($13.42 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: folds 
+BazKaLT: calls $0.30
+I_Not_Alone: folds 
+johhnn123: folds 
+*** FLOP *** [3d Jc Th]
+homeroxx2018: bets $0.22
+BazKaLT: raises $0.58 to $0.80
+homeroxx2018: calls $0.58
+*** TURN *** [3d Jc Th] [3h]
+homeroxx2018: checks 
+BazKaLT: bets $1.48
+homeroxx2018: folds 
+Uncalled bet ($1.48) returned to BazKaLT
+BazKaLT collected $2.24 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [3d Jc Th 3h]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) collected ($2.24)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded on the Turn
+
+
+
+PokerStars Hand #222974062494:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:43 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($5.08 in chips) 
+Seat 2: BazKaLT ($17.53 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.12 in chips) 
+Seat 5: RomanVM94 ($9.22 in chips) 
+Seat 6: homeroxx2018 ($12.32 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.05) returned to RomanVM94
+RomanVM94 collected $0.10 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) collected ($0.10)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974070297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:52 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($5.08 in chips) 
+Seat 2: BazKaLT ($17.53 in chips) 
+Seat 3: I_Not_Alone ($10 in chips) 
+Seat 4: johhnn123 ($17.07 in chips) 
+Seat 5: RomanVM94 ($9.27 in chips) 
+Seat 6: homeroxx2018 ($12.32 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: raises $0.20 to $0.30
+johhnn123: folds 
+RomanVM94: calls $0.25
+homeroxx2018: folds 
+Einius19: calls $0.20
+*** FLOP *** [Tc Qd Ts]
+RomanVM94: checks 
+Einius19: checks 
+I_Not_Alone: bets $0.30
+RomanVM94: folds 
+Einius19: folds 
+Uncalled bet ($0.30) returned to I_Not_Alone
+I_Not_Alone collected $0.96 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Tc Qd Ts]
+Seat 1: Einius19 folded on the Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone collected ($0.96)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) folded on the Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974092553:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:19 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.78 in chips) 
+Seat 2: BazKaLT ($17.53 in chips) 
+Seat 3: I_Not_Alone ($10.66 in chips) 
+Seat 4: johhnn123 ($17.07 in chips) 
+Seat 5: RomanVM94 ($8.97 in chips) 
+Seat 6: homeroxx2018 ($12.22 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.05) returned to Einius19
+Einius19 collected $0.10 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Einius19 (big blind) collected ($0.10)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974100488:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:29 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($4.83 in chips) 
+Seat 2: BazKaLT ($17.53 in chips) 
+Seat 3: I_Not_Alone ($10.66 in chips) 
+Seat 4: johhnn123 ($17.07 in chips) 
+Seat 5: RomanVM94 ($8.97 in chips) 
+Seat 6: homeroxx2018 ($12.17 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: raises $0.20 to $0.30
+RomanVM94: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+Uncalled bet ($0.20) returned to johhnn123
+johhnn123 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 collected ($0.25)
+Seat 5: RomanVM94 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974112006:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:42 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($4.78 in chips) 
+Seat 2: BazKaLT ($17.43 in chips) 
+Seat 3: I_Not_Alone ($10.66 in chips) 
+Seat 4: johhnn123 ($17.22 in chips) 
+Seat 5: RomanVM94 ($8.97 in chips) 
+Seat 6: homeroxx2018 ($12.17 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: raises $0.30 to $0.40
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: calls $0.30
+*** FLOP *** [Kh 3s 2d]
+I_Not_Alone: checks 
+RomanVM94: bets $0.60
+I_Not_Alone: folds 
+Uncalled bet ($0.60) returned to RomanVM94
+RomanVM94 collected $0.81 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Kh 3s 2d]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded on the Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 collected ($0.81)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974130718:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:05 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($4.78 in chips) 
+Seat 2: BazKaLT ($17.38 in chips) 
+Seat 3: I_Not_Alone ($10.26 in chips) 
+Seat 4: johhnn123 ($17.22 in chips) 
+Seat 5: RomanVM94 ($9.38 in chips) 
+Seat 6: homeroxx2018 ($12.17 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: calls $0.10
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: checks 
+*** FLOP *** [3c Qs As]
+johhnn123: checks 
+RomanVM94: bets $0.50
+Einius19: calls $0.50
+johhnn123: folds 
+*** TURN *** [3c Qs As] [Kc]
+RomanVM94: bets $0.90
+Einius19: calls $0.90
+*** RIVER *** [3c Qs As Kc] [2h]
+RomanVM94: bets $1
+Einius19: calls $1
+*** SHOW DOWN ***
+RomanVM94: shows [9c Qc] (a pair of Queens)
+Einius19: shows [Jc Qh] (a pair of Queens - Ace+King+Jack kicker)
+Einius19 collected $4.92 from pot
+*** SUMMARY ***
+Total pot $5.15 | Rake $0.23 
+Board [3c Qs As Kc 2h]
+Seat 1: Einius19 showed [Jc Qh] and won ($4.92) with a pair of Queens
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded on the Flop
+Seat 5: RomanVM94 showed [9c Qc] and lost with a pair of Queens
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974154551:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:34 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($7.20 in chips) 
+Seat 2: BazKaLT ($17.38 in chips) 
+Seat 3: I_Not_Alone ($10.21 in chips) 
+Seat 4: johhnn123 ($17.12 in chips) 
+Seat 5: RomanVM94 ($6.88 in chips) 
+Seat 6: homeroxx2018 ($12.17 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: raises $0.10 to $0.20
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: folds 
+Uncalled bet ($0.10) returned to Einius19
+Einius19 collected $0.25 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 collected ($0.25)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974161302:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:42 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($7.35 in chips) 
+Seat 2: BazKaLT ($17.38 in chips) 
+Seat 3: I_Not_Alone ($10.21 in chips) 
+Seat 4: johhnn123 ($17.07 in chips) 
+Seat 5: RomanVM94 ($6.78 in chips) 
+Seat 6: homeroxx2018 ($12.17 in chips) 
+RomanVM94: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: raises $0.30 to $0.40
+homeroxx2018: folds 
+Einius19: calls $0.30
+*** FLOP *** [3d 6d 3h]
+RomanVM94: bets $1
+Einius19: folds 
+Uncalled bet ($1) returned to RomanVM94
+RomanVM94 collected $0.86 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [3d 6d 3h]
+Seat 1: Einius19 folded on the Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: RomanVM94 (small blind) collected ($0.86)
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974185822:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:11 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($6.95 in chips) 
+Seat 2: BazKaLT ($17.38 in chips) 
+Seat 3: I_Not_Alone ($10.21 in chips) 
+Seat 4: johhnn123 ($17.07 in chips) 
+Seat 5: RomanVM94 ($7.24 in chips) 
+Seat 6: homeroxx2018 ($12.07 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+RomanVM94: raises $0.45 to $0.70
+homeroxx2018: folds 
+Einius19: folds 
+johhnn123: folds 
+Uncalled bet ($0.45) returned to RomanVM94
+RomanVM94 collected $0.65 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Einius19 (big blind) folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop
+Seat 5: RomanVM94 (button) collected ($0.65)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974196553:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:24 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($6.85 in chips) 
+Seat 2: BazKaLT ($17.38 in chips) 
+Seat 3: I_Not_Alone ($10.21 in chips) 
+Seat 4: johhnn123 ($16.82 in chips) 
+Seat 5: RomanVM94 ($7.64 in chips) 
+Seat 6: homeroxx2018 ($12.02 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+RomanVM94: raises $0.30 to $0.40
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+Uncalled bet ($0.30) returned to RomanVM94
+RomanVM94 collected $0.25 from pot
+RomanVM94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 collected ($0.25)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974206744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:36 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($6.80 in chips) 
+Seat 2: BazKaLT ($17.28 in chips) 
+Seat 3: I_Not_Alone ($10.21 in chips) 
+Seat 4: johhnn123 ($16.82 in chips) 
+Seat 5: RomanVM94 ($7.79 in chips) 
+Seat 6: homeroxx2018 ($12.02 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+RomanVM94: raises $0.40 to $0.50
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: raises $16.70 to $17.20
+I_Not_Alone: folds 
+RomanVM94: folds 
+Uncalled bet ($16.70) returned to BazKaLT
+BazKaLT collected $1.10 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) collected ($1.10)
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: RomanVM94 folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974217617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:49 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($6.80 in chips) 
+Seat 2: BazKaLT ($17.88 in chips) 
+Seat 3: I_Not_Alone ($10.11 in chips) 
+Seat 4: johhnn123 ($16.82 in chips) 
+Seat 5: RomanVM94 ($7.29 in chips) 
+Seat 6: homeroxx2018 ($12.02 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94: raises $0.90 to $1
+homeroxx2018: folds 
+Einius19: calls $1
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+*** FLOP *** [Jh Ad Jd]
+RomanVM94: bets $0.60
+Einius19: calls $0.60
+*** TURN *** [Jh Ad Jd] [As]
+RomanVM94: bets $1.10
+Einius19: calls $1.10
+*** RIVER *** [Jh Ad Jd As] [3h]
+RomanVM94: bets $2.10
+Einius19: raises $2 to $4.10 and is all-in
+RomanVM94: calls $2
+*** SHOW DOWN ***
+Einius19: shows [Ah Qh] (a full house, Aces full of Jacks)
+RomanVM94: shows [8s 8d] (two pair, Aces and Jacks)
+Einius19 collected $13.13 from pot
+*** SUMMARY ***
+Total pot $13.75 | Rake $0.62 
+Board [Jh Ad Jd As 3h]
+Seat 1: Einius19 showed [Ah Qh] and won ($13.13) with a full house, Aces full of Jacks
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: RomanVM94 showed [8s 8d] and lost with two pair, Aces and Jacks
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974262839:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:09:44 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($13.13 in chips) 
+Seat 2: BazKaLT ($17.88 in chips) 
+Seat 3: I_Not_Alone ($10.06 in chips) 
+Seat 4: johhnn123 ($16.72 in chips) 
+Seat 5: RomanVM94 ($0.49 in chips) 
+Seat 6: homeroxx2018 ($12.02 in chips) 
+johhnn123: posts small blind $0.05
+RomanVM94: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+RomanVM94: raises $0.24 to $0.49 and is all-in
+I_Not_Alone: calls $0.24
+*** FLOP *** [Js 6s Jh]
+*** TURN *** [Js 6s Jh] [9h]
+*** RIVER *** [Js 6s Jh 9h] [Kd]
+*** SHOW DOWN ***
+RomanVM94: shows [7d Ad] (a pair of Jacks)
+I_Not_Alone: shows [5h 5s] (two pair, Jacks and Fives)
+I_Not_Alone collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [Js 6s Jh 9h Kd]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) showed [5h 5s] and won ($0.98) with two pair, Jacks and Fives
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: RomanVM94 (big blind) showed [7d Ad] and lost with a pair of Jacks
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974283854:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:10:09 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($13.13 in chips) 
+Seat 2: BazKaLT ($17.88 in chips) 
+Seat 3: I_Not_Alone ($10.55 in chips) 
+Seat 4: johhnn123 ($16.67 in chips) 
+Seat 6: homeroxx2018 ($12.02 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+RomanVM94 leaves the table
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+Vaha379 joins the table at seat #5 
+homeroxx2018: folds 
+Einius19: folds 
+Uncalled bet ($0.15) returned to johhnn123
+johhnn123 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (big blind) folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) collected ($0.25)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974293051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:10:20 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($13.03 in chips) 
+Seat 2: BazKaLT ($17.88 in chips) 
+Seat 3: I_Not_Alone ($10.55 in chips) 
+Seat 4: johhnn123 ($16.82 in chips) 
+Seat 6: homeroxx2018 ($11.97 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+Vaha379: sits out 
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.25
+BazKaLT: folds 
+*** FLOP *** [5c Ks Jc]
+Einius19: checks 
+homeroxx2018: bets $0.20
+Einius19: calls $0.20
+*** TURN *** [5c Ks Jc] [2s]
+Einius19: checks 
+homeroxx2018: checks 
+*** RIVER *** [5c Ks Jc 2s] [Tc]
+Einius19: checks 
+homeroxx2018: checks 
+*** SHOW DOWN ***
+Einius19: shows [6s 6c] (a pair of Sixes)
+homeroxx2018: shows [Qh Qs] (a pair of Queens)
+homeroxx2018 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5c Ks Jc 2s Tc]
+Seat 1: Einius19 (small blind) showed [6s 6c] and lost with a pair of Sixes
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) showed [Qh Qs] and won ($1.05) with a pair of Queens
+
+
+
+PokerStars Hand #222974320331:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:10:53 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($12.53 in chips) 
+Seat 2: BazKaLT ($17.78 in chips) 
+Seat 3: I_Not_Alone ($10.55 in chips) 
+Seat 4: johhnn123 ($16.82 in chips) 
+Seat 6: homeroxx2018 ($12.52 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+Vaha379: sits out 
+*** HOLE CARDS ***
+johhnn123: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: calls $0.15
+*** FLOP *** [Qd 4c 7h]
+BazKaLT: checks 
+I_Not_Alone: bets $0.15
+BazKaLT: raises $0.39 to $0.54
+I_Not_Alone: calls $0.39
+*** TURN *** [Qd 4c 7h] [Jc]
+BazKaLT: bets $1
+I_Not_Alone: calls $1
+*** RIVER *** [Qd 4c 7h Jc] [Qs]
+BazKaLT: checks 
+I_Not_Alone: bets $1.06
+BazKaLT: folds 
+Uncalled bet ($1.06) returned to I_Not_Alone
+I_Not_Alone collected $3.42 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.58 | Rake $0.16 
+Board [Qd 4c 7h Jc Qs]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded on the River
+Seat 3: I_Not_Alone (big blind) collected ($3.42)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974360242:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:11:41 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($12.53 in chips) 
+Seat 2: BazKaLT ($15.99 in chips) 
+Seat 3: I_Not_Alone ($12.18 in chips) 
+Seat 4: johhnn123 ($16.82 in chips) 
+Seat 6: homeroxx2018 ($12.52 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+Vaha379: sits out 
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.30 to $0.40
+I_Not_Alone: folds 
+johhnn123: folds 
+Einius19: calls $0.30
+*** FLOP *** [6d 2d Ks]
+Einius19: checks 
+BazKaLT: bets $0.46
+Einius19: calls $0.46
+*** TURN *** [6d 2d Ks] [9s]
+Einius19: checks 
+BazKaLT: bets $1.18
+Einius19: calls $1.18
+*** RIVER *** [6d 2d Ks 9s] [5s]
+Einius19: checks 
+BazKaLT: checks 
+*** SHOW DOWN ***
+Einius19: shows [Ac 6h] (a pair of Sixes)
+BazKaLT: mucks hand 
+Einius19 collected $4.04 from pot
+*** SUMMARY ***
+Total pot $4.23 | Rake $0.19 
+Board [6d 2d Ks 9s 5s]
+Seat 1: Einius19 showed [Ac 6h] and won ($4.04) with a pair of Sixes
+Seat 2: BazKaLT (button) mucked
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974378480:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:12:03 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($14.53 in chips) 
+Seat 2: BazKaLT ($13.95 in chips) 
+Seat 3: I_Not_Alone ($12.13 in chips) 
+Seat 4: johhnn123 ($16.72 in chips) 
+Seat 5: Vaha379 ($10 in chips) 
+Seat 6: homeroxx2018 ($12.52 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: raises $0.20 to $0.30
+johhnn123: calls $0.25
+Vaha379: folds 
+Einius19: calls $0.20
+*** FLOP *** [Qs 8s Ks]
+johhnn123: checks 
+Einius19: bets $0.40
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.40) returned to Einius19
+Einius19 collected $0.96 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Qs 8s Ks]
+Seat 1: Einius19 collected ($0.96)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded on the Flop
+Seat 4: johhnn123 (small blind) folded on the Flop
+Seat 5: Vaha379 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974408207:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:12:39 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($15.19 in chips) 
+Seat 2: BazKaLT ($13.95 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.42 in chips) 
+Seat 5: Vaha379 ($9.90 in chips) 
+Seat 6: homeroxx2018 ($12.52 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: checks 
+*** FLOP *** [2c Ac 3s]
+homeroxx2018: checks 
+Einius19: checks 
+*** TURN *** [2c Ac 3s] [Qd]
+homeroxx2018: checks 
+Einius19: checks 
+*** RIVER *** [2c Ac 3s Qd] [6c]
+homeroxx2018: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+homeroxx2018: shows [8h 6s] (a pair of Sixes)
+Einius19: mucks hand 
+homeroxx2018 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c Ac 3s Qd 6c]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) showed [8h 6s] and won ($0.24) with a pair of Sixes
+
+
+
+PokerStars Hand #222974427339:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:02 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($15.09 in chips) 
+Seat 2: BazKaLT ($13.95 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.42 in chips) 
+Seat 5: Vaha379 ($9.85 in chips) 
+Seat 6: homeroxx2018 ($12.66 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.15
+*** FLOP *** [3d Qd Kh]
+Einius19: bets $0.10
+BazKaLT: raises $0.70 to $0.80
+Einius19: calls $0.70
+*** TURN *** [3d Qd Kh] [5d]
+Einius19: checks 
+BazKaLT: bets $1.35
+Einius19: calls $1.35
+*** RIVER *** [3d Qd Kh 5d] [9c]
+Einius19: checks 
+BazKaLT: bets $3.06
+Einius19: calls $3.06
+*** SHOW DOWN ***
+BazKaLT: shows [Qc Kd] (two pair, Kings and Queens)
+Einius19: mucks hand 
+BazKaLT collected $10.48 from pot
+*** SUMMARY ***
+Total pot $10.97 | Rake $0.49 
+Board [3d Qd Kh 5d 9c]
+Seat 1: Einius19 (big blind) mucked
+Seat 2: BazKaLT showed [Qc Kd] and won ($10.48) with two pair, Kings and Queens
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974456778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:38 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($9.63 in chips) 
+Seat 2: BazKaLT ($18.97 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.42 in chips) 
+Seat 5: Vaha379 ($9.85 in chips) 
+Seat 6: homeroxx2018 ($12.61 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+Uncalled bet ($0.15) returned to I_Not_Alone
+I_Not_Alone collected $0.25 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone collected ($0.25)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974463202:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:46 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($9.58 in chips) 
+Seat 2: BazKaLT ($18.87 in chips) 
+Seat 3: I_Not_Alone ($11.98 in chips) 
+Seat 4: johhnn123 ($16.42 in chips) 
+Seat 5: Vaha379 ($9.85 in chips) 
+Seat 6: homeroxx2018 ($12.61 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: checks 
+*** FLOP *** [3h Jc Qc]
+I_Not_Alone: checks 
+Einius19: bets $0.24
+I_Not_Alone: folds 
+Uncalled bet ($0.24) returned to Einius19
+Einius19 collected $0.24 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h Jc Qc]
+Seat 1: Einius19 (button) collected ($0.24)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded on the Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974482580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:14:10 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($9.72 in chips) 
+Seat 2: BazKaLT ($18.82 in chips) 
+Seat 3: I_Not_Alone ($11.88 in chips) 
+Seat 4: johhnn123 ($16.42 in chips) 
+Seat 5: Vaha379 ($9.85 in chips) 
+Seat 6: homeroxx2018 ($12.61 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.15) returned to BazKaLT
+BazKaLT collected $0.25 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) collected ($0.25)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974492784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:14:22 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($9.72 in chips) 
+Seat 2: BazKaLT ($18.97 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.32 in chips) 
+Seat 5: Vaha379 ($9.85 in chips) 
+Seat 6: homeroxx2018 ($12.61 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.30
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.25
+Vaha379: calls $0.20
+*** FLOP *** [3c Ah Js]
+johhnn123: checks 
+Vaha379: checks 
+homeroxx2018: bets $0.40
+Einius19: calls $0.40
+johhnn123: folds 
+Vaha379: folds 
+*** TURN *** [3c Ah Js] [9h]
+homeroxx2018: bets $3
+Einius19: folds 
+Uncalled bet ($3) returned to homeroxx2018
+homeroxx2018 collected $1.91 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [3c Ah Js 9h]
+Seat 1: Einius19 folded on the Turn
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded on the Flop
+Seat 5: Vaha379 (big blind) folded on the Flop
+Seat 6: homeroxx2018 collected ($1.91)
+
+
+
+PokerStars Hand #222974524479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:01 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($9.02 in chips) 
+Seat 2: BazKaLT ($18.97 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.02 in chips) 
+Seat 5: Vaha379 ($10 in chips) 
+Seat 6: homeroxx2018 ($13.82 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: raises $0.30 to $0.40
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.30
+*** FLOP *** [2h 2c 6h]
+Einius19: checks 
+BazKaLT: bets $0.46
+Einius19: folds 
+Uncalled bet ($0.46) returned to BazKaLT
+BazKaLT collected $0.91 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [2h 2c 6h]
+Seat 1: Einius19 folded on the Flop
+Seat 2: BazKaLT collected ($0.91)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974541758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:22 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($8.62 in chips) 
+Seat 2: BazKaLT ($19.48 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.02 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($13.72 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.05) returned to Einius19
+Einius19 collected $0.10 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Einius19 (big blind) collected ($0.10)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974549746:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:31 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($8.67 in chips) 
+Seat 2: BazKaLT ($19.48 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.02 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($13.67 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.05
+BazKaLT: raises $0.30 to $0.40
+Einius19: calls $0.30
+*** FLOP *** [7c 3d 4s]
+Einius19: checks 
+BazKaLT: bets $0.50
+Einius19: calls $0.50
+*** TURN *** [7c 3d 4s] [Th]
+Einius19: checks 
+BazKaLT: checks 
+*** RIVER *** [7c 3d 4s Th] [8c]
+Einius19: checks 
+BazKaLT: checks 
+*** SHOW DOWN ***
+Einius19: shows [5s 5d] (a pair of Fives)
+BazKaLT: mucks hand 
+Einius19 collected $1.72 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [7c 3d 4s Th 8c]
+Seat 1: Einius19 (small blind) showed [5s 5d] and won ($1.72) with a pair of Fives
+Seat 2: BazKaLT (big blind) mucked
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974575801:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:03 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($9.49 in chips) 
+Seat 2: BazKaLT ($18.58 in chips) 
+Seat 3: I_Not_Alone ($11.83 in chips) 
+Seat 4: johhnn123 ($16.02 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($13.67 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: checks 
+*** FLOP *** [Tc Ts 7c]
+I_Not_Alone: checks 
+Einius19: checks 
+*** TURN *** [Tc Ts 7c] [Td]
+I_Not_Alone: checks 
+Einius19: checks 
+*** RIVER *** [Tc Ts 7c Td] [9c]
+I_Not_Alone: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+I_Not_Alone: shows [3c 2s] (three of a kind, Tens)
+Einius19: shows [Qh 2h] (three of a kind, Tens - Queen kicker)
+Einius19 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc Ts 7c Td 9c]
+Seat 1: Einius19 (button) showed [Qh 2h] and won ($0.24) with three of a kind, Tens
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) showed [3c 2s] and lost with three of a kind, Tens
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974590054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:20 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($9.63 in chips) 
+Seat 2: BazKaLT ($18.53 in chips) 
+Seat 3: I_Not_Alone ($11.73 in chips) 
+Seat 4: johhnn123 ($16.02 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($13.67 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.30 to $0.40
+I_Not_Alone: folds 
+johhnn123: folds 
+Einius19: folds 
+Uncalled bet ($0.30) returned to BazKaLT
+BazKaLT collected $0.35 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Einius19 folded before Flop
+Seat 2: BazKaLT (button) collected ($0.35)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974601984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:35 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($9.53 in chips) 
+Seat 2: BazKaLT ($18.78 in chips) 
+Seat 3: I_Not_Alone ($11.68 in chips) 
+Seat 4: johhnn123 ($15.92 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($13.67 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.30 to $0.40
+I_Not_Alone: folds 
+johhnn123: calls $0.35
+Vaha379: folds 
+Einius19: folds 
+*** FLOP *** [6s 3h 5c]
+johhnn123: checks 
+BazKaLT: bets $0.63
+johhnn123: raises $1.67 to $2.30
+BazKaLT: folds 
+Uncalled bet ($1.67) returned to johhnn123
+johhnn123 collected $2.16 from pot
+*** SUMMARY ***
+Total pot $2.26 | Rake $0.10 
+Board [6s 3h 5c]
+Seat 1: Einius19 folded before Flop
+Seat 2: BazKaLT folded on the Flop
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) collected ($2.16)
+Seat 5: Vaha379 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974625109:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:03 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($9.43 in chips) 
+Seat 2: BazKaLT ($17.75 in chips) 
+Seat 3: I_Not_Alone ($11.68 in chips) 
+Seat 4: johhnn123 ($17.05 in chips) 
+Seat 5: Vaha379 ($9.85 in chips) 
+Seat 6: homeroxx2018 ($13.67 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: raises $0.10 to $0.20
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: calls $0.10
+*** FLOP *** [4d 4c 3s]
+homeroxx2018: checks 
+Einius19: bets $0.20
+homeroxx2018: calls $0.20
+*** TURN *** [4d 4c 3s] [7s]
+homeroxx2018: checks 
+Einius19: bets $0.20
+homeroxx2018: calls $0.20
+*** RIVER *** [4d 4c 3s 7s] [9s]
+homeroxx2018: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+homeroxx2018: shows [Ac 2d] (a pair of Fours)
+Einius19: mucks hand 
+homeroxx2018 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [4d 4c 3s 7s 9s]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) showed [Ac 2d] and won ($1.19) with a pair of Fours
+
+
+
+PokerStars Hand #222974649426:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:32 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($8.83 in chips) 
+Seat 2: BazKaLT ($17.75 in chips) 
+Seat 3: I_Not_Alone ($11.68 in chips) 
+Seat 4: johhnn123 ($17.05 in chips) 
+Seat 5: Vaha379 ($9.80 in chips) 
+Seat 6: homeroxx2018 ($14.26 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.15
+*** FLOP *** [Kd Th 6s]
+Einius19: checks 
+johhnn123: bets $0.30
+Einius19: folds 
+Uncalled bet ($0.30) returned to johhnn123
+johhnn123 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Kd Th 6s]
+Seat 1: Einius19 (big blind) folded on the Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 collected ($0.53)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974673945:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:18:02 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($8.58 in chips) 
+Seat 2: BazKaLT ($17.75 in chips) 
+Seat 3: I_Not_Alone ($11.68 in chips) 
+Seat 4: johhnn123 ($17.33 in chips) 
+Seat 5: Vaha379 ($9.80 in chips) 
+Seat 6: homeroxx2018 ($14.21 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: raises $0.10 to $0.20
+BazKaLT: calls $0.10
+*** FLOP *** [6h 5c 9h]
+Einius19: checks 
+BazKaLT: bets $0.25
+Einius19: calls $0.25
+*** TURN *** [6h 5c 9h] [Qc]
+Einius19: checks 
+BazKaLT: bets $0.60
+Einius19: calls $0.60
+*** RIVER *** [6h 5c 9h Qc] [Ac]
+Einius19: checks 
+BazKaLT: bets $1.50
+Einius19: calls $1.50
+*** SHOW DOWN ***
+BazKaLT: shows [6d Ad] (two pair, Aces and Sixes)
+Einius19: mucks hand 
+BazKaLT collected $4.87 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.23 
+Board [6h 5c 9h Qc Ac]
+Seat 1: Einius19 (small blind) mucked
+Seat 2: BazKaLT (big blind) showed [6d Ad] and won ($4.87) with two pair, Aces and Sixes
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974707526:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:18:43 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($6.03 in chips) 
+Seat 2: BazKaLT ($20.07 in chips) 
+Seat 3: I_Not_Alone ($11.68 in chips) 
+Seat 4: johhnn123 ($17.33 in chips) 
+Seat 5: Vaha379 ($9.80 in chips) 
+Seat 6: homeroxx2018 ($14.21 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: calls $0.20
+*** FLOP *** [Qd 2s Jc]
+I_Not_Alone: checks 
+homeroxx2018: bets $0.19
+I_Not_Alone: calls $0.19
+*** TURN *** [Qd 2s Jc] [6s]
+I_Not_Alone: checks 
+homeroxx2018: checks 
+*** RIVER *** [Qd 2s Jc 6s] [5d]
+I_Not_Alone: checks 
+homeroxx2018: checks 
+*** SHOW DOWN ***
+I_Not_Alone: shows [3c Ac] (high card Ace)
+homeroxx2018: shows [4s 4d] (a pair of Fours)
+homeroxx2018 collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [Qd 2s Jc 6s 5d]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) showed [3c Ac] and lost with high card Ace
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 showed [4s 4d] and won ($0.98) with a pair of Fours
+
+
+
+PokerStars Hand #222974744041:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:27 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($6.03 in chips) 
+Seat 2: BazKaLT ($20.02 in chips) 
+Seat 3: I_Not_Alone ($11.19 in chips) 
+Seat 4: johhnn123 ($17.33 in chips) 
+Seat 5: Vaha379 ($9.80 in chips) 
+Seat 6: homeroxx2018 ($14.70 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.30 to $0.40
+I_Not_Alone: folds 
+johhnn123: folds 
+Einius19: calls $0.30
+*** FLOP *** [4s Ah 2h]
+Einius19: checks 
+BazKaLT: bets $0.46
+Einius19: calls $0.46
+*** TURN *** [4s Ah 2h] [Kc]
+Einius19: checks 
+BazKaLT: checks 
+*** RIVER *** [4s Ah 2h Kc] [Js]
+Einius19: checks 
+BazKaLT: checks 
+*** SHOW DOWN ***
+Einius19: shows [6d 6h] (a pair of Sixes)
+BazKaLT: shows [Jd Kd] (two pair, Kings and Jacks)
+BazKaLT collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [4s Ah 2h Kc Js]
+Seat 1: Einius19 showed [6d 6h] and lost with a pair of Sixes
+Seat 2: BazKaLT (button) showed [Jd Kd] and won ($1.79) with two pair, Kings and Jacks
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974767399:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:56 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($5.17 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.14 in chips) 
+Seat 4: johhnn123 ($17.23 in chips) 
+Seat 5: Vaha379 ($9.80 in chips) 
+Seat 6: homeroxx2018 ($14.70 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.05
+Vaha379: raises $0.40 to $0.50
+Einius19: folds 
+johhnn123: folds 
+Uncalled bet ($0.40) returned to Vaha379
+Vaha379 collected $0.30 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: Einius19 folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) collected ($0.30)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974784280:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:17 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($5.07 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.14 in chips) 
+Seat 4: johhnn123 ($17.13 in chips) 
+Seat 5: Vaha379 ($10 in chips) 
+Seat 6: homeroxx2018 ($14.70 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+Uncalled bet ($0.05) returned to homeroxx2018
+homeroxx2018 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222974791562:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:26 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($5.07 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.14 in chips) 
+Seat 4: johhnn123 ($17.13 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($14.75 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: raises $0.65 to $0.90
+Einius19: folds 
+I_Not_Alone: folds 
+Uncalled bet ($0.65) returned to homeroxx2018
+homeroxx2018 collected $0.60 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Einius19 (big blind) folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) collected ($0.60)
+
+
+
+PokerStars Hand #222974803294:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:40 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($4.97 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($10.89 in chips) 
+Seat 4: johhnn123 ($17.13 in chips) 
+Seat 5: Vaha379 ($9.95 in chips) 
+Seat 6: homeroxx2018 ($15.10 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: raises $0.20 to $0.30
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 collected ($0.25)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974812687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:52 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($4.92 in chips) 
+Seat 2: BazKaLT ($20.85 in chips) 
+Seat 3: I_Not_Alone ($10.89 in chips) 
+Seat 4: johhnn123 ($17.13 in chips) 
+Seat 5: Vaha379 ($10.10 in chips) 
+Seat 6: homeroxx2018 ($15.10 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: raises $0.15 to $0.25
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.25
+BazKaLT: folds 
+I_Not_Alone: calls $0.15
+*** FLOP *** [3s 4h Ts]
+I_Not_Alone: checks 
+johhnn123: bets $0.40
+Einius19: folds 
+I_Not_Alone: raises $1 to $1.40
+johhnn123: folds 
+Uncalled bet ($1) returned to I_Not_Alone
+I_Not_Alone collected $1.53 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [3s 4h Ts]
+Seat 1: Einius19 (button) folded on the Flop
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) collected ($1.53)
+Seat 4: johhnn123 folded on the Flop
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974850816:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:39 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($4.67 in chips) 
+Seat 2: BazKaLT ($20.80 in chips) 
+Seat 3: I_Not_Alone ($11.77 in chips) 
+Seat 4: johhnn123 ($16.48 in chips) 
+Seat 5: Vaha379 ($10.10 in chips) 
+Seat 6: homeroxx2018 ($15.10 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.15) returned to BazKaLT
+BazKaLT collected $0.25 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) collected ($0.25)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974860258:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:50 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($4.67 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.72 in chips) 
+Seat 4: johhnn123 ($16.38 in chips) 
+Seat 5: Vaha379 ($10.10 in chips) 
+Seat 6: homeroxx2018 ($15.10 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.30
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: calls $0.20
+*** FLOP *** [Th 9s Qs]
+Vaha379: checks 
+homeroxx2018: checks 
+Einius19: checks 
+*** TURN *** [Th 9s Qs] [Ks]
+Vaha379: checks 
+homeroxx2018: checks 
+Einius19: checks 
+*** RIVER *** [Th 9s Qs Ks] [Kh]
+Vaha379: checks 
+homeroxx2018: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+Vaha379: shows [5c Qc] (two pair, Kings and Queens)
+homeroxx2018: mucks hand 
+Einius19: mucks hand 
+Vaha379 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Th 9s Qs Ks Kh]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) showed [5c Qc] and won ($0.91) with two pair, Kings and Queens
+Seat 6: homeroxx2018 mucked
+
+
+
+PokerStars Hand #222974879276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:14 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($4.37 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.72 in chips) 
+Seat 4: johhnn123 ($16.33 in chips) 
+Seat 5: Vaha379 ($10.71 in chips) 
+Seat 6: homeroxx2018 ($14.80 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.15) returned to BazKaLT
+BazKaLT collected $0.25 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT collected ($0.25)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974889092:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:26 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.37 in chips) 
+Seat 2: BazKaLT ($21.10 in chips) 
+Seat 3: I_Not_Alone ($11.72 in chips) 
+Seat 4: johhnn123 ($16.33 in chips) 
+Seat 5: Vaha379 ($10.66 in chips) 
+Seat 6: homeroxx2018 ($14.70 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: raises $0.15 to $0.25
+homeroxx2018: folds 
+Einius19: calls $0.15
+*** FLOP *** [Qd 2d 4c]
+Einius19: bets $0.26
+Vaha379: calls $0.26
+*** TURN *** [Qd 2d 4c] [3s]
+Einius19: bets $0.51
+Vaha379: calls $0.51
+*** RIVER *** [Qd 2d 4c 3s] [6s]
+Einius19: checks 
+Vaha379: checks 
+*** SHOW DOWN ***
+Einius19: shows [As 3c] (a pair of Threes)
+Vaha379: mucks hand 
+Einius19 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.09 | Rake $0.09 
+Board [Qd 2d 4c 3s 6s]
+Seat 1: Einius19 (big blind) showed [As 3c] and won ($2) with a pair of Threes
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) mucked
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974912672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:55 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($5.35 in chips) 
+Seat 2: BazKaLT ($21.10 in chips) 
+Seat 3: I_Not_Alone ($11.72 in chips) 
+Seat 4: johhnn123 ($16.33 in chips) 
+Seat 5: Vaha379 ($9.64 in chips) 
+Seat 6: homeroxx2018 ($14.65 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.25
+BazKaLT: folds 
+*** FLOP *** [Kh 4s 6d]
+Einius19: bets $0.33
+homeroxx2018: calls $0.33
+*** TURN *** [Kh 4s 6d] [Qs]
+Einius19: bets $0.65
+homeroxx2018: calls $0.65
+*** RIVER *** [Kh 4s 6d Qs] [9s]
+Einius19: checks 
+homeroxx2018: bets $13.37 and is all-in
+Einius19: calls $4.07 and is all-in
+Uncalled bet ($9.30) returned to homeroxx2018
+*** SHOW DOWN ***
+homeroxx2018: shows [Kc Jd] (a pair of Kings)
+Einius19: shows [Kd Ah] (a pair of Kings - Ace kicker)
+Einius19 collected $10.31 from pot
+*** SUMMARY ***
+Total pot $10.80 | Rake $0.49 
+Board [Kh 4s 6d Qs 9s]
+Seat 1: Einius19 (small blind) showed [Kd Ah] and won ($10.31) with a pair of Kings
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) showed [Kc Jd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #222974940826:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:29 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($10.31 in chips) 
+Seat 2: BazKaLT ($21 in chips) 
+Seat 3: I_Not_Alone ($11.72 in chips) 
+Seat 4: johhnn123 ($16.33 in chips) 
+Seat 5: Vaha379 ($10 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: raises $0.20 to $0.30
+homeroxx2018: folds 
+Einius19: raises $0.70 to $1
+BazKaLT: folds 
+I_Not_Alone: folds 
+Vaha379: calls $0.70
+*** FLOP *** [Ts Ah 4s]
+Vaha379: checks 
+Einius19: checks 
+*** TURN *** [Ts Ah 4s] [2h]
+Vaha379: checks 
+Einius19: bets $1.02
+Vaha379: calls $1.02
+*** RIVER *** [Ts Ah 4s 2h] [Qs]
+Vaha379: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+Vaha379: shows [Th Jh] (a pair of Tens)
+Einius19: mucks hand 
+Vaha379 collected $4 from pot
+*** SUMMARY ***
+Total pot $4.19 | Rake $0.19 
+Board [Ts Ah 4s 2h Qs]
+Seat 1: Einius19 (button) mucked
+Seat 2: BazKaLT (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 showed [Th Jh] and won ($4) with a pair of Tens
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974971577:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:08 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($8.29 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.62 in chips) 
+Seat 4: johhnn123 ($16.33 in chips) 
+Seat 5: Vaha379 ($11.98 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: raises $0.20 to $0.30
+homeroxx2018: folds 
+Einius19: calls $0.30
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+*** FLOP *** [9c 9s Th]
+Vaha379: bets $0.36
+Einius19: raises $0.46 to $0.82
+Vaha379: calls $0.46
+*** TURN *** [9c 9s Th] [Td]
+Vaha379: checks 
+Einius19: bets $1.14
+Vaha379: folds 
+Uncalled bet ($1.14) returned to Einius19
+Einius19 collected $2.28 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.39 | Rake $0.11 
+Board [9c 9s Th Td]
+Seat 1: Einius19 collected ($2.28)
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 folded on the Turn
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974998654:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:41 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($9.45 in chips) 
+Seat 2: BazKaLT ($20.95 in chips) 
+Seat 3: I_Not_Alone ($11.57 in chips) 
+Seat 4: johhnn123 ($16.23 in chips) 
+Seat 5: Vaha379 ($10.86 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.30 to $0.40
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+Einius19: folds 
+Uncalled bet ($0.30) returned to BazKaLT
+BazKaLT collected $0.35 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Einius19 folded before Flop
+Seat 2: BazKaLT collected ($0.35)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975012643:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:58 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($9.35 in chips) 
+Seat 2: BazKaLT ($21.20 in chips) 
+Seat 3: I_Not_Alone ($11.57 in chips) 
+Seat 4: johhnn123 ($16.18 in chips) 
+Seat 5: Vaha379 ($10.76 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.15) returned to BazKaLT
+BazKaLT collected $0.25 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT collected ($0.25)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975024318:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:13 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($9.35 in chips) 
+Seat 2: BazKaLT ($21.35 in chips) 
+Seat 3: I_Not_Alone ($11.57 in chips) 
+Seat 4: johhnn123 ($16.18 in chips) 
+Seat 5: Vaha379 ($10.71 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: calls $0.20
+*** FLOP *** [4s 6c Ac]
+homeroxx2018: bets $0.29
+Einius19: raises $0.29 to $0.58
+homeroxx2018: calls $0.29
+*** TURN *** [4s 6c Ac] [2s]
+homeroxx2018: checks 
+Einius19: bets $0.84
+homeroxx2018: calls $0.84
+*** RIVER *** [4s 6c Ac 2s] [9d]
+homeroxx2018: checks 
+Einius19: bets $0.50
+homeroxx2018: calls $0.50
+*** SHOW DOWN ***
+Einius19: shows [Ad 3d] (a pair of Aces)
+homeroxx2018: mucks hand 
+Einius19 collected $4.24 from pot
+*** SUMMARY ***
+Total pot $4.44 | Rake $0.20 
+Board [4s 6c Ac 2s 9d]
+Seat 1: Einius19 (big blind) showed [Ad 3d] and won ($4.24) with a pair of Aces
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) mucked
+
+
+
+PokerStars Hand #222975055882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:52 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($11.37 in chips) 
+Seat 2: BazKaLT ($21.35 in chips) 
+Seat 3: I_Not_Alone ($11.57 in chips) 
+Seat 4: johhnn123 ($16.18 in chips) 
+Seat 5: Vaha379 ($10.71 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+Vaha379: raises $0.65 to $0.90
+homeroxx2018: raises $1.60 to $2.50
+Einius19: folds 
+BazKaLT: folds 
+johhnn123: folds 
+Vaha379: calls $1.60
+*** FLOP *** [Ah Jc Jh]
+Vaha379: checks 
+homeroxx2018: checks 
+*** TURN *** [Ah Jc Jh] [9h]
+Vaha379: bets $8.21 and is all-in
+homeroxx2018: calls $7.50 and is all-in
+Uncalled bet ($0.71) returned to Vaha379
+*** RIVER *** [Ah Jc Jh 9h] [Ts]
+*** SHOW DOWN ***
+Vaha379: shows [Qc Ac] (two pair, Aces and Jacks)
+homeroxx2018: shows [Kh Kd] (two pair, Kings and Jacks)
+Vaha379 collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.40 | Rake $0.92 
+Board [Ah Jc Jh 9h Ts]
+Seat 1: Einius19 (small blind) folded before Flop
+Seat 2: BazKaLT (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop
+Seat 5: Vaha379 showed [Qc Ac] and won ($19.48) with two pair, Aces and Jacks
+Seat 6: homeroxx2018 (button) showed [Kh Kd] and lost with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #222975105794:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:26:54 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($11.32 in chips) 
+Seat 2: BazKaLT ($21.25 in chips) 
+Seat 3: I_Not_Alone ($11.57 in chips) 
+Seat 4: johhnn123 ($15.93 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: raises $0.40 to $0.50
+I_Not_Alone: folds 
+Einius19: calls $0.40
+*** FLOP *** [4d 2h Jc]
+BazKaLT: bets $0.53
+Einius19: folds 
+Uncalled bet ($0.53) returned to BazKaLT
+BazKaLT collected $1.05 from pot
+BazKaLT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4d 2h Jc]
+Seat 1: Einius19 (button) folded on the Flop
+Seat 2: BazKaLT (small blind) collected ($1.05)
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975126611:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:20 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($10.82 in chips) 
+Seat 2: BazKaLT ($21.80 in chips) 
+Seat 3: I_Not_Alone ($11.47 in chips) 
+Seat 4: johhnn123 ($15.93 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: raises $0.20 to $0.30
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 collected ($0.25)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975132875:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:28 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($10.82 in chips) 
+Seat 2: BazKaLT ($21.80 in chips) 
+Seat 3: I_Not_Alone ($11.42 in chips) 
+Seat 4: johhnn123 ($15.83 in chips) 
+Seat 5: Vaha379 ($20.34 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.30 to $0.40
+Vaha379: folds 
+Einius19: calls $0.30
+*** FLOP *** [Tc Ah 7c]
+johhnn123: bets $0.65
+Einius19: calls $0.65
+*** TURN *** [Tc Ah 7c] [Kh]
+johhnn123: bets $1.05
+Einius19: raises $1.05 to $2.10
+johhnn123: calls $1.05
+*** RIVER *** [Tc Ah 7c Kh] [Qc]
+johhnn123: checks 
+Einius19: bets $1.30
+johhnn123: raises $1.70 to $3
+Einius19: calls $1.70
+*** SHOW DOWN ***
+johhnn123: shows [As Js] (a straight, Ten to Ace)
+Einius19: mucks hand 
+johhnn123 collected $11.84 from pot
+*** SUMMARY ***
+Total pot $12.40 | Rake $0.56 
+Board [Tc Ah 7c Kh Qc]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) showed [As Js] and won ($11.84) with a straight, Ten to Ace
+Seat 5: Vaha379 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975170662:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:12 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($4.67 in chips) 
+Seat 2: BazKaLT ($21.80 in chips) 
+Seat 3: I_Not_Alone ($11.42 in chips) 
+Seat 4: johhnn123 ($21.52 in chips) 
+Seat 5: Vaha379 ($20.24 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: raises $0.20 to $0.30
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: raises $0.60 to $0.90
+Einius19: folds 
+I_Not_Alone: folds 
+Uncalled bet ($0.60) returned to homeroxx2018
+homeroxx2018 collected $0.75 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Einius19 folded before Flop
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) collected ($0.75)
+
+
+
+PokerStars Hand #222975190495:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:37 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.57 in chips) 
+Seat 2: BazKaLT ($21.80 in chips) 
+Seat 3: I_Not_Alone ($11.12 in chips) 
+Seat 4: johhnn123 ($21.52 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10.45 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.05) returned to Einius19
+Einius19 collected $0.10 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Einius19 (big blind) collected ($0.10)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975197868:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:46 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($4.62 in chips) 
+Seat 2: BazKaLT ($21.80 in chips) 
+Seat 3: I_Not_Alone ($11.12 in chips) 
+Seat 4: johhnn123 ($21.52 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10.40 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.05
+BazKaLT: checks 
+*** FLOP *** [Qh 6h Qd]
+Einius19: checks 
+BazKaLT: checks 
+*** TURN *** [Qh 6h Qd] [Jc]
+Einius19: checks 
+BazKaLT: checks 
+*** RIVER *** [Qh 6h Qd Jc] [Kc]
+Einius19: checks 
+BazKaLT: checks 
+*** SHOW DOWN ***
+Einius19: shows [Ks 7h] (two pair, Kings and Queens)
+BazKaLT: mucks hand 
+Einius19 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qh 6h Qd Jc Kc]
+Seat 1: Einius19 (small blind) showed [Ks 7h] and won ($0.19) with two pair, Kings and Queens
+Seat 2: BazKaLT (big blind) mucked
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975225984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:29:22 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($4.71 in chips) 
+Seat 2: BazKaLT ($21.70 in chips) 
+Seat 3: I_Not_Alone ($11.12 in chips) 
+Seat 4: johhnn123 ($21.52 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10.40 in chips) 
+BazKaLT: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: raises $0.15 to $0.25
+I_Not_Alone: calls $0.15
+*** FLOP *** [Jc Th 9s]
+BazKaLT: checks 
+I_Not_Alone: checks 
+*** TURN *** [Jc Th 9s] [9d]
+BazKaLT: bets $0.60
+I_Not_Alone: calls $0.60
+*** RIVER *** [Jc Th 9s 9d] [6d]
+BazKaLT: checks 
+I_Not_Alone: checks 
+*** SHOW DOWN ***
+BazKaLT: shows [As 3c] (a pair of Nines)
+I_Not_Alone: shows [8h Jh] (two pair, Jacks and Nines)
+I_Not_Alone collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.08 
+Board [Jc Th 9s 9d 6d]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 2: BazKaLT (small blind) showed [As 3c] and lost with a pair of Nines
+Seat 3: I_Not_Alone (big blind) showed [8h Jh] and won ($1.62) with two pair, Jacks and Nines
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975253544:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:29:56 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: Einius19 ($4.71 in chips) 
+Seat 2: BazKaLT ($20.85 in chips) 
+Seat 3: I_Not_Alone ($11.89 in chips) 
+Seat 4: johhnn123 ($21.52 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10.40 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: raises $0.20 to $0.30
+homeroxx2018: folds 
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 collected ($0.25)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975263718:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:09 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($4.71 in chips) 
+Seat 2: BazKaLT ($20.85 in chips) 
+Seat 3: I_Not_Alone ($11.84 in chips) 
+Seat 4: johhnn123 ($21.42 in chips) 
+Seat 5: Vaha379 ($20.34 in chips) 
+Seat 6: homeroxx2018 ($10.40 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+BazKaLT: folds 
+I_Not_Alone: raises $0.20 to $0.30
+johhnn123: calls $0.25
+Vaha379: folds 
+Einius19: calls $0.20
+*** FLOP *** [6d 5d Kh]
+johhnn123: checks 
+Einius19: checks 
+I_Not_Alone: checks 
+*** TURN *** [6d 5d Kh] [Kc]
+johhnn123: bets $0.30
+Einius19: calls $0.30
+I_Not_Alone: folds 
+*** RIVER *** [6d 5d Kh Kc] [Th]
+johhnn123: checks 
+Einius19: checks 
+*** SHOW DOWN ***
+johhnn123: shows [Td Qh] (two pair, Kings and Tens)
+Einius19: mucks hand 
+johhnn123 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [6d 5d Kh Kc Th]
+Seat 1: Einius19 mucked
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded on the Turn
+Seat 4: johhnn123 (small blind) showed [Td Qh] and won ($1.53) with two pair, Kings and Tens
+Seat 5: Vaha379 (big blind) folded before Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975290320:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:43 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($4.11 in chips) 
+Seat 2: BazKaLT ($20.85 in chips) 
+Seat 3: I_Not_Alone ($11.54 in chips) 
+Seat 4: johhnn123 ($22.35 in chips) 
+Seat 5: Vaha379 ($20.24 in chips) 
+Seat 6: homeroxx2018 ($10.40 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: folds 
+BazKaLT: folds 
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: calls $0.15
+*** FLOP *** [5c 2s 2d]
+homeroxx2018: checks 
+I_Not_Alone: bets $0.16
+homeroxx2018: calls $0.16
+*** TURN *** [5c 2s 2d] [Ks]
+homeroxx2018: checks 
+I_Not_Alone: checks 
+*** RIVER *** [5c 2s 2d Ks] [7s]
+homeroxx2018: checks 
+I_Not_Alone: bets $0.42
+homeroxx2018: folds 
+Uncalled bet ($0.42) returned to I_Not_Alone
+I_Not_Alone collected $0.83 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [5c 2s 2d Ks 7s]
+Seat 1: Einius19 folded before Flop (didn't bet)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone collected ($0.83)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded on the River
+
+
+
+PokerStars Hand #222975327424:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:31:30 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($4.11 in chips) 
+Seat 2: BazKaLT ($20.85 in chips) 
+Seat 3: I_Not_Alone ($11.96 in chips) 
+Seat 4: johhnn123 ($22.35 in chips) 
+Seat 5: Vaha379 ($20.19 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: raises $0.10 to $0.20
+homeroxx2018: folds 
+Einius19: calls $0.10
+*** FLOP *** [Th Qs 9c]
+Einius19: bets $0.20
+Vaha379: folds 
+Uncalled bet ($0.20) returned to Einius19
+Einius19 collected $0.43 from pot
+Einius19: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Th Qs 9c]
+Seat 1: Einius19 (big blind) collected ($0.43)
+Seat 2: BazKaLT folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded on the Flop
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975339714:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:31:45 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Einius19 ($4.34 in chips) 
+Seat 3: I_Not_Alone ($11.96 in chips) 
+Seat 4: johhnn123 ($22.35 in chips) 
+Seat 5: Vaha379 ($19.99 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+Einius19: posts small blind $0.05
+BazKaLT: is sitting out 
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+BazKaLT leaves the table
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.05
+I_Not_Alone: checks 
+*** FLOP *** [Ah Qs 6c]
+Einius19: checks 
+I_Not_Alone: checks 
+*** TURN *** [Ah Qs 6c] [As]
+dragon82000 joins the table at seat #2 
+Einius19: checks 
+I_Not_Alone: checks 
+*** RIVER *** [Ah Qs 6c As] [5d]
+Einius19: checks 
+I_Not_Alone: checks 
+*** SHOW DOWN ***
+Einius19: shows [Th 9s] (a pair of Aces)
+I_Not_Alone: shows [Jd 7h] (a pair of Aces - Queen+Jack kicker)
+I_Not_Alone collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ah Qs 6c As 5d]
+Seat 1: Einius19 (small blind) showed [Th 9s] and lost with a pair of Aces
+Seat 3: I_Not_Alone (big blind) showed [Jd 7h] and won ($0.19) with a pair of Aces
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975359341:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:10 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Einius19 ($4.24 in chips) 
+Seat 3: I_Not_Alone ($12.05 in chips) 
+Seat 4: johhnn123 ($22.35 in chips) 
+Seat 5: Vaha379 ($19.99 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: raises $0.20 to $0.30
+Einius19: folds 
+I_Not_Alone: calls $0.25
+johhnn123: folds 
+*** FLOP *** [Jd 2s 8s]
+I_Not_Alone: checks 
+homeroxx2018: bets $0.34
+I_Not_Alone: folds 
+Uncalled bet ($0.34) returned to homeroxx2018
+homeroxx2018 collected $0.67 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Jd 2s 8s]
+Seat 1: Einius19 (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded on the Flop
+Seat 4: johhnn123 (big blind) folded before Flop
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 collected ($0.67)
+
+
+
+PokerStars Hand #222975377865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:34 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: Einius19 ($4.24 in chips) 
+Seat 2: dragon82000 ($10 in chips) 
+Seat 3: I_Not_Alone ($11.75 in chips) 
+Seat 4: johhnn123 ($22.25 in chips) 
+Seat 5: Vaha379 ($19.99 in chips) 
+Seat 6: homeroxx2018 ($10.37 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+dragon82000: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Einius19: calls $0.10
+dragon82000: checks 
+I_Not_Alone: raises $0.30 to $0.40
+johhnn123: folds 
+Vaha379: calls $0.30
+Einius19: calls $0.30
+dragon82000: calls $0.30
+*** FLOP *** [9s Tc 2s]
+Vaha379: checks 
+Einius19: checks 
+dragon82000: bets $0.79
+I_Not_Alone: folds 
+Vaha379: folds 
+Einius19: folds 
+Uncalled bet ($0.79) returned to dragon82000
+dragon82000 collected $1.58 from pot
+dragon82000: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [9s Tc 2s]
+Seat 1: Einius19 folded on the Flop
+Seat 2: dragon82000 collected ($1.58)
+Seat 3: I_Not_Alone (button) folded on the Flop
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) folded on the Flop
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975407273:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:33:11 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Einius19 ($3.84 in chips) 
+Seat 2: dragon82000 ($11.18 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($22.20 in chips) 
+Seat 5: Vaha379 ($19.59 in chips) 
+Seat 6: homeroxx2018 ($10.37 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19: calls $0.10
+dragon82000: calls $0.10
+I_Not_Alone: folds 
+johhnn123: calls $0.10
+Vaha379: folds 
+homeroxx2018: raises $0.40 to $0.50
+Einius19: calls $0.40
+dragon82000: calls $0.40
+johhnn123: calls $0.40
+*** FLOP *** [Ts Kh Tc]
+homeroxx2018: bets $0.40
+Einius19: folds 
+dragon82000: raises $0.40 to $0.80
+johhnn123: folds 
+homeroxx2018: calls $0.40
+*** TURN *** [Ts Kh Tc] [Jc]
+homeroxx2018: checks 
+dragon82000: bets $1.75
+homeroxx2018: calls $1.75
+*** RIVER *** [Ts Kh Tc Jc] [Th]
+homeroxx2018: checks 
+dragon82000: bets $6.83
+homeroxx2018: folds 
+Uncalled bet ($6.83) returned to dragon82000
+dragon82000 collected $6.83 from pot
+dragon82000: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.15 | Rake $0.32 
+Board [Ts Kh Tc Jc Th]
+Seat 1: Einius19 folded on the Flop
+Seat 2: dragon82000 collected ($6.83)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded on the Flop
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded on the River
+
+
+
+PokerStars Hand #222975454625:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:34:11 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Einius19 ($3.34 in chips) 
+Seat 2: dragon82000 ($14.96 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($21.70 in chips) 
+Seat 5: Vaha379 ($19.54 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+homeroxx2018: posts small blind $0.05
+Einius19: posts big blind $0.10
+*** HOLE CARDS ***
+dragon82000: calls $0.10
+I_Not_Alone: folds 
+johhnn123: raises $0.30 to $0.40
+Vaha379: folds 
+homeroxx2018: folds 
+Einius19: calls $0.30
+dragon82000: folds 
+*** FLOP *** [7h 5d 5c]
+Einius19: bets $0.45
+johhnn123: raises $0.45 to $0.90
+Einius19: calls $0.45
+*** TURN *** [7h 5d 5c] [Th]
+Einius19: checks 
+johhnn123: bets $0.90
+Einius19: calls $0.90
+*** RIVER *** [7h 5d 5c Th] [5h]
+Einius19: checks 
+johhnn123: bets $4.35
+Einius19: calls $1.14 and is all-in
+Uncalled bet ($3.21) returned to johhnn123
+*** SHOW DOWN ***
+johhnn123: shows [Jc Js] (a full house, Fives full of Jacks)
+Einius19: shows [Jh Ad] (three of a kind, Fives)
+johhnn123 collected $6.52 from pot
+*** SUMMARY ***
+Total pot $6.83 | Rake $0.31 
+Board [7h 5d 5c Th 5h]
+Seat 1: Einius19 (big blind) showed [Jh Ad] and lost with three of a kind, Fives
+Seat 2: dragon82000 folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 showed [Jc Js] and won ($6.52) with a full house, Fives full of Jacks
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975485267:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:34:50 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 2: dragon82000 ($14.86 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($24.88 in chips) 
+Seat 5: Vaha379 ($19.54 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+dragon82000: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+dragon82000: folds 
+Uncalled bet ($0.05) returned to I_Not_Alone
+I_Not_Alone collected $0.10 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: dragon82000 (small blind) folded before Flop
+Seat 3: I_Not_Alone (big blind) collected ($0.10)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975491954:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:34:59 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 2: dragon82000 ($14.81 in chips) 
+Seat 3: I_Not_Alone ($11.40 in chips) 
+Seat 4: johhnn123 ($24.88 in chips) 
+Seat 5: Vaha379 ($19.54 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Einius19 leaves the table
+Vaha379: folds 
+homeroxx2018: folds 
+dragon82000: calls $0.10
+I_Not_Alone: folds 
+johhnn123: checks 
+*** FLOP *** [Kc 2h Qc]
+johhnn123: checks 
+dragon82000: checks 
+*** TURN *** [Kc 2h Qc] [4s]
+johhnn123: bets $0.10
+dragon82000: calls $0.10
+*** RIVER *** [Kc 2h Qc 4s] [2c]
+johhnn123: bets $0.10
+dragon82000: raises $0.10 to $0.20
+johhnn123: calls $0.10
+*** SHOW DOWN ***
+dragon82000: shows [5s Ad] (a pair of Deuces)
+johhnn123: shows [8h 4d] (two pair, Fours and Deuces)
+johhnn123 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Kc 2h Qc 4s 2c]
+Seat 2: dragon82000 (button) showed [5s Ad] and lost with a pair of Deuces
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) showed [8h 4d] and won ($0.81) with two pair, Fours and Deuces
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975521236:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:35:24 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 2: dragon82000 ($14.41 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($25.29 in chips) 
+Seat 5: Vaha379 ($19.54 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+dragon82000: calls $0.10
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: checks 
+*** FLOP *** [6d Tc 9s]
+mrgretty joins the table at seat #1 
+Vaha379: checks 
+dragon82000: checks 
+*** TURN *** [6d Tc 9s] [2c]
+Vaha379: checks 
+dragon82000: bets $0.12
+Vaha379: folds 
+Uncalled bet ($0.12) returned to dragon82000
+dragon82000 collected $0.24 from pot
+dragon82000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d Tc 9s 2c]
+Seat 2: dragon82000 collected ($0.24)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) folded on the Turn
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975541532:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:35:50 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 2: dragon82000 ($14.55 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($25.24 in chips) 
+Seat 5: Vaha379 ($19.44 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+mrgretty: sits out 
+*** HOLE CARDS ***
+dragon82000: calls $0.10
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: checks 
+*** FLOP *** [8h As 3c]
+homeroxx2018: checks 
+dragon82000: checks 
+*** TURN *** [8h As 3c] [Jd]
+homeroxx2018: bets $0.20
+dragon82000: calls $0.20
+*** RIVER *** [8h As 3c Jd] [2d]
+homeroxx2018: bets $1.30
+dragon82000: raises $1.30 to $2.60
+homeroxx2018: calls $1.30
+*** SHOW DOWN ***
+dragon82000: shows [Ad Ac] (three of a kind, Aces)
+homeroxx2018: mucks hand 
+dragon82000 collected $5.59 from pot
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.26 
+Board [8h As 3c Jd 2d]
+Seat 2: dragon82000 showed [Ad Ac] and won ($5.59) with three of a kind, Aces
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) mucked
+
+
+
+PokerStars Hand #222975571841:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:36:29 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: mrgretty ($8 in chips) 
+Seat 2: dragon82000 ($17.24 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($25.24 in chips) 
+Seat 5: Vaha379 ($19.39 in chips) 
+Seat 6: homeroxx2018 ($10 in chips) 
+homeroxx2018: posts small blind $0.05
+mrgretty: posts big blind $0.10
+*** HOLE CARDS ***
+dragon82000: folds 
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: raises $0.15 to $0.25
+homeroxx2018: raises $0.65 to $0.90
+mrgretty: folds 
+Vaha379: calls $0.65
+*** FLOP *** [2d Js Qc]
+homeroxx2018: bets $0.60
+Vaha379: calls $0.60
+*** TURN *** [2d Js Qc] [Kd]
+homeroxx2018: bets $2.22
+Vaha379: folds 
+Uncalled bet ($2.22) returned to homeroxx2018
+homeroxx2018 collected $2.96 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.14 
+Board [2d Js Qc Kd]
+Seat 1: mrgretty (big blind) folded before Flop
+Seat 2: dragon82000 folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded on the Turn
+Seat 6: homeroxx2018 (small blind) collected ($2.96)
+
+
+
+PokerStars Hand #222975602614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:37:09 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: mrgretty ($7.90 in chips) 
+Seat 2: dragon82000 ($17.24 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($25.24 in chips) 
+Seat 5: Vaha379 ($17.89 in chips) 
+Seat 6: homeroxx2018 ($11.46 in chips) 
+mrgretty: posts small blind $0.05
+dragon82000: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: raises $0.20 to $0.30
+homeroxx2018: folds 
+mrgretty: folds 
+dragon82000: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mrgretty (small blind) folded before Flop
+Seat 2: dragon82000 (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 collected ($0.25)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975614543:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:37:25 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: mrgretty ($7.85 in chips) 
+Seat 2: dragon82000 ($17.14 in chips) 
+Seat 3: I_Not_Alone ($11.35 in chips) 
+Seat 4: johhnn123 ($25.24 in chips) 
+Seat 5: Vaha379 ($18.04 in chips) 
+Seat 6: homeroxx2018 ($11.46 in chips) 
+dragon82000: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+mrgretty: raises $0.12 to $0.22
+dragon82000: calls $0.17
+I_Not_Alone: folds 
+*** FLOP *** [Tc Kc 3h]
+dragon82000: bets $0.26
+mrgretty: raises $0.47 to $0.73
+dragon82000: calls $0.47
+*** TURN *** [Tc Kc 3h] [6s]
+dragon82000: checks 
+mrgretty: checks 
+*** RIVER *** [Tc Kc 3h 6s] [6c]
+dragon82000: bets $0.96
+mrgretty: raises $2.87 to $3.83
+dragon82000: folds 
+Uncalled bet ($2.87) returned to mrgretty
+mrgretty collected $3.74 from pot
+mrgretty: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.92 | Rake $0.18 
+Board [Tc Kc 3h 6s 6c]
+Seat 1: mrgretty (button) collected ($3.74)
+Seat 2: dragon82000 (small blind) folded on the River
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975645521:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:38:05 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 1: mrgretty ($9.68 in chips) 
+Seat 2: dragon82000 ($15.23 in chips) 
+Seat 3: I_Not_Alone ($11.25 in chips) 
+Seat 4: johhnn123 ($25.24 in chips) 
+Seat 5: Vaha379 ($18.04 in chips) 
+Seat 6: homeroxx2018 ($11.46 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+mrgretty: folds 
+dragon82000: folds 
+I_Not_Alone: raises $0.20 to $0.30
+johhnn123: raises $0.60 to $0.90
+I_Not_Alone: folds 
+Uncalled bet ($0.60) returned to johhnn123
+johhnn123 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mrgretty folded before Flop (didn't bet)
+Seat 2: dragon82000 (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) collected ($0.60)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975662882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:38:28 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 1: mrgretty ($9.68 in chips) 
+Seat 2: dragon82000 ($15.23 in chips) 
+Seat 3: I_Not_Alone ($10.95 in chips) 
+Seat 4: johhnn123 ($25.54 in chips) 
+Seat 5: Vaha379 ($18.04 in chips) 
+Seat 6: homeroxx2018 ($11.46 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+mrgretty: raises $0.15 to $0.25
+dragon82000: folds 
+I_Not_Alone: folds 
+johhnn123: calls $0.20
+Vaha379: calls $0.15
+*** FLOP *** [5d Qd 5s]
+johhnn123: checks 
+Vaha379: checks 
+mrgretty: checks 
+*** TURN *** [5d Qd 5s] [Jh]
+johhnn123: bets $0.36
+Vaha379: folds 
+mrgretty: folds 
+Uncalled bet ($0.36) returned to johhnn123
+johhnn123 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5d Qd 5s Jh]
+Seat 1: mrgretty folded on the Turn
+Seat 2: dragon82000 folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) collected ($0.72)
+Seat 5: Vaha379 (big blind) folded on the Turn
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975689915:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:39:03 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: mrgretty ($9.43 in chips) 
+Seat 2: dragon82000 ($15.23 in chips) 
+Seat 3: I_Not_Alone ($10.95 in chips) 
+Seat 4: johhnn123 ($26.01 in chips) 
+Seat 5: Vaha379 ($17.79 in chips) 
+Seat 6: homeroxx2018 ($11.46 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+mrgretty: folds 
+mrgretty leaves the table
+dragon82000: folds 
+I_Not_Alone: raises $0.15 to $0.25
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: folds 
+Uncalled bet ($0.15) returned to I_Not_Alone
+I_Not_Alone collected $0.25 from pot
+I_Not_Alone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mrgretty folded before Flop (didn't bet)
+Seat 2: dragon82000 folded before Flop (didn't bet)
+Seat 3: I_Not_Alone collected ($0.25)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975701674:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:39:18 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 2: dragon82000 ($15.23 in chips) 
+Seat 3: I_Not_Alone ($11.10 in chips) 
+Seat 4: johhnn123 ($26.01 in chips) 
+Seat 5: Vaha379 ($17.74 in chips) 
+Seat 6: homeroxx2018 ($11.36 in chips) 
+homeroxx2018: posts small blind $0.05
+dragon82000: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: raises $0.15 to $0.25
+homeroxx2018: calls $0.20
+dragon82000: folds 
+*** FLOP *** [Ks 4c Kc]
+homeroxx2018: checks 
+Vaha379: checks 
+*** TURN *** [Ks 4c Kc] [2d]
+homeroxx2018: checks 
+Vaha379: bets $0.28
+homeroxx2018: folds 
+Uncalled bet ($0.28) returned to Vaha379
+Vaha379 collected $0.57 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ks 4c Kc 2d]
+Seat 2: dragon82000 (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) collected ($0.57)
+Seat 6: homeroxx2018 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222975730253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:39:56 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 2: dragon82000 ($15.13 in chips) 
+Seat 3: I_Not_Alone ($11.10 in chips) 
+Seat 4: johhnn123 ($26.01 in chips) 
+Seat 5: Vaha379 ($18.06 in chips) 
+Seat 6: homeroxx2018 ($11.11 in chips) 
+dragon82000: posts small blind $0.05
+I_Not_Alone: posts big blind $0.10
+*** HOLE CARDS ***
+johhnn123: raises $0.15 to $0.25
+Vaha379: folds 
+homeroxx2018: folds 
+dragon82000: calls $0.20
+Zimniy joins the table at seat #1 
+I_Not_Alone: folds 
+*** FLOP *** [Ad 5h Qh]
+dragon82000: checks 
+johhnn123: checks 
+*** TURN *** [Ad 5h Qh] [8h]
+dragon82000: bets $0.29
+johhnn123: folds 
+Uncalled bet ($0.29) returned to dragon82000
+dragon82000 collected $0.57 from pot
+dragon82000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ad 5h Qh 8h]
+Seat 2: dragon82000 (small blind) collected ($0.57)
+Seat 3: I_Not_Alone (big blind) folded before Flop
+Seat 4: johhnn123 folded on the Turn
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975756492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:40:30 ET
+Table 'Una III' 6-max Seat #2 is the button
+Seat 2: dragon82000 ($15.45 in chips) 
+Seat 3: I_Not_Alone ($11 in chips) 
+Seat 4: johhnn123 ($25.76 in chips) 
+Seat 5: Vaha379 ($18.06 in chips) 
+Seat 6: homeroxx2018 ($11.11 in chips) 
+I_Not_Alone: posts small blind $0.05
+johhnn123: posts big blind $0.10
+Zimniy: sits out 
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+dragon82000: folds 
+I_Not_Alone: folds 
+Uncalled bet ($0.05) returned to johhnn123
+johhnn123 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: dragon82000 (button) folded before Flop (didn't bet)
+Seat 3: I_Not_Alone (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) collected ($0.10)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975764206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:40:40 ET
+Table 'Una III' 6-max Seat #3 is the button
+Seat 2: dragon82000 ($15.45 in chips) 
+Seat 3: I_Not_Alone ($10.95 in chips) 
+Seat 4: johhnn123 ($25.81 in chips) 
+Seat 5: Vaha379 ($18.06 in chips) 
+Seat 6: homeroxx2018 ($11.11 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+Zimniy: sits out 
+*** HOLE CARDS ***
+homeroxx2018: folds 
+dragon82000: calls $0.10
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: checks 
+*** FLOP *** [5h 7s 2h]
+Vaha379: checks 
+dragon82000: bets $0.12
+Vaha379: calls $0.12
+*** TURN *** [5h 7s 2h] [Jc]
+Vaha379: checks 
+dragon82000: bets $0.24
+Vaha379: calls $0.24
+*** RIVER *** [5h 7s 2h Jc] [8d]
+Vaha379: checks 
+dragon82000: checks 
+*** SHOW DOWN ***
+Vaha379: shows [Ah 7d] (a pair of Sevens)
+dragon82000: mucks hand 
+Vaha379 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [5h 7s 2h Jc 8d]
+Seat 2: dragon82000 mucked
+Seat 3: I_Not_Alone (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) showed [Ah 7d] and won ($0.93) with a pair of Sevens
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975783347:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:41:05 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 2: dragon82000 ($14.99 in chips) 
+Seat 3: I_Not_Alone ($10.95 in chips) 
+Seat 4: johhnn123 ($25.76 in chips) 
+Seat 5: Vaha379 ($18.53 in chips) 
+Seat 6: homeroxx2018 ($11.11 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+Zimniy: sits out 
+*** HOLE CARDS ***
+dragon82000: folds 
+I_Not_Alone: folds 
+johhnn123: raises $0.15 to $0.25
+Vaha379: folds 
+homeroxx2018: calls $0.15
+*** FLOP *** [Kh 7h Kc]
+homeroxx2018: checks 
+johhnn123: checks 
+*** TURN *** [Kh 7h Kc] [6d]
+homeroxx2018: checks 
+johhnn123: checks 
+*** RIVER *** [Kh 7h Kc 6d] [Qd]
+dragon82000 leaves the table
+homeroxx2018: checks 
+johhnn123: checks 
+*** SHOW DOWN ***
+homeroxx2018: shows [Jc 8d] (a pair of Kings)
+johhnn123: shows [Ad 5s] (a pair of Kings - Ace kicker)
+johhnn123 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Kh 7h Kc 6d Qd]
+Seat 2: dragon82000 folded before Flop (didn't bet)
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) showed [Ad 5s] and won ($0.53) with a pair of Kings
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) showed [Jc 8d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #222975818828:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:41:51 ET
+Table 'Una III' 6-max Seat #5 is the button
+Seat 1: Zimniy ($10 in chips) 
+Seat 3: I_Not_Alone ($10.95 in chips) 
+Seat 4: johhnn123 ($26.04 in chips) 
+Seat 5: Vaha379 ($18.48 in chips) 
+Seat 6: homeroxx2018 ($10.86 in chips) 
+homeroxx2018: posts small blind $0.05
+Zimniy: posts big blind $0.10
+*** HOLE CARDS ***
+I_Not_Alone: folds 
+johhnn123: folds 
+Vaha379: folds 
+homeroxx2018: raises $0.20 to $0.30
+Zimniy: folds 
+Uncalled bet ($0.20) returned to homeroxx2018
+homeroxx2018 collected $0.20 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Zimniy (big blind) folded before Flop
+Seat 3: I_Not_Alone folded before Flop (didn't bet)
+Seat 4: johhnn123 folded before Flop (didn't bet)
+Seat 5: Vaha379 (button) folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222975830992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:42:07 ET
+Table 'Una III' 6-max Seat #6 is the button
+Seat 1: Zimniy ($10 in chips) 
+Seat 4: johhnn123 ($26.04 in chips) 
+Seat 5: Vaha379 ($18.48 in chips) 
+Seat 6: homeroxx2018 ($10.96 in chips) 
+Zimniy: posts small blind $0.05
+I_Not_Alone: is sitting out 
+johhnn123: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+homeroxx2018: folds 
+I_Not_Alone leaves the table
+Zimniy: folds 
+Uncalled bet ($0.05) returned to johhnn123
+johhnn123 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Zimniy (small blind) folded before Flop
+Seat 4: johhnn123 (big blind) collected ($0.10)
+Seat 5: Vaha379 folded before Flop (didn't bet)
+Seat 6: homeroxx2018 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975836826:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:42:15 ET
+Table 'Una III' 6-max Seat #1 is the button
+Seat 1: Zimniy ($10 in chips) 
+Seat 4: johhnn123 ($26.09 in chips) 
+Seat 5: Vaha379 ($18.48 in chips) 
+Seat 6: homeroxx2018 ($10.96 in chips) 
+johhnn123: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+homeroxx2018: folds 
+Zimniy: folds 
+johhnn123: folds 
+Uncalled bet ($0.05) returned to Vaha379
+Vaha379 collected $0.10 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Zimniy (button) folded before Flop (didn't bet)
+Seat 4: johhnn123 (small blind) folded before Flop
+Seat 5: Vaha379 (big blind) collected ($0.10)
+Seat 6: homeroxx2018 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975840461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:42:20 ET
+Table 'Una III' 6-max Seat #4 is the button
+Seat 1: Zimniy ($10 in chips) 
+Seat 4: johhnn123 ($26.04 in chips) 
+Seat 5: Vaha379 ($18.53 in chips) 
+Seat 6: homeroxx2018 ($10.96 in chips) 
+Vaha379: posts small blind $0.05
+homeroxx2018: posts big blind $0.10
+*** HOLE CARDS ***
+Zimniy: folds 
+johhnn123: folds 
+Vaha379: folds 
+Uncalled bet ($0.05) returned to homeroxx2018
+Vaha379 leaves the table
+homeroxx2018 collected $0.10 from pot
+homeroxx2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Zimniy folded before Flop (didn't bet)
+Seat 4: johhnn123 (button) folded before Flop (didn't bet)
+Seat 5: Vaha379 (small blind) folded before Flop
+Seat 6: homeroxx2018 (big blind) collected ($0.10)
+
+
+

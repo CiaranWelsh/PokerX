@@ -1,0 +1,5920 @@
+﻿PokerStars Hand #222954853061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:18:36 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: k s ivan4 ($11.54 in chips) 
+Seat 2: gokudousan ($9.92 in chips) 
+Seat 3: Caolan M540 ($14.06 in chips) 
+Seat 4: svenikkk ($10.15 in chips) 
+Seat 5: andreaa1970 ($8.55 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+svenikkk: posts small blind $0.05
+andreaa1970: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+Caolan M540: raises $0.10 to $0.20
+svenikkk: folds 
+andreaa1970: calls $0.10
+*** FLOP *** [9d 8c Jh]
+andreaa1970: checks 
+Caolan M540: checks 
+*** TURN *** [9d 8c Jh] [2d]
+andreaa1970: bets $0.20
+Caolan M540: calls $0.20
+*** RIVER *** [9d 8c Jh 2d] [Th]
+andreaa1970: checks 
+Caolan M540: checks 
+*** SHOW DOWN ***
+andreaa1970: shows [7s 9h] (a straight, Seven to Jack)
+Caolan M540: mucks hand 
+andreaa1970 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [9d 8c Jh 2d Th]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: Caolan M540 (button) mucked
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: andreaa1970 (big blind) showed [7s 9h] and won ($0.81) with a straight, Seven to Jack
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954876903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:19:24 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($11.54 in chips) 
+Seat 2: gokudousan ($9.92 in chips) 
+Seat 3: Caolan M540 ($13.66 in chips) 
+Seat 4: svenikkk ($10.10 in chips) 
+Seat 5: andreaa1970 ($8.96 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+andreaa1970: posts small blind $0.05
+poseidoporunbot: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+Caolan M540 has timed out
+Caolan M540: folds 
+svenikkk: folds 
+andreaa1970: calls $0.25
+poseidoporunbot: folds 
+*** FLOP *** [7c Jc 5s]
+andreaa1970: checks 
+Caolan M540 is disconnected 
+gokudousan: checks 
+*** TURN *** [7c Jc 5s] [3c]
+andreaa1970: bets $0.30
+gokudousan: folds 
+Uncalled bet ($0.30) returned to andreaa1970
+andreaa1970 collected $0.67 from pot
+andreaa1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7c Jc 5s 3c]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded on the Turn
+Seat 3: Caolan M540 folded before Flop (didn't bet)
+Seat 4: svenikkk (button) folded before Flop (didn't bet)
+Seat 5: andreaa1970 (small blind) collected ($0.67)
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #222954908357:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:20:27 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($11.54 in chips) 
+Seat 2: gokudousan ($9.62 in chips) 
+Seat 3: Caolan M540 ($13.66 in chips) 
+Seat 4: svenikkk ($10.10 in chips) 
+Seat 5: andreaa1970 ($9.33 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+poseidoporunbot: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+Caolan M540: folds 
+svenikkk: raises $0.20 to $0.30
+andreaa1970 has timed out
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: calls $0.20
+*** FLOP *** [Qs 6c Qc]
+k s ivan4: checks 
+svenikkk: checks 
+*** TURN *** [Qs 6c Qc] [Js]
+k s ivan4: checks 
+svenikkk: checks 
+*** RIVER *** [Qs 6c Qc Js] [Qh]
+k s ivan4: checks 
+svenikkk: bets $0.47
+k s ivan4: folds 
+Uncalled bet ($0.47) returned to svenikkk
+svenikkk collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qs 6c Qc Js Qh]
+Seat 1: k s ivan4 (big blind) folded on the River
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: Caolan M540 folded before Flop (didn't bet)
+Seat 4: svenikkk collected ($0.62)
+Seat 5: andreaa1970 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954944602:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:21:39 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($11.24 in chips) 
+Seat 2: gokudousan ($9.62 in chips) 
+Seat 3: Caolan M540 ($13.66 in chips) 
+Seat 4: svenikkk ($10.42 in chips) 
+Seat 5: andreaa1970 ($9.33 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+Caolan M540: folds 
+svenikkk: folds 
+andreaa1970: folds 
+poseidoporunbot: raises $0.15 to $0.25
+k s ivan4: calls $0.20
+gokudousan: folds 
+*** FLOP *** [5h 4d 6s]
+k s ivan4: checks 
+poseidoporunbot: checks 
+*** TURN *** [5h 4d 6s] [As]
+k s ivan4: bets $0.31
+poseidoporunbot: calls $0.31
+*** RIVER *** [5h 4d 6s As] [Ks]
+k s ivan4: bets $0.64
+poseidoporunbot: calls $0.64
+*** SHOW DOWN ***
+k s ivan4: shows [Js Ts] (a flush, Ace high)
+poseidoporunbot: mucks hand 
+k s ivan4 collected $2.39 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11 
+Board [5h 4d 6s As Ks]
+Seat 1: k s ivan4 (small blind) showed [Js Ts] and won ($2.39) with a flush, Ace high
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 3: Caolan M540 folded before Flop (didn't bet)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) mucked
+
+
+
+PokerStars Hand #222954969693:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:22:29 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.52 in chips) 
+Seat 3: Caolan M540 ($13.66 in chips) 
+Seat 4: svenikkk ($10.42 in chips) 
+Seat 5: andreaa1970 ($9.33 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+gokudousan: posts small blind $0.05
+Caolan M540: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+andreaa1970: raises $0.20 to $0.30
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+Caolan M540: calls $0.20
+*** FLOP *** [Qs 5c 3h]
+Caolan M540: checks 
+andreaa1970: bets $0.30
+Caolan M540: folds 
+Uncalled bet ($0.30) returned to andreaa1970
+andreaa1970 collected $0.62 from pot
+andreaa1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qs 5c 3h]
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 3: Caolan M540 (big blind) folded on the Flop
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 collected ($0.62)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954989926:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:23:09 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.47 in chips) 
+Seat 3: Caolan M540 ($13.36 in chips) 
+Seat 4: svenikkk ($10.42 in chips) 
+Seat 5: andreaa1970 ($9.65 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+Caolan M540: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+Caolan M540: raises $0.10 to $0.20
+svenikkk: raises $0.70 to $0.90
+Caolan M540: calls $0.70
+*** FLOP *** [Tc Qd 2c]
+Caolan M540: checks 
+svenikkk: checks 
+*** TURN *** [Tc Qd 2c] [2s]
+Caolan M540: bets $0.66
+svenikkk: calls $0.66
+*** RIVER *** [Tc Qd 2c 2s] [5c]
+Caolan M540: checks 
+svenikkk: checks 
+*** SHOW DOWN ***
+Caolan M540: shows [5d 6d] (two pair, Fives and Deuces)
+svenikkk: shows [7h 7s] (two pair, Sevens and Deuces)
+svenikkk collected $2.98 from pot
+*** SUMMARY ***
+Total pot $3.12 | Rake $0.14 
+Board [Tc Qd 2c 2s 5c]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 3: Caolan M540 (small blind) showed [5d 6d] and lost with two pair, Fives and Deuces
+Seat 4: svenikkk (big blind) showed [7h 7s] and won ($2.98) with two pair, Sevens and Deuces
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955016653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:24:03 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.47 in chips) 
+Seat 3: Caolan M540 ($11.80 in chips) 
+Seat 4: svenikkk ($11.84 in chips) 
+Seat 5: andreaa1970 ($9.65 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+svenikkk: posts small blind $0.05
+andreaa1970: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+k s ivan4: raises $0.15 to $0.25
+gokudousan: folds 
+Caolan M540: folds 
+svenikkk: folds 
+andreaa1970: folds 
+Uncalled bet ($0.15) returned to k s ivan4
+k s ivan4 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 collected ($0.25)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: Caolan M540 (button) folded before Flop (didn't bet)
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: andreaa1970 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955024103:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:24:18 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($12.58 in chips) 
+Seat 2: gokudousan ($9.47 in chips) 
+Seat 3: Caolan M540 ($11.80 in chips) 
+Seat 4: svenikkk ($11.79 in chips) 
+Seat 5: andreaa1970 ($9.55 in chips) 
+Seat 6: poseidoporunbot ($10 in chips) 
+andreaa1970: posts small blind $0.05
+poseidoporunbot: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: folds 
+gokudousan: folds 
+Caolan M540: folds 
+svenikkk: raises $0.20 to $0.30
+andreaa1970: calls $0.25
+poseidoporunbot: calls $0.20
+*** FLOP *** [Js 9s 2s]
+andreaa1970: checks 
+poseidoporunbot: checks 
+svenikkk: checks 
+*** TURN *** [Js 9s 2s] [2h]
+andreaa1970: checks 
+poseidoporunbot: bets $0.57
+svenikkk: folds 
+andreaa1970: folds 
+Uncalled bet ($0.57) returned to poseidoporunbot
+poseidoporunbot collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Js 9s 2s 2h]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: Caolan M540 folded before Flop (didn't bet)
+Seat 4: svenikkk (button) folded on the Turn
+Seat 5: andreaa1970 (small blind) folded on the Turn
+Seat 6: poseidoporunbot (big blind) collected ($0.86)
+
+
+
+PokerStars Hand #222955054770:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:25:20 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($12.58 in chips) 
+Seat 2: gokudousan ($9.47 in chips) 
+Seat 3: Caolan M540 ($11.80 in chips) 
+Seat 4: svenikkk ($11.49 in chips) 
+Seat 5: andreaa1970 ($9.25 in chips) 
+Seat 6: poseidoporunbot ($10.56 in chips) 
+poseidoporunbot: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+Caolan M540: raises $0.20 to $0.30
+svenikkk: folds 
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+Uncalled bet ($0.20) returned to Caolan M540
+Caolan M540 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 (big blind) folded before Flop
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: Caolan M540 collected ($0.25)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955062616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:25:36 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($12.48 in chips) 
+Seat 2: gokudousan ($9.47 in chips) 
+Seat 3: Caolan M540 ($11.95 in chips) 
+Seat 4: svenikkk ($11.49 in chips) 
+Seat 5: andreaa1970 ($9.25 in chips) 
+Seat 6: poseidoporunbot ($10.51 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+Caolan M540: folds 
+svenikkk: raises $0.20 to $0.30
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: calls $0.20
+*** FLOP *** [9c 4s 9h]
+gokudousan: checks 
+svenikkk: bets $0.40
+gokudousan: folds 
+Uncalled bet ($0.40) returned to svenikkk
+svenikkk collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9c 4s 9h]
+Seat 1: k s ivan4 (small blind) folded before Flop
+Seat 2: gokudousan (big blind) folded on the Flop
+Seat 3: Caolan M540 folded before Flop (didn't bet)
+Seat 4: svenikkk collected ($0.62)
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955083270:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:26:18 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.17 in chips) 
+Seat 3: Caolan M540 ($11.95 in chips) 
+Seat 4: svenikkk ($11.81 in chips) 
+Seat 5: andreaa1970 ($9.25 in chips) 
+Seat 6: poseidoporunbot ($10.51 in chips) 
+gokudousan: posts small blind $0.05
+Caolan M540: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: raises $0.20 to $0.30
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+Caolan M540: folds 
+Uncalled bet ($0.20) returned to svenikkk
+svenikkk collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 3: Caolan M540 (big blind) folded before Flop
+Seat 4: svenikkk collected ($0.25)
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955091948:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:26:35 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.12 in chips) 
+Seat 3: Caolan M540 ($11.85 in chips) 
+Seat 4: svenikkk ($11.96 in chips) 
+Seat 5: andreaa1970 ($9.25 in chips) 
+Seat 6: poseidoporunbot ($10.51 in chips) 
+Caolan M540: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+Caolan M540: calls $0.05
+svenikkk: raises $0.40 to $0.50
+Caolan M540: calls $0.40
+*** FLOP *** [4c Qh 8h]
+Caolan M540: checks 
+svenikkk: bets $0.72
+Caolan M540: raises $2.52 to $3.24
+svenikkk: folds 
+Uncalled bet ($2.52) returned to Caolan M540
+Caolan M540 collected $2.33 from pot
+Caolan M540: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.44 | Rake $0.11 
+Board [4c Qh 8h]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 3: Caolan M540 (small blind) collected ($2.33)
+Seat 4: svenikkk (big blind) folded on the Flop
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955112842:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:27:18 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.12 in chips) 
+Seat 3: Caolan M540 ($12.96 in chips) 
+Seat 4: svenikkk ($10.74 in chips) 
+Seat 5: andreaa1970 ($9.25 in chips) 
+Seat 6: poseidoporunbot ($10.51 in chips) 
+svenikkk: posts small blind $0.05
+andreaa1970: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+Caolan M540: folds 
+Caolan M540 leaves the table
+svenikkk: folds 
+andreaa1970: folds 
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.25 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan collected ($0.25)
+Seat 3: Caolan M540 (button) folded before Flop (didn't bet)
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: andreaa1970 (big blind) folded before Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955126138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:27:45 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($12.43 in chips) 
+Seat 2: gokudousan ($9.27 in chips) 
+Seat 4: svenikkk ($10.69 in chips) 
+Seat 5: andreaa1970 ($9.15 in chips) 
+Seat 6: poseidoporunbot ($10.51 in chips) 
+andreaa1970: posts small blind $0.05
+poseidoporunbot: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse joins the table at seat #3 
+k s ivan4: raises $0.15 to $0.25
+gokudousan: folds 
+svenikkk: folds 
+andreaa1970: folds 
+poseidoporunbot: calls $0.15
+*** FLOP *** [Tc 2h 6d]
+poseidoporunbot: checks 
+k s ivan4: bets $0.29
+poseidoporunbot: raises $1.01 to $1.30
+k s ivan4: calls $1.01
+*** TURN *** [Tc 2h 6d] [6s]
+poseidoporunbot: bets $2.50
+k s ivan4: calls $2.50
+*** RIVER *** [Tc 2h 6d 6s] [Ac]
+poseidoporunbot: bets $6.46 and is all-in
+k s ivan4: folds [Js Jh]
+Uncalled bet ($6.46) returned to poseidoporunbot
+poseidoporunbot collected $7.78 from pot
+*** SUMMARY ***
+Total pot $8.15 | Rake $0.37 
+Board [Tc 2h 6d 6s Ac]
+Seat 1: k s ivan4 folded on the River
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: svenikkk (button) folded before Flop (didn't bet)
+Seat 5: andreaa1970 (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) collected ($7.78)
+
+
+
+PokerStars Hand #222955177573:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:29:15 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.27 in chips) 
+Seat 4: svenikkk ($10.69 in chips) 
+Seat 5: andreaa1970 ($9.10 in chips) 
+Seat 6: poseidoporunbot ($14.24 in chips) 
+poseidoporunbot: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+Assetgasse: sits out 
+*** HOLE CARDS ***
+gokudousan: folds 
+svenikkk: folds 
+andreaa1970: raises $0.20 to $0.30
+poseidoporunbot: folds 
+k s ivan4: calls $0.20
+*** FLOP *** [8c 2c 7d]
+k s ivan4: checks 
+andreaa1970: bets $0.20
+k s ivan4: calls $0.20
+*** TURN *** [8c 2c 7d] [Td]
+Assetgasse leaves the table
+k s ivan4: checks 
+andreaa1970: checks 
+*** RIVER *** [8c 2c 7d Td] [Ts]
+k s ivan4: checks 
+andreaa1970: checks 
+*** SHOW DOWN ***
+k s ivan4: shows [Jh Qh] (a pair of Tens)
+andreaa1970: shows [As 5s] (a pair of Tens - Ace kicker)
+andreaa1970 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8c 2c 7d Td Ts]
+Seat 1: k s ivan4 (big blind) showed [Jh Qh] and lost with a pair of Tens
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 (button) showed [As 5s] and won ($1) with a pair of Tens
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955194895:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:29:50 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.27 in chips) 
+Seat 4: svenikkk ($10.69 in chips) 
+Seat 5: andreaa1970 ($9.60 in chips) 
+Seat 6: poseidoporunbot ($14.19 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+andreaa1970: folds 
+poseidoporunbot: folds 
+k s ivan4: raises $0.20 to $0.30
+gokudousan: calls $0.20
+*** FLOP *** [5d 9h Ah]
+aceking12605 joins the table at seat #3 
+k s ivan4: bets $0.31
+gokudousan: calls $0.31
+*** TURN *** [5d 9h Ah] [Kd]
+k s ivan4: checks 
+gokudousan: bets $0.50
+k s ivan4: folds 
+Uncalled bet ($0.50) returned to gokudousan
+gokudousan collected $1.17 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [5d 9h Ah Kd]
+Seat 1: k s ivan4 (small blind) folded on the Turn
+Seat 2: gokudousan (big blind) collected ($1.17)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955221687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:30:44 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.83 in chips) 
+Seat 3: aceking12605 ($4.88 in chips) 
+Seat 4: svenikkk ($10.69 in chips) 
+Seat 5: andreaa1970 ($9.60 in chips) 
+Seat 6: poseidoporunbot ($14.19 in chips) 
+gokudousan: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk has timed out
+svenikkk: folds 
+andreaa1970: raises $0.10 to $0.20
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605: calls $0.10
+*** FLOP *** [4s Td 9c]
+aceking12605: checks 
+andreaa1970: checks 
+*** TURN *** [4s Td 9c] [Ad]
+aceking12605: checks 
+andreaa1970: bets $0.30
+aceking12605: calls $0.30
+*** RIVER *** [4s Td 9c Ad] [7h]
+aceking12605: checks 
+andreaa1970: bets $1.10
+aceking12605: raises $3.28 to $4.38 and is all-in
+andreaa1970: folds [7d]
+Uncalled bet ($3.28) returned to aceking12605
+aceking12605 collected $3.10 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [4s Td 9c Ad 7h]
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) collected ($3.10)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 folded on the River
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955298489:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:33:15 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.78 in chips) 
+Seat 3: aceking12605 ($6.47 in chips) 
+Seat 4: svenikkk ($10.59 in chips) 
+Seat 5: andreaa1970 ($10 in chips) 
+Seat 6: poseidoporunbot ($14.19 in chips) 
+svenikkk: posts small blind $0.05
+andreaa1970: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605: raises $0.20 to $0.30
+svenikkk: folds 
+andreaa1970: raises $0.80 to $1.10
+aceking12605: calls $0.80
+*** FLOP *** [5s 9d Js]
+andreaa1970: checks 
+aceking12605: bets $1.07
+andreaa1970: calls $1.07
+*** TURN *** [5s 9d Js] [2h]
+andreaa1970: checks 
+aceking12605: checks 
+*** RIVER *** [5s 9d Js 2h] [6d]
+andreaa1970: checks 
+aceking12605: checks 
+*** SHOW DOWN ***
+andreaa1970: shows [Kc 5c] (a pair of Fives)
+aceking12605: shows [8s 8h] (a pair of Eights)
+aceking12605 collected $4.19 from pot
+*** SUMMARY ***
+Total pot $4.39 | Rake $0.20 
+Board [5s 9d Js 2h 6d]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) showed [8s 8h] and won ($4.19) with a pair of Eights
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: andreaa1970 (big blind) showed [Kc 5c] and lost with a pair of Fives
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955329138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:34:16 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.78 in chips) 
+Seat 3: aceking12605 ($8.49 in chips) 
+Seat 4: svenikkk ($10.54 in chips) 
+Seat 5: andreaa1970 ($7.98 in chips) 
+Seat 6: poseidoporunbot ($14.19 in chips) 
+andreaa1970: posts small blind $0.05
+poseidoporunbot: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605: raises $0.10 to $0.20
+svenikkk: folds 
+andreaa1970: calls $0.15
+poseidoporunbot: calls $0.10
+*** FLOP *** [Ad Kh Qd]
+andreaa1970: checks 
+poseidoporunbot: checks 
+aceking12605: bets $0.28
+andreaa1970: folds 
+poseidoporunbot: calls $0.28
+*** TURN *** [Ad Kh Qd] [Js]
+poseidoporunbot: checks 
+aceking12605: checks 
+*** RIVER *** [Ad Kh Qd Js] [5h]
+poseidoporunbot: checks 
+aceking12605: checks 
+*** SHOW DOWN ***
+poseidoporunbot: shows [8s As] (a pair of Aces)
+aceking12605: mucks hand 
+poseidoporunbot collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [Ad Kh Qd Js 5h]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 mucked
+Seat 4: svenikkk (button) folded before Flop (didn't bet)
+Seat 5: andreaa1970 (small blind) folded on the Flop
+Seat 6: poseidoporunbot (big blind) showed [8s As] and won ($1.11) with a pair of Aces
+
+
+
+PokerStars Hand #222955352400:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:35:02 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.78 in chips) 
+Seat 3: aceking12605 ($8.01 in chips) 
+Seat 4: svenikkk ($10.54 in chips) 
+Seat 5: andreaa1970 ($7.78 in chips) 
+Seat 6: poseidoporunbot ($14.82 in chips) 
+poseidoporunbot: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+aceking12605: calls $0.10
+svenikkk: raises $0.35 to $0.45
+andreaa1970: calls $0.45
+poseidoporunbot: folds 
+k s ivan4: folds 
+aceking12605: calls $0.35
+*** FLOP *** [4c 9s 4h]
+aceking12605: checks 
+svenikkk: bets $0.90
+andreaa1970: calls $0.90
+aceking12605: folds 
+*** TURN *** [4c 9s 4h] [Jh]
+svenikkk: bets $1.60
+andreaa1970: calls $1.60
+*** RIVER *** [4c 9s 4h Jh] [8c]
+svenikkk: bets $6.10
+andreaa1970: calls $4.83 and is all-in
+Uncalled bet ($1.27) returned to svenikkk
+*** SHOW DOWN ***
+svenikkk: shows [Qc 9c] (two pair, Nines and Fours)
+andreaa1970: shows [4d Ad] (three of a kind, Fours)
+andreaa1970 collected $15.43 from pot
+*** SUMMARY ***
+Total pot $16.16 | Rake $0.73 
+Board [4c 9s 4h Jh 8c]
+Seat 1: k s ivan4 (big blind) folded before Flop
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 folded on the Flop
+Seat 4: svenikkk showed [Qc 9c] and lost with two pair, Nines and Fours
+Seat 5: andreaa1970 (button) showed [4d Ad] and won ($15.43) with three of a kind, Fours
+Seat 6: poseidoporunbot (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955396378:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:36:30 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($9.78 in chips) 
+Seat 3: aceking12605 ($7.56 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: andreaa1970 ($15.43 in chips) 
+Seat 6: poseidoporunbot ($14.77 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: folds 
+svenikkk: folds 
+andreaa1970: folds 
+andreaa1970 leaves the table
+poseidoporunbot: folds 
+k s ivan4: raises $0.20 to $0.30
+gokudousan: folds 
+Uncalled bet ($0.20) returned to k s ivan4
+stardrakee joins the table at seat #5 
+k s ivan4 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: k s ivan4 (small blind) collected ($0.20)
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: andreaa1970 folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955406498:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:36:50 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($10.10 in chips) 
+Seat 2: gokudousan ($9.68 in chips) 
+Seat 3: aceking12605 ($7.56 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 6: poseidoporunbot ($14.77 in chips) 
+gokudousan: posts small blind $0.05
+aceking12605: posts big blind $0.10
+stardrakee: sits out 
+*** HOLE CARDS ***
+svenikkk: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+aceking12605: calls $0.20
+*** FLOP *** [Jd 2h As]
+gokudousan: checks 
+aceking12605: checks 
+*** TURN *** [Jd 2h As] [6h]
+gokudousan: bets $0.30
+aceking12605: folds 
+Uncalled bet ($0.30) returned to gokudousan
+gokudousan collected $0.57 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jd 2h As 6h]
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) collected ($0.57)
+Seat 3: aceking12605 (big blind) folded on the Turn
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955429072:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:37:35 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($10.10 in chips) 
+Seat 2: gokudousan ($9.95 in chips) 
+Seat 3: aceking12605 ($7.26 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 6: poseidoporunbot ($14.77 in chips) 
+aceking12605: posts small blind $0.05
+svenikkk: posts big blind $0.10
+stardrakee: sits out 
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+aceking12605: folds 
+svenikkk: calls $0.20
+*** FLOP *** [2s Kh 7d]
+svenikkk: checks 
+gokudousan: bets $0.30
+svenikkk: folds 
+Uncalled bet ($0.30) returned to gokudousan
+gokudousan collected $0.62 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2s Kh 7d]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) collected ($0.62)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: svenikkk (big blind) folded on the Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955439562:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:37:56 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: k s ivan4 ($10.10 in chips) 
+Seat 2: gokudousan ($10.27 in chips) 
+Seat 3: aceking12605 ($7.21 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: poseidoporunbot ($14.77 in chips) 
+svenikkk: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605: folds 
+svenikkk: raises $0.20 to $0.30
+stardrakee: calls $0.20
+*** FLOP *** [Ac Ks 5d]
+svenikkk: bets $0.43
+stardrakee: folds 
+Uncalled bet ($0.43) returned to svenikkk
+svenikkk collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ac Ks 5d]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: svenikkk (small blind) collected ($0.57)
+Seat 5: stardrakee (big blind) folded on the Flop
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955452106:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:38:21 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($10.10 in chips) 
+Seat 2: gokudousan ($10.27 in chips) 
+Seat 3: aceking12605 ($7.21 in chips) 
+Seat 4: svenikkk ($10.27 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: poseidoporunbot ($14.77 in chips) 
+stardrakee: posts small blind $0.05
+poseidoporunbot: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605 has timed out
+aceking12605: folds 
+svenikkk: raises $0.20 to $0.30
+stardrakee: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.20) returned to svenikkk
+svenikkk collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: svenikkk (button) collected ($0.25)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: poseidoporunbot (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955467015:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:38:51 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($10.10 in chips) 
+Seat 2: gokudousan ($10.27 in chips) 
+Seat 3: aceking12605 ($7.21 in chips) 
+Seat 4: svenikkk ($10.42 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: poseidoporunbot ($14.67 in chips) 
+poseidoporunbot: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: raises $0.20 to $0.30
+aceking12605: calls $0.30
+svenikkk: folds 
+stardrakee: folds 
+poseidoporunbot: calls $0.25
+k s ivan4: folds 
+*** FLOP *** [5h Td 4h]
+poseidoporunbot: checks 
+gokudousan: bets $0.40
+aceking12605: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.40) returned to gokudousan
+gokudousan collected $0.96 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [5h Td 4h]
+Seat 1: k s ivan4 (big blind) folded before Flop
+Seat 2: gokudousan collected ($0.96)
+Seat 3: aceking12605 folded on the Flop
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: poseidoporunbot (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222955495614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:39:47 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.93 in chips) 
+Seat 3: aceking12605 ($6.91 in chips) 
+Seat 4: svenikkk ($10.42 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: poseidoporunbot ($14.37 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605 has timed out
+aceking12605: folds 
+svenikkk: folds 
+stardrakee: raises $0.15 to $0.25
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: folds 
+Uncalled bet ($0.15) returned to stardrakee
+stardrakee collected $0.25 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 (small blind) folded before Flop
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: stardrakee collected ($0.25)
+Seat 6: poseidoporunbot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955508322:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:40:12 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 4: svenikkk ($10.42 in chips) 
+Seat 5: stardrakee ($10.15 in chips) 
+Seat 6: poseidoporunbot ($14.37 in chips) 
+gokudousan: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+poseidoporunbot: folds 
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+svenikkk: folds 
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.20 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) collected ($0.20)
+Seat 4: svenikkk (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: poseidoporunbot folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955516646:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:40:29 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.93 in chips) 
+Seat 4: svenikkk ($10.32 in chips) 
+Seat 5: stardrakee ($10.15 in chips) 
+Seat 6: poseidoporunbot ($14.37 in chips) 
+svenikkk: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: raises $0.20 to $0.30
+k s ivan4: folds 
+gokudousan: folds 
+svenikkk: folds 
+stardrakee: folds 
+Uncalled bet ($0.20) returned to poseidoporunbot
+poseidoporunbot collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: poseidoporunbot collected ($0.25)
+
+
+
+PokerStars Hand #222955528089:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:40:51 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.93 in chips) 
+Seat 4: svenikkk ($10.27 in chips) 
+Seat 5: stardrakee ($10.05 in chips) 
+stardrakee: posts small blind $0.05
+poseidoporunbot: is sitting out 
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+svenikkk: raises $0.20 to $0.30
+stardrakee: raises $0.80 to $1.10
+k s ivan4: folds 
+poseidoporunbot leaves the table
+svenikkk: folds 
+Uncalled bet ($0.80) returned to stardrakee
+stardrakee collected $0.70 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: k s ivan4 (big blind) folded before Flop
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: svenikkk (button) folded before Flop
+Seat 5: stardrakee (small blind) collected ($0.70)
+
+
+
+PokerStars Hand #222955537555:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:41:10 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.93 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($10.45 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+Scheng43 joins the table at seat #6 
+svenikkk: folds 
+stardrakee: raises $0.15 to $0.25
+k s ivan4: calls $0.20
+gokudousan: folds 
+*** FLOP *** [6s 5s Kc]
+k s ivan4: checks 
+stardrakee: bets $0.19
+k s ivan4: folds 
+Uncalled bet ($0.19) returned to stardrakee
+stardrakee collected $0.57 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6s 5s Kc]
+Seat 1: k s ivan4 (small blind) folded on the Flop
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: stardrakee (button) collected ($0.57)
+
+
+
+PokerStars Hand #222955551371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:41:38 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($10.77 in chips) 
+Seat 6: Scheng43 ($10 in chips) 
+gokudousan: posts small blind $0.05
+svenikkk: posts big blind $0.10
+Scheng43: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: raises $0.25 to $0.35
+Scheng43: folds 
+k s ivan4: folds 
+gokudousan: folds 
+svenikkk: calls $0.25
+*** FLOP *** [Ad 5d 4h]
+svenikkk: checks 
+stardrakee: bets $0.43
+svenikkk: calls $0.43
+*** TURN *** [Ad 5d 4h] [9c]
+svenikkk: checks 
+stardrakee: bets $0.86
+svenikkk: folds 
+Uncalled bet ($0.86) returned to stardrakee
+stardrakee collected $1.63 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.08 
+Board [Ad 5d 4h 9c]
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 4: svenikkk (big blind) folded on the Turn
+Seat 5: stardrakee collected ($1.63)
+Seat 6: Scheng43 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955579117:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:42:33 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.78 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Scheng43 ($9.90 in chips) 
+svenikkk: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+Scheng43: folds 
+k s ivan4: folds 
+gokudousan: folds 
+svenikkk: folds 
+Uncalled bet ($0.05) returned to stardrakee
+stardrakee collected $0.10 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: stardrakee (big blind) collected ($0.10)
+Seat 6: Scheng43 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955583759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:42:42 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($10 in chips) 
+Seat 2: gokudousan ($10.78 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($11.67 in chips) 
+Seat 6: Scheng43 ($9.90 in chips) 
+stardrakee: posts small blind $0.05
+Scheng43: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: raises $0.15 to $0.25
+gokudousan: folds 
+svenikkk: folds 
+stardrakee: folds 
+Scheng43: folds 
+Uncalled bet ($0.15) returned to k s ivan4
+k s ivan4 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 collected ($0.25)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: svenikkk (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Scheng43 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955595292:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:43:05 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: k s ivan4 ($10.15 in chips) 
+Seat 2: gokudousan ($10.78 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Scheng43 ($9.80 in chips) 
+Scheng43: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+svenikkk: folds 
+stardrakee: folds 
+Scheng43: raises $0.20 to $0.30
+k s ivan4: calls $0.20
+*** FLOP *** [Jc 7d 7c]
+Scheng43: bets $0.57
+k s ivan4: calls $0.57
+*** TURN *** [Jc 7d 7c] [2c]
+Scheng43: bets $0.83
+k s ivan4: calls $0.83
+*** RIVER *** [Jc 7d 7c 2c] [4d]
+Scheng43: checks 
+k s ivan4: bets $1.79
+Scheng43: folds 
+Uncalled bet ($1.79) returned to k s ivan4
+k s ivan4 collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.40 | Rake $0.15 
+Board [Jc 7d 7c 2c 4d]
+Seat 1: k s ivan4 (big blind) collected ($3.25)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: Scheng43 (small blind) folded on the River
+
+
+
+PokerStars Hand #222955946656:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:54:22 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($3.73 in chips) 
+Seat 2: gokudousan ($12.03 in chips) 
+Seat 4: DimaLesnoy ($10.14 in chips) 
+Seat 5: stardrakee ($12.41 in chips) 
+Seat 6: Scheng43 ($7.89 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+Scheng43: raises $0.20 to $0.30
+Doro2512: calls $0.30
+gokudousan: folds 
+DimaLesnoy: folds 
+stardrakee: calls $0.20
+*** FLOP *** [5c 7s Ts]
+stardrakee: checks 
+Scheng43: checks 
+Doro2512: bets $0.30
+stardrakee: calls $0.30
+Scheng43: folds 
+*** TURN *** [5c 7s Ts] [9s]
+stardrakee: checks 
+Doro2512: checks 
+*** RIVER *** [5c 7s Ts 9s] [6s]
+stardrakee: checks 
+Doro2512: bets $1.48
+stardrakee: folds 
+Uncalled bet ($1.48) returned to Doro2512
+Doro2512 collected $1.48 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [5c 7s Ts 9s 6s]
+Seat 1: Doro2512 collected ($1.48)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded on the River
+Seat 6: Scheng43 folded on the Flop
+
+
+
+PokerStars Hand #222955972042:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:55:13 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($4.61 in chips) 
+Seat 2: gokudousan ($12.03 in chips) 
+Seat 4: DimaLesnoy ($10.09 in chips) 
+Seat 5: stardrakee ($11.81 in chips) 
+Seat 6: Scheng43 ($7.59 in chips) 
+stardrakee: posts small blind $0.05
+Scheng43: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+gokudousan: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+Scheng43: raises $0.10 to $0.20
+Doro2512: calls $0.10
+*** FLOP *** [Qc Ts 2c]
+Scheng43: checks 
+Doro2512: checks 
+*** TURN *** [Qc Ts 2c] [Ac]
+Scheng43: bets $0.21
+Doro2512: calls $0.21
+*** RIVER *** [Qc Ts 2c Ac] [3c]
+Scheng43: checks 
+Doro2512: bets $1
+Scheng43: calls $1
+*** SHOW DOWN ***
+Doro2512: shows [8h Kc] (a flush, Ace high)
+Scheng43: mucks hand 
+Doro2512 collected $2.74 from pot
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.13 
+Board [Qc Ts 2c Ac 3c]
+Seat 1: Doro2512 showed [8h Kc] and won ($2.74) with a flush, Ace high
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Scheng43 (big blind) mucked
+
+
+
+PokerStars Hand #222956001312:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:56:27 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($5.94 in chips) 
+Seat 2: gokudousan ($12.03 in chips) 
+Seat 4: DimaLesnoy ($10.09 in chips) 
+Seat 5: stardrakee ($11.76 in chips) 
+Seat 6: Scheng43 ($6.18 in chips) 
+Scheng43: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: raises $0.20 to $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+Scheng43: folds 
+Doro2512: raises $0.40 to $0.70
+gokudousan: calls $0.40
+*** FLOP *** [Ad 2s 7s]
+Scheng43 leaves the table
+Doro2512: checks 
+gokudousan: checks 
+*** TURN *** [Ad 2s 7s] [6s]
+Doro2512: checks 
+gokudousan: checks 
+*** RIVER *** [Ad 2s 7s 6s] [Ts]
+Doro2512: bets $1.38
+gokudousan: folds 
+Uncalled bet ($1.38) returned to Doro2512
+Doro2512 collected $1.38 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [Ad 2s 7s 6s Ts]
+Seat 1: Doro2512 (big blind) collected ($1.38)
+Seat 2: gokudousan folded on the River
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: Scheng43 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956016274:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:57:04 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($6.62 in chips) 
+Seat 2: gokudousan ($11.33 in chips) 
+Seat 4: DimaLesnoy ($10.09 in chips) 
+Seat 5: stardrakee ($11.76 in chips) 
+gokudousan: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111 joins the table at seat #6 
+stardrakee: folds 
+Doro2512: calls $0.10
+gokudousan: folds 
+DimaLesnoy: checks 
+*** FLOP *** [Jh Qd Kd]
+DimaLesnoy: checks 
+Doro2512: bets $0.30
+DimaLesnoy: folds 
+Uncalled bet ($0.30) returned to Doro2512
+Doro2512 collected $0.24 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jh Qd Kd]
+Seat 1: Doro2512 (button) collected ($0.24)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded on the Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956024906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:57:25 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($6.76 in chips) 
+Seat 2: gokudousan ($11.28 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.76 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+Debolle111: sits out 
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+gokudousan: folds 
+DimaLesnoy: folds 
+stardrakee: checks 
+*** FLOP *** [8d Kc 5s]
+stardrakee: checks 
+Doro2512: checks 
+*** TURN *** [8d Kc 5s] [As]
+stardrakee: checks 
+Doro2512: checks 
+*** RIVER *** [8d Kc 5s As] [2d]
+stardrakee: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+stardrakee: shows [9d 7s] (high card Ace)
+Doro2512: mucks hand 
+stardrakee collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d Kc 5s As 2d]
+Seat 1: Doro2512 mucked
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) showed [9d 7s] and won ($0.24) with high card Ace
+
+
+
+PokerStars Hand #222956043221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:58:10 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($6.66 in chips) 
+Seat 2: gokudousan ($11.28 in chips) 
+Seat 3: aceking12605 ($7.13 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.90 in chips) 
+Seat 6: Debolle111 ($9 in chips) 
+stardrakee: posts small blind $0.05
+Debolle111: posts big blind $0.10
+aceking12605: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+gokudousan: folds 
+aceking12605 has timed out
+aceking12605: checks 
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: raises $0.40 to $0.50
+Doro2512: folds 
+aceking12605 has timed out
+aceking12605: folds 
+Uncalled bet ($0.40) returned to Debolle111
+Debolle111 collected $0.40 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: Doro2512 folded before Flop
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Debolle111 (big blind) collected ($0.40)
+
+
+
+PokerStars Hand #222956060296:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:58:54 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($6.56 in chips) 
+Seat 2: gokudousan ($11.28 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.85 in chips) 
+Seat 6: Debolle111 ($9.30 in chips) 
+Debolle111: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: raises $0.20 to $0.30
+DimaLesnoy: folds 
+stardrakee: raises $0.60 to $0.90
+Debolle111: raises $1.40 to $2.30
+Doro2512: folds 
+gokudousan: folds 
+stardrakee: calls $1.40
+*** FLOP *** [5h 5d 6h]
+Debolle111: checks 
+stardrakee: bets $1.70
+Debolle111: raises $5.30 to $7 and is all-in
+stardrakee: calls $5.30
+*** TURN *** [5h 5d 6h] [4c]
+*** RIVER *** [5h 5d 6h 4c] [8d]
+*** SHOW DOWN ***
+Debolle111: shows [Kh Kc] (two pair, Kings and Fives)
+stardrakee: shows [Ks Kd] (two pair, Kings and Fives)
+Debolle111 collected $9.07 from pot
+stardrakee collected $9.07 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.86 
+Board [5h 5d 6h 4c 8d]
+Seat 1: Doro2512 (big blind) folded before Flop
+Seat 2: gokudousan folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) showed [Ks Kd] and won ($9.07) with two pair, Kings and Fives
+Seat 6: Debolle111 (small blind) showed [Kh Kc] and won ($9.07) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #222956089036:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:00:04 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($6.46 in chips) 
+Seat 2: gokudousan ($10.98 in chips) 
+Seat 3: aceking12605 ($6.98 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Debolle111 ($9.07 in chips) 
+Doro2512: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: raises $0.10 to $0.30
+gokudousan: folds 
+aceking12605: calls $0.10
+*** FLOP *** [5c Kh 3h]
+Doro2512: bets $0.30
+aceking12605: calls $0.30
+*** TURN *** [5c Kh 3h] [2c]
+Doro2512: bets $0.30
+aceking12605: calls $0.30
+*** RIVER *** [5c Kh 3h 2c] [7c]
+Doro2512: checks 
+aceking12605: checks 
+*** SHOW DOWN ***
+Doro2512: shows [Qd Kc] (a pair of Kings)
+aceking12605: mucks hand 
+Doro2512 collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.09 
+Board [5c Kh 3h 2c 7c]
+Seat 1: Doro2512 (small blind) showed [Qd Kc] and won ($1.81) with a pair of Kings
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 3: aceking12605 mucked
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956108135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:00:49 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($7.37 in chips) 
+Seat 2: gokudousan ($10.88 in chips) 
+Seat 3: aceking12605 ($6.08 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Debolle111 ($9.07 in chips) 
+gokudousan: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: raises $0.20 to $0.30
+gokudousan: folds 
+aceking12605: calls $0.20
+*** FLOP *** [5s 8h 5h]
+aceking12605: bets $0.10
+Doro2512: calls $0.10
+*** TURN *** [5s 8h 5h] [2h]
+aceking12605: checks 
+Doro2512: checks 
+*** RIVER *** [5s 8h 5h 2h] [2s]
+aceking12605: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+aceking12605: shows [6h 7d] (two pair, Fives and Deuces)
+Doro2512: shows [Ts Ad] (two pair, Fives and Deuces - Ace kicker)
+Doro2512 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [5s 8h 5h 2h 2s]
+Seat 1: Doro2512 (button) showed [Ts Ad] and won ($0.81) with two pair, Fives and Deuces
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) showed [6h 7d] and lost with two pair, Fives and Deuces
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955618659:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:43:52 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($11.70 in chips) 
+Seat 2: gokudousan ($10.78 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Scheng43 ($8.10 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+stardrakee: folds 
+Scheng43: folds 
+k s ivan4: folds 
+Uncalled bet ($0.05) returned to gokudousan
+gokudousan collected $0.10 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: k s ivan4 (small blind) folded before Flop
+Seat 2: gokudousan (big blind) collected ($0.10)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Scheng43 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955622749:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:44:00 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($11.65 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Scheng43 ($10 in chips) 
+gokudousan: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: raises $0.15 to $0.25
+Scheng43: folds 
+k s ivan4: folds 
+gokudousan: folds 
+svenikkk: folds 
+Uncalled bet ($0.15) returned to stardrakee
+stardrakee collected $0.25 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 4: svenikkk (big blind) folded before Flop
+Seat 5: stardrakee collected ($0.25)
+Seat 6: Scheng43 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955627325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:44:09 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($11.65 in chips) 
+Seat 2: gokudousan ($10.78 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 6: Scheng43 ($10 in chips) 
+svenikkk: posts small blind $0.05
+stardrakee: is sitting out 
+Scheng43: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+svenikkk: folds 
+Scheng43: calls $0.20
+*** FLOP *** [4h 8h Kh]
+Scheng43: checks 
+gokudousan: checks 
+*** TURN *** [4h 8h Kh] [5s]
+Scheng43: checks 
+gokudousan: bets $0.30
+Scheng43: folds 
+Uncalled bet ($0.30) returned to gokudousan
+gokudousan collected $0.62 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4h 8h Kh 5s]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) collected ($0.62)
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 6: Scheng43 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222955641703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:44:38 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($11.65 in chips) 
+Seat 2: gokudousan ($11.10 in chips) 
+Seat 4: svenikkk ($10 in chips) 
+Seat 6: Scheng43 ($9.70 in chips) 
+Scheng43: posts small blind $0.05
+k s ivan4: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+svenikkk: raises $0.20 to $0.30
+Scheng43: folds 
+k s ivan4: calls $0.20
+*** FLOP *** [Ac 6h 5s]
+k s ivan4: checks 
+svenikkk: bets $0.47
+k s ivan4: folds 
+Uncalled bet ($0.47) returned to svenikkk
+svenikkk collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ac 6h 5s]
+Seat 1: k s ivan4 (big blind) folded on the Flop
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: svenikkk (button) collected ($0.62)
+Seat 6: Scheng43 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955652474:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:44:59 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: k s ivan4 ($11.35 in chips) 
+Seat 2: gokudousan ($11.10 in chips) 
+Seat 4: svenikkk ($10.32 in chips) 
+Seat 6: Scheng43 ($9.65 in chips) 
+k s ivan4: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+Scheng43: folds 
+k s ivan4: raises $0.15 to $0.25
+gokudousan: calls $0.15
+*** FLOP *** [4d Td 4c]
+k s ivan4: checks 
+gokudousan: checks 
+*** TURN *** [4d Td 4c] [Ac]
+k s ivan4: checks 
+gokudousan: bets $0.30
+k s ivan4: folds 
+Uncalled bet ($0.30) returned to gokudousan
+gokudousan collected $0.48 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4d Td 4c Ac]
+Seat 1: k s ivan4 (small blind) folded on the Turn
+Seat 2: gokudousan (big blind) collected ($0.48)
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 6: Scheng43 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955668193:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:45:30 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: k s ivan4 ($11.10 in chips) 
+Seat 2: gokudousan ($11.33 in chips) 
+Seat 3: aceking12605 ($6.91 in chips) 
+Seat 4: svenikkk ($10.32 in chips) 
+Seat 6: Scheng43 ($9.65 in chips) 
+gokudousan: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+Scheng43: raises $0.20 to $0.30
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605: folds 
+Uncalled bet ($0.20) returned to Scheng43
+Scheng43 collected $0.25 from pot
+Scheng43: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 (button) folded before Flop (didn't bet)
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) folded before Flop
+Seat 4: svenikkk folded before Flop (didn't bet)
+Seat 6: Scheng43 collected ($0.25)
+
+
+
+PokerStars Hand #222955678257:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:45:50 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: k s ivan4 ($11.10 in chips) 
+Seat 2: gokudousan ($11.28 in chips) 
+Seat 3: aceking12605 ($6.81 in chips) 
+Seat 4: svenikkk ($10.32 in chips) 
+Seat 6: Scheng43 ($9.80 in chips) 
+aceking12605: posts small blind $0.05
+svenikkk: posts big blind $0.10
+stardrakee: sits out 
+*** HOLE CARDS ***
+Scheng43: raises $0.20 to $0.30
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605: folds 
+svenikkk: folds 
+Uncalled bet ($0.20) returned to Scheng43
+Scheng43 collected $0.25 from pot
+Scheng43: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: svenikkk (big blind) folded before Flop
+Seat 6: Scheng43 collected ($0.25)
+
+
+
+PokerStars Hand #222955699117:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:46:32 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: k s ivan4 ($11.10 in chips) 
+Seat 2: gokudousan ($11.28 in chips) 
+Seat 3: aceking12605 ($6.76 in chips) 
+Seat 4: svenikkk ($10.22 in chips) 
+Seat 5: stardrakee ($11.77 in chips) 
+Seat 6: Scheng43 ($9.95 in chips) 
+svenikkk: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+Scheng43: raises $0.20 to $0.30
+k s ivan4: folds 
+gokudousan: folds 
+aceking12605 has timed out
+aceking12605: folds 
+svenikkk: folds 
+stardrakee: folds 
+Uncalled bet ($0.20) returned to Scheng43
+Scheng43 collected $0.25 from pot
+Scheng43: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: svenikkk (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: Scheng43 collected ($0.25)
+
+
+
+PokerStars Hand #222955715997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:47:05 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: k s ivan4 ($11.10 in chips) 
+Seat 2: gokudousan ($11.28 in chips) 
+Seat 4: svenikkk ($10.17 in chips) 
+Seat 5: stardrakee ($11.67 in chips) 
+Seat 6: Scheng43 ($10.10 in chips) 
+stardrakee: posts small blind $0.05
+Scheng43: posts big blind $0.10
+*** HOLE CARDS ***
+k s ivan4: folds 
+gokudousan: raises $0.20 to $0.30
+svenikkk: folds 
+stardrakee: folds 
+svenikkk leaves the table
+Scheng43: raises $0.60 to $0.90
+gokudousan: calls $0.60
+*** FLOP *** [5s 4s Kh]
+DimaLesnoy joins the table at seat #4 
+Scheng43: bets $1.77
+gokudousan: folds 
+Uncalled bet ($1.77) returned to Scheng43
+Scheng43 collected $1.77 from pot
+Scheng43: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [5s 4s Kh]
+Seat 1: k s ivan4 folded before Flop (didn't bet)
+Seat 2: gokudousan folded on the Flop
+Seat 4: svenikkk (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Scheng43 (big blind) collected ($1.77)
+
+
+
+PokerStars Hand #222956118824:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:01:13 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($7.78 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 3: aceking12605 ($5.68 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Debolle111 ($9.07 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: folds 
+gokudousan: folds 
+aceking12605: folds 
+Uncalled bet ($0.05) returned to DimaLesnoy
+DimaLesnoy collected $0.10 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) collected ($0.10)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956129809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:01:36 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($7.78 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 3: aceking12605 ($5.63 in chips) 
+Seat 4: DimaLesnoy ($10.05 in chips) 
+Seat 5: stardrakee ($11.62 in chips) 
+Seat 6: Debolle111 ($9.07 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: raises $0.20 to $0.30
+Doro2512: calls $0.30
+gokudousan: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+*** FLOP *** [5h 5c 6c]
+Debolle111: bets $0.36
+Doro2512: calls $0.36
+*** TURN *** [5h 5c 6c] [5d]
+Debolle111: checks 
+Doro2512: bets $0.30
+Debolle111: calls $0.30
+*** RIVER *** [5h 5c 6c 5d] [Ac]
+Debolle111: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+Debolle111: shows [Jh Kd] (three of a kind, Fives)
+Doro2512: shows [7d 7s] (a full house, Fives full of Sevens)
+Doro2512 collected $1.98 from pot
+*** SUMMARY ***
+Total pot $2.07 | Rake $0.09 
+Board [5h 5c 6c 5d Ac]
+Seat 1: Doro2512 showed [7d 7s] and won ($1.98) with a full house, Fives full of Sevens
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: Debolle111 showed [Jh Kd] and lost with three of a kind, Fives
+
+
+
+PokerStars Hand #222956147817:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:02:12 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($8.80 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 3: aceking12605 ($5.63 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.52 in chips) 
+Seat 6: Debolle111 ($8.11 in chips) 
+stardrakee: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: folds 
+gokudousan: folds 
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: raises $0.12 to $0.22
+stardrakee: folds 
+Debolle111: folds 
+Uncalled bet ($0.12) returned to DimaLesnoy
+DimaLesnoy collected $0.25 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) collected ($0.25)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Debolle111 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956157702:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:02:31 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($8.80 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 4: DimaLesnoy ($10.15 in chips) 
+Seat 5: stardrakee ($11.47 in chips) 
+Seat 6: Debolle111 ($8.01 in chips) 
+Debolle111: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Uncalled bet ($0.05) returned to Doro2512
+Doro2512 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Doro2512 (big blind) collected ($0.10)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: Debolle111 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956164982:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:02:46 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($8.85 in chips) 
+Seat 2: gokudousan ($10.83 in chips) 
+Seat 3: aceking12605 ($5.63 in chips) 
+Seat 4: DimaLesnoy ($10.15 in chips) 
+Seat 5: stardrakee ($11.47 in chips) 
+Seat 6: Debolle111 ($7.96 in chips) 
+Doro2512: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: raises $0.20 to $0.30
+Doro2512: calls $0.25
+gokudousan: folds 
+*** FLOP *** [8d Kc Js]
+Doro2512: checks 
+Debolle111: bets $0.34
+Doro2512: folds 
+Uncalled bet ($0.34) returned to Debolle111
+Debolle111 collected $0.67 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [8d Kc Js]
+Seat 1: Doro2512 (small blind) folded on the Flop
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 (button) collected ($0.67)
+
+
+
+PokerStars Hand #222956183165:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:03:22 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($8.55 in chips) 
+Seat 2: gokudousan ($10.73 in chips) 
+Seat 3: aceking12605 ($5.63 in chips) 
+Seat 4: DimaLesnoy ($10.15 in chips) 
+Seat 5: stardrakee ($11.47 in chips) 
+Seat 6: Debolle111 ($8.33 in chips) 
+gokudousan: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.10
+gokudousan: folds 
+aceking12605 has timed out
+aceking12605: checks 
+*** FLOP *** [9h 3h Jc]
+aceking12605: checks 
+Doro2512: checks 
+*** TURN *** [9h 3h Jc] [9s]
+aceking12605: checks 
+Doro2512: checks 
+*** RIVER *** [9h 3h Jc 9s] [Td]
+aceking12605: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+aceking12605: shows [3s 4h] (two pair, Nines and Threes)
+Doro2512: mucks hand 
+aceking12605 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h 3h Jc 9s Td]
+Seat 1: Doro2512 (button) mucked
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) showed [3s 4h] and won ($0.24) with two pair, Nines and Threes
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956213186:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:04:07 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($8.45 in chips) 
+Seat 2: gokudousan ($10.68 in chips) 
+Seat 3: aceking12605 ($5.77 in chips) 
+Seat 4: DimaLesnoy ($10.15 in chips) 
+Seat 5: stardrakee ($11.47 in chips) 
+Seat 6: Debolle111 ($8.33 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: raises $0.15 to $0.25
+Debolle111: folds 
+Doro2512: calls $0.25
+gokudousan: folds 
+aceking12605: calls $0.20
+DimaLesnoy: folds 
+*** FLOP *** [6c 7s 2s]
+aceking12605: checks 
+stardrakee: bets $0.43
+Doro2512: folds 
+aceking12605: folds 
+Uncalled bet ($0.43) returned to stardrakee
+stardrakee collected $0.81 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [6c 7s 2s]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: gokudousan (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded on the Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: stardrakee collected ($0.81)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956241845:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:05:02 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($8.20 in chips) 
+Seat 2: gokudousan ($10.68 in chips) 
+Seat 3: aceking12605 ($5.52 in chips) 
+Seat 4: DimaLesnoy ($10.05 in chips) 
+Seat 6: Debolle111 ($8.33 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: is sitting out 
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+gokudousan: folds 
+aceking12605: folds 
+DimaLesnoy: raises $0.40 to $0.50
+Debolle111: folds 
+Doro2512: calls $0.40
+*** FLOP *** [2s Jc 2h]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** TURN *** [2s Jc 2h] [9h]
+DimaLesnoy: bets $0.75
+Doro2512: calls $0.75
+*** RIVER *** [2s Jc 2h 9h] [As]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+DimaLesnoy: shows [Td Js] (two pair, Jacks and Deuces)
+Doro2512: mucks hand 
+DimaLesnoy collected $2.48 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.12 
+Board [2s Jc 2h 9h As]
+Seat 1: Doro2512 mucked
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) showed [Td Js] and won ($2.48) with two pair, Jacks and Deuces
+Seat 6: Debolle111 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956257557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:05:32 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($6.95 in chips) 
+Seat 2: gokudousan ($10.68 in chips) 
+Seat 3: aceking12605 ($5.52 in chips) 
+Seat 4: DimaLesnoy ($11.28 in chips) 
+Seat 6: Debolle111 ($8.23 in chips) 
+Debolle111: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+aceking12605: folds 
+DimaLesnoy: raises $0.12 to $0.22
+Debolle111: folds 
+Doro2512: raises $0.12 to $0.34
+DimaLesnoy: calls $0.12
+*** FLOP *** [7s 6h Ts]
+Doro2512: checks 
+DimaLesnoy: bets $0.40
+Doro2512: calls $0.40
+*** TURN *** [7s 6h Ts] [5d]
+Doro2512: checks 
+DimaLesnoy: checks 
+*** RIVER *** [7s 6h Ts 5d] [2h]
+Doro2512: checks 
+DimaLesnoy: checks 
+*** SHOW DOWN ***
+Doro2512: shows [As Ks] (high card Ace)
+DimaLesnoy: shows [9h 7h] (a pair of Sevens)
+DimaLesnoy collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.07 
+Board [7s 6h Ts 5d 2h]
+Seat 1: Doro2512 (big blind) showed [As Ks] and lost with high card Ace
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) showed [9h 7h] and won ($1.46) with a pair of Sevens
+Seat 6: Debolle111 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956280484:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:06:16 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($6.21 in chips) 
+Seat 2: gokudousan ($10.68 in chips) 
+Seat 3: aceking12605 ($5.52 in chips) 
+Seat 4: DimaLesnoy ($12 in chips) 
+Seat 6: Debolle111 ($8.18 in chips) 
+Doro2512: posts small blind $0.05
+gokudousan: posts big blind $0.10
+stardrakee: sits out 
+*** HOLE CARDS ***
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: folds 
+Debolle111: raises $0.20 to $0.30
+Doro2512: calls $0.25
+gokudousan: folds 
+*** FLOP *** [2h 9c Th]
+Doro2512: checks 
+Debolle111: checks 
+*** TURN *** [2h 9c Th] [8d]
+Doro2512: checks 
+Debolle111: checks 
+*** RIVER *** [2h 9c Th 8d] [8s]
+Doro2512: checks 
+Debolle111: checks 
+*** SHOW DOWN ***
+Doro2512: shows [7d 4c] (a pair of Eights)
+Debolle111: shows [4d Kc] (a pair of Eights - King kicker)
+Debolle111 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [2h 9c Th 8d 8s]
+Seat 1: Doro2512 (small blind) showed [7d 4c] and lost with a pair of Eights
+Seat 2: gokudousan (big blind) folded before Flop
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 6: Debolle111 (button) showed [4d Kc] and won ($0.67) with a pair of Eights
+
+
+
+PokerStars Hand #222956305331:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:07:03 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($5.91 in chips) 
+Seat 2: gokudousan ($10.58 in chips) 
+Seat 4: DimaLesnoy ($12 in chips) 
+Seat 6: Debolle111 ($8.55 in chips) 
+gokudousan: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+stardrakee: sits out 
+*** HOLE CARDS ***
+Debolle111: folds 
+Doro2512: calls $0.10
+gokudousan: folds 
+DimaLesnoy: checks 
+*** FLOP *** [9h 5h Kh]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** TURN *** [9h 5h Kh] [2c]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** RIVER *** [9h 5h Kh 2c] [9d]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+DimaLesnoy: shows [8s 4h] (a pair of Nines)
+Doro2512: shows [3c 3d] (two pair, Nines and Threes)
+Doro2512 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h 5h Kh 2c 9d]
+Seat 1: Doro2512 (button) showed [3c 3d] and won ($0.24) with two pair, Nines and Threes
+Seat 2: gokudousan (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) showed [8s 4h] and lost with a pair of Nines
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956316745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:07:25 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($6.05 in chips) 
+Seat 2: gokudousan ($10.53 in chips) 
+Seat 4: DimaLesnoy ($11.90 in chips) 
+Seat 5: stardrakee ($12.03 in chips) 
+Seat 6: Debolle111 ($8.55 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+Doro2512: calls $0.10
+gokudousan: raises $0.20 to $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+Doro2512: calls $0.20
+*** FLOP *** [6d 8c Qd]
+Doro2512: checks 
+gokudousan: bets $0.40
+Doro2512: folds 
+Uncalled bet ($0.40) returned to gokudousan
+gokudousan collected $0.72 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6d 8c Qd]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: gokudousan (button) collected ($0.72)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956333542:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:07:58 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($5.75 in chips) 
+Seat 2: gokudousan ($10.95 in chips) 
+Seat 4: DimaLesnoy ($11.85 in chips) 
+Seat 5: stardrakee ($11.93 in chips) 
+Seat 6: Debolle111 ($8.55 in chips) 
+stardrakee: posts small blind $0.05
+Debolle111: posts big blind $0.10
+aceking12605: sits out 
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+gokudousan: raises $0.20 to $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.20
+*** FLOP *** [3d Qh Ad]
+Doro2512: checks 
+gokudousan: bets $0.30
+Doro2512: calls $0.30
+*** TURN *** [3d Qh Ad] [7h]
+Doro2512: checks 
+gokudousan: bets $0.60
+Doro2512: folds 
+Uncalled bet ($0.60) returned to gokudousan
+gokudousan collected $1.29 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [3d Qh Ad 7h]
+Seat 1: Doro2512 folded on the Turn
+Seat 2: gokudousan collected ($1.29)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Debolle111 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956353882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:08:37 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($5.15 in chips) 
+Seat 2: gokudousan ($11.64 in chips) 
+Seat 4: DimaLesnoy ($11.85 in chips) 
+Seat 5: stardrakee ($11.88 in chips) 
+Seat 6: Debolle111 ($8.45 in chips) 
+Debolle111: posts small blind $0.05
+Doro2512: posts big blind $0.10
+aceking12605: sits out 
+*** HOLE CARDS ***
+gokudousan: folds 
+DimaLesnoy: folds 
+stardrakee: raises $0.15 to $0.25
+Debolle111: folds 
+gokudousan leaves the table
+Doro2512: raises $0.15 to $0.40
+stardrakee: calls $0.15
+*** FLOP *** [8d 8h As]
+Donkey1996 joins the table at seat #2 
+Doro2512: bets $0.81
+stardrakee: folds 
+Uncalled bet ($0.81) returned to Doro2512
+Doro2512 collected $0.81 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [8d 8h As]
+Seat 1: Doro2512 (big blind) collected ($0.81)
+Seat 2: gokudousan folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded on the Flop
+Seat 6: Debolle111 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956369595:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:09:07 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($5.56 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 4: DimaLesnoy ($11.85 in chips) 
+Seat 5: stardrakee ($11.48 in chips) 
+Seat 6: Debolle111 ($8.40 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+aceking12605: sits out 
+*** HOLE CARDS ***
+DimaLesnoy: raises $0.20 to $0.30
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: raises $0.20 to $0.50
+Donkey1996: folds 
+DimaLesnoy: calls $0.20
+*** FLOP *** [Jc 9s 8h]
+Doro2512: bets $1.05
+DimaLesnoy: folds 
+Uncalled bet ($1.05) returned to Doro2512
+Doro2512 collected $1.05 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jc 9s 8h]
+Seat 1: Doro2512 (small blind) collected ($1.05)
+Seat 2: Donkey1996 (big blind) folded before Flop
+Seat 4: DimaLesnoy folded on the Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956381622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:09:30 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($6.11 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($5.52 in chips) 
+Seat 4: DimaLesnoy ($11.35 in chips) 
+Seat 5: stardrakee ($11.48 in chips) 
+Seat 6: Debolle111 ($8.40 in chips) 
+Donkey1996: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.10
+Donkey1996: calls $0.05
+aceking12605 has timed out
+aceking12605: checks 
+*** FLOP *** [9c 5d Tc]
+Donkey1996: checks 
+aceking12605: bets $0.10
+Doro2512: calls $0.10
+Donkey1996: folds 
+*** TURN *** [9c 5d Tc] [Jd]
+aceking12605: bets $0.48
+Doro2512: calls $0.48
+*** RIVER *** [9c 5d Tc Jd] [Td]
+aceking12605: bets $0.10
+Doro2512: calls $0.10
+*** SHOW DOWN ***
+aceking12605: shows [Jc 9d] (two pair, Jacks and Tens)
+Doro2512: mucks hand 
+aceking12605 collected $1.59 from pot
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.07 
+Board [9c 5d Tc Jd Td]
+Seat 1: Doro2512 (button) mucked
+Seat 2: Donkey1996 (small blind) folded on the Flop
+Seat 3: aceking12605 (big blind) showed [Jc 9d] and won ($1.59) with two pair, Jacks and Tens
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956410642:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:10:25 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($5.33 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($6.33 in chips) 
+Seat 4: DimaLesnoy ($11.35 in chips) 
+Seat 5: stardrakee ($11.48 in chips) 
+Seat 6: Debolle111 ($8.40 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: folds 
+Donkey1996: folds 
+aceking12605 has timed out
+aceking12605: folds 
+Uncalled bet ($0.05) returned to DimaLesnoy
+DimaLesnoy collected $0.10 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) collected ($0.10)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956422417:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:10:47 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($5.33 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 4: DimaLesnoy ($11.40 in chips) 
+Seat 5: stardrakee ($11.48 in chips) 
+Seat 6: Debolle111 ($8.40 in chips) 
+stardrakee: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+Donkey1996: raises $0.35 to $0.45
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.35
+*** FLOP *** [5c 7s Ts]
+Doro2512: checks 
+Donkey1996: bets $0.55
+Doro2512: folds 
+Uncalled bet ($0.55) returned to Donkey1996
+Donkey1996 collected $1 from pot
+Donkey1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [5c 7s Ts]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: Donkey1996 collected ($1)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Debolle111 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956444547:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:11:29 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($4.88 in chips) 
+Seat 2: Donkey1996 ($10.55 in chips) 
+Seat 3: aceking12605 ($6.28 in chips) 
+Seat 4: DimaLesnoy ($11.40 in chips) 
+Seat 5: stardrakee ($11.43 in chips) 
+Seat 6: Debolle111 ($9.97 in chips) 
+Debolle111: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: raises $0.20 to $0.30
+aceking12605: calls $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.20
+*** FLOP *** [8h Ks 8d]
+Doro2512: checks 
+Donkey1996: checks 
+aceking12605: checks 
+*** TURN *** [8h Ks 8d] [3h]
+Doro2512: bets $0.30
+Donkey1996: calls $0.30
+aceking12605: folds 
+*** RIVER *** [8h Ks 8d 3h] [6c]
+Doro2512: bets $1.60
+Donkey1996: calls $1.60
+*** SHOW DOWN ***
+Doro2512: shows [6d 8c] (a full house, Eights full of Sixes)
+Donkey1996: mucks hand 
+Doro2512 collected $4.54 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.21 
+Board [8h Ks 8d 3h 6c]
+Seat 1: Doro2512 (big blind) showed [6d 8c] and won ($4.54) with a full house, Eights full of Sixes
+Seat 2: Donkey1996 mucked
+Seat 3: aceking12605 folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: Debolle111 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956482361:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:12:41 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($7.22 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($5.98 in chips) 
+Seat 4: DimaLesnoy ($11.40 in chips) 
+Seat 5: stardrakee ($11.43 in chips) 
+Seat 6: Debolle111 ($9.92 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.15
+Donkey1996: calls $0.10
+*** FLOP *** [Jc 2h Jd]
+Doro2512: checks 
+Donkey1996: checks 
+aceking12605: bets $0.57
+Doro2512: folds 
+Donkey1996: folds 
+Uncalled bet ($0.57) returned to aceking12605
+aceking12605 collected $0.57 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jc 2h Jd]
+Seat 1: Doro2512 (small blind) folded on the Flop
+Seat 2: Donkey1996 (big blind) folded on the Flop
+Seat 3: aceking12605 collected ($0.57)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956506058:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:13:26 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($7.02 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($6.35 in chips) 
+Seat 4: DimaLesnoy ($11.40 in chips) 
+Seat 5: stardrakee ($11.43 in chips) 
+Seat 6: Debolle111 ($9.92 in chips) 
+Donkey1996: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: raises $0.15 to $0.25
+Debolle111: folds 
+Doro2512: folds 
+Donkey1996: folds 
+aceking12605: raises $2.75 to $3
+stardrakee: folds 
+Uncalled bet ($2.75) returned to aceking12605
+aceking12605 collected $0.55 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: Doro2512 (button) folded before Flop (didn't bet)
+Seat 2: Donkey1996 (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) collected ($0.55)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956518483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:13:49 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($7.02 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($6.65 in chips) 
+Seat 4: DimaLesnoy ($11.40 in chips) 
+Seat 5: stardrakee ($11.18 in chips) 
+Seat 6: Debolle111 ($9.92 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+Debolle111 has timed out
+Debolle111: folds 
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: folds 
+DimaLesnoy: checks 
+*** FLOP *** [Qd Ks Qc]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** TURN *** [Qd Ks Qc] [Ac]
+DimaLesnoy: checks 
+Doro2512: bets $0.30
+DimaLesnoy: calls $0.30
+*** RIVER *** [Qd Ks Qc Ac] [7c]
+DimaLesnoy: checks 
+Doro2512: bets $0.81
+DimaLesnoy: calls $0.81
+*** SHOW DOWN ***
+Doro2512: shows [Qh 4s] (three of a kind, Queens)
+DimaLesnoy: mucks hand 
+Doro2512 collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [Qd Ks Qc Ac 7c]
+Seat 1: Doro2512 showed [Qh 4s] and won ($2.36) with three of a kind, Queens
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) mucked
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956543217:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:14:36 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($8.17 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($6.60 in chips) 
+Seat 4: DimaLesnoy ($10.19 in chips) 
+Seat 5: stardrakee ($11.18 in chips) 
+Seat 6: Debolle111 ($9.92 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: raises $0.20 to $0.30
+Doro2512: folds 
+Donkey1996: folds 
+aceking12605: calls $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+*** FLOP *** [6c 4c 9d]
+Debolle111: checks 
+aceking12605: checks 
+*** TURN *** [6c 4c 9d] [Qd]
+Debolle111: checks 
+aceking12605: checks 
+*** RIVER *** [6c 4c 9d Qd] [Qh]
+Debolle111: checks 
+aceking12605: bets $0.10
+Debolle111: calls $0.10
+*** SHOW DOWN ***
+aceking12605: shows [4s Kc] (two pair, Queens and Fours)
+Debolle111: shows [5c 5h] (two pair, Queens and Fives)
+Debolle111 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6c 4c 9d Qd Qh]
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) showed [4s Kc] and lost with two pair, Queens and Fours
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: Debolle111 showed [5c 5h] and won ($0.91) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #222956563304:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:15:13 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($8.17 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($6.20 in chips) 
+Seat 4: DimaLesnoy ($10.14 in chips) 
+Seat 5: stardrakee ($11.08 in chips) 
+Seat 6: Debolle111 ($10.43 in chips) 
+stardrakee: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: calls $0.10
+DimaLesnoy: raises $0.30 to $0.40
+stardrakee: folds 
+Debolle111: raises $1.05 to $1.45
+Doro2512: folds 
+aceking12605: raises $1.05 to $2.50
+DimaLesnoy: folds 
+Debolle111: raises $7.93 to $10.43 and is all-in
+aceking12605: calls $3.70 and is all-in
+Uncalled bet ($4.23) returned to Debolle111
+*** FLOP *** [Jd Jc 2h]
+*** TURN *** [Jd Jc 2h] [Kh]
+*** RIVER *** [Jd Jc 2h Kh] [7h]
+*** SHOW DOWN ***
+Debolle111: shows [Qd Qc] (two pair, Queens and Jacks)
+aceking12605: shows [Ad Kc] (two pair, Kings and Jacks)
+aceking12605 collected $12.37 from pot
+*** SUMMARY ***
+Total pot $12.95 | Rake $0.58 
+Board [Jd Jc 2h Kh 7h]
+Seat 1: Doro2512 folded before Flop
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 showed [Ad Kc] and won ($12.37) with two pair, Kings and Jacks
+Seat 4: DimaLesnoy (button) folded before Flop
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: Debolle111 (big blind) showed [Qd Qc] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222956588561:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:16:01 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($8.07 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($12.37 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.03 in chips) 
+Seat 6: Debolle111 ($4.23 in chips) 
+Debolle111: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: raises $0.20 to $0.30
+aceking12605: folds 
+DimaLesnoy: raises $0.60 to $0.90
+stardrakee: folds 
+Debolle111: calls $0.85
+Doro2512: folds 
+Donkey1996: calls $0.60
+*** FLOP *** [6c 9s 5s]
+Debolle111: checks 
+Donkey1996: checks 
+DimaLesnoy: bets $1.47
+Debolle111: folds 
+Donkey1996: calls $1.47
+*** TURN *** [6c 9s 5s] [3d]
+Donkey1996: checks 
+DimaLesnoy: bets $3.01
+Donkey1996: folds 
+Uncalled bet ($3.01) returned to DimaLesnoy
+DimaLesnoy collected $5.48 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.74 | Rake $0.26 
+Board [6c 9s 5s 3d]
+Seat 1: Doro2512 (big blind) folded before Flop
+Seat 2: Donkey1996 folded on the Turn
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy collected ($5.48)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: Debolle111 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222956618391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:16:56 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($7.97 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($12.37 in chips) 
+Seat 4: DimaLesnoy ($13.11 in chips) 
+Seat 5: stardrakee ($11.03 in chips) 
+Seat 6: Debolle111 ($3.33 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: calls $0.10
+DimaLesnoy: folds 
+stardrakee: folds 
+Debolle111: raises $0.20 to $0.30
+Doro2512: calls $0.25
+Donkey1996: folds 
+aceking12605: calls $0.20
+*** FLOP *** [9d 5c 9s]
+Doro2512: checks 
+aceking12605: bets $0.10
+Debolle111: calls $0.10
+Doro2512: calls $0.10
+*** TURN *** [9d 5c 9s] [2d]
+Doro2512: checks 
+aceking12605: checks 
+Debolle111: checks 
+*** RIVER *** [9d 5c 9s 2d] [4c]
+Doro2512: checks 
+aceking12605: bets $1.24
+Debolle111: folds 
+Doro2512: folds 
+Uncalled bet ($1.24) returned to aceking12605
+aceking12605 collected $1.24 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [9d 5c 9s 2d 4c]
+Seat 1: Doro2512 (small blind) folded on the River
+Seat 2: Donkey1996 (big blind) folded before Flop
+Seat 3: aceking12605 collected ($1.24)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 (button) folded on the River
+
+
+
+PokerStars Hand #222956646639:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:17:49 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($7.57 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($13.21 in chips) 
+Seat 4: DimaLesnoy ($13.11 in chips) 
+Seat 5: stardrakee ($11.03 in chips) 
+Seat 6: Debolle111 ($2.93 in chips) 
+Donkey1996: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: raises $0.20 to $0.30
+stardrakee: folds 
+Debolle111: folds 
+Doro2512: calls $0.30
+Donkey1996: folds 
+aceking12605: calls $0.20
+*** FLOP *** [8h 9c As]
+Debolle111 leaves the table
+aceking12605: checks 
+DimaLesnoy: bets $0.39
+Doro2512: calls $0.39
+aceking12605: calls $0.39
+*** TURN *** [8h 9c As] [9d]
+aceking12605: checks 
+DimaLesnoy: bets $1.20
+Doro2512: raises $1.20 to $2.40
+dimon36krut joins the table at seat #6 
+aceking12605: folds 
+DimaLesnoy: folds 
+Uncalled bet ($1.20) returned to Doro2512
+Doro2512 collected $4.32 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.20 
+Board [8h 9c As 9d]
+Seat 1: Doro2512 (button) collected ($4.32)
+Seat 2: Donkey1996 (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) folded on the Turn
+Seat 4: DimaLesnoy folded on the Turn
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: Debolle111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956685319:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:19:01 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($10 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($12.52 in chips) 
+Seat 4: DimaLesnoy ($11.22 in chips) 
+Seat 5: stardrakee ($11.03 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+dimon36krut: sits out 
+*** HOLE CARDS ***
+stardrakee: folds 
+Doro2512: raises $0.30 to $0.40
+Donkey1996: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.30) returned to Doro2512
+Doro2512 collected $0.25 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 collected ($0.25)
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956695215:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:19:20 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($10.15 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($12.47 in chips) 
+Seat 4: DimaLesnoy ($11.12 in chips) 
+Seat 5: stardrakee ($11.03 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+dimon36krut: sits out 
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: folds 
+stardrakee: folds 
+Doro2512: calls $0.10
+*** FLOP *** [5d Ah 3c]
+Doro2512: checks 
+aceking12605: bets $0.53
+Doro2512: calls $0.53
+*** TURN *** [5d Ah 3c] [Jd]
+Doro2512: checks 
+aceking12605: checks 
+*** RIVER *** [5d Ah 3c Jd] [7h]
+Doro2512: checks 
+aceking12605: bets $0.77
+Doro2512: folds 
+Uncalled bet ($0.77) returned to aceking12605
+aceking12605 collected $1.54 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.07 
+Board [5d Ah 3c Jd 7h]
+Seat 1: Doro2512 folded on the River
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) collected ($1.54)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956721050:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:20:08 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($9.42 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($13.28 in chips) 
+Seat 4: DimaLesnoy ($11.07 in chips) 
+Seat 5: stardrakee ($10.93 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: calls $0.05
+dimon36krut: checks 
+*** FLOP *** [Jd 3c 5s]
+stardrakee: checks 
+dimon36krut: bets $0.17
+Doro2512: folds 
+stardrakee: folds 
+Uncalled bet ($0.17) returned to dimon36krut
+dimon36krut collected $0.29 from pot
+dimon36krut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jd 3c 5s]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded on the Flop
+Seat 6: dimon36krut (big blind) collected ($0.29)
+
+
+
+PokerStars Hand #222956736560:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:20:37 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($9.32 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($13.28 in chips) 
+Seat 4: DimaLesnoy ($11.07 in chips) 
+Seat 5: stardrakee ($10.83 in chips) 
+Seat 6: dimon36krut ($5.19 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: folds 
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.15 to $0.25
+Doro2512: calls $0.15
+*** FLOP *** [Td Th Kh]
+dimon36krut: checks 
+Doro2512: checks 
+*** TURN *** [Td Th Kh] [5d]
+dimon36krut: checks 
+Doro2512: checks 
+*** RIVER *** [Td Th Kh 5d] [6h]
+dimon36krut: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+dimon36krut: shows [Ac 7h] (a pair of Tens)
+Doro2512: mucks hand 
+dimon36krut collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Td Th Kh 5d 6h]
+Seat 1: Doro2512 (big blind) mucked
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) showed [Ac 7h] and won ($0.48) with a pair of Tens
+
+
+
+PokerStars Hand #222956757558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:21:16 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($9.07 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($13.28 in chips) 
+Seat 4: DimaLesnoy ($11.07 in chips) 
+Seat 5: stardrakee ($10.83 in chips) 
+Seat 6: dimon36krut ($5.42 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.05
+Donkey1996: raises $0.30 to $0.40
+Doro2512: calls $0.30
+*** FLOP *** [Kh 5d Tc]
+Doro2512: bets $0.20
+Donkey1996: raises $0.60 to $0.80
+Doro2512: calls $0.60
+*** TURN *** [Kh 5d Tc] [6c]
+Doro2512: checks 
+Donkey1996: checks 
+*** RIVER *** [Kh 5d Tc 6c] [5s]
+Doro2512: checks 
+Donkey1996: checks 
+*** SHOW DOWN ***
+Doro2512: shows [Th Js] (two pair, Tens and Fives)
+Donkey1996: mucks hand 
+Doro2512 collected $2.29 from pot
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.11 
+Board [Kh 5d Tc 6c 5s]
+Seat 1: Doro2512 (small blind) showed [Th Js] and won ($2.29) with two pair, Tens and Fives
+Seat 2: Donkey1996 (big blind) mucked
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956789336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:22:15 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($10.16 in chips) 
+Seat 2: Donkey1996 ($10 in chips) 
+Seat 3: aceking12605 ($13.28 in chips) 
+Seat 4: DimaLesnoy ($11.07 in chips) 
+Seat 5: stardrakee ($10.83 in chips) 
+Seat 6: dimon36krut ($5.42 in chips) 
+Donkey1996: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.10
+Donkey1996: raises $0.40 to $0.50
+aceking12605: calls $0.40
+Doro2512: calls $0.40
+*** FLOP *** [Th 3d 8c]
+Donkey1996: checks 
+aceking12605: checks 
+Doro2512: checks 
+*** TURN *** [Th 3d 8c] [Qs]
+Donkey1996: bets $1.05
+aceking12605: folds 
+Doro2512: calls $1.05
+*** RIVER *** [Th 3d 8c Qs] [2c]
+Donkey1996: bets $2.45
+Doro2512: folds 
+Uncalled bet ($2.45) returned to Donkey1996
+Donkey1996 collected $3.44 from pot
+Donkey1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [Th 3d 8c Qs 2c]
+Seat 1: Doro2512 (button) folded on the River
+Seat 2: Donkey1996 (small blind) collected ($3.44)
+Seat 3: aceking12605 (big blind) folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956814326:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:23:01 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($8.61 in chips) 
+Seat 2: Donkey1996 ($11.89 in chips) 
+Seat 3: aceking12605 ($12.78 in chips) 
+Seat 4: DimaLesnoy ($11.07 in chips) 
+Seat 5: stardrakee ($10.83 in chips) 
+Seat 6: dimon36krut ($5.42 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: folds 
+Doro2512: calls $0.10
+*** FLOP *** [8d 8s 9c]
+aceking12605 has timed out
+aceking12605: checks 
+Doro2512: checks 
+*** TURN *** [8d 8s 9c] [9s]
+aceking12605 has timed out
+aceking12605: checks 
+Doro2512: checks 
+*** RIVER *** [8d 8s 9c 9s] [Jd]
+aceking12605: checks 
+Doro2512: bets $0.10
+aceking12605: calls $0.10
+*** SHOW DOWN ***
+Doro2512: shows [5c 5d] (two pair, Nines and Eights)
+aceking12605: shows [Ah Jh] (two pair, Jacks and Nines)
+aceking12605 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [8d 8s 9c 9s Jd]
+Seat 1: Doro2512 showed [5c 5d] and lost with two pair, Nines and Eights
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) showed [Ah Jh] and won ($0.67) with two pair, Jacks and Nines
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956857450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:24:21 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($8.31 in chips) 
+Seat 2: Donkey1996 ($11.89 in chips) 
+Seat 3: aceking12605 ($13.15 in chips) 
+Seat 4: DimaLesnoy ($10.97 in chips) 
+Seat 5: stardrakee ($10.83 in chips) 
+Seat 6: dimon36krut ($5.42 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: folds 
+stardrakee: folds 
+Doro2512: calls $0.10
+*** FLOP *** [Jd 2s 8d]
+Doro2512: checks 
+aceking12605: bets $0.53
+Doro2512: folds 
+Uncalled bet ($0.53) returned to aceking12605
+aceking12605 collected $0.53 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Jd 2s 8d]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) collected ($0.53)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956870793:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:24:46 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($8.11 in chips) 
+Seat 2: Donkey1996 ($11.89 in chips) 
+Seat 3: aceking12605 ($13.48 in chips) 
+Seat 4: DimaLesnoy ($10.92 in chips) 
+Seat 5: stardrakee ($10.73 in chips) 
+Seat 6: dimon36krut ($5.42 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: raises $0.40 to $0.60
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.50
+aceking12605: calls $0.40
+*** FLOP *** [Qh Ah 4d]
+Doro2512: checks 
+aceking12605: checks 
+DimaLesnoy: bets $0.80
+Doro2512: folds 
+aceking12605: calls $0.80
+*** TURN *** [Qh Ah 4d] [7h]
+aceking12605: checks 
+DimaLesnoy: checks 
+*** RIVER *** [Qh Ah 4d 7h] [4c]
+aceking12605: bets $3.39
+DimaLesnoy: folds 
+Uncalled bet ($3.39) returned to aceking12605
+aceking12605 collected $3.39 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.16 
+Board [Qh Ah 4d 7h 4c]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 collected ($3.39)
+Seat 4: DimaLesnoy (button) folded on the River
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956904160:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:25:47 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($7.51 in chips) 
+Seat 2: Donkey1996 ($11.89 in chips) 
+Seat 3: aceking12605 ($15.47 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10.68 in chips) 
+Seat 6: dimon36krut ($5.32 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: folds 
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: raises $0.15 to $0.25
+dimon36krut: folds 
+Doro2512: calls $0.15
+*** FLOP *** [8c 3c 3d]
+Doro2512: checks 
+stardrakee: checks 
+*** TURN *** [8c 3c 3d] [2c]
+Doro2512: checks 
+stardrakee: checks 
+*** RIVER *** [8c 3c 3d 2c] [6s]
+Doro2512: checks 
+stardrakee: checks 
+*** SHOW DOWN ***
+Doro2512: shows [Qs 5s] (a pair of Threes)
+stardrakee: shows [5h Kh] (a pair of Threes - King kicker)
+stardrakee collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8c 3c 3d 2c 6s]
+Seat 1: Doro2512 (big blind) showed [Qs 5s] and lost with a pair of Threes
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) showed [5h Kh] and won ($0.53) with a pair of Threes
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956938324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:26:50 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($7.26 in chips) 
+Seat 2: Donkey1996 ($11.89 in chips) 
+Seat 3: aceking12605 ($15.47 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10.96 in chips) 
+Seat 6: dimon36krut ($5.27 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.60 to $0.80
+Doro2512: calls $0.75
+Donkey1996: folds 
+aceking12605: calls $0.60
+*** FLOP *** [5d 8c Qd]
+Doro2512: checks 
+aceking12605: checks 
+dimon36krut: checks 
+*** TURN *** [5d 8c Qd] [Kc]
+Doro2512: checks 
+aceking12605: bets $0.10
+dimon36krut: calls $0.10
+Doro2512: calls $0.10
+*** RIVER *** [5d 8c Qd Kc] [Kh]
+Doro2512: checks 
+aceking12605: bets $2.67
+dimon36krut: calls $2.67
+Doro2512: folds 
+*** SHOW DOWN ***
+aceking12605: shows [5h 5s] (a full house, Fives full of Kings)
+dimon36krut: mucks hand 
+aceking12605 collected $7.77 from pot
+*** SUMMARY ***
+Total pot $8.14 | Rake $0.37 
+Board [5d 8c Qd Kc Kh]
+Seat 1: Doro2512 (small blind) folded on the River
+Seat 2: Donkey1996 (big blind) folded before Flop
+Seat 3: aceking12605 showed [5h 5s] and won ($7.77) with a full house, Fives full of Kings
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) mucked
+
+
+
+PokerStars Hand #222956974778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:27:57 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($6.36 in chips) 
+Seat 2: Donkey1996 ($11.79 in chips) 
+Seat 3: aceking12605 ($19.67 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10.96 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Donkey1996: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: raises $0.10 to $0.20
+Donkey1996: folds 
+aceking12605: folds 
+Uncalled bet ($0.10) returned to Doro2512
+Doro2512 collected $0.25 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 (button) collected ($0.25)
+Seat 2: Donkey1996 (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956985428:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:28:16 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($6.51 in chips) 
+Seat 2: Donkey1996 ($11.74 in chips) 
+Seat 3: aceking12605 ($19.57 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10.96 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.10
+Donkey1996: folds 
+aceking12605: folds 
+DimaLesnoy: raises $0.40 to $0.50
+Doro2512: calls $0.40
+*** FLOP *** [8c Ac Ts]
+DimaLesnoy: checks 
+Doro2512: checks 
+*** TURN *** [8c Ac Ts] [2d]
+DimaLesnoy: bets $0.71
+Doro2512: folds 
+Uncalled bet ($0.71) returned to DimaLesnoy
+DimaLesnoy collected $1 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8c Ac Ts 2d]
+Seat 1: Doro2512 folded on the Turn
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) collected ($1)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957014240:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:29:09 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($6.01 in chips) 
+Seat 2: Donkey1996 ($11.74 in chips) 
+Seat 3: aceking12605 ($19.52 in chips) 
+Seat 4: DimaLesnoy ($10.50 in chips) 
+Seat 5: stardrakee ($10.96 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+Doro2512: folds 
+Donkey1996: raises $0.20 to $0.30
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+Uncalled bet ($0.20) returned to Donkey1996
+Donkey1996 collected $0.25 from pot
+Donkey1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: Donkey1996 collected ($0.25)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957032614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:29:43 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($6.01 in chips) 
+Seat 2: Donkey1996 ($11.89 in chips) 
+Seat 4: DimaLesnoy ($10.45 in chips) 
+Seat 5: stardrakee ($10.86 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: raises $0.10 to $0.20
+Donkey1996: raises $0.50 to $0.70
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.50
+*** FLOP *** [Jh 5h Jc]
+Doro2512: checks 
+Donkey1996: bets $0.49
+Doro2512: calls $0.49
+*** TURN *** [Jh 5h Jc] [Qs]
+Doro2512: checks 
+Donkey1996: checks 
+*** RIVER *** [Jh 5h Jc Qs] [Qh]
+Doro2512: checks 
+Donkey1996: checks 
+*** SHOW DOWN ***
+Doro2512: shows [As 8s] (two pair, Queens and Jacks)
+Donkey1996: shows [Kd Ks] (two pair, Kings and Queens)
+Donkey1996 collected $2.42 from pot
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.11 
+Board [Jh 5h Jc Qs Qh]
+Seat 1: Doro2512 showed [As 8s] and lost with two pair, Queens and Jacks
+Seat 2: Donkey1996 showed [Kd Ks] and won ($2.42) with two pair, Kings and Queens
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957063706:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:30:40 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($4.82 in chips) 
+Seat 2: Donkey1996 ($13.12 in chips) 
+Seat 4: DimaLesnoy ($10.45 in chips) 
+Seat 5: stardrakee ($10.81 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: folds 
+DimaLesnoy: raises $0.15 to $0.25
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: raises $0.15 to $0.40
+DimaLesnoy: raises $0.85 to $1.25
+Doro2512: calls $0.85
+*** FLOP *** [3s Qh 4s]
+Doro2512: checks 
+DimaLesnoy: checks 
+*** TURN *** [3s Qh 4s] [Qs]
+Doro2512: checks 
+DimaLesnoy: checks 
+*** RIVER *** [3s Qh 4s Qs] [Ts]
+Doro2512: checks 
+DimaLesnoy: checks 
+*** SHOW DOWN ***
+Doro2512: shows [Td Ad] (two pair, Queens and Tens)
+DimaLesnoy: shows [Kc Kh] (two pair, Kings and Queens)
+DimaLesnoy collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [3s Qh 4s Qs Ts]
+Seat 1: Doro2512 (big blind) showed [Td Ad] and lost with two pair, Queens and Tens
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy showed [Kc Kh] and won ($2.44) with two pair, Kings and Queens
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957099386:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:31:33 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($3.57 in chips) 
+Seat 2: Donkey1996 ($13.12 in chips) 
+Seat 4: DimaLesnoy ($11.64 in chips) 
+Seat 5: stardrakee ($10.81 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.15 to $0.25
+Doro2512: calls $0.20
+Donkey1996: folds 
+*** FLOP *** [Tc 2d 8h]
+Doro2512: checks 
+dimon36krut: checks 
+*** TURN *** [Tc 2d 8h] [Qs]
+Doro2512: bets $0.10
+dimon36krut: folds 
+Uncalled bet ($0.10) returned to Doro2512
+Doro2512 collected $0.57 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc 2d 8h Qs]
+Seat 1: Doro2512 (small blind) collected ($0.57)
+Seat 2: Donkey1996 (big blind) folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded on the Turn
+
+
+
+PokerStars Hand #222957116784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:32:05 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($3.89 in chips) 
+Seat 2: Donkey1996 ($13.02 in chips) 
+Seat 4: DimaLesnoy ($11.64 in chips) 
+Seat 5: stardrakee ($10.81 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Donkey1996: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: folds 
+Donkey1996: folds 
+Uncalled bet ($0.05) returned to DimaLesnoy
+DimaLesnoy collected $0.10 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Doro2512 (button) folded before Flop (didn't bet)
+Seat 2: Donkey1996 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) collected ($0.10)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957123006:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:32:16 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($3.89 in chips) 
+Seat 2: Donkey1996 ($12.97 in chips) 
+Seat 4: DimaLesnoy ($11.69 in chips) 
+Seat 5: stardrakee ($10.81 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+Doro2512: raises $0.10 to $0.20
+Donkey1996: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+Uncalled bet ($0.10) returned to Doro2512
+Doro2512 collected $0.25 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 collected ($0.25)
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957134607:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:32:37 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($4.04 in chips) 
+Seat 2: Donkey1996 ($12.97 in chips) 
+Seat 4: DimaLesnoy ($11.64 in chips) 
+Seat 5: stardrakee ($10.71 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: raises $0.40 to $0.50
+Donkey1996: folds 
+DimaLesnoy: calls $0.50
+stardrakee: folds 
+dimon36krut: folds 
+*** FLOP *** [7d 4s Td]
+Doro2512: bets $1.10
+DimaLesnoy: folds 
+Uncalled bet ($1.10) returned to Doro2512
+Doro2512 collected $1.10 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [7d 4s Td]
+Seat 1: Doro2512 collected ($1.10)
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded on the Flop
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957152667:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:33:10 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($4.64 in chips) 
+Seat 2: Donkey1996 ($12.97 in chips) 
+Seat 4: DimaLesnoy ($11.14 in chips) 
+Seat 5: stardrakee ($10.66 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Uncalled bet ($0.05) returned to Doro2512
+Doro2512 collected $0.10 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Doro2512 (big blind) collected ($0.10)
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957167671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:33:37 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($4.69 in chips) 
+Seat 2: Donkey1996 ($12.97 in chips) 
+Seat 4: DimaLesnoy ($11.14 in chips) 
+Seat 5: stardrakee ($10.66 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.10 to $0.20
+Doro2512: raises $0.10 to $0.30
+Donkey1996: folds 
+dimon36krut: calls $0.10
+*** FLOP *** [Ah 2c 6s]
+Doro2512: bets $0.30
+dimon36krut: calls $0.30
+*** TURN *** [Ah 2c 6s] [6d]
+Doro2512: bets $0.30
+dimon36krut: folds 
+Uncalled bet ($0.30) returned to Doro2512
+Doro2512 collected $1.24 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [Ah 2c 6s 6d]
+Seat 1: Doro2512 (small blind) collected ($1.24)
+Seat 2: Donkey1996 (big blind) folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded on the Turn
+
+
+
+PokerStars Hand #222957190139:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:34:18 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($5.33 in chips) 
+Seat 2: Donkey1996 ($12.87 in chips) 
+Seat 4: DimaLesnoy ($11.14 in chips) 
+Seat 5: stardrakee ($10.66 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Donkey1996: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.10
+Donkey1996: raises $0.35 to $0.45
+DimaLesnoy: folds 
+Doro2512: calls $0.35
+*** FLOP *** [7d Kd 5h]
+Donkey1996: bets $0.48
+Doro2512: folds 
+Uncalled bet ($0.48) returned to Donkey1996
+Donkey1996 collected $0.96 from pot
+Donkey1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [7d Kd 5h]
+Seat 1: Doro2512 (button) folded on the Flop
+Seat 2: Donkey1996 (small blind) collected ($0.96)
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957203028:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:34:41 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($4.88 in chips) 
+Seat 2: Donkey1996 ($13.38 in chips) 
+Seat 4: DimaLesnoy ($11.04 in chips) 
+Seat 5: stardrakee ($10.66 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: raises $0.10 to $0.20
+Doro2512: calls $0.20
+Donkey1996: folds 
+DimaLesnoy: folds 
+stardrakee: calls $0.10
+*** FLOP *** [Jh Th 6c]
+stardrakee: checks 
+dimon36krut: checks 
+Doro2512: checks 
+*** TURN *** [Jh Th 6c] [8s]
+stardrakee: checks 
+dimon36krut: checks 
+Doro2512: checks 
+*** RIVER *** [Jh Th 6c 8s] [7h]
+stardrakee: checks 
+dimon36krut: checks 
+Doro2512: bets $0.62
+stardrakee: folds 
+dimon36krut: folds 
+Uncalled bet ($0.62) returned to Doro2512
+Doro2512 collected $0.62 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Jh Th 6c 8s 7h]
+Seat 1: Doro2512 collected ($0.62)
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded on the River
+Seat 6: dimon36krut folded on the River
+
+
+
+PokerStars Hand #222957228973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:35:29 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($5.30 in chips) 
+Seat 2: Donkey1996 ($13.38 in chips) 
+Seat 4: DimaLesnoy ($10.99 in chips) 
+Seat 5: stardrakee ($10.46 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+Donkey1996: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: checks 
+*** FLOP *** [4d Kh 7d]
+dimon36krut: checks 
+Doro2512: checks 
+*** TURN *** [4d Kh 7d] [4s]
+dimon36krut: checks 
+Doro2512: checks 
+*** RIVER *** [4d Kh 7d 4s] [5h]
+dimon36krut: checks 
+Doro2512: checks 
+*** SHOW DOWN ***
+dimon36krut: shows [Ts 3s] (a pair of Fours)
+Doro2512: shows [5c Qc] (two pair, Fives and Fours)
+Doro2512 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d Kh 7d 4s 5h]
+Seat 1: Doro2512 showed [5c Qc] and won ($0.24) with two pair, Fives and Fours
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) showed [Ts 3s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #222957242865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:35:54 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($5.44 in chips) 
+Seat 2: Donkey1996 ($13.38 in chips) 
+Seat 4: DimaLesnoy ($10.99 in chips) 
+Seat 5: stardrakee ($10.41 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: raises $0.20 to $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.20
+*** FLOP *** [3h Qs 7d]
+Doro2512: checks 
+Donkey1996: checks 
+*** TURN *** [3h Qs 7d] [Jc]
+Doro2512: checks 
+Donkey1996: checks 
+*** RIVER *** [3h Qs 7d Jc] [Ad]
+Doro2512: checks 
+Donkey1996: checks 
+*** SHOW DOWN ***
+Doro2512: shows [4d 9s] (high card Ace)
+Donkey1996: shows [6s 7s] (a pair of Sevens)
+Donkey1996 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3h Qs 7d Jc Ad]
+Seat 1: Doro2512 (big blind) showed [4d 9s] and lost with high card Ace
+Seat 2: Donkey1996 showed [6s 7s] and won ($0.62) with a pair of Sevens
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957264957:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:36:34 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($5.14 in chips) 
+Seat 2: Donkey1996 ($13.70 in chips) 
+Seat 4: DimaLesnoy ($10.99 in chips) 
+Seat 5: stardrakee ($10.41 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: posts big blind $0.10
+aceking12605: sits out 
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: raises $0.10 to $0.20
+Donkey1996: calls $0.10
+*** FLOP *** [4d Ah Js]
+Doro2512: bets $0.38
+Donkey1996: calls $0.38
+*** TURN *** [4d Ah Js] [3d]
+Doro2512: bets $1.11
+Donkey1996: folds 
+Uncalled bet ($1.11) returned to Doro2512
+Doro2512 collected $1.11 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [4d Ah Js 3d]
+Seat 1: Doro2512 (small blind) collected ($1.11)
+Seat 2: Donkey1996 (big blind) folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957283138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:37:07 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($5.67 in chips) 
+Seat 2: Donkey1996 ($13.12 in chips) 
+Seat 3: aceking12605 ($19.52 in chips) 
+Seat 4: DimaLesnoy ($10.99 in chips) 
+Seat 5: stardrakee ($10.41 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Donkey1996: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: folds 
+Donkey1996: raises $0.20 to $0.30
+aceking12605: raises $0.20 to $0.50
+Donkey1996: calls $0.20
+*** FLOP *** [Ac 4s 9s]
+Donkey1996: checks 
+aceking12605: checks 
+*** TURN *** [Ac 4s 9s] [9h]
+Donkey1996: bets $0.80
+aceking12605: folds 
+Uncalled bet ($0.80) returned to Donkey1996
+Donkey1996 collected $0.96 from pot
+Donkey1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ac 4s 9s 9h]
+Seat 1: Doro2512 (button) folded before Flop (didn't bet)
+Seat 2: Donkey1996 (small blind) collected ($0.96)
+Seat 3: aceking12605 (big blind) folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957301890:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:37:41 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($5.67 in chips) 
+Seat 2: Donkey1996 ($13.58 in chips) 
+Seat 3: aceking12605 ($19.02 in chips) 
+Seat 4: DimaLesnoy ($10.99 in chips) 
+Seat 5: stardrakee ($10.41 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: raises $0.10 to $0.20
+Doro2512: folds 
+Donkey1996: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.10) returned to dimon36krut
+dimon36krut collected $0.25 from pot
+dimon36krut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: Donkey1996 (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut collected ($0.25)
+
+
+
+PokerStars Hand #222957317343:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:38:09 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($5.67 in chips) 
+Seat 2: Donkey1996 ($13.58 in chips) 
+Seat 3: aceking12605 ($18.97 in chips) 
+Seat 4: DimaLesnoy ($10.89 in chips) 
+Seat 5: stardrakee ($10.41 in chips) 
+Seat 6: dimon36krut ($5.15 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+Doro2512: folds 
+Donkey1996: folds 
+aceking12605 has timed out
+aceking12605: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.05) returned to stardrakee
+stardrakee collected $0.10 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Doro2512 folded before Flop (didn't bet)
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) collected ($0.10)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957327568:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:38:28 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($5.67 in chips) 
+Seat 2: Donkey1996 ($13.58 in chips) 
+Seat 4: DimaLesnoy ($10.84 in chips) 
+Seat 5: stardrakee ($10.46 in chips) 
+Seat 6: dimon36krut ($5.15 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: raises $0.10 to $0.20
+Donkey1996: folds 
+DimaLesnoy: raises $0.40 to $0.60
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.40
+*** FLOP *** [Jh 4d 8c]
+Doro2512: checks 
+DimaLesnoy: bets $0.55
+Doro2512: folds 
+Uncalled bet ($0.55) returned to DimaLesnoy
+DimaLesnoy collected $1.29 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [Jh 4d 8c]
+Seat 1: Doro2512 folded on the Flop
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) collected ($1.29)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957343916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:38:57 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($5.07 in chips) 
+Seat 2: Donkey1996 ($13.58 in chips) 
+Seat 3: aceking12605 ($18.97 in chips) 
+Seat 4: DimaLesnoy ($11.53 in chips) 
+Seat 5: stardrakee ($10.41 in chips) 
+Seat 6: dimon36krut ($5.05 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+Donkey1996: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: raises $0.15 to $0.25
+dimon36krut: folds 
+Doro2512: calls $0.15
+*** FLOP *** [4d Kd 2s]
+Doro2512: checks 
+stardrakee: checks 
+*** TURN *** [4d Kd 2s] [Qs]
+Doro2512: checks 
+stardrakee: checks 
+*** RIVER *** [4d Kd 2s Qs] [Qd]
+Doro2512: checks 
+stardrakee: checks 
+*** SHOW DOWN ***
+Doro2512: shows [As 9c] (a pair of Queens)
+stardrakee: shows [Jh Ah] (a pair of Queens - Ace+King+Jack kicker)
+stardrakee collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4d Kd 2s Qs Qd]
+Seat 1: Doro2512 (big blind) showed [As 9c] and lost with a pair of Queens
+Seat 2: Donkey1996 folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) showed [Jh Ah] and won ($0.53) with a pair of Queens
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957362552:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:39:31 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($4.82 in chips) 
+Seat 3: aceking12605 ($18.97 in chips) 
+Seat 4: DimaLesnoy ($11.53 in chips) 
+Seat 5: stardrakee ($10.69 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+Doro2512: posts small blind $0.05
+Donkey1996: is sitting out 
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.15 to $0.25
+Doro2512: calls $0.20
+aceking12605: calls $0.15
+*** FLOP *** [Kc Tc 8s]
+Doro2512: checks 
+aceking12605: checks 
+dimon36krut: checks 
+*** TURN *** [Kc Tc 8s] [Jd]
+Doro2512: checks 
+aceking12605: bets $0.36
+dimon36krut: folds 
+Doro2512: folds 
+Uncalled bet ($0.36) returned to aceking12605
+aceking12605 collected $0.72 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kc Tc 8s Jd]
+Seat 1: Doro2512 (small blind) folded on the Turn
+Seat 3: aceking12605 (big blind) collected ($0.72)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded on the Turn
+
+
+
+PokerStars Hand #222957392416:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:40:26 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($4.57 in chips) 
+Seat 3: aceking12605 ($19.44 in chips) 
+Seat 4: DimaLesnoy ($11.53 in chips) 
+Seat 5: stardrakee ($10.69 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.10
+aceking12605: raises $0.10 to $0.20
+DimaLesnoy: raises $0.60 to $0.80
+Doro2512: calls $0.70
+aceking12605: raises $18.64 to $19.44 and is all-in
+DimaLesnoy: calls $10.73 and is all-in
+Doro2512: folds 
+Uncalled bet ($7.91) returned to aceking12605
+*** FLOP *** [2c 4h Tc]
+*** TURN *** [2c 4h Tc] [4d]
+*** RIVER *** [2c 4h Tc 4d] [9h]
+*** SHOW DOWN ***
+aceking12605: shows [As Ah] (two pair, Aces and Fours)
+DimaLesnoy: shows [Kc Kd] (two pair, Kings and Fours)
+aceking12605 collected $22.79 from pot
+*** SUMMARY ***
+Total pot $23.86 | Rake $1.07 
+Board [2c 4h Tc 4d 9h]
+Seat 1: Doro2512 (button) folded before Flop
+Seat 3: aceking12605 (small blind) showed [As Ah] and won ($22.79) with two pair, Aces and Fours
+Seat 4: DimaLesnoy (big blind) showed [Kc Kd] and lost with two pair, Kings and Fours
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957420577:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:41:17 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($3.77 in chips) 
+Seat 3: aceking12605 ($30.70 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10.69 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+Doro2512: calls $0.10
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: checks 
+*** FLOP *** [6c Qd 4d]
+stardrakee: checks 
+Doro2512: checks 
+*** TURN *** [6c Qd 4d] [5d]
+stardrakee: bets $0.13
+Doro2512: calls $0.13
+*** RIVER *** [6c Qd 4d 5d] [9s]
+stardrakee: bets $0.30
+Doro2512: calls $0.30
+*** SHOW DOWN ***
+stardrakee: shows [7d 8c] (a straight, Five to Nine)
+Doro2512: mucks hand 
+stardrakee collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05 
+Board [6c Qd 4d 5d 9s]
+Seat 1: Doro2512 mucked
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) showed [7d 8c] and won ($1.06) with a straight, Five to Nine
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957439961:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:41:52 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($3.24 in chips) 
+Seat 3: aceking12605 ($30.70 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($11.22 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+aceking12605: calls $0.10
+DimaLesnoy: raises $0.40 to $0.50
+stardrakee: folds 
+Donkey1996 leaves the table
+dimon36krut: folds 
+Doro2512: folds 
+DiskoDancer joins the table at seat #2 
+aceking12605: calls $0.40
+*** FLOP *** [9h Ks Qh]
+aceking12605: bets $0.59
+DimaLesnoy: folds 
+Uncalled bet ($0.59) returned to aceking12605
+aceking12605 collected $1.19 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9h Ks Qh]
+Seat 1: Doro2512 folded before Flop
+Seat 3: aceking12605 collected ($1.19)
+Seat 4: DimaLesnoy (button) folded on the Flop
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957497164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:43:35 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($2.79 in chips) 
+Seat 2: DiskoDancer ($10.09 in chips) 
+Seat 3: aceking12605 ($31.39 in chips) 
+Seat 4: DimaLesnoy ($10.28 in chips) 
+Seat 5: stardrakee ($11.17 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+DiskoDancer: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: raises $0.10 to $0.20
+DiskoDancer: folds 
+aceking12605: calls $0.10
+*** FLOP *** [Ad 8h Tc]
+aceking12605: checks 
+Doro2512: checks 
+*** TURN *** [Ad 8h Tc] [5c]
+aceking12605: bets $0.10
+Doro2512: raises $0.10 to $0.20
+aceking12605: folds 
+Uncalled bet ($0.10) returned to Doro2512
+Doro2512 collected $0.62 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ad 8h Tc 5c]
+Seat 1: Doro2512 (button) collected ($0.62)
+Seat 2: DiskoDancer (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957523984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:44:24 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($3.11 in chips) 
+Seat 2: DiskoDancer ($10.04 in chips) 
+Seat 3: aceking12605 ($31.09 in chips) 
+Seat 4: DimaLesnoy ($10.28 in chips) 
+Seat 5: stardrakee ($11.17 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: raises $0.10 to $0.20
+DiskoDancer: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.10) returned to Doro2512
+Doro2512 collected $0.25 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Doro2512 collected ($0.25)
+Seat 2: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957538121:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:44:49 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: Doro2512 ($3.26 in chips) 
+Seat 2: DiskoDancer ($10.04 in chips) 
+Seat 3: aceking12605 ($31.04 in chips) 
+Seat 4: DimaLesnoy ($10.18 in chips) 
+Seat 5: stardrakee ($11.17 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+Doro2512: raises $0.20 to $0.30
+DiskoDancer: folds 
+aceking12605: calls $0.30
+DimaLesnoy: folds 
+stardrakee: folds 
+*** FLOP *** [9d Jh 2s]
+Doro2512: checks 
+aceking12605: checks 
+*** TURN *** [9d Jh 2s] [Qs]
+Doro2512: checks 
+aceking12605: checks 
+*** RIVER *** [9d Jh 2s Qs] [Tc]
+Doro2512: bets $2.96 and is all-in
+aceking12605: folds 
+Uncalled bet ($2.96) returned to Doro2512
+Doro2512 collected $0.72 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9d Jh 2s Qs Tc]
+Seat 1: Doro2512 collected ($0.72)
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded on the River
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957556916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:45:23 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: Doro2512 ($3.68 in chips) 
+Seat 2: DiskoDancer ($10.04 in chips) 
+Seat 3: aceking12605 ($30.74 in chips) 
+Seat 4: DimaLesnoy ($10.13 in chips) 
+Seat 5: stardrakee ($11.07 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+Doro2512: calls $0.10
+DiskoDancer: folds 
+aceking12605: calls $0.10
+DimaLesnoy: folds 
+stardrakee: calls $0.05
+dimon36krut: checks 
+*** FLOP *** [6c 9h Qs]
+stardrakee: checks 
+dimon36krut: checks 
+Doro2512: bets $0.30
+aceking12605: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Uncalled bet ($0.30) returned to Doro2512
+Doro2512 collected $0.38 from pot
+Doro2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [6c 9h Qs]
+Seat 1: Doro2512 collected ($0.38)
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 folded on the Flop
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded on the Flop
+Seat 6: dimon36krut (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222957576927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:45:59 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: Doro2512 ($3.96 in chips) 
+Seat 2: DiskoDancer ($10.04 in chips) 
+Seat 3: aceking12605 ($30.64 in chips) 
+Seat 4: DimaLesnoy ($10.13 in chips) 
+Seat 5: stardrakee ($10.97 in chips) 
+Seat 6: dimon36krut ($5 in chips) 
+dimon36krut: posts small blind $0.05
+Doro2512: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer: raises $0.15 to $0.25
+aceking12605: calls $0.25
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.95 to $1.20
+Doro2512: calls $1.10
+DiskoDancer: folds 
+aceking12605: calls $0.95
+*** FLOP *** [8d 5s 6s]
+dimon36krut: bets $3.80 and is all-in
+Doro2512: folds 
+aceking12605: calls $3.80
+*** TURN *** [8d 5s 6s] [7s]
+*** RIVER *** [8d 5s 6s 7s] [Qs]
+*** SHOW DOWN ***
+dimon36krut: shows [Jc Js] (a flush, Queen high)
+aceking12605: shows [5d Kd] (a pair of Fives)
+dimon36krut cashed out the hand for $8.11 | Cash Out Fee $0.08
+*** SUMMARY ***
+Total pot $11.45 | Rake $0.52 
+Board [8d 5s 6s 7s Qs]
+Seat 1: Doro2512 (big blind) folded on the Flop
+Seat 2: DiskoDancer folded before Flop
+Seat 3: aceking12605 showed [5d Kd] and lost with a pair of Fives
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) showed [Jc Js] and won ($10.93) with a flush, Queen high (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222957603915:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:46:47 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: Doro2512 ($2.76 in chips) 
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($25.64 in chips) 
+Seat 4: DimaLesnoy ($10.13 in chips) 
+Seat 5: stardrakee ($10.97 in chips) 
+Seat 6: dimon36krut ($8.11 in chips) 
+Doro2512: posts small blind $0.05
+DiskoDancer: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: calls $0.10
+DimaLesnoy: raises $0.20 to $0.30
+stardrakee: raises $0.60 to $0.90
+dimon36krut: folds 
+Doro2512: folds 
+DiskoDancer: folds 
+aceking12605: calls $0.80
+DimaLesnoy: folds 
+*** FLOP *** [8d Kd Td]
+aceking12605: checks 
+stardrakee: bets $0.70
+aceking12605: raises $3.55 to $4.25
+stardrakee: folds 
+Uncalled bet ($3.55) returned to aceking12605
+aceking12605 collected $3.49 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.16 
+Board [8d Kd Td]
+Seat 1: Doro2512 (small blind) folded before Flop
+Seat 2: DiskoDancer (big blind) folded before Flop
+Seat 3: aceking12605 collected ($3.49)
+Seat 4: DimaLesnoy folded before Flop
+Seat 5: stardrakee folded on the Flop
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957635537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:47:44 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: Doro2512 ($2.71 in chips) 
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($27.53 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($8.11 in chips) 
+DiskoDancer: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.15 to $0.25
+Doro2512: calls $0.25
+DiskoDancer: folds 
+aceking12605: raises $2.25 to $2.50
+dimon36krut: folds 
+Doro2512: calls $2.25
+*** FLOP *** [6d Ah 9c]
+aceking12605: bets $25.03 and is all-in
+Doro2512: calls $0.21 and is all-in
+Uncalled bet ($24.82) returned to aceking12605
+*** TURN *** [6d Ah 9c] [7c]
+*** RIVER *** [6d Ah 9c 7c] [3c]
+*** SHOW DOWN ***
+aceking12605: shows [Kd Jh] (high card Ace)
+Doro2512: shows [Jc Kc] (a flush, King high)
+Doro2512 cashed out the hand for $2.82 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $5.72 | Rake $0.26 
+Board [6d Ah 9c 7c 3c]
+Seat 1: Doro2512 (button) showed [Jc Kc] and won ($5.46) with a flush, King high (pot not awarded as player cashed out)
+Seat 2: DiskoDancer (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) showed [Kd Jh] and lost with high card Ace
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop
+
+
+
+PokerStars Hand #222957668578:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:48:44 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: Doro2512 ($2.82 in chips) 
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($24.82 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.86 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+Doro2512: calls $0.10
+DiskoDancer: calls $0.10
+aceking12605: calls $0.05
+DimaLesnoy: checks 
+*** FLOP *** [Qh 5c 5h]
+aceking12605: checks 
+DimaLesnoy: checks 
+Doro2512: bets $0.30
+DiskoDancer: folds 
+aceking12605: raises $24.42 to $24.72 and is all-in
+DimaLesnoy: folds 
+Doro2512: calls $2.42 and is all-in
+Uncalled bet ($22) returned to aceking12605
+*** TURN *** [Qh 5c 5h] [Ks]
+*** RIVER *** [Qh 5c 5h Ks] [2h]
+*** SHOW DOWN ***
+aceking12605: shows [Ah 5d] (three of a kind, Fives)
+Doro2512: shows [8s Qd] (two pair, Queens and Fives)
+aceking12605 collected $5.58 from pot
+*** SUMMARY ***
+Total pot $5.84 | Rake $0.26 
+Board [Qh 5c 5h Ks 2h]
+Seat 1: Doro2512 showed [8s Qd] and lost with two pair, Queens and Fives
+Seat 2: DiskoDancer (button) folded on the Flop
+Seat 3: aceking12605 (small blind) showed [Ah 5d] and won ($5.58) with three of a kind, Fives
+Seat 4: DimaLesnoy (big blind) folded on the Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957714779:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:06 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($27.58 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.86 in chips) 
+DimaLesnoy: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: raises $0.10 to $0.20
+Doro2512 leaves the table
+DiskoDancer: folds 
+aceking12605: folds 
+KingPotNoodle joins the table at seat #1 
+DimaLesnoy: folds 
+stardrakee: folds 
+Uncalled bet ($0.10) returned to dimon36krut
+dimon36krut collected $0.25 from pot
+dimon36krut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut collected ($0.25)
+
+
+
+PokerStars Hand #222957726313:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:27 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($27.58 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($8.01 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+KingPotNoodle: sits out 
+*** HOLE CARDS ***
+DiskoDancer: folds 
+aceking12605: folds 
+DimaLesnoy: folds 
+stardrakee: folds 
+Uncalled bet ($0.05) returned to dimon36krut
+dimon36krut collected $0.10 from pot
+dimon36krut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222957732564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:38 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($27.58 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($8.06 in chips) 
+dimon36krut: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer: folds 
+aceking12605: calls $0.10
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.10 to $0.20
+KingPotNoodle: raises $0.70 to $0.90
+aceking12605: folds 
+dimon36krut: folds 
+Uncalled bet ($0.70) returned to KingPotNoodle
+KingPotNoodle collected $0.50 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.50)
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957766492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:51:40 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.30 in chips) 
+Seat 2: DiskoDancer ($10 in chips) 
+Seat 3: aceking12605 ($27.48 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.86 in chips) 
+KingPotNoodle: posts small blind $0.05
+DiskoDancer: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: calls $0.10
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: folds 
+DiskoDancer: checks 
+*** FLOP *** [8h 3c 4h]
+DiskoDancer: bets $0.10
+aceking12605: calls $0.10
+*** TURN *** [8h 3c 4h] [8c]
+DiskoDancer: checks 
+aceking12605: checks 
+*** RIVER *** [8h 3c 4h 8c] [Kc]
+DiskoDancer: bets $0.32
+aceking12605: folds 
+Uncalled bet ($0.32) returned to DiskoDancer
+DiskoDancer collected $0.43 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8h 3c 4h 8c Kc]
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: DiskoDancer (big blind) collected ($0.43)
+Seat 3: aceking12605 folded on the River
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957794605:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:52:31 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.25 in chips) 
+Seat 2: DiskoDancer ($10.23 in chips) 
+Seat 3: aceking12605 ($27.28 in chips) 
+Seat 4: DimaLesnoy ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.86 in chips) 
+DiskoDancer: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+stardrakee: folds 
+dimon36krut: raises $0.10 to $0.20
+KingPotNoodle: folds 
+DiskoDancer: folds 
+aceking12605: calls $0.10
+*** FLOP *** [As Qd 4c]
+aceking12605: checks 
+dimon36krut: checks 
+*** TURN *** [As Qd 4c] [9s]
+aceking12605: bets $0.10
+dimon36krut: calls $0.10
+*** RIVER *** [As Qd 4c 9s] [Ah]
+aceking12605: bets $0.10
+dimon36krut: calls $0.10
+*** SHOW DOWN ***
+aceking12605: shows [Qh Th] (two pair, Aces and Queens)
+dimon36krut: mucks hand 
+aceking12605 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [As Qd 4c 9s Ah]
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: DiskoDancer (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) showed [Qh Th] and won ($0.81) with two pair, Aces and Queens
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut mucked
+
+
+
+PokerStars Hand #222957816342:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:53:10 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.25 in chips) 
+Seat 2: DiskoDancer ($10.18 in chips) 
+Seat 3: aceking12605 ($27.69 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.46 in chips) 
+aceking12605: posts small blind $0.05
+DimaLesnoy: is sitting out 
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy leaves the table
+dimon36krut: raises $0.20 to $0.30
+KingPotNoodle: folds 
+DiskoDancer: folds 
+aceking12605: folds 
+stardrakee: folds 
+Uncalled bet ($0.20) returned to dimon36krut
+dimon36krut collected $0.25 from pot
+dimon36krut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut collected ($0.25)
+
+
+
+PokerStars Hand #222957823469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:53:23 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.25 in chips) 
+Seat 2: DiskoDancer ($10.18 in chips) 
+Seat 3: aceking12605 ($27.64 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.61 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+DiskoDancer: raises $0.15 to $0.25
+aceking12605: folds 
+stardrakee: folds 
+dimon36krut: folds 
+Uncalled bet ($0.15) returned to DiskoDancer
+DiskoDancer collected $0.25 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: DiskoDancer collected ($0.25)
+Seat 3: aceking12605 (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957830207:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:53:36 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.25 in chips) 
+Seat 2: DiskoDancer ($10.33 in chips) 
+Seat 3: aceking12605 ($27.64 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.51 in chips) 
+dimon36krut: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07 joins the table at seat #4 
+DiskoDancer: raises $0.15 to $0.25
+aceking12605: calls $0.25
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: folds 
+*** FLOP *** [8c Qh 9d]
+DiskoDancer: bets $0.20
+aceking12605: calls $0.20
+*** TURN *** [8c Qh 9d] [Tc]
+DiskoDancer: bets $0.33
+aceking12605: folds 
+Uncalled bet ($0.33) returned to DiskoDancer
+DiskoDancer collected $1 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8c Qh 9d Tc]
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 2: DiskoDancer collected ($1)
+Seat 3: aceking12605 folded on the Turn
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957847711:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:54:08 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: DiskoDancer ($10.88 in chips) 
+Seat 3: aceking12605 ($27.19 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.46 in chips) 
+KingPotNoodle: posts small blind $0.05
+DiskoDancer: posts big blind $0.10
+Sul07: sits out 
+*** HOLE CARDS ***
+aceking12605: calls $0.10
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: raises $0.45 to $0.55
+DiskoDancer: folds 
+aceking12605: calls $0.45
+*** FLOP *** [5h 8d Ad]
+KingPotNoodle: bets $0.58
+aceking12605: calls $0.58
+*** TURN *** [5h 8d Ad] [Td]
+KingPotNoodle: checks 
+aceking12605: checks 
+*** RIVER *** [5h 8d Ad Td] [Kd]
+KingPotNoodle: checks 
+aceking12605: bets $2.25
+KingPotNoodle: folds [Ks Kh]
+Uncalled bet ($2.25) returned to aceking12605
+aceking12605 collected $2.25 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.11 
+Board [5h 8d Ad Td Kd]
+Seat 1: KingPotNoodle (small blind) folded on the River
+Seat 2: DiskoDancer (big blind) folded before Flop
+Seat 3: aceking12605 collected ($2.25)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957876687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:55:00 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: DiskoDancer ($10.78 in chips) 
+Seat 3: aceking12605 ($28.31 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.46 in chips) 
+DiskoDancer: posts small blind $0.05
+aceking12605: posts big blind $0.10
+Sul07: sits out 
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: raises $0.15 to $0.25
+DiskoDancer: calls $0.20
+aceking12605: calls $0.15
+*** FLOP *** [6h Kh Ac]
+DiskoDancer: checks 
+aceking12605: checks 
+KingPotNoodle: checks 
+*** TURN *** [6h Kh Ac] [7d]
+DiskoDancer: checks 
+aceking12605: checks 
+KingPotNoodle: checks 
+*** RIVER *** [6h Kh Ac 7d] [6s]
+DiskoDancer: checks 
+aceking12605: bets $0.36
+KingPotNoodle: folds 
+DiskoDancer: folds 
+Uncalled bet ($0.36) returned to aceking12605
+aceking12605 collected $0.72 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6h Kh Ac 7d 6s]
+Seat 1: KingPotNoodle (button) folded on the River
+Seat 2: DiskoDancer (small blind) folded on the River
+Seat 3: aceking12605 (big blind) collected ($0.72)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957908237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:56:11 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: DiskoDancer ($10.53 in chips) 
+Seat 3: aceking12605 ($28.78 in chips) 
+Seat 4: Sul07 ($10 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.46 in chips) 
+aceking12605: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: raises $0.15 to $0.25
+KingPotNoodle: folds 
+DiskoDancer: folds 
+aceking12605: calls $0.20
+Sul07: folds 
+*** FLOP *** [4h 9s 9d]
+aceking12605: checks 
+dimon36krut: checks 
+*** TURN *** [4h 9s 9d] [8s]
+aceking12605: checks 
+dimon36krut: checks 
+*** RIVER *** [4h 9s 9d 8s] [Ah]
+aceking12605: checks 
+dimon36krut: checks 
+*** SHOW DOWN ***
+aceking12605: shows [Js Qh] (a pair of Nines)
+dimon36krut: shows [8c Ac] (two pair, Aces and Nines)
+dimon36krut collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4h 9s 9d 8s Ah]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) showed [Js Qh] and lost with a pair of Nines
+Seat 4: Sul07 (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut showed [8c Ac] and won ($0.57) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #222957923466:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:56:46 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: DiskoDancer ($10.53 in chips) 
+Seat 3: aceking12605 ($28.53 in chips) 
+Seat 4: Sul07 ($9.90 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.78 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+KingPotNoodle: raises $0.20 to $0.30
+DiskoDancer: folds 
+aceking12605: calls $0.30
+Sul07: calls $0.25
+stardrakee: folds 
+*** FLOP *** [Ad Ah 4h]
+Sul07: checks 
+KingPotNoodle: checks 
+aceking12605: bets $0.96
+Sul07: calls $0.96
+KingPotNoodle: folds 
+*** TURN *** [Ad Ah 4h] [Ts]
+Sul07: checks 
+aceking12605: bets $1.39
+Sul07: calls $1.39
+*** RIVER *** [Ad Ah 4h Ts] [Th]
+Sul07: bets $7.25 and is all-in
+aceking12605: folds 
+Uncalled bet ($7.25) returned to Sul07
+Sul07 collected $5.44 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.26 
+Board [Ad Ah 4h Ts Th]
+Seat 1: KingPotNoodle folded on the Flop
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) folded on the River
+Seat 4: Sul07 (small blind) collected ($5.44)
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957942812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:57:30 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: DiskoDancer ($10.53 in chips) 
+Seat 3: aceking12605 ($25.88 in chips) 
+Seat 4: Sul07 ($12.69 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.78 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+DiskoDancer: folds 
+aceking12605: folds 
+Sul07: raises $0.20 to $0.30
+stardrakee: folds 
+dimon36krut: calls $0.20
+*** FLOP *** [Ks 5d 5c]
+dimon36krut: checks 
+Sul07: bets $0.40
+dimon36krut: folds 
+Uncalled bet ($0.40) returned to Sul07
+Sul07 collected $0.62 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ks 5d 5c]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: Sul07 (button) collected ($0.62)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222957956727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:58:02 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: DiskoDancer ($10.53 in chips) 
+Seat 3: aceking12605 ($25.88 in chips) 
+Seat 4: Sul07 ($13.01 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.48 in chips) 
+dimon36krut: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer: folds 
+aceking12605 has timed out
+aceking12605: folds 
+Sul07: folds 
+stardrakee: folds 
+DiskoDancer was removed from the table for failing to post
+DiskoDancer leaves the table
+dimon36krut: raises $0.10 to $0.20
+KingPotNoodle: raises $0.55 to $0.75
+dimon36krut: folds 
+Uncalled bet ($0.55) returned to KingPotNoodle
+KingPotNoodle collected $0.40 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.40)
+Seat 2: DiskoDancer folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: Sul07 folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957970996:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:58:34 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.20 in chips) 
+Seat 4: Sul07 ($13.01 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.28 in chips) 
+KingPotNoodle: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: raises $0.30 to $0.40
+Sul07: folds 
+Uncalled bet ($0.30) returned to KingPotNoodle
+KingPotNoodle collected $0.20 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: KingPotNoodle (small blind) collected ($0.20)
+Seat 4: Sul07 (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957976304:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:58:46 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.30 in chips) 
+Seat 4: Sul07 ($12.91 in chips) 
+Seat 6: dimon36krut ($7.28 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: is sitting out 
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.30 to $0.40
+zebaztravez joins the table at seat #2 
+Sul07: folds 
+dimon36krut: folds 
+Uncalled bet ($0.30) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) collected ($0.25)
+Seat 4: Sul07 (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957982675:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:58:58 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.45 in chips) 
+Seat 4: Sul07 ($12.86 in chips) 
+Seat 6: dimon36krut ($7.18 in chips) 
+dimon36krut: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+zebaztravez: sits out 
+*** HOLE CARDS ***
+Sul07: folds 
+dimon36krut: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.10)
+Seat 4: Sul07 (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957985585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:05 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.50 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: Sul07 ($12.86 in chips) 
+Seat 6: dimon36krut ($7.13 in chips) 
+KingPotNoodle: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: raises $0.20 to $0.30
+dimon36krut: folds 
+KingPotNoodle: folds 
+zebaztravez: folds 
+Uncalled bet ($0.20) returned to Sul07
+Sul07 collected $0.25 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 4: Sul07 collected ($0.25)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957997639:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:32 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.45 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: Sul07 ($13.01 in chips) 
+Seat 6: dimon36krut ($7.13 in chips) 
+zebaztravez: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: raises $0.20 to $0.30
+KingPotNoodle: folds 
+zebaztravez: folds 
+Sul07: folds 
+Uncalled bet ($0.20) returned to dimon36krut
+dimon36krut collected $0.25 from pot
+dimon36krut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 4: Sul07 (big blind) folded before Flop
+Seat 6: dimon36krut collected ($0.25)
+
+
+
+PokerStars Hand #222958001547:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:41 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.45 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: Sul07 ($12.91 in chips) 
+Sul07: posts small blind $0.05
+dimon36krut: is sitting out 
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Sul07: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.10)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 4: Sul07 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958004233:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:47 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.50 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: Sul07 ($12.86 in chips) 
+KingPotNoodle: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.05) returned to zebaztravez
+zebaztravez collected $0.10 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($0.10)
+Seat 4: Sul07 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958007468:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:59:55 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.45 in chips) 
+Seat 2: zebaztravez ($10.05 in chips) 
+Seat 4: Sul07 ($12.86 in chips) 
+zebaztravez: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.15 to $0.25
+zebaztravez: folds 
+Sul07: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) collected ($0.25)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 4: Sul07 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222958012587:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:00:06 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.60 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: Sul07 ($12.76 in chips) 
+Sul07: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Sul07: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.10)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 4: Sul07 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958017397:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:00:16 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.65 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: Sul07 ($12.71 in chips) 
+KingPotNoodle: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: raises $0.20 to $0.30
+KingPotNoodle: raises $0.80 to $1.10
+zebaztravez: folds 
+Sul07: folds 
+Uncalled bet ($0.80) returned to KingPotNoodle
+KingPotNoodle collected $0.70 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: KingPotNoodle (small blind) collected ($0.70)
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 4: Sul07 (button) folded before Flop
+
+
+
+PokerStars Hand #222958026140:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:00:36 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($11.05 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: aceking12605 ($25.88 in chips) 
+Seat 4: Sul07 ($12.41 in chips) 
+zebaztravez: posts small blind $0.05
+aceking12605: posts big blind $0.10
+dimon36krut: sits out 
+*** HOLE CARDS ***
+Sul07: raises $0.20 to $0.30
+KingPotNoodle: calls $0.30
+zebaztravez: folds 
+aceking12605: folds 
+*** FLOP *** [7d 9d 2d]
+Sul07: bets $0.50
+KingPotNoodle: folds 
+Uncalled bet ($0.50) returned to Sul07
+Sul07 collected $0.72 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [7d 9d 2d]
+Seat 1: KingPotNoodle (button) folded on the Flop
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) folded before Flop
+Seat 4: Sul07 collected ($0.72)
+
+
+
+PokerStars Hand #222958054022:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:01:32 ET
+Table 'Lupus III' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.75 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: aceking12605 ($25.78 in chips) 
+Seat 4: Sul07 ($12.83 in chips) 
+aceking12605: posts small blind $0.05
+Sul07: posts big blind $0.10
+dimon36krut: sits out 
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+zebaztravez: folds 
+aceking12605: calls $0.05
+Sul07: checks 
+*** FLOP *** [4h 7c 4c]
+aceking12605: bets $0.10
+Sul07: calls $0.10
+*** TURN *** [4h 7c 4c] [Ks]
+aceking12605: bets $0.10
+Sul07: calls $0.10
+*** RIVER *** [4h 7c 4c Ks] [8d]
+aceking12605: bets $0.10
+Sul07: calls $0.10
+*** SHOW DOWN ***
+aceking12605: shows [7h 2h] (two pair, Sevens and Fours)
+Sul07: mucks hand 
+aceking12605 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [4h 7c 4c Ks 8d]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: aceking12605 (small blind) showed [7h 2h] and won ($0.76) with two pair, Sevens and Fours
+Seat 4: Sul07 (big blind) mucked
+
+
+
+PokerStars Hand #222958068816:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:01:59 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.75 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: aceking12605 ($26.14 in chips) 
+Seat 4: Sul07 ($12.43 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: posts big blind $0.10
+dimon36krut: sits out 
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+zebaztravez: raises $0.20 to $0.30
+aceking12605: calls $0.30
+Sul07: folds 
+stardrakee: calls $0.20
+*** FLOP *** [7s 9d Kh]
+stardrakee: checks 
+zebaztravez: bets $0.27
+aceking12605: calls $0.27
+stardrakee: calls $0.27
+*** TURN *** [7s 9d Kh] [4d]
+stardrakee: checks 
+zebaztravez: checks 
+aceking12605: bets $1.68
+stardrakee: folds 
+zebaztravez: folds 
+Uncalled bet ($1.68) returned to aceking12605
+aceking12605 collected $1.68 from pot
+aceking12605: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [7s 9d Kh 4d]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: zebaztravez folded on the Turn
+Seat 3: aceking12605 (button) collected ($1.68)
+Seat 4: Sul07 (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222958096351:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:02:50 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.75 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: aceking12605 ($27.25 in chips) 
+Seat 4: Sul07 ($12.38 in chips) 
+Seat 5: stardrakee ($10 in chips) 
+Seat 6: dimon36krut ($7.28 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+zebaztravez: folds 
+aceking12605: calls $0.10
+Sul07: folds 
+stardrakee: raises $0.30 to $0.40
+dimon36krut: folds 
+aceking12605: folds 
+Uncalled bet ($0.30) returned to stardrakee
+stardrakee collected $0.30 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: aceking12605 folded before Flop
+Seat 4: Sul07 (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) collected ($0.30)
+Seat 6: dimon36krut (big blind) folded before Flop
+
+
+
+PokerStars Hand #222958108479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:03:13 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.75 in chips) 
+Seat 3: aceking12605 ($27.15 in chips) 
+Seat 4: Sul07 ($12.38 in chips) 
+Seat 5: stardrakee ($10.20 in chips) 
+Seat 6: dimon36krut ($7.18 in chips) 
+dimon36krut: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605: calls $0.10
+Sul07: folds 
+stardrakee: folds 
+dimon36krut has timed out
+dimon36krut: folds 
+KingPotNoodle: checks 
+*** FLOP *** [Td 5d Qc]
+KingPotNoodle: checks 
+aceking12605: bets $0.10
+KingPotNoodle: calls $0.10
+*** TURN *** [Td 5d Qc] [8s]
+KingPotNoodle: checks 
+aceking12605: bets $0.10
+KingPotNoodle: calls $0.10
+*** RIVER *** [Td 5d Qc 8s] [7d]
+KingPotNoodle: checks 
+aceking12605: checks 
+*** SHOW DOWN ***
+KingPotNoodle: shows [8h Jc] (a pair of Eights)
+aceking12605: mucks hand 
+KingPotNoodle collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td 5d Qc 8s 7d]
+Seat 1: KingPotNoodle (big blind) showed [8h Jc] and won ($0.62) with a pair of Eights
+Seat 3: aceking12605 mucked
+Seat 4: Sul07 folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958149137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:04:21 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($11.07 in chips) 
+Seat 3: aceking12605 ($26.85 in chips) 
+Seat 4: Sul07 ($12.38 in chips) 
+Seat 5: stardrakee ($10.20 in chips) 
+Seat 6: dimon36krut ($7.13 in chips) 
+KingPotNoodle: posts small blind $0.05
+aceking12605: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: folds 
+stardrakee: raises $0.15 to $0.25
+dimon36krut has timed out
+dimon36krut: folds 
+KingPotNoodle: folds 
+aceking12605: folds 
+Uncalled bet ($0.15) returned to stardrakee
+stardrakee collected $0.25 from pot
+stardrakee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 3: aceking12605 (big blind) folded before Flop
+Seat 4: Sul07 folded before Flop (didn't bet)
+Seat 5: stardrakee collected ($0.25)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958167946:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:04:54 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($11.02 in chips) 
+Seat 3: aceking12605 ($26.75 in chips) 
+Seat 4: Sul07 ($12.38 in chips) 
+Seat 5: stardrakee ($10.35 in chips) 
+Seat 6: dimon36krut ($7.13 in chips) 
+aceking12605: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: raises $0.15 to $0.25
+aceking12605: calls $0.20
+Sul07: folds 
+*** FLOP *** [Jc 3h Ad]
+aceking12605: checks 
+KingPotNoodle: checks 
+*** TURN *** [Jc 3h Ad] [9s]
+aceking12605: checks 
+KingPotNoodle: bets $0.29
+aceking12605: calls $0.29
+*** RIVER *** [Jc 3h Ad 9s] [Qd]
+aceking12605: checks 
+KingPotNoodle: checks 
+*** SHOW DOWN ***
+aceking12605: shows [Jh 7s] (a pair of Jacks)
+KingPotNoodle: shows [Qh 7h] (a pair of Queens)
+KingPotNoodle collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [Jc 3h Ad 9s Qd]
+Seat 1: KingPotNoodle (button) showed [Qh 7h] and won ($1.13) with a pair of Queens
+Seat 3: aceking12605 (small blind) showed [Jh 7s] and lost with a pair of Jacks
+Seat 4: Sul07 (big blind) folded before Flop
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958199499:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:05:48 ET
+Table 'Lupus III' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($11.61 in chips) 
+Seat 3: aceking12605 ($26.21 in chips) 
+Seat 4: Sul07 ($12.28 in chips) 
+Seat 5: stardrakee ($10.35 in chips) 
+Seat 6: dimon36krut ($7.13 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: raises $0.20 to $0.30
+KingPotNoodle: folds 
+aceking12605: raises $0.20 to $0.50
+Sul07: folds 
+stardrakee: folds 
+dimon36krut: raises $6.63 to $7.13 and is all-in
+aceking12605: calls $6.63
+*** FLOP *** [8s Td 6c]
+*** TURN *** [8s Td 6c] [2h]
+*** RIVER *** [8s Td 6c 2h] [2c]
+*** SHOW DOWN ***
+dimon36krut: shows [Kh Ac] (a pair of Deuces)
+aceking12605: shows [7c 4c] (a pair of Deuces - lower kicker)
+dimon36krut cashed out the hand for $8.42 | Cash Out Fee $0.08
+*** SUMMARY ***
+Total pot $14.41 | Rake $0.65 
+Board [8s Td 6c 2h 2c]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 3: aceking12605 (button) showed [7c 4c] and lost with a pair of Deuces
+Seat 4: Sul07 (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+Seat 6: dimon36krut showed [Kh Ac] and won ($13.76) with a pair of Deuces (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222958218754:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:06:20 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($11.61 in chips) 
+Seat 3: aceking12605 ($19.08 in chips) 
+Seat 4: Sul07 ($12.23 in chips) 
+Seat 5: stardrakee ($10.25 in chips) 
+Seat 6: dimon36krut ($8.42 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+aceking12605: calls $0.10
+Sul07: folds 
+stardrakee: folds 
+dimon36krut: checks 
+*** FLOP *** [9c Ac 2d]
+dimon36krut: checks 
+aceking12605 has timed out
+aceking12605: checks 
+*** TURN *** [9c Ac 2d] [6c]
+dimon36krut: checks 
+aceking12605 has timed out
+aceking12605: checks 
+*** RIVER *** [9c Ac 2d 6c] [Kc]
+dimon36krut: checks 
+aceking12605 has timed out
+aceking12605: checks 
+*** SHOW DOWN ***
+dimon36krut: shows [7d Kd] (a pair of Kings)
+aceking12605: shows [Jd 8c] (a flush, Ace high)
+aceking12605 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c Ac 2d 6c Kc]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 3: aceking12605 showed [Jd 8c] and won ($0.24) with a flush, Ace high
+Seat 4: Sul07 (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+Seat 6: dimon36krut (big blind) showed [7d Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #222958276594:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:07:58 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($11.61 in chips) 
+Seat 3: aceking12605 ($19.22 in chips) 
+Seat 4: Sul07 ($12.23 in chips) 
+Seat 5: stardrakee ($10.20 in chips) 
+Seat 6: dimon36krut ($8.32 in chips) 
+dimon36krut: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+aceking12605 has timed out
+aceking12605: folds 
+Sul07: folds 
+stardrakee: folds 
+dimon36krut: raises $0.10 to $0.20
+KingPotNoodle: calls $0.10
+*** FLOP *** [5h 8d 7h]
+dimon36krut: checks 
+KingPotNoodle: bets $0.19
+dimon36krut: calls $0.19
+*** TURN *** [5h 8d 7h] [Ts]
+dimon36krut: checks 
+KingPotNoodle: bets $0.49
+dimon36krut: folds 
+Uncalled bet ($0.49) returned to KingPotNoodle
+KingPotNoodle collected $0.74 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [5h 8d 7h Ts]
+Seat 1: KingPotNoodle (big blind) collected ($0.74)
+Seat 3: aceking12605 folded before Flop (didn't bet)
+Seat 4: Sul07 folded before Flop (didn't bet)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+Seat 6: dimon36krut (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222958307436:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:08:49 ET
+Table 'Lupus III' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($11.96 in chips) 
+Seat 4: Sul07 ($12.23 in chips) 
+Seat 5: stardrakee ($10.20 in chips) 
+Seat 6: dimon36krut ($7.93 in chips) 
+KingPotNoodle: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+dimon36krut: folds 
+KingPotNoodle: raises $0.15 to $0.25
+Sul07: raises $0.55 to $0.80
+KingPotNoodle: folds 
+Uncalled bet ($0.55) returned to Sul07
+Sul07 collected $0.50 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 4: Sul07 (big blind) collected ($0.50)
+Seat 5: stardrakee folded before Flop (didn't bet)
+Seat 6: dimon36krut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958317719:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:09:06 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($11.71 in chips) 
+Seat 4: Sul07 ($12.48 in chips) 
+Seat 5: stardrakee ($10.20 in chips) 
+Seat 6: dimon36krut ($7.93 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut: folds 
+KingPotNoodle: raises $0.15 to $0.25
+Sul07: folds 
+stardrakee: calls $0.15
+*** FLOP *** [Kh 5s Tc]
+stardrakee: checks 
+KingPotNoodle: bets $0.27
+stardrakee: calls $0.27
+*** TURN *** [Kh 5s Tc] [Qd]
+stardrakee: checks 
+KingPotNoodle: checks 
+*** RIVER *** [Kh 5s Tc Qd] [9d]
+stardrakee: checks 
+KingPotNoodle: bets $0.83
+stardrakee: calls $0.83
+*** SHOW DOWN ***
+KingPotNoodle: shows [7s As] (high card Ace)
+stardrakee: shows [Th 9h] (two pair, Tens and Nines)
+stardrakee collected $2.63 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.12 
+Board [Kh 5s Tc Qd 9d]
+Seat 1: KingPotNoodle (button) showed [7s As] and lost with high card Ace
+Seat 4: Sul07 (small blind) folded before Flop
+Seat 5: stardrakee (big blind) showed [Th 9h] and won ($2.63) with two pair, Tens and Nines
+Seat 6: dimon36krut folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958374077:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:10:40 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.36 in chips) 
+Seat 4: Sul07 ($12.43 in chips) 
+Seat 5: stardrakee ($11.48 in chips) 
+stardrakee: posts small blind $0.05
+dimon36krut: is sitting out 
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: raises $0.20 to $0.30
+stardrakee: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.20) returned to Sul07
+Sul07 collected $0.25 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 4: Sul07 (button) collected ($0.25)
+Seat 5: stardrakee (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958383432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:10:56 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.26 in chips) 
+Seat 4: Sul07 ($12.58 in chips) 
+Seat 5: stardrakee ($11.43 in chips) 
+KingPotNoodle: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+KingPotNoodle: raises $0.20 to $0.30
+Sul07: calls $0.20
+*** FLOP *** [Ts Jd Kh]
+KingPotNoodle: checks 
+Sul07: bets $0.40
+KingPotNoodle: folds 
+Uncalled bet ($0.40) returned to Sul07
+Sul07 collected $0.57 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ts Jd Kh]
+Seat 1: KingPotNoodle (small blind) folded on the Flop
+Seat 4: Sul07 (big blind) collected ($0.57)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958393599:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:11:13 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 4: Sul07 ($12.85 in chips) 
+Seat 5: stardrakee ($11.43 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.15 to $0.25
+Sul07: folds 
+stardrakee: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) collected ($0.25)
+Seat 4: Sul07 (small blind) folded before Flop
+Seat 5: stardrakee (big blind) folded before Flop
+
+
+
+PokerStars Hand #222958398215:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:11:20 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 4: Sul07 ($12.80 in chips) 
+Seat 5: stardrakee ($11.33 in chips) 
+stardrakee: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: folds 
+stardrakee: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.10)
+Seat 4: Sul07 (button) folded before Flop (didn't bet)
+Seat 5: stardrakee (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958402040:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:11:27 ET
+Table 'Lupus III' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.20 in chips) 
+Seat 4: Sul07 ($12.80 in chips) 
+Seat 5: stardrakee ($11.28 in chips) 
+KingPotNoodle: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+stardrakee: folds 
+KingPotNoodle: raises $0.15 to $0.25
+Sul07: calls $0.15
+*** FLOP *** [4h 7c Jc]
+KingPotNoodle: checks 
+Sul07: bets $0.30
+KingPotNoodle: folds 
+Uncalled bet ($0.30) returned to Sul07
+Sul07 collected $0.48 from pot
+zebaztravez was removed from the table for failing to post
+zebaztravez leaves the table
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4h 7c Jc]
+Seat 1: KingPotNoodle (small blind) folded on the Flop
+Seat 4: Sul07 (big blind) collected ($0.48)
+Seat 5: stardrakee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958421378:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:11:59 ET
+Table 'Lupus III' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 4: Sul07 ($13.03 in chips) 
+Sul07: posts small blind $0.05
+stardrakee: is sitting out 
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+Sul07: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+aceking12605 was removed from the table for failing to post
+aceking12605 leaves the table
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.10)
+Seat 4: Sul07 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958424750:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:12:05 ET
+Table 'Lupus III' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.05 in chips) 
+Seat 4: Sul07 ($12.98 in chips) 
+KingPotNoodle: posts small blind $0.05
+Sul07: posts big blind $0.10
+*** HOLE CARDS ***
+dimon36krut leaves the table
+KingPotNoodle: folds 
+Uncalled bet ($0.05) returned to Sul07
+Sul07 collected $0.10 from pot
+Sul07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (button) (small blind) folded before Flop
+Seat 4: Sul07 (big blind) collected ($0.10)
+
+
+

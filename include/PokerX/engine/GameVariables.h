@@ -57,7 +57,7 @@ namespace pokerx {
 
         void setGamesPlayed(unsigned int gamesPlayed) override;
 
-        void reset() override ;
+        void reset() override;
 
         [[nodiscard]] bool isDone() const override;
 
@@ -69,10 +69,15 @@ namespace pokerx {
 
         [[nodiscard]] std::string getCurrencySymbol() const override;
 
-        void setCurrencySymbol(const std::string& symbol) override;
-
+        void setCurrencySymbol(const std::string &symbol) override;
 
         void setSeed(unsigned long long seed) override;
+
+        void injectCommunityCards(const std::vector<ICard *> &cards) override;
+
+        void injectCommunityCards(const std::initializer_list<ICard *> &cards) override;
+
+        const std::vector<ICard *> &getInjectedCommunityCards() const override;
     };
 }
 

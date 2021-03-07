@@ -17,47 +17,64 @@ public:
 
     ~MockGameVariables() override = default;
 
-    MOCK_METHOD(Pot &, getPot, (), ());
+    MOCK_METHOD(Pot &, getPot, (), (override));
 
     MOCK_METHOD(float, getAmountToCall, (), (const));
 
-    MOCK_METHOD(void, setAmountToCall, (float), ());
+    MOCK_METHOD(void, setAmountToCall, (float), (override));
 
-    MOCK_METHOD(void, addToPot, (const Pot &), ());
+    MOCK_METHOD(void, addToPot, (const Pot &), (override));
 
     MOCK_METHOD(bool, hasBetBeenPlaced, (), (const));
 
-    MOCK_METHOD(void, setBetPlaced, (bool), ());
+    MOCK_METHOD(void, setBetPlaced, (bool), (override));
 
     MOCK_METHOD(Street, getStreet, (), (const));
 
-    MOCK_METHOD(void, setStreet, (Street), ());
+    MOCK_METHOD(void, setStreet, (Street), (override));
 
     MOCK_METHOD(float, getSmallBlind, (), (const));
 
-    MOCK_METHOD(void, setSmallBlind, (float), ());
+    MOCK_METHOD(void, setSmallBlind, (float), (override));
 
     MOCK_METHOD(float, getBigBlind, (), (const));
 
-    MOCK_METHOD(void, setBigBlind, (float), ());
+    MOCK_METHOD(void, setBigBlind, (float), (override));
 
-    MOCK_METHOD(Deck &, getDeck, (), ());
+    MOCK_METHOD(Deck &, getDeck, (), (override));
 
-    MOCK_METHOD(void, setDeck, (const Deck &), ());
+    MOCK_METHOD(void, setDeck, (const Deck &), (override));
 
-    MOCK_METHOD( CardCollection, getCommunityCards, (), (const));
+    MOCK_METHOD(CardCollection, getCommunityCards, (), (const));
 
-    MOCK_METHOD(void, setCommunityCards, (CardCollection), ());
+    MOCK_METHOD(void, setCommunityCards, (CardCollection), (override));
 
     MOCK_METHOD(unsigned int, getN, (), (const));
 
-    MOCK_METHOD(void, setN, (unsigned int), ());
+    MOCK_METHOD(void, setN, (unsigned int), (override));
 
     MOCK_METHOD(unsigned int, numGamesPlayed, (), (const));
 
-    MOCK_METHOD(void, setGamesPlayed, (unsigned int), ());
+    MOCK_METHOD(void, setGamesPlayed, (unsigned int), (override));
 
-    MOCK_METHOD(void, reset, (), ());
+    MOCK_METHOD(void, reset, (), (override));
+
+    MOCK_METHOD(bool, isDone, (), (const, override));
+
+    MOCK_METHOD(void, setDone, (bool), (override));
+
+    MOCK_METHOD(std::string, getCurrencySymbol, (), (const, override));
+
+    MOCK_METHOD(void, setCurrencySymbol, (const std::string& symbol), (override));
+
+    MOCK_METHOD(void, setSeed, (unsigned long long seed), (override));
+
+    MOCK_METHOD(void, injectCommunityCards, (const std::vector<ICard *>& cards), (override));
+
+    MOCK_METHOD(void, injectCommunityCards, (const std::initializer_list<ICard *> &cards), (override));
+
+    MOCK_METHOD(const std::vector<ICard *>&, getInjectedCommunityCards, (), (const, override));
+
 
 };
 

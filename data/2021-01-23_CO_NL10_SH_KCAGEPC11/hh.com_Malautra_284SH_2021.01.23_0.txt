@@ -1,0 +1,848 @@
+﻿PokerStars Hand #222963302477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:19:34 ET
+Table 'Malautra II' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: MoneyMan2812 ($8.85 in chips) 
+Seat 3: Harrison257 ($9.13 in chips) 
+Seat 4: DimaLesnoy ($13.37 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($9.50 in chips) 
+MoneyMan2812: posts small blind $0.05
+Harrison257: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: raises $0.20 to $0.30
+latnok04: folds 
+BlomstA10: calls $0.30
+uterkrm.ua: calls $0.30
+MoneyMan2812: calls $0.25
+Harrison257: calls $0.20
+*** FLOP *** [2h 9s As]
+MoneyMan2812: checks 
+Harrison257: checks 
+DimaLesnoy: checks 
+BlomstA10: checks 
+uterkrm.ua: checks 
+*** TURN *** [2h 9s As] [4s]
+MoneyMan2812: checks 
+Harrison257: checks 
+DimaLesnoy: checks 
+BlomstA10: bets $0.72
+uterkrm.ua: folds 
+MoneyMan2812: raises $0.72 to $1.44
+Harrison257: folds 
+DimaLesnoy: folds 
+BlomstA10: calls $0.72
+*** RIVER *** [2h 9s As 4s] [7d]
+MoneyMan2812: checks 
+BlomstA10: checks 
+*** SHOW DOWN ***
+MoneyMan2812: shows [2c 4d] (two pair, Fours and Deuces)
+BlomstA10: mucks hand 
+MoneyMan2812 collected $4.18 from pot
+*** SUMMARY ***
+Total pot $4.38 | Rake $0.20 
+Board [2h 9s As 4s 7d]
+Seat 1: uterkrm.ua (button) folded on the Turn
+Seat 2: MoneyMan2812 (small blind) showed [2c 4d] and won ($4.18) with two pair, Fours and Deuces
+Seat 3: Harrison257 (big blind) folded on the Turn
+Seat 4: DimaLesnoy folded on the Turn
+Seat 5: latnok04 folded before Flop (didn't bet)
+Seat 6: BlomstA10 mucked
+
+
+
+PokerStars Hand #222963333953:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:20:16 ET
+Table 'Malautra II' 6-max Seat #2 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: MoneyMan2812 ($11.29 in chips) 
+Seat 3: Harrison257 ($8.83 in chips) 
+Seat 4: DimaLesnoy ($13.07 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($7.76 in chips) 
+Harrison257: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+latnok04: folds 
+BlomstA10: calls $0.10
+uterkrm.ua: raises $0.15 to $0.25
+MoneyMan2812: calls $0.25
+Harrison257: calls $0.20
+DimaLesnoy: calls $0.15
+BlomstA10: calls $0.15
+*** FLOP *** [3c 6h Td]
+Harrison257: checks 
+DimaLesnoy: checks 
+BlomstA10: checks 
+uterkrm.ua: checks 
+MoneyMan2812: checks 
+*** TURN *** [3c 6h Td] [8d]
+Harrison257: checks 
+DimaLesnoy: checks 
+BlomstA10: bets $0.60
+uterkrm.ua: calls $0.60
+MoneyMan2812: calls $0.60
+Harrison257: calls $0.60
+DimaLesnoy: folds 
+*** RIVER *** [3c 6h Td 8d] [Ah]
+Harrison257: checks 
+BlomstA10: bets $1.75
+uterkrm.ua: calls $1.75
+MoneyMan2812: folds 
+Harrison257: folds 
+*** SHOW DOWN ***
+BlomstA10: shows [9h Jh] (high card Ace)
+uterkrm.ua: shows [Ad 6d] (two pair, Aces and Sixes)
+uterkrm.ua collected $6.83 from pot
+*** SUMMARY ***
+Total pot $7.15 | Rake $0.32 
+Board [3c 6h Td 8d Ah]
+Seat 1: uterkrm.ua showed [Ad 6d] and won ($6.83) with two pair, Aces and Sixes
+Seat 2: MoneyMan2812 (button) folded on the River
+Seat 3: Harrison257 (small blind) folded on the River
+Seat 4: DimaLesnoy (big blind) folded on the Turn
+Seat 5: latnok04 folded before Flop (didn't bet)
+Seat 6: BlomstA10 showed [9h Jh] and lost with high card Ace
+
+
+
+PokerStars Hand #222963366503:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:20:59 ET
+Table 'Malautra II' 6-max Seat #3 is the button
+Seat 1: uterkrm.ua ($14.23 in chips) 
+Seat 2: MoneyMan2812 ($10.44 in chips) 
+Seat 3: Harrison257 ($7.98 in chips) 
+Seat 4: DimaLesnoy ($12.82 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($5.16 in chips) 
+DimaLesnoy: posts small blind $0.05
+latnok04: posts big blind $0.10
+*** HOLE CARDS ***
+BlomstA10: calls $0.10
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.10
+Harrison257: raises $0.30 to $0.40
+DimaLesnoy: folds 
+latnok04: folds 
+BlomstA10: calls $0.30
+MoneyMan2812: calls $0.30
+*** FLOP *** [7d 5d 9d]
+BlomstA10: checks 
+MoneyMan2812: checks 
+Harrison257: checks 
+*** TURN *** [7d 5d 9d] [Ad]
+BlomstA10: checks 
+MoneyMan2812: checks 
+Harrison257: checks 
+*** RIVER *** [7d 5d 9d Ad] [3d]
+BlomstA10: checks 
+MoneyMan2812: bets $0.10
+Harrison257: calls $0.10
+BlomstA10: calls $0.10
+*** SHOW DOWN ***
+MoneyMan2812: shows [Ks 9h] (a flush, Ace high)
+Harrison257: shows [Kc Qh] (a flush, Ace high)
+BlomstA10: shows [Th 7c] (a flush, Ace high)
+BlomstA10 collected $0.53 from pot
+MoneyMan2812 collected $0.53 from pot
+Harrison257 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [7d 5d 9d Ad 3d]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 showed [Ks 9h] and won ($0.53) with a flush, Ace high
+Seat 3: Harrison257 (button) showed [Kc Qh] and won ($0.52) with a flush, Ace high
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: latnok04 (big blind) folded before Flop
+Seat 6: BlomstA10 showed [Th 7c] and won ($0.53) with a flush, Ace high
+
+
+
+PokerStars Hand #222963403250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:21:48 ET
+Table 'Malautra II' 6-max Seat #4 is the button
+Seat 1: uterkrm.ua ($14.23 in chips) 
+Seat 2: MoneyMan2812 ($10.47 in chips) 
+Seat 3: Harrison257 ($8 in chips) 
+Seat 4: DimaLesnoy ($12.77 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($5.19 in chips) 
+latnok04: posts small blind $0.05
+BlomstA10: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.10
+Harrison257: calls $0.10
+DimaLesnoy: raises $0.30 to $0.40
+latnok04: folds 
+BlomstA10: folds 
+MoneyMan2812: calls $0.30
+Harrison257: calls $0.30
+*** FLOP *** [Th Ts As]
+MoneyMan2812: checks 
+Harrison257: checks 
+DimaLesnoy: bets $0.55
+MoneyMan2812: calls $0.55
+Harrison257: folds 
+*** TURN *** [Th Ts As] [Jd]
+MoneyMan2812: checks 
+DimaLesnoy: bets $1.66
+MoneyMan2812: calls $1.66
+*** RIVER *** [Th Ts As Jd] [8h]
+MoneyMan2812: checks 
+DimaLesnoy: checks 
+*** SHOW DOWN ***
+MoneyMan2812: shows [Kh 2d] (a pair of Tens)
+DimaLesnoy: shows [Js Ah] (two pair, Aces and Jacks)
+DimaLesnoy collected $5.51 from pot
+*** SUMMARY ***
+Total pot $5.77 | Rake $0.26 
+Board [Th Ts As Jd 8h]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 showed [Kh 2d] and lost with a pair of Tens
+Seat 3: Harrison257 folded on the Flop
+Seat 4: DimaLesnoy (button) showed [Js Ah] and won ($5.51) with two pair, Aces and Jacks
+Seat 5: latnok04 (small blind) folded before Flop
+Seat 6: BlomstA10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963446132:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:22:45 ET
+Table 'Malautra II' 6-max Seat #5 is the button
+Seat 1: uterkrm.ua ($14.23 in chips) 
+Seat 2: MoneyMan2812 ($7.86 in chips) 
+Seat 3: Harrison257 ($7.60 in chips) 
+Seat 4: DimaLesnoy ($15.67 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($10 in chips) 
+BlomstA10: posts small blind $0.05
+uterkrm.ua: posts big blind $0.10
+*** HOLE CARDS ***
+MoneyMan2812: calls $0.10
+Harrison257: raises $0.20 to $0.30
+DimaLesnoy: folds 
+latnok04: folds 
+BlomstA10: folds 
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.20
+*** FLOP *** [2h 5h Jd]
+MoneyMan2812: checks 
+Harrison257: checks 
+*** TURN *** [2h 5h Jd] [8h]
+MoneyMan2812: checks 
+Harrison257: checks 
+*** RIVER *** [2h 5h Jd 8h] [5s]
+MoneyMan2812: bets $7.56 and is all-in
+Harrison257: folds 
+Uncalled bet ($7.56) returned to MoneyMan2812
+MoneyMan2812 collected $0.72 from pot
+MoneyMan2812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2h 5h Jd 8h 5s]
+Seat 1: uterkrm.ua (big blind) folded before Flop
+Seat 2: MoneyMan2812 collected ($0.72)
+Seat 3: Harrison257 folded on the River
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: latnok04 (button) folded before Flop (didn't bet)
+Seat 6: BlomstA10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963461444:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:23:05 ET
+Table 'Malautra II' 6-max Seat #6 is the button
+Seat 1: uterkrm.ua ($14.13 in chips) 
+Seat 2: MoneyMan2812 ($10 in chips) 
+Seat 3: Harrison257 ($7.30 in chips) 
+Seat 4: DimaLesnoy ($15.67 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($9.95 in chips) 
+uterkrm.ua: posts small blind $0.05
+MoneyMan2812: posts big blind $0.10
+*** HOLE CARDS ***
+Harrison257: folds 
+DimaLesnoy: raises $0.20 to $0.30
+latnok04: folds 
+BlomstA10: calls $0.30
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.20
+*** FLOP *** [Td 2c 7h]
+MoneyMan2812: checks 
+DimaLesnoy: checks 
+BlomstA10: checks 
+*** TURN *** [Td 2c 7h] [4h]
+MoneyMan2812: bets $0.46
+DimaLesnoy: folds 
+BlomstA10: folds 
+Uncalled bet ($0.46) returned to MoneyMan2812
+MoneyMan2812 collected $0.91 from pot
+MoneyMan2812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Td 2c 7h 4h]
+Seat 1: uterkrm.ua (small blind) folded before Flop
+Seat 2: MoneyMan2812 (big blind) collected ($0.91)
+Seat 3: Harrison257 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded on the Turn
+Seat 5: latnok04 folded before Flop (didn't bet)
+Seat 6: BlomstA10 (button) folded on the Turn
+
+
+
+PokerStars Hand #222963488948:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:23:42 ET
+Table 'Malautra II' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($14.08 in chips) 
+Seat 2: MoneyMan2812 ($10.61 in chips) 
+Seat 3: Harrison257 ($7.30 in chips) 
+Seat 4: DimaLesnoy ($15.37 in chips) 
+Seat 5: latnok04 ($10 in chips) 
+Seat 6: BlomstA10 ($9.65 in chips) 
+MoneyMan2812: posts small blind $0.05
+Harrison257: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+latnok04: raises $0.20 to $0.30
+BlomstA10: folds 
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.25
+Harrison257: calls $0.20
+*** FLOP *** [Th 6c 3c]
+MoneyMan2812: checks 
+Harrison257: checks 
+latnok04: bets $0.49
+MoneyMan2812: calls $0.49
+Harrison257: folds 
+*** TURN *** [Th 6c 3c] [3h]
+MoneyMan2812: checks 
+latnok04: bets $1.39
+MoneyMan2812: calls $1.39
+*** RIVER *** [Th 6c 3c 3h] [3d]
+MoneyMan2812: checks 
+latnok04: bets $1.47
+MoneyMan2812: raises $4.03 to $5.50
+latnok04: raises $2.32 to $7.82 and is all-in
+MoneyMan2812: folds 
+Uncalled bet ($2.32) returned to latnok04
+latnok04 collected $14.96 from pot
+latnok04: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.66 | Rake $0.70 
+Board [Th 6c 3c 3h 3d]
+Seat 1: uterkrm.ua (button) folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 (small blind) folded on the River
+Seat 3: Harrison257 (big blind) folded on the Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: latnok04 collected ($14.96)
+Seat 6: BlomstA10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963537272:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:24:45 ET
+Table 'Malautra II' 6-max Seat #2 is the button
+Seat 1: uterkrm.ua ($14.08 in chips) 
+Seat 2: MoneyMan2812 ($5.31 in chips) 
+Seat 3: Harrison257 ($7 in chips) 
+Seat 4: DimaLesnoy ($15.37 in chips) 
+Seat 5: latnok04 ($17.28 in chips) 
+Seat 6: BlomstA10 ($9.65 in chips) 
+Harrison257: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+latnok04: folds 
+BlomstA10: raises $0.20 to $0.30
+uterkrm.ua: folds 
+MoneyMan2812: folds 
+Harrison257: calls $0.25
+DimaLesnoy: folds 
+*** FLOP *** [8h 8c Qh]
+Harrison257: checks 
+BlomstA10: bets $0.34
+Harrison257: calls $0.34
+*** TURN *** [8h 8c Qh] [As]
+Harrison257: checks 
+BlomstA10: bets $0.66
+Harrison257: calls $0.66
+*** RIVER *** [8h 8c Qh As] [9s]
+Harrison257: checks 
+BlomstA10: checks 
+*** SHOW DOWN ***
+Harrison257: shows [5c Qd] (two pair, Queens and Eights)
+BlomstA10: mucks hand 
+Harrison257 collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [8h 8c Qh As 9s]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 (button) folded before Flop (didn't bet)
+Seat 3: Harrison257 (small blind) showed [5c Qd] and won ($2.58) with two pair, Queens and Eights
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: latnok04 folded before Flop (didn't bet)
+Seat 6: BlomstA10 mucked
+
+
+
+PokerStars Hand #222963561160:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:25:17 ET
+Table 'Malautra II' 6-max Seat #3 is the button
+Seat 1: uterkrm.ua ($14.08 in chips) 
+Seat 2: MoneyMan2812 ($5.31 in chips) 
+Seat 3: Harrison257 ($8.28 in chips) 
+Seat 4: DimaLesnoy ($15.27 in chips) 
+Seat 5: latnok04 ($17.28 in chips) 
+Seat 6: BlomstA10 ($8.35 in chips) 
+DimaLesnoy: posts small blind $0.05
+latnok04: posts big blind $0.10
+*** HOLE CARDS ***
+BlomstA10: calls $0.10
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.10
+Harrison257: calls $0.10
+DimaLesnoy: calls $0.05
+latnok04: checks 
+*** FLOP *** [9d 7s 4h]
+DimaLesnoy: checks 
+latnok04: checks 
+BlomstA10: checks 
+MoneyMan2812: checks 
+Harrison257: checks 
+*** TURN *** [9d 7s 4h] [9c]
+DimaLesnoy: bets $0.34
+latnok04: folds 
+BlomstA10: calls $0.34
+MoneyMan2812: calls $0.34
+Harrison257: calls $0.34
+*** RIVER *** [9d 7s 4h 9c] [Jd]
+DimaLesnoy: bets $0.98
+BlomstA10: calls $0.98
+MoneyMan2812: raises $1.38 to $2.36
+Harrison257: folds 
+DimaLesnoy: folds 
+BlomstA10: folds 
+Uncalled bet ($1.38) returned to MoneyMan2812
+MoneyMan2812 collected $4.58 from pot
+MoneyMan2812: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.80 | Rake $0.22 
+Board [9d 7s 4h 9c Jd]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 collected ($4.58)
+Seat 3: Harrison257 (button) folded on the River
+Seat 4: DimaLesnoy (small blind) folded on the River
+Seat 5: latnok04 (big blind) folded on the Turn
+Seat 6: BlomstA10 folded on the River
+
+
+
+PokerStars Hand #222963597417:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:26:05 ET
+Table 'Malautra II' 6-max Seat #4 is the button
+Seat 1: uterkrm.ua ($14.08 in chips) 
+Seat 2: MoneyMan2812 ($8.47 in chips) 
+Seat 3: Harrison257 ($7.84 in chips) 
+Seat 4: DimaLesnoy ($13.85 in chips) 
+Seat 5: latnok04 ($17.18 in chips) 
+Seat 6: BlomstA10 ($6.93 in chips) 
+latnok04: posts small blind $0.05
+BlomstA10: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.10
+Harrison257: calls $0.10
+DimaLesnoy: raises $0.50 to $0.60
+latnok04: calls $0.55
+BlomstA10: calls $0.50
+MoneyMan2812: calls $0.50
+Harrison257: calls $0.50
+*** FLOP *** [Ts Qc Kc]
+latnok04: checks 
+BlomstA10: checks 
+MoneyMan2812: checks 
+Harrison257: bets $7.24 and is all-in
+DimaLesnoy: folds 
+latnok04: folds 
+BlomstA10: folds 
+MoneyMan2812: folds 
+Uncalled bet ($7.24) returned to Harrison257
+Harrison257 collected $2.86 from pot
+Harrison257: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [Ts Qc Kc]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 folded on the Flop
+Seat 3: Harrison257 collected ($2.86)
+Seat 4: DimaLesnoy (button) folded on the Flop
+Seat 5: latnok04 (small blind) folded on the Flop
+Seat 6: BlomstA10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222963637072:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:26:57 ET
+Table 'Malautra II' 6-max Seat #5 is the button
+Seat 1: uterkrm.ua ($14.08 in chips) 
+Seat 2: MoneyMan2812 ($7.87 in chips) 
+Seat 3: Harrison257 ($10.10 in chips) 
+Seat 4: DimaLesnoy ($13.25 in chips) 
+Seat 5: latnok04 ($16.58 in chips) 
+Seat 6: BlomstA10 ($9.40 in chips) 
+BlomstA10: posts small blind $0.05
+uterkrm.ua: posts big blind $0.10
+*** HOLE CARDS ***
+MoneyMan2812: calls $0.10
+Harrison257: folds 
+DimaLesnoy: folds 
+latnok04: folds 
+BlomstA10: calls $0.05
+uterkrm.ua: raises $0.30 to $0.40
+MoneyMan2812: calls $0.30
+BlomstA10: calls $0.30
+*** FLOP *** [Ts 5s Qs]
+BlomstA10: checks 
+uterkrm.ua: checks 
+MoneyMan2812: bets $0.58
+BlomstA10: folds 
+uterkrm.ua: folds 
+Uncalled bet ($0.58) returned to MoneyMan2812
+MoneyMan2812 collected $1.15 from pot
+MoneyMan2812: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Ts 5s Qs]
+Seat 1: uterkrm.ua (big blind) folded on the Flop
+Seat 2: MoneyMan2812 collected ($1.15)
+Seat 3: Harrison257 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: latnok04 (button) folded before Flop (didn't bet)
+Seat 6: BlomstA10 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222963660076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:27:28 ET
+Table 'Malautra II' 6-max Seat #6 is the button
+Seat 1: uterkrm.ua ($13.68 in chips) 
+Seat 2: MoneyMan2812 ($8.62 in chips) 
+Seat 3: Harrison257 ($10.10 in chips) 
+Seat 4: DimaLesnoy ($13.25 in chips) 
+Seat 5: latnok04 ($16.58 in chips) 
+Seat 6: BlomstA10 ($9 in chips) 
+uterkrm.ua: posts small blind $0.05
+MoneyMan2812: posts big blind $0.10
+*** HOLE CARDS ***
+Harrison257: folds 
+DimaLesnoy: raises $0.20 to $0.30
+latnok04: folds 
+BlomstA10: calls $0.30
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.20
+*** FLOP *** [6c Ac 4s]
+MoneyMan2812: checks 
+DimaLesnoy: checks 
+BlomstA10: checks 
+*** TURN *** [6c Ac 4s] [5h]
+MoneyMan2812: checks 
+DimaLesnoy: checks 
+BlomstA10: checks 
+*** RIVER *** [6c Ac 4s 5h] [Jh]
+MoneyMan2812: checks 
+DimaLesnoy: checks 
+BlomstA10: checks 
+*** SHOW DOWN ***
+MoneyMan2812: shows [7c 9d] (high card Ace)
+DimaLesnoy: shows [Kh Qh] (high card Ace - King kicker)
+BlomstA10: shows [3s 4c] (a pair of Fours)
+BlomstA10 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6c Ac 4s 5h Jh]
+Seat 1: uterkrm.ua (small blind) folded before Flop
+Seat 2: MoneyMan2812 (big blind) showed [7c 9d] and lost with high card Ace
+Seat 3: Harrison257 folded before Flop (didn't bet)
+Seat 4: DimaLesnoy showed [Kh Qh] and lost with high card Ace
+Seat 5: latnok04 folded before Flop (didn't bet)
+Seat 6: BlomstA10 (button) showed [3s 4c] and won ($0.91) with a pair of Fours
+
+
+
+PokerStars Hand #222963683676:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:27:59 ET
+Table 'Malautra II' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($13.63 in chips) 
+Seat 2: MoneyMan2812 ($8.32 in chips) 
+Seat 3: Harrison257 ($10.10 in chips) 
+Seat 4: DimaLesnoy ($12.95 in chips) 
+Seat 5: latnok04 ($16.58 in chips) 
+Seat 6: BlomstA10 ($9.61 in chips) 
+MoneyMan2812: posts small blind $0.05
+Harrison257: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+latnok04: raises $0.20 to $0.30
+BlomstA10: folds 
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.25
+Harrison257: calls $0.20
+*** FLOP *** [3d 7s Qc]
+MoneyMan2812: checks 
+Harrison257: bets $0.43
+latnok04: calls $0.43
+MoneyMan2812 has timed out
+MoneyMan2812: folds 
+*** TURN *** [3d 7s Qc] [8c]
+Harrison257: checks 
+latnok04: checks 
+*** RIVER *** [3d 7s Qc 8c] [4s]
+Harrison257: bets $0.84
+latnok04: folds 
+Uncalled bet ($0.84) returned to Harrison257
+Harrison257 collected $1.68 from pot
+Harrison257: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [3d 7s Qc 8c 4s]
+Seat 1: uterkrm.ua (button) folded before Flop (didn't bet)
+Seat 2: MoneyMan2812 (small blind) folded on the Flop
+Seat 3: Harrison257 (big blind) collected ($1.68)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: latnok04 folded on the River
+Seat 6: BlomstA10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963748933:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:25 ET
+Table 'Malautra II' 6-max Seat #3 is the button
+Seat 1: uterkrm.ua ($13.63 in chips) 
+Seat 3: Harrison257 ($11.05 in chips) 
+Seat 4: DimaLesnoy ($12.95 in chips) 
+Seat 5: latnok04 ($15.85 in chips) 
+Seat 6: BlomstA10 ($9.61 in chips) 
+DimaLesnoy: posts small blind $0.05
+latnok04: posts big blind $0.10
+*** HOLE CARDS ***
+BlomstA10: folds 
+uterkrm.ua: folds 
+Harrison257: raises $0.20 to $0.30
+DimaLesnoy: folds 
+latnok04: folds 
+Uncalled bet ($0.20) returned to Harrison257
+Harrison257 collected $0.25 from pot
+Harrison257: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 3: Harrison257 (button) collected ($0.25)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: latnok04 (big blind) folded before Flop
+Seat 6: BlomstA10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963759652:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:40 ET
+Table 'Malautra II' 6-max Seat #4 is the button
+Seat 1: uterkrm.ua ($13.63 in chips) 
+Seat 2: MoneyMan2812 ($8.02 in chips) 
+Seat 3: Harrison257 ($11.20 in chips) 
+Seat 4: DimaLesnoy ($12.90 in chips) 
+Seat 5: latnok04 ($15.75 in chips) 
+Seat 6: BlomstA10 ($9.61 in chips) 
+latnok04: posts small blind $0.05
+BlomstA10: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: raises $0.20 to $0.30
+MoneyMan2812: calls $0.30
+Harrison257: calls $0.30
+DimaLesnoy: raises $1.20 to $1.50
+latnok04: folds 
+BlomstA10: folds 
+uterkrm.ua: folds 
+MoneyMan2812: calls $1.20
+Harrison257: calls $1.20
+*** FLOP *** [3s Tc 3d]
+MoneyMan2812: checks 
+Harrison257: checks 
+DimaLesnoy: checks 
+*** TURN *** [3s Tc 3d] [6d]
+MoneyMan2812: checks 
+Harrison257: bets $0.10
+DimaLesnoy: calls $0.10
+MoneyMan2812: folds 
+*** RIVER *** [3s Tc 3d 6d] [Jc]
+Harrison257: bets $1.50
+DimaLesnoy: folds 
+Uncalled bet ($1.50) returned to Harrison257
+Harrison257 collected $4.92 from pot
+Harrison257: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.15 | Rake $0.23 
+Board [3s Tc 3d 6d Jc]
+Seat 1: uterkrm.ua folded before Flop
+Seat 2: MoneyMan2812 folded on the Turn
+Seat 3: Harrison257 collected ($4.92)
+Seat 4: DimaLesnoy (button) folded on the River
+Seat 5: latnok04 (small blind) folded before Flop
+Seat 6: BlomstA10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963791836:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:30:21 ET
+Table 'Malautra II' 6-max Seat #5 is the button
+Seat 1: uterkrm.ua ($13.33 in chips) 
+Seat 2: MoneyMan2812 ($6.52 in chips) 
+Seat 3: Harrison257 ($14.52 in chips) 
+Seat 4: DimaLesnoy ($11.30 in chips) 
+Seat 5: latnok04 ($15.70 in chips) 
+Seat 6: BlomstA10 ($9.51 in chips) 
+BlomstA10: posts small blind $0.05
+uterkrm.ua: posts big blind $0.10
+*** HOLE CARDS ***
+MoneyMan2812: raises $0.25 to $0.35
+Harrison257: calls $0.35
+DimaLesnoy: folds 
+latnok04: folds 
+BlomstA10: calls $0.30
+uterkrm.ua: folds 
+*** FLOP *** [Qs 2c 7s]
+BlomstA10: checks 
+MoneyMan2812: bets $1.10
+Harrison257: calls $1.10
+BlomstA10: folds 
+*** TURN *** [Qs 2c 7s] [6d]
+MoneyMan2812: bets $5.07 and is all-in
+Harrison257: folds 
+Uncalled bet ($5.07) returned to MoneyMan2812
+MoneyMan2812 collected $3.20 from pot
+MoneyMan2812: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Qs 2c 7s 6d]
+Seat 1: uterkrm.ua (big blind) folded before Flop
+Seat 2: MoneyMan2812 collected ($3.20)
+Seat 3: Harrison257 folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: latnok04 (button) folded before Flop (didn't bet)
+Seat 6: BlomstA10 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222963810177:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:30:45 ET
+Table 'Malautra II' 6-max Seat #6 is the button
+Seat 1: uterkrm.ua ($13.23 in chips) 
+Seat 2: MoneyMan2812 ($8.27 in chips) 
+Seat 3: Harrison257 ($13.07 in chips) 
+Seat 4: DimaLesnoy ($11.30 in chips) 
+Seat 5: latnok04 ($15.70 in chips) 
+Seat 6: BlomstA10 ($9.16 in chips) 
+uterkrm.ua: posts small blind $0.05
+MoneyMan2812: posts big blind $0.10
+*** HOLE CARDS ***
+Harrison257: raises $0.20 to $0.30
+DimaLesnoy: folds 
+latnok04: calls $0.30
+BlomstA10: calls $0.30
+uterkrm.ua: folds 
+MoneyMan2812: calls $0.20
+*** FLOP *** [4h 6s 2c]
+MoneyMan2812: checks 
+Harrison257: checks 
+latnok04: checks 
+BlomstA10: checks 
+*** TURN *** [4h 6s 2c] [5h]
+MoneyMan2812: bets $1.19
+Harrison257: calls $1.19
+latnok04: folds 
+BlomstA10: folds 
+*** RIVER *** [4h 6s 2c 5h] [Kh]
+MoneyMan2812: bets $1.74
+Harrison257: raises $6.95 to $8.69
+MoneyMan2812: calls $5.04 and is all-in
+Uncalled bet ($1.91) returned to Harrison257
+*** SHOW DOWN ***
+Harrison257: shows [7h Jh] (a flush, King high)
+MoneyMan2812: shows [3c Qh] (a straight, Deuce to Six)
+Harrison257 collected $16.42 from pot
+*** SUMMARY ***
+Total pot $17.19 | Rake $0.77 
+Board [4h 6s 2c 5h Kh]
+Seat 1: uterkrm.ua (small blind) folded before Flop
+Seat 2: MoneyMan2812 (big blind) showed [3c Qh] and lost with a straight, Deuce to Six
+Seat 3: Harrison257 showed [7h Jh] and won ($16.42) with a flush, King high
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: latnok04 folded on the Turn
+Seat 6: BlomstA10 (button) folded on the Turn
+
+
+
+PokerStars Hand #222963852346:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:31:39 ET
+Table 'Malautra II' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($13.18 in chips) 
+Seat 3: Harrison257 ($21.22 in chips) 
+Seat 4: DimaLesnoy ($11.30 in chips) 
+Seat 5: latnok04 ($15.40 in chips) 
+Seat 6: BlomstA10 ($8.86 in chips) 
+Harrison257: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+latnok04: folds 
+BlomstA10: folds 
+uterkrm.ua: raises $0.15 to $0.25
+Harrison257: calls $0.20
+DimaLesnoy: calls $0.15
+*** FLOP *** [9c Kc 7d]
+Harrison257: checks 
+DimaLesnoy: checks 
+uterkrm.ua: checks 
+*** TURN *** [9c Kc 7d] [4h]
+Harrison257: checks 
+DimaLesnoy: bets $0.51
+uterkrm.ua: folds 
+Harrison257: folds 
+Uncalled bet ($0.51) returned to DimaLesnoy
+DimaLesnoy collected $0.72 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9c Kc 7d 4h]
+Seat 1: uterkrm.ua (button) folded on the Turn
+Seat 3: Harrison257 (small blind) folded on the Turn
+Seat 4: DimaLesnoy (big blind) collected ($0.72)
+Seat 5: latnok04 folded before Flop (didn't bet)
+Seat 6: BlomstA10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963876831:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:32:10 ET
+Table 'Malautra II' 6-max Seat #4 is the button
+Seat 1: uterkrm.ua ($12.93 in chips) 
+Seat 4: DimaLesnoy ($11.77 in chips) 
+Seat 5: latnok04 ($15.40 in chips) 
+latnok04: posts small blind $0.05
+BlomstA10: is sitting out 
+uterkrm.ua: posts big blind $0.10
+*** HOLE CARDS ***
+Harrison257 leaves the table
+DimaLesnoy: folds 
+MoneyMan2812 leaves the table
+BlomstA10 leaves the table
+latnok04: folds 
+Uncalled bet ($0.05) returned to uterkrm.ua
+uterkrm.ua collected $0.10 from pot
+uterkrm.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: uterkrm.ua (big blind) collected ($0.10)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: latnok04 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963884215:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:32:20 ET
+Table 'Malautra II' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($12.98 in chips) 
+Seat 4: DimaLesnoy ($11.77 in chips) 
+uterkrm.ua: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: raises $0.15 to $0.25
+DimaLesnoy: folds 
+Uncalled bet ($0.15) returned to uterkrm.ua
+uterkrm.ua collected $0.20 from pot
+uterkrm.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: uterkrm.ua (button) (small blind) collected ($0.20)
+Seat 4: DimaLesnoy (big blind) folded before Flop
+
+
+

@@ -1,0 +1,3590 @@
+﻿PokerStars Hand #222943073306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:38:59 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: lalito.mdq ($12.16 in chips) 
+Seat 2: Cabellera91 ($11.31 in chips) 
+Seat 3: ChileNaTuraL ($11.78 in chips) 
+Seat 4: doumless ($3.34 in chips) 
+Seat 5: jgalliford ($8.28 in chips) 
+Seat 6: KingPotNoodle ($10 in chips) 
+jgalliford: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: raises $0.15 to $0.25
+Cabellera91: folds 
+ChileNaTuraL: calls $0.25
+doumless: folds 
+jgalliford: folds 
+KingPotNoodle: folds 
+*** FLOP *** [8h Kd 7d]
+lalito.mdq: bets $0.20
+ChileNaTuraL: calls $0.20
+*** TURN *** [8h Kd 7d] [9d]
+lalito.mdq: checks 
+ChileNaTuraL: bets $0.78
+lalito.mdq: calls $0.78
+*** RIVER *** [8h Kd 7d 9d] [Td]
+lalito.mdq: checks 
+ChileNaTuraL: checks 
+*** SHOW DOWN ***
+lalito.mdq: shows [8s 8d] (a flush, King high)
+ChileNaTuraL: mucks hand 
+lalito.mdq collected $2.49 from pot
+*** SUMMARY ***
+Total pot $2.61 | Rake $0.12 
+Board [8h Kd 7d 9d Td]
+Seat 1: lalito.mdq showed [8s 8d] and won ($2.49) with a flush, King high
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: ChileNaTuraL mucked
+Seat 4: doumless (button) folded before Flop (didn't bet)
+Seat 5: jgalliford (small blind) folded before Flop
+Seat 6: KingPotNoodle (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943091935:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:53 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: lalito.mdq ($13.42 in chips) 
+Seat 2: Cabellera91 ($11.31 in chips) 
+Seat 3: ChileNaTuraL ($10.55 in chips) 
+Seat 4: doumless ($3.34 in chips) 
+Seat 5: jgalliford ($8.23 in chips) 
+Seat 6: KingPotNoodle ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+ChileNaTuraL: folds 
+doumless: folds 
+jgalliford: folds 
+KingPotNoodle: raises $0.20 to $0.30
+lalito.mdq: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.20 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: lalito.mdq (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: ChileNaTuraL folded before Flop (didn't bet)
+Seat 4: doumless folded before Flop (didn't bet)
+Seat 5: jgalliford (button) folded before Flop (didn't bet)
+Seat 6: KingPotNoodle (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943098957:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:40:13 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: lalito.mdq ($13.32 in chips) 
+Seat 2: Cabellera91 ($11.31 in chips) 
+Seat 3: ChileNaTuraL ($10.55 in chips) 
+Seat 4: doumless ($3.34 in chips) 
+Seat 5: jgalliford ($8.23 in chips) 
+Seat 6: KingPotNoodle ($10.10 in chips) 
+lalito.mdq: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+doumless is disconnected 
+ChileNaTuraL: folds 
+doumless has timed out while disconnected
+doumless: folds 
+jgalliford: raises $0.30 to $0.40
+KingPotNoodle: calls $0.40
+lalito.mdq: folds 
+Cabellera91: folds 
+*** FLOP *** [Qs 8d 5c]
+jgalliford: bets $0.45
+KingPotNoodle: calls $0.45
+*** TURN *** [Qs 8d 5c] [4s]
+jgalliford: bets $0.98
+KingPotNoodle: calls $0.98
+*** RIVER *** [Qs 8d 5c 4s] [Ac]
+jgalliford: bets $3.64
+KingPotNoodle: folds [9d 9h]
+Uncalled bet ($3.64) returned to jgalliford
+jgalliford collected $3.64 from pot
+jgalliford: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.81 | Rake $0.17 
+Board [Qs 8d 5c 4s Ac]
+Seat 1: lalito.mdq (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: ChileNaTuraL folded before Flop (didn't bet)
+Seat 4: doumless folded before Flop (didn't bet)
+Seat 5: jgalliford collected ($3.64)
+Seat 6: KingPotNoodle (button) folded on the River
+
+
+
+PokerStars Hand #222943121144:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:17 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: lalito.mdq ($13.27 in chips) 
+Seat 2: Cabellera91 ($11.21 in chips) 
+Seat 3: ChileNaTuraL ($10.55 in chips) 
+Seat 5: jgalliford ($10.04 in chips) 
+Seat 6: KingPotNoodle ($10 in chips) 
+Cabellera91: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+jgalliford: folds 
+KingPotNoodle: folds 
+lalito.mdq: folds 
+Cabellera91: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.20
+*** FLOP *** [6h 9s 2s]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** TURN *** [6h 9s 2s] [Ah]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** RIVER *** [6h 9s 2s Ah] [3d]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** SHOW DOWN ***
+Cabellera91: shows [Jd 7s] (high card Ace)
+ChileNaTuraL: shows [Th Jc] (high card Ace - Jack+Ten kicker)
+ChileNaTuraL collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6h 9s 2s Ah 3d]
+Seat 1: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) showed [Jd 7s] and lost with high card Ace
+Seat 3: ChileNaTuraL (big blind) showed [Th Jc] and won ($0.57) with high card Ace
+Seat 5: jgalliford folded before Flop (didn't bet)
+Seat 6: KingPotNoodle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943142186:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:18 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: lalito.mdq ($13.27 in chips) 
+Seat 2: Cabellera91 ($10.91 in chips) 
+Seat 3: ChileNaTuraL ($10.82 in chips) 
+Seat 5: jgalliford ($10.04 in chips) 
+Seat 6: KingPotNoodle ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+jgalliford: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+lalito.mdq: folds 
+KingPotNoodle leaves the table
+Cabellera91: raises $0.20 to $0.30
+dllamas67 joins the table at seat #6 
+ChileNaTuraL: folds 
+jgalliford: folds 
+Uncalled bet ($0.20) returned to Cabellera91
+Cabellera91 collected $0.25 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lalito.mdq folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) collected ($0.25)
+Seat 3: ChileNaTuraL (small blind) folded before Flop
+Seat 5: jgalliford (big blind) folded before Flop
+Seat 6: KingPotNoodle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943147698:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:34 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: lalito.mdq ($13.27 in chips) 
+Seat 2: Cabellera91 ($11.06 in chips) 
+Seat 3: ChileNaTuraL ($10.77 in chips) 
+Seat 5: jgalliford ($9.94 in chips) 
+Seat 6: dllamas67 ($6.57 in chips) 
+jgalliford: posts small blind $0.05
+dllamas67: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Cabellera91: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+jgalliford: calls $0.25
+dllamas67: folds 
+*** FLOP *** [Ac 5d 8h]
+jgalliford: bets $0.30
+Cabellera91: calls $0.30
+*** TURN *** [Ac 5d 8h] [Kc]
+jgalliford: bets $0.62
+Cabellera91: calls $0.62
+*** RIVER *** [Ac 5d 8h Kc] [Jc]
+jgalliford: bets $2.43
+Cabellera91: calls $2.43
+*** SHOW DOWN ***
+jgalliford: shows [9c 7s] (high card Ace)
+Cabellera91: shows [Jh Kh] (two pair, Kings and Jacks)
+Cabellera91 collected $7.07 from pot
+*** SUMMARY ***
+Total pot $7.40 | Rake $0.33 
+Board [Ac 5d 8h Kc Jc]
+Seat 1: lalito.mdq folded before Flop (didn't bet)
+Seat 2: Cabellera91 showed [Jh Kh] and won ($7.07) with two pair, Kings and Jacks
+Seat 3: ChileNaTuraL (button) folded before Flop (didn't bet)
+Seat 5: jgalliford (small blind) showed [9c 7s] and lost with high card Ace
+Seat 6: dllamas67 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943162425:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:10 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: lalito.mdq ($13.27 in chips) 
+Seat 2: Cabellera91 ($14.48 in chips) 
+Seat 3: ChileNaTuraL ($10.77 in chips) 
+Seat 5: jgalliford ($6.29 in chips) 
+Seat 6: dllamas67 ($6.47 in chips) 
+dllamas67: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+ChileNaTuraL: folds 
+jgalliford: raises $0.30 to $0.40
+dllamas67: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.30) returned to jgalliford
+jgalliford collected $0.25 from pot
+jgalliford: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lalito.mdq (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: ChileNaTuraL folded before Flop (didn't bet)
+Seat 5: jgalliford (button) collected ($0.25)
+Seat 6: dllamas67 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943168369:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:27 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: lalito.mdq ($13.17 in chips) 
+Seat 2: Cabellera91 ($14.48 in chips) 
+Seat 3: ChileNaTuraL ($10.77 in chips) 
+Seat 5: jgalliford ($6.44 in chips) 
+Seat 6: dllamas67 ($6.42 in chips) 
+lalito.mdq: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+jgalliford: calls $0.10
+dllamas67: folds 
+lalito.mdq: raises $0.40 to $0.50
+Cabellera91: folds 
+jgalliford: calls $0.40
+*** FLOP *** [3s Kc 8d]
+lalito.mdq: bets $0.35
+jgalliford: raises $1.75 to $2.10
+lalito.mdq: raises $7.09 to $9.19
+jgalliford: calls $3.84 and is all-in
+Uncalled bet ($3.25) returned to lalito.mdq
+*** TURN *** [3s Kc 8d] [Qs]
+*** RIVER *** [3s Kc 8d Qs] [6c]
+*** SHOW DOWN ***
+lalito.mdq: shows [Kd Qh] (two pair, Kings and Queens)
+jgalliford: shows [4h Kh] (a pair of Kings)
+lalito.mdq collected $12.40 from pot
+*** SUMMARY ***
+Total pot $12.98 | Rake $0.58 
+Board [3s Kc 8d Qs 6c]
+Seat 1: lalito.mdq (small blind) showed [Kd Qh] and won ($12.40) with two pair, Kings and Queens
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: ChileNaTuraL folded before Flop (didn't bet)
+Seat 5: jgalliford showed [4h Kh] and lost with a pair of Kings
+Seat 6: dllamas67 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943184256:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:13 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: lalito.mdq ($19.13 in chips) 
+Seat 2: Cabellera91 ($14.38 in chips) 
+Seat 3: ChileNaTuraL ($10.77 in chips) 
+Seat 6: dllamas67 ($6.42 in chips) 
+Cabellera91: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+jgalliford is disconnected 
+dllamas67: folds 
+lalito.mdq: folds 
+Cabellera91: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.20
+*** FLOP *** [7h 9d 2s]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** TURN *** [7h 9d 2s] [2d]
+Cabellera91: bets $0.38
+ChileNaTuraL: calls $0.38
+*** RIVER *** [7h 9d 2s 2d] [8d]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** SHOW DOWN ***
+Cabellera91: shows [Qh 8c] (two pair, Eights and Deuces)
+ChileNaTuraL: mucks hand 
+Cabellera91 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [7h 9d 2s 2d 8d]
+Seat 1: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) showed [Qh 8c] and won ($1.30) with two pair, Eights and Deuces
+Seat 3: ChileNaTuraL (big blind) mucked
+Seat 6: dllamas67 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943199515:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:58 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: lalito.mdq ($19.13 in chips) 
+Seat 2: Cabellera91 ($15 in chips) 
+Seat 3: ChileNaTuraL ($10.09 in chips) 
+Seat 6: dllamas67 ($6.42 in chips) 
+ChileNaTuraL: posts small blind $0.05
+dllamas67: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: raises $0.15 to $0.25
+Cabellera91: folds 
+ChileNaTuraL: folds 
+dllamas67: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lalito.mdq collected ($0.25)
+Seat 2: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 3: ChileNaTuraL (small blind) folded before Flop
+Seat 6: dllamas67 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943210333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:30 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: lalito.mdq ($19.28 in chips) 
+Seat 2: Cabellera91 ($15 in chips) 
+Seat 3: ChileNaTuraL ($10.04 in chips) 
+Seat 6: dllamas67 ($6.32 in chips) 
+dllamas67: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+dllamas67: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.15) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lalito.mdq (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: ChileNaTuraL (button) collected ($0.25)
+Seat 6: dllamas67 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943216213:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:47 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: lalito.mdq ($19.18 in chips) 
+Seat 2: Cabellera91 ($15 in chips) 
+Seat 3: ChileNaTuraL ($10.19 in chips) 
+Seat 6: dllamas67 ($6.27 in chips) 
+lalito.mdq: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+dllamas67: folds 
+lalito.mdq: folds 
+Cabellera91: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lalito.mdq (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: ChileNaTuraL collected ($0.25)
+Seat 6: dllamas67 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943223751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:09 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: lalito.mdq ($19.13 in chips) 
+Seat 2: Cabellera91 ($14.90 in chips) 
+Seat 3: ChileNaTuraL ($10.34 in chips) 
+Seat 6: dllamas67 ($6.27 in chips) 
+Cabellera91: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+dllamas67: folds 
+lalito.mdq: folds 
+Cabellera91: folds 
+Uncalled bet ($0.05) returned to ChileNaTuraL
+ChileNaTuraL collected $0.10 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) folded before Flop
+Seat 3: ChileNaTuraL (big blind) collected ($0.10)
+Seat 6: dllamas67 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943231763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:23 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: lalito.mdq ($19.13 in chips) 
+Seat 2: Cabellera91 ($14.85 in chips) 
+Seat 3: ChileNaTuraL ($10.39 in chips) 
+Seat 6: dllamas67 ($6.27 in chips) 
+ChileNaTuraL: posts small blind $0.05
+dllamas67: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Cabellera91: raises $0.20 to $0.30
+ChileNaTuraL: raises $0.70 to $1
+dllamas67: folds 
+Cabellera91: folds 
+Uncalled bet ($0.70) returned to ChileNaTuraL
+ChileNaTuraL collected $0.70 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: lalito.mdq folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) folded before Flop
+Seat 3: ChileNaTuraL (small blind) collected ($0.70)
+Seat 6: dllamas67 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943241992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:53 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: lalito.mdq ($19.13 in chips) 
+Seat 2: Cabellera91 ($14.55 in chips) 
+Seat 3: ChileNaTuraL ($10.79 in chips) 
+Seat 6: dllamas67 ($6.17 in chips) 
+dllamas67: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+dllamas67: raises $0.15 to $0.40
+lalito.mdq: folds 
+ChileNaTuraL: raises $1 to $1.40
+dllamas67: raises $4.77 to $6.17 and is all-in
+ChileNaTuraL: calls $4.77
+*** FLOP *** [5d 2d Qd]
+*** TURN *** [5d 2d Qd] [Js]
+*** RIVER *** [5d 2d Qd Js] [4c]
+*** SHOW DOWN ***
+dllamas67: shows [9c Ks] (high card King)
+ChileNaTuraL: shows [Qc Ac] (a pair of Queens)
+ChileNaTuraL collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.44 | Rake $0.56 
+Board [5d 2d Qd Js 4c]
+Seat 1: lalito.mdq (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: ChileNaTuraL (button) showed [Qc Ac] and won ($11.88) with a pair of Queens
+Seat 6: dllamas67 (small blind) showed [9c Ks] and lost with high card King
+
+
+
+PokerStars Hand #222943260053:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:46 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: lalito.mdq ($19.03 in chips) 
+Seat 2: Cabellera91 ($14.55 in chips) 
+Seat 3: ChileNaTuraL ($16.50 in chips) 
+Cabellera91: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+dllamas67 leaves the table
+Cabellera91: raises $0.20 to $0.30
+lalito.mdq leaves the table
+ChileNaTuraL: calls $0.20
+*** FLOP *** [Jc Th 6h]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** TURN *** [Jc Th 6h] [Ah]
+Cabellera91: bets $0.38
+ChileNaTuraL: folds 
+Uncalled bet ($0.38) returned to Cabellera91
+Cabellera91 collected $0.57 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jc Th 6h Ah]
+Seat 1: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) collected ($0.57)
+Seat 3: ChileNaTuraL (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222943275179:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:30 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 2: Cabellera91 ($14.82 in chips) 
+Seat 3: ChileNaTuraL ($16.20 in chips) 
+ChileNaTuraL: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+Cabellera91: calls $0.20
+*** FLOP *** [6d 4s Ad]
+Cabellera91: checks 
+ChileNaTuraL: bets $0.19
+Cabellera91: calls $0.19
+*** TURN *** [6d 4s Ad] [6s]
+Cabellera91: checks 
+ChileNaTuraL: checks 
+*** RIVER *** [6d 4s Ad 6s] [8h]
+Cabellera91: bets $0.71
+ChileNaTuraL: folds 
+Uncalled bet ($0.71) returned to Cabellera91
+Cabellera91 collected $0.94 from pot
+doumless was removed from the table for failing to post
+doumless leaves the table
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [6d 4s Ad 6s 8h]
+Seat 2: Cabellera91 (big blind) collected ($0.94)
+Seat 3: ChileNaTuraL (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #222943302745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:34 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: analytic1 ($10 in chips) 
+Seat 3: ChileNaTuraL ($15.71 in chips) 
+analytic1: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+analytic1: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+Uncalled bet ($0.20) returned to analytic1
+analytic1 collected $0.20 from pot
+analytic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: analytic1 (button) (small blind) collected ($0.20)
+Seat 3: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943307206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:47 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: analytic1 ($10.10 in chips) 
+Seat 3: ChileNaTuraL ($15.61 in chips) 
+ChileNaTuraL: posts small blind $0.05
+analytic1: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX joins the table at seat #4 
+ChileNaTuraL: folds 
+Uncalled bet ($0.05) returned to analytic1
+ChileNaTuraL leaves the table
+analytic1 collected $0.10 from pot
+analytic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: analytic1 (big blind) collected ($0.10)
+Seat 3: ChileNaTuraL (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943310731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:57 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: analytic1 ($10.15 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+analytic1: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+I find you ez joins the table at seat #6 
+analytic1: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+Cabellera91 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: analytic1 (button) (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943313525:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:06 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: analytic1 ($10.10 in chips) 
+Seat 2: Cabellera91 ($15.27 in chips) 
+Seat 4: Hamasaki XX ($10.05 in chips) 
+analytic1: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+gor580 joins the table at seat #3 
+Hamasaki XX: raises $0.15 to $0.25
+analytic1: folds 
+Cabellera91: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: analytic1 (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 4: Hamasaki XX (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943316115:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:14 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: analytic1 ($10.05 in chips) 
+Seat 2: Cabellera91 ($15.17 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.20 in chips) 
+Cabellera91: posts small blind $0.05
+gor580: posts big blind $0.10
+I find you ez: sits out 
+*** HOLE CARDS ***
+Hamasaki XX: raises $0.15 to $0.25
+analytic1: calls $0.25
+Cabellera91: calls $0.20
+gor580: folds 
+*** FLOP *** [6c 6d 5d]
+Cabellera91: checks 
+Hamasaki XX: checks 
+analytic1: checks 
+*** TURN *** [6c 6d 5d] [Jh]
+Cabellera91: bets $0.53
+Hamasaki XX: folds 
+analytic1: calls $0.53
+*** RIVER *** [6c 6d 5d Jh] [7s]
+Cabellera91: bets $0.60
+analytic1: raises $1 to $1.60
+Cabellera91: calls $1
+*** SHOW DOWN ***
+analytic1: shows [Qs Ad] (a pair of Sixes)
+Cabellera91: shows [Jd Qc] (two pair, Jacks and Sixes)
+Cabellera91 collected $4.88 from pot
+*** SUMMARY ***
+Total pot $5.11 | Rake $0.23 
+Board [6c 6d 5d Jh 7s]
+Seat 1: analytic1 (button) showed [Qs Ad] and lost with a pair of Sixes
+Seat 2: Cabellera91 (small blind) showed [Jd Qc] and won ($4.88) with two pair, Jacks and Sixes
+Seat 3: gor580 (big blind) folded before Flop
+Seat 4: Hamasaki XX folded on the Turn
+
+
+
+PokerStars Hand #222943356483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:53 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: analytic1 ($10 in chips) 
+Seat 2: Cabellera91 ($17.67 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+gor580: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+I find you ez: sits out 
+*** HOLE CARDS ***
+analytic1: folds 
+Cabellera91: folds 
+gor580: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: analytic1 folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 3: gor580 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943359835:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:03 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: analytic1 ($10 in chips) 
+Seat 2: Cabellera91 ($17.67 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.05 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Hamasaki XX: posts small blind $0.05
+I find you ez: posts big blind $0.10
+*** HOLE CARDS ***
+analytic1: folds 
+Cabellera91: raises $0.20 to $0.30
+gor580: folds 
+Hamasaki XX: folds 
+I find you ez: folds 
+Uncalled bet ($0.20) returned to Cabellera91
+Cabellera91 collected $0.25 from pot
+jgalliford was removed from the table for failing to post
+jgalliford leaves the table
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: analytic1 folded before Flop (didn't bet)
+Seat 2: Cabellera91 collected ($0.25)
+Seat 3: gor580 (button) folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 6: I find you ez (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943364431:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:16 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: analytic1 ($10 in chips) 
+Seat 2: Cabellera91 ($17.82 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+I find you ez: posts small blind $0.05
+analytic1: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+I find you ez: folds 
+Uncalled bet ($0.05) returned to analytic1
+analytic1 collected $0.10 from pot
+analytic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: analytic1 (big blind) collected ($0.10)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 6: I find you ez (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943369003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:30 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: analytic1 ($10.05 in chips) 
+Seat 2: Cabellera91 ($17.82 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+analytic1: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: raises $0.15 to $0.25
+Hamasaki XX: folds 
+I find you ez: folds 
+analytic1: folds 
+Gambitto_28 joins the table at seat #5 
+Cabellera91: folds 
+Uncalled bet ($0.15) returned to gor580
+gor580 collected $0.25 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: analytic1 (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: gor580 collected ($0.25)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 6: I find you ez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943375327:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:49 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: analytic1 ($10 in chips) 
+Seat 2: Cabellera91 ($17.72 in chips) 
+Seat 3: gor580 ($10.15 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Cabellera91: posts small blind $0.05
+gor580: posts big blind $0.10
+Gambitto_28: sits out 
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+I find you ez: folds 
+analytic1: raises $0.20 to $0.30
+Cabellera91: folds 
+gor580: folds 
+Uncalled bet ($0.20) returned to analytic1
+analytic1 collected $0.25 from pot
+analytic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: analytic1 (button) collected ($0.25)
+Seat 2: Cabellera91 (small blind) folded before Flop
+Seat 3: gor580 (big blind) folded before Flop
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943380955:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:05 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: analytic1 ($10.15 in chips) 
+Seat 2: Cabellera91 ($17.67 in chips) 
+Seat 3: gor580 ($10.05 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+gor580: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+Gambitto_28: sits out 
+*** HOLE CARDS ***
+I find you ez: folds 
+analytic1: folds 
+Cabellera91 has timed out
+Cabellera91: folds 
+gor580: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: analytic1 folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 3: gor580 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) collected ($0.10)
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943387421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:25 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: analytic1 ($10.15 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.05 in chips) 
+Seat 5: Gambitto_28 ($10 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+*** HOLE CARDS ***
+I find you ez: folds 
+analytic1: raises $0.20 to $0.30
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: calls $0.20
+*** FLOP *** [7c Ad Jd]
+Gambitto_28: checks 
+analytic1: bets $0.31
+Gambitto_28: folds 
+Uncalled bet ($0.31) returned to analytic1
+analytic1 collected $0.62 from pot
+analytic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7c Ad Jd]
+Seat 1: analytic1 collected ($0.62)
+Seat 3: gor580 (button) folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 5: Gambitto_28 (big blind) folded on the Flop
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943399010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:00 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: analytic1 ($10.47 in chips) 
+Seat 2: Cabellera91 ($17.67 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.70 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Gambitto_28: posts small blind $0.05
+I find you ez: posts big blind $0.10
+*** HOLE CARDS ***
+analytic1: folds 
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: raises $0.20 to $0.30
+I find you ez: folds 
+Uncalled bet ($0.20) returned to Gambitto_28
+Gambitto_28 collected $0.20 from pot
+Gambitto_28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: analytic1 folded before Flop (didn't bet)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (small blind) collected ($0.20)
+Seat 6: I find you ez (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943405636:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:19 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 2: Cabellera91 ($17.67 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.80 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+I find you ez: posts small blind $0.05
+analytic1: is sitting out 
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: raises $0.10 to $0.20
+analytic1 leaves the table
+I find you ez: folds 
+Cabellera91: folds 
+Uncalled bet ($0.10) returned to Gambitto_28
+Gambitto_28 collected $0.25 from pot
+Gambitto_28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) collected ($0.25)
+Seat 6: I find you ez (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943414504:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:46 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 2: Cabellera91 ($17.57 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.95 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Cabellera91: posts small blind $0.05
+gor580: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz joins the table at seat #1 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: raises $0.15 to $0.25
+Cabellera91: folds 
+gor580: calls $0.15
+*** FLOP *** [8h Th Ks]
+gor580: checks 
+I find you ez: bets $0.25
+gor580: folds 
+Uncalled bet ($0.25) returned to I find you ez
+I find you ez collected $0.53 from pot
+I find you ez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8h Th Ks]
+Seat 2: Cabellera91 (small blind) folded before Flop
+Seat 3: gor580 (big blind) folded on the Flop
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez (button) collected ($0.53)
+
+
+
+PokerStars Hand #222943423617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:15 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 2: Cabellera91 ($17.52 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.95 in chips) 
+Seat 6: I find you ez ($10.28 in chips) 
+gor580: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+Nealy_Godz: sits out 
+*** HOLE CARDS ***
+Gambitto_28: folds 
+I find you ez: raises $0.20 to $0.30
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Uncalled bet ($0.20) returned to I find you ez
+I find you ez collected $0.25 from pot
+I find you ez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 3: gor580 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) folded before Flop
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez collected ($0.25)
+
+
+
+PokerStars Hand #222943430760:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:43 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 2: Cabellera91 ($17.52 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.95 in chips) 
+Seat 6: I find you ez ($10.43 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+Nealy_Godz: sits out 
+*** HOLE CARDS ***
+I find you ez: folds 
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: raises $0.20 to $0.30
+Gambitto_28: folds 
+Uncalled bet ($0.20) returned to Hamasaki XX
+Hamasaki XX collected $0.20 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 (button) folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (small blind) collected ($0.20)
+Seat 5: Gambitto_28 (big blind) folded before Flop
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943434046:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:56 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 2: Cabellera91 ($17.52 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.10 in chips) 
+Seat 5: Gambitto_28 ($9.85 in chips) 
+Seat 6: I find you ez ($10.43 in chips) 
+Gambitto_28: posts small blind $0.05
+I find you ez: posts big blind $0.10
+Nealy_Godz: sits out 
+*** HOLE CARDS ***
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+Uncalled bet ($0.05) returned to I find you ez
+I find you ez collected $0.10 from pot
+I find you ez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (small blind) folded before Flop
+Seat 6: I find you ez (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943437835:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:11 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: Cabellera91 ($17.52 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.10 in chips) 
+Seat 5: Gambitto_28 ($9.80 in chips) 
+Seat 6: I find you ez ($10.48 in chips) 
+I find you ez: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91 has timed out
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: raises $0.10 to $0.20
+I find you ez: folds 
+Nealy_Godz: raises $0.15 to $0.35
+Gambitto_28: calls $0.15
+*** FLOP *** [Kc 4s 5s]
+Nealy_Godz: bets $0.36
+Gambitto_28: folds 
+Uncalled bet ($0.36) returned to Nealy_Godz
+Nealy_Godz collected $0.72 from pot
+Nealy_Godz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kc 4s 5s]
+Seat 1: Nealy_Godz (big blind) collected ($0.72)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) folded on the Flop
+Seat 6: I find you ez (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943449742:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:58 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: Nealy_Godz ($10.37 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.10 in chips) 
+Seat 5: Gambitto_28 ($9.45 in chips) 
+Seat 6: I find you ez ($10.43 in chips) 
+Nealy_Godz: posts small blind $0.05
+gor580: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+Gambitto_28: raises $0.15 to $0.25
+I find you ez: calls $0.25
+Nealy_Godz: folds 
+gor580: folds 
+*** FLOP *** [Th 8d 9d]
+Gambitto_28: checks 
+I find you ez: bets $0.40
+Gambitto_28: folds 
+Uncalled bet ($0.40) returned to I find you ez
+I find you ez collected $0.62 from pot
+I find you ez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Th 8d 9d]
+Seat 1: Nealy_Godz (small blind) folded before Flop
+Seat 3: gor580 (big blind) folded before Flop
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded on the Flop
+Seat 6: I find you ez (button) collected ($0.62)
+
+
+
+PokerStars Hand #222943458395:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:32 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.10 in chips) 
+Seat 5: Gambitto_28 ($9.20 in chips) 
+Seat 6: I find you ez ($10.80 in chips) 
+gor580: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+Gambitto_28: calls $0.10
+I find you ez: folds 
+Nealy_Godz: folds 
+gor580: folds 
+Hamasaki XX: checks 
+*** FLOP *** [Js 6d Kh]
+Hamasaki XX: checks 
+Gambitto_28: bets $0.16
+Hamasaki XX: calls $0.16
+*** TURN *** [Js 6d Kh] [9h]
+Hamasaki XX: checks 
+Gambitto_28: bets $0.46
+Hamasaki XX: calls $0.46
+*** RIVER *** [Js 6d Kh 9h] [Qc]
+Hamasaki XX: checks 
+Gambitto_28: bets $1.21
+Hamasaki XX: calls $1.21
+*** SHOW DOWN ***
+Gambitto_28: shows [Qs Ts] (a straight, Nine to King)
+Hamasaki XX: mucks hand 
+Gambitto_28 collected $3.73 from pot
+*** SUMMARY ***
+Total pot $3.91 | Rake $0.18 
+Board [Js 6d Kh 9h Qc]
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 3: gor580 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) mucked
+Seat 5: Gambitto_28 showed [Qs Ts] and won ($3.73) with a straight, Nine to King
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943476791:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:43 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 3: gor580 ($10 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($11 in chips) 
+Seat 6: I find you ez ($10.80 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+I find you ez: folds 
+Nealy_Godz: folds 
+gor580: raises $0.15 to $0.25
+Hamasaki XX: folds 
+Gambitto_28: calls $0.15
+*** FLOP *** [5h 6h 4c]
+Gambitto_28: checks 
+gor580: checks 
+*** TURN *** [5h 6h 4c] [3s]
+Gambitto_28: checks 
+gor580: bets $0.32
+Gambitto_28: folds 
+Uncalled bet ($0.32) returned to gor580
+gor580 collected $0.53 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5h 6h 4c 3s]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 3: gor580 (button) collected ($0.53)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 5: Gambitto_28 (big blind) folded on the Turn
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943489640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:34 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 3: gor580 ($10.28 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($10.75 in chips) 
+Seat 6: I find you ez ($10.80 in chips) 
+Gambitto_28: posts small blind $0.05
+I find you ez: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+Nealy_Godz: folds 
+gor580: raises $0.15 to $0.25
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: calls $0.15
+*** FLOP *** [9c Jd 7s]
+I find you ez: checks 
+gor580: bets $0.17
+I find you ez: folds 
+Uncalled bet ($0.17) returned to gor580
+gor580 collected $0.53 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9c Jd 7s]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 3: gor580 collected ($0.53)
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (small blind) folded before Flop
+Seat 6: I find you ez (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943497701:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:05 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 3: gor580 ($10.56 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($10.70 in chips) 
+Seat 6: I find you ez ($10.55 in chips) 
+I find you ez: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+gor580: folds 
+Hamasaki XX: raises $0.15 to $0.25
+Gambitto_28: folds 
+I find you ez: folds 
+Nealy_Godz: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX collected ($0.25)
+Seat 5: Gambitto_28 (button) folded before Flop (didn't bet)
+Seat 6: I find you ez (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943501764:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:18 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: Nealy_Godz ($10.22 in chips) 
+Seat 2: Cabellera91 ($17.52 in chips) 
+Seat 3: gor580 ($10.56 in chips) 
+Seat 4: Hamasaki XX ($10.15 in chips) 
+Seat 5: Gambitto_28 ($10.70 in chips) 
+Seat 6: I find you ez ($10.50 in chips) 
+Nealy_Godz: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: folds 
+Nealy_Godz: raises $0.20 to $0.30
+Cabellera91: folds 
+Uncalled bet ($0.20) returned to Nealy_Godz
+Nealy_Godz collected $0.20 from pot
+Nealy_Godz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Nealy_Godz (small blind) collected ($0.20)
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943506841:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:35 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($17.42 in chips) 
+Seat 3: gor580 ($10.56 in chips) 
+Seat 4: Hamasaki XX ($10.15 in chips) 
+Seat 5: Gambitto_28 ($10.70 in chips) 
+Seat 6: I find you ez ($10.50 in chips) 
+Cabellera91: posts small blind $0.05
+gor580: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: folds 
+Nealy_Godz: folds 
+Cabellera91: raises $0.20 to $0.30
+gor580: folds 
+Uncalled bet ($0.20) returned to Cabellera91
+Cabellera91 collected $0.20 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) collected ($0.20)
+Seat 3: gor580 (big blind) folded before Flop
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943511960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:52 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($17.52 in chips) 
+Seat 3: gor580 ($10.46 in chips) 
+Seat 4: Hamasaki XX ($10.15 in chips) 
+Seat 5: Gambitto_28 ($10.70 in chips) 
+Seat 6: I find you ez ($10.50 in chips) 
+gor580: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+Gambitto_28: folds 
+I find you ez has timed out
+I find you ez: folds 
+Nealy_Godz: folds 
+Cabellera91: raises $0.20 to $0.30
+gor580: folds 
+Hamasaki XX: raises $0.70 to $1
+Cabellera91: folds 
+Uncalled bet ($0.70) returned to Hamasaki XX
+Hamasaki XX collected $0.65 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) folded before Flop
+Seat 3: gor580 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) collected ($0.65)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943526046:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:36 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($17.22 in chips) 
+Seat 3: gor580 ($10.41 in chips) 
+Seat 4: Hamasaki XX ($10.50 in chips) 
+Seat 5: Gambitto_28 ($10.70 in chips) 
+Seat 6: I find you ez ($10.50 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+*** HOLE CARDS ***
+I find you ez: raises $0.30 to $0.40
+Nealy_Godz: folds 
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+Uncalled bet ($0.30) returned to I find you ez
+I find you ez collected $0.25 from pot
+I find you ez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 (button) folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 5: Gambitto_28 (big blind) folded before Flop
+Seat 6: I find you ez collected ($0.25)
+
+
+
+PokerStars Hand #222943531295:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:52 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($17.22 in chips) 
+Seat 3: gor580 ($10.41 in chips) 
+Seat 4: Hamasaki XX ($10.45 in chips) 
+Seat 5: Gambitto_28 ($10.60 in chips) 
+Seat 6: I find you ez ($10.65 in chips) 
+Gambitto_28: posts small blind $0.05
+I find you ez: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz: raises $0.20 to $0.30
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: folds 
+Uncalled bet ($0.20) returned to Nealy_Godz
+Nealy_Godz collected $0.25 from pot
+Nealy_Godz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz collected ($0.25)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (small blind) folded before Flop
+Seat 6: I find you ez (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943537475:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:11 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10.47 in chips) 
+Seat 2: Cabellera91 ($17.22 in chips) 
+Seat 3: gor580 ($10.41 in chips) 
+Seat 4: Hamasaki XX ($10.45 in chips) 
+Seat 5: Gambitto_28 ($10.55 in chips) 
+Seat 6: I find you ez ($10.55 in chips) 
+I find you ez: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: raises $0.30 to $0.40
+Nealy_Godz: folds 
+Uncalled bet ($0.30) returned to I find you ez
+I find you ez collected $0.20 from pot
+I find you ez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) folded before Flop (didn't bet)
+Seat 6: I find you ez (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943543271:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:30 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: Nealy_Godz ($10.37 in chips) 
+Seat 2: Cabellera91 ($17.22 in chips) 
+Seat 3: gor580 ($10.41 in chips) 
+Seat 4: Hamasaki XX ($10.45 in chips) 
+Seat 5: Gambitto_28 ($10.55 in chips) 
+Seat 6: I find you ez ($10.65 in chips) 
+Nealy_Godz: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: raises $0.15 to $0.25
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: calls $0.25
+Nealy_Godz: folds 
+Cabellera91: folds 
+*** FLOP *** [3c 5c 3h]
+gor580: bets $0.35
+I find you ez: calls $0.35
+*** TURN *** [3c 5c 3h] [7h]
+gor580: checks 
+I find you ez: bets $0.85
+gor580: calls $0.85
+*** RIVER *** [3c 5c 3h 7h] [4h]
+gor580: bets $1.75
+I find you ez: raises $7.45 to $9.20 and is all-in
+gor580: calls $7.21 and is all-in
+Uncalled bet ($0.24) returned to I find you ez
+*** SHOW DOWN ***
+I find you ez: shows [8c 9c] (a pair of Threes)
+gor580: shows [5d 6d] (a straight, Three to Seven)
+gor580 collected $20.03 from pot
+*** SUMMARY ***
+Total pot $20.97 | Rake $0.94 
+Board [3c 5c 3h 7h 4h]
+Seat 1: Nealy_Godz (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: gor580 showed [5d 6d] and won ($20.03) with a straight, Three to Seven
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez (button) showed [8c 9c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #222943569408:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:51 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($17.12 in chips) 
+Seat 3: gor580 ($20.03 in chips) 
+Seat 4: Hamasaki XX ($10.45 in chips) 
+Seat 5: Gambitto_28 ($10.55 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Cabellera91: posts small blind $0.05
+gor580: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+Gambitto_28: folds 
+I find you ez: folds 
+Nealy_Godz: folds 
+Cabellera91: folds 
+Uncalled bet ($0.05) returned to gor580
+gor580 collected $0.10 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) folded before Flop
+Seat 3: gor580 (big blind) collected ($0.10)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943573500:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:03 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($17.07 in chips) 
+Seat 3: gor580 ($20.08 in chips) 
+Seat 4: Hamasaki XX ($10.45 in chips) 
+Seat 5: Gambitto_28 ($10.55 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+gor580: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+Gambitto_28: folds 
+I find you ez: folds 
+Nealy_Godz: folds 
+Cabellera91: raises $0.20 to $0.30
+gor580: folds 
+Hamasaki XX: calls $0.20
+*** FLOP *** [Kh Jd 2s]
+Hamasaki XX: checks 
+Cabellera91: bets $0.20
+Hamasaki XX: calls $0.20
+*** TURN *** [Kh Jd 2s] [5s]
+Hamasaki XX: checks 
+Cabellera91: checks 
+*** RIVER *** [Kh Jd 2s 5s] [6s]
+Hamasaki XX: checks 
+Cabellera91: checks 
+*** SHOW DOWN ***
+Hamasaki XX: shows [8s Ad] (high card Ace)
+Cabellera91: mucks hand 
+Hamasaki XX collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Kh Jd 2s 5s 6s]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) mucked
+Seat 3: gor580 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) showed [8s Ad] and won ($1) with high card Ace
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943590783:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:56 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($16.57 in chips) 
+Seat 3: gor580 ($20.03 in chips) 
+Seat 4: Hamasaki XX ($10.95 in chips) 
+Seat 5: Gambitto_28 ($10.55 in chips) 
+Seat 6: I find you ez ($10 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+*** HOLE CARDS ***
+I find you ez: folds 
+Nealy_Godz: folds 
+Cabellera91: folds 
+gor580: raises $0.15 to $0.25
+Hamasaki XX: calls $0.20
+Gambitto_28: calls $0.15
+*** FLOP *** [2d 2s 5h]
+Hamasaki XX: checks 
+Gambitto_28: checks 
+gor580: checks 
+*** TURN *** [2d 2s 5h] [5c]
+Hamasaki XX: checks 
+Gambitto_28: bets $0.30
+gor580: calls $0.30
+Hamasaki XX: calls $0.30
+*** RIVER *** [2d 2s 5h 5c] [Ks]
+Hamasaki XX: checks 
+Gambitto_28: checks 
+gor580: checks 
+*** SHOW DOWN ***
+Hamasaki XX: shows [6s 6c] (two pair, Sixes and Fives)
+Gambitto_28: mucks hand 
+gor580: shows [Qd Kd] (two pair, Kings and Fives)
+gor580 collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [2d 2s 5h 5c Ks]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 (button) showed [Qd Kd] and won ($1.58) with two pair, Kings and Fives
+Seat 4: Hamasaki XX (small blind) showed [6s 6c] and lost with two pair, Sixes and Fives
+Seat 5: Gambitto_28 (big blind) mucked
+Seat 6: I find you ez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943620041:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:18 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10.32 in chips) 
+Seat 2: Cabellera91 ($16.57 in chips) 
+Seat 3: gor580 ($21.06 in chips) 
+Seat 4: Hamasaki XX ($10.40 in chips) 
+Seat 5: Gambitto_28 ($10 in chips) 
+Gambitto_28: posts small blind $0.05
+I find you ez: is sitting out 
+Nealy_Godz: posts big blind $0.10
+*** HOLE CARDS ***
+I find you ez leaves the table
+Cabellera91: folds 
+gor580: folds 
+Hamasaki XX: raises $0.15 to $0.25
+Gambitto_28: folds 
+Nealy_Godz: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: gor580 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) collected ($0.25)
+Seat 5: Gambitto_28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943625074:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:33 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10.22 in chips) 
+Seat 2: Cabellera91 ($16.57 in chips) 
+Seat 3: gor580 ($21.06 in chips) 
+Seat 4: Hamasaki XX ($10.55 in chips) 
+Seat 5: Gambitto_28 ($9.95 in chips) 
+Nealy_Godz: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: raises $0.15 to $0.25
+Hamasaki XX: folds 
+Gambitto_28: calls $0.25
+Nealy_Godz: folds 
+Cabellera91: folds 
+*** FLOP *** [4s 5h Qh]
+gor580: checks 
+Gambitto_28: checks 
+*** TURN *** [4s 5h Qh] [4c]
+gor580: bets $0.37
+Gambitto_28: calls $0.37
+*** RIVER *** [4s 5h Qh 4c] [5d]
+gor580: checks 
+Gambitto_28: bets $0.70
+gor580: folds 
+Uncalled bet ($0.70) returned to Gambitto_28
+Gambitto_28 collected $1.33 from pot
+Gambitto_28: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.06 
+Board [4s 5h Qh 4c 5d]
+Seat 1: Nealy_Godz (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: gor580 folded on the River
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) collected ($1.33)
+
+
+
+PokerStars Hand #222943644905:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:35 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10.17 in chips) 
+Seat 2: Cabellera91 ($16.47 in chips) 
+Seat 4: Hamasaki XX ($10.55 in chips) 
+Seat 5: Gambitto_28 ($10.66 in chips) 
+Cabellera91: posts small blind $0.05
+gor580: is sitting out 
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+gor580 leaves the table
+Gambitto_28: folds 
+Nealy_Godz: folds 
+Cabellera91: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) collected ($0.10)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943649177:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:48 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: Nealy_Godz ($10.17 in chips) 
+Seat 2: Cabellera91 ($16.42 in chips) 
+Seat 4: Hamasaki XX ($10.60 in chips) 
+Seat 5: Gambitto_28 ($10.66 in chips) 
+Hamasaki XX: posts small blind $0.05
+rc10111967 joins the table at seat #3 
+Gambitto_28: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz: folds 
+Cabellera91: raises $0.20 to $0.30
+Hamasaki XX: folds 
+Gambitto_28: folds 
+Uncalled bet ($0.20) returned to Cabellera91
+Cabellera91 collected $0.25 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) collected ($0.25)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 5: Gambitto_28 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943655250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:06 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10.17 in chips) 
+Seat 2: Cabellera91 ($16.57 in chips) 
+Seat 3: rc10111967 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.55 in chips) 
+Seat 5: Gambitto_28 ($10.56 in chips) 
+Gambitto_28: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+rc10111967: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+rc10111967: checks 
+AvGeL joins the table at seat #6 
+Hamasaki XX: raises $0.30 to $0.40
+Gambitto_28: folds 
+Nealy_Godz: folds 
+rc10111967: folds 
+Uncalled bet ($0.30) returned to Hamasaki XX
+Hamasaki XX collected $0.35 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) collected ($0.35)
+Seat 5: Gambitto_28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943663699:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:33 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10.07 in chips) 
+Seat 2: Cabellera91 ($16.57 in chips) 
+Seat 3: rc10111967 ($9.90 in chips) 
+Seat 4: Hamasaki XX ($10.80 in chips) 
+Seat 5: Gambitto_28 ($10.51 in chips) 
+Nealy_Godz: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+rc10111967: raises $0.20 to $0.30
+Hamasaki XX: folds 
+Gambitto_28: folds 
+Nealy_Godz: folds 
+Cabellera91: folds 
+Uncalled bet ($0.20) returned to rc10111967
+rc10111967 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz (small blind) folded before Flop
+Seat 2: Cabellera91 (big blind) folded before Flop
+Seat 3: rc10111967 collected ($0.25)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943670966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:55 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10.02 in chips) 
+Seat 2: Cabellera91 ($16.47 in chips) 
+Seat 3: rc10111967 ($10.05 in chips) 
+Seat 4: Hamasaki XX ($10.80 in chips) 
+Seat 5: Gambitto_28 ($10.51 in chips) 
+Cabellera91: posts small blind $0.05
+rc10111967: posts big blind $0.10
+AvGeL: sits out 
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+Gambitto_28: folds 
+Nealy_Godz: folds 
+Cabellera91: folds 
+Uncalled bet ($0.05) returned to rc10111967
+rc10111967 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 2: Cabellera91 (small blind) folded before Flop
+Seat 3: rc10111967 (big blind) collected ($0.10)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943675558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:09 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: Nealy_Godz ($10.02 in chips) 
+Seat 2: Cabellera91 ($16.42 in chips) 
+Seat 3: rc10111967 ($10.10 in chips) 
+Seat 4: Hamasaki XX ($10.80 in chips) 
+Seat 5: Gambitto_28 ($10.51 in chips) 
+rc10111967: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+AvGeL: sits out 
+*** HOLE CARDS ***
+Gambitto_28: folds 
+Nealy_Godz: folds 
+Cabellera91: folds 
+rc10111967: calls $0.05
+Hamasaki XX: raises $0.30 to $0.40
+rc10111967: folds 
+Uncalled bet ($0.30) returned to Hamasaki XX
+Hamasaki XX collected $0.20 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 3: rc10111967 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) collected ($0.20)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943683954:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:36 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: Nealy_Godz ($10.02 in chips) 
+Seat 2: Cabellera91 ($16.42 in chips) 
+Seat 3: rc10111967 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.90 in chips) 
+Seat 5: Gambitto_28 ($10.51 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+AvGeL: sits out 
+*** HOLE CARDS ***
+Nealy_Godz: folds 
+Cabellera91: folds 
+rc10111967: folds 
+Hamasaki XX: raises $0.30 to $0.40
+Gambitto_28: folds 
+Uncalled bet ($0.30) returned to Hamasaki XX
+Hamasaki XX collected $0.20 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 folded before Flop (didn't bet)
+Seat 3: rc10111967 (button) folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (small blind) collected ($0.20)
+Seat 5: Gambitto_28 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943692490:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:02 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10.02 in chips) 
+Seat 2: Cabellera91 ($16.42 in chips) 
+Seat 3: rc10111967 ($10 in chips) 
+Seat 4: Hamasaki XX ($11 in chips) 
+Seat 5: Gambitto_28 ($10.41 in chips) 
+Seat 6: AvGeL ($10 in chips) 
+Gambitto_28: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz: folds 
+Cabellera91: raises $0.20 to $0.30
+rc10111967: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+AvGeL: raises $0.70 to $1
+Cabellera91: calls $0.70
+*** FLOP *** [8s Kd 6s]
+AvGeL: bets $0.70
+Cabellera91: calls $0.70
+*** TURN *** [8s Kd 6s] [6c]
+AvGeL: checks 
+Cabellera91: checks 
+*** RIVER *** [8s Kd 6s 6c] [4c]
+AvGeL: checks 
+Cabellera91: checks 
+*** SHOW DOWN ***
+AvGeL: shows [Jh Jc] (two pair, Jacks and Sixes)
+Cabellera91: mucks hand 
+AvGeL collected $3.29 from pot
+*** SUMMARY ***
+Total pot $3.45 | Rake $0.16 
+Board [8s Kd 6s 6c 4c]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: Cabellera91 mucked
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (small blind) folded before Flop
+Seat 6: AvGeL (big blind) showed [Jh Jc] and won ($3.29) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #222943711624:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:59 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10.02 in chips) 
+Seat 2: Cabellera91 ($14.72 in chips) 
+Seat 3: rc10111967 ($10 in chips) 
+Seat 4: Hamasaki XX ($11 in chips) 
+Seat 5: Gambitto_28 ($10.36 in chips) 
+Seat 6: AvGeL ($11.59 in chips) 
+AvGeL: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: raises $0.20 to $0.30
+rc10111967: folds 
+Hamasaki XX: folds 
+Gambitto_28: calls $0.30
+AvGeL: folds 
+Nealy_Godz: folds 
+*** FLOP *** [8h 5c Js]
+Cabellera91: checks 
+Gambitto_28: checks 
+*** TURN *** [8h 5c Js] [Kc]
+Cabellera91: bets $0.27
+Gambitto_28: calls $0.27
+*** RIVER *** [8h 5c Js Kc] [Td]
+Cabellera91: checks 
+Gambitto_28: checks 
+*** SHOW DOWN ***
+Cabellera91: shows [6h 6s] (a pair of Sixes)
+Gambitto_28: mucks hand 
+Cabellera91 collected $1.23 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.06 
+Board [8h 5c Js Kc Td]
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 2: Cabellera91 showed [6h 6s] and won ($1.23) with a pair of Sixes
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) mucked
+Seat 6: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943730666:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:46 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 3: rc10111967 ($10 in chips) 
+Seat 4: Hamasaki XX ($11 in chips) 
+Seat 5: Gambitto_28 ($9.79 in chips) 
+Seat 6: AvGeL ($11.54 in chips) 
+Nealy_Godz: posts small blind $0.05
+rc10111967: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+Cabellera91 leaves the table
+Gambitto_28: folds 
+AvGeL: folds 
+Nealy_Godz: folds 
+Uncalled bet ($0.05) returned to rc10111967
+rc10111967 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Nealy_Godz (small blind) folded before Flop
+Seat 3: rc10111967 (big blind) collected ($0.10)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943735122:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:00 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 3: rc10111967 ($10.05 in chips) 
+Seat 4: Hamasaki XX ($11 in chips) 
+Seat 5: Gambitto_28 ($9.79 in chips) 
+Seat 6: AvGeL ($11.54 in chips) 
+rc10111967: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+Gambitto_28: raises $0.15 to $0.25
+AvGeL: folds 
+Nealy_Godz: folds 
+rc10111967: folds 
+Hamasaki XX: calls $0.15
+*** FLOP *** [4s Qc Jh]
+Hamasaki XX: checks 
+Gambitto_28: checks 
+*** TURN *** [4s Qc Jh] [7d]
+Hamasaki XX: checks 
+Gambitto_28: bets $0.30
+Hamasaki XX: calls $0.30
+*** RIVER *** [4s Qc Jh 7d] [6c]
+Hamasaki XX: checks 
+Gambitto_28: checks 
+*** SHOW DOWN ***
+Hamasaki XX: shows [Kh Ad] (high card Ace)
+Gambitto_28: shows [Ah Jc] (a pair of Jacks)
+Gambitto_28 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [4s Qc Jh 7d 6c]
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 3: rc10111967 (small blind) folded before Flop
+Seat 4: Hamasaki XX (big blind) showed [Kh Ad] and lost with high card Ace
+Seat 5: Gambitto_28 showed [Ah Jc] and won ($1.10) with a pair of Jacks
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943750430:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:48 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 3: rc10111967 ($10 in chips) 
+Seat 4: Hamasaki XX ($10.45 in chips) 
+Seat 5: Gambitto_28 ($10.34 in chips) 
+Seat 6: AvGeL ($11.54 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+Nealy_Godz: folds 
+rc10111967: raises $0.20 to $0.30
+Hamasaki XX: folds 
+Gambitto_28: calls $0.20
+*** FLOP *** [3h 8h Kc]
+Gambitto_28: checks 
+rc10111967: bets $0.31
+Gambitto_28: folds 
+Uncalled bet ($0.31) returned to rc10111967
+rc10111967 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3h 8h Kc]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 3: rc10111967 (button) collected ($0.62)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 5: Gambitto_28 (big blind) folded on the Flop
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943760751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:20 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 3: rc10111967 ($10.32 in chips) 
+Seat 4: Hamasaki XX ($10.40 in chips) 
+Seat 5: Gambitto_28 ($10.04 in chips) 
+Seat 6: AvGeL ($11.54 in chips) 
+Gambitto_28: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz: folds 
+rc10111967: folds 
+Hamasaki XX: raises $0.15 to $0.25
+Gambitto_28: folds 
+AvGeL: calls $0.15
+*** FLOP *** [3h 5c Qh]
+AvGeL: checks 
+Hamasaki XX: checks 
+*** TURN *** [3h 5c Qh] [2c]
+AvGeL: bets $0.40
+NeverScream joins the table at seat #2 
+Hamasaki XX: calls $0.40
+*** RIVER *** [3h 5c Qh 2c] [Qd]
+AvGeL: bets $0.97
+Hamasaki XX: calls $0.97
+*** SHOW DOWN ***
+AvGeL: shows [2h 2d] (a full house, Deuces full of Queens)
+Hamasaki XX: mucks hand 
+AvGeL collected $3.14 from pot
+*** SUMMARY ***
+Total pot $3.29 | Rake $0.15 
+Board [3h 5c Qh 2c Qd]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX (button) mucked
+Seat 5: Gambitto_28 (small blind) folded before Flop
+Seat 6: AvGeL (big blind) showed [2h 2d] and won ($3.14) with a full house, Deuces full of Queens
+
+
+
+PokerStars Hand #222943776838:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:10 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 3: rc10111967 ($10.32 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.99 in chips) 
+Seat 6: AvGeL ($13.06 in chips) 
+AvGeL: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+NeverScream: sits out 
+*** HOLE CARDS ***
+rc10111967: raises $0.20 to $0.30
+Hamasaki XX has timed out
+Hamasaki XX: folds 
+Gambitto_28: folds 
+AvGeL: folds 
+Nealy_Godz: folds 
+Uncalled bet ($0.20) returned to rc10111967
+rc10111967 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 3: rc10111967 collected ($0.25)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) folded before Flop (didn't bet)
+Seat 6: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943786396:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:40 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($10.47 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.99 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+Nealy_Godz: posts small blind $0.05
+NeverScream: posts big blind $0.10
+*** HOLE CARDS ***
+rc10111967: raises $0.20 to $0.30
+Hamasaki XX: folds 
+Gambitto_28: folds 
+AvGeL: folds 
+Nealy_Godz: calls $0.25
+NeverScream: folds 
+*** FLOP *** [8s Jd As]
+Nealy_Godz: checks 
+rc10111967: bets $0.34
+Nealy_Godz: calls $0.34
+*** TURN *** [8s Jd As] [Kh]
+Nealy_Godz: checks 
+rc10111967: bets $0.66
+Nealy_Godz: calls $0.66
+*** RIVER *** [8s Jd As Kh] [5s]
+Nealy_Godz: checks 
+rc10111967: bets $3.50
+Nealy_Godz: folds 
+Uncalled bet ($3.50) returned to rc10111967
+rc10111967 collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [8s Jd As Kh 5s]
+Seat 1: Nealy_Godz (small blind) folded on the River
+Seat 2: NeverScream (big blind) folded before Flop
+Seat 3: rc10111967 collected ($2.58)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943803068:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:32 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($11.75 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($9.99 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+NeverScream: posts small blind $0.05
+rc10111967: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+Gambitto_28: raises $0.15 to $0.25
+AvGeL: folds 
+Nealy_Godz: folds 
+NeverScream: folds 
+rc10111967: raises $0.15 to $0.40
+Gambitto_28: calls $0.15
+*** FLOP *** [9d 5d 2c]
+rc10111967: bets $0.41
+Gambitto_28: calls $0.41
+*** TURN *** [9d 5d 2c] [Td]
+rc10111967: checks 
+Gambitto_28: checks 
+*** RIVER *** [9d 5d 2c Td] [7c]
+rc10111967: bets $0.50
+Gambitto_28: calls $0.50
+*** SHOW DOWN ***
+rc10111967: shows [Ks 3s] (high card King)
+Gambitto_28: shows [Qc Ac] (high card Ace)
+Gambitto_28 collected $2.55 from pot
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.12 
+Board [9d 5d 2c Td 7c]
+Seat 1: Nealy_Godz (button) folded before Flop (didn't bet)
+Seat 2: NeverScream (small blind) folded before Flop
+Seat 3: rc10111967 (big blind) showed [Ks 3s] and lost with high card King
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 showed [Qc Ac] and won ($2.55) with high card Ace
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943843000:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:10 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($10.44 in chips) 
+Seat 4: Hamasaki XX ($10 in chips) 
+Seat 5: Gambitto_28 ($11.23 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+rc10111967: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+Gambitto_28: raises $0.15 to $0.25
+AvGeL: folds 
+Nealy_Godz: folds 
+NeverScream: calls $0.25
+rc10111967: calls $0.20
+Hamasaki XX: calls $0.15
+*** FLOP *** [8h 3c 9s]
+rc10111967: checks 
+Hamasaki XX: checks 
+Gambitto_28: checks 
+NeverScream: checks 
+*** TURN *** [8h 3c 9s] [Qs]
+rc10111967: checks 
+Hamasaki XX: checks 
+Gambitto_28: checks 
+NeverScream: checks 
+*** RIVER *** [8h 3c 9s Qs] [9d]
+rc10111967: checks 
+Hamasaki XX: checks 
+Gambitto_28: checks 
+NeverScream: checks 
+*** SHOW DOWN ***
+rc10111967: shows [6s 5s] (a pair of Nines)
+Hamasaki XX: shows [Qd 4d] (two pair, Queens and Nines)
+Gambitto_28: mucks hand 
+NeverScream: mucks hand 
+Hamasaki XX collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [8h 3c 9s Qs 9d]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: NeverScream (button) mucked
+Seat 3: rc10111967 (small blind) showed [6s 5s] and lost with a pair of Nines
+Seat 4: Hamasaki XX (big blind) showed [Qd 4d] and won ($0.96) with two pair, Queens and Nines
+Seat 5: Gambitto_28 mucked
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943875946:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:30 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($10.19 in chips) 
+Seat 4: Hamasaki XX ($10.71 in chips) 
+Seat 5: Gambitto_28 ($10.98 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+Hamasaki XX: posts small blind $0.05
+Gambitto_28: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+Nealy_Godz: folds 
+NeverScream: folds 
+rc10111967: raises $0.30 to $0.40
+Hamasaki XX: folds 
+Gambitto_28: folds 
+Uncalled bet ($0.30) returned to rc10111967
+rc10111967 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: NeverScream folded before Flop (didn't bet)
+Seat 3: rc10111967 (button) collected ($0.25)
+Seat 4: Hamasaki XX (small blind) folded before Flop
+Seat 5: Gambitto_28 (big blind) folded before Flop
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943881918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:49 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($10.34 in chips) 
+Seat 4: Hamasaki XX ($10.66 in chips) 
+Seat 5: Gambitto_28 ($10.88 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+Gambitto_28: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz: folds 
+NeverScream: folds 
+rc10111967: calls $0.10
+Hamasaki XX: folds 
+Gambitto_28: calls $0.05
+AvGeL: checks 
+*** FLOP *** [5h Th Kc]
+Gambitto_28: checks 
+AvGeL: checks 
+rc10111967: checks 
+*** TURN *** [5h Th Kc] [7s]
+Gambitto_28: bets $0.19
+AvGeL: folds 
+rc10111967: calls $0.19
+*** RIVER *** [5h Th Kc 7s] [Qh]
+Gambitto_28: checks 
+rc10111967: checks 
+*** SHOW DOWN ***
+Gambitto_28: shows [Td 5s] (two pair, Tens and Fives)
+rc10111967: mucks hand 
+Gambitto_28 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03 
+Board [5h Th Kc 7s Qh]
+Seat 1: Nealy_Godz folded before Flop (didn't bet)
+Seat 2: NeverScream folded before Flop (didn't bet)
+Seat 3: rc10111967 mucked
+Seat 4: Hamasaki XX (button) folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (small blind) showed [Td 5s] and won ($0.65) with two pair, Tens and Fives
+Seat 6: AvGeL (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222943895085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:30 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($10.05 in chips) 
+Seat 4: Hamasaki XX ($10.66 in chips) 
+Seat 5: Gambitto_28 ($11.24 in chips) 
+Seat 6: AvGeL ($12.91 in chips) 
+AvGeL: posts small blind $0.05
+Nealy_Godz: posts big blind $0.10
+*** HOLE CARDS ***
+NeverScream has timed out
+NeverScream: folds 
+rc10111967: folds 
+Hamasaki XX: folds 
+Gambitto_28: folds 
+AvGeL: raises $0.20 to $0.30
+Nealy_Godz: folds 
+Uncalled bet ($0.20) returned to AvGeL
+AvGeL collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Nealy_Godz (big blind) folded before Flop
+Seat 2: NeverScream folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 (button) folded before Flop (didn't bet)
+Seat 6: AvGeL (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943904928:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:01 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($10 in chips) 
+Seat 3: rc10111967 ($10.05 in chips) 
+Seat 4: Hamasaki XX ($10.66 in chips) 
+Seat 5: Gambitto_28 ($11.24 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+Nealy_Godz: posts small blind $0.05
+NeverScream: posts big blind $0.10
+*** HOLE CARDS ***
+rc10111967: raises $0.20 to $0.30
+Hamasaki XX: folds 
+Gambitto_28: folds 
+AvGeL: folds 
+Nealy_Godz: folds 
+NeverScream: calls $0.20
+*** FLOP *** [Qs 3s 4c]
+NeverScream: checks 
+rc10111967: bets $0.31
+NeverScream: calls $0.31
+*** TURN *** [Qs 3s 4c] [7d]
+NeverScream: checks 
+rc10111967: bets $0.61
+NeverScream: calls $0.61
+*** RIVER *** [Qs 3s 4c 7d] [9c]
+NeverScream: checks 
+rc10111967: bets $1.19
+NeverScream: raises $1.43 to $2.62
+rc10111967 has timed out
+rc10111967: folds 
+Uncalled bet ($1.43) returned to NeverScream
+NeverScream collected $4.65 from pot
+NeverScream: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.87 | Rake $0.22 
+Board [Qs 3s 4c 7d 9c]
+Seat 1: Nealy_Godz (small blind) folded before Flop
+Seat 2: NeverScream (big blind) collected ($4.65)
+Seat 3: rc10111967 folded on the River
+Seat 4: Hamasaki XX folded before Flop (didn't bet)
+Seat 5: Gambitto_28 folded before Flop (didn't bet)
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943931490:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:25 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: Nealy_Godz ($10 in chips) 
+Seat 2: NeverScream ($12.24 in chips) 
+Seat 6: AvGeL ($13.01 in chips) 
+NeverScream: posts small blind $0.05
+Hamasaki XX: is sitting out 
+Gambitto_28: is sitting out 
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz: raises $0.20 to $0.30
+NeverScream: folds 
+Hamasaki XX leaves the table
+crankthatsoulja joins the table at seat #4 
+AvGeL: folds 
+Uncalled bet ($0.20) returned to Nealy_Godz
+Nealy_Godz collected $0.25 from pot
+Nealy_Godz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Nealy_Godz (button) collected ($0.25)
+Seat 2: NeverScream (small blind) folded before Flop
+Seat 6: AvGeL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943936564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:41 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 2: NeverScream ($12.19 in chips) 
+Seat 6: AvGeL ($12.91 in chips) 
+AvGeL: posts small blind $0.05
+NeverScream: posts big blind $0.10
+*** HOLE CARDS ***
+Nealy_Godz leaves the table
+rc10111967 leaves the table
+AvGeL: folds 
+Uncalled bet ($0.05) returned to NeverScream
+NeverScream collected $0.10 from pot
+NeverScream: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: NeverScream (big blind) collected ($0.10)
+Seat 6: AvGeL (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943940916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:55 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 2: NeverScream ($12.24 in chips) 
+Seat 4: crankthatsoulja ($4 in chips) 
+Seat 6: AvGeL ($12.86 in chips) 
+NeverScream: posts small blind $0.05
+crankthatsoulja: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy joins the table at seat #1 
+AvGeL: raises $0.10 to $0.20
+NeverScream: folds 
+crankthatsoulja: calls $0.10
+*** FLOP *** [9s 4s 6c]
+crankthatsoulja: checks 
+Gambitto_28 leaves the table
+AvGeL: checks 
+*** TURN *** [9s 4s 6c] [2d]
+crankthatsoulja: checks 
+AvGeL: checks 
+*** RIVER *** [9s 4s 6c 2d] [5d]
+crankthatsoulja: checks 
+AvGeL: checks 
+*** SHOW DOWN ***
+crankthatsoulja: shows [Js Td] (high card Jack)
+AvGeL: shows [Ad 8c] (high card Ace)
+AvGeL collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9s 4s 6c 2d 5d]
+Seat 2: NeverScream (small blind) folded before Flop
+Seat 4: crankthatsoulja (big blind) showed [Js Td] and lost with high card Jack
+Seat 6: AvGeL (button) showed [Ad 8c] and won ($0.43) with high card Ace
+
+
+
+PokerStars Hand #222943955037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:39 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 2: NeverScream ($12.19 in chips) 
+Seat 4: crankthatsoulja ($3.80 in chips) 
+Seat 6: AvGeL ($13.09 in chips) 
+crankthatsoulja: posts small blind $0.05
+AvGeL: posts big blind $0.10
+EasySteavy: sits out 
+*** HOLE CARDS ***
+NeverScream: folds 
+crankthatsoulja: folds 
+Uncalled bet ($0.05) returned to AvGeL
+AvGeL collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: NeverScream (button) folded before Flop (didn't bet)
+Seat 4: crankthatsoulja (small blind) folded before Flop
+Seat 6: AvGeL (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943956778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:44 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: EasySteavy ($10 in chips) 
+Seat 2: NeverScream ($12.19 in chips) 
+Seat 4: crankthatsoulja ($3.75 in chips) 
+Seat 6: AvGeL ($13.14 in chips) 
+AvGeL: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+NeverScream: folds 
+crankthatsoulja: folds 
+AvGeL: folds 
+Uncalled bet ($0.05) returned to EasySteavy
+EasySteavy collected $0.10 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: EasySteavy (big blind) collected ($0.10)
+Seat 2: NeverScream folded before Flop (didn't bet)
+Seat 4: crankthatsoulja (button) folded before Flop (didn't bet)
+Seat 6: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943961672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:00 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: EasySteavy ($10.05 in chips) 
+Seat 4: crankthatsoulja ($3.75 in chips) 
+Seat 6: AvGeL ($13.09 in chips) 
+EasySteavy: posts small blind $0.05
+NeverScream: is sitting out 
+NeverScream leaves the table
+crankthatsoulja: posts big blind $0.10
+*** HOLE CARDS ***
+Lilfraz18 joins the table at seat #3 
+AvGeL: folds 
+EasySteavy: raises $0.20 to $0.30
+D.Komarov joins the table at seat #2 
+crankthatsoulja: calls $0.20
+*** FLOP *** [Ks Kd 8h]
+EasySteavy: bets $0.38
+crankthatsoulja: calls $0.38
+*** TURN *** [Ks Kd 8h] [Jh]
+EasySteavy: checks 
+crankthatsoulja: bets $0.30
+EasySteavy: calls $0.30
+*** RIVER *** [Ks Kd 8h Jh] [Kc]
+EasySteavy: checks 
+crankthatsoulja: bets $0.50
+EasySteavy: calls $0.50
+*** SHOW DOWN ***
+crankthatsoulja: shows [Jd 8s] (a full house, Kings full of Jacks)
+EasySteavy: mucks hand 
+crankthatsoulja collected $2.83 from pot
+*** SUMMARY ***
+Total pot $2.96 | Rake $0.13 
+Board [Ks Kd 8h Jh Kc]
+Seat 1: EasySteavy (small blind) mucked
+Seat 4: crankthatsoulja (big blind) showed [Jd 8s] and won ($2.83) with a full house, Kings full of Jacks
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943974600:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:40 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: EasySteavy ($10 in chips) 
+Seat 4: crankthatsoulja ($5.10 in chips) 
+Seat 6: AvGeL ($13.09 in chips) 
+crankthatsoulja: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: folds 
+crankthatsoulja: folds 
+Uncalled bet ($0.05) returned to AvGeL
+AvGeL collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: EasySteavy (button) folded before Flop (didn't bet)
+Seat 4: crankthatsoulja (small blind) folded before Flop
+Seat 6: AvGeL (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943977298:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:49 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: EasySteavy ($10 in chips) 
+Seat 3: Lilfraz18 ($4.41 in chips) 
+Seat 4: crankthatsoulja ($5.05 in chips) 
+Seat 6: AvGeL ($13.14 in chips) 
+AvGeL: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+D.Komarov: sits out 
+Lilfraz18: posts big blind $0.10
+*** HOLE CARDS ***
+Lilfraz18: checks 
+crankthatsoulja: calls $0.10
+AvGeL: raises $0.55 to $0.65
+EasySteavy: folds 
+Lilfraz18: folds 
+crankthatsoulja: folds 
+Uncalled bet ($0.55) returned to AvGeL
+Shannel4321 joins the table at seat #5 
+AvGeL collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: EasySteavy (big blind) folded before Flop
+Seat 3: Lilfraz18 folded before Flop (didn't bet)
+Seat 4: crankthatsoulja (button) folded before Flop
+Seat 6: AvGeL (small blind) collected ($0.40)
+
+
+
+PokerStars Hand #222943985777:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:15 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: EasySteavy ($10 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 3: Lilfraz18 ($4.31 in chips) 
+Seat 4: crankthatsoulja ($4.95 in chips) 
+Seat 6: AvGeL ($13.44 in chips) 
+EasySteavy: posts small blind $0.05
+D.Komarov: posts big blind $0.10
+Shannel4321: sits out 
+*** HOLE CARDS ***
+Lilfraz18: calls $0.10
+crankthatsoulja: folds 
+AvGeL: folds 
+EasySteavy: calls $0.05
+D.Komarov: checks 
+*** FLOP *** [6s Qd Ad]
+EasySteavy: checks 
+D.Komarov: checks 
+Lilfraz18: bets $0.14
+EasySteavy: calls $0.14
+D.Komarov: calls $0.14
+*** TURN *** [6s Qd Ad] [5c]
+EasySteavy: bets $0.54
+D.Komarov: folds 
+Lilfraz18: calls $0.54
+*** RIVER *** [6s Qd Ad 5c] [2c]
+EasySteavy: bets $3.62
+Lilfraz18: calls $3.53 and is all-in
+Uncalled bet ($0.09) returned to EasySteavy
+*** SHOW DOWN ***
+EasySteavy: shows [As 5h] (two pair, Aces and Fives)
+Lilfraz18: shows [Qs 8d] (a pair of Queens)
+EasySteavy collected $8.46 from pot
+*** SUMMARY ***
+Total pot $8.86 | Rake $0.40 
+Board [6s Qd Ad 5c 2c]
+Seat 1: EasySteavy (small blind) showed [As 5h] and won ($8.46) with two pair, Aces and Fives
+Seat 2: D.Komarov (big blind) folded on the Turn
+Seat 3: Lilfraz18 showed [Qs 8d] and lost with a pair of Queens
+Seat 4: crankthatsoulja folded before Flop (didn't bet)
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944009989:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:31 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: EasySteavy ($14.15 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 4: crankthatsoulja ($4.95 in chips) 
+Seat 6: AvGeL ($13.44 in chips) 
+D.Komarov: posts small blind $0.05
+crankthatsoulja: posts big blind $0.10
+Shannel4321: sits out 
+*** HOLE CARDS ***
+AvGeL: folds 
+EasySteavy: raises $0.20 to $0.30
+D.Komarov: raises $0.70 to $1
+crankthatsoulja: folds 
+EasySteavy: calls $0.70
+*** FLOP *** [6h 6c 2d]
+D.Komarov: bets $0.66
+EasySteavy: calls $0.66
+*** TURN *** [6h 6c 2d] [5h]
+D.Komarov: checks 
+EasySteavy: bets $1.73
+D.Komarov: folds 
+Uncalled bet ($1.73) returned to EasySteavy
+EasySteavy collected $3.27 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.42 | Rake $0.15 
+Board [6h 6c 2d 5h]
+Seat 1: EasySteavy (button) collected ($3.27)
+Seat 2: D.Komarov (small blind) folded on the Turn
+Seat 4: crankthatsoulja (big blind) folded before Flop
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944026182:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:22 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: EasySteavy ($15.76 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 4: crankthatsoulja ($4.85 in chips) 
+Seat 5: Shannel4321 ($8 in chips) 
+Seat 6: AvGeL ($13.44 in chips) 
+crankthatsoulja: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: raises $0.20 to $0.30
+EasySteavy: folds 
+D.Komarov: folds 
+crankthatsoulja: folds 
+Shannel4321: folds 
+Uncalled bet ($0.20) returned to AvGeL
+AvGeL collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov (button) folded before Flop (didn't bet)
+Seat 4: crankthatsoulja (small blind) folded before Flop
+Seat 5: Shannel4321 (big blind) folded before Flop
+Seat 6: AvGeL collected ($0.25)
+
+
+
+PokerStars Hand #222944030671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:37 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: EasySteavy ($15.76 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 3: Lilfraz18 ($8.04 in chips) 
+Seat 4: crankthatsoulja ($4.80 in chips) 
+Seat 5: Shannel4321 ($7.90 in chips) 
+Seat 6: AvGeL ($13.59 in chips) 
+Shannel4321: posts small blind $0.05
+AvGeL: posts big blind $0.10
+Lilfraz18: posts small & big blinds $0.15
+*** HOLE CARDS ***
+EasySteavy: raises $0.40 to $0.50
+D.Komarov: folds 
+Lilfraz18: folds 
+crankthatsoulja: folds 
+Shannel4321: folds 
+AvGeL: folds 
+Uncalled bet ($0.40) returned to EasySteavy
+EasySteavy collected $0.40 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: EasySteavy collected ($0.40)
+Seat 2: D.Komarov folded before Flop (didn't bet)
+Seat 3: Lilfraz18 folded before Flop (didn't bet)
+Seat 4: crankthatsoulja (button) folded before Flop (didn't bet)
+Seat 5: Shannel4321 (small blind) folded before Flop
+Seat 6: AvGeL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944035162:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:51 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: EasySteavy ($16.06 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 3: Lilfraz18 ($7.89 in chips) 
+Seat 4: crankthatsoulja ($4.80 in chips) 
+Seat 5: Shannel4321 ($7.85 in chips) 
+Seat 6: AvGeL ($13.49 in chips) 
+AvGeL: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+D.Komarov: folds 
+Lilfraz18: calls $0.10
+crankthatsoulja: calls $0.10
+Shannel4321: raises $0.10 to $0.20
+AvGeL: folds 
+EasySteavy: calls $0.10
+Lilfraz18: calls $0.10
+crankthatsoulja: calls $0.10
+*** FLOP *** [Qc Kc Ac]
+EasySteavy: checks 
+Lilfraz18: checks 
+crankthatsoulja: bets $0.40
+Shannel4321: calls $0.40
+EasySteavy: folds 
+Lilfraz18: folds 
+*** TURN *** [Qc Kc Ac] [2s]
+crankthatsoulja: checks 
+Shannel4321: checks 
+*** RIVER *** [Qc Kc Ac 2s] [8s]
+crankthatsoulja: bets $0.50
+Shannel4321: calls $0.50
+*** SHOW DOWN ***
+crankthatsoulja: shows [As Qh] (two pair, Aces and Queens)
+Shannel4321: mucks hand 
+crankthatsoulja collected $2.53 from pot
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [Qc Kc Ac 2s 8s]
+Seat 1: EasySteavy (big blind) folded on the Flop
+Seat 2: D.Komarov folded before Flop (didn't bet)
+Seat 3: Lilfraz18 folded on the Flop
+Seat 4: crankthatsoulja showed [As Qh] and won ($2.53) with two pair, Aces and Queens
+Seat 5: Shannel4321 (button) mucked
+Seat 6: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944059601:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:10 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: EasySteavy ($15.86 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 3: Lilfraz18 ($7.69 in chips) 
+Seat 4: crankthatsoulja ($6.23 in chips) 
+Seat 5: Shannel4321 ($6.75 in chips) 
+Seat 6: AvGeL ($13.44 in chips) 
+EasySteavy: posts small blind $0.05
+D.Komarov: posts big blind $0.10
+*** HOLE CARDS ***
+Lilfraz18: folds 
+crankthatsoulja: calls $0.10
+Shannel4321: calls $0.10
+AvGeL: raises $0.40 to $0.50
+EasySteavy: folds 
+D.Komarov: raises $0.80 to $1.30
+crankthatsoulja: folds 
+Shannel4321: calls $1.20
+AvGeL: calls $0.80
+*** FLOP *** [6d Qs 7c]
+D.Komarov: checks 
+Shannel4321: checks 
+AvGeL: checks 
+*** TURN *** [6d Qs 7c] [6c]
+D.Komarov: checks 
+Shannel4321: checks 
+AvGeL: checks 
+*** RIVER *** [6d Qs 7c 6c] [5h]
+D.Komarov: checks 
+Shannel4321: checks 
+AvGeL: bets $1.94
+D.Komarov: folds 
+Shannel4321: folds 
+Uncalled bet ($1.94) returned to AvGeL
+AvGeL collected $3.87 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.18 
+Board [6d Qs 7c 6c 5h]
+Seat 1: EasySteavy (small blind) folded before Flop
+Seat 2: D.Komarov (big blind) folded on the River
+Seat 3: Lilfraz18 folded before Flop (didn't bet)
+Seat 4: crankthatsoulja folded before Flop
+Seat 5: Shannel4321 folded on the River
+Seat 6: AvGeL (button) collected ($3.87)
+
+
+
+PokerStars Hand #222944089509:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:46 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: EasySteavy ($15.81 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 3: Lilfraz18 ($7.69 in chips) 
+Seat 4: crankthatsoulja ($6.13 in chips) 
+Seat 5: Shannel4321 ($5.45 in chips) 
+Seat 6: AvGeL ($16.01 in chips) 
+D.Komarov: posts small blind $0.05
+Lilfraz18: posts big blind $0.10
+*** HOLE CARDS ***
+crankthatsoulja: calls $0.10
+Shannel4321: raises $0.20 to $0.30
+AvGeL: folds 
+EasySteavy: raises $0.50 to $0.80
+D.Komarov: folds 
+Lilfraz18: calls $0.70
+crankthatsoulja: folds 
+Shannel4321: calls $0.50
+*** FLOP *** [4c 5s 2s]
+Lilfraz18: checks 
+Shannel4321: checks 
+EasySteavy: checks 
+*** TURN *** [4c 5s 2s] [Kh]
+Lilfraz18: checks 
+Shannel4321: checks 
+EasySteavy: checks 
+*** RIVER *** [4c 5s 2s Kh] [6h]
+Lilfraz18: bets $2.44
+Shannel4321: folds 
+EasySteavy: folds 
+Uncalled bet ($2.44) returned to Lilfraz18
+Lilfraz18 collected $2.44 from pot
+Lilfraz18: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [4c 5s 2s Kh 6h]
+Seat 1: EasySteavy (button) folded on the River
+Seat 2: D.Komarov (small blind) folded before Flop
+Seat 3: Lilfraz18 (big blind) collected ($2.44)
+Seat 4: crankthatsoulja folded before Flop
+Seat 5: Shannel4321 folded on the River
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944117557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:10 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: EasySteavy ($15.01 in chips) 
+Seat 2: D.Komarov ($9.95 in chips) 
+Seat 3: Lilfraz18 ($9.33 in chips) 
+Seat 4: crankthatsoulja ($6.03 in chips) 
+Seat 5: Shannel4321 ($4.65 in chips) 
+Seat 6: AvGeL ($16.01 in chips) 
+Lilfraz18: posts small blind $0.05
+crankthatsoulja: posts big blind $0.10
+*** HOLE CARDS ***
+Shannel4321: folds 
+AvGeL: raises $0.20 to $0.30
+EasySteavy: folds 
+D.Komarov: folds 
+Lilfraz18: raises $0.20 to $0.50
+crankthatsoulja: folds 
+AvGeL: calls $0.20
+*** FLOP *** [9s 3s Jh]
+Lilfraz18: checks 
+AvGeL: checks 
+*** TURN *** [9s 3s Jh] [Ad]
+Lilfraz18: checks 
+AvGeL: checks 
+*** RIVER *** [9s 3s Jh Ad] [7s]
+Lilfraz18: checks 
+AvGeL: checks 
+*** SHOW DOWN ***
+Lilfraz18: shows [Ks Qh] (high card Ace)
+AvGeL: shows [Kd Qc] (high card Ace)
+Lilfraz18 collected $0.53 from pot
+AvGeL collected $0.52 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9s 3s Jh Ad 7s]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov (button) folded before Flop (didn't bet)
+Seat 3: Lilfraz18 (small blind) showed [Ks Qh] and won ($0.53) with high card Ace
+Seat 4: crankthatsoulja (big blind) folded before Flop
+Seat 5: Shannel4321 folded before Flop (didn't bet)
+Seat 6: AvGeL showed [Kd Qc] and won ($0.52) with high card Ace
+
+
+
+PokerStars Hand #222944131485:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:55 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: EasySteavy ($15.01 in chips) 
+Seat 2: D.Komarov ($9.95 in chips) 
+Seat 3: Lilfraz18 ($9.36 in chips) 
+Seat 4: crankthatsoulja ($5.93 in chips) 
+Seat 5: Shannel4321 ($4.65 in chips) 
+Seat 6: AvGeL ($16.03 in chips) 
+crankthatsoulja: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+EasySteavy: folds 
+D.Komarov: raises $0.14 to $0.24
+Lilfraz18: calls $0.24
+crankthatsoulja: calls $0.19
+Shannel4321: raises $0.14 to $0.38
+D.Komarov: folds 
+Lilfraz18: calls $0.14
+crankthatsoulja: calls $0.14
+*** FLOP *** [4c Th 6d]
+crankthatsoulja: checks 
+Shannel4321: bets $0.66
+Lilfraz18: calls $0.66
+crankthatsoulja: calls $0.66
+*** TURN *** [4c Th 6d] [8s]
+crankthatsoulja: checks 
+Shannel4321: bets $1.60
+Lilfraz18: folds 
+crankthatsoulja: folds 
+Uncalled bet ($1.60) returned to Shannel4321
+Shannel4321 collected $3.21 from pot
+Shannel4321: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.15 
+Board [4c Th 6d 8s]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov folded before Flop
+Seat 3: Lilfraz18 (button) folded on the Turn
+Seat 4: crankthatsoulja (small blind) folded on the Turn
+Seat 5: Shannel4321 (big blind) collected ($3.21)
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944148420:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:50 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: EasySteavy ($15.01 in chips) 
+Seat 2: D.Komarov ($10 in chips) 
+Seat 3: Lilfraz18 ($8.32 in chips) 
+Seat 4: crankthatsoulja ($4.89 in chips) 
+Seat 5: Shannel4321 ($6.82 in chips) 
+Seat 6: AvGeL ($16.03 in chips) 
+Shannel4321: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy has timed out
+EasySteavy: folds 
+D.Komarov: raises $0.14 to $0.24
+Lilfraz18: calls $0.24
+crankthatsoulja: folds 
+Shannel4321: raises $0.14 to $0.38
+AvGeL: folds 
+D.Komarov: raises $0.92 to $1.30
+Lilfraz18: calls $1.06
+Shannel4321: raises $0.92 to $2.22
+D.Komarov: calls $0.92
+Lilfraz18: calls $0.92
+*** FLOP *** [4s Ks 4d]
+Shannel4321: bets $3.23
+D.Komarov: calls $3.23
+Lilfraz18: folds 
+*** TURN *** [4s Ks 4d] [8c]
+Shannel4321: bets $1.37 and is all-in
+D.Komarov: calls $1.37
+*** RIVER *** [4s Ks 4d 8c] [9d]
+*** SHOW DOWN ***
+Shannel4321: shows [Jc Qc] (a pair of Fours)
+D.Komarov: shows [Ad Kh] (two pair, Kings and Fours)
+D.Komarov collected $15.24 from pot
+*** SUMMARY ***
+Total pot $15.96 | Rake $0.72 
+Board [4s Ks 4d 8c 9d]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov showed [Ad Kh] and won ($15.24) with two pair, Kings and Fours
+Seat 3: Lilfraz18 folded on the Flop
+Seat 4: crankthatsoulja (button) folded before Flop (didn't bet)
+Seat 5: Shannel4321 (small blind) showed [Jc Qc] and lost with a pair of Fours
+Seat 6: AvGeL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944173636:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:13 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: EasySteavy ($15.01 in chips) 
+Seat 2: D.Komarov ($18.42 in chips) 
+Seat 3: Lilfraz18 ($6.10 in chips) 
+Seat 4: crankthatsoulja ($4.89 in chips) 
+Seat 6: AvGeL ($15.93 in chips) 
+EasySteavy: posts small blind $0.05
+D.Komarov: posts big blind $0.10
+*** HOLE CARDS ***
+Lilfraz18: calls $0.10
+crankthatsoulja: calls $0.10
+AvGeL: raises $0.15 to $0.25
+Shannel4321 leaves the table
+EasySteavy: calls $0.20
+D.Komarov: folds 
+Lilfraz18: calls $0.15
+crankthatsoulja: calls $0.15
+*** FLOP *** [As Kh 6c]
+EasySteavy: bets $0.62
+Lilfraz18: calls $0.62
+crankthatsoulja: calls $0.62
+AvGeL: folds 
+*** TURN *** [As Kh 6c] [5c]
+EasySteavy: bets $1.51
+Lilfraz18: folds 
+crankthatsoulja: calls $1.51
+*** RIVER *** [As Kh 6c 5c] [6d]
+EasySteavy: bets $3.05
+crankthatsoulja: calls $2.51 and is all-in
+Uncalled bet ($0.54) returned to EasySteavy
+*** SHOW DOWN ***
+EasySteavy: shows [Ah Th] (two pair, Aces and Sixes)
+crankthatsoulja: shows [Jh Kc] (two pair, Kings and Sixes)
+EasySteavy collected $10.50 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.50 
+Board [As Kh 6c 5c 6d]
+Seat 1: EasySteavy (small blind) showed [Ah Th] and won ($10.50) with two pair, Aces and Sixes
+Seat 2: D.Komarov (big blind) folded before Flop
+Seat 3: Lilfraz18 folded on the Turn
+Seat 4: crankthatsoulja showed [Jh Kc] and lost with two pair, Kings and Sixes
+Seat 6: AvGeL (button) folded on the Flop
+
+
+
+PokerStars Hand #222944195643:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:15 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: EasySteavy ($20.62 in chips) 
+Seat 2: D.Komarov ($18.32 in chips) 
+Seat 3: Lilfraz18 ($5.23 in chips) 
+Seat 6: AvGeL ($15.68 in chips) 
+D.Komarov: posts small blind $0.05
+Lilfraz18: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+Black021 joins the table at seat #5 
+EasySteavy: raises $0.20 to $0.30
+D.Komarov: calls $0.25
+Lilfraz18: calls $0.20
+*** FLOP *** [6c 3h Qd]
+D.Komarov: checks 
+Lilfraz18: checks 
+crankthatsoulja leaves the table
+EasySteavy: checks 
+*** TURN *** [6c 3h Qd] [Ac]
+D.Komarov: bets $0.76
+Lilfraz18: folds 
+EasySteavy: folds 
+Uncalled bet ($0.76) returned to D.Komarov
+D.Komarov collected $0.86 from pot
+D.Komarov: doesn't show hand 
+bone60 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [6c 3h Qd Ac]
+Seat 1: EasySteavy (button) folded on the Turn
+Seat 2: D.Komarov (small blind) collected ($0.86)
+Seat 3: Lilfraz18 (big blind) folded on the Turn
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944204515:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:44 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: EasySteavy ($20.32 in chips) 
+Seat 2: D.Komarov ($18.88 in chips) 
+Seat 3: Lilfraz18 ($4.93 in chips) 
+Seat 4: bone60 ($8 in chips) 
+Seat 6: AvGeL ($15.68 in chips) 
+Lilfraz18: posts small blind $0.05
+bone60: posts big blind $0.10
+Black021: sits out 
+*** HOLE CARDS ***
+AvGeL: raises $0.20 to $0.30
+EasySteavy: folds 
+D.Komarov: folds 
+Lilfraz18: calls $0.25
+bone60: folds 
+*** FLOP *** [Qs Ah 5h]
+Lilfraz18: checks 
+AvGeL: checks 
+*** TURN *** [Qs Ah 5h] [7s]
+Lilfraz18: bets $0.33
+AvGeL: folds 
+Uncalled bet ($0.33) returned to Lilfraz18
+Lilfraz18 collected $0.67 from pot
+Lilfraz18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Qs Ah 5h 7s]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov (button) folded before Flop (didn't bet)
+Seat 3: Lilfraz18 (small blind) collected ($0.67)
+Seat 4: bone60 (big blind) folded before Flop
+Seat 6: AvGeL folded on the Turn
+
+
+
+PokerStars Hand #222944213780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:15 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: EasySteavy ($20.32 in chips) 
+Seat 2: D.Komarov ($18.88 in chips) 
+Seat 3: Lilfraz18 ($5.30 in chips) 
+Seat 4: bone60 ($7.90 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Seat 6: AvGeL ($15.38 in chips) 
+bone60: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+EasySteavy: raises $0.20 to $0.30
+D.Komarov: folds 
+Lilfraz18: raises $0.75 to $1.05
+bone60: folds 
+Black021: folds 
+EasySteavy: calls $0.75
+*** FLOP *** [4c 5s 8c]
+EasySteavy: checks 
+Lilfraz18: bets $4.25 and is all-in
+EasySteavy: folds 
+Uncalled bet ($4.25) returned to Lilfraz18
+Lilfraz18 collected $2.15 from pot
+Lilfraz18: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4c 5s 8c]
+Seat 1: EasySteavy folded on the Flop
+Seat 2: D.Komarov folded before Flop (didn't bet)
+Seat 3: Lilfraz18 (button) collected ($2.15)
+Seat 4: bone60 (small blind) folded before Flop
+Seat 5: Black021 (big blind) folded before Flop
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944226474:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:57 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: EasySteavy ($19.27 in chips) 
+Seat 2: D.Komarov ($18.88 in chips) 
+Seat 3: Lilfraz18 ($6.40 in chips) 
+Seat 4: bone60 ($7.85 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Seat 6: AvGeL ($15.38 in chips) 
+Black021: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy has timed out
+EasySteavy: folds 
+D.Komarov: raises $0.14 to $0.24
+Lilfraz18: calls $0.24
+bone60: calls $0.24
+Black021: folds 
+AvGeL: folds 
+*** FLOP *** [5d 9c Ks]
+D.Komarov: checks 
+Lilfraz18: checks 
+bone60: bets $0.83
+D.Komarov: folds 
+Lilfraz18: folds 
+Uncalled bet ($0.83) returned to bone60
+bone60 collected $0.83 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [5d 9c Ks]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov folded on the Flop
+Seat 3: Lilfraz18 folded on the Flop
+Seat 4: bone60 (button) collected ($0.83)
+Seat 5: Black021 (small blind) folded before Flop
+Seat 6: AvGeL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944245067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:59 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 1: EasySteavy ($19.27 in chips) 
+Seat 2: D.Komarov ($18.64 in chips) 
+Seat 3: Lilfraz18 ($6.16 in chips) 
+Seat 4: bone60 ($8.44 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Seat 6: AvGeL ($15.28 in chips) 
+AvGeL: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+D.Komarov: folds 
+Lilfraz18: calls $0.10
+bone60: folds 
+Black021: folds 
+AvGeL: folds 
+EasySteavy: raises $0.35 to $0.45
+Lilfraz18: calls $0.35
+*** FLOP *** [5d 6s 3c]
+EasySteavy: checks 
+Lilfraz18: bets $0.10
+EasySteavy: calls $0.10
+*** TURN *** [5d 6s 3c] [Jc]
+EasySteavy: bets $0.75
+Lilfraz18: folds 
+Uncalled bet ($0.75) returned to EasySteavy
+EasySteavy collected $1.10 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [5d 6s 3c Jc]
+Seat 1: EasySteavy (big blind) collected ($1.10)
+Seat 2: D.Komarov folded before Flop (didn't bet)
+Seat 3: Lilfraz18 folded on the Turn
+Seat 4: bone60 folded before Flop (didn't bet)
+Seat 5: Black021 (button) folded before Flop (didn't bet)
+Seat 6: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944258974:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:45 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 1: EasySteavy ($19.82 in chips) 
+Seat 2: D.Komarov ($18.64 in chips) 
+Seat 3: Lilfraz18 ($5.61 in chips) 
+Seat 4: bone60 ($8.44 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Seat 6: AvGeL ($15.23 in chips) 
+EasySteavy: posts small blind $0.05
+D.Komarov: posts big blind $0.10
+*** HOLE CARDS ***
+Lilfraz18: folds 
+bone60: folds 
+Black021: raises $0.15 to $0.25
+AvGeL: folds 
+EasySteavy: folds 
+D.Komarov: folds 
+Uncalled bet ($0.15) returned to Black021
+Black021 collected $0.25 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: EasySteavy (small blind) folded before Flop
+Seat 2: D.Komarov (big blind) folded before Flop
+Seat 3: Lilfraz18 folded before Flop (didn't bet)
+Seat 4: bone60 folded before Flop (didn't bet)
+Seat 5: Black021 collected ($0.25)
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944267683:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:39:14 ET
+Table 'Phegeus II' 6-max Seat #1 is the button
+Seat 1: EasySteavy ($19.77 in chips) 
+Seat 2: D.Komarov ($18.54 in chips) 
+Seat 3: Lilfraz18 ($5.61 in chips) 
+Seat 4: bone60 ($8.44 in chips) 
+Seat 5: Black021 ($10.15 in chips) 
+Seat 6: AvGeL ($15.23 in chips) 
+D.Komarov: posts small blind $0.05
+Lilfraz18: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+Black021: folds 
+AvGeL: folds 
+EasySteavy has timed out
+EasySteavy: folds 
+D.Komarov: raises $0.14 to $0.24
+Lilfraz18: calls $0.14
+*** FLOP *** [7d 7h 9s]
+D.Komarov: checks 
+Lilfraz18: checks 
+*** TURN *** [7d 7h 9s] [9d]
+D.Komarov: checks 
+Lilfraz18: checks 
+*** RIVER *** [7d 7h 9s 9d] [9h]
+D.Komarov: bets $0.46
+Lilfraz18: calls $0.46
+*** SHOW DOWN ***
+D.Komarov: shows [Jc 5c] (a full house, Nines full of Sevens)
+Lilfraz18: shows [Js 2d] (a full house, Nines full of Sevens)
+D.Komarov collected $0.67 from pot
+Lilfraz18 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [7d 7h 9s 9d 9h]
+Seat 1: EasySteavy (button) folded before Flop (didn't bet)
+Seat 2: D.Komarov (small blind) showed [Jc 5c] and won ($0.67) with a full house, Nines full of Sevens
+Seat 3: Lilfraz18 (big blind) showed [Js 2d] and won ($0.67) with a full house, Nines full of Sevens
+Seat 4: bone60 folded before Flop (didn't bet)
+Seat 5: Black021 folded before Flop (didn't bet)
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944282537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:40:03 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: EasySteavy ($19.77 in chips) 
+Seat 2: D.Komarov ($18.51 in chips) 
+Seat 3: Lilfraz18 ($5.58 in chips) 
+Seat 4: bone60 ($8.44 in chips) 
+Seat 5: Black021 ($10.15 in chips) 
+Seat 6: AvGeL ($15.23 in chips) 
+Lilfraz18: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+AvGeL: folds 
+EasySteavy: folds 
+D.Komarov: raises $0.14 to $0.24
+Lilfraz18: raises $0.14 to $0.38
+bone60: folds 
+D.Komarov: calls $0.14
+*** FLOP *** [7h 4h 4d]
+Lilfraz18: bets $0.10
+D.Komarov: calls $0.10
+*** TURN *** [7h 4h 4d] [3d]
+Lilfraz18: checks 
+D.Komarov: bets $0.61
+Lilfraz18: calls $0.61
+*** RIVER *** [7h 4h 4d 3d] [Tc]
+Lilfraz18: bets $4.49 and is all-in
+D.Komarov: folds 
+Uncalled bet ($4.49) returned to Lilfraz18
+Lilfraz18 collected $2.18 from pot
+Lilfraz18: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.10 
+Board [7h 4h 4d 3d Tc]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov (button) folded on the River
+Seat 3: Lilfraz18 (small blind) collected ($2.18)
+Seat 4: bone60 (big blind) folded before Flop
+Seat 5: Black021 folded before Flop (didn't bet)
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944315917:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:32 ET
+Table 'Phegeus II' 6-max Seat #3 is the button
+Seat 1: EasySteavy ($19.77 in chips) 
+Seat 2: D.Komarov ($17.42 in chips) 
+Seat 3: Lilfraz18 ($6.67 in chips) 
+Seat 4: bone60 ($8.34 in chips) 
+Seat 5: Black021 ($10.15 in chips) 
+Seat 6: AvGeL ($15.23 in chips) 
+bone60: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+EasySteavy: folds 
+D.Komarov: raises $0.14 to $0.24
+Lilfraz18: raises $0.14 to $0.38
+bone60: calls $0.33
+Black021: folds 
+D.Komarov: calls $0.14
+*** FLOP *** [8d 6d Td]
+bone60: checks 
+D.Komarov: checks 
+Lilfraz18: checks 
+*** TURN *** [8d 6d Td] [7s]
+bone60: checks 
+D.Komarov: checks 
+Lilfraz18: bets $1.18
+bone60: folds 
+D.Komarov has timed out
+D.Komarov: folds 
+Uncalled bet ($1.18) returned to Lilfraz18
+Lilfraz18 collected $1.18 from pot
+Lilfraz18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.06 
+Board [8d 6d Td 7s]
+Seat 1: EasySteavy folded before Flop (didn't bet)
+Seat 2: D.Komarov folded on the Turn
+Seat 3: Lilfraz18 (button) collected ($1.18)
+Seat 4: bone60 (small blind) folded on the Turn
+Seat 5: Black021 (big blind) folded before Flop
+Seat 6: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944348534:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:43:21 ET
+Table 'Phegeus II' 6-max Seat #4 is the button
+Seat 1: EasySteavy ($19.77 in chips) 
+Seat 2: D.Komarov ($17.04 in chips) 
+Seat 3: Lilfraz18 ($7.47 in chips) 
+Seat 4: bone60 ($7.96 in chips) 
+Seat 5: Black021 ($10.05 in chips) 
+Seat 6: AvGeL ($15.23 in chips) 
+Black021: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: raises $0.20 to $0.30
+D.Komarov: folds 
+Lilfraz18: calls $0.30
+bone60: folds 
+Black021: folds 
+AvGeL: folds 
+*** FLOP *** [Ac Qs 4c]
+EasySteavy: bets $0.36
+Lilfraz18: folds 
+Uncalled bet ($0.36) returned to EasySteavy
+EasySteavy collected $0.72 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ac Qs 4c]
+Seat 1: EasySteavy collected ($0.72)
+Seat 2: D.Komarov folded before Flop (didn't bet)
+Seat 3: Lilfraz18 folded on the Flop
+Seat 4: bone60 (button) folded before Flop (didn't bet)
+Seat 5: Black021 (small blind) folded before Flop
+Seat 6: AvGeL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944356261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:43:46 ET
+Table 'Phegeus II' 6-max Seat #5 is the button
+Seat 2: D.Komarov ($17.04 in chips) 
+Seat 3: Lilfraz18 ($7.17 in chips) 
+Seat 4: bone60 ($7.96 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Seat 6: AvGeL ($15.13 in chips) 
+AvGeL: posts small blind $0.05
+EasySteavy: is sitting out 
+D.Komarov: posts big blind $0.10
+*** HOLE CARDS ***
+Lilfraz18: raises $0.80 to $0.90
+EasySteavy leaves the table
+bone60: folds 
+TSA958 joins the table at seat #1 
+Black021: raises $1.60 to $2.50
+AvGeL: folds 
+D.Komarov: folds 
+Lilfraz18: raises $1.60 to $4.10
+Black021: raises $5.90 to $10 and is all-in
+Lilfraz18: calls $3.07 and is all-in
+Uncalled bet ($2.83) returned to Black021
+*** FLOP *** [2h Qh 9d]
+*** TURN *** [2h Qh 9d] [9c]
+*** RIVER *** [2h Qh 9d 9c] [4s]
+*** SHOW DOWN ***
+Lilfraz18: shows [Th Js] (a pair of Nines)
+Black021: shows [Qd Qs] (a full house, Queens full of Nines)
+Black021 collected $13.84 from pot
+*** SUMMARY ***
+Total pot $14.49 | Rake $0.65 
+Board [2h Qh 9d 9c 4s]
+Seat 2: D.Komarov (big blind) folded before Flop
+Seat 3: Lilfraz18 showed [Th Js] and lost with a pair of Nines
+Seat 4: bone60 folded before Flop (didn't bet)
+Seat 5: Black021 (button) showed [Qd Qs] and won ($13.84) with a full house, Queens full of Nines
+Seat 6: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944367164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:23 ET
+Table 'Phegeus II' 6-max Seat #6 is the button
+Seat 2: D.Komarov ($16.94 in chips) 
+Seat 4: bone60 ($7.96 in chips) 
+Seat 5: Black021 ($16.67 in chips) 
+Seat 6: AvGeL ($15.08 in chips) 
+D.Komarov: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: raises $0.15 to $0.25
+AvGeL: folds 
+D.Komarov: folds 
+Lilfraz18 leaves the table
+bone60: folds 
+Uncalled bet ($0.15) returned to Black021
+Black021 collected $0.25 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: D.Komarov (small blind) folded before Flop
+Seat 4: bone60 (big blind) folded before Flop
+Seat 5: Black021 collected ($0.25)
+Seat 6: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944370425:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:34 ET
+Table 'Phegeus II' 6-max Seat #2 is the button
+Seat 1: TSA958 ($10 in chips) 
+Seat 2: D.Komarov ($16.89 in chips) 
+Seat 4: bone60 ($7.86 in chips) 
+bone60: posts small blind $0.05
+Black021: is sitting out 
+AvGeL: is sitting out 
+TSA958: posts big blind $0.10
+*** HOLE CARDS ***
+Black021 leaves the table
+AvGeL leaves the table
+D.Komarov: folds 
+D.Komarov leaves the table
+bone60: raises $0.20 to $0.30
+TSA958: calls $0.20
+*** FLOP *** [6d 3h Ks]
+bone60: checks 
+TSA958: checks 
+*** TURN *** [6d 3h Ks] [Qs]
+bone60: checks 
+TSA958: checks 
+*** RIVER *** [6d 3h Ks Qs] [8h]
+bone60: bets $0.29
+TSA958: folds 
+Uncalled bet ($0.29) returned to bone60
+bone60 collected $0.57 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6d 3h Ks Qs 8h]
+Seat 1: TSA958 (big blind) folded on the River
+Seat 2: D.Komarov (button) folded before Flop (didn't bet)
+Seat 4: bone60 (small blind) collected ($0.57)
+
+
+

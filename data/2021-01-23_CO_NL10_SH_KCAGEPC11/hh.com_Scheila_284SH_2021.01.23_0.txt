@@ -1,0 +1,950 @@
+﻿PokerStars Hand #222953059681:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:12:05 ET
+Table 'Scheila III' 6-max Seat #1 is the button
+Seat 1: balisstica ($14.09 in chips) 
+Seat 2: utblade13 ($8.89 in chips) 
+Seat 3: Marsel89176 ($10 in chips) 
+Seat 4: luchom87 ($10.82 in chips) 
+Seat 5: Burlica2013 ($13.11 in chips) 
+utblade13: posts small blind $0.05
+Marsel89176: posts big blind $0.10
+*** HOLE CARDS ***
+luchom87: folds 
+Burlica2013: folds 
+balisstica: raises $0.15 to $0.25
+utblade13: folds 
+EES888 leaves the table
+Marsel89176: calls $0.15
+*** FLOP *** [9c Ad Ks]
+Marsel89176: checks 
+Antonio8812 joins the table at seat #6 
+balisstica: bets $0.17
+Marsel89176: folds 
+Uncalled bet ($0.17) returned to balisstica
+balisstica collected $0.53 from pot
+balisstica: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9c Ad Ks]
+Seat 1: balisstica (button) collected ($0.53)
+Seat 2: utblade13 (small blind) folded before Flop
+Seat 3: Marsel89176 (big blind) folded on the Flop
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953068175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:12:25 ET
+Table 'Scheila III' 6-max Seat #2 is the button
+Seat 1: balisstica ($14.37 in chips) 
+Seat 2: utblade13 ($8.84 in chips) 
+Seat 3: Marsel89176 ($10 in chips) 
+Seat 4: luchom87 ($10.82 in chips) 
+Seat 5: Burlica2013 ($13.11 in chips) 
+Marsel89176: posts small blind $0.05
+luchom87: posts big blind $0.10
+Antonio8812: sits out 
+*** HOLE CARDS ***
+Burlica2013: folds 
+balisstica: folds 
+utblade13: calls $0.10
+Marsel89176: raises $0.30 to $0.40
+luchom87: folds 
+utblade13: calls $0.30
+*** FLOP *** [2h Tc 6h]
+Marsel89176: bets $0.43
+utblade13: calls $0.43
+*** TURN *** [2h Tc 6h] [8c]
+Marsel89176: bets $1.26
+utblade13: calls $1.26
+*** RIVER *** [2h Tc 6h 8c] [Kd]
+Marsel89176: bets $3.07
+utblade13: folds 
+Uncalled bet ($3.07) returned to Marsel89176
+Marsel89176 collected $4.09 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.28 | Rake $0.19 
+Board [2h Tc 6h 8c Kd]
+Seat 1: balisstica folded before Flop (didn't bet)
+Seat 2: utblade13 (button) folded on the River
+Seat 3: Marsel89176 (small blind) collected ($4.09)
+Seat 4: luchom87 (big blind) folded before Flop
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953086616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:10 ET
+Table 'Scheila III' 6-max Seat #3 is the button
+Seat 1: balisstica ($14.37 in chips) 
+Seat 2: utblade13 ($6.75 in chips) 
+Seat 3: Marsel89176 ($12 in chips) 
+Seat 4: luchom87 ($10.72 in chips) 
+Seat 5: Burlica2013 ($13.11 in chips) 
+luchom87: posts small blind $0.05
+Burlica2013: posts big blind $0.10
+Antonio8812: sits out 
+*** HOLE CARDS ***
+balisstica: folds 
+utblade13: folds 
+Marsel89176: folds 
+luchom87: folds 
+Uncalled bet ($0.05) returned to Burlica2013
+Burlica2013 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: balisstica folded before Flop (didn't bet)
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 (button) folded before Flop (didn't bet)
+Seat 4: luchom87 (small blind) folded before Flop
+Seat 5: Burlica2013 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222953090589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:20 ET
+Table 'Scheila III' 6-max Seat #4 is the button
+Seat 1: balisstica ($14.37 in chips) 
+Seat 2: utblade13 ($6.75 in chips) 
+Seat 3: Marsel89176 ($12 in chips) 
+Seat 4: luchom87 ($10.67 in chips) 
+Seat 5: Burlica2013 ($13.16 in chips) 
+Seat 6: Antonio8812 ($10 in chips) 
+Burlica2013: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+utblade13: folds 
+Marsel89176: folds 
+luchom87: folds 
+Burlica2013: folds 
+Uncalled bet ($0.05) returned to Antonio8812
+Antonio8812 collected $0.10 from pot
+Antonio8812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: balisstica folded before Flop (didn't bet)
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 folded before Flop (didn't bet)
+Seat 4: luchom87 (button) folded before Flop (didn't bet)
+Seat 5: Burlica2013 (small blind) folded before Flop
+Seat 6: Antonio8812 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222953094365:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:29 ET
+Table 'Scheila III' 6-max Seat #5 is the button
+Seat 1: balisstica ($14.37 in chips) 
+Seat 2: utblade13 ($6.75 in chips) 
+Seat 3: Marsel89176 ($12 in chips) 
+Seat 4: luchom87 ($10.67 in chips) 
+Seat 5: Burlica2013 ($13.11 in chips) 
+Seat 6: Antonio8812 ($10.05 in chips) 
+Antonio8812: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+utblade13: calls $0.10
+Marsel89176: folds 
+luchom87: folds 
+Burlica2013: folds 
+Antonio8812: folds 
+balisstica: checks 
+*** FLOP *** [Kc 7c 5d]
+balisstica: checks 
+utblade13: bets $0.24
+balisstica: folds 
+Uncalled bet ($0.24) returned to utblade13
+utblade13 collected $0.24 from pot
+utblade13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kc 7c 5d]
+Seat 1: balisstica (big blind) folded on the Flop
+Seat 2: utblade13 collected ($0.24)
+Seat 3: Marsel89176 folded before Flop (didn't bet)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 6: Antonio8812 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953101354:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:46 ET
+Table 'Scheila III' 6-max Seat #6 is the button
+Seat 1: balisstica ($14.27 in chips) 
+Seat 2: utblade13 ($6.89 in chips) 
+Seat 3: Marsel89176 ($12 in chips) 
+Seat 4: luchom87 ($10.67 in chips) 
+Seat 5: Burlica2013 ($13.11 in chips) 
+Seat 6: Antonio8812 ($10 in chips) 
+balisstica: posts small blind $0.05
+utblade13: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel89176: folds 
+luchom87: folds 
+Burlica2013: raises $0.15 to $0.25
+Antonio8812: folds 
+balisstica: folds 
+utblade13: folds 
+Uncalled bet ($0.15) returned to Burlica2013
+Burlica2013 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: balisstica (small blind) folded before Flop
+Seat 2: utblade13 (big blind) folded before Flop
+Seat 3: Marsel89176 folded before Flop (didn't bet)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Burlica2013 collected ($0.25)
+Seat 6: Antonio8812 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953108159:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:14:02 ET
+Table 'Scheila III' 6-max Seat #1 is the button
+Seat 1: balisstica ($14.22 in chips) 
+Seat 2: utblade13 ($6.79 in chips) 
+Seat 3: Marsel89176 ($12 in chips) 
+Seat 4: luchom87 ($10.67 in chips) 
+Seat 5: Burlica2013 ($13.26 in chips) 
+Seat 6: Antonio8812 ($10 in chips) 
+utblade13: posts small blind $0.05
+Marsel89176: posts big blind $0.10
+*** HOLE CARDS ***
+luchom87: folds 
+Burlica2013: folds 
+Antonio8812: folds 
+balisstica: raises $0.15 to $0.25
+utblade13: folds 
+Marsel89176: raises $0.72 to $0.97
+balisstica: folds 
+Uncalled bet ($0.72) returned to Marsel89176
+Marsel89176 collected $0.55 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: balisstica (button) folded before Flop
+Seat 2: utblade13 (small blind) folded before Flop
+Seat 3: Marsel89176 (big blind) collected ($0.55)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953117153:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:14:24 ET
+Table 'Scheila III' 6-max Seat #2 is the button
+Seat 1: balisstica ($13.97 in chips) 
+Seat 2: utblade13 ($6.74 in chips) 
+Seat 3: Marsel89176 ($12.30 in chips) 
+Seat 4: luchom87 ($10.67 in chips) 
+Seat 5: Burlica2013 ($13.26 in chips) 
+Seat 6: Antonio8812 ($10 in chips) 
+Marsel89176: posts small blind $0.05
+luchom87: posts big blind $0.10
+*** HOLE CARDS ***
+Burlica2013: folds 
+Antonio8812: folds 
+balisstica: folds 
+utblade13: folds 
+Marsel89176: folds 
+Uncalled bet ($0.05) returned to luchom87
+luchom87 collected $0.10 from pot
+luchom87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: balisstica folded before Flop (didn't bet)
+Seat 2: utblade13 (button) folded before Flop (didn't bet)
+Seat 3: Marsel89176 (small blind) folded before Flop
+Seat 4: luchom87 (big blind) collected ($0.10)
+Seat 5: Burlica2013 folded before Flop (didn't bet)
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953122481:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:14:37 ET
+Table 'Scheila III' 6-max Seat #3 is the button
+Seat 1: balisstica ($13.97 in chips) 
+Seat 2: utblade13 ($6.74 in chips) 
+Seat 3: Marsel89176 ($12.25 in chips) 
+Seat 4: luchom87 ($10.72 in chips) 
+Seat 6: Antonio8812 ($10 in chips) 
+luchom87: posts small blind $0.05
+Burlica2013: is sitting out 
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+Burlica2013 leaves the table
+utblade13: calls $0.10
+Marsel89176: folds 
+fyodor917 joins the table at seat #5 
+luchom87: raises $0.40 to $0.50
+Antonio8812: folds 
+utblade13: calls $0.40
+*** FLOP *** [2s Tc Qc]
+luchom87: bets $0.37
+utblade13: calls $0.37
+*** TURN *** [2s Tc Qc] [Jc]
+luchom87: checks 
+utblade13: bets $0.88
+luchom87: folds 
+Uncalled bet ($0.88) returned to utblade13
+utblade13 collected $1.76 from pot
+utblade13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.08 
+Board [2s Tc Qc Jc]
+Seat 1: balisstica folded before Flop (didn't bet)
+Seat 2: utblade13 collected ($1.76)
+Seat 3: Marsel89176 (button) folded before Flop (didn't bet)
+Seat 4: luchom87 (small blind) folded on the Turn
+Seat 6: Antonio8812 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953139340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:15:18 ET
+Table 'Scheila III' 6-max Seat #4 is the button
+Seat 2: utblade13 ($7.63 in chips) 
+Seat 3: Marsel89176 ($12.25 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 6: Antonio8812 ($10 in chips) 
+Antonio8812: posts small blind $0.05
+balisstica: is sitting out 
+utblade13: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel89176: folds 
+balisstica leaves the table
+luchom87: folds 
+Antonio8812: raises $0.20 to $0.30
+utblade13: folds 
+Uncalled bet ($0.20) returned to Antonio8812
+Antonio8812 collected $0.20 from pot
+Antonio8812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: utblade13 (big blind) folded before Flop
+Seat 3: Marsel89176 folded before Flop (didn't bet)
+Seat 4: luchom87 (button) folded before Flop (didn't bet)
+Seat 6: Antonio8812 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222953146304:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:15:35 ET
+Table 'Scheila III' 6-max Seat #6 is the button
+Seat 2: utblade13 ($7.53 in chips) 
+Seat 3: Marsel89176 ($12.25 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 6: Antonio8812 ($10.10 in chips) 
+utblade13: posts small blind $0.05
+Marsel89176: posts big blind $0.10
+fyodor917: sits out 
+*** HOLE CARDS ***
+kilativ7 joins the table at seat #1 
+luchom87: folds 
+Antonio8812: raises $0.20 to $0.30
+utblade13: folds 
+Marsel89176: calls $0.20
+*** FLOP *** [Ac Jc Kh]
+Marsel89176: checks 
+Antonio8812: checks 
+*** TURN *** [Ac Jc Kh] [Tc]
+Marsel89176: checks 
+Antonio8812: checks 
+*** RIVER *** [Ac Jc Kh Tc] [Th]
+Marsel89176: bets $0.31
+Antonio8812: calls $0.31
+*** SHOW DOWN ***
+Marsel89176: shows [Qd Td] (a straight, Ten to Ace)
+Antonio8812: shows [Kd Ts] (a full house, Tens full of Kings)
+Antonio8812 collected $1.21 from pot
+fyodor917 leaves the table
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [Ac Jc Kh Tc Th]
+Seat 2: utblade13 (small blind) folded before Flop
+Seat 3: Marsel89176 (big blind) showed [Qd Td] and lost with a straight, Ten to Ace
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 6: Antonio8812 (button) showed [Kd Ts] and won ($1.21) with a full house, Tens full of Kings
+
+
+
+PokerStars Hand #222953158522:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:04 ET
+Table 'Scheila III' 6-max Seat #2 is the button
+Seat 2: utblade13 ($7.48 in chips) 
+Seat 3: Marsel89176 ($11.64 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+Marsel89176: posts small blind $0.05
+luchom87: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+Antonio8812: folds 
+utblade13: folds 
+Marsel89176: raises $0.20 to $0.30
+luchom87: folds 
+Uncalled bet ($0.20) returned to Marsel89176
+Viten'kA83 joins the table at seat #5 
+Marsel89176 collected $0.20 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: utblade13 (button) folded before Flop (didn't bet)
+Seat 3: Marsel89176 (small blind) collected ($0.20)
+Seat 4: luchom87 (big blind) folded before Flop
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953162130:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:13 ET
+Table 'Scheila III' 6-max Seat #3 is the button
+Seat 2: utblade13 ($7.48 in chips) 
+Seat 3: Marsel89176 ($11.74 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+luchom87: posts small blind $0.05
+Viten'kA83: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+Antonio8812: raises $0.20 to $0.30
+utblade13: folds 
+Marsel89176: folds 
+luchom87: folds 
+Viten'kA83: folds 
+Uncalled bet ($0.20) returned to Antonio8812
+Antonio8812 collected $0.25 from pot
+Antonio8812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 (button) folded before Flop (didn't bet)
+Seat 4: luchom87 (small blind) folded before Flop
+Seat 5: Viten'kA83 (big blind) folded before Flop
+Seat 6: Antonio8812 collected ($0.25)
+
+
+
+PokerStars Hand #222953167012:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:25 ET
+Table 'Scheila III' 6-max Seat #4 is the button
+Seat 2: utblade13 ($7.48 in chips) 
+Seat 3: Marsel89176 ($11.74 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10 in chips) 
+Seat 6: Antonio8812 ($10.85 in chips) 
+Viten'kA83: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+utblade13: folds 
+Marsel89176: raises $0.20 to $0.30
+luchom87: folds 
+Viten'kA83: folds 
+Antonio8812: folds 
+Uncalled bet ($0.20) returned to Marsel89176
+Marsel89176 collected $0.25 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 collected ($0.25)
+Seat 4: luchom87 (button) folded before Flop (didn't bet)
+Seat 5: Viten'kA83 (small blind) folded before Flop
+Seat 6: Antonio8812 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953173239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:40 ET
+Table 'Scheila III' 6-max Seat #5 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($7.48 in chips) 
+Seat 3: Marsel89176 ($11.89 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10 in chips) 
+Seat 6: Antonio8812 ($10.75 in chips) 
+Antonio8812: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+utblade13: folds 
+Marsel89176: folds 
+luchom87: folds 
+Viten'kA83: raises $0.15 to $0.25
+Antonio8812: folds 
+kilativ7: calls $0.15
+*** FLOP *** [Ac 4s 6s]
+kilativ7: checks 
+Viten'kA83: bets $0.27
+kilativ7: folds 
+Uncalled bet ($0.27) returned to Viten'kA83
+Viten'kA83 collected $0.53 from pot
+Viten'kA83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ac 4s 6s]
+Seat 1: kilativ7 (big blind) folded on the Flop
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 folded before Flop (didn't bet)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Viten'kA83 (button) collected ($0.53)
+Seat 6: Antonio8812 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953182832:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:03 ET
+Table 'Scheila III' 6-max Seat #6 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($7.48 in chips) 
+Seat 3: Marsel89176 ($11.89 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10.28 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+kilativ7: posts small blind $0.05
+utblade13: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel89176: raises $0.20 to $0.30
+luchom87: folds 
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: folds 
+Uncalled bet ($0.20) returned to Marsel89176
+Marsel89176 collected $0.25 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kilativ7 (small blind) folded before Flop
+Seat 2: utblade13 (big blind) folded before Flop
+Seat 3: Marsel89176 collected ($0.25)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953186255:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:11 ET
+Table 'Scheila III' 6-max Seat #1 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($7.38 in chips) 
+Seat 3: Marsel89176 ($12.04 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10.28 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+utblade13: posts small blind $0.05
+Marsel89176: posts big blind $0.10
+*** HOLE CARDS ***
+luchom87: folds 
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: folds 
+Uncalled bet ($0.05) returned to Marsel89176
+Marsel89176 collected $0.10 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: kilativ7 (button) folded before Flop (didn't bet)
+Seat 2: utblade13 (small blind) folded before Flop
+Seat 3: Marsel89176 (big blind) collected ($0.10)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953190534:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:21 ET
+Table 'Scheila III' 6-max Seat #2 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($7.33 in chips) 
+Seat 3: Marsel89176 ($12.09 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10.28 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+Marsel89176: posts small blind $0.05
+luchom87: posts big blind $0.10
+*** HOLE CARDS ***
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: calls $0.10
+Marsel89176: raises $0.30 to $0.40
+luchom87: folds 
+utblade13: calls $0.30
+*** FLOP *** [Qs 5h 3d]
+Marsel89176: checks 
+utblade13: checks 
+*** TURN *** [Qs 5h 3d] [Ah]
+Marsel89176: bets $0.43
+utblade13: folds 
+Uncalled bet ($0.43) returned to Marsel89176
+Marsel89176 collected $0.86 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Qs 5h 3d Ah]
+Seat 1: kilativ7 folded before Flop (didn't bet)
+Seat 2: utblade13 (button) folded on the Turn
+Seat 3: Marsel89176 (small blind) collected ($0.86)
+Seat 4: luchom87 (big blind) folded before Flop
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953202661:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:50 ET
+Table 'Scheila III' 6-max Seat #3 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($6.93 in chips) 
+Seat 3: Marsel89176 ($12.55 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10.28 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+luchom87: posts small blind $0.05
+Viten'kA83: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: folds 
+Marsel89176: raises $0.15 to $0.25
+luchom87: folds 
+Viten'kA83: folds 
+Uncalled bet ($0.15) returned to Marsel89176
+Marsel89176 collected $0.25 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kilativ7 folded before Flop (didn't bet)
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 (button) collected ($0.25)
+Seat 4: luchom87 (small blind) folded before Flop
+Seat 5: Viten'kA83 (big blind) folded before Flop
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953208404:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:18:04 ET
+Table 'Scheila III' 6-max Seat #4 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($6.93 in chips) 
+Seat 3: Marsel89176 ($12.70 in chips) 
+Seat 4: luchom87 ($10 in chips) 
+Seat 5: Viten'kA83 ($10.18 in chips) 
+Seat 6: Antonio8812 ($10.70 in chips) 
+Viten'kA83: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+utblade13: calls $0.10
+Marsel89176: folds 
+luchom87: raises $0.40 to $0.50
+Viten'kA83: folds 
+Antonio8812: folds 
+utblade13: folds 
+Uncalled bet ($0.40) returned to luchom87
+luchom87 collected $0.35 from pot
+luchom87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: kilativ7 folded before Flop (didn't bet)
+Seat 2: utblade13 folded before Flop
+Seat 3: Marsel89176 folded before Flop (didn't bet)
+Seat 4: luchom87 (button) collected ($0.35)
+Seat 5: Viten'kA83 (small blind) folded before Flop
+Seat 6: Antonio8812 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953218264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:18:27 ET
+Table 'Scheila III' 6-max Seat #5 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($6.83 in chips) 
+Seat 3: Marsel89176 ($12.70 in chips) 
+Seat 4: luchom87 ($10.25 in chips) 
+Seat 5: Viten'kA83 ($10.13 in chips) 
+Seat 6: Antonio8812 ($10.60 in chips) 
+Antonio8812: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+utblade13: folds 
+Marsel89176: raises $0.20 to $0.30
+luchom87: folds 
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: folds 
+Uncalled bet ($0.20) returned to Marsel89176
+Marsel89176 collected $0.25 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kilativ7 (big blind) folded before Flop
+Seat 2: utblade13 folded before Flop (didn't bet)
+Seat 3: Marsel89176 collected ($0.25)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Viten'kA83 (button) folded before Flop (didn't bet)
+Seat 6: Antonio8812 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953230247:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:18:56 ET
+Table 'Scheila III' 6-max Seat #6 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($6.83 in chips) 
+Seat 3: Marsel89176 ($12.85 in chips) 
+Seat 4: luchom87 ($10.25 in chips) 
+Seat 5: Viten'kA83 ($10.13 in chips) 
+Seat 6: Antonio8812 ($10.55 in chips) 
+kilativ7: posts small blind $0.05
+utblade13: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel89176: raises $0.20 to $0.30
+luchom87: folds 
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: folds 
+Uncalled bet ($0.20) returned to Marsel89176
+Marsel89176 collected $0.25 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kilativ7 (small blind) folded before Flop
+Seat 2: utblade13 (big blind) folded before Flop
+Seat 3: Marsel89176 collected ($0.25)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953233348:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:19:03 ET
+Table 'Scheila III' 6-max Seat #1 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($6.73 in chips) 
+Seat 3: Marsel89176 ($13 in chips) 
+Seat 4: luchom87 ($10.25 in chips) 
+Seat 5: Viten'kA83 ($10.13 in chips) 
+Seat 6: Antonio8812 ($10.55 in chips) 
+utblade13: posts small blind $0.05
+Marsel89176: posts big blind $0.10
+*** HOLE CARDS ***
+luchom87 has timed out
+luchom87: folds 
+Viten'kA83: folds 
+Antonio8812: raises $0.20 to $0.30
+kilativ7: folds 
+utblade13: folds 
+Marsel89176: calls $0.20
+*** FLOP *** [9s Qc 8h]
+Marsel89176: checks 
+Antonio8812: checks 
+*** TURN *** [9s Qc 8h] [Th]
+Marsel89176: bets $0.31
+Antonio8812: folds 
+Uncalled bet ($0.31) returned to Marsel89176
+Marsel89176 collected $0.62 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9s Qc 8h Th]
+Seat 1: kilativ7 (button) folded before Flop (didn't bet)
+Seat 2: utblade13 (small blind) folded before Flop
+Seat 3: Marsel89176 (big blind) collected ($0.62)
+Seat 4: luchom87 folded before Flop (didn't bet)
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 folded on the Turn
+
+
+
+PokerStars Hand #222953246605:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:19:35 ET
+Table 'Scheila III' 6-max Seat #2 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 2: utblade13 ($6.68 in chips) 
+Seat 3: Marsel89176 ($13.32 in chips) 
+Seat 4: luchom87 ($10.25 in chips) 
+Seat 5: Viten'kA83 ($10.13 in chips) 
+Seat 6: Antonio8812 ($10.25 in chips) 
+Marsel89176: posts small blind $0.05
+luchom87: posts big blind $0.10
+*** HOLE CARDS ***
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: raises $0.15 to $0.25
+utblade13: folds 
+Marsel89176: folds 
+luchom87: folds 
+Uncalled bet ($0.15) returned to kilativ7
+kilativ7 collected $0.25 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kilativ7 collected ($0.25)
+Seat 2: utblade13 (button) folded before Flop (didn't bet)
+Seat 3: Marsel89176 (small blind) folded before Flop
+Seat 4: luchom87 (big blind) folded before Flop
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953253531:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:19:51 ET
+Table 'Scheila III' 6-max Seat #3 is the button
+Seat 1: kilativ7 ($10.15 in chips) 
+Seat 2: utblade13 ($6.68 in chips) 
+Seat 3: Marsel89176 ($13.27 in chips) 
+Seat 4: luchom87 ($10.15 in chips) 
+Seat 5: Viten'kA83 ($10.13 in chips) 
+Seat 6: Antonio8812 ($10.25 in chips) 
+luchom87: posts small blind $0.05
+Viten'kA83: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: calls $0.10
+Marsel89176: raises $0.35 to $0.45
+luchom87: folds 
+Viten'kA83: folds 
+utblade13: calls $0.35
+*** FLOP *** [4h 8h 8c]
+utblade13: checks 
+Marsel89176: bets $0.50
+utblade13: calls $0.50
+*** TURN *** [4h 8h 8c] [Ad]
+utblade13: checks 
+Marsel89176: checks 
+*** RIVER *** [4h 8h 8c Ad] [3h]
+luchom87 was removed from the table for failing to post
+luchom87 leaves the table
+utblade13: bets $0.98
+Marsel89176: calls $0.98
+*** SHOW DOWN ***
+utblade13: shows [Ah 9d] (two pair, Aces and Eights)
+Marsel89176: mucks hand 
+utblade13 collected $3.83 from pot
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.18 
+Board [4h 8h 8c Ad 3h]
+Seat 1: kilativ7 folded before Flop (didn't bet)
+Seat 2: utblade13 showed [Ah 9d] and won ($3.83) with two pair, Aces and Eights
+Seat 3: Marsel89176 (button) mucked
+Seat 4: luchom87 (small blind) folded before Flop
+Seat 5: Viten'kA83 (big blind) folded before Flop
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953268462:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:26 ET
+Table 'Scheila III' 6-max Seat #5 is the button
+Seat 1: kilativ7 ($10.15 in chips) 
+Seat 2: utblade13 ($8.58 in chips) 
+Seat 3: Marsel89176 ($11.34 in chips) 
+Seat 5: Viten'kA83 ($10.03 in chips) 
+Seat 6: Antonio8812 ($10.25 in chips) 
+Antonio8812: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+utblade13: calls $0.10
+Marsel89176: raises $0.35 to $0.45
+Viten'kA83: folds 
+Antonio8812: folds 
+kilativ7: folds 
+utblade13: calls $0.35
+*** FLOP *** [Kh 8h 7d]
+utblade13: checks 
+Marsel89176: bets $0.50
+utblade13: folds 
+Uncalled bet ($0.50) returned to Marsel89176
+Marsel89176 collected $1 from pot
+Marsel89176: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Kh 8h 7d]
+Seat 1: kilativ7 (big blind) folded before Flop
+Seat 2: utblade13 folded on the Flop
+Seat 3: Marsel89176 collected ($1)
+Seat 5: Viten'kA83 (button) folded before Flop (didn't bet)
+Seat 6: Antonio8812 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953276695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:45 ET
+Table 'Scheila III' 6-max Seat #6 is the button
+Seat 1: kilativ7 ($10.05 in chips) 
+Seat 3: Marsel89176 ($11.89 in chips) 
+Seat 5: Viten'kA83 ($10.03 in chips) 
+Seat 6: Antonio8812 ($10.20 in chips) 
+kilativ7: posts small blind $0.05
+Marsel89176: posts big blind $0.10
+*** HOLE CARDS ***
+Viten'kA83: folds 
+Antonio8812: raises $0.20 to $0.30
+kilativ7: folds 
+Marsel89176: folds 
+Uncalled bet ($0.20) returned to Antonio8812
+Antonio8812 collected $0.25 from pot
+Antonio8812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kilativ7 (small blind) folded before Flop
+Seat 3: Marsel89176 (big blind) folded before Flop
+Seat 5: Viten'kA83 folded before Flop (didn't bet)
+Seat 6: Antonio8812 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222953280116:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:53 ET
+Table 'Scheila III' 6-max Seat #1 is the button
+Seat 1: kilativ7 ($10 in chips) 
+Seat 3: Marsel89176 ($11.79 in chips) 
+Seat 5: Viten'kA83 ($10.03 in chips) 
+Seat 6: Antonio8812 ($10.35 in chips) 
+Marsel89176: posts small blind $0.05
+Viten'kA83: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+kilativ7: folds 
+Marsel89176: folds 
+Uncalled bet ($0.05) returned to Viten'kA83
+Viten'kA83 collected $0.10 from pot
+Viten'kA83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Marsel89176 (small blind) folded before Flop
+Seat 5: Viten'kA83 (big blind) collected ($0.10)
+Seat 6: Antonio8812 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953283389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:21:01 ET
+Table 'Scheila III' 6-max Seat #5 is the button
+Seat 3: Marsel89176 ($11.74 in chips) 
+Seat 5: Viten'kA83 ($10.08 in chips) 
+Viten'kA83: posts small blind $0.05
+Antonio8812: is sitting out 
+kilativ7: is sitting out 
+Marsel89176: posts big blind $0.10
+*** HOLE CARDS ***
+Viten'kA83: folds 
+Uncalled bet ($0.05) returned to Marsel89176
+Marsel89176 collected $0.10 from pot
+Marsel89176: doesn't show hand 
+kilativ7 leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Marsel89176 (big blind) collected ($0.10)
+Seat 5: Viten'kA83 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953285489:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:21:06 ET
+Table 'Scheila III' 6-max Seat #3 is the button
+Seat 3: Marsel89176 ($11.79 in chips) 
+Seat 5: Viten'kA83 ($10.03 in chips) 
+Marsel89176: posts small blind $0.05
+Viten'kA83: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel89176: folds 
+Uncalled bet ($0.05) returned to Viten'kA83
+Viten'kA83 collected $0.10 from pot
+Viten'kA83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Marsel89176 (button) (small blind) folded before Flop
+Seat 5: Viten'kA83 (big blind) collected ($0.10)
+
+
+

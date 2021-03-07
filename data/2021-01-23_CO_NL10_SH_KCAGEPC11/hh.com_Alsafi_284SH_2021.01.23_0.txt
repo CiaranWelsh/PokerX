@@ -1,0 +1,5077 @@
+﻿PokerStars Hand #222954949879:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:21:50 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€10.52 in chips) 
+Seat 2: dinamic963 (€14.29 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: Laci24128 (€10.91 in chips) 
+Seat 5: tobi3107 (€7.44 in chips) 
+Seat 6: Poelidor (€5.23 in chips) 
+dinamic963: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+Laci24128: folds 
+tobi3107: raises €0.20 to €0.30
+Poelidor: folds 
+Ck_wils: folds 
+dinamic963: folds 
+electrobox: folds 
+Uncalled bet (€0.20) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: dinamic963 (small blind) folded before Flop
+Seat 3: electrobox (big blind) folded before Flop
+Seat 4: Laci24128 folded before Flop (didn't bet)
+Seat 5: tobi3107 collected (€0.25)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954958411:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:22:07 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€10.52 in chips) 
+Seat 2: dinamic963 (€14.24 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: Laci24128 (€10.91 in chips) 
+Seat 5: tobi3107 (€7.59 in chips) 
+Seat 6: Poelidor (€5.23 in chips) 
+electrobox: posts small blind €0.05
+Laci24128: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: folds 
+Poelidor: folds 
+Ck_wils: raises €0.20 to €0.30
+dinamic963: calls €0.30
+electrobox: folds 
+Laci24128: folds 
+*** FLOP *** [Kc 6h 5d]
+Ck_wils: bets €0.40
+dinamic963: folds 
+Uncalled bet (€0.40) returned to Ck_wils
+Ck_wils collected €0.72 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [Kc 6h 5d]
+Seat 1: Ck_wils collected (€0.72)
+Seat 2: dinamic963 (button) folded on the Flop
+Seat 3: electrobox (small blind) folded before Flop
+Seat 4: Laci24128 (big blind) folded before Flop
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954969887:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:22:29 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€10.94 in chips) 
+Seat 2: dinamic963 (€13.94 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: Laci24128 (€10.81 in chips) 
+Seat 5: tobi3107 (€7.59 in chips) 
+Seat 6: Poelidor (€5.23 in chips) 
+Laci24128: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Poelidor: folds 
+Ck_wils: folds 
+dinamic963: folds 
+electrobox: raises €0.20 to €0.30
+Laci24128: folds 
+tobi3107: calls €0.20
+*** FLOP *** [Jh 3c 7s]
+tobi3107: checks 
+electrobox: bets €0.20
+tobi3107: folds 
+Uncalled bet (€0.20) returned to electrobox
+electrobox collected €0.62 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [Jh 3c 7s]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: dinamic963 folded before Flop (didn't bet)
+Seat 3: electrobox (button) collected (€0.62)
+Seat 4: Laci24128 (small blind) folded before Flop
+Seat 5: tobi3107 (big blind) folded on the Flop
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954983261:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:22:56 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€10.94 in chips) 
+Seat 2: dinamic963 (€13.94 in chips) 
+Seat 3: electrobox (€10.32 in chips) 
+Seat 4: Laci24128 (€10.76 in chips) 
+Seat 5: tobi3107 (€7.29 in chips) 
+Seat 6: Poelidor (€5.23 in chips) 
+tobi3107: posts small blind €0.05
+Poelidor: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+dinamic963: folds 
+electrobox: raises €0.20 to €0.30
+Laci24128: folds 
+tobi3107: folds 
+Poelidor: folds 
+Uncalled bet (€0.20) returned to electrobox
+electrobox collected €0.25 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: dinamic963 folded before Flop (didn't bet)
+Seat 3: electrobox collected (€0.25)
+Seat 4: Laci24128 (button) folded before Flop (didn't bet)
+Seat 5: tobi3107 (small blind) folded before Flop
+Seat 6: Poelidor (big blind) folded before Flop
+
+
+
+PokerStars Hand #222954992215:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:23:14 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€10.94 in chips) 
+Seat 2: dinamic963 (€13.94 in chips) 
+Seat 3: electrobox (€10.47 in chips) 
+Seat 4: Laci24128 (€10.76 in chips) 
+Seat 5: tobi3107 (€7.24 in chips) 
+Seat 6: Poelidor (€5.13 in chips) 
+Poelidor: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+dinamic963: calls €0.10
+electrobox: folds 
+Laci24128 has timed out
+Laci24128: folds 
+tobi3107: folds 
+Poelidor: calls €0.05
+Ck_wils: checks 
+*** FLOP *** [Kd 4c 6d]
+Poelidor: bets €0.30
+Ck_wils: folds 
+dinamic963: calls €0.30
+*** TURN *** [Kd 4c 6d] [5h]
+Poelidor: bets €0.40
+dinamic963: calls €0.40
+*** RIVER *** [Kd 4c 6d 5h] [Qc]
+Poelidor: bets €1.60
+dinamic963: calls €1.60
+*** SHOW DOWN ***
+Poelidor: shows [Ks 5d] (two pair, Kings and Fives)
+dinamic963: mucks hand 
+Poelidor collected €4.68 from pot
+*** SUMMARY ***
+Total pot €4.90 | Rake €0.22 
+Board [Kd 4c 6d 5h Qc]
+Seat 1: Ck_wils (big blind) folded on the Flop
+Seat 2: dinamic963 mucked
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: Laci24128 folded before Flop (didn't bet)
+Seat 5: tobi3107 (button) folded before Flop (didn't bet)
+Seat 6: Poelidor (small blind) showed [Ks 5d] and won (€4.68) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #222955019836:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:24:09 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€10.84 in chips) 
+Seat 2: dinamic963 (€11.54 in chips) 
+Seat 3: electrobox (€10.47 in chips) 
+Seat 4: Laci24128 (€10.76 in chips) 
+Seat 5: tobi3107 (€7.24 in chips) 
+Seat 6: Poelidor (€7.41 in chips) 
+Ck_wils: posts small blind €0.05
+dinamic963: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: raises €0.20 to €0.30
+Laci24128 has timed out
+Laci24128: folds 
+tobi3107: folds 
+Poelidor: folds 
+Ck_wils: folds 
+dinamic963: folds 
+Uncalled bet (€0.20) returned to electrobox
+dinamic963 leaves the table
+electrobox collected €0.25 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: dinamic963 (big blind) folded before Flop
+Seat 3: electrobox collected (€0.25)
+Seat 4: Laci24128 folded before Flop (didn't bet)
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955032642:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:24:35 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€10.79 in chips) 
+Seat 3: electrobox (€10.62 in chips) 
+Seat 5: tobi3107 (€7.24 in chips) 
+Seat 6: Poelidor (€7.41 in chips) 
+electrobox: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Poelidor: calls €0.10
+Laci24128 leaves the table
+buranela joins the table at seat #2 
+Ck_wils: folds 
+electrobox: raises €0.40 to €0.50
+tobi3107: folds 
+Poelidor: folds 
+Uncalled bet (€0.40) returned to electrobox
+electrobox collected €0.30 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 3: electrobox (small blind) collected (€0.30)
+Seat 5: tobi3107 (big blind) folded before Flop
+Seat 6: Poelidor folded before Flop
+
+
+
+PokerStars Hand #222955045529:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:25:01 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€10.79 in chips) 
+Seat 3: electrobox (€10.82 in chips) 
+Seat 5: tobi3107 (€7.14 in chips) 
+Seat 6: Poelidor (€7.31 in chips) 
+tobi3107: posts small blind €0.05
+Poelidor: posts big blind €0.10
+buranela: sits out 
+*** HOLE CARDS ***
+petrovichkag joins the table at seat #4 
+Ck_wils: folds 
+electrobox: folds 
+tobi3107: folds 
+Uncalled bet (€0.05) returned to Poelidor
+Poelidor collected €0.10 from pot
+Poelidor: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 3: electrobox (button) folded before Flop (didn't bet)
+Seat 5: tobi3107 (small blind) folded before Flop
+Seat 6: Poelidor (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222955050782:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:25:12 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€10.79 in chips) 
+Seat 3: electrobox (€10.82 in chips) 
+Seat 5: tobi3107 (€7.09 in chips) 
+Seat 6: Poelidor (€7.36 in chips) 
+Poelidor: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+buranela: sits out 
+petrovichkag: sits out 
+*** HOLE CARDS ***
+electrobox: raises €0.20 to €0.30
+tobi3107: folds 
+Poelidor: folds 
+Ck_wils: calls €0.20
+*** FLOP *** [6c 4c 8d]
+Ck_wils: checks 
+electrobox: bets €0.30
+Ck_wils: calls €0.30
+*** TURN *** [6c 4c 8d] [2h]
+Ck_wils: checks 
+electrobox: checks 
+*** RIVER *** [6c 4c 8d 2h] [Kh]
+Ck_wils: checks 
+electrobox: checks 
+*** SHOW DOWN ***
+Ck_wils: shows [6s 6d] (three of a kind, Sixes)
+electrobox: mucks hand 
+Ck_wils collected €1.19 from pot
+*** SUMMARY ***
+Total pot €1.25 | Rake €0.06 
+Board [6c 4c 8d 2h Kh]
+Seat 1: Ck_wils (big blind) showed [6s 6d] and won (€1.19) with three of a kind, Sixes
+Seat 3: electrobox mucked
+Seat 5: tobi3107 (button) folded before Flop (didn't bet)
+Seat 6: Poelidor (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955079190:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:26:09 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€11.38 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.22 in chips) 
+Seat 5: tobi3107 (€7.09 in chips) 
+Seat 6: Poelidor (€7.31 in chips) 
+Ck_wils: posts small blind €0.05
+buranela: posts big blind €0.10
+petrovichkag: sits out 
+*** HOLE CARDS ***
+electrobox: folds 
+tobi3107: raises €0.10 to €0.20
+Poelidor: folds 
+Ck_wils: calls €0.15
+buranela: folds 
+*** FLOP *** [Ah 2h Kd]
+Ck_wils: checks 
+tobi3107: bets €0.20
+Ck_wils: calls €0.20
+*** TURN *** [Ah 2h Kd] [Ks]
+Ck_wils: checks 
+tobi3107: bets €0.40
+Ck_wils: calls €0.40
+*** RIVER *** [Ah 2h Kd Ks] [6s]
+Ck_wils: checks 
+tobi3107: checks 
+*** SHOW DOWN ***
+Ck_wils: shows [Th Jh] (a pair of Kings)
+tobi3107: shows [6c Ac] (two pair, Aces and Kings)
+tobi3107 collected €1.62 from pot
+*** SUMMARY ***
+Total pot €1.70 | Rake €0.08 
+Board [Ah 2h Kd Ks 6s]
+Seat 1: Ck_wils (small blind) showed [Th Jh] and lost with a pair of Kings
+Seat 2: buranela (big blind) folded before Flop
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 5: tobi3107 showed [6c Ac] and won (€1.62) with two pair, Aces and Kings
+Seat 6: Poelidor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955095761:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:26:43 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€10.58 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.22 in chips) 
+Seat 5: tobi3107 (€7.91 in chips) 
+Seat 6: Poelidor (€7.31 in chips) 
+buranela: posts small blind €0.05
+electrobox: posts big blind €0.10
+petrovichkag: sits out 
+*** HOLE CARDS ***
+tobi3107: raises €0.20 to €0.30
+Poelidor: folds 
+Ck_wils: folds 
+buranela: folds 
+electrobox: folds 
+Uncalled bet (€0.20) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: buranela (small blind) folded before Flop
+Seat 3: electrobox (big blind) folded before Flop
+Seat 5: tobi3107 collected (€0.25)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955106221:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:27:04 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€10.58 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.12 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 5: tobi3107 (€8.06 in chips) 
+Seat 6: Poelidor (€7.31 in chips) 
+electrobox: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: raises €0.10 to €0.20
+Poelidor: folds 
+Ck_wils: folds 
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+Uncalled bet (€0.10) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 3: electrobox (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: tobi3107 collected (€0.25)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955110502:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:27:13 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€10.58 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.07 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 5: tobi3107 (€8.21 in chips) 
+Seat 6: Poelidor (€7.31 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Poelidor: folds 
+Ck_wils: raises €0.20 to €0.30
+buranela: folds 
+electrobox: calls €0.30
+petrovichkag: raises €1.20 to €1.50
+tobi3107: folds 
+Ck_wils: folds 
+electrobox: folds 
+Uncalled bet (€1.20) returned to petrovichkag
+petrovichkag collected €1 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €1 | Rake €0 
+Seat 1: Ck_wils folded before Flop
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox (button) folded before Flop
+Seat 4: petrovichkag (small blind) collected (€1)
+Seat 5: tobi3107 (big blind) folded before Flop
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955128221:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:27:49 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€10.28 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: petrovichkag (€10.70 in chips) 
+Seat 5: tobi3107 (€8.11 in chips) 
+Seat 6: Poelidor (€7.31 in chips) 
+tobi3107: posts small blind €0.05
+Poelidor: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: raises €0.20 to €0.30
+buranela: folds 
+electrobox: raises €0.70 to €1
+petrovichkag: folds 
+tobi3107: folds 
+Poelidor: folds 
+Ck_wils: calls €0.70
+*** FLOP *** [3c 8h 6d]
+Ck_wils: checks 
+electrobox: bets €0.68
+Ck_wils: calls €0.68
+*** TURN *** [3c 8h 6d] [Tc]
+Ck_wils: checks 
+electrobox: bets €2.20
+Ck_wils: folds 
+Uncalled bet (€2.20) returned to electrobox
+electrobox collected €3.35 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.51 | Rake €0.16 
+Board [3c 8h 6d Tc]
+Seat 1: Ck_wils folded on the Turn
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox collected (€3.35)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: tobi3107 (small blind) folded before Flop
+Seat 6: Poelidor (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955164932:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:28:50 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€8.60 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€11.67 in chips) 
+Seat 4: petrovichkag (€10.70 in chips) 
+Seat 5: tobi3107 (€8.06 in chips) 
+Seat 6: Poelidor (€7.21 in chips) 
+Poelidor: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: calls €0.10
+Poelidor: calls €0.05
+Ck_wils: checks 
+*** FLOP *** [9d 4c 9c]
+Poelidor: checks 
+Ck_wils: checks 
+tobi3107: checks 
+*** TURN *** [9d 4c 9c] [7d]
+Poelidor: bets €0.10
+Ck_wils: calls €0.10
+tobi3107: folds 
+*** RIVER *** [9d 4c 9c 7d] [6s]
+Poelidor: checks 
+Ck_wils: checks 
+*** SHOW DOWN ***
+Poelidor: shows [Qd 9h] (three of a kind, Nines)
+Ck_wils: mucks hand 
+Poelidor collected €0.48 from pot
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02 
+Board [9d 4c 9c 7d 6s]
+Seat 1: Ck_wils (big blind) mucked
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 (button) folded on the Turn
+Seat 6: Poelidor (small blind) showed [Qd 9h] and won (€0.48) with three of a kind, Nines
+
+
+
+PokerStars Hand #222955193416:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:29:47 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€8.40 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€11.67 in chips) 
+Seat 4: petrovichkag (€10.70 in chips) 
+Seat 5: tobi3107 (€7.96 in chips) 
+Seat 6: Poelidor (€7.49 in chips) 
+Ck_wils: posts small blind €0.05
+buranela: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: raises €0.10 to €0.20
+Poelidor: folds 
+Ck_wils: folds 
+buranela: folds 
+Uncalled bet (€0.10) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: buranela (big blind) folded before Flop
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 collected (€0.25)
+Seat 6: Poelidor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955202851:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:30:06 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€8.35 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€11.67 in chips) 
+Seat 4: petrovichkag (€10.70 in chips) 
+Seat 5: tobi3107 (€8.11 in chips) 
+Seat 6: Poelidor (€7.49 in chips) 
+buranela: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+tobi3107: raises €0.10 to €0.20
+Poelidor: folds 
+Ck_wils: folds 
+buranela: folds 
+electrobox: calls €0.10
+*** FLOP *** [6d 2s Qs]
+electrobox: bets €0.30
+tobi3107: calls €0.30
+*** TURN *** [6d 2s Qs] [Th]
+electrobox: bets €0.70
+tobi3107: calls €0.70
+*** RIVER *** [6d 2s Qs Th] [5c]
+electrobox: checks 
+tobi3107: bets €1.20
+electrobox: folds 
+Uncalled bet (€1.20) returned to tobi3107
+tobi3107 collected €2.34 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.45 | Rake €0.11 
+Board [6d 2s Qs Th 5c]
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: buranela (small blind) folded before Flop
+Seat 3: electrobox (big blind) folded on the River
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 collected (€2.34)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955237387:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:31:14 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€8.35 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.47 in chips) 
+Seat 4: petrovichkag (€10.70 in chips) 
+Seat 5: tobi3107 (€9.25 in chips) 
+Seat 6: Poelidor (€7.49 in chips) 
+electrobox: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: folds 
+Poelidor: calls €0.10
+Ck_wils: folds 
+buranela: folds 
+electrobox: calls €0.05
+petrovichkag: checks 
+*** FLOP *** [Kh 2c Qd]
+electrobox: checks 
+petrovichkag: checks 
+Poelidor: checks 
+*** TURN *** [Kh 2c Qd] [9h]
+electrobox: checks 
+petrovichkag: checks 
+Poelidor: bets €0.10
+electrobox: calls €0.10
+petrovichkag: calls €0.10
+*** RIVER *** [Kh 2c Qd 9h] [3h]
+electrobox: checks 
+petrovichkag: checks 
+Poelidor: bets €0.40
+electrobox: folds 
+petrovichkag: folds 
+Uncalled bet (€0.40) returned to Poelidor
+Poelidor collected €0.57 from pot
+Poelidor: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [Kh 2c Qd 9h 3h]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 3: electrobox (small blind) folded on the River
+Seat 4: petrovichkag (big blind) folded on the River
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor collected (€0.57)
+
+
+
+PokerStars Hand #222955264566:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:32:08 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€8.35 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.27 in chips) 
+Seat 4: petrovichkag (€10.50 in chips) 
+Seat 5: tobi3107 (€9.25 in chips) 
+Seat 6: Poelidor (€7.86 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Poelidor: folds 
+Ck_wils: folds 
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+Uncalled bet (€0.05) returned to tobi3107
+tobi3107 collected €0.10 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: tobi3107 (big blind) collected (€0.10)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955270212:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:32:19 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€8.35 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.27 in chips) 
+Seat 4: petrovichkag (€10.45 in chips) 
+Seat 5: tobi3107 (€9.30 in chips) 
+Seat 6: Poelidor (€7.86 in chips) 
+tobi3107: posts small blind €0.05
+Poelidor: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+buranela: folds 
+electrobox: folds 
+petrovichkag: raises €0.14 to €0.24
+tobi3107: folds 
+Poelidor: folds 
+Uncalled bet (€0.14) returned to petrovichkag
+petrovichkag collected €0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) collected (€0.25)
+Seat 5: tobi3107 (small blind) folded before Flop
+Seat 6: Poelidor (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955280387:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:32:39 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€8.35 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.27 in chips) 
+Seat 4: petrovichkag (€10.60 in chips) 
+Seat 5: tobi3107 (€9.25 in chips) 
+Seat 6: Poelidor (€7.76 in chips) 
+Poelidor: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: raises €0.30 to €0.40
+Poelidor: folds 
+Ck_wils: calls €0.30
+*** FLOP *** [9c 4h 4c]
+Ck_wils: checks 
+tobi3107: bets €0.40
+Ck_wils: calls €0.40
+*** TURN *** [9c 4h 4c] [Ac]
+Ck_wils: checks 
+tobi3107: bets €0.80
+Ck_wils: calls €0.80
+*** RIVER *** [9c 4h 4c Ac] [Ts]
+Ck_wils: checks 
+tobi3107: bets €3.10
+Ck_wils: folds 
+Uncalled bet (€3.10) returned to tobi3107
+tobi3107 collected €3.10 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.25 | Rake €0.15 
+Board [9c 4h 4c Ac Ts]
+Seat 1: Ck_wils (big blind) folded on the River
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 (button) collected (€3.10)
+Seat 6: Poelidor (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955300995:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:33:20 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€6.75 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.27 in chips) 
+Seat 4: petrovichkag (€10.60 in chips) 
+Seat 5: tobi3107 (€10.75 in chips) 
+Seat 6: Poelidor (€7.71 in chips) 
+Ck_wils: posts small blind €0.05
+buranela: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox has timed out
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: folds 
+Poelidor: calls €0.10
+Ck_wils: folds 
+buranela: checks 
+*** FLOP *** [8c 2s Ah]
+buranela: checks 
+Poelidor: bets €0.10
+buranela: folds 
+Uncalled bet (€0.10) returned to Poelidor
+Poelidor collected €0.24 from pot
+Poelidor: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [8c 2s Ah]
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: buranela (big blind) folded on the Flop
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor (button) collected (€0.24)
+
+
+
+PokerStars Hand #222955313740:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:33:46 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€6.70 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.27 in chips) 
+Seat 4: petrovichkag (€10.60 in chips) 
+Seat 5: tobi3107 (€10.75 in chips) 
+Seat 6: Poelidor (€7.85 in chips) 
+buranela: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+tobi3107: calls €0.10
+Poelidor: calls €0.10
+Ck_wils: folds 
+buranela: raises €0.55 to €0.65
+electrobox: folds 
+tobi3107: folds 
+Poelidor: folds 
+Uncalled bet (€0.55) returned to buranela
+buranela collected €0.40 from pot
+*** SUMMARY ***
+Total pot €0.40 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: buranela (small blind) collected (€0.40)
+Seat 3: electrobox (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 folded before Flop
+Seat 6: Poelidor folded before Flop
+
+
+
+PokerStars Hand #222955327709:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:34:13 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€6.70 in chips) 
+Seat 2: buranela (€10.30 in chips) 
+Seat 3: electrobox (€10.17 in chips) 
+Seat 4: petrovichkag (€10.60 in chips) 
+Seat 5: tobi3107 (€10.65 in chips) 
+Seat 6: Poelidor (€7.75 in chips) 
+electrobox: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: folds 
+Poelidor: raises €0.10 to €0.20
+Ck_wils: folds 
+buranela: calls €0.20
+electrobox: folds 
+petrovichkag: calls €0.10
+*** FLOP *** [Js Th Kh]
+petrovichkag: checks 
+Poelidor: bets €0.10
+buranela: calls €0.10
+petrovichkag: raises €0.60 to €0.70
+Poelidor: folds 
+buranela: folds 
+Uncalled bet (€0.60) returned to petrovichkag
+petrovichkag collected €0.91 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.04 
+Board [Js Th Kh]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela (button) folded on the Flop
+Seat 3: electrobox (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) collected (€0.91)
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor folded on the Flop
+
+
+
+PokerStars Hand #222955343833:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:34:45 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€6.70 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.12 in chips) 
+Seat 4: petrovichkag (€11.21 in chips) 
+Seat 5: tobi3107 (€10.65 in chips) 
+Seat 6: Poelidor (€7.45 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Poelidor: folds 
+Ck_wils: raises €0.20 to €0.30
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils collected (€0.25)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: tobi3107 (big blind) folded before Flop
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955352211:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:35:02 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€6.85 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.12 in chips) 
+Seat 4: petrovichkag (€11.16 in chips) 
+Seat 5: tobi3107 (€10.55 in chips) 
+Seat 6: Poelidor (€7.45 in chips) 
+tobi3107: posts small blind €0.05
+Poelidor: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: raises €0.30 to €0.40
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: folds 
+Poelidor: calls €0.30
+*** FLOP *** [4d 9h Qh]
+Poelidor: bets €0.10
+Ck_wils: calls €0.10
+*** TURN *** [4d 9h Qh] [Kh]
+Poelidor: bets €0.10
+Ck_wils: calls €0.10
+*** RIVER *** [4d 9h Qh Kh] [Jd]
+Poelidor: bets €0.50
+Ck_wils: folds 
+Uncalled bet (€0.50) returned to Poelidor
+Poelidor collected €1.19 from pot
+Poelidor: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.25 | Rake €0.06 
+Board [4d 9h Qh Kh Jd]
+Seat 1: Ck_wils folded on the River
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: tobi3107 (small blind) folded before Flop
+Seat 6: Poelidor (big blind) collected (€1.19)
+
+
+
+PokerStars Hand #222955379459:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:35:56 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€6.25 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.12 in chips) 
+Seat 4: petrovichkag (€11.16 in chips) 
+Seat 5: tobi3107 (€10.50 in chips) 
+Seat 6: Poelidor (€8.04 in chips) 
+Poelidor: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+buranela: folds 
+electrobox: folds 
+petrovichkag: raises €0.14 to €0.24
+tobi3107: folds 
+Poelidor: calls €0.19
+Ck_wils: folds 
+*** FLOP *** [Kh Tc 3s]
+Poelidor: bets €0.10
+petrovichkag: folds 
+Uncalled bet (€0.10) returned to Poelidor
+Poelidor collected €0.55 from pot
+Poelidor: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.58 | Rake €0.03 
+Board [Kh Tc 3s]
+Seat 1: Ck_wils (big blind) folded before Flop
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded on the Flop
+Seat 5: tobi3107 (button) folded before Flop (didn't bet)
+Seat 6: Poelidor (small blind) collected (€0.55)
+
+
+
+PokerStars Hand #222955397770:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:36:33 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€6.15 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.12 in chips) 
+Seat 4: petrovichkag (€10.92 in chips) 
+Seat 5: tobi3107 (€10.50 in chips) 
+Seat 6: Poelidor (€8.35 in chips) 
+Ck_wils: posts small blind €0.05
+buranela: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: folds 
+Poelidor: folds 
+Ck_wils: folds 
+Uncalled bet (€0.05) returned to buranela
+buranela collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: buranela (big blind) collected (€0.10)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955409883:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:36:57 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€6.10 in chips) 
+Seat 2: buranela (€10.05 in chips) 
+Seat 3: electrobox (€10.12 in chips) 
+Seat 4: petrovichkag (€10.92 in chips) 
+Seat 5: tobi3107 (€10.50 in chips) 
+Seat 6: Poelidor (€8.35 in chips) 
+buranela: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag has timed out
+petrovichkag: folds 
+tobi3107: folds 
+Poelidor: calls €0.10
+Ck_wils: folds 
+buranela: folds 
+electrobox: checks 
+*** FLOP *** [Ah 9s 5h]
+electrobox: checks 
+Poelidor: bets €0.10
+electrobox: folds 
+Uncalled bet (€0.10) returned to Poelidor
+Poelidor collected €0.24 from pot
+Poelidor: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [Ah 9s 5h]
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: buranela (small blind) folded before Flop
+Seat 3: electrobox (big blind) folded on the Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 folded before Flop (didn't bet)
+Seat 6: Poelidor collected (€0.24)
+
+
+
+PokerStars Hand #222955423674:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:37:24 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€6.10 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.02 in chips) 
+Seat 4: petrovichkag (€10.92 in chips) 
+Seat 5: tobi3107 (€10.50 in chips) 
+Seat 6: Poelidor (€8.49 in chips) 
+electrobox: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: raises €0.10 to €0.20
+Poelidor: folds 
+Ck_wils: folds 
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+Uncalled bet (€0.10) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 3: electrobox (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: tobi3107 collected (€0.25)
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955428532:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:37:34 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€6.10 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: petrovichkag (€10.82 in chips) 
+Seat 5: tobi3107 (€10.65 in chips) 
+Seat 6: Poelidor (€8.49 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Poelidor: folds 
+Ck_wils: raises €0.25 to €0.35
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: folds 
+Uncalled bet (€0.25) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils collected (€0.25)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: tobi3107 (big blind) folded before Flop
+Seat 6: Poelidor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955434000:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:37:45 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€6.25 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: petrovichkag (€10.77 in chips) 
+Seat 5: tobi3107 (€10.55 in chips) 
+Seat 6: Poelidor (€8.49 in chips) 
+tobi3107: posts small blind €0.05
+Poelidor: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+buranela: folds 
+electrobox: folds 
+petrovichkag: raises €0.14 to €0.24
+tobi3107: folds 
+Poelidor: folds 
+Uncalled bet (€0.14) returned to petrovichkag
+petrovichkag collected €0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) collected (€0.25)
+Seat 5: tobi3107 (small blind) folded before Flop
+Seat 6: Poelidor (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955440634:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:37:59 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€6.25 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: petrovichkag (€10.92 in chips) 
+Seat 5: tobi3107 (€10.50 in chips) 
+Seat 6: Poelidor (€8.39 in chips) 
+Poelidor: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+buranela: folds 
+electrobox: folds 
+petrovichkag: raises €0.14 to €0.24
+tobi3107: folds 
+Poelidor: folds 
+Ck_wils: folds 
+Uncalled bet (€0.14) returned to petrovichkag
+petrovichkag collected €0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (big blind) folded before Flop
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag collected (€0.25)
+Seat 5: tobi3107 (button) folded before Flop (didn't bet)
+Seat 6: Poelidor (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955448844:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:38:15 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€6.15 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€10.50 in chips) 
+Seat 6: Poelidor (€8.34 in chips) 
+Ck_wils: posts small blind €0.05
+buranela: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: calls €0.10
+Poelidor: raises €0.10 to €0.20
+Ck_wils: calls €0.15
+buranela: calls €0.10
+tobi3107: calls €0.10
+*** FLOP *** [4d Qc Js]
+Ck_wils: checks 
+buranela: checks 
+tobi3107: checks 
+Poelidor: checks 
+*** TURN *** [4d Qc Js] [2h]
+Ck_wils: checks 
+buranela: bets €0.57
+tobi3107: folds 
+Poelidor is disconnected 
+Poelidor has timed out while disconnected
+Poelidor: folds 
+Ck_wils: folds 
+Uncalled bet (€0.57) returned to buranela
+buranela collected €0.76 from pot
+*** SUMMARY ***
+Total pot €0.80 | Rake €0.04 
+Board [4d Qc Js 2h]
+Seat 1: Ck_wils (small blind) folded on the Turn
+Seat 2: buranela (big blind) collected (€0.76)
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 folded on the Turn
+Seat 6: Poelidor (button) folded on the Turn
+
+
+
+PokerStars Hand #222955524289:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:40:44 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€5.95 in chips) 
+Seat 2: buranela (€10.56 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 5: tobi3107 (€10.30 in chips) 
+buranela: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: folds 
+Ck_wils: raises €0.20 to €0.30
+buranela: folds 
+electrobox: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) collected (€0.25)
+Seat 2: buranela (small blind) folded before Flop
+Seat 3: electrobox (big blind) folded before Flop
+Seat 5: tobi3107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955530656:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:40:56 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€6.10 in chips) 
+Seat 2: buranela (€10.51 in chips) 
+Seat 3: electrobox (€10 in chips) 
+Seat 5: tobi3107 (€10.30 in chips) 
+electrobox: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+buranela: folds 
+electrobox: raises €0.20 to €0.30
+tobi3107: calls €0.20
+*** FLOP *** [8c 2d Kc]
+electrobox: checks 
+tobi3107: checks 
+*** TURN *** [8c 2d Kc] [5c]
+electrobox: bets €0.38
+tobi3107: folds 
+Uncalled bet (€0.38) returned to electrobox
+electrobox collected €0.57 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [8c 2d Kc 5c]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 3: electrobox (small blind) collected (€0.57)
+Seat 5: tobi3107 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222955546521:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:41:28 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 2: buranela (€10.51 in chips) 
+Seat 3: electrobox (€10.27 in chips) 
+Seat 5: tobi3107 (€10 in chips) 
+tobi3107: posts small blind €0.05
+Ck_wils: is sitting out 
+buranela: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: raises €0.20 to €0.30
+tobi3107: folds 
+buranela: folds 
+Uncalled bet (€0.20) returned to electrobox
+electrobox collected €0.25 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 2: buranela (big blind) folded before Flop
+Seat 3: electrobox (button) collected (€0.25)
+Seat 5: tobi3107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955552356:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:41:40 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 2: buranela (€10.41 in chips) 
+Seat 3: electrobox (€10.42 in chips) 
+Seat 5: tobi3107 (€9.95 in chips) 
+buranela: posts small blind €0.05
+electrobox: posts big blind €0.10
+petrovichkag: sits out 
+*** HOLE CARDS ***
+tobi3107: folds 
+buranela: raises €0.15 to €0.25
+electrobox: calls €0.15
+*** FLOP *** [7h Qs 5h]
+buranela: checks 
+electrobox: checks 
+*** TURN *** [7h Qs 5h] [9s]
+buranela: checks 
+Poelidor leaves the table
+electrobox: bets €0.24
+buranela: calls €0.24
+*** RIVER *** [7h Qs 5h 9s] [Qc]
+buranela: checks 
+electrobox: checks 
+*** SHOW DOWN ***
+buranela: shows [8s 7d] (two pair, Queens and Sevens)
+electrobox: shows [Tc 9h] (two pair, Queens and Nines)
+electrobox collected €0.94 from pot
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.04 
+Board [7h Qs 5h 9s Qc]
+Seat 2: buranela (small blind) showed [8s 7d] and lost with two pair, Queens and Sevens
+Seat 3: electrobox (big blind) showed [Tc 9h] and won (€0.94) with two pair, Queens and Nines
+Seat 5: tobi3107 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955568731:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:42:12 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.87 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€9.95 in chips) 
+electrobox: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+Ck_wils: sits out 
+*** HOLE CARDS ***
+tobi3107: raises €0.20 to €0.30
+buranela: folds 
+electrobox: folds 
+petrovichkag: folds 
+Uncalled bet (€0.20) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 3: electrobox (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: tobi3107 collected (€0.25)
+
+
+
+PokerStars Hand #222955577897:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:42:30 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.82 in chips) 
+Seat 4: petrovichkag (€10.97 in chips) 
+Seat 5: tobi3107 (€10.10 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+Ck_wils: sits out 
+*** HOLE CARDS ***
+buranela: folds 
+electrobox: folds 
+petrovichkag: raises €0.20 to €0.30
+tobi3107: folds 
+Uncalled bet (€0.20) returned to petrovichkag
+petrovichkag collected €0.20 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) collected (€0.20)
+Seat 5: tobi3107 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955586463:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:42:48 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€6.10 in chips) 
+Seat 2: buranela (€10 in chips) 
+Seat 3: electrobox (€10.82 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€10 in chips) 
+tobi3107: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+buranela: folds 
+electrobox: raises €0.20 to €0.30
+petrovichkag: folds 
+buranela leaves the table
+tobi3107: folds 
+Tony Zhukov joins the table at seat #2 
+Ck_wils: raises €0.70 to €1
+electrobox: folds 
+Uncalled bet (€0.70) returned to Ck_wils
+Ck_wils collected €0.65 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0 
+Seat 1: Ck_wils (big blind) collected (€0.65)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: electrobox folded before Flop
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: tobi3107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955600869:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:43:17 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€6.45 in chips) 
+Seat 2: Tony Zhukov (€10 in chips) 
+Seat 3: electrobox (€10.52 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€9.95 in chips) 
+Ck_wils: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+petrovichkag: folds 
+tobi3107: raises €0.10 to €0.20
+Ck_wils: calls €0.15
+Tony Zhukov: folds 
+*** FLOP *** [3s 4s 9c]
+Ck_wils: checks 
+tobi3107: checks 
+*** TURN *** [3s 4s 9c] [3c]
+Ck_wils: bets €0.30
+tobi3107: folds 
+Uncalled bet (€0.30) returned to Ck_wils
+Ck_wils collected €0.48 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02 
+Board [3s 4s 9c 3c]
+Seat 1: Ck_wils (small blind) collected (€0.48)
+Seat 2: Tony Zhukov (big blind) folded before Flop
+Seat 3: electrobox folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 (button) folded on the Turn
+
+
+
+PokerStars Hand #222955621457:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:43:58 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€6.73 in chips) 
+Seat 2: Tony Zhukov (€10 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€9.75 in chips) 
+Tony Zhukov: posts small blind €0.05
+electrobox: is sitting out 
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: folds 
+electrobox leaves the table
+Ck_wils: raises €0.20 to €0.30
+Tony Zhukov: folds 
+petrovichkag: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) collected (€0.25)
+Seat 2: Tony Zhukov (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: tobi3107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955627164:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:44:09 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€6.88 in chips) 
+Seat 2: Tony Zhukov (€10 in chips) 
+Seat 4: petrovichkag (€10.97 in chips) 
+Seat 5: tobi3107 (€9.75 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+Tony Zhukov: folds 
+petrovichkag: folds 
+Uncalled bet (€0.05) returned to tobi3107
+tobi3107 collected €0.10 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: tobi3107 (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222955631283:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:44:17 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€6.88 in chips) 
+Seat 2: Tony Zhukov (€10 in chips) 
+Seat 4: petrovichkag (€10.92 in chips) 
+Seat 5: tobi3107 (€9.80 in chips) 
+tobi3107: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+gazsam2000 joins the table at seat #3 
+petrovichkag: raises €0.14 to €0.24
+tobi3107: folds 
+Ck_wils: folds 
+Uncalled bet (€0.14) returned to petrovichkag
+petrovichkag collected €0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (big blind) folded before Flop
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) collected (€0.25)
+Seat 5: tobi3107 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955638732:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:44:32 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€6.78 in chips) 
+Seat 2: Tony Zhukov (€10 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€9.75 in chips) 
+Ck_wils: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+gazsam2000: sits out 
+*** HOLE CARDS ***
+petrovichkag: folds 
+tobi3107: raises €0.20 to €0.30
+Ck_wils: folds 
+Tony Zhukov: folds 
+Uncalled bet (€0.20) returned to tobi3107
+tobi3107 collected €0.25 from pot
+tobi3107: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: Tony Zhukov (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 (button) collected (€0.25)
+
+
+
+PokerStars Hand #222955648546:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:44:52 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€6.73 in chips) 
+Seat 2: Tony Zhukov (€10 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€11.07 in chips) 
+Seat 5: tobi3107 (€9.90 in chips) 
+Tony Zhukov: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: raises €0.14 to €0.24
+tobi3107: folds 
+Ck_wils: folds 
+Tony Zhukov: calls €0.19
+gazsam2000: folds 
+*** FLOP *** [Ac 4d Jd]
+Tony Zhukov: checks 
+petrovichkag: bets €0.18
+Tony Zhukov: calls €0.18
+*** TURN *** [Ac 4d Jd] [Ah]
+Tony Zhukov: checks 
+petrovichkag: checks 
+*** RIVER *** [Ac 4d Jd Ah] [5d]
+Tony Zhukov: bets €0.30
+petrovichkag: folds 
+Uncalled bet (€0.30) returned to Tony Zhukov
+Tony Zhukov collected €0.90 from pot
+*** SUMMARY ***
+Total pot €0.94 | Rake €0.04 
+Board [Ac 4d Jd Ah 5d]
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (small blind) collected (€0.90)
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded on the River
+Seat 5: tobi3107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955671620:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:45:37 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€6.73 in chips) 
+Seat 2: Tony Zhukov (€10.48 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10.65 in chips) 
+Seat 5: tobi3107 (€9.90 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+tobi3107: folds 
+Ck_wils: folds 
+Tony Zhukov: raises €0.15 to €0.25
+Burlica2013 joins the table at seat #6 
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.15) returned to Tony Zhukov
+Tony Zhukov collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (button) collected (€0.25)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: tobi3107 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955679799:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:45:54 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€6.73 in chips) 
+Seat 2: Tony Zhukov (€10.63 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10.55 in chips) 
+Seat 5: tobi3107 (€9.90 in chips) 
+petrovichkag: posts small blind €0.05
+tobi3107: posts big blind €0.10
+Burlica2013: sits out 
+*** HOLE CARDS ***
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: raises €0.20 to €0.30
+tobi3107: calls €0.20
+*** FLOP *** [6h 5h Td]
+petrovichkag: bets €0.19
+tobi3107: folds 
+Uncalled bet (€0.19) returned to petrovichkag
+petrovichkag collected €0.57 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [6h 5h Td]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) collected (€0.57)
+Seat 5: tobi3107 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222955696582:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:46:27 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€6.73 in chips) 
+Seat 2: Tony Zhukov (€10.63 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10.82 in chips) 
+Seat 5: tobi3107 (€9.60 in chips) 
+Seat 6: Burlica2013 (€10 in chips) 
+tobi3107: posts small blind €0.05
+Burlica2013: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: raises €0.20 to €0.30
+petrovichkag: folds 
+tobi3107: calls €0.25
+Burlica2013: calls €0.20
+*** FLOP *** [Jd 2h Jc]
+tobi3107: checks 
+Burlica2013: checks 
+gazsam2000: checks 
+*** TURN *** [Jd 2h Jc] [Js]
+tobi3107: checks 
+Burlica2013: bets €0.43
+gazsam2000: calls €0.43
+tobi3107: calls €0.43
+*** RIVER *** [Jd 2h Jc Js] [Qs]
+tobi3107: checks 
+Burlica2013: checks 
+gazsam2000: checks 
+*** SHOW DOWN ***
+tobi3107: shows [As Kc] (three of a kind, Jacks)
+Burlica2013: shows [6c 6h] (a full house, Jacks full of Sixes)
+gazsam2000: shows [7d 7h] (a full house, Jacks full of Sevens)
+gazsam2000 collected €2.09 from pot
+*** SUMMARY ***
+Total pot €2.19 | Rake €0.10 
+Board [Jd 2h Jc Js Qs]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 showed [7d 7h] and won (€2.09) with a full house, Jacks full of Sevens
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: tobi3107 (small blind) showed [As Kc] and lost with three of a kind, Jacks
+Seat 6: Burlica2013 (big blind) showed [6c 6h] and lost with a full house, Jacks full of Sixes
+
+
+
+PokerStars Hand #222955728337:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:47:29 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€6.73 in chips) 
+Seat 2: Tony Zhukov (€10.63 in chips) 
+Seat 3: gazsam2000 (€11.36 in chips) 
+Seat 4: petrovichkag (€10.82 in chips) 
+Seat 5: tobi3107 (€8.87 in chips) 
+Seat 6: Burlica2013 (€10 in chips) 
+Burlica2013: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+gazsam2000: raises €0.20 to €0.30
+petrovichkag: folds 
+tobi3107: folds 
+Burlica2013: folds 
+Ck_wils: raises €0.65 to €0.95
+tobi3107 leaves the table
+gazsam2000: calls €0.65
+*** FLOP *** [4s 4d Kc]
+Ck_wils: checks 
+gazsam2000: checks 
+*** TURN *** [4s 4d Kc] [8s]
+Ck_wils: bets €1
+gazsam2000: folds 
+Uncalled bet (€1) returned to Ck_wils
+Ck_wils collected €1.86 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.95 | Rake €0.09 
+Board [4s 4d Kc 8s]
+Seat 1: Ck_wils (big blind) collected (€1.86)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded on the Turn
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: tobi3107 (button) folded before Flop (didn't bet)
+Seat 6: Burlica2013 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955751491:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:48:14 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€7.64 in chips) 
+Seat 2: Tony Zhukov (€10.63 in chips) 
+Seat 3: gazsam2000 (€10.41 in chips) 
+Seat 4: petrovichkag (€10.82 in chips) 
+Seat 6: Burlica2013 (€10 in chips) 
+Ck_wils: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: raises €0.15 to €0.25
+petrovichkag: folds 
+Burlica2013: folds 
+Ck_wils: calls €0.20
+Tony Zhukov: folds 
+*** FLOP *** [7d 3h 4h]
+Ck_wils: checks 
+gazsam2000: checks 
+*** TURN *** [7d 3h 4h] [6s]
+Ck_wils: checks 
+gazsam2000: bets €0.40
+fishikegirl6 joins the table at seat #5 
+Ck_wils: folds 
+Uncalled bet (€0.40) returned to gazsam2000
+gazsam2000 collected €0.57 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [7d 3h 4h 6s]
+Seat 1: Ck_wils (small blind) folded on the Turn
+Seat 2: Tony Zhukov (big blind) folded before Flop
+Seat 3: gazsam2000 collected (€0.57)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Burlica2013 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955774413:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:48:59 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€7.39 in chips) 
+Seat 2: Tony Zhukov (€10.53 in chips) 
+Seat 3: gazsam2000 (€10.73 in chips) 
+Seat 4: petrovichkag (€10.82 in chips) 
+Seat 6: Burlica2013 (€10 in chips) 
+Tony Zhukov: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+fishikegirl6: sits out 
+*** HOLE CARDS ***
+petrovichkag: folds 
+Burlica2013: raises €0.15 to €0.25
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: folds 
+Uncalled bet (€0.15) returned to Burlica2013
+Burlica2013 collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Burlica2013 collected (€0.25)
+
+
+
+PokerStars Hand #222955779929:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:49:10 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€7.39 in chips) 
+Seat 2: Tony Zhukov (€10.48 in chips) 
+Seat 3: gazsam2000 (€10.63 in chips) 
+Seat 4: petrovichkag (€10.82 in chips) 
+Seat 6: Burlica2013 (€10.15 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+fishikegirl6: sits out 
+*** HOLE CARDS ***
+Burlica2013: raises €0.15 to €0.25
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.15) returned to Burlica2013
+Burlica2013 collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 6: Burlica2013 collected (€0.25)
+
+
+
+PokerStars Hand #222955787503:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:49:24 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€7.39 in chips) 
+Seat 2: Tony Zhukov (€10.48 in chips) 
+Seat 3: gazsam2000 (€10.58 in chips) 
+Seat 4: petrovichkag (€10.72 in chips) 
+Seat 5: fishikegirl6 (€10 in chips) 
+Seat 6: Burlica2013 (€10.30 in chips) 
+petrovichkag: posts small blind €0.05
+fishikegirl6: posts big blind €0.10
+*** HOLE CARDS ***
+Burlica2013: folds 
+Ck_wils: raises €0.20 to €0.30
+Tony Zhukov: raises €0.60 to €0.90
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: folds 
+Ck_wils: calls €0.60
+*** FLOP *** [Jd 5h Th]
+Ck_wils: checks 
+Tony Zhukov: bets €1.02
+Ck_wils: folds 
+Uncalled bet (€1.02) returned to Tony Zhukov
+Tony Zhukov collected €1.86 from pot
+*** SUMMARY ***
+Total pot €1.95 | Rake €0.09 
+Board [Jd 5h Th]
+Seat 1: Ck_wils folded on the Flop
+Seat 2: Tony Zhukov collected (€1.86)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: fishikegirl6 (big blind) folded before Flop
+Seat 6: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955805231:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:49:59 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€6.49 in chips) 
+Seat 2: Tony Zhukov (€11.44 in chips) 
+Seat 3: gazsam2000 (€10.58 in chips) 
+Seat 4: petrovichkag (€10.67 in chips) 
+Seat 5: fishikegirl6 (€10 in chips) 
+Seat 6: Burlica2013 (€10.30 in chips) 
+fishikegirl6: posts small blind €0.05
+Burlica2013: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: folds 
+Uncalled bet (€0.05) returned to Burlica2013
+Burlica2013 collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: fishikegirl6 (small blind) folded before Flop
+Seat 6: Burlica2013 (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222955812034:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:50:12 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€6.49 in chips) 
+Seat 2: Tony Zhukov (€11.44 in chips) 
+Seat 3: gazsam2000 (€10.58 in chips) 
+Seat 4: petrovichkag (€10.67 in chips) 
+Seat 5: fishikegirl6 (€10 in chips) 
+Seat 6: Burlica2013 (€10.35 in chips) 
+Burlica2013: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: folds 
+Burlica2013: raises €0.15 to €0.25
+Ck_wils: raises €0.50 to €0.75
+Burlica2013: calls €0.50
+*** FLOP *** [Qs 4d 8s]
+Burlica2013: checks 
+Ck_wils: bets €1.10
+Burlica2013: calls €1.10
+*** TURN *** [Qs 4d 8s] [Kd]
+Burlica2013: checks 
+Ck_wils: bets €2.70
+Burlica2013: folds 
+Uncalled bet (€2.70) returned to Ck_wils
+Ck_wils collected €3.53 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.70 | Rake €0.17 
+Board [Qs 4d 8s Kd]
+Seat 1: Ck_wils (big blind) collected (€3.53)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: fishikegirl6 (button) folded before Flop (didn't bet)
+Seat 6: Burlica2013 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222955838986:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:50:50 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€8.17 in chips) 
+Seat 2: Tony Zhukov (€11.44 in chips) 
+Seat 3: gazsam2000 (€10.58 in chips) 
+Seat 4: petrovichkag (€10.67 in chips) 
+Seat 5: fishikegirl6 (€10 in chips) 
+Seat 6: Burlica2013 (€10 in chips) 
+Ck_wils: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: folds 
+Burlica2013: raises €0.15 to €0.25
+Ck_wils: folds 
+Tony Zhukov: folds 
+Uncalled bet (€0.15) returned to Burlica2013
+Burlica2013 collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: Tony Zhukov (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: fishikegirl6 folded before Flop (didn't bet)
+Seat 6: Burlica2013 (button) collected (€0.25)
+
+
+
+PokerStars Hand #222955844844:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:51:02 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€8.12 in chips) 
+Seat 2: Tony Zhukov (€11.34 in chips) 
+Seat 3: gazsam2000 (€10.58 in chips) 
+Seat 4: petrovichkag (€10.67 in chips) 
+Seat 5: fishikegirl6 (€10 in chips) 
+Seat 6: Burlica2013 (€10.15 in chips) 
+Tony Zhukov: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+fishikegirl6: raises €0.12 to €0.22
+Burlica2013: folds 
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: folds 
+Uncalled bet (€0.12) returned to fishikegirl6
+fishikegirl6 collected €0.25 from pot
+fishikegirl6: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: fishikegirl6 collected (€0.25)
+Seat 6: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955852442:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:51:16 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€8.12 in chips) 
+Seat 2: Tony Zhukov (€11.29 in chips) 
+Seat 3: gazsam2000 (€10.48 in chips) 
+Seat 4: petrovichkag (€10.67 in chips) 
+Seat 5: fishikegirl6 (€10.15 in chips) 
+Seat 6: Burlica2013 (€10.15 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+fishikegirl6: folds 
+Burlica2013: folds 
+Ck_wils: folds 
+Tony Zhukov: raises €0.15 to €0.25
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.15) returned to Tony Zhukov
+Tony Zhukov collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (button) collected (€0.25)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: fishikegirl6 folded before Flop (didn't bet)
+Seat 6: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955860152:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:51:32 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€8.12 in chips) 
+Seat 2: Tony Zhukov (€11.44 in chips) 
+Seat 3: gazsam2000 (€10.43 in chips) 
+Seat 4: petrovichkag (€10.57 in chips) 
+Seat 5: fishikegirl6 (€10.15 in chips) 
+Seat 6: Burlica2013 (€10.15 in chips) 
+petrovichkag: posts small blind €0.05
+fishikegirl6: posts big blind €0.10
+*** HOLE CARDS ***
+Burlica2013: folds 
+Ck_wils: folds 
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.05) returned to fishikegirl6
+fishikegirl6 collected €0.10 from pot
+fishikegirl6: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: fishikegirl6 (big blind) collected (€0.10)
+Seat 6: Burlica2013 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955863742:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:51:39 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€8.12 in chips) 
+Seat 2: Tony Zhukov (€11.44 in chips) 
+Seat 3: gazsam2000 (€10.43 in chips) 
+Seat 4: petrovichkag (€10.52 in chips) 
+Seat 5: fishikegirl6 (€10.20 in chips) 
+Seat 6: Burlica2013 (€10.15 in chips) 
+fishikegirl6: posts small blind €0.05
+Burlica2013: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: calls €0.10
+Tony Zhukov: folds 
+gazsam2000: raises €0.40 to €0.50
+petrovichkag: raises €1 to €1.50
+fishikegirl6: folds 
+Burlica2013: folds 
+Ck_wils: folds 
+gazsam2000: calls €1
+*** FLOP *** [Ad 9c 8h]
+gazsam2000: checks 
+petrovichkag: checks 
+*** TURN *** [Ad 9c 8h] [3s]
+Burlica2013 leaves the table
+gazsam2000: checks 
+petrovichkag: bets €1.71
+gazsam2000: folds 
+Uncalled bet (€1.71) returned to petrovichkag
+petrovichkag collected €3.10 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.25 | Rake €0.15 
+Board [Ad 9c 8h 3s]
+Seat 1: Ck_wils folded before Flop
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded on the Turn
+Seat 4: petrovichkag (button) collected (€3.10)
+Seat 5: fishikegirl6 (small blind) folded before Flop
+Seat 6: Burlica2013 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955905555:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:53:01 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€8.02 in chips) 
+Seat 2: Tony Zhukov (€11.44 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€12.12 in chips) 
+Seat 5: fishikegirl6 (€10.15 in chips) 
+Ck_wils: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: folds 
+Ck_wils: raises €0.20 to €0.30
+Tony Zhukov: raises €0.60 to €0.90
+Ck_wils: folds 
+Uncalled bet (€0.60) returned to Tony Zhukov
+Tony Zhukov collected €0.60 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 2: Tony Zhukov (big blind) collected (€0.60)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: fishikegirl6 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955916586:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:53:23 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€7.72 in chips) 
+Seat 2: Tony Zhukov (€11.74 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€12.12 in chips) 
+Seat 5: fishikegirl6 (€10.15 in chips) 
+Tony Zhukov: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+fishikegirl6: folds 
+Ck_wils: raises €0.20 to €0.30
+Tony Zhukov: folds 
+gazsam2000: calls €0.20
+*** FLOP *** [2d Kc 6c]
+gazsam2000: checks 
+Ck_wils: bets €0.40
+gazsam2000: calls €0.40
+*** TURN *** [2d Kc 6c] [7h]
+gazsam2000: checks 
+Ck_wils: bets €1.10
+gazsam2000: calls €1.10
+*** RIVER *** [2d Kc 6c 7h] [4d]
+gazsam2000: checks 
+Ck_wils: bets €5.92 and is all-in
+gazsam2000: folds 
+Uncalled bet (€5.92) returned to Ck_wils
+Ck_wils collected €3.49 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.65 | Rake €0.16 
+Board [2d Kc 6c 7h 4d]
+Seat 1: Ck_wils (button) collected (€3.49)
+Seat 2: Tony Zhukov (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) folded on the River
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: fishikegirl6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955962404:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:54:53 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€9.41 in chips) 
+Seat 2: Tony Zhukov (€11.69 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€12.12 in chips) 
+Seat 5: fishikegirl6 (€10.15 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+fishikegirl6: raises €0.12 to €0.22
+Ck_wils: raises €0.18 to €0.40
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: calls €0.18
+*** FLOP *** [Qs 3d 4h]
+fishikegirl6: checks 
+Ck_wils: bets €0.20
+fishikegirl6: raises €0.85 to €1.05
+Ck_wils: calls €0.85
+*** TURN *** [Qs 3d 4h] [7h]
+fishikegirl6: bets €2.25
+Ck_wils: folds 
+Uncalled bet (€2.25) returned to fishikegirl6
+fishikegirl6 collected €2.91 from pot
+fishikegirl6: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.05 | Rake €0.14 
+Board [Qs 3d 4h 7h]
+Seat 1: Ck_wils folded on the Turn
+Seat 2: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: fishikegirl6 collected (€2.91)
+
+
+
+PokerStars Hand #222955990424:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:56:00 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€7.96 in chips) 
+Seat 2: Tony Zhukov (€11.69 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€12.02 in chips) 
+Seat 5: fishikegirl6 (€11.61 in chips) 
+petrovichkag: posts small blind €0.05
+fishikegirl6: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: raises €0.20 to €0.30
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+fishikegirl6: calls €0.20
+*** FLOP *** [5c 4c 3h]
+fishikegirl6: checks 
+Ck_wils: checks 
+*** TURN *** [5c 4c 3h] [Qh]
+fishikegirl6: checks 
+Ck_wils: bets €0.50
+fishikegirl6: folds 
+Uncalled bet (€0.50) returned to Ck_wils
+Ck_wils collected €0.62 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [5c 4c 3h Qh]
+Seat 1: Ck_wils collected (€0.62)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: fishikegirl6 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222956008450:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:56:45 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€8.28 in chips) 
+Seat 2: Tony Zhukov (€11.69 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€11.97 in chips) 
+Seat 5: fishikegirl6 (€11.31 in chips) 
+fishikegirl6: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+gazsam2000: folds 
+petrovichkag: raises €0.14 to €0.24
+fishikegirl6: folds 
+Ck_wils: raises €0.36 to €0.60
+petrovichkag: calls €0.36
+*** FLOP *** [Qc Td 4c]
+Ck_wils: bets €1
+petrovichkag: folds 
+Uncalled bet (€1) returned to Ck_wils
+Ck_wils collected €1.19 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.25 | Rake €0.06 
+Board [Qc Td 4c]
+Seat 1: Ck_wils (big blind) collected (€1.19)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) folded on the Flop
+Seat 5: fishikegirl6 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956020935:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:57:15 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: Ck_wils (€8.87 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€11.37 in chips) 
+Seat 5: fishikegirl6 (€11.26 in chips) 
+Ck_wils: posts small blind €0.05
+Tony Zhukov: is sitting out 
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: raises €0.14 to €0.24
+Tony Zhukov leaves the table
+fishikegirl6: raises €0.56 to €0.80
+Ck_wils: folds 
+gazsam2000: folds 
+petrovichkag: calls €0.56
+*** FLOP *** [3c Kd 6s]
+petrovichkag: checks 
+fishikegirl6: bets €0.65
+petrovichkag: raises €1.25 to €1.90
+fishikegirl6: calls €1.25
+*** TURN *** [3c Kd 6s] [Jd]
+petrovichkag: checks 
+fishikegirl6: bets €8.56 and is all-in
+petrovichkag: folds 
+Uncalled bet (€8.56) returned to fishikegirl6
+fishikegirl6 collected €5.30 from pot
+fishikegirl6: doesn't show hand 
+*** SUMMARY ***
+Total pot €5.55 | Rake €0.25 
+Board [3c Kd 6s Jd]
+Seat 1: Ck_wils (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded on the Turn
+Seat 5: fishikegirl6 (button) collected (€5.30)
+
+
+
+PokerStars Hand #222956044219:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:58:13 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€8.82 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 5: fishikegirl6 (€13.86 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+fishikegirl6: raises €0.12 to €0.22
+Ck_wils: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.12) returned to fishikegirl6
+fishikegirl6 collected €0.25 from pot
+fishikegirl6: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 5: fishikegirl6 collected (€0.25)
+
+
+
+PokerStars Hand #222956047565:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:58:27 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€8.82 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+petrovichkag: posts small blind €0.05
+fishikegirl6: is sitting out 
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: raises €0.20 to €0.30
+petrovichkag: folds 
+Ck_wils: raises €0.65 to €0.95
+gazsam2000: folds 
+Uncalled bet (€0.65) returned to Ck_wils
+Ck_wils collected €0.65 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0 
+Seat 1: Ck_wils (big blind) collected (€0.65)
+Seat 3: gazsam2000 (button) folded before Flop
+Seat 4: petrovichkag (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956068238:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:59:13 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€9.17 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Ck_wils: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Ck_wils: calls €0.05
+gazsam2000: checks 
+*** FLOP *** [6s Qc Ah]
+Matbrown27 joins the table at seat #6 
+Ck_wils: checks 
+gazsam2000: checks 
+*** TURN *** [6s Qc Ah] [4h]
+Ck_wils: bets €0.10
+gazsam2000: folds 
+Uncalled bet (€0.10) returned to Ck_wils
+Ck_wils collected €0.19 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [6s Qc Ah 4h]
+Seat 1: Ck_wils (small blind) collected (€0.19)
+Seat 3: gazsam2000 (big blind) folded on the Turn
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956076810:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:59:34 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€9.26 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+Matbrown27: sits out 
+*** HOLE CARDS ***
+Ck_wils: raises €0.20 to €0.30
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) collected (€0.25)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956082078:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:59:47 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€9.41 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+petrovichkag: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: raises €0.20 to €0.30
+gazsam2000: folds 
+petrovichkag: folds 
+Matbrown27: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils collected (€0.25)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 6: Matbrown27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956086243:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 9:59:57 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€9.56 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€9.90 in chips) 
+Matbrown27: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+petrovichkag: folds 
+Matbrown27: raises €0.15 to €0.25
+Ck_wils: calls €0.15
+*** FLOP *** [5s Qc 8c]
+Matbrown27: bets €0.29
+Ck_wils: calls €0.29
+*** TURN *** [5s Qc 8c] [Td]
+Matbrown27: bets €0.62
+Ck_wils: raises €1.38 to €2
+Matbrown27: calls €1.38
+*** RIVER *** [5s Qc 8c Td] [6s]
+Matbrown27: checks 
+Ck_wils: bets €4
+Matbrown27: calls €4
+*** SHOW DOWN ***
+Ck_wils: shows [Kc 3c] (high card King)
+Matbrown27: shows [Qs Ad] (a pair of Queens)
+Matbrown27 collected €12.49 from pot
+*** SUMMARY ***
+Total pot €13.08 | Rake €0.59 
+Board [5s Qc 8c Td 6s]
+Seat 1: Ck_wils (big blind) showed [Kc 3c] and lost with high card King
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 6: Matbrown27 (small blind) showed [Qs Ad] and won (€12.49) with a pair of Queens
+
+
+
+PokerStars Hand #222956117331:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:01:09 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€3.02 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€15.85 in chips) 
+Ck_wils: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Matbrown27: raises €0.15 to €0.25
+fishikegirl6 leaves the table
+Ck_wils: calls €0.20
+gazsam2000: folds 
+*** FLOP *** [Js 8h 2c]
+Ck_wils: checks 
+Matbrown27: bets €0.19
+Ck_wils: folds 
+Uncalled bet (€0.19) returned to Matbrown27
+Matbrown27 collected €0.57 from pot
+Matbrown27: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [Js 8h 2c]
+Seat 1: Ck_wils (small blind) folded on the Flop
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) collected (€0.57)
+
+
+
+PokerStars Hand #222956127237:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:01:31 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€2.77 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€16.17 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+Matbrown27: folds 
+Ck_wils: raises €0.20 to €0.30
+gazsam2000: raises €1.50 to €1.80
+petrovichkag: folds 
+Ck_wils: raises €0.97 to €2.77 and is all-in
+gazsam2000: calls €0.97
+*** FLOP *** [3s Qh Js]
+*** TURN *** [3s Qh Js] [5c]
+*** RIVER *** [3s Qh Js 5c] [Ts]
+*** SHOW DOWN ***
+gazsam2000: shows [7s 7h] (a pair of Sevens)
+Ck_wils: shows [Th Ac] (a pair of Tens)
+Ck_wils collected €5.39 from pot
+*** SUMMARY ***
+Total pot €5.64 | Rake €0.25 
+Board [3s Qh Js 5c Ts]
+Seat 1: Ck_wils (button) showed [Th Ac] and won (€5.39) with a pair of Tens
+Seat 3: gazsam2000 (small blind) showed [7s 7h] and lost with a pair of Sevens
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956146261:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:02:09 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€10 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€16.17 in chips) 
+petrovichkag: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: calls €0.10
+gazsam2000: raises €0.30 to €0.40
+petrovichkag: folds 
+Matbrown27: folds 
+casimiro124 joins the table at seat #2 
+Ck_wils: calls €0.30
+*** FLOP *** [2d Qh 7d]
+Ck_wils: checks 
+gazsam2000: bets €0.50
+Ck_wils: folds 
+Uncalled bet (€0.50) returned to gazsam2000
+gazsam2000 collected €0.91 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.04 
+Board [2d Qh 7d]
+Seat 1: Ck_wils folded on the Flop
+Seat 3: gazsam2000 (button) collected (€0.91)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 6: Matbrown27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956171481:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:02:59 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€9.60 in chips) 
+Seat 3: gazsam2000 (€10.51 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€16.07 in chips) 
+Matbrown27: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+casimiro124: sits out 
+*** HOLE CARDS ***
+gazsam2000: folds 
+petrovichkag: raises €0.14 to €0.24
+Matbrown27: folds 
+Ck_wils: folds 
+Uncalled bet (€0.14) returned to petrovichkag
+petrovichkag collected €0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) collected (€0.25)
+Seat 6: Matbrown27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956179355:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:03:14 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€9.50 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€10.51 in chips) 
+Seat 4: petrovichkag (€10.15 in chips) 
+Seat 6: Matbrown27 (€16.02 in chips) 
+Ck_wils: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+petrovichkag: folds 
+Matbrown27: folds 
+Ck_wils: raises €0.20 to €0.30
+casimiro124: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.20 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Ck_wils (small blind) collected (€0.20)
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956186228:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:03:28 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€9.60 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€10.51 in chips) 
+Seat 4: petrovichkag (€10.15 in chips) 
+Seat 6: Matbrown27 (€16.02 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Matbrown27: folds 
+Ck_wils: raises €0.20 to €0.30
+casimiro124: folds 
+gazsam2000: folds 
+Uncalled bet (€0.20) returned to Ck_wils
+Ck_wils collected €0.25 from pot
+Ck_wils: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils (button) collected (€0.25)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956191571:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:03:38 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€9.75 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€10.41 in chips) 
+Seat 4: petrovichkag (€10.15 in chips) 
+Seat 6: Matbrown27 (€16.02 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+*** HOLE CARDS ***
+Matbrown27: raises €0.15 to €0.25
+Ck_wils: folds 
+casimiro124: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+Uncalled bet (€0.15) returned to Matbrown27
+Matbrown27 collected €0.25 from pot
+Matbrown27: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded before Flop
+Seat 6: Matbrown27 collected (€0.25)
+
+
+
+PokerStars Hand #222956204801:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:03:51 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€9.75 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€10.36 in chips) 
+Seat 4: petrovichkag (€10.05 in chips) 
+Seat 6: Matbrown27 (€16.17 in chips) 
+petrovichkag: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+casimiro124: folds 
+gazsam2000: folds 
+petrovichkag: raises €0.20 to €0.30
+Matbrown27: calls €0.20
+*** FLOP *** [Jd 4d 2c]
+petrovichkag: bets €0.19
+Matbrown27: calls €0.19
+*** TURN *** [Jd 4d 2c] [4s]
+petrovichkag: checks 
+Matbrown27: bets €0.56
+petrovichkag: folds 
+Uncalled bet (€0.56) returned to Matbrown27
+Matbrown27 collected €0.94 from pot
+Matbrown27: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.04 
+Board [Jd 4d 2c 4s]
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded on the Turn
+Seat 6: Matbrown27 (big blind) collected (€0.94)
+
+
+
+PokerStars Hand #222956223475:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:04:27 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€9.75 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€10.36 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€16.62 in chips) 
+Matbrown27: posts small blind €0.05
+Ck_wils: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: raises €0.20 to €0.30
+petrovichkag: folds 
+Matbrown27: raises €0.70 to €1
+Ck_wils: folds 
+gazsam2000: calls €0.70
+*** FLOP *** [Th 9c Qc]
+Matbrown27: checks 
+gazsam2000: bets €1.01
+electrobox joins the table at seat #5 
+Matbrown27: folds 
+Uncalled bet (€1.01) returned to gazsam2000
+gazsam2000 collected €2.01 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.10 | Rake €0.09 
+Board [Th 9c Qc]
+Seat 1: Ck_wils (big blind) folded before Flop
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 collected (€2.01)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 6: Matbrown27 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222956244436:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:05:07 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: Ck_wils (€9.65 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€11.37 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€15.62 in chips) 
+Ck_wils: posts small blind €0.05
+casimiro124: posts big blind €0.10
+electrobox: sits out 
+*** HOLE CARDS ***
+gazsam2000: folds 
+petrovichkag: folds 
+Matbrown27: folds 
+Ck_wils: raises €0.20 to €0.30
+casimiro124: calls €0.20
+*** FLOP *** [Qd 3c Jc]
+Ck_wils: checks 
+casimiro124: checks 
+*** TURN *** [Qd 3c Jc] [9d]
+Ck_wils: bets €0.50
+casimiro124: raises €2.36 to €2.86
+Ck_wils: folds 
+Uncalled bet (€2.36) returned to casimiro124
+casimiro124 collected €1.53 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.60 | Rake €0.07 
+Board [Qd 3c Jc 9d]
+Seat 1: Ck_wils (small blind) folded on the Turn
+Seat 2: casimiro124 (big blind) collected (€1.53)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956282081:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:06:19 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: Ck_wils (€8.85 in chips) 
+Seat 2: casimiro124 (€10.73 in chips) 
+Seat 3: gazsam2000 (€11.37 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€15.62 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+electrobox: sits out 
+*** HOLE CARDS ***
+petrovichkag: folds 
+Matbrown27: folds 
+Ck_wils: raises €0.20 to €0.30
+casimiro124: calls €0.25
+gazsam2000: folds 
+*** FLOP *** [5d 7s 6c]
+casimiro124: checks 
+Ck_wils: checks 
+*** TURN *** [5d 7s 6c] [4h]
+casimiro124: checks 
+Ck_wils: checks 
+*** RIVER *** [5d 7s 6c 4h] [Ad]
+casimiro124: checks 
+Ck_wils: checks 
+*** SHOW DOWN ***
+casimiro124: shows [Ts Ks] (high card Ace)
+Ck_wils: mucks hand 
+casimiro124 collected €0.67 from pot
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.03 
+Board [5d 7s 6c 4h Ad]
+Seat 1: Ck_wils (button) mucked
+Seat 2: casimiro124 (small blind) showed [Ts Ks] and won (€0.67) with high card Ace
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956298150:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:06:49 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: Ck_wils (€8.55 in chips) 
+Seat 2: casimiro124 (€11.10 in chips) 
+Seat 3: gazsam2000 (€11.27 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 6: Matbrown27 (€15.62 in chips) 
+gazsam2000: posts small blind €0.05
+petrovichkag: posts big blind €0.10
+electrobox: sits out 
+*** HOLE CARDS ***
+Matbrown27: folds 
+Ck_wils: folds 
+casimiro124: folds 
+gazsam2000: folds 
+Uncalled bet (€0.05) returned to petrovichkag
+petrovichkag collected €0.10 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) collected (€0.10)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956303145:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:06:59 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: Ck_wils (€8.55 in chips) 
+Seat 2: casimiro124 (€11.10 in chips) 
+Seat 3: gazsam2000 (€11.22 in chips) 
+Seat 4: petrovichkag (€10.05 in chips) 
+Seat 5: electrobox (€10.52 in chips) 
+Seat 6: Matbrown27 (€15.62 in chips) 
+petrovichkag: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+Matbrown27: folds 
+Ck_wils: folds 
+casimiro124: raises €0.15 to €0.25
+gazsam2000: raises €0.75 to €1
+petrovichkag: folds 
+electrobox: folds 
+casimiro124: folds 
+Uncalled bet (€0.75) returned to gazsam2000
+gazsam2000 collected €0.65 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop
+Seat 3: gazsam2000 (button) collected (€0.65)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: electrobox (big blind) folded before Flop
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956315413:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:07:23 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: Ck_wils (€8.55 in chips) 
+Seat 2: casimiro124 (€10.85 in chips) 
+Seat 3: gazsam2000 (€11.62 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 5: electrobox (€10.42 in chips) 
+Seat 6: Matbrown27 (€15.62 in chips) 
+electrobox: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+*** HOLE CARDS ***
+Ck_wils: folds 
+casimiro124: folds 
+gazsam2000: folds 
+petrovichkag: folds 
+electrobox: raises €0.20 to €0.30
+Matbrown27: folds 
+Uncalled bet (€0.20) returned to electrobox
+electrobox collected €0.20 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Ck_wils folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: electrobox (small blind) collected (€0.20)
+Seat 6: Matbrown27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956327787:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:07:46 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 2: casimiro124 (€10.85 in chips) 
+Seat 3: gazsam2000 (€11.62 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 5: electrobox (€10.52 in chips) 
+Seat 6: Matbrown27 (€15.52 in chips) 
+Matbrown27: posts small blind €0.05
+Ck_wils: is sitting out 
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+Ck_wils leaves the table
+petrovichkag: folds 
+electrobox: folds 
+Matbrown27: folds 
+Uncalled bet (€0.05) returned to casimiro124
+casimiro124 collected €0.10 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 2: casimiro124 (big blind) collected (€0.10)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: electrobox (button) folded before Flop (didn't bet)
+Seat 6: Matbrown27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956336047:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:08:02 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 2: casimiro124 (€10.90 in chips) 
+Seat 3: gazsam2000 (€11.62 in chips) 
+Seat 4: petrovichkag (€10 in chips) 
+Seat 5: electrobox (€10.52 in chips) 
+Seat 6: Matbrown27 (€15.47 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+electrobox: folds 
+Matbrown27: raises €0.20 to €0.30
+casimiro124: calls €0.25
+gazsam2000: folds 
+*** FLOP *** [5s 4h 9s]
+casimiro124: checks 
+Matbrown27: checks 
+*** TURN *** [5s 4h 9s] [Tc]
+HarleyUwe joins the table at seat #1 
+casimiro124: checks 
+Matbrown27: bets €0.40
+casimiro124: folds 
+Uncalled bet (€0.40) returned to Matbrown27
+Matbrown27 collected €0.67 from pot
+Matbrown27: doesn't show hand 
+petrovichkag leaves the table
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.03 
+Board [5s 4h 9s Tc]
+Seat 2: casimiro124 (small blind) folded on the Turn
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) collected (€0.67)
+
+
+
+PokerStars Hand #222956352544:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:08:34 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 2: casimiro124 (€10.60 in chips) 
+Seat 3: gazsam2000 (€11.52 in chips) 
+Seat 5: electrobox (€10.52 in chips) 
+Seat 6: Matbrown27 (€15.84 in chips) 
+gazsam2000: posts small blind €0.05
+electrobox: posts big blind €0.10
+HarleyUwe: sits out 
+*** HOLE CARDS ***
+Matbrown27: folds 
+casimiro124: raises €0.15 to €0.25
+gazsam2000: calls €0.20
+electrobox: calls €0.15
+*** FLOP *** [7c 2s 2h]
+gazsam2000: checks 
+electrobox: checks 
+casimiro124: checks 
+*** TURN *** [7c 2s 2h] [5d]
+gazsam2000: bets €0.40
+electrobox: folds 
+casimiro124: folds 
+Uncalled bet (€0.40) returned to gazsam2000
+deckie94 joins the table at seat #4 
+gazsam2000 collected €0.72 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [7c 2s 2h 5d]
+Seat 2: casimiro124 (button) folded on the Turn
+Seat 3: gazsam2000 (small blind) collected (€0.72)
+Seat 5: electrobox (big blind) folded on the Turn
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956378588:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:09:24 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 2: casimiro124 (€10.35 in chips) 
+Seat 3: gazsam2000 (€11.99 in chips) 
+Seat 5: electrobox (€10.27 in chips) 
+Seat 6: Matbrown27 (€15.84 in chips) 
+electrobox: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+HarleyUwe: sits out 
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: raises €0.20 to €0.30
+electrobox: calls €0.25
+Matbrown27: folds 
+*** FLOP *** [Ad Kh 3s]
+electrobox: checks 
+gazsam2000: bets €0.40
+electrobox: calls €0.40
+*** TURN *** [Ad Kh 3s] [6h]
+electrobox: checks 
+gazsam2000: checks 
+*** RIVER *** [Ad Kh 3s 6h] [Ks]
+electrobox: bets €0.46
+gazsam2000: folds 
+Uncalled bet (€0.46) returned to electrobox
+electrobox collected €1.43 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.50 | Rake €0.07 
+Board [Ad Kh 3s 6h Ks]
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded on the River
+Seat 5: electrobox (small blind) collected (€1.43)
+Seat 6: Matbrown27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956401826:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:10:08 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€10 in chips) 
+Seat 2: casimiro124 (€10.35 in chips) 
+Seat 3: gazsam2000 (€11.29 in chips) 
+Seat 4: deckie94 (€10 in chips) 
+Seat 5: electrobox (€11 in chips) 
+Seat 6: Matbrown27 (€15.74 in chips) 
+Matbrown27: posts small blind €0.05
+HarleyUwe: posts big blind €0.10
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: checks 
+electrobox: raises €0.40 to €0.50
+Matbrown27: folds 
+HarleyUwe: folds 
+deckie94: folds 
+Uncalled bet (€0.40) returned to electrobox
+electrobox collected €0.35 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0 
+Seat 1: HarleyUwe (big blind) folded before Flop
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) collected (€0.35)
+Seat 6: Matbrown27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956412677:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:10:29 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: HarleyUwe (€9.90 in chips) 
+Seat 2: casimiro124 (€10.35 in chips) 
+Seat 3: gazsam2000 (€11.29 in chips) 
+Seat 4: deckie94 (€9.90 in chips) 
+Seat 5: electrobox (€11.25 in chips) 
+Seat 6: Matbrown27 (€15.69 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+deckie94: folds 
+electrobox: raises €0.20 to €0.30
+Matbrown27: folds 
+HarleyUwe: calls €0.25
+casimiro124: folds 
+*** FLOP *** [8h 9h Th]
+HarleyUwe: checks 
+electrobox: bets €0.45
+HarleyUwe: calls €0.45
+*** TURN *** [8h 9h Th] [3d]
+HarleyUwe: checks 
+electrobox: checks 
+*** RIVER *** [8h 9h Th 3d] [Tc]
+HarleyUwe: bets €0.77
+electrobox: raises €1.73 to €2.50
+HarleyUwe: raises €3.23 to €5.73
+electrobox: folds 
+Uncalled bet (€3.23) returned to HarleyUwe
+HarleyUwe collected €6.30 from pot
+*** SUMMARY ***
+Total pot €6.60 | Rake €0.30 
+Board [8h 9h Th 3d Tc]
+Seat 1: HarleyUwe (small blind) collected (€6.30)
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox folded on the River
+Seat 6: Matbrown27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956445919:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:11:32 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€12.95 in chips) 
+Seat 2: casimiro124 (€10.25 in chips) 
+Seat 3: gazsam2000 (€11.29 in chips) 
+Seat 4: deckie94 (€9.90 in chips) 
+Seat 5: electrobox (€10 in chips) 
+Seat 6: Matbrown27 (€15.69 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: calls €0.10
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: raises €0.35 to €0.45
+casimiro124: calls €0.40
+gazsam2000: folds 
+deckie94: calls €0.35
+*** FLOP *** [5d 7h 7d]
+casimiro124: checks 
+deckie94: checks 
+HarleyUwe: checks 
+*** TURN *** [5d 7h 7d] [4s]
+casimiro124: checks 
+deckie94: checks 
+HarleyUwe: checks 
+*** RIVER *** [5d 7h 7d 4s] [9c]
+casimiro124: checks 
+deckie94: checks 
+HarleyUwe: checks 
+*** SHOW DOWN ***
+casimiro124: shows [Qh Th] (a pair of Sevens)
+deckie94: shows [Ks Jh] (a pair of Sevens - King kicker)
+HarleyUwe: shows [Kc As] (a pair of Sevens - Ace kicker)
+HarleyUwe collected €1.38 from pot
+*** SUMMARY ***
+Total pot €1.45 | Rake €0.07 
+Board [5d 7h 7d 4s 9c]
+Seat 1: HarleyUwe (button) showed [Kc As] and won (€1.38) with a pair of Sevens
+Seat 2: casimiro124 (small blind) showed [Qh Th] and lost with a pair of Sevens
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: deckie94 showed [Ks Jh] and lost with a pair of Sevens
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956463784:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:12:06 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€13.88 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€11.19 in chips) 
+Seat 4: deckie94 (€9.45 in chips) 
+Seat 5: electrobox (€10 in chips) 
+Seat 6: Matbrown27 (€15.69 in chips) 
+gazsam2000: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: folds 
+Uncalled bet (€0.05) returned to deckie94
+deckie94 collected €0.10 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) collected (€0.10)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956471381:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:12:20 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: HarleyUwe (€13.88 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€11.14 in chips) 
+Seat 4: deckie94 (€9.50 in chips) 
+Seat 5: electrobox (€10 in chips) 
+Seat 6: Matbrown27 (€15.69 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+Matbrown27: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: calls €0.05
+electrobox: raises €0.40 to €0.50
+deckie94: folds 
+Uncalled bet (€0.40) returned to electrobox
+electrobox collected €0.20 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) folded before Flop
+Seat 5: electrobox (big blind) collected (€0.20)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956480796:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:12:38 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 3: gazsam2000 (€11.14 in chips) 
+Seat 4: deckie94 (€9.40 in chips) 
+Seat 5: electrobox (€10.10 in chips) 
+Seat 6: Matbrown27 (€15.69 in chips) 
+electrobox: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: raises €0.20 to €0.30
+gazsam2000: folds 
+deckie94: calls €0.30
+electrobox: folds 
+Matbrown27: calls €0.20
+*** FLOP *** [Ah 3d Js]
+Matbrown27: checks 
+casimiro124: checks 
+deckie94: checks 
+*** TURN *** [Ah 3d Js] [Jd]
+Matbrown27: checks 
+casimiro124: bets €0.48
+deckie94: folds 
+Matbrown27: folds 
+Uncalled bet (€0.48) returned to casimiro124
+casimiro124 collected €0.91 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.95 | Rake €0.04 
+Board [Ah 3d Js Jd]
+Seat 2: casimiro124 collected (€0.91)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 (button) folded on the Turn
+Seat 5: electrobox (small blind) folded before Flop
+Seat 6: Matbrown27 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222956500974:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:13:16 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 2: casimiro124 (€10.61 in chips) 
+Seat 3: gazsam2000 (€11.14 in chips) 
+Seat 4: deckie94 (€9.10 in chips) 
+Seat 5: electrobox (€10.05 in chips) 
+Seat 6: Matbrown27 (€15.39 in chips) 
+Matbrown27: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+deckie94: calls €0.10
+electrobox: raises €0.40 to €0.50
+Matbrown27: raises €1.20 to €1.70
+casimiro124: folds 
+deckie94: folds 
+electrobox: raises €8.35 to €10.05 and is all-in
+Matbrown27: calls €8.35
+*** FLOP *** [9c 7d Ad]
+*** TURN *** [9c 7d Ad] [Ks]
+*** RIVER *** [9c 7d Ad Ks] [4h]
+*** SHOW DOWN ***
+Matbrown27: shows [Ts Tc] (a pair of Tens)
+electrobox: shows [7h 7c] (three of a kind, Sevens)
+electrobox collected €19.39 from pot
+*** SUMMARY ***
+Total pot €20.30 | Rake €0.91 
+Board [9c 7d Ad Ks 4h]
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop
+Seat 5: electrobox (button) showed [7h 7c] and won (€19.39) with three of a kind, Sevens
+Seat 6: Matbrown27 (small blind) showed [Ts Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #222956526977:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:14:05 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 2: casimiro124 (€10.51 in chips) 
+Seat 3: gazsam2000 (€11.14 in chips) 
+Seat 4: deckie94 (€9 in chips) 
+Seat 5: electrobox (€19.39 in chips) 
+Seat 6: Matbrown27 (€5.34 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: calls €0.10
+electrobox: folds 
+Matbrown27: folds 
+casimiro124: raises €0.40 to €0.50
+gazsam2000: folds 
+deckie94: calls €0.40
+*** FLOP *** [2s Jd 8h]
+casimiro124: bets €0.35
+deckie94: calls €0.35
+*** TURN *** [2s Jd 8h] [8d]
+casimiro124: bets €0.91
+deckie94: folds 
+Uncalled bet (€0.91) returned to casimiro124
+casimiro124 collected €1.72 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.80 | Rake €0.08 
+Board [2s Jd 8h 8d]
+Seat 2: casimiro124 (small blind) collected (€1.72)
+Seat 3: gazsam2000 (big blind) folded before Flop
+Seat 4: deckie94 folded on the Turn
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956549723:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:14:48 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 2: casimiro124 (€11.38 in chips) 
+Seat 3: gazsam2000 (€11.04 in chips) 
+Seat 4: deckie94 (€8.15 in chips) 
+Seat 5: electrobox (€19.39 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+gazsam2000: posts small blind €0.05
+deckie94: posts big blind €0.10
+HarleyUwe: sits out 
+*** HOLE CARDS ***
+electrobox: folds 
+Matbrown27: folds 
+casimiro124: folds 
+gazsam2000: folds 
+Uncalled bet (€0.05) returned to deckie94
+deckie94 collected €0.10 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) collected (€0.10)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956553742:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:14:56 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 2: casimiro124 (€11.38 in chips) 
+Seat 3: gazsam2000 (€10.99 in chips) 
+Seat 4: deckie94 (€8.20 in chips) 
+Seat 5: electrobox (€19.39 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+HarleyUwe: sits out 
+*** HOLE CARDS ***
+Matbrown27: folds 
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: raises €0.20 to €0.30
+electrobox: calls €0.20
+*** FLOP *** [4s Qs 7c]
+deckie94: bets €0.29
+electrobox: folds 
+Uncalled bet (€0.29) returned to deckie94
+deckie94 collected €0.57 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [4s Qs 7c]
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) collected (€0.57)
+Seat 5: electrobox (big blind) folded on the Flop
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956565693:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:15:18 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 2: casimiro124 (€11.38 in chips) 
+Seat 3: gazsam2000 (€10.99 in chips) 
+Seat 4: deckie94 (€8.47 in chips) 
+Seat 5: electrobox (€19.09 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+electrobox: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+HarleyUwe: sits out 
+*** HOLE CARDS ***
+casimiro124: raises €0.20 to €0.30
+gazsam2000: folds 
+deckie94: calls €0.30
+electrobox: folds 
+Matbrown27: folds 
+*** FLOP *** [3s 6d 8c]
+casimiro124: bets €0.56
+deckie94: folds 
+Uncalled bet (€0.56) returned to casimiro124
+casimiro124 collected €0.72 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [3s 6d 8c]
+Seat 2: casimiro124 collected (€0.72)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 (button) folded on the Flop
+Seat 5: electrobox (small blind) folded before Flop
+Seat 6: Matbrown27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956580010:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:15:44 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€13.88 in chips) 
+Seat 2: casimiro124 (€11.80 in chips) 
+Seat 3: gazsam2000 (€10.99 in chips) 
+Seat 4: deckie94 (€8.17 in chips) 
+Seat 5: electrobox (€19.04 in chips) 
+Seat 6: Matbrown27 (€9.90 in chips) 
+Matbrown27: posts small blind €0.05
+HarleyUwe: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: calls €0.10
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: checks 
+*** FLOP *** [Th 6d Ad]
+HarleyUwe: checks 
+deckie94: bets €0.10
+HarleyUwe: folds 
+Uncalled bet (€0.10) returned to deckie94
+deckie94 collected €0.24 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [Th 6d Ad]
+Seat 1: HarleyUwe (big blind) folded on the Flop
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 collected (€0.24)
+Seat 5: electrobox (button) folded before Flop (didn't bet)
+Seat 6: Matbrown27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956592518:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:16:08 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: HarleyUwe (€13.78 in chips) 
+Seat 2: casimiro124 (€11.80 in chips) 
+Seat 3: gazsam2000 (€10.99 in chips) 
+Seat 4: deckie94 (€8.31 in chips) 
+Seat 5: electrobox (€19.04 in chips) 
+Seat 6: Matbrown27 (€9.85 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+deckie94: folds 
+electrobox: folds 
+Matbrown27: raises €0.15 to €0.25
+HarleyUwe: folds 
+casimiro124: folds 
+Uncalled bet (€0.15) returned to Matbrown27
+Matbrown27 collected €0.25 from pot
+Matbrown27: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: HarleyUwe (small blind) folded before Flop
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) collected (€0.25)
+
+
+
+PokerStars Hand #222956600624:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:16:23 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€13.73 in chips) 
+Seat 2: casimiro124 (€11.70 in chips) 
+Seat 3: gazsam2000 (€10.99 in chips) 
+Seat 4: deckie94 (€8.31 in chips) 
+Seat 5: electrobox (€19.04 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: calls €0.10
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: checks 
+*** FLOP *** [2s 8h Jd]
+gazsam2000: checks 
+deckie94: checks 
+*** TURN *** [2s 8h Jd] [8c]
+gazsam2000: checks 
+deckie94: bets €0.12
+gazsam2000: folds 
+Uncalled bet (€0.12) returned to deckie94
+deckie94 collected €0.24 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [2s 8h Jd 8c]
+Seat 1: HarleyUwe (button) folded before Flop (didn't bet)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) folded on the Turn
+Seat 4: deckie94 collected (€0.24)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956613720:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:16:47 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€13.73 in chips) 
+Seat 2: casimiro124 (€11.65 in chips) 
+Seat 3: gazsam2000 (€10.89 in chips) 
+Seat 4: deckie94 (€8.45 in chips) 
+Seat 5: electrobox (€19.04 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+gazsam2000: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: raises €0.20 to €0.30
+Matbrown27: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: calls €0.20
+*** FLOP *** [6c 2h Ad]
+deckie94: bets €0.31
+electrobox: calls €0.31
+*** TURN *** [6c 2h Ad] [5d]
+deckie94: bets €1.21
+electrobox: calls €1.21
+*** RIVER *** [6c 2h Ad 5d] [7c]
+deckie94: bets €3.52
+electrobox: calls €3.52
+*** SHOW DOWN ***
+deckie94: shows [9h Ac] (a pair of Aces)
+electrobox: mucks hand 
+deckie94 collected €10.25 from pot
+*** SUMMARY ***
+Total pot €10.73 | Rake €0.48 
+Board [6c 2h Ad 5d 7c]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) showed [9h Ac] and won (€10.25) with a pair of Aces
+Seat 5: electrobox mucked
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956639135:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:17:35 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: HarleyUwe (€13.73 in chips) 
+Seat 2: casimiro124 (€11.65 in chips) 
+Seat 3: gazsam2000 (€10.84 in chips) 
+Seat 4: deckie94 (€13.36 in chips) 
+Seat 5: electrobox (€13.70 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+Matbrown27: raises €0.15 to €0.25
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: folds 
+electrobox: calls €0.15
+*** FLOP *** [9d 3h As]
+electrobox: checks 
+Matbrown27: bets €0.17
+electrobox: calls €0.17
+*** TURN *** [9d 3h As] [3s]
+electrobox: checks 
+Matbrown27: bets €0.51
+electrobox: calls €0.51
+*** RIVER *** [9d 3h As 3s] [7c]
+electrobox: checks 
+Matbrown27: checks 
+*** SHOW DOWN ***
+electrobox: shows [Ah Js] (two pair, Aces and Threes)
+Matbrown27: mucks hand 
+electrobox collected €1.82 from pot
+*** SUMMARY ***
+Total pot €1.91 | Rake €0.09 
+Board [9d 3h As 3s 7c]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) folded before Flop
+Seat 5: electrobox (big blind) showed [Ah Js] and won (€1.82) with two pair, Aces and Threes
+Seat 6: Matbrown27 mucked
+
+
+
+PokerStars Hand #222956667841:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:18:29 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: HarleyUwe (€13.73 in chips) 
+Seat 2: casimiro124 (€11.65 in chips) 
+Seat 3: gazsam2000 (€10.84 in chips) 
+Seat 4: deckie94 (€13.31 in chips) 
+Seat 5: electrobox (€14.59 in chips) 
+Seat 6: Matbrown27 (€9.07 in chips) 
+electrobox: posts small blind €0.05
+Matbrown27: posts big blind €0.10
+*** HOLE CARDS ***
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: raises €0.20 to €0.30
+deckie94: folds 
+electrobox: calls €0.25
+Matbrown27: folds 
+*** FLOP *** [6c 3h Jd]
+electrobox: checks 
+gazsam2000: checks 
+*** TURN *** [6c 3h Jd] [8s]
+electrobox: checks 
+gazsam2000: bets €0.22
+electrobox: calls €0.22
+*** RIVER *** [6c 3h Jd 8s] [9h]
+electrobox: checks 
+gazsam2000: checks 
+*** SHOW DOWN ***
+electrobox: shows [Ac 8c] (a pair of Eights)
+gazsam2000: mucks hand 
+electrobox collected €1.09 from pot
+*** SUMMARY ***
+Total pot €1.14 | Rake €0.05 
+Board [6c 3h Jd 8s 9h]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 mucked
+Seat 4: deckie94 (button) folded before Flop (didn't bet)
+Seat 5: electrobox (small blind) showed [Ac 8c] and won (€1.09) with a pair of Eights
+Seat 6: Matbrown27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956696344:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:19:22 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€13.73 in chips) 
+Seat 2: casimiro124 (€11.65 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€13.31 in chips) 
+Seat 5: electrobox (€15.16 in chips) 
+Seat 6: Matbrown27 (€10 in chips) 
+Matbrown27: posts small blind €0.05
+HarleyUwe: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: folds 
+electrobox: folds 
+Matbrown27: folds 
+Uncalled bet (€0.05) returned to HarleyUwe
+HarleyUwe collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: HarleyUwe (big blind) collected (€0.10)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) folded before Flop (didn't bet)
+Seat 6: Matbrown27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956704708:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:19:38 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: HarleyUwe (€13.78 in chips) 
+Seat 2: casimiro124 (€11.65 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€13.31 in chips) 
+Seat 5: electrobox (€15.16 in chips) 
+Seat 6: Matbrown27 (€9.95 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+deckie94: folds 
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: calls €0.05
+casimiro124: checks 
+*** FLOP *** [8h Ac 4s]
+HarleyUwe: checks 
+casimiro124: checks 
+*** TURN *** [8h Ac 4s] [3s]
+HarleyUwe: bets €0.19
+casimiro124: folds 
+Uncalled bet (€0.19) returned to HarleyUwe
+HarleyUwe collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [8h Ac 4s 3s]
+Seat 1: HarleyUwe (small blind) collected (€0.19)
+Seat 2: casimiro124 (big blind) folded on the Turn
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956718786:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:20:04 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€13.87 in chips) 
+Seat 2: casimiro124 (€11.55 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€13.31 in chips) 
+Seat 5: electrobox (€15.16 in chips) 
+Seat 6: Matbrown27 (€9.95 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: folds 
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+Uncalled bet (€0.05) returned to gazsam2000
+gazsam2000 collected €0.10 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: HarleyUwe (button) folded before Flop (didn't bet)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) collected (€0.10)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956723671:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:20:13 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€13.87 in chips) 
+Seat 2: casimiro124 (€11.50 in chips) 
+Seat 3: gazsam2000 (€10.37 in chips) 
+Seat 4: deckie94 (€13.31 in chips) 
+Seat 5: electrobox (€15.16 in chips) 
+Seat 6: Matbrown27 (€9.95 in chips) 
+gazsam2000: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+Matbrown27: folds 
+HarleyUwe: folds 
+casimiro124: raises €0.15 to €0.25
+gazsam2000: folds 
+deckie94: calls €0.15
+*** FLOP *** [5d 4c Qd]
+deckie94: bets €0.27
+casimiro124: folds 
+Uncalled bet (€0.27) returned to deckie94
+deckie94 collected €0.53 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.02 
+Board [5d 4c Qd]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded on the Flop
+Seat 3: gazsam2000 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) collected (€0.53)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: Matbrown27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956742184:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:20:47 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: HarleyUwe (€13.87 in chips) 
+Seat 2: casimiro124 (€11.25 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€13.59 in chips) 
+Seat 5: electrobox (€15.16 in chips) 
+Seat 6: Matbrown27 (€9.95 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+Matbrown27: raises €0.15 to €0.25
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: calls €0.25
+deckie94: raises €0.85 to €1.10
+electrobox: folds 
+Matbrown27: folds 
+gazsam2000: calls €0.85
+*** FLOP *** [8h Qh 5h]
+deckie94: bets €2.44
+gazsam2000: folds 
+Uncalled bet (€2.44) returned to deckie94
+deckie94 collected €2.44 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.55 | Rake €0.11 
+Board [8h Qh 5h]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded on the Flop
+Seat 4: deckie94 (small blind) collected (€2.44)
+Seat 5: electrobox (big blind) folded before Flop
+Seat 6: Matbrown27 folded before Flop
+
+
+
+PokerStars Hand #222956760751:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:21:22 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: HarleyUwe (€13.87 in chips) 
+Seat 2: casimiro124 (€11.25 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: deckie94 (€14.93 in chips) 
+Seat 5: electrobox (€15.06 in chips) 
+electrobox: posts small blind €0.05
+Matbrown27: is sitting out 
+HarleyUwe: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: raises €0.20 to €0.30
+Matbrown27 leaves the table
+robotov joins the table at seat #6 
+deckie94: folds 
+electrobox: calls €0.25
+HarleyUwe: folds 
+*** FLOP *** [2s 7s Ks]
+electrobox: checks 
+gazsam2000: bets €0.34
+electrobox: calls €0.34
+*** TURN *** [2s 7s Ks] [5s]
+electrobox: checks 
+gazsam2000: checks 
+*** RIVER *** [2s 7s Ks 5s] [Qd]
+electrobox: checks 
+gazsam2000: checks 
+*** SHOW DOWN ***
+electrobox: shows [7d 7c] (three of a kind, Sevens)
+gazsam2000: mucks hand 
+electrobox collected €1.32 from pot
+*** SUMMARY ***
+Total pot €1.38 | Rake €0.06 
+Board [2s 7s Ks 5s Qd]
+Seat 1: HarleyUwe (big blind) folded before Flop
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 mucked
+Seat 4: deckie94 (button) folded before Flop (didn't bet)
+Seat 5: electrobox (small blind) showed [7d 7c] and won (€1.32) with three of a kind, Sevens
+
+
+
+PokerStars Hand #222956782481:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:22:02 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€13.77 in chips) 
+Seat 2: casimiro124 (€11.25 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: deckie94 (€14.93 in chips) 
+Seat 5: electrobox (€15.74 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+deckie94: folds 
+electrobox: folds 
+HarleyUwe: calls €0.05
+casimiro124: raises €0.40 to €0.50
+HarleyUwe: folds 
+Uncalled bet (€0.40) returned to casimiro124
+casimiro124 collected €0.20 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: HarleyUwe (small blind) folded before Flop
+Seat 2: casimiro124 (big blind) collected (€0.20)
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956792724:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:22:21 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€13.67 in chips) 
+Seat 2: casimiro124 (€11.35 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: deckie94 (€14.93 in chips) 
+Seat 5: electrobox (€15.74 in chips) 
+casimiro124: posts small blind €0.05
+gazsam2000: posts big blind €0.10
+robotov: sits out 
+*** HOLE CARDS ***
+deckie94: folds 
+electrobox: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+Uncalled bet (€0.05) returned to gazsam2000
+gazsam2000 collected €0.10 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: HarleyUwe (button) folded before Flop (didn't bet)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 3: gazsam2000 (big blind) collected (€0.10)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956798241:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:22:32 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€13.67 in chips) 
+Seat 2: casimiro124 (€11.30 in chips) 
+Seat 3: gazsam2000 (€10.05 in chips) 
+Seat 4: deckie94 (€14.93 in chips) 
+Seat 5: electrobox (€15.74 in chips) 
+gazsam2000: posts small blind €0.05
+deckie94: posts big blind €0.10
+robotov: sits out 
+*** HOLE CARDS ***
+electrobox: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+gazsam2000: raises €0.20 to €0.30
+deckie94: calls €0.20
+*** FLOP *** [3d 9d Th]
+gazsam2000: bets €0.30
+deckie94: folds 
+Uncalled bet (€0.30) returned to gazsam2000
+gazsam2000 collected €0.57 from pot
+gazsam2000: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [3d 9d Th]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 3: gazsam2000 (small blind) collected (€0.57)
+Seat 4: deckie94 (big blind) folded on the Flop
+Seat 5: electrobox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956809106:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:22:52 ET
+Table 'Alsafi III' 6-max Seat #3 is the button
+Seat 1: HarleyUwe (€13.67 in chips) 
+Seat 2: casimiro124 (€11.30 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€14.63 in chips) 
+Seat 5: electrobox (€15.74 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+robotov: sits out 
+*** HOLE CARDS ***
+HarleyUwe: calls €0.10
+casimiro124: folds 
+gazsam2000: folds 
+deckie94: calls €0.05
+electrobox: checks 
+*** FLOP *** [Tc Ah 5d]
+deckie94: checks 
+electrobox: checks 
+HarleyUwe: bets €0.29
+deckie94: folds 
+electrobox: folds 
+Uncalled bet (€0.29) returned to HarleyUwe
+HarleyUwe collected €0.29 from pot
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.01 
+Board [Tc Ah 5d]
+Seat 1: HarleyUwe collected (€0.29)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) folded on the Flop
+Seat 5: electrobox (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222956820538:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:23:13 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: HarleyUwe (€13.86 in chips) 
+Seat 2: casimiro124 (€11.30 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€14.53 in chips) 
+Seat 5: electrobox (€15.64 in chips) 
+Seat 6: robotov (€10 in chips) 
+electrobox: posts small blind €0.05
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+HarleyUwe: folds 
+casimiro124: raises €0.20 to €0.30
+gazsam2000: folds 
+deckie94: calls €0.30
+electrobox: folds 
+robotov: folds 
+*** FLOP *** [5c 8c 3c]
+casimiro124: checks 
+deckie94: bets €0.36
+casimiro124: calls €0.36
+*** TURN *** [5c 8c 3c] [8h]
+casimiro124: checks 
+deckie94: bets €1.40
+casimiro124: folds 
+Uncalled bet (€1.40) returned to deckie94
+deckie94 collected €1.40 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.47 | Rake €0.07 
+Board [5c 8c 3c 8h]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 folded on the Turn
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 (button) collected (€1.40)
+Seat 5: electrobox (small blind) folded before Flop
+Seat 6: robotov (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956834541:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:23:38 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€13.86 in chips) 
+Seat 2: casimiro124 (€10.64 in chips) 
+Seat 3: gazsam2000 (€10.32 in chips) 
+Seat 4: deckie94 (€15.27 in chips) 
+Seat 5: electrobox (€15.59 in chips) 
+Seat 6: robotov (€10 in chips) 
+robotov: posts small blind €0.05
+HarleyUwe: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+gazsam2000: raises €0.20 to €0.30
+deckie94: folds 
+electrobox: raises €0.70 to €1
+robotov: folds 
+HarleyUwe: folds 
+gazsam2000: raises €1.50 to €2.50
+electrobox: calls €1.50
+*** FLOP *** [8c 5s 5c]
+gazsam2000: checks 
+electrobox: bets €1.70
+gazsam2000: folds 
+Uncalled bet (€1.70) returned to electrobox
+electrobox collected €4.92 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €5.15 | Rake €0.23 
+Board [8c 5s 5c]
+Seat 1: HarleyUwe (big blind) folded before Flop
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 3: gazsam2000 folded on the Flop
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) collected (€4.92)
+Seat 6: robotov (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956872479:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:24:49 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: HarleyUwe (€13.76 in chips) 
+Seat 2: casimiro124 (€10.64 in chips) 
+Seat 3: gazsam2000 (€10 in chips) 
+Seat 4: deckie94 (€15.27 in chips) 
+Seat 5: electrobox (€18.01 in chips) 
+Seat 6: robotov (€10 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+gazsam2000: folds 
+deckie94: folds 
+electrobox: folds 
+gazsam2000 leaves the table
+robotov: raises €0.12 to €0.22
+HarleyUwe: folds 
+casimiro124: folds 
+Uncalled bet (€0.12) returned to robotov
+robotov collected €0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: HarleyUwe (small blind) folded before Flop
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 3: gazsam2000 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: robotov (button) collected (€0.25)
+
+
+
+PokerStars Hand #222956879564:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:25:02 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€13.71 in chips) 
+Seat 2: casimiro124 (€10.54 in chips) 
+Seat 4: deckie94 (€15.27 in chips) 
+Seat 5: electrobox (€18.01 in chips) 
+Seat 6: robotov (€10.15 in chips) 
+casimiro124: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+robotov: folds 
+HarleyUwe: calls €0.10
+casimiro124: calls €0.05
+deckie94: checks 
+*** FLOP *** [Kh 5c 7c]
+Amijeovin joins the table at seat #3 
+casimiro124: checks 
+Amijeovin leaves the table
+deckie94: bets €0.15
+HarleyUwe: folds 
+casimiro124: calls €0.15
+*** TURN *** [Kh 5c 7c] [2s]
+casimiro124: checks 
+deckie94: bets €0.29
+casimiro124: folds 
+Uncalled bet (€0.29) returned to deckie94
+deckie94 collected €0.57 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [Kh 5c 7c 2s]
+Seat 1: HarleyUwe (button) folded on the Flop
+Seat 2: casimiro124 (small blind) folded on the Turn
+Seat 4: deckie94 (big blind) collected (€0.57)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956901075:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:25:41 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€13.61 in chips) 
+Seat 2: casimiro124 (€10.29 in chips) 
+Seat 4: deckie94 (€15.59 in chips) 
+Seat 5: electrobox (€18.01 in chips) 
+Seat 6: robotov (€10.15 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+robotov: folds 
+HarleyUwe: folds 
+casimiro124: raises €0.15 to €0.25
+deckie94: folds 
+electrobox: folds 
+Uncalled bet (€0.15) returned to casimiro124
+casimiro124 collected €0.25 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) collected (€0.25)
+Seat 4: deckie94 (small blind) folded before Flop
+Seat 5: electrobox (big blind) folded before Flop
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956910475:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:25:59 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: HarleyUwe (€13.61 in chips) 
+Seat 2: casimiro124 (€10.44 in chips) 
+Seat 4: deckie94 (€15.54 in chips) 
+Seat 5: electrobox (€17.91 in chips) 
+Seat 6: robotov (€10.15 in chips) 
+electrobox: posts small blind €0.05
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+HarleyUwe: folds 
+casimiro124: raises €0.15 to €0.25
+deckie94: folds 
+electrobox: folds 
+robotov: folds 
+Uncalled bet (€0.15) returned to casimiro124
+casimiro124 collected €0.25 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 collected (€0.25)
+Seat 4: deckie94 (button) folded before Flop (didn't bet)
+Seat 5: electrobox (small blind) folded before Flop
+Seat 6: robotov (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956919114:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:26:15 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€13.61 in chips) 
+Seat 2: casimiro124 (€10.59 in chips) 
+Seat 4: deckie94 (€15.54 in chips) 
+Seat 5: electrobox (€17.86 in chips) 
+Seat 6: robotov (€10.05 in chips) 
+robotov: posts small blind €0.05
+HarleyUwe: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: raises €0.20 to €0.30
+deckie94: folds 
+electrobox: folds 
+robotov: folds 
+HarleyUwe: raises €0.65 to €0.95
+casimiro124: calls €0.65
+*** FLOP *** [Th 5s 9s]
+HarleyUwe: bets €0.93
+casimiro124: folds 
+Uncalled bet (€0.93) returned to HarleyUwe
+HarleyUwe collected €1.86 from pot
+*** SUMMARY ***
+Total pot €1.95 | Rake €0.09 
+Board [Th 5s 9s]
+Seat 1: HarleyUwe (big blind) collected (€1.86)
+Seat 2: casimiro124 folded on the Flop
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) folded before Flop (didn't bet)
+Seat 6: robotov (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956928712:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:26:32 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: HarleyUwe (€14.52 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.54 in chips) 
+Seat 5: electrobox (€17.86 in chips) 
+Seat 6: robotov (€10 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: calls €0.10
+electrobox: folds 
+robotov: folds 
+HarleyUwe: folds 
+casimiro124: checks 
+*** FLOP *** [Tc Jc Ad]
+casimiro124: checks 
+deckie94: bets €0.12
+casimiro124: folds 
+Uncalled bet (€0.12) returned to deckie94
+deckie94 collected €0.24 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [Tc Jc Ad]
+Seat 1: HarleyUwe (small blind) folded before Flop
+Seat 2: casimiro124 (big blind) folded on the Flop
+Seat 4: deckie94 collected (€0.24)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: robotov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956942018:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:26:57 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€14.47 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.68 in chips) 
+Seat 5: electrobox (€17.86 in chips) 
+Seat 6: robotov (€10 in chips) 
+casimiro124: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+robotov: folds 
+HarleyUwe: folds 
+casimiro124: folds 
+Uncalled bet (€0.05) returned to deckie94
+deckie94 collected €0.10 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: HarleyUwe (button) folded before Flop (didn't bet)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) collected (€0.10)
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956945697:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:27:04 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€14.47 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.73 in chips) 
+Seat 5: electrobox (€17.86 in chips) 
+Seat 6: robotov (€10 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+robotov: folds 
+HarleyUwe: raises €0.25 to €0.35
+casimiro124: folds 
+deckie94: folds 
+electrobox: calls €0.25
+*** FLOP *** [Ks 7d 9h]
+electrobox: checks 
+HarleyUwe: bets €0.36
+electrobox: folds 
+Uncalled bet (€0.36) returned to HarleyUwe
+HarleyUwe collected €0.72 from pot
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [Ks 7d 9h]
+Seat 1: HarleyUwe collected (€0.72)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) folded before Flop
+Seat 5: electrobox (big blind) folded on the Flop
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956956928:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:27:24 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: HarleyUwe (€14.84 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.68 in chips) 
+Seat 5: electrobox (€17.51 in chips) 
+Seat 6: robotov (€10 in chips) 
+electrobox: posts small blind €0.05
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+HarleyUwe: folds 
+casimiro124: folds 
+deckie94: raises €0.20 to €0.30
+electrobox: folds 
+robotov: calls €0.20
+*** FLOP *** [6s 6d 2s]
+robotov: checks 
+deckie94: bets €0.62
+robotov: folds 
+Uncalled bet (€0.62) returned to deckie94
+deckie94 collected €0.62 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [6s 6d 2s]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 4: deckie94 (button) collected (€0.62)
+Seat 5: electrobox (small blind) folded before Flop
+Seat 6: robotov (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222956983021:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:28:12 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: HarleyUwe (€14.84 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€16 in chips) 
+Seat 5: electrobox (€17.46 in chips) 
+Seat 6: robotov (€10 in chips) 
+robotov: posts small blind €0.05
+HarleyUwe: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: folds 
+deckie94: folds 
+electrobox: folds 
+robotov: raises €0.20 to €0.30
+HarleyUwe: folds 
+Uncalled bet (€0.20) returned to robotov
+robotov collected €0.20 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: HarleyUwe (big blind) folded before Flop
+Seat 2: casimiro124 folded before Flop (didn't bet)
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) folded before Flop (didn't bet)
+Seat 6: robotov (small blind) collected (€0.20)
+
+
+
+PokerStars Hand #222956991401:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:28:27 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: HarleyUwe (€14.74 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€16 in chips) 
+Seat 5: electrobox (€17.46 in chips) 
+Seat 6: robotov (€10.10 in chips) 
+HarleyUwe: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: folds 
+electrobox: raises €0.20 to €0.30
+robotov has timed out
+robotov: folds 
+HarleyUwe: calls €0.25
+casimiro124: folds 
+*** FLOP *** [4c Kd 2s]
+HarleyUwe: checks 
+electrobox: bets €0.30
+HarleyUwe: folds 
+Uncalled bet (€0.30) returned to electrobox
+electrobox collected €0.67 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.03 
+Board [4c Kd 2s]
+Seat 1: HarleyUwe (small blind) folded on the Flop
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox collected (€0.67)
+Seat 6: robotov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957009798:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:29:01 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: HarleyUwe (€14.44 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€16 in chips) 
+Seat 5: electrobox (€17.83 in chips) 
+Seat 6: robotov (€10.10 in chips) 
+casimiro124: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+robotov: folds 
+HarleyUwe: calls €0.10
+casimiro124: raises €0.40 to €0.50
+deckie94: calls €0.40
+HarleyUwe: folds 
+*** FLOP *** [Jh 8d Js]
+casimiro124: bets €0.35
+deckie94: folds 
+Uncalled bet (€0.35) returned to casimiro124
+casimiro124 collected €1.05 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.10 | Rake €0.05 
+Board [Jh 8d Js]
+Seat 1: HarleyUwe (button) folded before Flop
+Seat 2: casimiro124 (small blind) collected (€1.05)
+Seat 4: deckie94 (big blind) folded on the Flop
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957024406:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:29:28 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: HarleyUwe (€14.34 in chips) 
+Seat 2: casimiro124 (€10.55 in chips) 
+Seat 4: deckie94 (€15.50 in chips) 
+Seat 5: electrobox (€17.83 in chips) 
+Seat 6: robotov (€10.10 in chips) 
+deckie94: posts small blind €0.05
+electrobox: posts big blind €0.10
+*** HOLE CARDS ***
+robotov: folds 
+HarleyUwe: folds 
+casimiro124: raises €0.15 to €0.25
+deckie94: calls €0.20
+electrobox: folds 
+*** FLOP *** [7h Td As]
+deckie94: bets €0.29
+casimiro124: calls €0.29
+*** TURN *** [7h Td As] [6d]
+deckie94: bets €0.57
+HarleyUwe leaves the table
+casimiro124: folds 
+Uncalled bet (€0.57) returned to deckie94
+deckie94 collected €1.13 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.18 | Rake €0.05 
+Board [7h Td As 6d]
+Seat 1: HarleyUwe folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded on the Turn
+Seat 4: deckie94 (small blind) collected (€1.13)
+Seat 5: electrobox (big blind) folded before Flop
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957041752:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:30:00 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 2: casimiro124 (€10.01 in chips) 
+Seat 4: deckie94 (€16.09 in chips) 
+Seat 5: electrobox (€17.73 in chips) 
+Seat 6: robotov (€10.10 in chips) 
+electrobox: posts small blind €0.05
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: raises €0.15 to €0.25
+deckie94: calls €0.25
+electrobox: raises €1.25 to €1.50
+robotov: folds 
+casimiro124: folds 
+deckie94: folds 
+Uncalled bet (€1.25) returned to electrobox
+electrobox collected €0.85 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.85 | Rake €0 
+Seat 2: casimiro124 folded before Flop
+Seat 4: deckie94 (button) folded before Flop
+Seat 5: electrobox (small blind) collected (€0.85)
+Seat 6: robotov (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957054826:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:30:24 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.84 in chips) 
+Seat 5: electrobox (€18.33 in chips) 
+Seat 6: robotov (€10 in chips) 
+robotov: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: folds 
+electrobox: raises €0.20 to €0.30
+robotov: folds 
+casimiro124: folds 
+Uncalled bet (€0.20) returned to electrobox
+electrobox collected €0.25 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: electrobox (button) collected (€0.25)
+Seat 6: robotov (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957063830:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:30:40 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.84 in chips) 
+Seat 5: electrobox (€18.48 in chips) 
+Seat 6: robotov (€10 in chips) 
+casimiro124: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+electrobox: folds 
+robotov: raises €0.12 to €0.22
+casimiro124: folds 
+deckie94: calls €0.12
+*** FLOP *** [Kh 6c 8h]
+deckie94: checks 
+robotov: checks 
+*** TURN *** [Kh 6c 8h] [4d]
+deckie94: checks 
+robotov: checks 
+*** RIVER *** [Kh 6c 8h 4d] [3c]
+deckie94: checks 
+robotov: checks 
+*** SHOW DOWN ***
+deckie94: shows [Ts 9s] (high card King)
+robotov: shows [Jd Qh] (high card King - Queen kicker)
+robotov collected €0.47 from pot
+*** SUMMARY ***
+Total pot €0.49 | Rake €0.02 
+Board [Kh 6c 8h 4d 3c]
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) showed [Ts 9s] and lost with high card King
+Seat 5: electrobox folded before Flop (didn't bet)
+Seat 6: robotov (button) showed [Jd Qh] and won (€0.47) with high card King
+
+
+
+PokerStars Hand #222957086245:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:31:09 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.62 in chips) 
+Seat 6: robotov (€10.25 in chips) 
+deckie94: posts small blind €0.05
+electrobox: is sitting out 
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: raises €0.15 to €0.25
+electrobox leaves the table
+deckie94: folds 
+robotov: raises €0.75 to €1
+casimiro124: folds 
+Uncalled bet (€0.75) returned to robotov
+robotov collected €0.55 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0 
+Seat 2: casimiro124 (button) folded before Flop
+Seat 4: deckie94 (small blind) folded before Flop
+Seat 6: robotov (big blind) collected (€0.55)
+
+
+
+PokerStars Hand #222957098534:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:31:32 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.57 in chips) 
+Seat 6: robotov (€10.55 in chips) 
+robotov: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+eustw joins the table at seat #5 
+deckie94: folds 
+robotov: folds 
+Uncalled bet (€0.05) returned to casimiro124
+casimiro124 collected €0.10 from pot
+casimiro124: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 2: casimiro124 (big blind) collected (€0.10)
+Seat 4: deckie94 (button) folded before Flop (didn't bet)
+Seat 6: robotov (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957102762:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:31:39 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 2: casimiro124 (€10.05 in chips) 
+Seat 4: deckie94 (€15.57 in chips) 
+Seat 6: robotov (€10.50 in chips) 
+casimiro124: posts small blind €0.05
+deckie94: posts big blind €0.10
+eustw: sits out 
+*** HOLE CARDS ***
+robotov: raises €0.12 to €0.22
+casimiro124: folds 
+deckie94: calls €0.12
+*** FLOP *** [Qs Kh Js]
+deckie94: bets €0.47
+robotov: folds 
+Uncalled bet (€0.47) returned to deckie94
+deckie94 collected €0.47 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.49 | Rake €0.02 
+Board [Qs Kh Js]
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) collected (€0.47)
+Seat 6: robotov (button) folded on the Flop
+
+
+
+PokerStars Hand #222957112530:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:31:57 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.82 in chips) 
+Seat 5: eustw (€10 in chips) 
+Seat 6: robotov (€10.28 in chips) 
+deckie94: posts small blind €0.05
+eustw: posts big blind €0.10
+*** HOLE CARDS ***
+robotov: raises €0.20 to €0.30
+casimiro124: folds 
+deckie94: calls €0.25
+eustw: calls €0.20
+*** FLOP *** [3c As 7d]
+deckie94: checks 
+WendrinerAladar joins the table at seat #1 
+eustw: checks 
+robotov: bets €0.28
+deckie94: folds 
+eustw: folds 
+Uncalled bet (€0.28) returned to robotov
+robotov collected €0.86 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.90 | Rake €0.04 
+Board [3c As 7d]
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) folded on the Flop
+Seat 5: eustw (big blind) folded on the Flop
+Seat 6: robotov collected (€0.86)
+
+
+
+PokerStars Hand #222957132783:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:32:34 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.52 in chips) 
+Seat 5: eustw (€10 in chips) 
+Seat 6: robotov (€10.84 in chips) 
+eustw: posts small blind €0.05
+robotov: posts big blind €0.10
+WendrinerAladar: sits out 
+*** HOLE CARDS ***
+casimiro124: raises €0.15 to €0.25
+deckie94: folds 
+eustw: folds 
+robotov: calls €0.15
+*** FLOP *** [Qd 5h Qc]
+robotov: checks 
+casimiro124: bets €0.28
+robotov: calls €0.28
+*** TURN *** [Qd 5h Qc] [4c]
+robotov: checks 
+casimiro124: bets €0.56
+robotov: calls €0.56
+*** RIVER *** [Qd 5h Qc 4c] [6c]
+robotov: checks 
+casimiro124: checks 
+*** SHOW DOWN ***
+robotov: shows [Ts Ad] (a pair of Queens)
+casimiro124: mucks hand 
+robotov collected €2.13 from pot
+*** SUMMARY ***
+Total pot €2.23 | Rake €0.10 
+Board [Qd 5h Qc 4c 6c]
+Seat 2: casimiro124 mucked
+Seat 4: deckie94 (button) folded before Flop (didn't bet)
+Seat 5: eustw (small blind) folded before Flop
+Seat 6: robotov (big blind) showed [Ts Ad] and won (€2.13) with a pair of Queens
+
+
+
+PokerStars Hand #222957149563:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:33:05 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: WendrinerAladar (€10 in chips) 
+Seat 2: casimiro124 (€10 in chips) 
+Seat 4: deckie94 (€15.52 in chips) 
+Seat 5: eustw (€10 in chips) 
+Seat 6: robotov (€11.88 in chips) 
+robotov: posts small blind €0.05
+WendrinerAladar: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: raises €0.20 to €0.30
+deckie94: raises €0.75 to €1.05
+eustw: folds 
+robotov: folds 
+WendrinerAladar: folds 
+casimiro124: calls €0.75
+*** FLOP *** [7h 9c Kd]
+casimiro124: checks 
+deckie94: bets €2.15
+casimiro124: calls €2.15
+*** TURN *** [7h 9c Kd] [5s]
+casimiro124: checks 
+deckie94: bets €3.13
+casimiro124: calls €3.13
+*** RIVER *** [7h 9c Kd 5s] [Jc]
+casimiro124: checks 
+deckie94: bets €9.19 and is all-in
+casimiro124: calls €3.67 and is all-in
+Uncalled bet (€5.52) returned to deckie94
+*** SHOW DOWN ***
+deckie94: shows [As Qs] (high card Ace)
+casimiro124: shows [Qd Ks] (a pair of Kings)
+casimiro124 collected €19.24 from pot
+*** SUMMARY ***
+Total pot €20.15 | Rake €0.91 
+Board [7h 9c Kd 5s Jc]
+Seat 1: WendrinerAladar (big blind) folded before Flop
+Seat 2: casimiro124 showed [Qd Ks] and won (€19.24) with a pair of Kings
+Seat 4: deckie94 showed [As Qs] and lost with high card Ace
+Seat 5: eustw (button) folded before Flop (didn't bet)
+Seat 6: robotov (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957178041:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:33:56 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: WendrinerAladar (€10 in chips) 
+Seat 2: casimiro124 (€19.24 in chips) 
+Seat 4: deckie94 (€5.52 in chips) 
+Seat 5: eustw (€10 in chips) 
+Seat 6: robotov (€11.83 in chips) 
+WendrinerAladar: posts small blind €0.05
+casimiro124: posts big blind €0.10
+*** HOLE CARDS ***
+deckie94: folds 
+eustw: folds 
+robotov: raises €0.15 to €0.25
+WendrinerAladar: raises €0.75 to €1
+casimiro124: folds 
+robotov: folds 
+Uncalled bet (€0.75) returned to WendrinerAladar
+WendrinerAladar collected €0.60 from pot
+WendrinerAladar: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: WendrinerAladar (small blind) collected (€0.60)
+Seat 2: casimiro124 (big blind) folded before Flop
+Seat 4: deckie94 folded before Flop (didn't bet)
+Seat 5: eustw folded before Flop (didn't bet)
+Seat 6: robotov (button) folded before Flop
+
+
+
+PokerStars Hand #222957191375:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:34:20 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: WendrinerAladar (€10.35 in chips) 
+Seat 2: casimiro124 (€19.14 in chips) 
+Seat 4: deckie94 (€5.52 in chips) 
+Seat 5: eustw (€10 in chips) 
+Seat 6: robotov (€11.58 in chips) 
+casimiro124: posts small blind €0.05
+deckie94: posts big blind €0.10
+*** HOLE CARDS ***
+eustw: folds 
+enbbasa joins the table at seat #3 
+robotov: raises €0.15 to €0.25
+WendrinerAladar: folds 
+casimiro124: folds 
+deckie94: calls €0.15
+*** FLOP *** [Kh Kd Ah]
+deckie94: checks 
+robotov: bets €0.17
+deckie94: calls €0.17
+*** TURN *** [Kh Kd Ah] [Ts]
+deckie94: bets €0.10
+robotov: calls €0.10
+*** RIVER *** [Kh Kd Ah Ts] [Ad]
+deckie94: bets €0.52
+robotov: folds 
+Uncalled bet (€0.52) returned to deckie94
+deckie94 collected €1.04 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.09 | Rake €0.05 
+Board [Kh Kd Ah Ts Ad]
+Seat 1: WendrinerAladar (button) folded before Flop (didn't bet)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 4: deckie94 (big blind) collected (€1.04)
+Seat 5: eustw folded before Flop (didn't bet)
+Seat 6: robotov folded on the River
+
+
+
+PokerStars Hand #222957219526:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:35:12 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: WendrinerAladar (€10.35 in chips) 
+Seat 2: casimiro124 (€19.09 in chips) 
+Seat 4: deckie94 (€6.04 in chips) 
+Seat 5: eustw (€10 in chips) 
+Seat 6: robotov (€11.06 in chips) 
+deckie94: posts small blind €0.05
+eustw: posts big blind €0.10
+*** HOLE CARDS ***
+robotov: folds 
+WendrinerAladar: folds 
+casimiro124: folds 
+deckie94: raises €0.20 to €0.30
+eustw: folds 
+Uncalled bet (€0.20) returned to deckie94
+deckie94 collected €0.20 from pot
+deckie94: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: WendrinerAladar folded before Flop (didn't bet)
+Seat 2: casimiro124 (button) folded before Flop (didn't bet)
+Seat 4: deckie94 (small blind) collected (€0.20)
+Seat 5: eustw (big blind) folded before Flop
+Seat 6: robotov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957227148:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:35:26 ET
+Table 'Alsafi III' 6-max Seat #4 is the button
+Seat 1: WendrinerAladar (€10.35 in chips) 
+Seat 2: casimiro124 (€19.09 in chips) 
+Seat 4: deckie94 (€6.14 in chips) 
+Seat 5: eustw (€9.90 in chips) 
+Seat 6: robotov (€11.06 in chips) 
+eustw: posts small blind €0.05
+robotov: posts big blind €0.10
+enbbasa: sits out 
+*** HOLE CARDS ***
+WendrinerAladar: folds 
+casimiro124: raises €0.15 to €0.25
+deckie94: calls €0.25
+eustw: calls €0.20
+robotov: folds 
+*** FLOP *** [Js Ad 2d]
+eustw: checks 
+casimiro124: bets €0.43
+deckie94: calls €0.43
+eustw: raises €1.07 to €1.50
+casimiro124: folds 
+deckie94: calls €1.07
+*** TURN *** [Js Ad 2d] [7c]
+eustw: checks 
+deckie94: bets €4.39 and is all-in
+eustw: calls €4.39
+*** RIVER *** [Js Ad 2d 7c] [9s]
+*** SHOW DOWN ***
+eustw: shows [Jd Ah] (two pair, Aces and Jacks)
+deckie94: shows [Th 2h] (a pair of Deuces)
+deckie94 cashed out the hand for €0.55 | Cash Out Fee €0.01
+eustw cashed out the hand for €11.79 | Cash Out Fee €0.12
+*** SUMMARY ***
+Total pot €13.06 | Rake €0.59 
+Board [Js Ad 2d 7c 9s]
+Seat 1: WendrinerAladar folded before Flop (didn't bet)
+Seat 2: casimiro124 folded on the Flop
+Seat 4: deckie94 (button) showed [Th 2h] and lost with a pair of Deuces (cashed out).
+Seat 5: eustw (small blind) showed [Jd Ah] and won (€12.47) with two pair, Aces and Jacks (pot not awarded as player cashed out)
+Seat 6: robotov (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957273245:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:36:49 ET
+Table 'Alsafi III' 6-max Seat #5 is the button
+Seat 1: WendrinerAladar (€10.35 in chips) 
+Seat 2: casimiro124 (€18.41 in chips) 
+Seat 4: deckie94 (€0.55 in chips) 
+Seat 5: eustw (€15.55 in chips) 
+Seat 6: robotov (€10.96 in chips) 
+robotov: posts small blind €0.05
+WendrinerAladar: posts big blind €0.10
+enbbasa: sits out 
+*** HOLE CARDS ***
+casimiro124: raises €0.20 to €0.30
+deckie94: raises €0.25 to €0.55 and is all-in
+eustw: folds 
+robotov: raises €1.35 to €1.90
+WendrinerAladar: folds 
+casimiro124: folds 
+Uncalled bet (€1.35) returned to robotov
+*** FLOP *** [Ts Td 7d]
+*** TURN *** [Ts Td 7d] [2s]
+*** RIVER *** [Ts Td 7d 2s] [Qs]
+*** SHOW DOWN ***
+robotov: shows [Ad Ah] (two pair, Aces and Tens)
+deckie94: shows [Ac 6d] (a pair of Tens)
+robotov collected €1.43 from pot
+*** SUMMARY ***
+Total pot €1.50 | Rake €0.07 
+Board [Ts Td 7d 2s Qs]
+Seat 1: WendrinerAladar (big blind) folded before Flop
+Seat 2: casimiro124 folded before Flop
+Seat 4: deckie94 showed [Ac 6d] and lost with a pair of Tens
+Seat 5: eustw (button) folded before Flop (didn't bet)
+Seat 6: robotov (small blind) showed [Ad Ah] and won (€1.43) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #222957288651:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:37:17 ET
+Table 'Alsafi III' 6-max Seat #6 is the button
+Seat 1: WendrinerAladar (€10.25 in chips) 
+Seat 2: casimiro124 (€18.11 in chips) 
+Seat 5: eustw (€15.55 in chips) 
+Seat 6: robotov (€11.84 in chips) 
+WendrinerAladar: posts small blind €0.05
+casimiro124: posts big blind €0.10
+enbbasa: sits out 
+*** HOLE CARDS ***
+eustw: folds 
+robotov: raises €0.15 to €0.25
+WendrinerAladar: folds 
+deckie94 leaves the table
+casimiro124: calls €0.15
+*** FLOP *** [3h 5h Th]
+casimiro124: checks 
+robotov: bets €0.41
+casimiro124: folds 
+Uncalled bet (€0.41) returned to robotov
+robotov collected €0.53 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.02 
+Board [3h 5h Th]
+Seat 1: WendrinerAladar (small blind) folded before Flop
+Seat 2: casimiro124 (big blind) folded on the Flop
+Seat 5: eustw folded before Flop (didn't bet)
+Seat 6: robotov (button) collected (€0.53)
+
+
+
+PokerStars Hand #222957301042:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:37:39 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: WendrinerAladar (€10.20 in chips) 
+Seat 2: casimiro124 (€17.86 in chips) 
+Seat 6: robotov (€12.12 in chips) 
+casimiro124: posts small blind €0.05
+eustw: is sitting out 
+JMJD93 joins the table at seat #4 
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+eustw leaves the table
+WendrinerAladar: folds 
+casimiro124: folds 
+Uncalled bet (€0.05) returned to robotov
+robotov collected €0.10 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: WendrinerAladar (button) folded before Flop (didn't bet)
+Seat 2: casimiro124 (small blind) folded before Flop
+Seat 6: robotov (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222957305586:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:37:48 ET
+Table 'Alsafi III' 6-max Seat #2 is the button
+Seat 1: WendrinerAladar (€10.20 in chips) 
+Seat 2: casimiro124 (€17.81 in chips) 
+Seat 6: robotov (€12.17 in chips) 
+robotov: posts small blind €0.05
+WendrinerAladar: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124: raises €0.15 to €0.25
+JMJD93 leaves the table
+robotov: raises €0.85 to €1.10
+WendrinerAladar: folds 
+casimiro124: raises €1.40 to €2.50
+robotov: raises €3.15 to €5.65
+casimiro124: raises €12.16 to €17.81 and is all-in
+robotov: calls €6.52 and is all-in
+Uncalled bet (€5.64) returned to casimiro124
+*** FIRST FLOP *** [Kc 5c 4s]
+*** FIRST TURN *** [Kc 5c 4s] [5h]
+*** FIRST RIVER *** [Kc 5c 4s 5h] [7h]
+*** SECOND FLOP *** [4d 9s 5s]
+*** SECOND TURN *** [4d 9s 5s] [8h]
+*** SECOND RIVER *** [4d 9s 5s 8h] [Th]
+*** FIRST SHOW DOWN ***
+robotov: shows [As Ac] (two pair, Aces and Fives)
+casimiro124: shows [Ad Ks] (two pair, Kings and Fives)
+robotov collected €11.85 from pot
+*** SECOND SHOW DOWN ***
+robotov: shows [As Ac] (a pair of Aces)
+casimiro124: shows [Ad Ks] (high card Ace)
+robotov collected €11.84 from pot
+*** SUMMARY ***
+Total pot €24.44 | Rake €0.75 
+Hand was run twice
+FIRST Board [Kc 5c 4s 5h 7h]
+SECOND Board [4d 9s 5s 8h Th]
+Seat 1: WendrinerAladar (big blind) folded before Flop
+Seat 2: casimiro124 (button) showed [Ad Ks] and lost with two pair, Kings and Fives, and lost with high card Ace
+Seat 6: robotov (small blind) showed [As Ac] and won (€11.85) with two pair, Aces and Fives, and won (€11.84) with a pair of Aces
+
+
+
+PokerStars Hand #222957333302:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 10:38:38 ET
+Table 'Alsafi III' 6-max Seat #1 is the button
+Seat 1: WendrinerAladar (€10.10 in chips) 
+Seat 6: robotov (€23.69 in chips) 
+WendrinerAladar: posts small blind €0.05
+casimiro124: is sitting out 
+robotov: posts big blind €0.10
+*** HOLE CARDS ***
+casimiro124 leaves the table
+WendrinerAladar: raises €0.20 to €0.30
+robotov: raises €0.70 to €1
+WendrinerAladar: raises €2 to €3
+robotov: folds 
+Uncalled bet (€2) returned to WendrinerAladar
+WendrinerAladar collected €2 from pot
+WendrinerAladar: doesn't show hand 
+*** SUMMARY ***
+Total pot €2 | Rake €0 
+Seat 1: WendrinerAladar (button) (small blind) collected (€2)
+Seat 6: robotov (big blind) folded before Flop
+
+
+

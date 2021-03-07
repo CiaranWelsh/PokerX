@@ -1,0 +1,4611 @@
+﻿PokerStars Hand #222946807493:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:22:21 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: DrLevty ($10.44 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($9.85 in chips) 
+Seat 4: Fimzik ($10.02 in chips) 
+Seat 5: lalito.mdq ($10.37 in chips) 
+Seat 6: mailier ($10 in chips) 
+mailier: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: raises $0.20 to $0.30
+Fimzik: folds 
+lalito.mdq: folds 
+mailier: folds 
+DrLevty: folds 
+Uncalled bet ($0.20) returned to JJD1111
+JJD1111 collected $0.25 from pot
+JJD1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 collected ($0.25)
+Seat 4: Fimzik folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222946810897:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:22:36 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: DrLevty ($10.34 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($10 in chips) 
+Seat 4: Fimzik ($10.02 in chips) 
+Seat 5: lalito.mdq ($10.37 in chips) 
+Seat 6: mailier ($10 in chips) 
+DrLevty: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+JJD1111: folds 
+Fimzik: folds 
+lalito.mdq: folds 
+mailier: folds 
+DrLevty: folds 
+Uncalled bet ($0.05) returned to rog3543
+rog3543 collected $0.10 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DrLevty (small blind) folded before Flop
+Seat 2: rog3543 (big blind) collected ($0.10)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Fimzik folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946813002:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:22:45 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: DrLevty ($10.29 in chips) 
+Seat 2: rog3543 ($10.05 in chips) 
+Seat 3: JJD1111 ($10 in chips) 
+Seat 4: Fimzik ($10.02 in chips) 
+Seat 5: lalito.mdq ($10.37 in chips) 
+Seat 6: mailier ($10 in chips) 
+rog3543: posts small blind $0.05
+JJD1111: posts big blind $0.10
+*** HOLE CARDS ***
+Fimzik: folds 
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+DrLevty: folds 
+rog3543: folds 
+JJD1111: calls $0.20
+*** FLOP *** [2h 6s 4h]
+JJD1111: checks 
+mailier: bets $0.31
+JJD1111: calls $0.31
+*** TURN *** [2h 6s 4h] [9h]
+JJD1111: checks 
+mailier: checks 
+*** RIVER *** [2h 6s 4h 9h] [2d]
+JJD1111: bets $0.60
+mailier: folds 
+Uncalled bet ($0.60) returned to JJD1111
+JJD1111 collected $1.21 from pot
+JJD1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [2h 6s 4h 9h 2d]
+Seat 1: DrLevty (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: JJD1111 (big blind) collected ($1.21)
+Seat 4: Fimzik folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded on the River
+
+
+
+PokerStars Hand #222946820309:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:23:16 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: DrLevty ($10.29 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($10.60 in chips) 
+Seat 5: lalito.mdq ($10.37 in chips) 
+Seat 6: mailier ($10 in chips) 
+JJD1111: posts small blind $0.05
+Fimzik: is sitting out 
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+DrLevty: folds 
+rog3543: folds 
+JJD1111: raises $0.20 to $0.30
+Fimzik leaves the table
+lalito.mdq: calls $0.20
+*** FLOP *** [6d 5c 6s]
+JJD1111: checks 
+lalito.mdq: checks 
+*** TURN *** [6d 5c 6s] [Jh]
+JJD1111: checks 
+lalito.mdq: checks 
+*** RIVER *** [6d 5c 6s Jh] [2h]
+JJD1111: checks 
+lalito.mdq: bets $0.29
+JJD1111: calls $0.29
+*** SHOW DOWN ***
+lalito.mdq: shows [4h 8h] (a pair of Sixes)
+JJD1111: shows [2s 5s] (two pair, Sixes and Fives)
+JJD1111 collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [6d 5c 6s Jh 2h]
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: JJD1111 (small blind) showed [2s 5s] and won ($1.13) with two pair, Sixes and Fives
+Seat 5: lalito.mdq (big blind) showed [4h 8h] and lost with a pair of Sixes
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946827819:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:23:49 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: DrLevty ($10.29 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($11.14 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($10 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+DrLevty: folds 
+rog3543: folds 
+JJD1111: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.20) returned to JJD1111
+JJD1111 collected $0.25 from pot
+JJD1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 (button) collected ($0.25)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222946831393:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:24:04 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: DrLevty ($10.29 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($11.29 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($10 in chips) 
+mailier: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: folds 
+lalito.mdq: raises $0.15 to $0.25
+mailier: folds 
+DrLevty: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) collected ($0.25)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222946834974:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:24:19 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: DrLevty ($10.19 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($11.29 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($10 in chips) 
+DrLevty: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95 joins the table at seat #4 
+JJD1111: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: raises $0.75 to $1.05
+DrLevty: folds 
+rog3543: folds 
+JJD1111: folds 
+Uncalled bet ($0.75) returned to mailier
+mailier collected $0.75 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: DrLevty (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: JJD1111 folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) collected ($0.75)
+
+
+
+PokerStars Hand #222946840861:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:24:45 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: DrLevty ($10.14 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: JJD1111 ($10.99 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($10.45 in chips) 
+rog3543: posts small blind $0.05
+JJD1111: posts big blind $0.10
+Pokernan95: sits out 
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+DrLevty: folds 
+rog3543: raises $0.20 to $0.30
+JJD1111: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.20 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: DrLevty (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) collected ($0.20)
+Seat 3: JJD1111 (big blind) folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946843968:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:24:58 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: DrLevty ($10.14 in chips) 
+Seat 2: rog3543 ($10.10 in chips) 
+Seat 3: JJD1111 ($10.89 in chips) 
+Seat 4: Pokernan95 ($10 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($10.45 in chips) 
+JJD1111: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+DrLevty: raises $0.60 to $0.90
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+mailier: calls $0.60
+*** FLOP *** [Kc 3s Ad]
+mailier: checks 
+DrLevty: bets $0.61
+mailier: calls $0.61
+*** TURN *** [Kc 3s Ad] [Kd]
+mailier: checks 
+DrLevty: checks 
+*** RIVER *** [Kc 3s Ad Kd] [9h]
+mailier: checks 
+DrLevty: checks 
+*** SHOW DOWN ***
+mailier: shows [Th Jh] (a pair of Kings)
+DrLevty: shows [Qd Qs] (two pair, Kings and Queens)
+DrLevty collected $3.03 from pot
+*** SUMMARY ***
+Total pot $3.17 | Rake $0.14 
+Board [Kc 3s Ad Kd 9h]
+Seat 1: DrLevty showed [Qd Qs] and won ($3.03) with two pair, Kings and Queens
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: JJD1111 (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier showed [Th Jh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #222946854988:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:25:46 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.10 in chips) 
+Seat 3: JJD1111 ($10.84 in chips) 
+Seat 4: Pokernan95 ($9.90 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($10 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: raises $0.20 to $0.30
+DrLevty: folds 
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: calls $0.25
+lalito.mdq: folds 
+*** FLOP *** [8c 4d 7h]
+Pokernan95: checks 
+mailier: checks 
+*** TURN *** [8c 4d 7h] [Td]
+Pokernan95: checks 
+mailier: checks 
+*** RIVER *** [8c 4d 7h Td] [2s]
+Pokernan95: checks 
+mailier: checks 
+*** SHOW DOWN ***
+Pokernan95: shows [3s 3c] (a pair of Threes)
+mailier: mucks hand 
+Pokernan95 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [8c 4d 7h Td 2s]
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) showed [3s 3c] and won ($0.67) with a pair of Threes
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier mucked
+
+
+
+PokerStars Hand #222946863839:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:26:25 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.10 in chips) 
+Seat 3: JJD1111 ($10.84 in chips) 
+Seat 4: Pokernan95 ($10.27 in chips) 
+Seat 5: lalito.mdq ($10.05 in chips) 
+Seat 6: mailier ($10 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+DrLevty: folds 
+rog3543: raises $0.20 to $0.30
+JJD1111: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: calls $0.20
+*** FLOP *** [Ah 7h 4h]
+mailier: checks 
+rog3543: bets $0.51
+mailier: folds 
+Uncalled bet ($0.51) returned to rog3543
+rog3543 collected $0.62 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ah 7h 4h]
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 collected ($0.62)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222946868785:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:26:46 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.42 in chips) 
+Seat 3: JJD1111 ($10.84 in chips) 
+Seat 4: Pokernan95 ($10.27 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($10 in chips) 
+mailier: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to DrLevty
+DrLevty collected $0.10 from pot
+DrLevty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DrLevty (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222946872524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:27:03 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: DrLevty ($11.71 in chips) 
+Seat 2: rog3543 ($10.42 in chips) 
+Seat 3: JJD1111 ($10.84 in chips) 
+Seat 4: Pokernan95 ($10.27 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($10 in chips) 
+DrLevty: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+JJD1111: raises $0.20 to $0.30
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.75 to $1.05
+DrLevty: folds 
+rog3543: folds 
+JJD1111: calls $0.75
+*** FLOP *** [Jh 4d 5h]
+JJD1111: checks 
+mailier: checks 
+*** TURN *** [Jh 4d 5h] [Ah]
+JJD1111: checks 
+mailier: bets $1.08
+JJD1111: calls $1.08
+*** RIVER *** [Jh 4d 5h Ah] [4c]
+JJD1111: checks 
+mailier: bets $2.11
+JJD1111: folds 
+Uncalled bet ($2.11) returned to mailier
+mailier collected $4.21 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [Jh 4d 5h Ah 4c]
+Seat 1: DrLevty (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: JJD1111 folded on the River
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) collected ($4.21)
+
+
+
+PokerStars Hand #222946883109:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:27:48 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.32 in chips) 
+Seat 3: JJD1111 ($8.71 in chips) 
+Seat 4: Pokernan95 ($10.27 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($12.08 in chips) 
+rog3543: posts small blind $0.05
+JJD1111: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: raises $0.75 to $1.05
+DrLevty: folds 
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+Uncalled bet ($0.75) returned to mailier
+mailier collected $0.75 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: DrLevty (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: JJD1111 (big blind) folded before Flop
+Seat 4: Pokernan95 folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.75)
+
+
+
+PokerStars Hand #222946886998:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:28:05 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.27 in chips) 
+Seat 3: JJD1111 ($8.61 in chips) 
+Seat 4: Pokernan95 ($9.97 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+JJD1111: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: raises $0.15 to $0.25
+mailier: folds 
+DrLevty: folds 
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: JJD1111 (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 5: lalito.mdq collected ($0.25)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946889376:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:28:15 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.27 in chips) 
+Seat 3: JJD1111 ($8.56 in chips) 
+Seat 4: Pokernan95 ($9.87 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+DrLevty: folds 
+rog3543: folds 
+JJD1111: raises $0.20 to $0.30
+Pokernan95: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.20) returned to JJD1111
+JJD1111 collected $0.25 from pot
+JJD1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 (button) collected ($0.25)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946892007:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:28:26 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.27 in chips) 
+Seat 3: JJD1111 ($8.71 in chips) 
+Seat 4: Pokernan95 ($9.82 in chips) 
+Seat 5: lalito.mdq ($10.05 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+DrLevty: folds 
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to mailier
+mailier collected $0.10 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222946894196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:28:35 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.27 in chips) 
+Seat 3: JJD1111 ($8.71 in chips) 
+Seat 4: Pokernan95 ($9.82 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($12.58 in chips) 
+mailier: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to DrLevty
+DrLevty collected $0.10 from pot
+DrLevty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DrLevty (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222946896448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:28:45 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: DrLevty ($11.71 in chips) 
+Seat 2: rog3543 ($10.27 in chips) 
+Seat 3: JJD1111 ($8.71 in chips) 
+Seat 4: Pokernan95 ($9.82 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+DrLevty: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+JJD1111: folds 
+Pokernan95: folds 
+lalito.mdq: raises $0.15 to $0.25
+mailier: folds 
+DrLevty: folds 
+rog3543: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq collected ($0.25)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946900214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:29:01 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: DrLevty ($11.66 in chips) 
+Seat 2: rog3543 ($10.17 in chips) 
+Seat 3: JJD1111 ($8.71 in chips) 
+Seat 4: Pokernan95 ($9.82 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+rog3543: posts small blind $0.05
+JJD1111: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+DrLevty: raises $0.20 to $0.30
+rog3543: raises $0.90 to $1.20
+JJD1111: folds 
+DrLevty: calls $0.90
+*** FLOP *** [Kd Ks 6h]
+rog3543: bets $0.89
+DrLevty: folds 
+Uncalled bet ($0.89) returned to rog3543
+DrLevty was removed from the table for failing to post
+DrLevty leaves the table
+rog3543 collected $2.39 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11 
+Board [Kd Ks 6h]
+Seat 1: DrLevty (button) folded on the Flop
+Seat 2: rog3543 (small blind) collected ($2.39)
+Seat 3: JJD1111 (big blind) folded before Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946906928:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:29:30 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 2: rog3543 ($11.36 in chips) 
+Seat 3: JJD1111 ($8.61 in chips) 
+Seat 4: Pokernan95 ($9.82 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+JJD1111: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+rog3543: raises $0.20 to $0.30
+JJD1111: folds 
+Pokernan95: calls $0.20
+*** FLOP *** [Jh Jd Ts]
+Pokernan95: checks 
+rog3543: checks 
+*** TURN *** [Jh Jd Ts] [2c]
+Pokernan95: checks 
+rog3543: bets $0.31
+Pokernan95: folds 
+Uncalled bet ($0.31) returned to rog3543
+rog3543 collected $0.62 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Jh Jd Ts 2c]
+Seat 2: rog3543 (button) collected ($0.62)
+Seat 3: JJD1111 (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded on the Turn
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946916660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:30:12 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 2: rog3543 ($11.68 in chips) 
+Seat 3: JJD1111 ($8.56 in chips) 
+Seat 4: Pokernan95 ($9.52 in chips) 
+Seat 5: lalito.mdq ($10.15 in chips) 
+Seat 6: mailier ($12.53 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: raises $0.20 to $0.30
+rog3543: folds 
+JJD1111: calls $0.30
+Pokernan95: folds 
+lalito.mdq: folds 
+*** FLOP *** [6s 2d 7h]
+mailier: bets $0.36
+JJD1111: folds 
+Uncalled bet ($0.36) returned to mailier
+mailier collected $0.72 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6s 2d 7h]
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 (button) folded on the Flop
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier collected ($0.72)
+
+
+
+PokerStars Hand #222946921315:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:30:32 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 2: rog3543 ($11.68 in chips) 
+Seat 3: JJD1111 ($8.26 in chips) 
+Seat 4: Pokernan95 ($9.47 in chips) 
+Seat 5: lalito.mdq ($10.05 in chips) 
+Seat 6: mailier ($12.95 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: calls $0.20
+*** FLOP *** [Td Kc 8s]
+mailier: checks 
+Pokernan95: checks 
+*** TURN *** [Td Kc 8s] [5s]
+mailier: checks 
+Pokernan95: checks 
+*** RIVER *** [Td Kc 8s 5s] [7s]
+mailier: checks 
+Pokernan95: bets $0.40
+poslonskiy82 joins the table at seat #1 
+mailier: folds 
+Uncalled bet ($0.40) returned to Pokernan95
+Pokernan95 collected $0.62 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td Kc 8s 5s 7s]
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) collected ($0.62)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded on the River
+
+
+
+PokerStars Hand #222946931494:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:31:15 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($6 in chips) 
+Seat 2: rog3543 ($11.68 in chips) 
+Seat 3: JJD1111 ($8.26 in chips) 
+Seat 4: Pokernan95 ($9.79 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($12.65 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: raises $0.20 to $0.30
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.50
+poslonskiy82: folds 
+JJD1111: calls $0.20
+*** FLOP *** [4c 8h Th]
+mailier: checks 
+JJD1111: checks 
+*** TURN *** [4c 8h Th] [7c]
+mailier: bets $0.70
+JJD1111: folds 
+Uncalled bet ($0.70) returned to mailier
+mailier collected $1.05 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4c 8h Th 7c]
+Seat 1: poslonskiy82 (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded on the Turn
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #222946939228:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:31:48 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($5.90 in chips) 
+Seat 2: rog3543 ($11.68 in chips) 
+Seat 3: JJD1111 ($7.76 in chips) 
+Seat 4: Pokernan95 ($9.79 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.20 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+JJD1111: raises $0.20 to $0.30
+Pokernan95: calls $0.30
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.25
+rog3543: calls $0.20
+*** FLOP *** [3s 5c Qd]
+poslonskiy82: checks 
+rog3543: checks 
+JJD1111: checks 
+Pokernan95: checks 
+*** TURN *** [3s 5c Qd] [Jd]
+poslonskiy82: checks 
+rog3543: checks 
+JJD1111: checks 
+Pokernan95: checks 
+*** RIVER *** [3s 5c Qd Jd] [7h]
+poslonskiy82: checks 
+rog3543: checks 
+JJD1111: bets $0.57
+Pokernan95: folds 
+poslonskiy82: calls $0.57
+rog3543: folds 
+*** SHOW DOWN ***
+JJD1111: shows [6s 8s] (high card Queen)
+poslonskiy82: shows [Js Ah] (a pair of Jacks)
+poslonskiy82 collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.34 | Rake $0.11 
+Board [3s 5c Qd Jd 7h]
+Seat 1: poslonskiy82 (small blind) showed [Js Ah] and won ($2.23) with a pair of Jacks
+Seat 2: rog3543 (big blind) folded on the River
+Seat 3: JJD1111 showed [6s 8s] and lost with high card Queen
+Seat 4: Pokernan95 folded on the River
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946953854:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:32:50 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($7.26 in chips) 
+Seat 2: rog3543 ($11.38 in chips) 
+Seat 3: JJD1111 ($6.89 in chips) 
+Seat 4: Pokernan95 ($9.49 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.20 in chips) 
+rog3543: posts small blind $0.05
+JJD1111: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.30
+rog3543: folds 
+JJD1111: folds 
+*** FLOP *** [8h Jc 2h]
+Pokernan95: bets $0.40
+poslonskiy82: folds 
+Uncalled bet ($0.40) returned to Pokernan95
+Pokernan95 collected $0.72 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8h Jc 2h]
+Seat 1: poslonskiy82 (button) folded on the Flop
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: JJD1111 (big blind) folded before Flop
+Seat 4: Pokernan95 collected ($0.72)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946962617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:33:27 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($6.96 in chips) 
+Seat 2: rog3543 ($11.33 in chips) 
+Seat 3: JJD1111 ($6.79 in chips) 
+Seat 4: Pokernan95 ($9.91 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.20 in chips) 
+JJD1111: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+poslonskiy82: folds 
+rog3543: folds 
+JJD1111: calls $0.25
+Pokernan95: folds 
+*** FLOP *** [3d 2d Ts]
+JJD1111: checks 
+mailier: bets $0.34
+JJD1111: folds 
+Uncalled bet ($0.34) returned to mailier
+mailier collected $0.67 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3d 2d Ts]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: JJD1111 (small blind) folded on the Flop
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.67)
+
+
+
+PokerStars Hand #222946969172:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:33:55 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($6.96 in chips) 
+Seat 2: rog3543 ($11.33 in chips) 
+Seat 3: JJD1111 ($6.49 in chips) 
+Seat 4: Pokernan95 ($9.81 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.57 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: folds 
+JJD1111: raises $0.40 to $0.50
+Pokernan95: folds 
+lalito.mdq: folds 
+poslonskiy82: folds 
+Uncalled bet ($0.40) returned to JJD1111
+JJD1111 collected $0.35 from pot
+JJD1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 (button) collected ($0.35)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946975859:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:34:24 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($6.86 in chips) 
+Seat 2: rog3543 ($11.33 in chips) 
+Seat 3: JJD1111 ($6.74 in chips) 
+Seat 4: Pokernan95 ($9.76 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.57 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: folds 
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: calls $0.20
+*** FLOP *** [3d 9h 9s]
+mailier: checks 
+Pokernan95: checks 
+*** TURN *** [3d 9h 9s] [6d]
+mailier: checks 
+Pokernan95: bets $0.50
+mailier: folds 
+Uncalled bet ($0.50) returned to Pokernan95
+Pokernan95 collected $0.62 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3d 9h 9s 6d]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) collected ($0.62)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222946983435:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:34:57 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($6.86 in chips) 
+Seat 2: rog3543 ($11.33 in chips) 
+Seat 3: JJD1111 ($6.74 in chips) 
+Seat 4: Pokernan95 ($10.08 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.27 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to poslonskiy82
+poslonskiy82 collected $0.10 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: poslonskiy82 (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222946986771:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:35:11 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($6.91 in chips) 
+Seat 2: rog3543 ($11.33 in chips) 
+Seat 3: JJD1111 ($6.74 in chips) 
+Seat 4: Pokernan95 ($10.08 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.22 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+JJD1111: raises $0.20 to $0.30
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.25
+rog3543: folds 
+*** FLOP *** [Qd Kh Ad]
+poslonskiy82: checks 
+JJD1111: bets $0.33
+poslonskiy82: calls $0.33
+*** TURN *** [Qd Kh Ad] [Tc]
+poslonskiy82: checks 
+JJD1111: bets $0.65
+poslonskiy82: folds 
+Uncalled bet ($0.65) returned to JJD1111
+JJD1111 collected $1.30 from pot
+JJD1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [Qd Kh Ad Tc]
+Seat 1: poslonskiy82 (small blind) folded on the Turn
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: JJD1111 collected ($1.30)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222946998175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:36:00 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($6.28 in chips) 
+Seat 2: rog3543 ($11.23 in chips) 
+Seat 3: JJD1111 ($7.41 in chips) 
+Seat 4: Pokernan95 ($10.08 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.22 in chips) 
+rog3543: posts small blind $0.05
+JJD1111: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: calls $0.05
+JJD1111: checks 
+*** FLOP *** [Jd 6h 4d]
+rog3543: checks 
+JJD1111: checks 
+poslonskiy82: checks 
+*** TURN *** [Jd 6h 4d] [Qc]
+rog3543: checks 
+JJD1111: checks 
+poslonskiy82: bets $0.20
+rog3543: folds 
+JJD1111: folds 
+Uncalled bet ($0.20) returned to poslonskiy82
+poslonskiy82 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jd 6h 4d Qc]
+Seat 1: poslonskiy82 (button) collected ($0.29)
+Seat 2: rog3543 (small blind) folded on the Turn
+Seat 3: JJD1111 (big blind) folded on the Turn
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947006984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:36:38 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($6.47 in chips) 
+Seat 2: rog3543 ($11.13 in chips) 
+Seat 3: JJD1111 ($7.31 in chips) 
+Seat 4: Pokernan95 ($10.08 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.22 in chips) 
+JJD1111: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier has timed out
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: checks 
+*** FLOP *** [4s 2h 5d]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** TURN *** [4s 2h 5d] [3h]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** RIVER *** [4s 2h 5d 3h] [Qs]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** SHOW DOWN ***
+Pokernan95: shows [3d 9d] (a pair of Threes)
+poslonskiy82: mucks hand 
+Pokernan95 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s 2h 5d 3h Qs]
+Seat 1: poslonskiy82 mucked
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: JJD1111 (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) showed [3d 9d] and won ($0.24) with a pair of Threes
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947017736:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:37:25 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($6.37 in chips) 
+Seat 2: rog3543 ($11.13 in chips) 
+Seat 3: JJD1111 ($7.26 in chips) 
+Seat 4: Pokernan95 ($10.22 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($13.22 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: folds 
+rog3543: folds 
+JJD1111: raises $0.20 to $0.30
+Pokernan95: folds 
+lalito.mdq: calls $0.20
+*** FLOP *** [7h Ts 5d]
+lalito.mdq: checks 
+JJD1111: checks 
+*** TURN *** [7h Ts 5d] [8h]
+lalito.mdq: bets $0.31
+JJD1111: folds 
+Uncalled bet ($0.31) returned to lalito.mdq
+lalito.mdq collected $0.62 from pot
+lalito.mdq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7h Ts 5d 8h]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 (button) folded on the Turn
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) collected ($0.62)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947025291:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:37:58 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($6.37 in chips) 
+Seat 2: rog3543 ($11.13 in chips) 
+Seat 3: JJD1111 ($6.96 in chips) 
+Seat 4: Pokernan95 ($10.17 in chips) 
+Seat 5: lalito.mdq ($10.32 in chips) 
+Seat 6: mailier ($13.22 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: folds 
+rog3543: folds 
+JJD1111: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: raises $0.60 to $0.90
+Pokernan95: raises $1 to $1.90
+mailier: raises $1.20 to $3.10
+Pokernan95: raises $7.07 to $10.17 and is all-in
+mailier: calls $7.07
+*** FLOP *** [Tc 4s 3c]
+*** TURN *** [Tc 4s 3c] [Qs]
+*** RIVER *** [Tc 4s 3c Qs] [9d]
+*** SHOW DOWN ***
+mailier: shows [Ac As] (a pair of Aces)
+Pokernan95: shows [Kc Ks] (a pair of Kings)
+mailier collected $19.47 from pot
+*** SUMMARY ***
+Total pot $20.39 | Rake $0.92 
+Board [Tc 4s 3c Qs 9d]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) showed [Kc Ks] and lost with a pair of Kings
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) showed [Ac As] and won ($19.47) with a pair of Aces
+
+
+
+PokerStars Hand #222947040695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:39:04 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($6.37 in chips) 
+Seat 2: rog3543 ($11.13 in chips) 
+Seat 3: JJD1111 ($6.96 in chips) 
+Seat 6: mailier ($22.52 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+JJD1111: folds 
+mailier: folds 
+JJD1111 leaves the table
+poslonskiy82: calls $0.05
+petrovichkag joins the table at seat #3 
+rog3543: raises $0.40 to $0.50
+poslonskiy82: calls $0.40
+*** FLOP *** [3c 9h 7h]
+poslonskiy82: checks 
+rog3543: bets $0.58
+poslonskiy82: calls $0.58
+*** TURN *** [3c 9h 7h] [5h]
+poslonskiy82: checks 
+rog3543: bets $0.73
+poslonskiy82: calls $0.73
+*** RIVER *** [3c 9h 7h 5h] [Kc]
+poslonskiy82: bets $1.50
+rog3543: folds 
+Uncalled bet ($1.50) returned to poslonskiy82
+poslonskiy82 collected $3.46 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.62 | Rake $0.16 
+Board [3c 9h 7h 5h Kc]
+Seat 1: poslonskiy82 (small blind) collected ($3.46)
+Seat 2: rog3543 (big blind) folded on the River
+Seat 3: JJD1111 folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947053242:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:39:58 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($8.02 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($9.55 in chips) 
+Seat 5: lalito.mdq ($10.27 in chips) 
+Seat 6: mailier ($22.52 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: raises $0.75 to $1.05
+poslonskiy82: calls $1.05
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: calls $0.75
+*** FLOP *** [3h 6s Jc]
+Pokernan95: checks 
+mailier: bets $1.70
+poslonskiy82: folds 
+Pokernan95: folds 
+Uncalled bet ($1.70) returned to mailier
+mailier collected $3.15 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.30 | Rake $0.15 
+Board [3h 6s Jc]
+Seat 1: poslonskiy82 (button) folded on the Flop
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) folded before Flop
+Seat 4: Pokernan95 folded on the Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($3.15)
+
+
+
+PokerStars Hand #222947064584:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:40:48 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($6.97 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.50 in chips) 
+Seat 5: lalito.mdq ($10.27 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: folds 
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.25 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 (button) collected ($0.25)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947067135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:40:58 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($6.97 in chips) 
+Seat 2: rog3543 ($10.15 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.40 in chips) 
+Seat 5: lalito.mdq ($10.27 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier has timed out
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: checks 
+*** FLOP *** [Kh Qd Jc]
+lalito.mdq: checks 
+poslonskiy82: bets $0.20
+lalito.mdq: folds 
+Uncalled bet ($0.20) returned to poslonskiy82
+poslonskiy82 collected $0.24 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh Qd Jc]
+Seat 1: poslonskiy82 collected ($0.24)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded on the Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947074697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:41:32 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($7.11 in chips) 
+Seat 2: rog3543 ($10.15 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.35 in chips) 
+Seat 5: lalito.mdq ($10.17 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82 has timed out
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to mailier
+mailier collected $0.10 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222947079978:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:41:54 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($7.11 in chips) 
+Seat 2: rog3543 ($10.15 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.35 in chips) 
+Seat 5: lalito.mdq ($10.12 in chips) 
+Seat 6: mailier ($24.67 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.20
+*** FLOP *** [8d Qs 5c]
+poslonskiy82: checks 
+rog3543: checks 
+*** TURN *** [8d Qs 5c] [4d]
+poslonskiy82: checks 
+rog3543: bets $0.31
+poslonskiy82: folds 
+Uncalled bet ($0.31) returned to rog3543
+rog3543 collected $0.62 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8d Qs 5c 4d]
+Seat 1: poslonskiy82 (big blind) folded on the Turn
+Seat 2: rog3543 collected ($0.62)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947087374:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:42:26 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($6.81 in chips) 
+Seat 2: rog3543 ($10.47 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.35 in chips) 
+Seat 5: lalito.mdq ($10.12 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95 has timed out
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier has timed out
+mailier: folds 
+poslonskiy82: calls $0.05
+rog3543: raises $0.50 to $0.60
+poslonskiy82: folds 
+Uncalled bet ($0.50) returned to rog3543
+rog3543 collected $0.20 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: poslonskiy82 (small blind) folded before Flop
+Seat 2: rog3543 (big blind) collected ($0.20)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947095837:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:43:03 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($6.71 in chips) 
+Seat 2: rog3543 ($10.57 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.35 in chips) 
+Seat 5: lalito.mdq ($10.12 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: calls $0.05
+petrovichkag: checks 
+*** FLOP *** [4c Th Js]
+rog3543: checks 
+petrovichkag: checks 
+poslonskiy82: checks 
+*** TURN *** [4c Th Js] [6h]
+rog3543: checks 
+petrovichkag: checks 
+poslonskiy82: checks 
+*** RIVER *** [4c Th Js 6h] [5h]
+rog3543: checks 
+petrovichkag: checks 
+poslonskiy82: checks 
+*** SHOW DOWN ***
+rog3543: shows [2h Ad] (high card Ace)
+petrovichkag: mucks hand 
+poslonskiy82: mucks hand 
+rog3543 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4c Th Js 6h 5h]
+Seat 1: poslonskiy82 (button) mucked
+Seat 2: rog3543 (small blind) showed [2h Ad] and won ($0.29) with high card Ace
+Seat 3: petrovichkag (big blind) mucked
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947108596:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:43:58 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($6.61 in chips) 
+Seat 2: rog3543 ($10.76 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.35 in chips) 
+Seat 5: lalito.mdq ($10.12 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: checks 
+*** FLOP *** [8h 3s Jh]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** TURN *** [8h 3s Jh] [7h]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** RIVER *** [8h 3s Jh 7h] [Ad]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** SHOW DOWN ***
+Pokernan95: shows [5h Ks] (high card Ace)
+poslonskiy82: shows [Td Kh] (high card Ace - King+Jack+Ten kicker)
+poslonskiy82 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h 3s Jh 7h Ad]
+Seat 1: poslonskiy82 showed [Td Kh] and won ($0.24) with high card Ace
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) showed [5h Ks] and lost with high card Ace
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947120673:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:44:50 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($6.75 in chips) 
+Seat 2: rog3543 ($10.76 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($8.25 in chips) 
+Seat 5: lalito.mdq ($10.12 in chips) 
+Seat 6: mailier ($24.62 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: raises $0.20 to $0.30
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: calls $0.25
+lalito.mdq: folds 
+*** FLOP *** [3d As Kh]
+Pokernan95: checks 
+mailier: bets $0.34
+Pokernan95: calls $0.34
+*** TURN *** [3d As Kh] [Ad]
+Pokernan95: checks 
+mailier: bets $0.66
+Pokernan95: raises $0.84 to $1.50
+mailier: folds 
+Uncalled bet ($0.84) returned to Pokernan95
+Pokernan95 collected $2.58 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [3d As Kh Ad]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) collected ($2.58)
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded on the Turn
+
+
+
+PokerStars Hand #222947137471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:46:02 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($6.75 in chips) 
+Seat 2: rog3543 ($10.76 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($9.53 in chips) 
+Seat 5: lalito.mdq ($10.02 in chips) 
+Seat 6: mailier ($23.32 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.14) returned to petrovichkag
+petrovichkag collected $0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag collected ($0.25)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947140697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:46:15 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($6.75 in chips) 
+Seat 2: rog3543 ($10.76 in chips) 
+Seat 3: petrovichkag ($10.15 in chips) 
+Seat 4: Pokernan95 ($9.53 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($23.22 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.10 to $0.20
+poslonskiy82: calls $0.10
+*** FLOP *** [2s 4h Ac]
+mailier: checks 
+poslonskiy82: bets $0.20
+mailier: folds 
+Uncalled bet ($0.20) returned to poslonskiy82
+poslonskiy82 collected $0.38 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [2s 4h Ac]
+Seat 1: poslonskiy82 (big blind) collected ($0.38)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222947149862:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:46:54 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($6.93 in chips) 
+Seat 2: rog3543 ($10.76 in chips) 
+Seat 3: petrovichkag ($10.15 in chips) 
+Seat 4: Pokernan95 ($9.53 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier has timed out
+mailier: folds 
+poslonskiy82: calls $0.05
+rog3543: raises $0.40 to $0.50
+poslonskiy82: calls $0.40
+*** FLOP *** [Kh 6d 8d]
+poslonskiy82: checks 
+rog3543: bets $0.48
+poslonskiy82: calls $0.48
+*** TURN *** [Kh 6d 8d] [Jc]
+poslonskiy82: checks 
+rog3543: checks 
+*** RIVER *** [Kh 6d 8d Jc] [2c]
+poslonskiy82: bets $0.90
+rog3543: folds 
+Uncalled bet ($0.90) returned to poslonskiy82
+poslonskiy82 collected $1.87 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [Kh 6d 8d Jc 2c]
+Seat 1: poslonskiy82 (small blind) collected ($1.87)
+Seat 2: rog3543 (big blind) folded on the River
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947164217:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:47:55 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($7.82 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10.15 in chips) 
+Seat 4: Pokernan95 ($9.53 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82 has timed out
+poslonskiy82: folds 
+poslonskiy82 is disconnected 
+rog3543: raises $0.20 to $0.30
+petrovichkag: calls $0.20
+*** FLOP *** [Js 8s 3c]
+rog3543: checks 
+petrovichkag: bets $0.44
+rog3543: folds 
+Uncalled bet ($0.44) returned to petrovichkag
+petrovichkag collected $0.57 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Js 8s 3c]
+Seat 1: poslonskiy82 (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded on the Flop
+Seat 3: petrovichkag (big blind) collected ($0.57)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947178433:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:48:55 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($7.82 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10.42 in chips) 
+Seat 4: Pokernan95 ($9.53 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+Uncalled bet ($0.20) returned to mailier
+mailier collected $0.25 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.25)
+
+
+
+PokerStars Hand #222947184373:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:49:21 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($7.82 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10.37 in chips) 
+Seat 4: Pokernan95 ($9.43 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($23.17 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: raises $0.30 to $0.40
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: calls $0.30
+poslonskiy82: calls $0.30
+*** FLOP *** [5h 8s Ks]
+lalito.mdq: checks 
+poslonskiy82: checks 
+rog3543: bets $0.49
+lalito.mdq: calls $0.49
+poslonskiy82: folds 
+*** TURN *** [5h 8s Ks] [Qd]
+lalito.mdq: checks 
+rog3543: checks 
+*** RIVER *** [5h 8s Ks Qd] [5c]
+lalito.mdq: checks 
+rog3543: checks 
+*** SHOW DOWN ***
+lalito.mdq: shows [Qs 7s] (two pair, Queens and Fives)
+rog3543: mucks hand 
+lalito.mdq collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.10 
+Board [5h 8s Ks Qd 5c]
+Seat 1: poslonskiy82 folded on the Flop
+Seat 2: rog3543 mucked
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) showed [Qs 7s] and won ($2.13) with two pair, Queens and Fives
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947197705:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:50:18 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($7.42 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10.37 in chips) 
+Seat 4: Pokernan95 ($9.38 in chips) 
+Seat 5: lalito.mdq ($11.24 in chips) 
+Seat 6: mailier ($23.17 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: calls $0.10
+rog3543: folds 
+petrovichkag: raises $0.30 to $0.40
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.30
+*** FLOP *** [6c Ts 2h]
+poslonskiy82: checks 
+petrovichkag: bets $0.30
+poslonskiy82: raises $0.30 to $0.60
+petrovichkag: folds 
+Uncalled bet ($0.30) returned to poslonskiy82
+poslonskiy82 collected $1.48 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [6c Ts 2h]
+Seat 1: poslonskiy82 collected ($1.48)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded on the Flop
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947212773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:03 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($8.20 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($9.38 in chips) 
+Seat 5: lalito.mdq ($11.19 in chips) 
+Seat 6: mailier ($23.07 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to poslonskiy82
+poslonskiy82 collected $0.10 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: poslonskiy82 (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947214744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:11 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($8.25 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($9.38 in chips) 
+Seat 5: lalito.mdq ($11.19 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier has timed out
+mailier: folds 
+poslonskiy82: calls $0.05
+rog3543: checks 
+*** FLOP *** [Th As 7h]
+poslonskiy82: checks 
+rog3543: bets $0.19
+poslonskiy82: folds 
+Uncalled bet ($0.19) returned to rog3543
+rog3543 collected $0.19 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th As 7h]
+Seat 1: poslonskiy82 (small blind) folded on the Flop
+Seat 2: rog3543 (big blind) collected ($0.19)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947222525:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:44 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($8.15 in chips) 
+Seat 2: rog3543 ($10.09 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($9.38 in chips) 
+Seat 5: lalito.mdq ($11.19 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: folds 
+rog3543: folds 
+Uncalled bet ($0.05) returned to petrovichkag
+petrovichkag collected $0.10 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: poslonskiy82 (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) collected ($0.10)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947226359:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:52:01 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($8.15 in chips) 
+Seat 2: rog3543 ($10.04 in chips) 
+Seat 3: petrovichkag ($10.05 in chips) 
+Seat 4: Pokernan95 ($9.38 in chips) 
+Seat 5: lalito.mdq ($11.19 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier has timed out
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: checks 
+*** FLOP *** [6c 5h Ad]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** TURN *** [6c 5h Ad] [5d]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** RIVER *** [6c 5h Ad 5d] [Ts]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** SHOW DOWN ***
+Pokernan95: shows [3h 4d] (a pair of Fives)
+poslonskiy82: shows [9s 8h] (a pair of Fives - Ace+Ten+Nine kicker)
+poslonskiy82 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 5h Ad 5d Ts]
+Seat 1: poslonskiy82 showed [9s 8h] and won ($0.24) with a pair of Fives
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) showed [3h 4d] and lost with a pair of Fives
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947234583:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:52:37 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($8.29 in chips) 
+Seat 2: rog3543 ($10.04 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($9.28 in chips) 
+Seat 5: lalito.mdq ($11.19 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+lalito.mdq: raises $0.66 to $0.90
+petrovichkag: calls $0.66
+*** FLOP *** [9s 6c Td]
+lalito.mdq: bets $0.89
+petrovichkag: calls $0.89
+*** TURN *** [9s 6c Td] [Jh]
+lalito.mdq: checks 
+petrovichkag: checks 
+*** RIVER *** [9s 6c Td Jh] [8d]
+lalito.mdq: bets $1.15
+petrovichkag: calls $1.15
+*** SHOW DOWN ***
+lalito.mdq: shows [Ac Tc] (a pair of Tens)
+petrovichkag: shows [7h 7s] (a straight, Seven to Jack)
+petrovichkag collected $5.66 from pot
+*** SUMMARY ***
+Total pot $5.93 | Rake $0.27 
+Board [9s 6c Td Jh 8d]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) showed [7h 7s] and won ($5.66) with a straight, Seven to Jack
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) showed [Ac Tc] and lost with a pair of Tens
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947242135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:53:09 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($8.29 in chips) 
+Seat 2: rog3543 ($10.04 in chips) 
+Seat 3: petrovichkag ($12.72 in chips) 
+Seat 4: Pokernan95 ($9.23 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($23.02 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: calls $0.10
+rog3543: raises $0.30 to $0.40
+petrovichkag: folds 
+Pokernan95: calls $0.40
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.30
+*** FLOP *** [9s 2s 7h]
+poslonskiy82: bets $0.50
+rog3543: folds 
+Pokernan95: folds 
+Uncalled bet ($0.50) returned to poslonskiy82
+poslonskiy82 collected $1.29 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [9s 2s 7h]
+Seat 1: poslonskiy82 collected ($1.29)
+Seat 2: rog3543 folded on the Flop
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded on the Flop
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947251110:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:53:48 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($9.18 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($12.72 in chips) 
+Seat 4: Pokernan95 ($8.83 in chips) 
+Seat 5: lalito.mdq ($10 in chips) 
+Seat 6: mailier ($22.92 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: calls $0.30
+lalito.mdq: calls $0.30
+mailier: folds 
+poslonskiy82: folds 
+*** FLOP *** [4s Qs Qd]
+rog3543: bets $0.60
+Pokernan95: folds 
+lalito.mdq: calls $0.60
+*** TURN *** [4s Qs Qd] [2c]
+rog3543: bets $1.07
+lalito.mdq: calls $1.07
+*** RIVER *** [4s Qs Qd 2c] [6s]
+rog3543: checks 
+lalito.mdq: bets $2.10
+rog3543: calls $2.10
+*** SHOW DOWN ***
+lalito.mdq: shows [8s 7s] (a flush, Queen high)
+rog3543: mucks hand 
+lalito.mdq collected $8.20 from pot
+*** SUMMARY ***
+Total pot $8.59 | Rake $0.39 
+Board [4s Qs Qd 2c 6s]
+Seat 1: poslonskiy82 (big blind) folded before Flop
+Seat 2: rog3543 mucked
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded on the Flop
+Seat 5: lalito.mdq (button) showed [8s 7s] and won ($8.20) with a flush, Queen high
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947265297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:54:49 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($9.08 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($12.72 in chips) 
+Seat 4: Pokernan95 ($8.53 in chips) 
+Seat 5: lalito.mdq ($14.13 in chips) 
+Seat 6: mailier ($22.87 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: folds 
+rog3543: calls $0.20
+*** FLOP *** [Jc 6h Kd]
+rog3543: checks 
+Pokernan95: checks 
+*** TURN *** [Jc 6h Kd] [As]
+rog3543: checks 
+Pokernan95: bets $0.31
+rog3543: folds 
+Uncalled bet ($0.31) returned to Pokernan95
+Pokernan95 collected $0.62 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Jc 6h Kd As]
+Seat 1: poslonskiy82 (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded on the Turn
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 collected ($0.62)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947272438:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:55:21 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($9.03 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($12.72 in chips) 
+Seat 4: Pokernan95 ($8.85 in chips) 
+Seat 5: lalito.mdq ($14.13 in chips) 
+Seat 6: mailier ($22.87 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: calls $0.05
+petrovichkag: checks 
+*** FLOP *** [9s 8d 4d]
+rog3543: checks 
+petrovichkag: checks 
+poslonskiy82: bets $0.10
+rog3543: folds 
+petrovichkag: folds 
+Uncalled bet ($0.10) returned to poslonskiy82
+poslonskiy82 collected $0.29 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9s 8d 4d]
+Seat 1: poslonskiy82 (button) collected ($0.29)
+Seat 2: rog3543 (small blind) folded on the Flop
+Seat 3: petrovichkag (big blind) folded on the Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947276479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:55:42 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($9.22 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($12.62 in chips) 
+Seat 4: Pokernan95 ($8.85 in chips) 
+Seat 5: lalito.mdq ($14.13 in chips) 
+Seat 6: mailier ($22.87 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: raises $0.20 to $0.30
+Pokernan95: folds 
+Uncalled bet ($0.20) returned to petrovichkag
+petrovichkag collected $0.20 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) collected ($0.20)
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947278560:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:55:53 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($9.22 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($12.72 in chips) 
+Seat 4: Pokernan95 ($8.75 in chips) 
+Seat 5: lalito.mdq ($14.13 in chips) 
+Seat 6: mailier ($22.87 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+poslonskiy82: calls $0.20
+*** FLOP *** [Kd Ac 9d]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** TURN *** [Kd Ac 9d] [6d]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** RIVER *** [Kd Ac 9d 6d] [Jc]
+Pokernan95: checks 
+poslonskiy82: bets $0.40
+Pokernan95: folds 
+Uncalled bet ($0.40) returned to poslonskiy82
+poslonskiy82 collected $0.67 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Kd Ac 9d 6d Jc]
+Seat 1: poslonskiy82 collected ($0.67)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) folded on the River
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947286876:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:56:35 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($9.59 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($12.72 in chips) 
+Seat 4: Pokernan95 ($8.45 in chips) 
+Seat 5: lalito.mdq ($14.03 in chips) 
+Seat 6: mailier ($22.87 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: calls $0.24
+lalito.mdq: folds 
+mailier: folds 
+*** FLOP *** [8s Qd Ah]
+petrovichkag: bets $0.47
+Pokernan95: calls $0.47
+*** TURN *** [8s Qd Ah] [5h]
+petrovichkag: bets $1.17
+Pokernan95: calls $1.17
+*** RIVER *** [8s Qd Ah 5h] [9s]
+petrovichkag: checks 
+Pokernan95: checks 
+*** SHOW DOWN ***
+petrovichkag: shows [Ad Kh] (a pair of Aces)
+Pokernan95: mucks hand 
+petrovichkag collected $3.73 from pot
+*** SUMMARY ***
+Total pot $3.91 | Rake $0.18 
+Board [8s Qd Ah 5h 9s]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag showed [Ad Kh] and won ($3.73) with a pair of Aces
+Seat 4: Pokernan95 (button) mucked
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947295360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:57:18 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($9.59 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($14.57 in chips) 
+Seat 4: Pokernan95 ($6.57 in chips) 
+Seat 5: lalito.mdq ($13.98 in chips) 
+Seat 6: mailier ($22.77 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.20
+*** FLOP *** [6d Js 5c]
+poslonskiy82: checks 
+rog3543: checks 
+*** TURN *** [6d Js 5c] [3c]
+poslonskiy82: checks 
+rog3543: checks 
+*** RIVER *** [6d Js 5c 3c] [Ah]
+poslonskiy82: checks 
+rog3543: checks 
+*** SHOW DOWN ***
+poslonskiy82: shows [Td 8s] (high card Ace)
+rog3543: shows [Qh Kd] (high card Ace - King kicker)
+rog3543 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [6d Js 5c 3c Ah]
+Seat 1: poslonskiy82 (big blind) showed [Td 8s] and lost with high card Ace
+Seat 2: rog3543 showed [Qh Kd] and won ($0.62) with high card Ace
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947301968:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:57:52 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($9.29 in chips) 
+Seat 2: rog3543 ($10.32 in chips) 
+Seat 3: petrovichkag ($14.57 in chips) 
+Seat 4: Pokernan95 ($9.57 in chips) 
+Seat 5: lalito.mdq ($13.98 in chips) 
+Seat 6: mailier ($22.72 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+poslonskiy82: folds 
+rog3543: raises $0.85 to $1.15
+mailier: folds 
+Uncalled bet ($0.85) returned to rog3543
+rog3543 collected $0.65 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: poslonskiy82 (small blind) folded before Flop
+Seat 2: rog3543 (big blind) collected ($0.65)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop
+
+
+
+PokerStars Hand #222947308253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:58:23 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($9.24 in chips) 
+Seat 2: rog3543 ($10.67 in chips) 
+Seat 3: petrovichkag ($14.57 in chips) 
+Seat 4: Pokernan95 ($9.57 in chips) 
+Seat 5: lalito.mdq ($13.98 in chips) 
+Seat 6: mailier ($22.42 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.10 to $0.20
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Uncalled bet ($0.10) returned to mailier
+mailier collected $0.25 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) folded before Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.25)
+
+
+
+PokerStars Hand #222947311111:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:58:38 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($9.24 in chips) 
+Seat 2: rog3543 ($10.62 in chips) 
+Seat 3: petrovichkag ($14.47 in chips) 
+Seat 4: Pokernan95 ($9.57 in chips) 
+Seat 5: lalito.mdq ($13.98 in chips) 
+Seat 6: mailier ($22.57 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: raises $0.10 to $0.20
+poslonskiy82: calls $0.20
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: raises $0.40 to $0.60
+mailier: folds 
+poslonskiy82: calls $0.40
+*** FLOP *** [5d Js 5s]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** TURN *** [5d Js 5s] [3d]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** RIVER *** [5d Js 5s 3d] [3c]
+Pokernan95: bets $0.70
+poslonskiy82: calls $0.70
+*** SHOW DOWN ***
+Pokernan95: shows [Jh Qh] (two pair, Jacks and Fives)
+poslonskiy82: shows [3h 4h] (a full house, Threes full of Fives)
+poslonskiy82 collected $2.72 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.13 
+Board [5d Js 5s 3d 3c]
+Seat 1: poslonskiy82 showed [3h 4h] and won ($2.72) with a full house, Threes full of Fives
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) showed [Jh Qh] and lost with two pair, Jacks and Fives
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop
+
+
+
+PokerStars Hand #222947323571:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:59:42 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($10.66 in chips) 
+Seat 2: rog3543 ($10.62 in chips) 
+Seat 3: petrovichkag ($14.42 in chips) 
+Seat 4: Pokernan95 ($8.27 in chips) 
+Seat 5: lalito.mdq ($13.98 in chips) 
+Seat 6: mailier ($22.37 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+Uncalled bet ($0.20) returned to Pokernan95
+Pokernan95 collected $0.20 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) collected ($0.20)
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947326766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:59:58 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($10.66 in chips) 
+Seat 2: rog3543 ($10.62 in chips) 
+Seat 3: petrovichkag ($14.42 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($13.88 in chips) 
+Seat 6: mailier ($22.37 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: calls $0.10
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: calls $0.05
+mailier: checks 
+*** FLOP *** [Td 3h 8c]
+lalito.mdq: checks 
+mailier: checks 
+poslonskiy82: checks 
+*** TURN *** [Td 3h 8c] [7h]
+lalito.mdq: bets $0.10
+mailier: folds 
+poslonskiy82: calls $0.10
+*** RIVER *** [Td 3h 8c 7h] [7c]
+lalito.mdq: checks 
+poslonskiy82: checks 
+*** SHOW DOWN ***
+lalito.mdq: shows [Ah 8h] (two pair, Eights and Sevens)
+poslonskiy82: mucks hand 
+lalito.mdq collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Td 3h 8c 7h 7c]
+Seat 1: poslonskiy82 mucked
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) showed [Ah 8h] and won ($0.48) with two pair, Eights and Sevens
+Seat 6: mailier (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222947333596:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:00:31 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($10.46 in chips) 
+Seat 2: rog3543 ($10.62 in chips) 
+Seat 3: petrovichkag ($14.42 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($14.16 in chips) 
+Seat 6: mailier ($22.27 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.10 to $0.20
+poslonskiy82: calls $0.10
+*** FLOP *** [9s 8d Ts]
+mailier: checks 
+poslonskiy82: checks 
+*** TURN *** [9s 8d Ts] [3h]
+mailier: checks 
+poslonskiy82: checks 
+*** RIVER *** [9s 8d Ts 3h] [Qc]
+mailier: checks 
+poslonskiy82: bets $0.30
+mailier: folds 
+Uncalled bet ($0.30) returned to poslonskiy82
+poslonskiy82 collected $0.38 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [9s 8d Ts 3h Qc]
+Seat 1: poslonskiy82 (big blind) collected ($0.38)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded on the River
+
+
+
+PokerStars Hand #222947347864:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:01:36 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($10.64 in chips) 
+Seat 2: rog3543 ($10.62 in chips) 
+Seat 3: petrovichkag ($14.42 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($14.16 in chips) 
+Seat 6: mailier ($22.07 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.19
+rog3543: calls $0.14
+*** FLOP *** [Ts Jd 2c]
+poslonskiy82: bets $0.20
+rog3543: calls $0.20
+petrovichkag: calls $0.20
+*** TURN *** [Ts Jd 2c] [5d]
+poslonskiy82: bets $0.20
+rog3543: calls $0.20
+petrovichkag: folds 
+*** RIVER *** [Ts Jd 2c 5d] [9c]
+poslonskiy82: bets $0.20
+rog3543: calls $0.20
+*** SHOW DOWN ***
+poslonskiy82: shows [Td As] (a pair of Tens)
+rog3543: mucks hand 
+poslonskiy82 collected $2.02 from pot
+*** SUMMARY ***
+Total pot $2.12 | Rake $0.10 
+Board [Ts Jd 2c 5d 9c]
+Seat 1: poslonskiy82 (small blind) showed [Td As] and won ($2.02) with a pair of Tens
+Seat 2: rog3543 (big blind) mucked
+Seat 3: petrovichkag folded on the Turn
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947360528:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:02:32 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($11.82 in chips) 
+Seat 2: rog3543 ($10 in chips) 
+Seat 3: petrovichkag ($13.98 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($14.16 in chips) 
+Seat 6: mailier ($22.07 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543: raises $0.30 to $0.40
+petrovichkag: folds 
+poslonskiy82: calls $0.30
+*** FLOP *** [4d 4c 3s]
+rog3543: bets $0.33
+poslonskiy82: folds 
+Uncalled bet ($0.33) returned to rog3543
+rog3543 collected $0.86 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [4d 4c 3s]
+Seat 1: poslonskiy82 (button) folded on the Flop
+Seat 2: rog3543 (small blind) collected ($0.86)
+Seat 3: petrovichkag (big blind) folded before Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947366720:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:02:59 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($11.42 in chips) 
+Seat 2: rog3543 ($10.46 in chips) 
+Seat 3: petrovichkag ($13.88 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($14.16 in chips) 
+Seat 6: mailier ($22.07 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.10
+rog3543 has timed out
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: checks 
+*** FLOP *** [Kc 3c Tc]
+Pokernan95: checks 
+poslonskiy82: checks 
+*** TURN *** [Kc 3c Tc] [7c]
+Pokernan95: checks 
+poslonskiy82: bets $0.20
+Pokernan95: folds 
+Uncalled bet ($0.20) returned to poslonskiy82
+poslonskiy82 collected $0.24 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kc 3c Tc 7c]
+Seat 1: poslonskiy82 collected ($0.24)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded on the Turn
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947374812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:03:34 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($11.56 in chips) 
+Seat 2: rog3543 ($10.46 in chips) 
+Seat 3: petrovichkag ($13.83 in chips) 
+Seat 4: Pokernan95 ($8.27 in chips) 
+Seat 5: lalito.mdq ($14.16 in chips) 
+Seat 6: mailier ($22.07 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: raises $0.20 to $0.30
+poslonskiy82: calls $0.30
+rog3543: folds 
+petrovichkag: calls $0.30
+Pokernan95: folds 
+lalito.mdq: calls $0.20
+*** FLOP *** [Ks 8c Kc]
+lalito.mdq: checks 
+mailier: bets $0.60
+poslonskiy82: folds 
+petrovichkag: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.60) returned to mailier
+mailier collected $1.19 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ks 8c Kc]
+Seat 1: poslonskiy82 folded on the Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded on the Flop
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded on the Flop
+Seat 6: mailier collected ($1.19)
+
+
+
+PokerStars Hand #222947382169:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:05 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: poslonskiy82 ($11.26 in chips) 
+Seat 2: rog3543 ($10.46 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.22 in chips) 
+Seat 5: lalito.mdq ($13.86 in chips) 
+Seat 6: mailier ($22.96 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: raises $0.20 to $0.30
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.20) returned to Pokernan95
+Pokernan95 collected $0.25 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) collected ($0.25)
+Seat 5: lalito.mdq (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947387340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:27 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: poslonskiy82 ($11.26 in chips) 
+Seat 2: rog3543 ($10.46 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($22.86 in chips) 
+mailier: posts small blind $0.05
+poslonskiy82: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to poslonskiy82
+poslonskiy82 collected $0.10 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: poslonskiy82 (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947391684:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:46 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: poslonskiy82 ($11.31 in chips) 
+Seat 2: rog3543 ($10.46 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($22.81 in chips) 
+poslonskiy82: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+poslonskiy82: calls $0.05
+rog3543: checks 
+*** FLOP *** [7s Jh 9h]
+poslonskiy82: bets $0.10
+rog3543: folds 
+Uncalled bet ($0.10) returned to poslonskiy82
+poslonskiy82 collected $0.19 from pot
+poslonskiy82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7s Jh 9h]
+Seat 1: poslonskiy82 (small blind) collected ($0.19)
+Seat 2: rog3543 (big blind) folded on the Flop
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947397745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:05:12 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: poslonskiy82 ($11.40 in chips) 
+Seat 2: rog3543 ($10.36 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($22.81 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Uncalled bet ($0.20) returned to mailier
+mailier collected $0.25 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) folded before Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.25)
+
+
+
+PokerStars Hand #222947401398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:05:28 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: poslonskiy82 ($11.40 in chips) 
+Seat 2: rog3543 ($10.31 in chips) 
+Seat 3: petrovichkag ($13.43 in chips) 
+Seat 4: Pokernan95 ($8.37 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($22.96 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+poslonskiy82: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: calls $0.20
+*** FLOP *** [3h 4s Qc]
+Pokernan95: checks 
+mailier: checks 
+*** TURN *** [3h 4s Qc] [3s]
+Pokernan95: checks 
+mailier: bets $0.31
+Pokernan95: folds 
+Uncalled bet ($0.31) returned to mailier
+mailier collected $0.62 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3h 4s Qc 3s]
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded on the Turn
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.62)
+
+
+
+PokerStars Hand #222947410360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:06 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: poslonskiy82 ($11.40 in chips) 
+Seat 2: rog3543 ($10.31 in chips) 
+Seat 3: petrovichkag ($13.38 in chips) 
+Seat 4: Pokernan95 ($8.07 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($23.28 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+poslonskiy82: folds 
+poslonskiy82 leaves the table
+romanromanro joins the table at seat #1 
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.14) returned to petrovichkag
+petrovichkag collected $0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: poslonskiy82 folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) collected ($0.25)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947415870:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:30 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 2: rog3543 ($10.31 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.02 in chips) 
+Seat 5: lalito.mdq ($13.71 in chips) 
+Seat 6: mailier ($23.28 in chips) 
+lalito.mdq: posts small blind $0.05
+mailier: posts big blind $0.10
+romanromanro: sits out 
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: raises $0.15 to $0.25
+mailier: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: lalito.mdq (small blind) collected ($0.20)
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947419406:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:45 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: romanromanro ($10 in chips) 
+Seat 2: rog3543 ($10.31 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.02 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($23.18 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to romanromanro
+romanromanro collected $0.10 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: romanromanro (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947422906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:00 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($10.05 in chips) 
+Seat 2: rog3543 ($10.31 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.02 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($23.13 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: folds 
+lalito.mdq: folds 
+mailier: raises $0.20 to $0.30
+romanromanro: folds 
+rog3543: folds 
+Uncalled bet ($0.20) returned to mailier
+mailier collected $0.25 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier (button) collected ($0.25)
+
+
+
+PokerStars Hand #222947425461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:12 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($10 in chips) 
+Seat 2: rog3543 ($10.21 in chips) 
+Seat 3: petrovichkag ($13.53 in chips) 
+Seat 4: Pokernan95 ($8.02 in chips) 
+Seat 5: lalito.mdq ($13.81 in chips) 
+Seat 6: mailier ($23.28 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+lalito.mdq: raises $0.15 to $0.25
+mailier: folds 
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: calls $0.15
+*** FLOP *** [8h Qd Ad]
+petrovichkag: checks 
+lalito.mdq: checks 
+*** TURN *** [8h Qd Ad] [Ks]
+petrovichkag: bets $0.30
+lalito.mdq: folds 
+Uncalled bet ($0.30) returned to petrovichkag
+petrovichkag collected $0.53 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8h Qd Ad Ks]
+Seat 1: romanromanro (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) collected ($0.53)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: lalito.mdq folded on the Turn
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947429822:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:31 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($10 in chips) 
+Seat 2: rog3543 ($10.16 in chips) 
+Seat 3: petrovichkag ($13.81 in chips) 
+Seat 4: Pokernan95 ($8.02 in chips) 
+Seat 5: lalito.mdq ($13.56 in chips) 
+Seat 6: mailier ($23.28 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+mailier: folds 
+romanromanro: raises $0.12 to $0.22
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: calls $0.12
+*** FLOP *** [Qc 2c 4h]
+Pokernan95: checks 
+romanromanro: bets $0.16
+Pokernan95: calls $0.16
+*** TURN *** [Qc 2c 4h] [5s]
+Pokernan95: checks 
+romanromanro: bets $0.70
+Pokernan95: folds 
+Uncalled bet ($0.70) returned to romanromanro
+romanromanro collected $0.77 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04 
+Board [Qc 2c 4h 5s]
+Seat 1: romanromanro collected ($0.77)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded on the Turn
+Seat 5: lalito.mdq folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947436907:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:01 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: romanromanro ($10.39 in chips) 
+Seat 2: rog3543 ($10.16 in chips) 
+Seat 3: petrovichkag ($13.76 in chips) 
+Seat 4: Pokernan95 ($7.64 in chips) 
+Seat 5: lalito.mdq ($13.56 in chips) 
+Seat 6: mailier ($23.28 in chips) 
+Pokernan95: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+petrovichkag: raises $0.60 to $0.90
+Pokernan95: folds 
+lalito.mdq: folds 
+rog3543: raises $1.45 to $2.35
+petrovichkag: calls $1.45
+*** FLOP *** [Kh 2d 8s]
+rog3543: bets $2
+petrovichkag: calls $2
+*** TURN *** [Kh 2d 8s] [5s]
+rog3543: bets $5.81 and is all-in
+petrovichkag: calls $5.81
+*** RIVER *** [Kh 2d 8s 5s] [6s]
+*** SHOW DOWN ***
+rog3543: shows [As 7s] (a flush, Ace high)
+petrovichkag: shows [Kc Ah] (a pair of Kings)
+rog3543 collected $19.55 from pot
+*** SUMMARY ***
+Total pot $20.47 | Rake $0.92 
+Board [Kh 2d 8s 5s 6s]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 showed [As 7s] and won ($19.55) with a flush, Ace high
+Seat 3: petrovichkag (button) showed [Kc Ah] and lost with a pair of Kings
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: lalito.mdq (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947448835:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:52 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: romanromanro ($10.39 in chips) 
+Seat 2: rog3543 ($19.55 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.59 in chips) 
+Seat 6: mailier ($23.28 in chips) 
+lalito.mdq is disconnected 
+lalito.mdq has timed out while disconnected
+lalito.mdq: is sitting out 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+mailier: raises $0.20 to $0.30
+romanromanro: folds 
+Uncalled bet ($0.20) returned to mailier
+mailier collected $0.20 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: romanromanro (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947453478:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:12 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($10.29 in chips) 
+Seat 2: rog3543 ($19.55 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.59 in chips) 
+Seat 6: mailier ($23.38 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+mailier: folds 
+romanromanro: raises $0.81 to $1.05
+rog3543: folds 
+petrovichkag is disconnected 
+petrovichkag is connected 
+petrovichkag has timed out
+petrovichkag: folds 
+Uncalled bet ($0.81) returned to romanromanro
+romanromanro collected $0.58 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0 
+Seat 1: romanromanro (small blind) collected ($0.58)
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: petrovichkag folded before Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947471431:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:29 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($10.63 in chips) 
+Seat 2: rog3543 ($19.45 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.59 in chips) 
+Seat 6: mailier ($23.38 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+petrovichkag: calls $0.20
+*** FLOP *** [2s 4c 6s]
+rog3543: checks 
+petrovichkag: bets $0.44
+rog3543: folds 
+Uncalled bet ($0.44) returned to petrovichkag
+petrovichkag collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [2s 4c 6s]
+Seat 1: romanromanro (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded on the Flop
+Seat 3: petrovichkag (big blind) collected ($0.57)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947477421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:55 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($10.63 in chips) 
+Seat 2: rog3543 ($19.15 in chips) 
+Seat 3: petrovichkag ($10.27 in chips) 
+Seat 4: Pokernan95 ($7.59 in chips) 
+Seat 6: mailier ($23.38 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: calls $0.20
+*** FLOP *** [5c Th Jd]
+Pokernan95: checks 
+rog3543: checks 
+*** TURN *** [5c Th Jd] [7h]
+Pokernan95: checks 
+rog3543: checks 
+*** RIVER *** [5c Th Jd 7h] [2h]
+Pokernan95: checks 
+rog3543: checks 
+*** SHOW DOWN ***
+Pokernan95: shows [6c 6d] (a pair of Sixes)
+rog3543: mucks hand 
+Pokernan95 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5c Th Jd 7h 2h]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 (button) mucked
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) showed [6c 6d] and won ($0.62) with a pair of Sixes
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947483700:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:22 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: romanromanro ($10.63 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10.22 in chips) 
+Seat 4: Pokernan95 ($7.91 in chips) 
+Seat 6: mailier ($23.38 in chips) 
+Pokernan95: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: calls $0.19
+mailier: calls $0.14
+*** FLOP *** [5s Jd Qc]
+Pokernan95: checks 
+mailier: checks 
+petrovichkag: checks 
+*** TURN *** [5s Jd Qc] [As]
+Pokernan95: checks 
+mailier: bets $0.40
+petrovichkag: folds 
+Pokernan95: folds 
+Uncalled bet ($0.40) returned to mailier
+mailier collected $0.69 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [5s Jd Qc As]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded on the Turn
+Seat 4: Pokernan95 (small blind) folded on the Turn
+Seat 6: mailier (big blind) collected ($0.69)
+
+
+
+PokerStars Hand #222947499473:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:29 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: romanromanro ($10.63 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.67 in chips) 
+Seat 6: mailier ($23.83 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to romanromanro
+romanromanro collected $0.10 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: romanromanro (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947501880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:39 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($10.68 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.67 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: folds 
+mailier: folds 
+romanromanro: folds 
+Uncalled bet ($0.05) returned to rog3543
+rog3543 collected $0.10 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: romanromanro (small blind) folded before Flop
+Seat 2: rog3543 (big blind) collected ($0.10)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947503751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:47 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($10.63 in chips) 
+Seat 2: rog3543 ($18.90 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.67 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: raises $0.20 to $0.30
+mailier: folds 
+romanromanro: calls $0.30
+rog3543: folds 
+petrovichkag: folds 
+*** FLOP *** [8s Tc Ad]
+Pokernan95: checks 
+romanromanro: bets $0.24
+Pokernan95: folds 
+Uncalled bet ($0.24) returned to romanromanro
+romanromanro collected $0.72 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8s Tc Ad]
+Seat 1: romanromanro (button) collected ($0.72)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) folded before Flop
+Seat 4: Pokernan95 folded on the Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947510075:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:13 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($11.05 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($7.37 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: raises $0.20 to $0.30
+Pokernan95: folds 
+Uncalled bet ($0.20) returned to petrovichkag
+petrovichkag collected $0.20 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) collected ($0.20)
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947515786:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:37 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: romanromanro ($11.05 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10.10 in chips) 
+Seat 4: Pokernan95 ($7.27 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+Pokernan95: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+Uncalled bet ($0.05) returned to mailier
+mailier collected $0.10 from pot
+lalito.mdq was removed from the table for failing to post
+lalito.mdq leaves the table
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 6: mailier (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222947517886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:46 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: romanromanro ($11.05 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10.10 in chips) 
+Seat 4: Pokernan95 ($7.22 in chips) 
+Seat 6: mailier ($23.83 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+mailier: calls $0.19
+romanromanro: folds 
+*** FLOP *** [7d Ks 8d]
+mailier: checks 
+petrovichkag: bets $0.18
+mailier: calls $0.18
+*** TURN *** [7d Ks 8d] [2h]
+Ohhh Jeee joins the table at seat #5 
+mailier: checks 
+petrovichkag: bets $0.70
+mailier: folds 
+Uncalled bet ($0.70) returned to petrovichkag
+petrovichkag collected $0.90 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.04 
+Board [7d Ks 8d 2h]
+Seat 1: romanromanro (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag collected ($0.90)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222947529739:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:14:36 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($10.95 in chips) 
+Seat 2: rog3543 ($18.85 in chips) 
+Seat 3: petrovichkag ($10.58 in chips) 
+Seat 4: Pokernan95 ($7.22 in chips) 
+Seat 6: mailier ($23.41 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+Ohhh Jeee: sits out 
+*** HOLE CARDS ***
+petrovichkag: folds 
+Pokernan95: raises $0.20 to $0.30
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.65 to $0.95
+Pokernan95: folds 
+Uncalled bet ($0.65) returned to rog3543
+rog3543 collected $0.65 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: romanromanro (small blind) folded before Flop
+Seat 2: rog3543 (big blind) collected ($0.65)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947535477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:00 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($10.90 in chips) 
+Seat 2: rog3543 ($19.20 in chips) 
+Seat 3: petrovichkag ($10.58 in chips) 
+Seat 4: Pokernan95 ($6.92 in chips) 
+Seat 6: mailier ($23.41 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+Ohhh Jeee: sits out 
+*** HOLE CARDS ***
+Pokernan95: folds 
+mailier: folds 
+romanromanro: raises $0.14 to $0.24
+rog3543: folds 
+petrovichkag: calls $0.14
+*** FLOP *** [8s 4h 3s]
+petrovichkag: checks 
+romanromanro: bets $0.12
+petrovichkag: calls $0.12
+*** TURN *** [8s 4h 3s] [Ks]
+petrovichkag: checks 
+romanromanro: checks 
+*** RIVER *** [8s 4h 3s Ks] [8c]
+petrovichkag: checks 
+romanromanro: checks 
+*** SHOW DOWN ***
+petrovichkag: shows [Ah 2d] (a pair of Eights)
+romanromanro: shows [3d Ac] (two pair, Eights and Threes)
+romanromanro collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [8s 4h 3s Ks 8c]
+Seat 1: romanromanro (button) showed [3d Ac] and won ($0.74) with two pair, Eights and Threes
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) showed [Ah 2d] and lost with a pair of Eights
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947542947:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:31 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.15 in chips) 
+Seat 3: petrovichkag ($10.22 in chips) 
+Seat 4: Pokernan95 ($6.92 in chips) 
+Seat 6: mailier ($23.41 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+Ohhh Jeee: sits out 
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.25 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 (button) collected ($0.25)
+Seat 3: petrovichkag (small blind) folded before Flop
+Seat 4: Pokernan95 (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947546823:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:48 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.30 in chips) 
+Seat 3: petrovichkag ($10.17 in chips) 
+Seat 4: Pokernan95 ($6.82 in chips) 
+Seat 5: Ohhh Jeee ($4.60 in chips) 
+Seat 6: mailier ($23.41 in chips) 
+Pokernan95: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+petrovichkag: folds 
+Pokernan95: folds 
+Ohhh Jeee: calls $0.20
+*** FLOP *** [Td Kd Th]
+Ohhh Jeee: checks 
+rog3543: bets $0.21
+Ohhh Jeee: folds 
+Uncalled bet ($0.21) returned to rog3543
+rog3543 collected $0.62 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td Kd Th]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 collected ($0.62)
+Seat 3: petrovichkag (button) folded before Flop (didn't bet)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: Ohhh Jeee (big blind) folded on the Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947553375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:16:16 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.62 in chips) 
+Seat 3: petrovichkag ($10.17 in chips) 
+Seat 4: Pokernan95 ($6.77 in chips) 
+Seat 5: Ohhh Jeee ($4.30 in chips) 
+Seat 6: mailier ($23.41 in chips) 
+Ohhh Jeee: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+Ohhh Jeee: calls $0.05
+mailier: raises $0.20 to $0.30
+Ohhh Jeee: calls $0.20
+*** FLOP *** [Qd Js 6s]
+Ohhh Jeee: checks 
+mailier: checks 
+*** TURN *** [Qd Js 6s] [3d]
+Ohhh Jeee: checks 
+mailier: checks 
+*** RIVER *** [Qd Js 6s 3d] [Th]
+Ohhh Jeee: checks 
+mailier: checks 
+*** SHOW DOWN ***
+Ohhh Jeee: shows [Ac 9c] (high card Ace)
+mailier: shows [Tc Kh] (a pair of Tens)
+mailier collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qd Js 6s 3d Th]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (small blind) showed [Ac 9c] and lost with high card Ace
+Seat 6: mailier (big blind) showed [Tc Kh] and won ($0.57) with a pair of Tens
+
+
+
+PokerStars Hand #222947562037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:16:52 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.62 in chips) 
+Seat 3: petrovichkag ($10.17 in chips) 
+Seat 4: Pokernan95 ($6.77 in chips) 
+Seat 5: Ohhh Jeee ($4 in chips) 
+Seat 6: mailier ($23.68 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+Ohhh Jeee: folds 
+mailier: folds 
+Uncalled bet ($0.05) returned to romanromanro
+romanromanro collected $0.10 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: romanromanro (big blind) collected ($0.10)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947563760:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:16:59 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($11.33 in chips) 
+Seat 2: rog3543 ($19.62 in chips) 
+Seat 3: petrovichkag ($10.17 in chips) 
+Seat 4: Pokernan95 ($6.77 in chips) 
+Seat 5: Ohhh Jeee ($4 in chips) 
+Seat 6: mailier ($23.63 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+Ohhh Jeee: folds 
+mailier: folds 
+romanromanro: folds 
+rog3543: folds 
+Uncalled bet ($0.14) returned to petrovichkag
+petrovichkag collected $0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: petrovichkag collected ($0.25)
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947568959:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:21 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.52 in chips) 
+Seat 3: petrovichkag ($10.32 in chips) 
+Seat 4: Pokernan95 ($6.77 in chips) 
+Seat 5: Ohhh Jeee ($4 in chips) 
+Seat 6: mailier ($23.63 in chips) 
+rog3543: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+Ohhh Jeee: folds 
+mailier: raises $0.20 to $0.30
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: folds 
+Uncalled bet ($0.20) returned to mailier
+mailier collected $0.25 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: petrovichkag (big blind) folded before Flop
+Seat 4: Pokernan95 folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier collected ($0.25)
+
+
+
+PokerStars Hand #222947572165:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:34 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.47 in chips) 
+Seat 3: petrovichkag ($10.22 in chips) 
+Seat 4: Pokernan95 ($6.77 in chips) 
+Seat 5: Ohhh Jeee ($4 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+petrovichkag: posts small blind $0.05
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: calls $0.10
+mailier: folds 
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: raises $0.30 to $0.40
+Pokernan95: calls $0.30
+Ohhh Jeee: calls $0.30
+*** FLOP *** [8d 5c 7d]
+petrovichkag: checks 
+Pokernan95: checks 
+Ohhh Jeee: bets $0.30
+petrovichkag: calls $0.30
+Pokernan95: folds 
+*** TURN *** [8d 5c 7d] [3d]
+petrovichkag: checks 
+Ohhh Jeee: bets $0.80
+petrovichkag: folds 
+Uncalled bet ($0.80) returned to Ohhh Jeee
+Ohhh Jeee collected $1.72 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [8d 5c 7d 3d]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop (didn't bet)
+Seat 3: petrovichkag (small blind) folded on the Turn
+Seat 4: Pokernan95 (big blind) folded on the Flop
+Seat 5: Ohhh Jeee collected ($1.72)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947582886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:18:19 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.47 in chips) 
+Seat 3: petrovichkag ($10 in chips) 
+Seat 4: Pokernan95 ($6.37 in chips) 
+Seat 5: Ohhh Jeee ($5.02 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+Pokernan95: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: raises $0.14 to $0.24
+Pokernan95: folds 
+Ohhh Jeee: folds 
+Uncalled bet ($0.14) returned to petrovichkag
+petrovichkag collected $0.25 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag (button) collected ($0.25)
+Seat 4: Pokernan95 (small blind) folded before Flop
+Seat 5: Ohhh Jeee (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947587734:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:18:39 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.47 in chips) 
+Seat 3: petrovichkag ($10.15 in chips) 
+Seat 4: Pokernan95 ($6.32 in chips) 
+Seat 5: Ohhh Jeee ($4.92 in chips) 
+Seat 6: mailier ($23.78 in chips) 
+Ohhh Jeee: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+romanromanro: folds 
+rog3543: folds 
+petrovichkag: folds 
+Pokernan95: folds 
+Ohhh Jeee: calls $0.05
+mailier: checks 
+*** FLOP *** [Js Qc Jh]
+Ohhh Jeee: checks 
+mailier: checks 
+*** TURN *** [Js Qc Jh] [6s]
+Pokernan95 leaves the table
+Ohhh Jeee: checks 
+mailier: bets $0.10
+Ohhh Jeee: folds 
+Uncalled bet ($0.10) returned to mailier
+mailier collected $0.19 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Js Qc Jh 6s]
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: petrovichkag folded before Flop (didn't bet)
+Seat 4: Pokernan95 (button) folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (small blind) folded on the Turn
+Seat 6: mailier (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222947602965:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:43 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: romanromanro ($11.28 in chips) 
+Seat 2: rog3543 ($19.47 in chips) 
+Seat 5: Ohhh Jeee ($4.82 in chips) 
+Seat 6: mailier ($23.87 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+Ohhh Jeee: folds 
+mailier: raises $0.10 to $0.20
+romanromanro: folds 
+Uncalled bet ($0.10) returned to mailier
+mailier collected $0.20 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: romanromanro (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947605913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:55 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($11.18 in chips) 
+Seat 2: rog3543 ($19.47 in chips) 
+Seat 5: Ohhh Jeee ($4.82 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+mailier: folds 
+romanromanro: raises $0.20 to $0.30
+roo198 joins the table at seat #4 
+rog3543: calls $0.20
+*** FLOP *** [Ah 7s Qc]
+romanromanro: bets $0.19
+rog3543: calls $0.19
+*** TURN *** [Ah 7s Qc] [5d]
+romanromanro: checks 
+rog3543: checks 
+*** RIVER *** [Ah 7s Qc 5d] [6h]
+romanromanro: bets $0.31
+rog3543: calls $0.31
+*** SHOW DOWN ***
+romanromanro: shows [Kc Kd] (a pair of Kings)
+rog3543: mucks hand 
+romanromanro collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Ah 7s Qc 5d 6h]
+Seat 1: romanromanro (small blind) showed [Kc Kd] and won ($1.53) with a pair of Kings
+Seat 2: rog3543 (big blind) mucked
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947613144:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:25 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($11.91 in chips) 
+Seat 2: rog3543 ($18.67 in chips) 
+Seat 4: roo198 ($10 in chips) 
+Seat 5: Ohhh Jeee ($4.82 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+rog3543: posts small blind $0.05
+roo198: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+roo198: calls $0.20
+*** FLOP *** [3s Qc Jc]
+rog3543: checks 
+roo198: bets $0.40
+rog3543: folds 
+Uncalled bet ($0.40) returned to roo198
+roo198 collected $0.57 from pot
+roo198: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3s Qc Jc]
+Seat 1: romanromanro (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded on the Flop
+Seat 4: roo198 (big blind) collected ($0.57)
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947620944:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:58 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($11.91 in chips) 
+Seat 2: rog3543 ($18.37 in chips) 
+Seat 4: roo198 ($10.27 in chips) 
+Seat 5: Ohhh Jeee ($4.82 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+petrovichkag leaves the table
+roo198: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+19ElGringo91 joins the table at seat #3 
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.20 to $0.30
+roo198: folds 
+Ohhh Jeee: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.25 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 (button) collected ($0.25)
+Seat 4: roo198 (small blind) folded before Flop
+Seat 5: Ohhh Jeee (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947626099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:21:19 ET
+Table 'Mocia II' 6-max Seat #4 is the button
+Seat 1: romanromanro ($11.91 in chips) 
+Seat 2: rog3543 ($18.52 in chips) 
+Seat 4: roo198 ($10.22 in chips) 
+Seat 5: Ohhh Jeee ($4.72 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+Ohhh Jeee: posts small blind $0.05
+mailier: posts big blind $0.10
+19ElGringo91: sits out 
+*** HOLE CARDS ***
+romanromanro: folds 
+rog3543: folds 
+roo198: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+mailier: raises $0.70 to $1
+roo198: folds 
+Uncalled bet ($0.70) returned to mailier
+mailier collected $0.65 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 4: roo198 (button) folded before Flop
+Seat 5: Ohhh Jeee (small blind) folded before Flop
+Seat 6: mailier (big blind) collected ($0.65)
+
+
+
+PokerStars Hand #222947631188:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:21:41 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: romanromanro ($11.91 in chips) 
+Seat 2: rog3543 ($18.52 in chips) 
+Seat 4: roo198 ($10 in chips) 
+Seat 5: Ohhh Jeee ($4.67 in chips) 
+Seat 6: mailier ($24.32 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+19ElGringo91: sits out 
+*** HOLE CARDS ***
+rog3543: folds 
+roo198: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+mailier: folds 
+romanromanro: folds 
+Uncalled bet ($0.20) returned to roo198
+roo198 collected $0.25 from pot
+roo198: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 4: roo198 collected ($0.25)
+Seat 5: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947636649:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:03 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: romanromanro ($11.81 in chips) 
+Seat 2: rog3543 ($18.52 in chips) 
+Seat 4: roo198 ($10.15 in chips) 
+Seat 5: Ohhh Jeee ($4.67 in chips) 
+Seat 6: mailier ($24.27 in chips) 
+romanromanro: posts small blind $0.05
+rog3543: posts big blind $0.10
+19ElGringo91: sits out 
+*** HOLE CARDS ***
+roo198: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+mailier: folds 
+romanromanro: folds 
+rog3543: raises $0.85 to $1.15
+roo198: folds 
+Uncalled bet ($0.85) returned to rog3543
+rog3543 collected $0.65 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: romanromanro (small blind) folded before Flop
+Seat 2: rog3543 (big blind) collected ($0.65)
+Seat 4: roo198 folded before Flop
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947640613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:20 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: romanromanro ($11.76 in chips) 
+Seat 2: rog3543 ($18.87 in chips) 
+Seat 3: 19ElGringo91 ($10 in chips) 
+Seat 4: roo198 ($10 in chips) 
+Seat 5: Ohhh Jeee ($4.67 in chips) 
+Seat 6: mailier ($24.27 in chips) 
+rog3543: posts small blind $0.05
+19ElGringo91: posts big blind $0.10
+*** HOLE CARDS ***
+roo198: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+mailier: folds 
+romanromanro: folds 
+rog3543: folds 
+19ElGringo91: folds 
+Uncalled bet ($0.20) returned to roo198
+roo198 collected $0.25 from pot
+roo198: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: romanromanro (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: 19ElGringo91 (big blind) folded before Flop
+Seat 4: roo198 collected ($0.25)
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947644748:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:37 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: romanromanro ($11.76 in chips) 
+Seat 2: rog3543 ($18.82 in chips) 
+Seat 3: 19ElGringo91 ($10 in chips) 
+Seat 4: roo198 ($10.15 in chips) 
+Seat 5: Ohhh Jeee ($4.67 in chips) 
+Seat 6: mailier ($24.27 in chips) 
+19ElGringo91: posts small blind $0.05
+roo198: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: calls $0.10
+mailier: calls $0.10
+romanromanro: folds 
+rog3543: raises $0.40 to $0.50
+19ElGringo91: raises $1.05 to $1.55
+roo198: folds 
+Ohhh Jeee: folds 
+mailier: folds 
+rog3543: folds 
+Uncalled bet ($1.05) returned to 19ElGringo91
+19ElGringo91 collected $1.30 from pot
+19ElGringo91: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0 
+Seat 1: romanromanro folded before Flop (didn't bet)
+Seat 2: rog3543 (button) folded before Flop
+Seat 3: 19ElGringo91 (small blind) collected ($1.30)
+Seat 4: roo198 (big blind) folded before Flop
+Seat 5: Ohhh Jeee folded before Flop
+Seat 6: mailier folded before Flop
+
+
+
+PokerStars Hand #222947657695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:23:32 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: romanromanro ($11.76 in chips) 
+Seat 2: rog3543 ($18.32 in chips) 
+Seat 3: 19ElGringo91 ($10.80 in chips) 
+Seat 4: roo198 ($10.05 in chips) 
+Seat 5: Ohhh Jeee ($4.57 in chips) 
+Seat 6: mailier ($24.17 in chips) 
+roo198: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+romanromanro: raises $0.15 to $0.25
+rog3543: folds 
+19ElGringo91: folds 
+roo198: calls $0.20
+Ohhh Jeee: folds 
+*** FLOP *** [Jh 3c 9c]
+roo198: checks 
+romanromanro: bets $0.19
+roo198: folds 
+Uncalled bet ($0.19) returned to romanromanro
+romanromanro collected $0.57 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jh 3c 9c]
+Seat 1: romanromanro collected ($0.57)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: 19ElGringo91 (button) folded before Flop (didn't bet)
+Seat 4: roo198 (small blind) folded on the Flop
+Seat 5: Ohhh Jeee (big blind) folded before Flop
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947664315:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:23:59 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: romanromanro ($12.08 in chips) 
+Seat 2: rog3543 ($18.32 in chips) 
+Seat 3: 19ElGringo91 ($10.80 in chips) 
+Seat 5: Ohhh Jeee ($4.47 in chips) 
+Seat 6: mailier ($24.17 in chips) 
+mailier: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+19ElGringo91: folds 
+Ohhh Jeee: folds 
+mailier: raises $0.20 to $0.30
+romanromanro: folds 
+Uncalled bet ($0.20) returned to mailier
+romanromanro leaves the table
+mailier collected $0.20 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: romanromanro (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: 19ElGringo91 folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947670359:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:24:24 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 2: rog3543 ($18.32 in chips) 
+Seat 3: 19ElGringo91 ($10.80 in chips) 
+Seat 5: Ohhh Jeee ($4.47 in chips) 
+Seat 6: mailier ($24.27 in chips) 
+rog3543: posts small blind $0.05
+19ElGringo91: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+mailier: folds 
+roo198 leaves the table
+rog3543: raises $0.20 to $0.30
+19ElGringo91: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.20 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: rog3543 (small blind) collected ($0.20)
+Seat 3: 19ElGringo91 (big blind) folded before Flop
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947673090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:24:35 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 2: rog3543 ($18.42 in chips) 
+Seat 3: 19ElGringo91 ($10.70 in chips) 
+Seat 5: Ohhh Jeee ($4.47 in chips) 
+Seat 6: mailier ($24.27 in chips) 
+19ElGringo91: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+mailier: folds 
+rog3543: raises $0.20 to $0.30
+19ElGringo91: folds 
+Ohhh Jeee: calls $0.20
+*** FLOP *** [6d 8h 4s]
+Ohhh Jeee: bets $0.60
+rog3543: folds 
+Uncalled bet ($0.60) returned to Ohhh Jeee
+Ohhh Jeee collected $0.62 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [6d 8h 4s]
+Seat 2: rog3543 (button) folded on the Flop
+Seat 3: 19ElGringo91 (small blind) folded before Flop
+Seat 5: Ohhh Jeee (big blind) collected ($0.62)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947680069:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:25:05 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 2: rog3543 ($18.12 in chips) 
+Seat 3: 19ElGringo91 ($10.65 in chips) 
+Seat 5: Ohhh Jeee ($4.79 in chips) 
+Seat 6: mailier ($24.27 in chips) 
+Ohhh Jeee: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: raises $0.20 to $0.30
+19ElGringo91: folds 
+Ohhh Jeee: folds 
+mailier: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: rog3543 collected ($0.25)
+Seat 3: 19ElGringo91 (button) folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947684823:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:25:24 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 2: rog3543 ($18.27 in chips) 
+Seat 3: 19ElGringo91 ($10.65 in chips) 
+Seat 5: Ohhh Jeee ($4.74 in chips) 
+Seat 6: mailier ($24.17 in chips) 
+mailier: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+19ElGringo91: raises $0.20 to $0.30
+Ohhh Jeee: calls $0.30
+Dante21b joins the table at seat #1 
+mailier: folds 
+rog3543: raises $1.25 to $1.55
+19ElGringo91: folds 
+Ohhh Jeee: folds 
+Uncalled bet ($1.25) returned to rog3543
+rog3543 collected $0.95 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 2: rog3543 (big blind) collected ($0.95)
+Seat 3: 19ElGringo91 folded before Flop
+Seat 5: Ohhh Jeee (button) folded before Flop
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947695122:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:07 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 2: rog3543 ($18.92 in chips) 
+Seat 3: 19ElGringo91 ($10.35 in chips) 
+Seat 5: Ohhh Jeee ($4.44 in chips) 
+Seat 6: mailier ($24.12 in chips) 
+rog3543: posts small blind $0.05
+19ElGringo91: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+mailier: folds 
+rog3543: folds 
+Uncalled bet ($0.05) returned to 19ElGringo91
+19ElGringo91 collected $0.10 from pot
+19ElGringo91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: rog3543 (small blind) folded before Flop
+Seat 3: 19ElGringo91 (big blind) collected ($0.10)
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947696550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:13 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 2: rog3543 ($18.87 in chips) 
+Seat 3: 19ElGringo91 ($10.40 in chips) 
+Seat 5: Ohhh Jeee ($4.44 in chips) 
+Seat 6: mailier ($24.12 in chips) 
+19ElGringo91: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+Dante21b: sits out 
+*** HOLE CARDS ***
+mailier has timed out
+mailier: folds 
+rog3543: raises $0.20 to $0.30
+19ElGringo91: folds 
+Ohhh Jeee: raises $0.40 to $0.70
+rog3543: folds 
+Uncalled bet ($0.40) returned to Ohhh Jeee
+Ohhh Jeee collected $0.65 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 2: rog3543 (button) folded before Flop
+Seat 3: 19ElGringo91 (small blind) folded before Flop
+Seat 5: Ohhh Jeee (big blind) collected ($0.65)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947703239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:41 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 2: rog3543 ($18.57 in chips) 
+Seat 3: 19ElGringo91 ($10.35 in chips) 
+Seat 5: Ohhh Jeee ($4.79 in chips) 
+Seat 6: mailier ($24.12 in chips) 
+Ohhh Jeee: posts small blind $0.05
+mailier: posts big blind $0.10
+Dante21b: sits out 
+*** HOLE CARDS ***
+rog3543: folds 
+19ElGringo91: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+mailier: folds 
+Uncalled bet ($0.20) returned to 19ElGringo91
+19ElGringo91 collected $0.25 from pot
+19ElGringo91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: 19ElGringo91 (button) collected ($0.25)
+Seat 5: Ohhh Jeee (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947708596:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:03 ET
+Table 'Mocia II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: rog3543 ($18.57 in chips) 
+Seat 3: 19ElGringo91 ($10.50 in chips) 
+Seat 5: Ohhh Jeee ($4.74 in chips) 
+Seat 6: mailier ($24.02 in chips) 
+mailier: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+19ElGringo91: folds 
+Ohhh Jeee: calls $0.10
+mailier: folds 
+Dante21b: checks 
+*** FLOP *** [Ad 4d 2s]
+Dante21b: checks 
+Ohhh Jeee: checks 
+*** TURN *** [Ad 4d 2s] [3s]
+Dante21b: bets $0.18
+Ohhh Jeee: folds 
+Uncalled bet ($0.18) returned to Dante21b
+Dante21b collected $0.24 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ad 4d 2s 3s]
+Seat 1: Dante21b (big blind) collected ($0.24)
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: 19ElGringo91 folded before Flop (didn't bet)
+Seat 5: Ohhh Jeee (button) folded on the Turn
+Seat 6: mailier (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947712504:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:19 ET
+Table 'Mocia II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($10.14 in chips) 
+Seat 2: rog3543 ($18.57 in chips) 
+Seat 3: 19ElGringo91 ($10.50 in chips) 
+Seat 5: Ohhh Jeee ($4.64 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+Dante21b: posts small blind $0.05
+rog3543: posts big blind $0.10
+*** HOLE CARDS ***
+19ElGringo91: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+mailier: folds 
+Dante21b: folds 
+rog3543: folds 
+Uncalled bet ($0.20) returned to 19ElGringo91
+19ElGringo91 collected $0.25 from pot
+19ElGringo91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: rog3543 (big blind) folded before Flop
+Seat 3: 19ElGringo91 collected ($0.25)
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947716334:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:34 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($10.09 in chips) 
+Seat 2: rog3543 ($18.47 in chips) 
+Seat 3: 19ElGringo91 ($10.65 in chips) 
+Seat 5: Ohhh Jeee ($4.64 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+rog3543: posts small blind $0.05
+19ElGringo91: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+mailier: folds 
+Ohhh Jeee leaves the table
+Dante21b has timed out
+Dante21b: folds 
+rog3543: raises $0.20 to $0.30
+19ElGringo91: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.20 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: rog3543 (small blind) collected ($0.20)
+Seat 3: 19ElGringo91 (big blind) folded before Flop
+Seat 5: Ohhh Jeee folded before Flop (didn't bet)
+Seat 6: mailier folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947721460:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:56 ET
+Table 'Mocia II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10.09 in chips) 
+Seat 2: rog3543 ($18.57 in chips) 
+Seat 3: 19ElGringo91 ($10.55 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+19ElGringo91: posts small blind $0.05
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+rog3543: raises $0.20 to $0.30
+19ElGringo91: folds 
+mailier: folds 
+Uncalled bet ($0.20) returned to rog3543
+rog3543 collected $0.25 from pot
+rog3543: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: rog3543 (button) collected ($0.25)
+Seat 3: 19ElGringo91 (small blind) folded before Flop
+Seat 6: mailier (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947723990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:28:07 ET
+Table 'Mocia II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10.09 in chips) 
+Seat 2: rog3543 ($18.72 in chips) 
+Seat 3: 19ElGringo91 ($10.50 in chips) 
+Seat 6: mailier ($23.87 in chips) 
+mailier: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+rog3543: folds 
+rog3543 leaves the table
+19ElGringo91: folds 
+mailier: raises $0.20 to $0.30
+Dante21b: folds 
+Uncalled bet ($0.20) returned to mailier
+mailier collected $0.20 from pot
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: rog3543 folded before Flop (didn't bet)
+Seat 3: 19ElGringo91 (button) folded before Flop (didn't bet)
+Seat 6: mailier (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947728658:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:28:26 ET
+Table 'Mocia II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.99 in chips) 
+Seat 6: mailier ($23.97 in chips) 
+Dante21b: posts small blind $0.05
+19ElGringo91: is sitting out 
+mailier: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+Uncalled bet ($0.05) returned to mailier
+mailier collected $0.10 from pot
+19ElGringo91 leaves the table
+mailier: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (button) (small blind) folded before Flop
+Seat 6: mailier (big blind) collected ($0.10)
+
+
+

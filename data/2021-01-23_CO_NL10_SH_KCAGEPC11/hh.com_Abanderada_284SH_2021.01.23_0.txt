@@ -1,0 +1,2907 @@
+﻿PokerStars Hand #222943210550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:30 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($11.38 in chips) 
+Seat 2: negritos81 ($10 in chips) 
+Seat 3: qihigh ($6.27 in chips) 
+Seat 4: Vlao ($11.21 in chips) 
+Seat 5: Phantomasz1 ($8.29 in chips) 
+Seat 6: lalito.mdq ($10.79 in chips) 
+Vlao: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: raises $0.80 to $1.10
+qihigh: folds 
+Vlao: folds 
+Phantomasz1: folds 
+Hugoandres1806: calls $0.80
+*** FLOP *** [Js 4d 9s]
+Hugoandres1806: checks 
+negritos81: bets $0.74
+Hugoandres1806: calls $0.74
+*** TURN *** [Js 4d 9s] [7s]
+Hugoandres1806: checks 
+negritos81: bets $2.82
+Hugoandres1806: calls $2.82
+*** RIVER *** [Js 4d 9s 7s] [Jd]
+Hugoandres1806: checks 
+negritos81: bets $5.34 and is all-in
+Hugoandres1806: calls $5.34
+*** SHOW DOWN ***
+negritos81: shows [Ts As] (a flush, Ace high)
+Hugoandres1806: shows [Th Jh] (three of a kind, Jacks)
+negritos81 collected $19.24 from pot
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [Js 4d 9s 7s Jd]
+Seat 1: Hugoandres1806 showed [Th Jh] and lost with three of a kind, Jacks
+Seat 2: negritos81 showed [Ts As] and won ($19.24) with a flush, Ace high
+Seat 3: qihigh (button) folded before Flop (didn't bet)
+Seat 4: Vlao (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) folded before Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943243843:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:58 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($19.24 in chips) 
+Seat 3: qihigh ($6.27 in chips) 
+Seat 4: Vlao ($11.16 in chips) 
+Seat 5: Phantomasz1 ($8.19 in chips) 
+Seat 6: lalito.mdq ($10.79 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: folds 
+qihigh: folds 
+Vlao: folds 
+Phantomasz1: calls $0.05
+lalito.mdq: raises $0.30 to $0.40
+Phantomasz1: folds 
+Uncalled bet ($0.30) returned to lalito.mdq
+lalito.mdq collected $0.20 from pot
+lalito.mdq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: qihigh folded before Flop (didn't bet)
+Seat 4: Vlao (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943254378:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:29 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($19.24 in chips) 
+Seat 3: qihigh ($6.27 in chips) 
+Seat 4: Vlao ($11.16 in chips) 
+Seat 5: Phantomasz1 ($8.09 in chips) 
+Seat 6: lalito.mdq ($10.89 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+qihigh: folds 
+Vlao: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to Hugoandres1806
+Hugoandres1806 collected $0.10 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) collected ($0.10)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: qihigh folded before Flop (didn't bet)
+Seat 4: Vlao folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943158863:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:00 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($11.14 in chips) 
+Seat 2: JoelHunt007 ($10.15 in chips) 
+Seat 3: qihigh ($7.08 in chips) 
+Seat 4: Vlao ($11.46 in chips) 
+Seat 5: Phantomasz1 ($8.14 in chips) 
+Seat 6: lalito.mdq ($10 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+JoelHunt007: folds 
+JoelHunt007 leaves the table
+qihigh: calls $0.10
+Vlao: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+negritos81 joins the table at seat #2 
+Hugoandres1806: checks 
+*** FLOP *** [9c 9d Tc]
+Hugoandres1806: bets $0.12
+qihigh: folds 
+Uncalled bet ($0.12) returned to Hugoandres1806
+Hugoandres1806 collected $0.24 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c 9d Tc]
+Seat 1: Hugoandres1806 (big blind) collected ($0.24)
+Seat 2: JoelHunt007 folded before Flop (didn't bet)
+Seat 3: qihigh folded on the Flop
+Seat 4: Vlao folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943673691:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:03 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($11.16 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($2.13 in chips) 
+Seat 4: Cabellera91 ($15.29 in chips) 
+Seat 5: Phantomasz1 ($11.04 in chips) 
+Seat 6: lalito.mdq ($11.07 in chips) 
+samuelcook97: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: folds 
+Uncalled bet ($0.05) returned to Cabellera91
+Cabellera91 collected $0.10 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 3: samuelcook97 (small blind) folded before Flop
+Seat 4: Cabellera91 (big blind) collected ($0.10)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943261180:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:49 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.05 in chips) 
+Seat 2: negritos81 ($19.24 in chips) 
+Seat 3: qihigh ($6.27 in chips) 
+Seat 4: Vlao ($11.16 in chips) 
+Seat 5: Phantomasz1 ($8.09 in chips) 
+Seat 6: lalito.mdq ($10.84 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+qihigh: calls $0.10
+Vlao: raises $0.30 to $0.40
+Phantomasz1: folds 
+lalito.mdq: calls $0.40
+Hugoandres1806: calls $0.35
+negritos81: folds 
+qihigh: folds 
+*** FLOP *** [5d 3h 4s]
+Hugoandres1806: checks 
+Vlao: checks 
+lalito.mdq: checks 
+*** TURN *** [5d 3h 4s] [2s]
+Hugoandres1806: bets $0.67
+Vlao: calls $0.67
+lalito.mdq: calls $0.67
+*** RIVER *** [5d 3h 4s 2s] [Ts]
+Hugoandres1806: checks 
+Vlao: checks 
+lalito.mdq: checks 
+*** SHOW DOWN ***
+Hugoandres1806: shows [3c 3s] (three of a kind, Threes)
+Vlao: shows [Ad Jd] (a straight, Ace to Five)
+lalito.mdq: shows [Ah Ks] (a straight, Ace to Five)
+Vlao collected $1.63 from pot
+lalito.mdq collected $1.63 from pot
+*** SUMMARY ***
+Total pot $3.41 | Rake $0.15 
+Board [5d 3h 4s 2s Ts]
+Seat 1: Hugoandres1806 (small blind) showed [3c 3s] and lost with three of a kind, Threes
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 3: qihigh folded before Flop
+Seat 4: Vlao showed [Ad Jd] and won ($1.63) with a straight, Ace to Five
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) showed [Ah Ks] and won ($1.63) with a straight, Ace to Five
+
+
+
+PokerStars Hand #222943282461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:51 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($19.14 in chips) 
+Seat 3: qihigh ($6.17 in chips) 
+Seat 4: Vlao ($11.72 in chips) 
+Seat 5: Phantomasz1 ($8.09 in chips) 
+Seat 6: lalito.mdq ($11.40 in chips) 
+negritos81: posts small blind $0.05
+qihigh: posts big blind $0.10
+*** HOLE CARDS ***
+Vlao: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+qihigh: calls $0.20
+*** FLOP *** [9h 3h As]
+negritos81: bets $0.19
+qihigh: folds 
+Uncalled bet ($0.19) returned to negritos81
+negritos81 collected $0.57 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [9h 3h As]
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) collected ($0.57)
+Seat 3: qihigh (big blind) folded on the Flop
+Seat 4: Vlao folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943302555:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:33 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($19.41 in chips) 
+Seat 3: qihigh ($5.87 in chips) 
+Seat 4: Vlao ($11.72 in chips) 
+Seat 5: Phantomasz1 ($8.09 in chips) 
+Seat 6: lalito.mdq ($11.40 in chips) 
+qihigh: posts small blind $0.05
+Vlao: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: raises $0.40 to $0.50
+qihigh: folds 
+Vlao: folds 
+Phantomasz1: calls $0.40
+*** FLOP *** [4s Th Td]
+Phantomasz1: checks 
+negritos81: bets $0.36
+Phantomasz1: calls $0.36
+*** TURN *** [4s Th Td] [2s]
+Phantomasz1: checks 
+negritos81: bets $1.38
+Phantomasz1: folds 
+Uncalled bet ($1.38) returned to negritos81
+negritos81 collected $1.79 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [4s Th Td 2s]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 (button) collected ($1.79)
+Seat 3: qihigh (small blind) folded before Flop
+Seat 4: Vlao (big blind) folded before Flop
+Seat 5: Phantomasz1 folded on the Turn
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943325759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:43 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.34 in chips) 
+Seat 3: qihigh ($5.82 in chips) 
+Seat 4: Vlao ($11.62 in chips) 
+Seat 5: Phantomasz1 ($7.23 in chips) 
+Seat 6: lalito.mdq ($11.40 in chips) 
+Vlao: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+qihigh: raises $0.45 to $0.75
+Vlao: folds 
+Phantomasz1: folds 
+negritos81: folds 
+Uncalled bet ($0.45) returned to qihigh
+qihigh collected $0.75 from pot
+qihigh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop
+Seat 3: qihigh (button) collected ($0.75)
+Seat 4: Vlao (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) folded before Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943341701:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:30 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.04 in chips) 
+Seat 3: qihigh ($6.27 in chips) 
+Seat 4: Vlao ($11.57 in chips) 
+Seat 5: Phantomasz1 ($7.13 in chips) 
+Seat 6: lalito.mdq ($11.40 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: folds 
+qihigh: raises $0.10 to $0.20
+Vlao: folds 
+Phantomasz1: raises $0.30 to $0.50
+lalito.mdq: folds 
+qihigh: calls $0.30
+*** FLOP *** [Th 2h 2s]
+Phantomasz1: bets $1
+qihigh: calls $1
+*** TURN *** [Th 2h 2s] [9s]
+Phantomasz1: bets $0.70
+qihigh: raises $0.80 to $1.50
+Phantomasz1: raises $0.80 to $2.30
+qihigh: calls $0.80
+*** RIVER *** [Th 2h 2s 9s] [2d]
+Phantomasz1: bets $3.33 and is all-in
+qihigh: calls $2.47 and is all-in
+Uncalled bet ($0.86) returned to Phantomasz1
+*** SHOW DOWN ***
+Phantomasz1: shows [Qd Qs] (a full house, Deuces full of Queens)
+qihigh: shows [Tc 9d] (a full house, Deuces full of Tens)
+Phantomasz1 collected $12.07 from pot
+*** SUMMARY ***
+Total pot $12.64 | Rake $0.57 
+Board [Th 2h 2s 9s 2d]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: qihigh showed [Tc 9d] and lost with a full house, Deuces full of Tens
+Seat 4: Vlao (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) showed [Qd Qs] and won ($12.07) with a full house, Deuces full of Queens
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943374885:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:47 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 4: Vlao ($11.57 in chips) 
+Seat 5: Phantomasz1 ($12.93 in chips) 
+Seat 6: lalito.mdq ($11.30 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+Vlao: folds 
+qihigh leaves the table
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to Hugoandres1806
+Hugoandres1806 collected $0.10 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) collected ($0.10)
+Seat 4: Vlao folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943378670:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:59 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.05 in chips) 
+Seat 4: Vlao ($11.57 in chips) 
+Seat 5: Phantomasz1 ($12.93 in chips) 
+Seat 6: lalito.mdq ($11.25 in chips) 
+0nix770 joins the table at seat #3 
+Hugoandres1806: posts small blind $0.05
+Vlao: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: raises $0.40 to $0.50
+Vlao: folds 
+Phantomasz1: calls $0.40
+*** FLOP *** [Qc 6h As]
+Hugoandres1806: bets $0.53
+Phantomasz1: calls $0.53
+*** TURN *** [Qc 6h As] [5h]
+Hugoandres1806: bets $1.37
+Phantomasz1: folds 
+Uncalled bet ($1.37) returned to Hugoandres1806
+Hugoandres1806 collected $2.06 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.10 
+Board [Qc 6h As 5h]
+Seat 1: Hugoandres1806 (small blind) collected ($2.06)
+Seat 4: Vlao (big blind) folded before Flop
+Seat 5: Phantomasz1 folded on the Turn
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943391960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:38 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($11.08 in chips) 
+Seat 4: Vlao ($11.47 in chips) 
+Seat 5: Phantomasz1 ($11.90 in chips) 
+Seat 6: lalito.mdq ($11.25 in chips) 
+Vlao: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+Vlao: folds 
+Uncalled bet ($0.05) returned to Phantomasz1
+Phantomasz1 collected $0.10 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 4: Vlao (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) collected ($0.10)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943394869:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:47 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($11.08 in chips) 
+Seat 4: Vlao ($11.42 in chips) 
+Seat 5: Phantomasz1 ($11.95 in chips) 
+Seat 6: lalito.mdq ($11.25 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+0nix770: sits out 
+*** HOLE CARDS ***
+Hugoandres1806: raises $0.15 to $0.25
+Vlao: folds 
+Phantomasz1: folds 
+lalito.mdq: calls $0.15
+*** FLOP *** [9h 3d 8h]
+lalito.mdq: checks 
+Hugoandres1806: bets $0.16
+lalito.mdq: calls $0.16
+*** TURN *** [9h 3d 8h] [2h]
+lalito.mdq: checks 
+Hugoandres1806: checks 
+*** RIVER *** [9h 3d 8h 2h] [5s]
+lalito.mdq: checks 
+Hugoandres1806: checks 
+*** SHOW DOWN ***
+lalito.mdq: shows [7s 7d] (a pair of Sevens)
+Hugoandres1806: mucks hand 
+lalito.mdq collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [9h 3d 8h 2h 5s]
+Seat 1: Hugoandres1806 mucked
+Seat 4: Vlao (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) showed [7s 7d] and won ($0.83) with a pair of Sevens
+
+
+
+PokerStars Hand #222943410877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:35 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10.67 in chips) 
+Seat 4: Vlao ($11.42 in chips) 
+Seat 5: Phantomasz1 ($11.90 in chips) 
+Seat 6: lalito.mdq ($11.67 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+negritos81: sits out 
+0nix770: sits out 
+*** HOLE CARDS ***
+Vlao: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to Hugoandres1806
+Hugoandres1806 collected $0.10 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) collected ($0.10)
+Seat 4: Vlao folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943415102:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:47 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.72 in chips) 
+Seat 2: negritos81 ($20.04 in chips) 
+Seat 4: Vlao ($11.42 in chips) 
+Seat 5: Phantomasz1 ($11.90 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+0nix770: sits out 
+*** HOLE CARDS ***
+Vlao: raises $0.15 to $0.25
+Phantomasz1: calls $0.25
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+*** FLOP *** [6d Kd Kc]
+Vlao: bets $0.42
+Phantomasz1: calls $0.42
+*** TURN *** [6d Kd Kc] [7s]
+Vlao: bets $0.80
+Phantomasz1: folds 
+Uncalled bet ($0.80) returned to Vlao
+Vlao collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.07 
+Board [6d Kd Kc 7s]
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 4: Vlao collected ($1.42)
+Seat 5: Phantomasz1 folded on the Turn
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943427974:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:32 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10.67 in chips) 
+Seat 2: negritos81 ($19.94 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 4: Vlao ($12.17 in chips) 
+Seat 5: Phantomasz1 ($11.23 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+negritos81: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+Vlao: folds 
+Phantomasz1: raises $0.10 to $0.20
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+0nix770: folds 
+Uncalled bet ($0.10) returned to Phantomasz1
+Phantomasz1 collected $0.25 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: 0nix770 (big blind) folded before Flop
+Seat 4: Vlao folded before Flop (didn't bet)
+Seat 5: Phantomasz1 collected ($0.25)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943433094:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:52 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10.67 in chips) 
+Seat 2: negritos81 ($19.89 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.38 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+0nix770: posts small blind $0.05
+Vlao: is sitting out 
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: raises $0.30 to $0.40
+negritos81: raises $0.70 to $1.10
+0nix770: folds 
+Vlao leaves the table
+Phantomasz1: folds 
+Hugoandres1806: calls $0.70
+*** FLOP *** [6s Th 3c]
+Hugoandres1806: checks 
+negritos81: bets $0.74
+Hugoandres1806: folds 
+Uncalled bet ($0.74) returned to negritos81
+negritos81 collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [6s Th 3c]
+Seat 1: Hugoandres1806 folded on the Flop
+Seat 2: negritos81 (button) collected ($2.24)
+Seat 3: 0nix770 (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) folded before Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943444390:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:37 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($21.03 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.28 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+0nix770: folds 
+Cabellera91 joins the table at seat #4 
+Phantomasz1: calls $0.25
+lalito.mdq: folds 
+*** FLOP *** [8h Tc Td]
+Phantomasz1: bets $0.10
+negritos81: calls $0.10
+*** TURN *** [8h Tc Td] [6h]
+Phantomasz1: bets $0.50
+negritos81: folds 
+Uncalled bet ($0.50) returned to Phantomasz1
+Phantomasz1 collected $0.86 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [8h Tc Td 6h]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded on the Turn
+Seat 3: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) collected ($0.86)
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943457647:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:29 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.63 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.74 in chips) 
+Seat 6: lalito.mdq ($11.52 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+negritos81 has timed out
+negritos81: folds 
+0nix770: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to Hugoandres1806
+Hugoandres1806 collected $0.10 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) collected ($0.10)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: 0nix770 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943462894:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:49 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.05 in chips) 
+Seat 2: negritos81 ($20.63 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.74 in chips) 
+Seat 6: lalito.mdq ($11.47 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+0nix770: folds 
+Phantomasz1: folds 
+lalito.mdq: raises $0.15 to $0.25
+Hugoandres1806: folds 
+negritos81: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.25 from pot
+lalito.mdq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 3: 0nix770 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943467389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:07 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.53 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.74 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+negritos81: posts small blind $0.05
+0nix770: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+Uncalled bet ($0.05) returned to 0nix770
+0nix770 collected $0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: 0nix770 (big blind) collected ($0.10)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943473541:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:30 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.48 in chips) 
+Seat 3: 0nix770 ($10.05 in chips) 
+Seat 4: Cabellera91 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.74 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+0nix770: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: raises $0.40 to $0.50
+negritos81: folds 
+0nix770: folds 
+Cabellera91: folds 
+Phantomasz1: folds 
+Uncalled bet ($0.40) returned to Hugoandres1806
+Hugoandres1806 collected $0.35 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Hugoandres1806 collected ($0.35)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 3: 0nix770 (small blind) folded before Flop
+Seat 4: Cabellera91 (big blind) folded before Flop
+Seat 5: Phantomasz1 folded before Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943481999:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:04 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10.25 in chips) 
+Seat 2: negritos81 ($20.48 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 4: Cabellera91 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.64 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+Cabellera91: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+0nix770: folds 
+Cabellera91: folds 
+Uncalled bet ($0.05) returned to Phantomasz1
+Phantomasz1 collected $0.10 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: 0nix770 (button) folded before Flop (didn't bet)
+Seat 4: Cabellera91 (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) collected ($0.10)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943484326:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:13 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10.25 in chips) 
+Seat 2: negritos81 ($20.48 in chips) 
+Seat 3: 0nix770 ($10 in chips) 
+Seat 4: Cabellera91 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.69 in chips) 
+Seat 6: lalito.mdq ($11.62 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+0nix770: raises $0.60 to $0.90
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+negritos81: folds 
+Uncalled bet ($0.60) returned to 0nix770
+0nix770 collected $0.75 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop
+Seat 3: 0nix770 collected ($0.75)
+Seat 4: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943494918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:54 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10.25 in chips) 
+Seat 2: negritos81 ($20.18 in chips) 
+Seat 3: 0nix770 ($10.45 in chips) 
+Seat 4: Cabellera91 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.64 in chips) 
+Seat 6: lalito.mdq ($11.52 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+0nix770: folds 
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.05) returned to Hugoandres1806
+Hugoandres1806 collected $0.10 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) collected ($0.10)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: 0nix770 folded before Flop (didn't bet)
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943499892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:12 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.30 in chips) 
+Seat 2: negritos81 ($20.18 in chips) 
+Seat 3: 0nix770 ($10.45 in chips) 
+Seat 4: Cabellera91 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.64 in chips) 
+Seat 6: lalito.mdq ($11.47 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.15 to $0.25
+negritos81: folds 
+Uncalled bet ($0.15) returned to Hugoandres1806
+Hugoandres1806 collected $0.20 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Hugoandres1806 (small blind) collected ($0.20)
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 3: 0nix770 folded before Flop (didn't bet)
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943505307:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:30 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10.40 in chips) 
+Seat 2: negritos81 ($20.08 in chips) 
+Seat 4: Cabellera91 ($10 in chips) 
+Seat 5: Phantomasz1 ($11.64 in chips) 
+Seat 6: lalito.mdq ($11.47 in chips) 
+negritos81: posts small blind $0.05
+0nix770: is sitting out 
+0nix770 leaves the table
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1 has timed out
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: folds 
+Cabellera91: raises $0.90 to $1.20
+Hugoandres1806: calls $0.90
+*** FLOP *** [6c 3h 6d]
+Cabellera91: bets $0.60
+Hugoandres1806: calls $0.60
+*** TURN *** [6c 3h 6d] [7h]
+samuelcook97 joins the table at seat #3 
+Cabellera91: checks 
+Hugoandres1806: checks 
+*** RIVER *** [6c 3h 6d 7h] [Qc]
+Cabellera91: bets $2.30
+Hugoandres1806: folds 
+Uncalled bet ($2.30) returned to Cabellera91
+Cabellera91 collected $3.49 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.16 
+Board [6c 3h 6d 7h Qc]
+Seat 1: Hugoandres1806 (button) folded on the River
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 4: Cabellera91 (big blind) collected ($3.49)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943532430:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:56 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.03 in chips) 
+Seat 4: Cabellera91 ($11.69 in chips) 
+Seat 5: Phantomasz1 ($11.64 in chips) 
+Seat 6: lalito.mdq ($11.47 in chips) 
+Cabellera91: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+Cabellera91: raises $0.20 to $0.30
+Phantomasz1: calls $0.20
+*** FLOP *** [Jh 5s Qs]
+Cabellera91: checks 
+Phantomasz1: bets $0.10
+Cabellera91: raises $0.51 to $0.61
+Phantomasz1: folds 
+Uncalled bet ($0.51) returned to Cabellera91
+Cabellera91 collected $0.76 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Jh 5s Qs]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 4: Cabellera91 (small blind) collected ($0.76)
+Seat 5: Phantomasz1 (big blind) folded on the Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943548721:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:47 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($20.03 in chips) 
+Seat 3: samuelcook97 ($4 in chips) 
+Seat 4: Cabellera91 ($12.05 in chips) 
+Seat 5: Phantomasz1 ($11.24 in chips) 
+Seat 6: lalito.mdq ($11.47 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+samuelcook97: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: raises $0.40 to $0.50
+negritos81: folds 
+samuelcook97: folds 
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.40) returned to Hugoandres1806
+Hugoandres1806 collected $0.35 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Hugoandres1806 collected ($0.35)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded before Flop (didn't bet)
+Seat 4: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943556389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:10 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10.25 in chips) 
+Seat 2: negritos81 ($20.03 in chips) 
+Seat 3: samuelcook97 ($3.90 in chips) 
+Seat 4: Cabellera91 ($12.05 in chips) 
+Seat 5: Phantomasz1 ($11.19 in chips) 
+Seat 6: lalito.mdq ($11.37 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+samuelcook97: calls $0.10
+Cabellera91: raises $0.25 to $0.35
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+samuelcook97: calls $0.25
+*** FLOP *** [Tc Ts 4c]
+samuelcook97: checks 
+Cabellera91: bets $0.27
+samuelcook97: calls $0.27
+*** TURN *** [Tc Ts 4c] [8s]
+samuelcook97: checks 
+Cabellera91: bets $0.44
+samuelcook97: raises $2.84 to $3.28 and is all-in
+Cabellera91: calls $2.84
+*** RIVER *** [Tc Ts 4c 8s] [Th]
+*** SHOW DOWN ***
+samuelcook97: shows [As Ks] (three of a kind, Tens)
+Cabellera91: shows [Kd 8d] (a full house, Tens full of Eights)
+Cabellera91 collected $7.59 from pot
+samuelcook97 cashed out the hand for $2.40 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $7.95 | Rake $0.36 
+Board [Tc Ts 4c 8s Th]
+Seat 1: Hugoandres1806 (big blind) folded before Flop
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 showed [As Ks] and lost with three of a kind, Tens (cashed out).
+Seat 4: Cabellera91 showed [Kd 8d] and won ($7.59) with a full house, Tens full of Eights
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943575082:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:08 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.15 in chips) 
+Seat 2: negritos81 ($20.03 in chips) 
+Seat 3: samuelcook97 ($2.40 in chips) 
+Seat 4: Cabellera91 ($15.74 in chips) 
+Seat 5: Phantomasz1 ($11.19 in chips) 
+Seat 6: lalito.mdq ($11.32 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+samuelcook97: calls $0.10
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: checks 
+*** FLOP *** [Qd 9h Qs]
+negritos81: checks 
+samuelcook97: checks 
+*** TURN *** [Qd 9h Qs] [Ks]
+negritos81: checks 
+samuelcook97: checks 
+*** RIVER *** [Qd 9h Qs Ks] [Tc]
+negritos81: checks 
+samuelcook97: checks 
+*** SHOW DOWN ***
+negritos81: shows [9d As] (two pair, Queens and Nines)
+samuelcook97: shows [2d Kd] (two pair, Kings and Queens)
+samuelcook97 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qd 9h Qs Ks Tc]
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) showed [9d As] and lost with two pair, Queens and Nines
+Seat 3: samuelcook97 showed [2d Kd] and won ($0.24) with two pair, Kings and Queens
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943588658:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:50 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10.10 in chips) 
+Seat 2: negritos81 ($19.93 in chips) 
+Seat 3: samuelcook97 ($2.54 in chips) 
+Seat 4: Cabellera91 ($15.74 in chips) 
+Seat 5: Phantomasz1 ($11.19 in chips) 
+Seat 6: lalito.mdq ($11.32 in chips) 
+negritos81: posts small blind $0.05
+samuelcook97: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: folds 
+samuelcook97: calls $0.20
+*** FLOP *** [4c 2h 6s]
+samuelcook97: checks 
+Hugoandres1806: bets $0.20
+samuelcook97: folds 
+Uncalled bet ($0.20) returned to Hugoandres1806
+Hugoandres1806 collected $0.62 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4c 2h 6s]
+Seat 1: Hugoandres1806 (button) collected ($0.62)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: samuelcook97 (big blind) folded on the Flop
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943602975:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:25 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10.42 in chips) 
+Seat 2: negritos81 ($19.88 in chips) 
+Seat 3: samuelcook97 ($2.24 in chips) 
+Seat 4: Cabellera91 ($15.74 in chips) 
+Seat 5: Phantomasz1 ($11.19 in chips) 
+Seat 6: lalito.mdq ($11.32 in chips) 
+samuelcook97: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.15 to $0.25
+negritos81: folds 
+samuelcook97: folds 
+Cabellera91: folds 
+Uncalled bet ($0.15) returned to Hugoandres1806
+Hugoandres1806 collected $0.25 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Hugoandres1806 collected ($0.25)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 3: samuelcook97 (small blind) folded before Flop
+Seat 4: Cabellera91 (big blind) folded before Flop
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943611613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:51 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10.57 in chips) 
+Seat 2: negritos81 ($19.88 in chips) 
+Seat 3: samuelcook97 ($2.19 in chips) 
+Seat 4: Cabellera91 ($15.64 in chips) 
+Seat 5: Phantomasz1 ($11.19 in chips) 
+Seat 6: lalito.mdq ($11.32 in chips) 
+Cabellera91: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: raises $0.20 to $0.30
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: folds 
+Cabellera91: folds 
+Phantomasz1: folds 
+Uncalled bet ($0.20) returned to lalito.mdq
+lalito.mdq collected $0.25 from pot
+lalito.mdq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 (button) folded before Flop (didn't bet)
+Seat 4: Cabellera91 (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) folded before Flop
+Seat 6: lalito.mdq collected ($0.25)
+
+
+
+PokerStars Hand #222943620714:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:20 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10.57 in chips) 
+Seat 2: negritos81 ($19.88 in chips) 
+Seat 4: Cabellera91 ($15.59 in chips) 
+Seat 5: Phantomasz1 ($11.09 in chips) 
+Seat 6: lalito.mdq ($11.47 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: calls $0.20
+*** FLOP *** [2s Qh Jh]
+lalito.mdq: checks 
+negritos81: bets $0.20
+lalito.mdq: folds 
+Uncalled bet ($0.20) returned to negritos81
+negritos81 collected $0.62 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2s Qh Jh]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 collected ($0.62)
+Seat 4: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943632339:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:56 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10.57 in chips) 
+Seat 2: negritos81 ($20.20 in chips) 
+Seat 3: samuelcook97 ($2.19 in chips) 
+Seat 4: Cabellera91 ($15.59 in chips) 
+Seat 5: Phantomasz1 ($11.04 in chips) 
+Seat 6: lalito.mdq ($11.17 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+samuelcook97: calls $0.10
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: calls $0.05
+Hugoandres1806: checks 
+*** FLOP *** [Qd 3c As]
+lalito.mdq: checks 
+Hugoandres1806: checks 
+samuelcook97: checks 
+*** TURN *** [Qd 3c As] [8s]
+lalito.mdq: checks 
+Hugoandres1806: bets $0.19
+samuelcook97: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.19) returned to Hugoandres1806
+Hugoandres1806 collected $0.29 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Qd 3c As 8s]
+Seat 1: Hugoandres1806 (big blind) collected ($0.29)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded on the Turn
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222943648722:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:46 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.76 in chips) 
+Seat 2: negritos81 ($20.20 in chips) 
+Seat 3: samuelcook97 ($2.09 in chips) 
+Seat 4: Cabellera91 ($15.59 in chips) 
+Seat 5: Phantomasz1 ($11.04 in chips) 
+Seat 6: lalito.mdq ($11.07 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+samuelcook97: calls $0.10
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: checks 
+*** FLOP *** [9s 9c 7s]
+negritos81: checks 
+samuelcook97: checks 
+*** TURN *** [9s 9c 7s] [Ks]
+negritos81: checks 
+samuelcook97: checks 
+*** RIVER *** [9s 9c 7s Ks] [5h]
+negritos81: checks 
+samuelcook97: checks 
+*** SHOW DOWN ***
+negritos81: shows [4s 8h] (a pair of Nines)
+samuelcook97: shows [7d 6d] (two pair, Nines and Sevens)
+samuelcook97 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s 9c 7s Ks 5h]
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) showed [4s 8h] and lost with a pair of Nines
+Seat 3: samuelcook97 showed [7d 6d] and won ($0.24) with two pair, Nines and Sevens
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943663644:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:32 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10.71 in chips) 
+Seat 2: negritos81 ($20.10 in chips) 
+Seat 3: samuelcook97 ($2.23 in chips) 
+Seat 4: Cabellera91 ($15.59 in chips) 
+Seat 5: Phantomasz1 ($11.04 in chips) 
+Seat 6: lalito.mdq ($11.07 in chips) 
+negritos81: posts small blind $0.05
+samuelcook97: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: raises $0.20 to $0.30
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.70 to $1
+negritos81: folds 
+samuelcook97: folds 
+Cabellera91: folds 
+Uncalled bet ($0.70) returned to Hugoandres1806
+Hugoandres1806 collected $0.75 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Hugoandres1806 (button) collected ($0.75)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: samuelcook97 (big blind) folded before Flop
+Seat 4: Cabellera91 folded before Flop
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943678784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:19 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($11.16 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($2.08 in chips) 
+Seat 4: Cabellera91 ($15.34 in chips) 
+Seat 5: Phantomasz1 ($11.04 in chips) 
+Seat 6: lalito.mdq ($11.07 in chips) 
+Cabellera91: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: calls $0.10
+Cabellera91: calls $0.05
+Phantomasz1: checks 
+*** FLOP *** [7h As Qh]
+Cabellera91: bets $0.19
+Phantomasz1: folds 
+samuelcook97: folds 
+Uncalled bet ($0.19) returned to Cabellera91
+Cabellera91 collected $0.29 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7h As Qh]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 (button) folded on the Flop
+Seat 4: Cabellera91 (small blind) collected ($0.29)
+Seat 5: Phantomasz1 (big blind) folded on the Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943687808:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:47 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($11.16 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($1.98 in chips) 
+Seat 4: Cabellera91 ($15.53 in chips) 
+Seat 5: Phantomasz1 ($10.94 in chips) 
+Seat 6: lalito.mdq ($11.07 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: folds 
+samuelcook97: calls $0.30
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+*** FLOP *** [Ks 4d 6s]
+Hugoandres1806: bets $0.22
+samuelcook97: folds 
+Uncalled bet ($0.22) returned to Hugoandres1806
+Hugoandres1806 collected $0.72 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ks 4d 6s]
+Seat 1: Hugoandres1806 collected ($0.72)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded on the Flop
+Seat 4: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943696972:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:16 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($11.58 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($1.68 in chips) 
+Seat 4: Cabellera91 ($15.53 in chips) 
+Seat 5: Phantomasz1 ($10.89 in chips) 
+Seat 6: lalito.mdq ($10.97 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+samuelcook97: calls $0.10
+Cabellera91: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: checks 
+*** FLOP *** [Jd Qs 3s]
+Hugoandres1806: checks 
+samuelcook97: checks 
+*** TURN *** [Jd Qs 3s] [7d]
+Hugoandres1806: checks 
+samuelcook97: checks 
+*** RIVER *** [Jd Qs 3s 7d] [9s]
+Hugoandres1806: bets $0.16
+samuelcook97: folds 
+Uncalled bet ($0.16) returned to Hugoandres1806
+Hugoandres1806 collected $0.24 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jd Qs 3s 7d 9s]
+Seat 1: Hugoandres1806 (big blind) collected ($0.24)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded on the River
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943712292:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:01 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($11.72 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($1.58 in chips) 
+Seat 4: Cabellera91 ($15.53 in chips) 
+Seat 5: Phantomasz1 ($10.89 in chips) 
+Seat 6: lalito.mdq ($10.92 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+samuelcook97: calls $0.10
+Cabellera91: raises $0.25 to $0.35
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: folds 
+Uncalled bet ($0.25) returned to Cabellera91
+Cabellera91 collected $0.35 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 3: samuelcook97 folded before Flop
+Seat 4: Cabellera91 collected ($0.35)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943721031:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:28 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($11.67 in chips) 
+Seat 2: negritos81 ($19.95 in chips) 
+Seat 3: samuelcook97 ($1.48 in chips) 
+Seat 4: Cabellera91 ($15.78 in chips) 
+Seat 5: Phantomasz1 ($10.89 in chips) 
+Seat 6: lalito.mdq ($10.92 in chips) 
+negritos81: posts small blind $0.05
+samuelcook97: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91: folds 
+Cabellera91 leaves the table
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+samuelcook97: folds 
+Uncalled bet ($0.20) returned to negritos81
+negritos81 collected $0.20 from pot
+Bruno Gatin joins the table at seat #4 
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) collected ($0.20)
+Seat 3: samuelcook97 (big blind) folded before Flop
+Seat 4: Cabellera91 folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943731477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:49 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($11.67 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($1.38 in chips) 
+Seat 4: Bruno Gatin ($4.47 in chips) 
+Seat 5: Phantomasz1 ($10.89 in chips) 
+Seat 6: lalito.mdq ($10.92 in chips) 
+samuelcook97: posts small blind $0.05
+Bruno Gatin: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: raises $0.10 to $0.20
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: calls $0.15
+Bruno Gatin: calls $0.10
+*** FLOP *** [2s Ac 7c]
+samuelcook97: checks 
+Bruno Gatin: checks 
+Phantomasz1: checks 
+*** TURN *** [2s Ac 7c] [7s]
+samuelcook97: checks 
+Bruno Gatin: bets $0.10
+Phantomasz1: raises $0.10 to $0.20
+samuelcook97: calls $0.20
+Bruno Gatin: folds 
+*** RIVER *** [2s Ac 7c 7s] [6s]
+samuelcook97: bets $0.98 and is all-in
+Phantomasz1: calls $0.98
+*** SHOW DOWN ***
+samuelcook97: shows [Ks 3s] (a flush, King high)
+Phantomasz1: shows [9s 9c] (two pair, Nines and Sevens)
+samuelcook97 collected $2.92 from pot
+*** SUMMARY ***
+Total pot $3.06 | Rake $0.14 
+Board [2s Ac 7c 7s 6s]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 3: samuelcook97 (small blind) showed [Ks 3s] and won ($2.92) with a flush, King high
+Seat 4: Bruno Gatin (big blind) folded on the Turn
+Seat 5: Phantomasz1 showed [9s 9c] and lost with two pair, Nines and Sevens
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943748683:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:43 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($11.67 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($2.92 in chips) 
+Seat 4: Bruno Gatin ($4.17 in chips) 
+Seat 5: Phantomasz1 ($9.51 in chips) 
+Seat 6: lalito.mdq ($10.92 in chips) 
+Bruno Gatin: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: calls $0.10
+Bruno Gatin: raises $0.10 to $0.20
+Phantomasz1: calls $0.10
+samuelcook97: calls $0.10
+*** FLOP *** [Ks 4c 6h]
+Bruno Gatin: bets $0.29
+Phantomasz1: folds 
+samuelcook97: folds 
+Uncalled bet ($0.29) returned to Bruno Gatin
+Bruno Gatin collected $0.57 from pot
+Bruno Gatin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ks 4c 6h]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 (button) folded on the Flop
+Seat 4: Bruno Gatin (small blind) collected ($0.57)
+Seat 5: Phantomasz1 (big blind) folded on the Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943759853:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:18 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($11.67 in chips) 
+Seat 2: negritos81 ($20.05 in chips) 
+Seat 3: samuelcook97 ($2.72 in chips) 
+Seat 4: Bruno Gatin ($4.54 in chips) 
+Seat 5: Phantomasz1 ($9.31 in chips) 
+Seat 6: lalito.mdq ($10.92 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: raises $0.80 to $1.10
+samuelcook97: folds 
+Bruno Gatin: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+Uncalled bet ($0.80) returned to negritos81
+negritos81 collected $0.75 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop
+Seat 2: negritos81 collected ($0.75)
+Seat 3: samuelcook97 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943765641:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:35 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($11.37 in chips) 
+Seat 2: negritos81 ($20.50 in chips) 
+Seat 3: samuelcook97 ($2.72 in chips) 
+Seat 4: Bruno Gatin ($4.54 in chips) 
+Seat 5: Phantomasz1 ($9.26 in chips) 
+Seat 6: lalito.mdq ($10.82 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+samuelcook97: calls $0.10
+Bruno Gatin: folds 
+Phantomasz1: raises $0.10 to $0.20
+lalito.mdq: folds 
+Hugoandres1806: raises $0.50 to $0.70
+samuelcook97: folds 
+Phantomasz1: raises $0.50 to $1.20
+Hugoandres1806: calls $0.50
+*** FLOP *** [7s Td 2d]
+Hugoandres1806: checks 
+Phantomasz1: checks 
+*** TURN *** [7s Td 2d] [3s]
+Hugoandres1806: bets $1.63
+Phantomasz1: folds 
+Uncalled bet ($1.63) returned to Hugoandres1806
+Hugoandres1806 collected $2.44 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [7s Td 2d 3s]
+Seat 1: Hugoandres1806 (big blind) collected ($2.44)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded before Flop
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) folded on the Turn
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943787780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:44 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($12.61 in chips) 
+Seat 2: negritos81 ($20.50 in chips) 
+Seat 3: samuelcook97 ($2.62 in chips) 
+Seat 4: Bruno Gatin ($4.54 in chips) 
+Seat 5: Phantomasz1 ($8.06 in chips) 
+Seat 6: lalito.mdq ($10.77 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+samuelcook97: calls $0.10
+Bruno Gatin: calls $0.10
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: raises $0.40 to $0.50
+samuelcook97: folds 
+Bruno Gatin: calls $0.40
+*** FLOP *** [4h Td 4s]
+negritos81: bets $0.36
+Bruno Gatin: calls $0.36
+*** TURN *** [4h Td 4s] [5d]
+negritos81: checks 
+Bruno Gatin: checks 
+*** RIVER *** [4h Td 4s 5d] [3c]
+negritos81: checks 
+Bruno Gatin: bets $0.90
+negritos81: calls $0.90
+*** SHOW DOWN ***
+Bruno Gatin: shows [5c 5s] (a full house, Fives full of Fours)
+negritos81: mucks hand 
+Bruno Gatin collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.67 | Rake $0.17 
+Board [4h Td 4s 5d 3c]
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) mucked
+Seat 3: samuelcook97 folded before Flop
+Seat 4: Bruno Gatin showed [5c 5s] and won ($3.50) with a full house, Fives full of Fours
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943814010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:06 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($12.56 in chips) 
+Seat 2: negritos81 ($18.74 in chips) 
+Seat 3: samuelcook97 ($2.52 in chips) 
+Seat 4: Bruno Gatin ($6.28 in chips) 
+Seat 5: Phantomasz1 ($8.06 in chips) 
+Seat 6: lalito.mdq ($10.77 in chips) 
+negritos81: posts small blind $0.05
+samuelcook97: posts big blind $0.10
+*** HOLE CARDS ***
+Bruno Gatin: calls $0.10
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: checks 
+*** FLOP *** [Qc 4h 9d]
+samuelcook97: checks 
+Bruno Gatin: bets $0.10
+samuelcook97: folds 
+Uncalled bet ($0.10) returned to Bruno Gatin
+Bruno Gatin collected $0.24 from pot
+Bruno Gatin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc 4h 9d]
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: samuelcook97 (big blind) folded on the Flop
+Seat 4: Bruno Gatin collected ($0.24)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943824581:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:39 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($12.56 in chips) 
+Seat 2: negritos81 ($18.69 in chips) 
+Seat 3: samuelcook97 ($2.42 in chips) 
+Seat 4: Bruno Gatin ($6.42 in chips) 
+Seat 5: Phantomasz1 ($8.06 in chips) 
+Seat 6: lalito.mdq ($10.77 in chips) 
+samuelcook97: posts small blind $0.05
+Bruno Gatin: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: raises $0.40 to $0.50
+negritos81: raises $0.90 to $1.40
+samuelcook97: folds 
+Bruno Gatin: folds 
+Phantomasz1: folds 
+Hugoandres1806: folds 
+Uncalled bet ($0.90) returned to negritos81
+negritos81 collected $1.25 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop
+Seat 2: negritos81 (button) collected ($1.25)
+Seat 3: samuelcook97 (small blind) folded before Flop
+Seat 4: Bruno Gatin (big blind) folded before Flop
+Seat 5: Phantomasz1 folded before Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943846508:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:21 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($12.06 in chips) 
+Seat 2: negritos81 ($19.44 in chips) 
+Seat 3: samuelcook97 ($2.37 in chips) 
+Seat 4: Bruno Gatin ($6.32 in chips) 
+Seat 5: Phantomasz1 ($7.96 in chips) 
+Seat 6: lalito.mdq ($10.77 in chips) 
+Bruno Gatin: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: folds 
+Bruno Gatin: folds 
+Uncalled bet ($0.05) returned to Phantomasz1
+Phantomasz1 collected $0.10 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 (button) folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) collected ($0.10)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943849482:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:30 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($12.06 in chips) 
+Seat 2: negritos81 ($19.44 in chips) 
+Seat 3: samuelcook97 ($2.37 in chips) 
+Seat 4: Bruno Gatin ($6.27 in chips) 
+Seat 5: Phantomasz1 ($8.01 in chips) 
+Seat 6: lalito.mdq ($10.77 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: folds 
+Bruno Gatin: folds 
+Phantomasz1: calls $0.05
+lalito.mdq: checks 
+*** FLOP *** [7c Kd Ah]
+Phantomasz1: checks 
+lalito.mdq: checks 
+*** TURN *** [7c Kd Ah] [6s]
+Phantomasz1: checks 
+lalito.mdq: checks 
+*** RIVER *** [7c Kd Ah 6s] [5s]
+Phantomasz1: bets $0.10
+lalito.mdq: folds 
+Uncalled bet ($0.10) returned to Phantomasz1
+Phantomasz1 collected $0.19 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7c Kd Ah 6s 5s]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) collected ($0.19)
+Seat 6: lalito.mdq (big blind) folded on the River
+
+
+
+PokerStars Hand #222943871401:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:16 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($12.06 in chips) 
+Seat 2: negritos81 ($19.44 in chips) 
+Seat 3: samuelcook97 ($2.37 in chips) 
+Seat 4: Bruno Gatin ($6.27 in chips) 
+Seat 5: Phantomasz1 ($8.10 in chips) 
+Seat 6: lalito.mdq ($10.67 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+samuelcook97: calls $0.10
+Bruno Gatin: calls $0.10
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: checks 
+*** FLOP *** [2c 2h Tc]
+Hugoandres1806: checks 
+samuelcook97: checks 
+Bruno Gatin: bets $0.10
+Phantomasz1: folds 
+Hugoandres1806: folds 
+samuelcook97: folds 
+Uncalled bet ($0.10) returned to Bruno Gatin
+Bruno Gatin collected $0.43 from pot
+Bruno Gatin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c 2h Tc]
+Seat 1: Hugoandres1806 (big blind) folded on the Flop
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: samuelcook97 folded on the Flop
+Seat 4: Bruno Gatin collected ($0.43)
+Seat 5: Phantomasz1 (button) folded on the Flop
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943881513:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:47 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($11.96 in chips) 
+Seat 2: negritos81 ($19.44 in chips) 
+Seat 3: samuelcook97 ($2.27 in chips) 
+Seat 4: Bruno Gatin ($6.60 in chips) 
+Seat 5: Phantomasz1 ($8 in chips) 
+Seat 6: lalito.mdq ($10.62 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+samuelcook97: folds 
+Bruno Gatin: folds 
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: checks 
+*** FLOP *** [5h 9c Js]
+negritos81: checks 
+Phantomasz1: bets $0.30
+negritos81: folds 
+Uncalled bet ($0.30) returned to Phantomasz1
+Phantomasz1 collected $0.24 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h 9c Js]
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) folded on the Flop
+Seat 3: samuelcook97 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: Phantomasz1 collected ($0.24)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943896248:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:34 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($11.91 in chips) 
+Seat 2: negritos81 ($19.34 in chips) 
+Seat 3: samuelcook97 ($2.27 in chips) 
+Seat 4: Bruno Gatin ($6.60 in chips) 
+Seat 5: Phantomasz1 ($8.14 in chips) 
+Seat 6: lalito.mdq ($10.62 in chips) 
+negritos81: posts small blind $0.05
+samuelcook97: posts big blind $0.10
+*** HOLE CARDS ***
+Bruno Gatin: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.15 to $0.25
+negritos81: folds 
+samuelcook97: calls $0.15
+*** FLOP *** [2h Jh Th]
+samuelcook97: checks 
+Hugoandres1806: bets $0.27
+samuelcook97: folds 
+Uncalled bet ($0.27) returned to Hugoandres1806
+Hugoandres1806 collected $0.53 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2h Jh Th]
+Seat 1: Hugoandres1806 (button) collected ($0.53)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: samuelcook97 (big blind) folded on the Flop
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943904759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:00 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($12.19 in chips) 
+Seat 2: negritos81 ($19.29 in chips) 
+Seat 3: samuelcook97 ($2.02 in chips) 
+Seat 4: Bruno Gatin ($6.60 in chips) 
+Seat 5: Phantomasz1 ($8.14 in chips) 
+Seat 6: lalito.mdq ($10.62 in chips) 
+samuelcook97: posts small blind $0.05
+Bruno Gatin: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+samuelcook97: folds 
+Uncalled bet ($0.05) returned to Bruno Gatin
+samuelcook97 leaves the table
+Bruno Gatin collected $0.10 from pot
+Bruno Gatin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 3: samuelcook97 (small blind) folded before Flop
+Seat 4: Bruno Gatin (big blind) collected ($0.10)
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943907605:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:10 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($12.19 in chips) 
+Seat 2: negritos81 ($19.29 in chips) 
+Seat 4: Bruno Gatin ($6.65 in chips) 
+Seat 5: Phantomasz1 ($8.14 in chips) 
+Seat 6: lalito.mdq ($10.62 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: folds 
+Bruno Gatin: folds 
+SFIPS joins the table at seat #3 
+Phantomasz1: calls $0.05
+lalito.mdq: checks 
+*** FLOP *** [Kh 8d 5h]
+Phantomasz1: bets $0.50
+lalito.mdq: folds 
+Uncalled bet ($0.50) returned to Phantomasz1
+Phantomasz1 collected $0.19 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kh 8d 5h]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) collected ($0.19)
+Seat 6: lalito.mdq (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943920812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:51 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($12.19 in chips) 
+Seat 2: negritos81 ($19.29 in chips) 
+Seat 4: Bruno Gatin ($6.65 in chips) 
+Seat 5: Phantomasz1 ($8.23 in chips) 
+Seat 6: lalito.mdq ($10.52 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+SFIPS: sits out 
+*** HOLE CARDS ***
+negritos81: folds 
+Bruno Gatin: folds 
+Phantomasz1: raises $0.10 to $0.20
+lalito.mdq: folds 
+Hugoandres1806: folds 
+Uncalled bet ($0.10) returned to Phantomasz1
+Phantomasz1 collected $0.25 from pot
+Phantomasz1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) folded before Flop
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (button) collected ($0.25)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943925880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:07 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($12.09 in chips) 
+Seat 2: negritos81 ($19.29 in chips) 
+Seat 4: Bruno Gatin ($6.65 in chips) 
+Seat 5: Phantomasz1 ($8.38 in chips) 
+Seat 6: lalito.mdq ($10.47 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+SFIPS: sits out 
+*** HOLE CARDS ***
+Bruno Gatin: calls $0.10
+Phantomasz1: folds 
+lalito.mdq: raises $0.30 to $0.40
+Hugoandres1806: calls $0.35
+negritos81: folds 
+Bruno Gatin: calls $0.30
+*** FLOP *** [Kd Qs 6h]
+Hugoandres1806: checks 
+Bruno Gatin: checks 
+lalito.mdq: bets $0.41
+Hugoandres1806: calls $0.41
+Bruno Gatin: calls $0.41
+*** TURN *** [Kd Qs 6h] [5h]
+Hugoandres1806: checks 
+Bruno Gatin: checks 
+lalito.mdq: checks 
+*** RIVER *** [Kd Qs 6h 5h] [Kc]
+Hugoandres1806: checks 
+Bruno Gatin: bets $0.20
+lalito.mdq: calls $0.20
+Hugoandres1806: folds 
+*** SHOW DOWN ***
+Bruno Gatin: shows [Qc Jh] (two pair, Kings and Queens)
+lalito.mdq: shows [Ad As] (two pair, Aces and Kings)
+lalito.mdq collected $2.80 from pot
+*** SUMMARY ***
+Total pot $2.93 | Rake $0.13 
+Board [Kd Qs 6h 5h Kc]
+Seat 1: Hugoandres1806 (small blind) folded on the River
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 4: Bruno Gatin showed [Qc Jh] and lost with two pair, Kings and Queens
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) showed [Ad As] and won ($2.80) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #222943949774:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:22 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($11.28 in chips) 
+Seat 2: negritos81 ($19.19 in chips) 
+Seat 3: SFIPS ($10 in chips) 
+Seat 4: Bruno Gatin ($5.64 in chips) 
+Seat 5: Phantomasz1 ($8.38 in chips) 
+Seat 6: lalito.mdq ($12.26 in chips) 
+negritos81: posts small blind $0.05
+SFIPS: posts big blind $0.10
+*** HOLE CARDS ***
+Bruno Gatin: calls $0.10
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+SFIPS: checks 
+*** FLOP *** [8h 9c 7s]
+SFIPS: checks 
+Bruno Gatin: checks 
+*** TURN *** [8h 9c 7s] [Js]
+SFIPS: checks 
+Bruno Gatin: checks 
+*** RIVER *** [8h 9c 7s Js] [7d]
+SFIPS: checks 
+Bruno Gatin: checks 
+*** SHOW DOWN ***
+SFIPS: shows [5c 4c] (a pair of Sevens)
+Bruno Gatin: shows [3d 3s] (two pair, Sevens and Threes)
+Bruno Gatin collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h 9c 7s Js 7d]
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 3: SFIPS (big blind) showed [5c 4c] and lost with a pair of Sevens
+Seat 4: Bruno Gatin showed [3d 3s] and won ($0.24) with two pair, Sevens and Threes
+Seat 5: Phantomasz1 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943963439:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:05 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($11.28 in chips) 
+Seat 2: negritos81 ($19.14 in chips) 
+Seat 3: SFIPS ($10 in chips) 
+Seat 4: Bruno Gatin ($5.78 in chips) 
+Seat 5: Phantomasz1 ($8.38 in chips) 
+Seat 6: lalito.mdq ($12.26 in chips) 
+SFIPS: posts small blind $0.05
+Bruno Gatin: posts big blind $0.10
+*** HOLE CARDS ***
+Phantomasz1: calls $0.10
+lalito.mdq: folds 
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: raises $0.90 to $1.20
+SFIPS: folds 
+Bruno Gatin: folds 
+Phantomasz1: folds 
+Hugoandres1806: folds 
+Uncalled bet ($0.90) returned to negritos81
+negritos81 collected $0.85 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop
+Seat 2: negritos81 (button) collected ($0.85)
+Seat 3: SFIPS (small blind) folded before Flop
+Seat 4: Bruno Gatin (big blind) folded before Flop
+Seat 5: Phantomasz1 folded before Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943974747:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:40 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10.98 in chips) 
+Seat 2: negritos81 ($19.69 in chips) 
+Seat 3: SFIPS ($10 in chips) 
+Seat 4: Bruno Gatin ($5.68 in chips) 
+Seat 5: Phantomasz1 ($8.28 in chips) 
+Seat 6: lalito.mdq ($12.26 in chips) 
+Bruno Gatin: posts small blind $0.05
+Phantomasz1: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+SFIPS: raises $0.10 to $0.20
+Bruno Gatin: folds 
+Phantomasz1: calls $0.10
+*** FLOP *** [5c Kd Ks]
+Phantomasz1: checks 
+SFIPS: bets $0.14
+Phantomasz1: folds 
+Uncalled bet ($0.14) returned to SFIPS
+SFIPS collected $0.43 from pot
+SFIPS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [5c Kd Ks]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: SFIPS (button) collected ($0.43)
+Seat 4: Bruno Gatin (small blind) folded before Flop
+Seat 5: Phantomasz1 (big blind) folded on the Flop
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943985052:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:13 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10.98 in chips) 
+Seat 2: negritos81 ($19.69 in chips) 
+Seat 3: SFIPS ($10.23 in chips) 
+Seat 4: Bruno Gatin ($5.63 in chips) 
+Seat 5: Phantomasz1 ($8.08 in chips) 
+Seat 6: lalito.mdq ($12.26 in chips) 
+Phantomasz1: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81 has timed out
+negritos81: folds 
+SFIPS: raises $0.10 to $0.20
+Bruno Gatin: folds 
+Phantomasz1: folds 
+lalito.mdq: folds 
+Uncalled bet ($0.10) returned to SFIPS
+SFIPS collected $0.25 from pot
+SFIPS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: SFIPS collected ($0.25)
+Seat 4: Bruno Gatin (button) folded before Flop (didn't bet)
+Seat 5: Phantomasz1 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943994179:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:41 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10.98 in chips) 
+Seat 3: SFIPS ($10.38 in chips) 
+Seat 4: Bruno Gatin ($5.63 in chips) 
+Seat 5: Phantomasz1 ($8.03 in chips) 
+Seat 6: lalito.mdq ($12.16 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+SFIPS: raises $0.10 to $0.20
+Bruno Gatin: calls $0.20
+Phantomasz1: folds 
+lalito.mdq: folds 
+Hugoandres1806: calls $0.10
+*** FLOP *** [Qh 5s 4h]
+Hugoandres1806: checks 
+Phantomasz1 leaves the table
+SFIPS: bets $0.14
+Bruno Gatin: folds 
+Hugoandres1806: calls $0.14
+*** TURN *** [Qh 5s 4h] [9s]
+Hugoandres1806: checks 
+SFIPS: bets $0.62
+Hugoandres1806: calls $0.62
+*** RIVER *** [Qh 5s 4h 9s] [Tc]
+Hugoandres1806: checks 
+SFIPS: checks 
+*** SHOW DOWN ***
+Hugoandres1806: shows [Th Ks] (a pair of Tens)
+SFIPS: mucks hand 
+Hugoandres1806 collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.10 
+Board [Qh 5s 4h 9s Tc]
+Seat 1: Hugoandres1806 (big blind) showed [Th Ks] and won ($2.07) with a pair of Tens
+Seat 3: SFIPS mucked
+Seat 4: Bruno Gatin folded on the Flop
+Seat 5: Phantomasz1 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944010089:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:32 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($12.09 in chips) 
+Seat 2: negritos81 ($19.69 in chips) 
+Seat 3: SFIPS ($10 in chips) 
+Seat 4: Bruno Gatin ($5.43 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+SFIPS: folds 
+Bruno Gatin: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: calls $0.20
+*** FLOP *** [3c Js Ts]
+Hugoandres1806: bets $0.29
+negritos81: raises $0.89 to $1.18
+Hugoandres1806: calls $0.89
+*** TURN *** [3c Js Ts] [2d]
+Hugoandres1806: checks 
+negritos81: bets $2.18
+Hugoandres1806: calls $2.18
+*** RIVER *** [3c Js Ts 2d] [8h]
+Hugoandres1806: checks 
+gor580 joins the table at seat #5 
+negritos81: bets $16.03 and is all-in
+Hugoandres1806: folds 
+Uncalled bet ($16.03) returned to negritos81
+negritos81 collected $6.99 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.32 | Rake $0.33 
+Board [3c Js Ts 2d 8h]
+Seat 1: Hugoandres1806 (small blind) folded on the River
+Seat 2: negritos81 (big blind) collected ($6.99)
+Seat 3: SFIPS folded before Flop (didn't bet)
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944041230:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:10 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($23.02 in chips) 
+Seat 4: Bruno Gatin ($5.43 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+negritos81: posts small blind $0.05
+SFIPS: is sitting out 
+Bruno Gatin: posts big blind $0.10
+gor580: sits out 
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+SFIPS leaves the table
+negritos81: folds 
+Uncalled bet ($0.05) returned to Bruno Gatin
+Bruno Gatin collected $0.10 from pot
+Bruno Gatin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) folded before Flop
+Seat 4: Bruno Gatin (big blind) collected ($0.10)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944045149:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:23 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($22.97 in chips) 
+Seat 4: Bruno Gatin ($5.48 in chips) 
+Seat 5: gor580 ($10 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+Bruno Gatin: posts small blind $0.05
+gor580: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+Bruno Gatin: folds 
+Uncalled bet ($0.05) returned to gor580
+gor580 collected $0.10 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (small blind) folded before Flop
+Seat 5: gor580 (big blind) collected ($0.10)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944049198:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:36 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($22.97 in chips) 
+Seat 4: Bruno Gatin ($5.43 in chips) 
+Seat 5: gor580 ($10.05 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+gor580: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: folds 
+Bruno Gatin: calls $0.30
+gor580: folds 
+lalito.mdq: folds 
+*** FLOP *** [3c 9s Jc]
+Hugoandres1806: bets $0.36
+Bruno Gatin: raises $0.36 to $0.72
+Hugoandres1806: calls $0.36
+*** TURN *** [3c 9s Jc] [Jh]
+Hugoandres1806: checks 
+Bruno Gatin: bets $2.09
+Hugoandres1806: folds 
+Uncalled bet ($2.09) returned to Bruno Gatin
+Bruno Gatin collected $2.09 from pot
+Bruno Gatin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.19 | Rake $0.10 
+Board [3c 9s Jc Jh]
+Seat 1: Hugoandres1806 folded on the Turn
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (button) collected ($2.09)
+Seat 5: gor580 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944058880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:08 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($22.97 in chips) 
+Seat 4: Bruno Gatin ($6.50 in chips) 
+Seat 5: gor580 ($10 in chips) 
+Seat 6: lalito.mdq ($12.01 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+Bruno Gatin: folds 
+gor580: folds 
+lalito.mdq: raises $0.15 to $0.25
+Hugoandres1806: folds 
+Uncalled bet ($0.15) returned to lalito.mdq
+lalito.mdq collected $0.20 from pot
+lalito.mdq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Hugoandres1806 (big blind) folded before Flop
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: gor580 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944062826:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:20 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($22.97 in chips) 
+Seat 4: Bruno Gatin ($6.50 in chips) 
+Seat 5: gor580 ($10 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+Bruno Gatin: calls $0.10
+gor580: raises $0.35 to $0.45
+lalito.mdq: folds 
+Hugoandres1806: folds 
+cramirezg321 joins the table at seat #3 
+negritos81: folds 
+Bruno Gatin: folds 
+Uncalled bet ($0.35) returned to gor580
+gor580 collected $0.35 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) folded before Flop
+Seat 4: Bruno Gatin folded before Flop
+Seat 5: gor580 collected ($0.35)
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944069410:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:41 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($22.87 in chips) 
+Seat 3: cramirezg321 ($10 in chips) 
+Seat 4: Bruno Gatin ($6.40 in chips) 
+Seat 5: gor580 ($10.25 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+negritos81: posts small blind $0.05
+cramirezg321: posts big blind $0.10
+*** HOLE CARDS ***
+Bruno Gatin: folds 
+gor580: folds 
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: raises $0.20 to $0.30
+cramirezg321: folds 
+Uncalled bet ($0.20) returned to negritos81
+negritos81 collected $0.20 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Hugoandres1806 (button) folded before Flop (didn't bet)
+Seat 2: negritos81 (small blind) collected ($0.20)
+Seat 3: cramirezg321 (big blind) folded before Flop
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: gor580 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944073932:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:56 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($22.97 in chips) 
+Seat 3: cramirezg321 ($9.90 in chips) 
+Seat 4: Bruno Gatin ($6.40 in chips) 
+Seat 5: gor580 ($10.25 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+cramirezg321: posts small blind $0.05
+Bruno Gatin: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.20 to $0.30
+negritos81: calls $0.30
+cramirezg321: folds 
+Bruno Gatin: calls $0.20
+*** FLOP *** [Qs Kd 6d]
+Bruno Gatin: checks 
+Hugoandres1806: checks 
+negritos81: checks 
+*** TURN *** [Qs Kd 6d] [4h]
+Bruno Gatin: checks 
+Hugoandres1806: bets $0.46
+negritos81: folds 
+Bruno Gatin: folds 
+Uncalled bet ($0.46) returned to Hugoandres1806
+Hugoandres1806 collected $0.91 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qs Kd 6d 4h]
+Seat 1: Hugoandres1806 collected ($0.91)
+Seat 2: negritos81 (button) folded on the Turn
+Seat 3: cramirezg321 (small blind) folded before Flop
+Seat 4: Bruno Gatin (big blind) folded on the Turn
+Seat 5: gor580 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944092038:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:54 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10.61 in chips) 
+Seat 2: negritos81 ($22.67 in chips) 
+Seat 3: cramirezg321 ($9.85 in chips) 
+Seat 4: Bruno Gatin ($6.10 in chips) 
+Seat 5: gor580 ($10.25 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+Bruno Gatin: posts small blind $0.05
+gor580: posts big blind $0.10
+*** HOLE CARDS ***
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: folds 
+cramirezg321: folds 
+Bruno Gatin: calls $0.05
+gor580: checks 
+*** FLOP *** [5d Th 3c]
+Bruno Gatin: checks 
+gor580: bets $0.13
+Bruno Gatin: folds 
+Uncalled bet ($0.13) returned to gor580
+gor580 collected $0.19 from pot
+gor580: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5d Th 3c]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: cramirezg321 (button) folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (small blind) folded on the Flop
+Seat 5: gor580 (big blind) collected ($0.19)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944104132:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:33 ET
+Table 'Abanderada III' 6-max Seat #4 is the button
+Seat 1: Hugoandres1806 ($10.61 in chips) 
+Seat 2: negritos81 ($22.67 in chips) 
+Seat 3: cramirezg321 ($9.85 in chips) 
+Seat 4: Bruno Gatin ($6 in chips) 
+Seat 5: gor580 ($10.34 in chips) 
+Seat 6: lalito.mdq ($12.11 in chips) 
+gor580: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+negritos81: folds 
+cramirezg321: folds 
+Bruno Gatin: calls $0.10
+gor580: folds 
+lalito.mdq: checks 
+*** FLOP *** [Tc Ac 5s]
+lalito.mdq: checks 
+Bruno Gatin: checks 
+*** TURN *** [Tc Ac 5s] [9d]
+lalito.mdq: checks 
+Bruno Gatin: checks 
+*** RIVER *** [Tc Ac 5s 9d] [Jh]
+lalito.mdq: checks 
+Bruno Gatin: bets $0.12
+lalito.mdq: calls $0.12
+*** SHOW DOWN ***
+Bruno Gatin: shows [Th Jd] (two pair, Jacks and Tens)
+lalito.mdq: mucks hand 
+Bruno Gatin collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Tc Ac 5s 9d Jh]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: cramirezg321 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin (button) showed [Th Jd] and won ($0.47) with two pair, Jacks and Tens
+Seat 5: gor580 (small blind) folded before Flop
+Seat 6: lalito.mdq (big blind) mucked
+
+
+
+PokerStars Hand #222944119370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:15 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 1: Hugoandres1806 ($10.61 in chips) 
+Seat 2: negritos81 ($22.67 in chips) 
+Seat 3: cramirezg321 ($9.85 in chips) 
+Seat 4: Bruno Gatin ($6.25 in chips) 
+Seat 5: gor580 ($10.29 in chips) 
+Seat 6: lalito.mdq ($11.89 in chips) 
+lalito.mdq: posts small blind $0.05
+Hugoandres1806: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+cramirezg321: raises $0.15 to $0.25
+Bruno Gatin: folds 
+gor580: folds 
+lalito.mdq: calls $0.20
+Hugoandres1806: calls $0.15
+*** FLOP *** [2d 6h 2s]
+lalito.mdq: checks 
+Hugoandres1806: checks 
+cramirezg321: bets $0.30
+lalito.mdq: folds 
+Hugoandres1806: folds 
+Uncalled bet ($0.30) returned to cramirezg321
+cramirezg321 collected $0.72 from pot
+cramirezg321: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2d 6h 2s]
+Seat 1: Hugoandres1806 (big blind) folded on the Flop
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: cramirezg321 collected ($0.72)
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: gor580 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222944133273:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:01 ET
+Table 'Abanderada III' 6-max Seat #6 is the button
+Seat 1: Hugoandres1806 ($10.36 in chips) 
+Seat 2: negritos81 ($22.67 in chips) 
+Seat 3: cramirezg321 ($10.32 in chips) 
+Seat 4: Bruno Gatin ($6.25 in chips) 
+Seat 5: gor580 ($10.29 in chips) 
+Seat 6: lalito.mdq ($11.64 in chips) 
+Hugoandres1806: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+cramirezg321: folds 
+Bruno Gatin: folds 
+gor580: raises $0.15 to $0.25
+lalito.mdq: folds 
+Hugoandres1806: folds 
+negritos81: calls $0.15
+*** FLOP *** [9s 9h 7c]
+negritos81: checks 
+gor580: bets $0.25
+negritos81: calls $0.25
+*** TURN *** [9s 9h 7c] [Kc]
+negritos81: checks 
+gor580: checks 
+*** RIVER *** [9s 9h 7c Kc] [3c]
+negritos81: checks 
+gor580: checks 
+*** SHOW DOWN ***
+negritos81: shows [Ah Ts] (a pair of Nines)
+gor580: shows [Jd Ac] (a pair of Nines - Ace+King+Jack kicker)
+gor580 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [9s 9h 7c Kc 3c]
+Seat 1: Hugoandres1806 (small blind) folded before Flop
+Seat 2: negritos81 (big blind) showed [Ah Ts] and lost with a pair of Nines
+Seat 3: cramirezg321 folded before Flop (didn't bet)
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: gor580 showed [Jd Ac] and won ($1) with a pair of Nines
+Seat 6: lalito.mdq (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944153779:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:08 ET
+Table 'Abanderada III' 6-max Seat #1 is the button
+Seat 1: Hugoandres1806 ($10.31 in chips) 
+Seat 2: negritos81 ($22.17 in chips) 
+Seat 3: cramirezg321 ($10.32 in chips) 
+Seat 4: Bruno Gatin ($6.25 in chips) 
+Seat 5: gor580 ($10.79 in chips) 
+Seat 6: lalito.mdq ($11.64 in chips) 
+negritos81: posts small blind $0.05
+cramirezg321: posts big blind $0.10
+*** HOLE CARDS ***
+Bruno Gatin: folds 
+gor580: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.15 to $0.25
+negritos81: calls $0.20
+cramirezg321: folds 
+*** FLOP *** [Qs Ks 8d]
+negritos81: checks 
+Hugoandres1806: bets $0.29
+negritos81: folds 
+Uncalled bet ($0.29) returned to Hugoandres1806
+Hugoandres1806 collected $0.57 from pot
+Hugoandres1806: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qs Ks 8d]
+Seat 1: Hugoandres1806 (button) collected ($0.57)
+Seat 2: negritos81 (small blind) folded on the Flop
+Seat 3: cramirezg321 (big blind) folded before Flop
+Seat 4: Bruno Gatin folded before Flop (didn't bet)
+Seat 5: gor580 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944163225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:39 ET
+Table 'Abanderada III' 6-max Seat #2 is the button
+Seat 1: Hugoandres1806 ($10.63 in chips) 
+Seat 2: negritos81 ($21.92 in chips) 
+Seat 3: cramirezg321 ($10.22 in chips) 
+Seat 4: Bruno Gatin ($6.25 in chips) 
+Seat 5: gor580 ($10.79 in chips) 
+Seat 6: lalito.mdq ($11.64 in chips) 
+cramirezg321: posts small blind $0.05
+Bruno Gatin: posts big blind $0.10
+*** HOLE CARDS ***
+gor580: folds 
+lalito.mdq: folds 
+Hugoandres1806: raises $0.15 to $0.25
+negritos81: folds 
+cramirezg321: raises $0.45 to $0.70
+Bruno Gatin: folds 
+Hugoandres1806: calls $0.45
+*** FLOP *** [As 3d Jd]
+cramirezg321: checks 
+Bruno Gatin leaves the table
+Hugoandres1806: bets $0.72
+cramirezg321: calls $0.72
+*** TURN *** [As 3d Jd] [Kh]
+cramirezg321: checks 
+Hugoandres1806: bets $1.87
+cramirezg321: calls $1.87
+*** RIVER *** [As 3d Jd Kh] [Jc]
+cramirezg321: bets $2.11
+Hugoandres1806: raises $5.23 to $7.34 and is all-in
+cramirezg321: calls $4.82 and is all-in
+Uncalled bet ($0.41) returned to Hugoandres1806
+*** SHOW DOWN ***
+Hugoandres1806: shows [3c 3h] (a full house, Threes full of Jacks)
+cramirezg321: shows [Kd Ks] (a full house, Kings full of Jacks)
+cramirezg321 collected $19.62 from pot
+*** SUMMARY ***
+Total pot $20.54 | Rake $0.92 
+Board [As 3d Jd Kh Jc]
+Seat 1: Hugoandres1806 showed [3c 3h] and lost with a full house, Threes full of Jacks
+Seat 2: negritos81 (button) folded before Flop (didn't bet)
+Seat 3: cramirezg321 (small blind) showed [Kd Ks] and won ($19.62) with a full house, Kings full of Jacks
+Seat 4: Bruno Gatin (big blind) folded before Flop
+Seat 5: gor580 folded before Flop (didn't bet)
+Seat 6: lalito.mdq folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944193032:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:06 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 1: Hugoandres1806 ($10 in chips) 
+Seat 2: negritos81 ($21.92 in chips) 
+Seat 3: cramirezg321 ($19.62 in chips) 
+Seat 5: gor580 ($10.79 in chips) 
+Seat 6: lalito.mdq ($11.64 in chips) 
+gor580: posts small blind $0.05
+lalito.mdq: posts big blind $0.10
+*** HOLE CARDS ***
+Hugoandres1806: folds 
+Hugoandres1806 leaves the table
+negritos81: folds 
+cramirezg321: folds 
+gor580: raises $0.20 to $0.30
+lalito.mdq: calls $0.20
+*** FLOP *** [8s 6s 7h]
+gor580: checks 
+lalito.mdq: checks 
+*** TURN *** [8s 6s 7h] [8c]
+gor580: bets $0.34
+lalito.mdq: calls $0.34
+*** RIVER *** [8s 6s 7h 8c] [2h]
+gor580: checks 
+lalito.mdq: bets $0.61
+gor580: folds 
+Uncalled bet ($0.61) returned to lalito.mdq
+lalito.mdq collected $1.22 from pot
+lalito.mdq: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.06 
+Board [8s 6s 7h 8c 2h]
+Seat 1: Hugoandres1806 folded before Flop (didn't bet)
+Seat 2: negritos81 folded before Flop (didn't bet)
+Seat 3: cramirezg321 (button) folded before Flop (didn't bet)
+Seat 5: gor580 (small blind) folded on the River
+Seat 6: lalito.mdq (big blind) collected ($1.22)
+
+
+
+PokerStars Hand #222944206465:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:51 ET
+Table 'Abanderada III' 6-max Seat #5 is the button
+Seat 2: negritos81 ($21.92 in chips) 
+Seat 3: cramirezg321 ($19.62 in chips) 
+Seat 5: gor580 ($10.15 in chips) 
+Seat 6: lalito.mdq ($12.22 in chips) 
+lalito.mdq: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+sLLy_Loris joins the table at seat #1 
+cramirezg321: folds 
+gor580: folds 
+lalito.mdq: raises $0.15 to $0.25
+sLLy_Loris leaves the table
+negritos81: calls $0.15
+*** FLOP *** [As 4c Jc]
+lalito.mdq: checks 
+negritos81: bets $0.24
+lalito.mdq: folds 
+Uncalled bet ($0.24) returned to negritos81
+negritos81 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [As 4c Jc]
+Seat 2: negritos81 (big blind) collected ($0.48)
+Seat 3: cramirezg321 folded before Flop (didn't bet)
+Seat 5: gor580 (button) folded before Flop (didn't bet)
+Seat 6: lalito.mdq (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222944216992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:25 ET
+Table 'Abanderada III' 6-max Seat #3 is the button
+Seat 2: negritos81 ($22.15 in chips) 
+Seat 3: cramirezg321 ($19.62 in chips) 
+cramirezg321: posts small blind $0.05
+gor580: is sitting out 
+gor580 leaves the table
+lalito.mdq leaves the table
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+cramirezg321: calls $0.05
+negritos81: checks 
+*** FLOP *** [Tc Ac 2c]
+negritos81: checks 
+cramirezg321: checks 
+*** TURN *** [Tc Ac 2c] [5s]
+negritos81: checks 
+cramirezg321: bets $0.10
+negritos81: folds 
+Uncalled bet ($0.10) returned to cramirezg321
+cramirezg321 collected $0.19 from pot
+cramirezg321: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Tc Ac 2c 5s]
+Seat 2: negritos81 (big blind) folded on the Turn
+Seat 3: cramirezg321 (button) (small blind) collected ($0.19)
+
+
+

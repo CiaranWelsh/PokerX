@@ -1,0 +1,1696 @@
+﻿PokerStars Hand #222978991601:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:02:51 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($10 in chips) 
+Seat 4: cwie210 ($10 in chips) 
+Seat 5: Kesy17 ($10 in chips) 
+JerryxzDeity: posts small blind $0.05
+FeketeAdamAkos: posts big blind $0.10
+*** HOLE CARDS ***
+cwie210: raises $0.20 to $0.30
+Kesy17: folds 
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: calls $0.20
+*** FLOP *** [2s Th 9c]
+FeketeAdamAkos: checks 
+cwie210: checks 
+*** TURN *** [2s Th 9c] [3d]
+FeketeAdamAkos: bets $0.31
+cwie210: calls $0.31
+*** RIVER *** [2s Th 9c 3d] [7h]
+FeketeAdamAkos: bets $1
+cwie210: raises $1 to $2
+FeketeAdamAkos: folds 
+Uncalled bet ($1) returned to cwie210
+cwie210 collected $3.12 from pot
+cwie210: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.27 | Rake $0.15 
+Board [2s Th 9c 3d 7h]
+Seat 1: Freedom4all3 (button) folded before Flop (didn't bet)
+Seat 2: JerryxzDeity (small blind) folded before Flop
+Seat 3: FeketeAdamAkos (big blind) folded on the River
+Seat 4: cwie210 collected ($3.12)
+Seat 5: Kesy17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979034751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:06 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($8.39 in chips) 
+Seat 4: cwie210 ($11.51 in chips) 
+Seat 5: Kesy17 ($10 in chips) 
+FeketeAdamAkos: posts small blind $0.05
+cwie210: posts big blind $0.10
+*** HOLE CARDS ***
+Kesy17: folds 
+rushy0129 joins the table at seat #6 
+Freedom4all3: raises $0.20 to $0.30
+JerryxzDeity: folds 
+FeketeAdamAkos: folds 
+cwie210: folds 
+Uncalled bet ($0.20) returned to Freedom4all3
+Freedom4all3 collected $0.25 from pot
+Freedom4all3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Freedom4all3 collected ($0.25)
+Seat 2: JerryxzDeity (button) folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos (small blind) folded before Flop
+Seat 4: cwie210 (big blind) folded before Flop
+Seat 5: Kesy17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979042827:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:20 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($10.25 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($8.34 in chips) 
+Seat 4: cwie210 ($11.41 in chips) 
+Seat 5: Kesy17 ($10 in chips) 
+cwie210: posts small blind $0.05
+Kesy17: posts big blind $0.10
+rushy0129: sits out 
+*** HOLE CARDS ***
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: folds 
+cwie210: folds 
+Uncalled bet ($0.05) returned to Kesy17
+Kesy17 collected $0.10 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: JerryxzDeity folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos (button) folded before Flop (didn't bet)
+Seat 4: cwie210 (small blind) folded before Flop
+Seat 5: Kesy17 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222979051292:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:34 ET
+Table 'Bharani II' 6-max Seat #4 is the button
+Seat 1: Freedom4all3 ($10.25 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($8.34 in chips) 
+Seat 4: cwie210 ($11.36 in chips) 
+Seat 5: Kesy17 ($10.05 in chips) 
+Seat 6: rushy0129 ($10 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: calls $0.10
+cwie210: raises $0.10 to $0.20
+Kesy17: raises $0.60 to $0.80
+rushy0129: folds 
+FeketeAdamAkos: folds 
+cwie210: calls $0.60
+*** FLOP *** [Tc Ah 5d]
+Kesy17: bets $1.72
+cwie210: folds 
+Uncalled bet ($1.72) returned to Kesy17
+Kesy17 collected $1.72 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Tc Ah 5d]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: JerryxzDeity folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos folded before Flop
+Seat 4: cwie210 (button) folded on the Flop
+Seat 5: Kesy17 (small blind) collected ($1.72)
+Seat 6: rushy0129 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979086325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:05:22 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($10.25 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($8.24 in chips) 
+Seat 4: cwie210 ($10.56 in chips) 
+Seat 5: Kesy17 ($10.97 in chips) 
+Seat 6: rushy0129 ($9.90 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+*** HOLE CARDS ***
+JerryxzDeity: raises $0.20 to $0.30
+FeketeAdamAkos: raises $0.75 to $1.05
+cwie210: folds 
+Kesy17: folds 
+rushy0129: folds 
+Freedom4all3: folds 
+JerryxzDeity: calls $0.75
+*** FLOP *** [8d 2s Js]
+JerryxzDeity: checks 
+FeketeAdamAkos: bets $0.80
+JerryxzDeity: folds 
+Uncalled bet ($0.80) returned to FeketeAdamAkos
+FeketeAdamAkos collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8d 2s Js]
+Seat 1: Freedom4all3 (big blind) folded before Flop
+Seat 2: JerryxzDeity folded on the Flop
+Seat 3: FeketeAdamAkos collected ($2.15)
+Seat 4: cwie210 folded before Flop (didn't bet)
+Seat 5: Kesy17 (button) folded before Flop (didn't bet)
+Seat 6: rushy0129 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979118256:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:06:17 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($10.15 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($9.34 in chips) 
+Seat 4: cwie210 ($10.56 in chips) 
+Seat 5: Kesy17 ($10.97 in chips) 
+Seat 6: rushy0129 ($9.85 in chips) 
+Freedom4all3: posts small blind $0.05
+JerryxzDeity: posts big blind $0.10
+*** HOLE CARDS ***
+FeketeAdamAkos: calls $0.10
+cwie210: raises $0.10 to $0.20
+Kesy17: folds 
+rushy0129: calls $0.20
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: calls $0.10
+*** FLOP *** [Kd 3c 9h]
+FeketeAdamAkos: checks 
+cwie210: bets $0.36
+rushy0129: raises $0.36 to $0.72
+FeketeAdamAkos: folds 
+cwie210: calls $0.36
+*** TURN *** [Kd 3c 9h] [9d]
+cwie210: checks 
+rushy0129: bets $1
+cwie210: calls $1
+*** RIVER *** [Kd 3c 9h 9d] [2s]
+cwie210: checks 
+rushy0129: checks 
+*** SHOW DOWN ***
+cwie210: shows [Ks Qc] (two pair, Kings and Nines)
+rushy0129: mucks hand 
+cwie210 collected $4 from pot
+*** SUMMARY ***
+Total pot $4.19 | Rake $0.19 
+Board [Kd 3c 9h 9d 2s]
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 2: JerryxzDeity (big blind) folded before Flop
+Seat 3: FeketeAdamAkos folded on the Flop
+Seat 4: cwie210 showed [Ks Qc] and won ($4) with two pair, Kings and Nines
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: rushy0129 (button) mucked
+
+
+
+PokerStars Hand #222979173023:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:07:36 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($9.14 in chips) 
+Seat 4: cwie210 ($12.64 in chips) 
+Seat 5: Kesy17 ($10.97 in chips) 
+Seat 6: rushy0129 ($7.93 in chips) 
+JerryxzDeity: posts small blind $0.05
+FeketeAdamAkos: posts big blind $0.10
+*** HOLE CARDS ***
+cwie210: folds 
+Kesy17: raises $0.25 to $0.35
+rushy0129: calls $0.35
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: folds 
+*** FLOP *** [Ts Jh 6h]
+Kesy17: bets $0.41
+rushy0129: calls $0.41
+*** TURN *** [Ts Jh 6h] [8d]
+Kesy17: bets $0.80
+rushy0129: calls $0.80
+*** RIVER *** [Ts Jh 6h 8d] [2s]
+Kesy17: bets $3.12
+rushy0129: calls $3.12
+*** SHOW DOWN ***
+Kesy17: shows [Td Ks] (a pair of Tens)
+rushy0129: shows [Js Qc] (a pair of Jacks)
+rushy0129 collected $9.08 from pot
+*** SUMMARY ***
+Total pot $9.51 | Rake $0.43 
+Board [Ts Jh 6h 8d 2s]
+Seat 1: Freedom4all3 (button) folded before Flop (didn't bet)
+Seat 2: JerryxzDeity (small blind) folded before Flop
+Seat 3: FeketeAdamAkos (big blind) folded before Flop
+Seat 4: cwie210 folded before Flop (didn't bet)
+Seat 5: Kesy17 showed [Td Ks] and lost with a pair of Tens
+Seat 6: rushy0129 showed [Js Qc] and won ($9.08) with a pair of Jacks
+
+
+
+PokerStars Hand #222979196560:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:08:17 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($9.04 in chips) 
+Seat 5: Kesy17 ($6.29 in chips) 
+Seat 6: rushy0129 ($12.33 in chips) 
+FeketeAdamAkos: posts small blind $0.05
+cwie210: is sitting out 
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+rushy0129: folds 
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: raises $0.10 to $0.20
+Kesy17: raises $0.40 to $0.60
+FeketeAdamAkos: calls $0.40
+*** FLOP *** [Qh 2d 6c]
+FeketeAdamAkos: bets $0.50
+Kesy17: folds 
+Uncalled bet ($0.50) returned to FeketeAdamAkos
+FeketeAdamAkos collected $1.15 from pot
+FeketeAdamAkos: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Qh 2d 6c]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: JerryxzDeity (button) folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos (small blind) collected ($1.15)
+Seat 5: Kesy17 (big blind) folded on the Flop
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979218671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:08:57 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($9.59 in chips) 
+Seat 5: Kesy17 ($5.69 in chips) 
+Seat 6: rushy0129 ($12.33 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+JerryxzDeity: folds 
+FeketeAdamAkos: folds 
+Kesy17: raises $0.20 to $0.30
+rushy0129: calls $0.20
+*** FLOP *** [3h 7h 6h]
+Kesy17: bets $0.29
+rushy0129: calls $0.29
+*** TURN *** [3h 7h 6h] [2d]
+Kesy17: bets $0.57
+rushy0129: folds 
+Uncalled bet ($0.57) returned to Kesy17
+Kesy17 collected $1.13 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [3h 7h 6h 2d]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: JerryxzDeity folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos (button) folded before Flop (didn't bet)
+Seat 5: Kesy17 (small blind) collected ($1.13)
+Seat 6: rushy0129 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222979239896:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:09:35 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: JerryxzDeity ($10 in chips) 
+Seat 3: FeketeAdamAkos ($9.59 in chips) 
+Seat 5: Kesy17 ($6.23 in chips) 
+Seat 6: rushy0129 ($11.74 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+cwie210: sits out 
+*** HOLE CARDS ***
+JerryxzDeity: folds 
+FeketeAdamAkos: folds 
+Kesy17: calls $0.10
+rushy0129: calls $0.05
+Freedom4all3: checks 
+*** FLOP *** [Jh Ks Ah]
+rushy0129: checks 
+Freedom4all3: bets $0.14
+Kesy17: calls $0.14
+rushy0129: calls $0.14
+*** TURN *** [Jh Ks Ah] [4c]
+rushy0129: checks 
+Freedom4all3: bets $0.44
+Kesy17: folds 
+rushy0129: calls $0.44
+*** RIVER *** [Jh Ks Ah 4c] [6h]
+rushy0129: bets $0.60
+Freedom4all3: calls $0.60
+*** SHOW DOWN ***
+rushy0129: shows [7c Ac] (a pair of Aces)
+Freedom4all3: shows [Qs Tc] (a straight, Ten to Ace)
+Freedom4all3 collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.80 | Rake $0.13 
+Board [Jh Ks Ah 4c 6h]
+Seat 1: Freedom4all3 (big blind) showed [Qs Tc] and won ($2.67) with a straight, Ten to Ace
+Seat 2: JerryxzDeity folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos folded before Flop (didn't bet)
+Seat 5: Kesy17 (button) folded on the Turn
+Seat 6: rushy0129 (small blind) showed [7c Ac] and lost with a pair of Aces
+
+
+
+PokerStars Hand #222979270779:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:10:29 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($11.49 in chips) 
+Seat 3: FeketeAdamAkos ($9.59 in chips) 
+Seat 5: Kesy17 ($5.99 in chips) 
+Seat 6: rushy0129 ($10.46 in chips) 
+Freedom4all3: posts small blind $0.05
+JerryxzDeity: is sitting out 
+FeketeAdamAkos: posts big blind $0.10
+cwie210: sits out 
+*** HOLE CARDS ***
+JerryxzDeity leaves the table
+Kesy17: folds 
+rushy0129: folds 
+Freedom4all3: folds 
+Uncalled bet ($0.05) returned to FeketeAdamAkos
+FeketeAdamAkos collected $0.10 from pot
+FeketeAdamAkos: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 3: FeketeAdamAkos (big blind) collected ($0.10)
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: rushy0129 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979279585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:10:45 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($11.44 in chips) 
+Seat 3: FeketeAdamAkos ($9.64 in chips) 
+Seat 5: Kesy17 ($5.99 in chips) 
+Seat 6: rushy0129 ($10.46 in chips) 
+FeketeAdamAkos: posts small blind $0.05
+cwie210: is sitting out 
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+rushy0129: folds 
+Freedom4all3: raises $0.20 to $0.30
+FeketeAdamAkos: calls $0.25
+Kesy17: raises $0.90 to $1.20
+Rossy962 joins the table at seat #2 
+Freedom4all3: folds 
+FeketeAdamAkos: calls $0.90
+*** FLOP *** [5c 2d 7s]
+FeketeAdamAkos: bets $0.50
+Kesy17: raises $4.29 to $4.79 and is all-in
+FeketeAdamAkos: folds 
+Uncalled bet ($4.29) returned to Kesy17
+Kesy17 collected $3.53 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.70 | Rake $0.17 
+Board [5c 2d 7s]
+Seat 1: Freedom4all3 (button) folded before Flop
+Seat 3: FeketeAdamAkos (small blind) folded on the Flop
+Seat 5: Kesy17 (big blind) collected ($3.53)
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979307740:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:11:35 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($11.14 in chips) 
+Seat 2: Rossy962 ($8 in chips) 
+Seat 3: FeketeAdamAkos ($7.94 in chips) 
+Seat 5: Kesy17 ($7.82 in chips) 
+Seat 6: rushy0129 ($10.46 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+Rossy962: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: raises $0.35 to $0.45
+Rossy962: calls $0.35
+FeketeAdamAkos: folds 
+Kesy17: folds 
+rushy0129: folds 
+*** FLOP *** [Kh Js 5h]
+Freedom4all3: bets $0.50
+Rossy962: calls $0.50
+*** TURN *** [Kh Js 5h] [7s]
+Freedom4all3: bets $0.98
+Rossy962: folds 
+Uncalled bet ($0.98) returned to Freedom4all3
+Freedom4all3 collected $1.96 from pot
+Freedom4all3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [Kh Js 5h 7s]
+Seat 1: Freedom4all3 collected ($1.96)
+Seat 2: Rossy962 folded on the Turn
+Seat 3: FeketeAdamAkos (button) folded before Flop (didn't bet)
+Seat 5: Kesy17 (small blind) folded before Flop
+Seat 6: rushy0129 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979327523:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:12:10 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($12.15 in chips) 
+Seat 2: Rossy962 ($7.05 in chips) 
+Seat 3: FeketeAdamAkos ($7.94 in chips) 
+Seat 5: Kesy17 ($7.77 in chips) 
+Seat 6: rushy0129 ($10.36 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+*** HOLE CARDS ***
+Rossy962: raises $0.30 to $0.40
+FeketeAdamAkos: folds 
+Kesy17: calls $0.40
+rushy0129: calls $0.35
+Freedom4all3: folds 
+*** FLOP *** [2d Kd Qh]
+rushy0129: checks 
+Rossy962: bets $0.50
+Kesy17: raises $2.24 to $2.74
+rushy0129: folds 
+Rossy962: calls $2.24
+*** TURN *** [2d Kd Qh] [Jc]
+Rossy962: checks 
+Kesy17: bets $4.63 and is all-in
+Rossy962: calls $3.91 and is all-in
+Uncalled bet ($0.72) returned to Kesy17
+*** RIVER *** [2d Kd Qh Jc] [Ks]
+*** SHOW DOWN ***
+Rossy962: shows [Qc Ac] (two pair, Kings and Queens)
+Kesy17: shows [Qs Kc] (a full house, Kings full of Queens)
+Kesy17 collected $13.94 from pot
+*** SUMMARY ***
+Total pot $14.60 | Rake $0.66 
+Board [2d Kd Qh Jc Ks]
+Seat 1: Freedom4all3 (big blind) folded before Flop
+Seat 2: Rossy962 showed [Qc Ac] and lost with two pair, Kings and Queens
+Seat 3: FeketeAdamAkos folded before Flop (didn't bet)
+Seat 5: Kesy17 (button) showed [Qs Kc] and won ($13.94) with a full house, Kings full of Queens
+Seat 6: rushy0129 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222979362879:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:13:14 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($12.05 in chips) 
+Seat 3: FeketeAdamAkos ($7.94 in chips) 
+Seat 5: Kesy17 ($14.66 in chips) 
+Seat 6: rushy0129 ($9.96 in chips) 
+Freedom4all3: posts small blind $0.05
+FeketeAdamAkos: posts big blind $0.10
+*** HOLE CARDS ***
+Kesy17: folds 
+rushy0129: folds 
+Freedom4all3: raises $0.20 to $0.30
+FeketeAdamAkos: calls $0.20
+*** FLOP *** [6c 5d Ks]
+Freedom4all3: bets $0.28
+FeketeAdamAkos: calls $0.28
+*** TURN *** [6c 5d Ks] [7h]
+Freedom4all3: checks 
+FeketeAdamAkos: checks 
+*** RIVER *** [6c 5d Ks 7h] [7c]
+Freedom4all3: checks 
+FeketeAdamAkos: checks 
+*** SHOW DOWN ***
+Freedom4all3: shows [Qd Tc] (a pair of Sevens)
+FeketeAdamAkos: shows [3d As] (a pair of Sevens - Ace kicker)
+FeketeAdamAkos collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [6c 5d Ks 7h 7c]
+Seat 1: Freedom4all3 (small blind) showed [Qd Tc] and lost with a pair of Sevens
+Seat 3: FeketeAdamAkos (big blind) showed [3d As] and won ($1.11) with a pair of Sevens
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: rushy0129 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979389536:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:14:02 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($11.47 in chips) 
+Seat 3: FeketeAdamAkos ($8.47 in chips) 
+Seat 5: Kesy17 ($14.66 in chips) 
+Seat 6: rushy0129 ($9.96 in chips) 
+FeketeAdamAkos: posts small blind $0.05
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+rushy0129: folds 
+Freedom4all3: raises $0.20 to $0.30
+FeketeAdamAkos: raises $1.10 to $1.40
+Kesy17: folds 
+Freedom4all3: folds 
+Uncalled bet ($1.10) returned to FeketeAdamAkos
+FeketeAdamAkos collected $0.70 from pot
+FeketeAdamAkos: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Freedom4all3 (button) folded before Flop
+Seat 3: FeketeAdamAkos (small blind) collected ($0.70)
+Seat 5: Kesy17 (big blind) folded before Flop
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979402000:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:14:25 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($11.17 in chips) 
+Seat 2: Rossy962 ($6.47 in chips) 
+Seat 3: FeketeAdamAkos ($8.87 in chips) 
+Seat 5: Kesy17 ($14.56 in chips) 
+Seat 6: rushy0129 ($9.96 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+Rossy962: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Freedom4all3: calls $0.10
+Rossy962: checks 
+FeketeAdamAkos: calls $0.10
+Kesy17: calls $0.05
+rushy0129: checks 
+*** FLOP *** [Js 9d 4s]
+Kesy17: checks 
+rushy0129: checks 
+Freedom4all3: bets $0.26
+Rossy962: folds 
+FeketeAdamAkos: raises $0.54 to $0.80
+Kesy17: folds 
+rushy0129: folds 
+Freedom4all3: calls $0.54
+*** TURN *** [Js 9d 4s] [3c]
+Freedom4all3: checks 
+FeketeAdamAkos: bets $0.70
+Freedom4all3: calls $0.70
+*** RIVER *** [Js 9d 4s 3c] [Ah]
+Freedom4all3: bets $1.09
+FeketeAdamAkos: calls $1.09
+*** SHOW DOWN ***
+Freedom4all3: shows [Qs Td] (high card Ace)
+FeketeAdamAkos: shows [Jh 6h] (a pair of Jacks)
+FeketeAdamAkos collected $5.47 from pot
+*** SUMMARY ***
+Total pot $5.73 | Rake $0.26 
+Board [Js 9d 4s 3c Ah]
+Seat 1: Freedom4all3 showed [Qs Td] and lost with high card Ace
+Seat 2: Rossy962 folded on the Flop (didn't bet)
+Seat 3: FeketeAdamAkos (button) showed [Jh 6h] and won ($5.47) with a pair of Jacks
+Seat 5: Kesy17 (small blind) folded on the Flop
+Seat 6: rushy0129 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222979449271:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:15:51 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($8.48 in chips) 
+Seat 2: Rossy962 ($6.32 in chips) 
+Seat 3: FeketeAdamAkos ($11.65 in chips) 
+Seat 5: Kesy17 ($14.46 in chips) 
+Seat 6: rushy0129 ($9.86 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+*** HOLE CARDS ***
+Rossy962: raises $0.10 to $0.20
+FeketeAdamAkos: folds 
+Kesy17: folds 
+rushy0129: calls $0.15
+Freedom4all3: calls $0.10
+*** FLOP *** [5d 2h Qh]
+rushy0129: checks 
+Freedom4all3: checks 
+Rossy962: bets $0.30
+rushy0129: folds 
+Freedom4all3: calls $0.30
+*** TURN *** [5d 2h Qh] [5h]
+Freedom4all3: checks 
+Rossy962: checks 
+*** RIVER *** [5d 2h Qh 5h] [7d]
+Freedom4all3: bets $0.40
+Rossy962: calls $0.40
+*** SHOW DOWN ***
+Freedom4all3: shows [Qc 9c] (two pair, Queens and Fives)
+Rossy962: mucks hand 
+Freedom4all3 collected $1.91 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [5d 2h Qh 5h 7d]
+Seat 1: Freedom4all3 (big blind) showed [Qc 9c] and won ($1.91) with two pair, Queens and Fives
+Seat 2: Rossy962 mucked
+Seat 3: FeketeAdamAkos folded before Flop (didn't bet)
+Seat 5: Kesy17 (button) folded before Flop (didn't bet)
+Seat 6: rushy0129 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222979475491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:16:38 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($10 in chips) 
+Seat 2: Rossy962 ($5.42 in chips) 
+Seat 3: FeketeAdamAkos ($11.65 in chips) 
+Seat 5: Kesy17 ($14.46 in chips) 
+Seat 6: rushy0129 ($9.66 in chips) 
+Freedom4all3: posts small blind $0.05
+Rossy962: posts big blind $0.10
+*** HOLE CARDS ***
+FeketeAdamAkos: folds 
+Kesy17: raises $0.25 to $0.35
+rushy0129: calls $0.35
+Freedom4all3: folds 
+Rossy962: calls $0.25
+*** FLOP *** [Th Kd Kh]
+Rossy962: checks 
+Kesy17: bets $0.53
+rushy0129: calls $0.53
+Rossy962: folds 
+*** TURN *** [Th Kd Kh] [Ks]
+Kesy17: bets $2.06
+rushy0129: calls $2.06
+*** RIVER *** [Th Kd Kh Ks] [9d]
+Kesy17: checks 
+rushy0129: checks 
+*** SHOW DOWN ***
+Kesy17: shows [Jh Ad] (three of a kind, Kings)
+rushy0129: shows [5h 5d] (a full house, Kings full of Fives)
+rushy0129 collected $6 from pot
+*** SUMMARY ***
+Total pot $6.28 | Rake $0.28 
+Board [Th Kd Kh Ks 9d]
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 2: Rossy962 (big blind) folded on the Flop
+Seat 3: FeketeAdamAkos folded before Flop (didn't bet)
+Seat 5: Kesy17 showed [Jh Ad] and lost with three of a kind, Kings
+Seat 6: rushy0129 (button) showed [5h 5d] and won ($6) with a full house, Kings full of Fives
+
+
+
+PokerStars Hand #222979498072:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:17:20 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($9.95 in chips) 
+Seat 2: Rossy962 ($5.07 in chips) 
+Seat 3: FeketeAdamAkos ($11.65 in chips) 
+Seat 5: Kesy17 ($11.52 in chips) 
+Seat 6: rushy0129 ($12.72 in chips) 
+Rossy962: posts small blind $0.05
+FeketeAdamAkos: posts big blind $0.10
+*** HOLE CARDS ***
+Kesy17: folds 
+rushy0129: folds 
+Freedom4all3: raises $0.20 to $0.30
+Rossy962: folds 
+FeketeAdamAkos: folds 
+Uncalled bet ($0.20) returned to Freedom4all3
+Freedom4all3 collected $0.25 from pot
+Freedom4all3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Freedom4all3 (button) collected ($0.25)
+Seat 2: Rossy962 (small blind) folded before Flop
+Seat 3: FeketeAdamAkos (big blind) folded before Flop
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979508753:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:17:39 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: Rossy962 ($5.02 in chips) 
+Seat 3: FeketeAdamAkos ($11.55 in chips) 
+Seat 5: Kesy17 ($11.52 in chips) 
+Seat 6: rushy0129 ($12.72 in chips) 
+FeketeAdamAkos: posts small blind $0.05
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+rushy0129: folds 
+Freedom4all3: folds 
+Rossy962: raises $0.20 to $0.30
+FeketeAdamAkos: calls $0.25
+Kesy17: calls $0.20
+*** FLOP *** [7c 7h 4h]
+FeketeAdamAkos: bets $0.30
+Kesy17: raises $0.30 to $0.60
+Rossy962: folds 
+FeketeAdamAkos: calls $0.30
+*** TURN *** [7c 7h 4h] [6h]
+FeketeAdamAkos: checks 
+Kesy17: bets $2.01
+FeketeAdamAkos: calls $2.01
+*** RIVER *** [7c 7h 4h 6h] [Ks]
+FeketeAdamAkos: checks 
+Kesy17: bets $8.61 and is all-in
+FeketeAdamAkos: folds 
+Uncalled bet ($8.61) returned to Kesy17
+Kesy17 collected $5.84 from pot
+cwie210 was removed from the table for failing to post
+cwie210 leaves the table
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.12 | Rake $0.28 
+Board [7c 7h 4h 6h Ks]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: Rossy962 (button) folded on the Flop
+Seat 3: FeketeAdamAkos (small blind) folded on the River
+Seat 5: Kesy17 (big blind) collected ($5.84)
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979553751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:19:03 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: Rossy962 ($4.72 in chips) 
+Seat 3: FeketeAdamAkos ($8.64 in chips) 
+Seat 5: Kesy17 ($14.45 in chips) 
+Seat 6: rushy0129 ($12.72 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+Rossy962: folds 
+FeketeAdamAkos: calls $0.10
+Kesy17: folds 
+rushy0129: checks 
+*** FLOP *** [5d Kc 7c]
+rushy0129: checks 
+FeketeAdamAkos: bets $0.30
+rushy0129: calls $0.30
+*** TURN *** [5d Kc 7c] [6d]
+rushy0129: bets $0.50
+FeketeAdamAkos: calls $0.50
+*** RIVER *** [5d Kc 7c 6d] [6h]
+rushy0129: bets $1.30
+FeketeAdamAkos: folds 
+Uncalled bet ($1.30) returned to rushy0129
+rushy0129 collected $1.77 from pot
+rushy0129: doesn't show hand 
+8NORDLICHT8 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [5d Kc 7c 6d 6h]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: Rossy962 folded before Flop (didn't bet)
+Seat 3: FeketeAdamAkos (button) folded on the River
+Seat 5: Kesy17 (small blind) folded before Flop
+Seat 6: rushy0129 (big blind) collected ($1.77)
+
+
+
+PokerStars Hand #222979590138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:20:10 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($10.10 in chips) 
+Seat 2: Rossy962 ($4.72 in chips) 
+Seat 3: FeketeAdamAkos ($7.74 in chips) 
+Seat 5: Kesy17 ($14.40 in chips) 
+Seat 6: rushy0129 ($13.59 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+8NORDLICHT8: sits out 
+*** HOLE CARDS ***
+Rossy962: calls $0.10
+FeketeAdamAkos: calls $0.10
+Kesy17: folds 
+rushy0129: calls $0.05
+Freedom4all3: checks 
+*** FLOP *** [9c Td Js]
+rushy0129: checks 
+Freedom4all3: checks 
+Rossy962: checks 
+FeketeAdamAkos: bets $0.50
+rushy0129: calls $0.50
+Freedom4all3: folds 
+Rossy962: folds 
+*** TURN *** [9c Td Js] [Ts]
+rushy0129: bets $0.50
+FeketeAdamAkos: raises $1.70 to $2.20
+rushy0129: calls $1.70
+*** RIVER *** [9c Td Js Ts] [8s]
+rushy0129: bets $2.80
+FeketeAdamAkos: raises $2.14 to $4.94 and is all-in
+rushy0129: calls $2.14
+*** SHOW DOWN ***
+FeketeAdamAkos: shows [Qs 7d] (a straight, Eight to Queen)
+rushy0129: shows [3c Jh] (two pair, Jacks and Tens)
+FeketeAdamAkos collected $14.97 from pot
+*** SUMMARY ***
+Total pot $15.68 | Rake $0.71 
+Board [9c Td Js Ts 8s]
+Seat 1: Freedom4all3 (big blind) folded on the Flop
+Seat 2: Rossy962 folded on the Flop
+Seat 3: FeketeAdamAkos showed [Qs 7d] and won ($14.97) with a straight, Eight to Queen
+Seat 5: Kesy17 (button) folded before Flop (didn't bet)
+Seat 6: rushy0129 (small blind) showed [3c Jh] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #222979637605:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:21:39 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($10 in chips) 
+Seat 2: Rossy962 ($4.62 in chips) 
+Seat 3: FeketeAdamAkos ($14.97 in chips) 
+Seat 5: Kesy17 ($14.40 in chips) 
+Seat 6: rushy0129 ($5.85 in chips) 
+Freedom4all3: posts small blind $0.05
+Rossy962: posts big blind $0.10
+8NORDLICHT8: sits out 
+*** HOLE CARDS ***
+FeketeAdamAkos: calls $0.10
+Kesy17: raises $0.35 to $0.45
+rushy0129: folds 
+Freedom4all3: folds 
+Rossy962: calls $0.35
+FeketeAdamAkos: folds 
+*** FLOP *** [8d 3c Ks]
+Rossy962: checks 
+FeketeAdamAkos leaves the table
+Kesy17: bets $0.50
+Rossy962: folds 
+Uncalled bet ($0.50) returned to Kesy17
+Kesy17 collected $1 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8d 3c Ks]
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 2: Rossy962 (big blind) folded on the Flop
+Seat 3: FeketeAdamAkos folded before Flop
+Seat 5: Kesy17 collected ($1)
+Seat 6: rushy0129 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979650745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:22:04 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($9.95 in chips) 
+Seat 2: Rossy962 ($4.17 in chips) 
+Seat 4: 8NORDLICHT8 ($4 in chips) 
+Seat 5: Kesy17 ($14.95 in chips) 
+Seat 6: rushy0129 ($5.85 in chips) 
+Rossy962: posts small blind $0.05
+8NORDLICHT8: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit joins the table at seat #3 
+Kesy17: folds 
+rushy0129: calls $0.10
+Freedom4all3: folds 
+Rossy962: raises $0.40 to $0.50
+8NORDLICHT8: folds 
+rushy0129: calls $0.40
+*** FLOP *** [6h 2c 5h]
+Rossy962: bets $1.20
+8NORDLICHT8 leaves the table
+rushy0129: folds 
+Uncalled bet ($1.20) returned to Rossy962
+Rossy962 collected $1.05 from pot
+Rossy962: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6h 2c 5h]
+Seat 1: Freedom4all3 (button) folded before Flop (didn't bet)
+Seat 2: Rossy962 (small blind) collected ($1.05)
+Seat 4: 8NORDLICHT8 (big blind) folded before Flop
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: rushy0129 folded on the Flop
+
+
+
+PokerStars Hand #222979669931:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:22:40 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($9.95 in chips) 
+Seat 2: Rossy962 ($4.72 in chips) 
+Seat 5: Kesy17 ($14.95 in chips) 
+Seat 6: rushy0129 ($5.35 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+Rossy962: folds 
+Kesy17: calls $0.05
+luisperse joins the table at seat #4 
+rushy0129: checks 
+*** FLOP *** [5h 2d 4d]
+Kesy17: bets $0.10
+rushy0129: calls $0.10
+*** TURN *** [5h 2d 4d] [6h]
+Kesy17: bets $0.38
+rushy0129: raises $1.38 to $1.76
+Kesy17: raises $12.99 to $14.75 and is all-in
+rushy0129: folds 
+Uncalled bet ($12.99) returned to Kesy17
+Kesy17 collected $3.74 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.92 | Rake $0.18 
+Board [5h 2d 4d 6h]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: Rossy962 (button) folded before Flop (didn't bet)
+Seat 5: Kesy17 (small blind) collected ($3.74)
+Seat 6: rushy0129 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222979691116:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:23:20 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($9.95 in chips) 
+Seat 2: Rossy962 ($4.72 in chips) 
+Seat 4: luisperse ($4 in chips) 
+Seat 5: Kesy17 ($16.73 in chips) 
+Seat 6: rushy0129 ($3.39 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+Corpit: sits out 
+luisperse: posts big blind $0.10
+*** HOLE CARDS ***
+Rossy962: calls $0.10
+luisperse: raises $0.10 to $0.20
+Kesy17: folds 
+rushy0129: folds 
+Freedom4all3: folds 
+Rossy962: calls $0.10
+*** FLOP *** [Jh Ts 8h]
+Rossy962: checks 
+luisperse: checks 
+*** TURN *** [Jh Ts 8h] [7s]
+Rossy962: bets $0.20
+luisperse: folds 
+Uncalled bet ($0.20) returned to Rossy962
+Rossy962 collected $0.53 from pot
+Rossy962: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Jh Ts 8h 7s]
+Seat 1: Freedom4all3 (big blind) folded before Flop
+Seat 2: Rossy962 collected ($0.53)
+Seat 4: luisperse folded on the Turn
+Seat 5: Kesy17 (button) folded before Flop (didn't bet)
+Seat 6: rushy0129 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979708160:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:23:52 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($9.85 in chips) 
+Seat 2: Rossy962 ($5.05 in chips) 
+Seat 4: luisperse ($3.80 in chips) 
+Seat 5: Kesy17 ($16.73 in chips) 
+Seat 6: rushy0129 ($3.34 in chips) 
+Freedom4all3: posts small blind $0.05
+Rossy962: posts big blind $0.10
+Corpit: sits out 
+*** HOLE CARDS ***
+luisperse: folds 
+Kesy17: calls $0.10
+rushy0129: folds 
+Freedom4all3: folds 
+Rossy962: checks 
+*** FLOP *** [Th 9s Js]
+Rossy962: bets $0.20
+Kesy17: folds 
+Uncalled bet ($0.20) returned to Rossy962
+Rossy962 collected $0.24 from pot
+Rossy962: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Th 9s Js]
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 2: Rossy962 (big blind) collected ($0.24)
+Seat 4: luisperse folded before Flop (didn't bet)
+Seat 5: Kesy17 folded on the Flop
+Seat 6: rushy0129 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979718440:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:24:11 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($9.80 in chips) 
+Seat 2: Rossy962 ($5.19 in chips) 
+Seat 3: Corpit ($10 in chips) 
+Seat 4: luisperse ($3.80 in chips) 
+Seat 5: Kesy17 ($16.63 in chips) 
+Seat 6: rushy0129 ($3.34 in chips) 
+Rossy962: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+luisperse has timed out
+luisperse: folds 
+Kesy17: folds 
+rushy0129: calls $0.10
+Freedom4all3: raises $0.35 to $0.45
+Rossy962: calls $0.40
+Corpit: folds 
+rushy0129: calls $0.35
+*** FLOP *** [Qs 9d Jc]
+Rossy962: checks 
+rushy0129: bets $0.40
+Freedom4all3: calls $0.40
+Rossy962: folds 
+*** TURN *** [Qs 9d Jc] [3s]
+rushy0129: bets $0.70
+Freedom4all3: calls $0.70
+*** RIVER *** [Qs 9d Jc 3s] [Qh]
+rushy0129: bets $1.79 and is all-in
+Freedom4all3: folds 
+Uncalled bet ($1.79) returned to rushy0129
+rushy0129 collected $3.49 from pot
+rushy0129: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.16 
+Board [Qs 9d Jc 3s Qh]
+Seat 1: Freedom4all3 (button) folded on the River
+Seat 2: Rossy962 (small blind) folded on the Flop
+Seat 3: Corpit (big blind) folded before Flop
+Seat 4: luisperse folded before Flop (didn't bet)
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: rushy0129 collected ($3.49)
+
+
+
+PokerStars Hand #222979758941:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:25:28 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($8.25 in chips) 
+Seat 2: Rossy962 ($4.74 in chips) 
+Seat 3: Corpit ($10 in chips) 
+Seat 5: Kesy17 ($16.63 in chips) 
+Seat 6: rushy0129 ($5.28 in chips) 
+Corpit: posts small blind $0.05
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+rushy0129: folds 
+Freedom4all3: folds 
+Rossy962: raises $0.20 to $0.30
+Corpit: calls $0.25
+Kesy17: calls $0.20
+*** FLOP *** [Js 9d 8c]
+Corpit: checks 
+Kesy17: checks 
+Rossy962: bets $0.40
+Corpit: calls $0.40
+Kesy17: calls $0.40
+*** TURN *** [Js 9d 8c] [Tc]
+Corpit: bets $1.51
+Kesy17: raises $1.51 to $3.02
+Rossy962: raises $1.02 to $4.04 and is all-in
+Corpit: raises $5.26 to $9.30 and is all-in
+Kesy17: calls $6.28
+*** RIVER *** [Js 9d 8c Tc] [4c]
+*** SHOW DOWN ***
+Corpit: shows [Jd Qd] (a straight, Eight to Queen)
+Kesy17: shows [6s Qh] (a straight, Eight to Queen)
+Corpit collected $5.03 from side pot
+Kesy17 collected $5.02 from side pot
+Rossy962: shows [Ad Qc] (a straight, Eight to Queen)
+Corpit collected $4.53 from main pot
+Kesy17 collected $4.53 from main pot
+Rossy962 collected $4.52 from main pot
+*** SUMMARY ***
+Total pot $24.74 Main pot $13.58. Side pot $10.05. | Rake $1.11 
+Board [Js 9d 8c Tc 4c]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: Rossy962 (button) showed [Ad Qc] and won ($4.52) with a straight, Eight to Queen
+Seat 3: Corpit (small blind) showed [Jd Qd] and won ($9.56) with a straight, Eight to Queen
+Seat 5: Kesy17 (big blind) showed [6s Qh] and won ($9.55) with a straight, Eight to Queen
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979789407:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:26:26 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($10 in chips) 
+Seat 2: Rossy962 ($4.52 in chips) 
+Seat 3: Corpit ($10 in chips) 
+Seat 5: Kesy17 ($16.18 in chips) 
+Seat 6: rushy0129 ($5.28 in chips) 
+Kesy17: posts small blind $0.05
+rushy0129: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: raises $0.20 to $0.30
+Rossy962: folds 
+Corpit: folds 
+Kesy17: folds 
+rushy0129: calls $0.20
+*** FLOP *** [Kc 9c Js]
+rushy0129: bets $0.50
+Freedom4all3: calls $0.50
+*** TURN *** [Kc 9c Js] [2c]
+rushy0129: checks 
+Freedom4all3: checks 
+*** RIVER *** [Kc 9c Js 2c] [Qc]
+rushy0129: bets $0.90
+Freedom4all3: calls $0.90
+*** SHOW DOWN ***
+rushy0129: shows [Jh Qs] (two pair, Queens and Jacks)
+Freedom4all3: shows [Jd Jc] (a flush, King high)
+Freedom4all3 collected $3.29 from pot
+*** SUMMARY ***
+Total pot $3.45 | Rake $0.16 
+Board [Kc 9c Js 2c Qc]
+Seat 1: Freedom4all3 showed [Jd Jc] and won ($3.29) with a flush, King high
+Seat 2: Rossy962 folded before Flop (didn't bet)
+Seat 3: Corpit (button) folded before Flop (didn't bet)
+Seat 5: Kesy17 (small blind) folded before Flop
+Seat 6: rushy0129 (big blind) showed [Jh Qs] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222979818325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:27:16 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($11.59 in chips) 
+Seat 2: Rossy962 ($4.52 in chips) 
+Seat 3: Corpit ($10 in chips) 
+Seat 5: Kesy17 ($16.13 in chips) 
+Seat 6: rushy0129 ($3.58 in chips) 
+rushy0129: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+*** HOLE CARDS ***
+Rossy962: raises $0.10 to $0.20
+Corpit: folds 
+Kesy17: folds 
+rushy0129: calls $0.15
+Freedom4all3: calls $0.10
+*** FLOP *** [3c 4d 4s]
+rushy0129: checks 
+Freedom4all3: checks 
+Rossy962: bets $0.30
+rushy0129: folds 
+Freedom4all3: folds 
+Uncalled bet ($0.30) returned to Rossy962
+Rossy962 collected $0.57 from pot
+Rossy962: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3c 4d 4s]
+Seat 1: Freedom4all3 (big blind) folded on the Flop
+Seat 2: Rossy962 collected ($0.57)
+Seat 3: Corpit folded before Flop (didn't bet)
+Seat 5: Kesy17 (button) folded before Flop (didn't bet)
+Seat 6: rushy0129 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222979833827:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:27:45 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($11.39 in chips) 
+Seat 2: Rossy962 ($4.89 in chips) 
+Seat 3: Corpit ($10 in chips) 
+Seat 5: Kesy17 ($16.13 in chips) 
+Seat 6: rushy0129 ($3.38 in chips) 
+Freedom4all3: posts small blind $0.05
+Rossy962: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: raises $0.20 to $0.30
+Kesy17: calls $0.30
+rushy0129: calls $0.30
+Freedom4all3: folds 
+Rossy962: calls $0.20
+*** FLOP *** [4s Qs 6c]
+Rossy962: checks 
+Corpit: checks 
+Kesy17: checks 
+rushy0129: checks 
+*** TURN *** [4s Qs 6c] [Qd]
+Rossy962: checks 
+Corpit: bets $0.39
+Kesy17: calls $0.39
+rushy0129: calls $0.39
+Rossy962: folds 
+*** RIVER *** [4s Qs 6c Qd] [3s]
+Corpit: bets $1.90
+Kesy17: calls $1.90
+rushy0129: folds 
+*** SHOW DOWN ***
+Corpit: shows [As 6s] (a flush, Ace high)
+Kesy17: mucks hand 
+Corpit collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.22 | Rake $0.28 
+Board [4s Qs 6c Qd 3s]
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 2: Rossy962 (big blind) folded on the Turn
+Seat 3: Corpit showed [As 6s] and won ($5.94) with a flush, Ace high
+Seat 5: Kesy17 mucked
+Seat 6: rushy0129 (button) folded on the River
+
+
+
+PokerStars Hand #222979856444:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:28 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($11.34 in chips) 
+Seat 2: Rossy962 ($4.59 in chips) 
+Seat 3: Corpit ($13.35 in chips) 
+Seat 5: Kesy17 ($13.54 in chips) 
+Seat 6: rushy0129 ($2.69 in chips) 
+Rossy962: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+Kesy17: raises $0.25 to $0.35
+rushy0129: folds 
+Freedom4all3: folds 
+Rossy962: folds 
+rushy0129 leaves the table
+Corpit: folds 
+Uncalled bet ($0.25) returned to Kesy17
+Kesy17 collected $0.25 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Freedom4all3 (button) folded before Flop (didn't bet)
+Seat 2: Rossy962 (small blind) folded before Flop
+Seat 3: Corpit (big blind) folded before Flop
+Seat 5: Kesy17 collected ($0.25)
+Seat 6: rushy0129 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979865191:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:45 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($11.34 in chips) 
+Seat 2: Rossy962 ($4.54 in chips) 
+Seat 3: Corpit ($13.25 in chips) 
+Seat 5: Kesy17 ($13.69 in chips) 
+Corpit: posts small blind $0.05
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+Rossy962: calls $0.10
+Corpit: calls $0.05
+Kesy17: raises $0.30 to $0.40
+Rossy962: calls $0.30
+Corpit: calls $0.30
+*** FLOP *** [Ah 4d Qh]
+Black021 joins the table at seat #6 
+Corpit: checks 
+Kesy17: bets $0.58
+Rossy962: folds 
+Corpit: folds 
+Uncalled bet ($0.58) returned to Kesy17
+Kesy17 collected $1.15 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Ah 4d Qh]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: Rossy962 (button) folded on the Flop
+Seat 3: Corpit (small blind) folded on the Flop
+Seat 5: Kesy17 (big blind) collected ($1.15)
+
+
+
+PokerStars Hand #222979888529:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:30 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($11.34 in chips) 
+Seat 2: Rossy962 ($4.14 in chips) 
+Seat 3: Corpit ($12.85 in chips) 
+Seat 5: Kesy17 ($14.44 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Kesy17: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+Rossy962: calls $0.10
+Corpit: folds 
+Kesy17: calls $0.05
+Black021: checks 
+*** FLOP *** [3h 2h 3c]
+Kesy17: bets $0.29
+Black021: folds 
+Rossy962: raises $3.75 to $4.04 and is all-in
+Kesy17: calls $3.75
+*** TURN *** [3h 2h 3c] [7h]
+*** RIVER *** [3h 2h 3c 7h] [9s]
+*** SHOW DOWN ***
+Kesy17: shows [3s Js] (three of a kind, Threes)
+Rossy962: shows [5d 2d] (two pair, Threes and Deuces)
+Kesy17 collected $8 from pot
+*** SUMMARY ***
+Total pot $8.38 | Rake $0.38 
+Board [3h 2h 3c 7h 9s]
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 2: Rossy962 showed [5d 2d] and lost with two pair, Threes and Deuces
+Seat 3: Corpit (button) folded before Flop (didn't bet)
+Seat 5: Kesy17 (small blind) showed [3s Js] and won ($8) with three of a kind, Threes
+Seat 6: Black021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222979904037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:30:00 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($11.34 in chips) 
+Seat 3: Corpit ($12.85 in chips) 
+Seat 4: luisperse ($3.80 in chips) 
+Seat 5: Kesy17 ($18.30 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Black021: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+luisperse: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Corpit: folds 
+luisperse: checks 
+Kesy17: raises $0.20 to $0.30
+Black021: folds 
+Freedom4all3: folds 
+luisperse: calls $0.20
+*** FLOP *** [Ac Js 4d]
+luisperse: checks 
+Kesy17: bets $0.76
+luisperse: folds 
+Uncalled bet ($0.76) returned to Kesy17
+Kesy17 collected $0.76 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Ac Js 4d]
+Seat 1: Freedom4all3 (big blind) folded before Flop
+Seat 3: Corpit folded before Flop (didn't bet)
+Seat 4: luisperse folded on the Flop
+Seat 5: Kesy17 (button) collected ($0.76)
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979920250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:30:31 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($11.24 in chips) 
+Seat 3: Corpit ($12.85 in chips) 
+Seat 4: luisperse ($3.45 in chips) 
+Seat 5: Kesy17 ($18.76 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Freedom4all3: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+luisperse: raises $0.25 to $0.35
+Kesy17: folds 
+Black021: folds 
+Freedom4all3: calls $0.30
+Corpit: calls $0.25
+*** FLOP *** [4s 7c 5c]
+Freedom4all3: checks 
+Corpit: checks 
+luisperse: bets $1
+Freedom4all3: calls $1
+Corpit: folds 
+*** TURN *** [4s 7c 5c] [Th]
+Freedom4all3: checks 
+luisperse: bets $2.10 and is all-in
+Freedom4all3: calls $2.10
+*** RIVER *** [4s 7c 5c Th] [5h]
+*** SHOW DOWN ***
+Freedom4all3: shows [6s 6h] (two pair, Sixes and Fives)
+luisperse: shows [Jh Kd] (a pair of Fives)
+Freedom4all3 collected $6.92 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.33 
+Board [4s 7c 5c Th 5h]
+Seat 1: Freedom4all3 (small blind) showed [6s 6h] and won ($6.92) with two pair, Sixes and Fives
+Seat 3: Corpit (big blind) folded on the Flop
+Seat 4: luisperse showed [Jh Kd] and lost with a pair of Fives
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979941715:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:12 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($14.71 in chips) 
+Seat 3: Corpit ($12.50 in chips) 
+Seat 5: Kesy17 ($18.76 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Corpit: posts small blind $0.05
+Kesy17: posts big blind $0.10
+*** HOLE CARDS ***
+luisperse leaves the table
+Black021: raises $0.15 to $0.25
+Freedom4all3: calls $0.25
+Corpit: folds 
+Kesy17: folds 
+*** FLOP *** [Kh 5c 2c]
+Black021: checks 
+Freedom4all3: checks 
+*** TURN *** [Kh 5c 2c] [Ah]
+Zimniy joins the table at seat #4 
+Black021: checks 
+Freedom4all3: bets $0.31
+Black021: folds 
+Uncalled bet ($0.31) returned to Freedom4all3
+Freedom4all3 collected $0.62 from pot
+Freedom4all3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Kh 5c 2c Ah]
+Seat 1: Freedom4all3 (button) collected ($0.62)
+Seat 3: Corpit (small blind) folded before Flop
+Seat 5: Kesy17 (big blind) folded before Flop
+Seat 6: Black021 folded on the Turn
+
+
+
+PokerStars Hand #222979956425:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:41 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($15.08 in chips) 
+Seat 3: Corpit ($12.45 in chips) 
+Seat 5: Kesy17 ($18.66 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Kesy17: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+Freedom4all3: folds 
+Corpit: folds 
+Kesy17: raises $0.20 to $0.30
+Black021: folds 
+Uncalled bet ($0.20) returned to Kesy17
+Kesy17 collected $0.20 from pot
+Kesy17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 3: Corpit (button) folded before Flop (didn't bet)
+Seat 5: Kesy17 (small blind) collected ($0.20)
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979962183:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:52 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($15.08 in chips) 
+Seat 3: Corpit ($12.45 in chips) 
+Seat 5: Kesy17 ($18.76 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Black021: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+Zimniy: sits out 
+*** HOLE CARDS ***
+Corpit: folds 
+Kesy17: folds 
+Black021: raises $0.17 to $0.27
+Freedom4all3: raises $0.54 to $0.81
+Black021: folds 
+Uncalled bet ($0.54) returned to Freedom4all3
+Freedom4all3 collected $0.54 from pot
+Freedom4all3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0 
+Seat 1: Freedom4all3 (big blind) collected ($0.54)
+Seat 3: Corpit folded before Flop (didn't bet)
+Seat 5: Kesy17 (button) folded before Flop (didn't bet)
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979970997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:09 ET
+Table 'Bharani II' 6-max Seat #6 is the button
+Seat 1: Freedom4all3 ($15.35 in chips) 
+Seat 3: Corpit ($12.45 in chips) 
+Seat 5: Kesy17 ($18.76 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Freedom4all3: posts small blind $0.05
+Corpit: posts big blind $0.10
+Zimniy: sits out 
+*** HOLE CARDS ***
+Kesy17: folds 
+Black021: folds 
+Kesy17 leaves the table
+Freedom4all3: folds 
+Uncalled bet ($0.05) returned to Corpit
+Corpit collected $0.10 from pot
+Rossy962 leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 3: Corpit (big blind) collected ($0.10)
+Seat 5: Kesy17 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979984193:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:19 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($15.30 in chips) 
+Seat 3: Corpit ($12.50 in chips) 
+Seat 4: Zimniy ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Corpit: posts small blind $0.05
+Zimniy: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: raises $0.15 to $0.25
+Freedom4all3: folds 
+MrMsry joins the table at seat #5 
+Corpit: folds 
+Zimniy: raises $0.75 to $1
+Black021: folds 
+Uncalled bet ($0.75) returned to Zimniy
+Zimniy collected $0.55 from pot
+Zimniy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: Freedom4all3 (button) folded before Flop (didn't bet)
+Seat 3: Corpit (small blind) folded before Flop
+Seat 4: Zimniy (big blind) collected ($0.55)
+Seat 6: Black021 folded before Flop
+
+
+
+PokerStars Hand #222979995096:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:40 ET
+Table 'Bharani II' 6-max Seat #3 is the button
+Seat 1: Freedom4all3 ($15.30 in chips) 
+Seat 3: Corpit ($12.45 in chips) 
+Seat 4: Zimniy ($10.30 in chips) 
+Seat 5: MrMsry ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Zimniy: posts small blind $0.05
+MrMsry: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+Freedom4all3: folds 
+Corpit: folds 
+Black021 leaves the table
+Zimniy: folds 
+Uncalled bet ($0.05) returned to MrMsry
+MrMsry collected $0.10 from pot
+MrMsry: doesn't show hand 
+Dimas.irk joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Freedom4all3 folded before Flop (didn't bet)
+Seat 3: Corpit (button) folded before Flop (didn't bet)
+Seat 4: Zimniy (small blind) folded before Flop
+Seat 5: MrMsry (big blind) collected ($0.10)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980001630:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:53 ET
+Table 'Bharani II' 6-max Seat #4 is the button
+Seat 1: Freedom4all3 ($15.30 in chips) 
+Seat 3: Corpit ($12.45 in chips) 
+Seat 4: Zimniy ($10.25 in chips) 
+Seat 5: MrMsry ($10.05 in chips) 
+MrMsry: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+Dimas.irk: sits out 
+*** HOLE CARDS ***
+Corpit: folds 
+Zimniy: raises $0.15 to $0.25
+MrMsry: folds 
+Freedom4all3: folds 
+Uncalled bet ($0.15) returned to Zimniy
+Zimniy collected $0.25 from pot
+Zimniy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Freedom4all3 (big blind) folded before Flop
+Seat 3: Corpit folded before Flop (didn't bet)
+Seat 4: Zimniy (button) collected ($0.25)
+Seat 5: MrMsry (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980009086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:33:07 ET
+Table 'Bharani II' 6-max Seat #5 is the button
+Seat 1: Freedom4all3 ($15.20 in chips) 
+Seat 2: Dimas.irk ($10 in chips) 
+Seat 3: Corpit ($12.45 in chips) 
+Seat 4: Zimniy ($10.40 in chips) 
+Seat 5: MrMsry ($10 in chips) 
+Freedom4all3: posts small blind $0.05
+Dimas.irk: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: raises $0.20 to $0.30
+Zimniy: folds 
+MrMsry: folds 
+Freedom4all3: folds 
+Dimas.irk: folds 
+Uncalled bet ($0.20) returned to Corpit
+Corpit collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Freedom4all3 (small blind) folded before Flop
+Seat 2: Dimas.irk (big blind) folded before Flop
+Seat 3: Corpit collected ($0.25)
+Seat 4: Zimniy folded before Flop (didn't bet)
+Seat 5: MrMsry (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980018988:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:33:27 ET
+Table 'Bharani II' 6-max Seat #1 is the button
+Seat 1: Freedom4all3 ($15.15 in chips) 
+Seat 2: Dimas.irk ($9.90 in chips) 
+Seat 5: MrMsry ($10 in chips) 
+Dimas.irk: posts small blind $0.05
+Corpit: is sitting out 
+Zimniy: is sitting out 
+MrMsry: posts big blind $0.10
+*** HOLE CARDS ***
+Zimniy leaves the table
+Freedom4all3: folds 
+Dimas.irk: raises $0.20 to $0.30
+MrMsry: folds 
+Uncalled bet ($0.20) returned to Dimas.irk
+Dimas.irk collected $0.20 from pot
+Dimas.irk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Freedom4all3 (button) folded before Flop (didn't bet)
+Seat 2: Dimas.irk (small blind) collected ($0.20)
+Seat 5: MrMsry (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980026784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:33:42 ET
+Table 'Bharani II' 6-max Seat #2 is the button
+Seat 1: Freedom4all3 ($15.15 in chips) 
+Seat 2: Dimas.irk ($10 in chips) 
+Seat 5: MrMsry ($10 in chips) 
+MrMsry: posts small blind $0.05
+Freedom4all3: posts big blind $0.10
+*** HOLE CARDS ***
+Dimas.irk: raises $0.20 to $0.30
+Corpit leaves the table
+MrMsry: folds 
+Freedom4all3: folds 
+Uncalled bet ($0.20) returned to Dimas.irk
+Dimas.irk collected $0.25 from pot
+Dimas.irk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Freedom4all3 (big blind) folded before Flop
+Seat 2: Dimas.irk (button) collected ($0.25)
+Seat 5: MrMsry (small blind) folded before Flop
+
+
+

@@ -1,0 +1,2882 @@
+﻿PokerStars Hand #222970869016:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:01:20 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: larisa1218 ($20.15 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: cramm84 ($2.23 in chips) 
+Seat 6: Seamen32 ($2 in chips) 
+W4R4N: posts small blind $0.05
+cramm84: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld: folds 
+larisa1218: folds 
+robotov: raises $0.15 to $0.25
+W4R4N: folds 
+cramm84: folds 
+Uncalled bet ($0.15) returned to robotov
+cramm84 leaves the table
+robotov collected $0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: larisa1218 folded before Flop (didn't bet)
+Seat 3: robotov (button) collected ($0.25)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: cramm84 (big blind) folded before Flop
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970880487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:01:35 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: larisa1218 ($20.15 in chips) 
+Seat 3: robotov ($10.15 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 6: Seamen32 ($2 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+larisa1218: calls $0.10
+robotov: folds 
+dancayamanda joins the table at seat #5 
+W4R4N: calls $0.10
+Seamen32: calls $0.05
+iwinflipld: checks 
+*** FLOP *** [Kd Jh Ad]
+Seamen32: bets $0.30
+iwinflipld: folds 
+larisa1218: calls $0.30
+W4R4N: folds 
+*** TURN *** [Kd Jh Ad] [8c]
+Seamen32: checks 
+larisa1218: checks 
+*** RIVER *** [Kd Jh Ad 8c] [Ts]
+Seamen32: bets $0.48
+larisa1218: calls $0.48
+*** SHOW DOWN ***
+Seamen32: shows [3h Ah] (a pair of Aces)
+larisa1218: mucks hand 
+Seamen32 collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [Kd Jh Ad 8c Ts]
+Seat 1: iwinflipld (big blind) folded on the Flop
+Seat 2: larisa1218 mucked
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded on the Flop
+Seat 6: Seamen32 (small blind) showed [3h Ah] and won ($1.87) with a pair of Aces
+
+
+
+PokerStars Hand #222970920016:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:02:27 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: larisa1218 ($19.27 in chips) 
+Seat 3: robotov ($10.15 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 6: Seamen32 ($2.99 in chips) 
+iwinflipld: posts small blind $0.05
+larisa1218: posts big blind $0.10
+dancayamanda: sits out 
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+Seamen32: folds 
+iwinflipld: raises $0.20 to $0.30
+larisa1218: calls $0.20
+*** FLOP *** [3c 9h 3d]
+iwinflipld: checks 
+larisa1218: bets $0.30
+iwinflipld: folds 
+Uncalled bet ($0.30) returned to larisa1218
+larisa1218 collected $0.57 from pot
+larisa1218: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3c 9h 3d]
+Seat 1: iwinflipld (small blind) folded on the Flop
+Seat 2: larisa1218 (big blind) collected ($0.57)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970938591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:02:50 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: larisa1218 ($19.54 in chips) 
+Seat 3: robotov ($10.15 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 6: Seamen32 ($2.99 in chips) 
+larisa1218: posts small blind $0.05
+robotov: posts big blind $0.10
+dancayamanda: sits out 
+*** HOLE CARDS ***
+W4R4N: folds 
+Seamen32: raises $0.10 to $0.20
+iwinflipld: folds 
+larisa1218: raises $0.60 to $0.80
+robotov: folds 
+Seamen32: folds 
+Uncalled bet ($0.60) returned to larisa1218
+larisa1218 collected $0.50 from pot
+larisa1218: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: larisa1218 (small blind) collected ($0.50)
+Seat 3: robotov (big blind) folded before Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop
+
+
+
+PokerStars Hand #222970981518:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:03:44 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: larisa1218 ($19.84 in chips) 
+Seat 3: robotov ($10.05 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 6: Seamen32 ($2.79 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+dancayamanda: sits out 
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld: folds 
+larisa1218: calls $0.10
+robotov: folds 
+W4R4N: checks 
+*** FLOP *** [Ac 4d 7s]
+W4R4N: checks 
+larisa1218: checks 
+*** TURN *** [Ac 4d 7s] [9d]
+W4R4N: bets $0.14
+larisa1218: raises $0.14 to $0.28
+W4R4N: folds 
+Uncalled bet ($0.14) returned to larisa1218
+larisa1218 collected $0.51 from pot
+larisa1218: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ac 4d 7s 9d]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: larisa1218 (button) collected ($0.51)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) folded on the Turn
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971013125:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:04:21 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: larisa1218 ($20.11 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($2.79 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld: raises $0.20 to $0.30
+larisa1218: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.80 to $1.10
+iwinflipld: folds 
+Uncalled bet ($0.80) returned to dancayamanda
+dancayamanda collected $0.65 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: iwinflipld folded before Flop
+Seat 2: larisa1218 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) collected ($0.65)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971038009:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:04:51 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: larisa1218 ($20.11 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.35 in chips) 
+Seat 6: Seamen32 ($2.79 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+larisa1218: calls $0.10
+robotov has timed out
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: raises $0.10 to $0.20
+larisa1218: calls $0.10
+*** FLOP *** [6d 5h 6s]
+Seamen32: checks 
+larisa1218: bets $0.80
+Seamen32: raises $1.79 to $2.59 and is all-in
+larisa1218: calls $1.79
+*** TURN *** [6d 5h 6s] [5c]
+*** RIVER *** [6d 5h 6s 5c] [Ts]
+*** SHOW DOWN ***
+Seamen32: shows [Jd Kh] (two pair, Sixes and Fives)
+larisa1218: shows [8c 5s] (a full house, Fives full of Sixes)
+larisa1218 collected $5.38 from pot
+*** SUMMARY ***
+Total pot $5.63 | Rake $0.25 
+Board [6d 5h 6s 5c Ts]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: larisa1218 showed [8c 5s] and won ($5.38) with a full house, Fives full of Sixes
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) showed [Jd Kh] and lost with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #222971083332:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:05:45 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: larisa1218 ($22.70 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.30 in chips) 
+iwinflipld: posts small blind $0.05
+larisa1218: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+iwinflipld: raises $0.20 to $0.30
+larisa1218: folds 
+Uncalled bet ($0.20) returned to iwinflipld
+iwinflipld collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iwinflipld (small blind) collected ($0.20)
+Seat 2: larisa1218 (big blind) folded before Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971097960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:06:03 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10.10 in chips) 
+Seat 2: larisa1218 ($22.60 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.30 in chips) 
+larisa1218: posts small blind $0.05
+robotov: posts big blind $0.10
+Seamen32: sits out 
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+iwinflipld: raises $0.65 to $0.90
+larisa1218: folds 
+robotov: folds 
+dancayamanda: folds 
+Uncalled bet ($0.65) returned to iwinflipld
+larisa1218 leaves the table
+iwinflipld collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: iwinflipld (button) collected ($0.65)
+Seat 2: larisa1218 (small blind) folded before Flop
+Seat 3: robotov (big blind) folded before Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop
+
+
+
+PokerStars Hand #222971118837:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:06:28 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10.50 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.05 in chips) 
+Seat 6: Seamen32 ($5 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+Seamen32: posts small blind $0.05
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809 joins the table at seat #2 
+robotov: raises $0.15 to $0.25
+W4R4N: folds 
+dancayamanda: folds 
+Uncalled bet ($0.15) returned to robotov
+robotov collected $0.30 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 3: robotov (button) collected ($0.30)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) folded before Flop
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971144387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:06:58 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10.50 in chips) 
+Seat 3: robotov ($10.20 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($4.95 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+Berry1809: sits out 
+*** HOLE CARDS ***
+iwinflipld: folds 
+robotov: folds 
+W4R4N: raises $0.25 to $0.35
+dancayamanda: folds 
+Seamen32: calls $0.25
+*** FLOP *** [Ad 9c Jh]
+Seamen32: bets $0.20
+W4R4N: calls $0.20
+*** TURN *** [Ad 9c Jh] [Ac]
+Seamen32: bets $0.30
+W4R4N: calls $0.30
+*** RIVER *** [Ad 9c Jh Ac] [5c]
+Seamen32: bets $0.84
+W4R4N: folds 
+Uncalled bet ($0.84) returned to Seamen32
+Seamen32 collected $1.67 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Ad 9c Jh Ac 5c]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded on the River
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) collected ($1.67)
+
+
+
+PokerStars Hand #222971196071:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:08:00 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10.50 in chips) 
+Seat 3: robotov ($10.20 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($5.77 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+Berry1809: sits out 
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.05
+iwinflipld: checks 
+*** FLOP *** [8s Ah Js]
+Seamen32: bets $0.20
+iwinflipld: folds 
+Uncalled bet ($0.20) returned to Seamen32
+Seamen32 collected $0.19 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8s Ah Js]
+Seat 1: iwinflipld (big blind) folded on the Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+Seat 6: Seamen32 (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #222971215082:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:08:23 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10.40 in chips) 
+Seat 2: Berry1809 ($8 in chips) 
+Seat 3: robotov ($10.20 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($5.86 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov has timed out
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.10
+iwinflipld: folds 
+Berry1809: checks 
+*** FLOP *** [Qc 2s 4c]
+Berry1809: bets $0.10
+Seamen32: folds 
+Uncalled bet ($0.10) returned to Berry1809
+Berry1809 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc 2s 4c]
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: Berry1809 (big blind) collected ($0.24)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded on the Flop
+
+
+
+PokerStars Hand #222971257646:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:09:15 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10.35 in chips) 
+Seat 2: Berry1809 ($8.14 in chips) 
+Seat 3: robotov ($10.20 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($5.76 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: folds 
+robotov: calls $0.15
+*** FLOP *** [Qs 8h Qc]
+robotov: checks 
+dancayamanda: bets $0.17
+robotov: calls $0.17
+*** TURN *** [Qs 8h Qc] [Ad]
+robotov: checks 
+dancayamanda: bets $0.64
+robotov: folds 
+Uncalled bet ($0.64) returned to dancayamanda
+dancayamanda collected $0.85 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [Qs 8h Qc Ad]
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) folded on the Turn
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda collected ($0.85)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971295748:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:10:00 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($10.35 in chips) 
+Seat 2: Berry1809 ($8.09 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.43 in chips) 
+Seat 6: Seamen32 ($5.76 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32 has timed out
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: raises $0.10 to $0.20
+robotov: folds 
+W4R4N: calls $0.10
+*** FLOP *** [9d 7d 4c]
+W4R4N: checks 
+Berry1809: bets $0.30
+W4R4N: folds 
+Uncalled bet ($0.30) returned to Berry1809
+Berry1809 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9d 7d 4c]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 (button) collected ($0.43)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) folded on the Flop
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971325010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:10:34 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10.35 in chips) 
+Seat 2: Berry1809 ($8.32 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.43 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+Berry1809: folds 
+robotov: raises $0.15 to $0.25
+W4R4N: calls $0.20
+dancayamanda: folds 
+*** FLOP *** [2s 6s 6h]
+W4R4N: checks 
+robotov: bets $0.19
+W4R4N: calls $0.19
+*** TURN *** [2s 6s 6h] [Kd]
+W4R4N: checks 
+robotov: checks 
+*** RIVER *** [2s 6s 6h Kd] [Qh]
+W4R4N: bets $0.62
+robotov: folds 
+Uncalled bet ($0.62) returned to W4R4N
+W4R4N collected $0.94 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [2s 6s 6h Kd Qh]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded on the River
+Seat 4: W4R4N (small blind) collected ($0.94)
+Seat 5: dancayamanda (big blind) folded before Flop
+
+
+
+PokerStars Hand #222971379324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:11:40 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 2: Berry1809 ($8.32 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10.50 in chips) 
+Seat 5: dancayamanda ($10.33 in chips) 
+dancayamanda: posts small blind $0.05
+iwinflipld: is sitting out 
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: raises $0.25 to $0.35
+dancayamanda: folds 
+Berry1809: folds 
+Uncalled bet ($0.25) returned to W4R4N
+W4R4N collected $0.25 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Berry1809 (big blind) folded before Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) collected ($0.25)
+Seat 5: dancayamanda (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971395110:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:12:00 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 2: Berry1809 ($8.22 in chips) 
+Seat 3: robotov ($10 in chips) 
+Seat 4: W4R4N ($10.65 in chips) 
+Seat 5: dancayamanda ($10.28 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Berry1809: calls $0.20
+robotov: raises $0.75 to $1
+dancayamanda: folds 
+Berry1809: folds 
+Uncalled bet ($0.75) returned to robotov
+robotov collected $0.75 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) collected ($0.75)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded before Flop
+
+
+
+PokerStars Hand #222971421841:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:12:32 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 2: Berry1809 ($7.97 in chips) 
+Seat 3: robotov ($10.50 in chips) 
+Seat 4: W4R4N ($10.65 in chips) 
+Seat 5: dancayamanda ($10.03 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Berry1809: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+Uncalled bet ($0.20) returned to robotov
+robotov collected $0.20 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Berry1809 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) collected ($0.20)
+Seat 4: W4R4N (big blind) folded before Flop
+Seat 5: dancayamanda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971433254:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:12:46 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 2: Berry1809 ($7.97 in chips) 
+Seat 3: robotov ($10.60 in chips) 
+Seat 4: W4R4N ($10.55 in chips) 
+Seat 5: dancayamanda ($10.03 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+Uncalled bet ($0.05) returned to dancayamanda
+dancayamanda collected $0.10 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222971440474:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:12:55 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 2: Berry1809 ($7.97 in chips) 
+Seat 3: robotov ($10.60 in chips) 
+Seat 4: W4R4N ($10.50 in chips) 
+Seat 5: dancayamanda ($10.08 in chips) 
+dancayamanda: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: raises $0.25 to $0.35
+dancayamanda: folds 
+Berry1809: calls $0.25
+*** FLOP *** [2c 7c 8s]
+Berry1809: checks 
+W4R4N: bets $0.24
+Berry1809: folds 
+Uncalled bet ($0.24) returned to W4R4N
+W4R4N collected $0.72 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2c 7c 8s]
+Seat 2: Berry1809 (big blind) folded on the Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) collected ($0.72)
+Seat 5: dancayamanda (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971477149:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:13:30 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 2: Berry1809 ($7.62 in chips) 
+Seat 3: robotov ($10.60 in chips) 
+Seat 4: W4R4N ($10.87 in chips) 
+Seat 5: dancayamanda ($10.03 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: raises $0.15 to $0.25
+dancayamanda: folds 
+Berry1809: calls $0.20
+robotov: folds 
+*** FLOP *** [9c Kd 2h]
+Berry1809: checks 
+W4R4N: checks 
+*** TURN *** [9c Kd 2h] [5c]
+Berry1809: bets $0.29
+W4R4N: calls $0.29
+*** RIVER *** [9c Kd 2h 5c] [8c]
+Berry1809: bets $0.50
+W4R4N: folds 
+Uncalled bet ($0.50) returned to Berry1809
+Berry1809 collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [9c Kd 2h 5c 8c]
+Seat 2: Berry1809 (small blind) collected ($1.13)
+Seat 3: robotov (big blind) folded before Flop
+Seat 4: W4R4N folded on the River
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971510264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:14:10 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 2: Berry1809 ($8.21 in chips) 
+Seat 3: robotov ($10.50 in chips) 
+Seat 4: W4R4N ($10.33 in chips) 
+Seat 5: dancayamanda ($10.03 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+iwinflipld: sits out 
+*** HOLE CARDS ***
+dancayamanda: folds 
+Berry1809: folds 
+robotov: folds 
+Uncalled bet ($0.05) returned to W4R4N
+W4R4N collected $0.10 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Berry1809 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) collected ($0.10)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971519421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:14:21 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 2: Berry1809 ($8.21 in chips) 
+Seat 3: robotov ($10.45 in chips) 
+Seat 4: W4R4N ($10.38 in chips) 
+Seat 5: dancayamanda ($10.03 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+iwinflipld: sits out 
+*** HOLE CARDS ***
+Berry1809: calls $0.10
+robotov: folds 
+W4R4N: folds 
+dancayamanda: checks 
+*** FLOP *** [2c Tc 8c]
+dancayamanda: checks 
+Berry1809: checks 
+*** TURN *** [2c Tc 8c] [9d]
+dancayamanda: checks 
+Berry1809: checks 
+*** RIVER *** [2c Tc 8c 9d] [Ks]
+dancayamanda: checks 
+Berry1809: checks 
+*** SHOW DOWN ***
+dancayamanda: shows [As 3h] (high card Ace)
+Berry1809: shows [Qh 9h] (a pair of Nines)
+Berry1809 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c Tc 8c 9d Ks]
+Seat 2: Berry1809 showed [Qh 9h] and won ($0.24) with a pair of Nines
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) showed [As 3h] and lost with high card Ace
+
+
+
+PokerStars Hand #222971551880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:15:00 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10.35 in chips) 
+Seat 2: Berry1809 ($8.35 in chips) 
+Seat 3: robotov ($10.45 in chips) 
+Seat 4: W4R4N ($10.33 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+dancayamanda: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.20 to $0.30
+iwinflipld: folds 
+Uncalled bet ($0.20) returned to dancayamanda
+dancayamanda collected $0.20 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iwinflipld (big blind) folded before Flop
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222971562388:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:15:12 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10.25 in chips) 
+Seat 2: Berry1809 ($8.35 in chips) 
+Seat 3: robotov ($10.45 in chips) 
+Seat 4: W4R4N ($10.33 in chips) 
+Seat 5: dancayamanda ($10.10 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: raises $0.20 to $0.30
+dancayamanda: folds 
+iwinflipld: folds 
+Berry1809: folds 
+Uncalled bet ($0.20) returned to W4R4N
+W4R4N collected $0.25 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: Berry1809 (big blind) folded before Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N collected ($0.25)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971580589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:15:34 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10.20 in chips) 
+Seat 2: Berry1809 ($8.25 in chips) 
+Seat 3: robotov ($10.45 in chips) 
+Seat 4: W4R4N ($10.48 in chips) 
+Seat 5: dancayamanda ($10.10 in chips) 
+Seat 6: Seamen32 ($5.76 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+Seamen32: posts small & big blinds $0.15
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: checks 
+iwinflipld: folds 
+Berry1809: folds 
+robotov: raises $0.40 to $0.50
+Seamen32: folds 
+Uncalled bet ($0.40) returned to robotov
+robotov collected $0.30 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) collected ($0.30)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971604018:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:16:01 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($10.20 in chips) 
+Seat 2: Berry1809 ($8.20 in chips) 
+Seat 3: robotov ($10.65 in chips) 
+Seat 4: W4R4N ($10.48 in chips) 
+Seat 5: dancayamanda ($10.10 in chips) 
+Seat 6: Seamen32 ($5.61 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: folds 
+robotov: folds 
+Uncalled bet ($0.05) returned to W4R4N
+W4R4N collected $0.10 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) collected ($0.10)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971616184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:16:15 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10.20 in chips) 
+Seat 2: Berry1809 ($8.20 in chips) 
+Seat 3: robotov ($10.60 in chips) 
+Seat 4: W4R4N ($10.53 in chips) 
+Seat 5: dancayamanda ($10.10 in chips) 
+Seat 6: Seamen32 ($5.61 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32 has timed out
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: calls $0.10
+robotov: raises $0.30 to $0.40
+W4R4N: folds 
+dancayamanda: folds 
+Berry1809: folds 
+Uncalled bet ($0.30) returned to robotov
+robotov collected $0.35 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop
+Seat 3: robotov (button) collected ($0.35)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) folded before Flop
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971639857:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:16:43 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10.20 in chips) 
+Seat 2: Berry1809 ($8.10 in chips) 
+Seat 3: robotov ($10.85 in chips) 
+Seat 4: W4R4N ($10.48 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($5.61 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.20 to $0.30
+Seamen32: calls $0.20
+*** FLOP *** [4s 5d Ah]
+dancayamanda: bets $0.19
+Seamen32: calls $0.19
+*** TURN *** [4s 5d Ah] [4c]
+dancayamanda: checks 
+Seamen32: bets $0.30
+dancayamanda: calls $0.30
+*** RIVER *** [4s 5d Ah 4c] [Jc]
+dancayamanda: checks 
+Seamen32: checks 
+*** SHOW DOWN ***
+dancayamanda: shows [7c 6c] (a pair of Fours)
+Seamen32: shows [Kd 8c] (a pair of Fours - Ace+King kicker)
+Seamen32 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.07 
+Board [4s 5d Ah 4c Jc]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) showed [7c 6c] and lost with a pair of Fours
+Seat 6: Seamen32 (big blind) showed [Kd 8c] and won ($1.51) with a pair of Fours
+
+
+
+PokerStars Hand #222971702151:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:17:55 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10.20 in chips) 
+Seat 2: Berry1809 ($8.10 in chips) 
+Seat 3: robotov ($10.85 in chips) 
+Seat 4: W4R4N ($10.48 in chips) 
+Seat 5: dancayamanda ($10 in chips) 
+Seat 6: Seamen32 ($6.33 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: calls $0.30
+dancayamanda: raises $0.90 to $1.20
+Seamen32: folds 
+iwinflipld: folds 
+robotov: folds 
+W4R4N: folds 
+Uncalled bet ($0.90) returned to dancayamanda
+dancayamanda collected $1.05 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0 
+Seat 1: iwinflipld (big blind) folded before Flop
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop
+Seat 4: W4R4N folded before Flop
+Seat 5: dancayamanda (button) collected ($1.05)
+Seat 6: Seamen32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971732640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:18:30 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10.10 in chips) 
+Seat 2: Berry1809 ($8.10 in chips) 
+Seat 3: robotov ($10.55 in chips) 
+Seat 4: W4R4N ($10.18 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($6.28 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: calls $0.25
+Berry1809: folds 
+*** FLOP *** [6c 3d 4s]
+iwinflipld: checks 
+robotov: checks 
+*** TURN *** [6c 3d 4s] [Kh]
+iwinflipld: checks 
+robotov: bets $0.60
+iwinflipld: folds 
+Uncalled bet ($0.60) returned to robotov
+robotov collected $0.67 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [6c 3d 4s Kh]
+Seat 1: iwinflipld (small blind) folded on the Turn
+Seat 2: Berry1809 (big blind) folded before Flop
+Seat 3: robotov collected ($0.67)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971776837:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:19:21 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8 in chips) 
+Seat 3: robotov ($10.92 in chips) 
+Seat 4: W4R4N ($10.18 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($6.28 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.10
+iwinflipld: folds 
+Berry1809: folds 
+robotov: checks 
+*** FLOP *** [8d 7s Td]
+robotov: checks 
+Seamen32: checks 
+*** TURN *** [8d 7s Td] [5s]
+robotov: checks 
+Seamen32: bets $0.20
+robotov: raises $0.70 to $0.90
+Seamen32: folds 
+Uncalled bet ($0.70) returned to robotov
+robotov collected $0.62 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8d 7s Td 5s]
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) collected ($0.62)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded on the Turn
+
+
+
+PokerStars Hand #222971851419:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:20:48 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($7.95 in chips) 
+Seat 3: robotov ($11.24 in chips) 
+Seat 4: W4R4N ($10.18 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($5.98 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: calls $0.20
+*** FLOP *** [9s Qh 6d]
+robotov: bets $0.44
+W4R4N: calls $0.44
+*** TURN *** [9s Qh 6d] [Ad]
+robotov: bets $1.10
+W4R4N: folds 
+Uncalled bet ($1.10) returned to robotov
+robotov collected $1.41 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.07 
+Board [9s Qh 6d Ad]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) collected ($1.41)
+Seat 4: W4R4N (big blind) folded on the Turn
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971899133:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:21:43 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($7.95 in chips) 
+Seat 3: robotov ($11.91 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($5.98 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: calls $0.10
+iwinflipld: folds 
+Berry1809: calls $0.10
+robotov: folds 
+W4R4N: folds 
+dancayamanda: checks 
+*** FLOP *** [9s Kh 5d]
+dancayamanda: checks 
+Seamen32: bets $0.20
+Berry1809: calls $0.20
+dancayamanda: folds 
+*** TURN *** [9s Kh 5d] [Td]
+Seamen32: checks 
+Berry1809: checks 
+*** RIVER *** [9s Kh 5d Td] [9c]
+Seamen32: bets $0.30
+Berry1809: calls $0.30
+*** SHOW DOWN ***
+Seamen32: shows [Qc 8c] (a pair of Nines)
+Berry1809: shows [Ah 9h] (three of a kind, Nines)
+Berry1809 collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [9s Kh 5d Td 9c]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 showed [Ah 9h] and won ($1.29) with three of a kind, Nines
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) folded on the Flop
+Seat 6: Seamen32 showed [Qc 8c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #222971962201:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:22:57 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.64 in chips) 
+Seat 3: robotov ($11.91 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.65 in chips) 
+Seat 6: Seamen32 ($5.38 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+Berry1809: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.20
+*** FLOP *** [3d Qd 5c]
+Seamen32: bets $0.31
+robotov: raises $0.97 to $1.28
+Seamen32: raises $3.80 to $5.08 and is all-in
+robotov: calls $3.80
+Seamen32 has timed out
+*** TURN *** [3d Qd 5c] [3h]
+*** RIVER *** [3d Qd 5c 3h] [9s]
+*** SHOW DOWN ***
+Seamen32: shows [8c Qh] (two pair, Queens and Threes)
+robotov: shows [Qc Ac] (two pair, Queens and Threes - Ace kicker)
+robotov collected $10.32 from pot
+*** SUMMARY ***
+Total pot $10.81 | Rake $0.49 
+Board [3d Qd 5c 3h 9s]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov showed [Qc Ac] and won ($10.32) with two pair, Queens and Threes
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) showed [8c Qh] and lost with two pair, Queens and Threes
+
+
+
+PokerStars Hand #222972013985:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:23:49 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.64 in chips) 
+Seat 3: robotov ($16.85 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.60 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+iwinflipld: folds 
+Berry1809: folds 
+Uncalled bet ($0.15) returned to dancayamanda
+dancayamanda collected $0.25 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: Berry1809 (big blind) folded before Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) collected ($0.25)
+
+
+
+PokerStars Hand #222972036604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:16 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.54 in chips) 
+Seat 3: robotov ($16.85 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($5.24 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+Seamen32: posts small blind $0.05
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: raises $0.10 to $0.20
+iwinflipld: folds 
+Berry1809: folds 
+robotov: folds 
+Uncalled bet ($0.10) returned to Seamen32
+Seamen32 collected $0.30 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) folded before Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 collected ($0.30)
+
+
+
+PokerStars Hand #222972049792:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:31 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.49 in chips) 
+Seat 3: robotov ($16.75 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($5.39 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: calls $0.10
+iwinflipld: folds 
+Berry1809: folds 
+robotov: folds 
+W4R4N: checks 
+*** FLOP *** [As 7d 2d]
+W4R4N: checks 
+Seamen32: bets $0.10
+W4R4N: folds 
+Uncalled bet ($0.10) returned to Seamen32
+Seamen32 collected $0.24 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As 7d 2d]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) folded on the Flop
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 collected ($0.24)
+
+
+
+PokerStars Hand #222972083311:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:25:11 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.49 in chips) 
+Seat 3: robotov ($16.70 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($10.75 in chips) 
+Seat 6: Seamen32 ($5.53 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld has timed out
+iwinflipld: folds 
+Berry1809: folds 
+robotov: folds 
+W4R4N: raises $0.20 to $0.30
+dancayamanda: calls $0.20
+*** FLOP *** [3s Qh 4c]
+W4R4N: checks 
+dancayamanda: bets $0.43
+W4R4N: calls $0.43
+*** TURN *** [3s Qh 4c] [9c]
+W4R4N: checks 
+dancayamanda: bets $0.75
+W4R4N: calls $0.75
+*** RIVER *** [3s Qh 4c 9c] [Qd]
+W4R4N: checks 
+dancayamanda: checks 
+*** SHOW DOWN ***
+W4R4N: shows [5c Ac] (a pair of Queens)
+dancayamanda: shows [9d Kc] (two pair, Queens and Nines)
+dancayamanda collected $2.83 from pot
+*** SUMMARY ***
+Total pot $2.96 | Rake $0.13 
+Board [3s Qh 4c 9c Qd]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) showed [5c Ac] and lost with a pair of Queens
+Seat 5: dancayamanda (big blind) showed [9d Kc] and won ($2.83) with two pair, Queens and Nines
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972154083:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:26:34 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.49 in chips) 
+Seat 3: robotov ($16.70 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($12.10 in chips) 
+Seat 6: Seamen32 ($5.53 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+Berry1809: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.20
+*** FLOP *** [7c Tc Th]
+Seamen32: checks 
+robotov: checks 
+*** TURN *** [7c Tc Th] [Kc]
+Seamen32: bets $0.20
+robotov: folds 
+Uncalled bet ($0.20) returned to Seamen32
+Seamen32 collected $0.62 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7c Tc Th Kc]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded on the Turn
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) collected ($0.62)
+
+
+
+PokerStars Hand #222972183798:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:27:09 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.49 in chips) 
+Seat 3: robotov ($16.40 in chips) 
+Seat 4: W4R4N ($10 in chips) 
+Seat 5: dancayamanda ($12.05 in chips) 
+Seat 6: Seamen32 ($5.85 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809: folds 
+robotov: folds 
+W4R4N: raises $0.25 to $0.35
+dancayamanda: folds 
+Seamen32: calls $0.30
+iwinflipld: folds 
+*** FLOP *** [5d Ac Jc]
+Seamen32: checks 
+W4R4N: bets $0.25
+Seamen32: folds 
+Uncalled bet ($0.25) returned to W4R4N
+W4R4N collected $0.76 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [5d Ac Jc]
+Seat 1: iwinflipld (big blind) folded before Flop
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N collected ($0.76)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+Seat 6: Seamen32 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222972211194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:27:42 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.49 in chips) 
+Seat 3: robotov ($16.40 in chips) 
+Seat 4: W4R4N ($10.41 in chips) 
+Seat 5: dancayamanda ($12.05 in chips) 
+Seat 6: Seamen32 ($5.50 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: folds 
+Uncalled bet ($0.20) returned to robotov
+robotov collected $0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: Berry1809 (big blind) folded before Flop
+Seat 3: robotov collected ($0.25)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972225903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:27:59 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.39 in chips) 
+Seat 3: robotov ($16.55 in chips) 
+Seat 4: W4R4N ($10.41 in chips) 
+Seat 5: dancayamanda ($12.05 in chips) 
+Seat 6: Seamen32 ($5.50 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: folds 
+robotov: calls $0.15
+*** FLOP *** [Qh 9c 9h]
+robotov: checks 
+dancayamanda: bets $0.40
+robotov: folds 
+Uncalled bet ($0.40) returned to dancayamanda
+dancayamanda collected $0.53 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Qh 9c 9h]
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) folded on the Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda collected ($0.53)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972278407:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:01 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.34 in chips) 
+Seat 3: robotov ($16.30 in chips) 
+Seat 4: W4R4N ($10.41 in chips) 
+Seat 5: dancayamanda ($12.33 in chips) 
+Seat 6: Seamen32 ($5.50 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: raises $0.20 to $0.30
+iwinflipld: folds 
+Berry1809: folds 
+robotov: raises $0.75 to $1.05
+W4R4N: folds 
+Seamen32: folds 
+Uncalled bet ($0.75) returned to robotov
+robotov collected $0.70 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) collected ($0.70)
+Seat 4: W4R4N (big blind) folded before Flop
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop
+
+
+
+PokerStars Hand #222972317840:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:47 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.34 in chips) 
+Seat 3: robotov ($16.70 in chips) 
+Seat 4: W4R4N ($10.31 in chips) 
+Seat 5: dancayamanda ($12.33 in chips) 
+Seat 6: Seamen32 ($5.20 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: raises $0.70 to $0.80
+iwinflipld: folds 
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Uncalled bet ($0.70) returned to Seamen32
+Seamen32 collected $0.25 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) folded before Flop
+Seat 6: Seamen32 collected ($0.25)
+
+
+
+PokerStars Hand #222972335213:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:30:07 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($9.95 in chips) 
+Seat 2: Berry1809 ($8.34 in chips) 
+Seat 3: robotov ($16.70 in chips) 
+Seat 4: W4R4N ($10.26 in chips) 
+Seat 5: dancayamanda ($12.23 in chips) 
+Seat 6: Seamen32 ($5.35 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: raises $0.20 to $0.30
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.20
+*** FLOP *** [6s 9h 4c]
+Seamen32: bets $0.31
+iwinflipld: folds 
+Uncalled bet ($0.31) returned to Seamen32
+Seamen32 collected $0.62 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [6s 9h 4c]
+Seat 1: iwinflipld folded on the Flop
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) collected ($0.62)
+
+
+
+PokerStars Hand #222972368161:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:30:46 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.34 in chips) 
+Seat 3: robotov ($16.70 in chips) 
+Seat 4: W4R4N ($10.26 in chips) 
+Seat 5: dancayamanda ($12.18 in chips) 
+Seat 6: Seamen32 ($5.67 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: raises $0.10 to $0.20
+iwinflipld: calls $0.10
+*** FLOP *** [Qs Jd 6s]
+Seamen32: bets $0.19
+iwinflipld: folds 
+Uncalled bet ($0.19) returned to Seamen32
+Seamen32 collected $0.38 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Qs Jd 6s]
+Seat 1: iwinflipld (big blind) folded on the Flop
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+Seat 6: Seamen32 (small blind) collected ($0.38)
+
+
+
+PokerStars Hand #222972593414:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:08 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($9.90 in chips) 
+Seat 2: Berry1809 ($8.42 in chips) 
+Seat 3: robotov ($16.55 in chips) 
+Seat 4: W4R4N ($11.27 in chips) 
+Seat 5: dancayamanda ($12 in chips) 
+Seat 6: Seamen32 ($6.01 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.10
+iwinflipld: folds 
+Berry1809: checks 
+*** FLOP *** [2s Jh Ad]
+Berry1809: checks 
+Seamen32: checks 
+*** TURN *** [2s Jh Ad] [7s]
+Berry1809: checks 
+Seamen32: checks 
+*** RIVER *** [2s Jh Ad 7s] [6d]
+Berry1809: checks 
+Seamen32: bets $0.30
+Berry1809: folds 
+Uncalled bet ($0.30) returned to Seamen32
+Seamen32 collected $0.24 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s Jh Ad 7s 6d]
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: Berry1809 (big blind) folded on the River
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) collected ($0.24)
+
+
+
+PokerStars Hand #222972653819:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:20 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.32 in chips) 
+Seat 3: robotov ($16.55 in chips) 
+Seat 4: W4R4N ($11.27 in chips) 
+Seat 5: dancayamanda ($12 in chips) 
+Seat 6: Seamen32 ($6.15 in chips) 
+Berry1809: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: folds 
+Uncalled bet ($0.05) returned to robotov
+robotov collected $0.10 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: Berry1809 (small blind) folded before Flop
+Seat 3: robotov (big blind) collected ($0.10)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972668586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:38 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.27 in chips) 
+Seat 3: robotov ($16.60 in chips) 
+Seat 4: W4R4N ($11.27 in chips) 
+Seat 5: dancayamanda ($12 in chips) 
+Seat 6: Seamen32 ($6.15 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: calls $0.10
+robotov: folds 
+W4R4N: raises $0.40 to $0.50
+Berry1809: folds 
+Uncalled bet ($0.40) returned to W4R4N
+W4R4N collected $0.25 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 (button) folded before Flop
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) collected ($0.25)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972691039:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:37:04 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($8.17 in chips) 
+Seat 3: robotov ($16.55 in chips) 
+Seat 4: W4R4N ($11.42 in chips) 
+Seat 5: dancayamanda ($12 in chips) 
+Seat 6: Seamen32 ($6.15 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld: folds 
+Berry1809: calls $0.10
+robotov: raises $0.30 to $0.40
+W4R4N: folds 
+dancayamanda: folds 
+Berry1809: calls $0.30
+*** FLOP *** [8h 5h 6d]
+Berry1809: checks 
+robotov: bets $0.71
+Berry1809: folds 
+Uncalled bet ($0.71) returned to robotov
+robotov collected $0.91 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8h 5h 6d]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: Berry1809 folded on the Flop
+Seat 3: robotov (button) collected ($0.91)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) folded before Flop
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972720627:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:37:40 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($7.77 in chips) 
+Seat 3: robotov ($17.06 in chips) 
+Seat 4: W4R4N ($11.37 in chips) 
+Seat 5: dancayamanda ($11.90 in chips) 
+Seat 6: Seamen32 ($6.15 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: raises $0.20 to $0.30
+Berry1809: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.20
+*** FLOP *** [2c 3h 4c]
+Seamen32: bets $0.30
+iwinflipld: folds 
+Uncalled bet ($0.30) returned to Seamen32
+Seamen32 collected $0.62 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2c 3h 4c]
+Seat 1: iwinflipld folded on the Flop
+Seat 2: Berry1809 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) collected ($0.62)
+
+
+
+PokerStars Hand #222972753247:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:19 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10 in chips) 
+Seat 2: Berry1809 ($7.77 in chips) 
+Seat 3: robotov ($17.06 in chips) 
+Seat 4: W4R4N ($11.37 in chips) 
+Seat 5: dancayamanda ($11.85 in chips) 
+Seat 6: Seamen32 ($6.47 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809: calls $0.10
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.05
+iwinflipld: checks 
+*** FLOP *** [Ts 8h Tc]
+Seamen32: checks 
+iwinflipld: checks 
+Berry1809: bets $0.10
+Seamen32: folds 
+iwinflipld: calls $0.10
+*** TURN *** [Ts 8h Tc] [5s]
+iwinflipld: checks 
+Berry1809: checks 
+*** RIVER *** [Ts 8h Tc 5s] [As]
+iwinflipld: checks 
+Berry1809: checks 
+*** SHOW DOWN ***
+iwinflipld: shows [8c 4c] (two pair, Tens and Eights)
+Berry1809: mucks hand 
+iwinflipld collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Ts 8h Tc 5s As]
+Seat 1: iwinflipld (big blind) showed [8c 4c] and won ($0.48) with two pair, Tens and Eights
+Seat 2: Berry1809 mucked
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+Seat 6: Seamen32 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222972796780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:11 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10.28 in chips) 
+Seat 2: Berry1809 ($7.57 in chips) 
+Seat 3: robotov ($17.06 in chips) 
+Seat 4: W4R4N ($11.37 in chips) 
+Seat 5: dancayamanda ($11.85 in chips) 
+Seat 6: Seamen32 ($6.37 in chips) 
+iwinflipld: posts small blind $0.05
+Berry1809: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32 has timed out
+Seamen32: folds 
+iwinflipld: raises $0.20 to $0.30
+Berry1809: folds 
+Uncalled bet ($0.20) returned to iwinflipld
+iwinflipld collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iwinflipld (small blind) collected ($0.20)
+Seat 2: Berry1809 (big blind) folded before Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972819728:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:39 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10.38 in chips) 
+Seat 3: robotov ($17.06 in chips) 
+Seat 4: W4R4N ($11.37 in chips) 
+Seat 5: dancayamanda ($11.85 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+Berry1809 leaves the table
+dancayamanda: folds 
+iwinflipld: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: calls $0.20
+*** FLOP *** [Js 2s 6c]
+robotov: bets $0.44
+Berry1809 joins the table at seat #2 
+W4R4N: calls $0.44
+*** TURN *** [Js 2s 6c] [2h]
+Berry1809 leaves the table
+robotov: checks 
+W4R4N: bets $0.65
+robotov: folds 
+Uncalled bet ($0.65) returned to W4R4N
+W4R4N collected $1.41 from pot
+W4R4N: doesn't show hand 
+puresins88 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.07 
+Board [Js 2s 6c 2h]
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) folded on the Turn
+Seat 4: W4R4N (big blind) collected ($1.41)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972870071:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:28 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($10.38 in chips) 
+Seat 3: robotov ($16.32 in chips) 
+Seat 4: W4R4N ($12.04 in chips) 
+Seat 5: dancayamanda ($11.85 in chips) 
+Seat 6: Seamen32 ($6.37 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+puresins88: sits out 
+*** HOLE CARDS ***
+Seamen32 has timed out
+Seamen32: folds 
+iwinflipld: raises $0.15 to $0.25
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Uncalled bet ($0.15) returned to iwinflipld
+iwinflipld collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld collected ($0.25)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) folded before Flop
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972893635:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:56 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($10.53 in chips) 
+Seat 3: robotov ($16.32 in chips) 
+Seat 4: W4R4N ($11.99 in chips) 
+Seat 5: dancayamanda ($11.75 in chips) 
+Seat 6: Seamen32 ($6.37 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+puresins88: sits out 
+*** HOLE CARDS ***
+iwinflipld: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+Uncalled bet ($0.20) returned to robotov
+robotov collected $0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 3: robotov collected ($0.25)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972913055:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:20 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($10.53 in chips) 
+Seat 3: robotov ($16.47 in chips) 
+Seat 4: W4R4N ($11.99 in chips) 
+Seat 5: dancayamanda ($11.70 in chips) 
+Seat 6: Seamen32 ($6.27 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+puresins88: sits out 
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+Uncalled bet ($0.05) returned to iwinflipld
+iwinflipld collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld (big blind) collected ($0.10)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+Seat 6: Seamen32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972926380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:36 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10.58 in chips) 
+Seat 2: puresins88 ($10 in chips) 
+Seat 3: robotov ($16.47 in chips) 
+Seat 4: W4R4N ($11.99 in chips) 
+Seat 5: dancayamanda ($11.70 in chips) 
+Seat 6: Seamen32 ($6.22 in chips) 
+iwinflipld: posts small blind $0.05
+puresins88: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: raises $0.20 to $0.30
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: calls $0.20
+*** FLOP *** [Ts As 5d]
+puresins88: checks 
+W4R4N: checks 
+*** TURN *** [Ts As 5d] [3s]
+puresins88: checks 
+W4R4N: bets $0.41
+puresins88: calls $0.41
+*** RIVER *** [Ts As 5d 3s] [Td]
+puresins88: checks 
+W4R4N: bets $0.64
+puresins88: calls $0.64
+*** SHOW DOWN ***
+W4R4N: shows [Qc Tc] (three of a kind, Tens)
+puresins88: mucks hand 
+W4R4N collected $2.63 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.12 
+Board [Ts As 5d 3s Td]
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: puresins88 (big blind) mucked
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N showed [Qc Tc] and won ($2.63) with three of a kind, Tens
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972962102:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:42:19 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10.53 in chips) 
+Seat 2: puresins88 ($8.65 in chips) 
+Seat 3: robotov ($16.47 in chips) 
+Seat 4: W4R4N ($13.27 in chips) 
+Seat 5: dancayamanda ($11.70 in chips) 
+Seat 6: Seamen32 ($6.22 in chips) 
+puresins88: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Seamen32: folds 
+iwinflipld: calls $0.25
+puresins88: folds 
+robotov: calls $0.15
+*** FLOP *** [Qs 6s 4c]
+robotov: checks 
+dancayamanda: checks 
+iwinflipld: bets $0.31
+robotov: folds 
+dancayamanda: folds 
+Uncalled bet ($0.31) returned to iwinflipld
+iwinflipld collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Qs 6s 4c]
+Seat 1: iwinflipld (button) collected ($0.76)
+Seat 2: puresins88 (small blind) folded before Flop
+Seat 3: robotov (big blind) folded on the Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded on the Flop
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973015697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:25 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($11.04 in chips) 
+Seat 2: puresins88 ($8.60 in chips) 
+Seat 3: robotov ($16.22 in chips) 
+Seat 4: W4R4N ($13.27 in chips) 
+Seat 5: dancayamanda ($11.45 in chips) 
+Seat 6: Seamen32 ($6.22 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: raises $0.15 to $0.25
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: calls $0.25
+robotov: folds 
+W4R4N: folds 
+*** FLOP *** [Qh 6s Kh]
+dancayamanda: checks 
+puresins88: bets $0.30
+dancayamanda: calls $0.30
+*** TURN *** [Qh 6s Kh] [Ah]
+dancayamanda: checks 
+puresins88: bets $0.60
+dancayamanda: folds 
+Uncalled bet ($0.60) returned to puresins88
+puresins88 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qh 6s Kh Ah]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 (button) collected ($1.19)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) folded before Flop
+Seat 5: dancayamanda folded on the Turn
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973085398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:44:50 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($11.04 in chips) 
+Seat 2: puresins88 ($9.24 in chips) 
+Seat 3: robotov ($16.17 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($10.90 in chips) 
+Seat 6: Seamen32 ($6.22 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: folds 
+robotov: folds 
+W4R4N: folds 
+Uncalled bet ($0.05) returned to dancayamanda
+dancayamanda collected $0.10 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) collected ($0.10)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973096528:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:45:04 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($11.04 in chips) 
+Seat 2: puresins88 ($9.24 in chips) 
+Seat 3: robotov ($16.17 in chips) 
+Seat 4: W4R4N ($13.12 in chips) 
+Seat 5: dancayamanda ($10.95 in chips) 
+Seat 6: Seamen32 ($6.22 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+puresins88: raises $0.14 to $0.24
+robotov: folds 
+W4R4N: calls $0.24
+dancayamanda: calls $0.19
+Seamen32: calls $0.14
+*** FLOP *** [Kh Ac Qd]
+dancayamanda: checks 
+Seamen32: checks 
+puresins88: checks 
+W4R4N: bets $0.42
+dancayamanda: folds 
+Seamen32: folds 
+puresins88: folds 
+Uncalled bet ($0.42) returned to W4R4N
+W4R4N collected $0.92 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.04 
+Board [Kh Ac Qd]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 folded on the Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) collected ($0.92)
+Seat 5: dancayamanda (small blind) folded on the Flop
+Seat 6: Seamen32 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222973136515:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:45:52 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($11.04 in chips) 
+Seat 2: puresins88 ($9 in chips) 
+Seat 3: robotov ($16.17 in chips) 
+Seat 4: W4R4N ($13.80 in chips) 
+Seat 5: dancayamanda ($10.71 in chips) 
+Seat 6: Seamen32 ($5.98 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+puresins88: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: calls $0.30
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+*** FLOP *** [3d Kc Jd]
+robotov: bets $0.56
+W4R4N: folds 
+Uncalled bet ($0.56) returned to robotov
+robotov collected $0.72 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [3d Kc Jd]
+Seat 1: iwinflipld (big blind) folded before Flop
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov collected ($0.72)
+Seat 4: W4R4N folded on the Flop
+Seat 5: dancayamanda (button) folded before Flop (didn't bet)
+Seat 6: Seamen32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973159057:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:19 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($10.94 in chips) 
+Seat 2: puresins88 ($9 in chips) 
+Seat 3: robotov ($16.59 in chips) 
+Seat 4: W4R4N ($13.50 in chips) 
+Seat 5: dancayamanda ($10.71 in chips) 
+Seat 6: Seamen32 ($5.93 in chips) 
+iwinflipld: posts small blind $0.05
+puresins88: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: folds 
+Uncalled bet ($0.15) returned to dancayamanda
+dancayamanda collected $0.25 from pot
+dancayamanda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: puresins88 (big blind) folded before Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda collected ($0.25)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973170610:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:33 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($10.89 in chips) 
+Seat 2: puresins88 ($8.90 in chips) 
+Seat 3: robotov ($16.59 in chips) 
+Seat 4: W4R4N ($13.50 in chips) 
+Seat 5: dancayamanda ($10.86 in chips) 
+Seat 6: Seamen32 ($5.93 in chips) 
+puresins88: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: raises $0.10 to $0.20
+iwinflipld: raises $0.70 to $0.90
+puresins88: folds 
+robotov: folds 
+Seamen32: calls $0.70
+*** FLOP *** [7s 8h 9c]
+Seamen32: bets $5.03 and is all-in
+iwinflipld: calls $5.03
+*** TURN *** [7s 8h 9c] [Qc]
+*** RIVER *** [7s 8h 9c Qc] [7c]
+*** SHOW DOWN ***
+Seamen32: shows [Js Ad] (a pair of Sevens)
+iwinflipld: shows [9d 9h] (a full house, Nines full of Sevens)
+iwinflipld collected $11.47 from pot
+Seamen32 cashed out the hand for $1.58 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $12.01 | Rake $0.54 
+Board [7s 8h 9c Qc 7c]
+Seat 1: iwinflipld (button) showed [9d 9h] and won ($11.47) with a full house, Nines full of Sevens
+Seat 2: puresins88 (small blind) folded before Flop
+Seat 3: robotov (big blind) folded before Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 showed [Js Ad] and lost with a pair of Sevens (cashed out).
+
+
+
+PokerStars Hand #222973203537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:47:12 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($16.43 in chips) 
+Seat 2: puresins88 ($8.85 in chips) 
+Seat 3: robotov ($16.49 in chips) 
+Seat 4: W4R4N ($13.50 in chips) 
+Seat 5: dancayamanda ($10.86 in chips) 
+Seat 6: Seamen32 ($1.58 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: raises $0.10 to $0.20
+robotov: folds 
+W4R4N: folds 
+Uncalled bet ($0.10) returned to puresins88
+puresins88 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 (button) collected ($0.25)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) folded before Flop
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973219628:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:47:31 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($16.43 in chips) 
+Seat 2: puresins88 ($9 in chips) 
+Seat 3: robotov ($16.44 in chips) 
+Seat 4: W4R4N ($13.40 in chips) 
+Seat 5: dancayamanda ($10.86 in chips) 
+Seat 6: Seamen32 ($1.58 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: calls $0.10
+iwinflipld: folds 
+puresins88: folds 
+robotov: folds 
+W4R4N: calls $0.05
+dancayamanda: checks 
+*** FLOP *** [Td 7h 4c]
+W4R4N: checks 
+dancayamanda: checks 
+Seamen32: checks 
+*** TURN *** [Td 7h 4c] [6h]
+W4R4N: bets $0.13
+dancayamanda: folds 
+Seamen32: calls $0.13
+*** RIVER *** [Td 7h 4c 6h] [Js]
+W4R4N: checks 
+Seamen32: bets $0.27
+W4R4N: folds 
+Uncalled bet ($0.27) returned to Seamen32
+Seamen32 collected $0.53 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.03 
+Board [Td 7h 4c 6h Js]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded on the River
+Seat 5: dancayamanda (big blind) folded on the Turn
+Seat 6: Seamen32 collected ($0.53)
+
+
+
+PokerStars Hand #222973262834:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:48:23 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($16.43 in chips) 
+Seat 2: puresins88 ($9 in chips) 
+Seat 3: robotov ($16.44 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($10.76 in chips) 
+Seat 6: Seamen32 ($1.88 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+puresins88: folds 
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+Uncalled bet ($0.20) returned to robotov
+robotov collected $0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov collected ($0.25)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973280562:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:48:44 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($16.43 in chips) 
+Seat 2: puresins88 ($9 in chips) 
+Seat 3: robotov ($16.59 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($10.71 in chips) 
+Seat 6: Seamen32 ($1.78 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+puresins88: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Seamen32: folds 
+iwinflipld: calls $0.15
+*** FLOP *** [Ts 7h Qh]
+iwinflipld: checks 
+dancayamanda: bets $0.17
+iwinflipld: calls $0.17
+*** TURN *** [Ts 7h Qh] [3h]
+iwinflipld: checks 
+dancayamanda: bets $0.64
+iwinflipld: calls $0.64
+*** RIVER *** [Ts 7h Qh 3h] [Jd]
+iwinflipld: checks 
+dancayamanda: bets $0.68
+iwinflipld: calls $0.68
+*** SHOW DOWN ***
+dancayamanda: shows [9d Kd] (a straight, Nine to King)
+iwinflipld: mucks hand 
+dancayamanda collected $3.37 from pot
+*** SUMMARY ***
+Total pot $3.53 | Rake $0.16 
+Board [Ts 7h Qh 3h Jd]
+Seat 1: iwinflipld (big blind) mucked
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) showed [9d Kd] and won ($3.37) with a straight, Nine to King
+Seat 6: Seamen32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973332939:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:49:46 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($14.69 in chips) 
+Seat 2: puresins88 ($9 in chips) 
+Seat 3: robotov ($16.59 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.34 in chips) 
+Seat 6: Seamen32 ($1.73 in chips) 
+iwinflipld: posts small blind $0.05
+puresins88: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.10
+iwinflipld: folds 
+puresins88: checks 
+*** FLOP *** [Ac 6s 6h]
+puresins88: checks 
+Seamen32: bets $0.10
+puresins88: folds 
+Uncalled bet ($0.10) returned to Seamen32
+Seamen32 collected $0.24 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac 6s 6h]
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: puresins88 (big blind) folded on the Flop
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) collected ($0.24)
+
+
+
+PokerStars Hand #222973353203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:50:10 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($14.64 in chips) 
+Seat 2: puresins88 ($8.90 in chips) 
+Seat 3: robotov ($16.59 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.34 in chips) 
+Seat 6: Seamen32 ($1.87 in chips) 
+puresins88: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.10
+iwinflipld: folds 
+puresins88: raises $0.20 to $0.30
+robotov: folds 
+Seamen32: calls $0.20
+*** FLOP *** [8d 8s 5c]
+puresins88: bets $0.30
+Seamen32: calls $0.30
+*** TURN *** [8d 8s 5c] [4s]
+puresins88: checks 
+Seamen32: bets $0.25
+puresins88: folds 
+Uncalled bet ($0.25) returned to Seamen32
+Seamen32 collected $1.24 from pot
+Seamen32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [8d 8s 5c 4s]
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: puresins88 (small blind) folded on the Turn
+Seat 3: robotov (big blind) folded before Flop
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 collected ($1.24)
+
+
+
+PokerStars Hand #222973415631:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:51:25 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($14.64 in chips) 
+Seat 2: puresins88 ($8.30 in chips) 
+Seat 3: robotov ($16.49 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.34 in chips) 
+Seat 6: Seamen32 ($2.51 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: folds 
+robotov: folds 
+Uncalled bet ($0.05) returned to W4R4N
+W4R4N collected $0.10 from pot
+W4R4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 (button) folded before Flop (didn't bet)
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) collected ($0.10)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973423826:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:51:34 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($14.64 in chips) 
+Seat 2: puresins88 ($8.30 in chips) 
+Seat 3: robotov ($16.44 in chips) 
+Seat 4: W4R4N ($13.22 in chips) 
+Seat 5: dancayamanda ($12.34 in chips) 
+Seat 6: Seamen32 ($2.51 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+Seamen32: raises $0.10 to $0.20
+iwinflipld: folds 
+puresins88: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: calls $0.10
+*** FLOP *** [7s 8s 7d]
+dancayamanda: checks 
+Seamen32: checks 
+*** TURN *** [7s 8s 7d] [Qs]
+dancayamanda: checks 
+Seamen32: checks 
+*** RIVER *** [7s 8s 7d Qs] [7c]
+dancayamanda: bets $0.32
+Seamen32: calls $0.32
+*** SHOW DOWN ***
+dancayamanda: shows [Qd 9s] (a full house, Sevens full of Queens)
+Seamen32: mucks hand 
+dancayamanda collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [7s 8s 7d Qs 7c]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) showed [Qd 9s] and won ($1.04) with a full house, Sevens full of Queens
+Seat 6: Seamen32 mucked
+
+
+
+PokerStars Hand #222973461838:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:52:20 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($14.64 in chips) 
+Seat 2: puresins88 ($8.30 in chips) 
+Seat 3: robotov ($16.44 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.86 in chips) 
+Seat 6: Seamen32 ($1.99 in chips) 
+dancayamanda: posts small blind $0.05
+Seamen32: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+puresins88: raises $0.20 to $0.30
+robotov: folds 
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: calls $0.20
+*** FLOP *** [9s 4h Ah]
+Seamen32: checks 
+puresins88: bets $0.40
+Seamen32: calls $0.40
+*** TURN *** [9s 4h Ah] [4c]
+Seamen32: bets $0.20
+puresins88: raises $7.40 to $7.60 and is all-in
+Seamen32: folds 
+Uncalled bet ($7.40) returned to puresins88
+puresins88 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [9s 4h Ah 4c]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 collected ($1.77)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+Seat 5: dancayamanda (small blind) folded before Flop
+Seat 6: Seamen32 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222973496844:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:53:02 ET
+Table 'Siegena IV' 6-max Seat #5 is the button
+Seat 1: iwinflipld ($14.64 in chips) 
+Seat 2: puresins88 ($9.17 in chips) 
+Seat 3: robotov ($16.44 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.81 in chips) 
+Seat 6: Seamen32 ($1.09 in chips) 
+Seamen32: posts small blind $0.05
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+puresins88: folds 
+robotov: folds 
+W4R4N: folds 
+dancayamanda: raises $0.15 to $0.25
+Seamen32: raises $0.15 to $0.40
+iwinflipld: calls $0.30
+dancayamanda: calls $0.15
+*** FLOP *** [Ac 9c 6s]
+Seamen32: bets $0.69 and is all-in
+iwinflipld: calls $0.69
+dancayamanda: folds 
+*** TURN *** [Ac 9c 6s] [7d]
+*** RIVER *** [Ac 9c 6s 7d] [6h]
+*** SHOW DOWN ***
+Seamen32: shows [Ad 7s] (two pair, Aces and Sevens)
+iwinflipld: shows [Ah Th] (two pair, Aces and Sixes)
+Seamen32 cashed out the hand for $0.42
+*** SUMMARY ***
+Total pot $2.58 | Rake $0.12 
+Board [Ac 9c 6s 7d 6h]
+Seat 1: iwinflipld (big blind) showed [Ah Th] and lost with two pair, Aces and Sixes
+Seat 2: puresins88 folded before Flop (didn't bet)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda (button) folded on the Flop
+Seat 6: Seamen32 (small blind) showed [Ad 7s] and won ($2.46) with two pair, Aces and Sevens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222973541021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:53:55 ET
+Table 'Siegena IV' 6-max Seat #6 is the button
+Seat 1: iwinflipld ($13.55 in chips) 
+Seat 2: puresins88 ($9.17 in chips) 
+Seat 3: robotov ($16.44 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.41 in chips) 
+Seat 6: Seamen32 ($0.42 in chips) 
+iwinflipld: posts small blind $0.05
+puresins88: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: raises $0.20 to $0.30
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: folds 
+iwinflipld: folds 
+puresins88: folds 
+Uncalled bet ($0.20) returned to robotov
+robotov collected $0.25 from pot
+robotov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: puresins88 (big blind) folded before Flop
+Seat 3: robotov collected ($0.25)
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973560452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:54:18 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($13.50 in chips) 
+Seat 2: puresins88 ($9.07 in chips) 
+Seat 3: robotov ($16.59 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.41 in chips) 
+Seat 6: Seamen32 ($0.42 in chips) 
+puresins88: posts small blind $0.05
+robotov: posts big blind $0.10
+*** HOLE CARDS ***
+W4R4N: folds 
+dancayamanda: folds 
+Seamen32: raises $0.32 to $0.42 and is all-in
+iwinflipld: folds 
+puresins88: folds 
+robotov: calls $0.32
+*** FLOP *** [5s 3h 5h]
+*** TURN *** [5s 3h 5h] [9s]
+*** RIVER *** [5s 3h 5h 9s] [Ad]
+*** SHOW DOWN ***
+robotov: shows [4d Jd] (a pair of Fives)
+Seamen32: shows [Kc Js] (a pair of Fives - Ace+King kicker)
+Seamen32 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [5s 3h 5h 9s Ad]
+Seat 1: iwinflipld (button) folded before Flop (didn't bet)
+Seat 2: puresins88 (small blind) folded before Flop
+Seat 3: robotov (big blind) showed [4d Jd] and lost with a pair of Fives
+Seat 4: W4R4N folded before Flop (didn't bet)
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 showed [Kc Js] and won ($0.85) with a pair of Fives
+
+
+
+PokerStars Hand #222973583337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:54:46 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($13.50 in chips) 
+Seat 2: puresins88 ($9.02 in chips) 
+Seat 3: robotov ($16.17 in chips) 
+Seat 4: W4R4N ($13.17 in chips) 
+Seat 5: dancayamanda ($12.41 in chips) 
+Seat 6: Seamen32 ($0.85 in chips) 
+robotov: posts small blind $0.05
+W4R4N: posts big blind $0.10
+*** HOLE CARDS ***
+dancayamanda: folds 
+Seamen32: raises $0.75 to $0.85 and is all-in
+iwinflipld: folds 
+puresins88: calls $0.85
+robotov: folds 
+W4R4N: folds 
+*** FLOP *** [Js 2d 8s]
+*** TURN *** [Js 2d 8s] [Ts]
+*** RIVER *** [Js 2d 8s Ts] [6h]
+*** SHOW DOWN ***
+Seamen32: shows [Ah 3d] (high card Ace)
+puresins88: shows [Ac Qs] (high card Ace - Queen kicker)
+puresins88 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [Js 2d 8s Ts 6h]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 (button) showed [Ac Qs] and won ($1.77) with high card Ace
+Seat 3: robotov (small blind) folded before Flop
+Seat 4: W4R4N (big blind) folded before Flop
+Seat 5: dancayamanda folded before Flop (didn't bet)
+Seat 6: Seamen32 showed [Ah 3d] and lost with high card Ace
+
+
+
+PokerStars Hand #222973604988:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:55:13 ET
+Table 'Siegena IV' 6-max Seat #3 is the button
+Seat 1: iwinflipld ($13.50 in chips) 
+Seat 2: puresins88 ($9.94 in chips) 
+Seat 3: robotov ($16.12 in chips) 
+Seat 4: W4R4N ($13.07 in chips) 
+Seat 5: dancayamanda ($12.41 in chips) 
+W4R4N: posts small blind $0.05
+dancayamanda: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+Seamen32 leaves the table
+puresins88: raises $0.10 to $0.20
+robotov: folds 
+W4R4N: folds 
+dancayamanda: calls $0.10
+*** FLOP *** [Kh 5h 3s]
+dancayamanda: checks 
+puresins88: checks 
+*** TURN *** [Kh 5h 3s] [Ts]
+dancayamanda: checks 
+puresins88: bets $0.40
+dancayamanda: calls $0.40
+*** RIVER *** [Kh 5h 3s Ts] [2s]
+dancayamanda: checks 
+puresins88: checks 
+*** SHOW DOWN ***
+dancayamanda: shows [8s Kd] (a pair of Kings)
+puresins88: mucks hand 
+dancayamanda collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kh 5h 3s Ts 2s]
+Seat 1: iwinflipld folded before Flop (didn't bet)
+Seat 2: puresins88 mucked
+Seat 3: robotov (button) folded before Flop (didn't bet)
+Seat 4: W4R4N (small blind) folded before Flop
+Seat 5: dancayamanda (big blind) showed [8s Kd] and won ($1.19) with a pair of Kings
+
+
+
+PokerStars Hand #222973632659:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:02 ET
+Table 'Siegena IV' 6-max Seat #4 is the button
+Seat 1: iwinflipld ($13.50 in chips) 
+Seat 2: puresins88 ($9.34 in chips) 
+Seat 3: robotov ($16.12 in chips) 
+Seat 4: W4R4N ($13.02 in chips) 
+iwinflipld: posts small blind $0.05
+puresins88: posts big blind $0.10
+*** HOLE CARDS ***
+robotov: folds 
+W4R4N: folds 
+iwinflipld: folds 
+Uncalled bet ($0.05) returned to puresins88
+puresins88 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld (small blind) folded before Flop
+Seat 2: puresins88 (big blind) collected ($0.10)
+Seat 3: robotov folded before Flop (didn't bet)
+Seat 4: W4R4N (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973640626:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:16 ET
+Table 'Siegena IV' 6-max Seat #2 is the button
+Seat 1: iwinflipld ($13.45 in chips) 
+Seat 2: puresins88 ($9.39 in chips) 
+puresins88: posts small blind $0.05
+robotov: is sitting out 
+W4R4N: is sitting out 
+iwinflipld: posts big blind $0.10
+*** HOLE CARDS ***
+puresins88: folds 
+Uncalled bet ($0.05) returned to iwinflipld
+iwinflipld collected $0.10 from pot
+W4R4N leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld (big blind) collected ($0.10)
+Seat 2: puresins88 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973643640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:21 ET
+Table 'Siegena IV' 6-max Seat #1 is the button
+Seat 1: iwinflipld ($13.50 in chips) 
+Seat 2: puresins88 ($9.34 in chips) 
+iwinflipld: posts small blind $0.05
+puresins88: posts big blind $0.10
+*** HOLE CARDS ***
+iwinflipld: folds 
+Uncalled bet ($0.05) returned to puresins88
+puresins88 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: iwinflipld (button) (small blind) folded before Flop
+Seat 2: puresins88 (big blind) collected ($0.10)
+
+
+

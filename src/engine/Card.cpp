@@ -52,6 +52,32 @@ namespace pokerx {
         return suit_;
     }
 
+    Card *CardFactory(std::string cardString) {
+        char c = cardString[cardString.size()-1];
+        std::string suit = {static_cast<char>(std::toupper((int)(c)))};
+        cardString.pop_back();
+        int rank;
+        try {
+            // for numbers, we can convert to int
+            rank = std::stoi(cardString);
+        } catch (std::exception &e) { // not sure which
+            // for Q, K, J, A, we need different strategy
+            if (cardString == "A" || cardString == "a") {
+                rank = 14;
+            } else if (cardString == "K" || cardString == "k") {
+                rank = 13;
+            } else if (cardString == "Q" || cardString == "q") {
+                rank = 12;
+            } else if (cardString == "J" || cardString == "j") {
+                rank = 11;
+            } else if (cardString == "T" || cardString == "t") {
+                rank = 10;
+            }
+        }
+        Card* card = new Card(rank, suit);
+        return card;
+    }
+
 }
 
 

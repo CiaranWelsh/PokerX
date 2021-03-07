@@ -1,0 +1,4900 @@
+﻿PokerStars Hand #222955250180:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:31:39 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: mirunas87 ($10 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($10 in chips) 
+login-kev: posts small blind $0.05
+mirunas87: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: raises $0.20 to $0.30
+login-kev: raises $0.80 to $1.10
+mirunas87: folds 
+manolis753 joins the table at seat #6 
+Gintoxicated joins the table at seat #5 
+Mazerpelt: raises $1.70 to $2.80
+login-kev: calls $1.70
+*** FLOP *** [5d 4h 6s]
+login-kev: checks 
+Mazerpelt: bets $2
+login-kev: folds 
+Uncalled bet ($2) returned to Mazerpelt
+Mazerpelt collected $5.44 from pot
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.26 
+Board [5d 4h 6s]
+Seat 1: login-kev (small blind) folded on the Flop
+Seat 2: mirunas87 (big blind) folded before Flop
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) collected ($5.44)
+
+
+
+PokerStars Hand #222955295620:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:33:09 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: mirunas87 ($9.90 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($12.64 in chips) 
+mirunas87: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+Gintoxicated: sits out 
+manolis753: sits out 
+*** HOLE CARDS ***
+Mazerpelt: folds 
+login-kev: raises $0.15 to $0.25
+mirunas87: calls $0.20
+bigfish0202: calls $0.15
+*** FLOP *** [8d 9h 6d]
+mirunas87: checks 
+bigfish0202: checks 
+login-kev: checks 
+*** TURN *** [8d 9h 6d] [Kd]
+mirunas87: checks 
+bigfish0202: checks 
+login-kev: bets $0.25
+mirunas87: folds 
+bigfish0202: folds 
+Uncalled bet ($0.25) returned to login-kev
+login-kev collected $0.72 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8d 9h 6d Kd]
+Seat 1: login-kev (button) collected ($0.72)
+Seat 2: mirunas87 (small blind) folded on the Turn
+Seat 3: bigfish0202 (big blind) folded on the Turn
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955323064:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:34:04 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10.47 in chips) 
+Seat 2: mirunas87 ($9.65 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($12.64 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+Gintoxicated: sits out 
+manolis753: sits out 
+*** HOLE CARDS ***
+login-kev: folds 
+mirunas87: raises $0.20 to $0.30
+bigfish0202: folds 
+Mazerpelt: calls $0.20
+*** FLOP *** [9d 8h 3c]
+Mazerpelt: checks 
+mirunas87: bets $0.30
+Mazerpelt: folds 
+Uncalled bet ($0.30) returned to mirunas87
+mirunas87 collected $0.62 from pot
+mirunas87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9d 8h 3c]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 (button) collected ($0.62)
+Seat 3: bigfish0202 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222955337992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:34:34 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($10.47 in chips) 
+Seat 2: mirunas87 ($9.97 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($12.34 in chips) 
+Seat 5: Gintoxicated ($5.50 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+manolis753: sits out 
+*** HOLE CARDS ***
+login-kev: folds 
+mirunas87: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.05) returned to Gintoxicated
+Gintoxicated collected $0.10 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 folded before Flop (didn't bet)
+Seat 3: bigfish0202 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222955342429:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:34:42 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10.47 in chips) 
+Seat 2: mirunas87 ($9.97 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($12.29 in chips) 
+Seat 5: Gintoxicated ($5.55 in chips) 
+Seat 6: manolis753 ($10 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+mirunas87: raises $0.10 to $0.20
+bigfish0202: raises $0.40 to $0.60
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+mirunas87: folds 
+Uncalled bet ($0.40) returned to bigfish0202
+bigfish0202 collected $0.55 from pot
+bigfish0202: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 folded before Flop
+Seat 3: bigfish0202 collected ($0.55)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded before Flop
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955352360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:35:02 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($10.47 in chips) 
+Seat 2: mirunas87 ($9.77 in chips) 
+Seat 3: bigfish0202 ($10.35 in chips) 
+Seat 4: Mazerpelt ($12.29 in chips) 
+Seat 5: Gintoxicated ($5.50 in chips) 
+Seat 6: manolis753 ($10 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+mirunas87: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+Uncalled bet ($0.05) returned to login-kev
+login-kev collected $0.10 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (big blind) collected ($0.10)
+Seat 2: mirunas87 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955356295:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:35:10 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10.52 in chips) 
+Seat 2: mirunas87 ($9.77 in chips) 
+Seat 3: bigfish0202 ($10.35 in chips) 
+Seat 4: Mazerpelt ($12.29 in chips) 
+Seat 5: Gintoxicated ($5.50 in chips) 
+Seat 6: manolis753 ($10 in chips) 
+login-kev: posts small blind $0.05
+mirunas87: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: raises $0.10 to $0.20
+manolis753: folds 
+login-kev: raises $0.53 to $0.73
+mirunas87: calls $0.63
+Gintoxicated: folds 
+*** FLOP *** [8c 8s Qh]
+login-kev: bets $0.90
+mirunas87: folds 
+Uncalled bet ($0.90) returned to login-kev
+login-kev collected $1.59 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.07 
+Board [8c 8s Qh]
+Seat 1: login-kev (small blind) collected ($1.59)
+Seat 2: mirunas87 (big blind) folded on the Flop
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955375714:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:35:48 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($11.38 in chips) 
+Seat 2: mirunas87 ($9.04 in chips) 
+Seat 3: bigfish0202 ($10.35 in chips) 
+Seat 4: Mazerpelt ($12.29 in chips) 
+Seat 5: Gintoxicated ($5.30 in chips) 
+Seat 6: manolis753 ($10 in chips) 
+mirunas87: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: calls $0.10
+manolis753: folds 
+login-kev: folds 
+mirunas87: calls $0.05
+bigfish0202: checks 
+*** FLOP *** [As 8h Jd]
+mirunas87: checks 
+bigfish0202: checks 
+Gintoxicated: checks 
+*** TURN *** [As 8h Jd] [9s]
+mirunas87: checks 
+bigfish0202: checks 
+Gintoxicated: bets $0.29
+mirunas87: folds 
+bigfish0202: calls $0.29
+*** RIVER *** [As 8h Jd 9s] [7s]
+bigfish0202: checks 
+Gintoxicated: bets $0.84
+bigfish0202: folds 
+Uncalled bet ($0.84) returned to Gintoxicated
+Gintoxicated collected $0.84 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.04 
+Board [As 8h Jd 9s 7s]
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: mirunas87 (small blind) folded on the Turn
+Seat 3: bigfish0202 (big blind) folded on the River
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated collected ($0.84)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955405679:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:36:48 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($11.38 in chips) 
+Seat 2: mirunas87 ($8.94 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($12.29 in chips) 
+Seat 5: Gintoxicated ($5.75 in chips) 
+Seat 6: manolis753 ($10 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+mirunas87: raises $0.20 to $0.30
+bigfish0202: raises $0.70 to $1
+Mazerpelt: calls $0.90
+mirunas87: calls $0.70
+*** FLOP *** [Jd Td 4d]
+bigfish0202: bets $1.70
+Mazerpelt: raises $4.17 to $5.87
+mirunas87: folds 
+bigfish0202: folds 
+Uncalled bet ($4.17) returned to Mazerpelt
+Mazerpelt collected $6.11 from pot
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.29 
+Board [Jd Td 4d]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 (button) folded on the Flop
+Seat 3: bigfish0202 (small blind) folded on the Flop
+Seat 4: Mazerpelt (big blind) collected ($6.11)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955428922:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:37:35 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($11.38 in chips) 
+Seat 2: mirunas87 ($7.94 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($15.70 in chips) 
+Seat 5: Gintoxicated ($5.75 in chips) 
+Seat 6: manolis753 ($10 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+mirunas87: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+Uncalled bet ($0.15) returned to manolis753
+manolis753 collected $0.25 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 folded before Flop (didn't bet)
+Seat 3: bigfish0202 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 collected ($0.25)
+
+
+
+PokerStars Hand #222955438389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:37:54 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($11.38 in chips) 
+Seat 2: mirunas87 ($7.94 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($15.65 in chips) 
+Seat 5: Gintoxicated ($5.65 in chips) 
+Seat 6: manolis753 ($10.15 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+mirunas87: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: calls $0.05
+manolis753: checks 
+*** FLOP *** [3d Kh 5h]
+Gintoxicated: checks 
+manolis753: checks 
+*** TURN *** [3d Kh 5h] [5s]
+Gintoxicated: checks 
+manolis753: checks 
+*** RIVER *** [3d Kh 5h 5s] [Qd]
+Gintoxicated: checks 
+manolis753: checks 
+*** SHOW DOWN ***
+Gintoxicated: shows [Ac 3h] (two pair, Fives and Threes)
+manolis753: mucks hand 
+Gintoxicated collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d Kh 5h 5s Qd]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) showed [Ac 3h] and won ($0.19) with two pair, Fives and Threes
+Seat 6: manolis753 (big blind) mucked
+
+
+
+PokerStars Hand #222955460256:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:38:37 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($11.38 in chips) 
+Seat 2: mirunas87 ($7.94 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($15.65 in chips) 
+Seat 5: Gintoxicated ($5.74 in chips) 
+Seat 6: manolis753 ($10.05 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+mirunas87: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: raises $0.20 to $0.30
+login-kev: folds 
+Uncalled bet ($0.20) returned to manolis753
+manolis753 collected $0.20 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: mirunas87 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222955467978:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:38:53 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($11.28 in chips) 
+Seat 2: mirunas87 ($7.94 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($15.65 in chips) 
+Seat 5: Gintoxicated ($5.74 in chips) 
+Seat 6: manolis753 ($10.15 in chips) 
+login-kev: posts small blind $0.05
+mirunas87: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: raises $0.20 to $0.30
+Gintoxicated: calls $0.30
+manolis753: folds 
+login-kev: folds 
+mirunas87: calls $0.20
+*** FLOP *** [Td Jc 7d]
+mirunas87: checks 
+Mazerpelt: checks 
+Gintoxicated: checks 
+*** TURN *** [Td Jc 7d] [3c]
+mirunas87: checks 
+Mazerpelt: bets $0.61
+Gintoxicated: calls $0.61
+mirunas87: folds 
+*** RIVER *** [Td Jc 7d 3c] [5c]
+Mazerpelt: checks 
+Gintoxicated: checks 
+*** SHOW DOWN ***
+Mazerpelt: shows [9s Ts] (a pair of Tens)
+Gintoxicated: mucks hand 
+Mazerpelt collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.10 
+Board [Td Jc 7d 3c 5c]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: mirunas87 (big blind) folded on the Turn
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt showed [9s Ts] and won ($2.07) with a pair of Tens
+Seat 5: Gintoxicated mucked
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955494770:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:39:46 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($11.23 in chips) 
+Seat 2: mirunas87 ($7.64 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($16.81 in chips) 
+Seat 5: Gintoxicated ($4.83 in chips) 
+Seat 6: manolis753 ($10.15 in chips) 
+mirunas87: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: calls $0.10
+manolis753: folds 
+login-kev: calls $0.10
+mirunas87: raises $0.50 to $0.60
+bigfish0202: folds 
+Gintoxicated: folds 
+login-kev: calls $0.50
+*** FLOP *** [4c As 3d]
+mirunas87: bets $0.60
+login-kev: calls $0.60
+*** TURN *** [4c As 3d] [Qc]
+mirunas87: checks 
+login-kev: bets $0.80
+mirunas87: folds 
+Uncalled bet ($0.80) returned to login-kev
+login-kev collected $2.48 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.12 
+Board [4c As 3d Qc]
+Seat 1: login-kev (button) collected ($2.48)
+Seat 2: mirunas87 (small blind) folded on the Turn
+Seat 3: bigfish0202 (big blind) folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955527397:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:40:50 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($12.51 in chips) 
+Seat 2: mirunas87 ($6.44 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($16.81 in chips) 
+Seat 5: Gintoxicated ($4.73 in chips) 
+Seat 6: manolis753 ($10.15 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+mirunas87: raises $0.30 to $0.40
+bigfish0202: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.30) returned to mirunas87
+mirunas87 collected $0.25 from pot
+mirunas87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 (button) collected ($0.25)
+Seat 3: bigfish0202 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955533147:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:41:01 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.51 in chips) 
+Seat 2: mirunas87 ($6.59 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($16.71 in chips) 
+Seat 5: Gintoxicated ($4.73 in chips) 
+Seat 6: manolis753 ($10.15 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+mirunas87: raises $0.75 to $1
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: calls $0.75
+*** FLOP *** [9d 3d Kd]
+manolis753: checks 
+mirunas87: bets $1.20
+manolis753: raises $6.68 to $7.88
+mirunas87: calls $4.39 and is all-in
+Uncalled bet ($2.29) returned to manolis753
+*** TURN *** [9d 3d Kd] [2c]
+*** RIVER *** [9d 3d Kd 2c] [6c]
+*** SHOW DOWN ***
+manolis753: shows [Ac Ah] (a pair of Aces)
+mirunas87: shows [Qc Ks] (a pair of Kings)
+manolis753 collected $12.73 from pot
+*** SUMMARY ***
+Total pot $13.33 | Rake $0.60 
+Board [9d 3d Kd 2c 6c]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: mirunas87 showed [Qc Ks] and lost with a pair of Kings
+Seat 3: bigfish0202 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 showed [Ac Ah] and won ($12.73) with a pair of Aces
+
+
+
+PokerStars Hand #222955555168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:41:45 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.51 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($16.66 in chips) 
+Seat 5: Gintoxicated ($4.63 in chips) 
+Seat 6: manolis753 ($16.29 in chips) 
+Gintoxicated: posts small blind $0.05
+mirunas87 leaves the table
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+norbe4 joins the table at seat #2 
+bigfish0202: raises $0.20 to $0.30
+Mazerpelt: folds 
+Gintoxicated: calls $0.25
+manolis753: calls $0.20
+*** FLOP *** [As 4d Ah]
+Gintoxicated: checks 
+manolis753: checks 
+bigfish0202: checks 
+*** TURN *** [As 4d Ah] [3h]
+Gintoxicated: checks 
+manolis753: checks 
+bigfish0202: checks 
+*** RIVER *** [As 4d Ah 3h] [Tc]
+Gintoxicated: checks 
+manolis753: checks 
+bigfish0202: bets $0.52
+Gintoxicated: folds 
+manolis753: folds 
+Uncalled bet ($0.52) returned to bigfish0202
+bigfish0202 collected $0.86 from pot
+bigfish0202: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [As 4d Ah 3h Tc]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 3: bigfish0202 collected ($0.86)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded on the River
+Seat 6: manolis753 (big blind) folded on the River
+
+
+
+PokerStars Hand #222955587736:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:42:50 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.51 in chips) 
+Seat 3: bigfish0202 ($10.56 in chips) 
+Seat 4: Mazerpelt ($16.66 in chips) 
+Seat 5: Gintoxicated ($4.33 in chips) 
+Seat 6: manolis753 ($15.99 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+norbe4: sits out 
+*** HOLE CARDS ***
+bigfish0202: raises $0.20 to $0.30
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to bigfish0202
+bigfish0202 collected $0.25 from pot
+bigfish0202: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 3: bigfish0202 collected ($0.25)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955595634:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:43:06 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.41 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.71 in chips) 
+Seat 4: Mazerpelt ($16.66 in chips) 
+Seat 5: Gintoxicated ($4.33 in chips) 
+Seat 6: manolis753 ($15.94 in chips) 
+login-kev: posts small blind $0.05
+norbe4: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+norbe4: calls $0.15
+*** FLOP *** [3h Kc Tc]
+login-kev: checks 
+norbe4: checks 
+*** TURN *** [3h Kc Tc] [8h]
+login-kev: checks 
+norbe4: checks 
+*** RIVER *** [3h Kc Tc 8h] [4h]
+login-kev: bets $0.38
+norbe4: folds 
+Uncalled bet ($0.38) returned to login-kev
+login-kev collected $0.48 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3h Kc Tc 8h 4h]
+Seat 1: login-kev (small blind) collected ($0.48)
+Seat 2: norbe4 (big blind) folded on the River
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955621901:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:43:58 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($12.64 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.71 in chips) 
+Seat 4: Mazerpelt ($16.66 in chips) 
+Seat 5: Gintoxicated ($4.33 in chips) 
+Seat 6: manolis753 ($15.94 in chips) 
+norbe4: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+norbe4: raises $0.20 to $0.30
+bigfish0202: folds 
+Uncalled bet ($0.20) returned to norbe4
+norbe4 collected $0.20 from pot
+norbe4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: norbe4 (small blind) collected ($0.20)
+Seat 3: bigfish0202 (big blind) folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955629086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:44:13 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($12.64 in chips) 
+Seat 2: norbe4 ($10.10 in chips) 
+Seat 3: bigfish0202 ($10.61 in chips) 
+Seat 4: Mazerpelt ($16.66 in chips) 
+Seat 5: Gintoxicated ($4.33 in chips) 
+Seat 6: manolis753 ($15.94 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+norbe4: raises $0.15 to $0.25
+bigfish0202: raises $0.65 to $0.90
+Mazerpelt: folds 
+norbe4: folds 
+Uncalled bet ($0.65) returned to bigfish0202
+bigfish0202 collected $0.60 from pot
+bigfish0202: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 (button) folded before Flop
+Seat 3: bigfish0202 (small blind) collected ($0.60)
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955641509:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:44:38 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.64 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.96 in chips) 
+Seat 4: Mazerpelt ($16.56 in chips) 
+Seat 5: Gintoxicated ($4.33 in chips) 
+Seat 6: manolis753 ($15.94 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+norbe4: raises $0.20 to $0.30
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: calls $0.20
+*** FLOP *** [2d 3s 9d]
+Gintoxicated: checks 
+norbe4: bets $0.31
+Gintoxicated: folds 
+Uncalled bet ($0.31) returned to norbe4
+norbe4 collected $0.62 from pot
+norbe4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2d 3s 9d]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 collected ($0.62)
+Seat 3: bigfish0202 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded on the Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955654874:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:45:04 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.64 in chips) 
+Seat 2: norbe4 ($10.32 in chips) 
+Seat 3: bigfish0202 ($10.96 in chips) 
+Seat 4: Mazerpelt ($16.51 in chips) 
+Seat 5: Gintoxicated ($4.03 in chips) 
+Seat 6: manolis753 ($15.94 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+norbe4: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+Uncalled bet ($0.05) returned to manolis753
+manolis753 collected $0.10 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded before Flop
+Seat 6: manolis753 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222955659811:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:45:14 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.64 in chips) 
+Seat 2: norbe4 ($10.32 in chips) 
+Seat 3: bigfish0202 ($10.96 in chips) 
+Seat 4: Mazerpelt ($16.51 in chips) 
+Seat 5: Gintoxicated ($3.98 in chips) 
+Seat 6: manolis753 ($15.99 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+norbe4: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: raises $0.67 to $0.92
+manolis753: folds 
+Uncalled bet ($0.67) returned to login-kev
+login-kev collected $0.50 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: login-kev (big blind) collected ($0.50)
+Seat 2: norbe4 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955670126:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:45:34 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.89 in chips) 
+Seat 2: norbe4 ($10.32 in chips) 
+Seat 3: bigfish0202 ($10.96 in chips) 
+Seat 4: Mazerpelt ($16.51 in chips) 
+Seat 5: Gintoxicated ($3.98 in chips) 
+Seat 6: manolis753 ($15.74 in chips) 
+login-kev: posts small blind $0.05
+norbe4: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: raises $0.20 to $0.30
+Mazerpelt: calls $0.30
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+norbe4: folds 
+*** FLOP *** [9d 2c Qh]
+bigfish0202: checks 
+Mazerpelt: bets $0.40
+bigfish0202: calls $0.40
+*** TURN *** [9d 2c Qh] [9c]
+bigfish0202: checks 
+Mazerpelt: bets $1
+bigfish0202: folds 
+Uncalled bet ($1) returned to Mazerpelt
+Mazerpelt collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [9d 2c Qh 9c]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: norbe4 (big blind) folded before Flop
+Seat 3: bigfish0202 folded on the Turn
+Seat 4: Mazerpelt collected ($1.48)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955690592:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:46:15 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($12.84 in chips) 
+Seat 2: norbe4 ($10.22 in chips) 
+Seat 3: bigfish0202 ($10.26 in chips) 
+Seat 4: Mazerpelt ($17.29 in chips) 
+Seat 5: Gintoxicated ($3.98 in chips) 
+Seat 6: manolis753 ($15.74 in chips) 
+norbe4: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+norbe4: raises $0.20 to $0.30
+bigfish0202: calls $0.20
+*** FLOP *** [Js Qc 8h]
+norbe4: bets $0.29
+bigfish0202: calls $0.29
+*** TURN *** [Js Qc 8h] [6s]
+norbe4: checks 
+bigfish0202: bets $0.69
+norbe4: folds 
+Uncalled bet ($0.69) returned to bigfish0202
+bigfish0202 collected $1.13 from pot
+bigfish0202: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [Js Qc 8h 6s]
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: norbe4 (small blind) folded on the Turn
+Seat 3: bigfish0202 (big blind) collected ($1.13)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955707812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:46:49 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($12.84 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.80 in chips) 
+Seat 4: Mazerpelt ($17.29 in chips) 
+Seat 5: Gintoxicated ($3.98 in chips) 
+Seat 6: manolis753 ($15.74 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+norbe4: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.15) returned to manolis753
+manolis753 collected $0.25 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 (button) folded before Flop (didn't bet)
+Seat 3: bigfish0202 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 collected ($0.25)
+
+
+
+PokerStars Hand #222955714061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:47:01 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.84 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.75 in chips) 
+Seat 4: Mazerpelt ($17.19 in chips) 
+Seat 5: Gintoxicated ($3.98 in chips) 
+Seat 6: manolis753 ($15.89 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+norbe4: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+Uncalled bet ($0.15) returned to manolis753
+manolis753 collected $0.25 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 folded before Flop (didn't bet)
+Seat 3: bigfish0202 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 collected ($0.25)
+
+
+
+PokerStars Hand #222955719959:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:47:13 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.84 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.75 in chips) 
+Seat 4: Mazerpelt ($17.14 in chips) 
+Seat 5: Gintoxicated ($3.88 in chips) 
+Seat 6: manolis753 ($16.04 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+norbe4: folds 
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+Uncalled bet ($0.05) returned to manolis753
+manolis753 collected $0.10 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded before Flop
+Seat 6: manolis753 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222955723589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:47:20 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.84 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10.75 in chips) 
+Seat 4: Mazerpelt ($17.14 in chips) 
+Seat 5: Gintoxicated ($3.83 in chips) 
+Seat 6: manolis753 ($16.09 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+norbe4: raises $0.20 to $0.30
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to norbe4
+norbe4 collected $0.25 from pot
+norbe4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: norbe4 collected ($0.25)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955732374:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:47:37 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.74 in chips) 
+Seat 2: norbe4 ($10.15 in chips) 
+Seat 3: bigfish0202 ($10.75 in chips) 
+Seat 4: Mazerpelt ($17.14 in chips) 
+Seat 5: Gintoxicated ($3.83 in chips) 
+Seat 6: manolis753 ($16.04 in chips) 
+login-kev: posts small blind $0.05
+norbe4: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: raises $0.70 to $1
+norbe4: folds 
+Gintoxicated: folds 
+Uncalled bet ($0.70) returned to login-kev
+login-kev collected $0.70 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: login-kev (small blind) collected ($0.70)
+Seat 2: norbe4 (big blind) folded before Flop
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955751327:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:48:14 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($13.14 in chips) 
+Seat 2: norbe4 ($10.05 in chips) 
+Seat 3: bigfish0202 ($10.75 in chips) 
+Seat 4: Mazerpelt ($17.14 in chips) 
+Seat 5: Gintoxicated ($3.53 in chips) 
+Seat 6: manolis753 ($16.04 in chips) 
+norbe4: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+norbe4: folds 
+bigfish0202: raises $0.65 to $0.90
+login-kev: raises $1.50 to $2.40
+bigfish0202: folds 
+Uncalled bet ($1.50) returned to login-kev
+login-kev collected $1.85 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: login-kev (button) collected ($1.85)
+Seat 2: norbe4 (small blind) folded before Flop
+Seat 3: bigfish0202 (big blind) folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955764773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:48:40 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($14.09 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($17.14 in chips) 
+Seat 5: Gintoxicated ($3.53 in chips) 
+Seat 6: manolis753 ($16.04 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+norbe4: raises $0.15 to $0.25
+bigfish0202: folds 
+Mazerpelt: calls $0.15
+*** FLOP *** [Jh Qh Th]
+Mazerpelt: checks 
+norbe4: bets $0.27
+Mazerpelt: calls $0.27
+*** TURN *** [Jh Qh Th] [9h]
+Mazerpelt: checks 
+norbe4: checks 
+*** RIVER *** [Jh Qh Th 9h] [Ks]
+Mazerpelt: bets $0.30
+norbe4: folds 
+Uncalled bet ($0.30) returned to Mazerpelt
+Mazerpelt collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [Jh Qh Th 9h Ks]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 (button) folded on the River
+Seat 3: bigfish0202 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) collected ($1.04)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955792324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:49:34 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($14.09 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($17.66 in chips) 
+Seat 5: Gintoxicated ($3.53 in chips) 
+Seat 6: manolis753 ($16.04 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+norbe4: folds 
+bigfish0202: raises $0.20 to $0.30
+Mazerpelt: folds 
+Gintoxicated: raises $0.65 to $0.95
+bigfish0202: calls $0.65
+*** FLOP *** [Kh 8h 7d]
+Gintoxicated: bets $0.93
+bigfish0202: folds 
+Uncalled bet ($0.93) returned to Gintoxicated
+Gintoxicated collected $1.86 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Kh 8h 7d]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 folded before Flop (didn't bet)
+Seat 3: bigfish0202 (button) folded on the Flop
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) collected ($1.86)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955809893:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:50:08 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($14.09 in chips) 
+Seat 2: norbe4 ($10 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($4.44 in chips) 
+Seat 6: manolis753 ($16.04 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+norbe4: folds 
+bigfish0202: raises $0.20 to $0.30
+Mazerpelt: folds 
+Gintoxicated: calls $0.25
+manolis753: folds 
+*** FLOP *** [Kd 7h Qd]
+Gintoxicated: checks 
+bigfish0202: bets $0.41
+Gintoxicated: calls $0.41
+*** TURN *** [Kd 7h Qd] [Td]
+norbe4 leaves the table
+Gintoxicated: checks 
+bigfish0202: checks 
+*** RIVER *** [Kd 7h Qd Td] [Js]
+SERG244 joins the table at seat #2 
+Gintoxicated: bets $1.10
+bigfish0202: folds 
+Uncalled bet ($1.10) returned to Gintoxicated
+Gintoxicated collected $1.45 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.07 
+Board [Kd 7h Qd Td Js]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: norbe4 folded before Flop (didn't bet)
+Seat 3: bigfish0202 folded on the River
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) collected ($1.45)
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955841773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:50:56 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($14.09 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($5.18 in chips) 
+Seat 6: manolis753 ($15.94 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+SERG244: sits out 
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: calls $0.10
+manolis753: raises $0.38 to $0.48
+login-kev: raises $0.82 to $1.30
+Gintoxicated: folds 
+manolis753: calls $0.82
+*** FLOP *** [5h 8d 5d]
+manolis753: checks 
+login-kev: bets $1.10
+manolis753: calls $1.10
+*** TURN *** [5h 8d 5d] [4h]
+manolis753: checks 
+login-kev: checks 
+*** RIVER *** [5h 8d 5d 4h] [Jd]
+manolis753: checks 
+login-kev: bets $3.74
+manolis753: folds 
+Uncalled bet ($3.74) returned to login-kev
+login-kev collected $4.68 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.22 
+Board [5h 8d 5d 4h Jd]
+Seat 1: login-kev (big blind) collected ($4.68)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop
+Seat 6: manolis753 (small blind) folded on the River
+
+
+
+PokerStars Hand #222955902452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:52:55 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($16.37 in chips) 
+Seat 2: SERG244 ($10 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($5.08 in chips) 
+Seat 6: manolis753 ($13.54 in chips) 
+login-kev: posts small blind $0.05
+SERG244: posts big blind $0.10
+*** HOLE CARDS ***
+bigfish0202: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.05) returned to SERG244
+SERG244 collected $0.10 from pot
+SERG244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: SERG244 (big blind) collected ($0.10)
+Seat 3: bigfish0202 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955906126:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:53:02 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($16.32 in chips) 
+Seat 2: SERG244 ($10.05 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($5.08 in chips) 
+Seat 6: manolis753 ($13.54 in chips) 
+SERG244: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+SERG244: folds 
+Uncalled bet ($0.05) returned to bigfish0202
+bigfish0202 collected $0.10 from pot
+bigfish0202: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: SERG244 (small blind) folded before Flop
+Seat 3: bigfish0202 (big blind) collected ($0.10)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955914410:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:53:19 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($16.32 in chips) 
+Seat 2: SERG244 ($10 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($5.08 in chips) 
+Seat 6: manolis753 ($13.54 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+SERG244: raises $0.16 to $0.26
+bigfish0202 joins the table at seat #3 
+Mazerpelt: folds 
+Gintoxicated: folds 
+Uncalled bet ($0.16) returned to SERG244
+SERG244 collected $0.25 from pot
+SERG244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: SERG244 (button) collected ($0.25)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955921850:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:53:33 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($16.32 in chips) 
+Seat 2: SERG244 ($10.15 in chips) 
+Seat 4: Mazerpelt ($17.56 in chips) 
+Seat 5: Gintoxicated ($4.98 in chips) 
+Seat 6: manolis753 ($13.54 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+bigfish0202: sits out 
+*** HOLE CARDS ***
+login-kev: raises $0.15 to $0.25
+SERG244: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: calls $0.15
+*** FLOP *** [9c Ac 4d]
+manolis753: checks 
+login-kev: bets $0.30
+manolis753: calls $0.30
+*** TURN *** [9c Ac 4d] [7d]
+manolis753: checks 
+login-kev: bets $0.70
+manolis753: folds 
+Uncalled bet ($0.70) returned to login-kev
+login-kev collected $1.10 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [9c Ac 4d 7d]
+Seat 1: login-kev collected ($1.10)
+Seat 2: SERG244 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded before Flop
+Seat 6: manolis753 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222955943605:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:54:16 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($16.87 in chips) 
+Seat 2: SERG244 ($10.15 in chips) 
+Seat 4: Mazerpelt ($17.56 in chips) 
+Seat 5: Gintoxicated ($4.93 in chips) 
+Seat 6: manolis753 ($12.99 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+bigfish0202: sits out 
+*** HOLE CARDS ***
+SERG244: folds 
+SERG244 leaves the table
+Debolle111 joins the table at seat #2 
+Mazerpelt has timed out
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+Uncalled bet ($0.05) returned to login-kev
+login-kev collected $0.10 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (big blind) collected ($0.10)
+Seat 2: SERG244 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955952432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:54:34 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($16.92 in chips) 
+Seat 2: Debolle111 ($5 in chips) 
+Seat 5: Gintoxicated ($4.93 in chips) 
+Seat 6: manolis753 ($12.94 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+bigfish0202: sits out 
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: folds 
+Uncalled bet ($0.15) returned to login-kev
+login-kev collected $0.20 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (small blind) collected ($0.20)
+Seat 2: Debolle111 (big blind) folded before Flop
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955962580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:54:54 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($17.02 in chips) 
+Seat 2: Debolle111 ($4.90 in chips) 
+Seat 3: bigfish0202 ($10.05 in chips) 
+Seat 4: Mazerpelt ($17.56 in chips) 
+Seat 5: Gintoxicated ($4.93 in chips) 
+Seat 6: manolis753 ($12.94 in chips) 
+Debolle111: posts small blind $0.05
+bigfish0202: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: raises $0.20 to $0.30
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: calls $0.25
+bigfish0202: folds 
+*** FLOP *** [Jd Kd Td]
+Debolle111: bets $0.34
+Mazerpelt: raises $0.90 to $1.24
+Debolle111: calls $0.90
+*** TURN *** [Jd Kd Td] [4d]
+Debolle111: bets $1.52
+Mazerpelt: raises $6.08 to $7.60
+Debolle111: folds 
+Uncalled bet ($6.08) returned to Mazerpelt
+Mazerpelt collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.22 | Rake $0.28 
+Board [Jd Kd Td 4d]
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: Debolle111 (small blind) folded on the Turn
+Seat 3: bigfish0202 (big blind) folded before Flop
+Seat 4: Mazerpelt collected ($5.94)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955979655:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:55:33 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($17.02 in chips) 
+Seat 2: Debolle111 ($1.84 in chips) 
+Seat 3: bigfish0202 ($10 in chips) 
+Seat 4: Mazerpelt ($20.44 in chips) 
+Seat 5: Gintoxicated ($4.93 in chips) 
+Seat 6: manolis753 ($12.94 in chips) 
+bigfish0202: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: calls $0.25
+bigfish0202: folds 
+Mazerpelt: calls $0.15
+*** FLOP *** [As 4c Kd]
+bigfish0202 leaves the table
+Mazerpelt: checks 
+login-kev: bets $0.23
+Debolle111: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.23) returned to login-kev
+login-kev collected $0.76 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [As 4c Kd]
+Seat 1: login-kev collected ($0.76)
+Seat 2: Debolle111 (button) folded on the Flop
+Seat 3: bigfish0202 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded on the Flop
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955991892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:56:03 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($17.53 in chips) 
+Seat 2: Debolle111 ($8.07 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($4.93 in chips) 
+Seat 6: manolis753 ($12.94 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: calls $0.20
+*** FLOP *** [Js 8d 3s]
+manolis753: checks 
+Debolle111: bets $0.31
+manolis753: folds 
+Uncalled bet ($0.31) returned to Debolle111
+Debolle111 collected $0.62 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Js 8d 3s]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 collected ($0.62)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded before Flop
+Seat 6: manolis753 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222956001196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:56:26 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($17.53 in chips) 
+Seat 2: Debolle111 ($8.39 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($4.88 in chips) 
+Seat 6: manolis753 ($12.64 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: raises $0.20 to $0.30
+curva1234 joins the table at seat #3 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to Debolle111
+Debolle111 collected $0.25 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 collected ($0.25)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956005329:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:56:37 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($17.43 in chips) 
+Seat 2: Debolle111 ($8.54 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($4.88 in chips) 
+Seat 6: manolis753 ($12.59 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+curva1234: sits out 
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: calls $0.10
+manolis753: folds 
+login-kev: folds 
+Debolle111: checks 
+*** FLOP *** [6h 8h Jd]
+Debolle111: checks 
+Gintoxicated: bets $0.24
+Debolle111: folds 
+Uncalled bet ($0.24) returned to Gintoxicated
+Gintoxicated collected $0.24 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6h 8h Jd]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded on the Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated collected ($0.24)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956019575:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:57:12 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($17.38 in chips) 
+Seat 2: Debolle111 ($8.44 in chips) 
+Seat 3: curva1234 ($8 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($5.02 in chips) 
+Seat 6: manolis753 ($12.59 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+Uncalled bet ($0.05) returned to curva1234
+curva1234 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) collected ($0.10)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956024432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:57:24 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($17.38 in chips) 
+Seat 2: Debolle111 ($8.39 in chips) 
+Seat 3: curva1234 ($8.05 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($5.02 in chips) 
+Seat 6: manolis753 ($12.59 in chips) 
+curva1234: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Uncalled bet ($0.05) returned to Mazerpelt
+Mazerpelt collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded before Flop (didn't bet)
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) collected ($0.10)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956030206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:57:38 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($17.38 in chips) 
+Seat 2: Debolle111 ($8.39 in chips) 
+Seat 3: curva1234 ($8 in chips) 
+Seat 4: Mazerpelt ($20.24 in chips) 
+Seat 5: Gintoxicated ($5.02 in chips) 
+Seat 6: manolis753 ($12.59 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: folds 
+curva1234: calls $0.25
+Mazerpelt: folds 
+Gintoxicated: folds 
+*** FLOP *** [Kc 4s Th]
+login-kev: bets $0.50
+curva1234: folds 
+Uncalled bet ($0.50) returned to login-kev
+login-kev collected $0.62 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Kc 4s Th]
+Seat 1: login-kev collected ($0.62)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 (button) folded on the Flop
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956042118:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:58:08 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($17.75 in chips) 
+Seat 2: Debolle111 ($8.39 in chips) 
+Seat 3: curva1234 ($7.75 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($4.92 in chips) 
+Seat 6: manolis753 ($12.59 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: folds 
+Gintoxicated: raises $0.10 to $0.20
+manolis753: folds 
+Uncalled bet ($0.10) returned to Gintoxicated
+Gintoxicated collected $0.20 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) collected ($0.20)
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956047117:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:58:20 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($17.75 in chips) 
+Seat 2: Debolle111 ($8.39 in chips) 
+Seat 3: curva1234 ($7.75 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($5.02 in chips) 
+Seat 6: manolis753 ($12.49 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: folds 
+Gintoxicated: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to Gintoxicated
+Gintoxicated collected $0.25 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) collected ($0.25)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956050586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:58:30 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($17.65 in chips) 
+Seat 2: Debolle111 ($8.39 in chips) 
+Seat 3: curva1234 ($7.75 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($5.17 in chips) 
+Seat 6: manolis753 ($12.44 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: raises $0.10 to $0.20
+Mazerpelt: folds 
+Gintoxicated: raises $0.10 to $0.30
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+curva1234: calls $0.10
+*** FLOP *** [5c 5s Td]
+curva1234: checks 
+Gintoxicated: bets $0.36
+curva1234: folds 
+Uncalled bet ($0.36) returned to Gintoxicated
+Gintoxicated collected $0.72 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5c 5s Td]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded before Flop
+Seat 3: curva1234 folded on the Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated collected ($0.72)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956061477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:58:57 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($17.60 in chips) 
+Seat 2: Debolle111 ($8.29 in chips) 
+Seat 3: curva1234 ($7.45 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($5.59 in chips) 
+Seat 6: manolis753 ($12.44 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+Uncalled bet ($0.05) returned to curva1234
+curva1234 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) collected ($0.10)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956064752:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:59:05 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($17.60 in chips) 
+Seat 2: Debolle111 ($8.24 in chips) 
+Seat 3: curva1234 ($7.50 in chips) 
+Seat 4: Mazerpelt ($20.19 in chips) 
+Seat 5: Gintoxicated ($5.59 in chips) 
+Seat 6: manolis753 ($12.44 in chips) 
+curva1234: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+Debolle111: calls $0.25
+curva1234: calls $0.20
+Mazerpelt: raises $1.25 to $1.50
+manolis753: calls $1.25
+Debolle111: folds 
+curva1234: folds 
+*** FLOP *** [Ah 2c 9h]
+Mazerpelt: checks 
+manolis753: checks 
+*** TURN *** [Ah 2c 9h] [6c]
+Mazerpelt: bets $1.10
+manolis753: calls $1.10
+*** RIVER *** [Ah 2c 9h 6c] [Kc]
+Mazerpelt: checks 
+manolis753: bets $5
+Mazerpelt: folds 
+Uncalled bet ($5) returned to manolis753
+manolis753 collected $5.44 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.26 
+Board [Ah 2c 9h 6c Kc]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded before Flop
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded on the River
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 collected ($5.44)
+
+
+
+PokerStars Hand #222956126647:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:01:30 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($17.60 in chips) 
+Seat 2: Debolle111 ($7.99 in chips) 
+Seat 3: curva1234 ($7.25 in chips) 
+Seat 4: Mazerpelt ($17.59 in chips) 
+Seat 5: Gintoxicated ($5.59 in chips) 
+Seat 6: manolis753 ($15.28 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+curva1234: calls $0.30
+Mazerpelt: folds 
+Gintoxicated: folds 
+*** FLOP *** [Tc 7s 5h]
+Debolle111: checks 
+curva1234: bets $0.36
+Debolle111: calls $0.36
+*** TURN *** [Tc 7s 5h] [Qd]
+Debolle111: checks 
+curva1234: bets $1.05
+Debolle111: folds 
+Uncalled bet ($1.05) returned to curva1234
+curva1234 collected $1.40 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [Tc 7s 5h Qd]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded on the Turn
+Seat 3: curva1234 (button) collected ($1.40)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956157397:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:02:31 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($17.60 in chips) 
+Seat 2: Debolle111 ($7.33 in chips) 
+Seat 3: curva1234 ($7.99 in chips) 
+Seat 4: Mazerpelt ($17.54 in chips) 
+Seat 5: Gintoxicated ($5.49 in chips) 
+Seat 6: manolis753 ($15.28 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: raises $0.10 to $0.20
+Mazerpelt: calls $0.20
+Gintoxicated: raises $0.10 to $0.30
+manolis753: folds 
+curva1234: calls $0.10
+Mazerpelt: calls $0.10
+*** FLOP *** [Ac Ah 9c]
+Gintoxicated: checks 
+curva1234: checks 
+Mazerpelt: bets $0.50
+Gintoxicated: calls $0.50
+curva1234: folds 
+*** TURN *** [Ac Ah 9c] [Jd]
+Gintoxicated: checks 
+Mazerpelt: bets $1.27
+Gintoxicated: calls $1.27
+*** RIVER *** [Ac Ah 9c Jd] [Th]
+Gintoxicated: checks 
+Mazerpelt: bets $4.34
+Gintoxicated: folds 
+Uncalled bet ($4.34) returned to Mazerpelt
+Mazerpelt collected $4.34 from pot
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.20 
+Board [Ac Ah 9c Jd Th]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded on the Flop
+Seat 4: Mazerpelt (button) collected ($4.34)
+Seat 5: Gintoxicated (small blind) folded on the River
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956214660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:04:10 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($17.60 in chips) 
+Seat 2: Debolle111 ($7.33 in chips) 
+Seat 3: curva1234 ($7.69 in chips) 
+Seat 4: Mazerpelt ($19.81 in chips) 
+Seat 5: Gintoxicated ($3.42 in chips) 
+Seat 6: manolis753 ($15.18 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234 has timed out
+curva1234: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: raises $0.20 to $0.30
+login-kev: calls $0.20
+*** FLOP *** [Jc 7c Jd]
+manolis753: bets $0.14
+login-kev: calls $0.14
+*** TURN *** [Jc 7c Jd] [5h]
+manolis753: checks 
+login-kev: bets $0.30
+manolis753: calls $0.30
+*** RIVER *** [Jc 7c Jd 5h] [9s]
+manolis753: checks 
+login-kev: bets $0.90
+manolis753: calls $0.90
+*** SHOW DOWN ***
+login-kev: shows [8h 8c] (two pair, Jacks and Eights)
+manolis753: shows [Qh Jh] (three of a kind, Jacks)
+manolis753 collected $3.13 from pot
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.15 
+Board [Jc 7c Jd 5h 9s]
+Seat 1: login-kev (big blind) showed [8h 8c] and lost with two pair, Jacks and Eights
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) showed [Qh Jh] and won ($3.13) with three of a kind, Jacks
+
+
+
+PokerStars Hand #222956261640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:05:40 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($15.96 in chips) 
+Seat 2: Debolle111 ($7.33 in chips) 
+Seat 3: curva1234 ($7.69 in chips) 
+Seat 4: Mazerpelt ($19.81 in chips) 
+Seat 5: Gintoxicated ($3.42 in chips) 
+Seat 6: manolis753 ($16.67 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+Mazerpelt: folds 
+Gintoxicated: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: folds 
+Debolle111: calls $0.20
+*** FLOP *** [As 2c Td]
+Debolle111: checks 
+Gintoxicated: bets $0.62
+Debolle111: folds 
+Uncalled bet ($0.62) returned to Gintoxicated
+Gintoxicated collected $0.62 from pot
+Gintoxicated: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [As 2c Td]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded on the Flop
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated collected ($0.62)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956275785:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:06:07 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($15.91 in chips) 
+Seat 2: Debolle111 ($7.03 in chips) 
+Seat 3: curva1234 ($7.69 in chips) 
+Seat 4: Mazerpelt ($19.81 in chips) 
+Seat 5: Gintoxicated ($3.74 in chips) 
+Seat 6: manolis753 ($16.67 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: raises $0.65 to $0.90
+Debolle111: folds 
+curva1234: raises $0.65 to $1.55
+manolis753: folds 
+login-kev: calls $0.65
+*** FLOP *** [6s 3s 2h]
+curva1234: bets $6.14 and is all-in
+login-kev: folds 
+Uncalled bet ($6.14) returned to curva1234
+curva1234 collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.40 | Rake $0.15 
+Board [6s 3s 2h]
+Seat 1: login-kev (button) folded on the Flop
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) collected ($3.25)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop
+
+
+
+PokerStars Hand #222956296711:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:06:47 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($14.36 in chips) 
+Seat 2: Debolle111 ($6.98 in chips) 
+Seat 3: curva1234 ($9.39 in chips) 
+Seat 4: Mazerpelt ($19.81 in chips) 
+Seat 5: Gintoxicated ($3.74 in chips) 
+Seat 6: manolis753 ($16.42 in chips) 
+curva1234: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+curva1234: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.20) returned to Debolle111
+Debolle111 collected $0.25 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) collected ($0.25)
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956310524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:07:13 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($14.36 in chips) 
+Seat 2: Debolle111 ($7.13 in chips) 
+Seat 3: curva1234 ($9.34 in chips) 
+Seat 4: Mazerpelt ($19.71 in chips) 
+Seat 5: Gintoxicated ($3.74 in chips) 
+Seat 6: manolis753 ($16.42 in chips) 
+Mazerpelt: posts small blind $0.05
+Gintoxicated: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+Debolle111: raises $0.65 to $0.90
+curva1234: folds 
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+Uncalled bet ($0.65) returned to Debolle111
+Debolle111 collected $0.65 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 collected ($0.65)
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: Gintoxicated (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop
+
+
+
+PokerStars Hand #222956320600:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:07:33 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($14.36 in chips) 
+Seat 2: Debolle111 ($7.53 in chips) 
+Seat 3: curva1234 ($9.34 in chips) 
+Seat 4: Mazerpelt ($19.66 in chips) 
+Seat 5: Gintoxicated ($3.64 in chips) 
+Seat 6: manolis753 ($16.17 in chips) 
+Gintoxicated: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: raises $0.10 to $0.20
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+Uncalled bet ($0.10) returned to curva1234
+curva1234 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 collected ($0.25)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: Gintoxicated (small blind) folded before Flop
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956328749:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:07:48 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($14.36 in chips) 
+Seat 2: Debolle111 ($7.53 in chips) 
+Seat 3: curva1234 ($9.49 in chips) 
+Seat 4: Mazerpelt ($19.66 in chips) 
+Seat 5: Gintoxicated ($3.59 in chips) 
+Seat 6: manolis753 ($16.07 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: calls $0.10
+Mazerpelt: raises $0.30 to $0.40
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: folds 
+curva1234: calls $0.30
+*** FLOP *** [9s Qc Qs]
+curva1234: checks 
+Mazerpelt: bets $0.61
+curva1234: calls $0.61
+*** TURN *** [9s Qc Qs] [8c]
+curva1234: bets $1.04
+Mazerpelt: calls $1.04
+*** RIVER *** [9s Qc Qs 8c] [Kd]
+curva1234: bets $2.03
+Mazerpelt: folds 
+Uncalled bet ($2.03) returned to curva1234
+curva1234 collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [9s Qc Qs 8c Kd]
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 collected ($4.06)
+Seat 4: Mazerpelt folded on the River
+Seat 5: Gintoxicated (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956390652:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:09:47 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($14.26 in chips) 
+Seat 2: Debolle111 ($7.53 in chips) 
+Seat 3: curva1234 ($11.50 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($3.59 in chips) 
+Seat 6: manolis753 ($16.02 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+Mazerpelt: folds 
+Gintoxicated: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: folds 
+Debolle111: calls $0.20
+*** FLOP *** [2d 9d 3c]
+Debolle111: bets $0.31
+Gintoxicated: calls $0.31
+*** TURN *** [2d 9d 3c] [5c]
+Debolle111: checks 
+Gintoxicated: bets $1.21
+Debolle111: raises $5.71 to $6.92 and is all-in
+Gintoxicated: calls $1.77 and is all-in
+Uncalled bet ($3.94) returned to Debolle111
+*** RIVER *** [2d 9d 3c 5c] [Jc]
+*** SHOW DOWN ***
+Debolle111: shows [As 3s] (a pair of Threes)
+Gintoxicated: shows [Jh 9h] (two pair, Jacks and Nines)
+Gintoxicated cashed out the hand for $5.43 | Cash Out Fee $0.05
+*** SUMMARY ***
+Total pot $7.23 | Rake $0.33 
+Board [2d 9d 3c 5c Jc]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) showed [As 3s] and lost with a pair of Threes
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated showed [Jh 9h] and won ($6.90) with two pair, Jacks and Nines (pot not awarded as player cashed out)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956410447:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:10:25 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($14.21 in chips) 
+Seat 2: Debolle111 ($3.94 in chips) 
+Seat 3: curva1234 ($11.50 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($5.43 in chips) 
+Seat 6: manolis753 ($16.02 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+Gintoxicated: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: folds 
+curva1234: calls $0.15
+*** FLOP *** [Kd 3d 2d]
+curva1234: checks 
+login-kev: bets $0.27
+curva1234: folds 
+Uncalled bet ($0.27) returned to login-kev
+login-kev collected $0.53 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Kd 3d 2d]
+Seat 1: login-kev (button) collected ($0.53)
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) folded on the Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: Gintoxicated folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956422689:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:10:48 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($14.49 in chips) 
+Seat 2: Debolle111 ($3.89 in chips) 
+Seat 3: curva1234 ($11.25 in chips) 
+Seat 4: Mazerpelt ($17.61 in chips) 
+Seat 5: Gintoxicated ($5.43 in chips) 
+Seat 6: manolis753 ($16.02 in chips) 
+curva1234: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+Gintoxicated: calls $0.10
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: raises $0.30 to $0.40
+Gintoxicated: calls $0.30
+*** FLOP *** [2c 3c Jc]
+Mazerpelt: bets $0.54
+Gintoxicated: calls $0.54
+*** TURN *** [2c 3c Jc] [3d]
+Mazerpelt: bets $1.23
+Gintoxicated: calls $1.23
+*** RIVER *** [2c 3c Jc 3d] [5d]
+Mazerpelt: bets $4.19
+Gintoxicated: calls $3.26 and is all-in
+Uncalled bet ($0.93) returned to Mazerpelt
+*** SHOW DOWN ***
+Mazerpelt: shows [As Ac] (two pair, Aces and Threes)
+Gintoxicated: shows [Js Ah] (two pair, Jacks and Threes)
+Mazerpelt collected $10.42 from pot
+*** SUMMARY ***
+Total pot $10.91 | Rake $0.49 
+Board [2c 3c Jc 3d 5d]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded before Flop (didn't bet)
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) showed [As Ac] and won ($10.42) with two pair, Aces and Threes
+Seat 5: Gintoxicated showed [Js Ah] and lost with two pair, Jacks and Threes
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956452363:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:11:44 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($14.49 in chips) 
+Seat 2: Debolle111 ($10 in chips) 
+Seat 3: curva1234 ($11.20 in chips) 
+Seat 4: Mazerpelt ($22.60 in chips) 
+Seat 6: manolis753 ($16.02 in chips) 
+Mazerpelt: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Gintoxicated leaves the table
+RUMJO joins the table at seat #5 
+Mazerpelt: folds 
+Uncalled bet ($0.05) returned to manolis753
+manolis753 collected $0.10 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 6: manolis753 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222956464143:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:12:07 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($14.49 in chips) 
+Seat 2: Debolle111 ($10 in chips) 
+Seat 3: curva1234 ($11.20 in chips) 
+Seat 4: Mazerpelt ($22.55 in chips) 
+Seat 6: manolis753 ($16.07 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to Mazerpelt
+Mazerpelt collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) collected ($0.25)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956472709:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:12:23 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($14.39 in chips) 
+Seat 2: Debolle111 ($10 in chips) 
+Seat 3: curva1234 ($11.20 in chips) 
+Seat 4: Mazerpelt ($22.70 in chips) 
+Seat 6: manolis753 ($16.02 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+RUMJO: sits out 
+*** HOLE CARDS ***
+curva1234 has timed out
+curva1234: folds 
+Mazerpelt: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: calls $0.15
+*** FLOP *** [5c Kd 2d]
+login-kev: bets $0.20
+Debolle111: calls $0.20
+*** TURN *** [5c Kd 2d] [Jh]
+login-kev: checks 
+Debolle111: bets $0.43
+login-kev: folds 
+Uncalled bet ($0.43) returned to Debolle111
+Debolle111 collected $0.86 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [5c Kd 2d Jh]
+Seat 1: login-kev (small blind) folded on the Turn
+Seat 2: Debolle111 (big blind) collected ($0.86)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956500653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:13:15 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($13.94 in chips) 
+Seat 2: Debolle111 ($10.41 in chips) 
+Seat 4: Mazerpelt ($22.70 in chips) 
+Seat 6: manolis753 ($16.02 in chips) 
+Debolle111: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+RUMJO: sits out 
+*** HOLE CARDS ***
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+Debolle111: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.15) returned to manolis753
+manolis753 collected $0.25 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 6: manolis753 collected ($0.25)
+
+
+
+PokerStars Hand #222956511333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:13:35 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($13.94 in chips) 
+Seat 2: Debolle111 ($10.36 in chips) 
+Seat 4: Mazerpelt ($22.60 in chips) 
+Seat 5: RUMJO ($10 in chips) 
+Seat 6: manolis753 ($16.17 in chips) 
+Mazerpelt: posts small blind $0.05
+RUMJO: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+Mazerpelt: folds 
+RUMJO: raises $0.60 to $0.90
+Debolle111: calls $0.60
+*** FLOP *** [Ah 9h 5d]
+RUMJO: checks 
+Debolle111: bets $0.89
+RUMJO: calls $0.89
+*** TURN *** [Ah 9h 5d] [5c]
+RUMJO: checks 
+Debolle111: checks 
+*** RIVER *** [Ah 9h 5d 5c] [Ts]
+RUMJO: bets $1.74
+Debolle111: folds 
+Uncalled bet ($1.74) returned to RUMJO
+RUMJO collected $3.47 from pot
+*** SUMMARY ***
+Total pot $3.63 | Rake $0.16 
+Board [Ah 9h 5d 5c Ts]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded on the River
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: RUMJO (big blind) collected ($3.47)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956541777:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:14:33 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($13.94 in chips) 
+Seat 2: Debolle111 ($8.57 in chips) 
+Seat 4: Mazerpelt ($22.55 in chips) 
+Seat 5: RUMJO ($11.68 in chips) 
+Seat 6: manolis753 ($16.17 in chips) 
+RUMJO: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+Mazerpelt: raises $0.20 to $0.30
+RUMJO: raises $0.60 to $0.90
+manolis753: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.60) returned to RUMJO
+RUMJO collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop
+Seat 5: RUMJO (small blind) collected ($0.70)
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956554762:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:14:57 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($13.94 in chips) 
+Seat 2: Debolle111 ($8.57 in chips) 
+Seat 4: Mazerpelt ($22.25 in chips) 
+Seat 5: RUMJO ($12.08 in chips) 
+Seat 6: manolis753 ($16.07 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: raises $0.20 to $0.30
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: raises $0.79 to $1.09
+login-kev: folds 
+Debolle111: folds 
+Uncalled bet ($0.79) returned to manolis753
+manolis753 collected $0.70 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) collected ($0.70)
+
+
+
+PokerStars Hand #222956571582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:15:29 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($13.84 in chips) 
+Seat 2: Debolle111 ($8.27 in chips) 
+Seat 4: Mazerpelt ($22.25 in chips) 
+Seat 5: RUMJO ($12.08 in chips) 
+Seat 6: manolis753 ($16.47 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+RUMJO: raises $0.17 to $0.27
+manolis753: calls $0.27
+login-kev: folds 
+Debolle111: folds 
+*** FLOP *** [2s Ah Ks]
+RUMJO: bets $0.33
+manolis753: folds 
+Uncalled bet ($0.33) returned to RUMJO
+RUMJO collected $0.66 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03 
+Board [2s Ah Ks]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO collected ($0.66)
+Seat 6: manolis753 (button) folded on the Flop
+
+
+
+PokerStars Hand #222956585613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:15:55 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($13.79 in chips) 
+Seat 2: Debolle111 ($8.17 in chips) 
+Seat 4: Mazerpelt ($22.25 in chips) 
+Seat 5: RUMJO ($12.47 in chips) 
+Seat 6: manolis753 ($16.20 in chips) 
+Debolle111: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+RUMJO: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: raises $0.65 to $0.90
+Debolle111: folds 
+Mazerpelt: folds 
+manolis753: calls $0.65
+*** FLOP *** [Qd 6c 8h]
+manolis753: checks 
+login-kev: bets $0.80
+manolis753: calls $0.80
+*** TURN *** [Qd 6c 8h] [4d]
+manolis753: checks 
+login-kev: bets $1.02
+manolis753: calls $1.02
+*** RIVER *** [Qd 6c 8h 4d] [Ks]
+manolis753: checks 
+login-kev: checks 
+*** SHOW DOWN ***
+manolis753: shows [Js Qs] (a pair of Queens)
+login-kev: mucks hand 
+manolis753 collected $5.34 from pot
+*** SUMMARY ***
+Total pot $5.59 | Rake $0.25 
+Board [Qd 6c 8h 4d Ks]
+Seat 1: login-kev (button) mucked
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 showed [Js Qs] and won ($5.34) with a pair of Queens
+
+
+
+PokerStars Hand #222956639936:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:17:36 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($11.07 in chips) 
+Seat 2: Debolle111 ($8.12 in chips) 
+Seat 4: Mazerpelt ($22.15 in chips) 
+Seat 5: RUMJO ($12.47 in chips) 
+Seat 6: manolis753 ($18.82 in chips) 
+Mazerpelt: posts small blind $0.05
+RUMJO: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.05) returned to RUMJO
+RUMJO collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: RUMJO (big blind) collected ($0.10)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956646858:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:17:49 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($11.07 in chips) 
+Seat 2: Debolle111 ($8.12 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.52 in chips) 
+Seat 6: manolis753 ($18.82 in chips) 
+RUMJO: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+Mazerpelt: folds 
+RUMJO: folds 
+Uncalled bet ($0.05) returned to manolis753
+manolis753 collected $0.10 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: RUMJO (small blind) folded before Flop
+Seat 6: manolis753 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222956655811:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:18:06 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($11.07 in chips) 
+Seat 2: Debolle111 ($8.12 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.47 in chips) 
+Seat 6: manolis753 ($18.87 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+Mazerpelt: folds 
+RUMJO: raises $0.17 to $0.27
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.17) returned to RUMJO
+RUMJO collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO (button) collected ($0.25)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956662607:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:18:19 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10.97 in chips) 
+Seat 2: Debolle111 ($8.12 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.82 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+curva1234: sits out 
+*** HOLE CARDS ***
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.05) returned to Debolle111
+Debolle111 collected $0.10 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) collected ($0.10)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956667882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:18:29 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10.92 in chips) 
+Seat 2: Debolle111 ($8.17 in chips) 
+Seat 3: curva1234 ($11.20 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.82 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: calls $0.25
+Debolle111: calls $0.20
+curva1234: folds 
+*** FLOP *** [3h 3s 6s]
+Debolle111: checks 
+manolis753: checks 
+login-kev: bets $0.38
+Debolle111: raises $0.58 to $0.96
+manolis753: folds 
+login-kev: calls $0.58
+*** TURN *** [3h 3s 6s] [Kd]
+Debolle111: checks 
+login-kev: checks 
+*** RIVER *** [3h 3s 6s Kd] [6h]
+Debolle111: checks 
+login-kev: checks 
+*** SHOW DOWN ***
+Debolle111: shows [Ks 7s] (two pair, Kings and Sixes)
+login-kev: mucks hand 
+Debolle111 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.77 | Rake $0.12 
+Board [3h 3s 6s Kd 6h]
+Seat 1: login-kev (button) mucked
+Seat 2: Debolle111 (small blind) showed [Ks 7s] and won ($2.65) with two pair, Kings and Sixes
+Seat 3: curva1234 (big blind) folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 folded on the Flop
+
+
+
+PokerStars Hand #222956715214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:19:57 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.61 in chips) 
+Seat 3: curva1234 ($11.10 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.57 in chips) 
+curva1234: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+RUMJO: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Uncalled bet ($0.05) returned to Mazerpelt
+Mazerpelt collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded before Flop (didn't bet)
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) collected ($0.10)
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956722356:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:20:11 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.61 in chips) 
+Seat 3: curva1234 ($11.05 in chips) 
+Seat 4: Mazerpelt ($22.15 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.57 in chips) 
+Mazerpelt: posts small blind $0.05
+RUMJO: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: folds 
+RUMJO: folds 
+Uncalled bet ($0.15) returned to login-kev
+login-kev collected $0.25 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev collected ($0.25)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: RUMJO (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956727814:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:20:21 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10.15 in chips) 
+Seat 2: Debolle111 ($9.61 in chips) 
+Seat 3: curva1234 ($11.05 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.52 in chips) 
+Seat 6: manolis753 ($18.57 in chips) 
+RUMJO: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: folds 
+RUMJO: folds 
+Uncalled bet ($0.05) returned to manolis753
+manolis753 collected $0.10 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: RUMJO (small blind) folded before Flop
+Seat 6: manolis753 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222956734097:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:20:32 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($10.15 in chips) 
+Seat 2: Debolle111 ($9.61 in chips) 
+Seat 3: curva1234 ($11.05 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.47 in chips) 
+Seat 6: manolis753 ($18.62 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: raises $0.20 to $0.30
+RUMJO: folds 
+manolis753: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to Mazerpelt
+Mazerpelt collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt collected ($0.25)
+Seat 5: RUMJO (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222956742177:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:20:47 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10.05 in chips) 
+Seat 2: Debolle111 ($9.61 in chips) 
+Seat 3: curva1234 ($11.05 in chips) 
+Seat 4: Mazerpelt ($22.25 in chips) 
+Seat 5: RUMJO ($12.47 in chips) 
+Seat 6: manolis753 ($18.57 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+Mazerpelt: folds 
+RUMJO: raises $0.17 to $0.27
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+Uncalled bet ($0.17) returned to RUMJO
+RUMJO collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded before Flop
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO collected ($0.25)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956751463:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:21:04 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.51 in chips) 
+Seat 3: curva1234 ($11.05 in chips) 
+Seat 4: Mazerpelt ($22.25 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.57 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: folds 
+curva1234: calls $0.15
+*** FLOP *** [Kh 6d 4d]
+curva1234: checks 
+login-kev: bets $0.20
+curva1234: calls $0.20
+*** TURN *** [Kh 6d 4d] [Qc]
+curva1234: checks 
+login-kev: checks 
+*** RIVER *** [Kh 6d 4d Qc] [Ac]
+curva1234: bets $0.68
+login-kev: folds 
+Uncalled bet ($0.68) returned to curva1234
+curva1234 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kh 6d 4d Qc Ac]
+Seat 1: login-kev (button) folded on the River
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) collected ($0.91)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956770333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:21:40 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.46 in chips) 
+Seat 3: curva1234 ($11.51 in chips) 
+Seat 4: Mazerpelt ($22.25 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.57 in chips) 
+curva1234: posts small blind $0.05
+Mazerpelt: posts big blind $0.10
+*** HOLE CARDS ***
+RUMJO: folds 
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+Debolle111: calls $0.25
+curva1234: folds 
+Mazerpelt: folds 
+*** FLOP *** [7s Th Qd]
+manolis753: bets $0.28
+Debolle111: calls $0.28
+*** TURN *** [7s Th Qd] [5s]
+manolis753: checks 
+Debolle111: bets $0.58
+manolis753: folds 
+Uncalled bet ($0.58) returned to Debolle111
+Debolle111 collected $1.16 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.05 
+Board [7s Th Qd 5s]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) collected ($1.16)
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: Mazerpelt (big blind) folded before Flop
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 folded on the Turn
+
+
+
+PokerStars Hand #222956800093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:22:35 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($10.09 in chips) 
+Seat 3: curva1234 ($11.46 in chips) 
+Seat 4: Mazerpelt ($22.15 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($18.04 in chips) 
+Mazerpelt: posts small blind $0.05
+RUMJO: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: folds 
+Uncalled bet ($0.05) returned to RUMJO
+RUMJO collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: Mazerpelt (small blind) folded before Flop
+Seat 5: RUMJO (big blind) collected ($0.10)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956805009:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:22:44 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($10.09 in chips) 
+Seat 3: curva1234 ($11.46 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.67 in chips) 
+Seat 6: manolis753 ($18.04 in chips) 
+RUMJO: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: raises $0.20 to $0.30
+Debolle111: folds 
+curva1234: folds 
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: folds 
+Uncalled bet ($0.20) returned to login-kev
+login-kev collected $0.25 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev collected ($0.25)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt (button) folded before Flop (didn't bet)
+Seat 5: RUMJO (small blind) folded before Flop
+Seat 6: manolis753 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222956812340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:22:58 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($10.15 in chips) 
+Seat 2: Debolle111 ($10.09 in chips) 
+Seat 3: curva1234 ($11.46 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($17.94 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: raises $0.20 to $0.30
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: raises $0.79 to $1.09
+login-kev: folds 
+curva1234: calls $0.79
+*** FLOP *** [9d 5d As]
+manolis753: bets $0.96
+curva1234: folds 
+Uncalled bet ($0.96) returned to manolis753
+manolis753 collected $2.18 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.10 
+Board [9d 5d As]
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded on the Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) collected ($2.18)
+
+
+
+PokerStars Hand #222956848344:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:24:04 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10.05 in chips) 
+Seat 2: Debolle111 ($10.09 in chips) 
+Seat 3: curva1234 ($10.37 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.62 in chips) 
+Seat 6: manolis753 ($19.03 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+Mazerpelt: folds 
+RUMJO: raises $0.17 to $0.27
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+Uncalled bet ($0.17) returned to RUMJO
+RUMJO collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded before Flop
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO collected ($0.25)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956856781:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:24:20 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.99 in chips) 
+Seat 3: curva1234 ($10.37 in chips) 
+Seat 4: Mazerpelt ($22.10 in chips) 
+Seat 5: RUMJO ($12.77 in chips) 
+Seat 6: manolis753 ($19.03 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+Mazerpelt: folds 
+RUMJO: folds 
+manolis753: raises $0.15 to $0.25
+Mazerpelt leaves the table
+login-kev: raises $0.65 to $0.90
+Debolle111: folds 
+curva1234: folds 
+nate200200 joins the table at seat #4 
+manolis753: calls $0.65
+*** FLOP *** [6c 9s Th]
+manolis753: checks 
+login-kev: bets $0.80
+manolis753: calls $0.80
+*** TURN *** [6c 9s Th] [5c]
+manolis753: checks 
+login-kev: bets $1.50
+manolis753: calls $1.50
+*** RIVER *** [6c 9s Th 5c] [Qc]
+RUMJO leaves the table
+manolis753: checks 
+bigbadwooods joins the table at seat #5 
+login-kev: checks 
+*** SHOW DOWN ***
+manolis753: shows [Kc Ks] (a pair of Kings)
+login-kev: mucks hand 
+manolis753 collected $6.26 from pot
+*** SUMMARY ***
+Total pot $6.55 | Rake $0.29 
+Board [6c 9s Th 5c Qc]
+Seat 1: login-kev (button) mucked
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) folded before Flop
+Seat 4: Mazerpelt folded before Flop (didn't bet)
+Seat 5: RUMJO folded before Flop (didn't bet)
+Seat 6: manolis753 showed [Kc Ks] and won ($6.26) with a pair of Kings
+
+
+
+PokerStars Hand #222956907906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:25:54 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.94 in chips) 
+Seat 3: curva1234 ($10.27 in chips) 
+Seat 4: nate200200 ($10 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($22.09 in chips) 
+curva1234: posts small blind $0.05
+nate200200: posts big blind $0.10
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: checks 
+manolis753: raises $0.15 to $0.25
+login-kev: folds 
+Debolle111: calls $0.25
+curva1234: calls $0.20
+nate200200: calls $0.15
+bigbadwooods: folds 
+*** FLOP *** [2s Ad Jd]
+curva1234: checks 
+nate200200: checks 
+manolis753: checks 
+Debolle111: checks 
+*** TURN *** [2s Ad Jd] [Qh]
+curva1234: bets $0.79
+nate200200: folds 
+manolis753: calls $0.79
+Debolle111: calls $0.79
+*** RIVER *** [2s Ad Jd Qh] [9h]
+curva1234: bets $1.66
+manolis753: folds 
+Debolle111: folds 
+Uncalled bet ($1.66) returned to curva1234
+curva1234 collected $3.31 from pot
+*** SUMMARY ***
+Total pot $3.47 | Rake $0.16 
+Board [2s Ad Jd Qh 9h]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded on the River
+Seat 3: curva1234 (small blind) collected ($3.31)
+Seat 4: nate200200 (big blind) folded on the Turn
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 folded on the River
+
+
+
+PokerStars Hand #222956936635:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:26:47 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($8.90 in chips) 
+Seat 3: curva1234 ($12.54 in chips) 
+Seat 4: nate200200 ($9.75 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($21.05 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+curva1234: calls $0.30
+nate200200: calls $0.25
+bigbadwooods: calls $0.20
+*** FLOP *** [Kh 5c 5d]
+nate200200: checks 
+bigbadwooods: checks 
+Debolle111: checks 
+curva1234: checks 
+*** TURN *** [Kh 5c 5d] [2s]
+nate200200: checks 
+bigbadwooods: bets $0.60
+Debolle111: folds 
+curva1234: raises $0.60 to $1.20
+nate200200: folds 
+bigbadwooods: calls $0.60
+*** RIVER *** [Kh 5c 5d 2s] [5h]
+bigbadwooods: checks 
+curva1234: checks 
+*** SHOW DOWN ***
+bigbadwooods: shows [8c 8h] (a full house, Fives full of Eights)
+curva1234: shows [Ac Ks] (a full house, Fives full of Kings)
+curva1234 collected $3.44 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [Kh 5c 5d 2s 5h]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded on the Turn
+Seat 3: curva1234 (button) showed [Ac Ks] and won ($3.44) with a full house, Fives full of Kings
+Seat 4: nate200200 (small blind) folded on the Turn
+Seat 5: bigbadwooods (big blind) showed [8c 8h] and lost with a full house, Fives full of Eights
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222956968080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:27:45 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($8.60 in chips) 
+Seat 3: curva1234 ($14.48 in chips) 
+Seat 4: nate200200 ($9.45 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($21.05 in chips) 
+bigbadwooods: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+curva1234: calls $0.30
+nate200200: calls $0.30
+bigbadwooods: folds 
+manolis753: calls $0.20
+*** FLOP *** [Js 3h 6d]
+manolis753: checks 
+Debolle111: bets $0.60
+curva1234: folds 
+nate200200: calls $0.60
+manolis753: folds 
+*** TURN *** [Js 3h 6d] [Jh]
+Debolle111: bets $1.17
+nate200200: calls $1.17
+*** RIVER *** [Js 3h 6d Jh] [Jd]
+Debolle111: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+Debolle111: shows [7h 6h] (a full house, Jacks full of Sixes)
+nate200200: shows [6c Kd] (a full house, Jacks full of Sixes)
+Debolle111 collected $2.29 from pot
+nate200200 collected $2.28 from pot
+*** SUMMARY ***
+Total pot $4.79 | Rake $0.22 
+Board [Js 3h 6d Jh Jd]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 showed [7h 6h] and won ($2.29) with a full house, Jacks full of Sixes
+Seat 3: curva1234 folded on the Flop
+Seat 4: nate200200 (button) showed [6c Kd] and won ($2.28) with a full house, Jacks full of Sixes
+Seat 5: bigbadwooods (small blind) folded before Flop
+Seat 6: manolis753 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222956989563:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:28:24 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($8.82 in chips) 
+Seat 3: curva1234 ($14.18 in chips) 
+Seat 4: nate200200 ($9.66 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($20.75 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: raises $0.35 to $0.45
+nate200200: calls $0.45
+bigbadwooods: calls $0.45
+manolis753: raises $1.75 to $2.20
+login-kev: folds 
+curva1234: raises $11.98 to $14.18 and is all-in
+nate200200: folds 
+bigbadwooods: folds 
+manolis753: folds 
+Uncalled bet ($11.98) returned to curva1234
+curva1234 collected $5.40 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 collected ($5.40)
+Seat 4: nate200200 folded before Flop
+Seat 5: bigbadwooods (button) folded before Flop
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957006255:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:28:55 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($8.82 in chips) 
+Seat 3: curva1234 ($17.38 in chips) 
+Seat 4: nate200200 ($9.21 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($18.55 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: raises $0.26 to $0.36
+login-kev: folds 
+Debolle111: folds 
+nate200200: calls $0.26
+*** FLOP *** [5h 3h Tc]
+nate200200: checks 
+manolis753: bets $0.21
+nate200200: calls $0.21
+*** TURN *** [5h 3h Tc] [4s]
+nate200200: checks 
+manolis753: bets $1.54
+nate200200: calls $1.54
+*** RIVER *** [5h 3h Tc 4s] [Qd]
+nate200200: checks 
+manolis753: checks 
+*** SHOW DOWN ***
+nate200200: shows [7s 7c] (a pair of Sevens)
+manolis753: shows [6h Qh] (a pair of Queens)
+manolis753 collected $4.17 from pot
+*** SUMMARY ***
+Total pot $4.37 | Rake $0.20 
+Board [5h 3h Tc 4s Qd]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) folded before Flop
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 showed [7s 7c] and lost with a pair of Sevens
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 (button) showed [6h Qh] and won ($4.17) with a pair of Queens
+
+
+
+PokerStars Hand #222957035328:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:29:48 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($8.72 in chips) 
+Seat 3: curva1234 ($17.38 in chips) 
+Seat 4: nate200200 ($7.10 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($20.61 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: raises $0.30 to $0.40
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+nate200200: folds 
+Uncalled bet ($0.30) returned to manolis753
+manolis753 collected $0.35 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) folded before Flop
+Seat 4: nate200200 folded before Flop
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 collected ($0.35)
+
+
+
+PokerStars Hand #222957046141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:30:08 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($8.67 in chips) 
+Seat 3: curva1234 ($17.28 in chips) 
+Seat 4: nate200200 ($7 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($20.86 in chips) 
+curva1234: posts small blind $0.05
+nate200200: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: calls $0.30
+Debolle111: calls $0.30
+curva1234: folds 
+nate200200: folds 
+*** FLOP *** [5c 9h 7d]
+bigbadwooods: checks 
+login-kev: checks 
+Debolle111: bets $0.50
+bigbadwooods: folds 
+login-kev: folds 
+Uncalled bet ($0.50) returned to Debolle111
+Debolle111 collected $1 from pot
+Debolle111: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [5c 9h 7d]
+Seat 1: login-kev folded on the Flop
+Seat 2: Debolle111 (button) collected ($1)
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: nate200200 (big blind) folded before Flop
+Seat 5: bigbadwooods folded on the Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957065143:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:30:43 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.37 in chips) 
+Seat 3: curva1234 ($17.23 in chips) 
+Seat 4: nate200200 ($6.90 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($20.86 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+Debolle111: folds 
+curva1234: folds 
+nate200200: raises $0.15 to $0.40
+bigbadwooods: folds 
+login-kev: raises $0.70 to $1.10
+nate200200: calls $0.70
+*** FLOP *** [Jc 6s 7c]
+nate200200: bets $0.10
+login-kev: raises $0.90 to $1
+nate200200: calls $0.90
+*** TURN *** [Jc 6s 7c] [6c]
+nate200200: bets $1.80
+login-kev: raises $6.10 to $7.90 and is all-in
+nate200200: calls $3 and is all-in
+Uncalled bet ($3.10) returned to login-kev
+*** RIVER *** [Jc 6s 7c 6c] [Jh]
+*** SHOW DOWN ***
+nate200200: shows [6h 6d] (four of a kind, Sixes)
+login-kev: shows [As Ad] (two pair, Aces and Jacks)
+nate200200 collected $13.27 from pot
+*** SUMMARY ***
+Total pot $13.90 | Rake $0.63 
+Board [Jc 6s 7c 6c Jh]
+Seat 1: login-kev showed [As Ad] and lost with two pair, Aces and Jacks
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: nate200200 (small blind) showed [6h 6d] and won ($13.27) with four of a kind, Sixes
+Seat 5: bigbadwooods (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957110136:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:31:53 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.37 in chips) 
+Seat 3: curva1234 ($17.23 in chips) 
+Seat 4: nate200200 ($13.27 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($20.86 in chips) 
+bigbadwooods: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: raises $0.60 to $0.70
+nate200200: calls $0.60
+*** FLOP *** [Jh 3h Ts]
+manolis753: checks 
+nate200200: checks 
+*** TURN *** [Jh 3h Ts] [5h]
+manolis753: checks 
+nate200200: checks 
+*** RIVER *** [Jh 3h Ts 5h] [Qh]
+manolis753: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+manolis753: shows [Ac Kc] (a straight, Ten to Ace)
+nate200200: mucks hand 
+manolis753 collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [Jh 3h Ts 5h Qh]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 (button) mucked
+Seat 5: bigbadwooods (small blind) folded before Flop
+Seat 6: manolis753 (big blind) showed [Ac Kc] and won ($1.38) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #222957131972:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:32:33 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.37 in chips) 
+Seat 3: curva1234 ($17.23 in chips) 
+Seat 4: nate200200 ($12.57 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($21.54 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+Debolle111: folds 
+curva1234: folds 
+nate200200: folds 
+bigbadwooods: folds 
+manolis753: calls $0.05
+login-kev: checks 
+*** FLOP *** [3d Ah Kh]
+manolis753: bets $0.10
+login-kev: folds 
+Uncalled bet ($0.10) returned to manolis753
+manolis753 collected $0.19 from pot
+manolis753: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d Ah Kh]
+Seat 1: login-kev (big blind) folded on the Flop
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 folded before Flop (didn't bet)
+Seat 5: bigbadwooods (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #222957141734:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:32:50 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.37 in chips) 
+Seat 3: curva1234 ($17.23 in chips) 
+Seat 4: nate200200 ($12.57 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($21.63 in chips) 
+login-kev: posts small blind $0.05
+Debolle111: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: checks 
+*** FLOP *** [Qh 5d Qd]
+Debolle111: checks 
+nate200200: checks 
+*** TURN *** [Qh 5d Qd] [Td]
+Debolle111: bets $0.12
+nate200200: calls $0.12
+*** RIVER *** [Qh 5d Qd Td] [Kh]
+Debolle111: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+Debolle111: shows [9h 5c] (two pair, Queens and Fives)
+nate200200: shows [9c Th] (two pair, Queens and Tens)
+nate200200 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Qh 5d Qd Td Kh]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: Debolle111 (big blind) showed [9h 5c] and lost with two pair, Queens and Fives
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 showed [9c Th] and won ($0.47) with two pair, Queens and Tens
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957157608:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:33:19 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.15 in chips) 
+Seat 3: curva1234 ($17.23 in chips) 
+Seat 4: nate200200 ($12.82 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($21.63 in chips) 
+Debolle111: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: folds 
+login-kev: folds 
+Debolle111: folds 
+curva1234: checks 
+*** FLOP *** [Ad Ac 7s]
+curva1234: checks 
+nate200200: checks 
+*** TURN *** [Ad Ac 7s] [Jd]
+curva1234: checks 
+nate200200: checks 
+*** RIVER *** [Ad Ac 7s Jd] [4d]
+curva1234: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+curva1234: shows [9s 8s] (a pair of Aces)
+nate200200: shows [Ks 4c] (two pair, Aces and Fours)
+nate200200 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ad Ac 7s Jd 4d]
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: Debolle111 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) showed [9s 8s] and lost with a pair of Aces
+Seat 4: nate200200 showed [Ks 4c] and won ($0.24) with two pair, Aces and Fours
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957169872:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:33:41 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($9.10 in chips) 
+Seat 3: curva1234 ($17.13 in chips) 
+Seat 4: nate200200 ($12.96 in chips) 
+Seat 5: bigbadwooods ($10 in chips) 
+Seat 6: manolis753 ($21.63 in chips) 
+curva1234: posts small blind $0.05
+nate200200: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: raises $0.20 to $0.30
+manolis753: folds 
+login-kev: folds 
+Debolle111: raises $0.75 to $1.05
+curva1234: folds 
+nate200200: folds 
+bigbadwooods: calls $0.75
+*** FLOP *** [Ad Ah As]
+bigbadwooods: checks 
+Debolle111: bets $1.08
+bigbadwooods: raises $7.82 to $8.90
+Debolle111: folds 
+Uncalled bet ($7.82) returned to bigbadwooods
+bigbadwooods collected $4.21 from pot
+bigbadwooods: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [Ad Ah As]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 (button) folded on the Flop
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: nate200200 (big blind) folded before Flop
+Seat 5: bigbadwooods collected ($4.21)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957192192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:34:22 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($6.97 in chips) 
+Seat 3: curva1234 ($17.08 in chips) 
+Seat 4: nate200200 ($12.86 in chips) 
+Seat 5: bigbadwooods ($12.08 in chips) 
+Seat 6: manolis753 ($21.63 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+Debolle111: raises $0.20 to $0.30
+curva1234: folds 
+nate200200: calls $0.25
+bigbadwooods: folds 
+*** FLOP *** [Ad 3c Jc]
+nate200200: checks 
+Debolle111: checks 
+*** TURN *** [Ad 3c Jc] [5h]
+nate200200: checks 
+Debolle111: checks 
+*** RIVER *** [Ad 3c Jc 5h] [4h]
+nate200200: checks 
+Debolle111: checks 
+*** SHOW DOWN ***
+nate200200: shows [Js Qd] (a pair of Jacks)
+Debolle111: mucks hand 
+nate200200 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Ad 3c Jc 5h 4h]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 mucked
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: nate200200 (small blind) showed [Js Qd] and won ($0.67) with a pair of Jacks
+Seat 5: bigbadwooods (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957207262:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:34:49 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: Debolle111 ($6.67 in chips) 
+Seat 3: curva1234 ($17.08 in chips) 
+Seat 4: nate200200 ($13.23 in chips) 
+Seat 5: bigbadwooods ($11.98 in chips) 
+Seat 6: manolis753 ($21.63 in chips) 
+bigbadwooods: posts small blind $0.05
+manolis753: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Debolle111: folds 
+curva1234: folds 
+Debolle111 leaves the table
+nate200200: calls $0.10
+bigbadwooods: folds 
+pudge.3096 joins the table at seat #2 
+manolis753: checks 
+*** FLOP *** [8d 3h Th]
+manolis753: checks 
+nate200200: checks 
+*** TURN *** [8d 3h Th] [2d]
+manolis753: checks 
+nate200200: checks 
+*** RIVER *** [8d 3h Th 2d] [As]
+manolis753: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+manolis753: shows [5s 2c] (a pair of Deuces)
+nate200200: mucks hand 
+manolis753 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d 3h Th 2d As]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: Debolle111 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 (button) mucked
+Seat 5: bigbadwooods (small blind) folded before Flop
+Seat 6: manolis753 (big blind) showed [5s 2c] and won ($0.24) with a pair of Deuces
+
+
+
+PokerStars Hand #222957222811:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:35:18 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 3: curva1234 ($17.08 in chips) 
+Seat 4: nate200200 ($13.13 in chips) 
+Seat 5: bigbadwooods ($11.93 in chips) 
+Seat 6: manolis753 ($21.77 in chips) 
+manolis753: posts small blind $0.05
+login-kev: posts big blind $0.10
+pudge.3096: sits out 
+*** HOLE CARDS ***
+curva1234: calls $0.10
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: calls $0.05
+login-kev: raises $0.40 to $0.50
+curva1234: calls $0.40
+nate200200: calls $0.40
+manolis753: folds 
+*** FLOP *** [7d Tc 2s]
+login-kev: checks 
+curva1234: checks 
+nate200200: checks 
+*** TURN *** [7d Tc 2s] [4c]
+login-kev: bets $0.46
+curva1234: calls $0.46
+nate200200: calls $0.46
+*** RIVER *** [7d Tc 2s 4c] [Js]
+login-kev: checks 
+curva1234: bets $2.14
+nate200200: folds 
+login-kev: folds 
+Uncalled bet ($2.14) returned to curva1234
+curva1234 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $2.98 | Rake $0.13 
+Board [7d Tc 2s 4c Js]
+Seat 1: login-kev (big blind) folded on the River
+Seat 3: curva1234 collected ($2.85)
+Seat 4: nate200200 folded on the River
+Seat 5: bigbadwooods (button) folded before Flop (didn't bet)
+Seat 6: manolis753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957270759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:36:45 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($18.97 in chips) 
+Seat 4: nate200200 ($12.17 in chips) 
+Seat 5: bigbadwooods ($11.93 in chips) 
+Seat 6: manolis753 ($21.67 in chips) 
+login-kev: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: calls $0.10
+nate200200: calls $0.10
+bigbadwooods: folds 
+manolis753: folds 
+login-kev: folds 
+pudge.3096: raises $0.40 to $0.50
+curva1234: calls $0.40
+nate200200: calls $0.40
+*** FLOP *** [Ts 5s 4d]
+pudge.3096: checks 
+curva1234: checks 
+nate200200: checks 
+*** TURN *** [Ts 5s 4d] [9s]
+pudge.3096: checks 
+curva1234: checks 
+nate200200: checks 
+*** RIVER *** [Ts 5s 4d 9s] [Ad]
+pudge.3096: bets $0.96
+curva1234: folds 
+nate200200: folds 
+Uncalled bet ($0.96) returned to pudge.3096
+pudge.3096 collected $1.48 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [Ts 5s 4d 9s Ad]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) collected ($1.48)
+Seat 3: curva1234 folded on the River
+Seat 4: nate200200 folded on the River
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957292892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:37:25 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: pudge.3096 ($10.98 in chips) 
+Seat 3: curva1234 ($18.47 in chips) 
+Seat 4: nate200200 ($11.67 in chips) 
+Seat 5: bigbadwooods ($11.93 in chips) 
+Seat 6: manolis753 ($21.67 in chips) 
+pudge.3096: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+nate200200: calls $0.10
+bigbadwooods: raises $0.30 to $0.40
+manolis753: folds 
+login-kev: folds 
+pudge.3096: folds 
+curva1234: folds 
+nate200200: calls $0.30
+*** FLOP *** [4c Ah Kh]
+nate200200: checks 
+bigbadwooods: bets $0.50
+nate200200: folds 
+Uncalled bet ($0.50) returned to bigbadwooods
+bigbadwooods collected $0.91 from pot
+bigbadwooods: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [4c Ah Kh]
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: pudge.3096 (small blind) folded before Flop
+Seat 3: curva1234 (big blind) folded before Flop
+Seat 4: nate200200 folded on the Flop
+Seat 5: bigbadwooods collected ($0.91)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957307258:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:37:50 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($10 in chips) 
+Seat 2: pudge.3096 ($10.93 in chips) 
+Seat 3: curva1234 ($18.37 in chips) 
+Seat 4: nate200200 ($11.27 in chips) 
+Seat 5: bigbadwooods ($12.44 in chips) 
+Seat 6: manolis753 ($21.67 in chips) 
+curva1234: posts small blind $0.05
+nate200200: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: folds 
+manolis753: folds 
+login-kev: raises $0.15 to $0.25
+pudge.3096: raises $0.55 to $0.80
+curva1234: folds 
+nate200200: folds 
+login-kev: calls $0.55
+*** FLOP *** [4d Ad 2h]
+login-kev: checks 
+pudge.3096: bets $0.84
+login-kev: calls $0.84
+*** TURN *** [4d Ad 2h] [3c]
+login-kev: bets $1
+pudge.3096: calls $1
+*** RIVER *** [4d Ad 2h 3c] [8d]
+login-kev: bets $7.36 and is all-in
+pudge.3096: folds 
+Uncalled bet ($7.36) returned to login-kev
+login-kev collected $5.19 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.43 | Rake $0.24 
+Board [4d Ad 2h 3c 8d]
+Seat 1: login-kev collected ($5.19)
+Seat 2: pudge.3096 (button) folded on the River
+Seat 3: curva1234 (small blind) folded before Flop
+Seat 4: nate200200 (big blind) folded before Flop
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957355179:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:39:18 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($18.32 in chips) 
+Seat 4: nate200200 ($11.17 in chips) 
+Seat 5: bigbadwooods ($12.44 in chips) 
+Seat 6: manolis753 ($21.67 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753: folds 
+login-kev: folds 
+pudge.3096: raises $0.20 to $0.30
+curva1234: folds 
+nate200200: calls $0.25
+bigbadwooods: folds 
+*** FLOP *** [3s Ah Kc]
+nate200200: checks 
+pudge.3096: bets $0.21
+nate200200: calls $0.21
+*** TURN *** [3s Ah Kc] [6c]
+nate200200: bets $0.10
+pudge.3096: raises $0.90 to $1
+nate200200: calls $0.90
+*** RIVER *** [3s Ah Kc 6c] [9d]
+nate200200: bets $0.10
+pudge.3096: raises $2.40 to $2.50
+nate200200: calls $2.40
+*** SHOW DOWN ***
+pudge.3096: shows [As Qc] (a pair of Aces)
+nate200200: shows [6d 6s] (three of a kind, Sixes)
+nate200200 collected $7.75 from pot
+*** SUMMARY ***
+Total pot $8.12 | Rake $0.37 
+Board [3s Ah Kc 6c 9d]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 showed [As Qc] and lost with a pair of Aces
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: nate200200 (small blind) showed [6d 6s] and won ($7.75) with three of a kind, Sixes
+Seat 5: bigbadwooods (big blind) folded before Flop
+Seat 6: manolis753 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957380222:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:40:04 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($18.32 in chips) 
+Seat 4: nate200200 ($14.91 in chips) 
+Seat 5: bigbadwooods ($12.34 in chips) 
+bigbadwooods: posts small blind $0.05
+manolis753: is sitting out 
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+manolis753 leaves the table
+pudge.3096: folds 
+curva1234: folds 
+nate200200: folds 
+bigbadwooods: folds 
+Uncalled bet ($0.05) returned to login-kev
+login-kev collected $0.10 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (big blind) collected ($0.10)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 (button) folded before Flop (didn't bet)
+Seat 5: bigbadwooods (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957385710:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:40:14 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.60 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($18.32 in chips) 
+Seat 4: nate200200 ($14.91 in chips) 
+Seat 5: bigbadwooods ($12.29 in chips) 
+login-kev: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+nate200200: calls $0.10
+bigbadwooods: raises $0.30 to $0.40
+login-kev: folds 
+pudge.3096: folds 
+nate200200: calls $0.30
+*** FLOP *** [9s Kc 7d]
+nate200200: checks 
+bigbadwooods: bets $0.50
+nate200200: folds 
+Uncalled bet ($0.50) returned to bigbadwooods
+bigbadwooods collected $0.91 from pot
+bigbadwooods: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9s Kc 7d]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) folded before Flop
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 folded on the Flop
+Seat 5: bigbadwooods (button) collected ($0.91)
+
+
+
+PokerStars Hand #222957402477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:40:44 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($18.32 in chips) 
+Seat 4: nate200200 ($14.51 in chips) 
+Seat 5: bigbadwooods ($12.80 in chips) 
+pudge.3096: posts small blind $0.05
+curva1234: posts big blind $0.10
+*** HOLE CARDS ***
+nate200200: folds 
+bigbadwooods: folds 
+login-kev: folds 
+easywtf joins the table at seat #6 
+pudge.3096: raises $0.15 to $0.25
+curva1234: folds 
+Uncalled bet ($0.15) returned to pudge.3096
+pudge.3096 collected $0.20 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: pudge.3096 (small blind) collected ($0.20)
+Seat 3: curva1234 (big blind) folded before Flop
+Seat 4: nate200200 folded before Flop (didn't bet)
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957414324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:41:05 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10.10 in chips) 
+Seat 3: curva1234 ($18.22 in chips) 
+Seat 4: nate200200 ($14.51 in chips) 
+Seat 5: bigbadwooods ($12.80 in chips) 
+curva1234: posts small blind $0.05
+nate200200: posts big blind $0.10
+easywtf: sits out 
+*** HOLE CARDS ***
+bigbadwooods: folds 
+login-kev: folds 
+pudge.3096: folds 
+curva1234: raises $0.10 to $0.20
+nate200200: folds 
+Uncalled bet ($0.10) returned to curva1234
+curva1234 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 3: curva1234 (small blind) collected ($0.20)
+Seat 4: nate200200 (big blind) folded before Flop
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957422090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:41:19 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10.10 in chips) 
+Seat 3: curva1234 ($18.32 in chips) 
+Seat 4: nate200200 ($14.41 in chips) 
+Seat 5: bigbadwooods ($12.80 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+easywtf: sits out 
+*** HOLE CARDS ***
+login-kev: folds 
+pudge.3096: folds 
+curva1234: folds 
+nate200200: folds 
+Uncalled bet ($0.05) returned to bigbadwooods
+bigbadwooods collected $0.10 from pot
+bigbadwooods: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: curva1234 (button) folded before Flop (didn't bet)
+Seat 4: nate200200 (small blind) folded before Flop
+Seat 5: bigbadwooods (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222957427447:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:41:29 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10.10 in chips) 
+Seat 3: curva1234 ($18.32 in chips) 
+Seat 4: nate200200 ($14.36 in chips) 
+Seat 5: bigbadwooods ($12.85 in chips) 
+Seat 6: easywtf ($10 in chips) 
+bigbadwooods: posts small blind $0.05
+easywtf: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+pudge.3096: folds 
+curva1234: raises $0.10 to $0.20
+nate200200: folds 
+bigbadwooods: folds 
+easywtf: folds 
+Uncalled bet ($0.10) returned to curva1234
+curva1234 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: curva1234 collected ($0.25)
+Seat 4: nate200200 (button) folded before Flop (didn't bet)
+Seat 5: bigbadwooods (small blind) folded before Flop
+Seat 6: easywtf (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957439072:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:41:50 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.55 in chips) 
+Seat 2: pudge.3096 ($10.10 in chips) 
+Seat 3: curva1234 ($18.47 in chips) 
+Seat 4: nate200200 ($14.36 in chips) 
+Seat 5: bigbadwooods ($12.80 in chips) 
+Seat 6: easywtf ($9.90 in chips) 
+easywtf: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+curva1234: folds 
+nate200200: folds 
+bigbadwooods: folds 
+easywtf: raises $0.15 to $0.25
+login-kev: folds 
+Uncalled bet ($0.15) returned to easywtf
+easywtf collected $0.20 from pot
+easywtf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 folded before Flop (didn't bet)
+Seat 5: bigbadwooods (button) folded before Flop (didn't bet)
+Seat 6: easywtf (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222957445218:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:42:01 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.45 in chips) 
+Seat 2: pudge.3096 ($10.10 in chips) 
+Seat 3: curva1234 ($18.47 in chips) 
+Seat 4: nate200200 ($14.36 in chips) 
+Seat 5: bigbadwooods ($12.80 in chips) 
+Seat 6: easywtf ($10 in chips) 
+login-kev: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+nate200200: raises $0.10 to $0.20
+bigbadwooods: folds 
+easywtf: folds 
+login-kev: folds 
+pudge.3096: calls $0.10
+*** FLOP *** [Th 5s 6d]
+pudge.3096: checks 
+nate200200: bets $0.10
+pudge.3096: calls $0.10
+*** TURN *** [Th 5s 6d] [2c]
+pudge.3096: checks 
+nate200200: bets $1.50
+pudge.3096: folds 
+Uncalled bet ($1.50) returned to nate200200
+nate200200 collected $0.62 from pot
+nate200200: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Th 5s 6d 2c]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) folded on the Turn
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 collected ($0.62)
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: easywtf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957504948:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:43:50 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.30 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($18.65 in chips) 
+Seat 4: nate200200 ($14.57 in chips) 
+Seat 5: bigbadwooods ($12.70 in chips) 
+Seat 6: easywtf ($10.15 in chips) 
+bigbadwooods: posts small blind $0.05
+easywtf: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+pudge.3096: folds 
+curva1234: raises $0.10 to $0.20
+nate200200: calls $0.20
+bigbadwooods: folds 
+easywtf: folds 
+*** FLOP *** [3c 3h Jh]
+curva1234: checks 
+nate200200: checks 
+*** TURN *** [3c 3h Jh] [Qh]
+curva1234: bets $0.27
+nate200200: calls $0.27
+*** RIVER *** [3c 3h Jh Qh] [6c]
+curva1234: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+curva1234: shows [Qc Js] (two pair, Queens and Jacks)
+nate200200: mucks hand 
+curva1234 collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [3c 3h Jh Qh 6c]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: curva1234 showed [Qc Js] and won ($1.04) with two pair, Queens and Jacks
+Seat 4: nate200200 (button) mucked
+Seat 5: bigbadwooods (small blind) folded before Flop
+Seat 6: easywtf (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957531987:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:44:38 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.30 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($19.22 in chips) 
+Seat 4: nate200200 ($14.10 in chips) 
+Seat 5: bigbadwooods ($12.65 in chips) 
+Seat 6: easywtf ($10.05 in chips) 
+easywtf: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+curva1234: folds 
+nate200200: calls $0.10
+bigbadwooods: folds 
+easywtf: folds 
+login-kev: checks 
+*** FLOP *** [Kc Qc 2h]
+login-kev: checks 
+nate200200: checks 
+*** TURN *** [Kc Qc 2h] [Ad]
+login-kev: checks 
+nate200200: checks 
+*** RIVER *** [Kc Qc 2h Ad] [Kh]
+login-kev: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+login-kev: shows [Th 8s] (a pair of Kings)
+nate200200: mucks hand 
+login-kev collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kc Qc 2h Ad Kh]
+Seat 1: login-kev (big blind) showed [Th 8s] and won ($0.24) with a pair of Kings
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 mucked
+Seat 5: bigbadwooods (button) folded before Flop (didn't bet)
+Seat 6: easywtf (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957554083:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:45:18 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.44 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: curva1234 ($19.22 in chips) 
+Seat 4: nate200200 ($14 in chips) 
+Seat 5: bigbadwooods ($12.65 in chips) 
+Seat 6: easywtf ($10 in chips) 
+login-kev: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+curva1234: folds 
+nate200200: calls $0.10
+bigbadwooods: folds 
+easywtf: raises $0.15 to $0.25
+login-kev: folds 
+pudge.3096: folds 
+nate200200: calls $0.15
+*** FLOP *** [Ad Tc Qs]
+nate200200: checks 
+curva1234 leaves the table
+easywtf: bets $0.22
+nate200200: folds 
+Uncalled bet ($0.22) returned to easywtf
+easywtf collected $0.62 from pot
+easywtf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ad Tc Qs]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) folded before Flop
+Seat 3: curva1234 folded before Flop (didn't bet)
+Seat 4: nate200200 folded on the Flop
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: easywtf (button) collected ($0.62)
+
+
+
+PokerStars Hand #222957575816:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:45:57 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($12.39 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 4: nate200200 ($13.75 in chips) 
+Seat 5: bigbadwooods ($12.65 in chips) 
+Seat 6: easywtf ($10.37 in chips) 
+pudge.3096: posts small blind $0.05
+nate200200: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: folds 
+easywtf: folds 
+login-kev: folds 
+pudge.3096: raises $0.15 to $0.25
+nate200200: calls $0.15
+*** FLOP *** [Jd 6c 9d]
+pudge.3096: bets $0.24
+nate200200: calls $0.24
+*** TURN *** [Jd 6c 9d] [As]
+pudge.3096: bets $0.71
+nate200200: calls $0.71
+*** RIVER *** [Jd 6c 9d As] [Js]
+pudge.3096: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+pudge.3096: shows [Kd 8s] (a pair of Jacks)
+nate200200: shows [2c 2h] (two pair, Jacks and Deuces)
+nate200200 collected $2.29 from pot
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.11 
+Board [Jd 6c 9d As Js]
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: pudge.3096 (small blind) showed [Kd 8s] and lost with a pair of Jacks
+Seat 4: nate200200 (big blind) showed [2c 2h] and won ($2.29) with two pair, Jacks and Deuces
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: easywtf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957599538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:46:40 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($12.39 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 4: nate200200 ($14.84 in chips) 
+Seat 5: bigbadwooods ($12.65 in chips) 
+Seat 6: easywtf ($10.37 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+bazil139 joins the table at seat #3 
+easywtf: raises $0.20 to $0.30
+login-kev: folds 
+pudge.3096: raises $0.60 to $0.90
+nate200200: folds 
+bigbadwooods: folds 
+easywtf: folds 
+Uncalled bet ($0.60) returned to pudge.3096
+pudge.3096 collected $0.75 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 (button) collected ($0.75)
+Seat 4: nate200200 (small blind) folded before Flop
+Seat 5: bigbadwooods (big blind) folded before Flop
+Seat 6: easywtf folded before Flop
+
+
+
+PokerStars Hand #222957608648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:46:56 ET
+Table 'Magnya III' 6-max Seat #4 is the button
+Seat 1: login-kev ($12.39 in chips) 
+Seat 2: pudge.3096 ($10.45 in chips) 
+Seat 4: nate200200 ($14.79 in chips) 
+Seat 5: bigbadwooods ($12.55 in chips) 
+Seat 6: easywtf ($10.07 in chips) 
+bigbadwooods: posts small blind $0.05
+easywtf: posts big blind $0.10
+bazil139: sits out 
+*** HOLE CARDS ***
+login-kev: folds 
+pudge.3096: folds 
+nate200200: folds 
+bigbadwooods: folds 
+Uncalled bet ($0.05) returned to easywtf
+easywtf collected $0.10 from pot
+easywtf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 4: nate200200 (button) folded before Flop (didn't bet)
+Seat 5: bigbadwooods (small blind) folded before Flop
+Seat 6: easywtf (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222957615613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:47:08 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.39 in chips) 
+Seat 2: pudge.3096 ($10.45 in chips) 
+Seat 4: nate200200 ($14.79 in chips) 
+Seat 5: bigbadwooods ($12.50 in chips) 
+Seat 6: easywtf ($10.12 in chips) 
+easywtf: posts small blind $0.05
+login-kev: posts big blind $0.10
+bazil139: sits out 
+*** HOLE CARDS ***
+pudge.3096: raises $0.20 to $0.30
+nate200200: folds 
+bigbadwooods: folds 
+easywtf: folds 
+login-kev: folds 
+Uncalled bet ($0.20) returned to pudge.3096
+pudge.3096 collected $0.25 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: pudge.3096 collected ($0.25)
+Seat 4: nate200200 folded before Flop (didn't bet)
+Seat 5: bigbadwooods (button) folded before Flop (didn't bet)
+Seat 6: easywtf (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957624698:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:47:25 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.29 in chips) 
+Seat 2: pudge.3096 ($10.60 in chips) 
+Seat 4: nate200200 ($14.79 in chips) 
+Seat 5: bigbadwooods ($12.50 in chips) 
+Seat 6: easywtf ($10.07 in chips) 
+login-kev: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+bazil139: sits out 
+*** HOLE CARDS ***
+nate200200: calls $0.10
+bigbadwooods: folds 
+easywtf: folds 
+login-kev: folds 
+pudge.3096: checks 
+*** FLOP *** [4d Qh Jh]
+pudge.3096: checks 
+nate200200: checks 
+*** TURN *** [4d Qh Jh] [4s]
+pudge.3096: checks 
+nate200200: checks 
+*** RIVER *** [4d Qh Jh 4s] [Ts]
+pudge.3096: checks 
+nate200200: checks 
+*** SHOW DOWN ***
+pudge.3096: shows [8d 5d] (a pair of Fours)
+nate200200: shows [6h 5c] (a pair of Fours)
+pudge.3096 collected $0.12 from pot
+nate200200 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d Qh Jh 4s Ts]
+Seat 1: login-kev (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) showed [8d 5d] and won ($0.12) with a pair of Fours
+Seat 4: nate200200 showed [6h 5c] and won ($0.12) with a pair of Fours
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: easywtf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957642085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:47:56 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($12.24 in chips) 
+Seat 2: pudge.3096 ($10.62 in chips) 
+Seat 3: bazil139 ($8 in chips) 
+Seat 4: nate200200 ($14.81 in chips) 
+Seat 5: bigbadwooods ($12.50 in chips) 
+Seat 6: easywtf ($10.07 in chips) 
+pudge.3096: posts small blind $0.05
+bazil139: posts big blind $0.10
+*** HOLE CARDS ***
+nate200200: folds 
+bigbadwooods: folds 
+easywtf: raises $0.15 to $0.25
+login-kev: folds 
+pudge.3096: folds 
+bazil139: folds 
+Uncalled bet ($0.15) returned to easywtf
+easywtf collected $0.25 from pot
+easywtf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (button) folded before Flop (didn't bet)
+Seat 2: pudge.3096 (small blind) folded before Flop
+Seat 3: bazil139 (big blind) folded before Flop
+Seat 4: nate200200 folded before Flop (didn't bet)
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: easywtf collected ($0.25)
+
+
+
+PokerStars Hand #222957652314:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:48:14 ET
+Table 'Magnya III' 6-max Seat #2 is the button
+Seat 1: login-kev ($12.24 in chips) 
+Seat 2: pudge.3096 ($10.57 in chips) 
+Seat 3: bazil139 ($7.90 in chips) 
+Seat 4: nate200200 ($14.81 in chips) 
+Seat 5: bigbadwooods ($12.50 in chips) 
+Seat 6: easywtf ($10.22 in chips) 
+bazil139: posts small blind $0.05
+nate200200: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: raises $0.20 to $0.30
+easywtf: folds 
+login-kev: folds 
+pudge.3096: folds 
+bazil139: raises $0.20 to $0.50
+nate200200: calls $0.40
+bigbadwooods: calls $0.20
+*** FLOP *** [Ah 6s 2h]
+bazil139: checks 
+nate200200: checks 
+bigbadwooods: checks 
+*** TURN *** [Ah 6s 2h] [9s]
+bazil139: checks 
+nate200200: checks 
+bigbadwooods: checks 
+*** RIVER *** [Ah 6s 2h 9s] [3c]
+bazil139: checks 
+nate200200: checks 
+bigbadwooods: checks 
+*** SHOW DOWN ***
+bazil139: shows [6c 7d] (a pair of Sixes)
+nate200200: mucks hand 
+bigbadwooods: mucks hand 
+bazil139 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Ah 6s 2h 9s 3c]
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 3: bazil139 (small blind) showed [6c 7d] and won ($1.43) with a pair of Sixes
+Seat 4: nate200200 (big blind) mucked
+Seat 5: bigbadwooods mucked
+Seat 6: easywtf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957671811:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:48:49 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.24 in chips) 
+Seat 2: pudge.3096 ($10.57 in chips) 
+Seat 3: bazil139 ($8.83 in chips) 
+Seat 4: nate200200 ($14.31 in chips) 
+Seat 5: bigbadwooods ($12 in chips) 
+Seat 6: easywtf ($10.22 in chips) 
+nate200200: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+easywtf: raises $0.20 to $0.30
+login-kev: folds 
+pudge.3096: folds 
+bazil139: folds 
+nate200200: folds 
+bigbadwooods: folds 
+Uncalled bet ($0.20) returned to easywtf
+nate200200 leaves the table
+easywtf collected $0.25 from pot
+easywtf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: bazil139 (button) folded before Flop (didn't bet)
+Seat 4: nate200200 (small blind) folded before Flop
+Seat 5: bigbadwooods (big blind) folded before Flop
+Seat 6: easywtf collected ($0.25)
+
+
+
+PokerStars Hand #222957679541:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:49:03 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($12.24 in chips) 
+Seat 2: pudge.3096 ($10.57 in chips) 
+Seat 3: bazil139 ($8.83 in chips) 
+Seat 5: bigbadwooods ($11.90 in chips) 
+Seat 6: easywtf ($10.37 in chips) 
+easywtf: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+bazil139: folds 
+bigbadwooods: folds 
+easywtf: raises $0.15 to $0.25
+login-kev: folds 
+Uncalled bet ($0.15) returned to easywtf
+pudge.3096 leaves the table
+easywtf collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (big blind) folded before Flop
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: bazil139 folded before Flop (didn't bet)
+Seat 5: bigbadwooods (button) folded before Flop (didn't bet)
+Seat 6: easywtf (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222957684976:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:49:13 ET
+Table 'Magnya III' 6-max Seat #6 is the button
+Seat 1: login-kev ($12.14 in chips) 
+Seat 3: bazil139 ($8.83 in chips) 
+Seat 5: bigbadwooods ($11.90 in chips) 
+Seat 6: easywtf ($10.47 in chips) 
+login-kev: posts small blind $0.05
+bazil139: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: folds 
+easywtf: folds 
+login-kev: folds 
+Uncalled bet ($0.05) returned to bazil139
+bazil139 collected $0.10 from pot
+bazil139: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (small blind) folded before Flop
+Seat 3: bazil139 (big blind) collected ($0.10)
+Seat 5: bigbadwooods folded before Flop (didn't bet)
+Seat 6: easywtf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957691145:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:49:24 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($12.09 in chips) 
+Seat 3: bazil139 ($8.88 in chips) 
+Seat 5: bigbadwooods ($11.90 in chips) 
+Seat 6: easywtf ($10.47 in chips) 
+bazil139: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+easywtf: folds 
+login-kev: raises $0.15 to $0.25
+bazil139: folds 
+bigbadwooods: folds 
+Uncalled bet ($0.15) returned to login-kev
+login-kev collected $0.25 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: login-kev (button) collected ($0.25)
+Seat 3: bazil139 (small blind) folded before Flop
+Seat 5: bigbadwooods (big blind) folded before Flop
+Seat 6: easywtf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222957698232:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:49:37 ET
+Table 'Magnya III' 6-max Seat #3 is the button
+Seat 1: login-kev ($12.24 in chips) 
+Seat 3: bazil139 ($8.83 in chips) 
+Seat 5: bigbadwooods ($11.80 in chips) 
+bigbadwooods: posts small blind $0.05
+easywtf: is sitting out 
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+bazil139: raises $0.11 to $0.21
+bigbadwooods: folds 
+easywtf leaves the table
+login-kev: calls $0.11
+*** FLOP *** [Jc 7s 2d]
+login-kev: checks 
+bazil139: bets $0.20
+login-kev: calls $0.20
+*** TURN *** [Jc 7s 2d] [Ks]
+login-kev: checks 
+bazil139: bets $0.40
+login-kev: folds 
+Uncalled bet ($0.40) returned to bazil139
+bazil139 collected $0.83 from pot
+bazil139: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [Jc 7s 2d Ks]
+Seat 1: login-kev (big blind) folded on the Turn
+Seat 3: bazil139 (button) collected ($0.83)
+Seat 5: bigbadwooods (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957728905:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:32 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($11.83 in chips) 
+Seat 5: bigbadwooods ($11.75 in chips) 
+login-kev: posts small blind $0.05
+bazil139: is sitting out 
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Uncalled bet ($0.05) returned to bigbadwooods
+bigbadwooods collected $0.10 from pot
+bigbadwooods: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (button) (small blind) folded before Flop
+Seat 5: bigbadwooods (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222957731043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:36 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($11.78 in chips) 
+Seat 5: bigbadwooods ($11.80 in chips) 
+bigbadwooods: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: folds 
+Uncalled bet ($0.05) returned to login-kev
+login-kev collected $0.10 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (big blind) collected ($0.10)
+Seat 5: bigbadwooods (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957733220:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:40 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($11.83 in chips) 
+Seat 5: bigbadwooods ($11.75 in chips) 
+login-kev: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: raises $0.15 to $0.25
+bigbadwooods: folds 
+Uncalled bet ($0.15) returned to login-kev
+login-kev collected $0.20 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: login-kev (button) (small blind) collected ($0.20)
+Seat 5: bigbadwooods (big blind) folded before Flop
+
+
+
+PokerStars Hand #222957736336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:45 ET
+Table 'Magnya III' 6-max Seat #5 is the button
+Seat 1: login-kev ($11.93 in chips) 
+Seat 5: bigbadwooods ($11.65 in chips) 
+bigbadwooods: posts small blind $0.05
+login-kev: posts big blind $0.10
+*** HOLE CARDS ***
+bigbadwooods: folds 
+Uncalled bet ($0.05) returned to login-kev
+login-kev collected $0.10 from pot
+login-kev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (big blind) collected ($0.10)
+Seat 5: bigbadwooods (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222957738398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 10:50:49 ET
+Table 'Magnya III' 6-max Seat #1 is the button
+Seat 1: login-kev ($11.98 in chips) 
+Seat 5: bigbadwooods ($11.60 in chips) 
+login-kev: posts small blind $0.05
+bigbadwooods: posts big blind $0.10
+*** HOLE CARDS ***
+login-kev: folds 
+Uncalled bet ($0.05) returned to bigbadwooods
+bigbadwooods collected $0.10 from pot
+bigbadwooods: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: login-kev (button) (small blind) folded before Flop
+Seat 5: bigbadwooods (big blind) collected ($0.10)
+
+
+

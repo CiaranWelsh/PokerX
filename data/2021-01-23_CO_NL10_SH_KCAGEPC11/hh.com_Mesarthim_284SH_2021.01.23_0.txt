@@ -1,0 +1,1216 @@
+﻿PokerStars Hand #222945430015:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:47:30 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 1: z666zzz ($9.66 in chips) 
+Seat 2: betfair21 ($10 in chips) 
+Seat 3: uoy_ees ($8.54 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 5: lopespedro91 ($11.33 in chips) 
+Seat 6: Salhye ($10 in chips) 
+lopespedro91: posts small blind $0.05
+Salhye: posts big blind $0.10
+*** HOLE CARDS ***
+z666zzz: raises $1.40 to $1.50
+betfair21: folds 
+uoy_ees: folds 
+sloom44: folds 
+lopespedro91: folds 
+Salhye: folds 
+Uncalled bet ($1.40) returned to z666zzz
+z666zzz collected $0.25 from pot
+z666zzz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: z666zzz collected ($0.25)
+Seat 2: betfair21 folded before Flop (didn't bet)
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: sloom44 (button) folded before Flop (didn't bet)
+Seat 5: lopespedro91 (small blind) folded before Flop
+Seat 6: Salhye (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945438079:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:48:01 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 1: z666zzz ($9.81 in chips) 
+Seat 2: betfair21 ($10 in chips) 
+Seat 3: uoy_ees ($8.54 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 6: Salhye ($10 in chips) 
+z666zzz: posts small blind $0.05
+betfair21: posts big blind $0.10
+*** HOLE CARDS ***
+uoy_ees: folds 
+sloom44: folds 
+Salhye: folds 
+z666zzz: folds 
+Uncalled bet ($0.05) returned to betfair21
+betfair21 collected $0.10 from pot
+betfair21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: z666zzz (small blind) folded before Flop
+Seat 2: betfair21 (big blind) collected ($0.10)
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: sloom44 folded before Flop (didn't bet)
+Seat 6: Salhye (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945442582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:48:19 ET
+Table 'Mesarthim' 6-max Seat #1 is the button
+Seat 1: z666zzz ($9.76 in chips) 
+Seat 2: betfair21 ($10.05 in chips) 
+Seat 3: uoy_ees ($8.54 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 6: Salhye ($10 in chips) 
+betfair21: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: folds 
+Salhye: folds 
+z666zzz: folds 
+betfair21: raises $0.20 to $0.30
+uoy_ees: folds 
+Uncalled bet ($0.20) returned to betfair21
+betfair21 collected $0.20 from pot
+betfair21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: z666zzz (button) folded before Flop (didn't bet)
+Seat 2: betfair21 (small blind) collected ($0.20)
+Seat 3: uoy_ees (big blind) folded before Flop
+Seat 4: sloom44 folded before Flop (didn't bet)
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945447787:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:48:39 ET
+Table 'Mesarthim' 6-max Seat #2 is the button
+Seat 2: betfair21 ($10.15 in chips) 
+Seat 3: uoy_ees ($8.44 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 6: Salhye ($10 in chips) 
+uoy_ees: posts small blind $0.05
+sloom44: posts big blind $0.10
+*** HOLE CARDS ***
+Salhye: folds 
+betfair21: raises $0.15 to $0.25
+uoy_ees: raises $0.45 to $0.70
+sloom44: calls $0.60
+betfair21: raises $9.45 to $10.15 and is all-in
+uoy_ees: folds 
+sloom44: folds 
+Uncalled bet ($9.45) returned to betfair21
+betfair21 collected $2.10 from pot
+betfair21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0 
+Seat 2: betfair21 (button) collected ($2.10)
+Seat 3: uoy_ees (small blind) folded before Flop
+Seat 4: sloom44 (big blind) folded before Flop
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945457466:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:49:17 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 2: betfair21 ($11.55 in chips) 
+Seat 3: uoy_ees ($7.74 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 6: Salhye ($10 in chips) 
+sloom44: posts small blind $0.05
+Salhye: posts big blind $0.10
+*** HOLE CARDS ***
+betfair21: folds 
+uoy_ees: folds 
+sloom44: folds 
+Uncalled bet ($0.05) returned to Salhye
+Salhye collected $0.10 from pot
+Salhye: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: betfair21 folded before Flop (didn't bet)
+Seat 3: uoy_ees (button) folded before Flop (didn't bet)
+Seat 4: sloom44 (small blind) folded before Flop
+Seat 6: Salhye (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222945460076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:49:27 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 2: betfair21 ($11.55 in chips) 
+Seat 3: uoy_ees ($7.74 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 6: Salhye ($10.05 in chips) 
+Salhye: posts small blind $0.05
+betfair21: posts big blind $0.10
+*** HOLE CARDS ***
+uoy_ees: folds 
+sloom44: folds 
+Salhye: folds 
+Uncalled bet ($0.05) returned to betfair21
+betfair21 collected $0.10 from pot
+betfair21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: betfair21 (big blind) collected ($0.10)
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: sloom44 (button) folded before Flop (didn't bet)
+Seat 6: Salhye (small blind) folded before Flop
+
+
+
+PokerStars Hand #222945464235:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:49:44 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 2: betfair21 ($11.60 in chips) 
+Seat 3: uoy_ees ($7.74 in chips) 
+Seat 4: sloom44 ($10 in chips) 
+Seat 6: Salhye ($10 in chips) 
+betfair21: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: folds 
+Salhye: folds 
+betfair21: folds 
+Uncalled bet ($0.05) returned to uoy_ees
+uoy_ees collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: betfair21 (small blind) folded before Flop
+Seat 3: uoy_ees (big blind) collected ($0.10)
+Seat 4: sloom44 folded before Flop (didn't bet)
+Seat 6: Salhye (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945466298:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:49:52 ET
+Table 'Mesarthim' 6-max Seat #2 is the button
+Seat 2: betfair21 ($11.55 in chips) 
+Seat 3: uoy_ees ($7.79 in chips) 
+Seat 6: Salhye ($10 in chips) 
+uoy_ees: posts small blind $0.05
+sloom44: is sitting out 
+Salhye: posts big blind $0.10
+*** HOLE CARDS ***
+betfair21: raises $0.15 to $0.25
+uoy_ees: raises $0.45 to $0.70
+sloom44 leaves the table
+Salhye: folds 
+xxxbohunxxx joins the table at seat #4 
+betfair21: calls $0.45
+*** FLOP *** [6d 3d 6h]
+uoy_ees: bets $1.43
+betfair21: folds 
+Uncalled bet ($1.43) returned to uoy_ees
+uoy_ees collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [6d 3d 6h]
+Seat 2: betfair21 (button) folded on the Flop
+Seat 3: uoy_ees (small blind) collected ($1.43)
+Seat 6: Salhye (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945476104:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:50:30 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 3: uoy_ees ($8.52 in chips) 
+Seat 6: Salhye ($10 in chips) 
+Salhye: posts small blind $0.05
+betfair21: is sitting out 
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+Salhye: folds 
+Uncalled bet ($0.05) returned to uoy_ees
+uoy_ees collected $0.10 from pot
+betfair21 leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: uoy_ees (big blind) collected ($0.10)
+Seat 6: Salhye (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222945478049:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:50:38 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 3: uoy_ees ($8.57 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+Seat 6: Salhye ($10 in chips) 
+uoy_ees: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+Salhye: raises $0.20 to $0.30
+uoy_ees: folds 
+xxxbohunxxx: calls $0.20
+*** FLOP *** [Tc Kh Kc]
+xxxbohunxxx: checks 
+JELAFIT10 joins the table at seat #2 
+Salhye: checks 
+*** TURN *** [Tc Kh Kc] [Kd]
+xxxbohunxxx: checks 
+Salhye: checks 
+*** RIVER *** [Tc Kh Kc Kd] [4h]
+xxxbohunxxx: checks 
+Salhye: checks 
+*** SHOW DOWN ***
+xxxbohunxxx: shows [Ac 6d] (three of a kind, Kings)
+Salhye: shows [3s As] (three of a kind, Kings)
+xxxbohunxxx collected $0.31 from pot
+Salhye collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Tc Kh Kc Kd 4h]
+Seat 3: uoy_ees (small blind) folded before Flop
+Seat 4: xxxbohunxxx (big blind) showed [Ac 6d] and won ($0.31) with three of a kind, Kings
+Seat 6: Salhye (button) showed [3s As] and won ($0.31) with three of a kind, Kings
+
+
+
+PokerStars Hand #222945488651:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:51:20 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 2: JELAFIT10 ($10 in chips) 
+Seat 3: uoy_ees ($8.52 in chips) 
+Seat 4: xxxbohunxxx ($10.01 in chips) 
+xxxbohunxxx: posts small blind $0.05
+Salhye: is sitting out 
+JELAFIT10: posts big blind $0.10
+*** HOLE CARDS ***
+z666zzz leaves the table
+uoy_ees: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+JELAFIT10: folds 
+Uncalled bet ($0.20) returned to uoy_ees
+uoy_ees collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: JELAFIT10 (big blind) folded before Flop
+Seat 3: uoy_ees (button) collected ($0.25)
+Seat 4: xxxbohunxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222945492624:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:51:36 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 2: JELAFIT10 ($9.90 in chips) 
+Seat 3: uoy_ees ($8.67 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+JELAFIT10: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+JELAFIT10: folds 
+Uncalled bet ($0.05) returned to uoy_ees
+uoy_ees collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: JELAFIT10 (small blind) folded before Flop
+Seat 3: uoy_ees (big blind) collected ($0.10)
+Seat 4: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945494659:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:51:44 ET
+Table 'Mesarthim' 6-max Seat #2 is the button
+Seat 2: JELAFIT10 ($9.85 in chips) 
+Seat 3: uoy_ees ($8.72 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+uoy_ees: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+JELAFIT10: calls $0.10
+uoy_ees: raises $0.30 to $0.40
+xxxbohunxxx: folds 
+JELAFIT10: calls $0.30
+*** FLOP *** [Ac Ts As]
+uoy_ees: bets $0.86
+Salhye leaves the table
+JELAFIT10: folds 
+Uncalled bet ($0.86) returned to uoy_ees
+uoy_ees collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Ac Ts As]
+Seat 2: JELAFIT10 (button) folded on the Flop
+Seat 3: uoy_ees (small blind) collected ($0.86)
+Seat 4: xxxbohunxxx (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945502506:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:52:15 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 2: JELAFIT10 ($9.45 in chips) 
+Seat 3: uoy_ees ($9.18 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+xxxbohunxxx: posts small blind $0.05
+JELAFIT10: posts big blind $0.10
+*** HOLE CARDS ***
+dulus1996 joins the table at seat #6 
+uoy_ees: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+JELAFIT10: folds 
+Uncalled bet ($0.20) returned to xxxbohunxxx
+xxxbohunxxx collected $0.20 from pot
+lopespedro91 was removed from the table for failing to post
+lopespedro91 leaves the table
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: JELAFIT10 (big blind) folded before Flop
+Seat 3: uoy_ees (button) folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222945506464:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:52:30 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 2: JELAFIT10 ($9.35 in chips) 
+Seat 3: uoy_ees ($9.18 in chips) 
+Seat 4: xxxbohunxxx ($10.10 in chips) 
+JELAFIT10: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+cossak23 joins the table at seat #5 
+JELAFIT10: calls $0.05
+uoy_ees: checks 
+*** FLOP *** [Jd Tc 2d]
+Mr.G pat joins the table at seat #1 
+JELAFIT10: checks 
+uoy_ees: bets $0.19
+JELAFIT10: folds 
+Uncalled bet ($0.19) returned to uoy_ees
+uoy_ees collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jd Tc 2d]
+Seat 2: JELAFIT10 (small blind) folded on the Flop
+Seat 3: uoy_ees (big blind) collected ($0.19)
+Seat 4: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945520137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:52:55 ET
+Table 'Mesarthim' 6-max Seat #2 is the button
+Seat 1: Mr.G pat ($8.51 in chips) 
+Seat 2: JELAFIT10 ($9.25 in chips) 
+Seat 3: uoy_ees ($9.27 in chips) 
+Seat 4: xxxbohunxxx ($10.10 in chips) 
+uoy_ees: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+cossak23: sits out 
+dulus1996: sits out 
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+Mr.G pat: checks 
+JELAFIT10: folds 
+uoy_ees: folds 
+xxxbohunxxx: checks 
+*** FLOP *** [6c 8c 8h]
+xxxbohunxxx: checks 
+Mr.G pat: checks 
+*** TURN *** [6c 8c 8h] [Jd]
+xxxbohunxxx: bets $0.14
+Mr.G pat: folds 
+Uncalled bet ($0.14) returned to xxxbohunxxx
+xxxbohunxxx collected $0.24 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 8c 8h Jd]
+Seat 1: Mr.G pat folded on the Turn (didn't bet)
+Seat 2: JELAFIT10 (button) folded before Flop (didn't bet)
+Seat 3: uoy_ees (small blind) folded before Flop
+Seat 4: xxxbohunxxx (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #222945529461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:53:33 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 1: Mr.G pat ($8.41 in chips) 
+Seat 2: JELAFIT10 ($9.25 in chips) 
+Seat 3: uoy_ees ($9.22 in chips) 
+Seat 4: xxxbohunxxx ($10.24 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+xxxbohunxxx: posts small blind $0.05
+cossak23: posts big blind $0.10
+dulus1996: sits out 
+*** HOLE CARDS ***
+Mr.G pat: raises $0.10 to $0.20
+JELAFIT10: folds 
+uoy_ees: folds 
+xxxbohunxxx: folds 
+cossak23: folds 
+Uncalled bet ($0.10) returned to Mr.G pat
+Mr.G pat collected $0.25 from pot
+Mr.G pat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mr.G pat collected ($0.25)
+Seat 2: JELAFIT10 folded before Flop (didn't bet)
+Seat 3: uoy_ees (button) folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx (small blind) folded before Flop
+Seat 5: cossak23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945533909:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:53:50 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 1: Mr.G pat ($8.56 in chips) 
+Seat 2: JELAFIT10 ($9.25 in chips) 
+Seat 3: uoy_ees ($9.22 in chips) 
+Seat 4: xxxbohunxxx ($10.19 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10 in chips) 
+cossak23: posts small blind $0.05
+dulus1996: posts big blind $0.10
+*** HOLE CARDS ***
+Mr.G pat: folds 
+JELAFIT10: calls $0.10
+uoy_ees: folds 
+xxxbohunxxx: raises $0.30 to $0.40
+cossak23: folds 
+dulus1996: folds 
+JELAFIT10: calls $0.30
+*** FLOP *** [5h 8s 5s]
+JELAFIT10: checks 
+xxxbohunxxx: checks 
+*** TURN *** [5h 8s 5s] [5c]
+JELAFIT10: checks 
+xxxbohunxxx: checks 
+*** RIVER *** [5h 8s 5s 5c] [6s]
+JELAFIT10: checks 
+xxxbohunxxx: checks 
+*** SHOW DOWN ***
+JELAFIT10: shows [7c Qc] (three of a kind, Fives)
+xxxbohunxxx: shows [Ac Jh] (three of a kind, Fives - Ace kicker)
+xxxbohunxxx collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [5h 8s 5s 5c 6s]
+Seat 1: Mr.G pat folded before Flop (didn't bet)
+Seat 2: JELAFIT10 showed [7c Qc] and lost with three of a kind, Fives
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx (button) showed [Ac Jh] and won ($0.91) with three of a kind, Fives
+Seat 5: cossak23 (small blind) folded before Flop
+Seat 6: dulus1996 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945552851:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:55:06 ET
+Table 'Mesarthim' 6-max Seat #5 is the button
+Seat 1: Mr.G pat ($8.56 in chips) 
+Seat 2: JELAFIT10 ($8.85 in chips) 
+Seat 3: uoy_ees ($9.22 in chips) 
+Seat 4: xxxbohunxxx ($10.70 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10 in chips) 
+dulus1996: posts small blind $0.05
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+JELAFIT10: calls $0.10
+uoy_ees: folds 
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: calls $0.05
+Mr.G pat: checks 
+*** FLOP *** [8c Th 5c]
+dulus1996: checks 
+Mr.G pat: checks 
+JELAFIT10: checks 
+*** TURN *** [8c Th 5c] [9d]
+dulus1996: checks 
+Mr.G pat: checks 
+JELAFIT10: checks 
+*** RIVER *** [8c Th 5c 9d] [Qh]
+dulus1996: checks 
+Mr.G pat: bets $0.10
+JELAFIT10: calls $0.10
+dulus1996: folds 
+*** SHOW DOWN ***
+Mr.G pat: shows [4d 3h] (high card Queen)
+JELAFIT10: shows [Qd 7d] (a pair of Queens)
+JELAFIT10 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [8c Th 5c 9d Qh]
+Seat 1: Mr.G pat (big blind) showed [4d 3h] and lost with high card Queen
+Seat 2: JELAFIT10 showed [Qd 7d] and won ($0.48) with a pair of Queens
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx folded before Flop (didn't bet)
+Seat 5: cossak23 (button) folded before Flop (didn't bet)
+Seat 6: dulus1996 (small blind) folded on the River
+
+
+
+PokerStars Hand #222945562339:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:55:54 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 1: Mr.G pat ($8.36 in chips) 
+Seat 2: JELAFIT10 ($9.13 in chips) 
+Seat 3: uoy_ees ($9.22 in chips) 
+Seat 4: xxxbohunxxx ($10.70 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10 in chips) 
+Mr.G pat: posts small blind $0.05
+JELAFIT10: posts big blind $0.10
+*** HOLE CARDS ***
+uoy_ees: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+cossak23: folds 
+dulus1996: raises $0.60 to $0.90
+Mr.G pat: folds 
+JELAFIT10: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.60) returned to dulus1996
+dulus1996 collected $0.75 from pot
+dulus1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Mr.G pat (small blind) folded before Flop
+Seat 2: JELAFIT10 (big blind) folded before Flop
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx folded before Flop
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 (button) collected ($0.75)
+
+
+
+PokerStars Hand #222945568106:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:56:23 ET
+Table 'Mesarthim' 6-max Seat #1 is the button
+Seat 1: Mr.G pat ($8.31 in chips) 
+Seat 2: JELAFIT10 ($9.03 in chips) 
+Seat 3: uoy_ees ($9.22 in chips) 
+Seat 4: xxxbohunxxx ($10.40 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+JELAFIT10: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: folds 
+Mr.G pat: calls $0.10
+JELAFIT10: calls $0.05
+uoy_ees: raises $0.30 to $0.40
+Mr.G pat: calls $0.30
+JELAFIT10: folds 
+*** FLOP *** [8s 4h 7d]
+uoy_ees: bets $0.73
+Mr.G pat: calls $0.73
+*** TURN *** [8s 4h 7d] [Ac]
+uoy_ees: bets $1.12
+Mr.G pat: calls $1.12
+*** RIVER *** [8s 4h 7d Ac] [Kd]
+uoy_ees: checks 
+Mr.G pat: checks 
+*** SHOW DOWN ***
+uoy_ees: shows [3d 6d] (high card Ace)
+Mr.G pat: shows [5s 5h] (a pair of Fives)
+Mr.G pat collected $4.39 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.21 
+Board [8s 4h 7d Ac Kd]
+Seat 1: Mr.G pat (button) showed [5s 5h] and won ($4.39) with a pair of Fives
+Seat 2: JELAFIT10 (small blind) folded before Flop
+Seat 3: uoy_ees (big blind) showed [3d 6d] and lost with high card Ace
+Seat 4: xxxbohunxxx folded before Flop (didn't bet)
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945580259:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:57:24 ET
+Table 'Mesarthim' 6-max Seat #2 is the button
+Seat 1: Mr.G pat ($10.45 in chips) 
+Seat 2: JELAFIT10 ($8.93 in chips) 
+Seat 3: uoy_ees ($6.97 in chips) 
+Seat 4: xxxbohunxxx ($10.40 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+uoy_ees: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+cossak23: folds 
+dulus1996: raises $0.15 to $0.25
+Mr.G pat: folds 
+JELAFIT10: folds 
+uoy_ees: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.15) returned to dulus1996
+dulus1996 collected $0.25 from pot
+dulus1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mr.G pat folded before Flop (didn't bet)
+Seat 2: JELAFIT10 (button) folded before Flop (didn't bet)
+Seat 3: uoy_ees (small blind) folded before Flop
+Seat 4: xxxbohunxxx (big blind) folded before Flop
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 collected ($0.25)
+
+
+
+PokerStars Hand #222945585172:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:57:48 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 1: Mr.G pat ($10.45 in chips) 
+Seat 2: JELAFIT10 ($8.93 in chips) 
+Seat 3: uoy_ees ($6.92 in chips) 
+Seat 4: xxxbohunxxx ($10.30 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.60 in chips) 
+xxxbohunxxx: posts small blind $0.05
+cossak23: posts big blind $0.10
+*** HOLE CARDS ***
+dulus1996: folds 
+Mr.G pat: folds 
+JELAFIT10: folds 
+uoy_ees has timed out
+uoy_ees: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+cossak23: calls $0.20
+*** FLOP *** [4h 4d 6s]
+xxxbohunxxx: checks 
+cossak23: bets $0.29
+xxxbohunxxx: folds 
+Uncalled bet ($0.29) returned to cossak23
+cossak23 collected $0.57 from pot
+cossak23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4h 4d 6s]
+Seat 1: Mr.G pat folded before Flop (didn't bet)
+Seat 2: JELAFIT10 folded before Flop (didn't bet)
+Seat 3: uoy_ees (button) folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx (small blind) folded on the Flop
+Seat 5: cossak23 (big blind) collected ($0.57)
+Seat 6: dulus1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945594035:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:58:32 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 1: Mr.G pat ($10.45 in chips) 
+Seat 2: JELAFIT10 ($8.93 in chips) 
+Seat 3: uoy_ees ($6.92 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+Seat 5: cossak23 ($10.27 in chips) 
+Seat 6: dulus1996 ($10.60 in chips) 
+cossak23: posts small blind $0.05
+dulus1996: posts big blind $0.10
+*** HOLE CARDS ***
+Mr.G pat: folds 
+JELAFIT10: folds 
+uoy_ees: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: folds 
+Uncalled bet ($0.20) returned to uoy_ees
+uoy_ees collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mr.G pat folded before Flop (didn't bet)
+Seat 2: JELAFIT10 folded before Flop (didn't bet)
+Seat 3: uoy_ees collected ($0.25)
+Seat 4: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 5: cossak23 (small blind) folded before Flop
+Seat 6: dulus1996 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945597692:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:58:51 ET
+Table 'Mesarthim' 6-max Seat #5 is the button
+Seat 1: Mr.G pat ($10.45 in chips) 
+Seat 2: JELAFIT10 ($8.93 in chips) 
+Seat 3: uoy_ees ($7.07 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+Seat 5: cossak23 ($10.22 in chips) 
+Seat 6: dulus1996 ($10.50 in chips) 
+dulus1996: posts small blind $0.05
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+JELAFIT10: folds 
+uoy_ees: folds 
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: folds 
+Uncalled bet ($0.05) returned to Mr.G pat
+Mr.G pat collected $0.10 from pot
+Mr.G pat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mr.G pat (big blind) collected ($0.10)
+Seat 2: JELAFIT10 folded before Flop (didn't bet)
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx folded before Flop (didn't bet)
+Seat 5: cossak23 (button) folded before Flop (didn't bet)
+Seat 6: dulus1996 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222945600124:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:59:03 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 1: Mr.G pat ($10.50 in chips) 
+Seat 2: JELAFIT10 ($8.93 in chips) 
+Seat 3: uoy_ees ($7.07 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+Seat 5: cossak23 ($10.22 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+Mr.G pat: posts small blind $0.05
+JELAFIT10: posts big blind $0.10
+*** HOLE CARDS ***
+uoy_ees: folds 
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: folds 
+Mr.G pat: calls $0.05
+JELAFIT10: checks 
+*** FLOP *** [Ts 3s 7d]
+Mr.G pat: checks 
+JELAFIT10: bets $0.10
+Mr.G pat: calls $0.10
+*** TURN *** [Ts 3s 7d] [6d]
+Mr.G pat: checks 
+JELAFIT10: checks 
+*** RIVER *** [Ts 3s 7d 6d] [2d]
+Mr.G pat: bets $0.10
+JELAFIT10: folds 
+Uncalled bet ($0.10) returned to Mr.G pat
+Mr.G pat collected $0.38 from pot
+Mr.G pat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Ts 3s 7d 6d 2d]
+Seat 1: Mr.G pat (small blind) collected ($0.38)
+Seat 2: JELAFIT10 (big blind) folded on the River
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx folded before Flop (didn't bet)
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945605457:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:59:29 ET
+Table 'Mesarthim' 6-max Seat #1 is the button
+Seat 1: Mr.G pat ($10.68 in chips) 
+Seat 2: JELAFIT10 ($8.73 in chips) 
+Seat 3: uoy_ees ($7.07 in chips) 
+Seat 4: xxxbohunxxx ($10 in chips) 
+Seat 5: cossak23 ($10.22 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+JELAFIT10: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: raises $0.20 to $0.30
+cossak23: raises $0.60 to $0.90
+dulus1996: folds 
+Mr.G pat: folds 
+JELAFIT10: folds 
+uoy_ees: folds 
+xxxbohunxxx: raises $1.50 to $2.40
+cossak23: folds 
+Uncalled bet ($1.50) returned to xxxbohunxxx
+xxxbohunxxx collected $1.95 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: Mr.G pat (button) folded before Flop (didn't bet)
+Seat 2: JELAFIT10 (small blind) folded before Flop
+Seat 3: uoy_ees (big blind) folded before Flop
+Seat 4: xxxbohunxxx collected ($1.95)
+Seat 5: cossak23 folded before Flop
+Seat 6: dulus1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945613671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:00:10 ET
+Table 'Mesarthim' 6-max Seat #2 is the button
+Seat 1: Mr.G pat ($10.68 in chips) 
+Seat 2: JELAFIT10 ($8.68 in chips) 
+Seat 3: uoy_ees ($6.97 in chips) 
+Seat 4: xxxbohunxxx ($11.05 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+uoy_ees: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+cossak23: folds 
+dulus1996: folds 
+Mr.G pat: folds 
+JELAFIT10: calls $0.10
+uoy_ees: folds 
+xxxbohunxxx: checks 
+*** FLOP *** [2h Ts Ac]
+xxxbohunxxx: checks 
+JELAFIT10: checks 
+*** TURN *** [2h Ts Ac] [5c]
+xxxbohunxxx: checks 
+JELAFIT10: checks 
+*** RIVER *** [2h Ts Ac 5c] [Qd]
+xxxbohunxxx: bets $0.14
+JELAFIT10: folds 
+Uncalled bet ($0.14) returned to xxxbohunxxx
+xxxbohunxxx collected $0.24 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2h Ts Ac 5c Qd]
+Seat 1: Mr.G pat folded before Flop (didn't bet)
+Seat 2: JELAFIT10 (button) folded on the River
+Seat 3: uoy_ees (small blind) folded before Flop
+Seat 4: xxxbohunxxx (big blind) collected ($0.24)
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945626073:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:01:03 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 1: Mr.G pat ($10.68 in chips) 
+Seat 2: JELAFIT10 ($8.58 in chips) 
+Seat 3: uoy_ees ($6.92 in chips) 
+Seat 4: xxxbohunxxx ($11.19 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+xxxbohunxxx: posts small blind $0.05
+cossak23: posts big blind $0.10
+*** HOLE CARDS ***
+dulus1996: folds 
+Mr.G pat: calls $0.10
+JELAFIT10: folds 
+uoy_ees: raises $0.30 to $0.40
+xxxbohunxxx: folds 
+cossak23: folds 
+Mr.G pat: calls $0.30
+*** FLOP *** [8d 5s As]
+Mr.G pat: checks 
+uoy_ees: bets $0.55
+Mr.G pat: calls $0.55
+*** TURN *** [8d 5s As] [2c]
+Mr.G pat: checks 
+uoy_ees: checks 
+*** RIVER *** [8d 5s As 2c] [Ks]
+Mr.G pat: bets $0.98
+uoy_ees: folds 
+Uncalled bet ($0.98) returned to Mr.G pat
+Mr.G pat collected $1.96 from pot
+Mr.G pat: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [8d 5s As 2c Ks]
+Seat 1: Mr.G pat collected ($1.96)
+Seat 2: JELAFIT10 folded before Flop (didn't bet)
+Seat 3: uoy_ees (button) folded on the River
+Seat 4: xxxbohunxxx (small blind) folded before Flop
+Seat 5: cossak23 (big blind) folded before Flop
+Seat 6: dulus1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945636038:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:01:45 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 1: Mr.G pat ($11.69 in chips) 
+Seat 2: JELAFIT10 ($8.58 in chips) 
+Seat 3: uoy_ees ($5.97 in chips) 
+Seat 4: xxxbohunxxx ($11.14 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.45 in chips) 
+cossak23: posts small blind $0.05
+dulus1996: posts big blind $0.10
+*** HOLE CARDS ***
+Mr.G pat: folds 
+JELAFIT10: calls $0.10
+uoy_ees: raises $0.30 to $0.40
+xxxbohunxxx: raises $0.80 to $1.20
+cossak23: calls $1.15
+dulus1996: folds 
+JELAFIT10: folds 
+uoy_ees: raises $1.60 to $2.80
+xxxbohunxxx: raises $8.34 to $11.14 and is all-in
+cossak23: folds 
+uoy_ees: calls $3.17 and is all-in
+Uncalled bet ($5.17) returned to xxxbohunxxx
+*** FLOP *** [3h Ks 9c]
+*** TURN *** [3h Ks 9c] [9s]
+*** RIVER *** [3h Ks 9c 9s] [Ts]
+*** SHOW DOWN ***
+uoy_ees: shows [Ad Ac] (two pair, Aces and Nines)
+xxxbohunxxx: shows [Kc Kh] (a full house, Kings full of Nines)
+xxxbohunxxx collected $12.74 from pot
+uoy_ees cashed out the hand for $10.34 | Cash Out Fee $0.10
+*** SUMMARY ***
+Total pot $13.34 | Rake $0.60 
+Board [3h Ks 9c 9s Ts]
+Seat 1: Mr.G pat folded before Flop (didn't bet)
+Seat 2: JELAFIT10 folded before Flop
+Seat 3: uoy_ees showed [Ad Ac] and lost with two pair, Aces and Nines (cashed out).
+Seat 4: xxxbohunxxx (button) showed [Kc Kh] and won ($12.74) with a full house, Kings full of Nines
+Seat 5: cossak23 (small blind) folded before Flop
+Seat 6: dulus1996 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222945652293:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:02:51 ET
+Table 'Mesarthim' 6-max Seat #5 is the button
+Seat 1: Mr.G pat ($11.69 in chips) 
+Seat 2: JELAFIT10 ($8.48 in chips) 
+Seat 3: uoy_ees ($10.34 in chips) 
+Seat 4: xxxbohunxxx ($17.91 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.35 in chips) 
+dulus1996: posts small blind $0.05
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+JELAFIT10: calls $0.10
+uoy_ees: folds 
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: folds 
+Mr.G pat: checks 
+*** FLOP *** [Qh Qs Kd]
+Mr.G pat: checks 
+JELAFIT10: bets $0.10
+Mr.G pat: calls $0.10
+*** TURN *** [Qh Qs Kd] [6s]
+Mr.G pat: checks 
+JELAFIT10: bets $0.10
+Mr.G pat: folds 
+Uncalled bet ($0.10) returned to JELAFIT10
+JELAFIT10 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qh Qs Kd 6s]
+Seat 1: Mr.G pat (big blind) folded on the Turn
+Seat 2: JELAFIT10 collected ($0.43)
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx folded before Flop (didn't bet)
+Seat 5: cossak23 (button) folded before Flop (didn't bet)
+Seat 6: dulus1996 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222945657945:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:03:14 ET
+Table 'Mesarthim' 6-max Seat #6 is the button
+Seat 1: Mr.G pat ($11.49 in chips) 
+Seat 2: JELAFIT10 ($8.71 in chips) 
+Seat 3: uoy_ees ($10.34 in chips) 
+Seat 4: xxxbohunxxx ($17.91 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.30 in chips) 
+Mr.G pat: posts small blind $0.05
+JELAFIT10: posts big blind $0.10
+*** HOLE CARDS ***
+uoy_ees: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+cossak23: folds 
+dulus1996: folds 
+Mr.G pat: calls $0.25
+JELAFIT10: folds 
+*** FLOP *** [5s 3h Jh]
+Mr.G pat: checks 
+xxxbohunxxx: bets $0.50
+Mr.G pat: calls $0.50
+*** TURN *** [5s 3h Jh] [Js]
+Mr.G pat: checks 
+xxxbohunxxx: bets $0.81
+Mr.G pat: calls $0.81
+*** RIVER *** [5s 3h Jh Js] [Ac]
+Mr.G pat: checks 
+xxxbohunxxx: checks 
+*** SHOW DOWN ***
+Mr.G pat: shows [7c 7s] (two pair, Jacks and Sevens)
+xxxbohunxxx: shows [Kc Ks] (two pair, Kings and Jacks)
+xxxbohunxxx collected $3.17 from pot
+*** SUMMARY ***
+Total pot $3.32 | Rake $0.15 
+Board [5s 3h Jh Js Ac]
+Seat 1: Mr.G pat (small blind) showed [7c 7s] and lost with two pair, Jacks and Sevens
+Seat 2: JELAFIT10 (big blind) folded before Flop
+Seat 3: uoy_ees folded before Flop (didn't bet)
+Seat 4: xxxbohunxxx showed [Kc Ks] and won ($3.17) with two pair, Kings and Jacks
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222945669813:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:04:02 ET
+Table 'Mesarthim' 6-max Seat #1 is the button
+Seat 1: Mr.G pat ($9.88 in chips) 
+Seat 2: JELAFIT10 ($8.61 in chips) 
+Seat 3: uoy_ees ($10.34 in chips) 
+Seat 4: xxxbohunxxx ($19.47 in chips) 
+Seat 5: cossak23 ($10 in chips) 
+Seat 6: dulus1996 ($10.30 in chips) 
+JELAFIT10: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+cossak23: folds 
+dulus1996: raises $0.15 to $0.25
+Mr.G pat: folds 
+JELAFIT10: folds 
+uoy_ees: calls $0.15
+*** FLOP *** [Qc 5d 2s]
+uoy_ees: checks 
+dulus1996: bets $0.24
+JELAFIT10 leaves the table
+uoy_ees: calls $0.24
+*** TURN *** [Qc 5d 2s] [2h]
+uoy_ees: checks 
+dulus1996: checks 
+*** RIVER *** [Qc 5d 2s 2h] [6d]
+uoy_ees: checks 
+dulus1996: bets $0.66
+uoy_ees: calls $0.66
+*** SHOW DOWN ***
+dulus1996: shows [Kc Qs] (two pair, Queens and Deuces)
+uoy_ees: mucks hand 
+dulus1996 collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [Qc 5d 2s 2h 6d]
+Seat 1: Mr.G pat (button) folded before Flop (didn't bet)
+Seat 2: JELAFIT10 (small blind) folded before Flop
+Seat 3: uoy_ees (big blind) mucked
+Seat 4: xxxbohunxxx folded before Flop (didn't bet)
+Seat 5: cossak23 folded before Flop (didn't bet)
+Seat 6: dulus1996 showed [Kc Qs] and won ($2.24) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #222945681751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:04:50 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 1: Mr.G pat ($9.88 in chips) 
+Seat 3: uoy_ees ($9.19 in chips) 
+Seat 4: xxxbohunxxx ($19.47 in chips) 
+xxxbohunxxx: posts small blind $0.05
+cossak23: is sitting out 
+cossak23 leaves the table
+dulus1996: is sitting out 
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+dulus1996 leaves the table
+uoy_ees: raises $0.10 to $0.20
+xxxbohunxxx: calls $0.15
+Mr.G pat: calls $0.10
+*** FLOP *** [2c 6d Ac]
+xxxbohunxxx: checks 
+Mr.G pat: checks 
+uoy_ees: checks 
+*** TURN *** [2c 6d Ac] [2s]
+xxxbohunxxx: checks 
+Mr.G pat: checks 
+uoy_ees: checks 
+*** RIVER *** [2c 6d Ac 2s] [Jh]
+xxxbohunxxx: checks 
+Mr.G pat: checks 
+uoy_ees: checks 
+*** SHOW DOWN ***
+xxxbohunxxx: shows [4c 4s] (two pair, Fours and Deuces)
+Mr.G pat: mucks hand 
+uoy_ees: mucks hand 
+xxxbohunxxx collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [2c 6d Ac 2s Jh]
+Seat 1: Mr.G pat (big blind) mucked
+Seat 3: uoy_ees (button) mucked
+Seat 4: xxxbohunxxx (small blind) showed [4c 4s] and won ($0.57) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #222945695420:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:05:44 ET
+Table 'Mesarthim' 6-max Seat #4 is the button
+Seat 1: Mr.G pat ($9.68 in chips) 
+Seat 3: uoy_ees ($8.99 in chips) 
+Seat 4: xxxbohunxxx ($19.84 in chips) 
+Mr.G pat: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: raises $0.15 to $0.25
+Mr.G pat: calls $0.20
+uoy_ees: folds 
+*** FLOP *** [Jc 6c 3d]
+Mr.G pat: checks 
+xxxbohunxxx: checks 
+*** TURN *** [Jc 6c 3d] [Js]
+Mr.G pat: checks 
+xxxbohunxxx: checks 
+*** RIVER *** [Jc 6c 3d Js] [5s]
+Mr.G pat: bets $0.10
+xxxbohunxxx: calls $0.10
+*** SHOW DOWN ***
+Mr.G pat: shows [8s Qs] (a pair of Jacks)
+xxxbohunxxx: shows [Ah Kh] (a pair of Jacks - Ace kicker)
+xxxbohunxxx collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Jc 6c 3d Js 5s]
+Seat 1: Mr.G pat (small blind) showed [8s Qs] and lost with a pair of Jacks
+Seat 3: uoy_ees (big blind) folded before Flop
+Seat 4: xxxbohunxxx (button) showed [Ah Kh] and won ($0.76) with a pair of Jacks
+
+
+
+PokerStars Hand #222945703340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:06:15 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 1: Mr.G pat ($9.33 in chips) 
+Seat 3: uoy_ees ($8.89 in chips) 
+uoy_ees: posts small blind $0.05
+xxxbohunxxx: is sitting out 
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx leaves the table
+uoy_ees: raises $0.20 to $0.30
+Mr.G pat: calls $0.20
+*** FLOP *** [Qd 5c 8c]
+Mr.G pat: checks 
+uoy_ees: checks 
+*** TURN *** [Qd 5c 8c] [As]
+Mr.G pat: bets $0.20
+uoy_ees: folds 
+Uncalled bet ($0.20) returned to Mr.G pat
+Mr.G pat collected $0.57 from pot
+Mr.G pat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qd 5c 8c As]
+Seat 1: Mr.G pat (big blind) collected ($0.57)
+Seat 3: uoy_ees (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222945709532:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:06:40 ET
+Table 'Mesarthim' 6-max Seat #1 is the button
+Seat 1: Mr.G pat ($9.60 in chips) 
+Seat 3: uoy_ees ($8.59 in chips) 
+Mr.G pat: posts small blind $0.05
+uoy_ees: posts big blind $0.10
+*** HOLE CARDS ***
+Mr.G pat: folds 
+Uncalled bet ($0.05) returned to uoy_ees
+uoy_ees collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mr.G pat (button) (small blind) folded before Flop
+Seat 3: uoy_ees (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222945710954:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 1:06:46 ET
+Table 'Mesarthim' 6-max Seat #3 is the button
+Seat 1: Mr.G pat ($9.55 in chips) 
+Seat 3: uoy_ees ($8.64 in chips) 
+uoy_ees: posts small blind $0.05
+Mr.G pat: posts big blind $0.10
+*** HOLE CARDS ***
+uoy_ees: folds 
+Uncalled bet ($0.05) returned to Mr.G pat
+uoy_ees leaves the table
+Mr.G pat collected $0.10 from pot
+Mr.G pat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mr.G pat (big blind) collected ($0.10)
+Seat 3: uoy_ees (button) (small blind) folded before Flop
+
+
+

@@ -1,0 +1,844 @@
+﻿PokerStars Hand #222950709120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:23:48 ET
+Table 'Liguria III' 6-max Seat #2 is the button
+Seat 1: sheff7880 ($10 in chips) 
+Seat 2: buranela ($11.01 in chips) 
+Seat 4: Laelle79 ($8.74 in chips) 
+Seat 5: ivan2772ms ($10.82 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Laelle79: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+EasySteavy is disconnected 
+sheff7880: raises $0.20 to $0.30
+buranela: folds 
+Laelle79: folds 
+ivan2772ms: calls $0.20
+*** FLOP *** [Qh Jc 5d]
+ivan2772ms: checks 
+sheff7880: checks 
+*** TURN *** [Qh Jc 5d] [2c]
+EasySteavy leaves the table
+ivan2772ms: bets $0.47
+sheff7880: calls $0.47
+*** RIVER *** [Qh Jc 5d 2c] [Ad]
+ivan2772ms: checks 
+sheff7880: checks 
+*** SHOW DOWN ***
+ivan2772ms: shows [9h Kh] (high card Ace)
+sheff7880: shows [6h 6d] (a pair of Sixes)
+sheff7880 collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.07 
+Board [Qh Jc 5d 2c Ad]
+Seat 1: sheff7880 showed [6h 6d] and won ($1.52) with a pair of Sixes
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 4: Laelle79 (small blind) folded before Flop
+Seat 5: ivan2772ms (big blind) showed [9h Kh] and lost with high card Ace
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950724063:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:24:33 ET
+Table 'Liguria III' 6-max Seat #4 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: buranela ($11.01 in chips) 
+Seat 4: Laelle79 ($8.69 in chips) 
+Seat 5: ivan2772ms ($10.05 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+ivan2772ms: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+mehanik 1000 joins the table at seat #3 
+sheff7880: raises $0.20 to $0.30
+buranela: folds 
+Laelle79: folds 
+ivan2772ms: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.20) returned to sheff7880
+sheff7880 collected $0.25 from pot
+sheff7880: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sheff7880 collected ($0.25)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 4: Laelle79 (button) folded before Flop (didn't bet)
+Seat 5: ivan2772ms (small blind) folded before Flop
+Seat 6: Quatrehuith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950728743:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:24:47 ET
+Table 'Liguria III' 6-max Seat #5 is the button
+Seat 1: sheff7880 ($10.90 in chips) 
+Seat 2: buranela ($11.01 in chips) 
+Seat 4: Laelle79 ($8.69 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Quatrehuith: posts small blind $0.05
+sheff7880: posts big blind $0.10
+mehanik 1000: sits out 
+*** HOLE CARDS ***
+buranela: raises $0.15 to $0.25
+Laelle79: folds 
+ivan2772ms: folds 
+Quatrehuith: folds 
+sheff7880: folds 
+Uncalled bet ($0.15) returned to buranela
+buranela collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sheff7880 (big blind) folded before Flop
+Seat 2: buranela collected ($0.25)
+Seat 4: Laelle79 folded before Flop (didn't bet)
+Seat 5: ivan2772ms (button) folded before Flop (didn't bet)
+Seat 6: Quatrehuith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950734856:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:25:06 ET
+Table 'Liguria III' 6-max Seat #6 is the button
+Seat 1: sheff7880 ($10.80 in chips) 
+Seat 2: buranela ($11.16 in chips) 
+Seat 4: Laelle79 ($8.69 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+sheff7880: posts small blind $0.05
+buranela: posts big blind $0.10
+mehanik 1000: sits out 
+*** HOLE CARDS ***
+Laelle79: calls $0.10
+ivan2772ms: folds 
+Quatrehuith: folds 
+sheff7880: folds 
+buranela: checks 
+*** FLOP *** [5s Th Ks]
+buranela: checks 
+Laelle79: checks 
+*** TURN *** [5s Th Ks] [3h]
+buranela: bets $0.18
+Laelle79: folds 
+Uncalled bet ($0.18) returned to buranela
+buranela collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5s Th Ks 3h]
+Seat 1: sheff7880 (small blind) folded before Flop
+Seat 2: buranela (big blind) collected ($0.24)
+Seat 4: Laelle79 folded on the Turn
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950744670:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:25:35 ET
+Table 'Liguria III' 6-max Seat #1 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: buranela ($11.30 in chips) 
+Seat 3: mehanik 1000 ($4 in chips) 
+Seat 4: Laelle79 ($8.59 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+buranela: posts small blind $0.05
+mehanik 1000: posts big blind $0.10
+*** HOLE CARDS ***
+Laelle79: folds 
+ivan2772ms: raises $0.20 to $0.30
+Quatrehuith: folds 
+sheff7880: folds 
+buranela: folds 
+mehanik 1000: folds 
+Uncalled bet ($0.20) returned to ivan2772ms
+ivan2772ms collected $0.25 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sheff7880 (button) folded before Flop (didn't bet)
+Seat 2: buranela (small blind) folded before Flop
+Seat 3: mehanik 1000 (big blind) folded before Flop
+Seat 4: Laelle79 folded before Flop (didn't bet)
+Seat 5: ivan2772ms collected ($0.25)
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950750443:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:25:52 ET
+Table 'Liguria III' 6-max Seat #2 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: buranela ($11.25 in chips) 
+Seat 3: mehanik 1000 ($3.90 in chips) 
+Seat 4: Laelle79 ($8.59 in chips) 
+Seat 5: ivan2772ms ($10.15 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+mehanik 1000: posts small blind $0.05
+Laelle79: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+Quatrehuith: folds 
+sheff7880: folds 
+buranela: folds 
+mehanik 1000: raises $0.20 to $0.30
+Laelle79: calls $0.20
+*** FLOP *** [9c 3s 9h]
+mehanik 1000: bets $0.50
+Laelle79: folds 
+Uncalled bet ($0.50) returned to mehanik 1000
+mehanik 1000 collected $0.57 from pot
+mehanik 1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [9c 3s 9h]
+Seat 1: sheff7880 folded before Flop (didn't bet)
+Seat 2: buranela (button) folded before Flop (didn't bet)
+Seat 3: mehanik 1000 (small blind) collected ($0.57)
+Seat 4: Laelle79 (big blind) folded on the Flop
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950761422:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:26:26 ET
+Table 'Liguria III' 6-max Seat #3 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: buranela ($11.25 in chips) 
+Seat 3: mehanik 1000 ($4.17 in chips) 
+Seat 4: Laelle79 ($8.29 in chips) 
+Seat 5: ivan2772ms ($10.15 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Laelle79: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+sheff7880: raises $0.20 to $0.30
+buranela: folds 
+mehanik 1000: folds 
+Laelle79: folds 
+ivan2772ms: folds 
+Uncalled bet ($0.20) returned to sheff7880
+sheff7880 collected $0.25 from pot
+sheff7880: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sheff7880 collected ($0.25)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: mehanik 1000 (button) folded before Flop (didn't bet)
+Seat 4: Laelle79 (small blind) folded before Flop
+Seat 5: ivan2772ms (big blind) folded before Flop
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950766021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:26:39 ET
+Table 'Liguria III' 6-max Seat #4 is the button
+Seat 1: sheff7880 ($10.90 in chips) 
+Seat 2: buranela ($11.25 in chips) 
+Seat 3: mehanik 1000 ($4.17 in chips) 
+Seat 4: Laelle79 ($8.24 in chips) 
+Seat 5: ivan2772ms ($10.05 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+ivan2772ms: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+sheff7880: folds 
+buranela: folds 
+mehanik 1000: folds 
+Laelle79: calls $0.10
+ivan2772ms: folds 
+Quatrehuith: checks 
+*** FLOP *** [Qs Js 9h]
+Quatrehuith: bets $0.16
+Laelle79: folds 
+Uncalled bet ($0.16) returned to Quatrehuith
+Quatrehuith collected $0.24 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qs Js 9h]
+Seat 1: sheff7880 folded before Flop (didn't bet)
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: mehanik 1000 folded before Flop (didn't bet)
+Seat 4: Laelle79 (button) folded on the Flop
+Seat 5: ivan2772ms (small blind) folded before Flop
+Seat 6: Quatrehuith (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #222950774065:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:27:03 ET
+Table 'Liguria III' 6-max Seat #5 is the button
+Seat 1: sheff7880 ($10.90 in chips) 
+Seat 2: buranela ($11.25 in chips) 
+Seat 3: mehanik 1000 ($4.17 in chips) 
+Seat 4: Laelle79 ($8.14 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10.14 in chips) 
+Quatrehuith: posts small blind $0.05
+sheff7880: posts big blind $0.10
+*** HOLE CARDS ***
+buranela: folds 
+buranela leaves the table
+mehanik 1000: folds 
+Laelle79: calls $0.10
+ivan2772ms: raises $0.35 to $0.45
+Quatrehuith: folds 
+Spieler977 joins the table at seat #2 
+sheff7880: folds 
+Laelle79: calls $0.35
+*** FLOP *** [5c 7c 8s]
+Laelle79: checks 
+ivan2772ms: bets $0.25
+Laelle79: calls $0.25
+*** TURN *** [5c 7c 8s] [4d]
+Laelle79: checks 
+ivan2772ms: bets $1.11
+Laelle79: folds 
+Uncalled bet ($1.11) returned to ivan2772ms
+ivan2772ms collected $1.48 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [5c 7c 8s 4d]
+Seat 1: sheff7880 (big blind) folded before Flop
+Seat 2: buranela folded before Flop (didn't bet)
+Seat 3: mehanik 1000 folded before Flop (didn't bet)
+Seat 4: Laelle79 folded on the Turn
+Seat 5: ivan2772ms (button) collected ($1.48)
+Seat 6: Quatrehuith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950788216:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:27:46 ET
+Table 'Liguria III' 6-max Seat #6 is the button
+Seat 1: sheff7880 ($10.80 in chips) 
+Seat 2: Spieler977 ($10 in chips) 
+Seat 3: mehanik 1000 ($4.17 in chips) 
+Seat 4: Laelle79 ($7.44 in chips) 
+Seat 5: ivan2772ms ($10.78 in chips) 
+Seat 6: Quatrehuith ($10.09 in chips) 
+sheff7880: posts small blind $0.05
+Spieler977: posts big blind $0.10
+*** HOLE CARDS ***
+mehanik 1000: raises $0.15 to $0.25
+Laelle79: folds 
+ivan2772ms: calls $0.25
+Quatrehuith: folds 
+sheff7880: folds 
+Spieler977: folds 
+*** FLOP *** [2c 7c 3s]
+mehanik 1000: bets $0.45
+ivan2772ms: folds 
+Uncalled bet ($0.45) returned to mehanik 1000
+mehanik 1000 collected $0.62 from pot
+mehanik 1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2c 7c 3s]
+Seat 1: sheff7880 (small blind) folded before Flop
+Seat 2: Spieler977 (big blind) folded before Flop
+Seat 3: mehanik 1000 collected ($0.62)
+Seat 4: Laelle79 folded before Flop (didn't bet)
+Seat 5: ivan2772ms folded on the Flop
+Seat 6: Quatrehuith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950801232:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:28:25 ET
+Table 'Liguria III' 6-max Seat #1 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: Spieler977 ($10 in chips) 
+Seat 3: mehanik 1000 ($4.54 in chips) 
+Seat 4: Laelle79 ($7.44 in chips) 
+Seat 5: ivan2772ms ($10.53 in chips) 
+Seat 6: Quatrehuith ($10.09 in chips) 
+Spieler977: posts small blind $0.05
+mehanik 1000: posts big blind $0.10
+*** HOLE CARDS ***
+Laelle79: calls $0.10
+ivan2772ms: folds 
+Quatrehuith: folds 
+sheff7880: folds 
+Spieler977: raises $0.30 to $0.40
+mehanik 1000: folds 
+Laelle79: calls $0.30
+*** FLOP *** [Qd Td Jc]
+Spieler977: bets $0.65
+Laelle79: folds 
+Uncalled bet ($0.65) returned to Spieler977
+Spieler977 collected $0.86 from pot
+Spieler977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Qd Td Jc]
+Seat 1: sheff7880 (button) folded before Flop (didn't bet)
+Seat 2: Spieler977 (small blind) collected ($0.86)
+Seat 3: mehanik 1000 (big blind) folded before Flop
+Seat 4: Laelle79 folded on the Flop
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950815028:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:29:06 ET
+Table 'Liguria III' 6-max Seat #2 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: Spieler977 ($10.46 in chips) 
+Seat 3: mehanik 1000 ($4.44 in chips) 
+Seat 4: Laelle79 ($7.04 in chips) 
+Seat 5: ivan2772ms ($10.53 in chips) 
+Seat 6: Quatrehuith ($10.09 in chips) 
+mehanik 1000: posts small blind $0.05
+Laelle79: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+Quatrehuith: folds 
+sheff7880: folds 
+Spieler977: raises $0.20 to $0.30
+mehanik 1000: folds 
+Laelle79: calls $0.20
+*** FLOP *** [3d 6h 3c]
+Laelle79: checks 
+Spieler977: checks 
+*** TURN *** [3d 6h 3c] [Js]
+Laelle79: checks 
+Spieler977: checks 
+*** RIVER *** [3d 6h 3c Js] [9d]
+Laelle79: checks 
+Spieler977: bets $0.10
+Laelle79: folds 
+Uncalled bet ($0.10) returned to Spieler977
+Spieler977 collected $0.62 from pot
+Spieler977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3d 6h 3c Js 9d]
+Seat 1: sheff7880 folded before Flop (didn't bet)
+Seat 2: Spieler977 (button) collected ($0.62)
+Seat 3: mehanik 1000 (small blind) folded before Flop
+Seat 4: Laelle79 (big blind) folded on the River
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950829749:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:29:51 ET
+Table 'Liguria III' 6-max Seat #3 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($4.39 in chips) 
+Seat 4: Laelle79 ($6.74 in chips) 
+Seat 5: ivan2772ms ($10.53 in chips) 
+Seat 6: Quatrehuith ($10.09 in chips) 
+Laelle79: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+sheff7880: folds 
+Spieler977 has timed out
+Spieler977: folds 
+mehanik 1000: folds 
+Laelle79: calls $0.05
+ivan2772ms: raises $0.20 to $0.30
+Laelle79: calls $0.20
+*** FLOP *** [8c 3s Qs]
+Laelle79: checks 
+ivan2772ms: bets $0.43
+Laelle79: calls $0.43
+*** TURN *** [8c 3s Qs] [8d]
+Laelle79: checks 
+ivan2772ms: checks 
+*** RIVER *** [8c 3s Qs 8d] [4h]
+Laelle79: checks 
+ivan2772ms: checks 
+*** SHOW DOWN ***
+Laelle79: shows [Js 2s] (a pair of Eights)
+ivan2772ms: mucks hand 
+Laelle79 collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.07 
+Board [8c 3s Qs 8d 4h]
+Seat 1: sheff7880 folded before Flop (didn't bet)
+Seat 2: Spieler977 folded before Flop (didn't bet)
+Seat 3: mehanik 1000 (button) folded before Flop (didn't bet)
+Seat 4: Laelle79 (small blind) showed [Js 2s] and won ($1.39) with a pair of Eights
+Seat 5: ivan2772ms (big blind) mucked
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950852882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:31:00 ET
+Table 'Liguria III' 6-max Seat #4 is the button
+Seat 1: sheff7880 ($10.75 in chips) 
+Seat 3: mehanik 1000 ($4.39 in chips) 
+Seat 4: Laelle79 ($7.40 in chips) 
+Seat 5: ivan2772ms ($9.80 in chips) 
+Seat 6: Quatrehuith ($10.09 in chips) 
+ivan2772ms: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+sheff7880: raises $0.20 to $0.30
+mehanik 1000: calls $0.30
+Laelle79: folds 
+ivan2772ms: folds 
+Quatrehuith: folds 
+*** FLOP *** [8d 4s Th]
+sheff7880: bets $0.47
+mehanik 1000: folds 
+Uncalled bet ($0.47) returned to sheff7880
+sheff7880 collected $0.72 from pot
+sheff7880: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8d 4s Th]
+Seat 1: sheff7880 collected ($0.72)
+Seat 3: mehanik 1000 folded on the Flop
+Seat 4: Laelle79 (button) folded before Flop (didn't bet)
+Seat 5: ivan2772ms (small blind) folded before Flop
+Seat 6: Quatrehuith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950865566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:31:37 ET
+Table 'Liguria III' 6-max Seat #5 is the button
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($4.09 in chips) 
+Seat 4: Laelle79 ($7.40 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Quatrehuith: posts small blind $0.05
+sheff7880: is sitting out 
+Spieler977: posts big blind $0.10
+*** HOLE CARDS ***
+mehanik 1000: folds 
+Laelle79: folds 
+sheff7880 leaves the table
+ivan2772ms: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.05) returned to Spieler977
+petrovichkag joins the table at seat #1 
+Spieler977 collected $0.10 from pot
+Spieler977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Spieler977 (big blind) collected ($0.10)
+Seat 3: mehanik 1000 folded before Flop (didn't bet)
+Seat 4: Laelle79 folded before Flop (didn't bet)
+Seat 5: ivan2772ms (button) folded before Flop (didn't bet)
+Seat 6: Quatrehuith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950869987:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:31:50 ET
+Table 'Liguria III' 6-max Seat #6 is the button
+Seat 2: Spieler977 ($10.83 in chips) 
+Seat 3: mehanik 1000 ($4.09 in chips) 
+Seat 4: Laelle79 ($7.40 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Spieler977: posts small blind $0.05
+mehanik 1000: posts big blind $0.10
+*** HOLE CARDS ***
+Laelle79: raises $0.10 to $0.20
+ivan2772ms: calls $0.20
+Quatrehuith: folds 
+Spieler977: folds 
+mehanik 1000: folds 
+*** FLOP *** [Qh 5s 6d]
+Laelle79: bets $0.27
+ivan2772ms: calls $0.27
+*** TURN *** [Qh 5s 6d] [As]
+Laelle79: bets $0.52
+ivan2772ms: folds 
+Uncalled bet ($0.52) returned to Laelle79
+Laelle79 collected $1.04 from pot
+Laelle79: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [Qh 5s 6d As]
+Seat 2: Spieler977 (small blind) folded before Flop
+Seat 3: mehanik 1000 (big blind) folded before Flop
+Seat 4: Laelle79 collected ($1.04)
+Seat 5: ivan2772ms folded on the Turn
+Seat 6: Quatrehuith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950886773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:32:40 ET
+Table 'Liguria III' 6-max Seat #2 is the button
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($3.99 in chips) 
+Seat 4: Laelle79 ($7.97 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+mehanik 1000: posts small blind $0.05
+Laelle79: posts big blind $0.10
+petrovichkag: sits out 
+*** HOLE CARDS ***
+ivan2772ms: folds 
+Quatrehuith: folds 
+Spieler977: folds 
+mehanik 1000: folds 
+Uncalled bet ($0.05) returned to Laelle79
+Laelle79 collected $0.10 from pot
+Laelle79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Spieler977 (button) folded before Flop (didn't bet)
+Seat 3: mehanik 1000 (small blind) folded before Flop
+Seat 4: Laelle79 (big blind) collected ($0.10)
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950891913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:32:55 ET
+Table 'Liguria III' 6-max Seat #3 is the button
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($3.94 in chips) 
+Seat 4: Laelle79 ($8.02 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Laelle79: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+petrovichkag: sits out 
+*** HOLE CARDS ***
+Quatrehuith: folds 
+Spieler977: raises $0.20 to $0.30
+mehanik 1000: folds 
+Laelle79: folds 
+ivan2772ms: folds 
+Uncalled bet ($0.20) returned to Spieler977
+Spieler977 collected $0.25 from pot
+Spieler977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Spieler977 collected ($0.25)
+Seat 3: mehanik 1000 (button) folded before Flop (didn't bet)
+Seat 4: Laelle79 (small blind) folded before Flop
+Seat 5: ivan2772ms (big blind) folded before Flop
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950899545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:33:18 ET
+Table 'Liguria III' 6-max Seat #4 is the button
+Seat 2: Spieler977 ($10.93 in chips) 
+Seat 3: mehanik 1000 ($3.94 in chips) 
+Seat 4: Laelle79 ($7.97 in chips) 
+Seat 5: ivan2772ms ($9.90 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+ivan2772ms: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+petrovichkag: sits out 
+*** HOLE CARDS ***
+Spieler977: folds 
+mehanik 1000: raises $0.15 to $0.25
+Laelle79: calls $0.25
+ivan2772ms: raises $1.15 to $1.40
+Quatrehuith: folds 
+mehanik 1000: folds 
+Laelle79: folds 
+Uncalled bet ($1.15) returned to ivan2772ms
+ivan2772ms collected $0.85 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: Spieler977 folded before Flop (didn't bet)
+Seat 3: mehanik 1000 folded before Flop
+Seat 4: Laelle79 (button) folded before Flop
+Seat 5: ivan2772ms (small blind) collected ($0.85)
+Seat 6: Quatrehuith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950909479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:33:47 ET
+Table 'Liguria III' 6-max Seat #5 is the button
+Seat 1: petrovichkag ($10 in chips) 
+Seat 2: Spieler977 ($10.93 in chips) 
+Seat 3: mehanik 1000 ($3.69 in chips) 
+Seat 4: Laelle79 ($7.72 in chips) 
+Seat 5: ivan2772ms ($10.50 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+Quatrehuith: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Spieler977: folds 
+mehanik 1000: folds 
+Laelle79: calls $0.10
+ivan2772ms: raises $0.35 to $0.45
+Quatrehuith: folds 
+petrovichkag: folds 
+Laelle79: calls $0.35
+*** FLOP *** [Td Qc Jd]
+Laelle79: bets $0.50
+ivan2772ms: calls $0.50
+*** TURN *** [Td Qc Jd] [8s]
+Laelle79: bets $0.98
+ivan2772ms: raises $2.94 to $3.92
+Laelle79: calls $2.94
+*** RIVER *** [Td Qc Jd 8s] [Ad]
+Laelle79: bets $2.85 and is all-in
+ivan2772ms: calls $2.85
+*** SHOW DOWN ***
+Laelle79: shows [Qh Kd] (a straight, Ten to Ace)
+ivan2772ms: shows [Tc 9s] (a straight, Eight to Queen)
+Laelle79 collected $14.89 from pot
+*** SUMMARY ***
+Total pot $15.59 | Rake $0.70 
+Board [Td Qc Jd 8s Ad]
+Seat 1: petrovichkag (big blind) folded before Flop
+Seat 2: Spieler977 folded before Flop (didn't bet)
+Seat 3: mehanik 1000 folded before Flop (didn't bet)
+Seat 4: Laelle79 showed [Qh Kd] and won ($14.89) with a straight, Ten to Ace
+Seat 5: ivan2772ms (button) showed [Tc 9s] and lost with a straight, Eight to Queen
+Seat 6: Quatrehuith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950925904:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:34:36 ET
+Table 'Liguria III' 6-max Seat #6 is the button
+Seat 1: petrovichkag ($10 in chips) 
+Seat 2: Spieler977 ($10.93 in chips) 
+Seat 3: mehanik 1000 ($3.69 in chips) 
+Seat 4: Laelle79 ($14.89 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10 in chips) 
+petrovichkag: posts small blind $0.05
+Spieler977: posts big blind $0.10
+*** HOLE CARDS ***
+mehanik 1000: folds 
+Laelle79: folds 
+ivan2772ms: folds 
+Quatrehuith: raises $0.15 to $0.25
+petrovichkag: folds 
+Laelle79 leaves the table
+Spieler977: folds 
+Uncalled bet ($0.15) returned to Quatrehuith
+Quatrehuith collected $0.25 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: petrovichkag (small blind) folded before Flop
+Seat 2: Spieler977 (big blind) folded before Flop
+Seat 3: mehanik 1000 folded before Flop (didn't bet)
+Seat 4: Laelle79 folded before Flop (didn't bet)
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith (button) collected ($0.25)
+
+
+
+PokerStars Hand #222950931492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:34:52 ET
+Table 'Liguria III' 6-max Seat #1 is the button
+Seat 1: petrovichkag ($10 in chips) 
+Seat 2: Spieler977 ($10.83 in chips) 
+Seat 3: mehanik 1000 ($3.69 in chips) 
+Seat 5: ivan2772ms ($10 in chips) 
+Seat 6: Quatrehuith ($10.15 in chips) 
+Spieler977: posts small blind $0.05
+mehanik 1000: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+Quatrehuith: folds 
+petrovichkag: folds 
+Spieler977: folds 
+Uncalled bet ($0.05) returned to mehanik 1000
+mehanik 1000 collected $0.10 from pot
+mehanik 1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: petrovichkag (button) folded before Flop (didn't bet)
+Seat 2: Spieler977 (small blind) folded before Flop
+Seat 3: mehanik 1000 (big blind) collected ($0.10)
+Seat 5: ivan2772ms folded before Flop (didn't bet)
+Seat 6: Quatrehuith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950934566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:35:02 ET
+Table 'Liguria III' 6-max Seat #2 is the button
+Seat 1: petrovichkag ($10 in chips) 
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($3.74 in chips) 
+Seat 6: Quatrehuith ($10.15 in chips) 
+mehanik 1000: posts small blind $0.05
+ivan2772ms: is sitting out 
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Spieler977: folds 
+mehanik 1000: folds 
+Uncalled bet ($0.05) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: petrovichkag folded before Flop (didn't bet)
+Seat 2: Spieler977 (button) folded before Flop (didn't bet)
+Seat 3: mehanik 1000 (small blind) folded before Flop
+Seat 6: Quatrehuith (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222950938169:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:35:12 ET
+Table 'Liguria III' 6-max Seat #3 is the button
+Seat 1: petrovichkag ($10 in chips) 
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($3.69 in chips) 
+petrovichkag: posts small blind $0.05
+Spieler977: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith leaves the table
+mehanik 1000: folds 
+petrovichkag: folds 
+Uncalled bet ($0.05) returned to Spieler977
+Spieler977 collected $0.10 from pot
+Spieler977: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: petrovichkag (small blind) folded before Flop
+Seat 2: Spieler977 (big blind) collected ($0.10)
+Seat 3: mehanik 1000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950940826:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:35:20 ET
+Table 'Liguria III' 6-max Seat #1 is the button
+Seat 1: petrovichkag ($10 in chips) 
+Seat 2: Spieler977 ($10.83 in chips) 
+Seat 3: mehanik 1000 ($3.69 in chips) 
+Spieler977: posts small blind $0.05
+mehanik 1000: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+ivan2772ms leaves the table
+Spieler977: folds 
+Uncalled bet ($0.05) returned to mehanik 1000
+mehanik 1000 collected $0.10 from pot
+mehanik 1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: petrovichkag (button) folded before Flop (didn't bet)
+Seat 2: Spieler977 (small blind) folded before Flop
+Seat 3: mehanik 1000 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222950943821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:35:29 ET
+Table 'Liguria III' 6-max Seat #3 is the button
+Seat 2: Spieler977 ($10.78 in chips) 
+Seat 3: mehanik 1000 ($3.74 in chips) 
+mehanik 1000: posts small blind $0.05
+petrovichkag: is sitting out 
+Spieler977: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag leaves the table
+mehanik 1000: raises $0.15 to $0.25
+Spieler977: folds 
+Uncalled bet ($0.15) returned to mehanik 1000
+mehanik 1000 collected $0.20 from pot
+mehanik 1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Spieler977 (big blind) folded before Flop
+Seat 3: mehanik 1000 (button) (small blind) collected ($0.20)
+
+
+

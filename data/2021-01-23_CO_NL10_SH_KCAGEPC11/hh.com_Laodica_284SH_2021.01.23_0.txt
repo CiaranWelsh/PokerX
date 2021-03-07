@@ -1,0 +1,5815 @@
+﻿PokerStars Hand #222943586610:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:43 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($14.30 in chips) 
+Seat 2: wizzz000 ($9.84 in chips) 
+Seat 3: fuzinger ($36.67 in chips) 
+Seat 5: DomTB12 ($9.03 in chips) 
+Seat 6: ALL-IN0074 ($22.98 in chips) 
+fuzinger: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: folds 
+wizzz000: calls $0.30
+fuzinger: folds 
+DomTB12: folds 
+*** FLOP *** [Ks 4d 7s]
+KingPotNoodle leaves the table
+DomTB12 leaves the table
+KingPotNoodle joins the table at seat #1 
+ALL-IN0074: checks 
+wizzz000: checks 
+*** TURN *** [Ks 4d 7s] [Kh]
+KingPotNoodle leaves the table
+bilavych joins the table at seat #5 
+ALL-IN0074: bets $0.37
+wizzz000: calls $0.37
+*** RIVER *** [Ks 4d 7s Kh] [Jc]
+ALL-IN0074: checks 
+ChileNaTuraL joins the table at seat #1 
+wizzz000: bets $0.71
+ALL-IN0074: calls $0.71
+*** SHOW DOWN ***
+wizzz000: shows [9s Ad] (a pair of Kings)
+ALL-IN0074: shows [Jd Ah] (two pair, Kings and Jacks)
+ALL-IN0074 collected $2.78 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.13 
+Board [Ks 4d 7s Kh Jc]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) showed [9s Ad] and lost with a pair of Kings
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 showed [Jd Ah] and won ($2.78) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #222943602010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:21 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.46 in chips) 
+Seat 3: fuzinger ($36.62 in chips) 
+Seat 6: ALL-IN0074 ($24.38 in chips) 
+ALL-IN0074: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: folds 
+Fifilaplum leaves the table
+fuzinger: raises $0.25 to $0.35
+ALL-IN0074: folds 
+Fifilaplum joins the table at seat #4 
+Fifilaplum leaves the table
+ChileNaTuraL: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ChileNaTuraL (big blind) folded before Flop
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) collected ($0.25)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943608485:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:42 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.46 in chips) 
+Seat 3: fuzinger ($36.77 in chips) 
+Seat 5: bilavych ($8 in chips) 
+Seat 6: ALL-IN0074 ($24.33 in chips) 
+ChileNaTuraL: posts small blind $0.05
+wizzz000: posts big blind $0.10
+bilavych: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.35 to $0.45
+bilavych: raises $7.55 to $8 and is all-in
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: folds 
+Uncalled bet ($7.55) returned to bilavych
+bilavych collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0 
+Seat 1: ChileNaTuraL (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop
+Seat 5: bilavych collected ($1.05)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943613172:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:56 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.36 in chips) 
+Seat 3: fuzinger ($36.32 in chips) 
+Seat 5: bilavych ($8.60 in chips) 
+Seat 6: ALL-IN0074 ($24.33 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+bilavych: folds 
+ALL-IN0074: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+wizzz000: calls $0.20
+fuzinger: calls $0.15
+*** FLOP *** [7c Qd Ah]
+wizzz000: checks 
+fuzinger: checks 
+ChileNaTuraL: bets $0.24
+wizzz000: folds 
+fuzinger: raises $0.60 to $0.84
+nikos_mihalich joins the table at seat #4 
+ChileNaTuraL: folds 
+Uncalled bet ($0.60) returned to fuzinger
+fuzinger collected $1.17 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.23 | Rake $0.06 
+Board [7c Qd Ah]
+Seat 1: ChileNaTuraL (button) folded on the Flop
+Seat 2: wizzz000 (small blind) folded on the Flop
+Seat 3: fuzinger (big blind) collected ($1.17)
+Seat 5: bilavych folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943627045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:39 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.11 in chips) 
+Seat 3: fuzinger ($37 in chips) 
+Seat 4: nikos_mihalich ($6 in chips) 
+Seat 5: bilavych ($8.60 in chips) 
+Seat 6: ALL-IN0074 ($24.33 in chips) 
+fuzinger: posts small blind $0.05
+nikos_mihalich: posts big blind $0.10
+*** HOLE CARDS ***
+bilavych: folds 
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+nikos_mihalich: folds 
+Uncalled bet ($0.20) returned to wizzz000
+wizzz000 collected $0.25 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) collected ($0.25)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: nikos_mihalich (big blind) folded before Flop
+Seat 5: bilavych folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943633639:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:00 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.26 in chips) 
+Seat 3: fuzinger ($36.95 in chips) 
+Seat 4: nikos_mihalich ($5.90 in chips) 
+Seat 5: bilavych ($8.60 in chips) 
+Seat 6: ALL-IN0074 ($24.33 in chips) 
+nikos_mihalich: posts small blind $0.05
+bilavych: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+nikos_mihalich: calls $0.25
+bilavych: folds 
+*** FLOP *** [Td 5h 5d]
+nikos_mihalich: bets $0.40
+wizzz000: calls $0.40
+*** TURN *** [Td 5h 5d] [4c]
+nikos_mihalich: checks 
+wizzz000: checks 
+*** RIVER *** [Td 5h 5d 4c] [7h]
+nikos_mihalich: bets $0.70
+wizzz000: calls $0.70
+*** SHOW DOWN ***
+nikos_mihalich: shows [Th Ad] (two pair, Tens and Fives)
+wizzz000: shows [Ah Ts] (two pair, Tens and Fives)
+nikos_mihalich collected $1.39 from pot
+wizzz000 collected $1.38 from pot
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.13 
+Board [Td 5h 5d 4c 7h]
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 showed [Ah Ts] and won ($1.38) with two pair, Tens and Fives
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (small blind) showed [Th Ad] and won ($1.39) with two pair, Tens and Fives
+Seat 5: bilavych (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943651901:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:56 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.24 in chips) 
+Seat 3: fuzinger ($36.95 in chips) 
+Seat 4: nikos_mihalich ($5.89 in chips) 
+Seat 5: bilavych ($8.50 in chips) 
+Seat 6: ALL-IN0074 ($24.33 in chips) 
+bilavych: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+nikos_mihalich: calls $0.30
+bilavych: folds 
+ALL-IN0074: folds 
+*** FLOP *** [Ac 7d 7h]
+wizzz000: checks 
+nikos_mihalich: checks 
+*** TURN *** [Ac 7d 7h] [Qh]
+wizzz000: checks 
+nikos_mihalich: checks 
+*** RIVER *** [Ac 7d 7h Qh] [Jh]
+wizzz000: bets $0.36
+nikos_mihalich: folds 
+Uncalled bet ($0.36) returned to wizzz000
+wizzz000 collected $0.72 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ac 7d 7h Qh Jh]
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 collected ($0.72)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (button) folded on the River
+Seat 5: bilavych (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943666544:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:42 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.66 in chips) 
+Seat 3: fuzinger ($36.95 in chips) 
+Seat 4: nikos_mihalich ($5.59 in chips) 
+Seat 5: bilavych ($8.45 in chips) 
+Seat 6: ALL-IN0074 ($24.23 in chips) 
+ALL-IN0074: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+nikos_mihalich: folds 
+bilavych: calls $0.30
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+*** FLOP *** [Ah 7c 9d]
+wizzz000: bets $0.36
+bilavych: folds 
+Uncalled bet ($0.36) returned to wizzz000
+wizzz000 collected $0.72 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ah 7c 9d]
+Seat 1: ChileNaTuraL (big blind) folded before Flop
+Seat 2: wizzz000 collected ($0.72)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich folded before Flop (didn't bet)
+Seat 5: bilavych (button) folded on the Flop
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943674511:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:06 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($9.08 in chips) 
+Seat 3: fuzinger ($36.95 in chips) 
+Seat 4: nikos_mihalich ($5.59 in chips) 
+Seat 5: bilavych ($8.15 in chips) 
+Seat 6: ALL-IN0074 ($24.18 in chips) 
+ChileNaTuraL: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+nikos_mihalich: raises $0.10 to $0.20
+bilavych: calls $0.20
+ALL-IN0074: raises $1.20 to $1.40
+ChileNaTuraL: folds 
+wizzz000: folds 
+nikos_mihalich: folds 
+bilavych: folds 
+Uncalled bet ($1.20) returned to ALL-IN0074
+ALL-IN0074 collected $0.75 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: ChileNaTuraL (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich folded before Flop
+Seat 5: bilavych folded before Flop
+Seat 6: ALL-IN0074 (button) collected ($0.75)
+
+
+
+PokerStars Hand #222943683026:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:33 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($8.98 in chips) 
+Seat 3: fuzinger ($36.95 in chips) 
+Seat 4: nikos_mihalich ($5.39 in chips) 
+Seat 5: bilavych ($7.95 in chips) 
+Seat 6: ALL-IN0074 ($24.73 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+nikos_mihalich: folds 
+bilavych: calls $0.10
+ALL-IN0074: raises $0.40 to $0.50
+ChileNaTuraL: raises $1 to $1.50
+wizzz000: folds 
+fuzinger: folds 
+bilavych: folds 
+ALL-IN0074: folds 
+Uncalled bet ($1) returned to ChileNaTuraL
+ChileNaTuraL collected $1.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: ChileNaTuraL (button) collected ($1.25)
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: nikos_mihalich folded before Flop (didn't bet)
+Seat 5: bilavych folded before Flop
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222943693728:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:06 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: ChileNaTuraL ($10.75 in chips) 
+Seat 2: wizzz000 ($8.93 in chips) 
+Seat 3: fuzinger ($36.85 in chips) 
+Seat 4: nikos_mihalich ($5.39 in chips) 
+Seat 5: bilavych ($7.85 in chips) 
+Seat 6: ALL-IN0074 ($24.23 in chips) 
+fuzinger: posts small blind $0.05
+nikos_mihalich: posts big blind $0.10
+*** HOLE CARDS ***
+bilavych: folds 
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to nikos_mihalich
+nikos_mihalich collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: nikos_mihalich (big blind) collected ($0.10)
+Seat 5: bilavych folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943698782:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:21 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: ChileNaTuraL ($10.75 in chips) 
+Seat 2: wizzz000 ($8.93 in chips) 
+Seat 3: fuzinger ($36.80 in chips) 
+Seat 4: nikos_mihalich ($5.44 in chips) 
+Seat 5: bilavych ($7.85 in chips) 
+Seat 6: ALL-IN0074 ($24.23 in chips) 
+nikos_mihalich: posts small blind $0.05
+bilavych: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+wizzz000: calls $0.30
+fuzinger: folds 
+nikos_mihalich: calls $0.25
+bilavych: calls $0.20
+*** FLOP *** [Td 8c Jh]
+nikos_mihalich: checks 
+bilavych: checks 
+ALL-IN0074: checks 
+wizzz000: checks 
+*** TURN *** [Td 8c Jh] [Kh]
+nikos_mihalich: checks 
+bilavych: checks 
+ALL-IN0074: checks 
+wizzz000: bets $0.58
+nikos_mihalich: calls $0.58
+bilavych: folds 
+ALL-IN0074: folds 
+*** RIVER *** [Td 8c Jh Kh] [As]
+nikos_mihalich: checks 
+wizzz000: bets $1.13
+nikos_mihalich: folds 
+Uncalled bet ($1.13) returned to wizzz000
+wizzz000 collected $2.25 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.11 
+Board [Td 8c Jh Kh As]
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 collected ($2.25)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (small blind) folded on the River
+Seat 5: bilavych (big blind) folded on the Turn
+Seat 6: ALL-IN0074 folded on the Turn
+
+
+
+PokerStars Hand #222943724445:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:39 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: ChileNaTuraL ($10.75 in chips) 
+Seat 2: wizzz000 ($10.30 in chips) 
+Seat 3: fuzinger ($36.80 in chips) 
+Seat 4: nikos_mihalich ($4.56 in chips) 
+Seat 5: bilavych ($7.55 in chips) 
+Seat 6: ALL-IN0074 ($23.93 in chips) 
+bilavych: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: raises $0.25 to $0.35
+nikos_mihalich: calls $0.35
+bilavych: raises $7.20 to $7.55 and is all-in
+ALL-IN0074: folds 
+fuzinger: folds 
+nikos_mihalich: folds 
+Uncalled bet ($7.20) returned to bilavych
+bilavych collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0 
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop
+Seat 4: nikos_mihalich (button) folded before Flop
+Seat 5: bilavych (small blind) collected ($1.15)
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943733536:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:55 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: ChileNaTuraL ($10.75 in chips) 
+Seat 2: wizzz000 ($10.30 in chips) 
+Seat 3: fuzinger ($36.45 in chips) 
+Seat 4: nikos_mihalich ($4.21 in chips) 
+Seat 5: bilavych ($8.35 in chips) 
+Seat 6: ALL-IN0074 ($23.83 in chips) 
+ALL-IN0074: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+nikos_mihalich: calls $0.30
+bilavych: folds 
+ALL-IN0074: folds 
+ChileNaTuraL: calls $0.20
+*** FLOP *** [Qh 6d Jc]
+ChileNaTuraL: checks 
+wizzz000: checks 
+nikos_mihalich: bets $0.80
+ChileNaTuraL: folds 
+wizzz000: raises $0.80 to $1.60
+nikos_mihalich: calls $0.80
+*** TURN *** [Qh 6d Jc] [4d]
+wizzz000: bets $2.50
+nikos_mihalich: calls $2.31 and is all-in
+Uncalled bet ($0.19) returned to wizzz000
+*** RIVER *** [Qh 6d Jc 4d] [3h]
+*** SHOW DOWN ***
+wizzz000: shows [As Ah] (a pair of Aces)
+nikos_mihalich: shows [Kd Ad] (high card Ace)
+wizzz000 collected $8.38 from pot
+*** SUMMARY ***
+Total pot $8.77 | Rake $0.39 
+Board [Qh 6d Jc 4d 3h]
+Seat 1: ChileNaTuraL (big blind) folded on the Flop
+Seat 2: wizzz000 showed [As Ah] and won ($8.38) with a pair of Aces
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich showed [Kd Ad] and lost with high card Ace
+Seat 5: bilavych (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943753151:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:57 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: ChileNaTuraL ($10.45 in chips) 
+Seat 2: wizzz000 ($14.47 in chips) 
+Seat 3: fuzinger ($36.45 in chips) 
+Seat 5: bilavych ($8.35 in chips) 
+Seat 6: ALL-IN0074 ($23.78 in chips) 
+ChileNaTuraL: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.20 to $0.30
+bilavych: folds 
+ALL-IN0074: folds 
+ChileNaTuraL: calls $0.25
+wizzz000: folds 
+*** FLOP *** [7c 6d 3d]
+ChileNaTuraL: checks 
+fuzinger: bets $0.67
+ChileNaTuraL: calls $0.67
+*** TURN *** [7c 6d 3d] [5h]
+ChileNaTuraL: checks 
+fuzinger: checks 
+*** RIVER *** [7c 6d 3d 5h] [Kh]
+ChileNaTuraL: checks 
+fuzinger: bets $0.98
+ChileNaTuraL: folds 
+Uncalled bet ($0.98) returned to fuzinger
+fuzinger collected $1.95 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [7c 6d 3d 5h Kh]
+Seat 1: ChileNaTuraL (small blind) folded on the River
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger collected ($1.95)
+Seat 5: bilavych folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943769264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:47 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.37 in chips) 
+Seat 3: fuzinger ($37.43 in chips) 
+Seat 4: nikos_mihalich ($5.40 in chips) 
+Seat 5: bilavych ($8.35 in chips) 
+Seat 6: ALL-IN0074 ($23.78 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+nikos_mihalich: calls $0.10
+bilavych: folds 
+ALL-IN0074: raises $0.30 to $0.40
+ChileNaTuraL: calls $0.40
+wizzz000: folds 
+fuzinger: folds 
+nikos_mihalich: calls $0.30
+*** FLOP *** [As 7h 8s]
+nikos_mihalich: checks 
+ALL-IN0074: bets $0.67
+ChileNaTuraL: folds 
+nikos_mihalich: calls $0.67
+*** TURN *** [As 7h 8s] [Kh]
+nikos_mihalich: checks 
+ALL-IN0074: bets $1.80
+nikos_mihalich: folds 
+Uncalled bet ($1.80) returned to ALL-IN0074
+ALL-IN0074 collected $2.57 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.12 
+Board [As 7h 8s Kh]
+Seat 1: ChileNaTuraL (button) folded on the Flop
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: nikos_mihalich folded on the Turn
+Seat 5: bilavych folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 collected ($2.57)
+
+
+
+PokerStars Hand #222943809099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:51 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.32 in chips) 
+Seat 3: fuzinger ($37.33 in chips) 
+Seat 4: nikos_mihalich ($4.33 in chips) 
+Seat 5: bilavych ($8.35 in chips) 
+Seat 6: ALL-IN0074 ($25.28 in chips) 
+fuzinger: posts small blind $0.05
+nikos_mihalich: posts big blind $0.10
+*** HOLE CARDS ***
+bilavych: raises $8.25 to $8.35 and is all-in
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: folds 
+nikos_mihalich: folds 
+Uncalled bet ($8.25) returned to bilavych
+bilavych collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: nikos_mihalich (big blind) folded before Flop
+Seat 5: bilavych collected ($0.25)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943821062:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:28 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.32 in chips) 
+Seat 3: fuzinger ($37.28 in chips) 
+Seat 4: nikos_mihalich ($4.23 in chips) 
+Seat 5: bilavych ($8.50 in chips) 
+Seat 6: ALL-IN0074 ($25.28 in chips) 
+nikos_mihalich: posts small blind $0.05
+bilavych: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: folds 
+nikos_mihalich: raises $0.10 to $0.20
+bilavych: calls $0.10
+*** FLOP *** [6c Jh Tc]
+nikos_mihalich: bets $0.20
+bilavych: calls $0.20
+*** TURN *** [6c Jh Tc] [5s]
+nikos_mihalich: checks 
+bilavych: checks 
+*** RIVER *** [6c Jh Tc 5s] [5c]
+nikos_mihalich: checks 
+bilavych: checks 
+*** SHOW DOWN ***
+nikos_mihalich: shows [Qs 9s] (a pair of Fives)
+bilavych: shows [Kc 9h] (a pair of Fives - King kicker)
+bilavych collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [6c Jh Tc 5s 5c]
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (small blind) showed [Qs 9s] and lost with a pair of Fives
+Seat 5: bilavych (big blind) showed [Kc 9h] and won ($0.76) with a pair of Fives
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943828864:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:52 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.32 in chips) 
+Seat 3: fuzinger ($37.28 in chips) 
+Seat 4: nikos_mihalich ($3.83 in chips) 
+Seat 5: bilavych ($8.86 in chips) 
+bilavych: posts small blind $0.05
+ALL-IN0074: is sitting out 
+ALL-IN0074 leaves the table
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: folds 
+fuzinger: folds 
+whtocean joins the table at seat #6 
+nikos_mihalich: calls $0.10
+bilavych: calls $0.05
+ChileNaTuraL: raises $0.40 to $0.50
+nikos_mihalich: folds 
+bilavych: folds 
+Uncalled bet ($0.40) returned to ChileNaTuraL
+ChileNaTuraL collected $0.30 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: ChileNaTuraL (big blind) collected ($0.30)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (button) folded before Flop
+Seat 5: bilavych (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943843729:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:12 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: ChileNaTuraL ($10.20 in chips) 
+Seat 2: wizzz000 ($14.32 in chips) 
+Seat 3: fuzinger ($37.28 in chips) 
+Seat 4: nikos_mihalich ($3.73 in chips) 
+Seat 5: bilavych ($8.76 in chips) 
+ChileNaTuraL: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+nikos_mihalich: calls $0.10
+bilavych: calls $0.10
+ChileNaTuraL: raises $0.50 to $0.60
+wizzz000: folds 
+nikos_mihalich: calls $0.50
+bilavych: calls $0.50
+*** FLOP *** [Qd Jc 6c]
+ChileNaTuraL: checks 
+nikos_mihalich: checks 
+bilavych: checks 
+*** TURN *** [Qd Jc 6c] [3s]
+ChileNaTuraL: checks 
+nikos_mihalich: checks 
+bilavych: checks 
+*** RIVER *** [Qd Jc 6c 3s] [Js]
+ChileNaTuraL: checks 
+nikos_mihalich: checks 
+bilavych: bets $8.16 and is all-in
+ChileNaTuraL: folds 
+nikos_mihalich: folds 
+Uncalled bet ($8.16) returned to bilavych
+bilavych collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.09 
+Board [Qd Jc 6c 3s Js]
+Seat 1: ChileNaTuraL (small blind) folded on the River
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich folded on the River
+Seat 5: bilavych (button) collected ($1.81)
+
+
+
+PokerStars Hand #222943861727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:08 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.22 in chips) 
+Seat 3: fuzinger ($37.28 in chips) 
+Seat 4: nikos_mihalich ($3.13 in chips) 
+Seat 5: bilavych ($9.97 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+whtocean: sits out 
+*** HOLE CARDS ***
+nikos_mihalich: calls $0.10
+bilavych: calls $0.10
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: checks 
+*** FLOP *** [4s Kc Qs]
+fuzinger: checks 
+nikos_mihalich: checks 
+bilavych: checks 
+*** TURN *** [4s Kc Qs] [Qc]
+fuzinger: checks 
+nikos_mihalich: checks 
+bilavych: checks 
+*** RIVER *** [4s Kc Qs Qc] [Qh]
+fuzinger: checks 
+nikos_mihalich: checks 
+bilavych: bets $0.10
+fuzinger: raises $0.60 to $0.70
+nikos_mihalich: folds 
+bilavych: folds 
+Uncalled bet ($0.60) returned to fuzinger
+fuzinger collected $0.53 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4s Kc Qs Qc Qh]
+Seat 1: ChileNaTuraL (button) folded before Flop (didn't bet)
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) collected ($0.53)
+Seat 4: nikos_mihalich folded on the River
+Seat 5: bilavych folded on the River
+
+
+
+PokerStars Hand #222943885252:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:59 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.17 in chips) 
+Seat 3: fuzinger ($37.61 in chips) 
+Seat 4: nikos_mihalich ($3.03 in chips) 
+Seat 5: bilavych ($9.77 in chips) 
+fuzinger: posts small blind $0.05
+nikos_mihalich: posts big blind $0.10
+whtocean: sits out 
+*** HOLE CARDS ***
+bilavych: calls $0.10
+ChileNaTuraL: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+nikos_mihalich: calls $0.20
+bilavych: calls $0.20
+*** FLOP *** [Kc Kh 8d]
+nikos_mihalich: checks 
+bilavych: checks 
+wizzz000: checks 
+*** TURN *** [Kc Kh 8d] [3d]
+nikos_mihalich: checks 
+bilavych: checks 
+wizzz000: bets $0.46
+nikos_mihalich: folds 
+bilavych: folds 
+Uncalled bet ($0.46) returned to wizzz000
+wizzz000 collected $0.91 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kc Kh 8d 3d]
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) collected ($0.91)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: nikos_mihalich (big blind) folded on the Turn
+Seat 5: bilavych folded on the Turn
+
+
+
+PokerStars Hand #222943900644:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:48 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: ChileNaTuraL ($10 in chips) 
+Seat 2: wizzz000 ($14.78 in chips) 
+Seat 3: fuzinger ($37.56 in chips) 
+Seat 4: nikos_mihalich ($2.73 in chips) 
+Seat 5: bilavych ($9.47 in chips) 
+nikos_mihalich: posts small blind $0.05
+bilavych: posts big blind $0.10
+whtocean: sits out 
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+wizzz000: folds 
+fuzinger: folds 
+nikos_mihalich: folds 
+bilavych: calls $0.20
+*** FLOP *** [Td Jc Jd]
+bilavych: checks 
+ChileNaTuraL: bets $0.20
+bilavych: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.62 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td Jc Jd]
+Seat 1: ChileNaTuraL collected ($0.62)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (small blind) folded before Flop
+Seat 5: bilavych (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943907606:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:10 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: ChileNaTuraL ($10.32 in chips) 
+Seat 2: wizzz000 ($14.78 in chips) 
+Seat 3: fuzinger ($37.56 in chips) 
+Seat 4: nikos_mihalich ($2.68 in chips) 
+Seat 5: bilavych ($9.17 in chips) 
+Seat 6: whtocean ($10 in chips) 
+bilavych: posts small blind $0.05
+whtocean: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+wizzz000: folds 
+fuzinger: folds 
+nikos_mihalich: calls $0.10
+bilavych: folds 
+whtocean: checks 
+*** FLOP *** [5c 6d 7s]
+bilavych leaves the table
+whtocean: bets $0.13
+nikos_mihalich: calls $0.13
+*** TURN *** [5c 6d 7s] [3d]
+whtocean: bets $0.32
+nikos_mihalich: calls $0.32
+*** RIVER *** [5c 6d 7s 3d] [9c]
+whtocean: bets $1.65
+nikos_mihalich: folds 
+Uncalled bet ($1.65) returned to whtocean
+nikos_mihalich leaves the table
+whtocean collected $1.10 from pot
+whtocean: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [5c 6d 7s 3d 9c]
+Seat 1: ChileNaTuraL folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: nikos_mihalich (button) folded on the River
+Seat 5: bilavych (small blind) folded before Flop
+Seat 6: whtocean (big blind) collected ($1.10)
+
+
+
+PokerStars Hand #222943921690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:54 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: ChileNaTuraL ($10.32 in chips) 
+Seat 2: wizzz000 ($14.78 in chips) 
+Seat 3: fuzinger ($37.56 in chips) 
+Seat 6: whtocean ($10.55 in chips) 
+ChileNaTuraL: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+whtocean: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+wizzz000: calls $0.15
+*** FLOP *** [8c Th Ks]
+wizzz000: checks 
+whtocean: bets $0.28
+wizzz000: folds 
+Uncalled bet ($0.28) returned to whtocean
+whtocean collected $0.53 from pot
+whtocean: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8c Th Ks]
+Seat 1: ChileNaTuraL (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) folded on the Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 6: whtocean (button) collected ($0.53)
+
+
+
+PokerStars Hand #222943931225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:24 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: ChileNaTuraL ($10.27 in chips) 
+Seat 2: wizzz000 ($14.53 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: is sitting out 
+whtocean: is sitting out 
+whtocean leaves the table
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.20
+*** FLOP *** [3h 3s 8h]
+bubbleburner85 joins the table at seat #4 
+ChileNaTuraL: checks 
+wizzz000: checks 
+*** TURN *** [3h 3s 8h] [4c]
+ChileNaTuraL: bets $0.44
+wizzz000: folds 
+Uncalled bet ($0.44) returned to ChileNaTuraL
+ChileNaTuraL collected $0.57 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3h 3s 8h 4c]
+Seat 1: ChileNaTuraL (big blind) collected ($0.57)
+Seat 2: wizzz000 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222943938464:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:47 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: ChileNaTuraL ($10.54 in chips) 
+Seat 4: bubbleburner85 ($6.60 in chips) 
+ChileNaTuraL: posts small blind $0.05
+bubbleburner85: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000 leaves the table
+fuzinger leaves the table
+ChileNaTuraL: folds 
+Uncalled bet ($0.05) returned to bubbleburner85
+ChileNaTuraL leaves the table
+bubbleburner85 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ChileNaTuraL (button) (small blind) folded before Flop
+Seat 4: bubbleburner85 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222942081929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:54:54 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.22 in chips) 
+Seat 3: fuzinger ($10.78 in chips) 
+Seat 4: BIG DILLY709 ($17.30 in chips) 
+Seat 5: BIANCALE ($7.72 in chips) 
+Seat 6: Salhye ($12.46 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: folds 
+BIANCALE: calls $0.10
+Salhye: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: checks 
+*** FLOP *** [4d Ac Ad]
+fuzinger: checks 
+BIANCALE: checks 
+*** TURN *** [4d Ac Ad] [7d]
+fuzinger: checks 
+BIANCALE: checks 
+*** RIVER *** [4d Ac Ad 7d] [3h]
+fuzinger: checks 
+BIANCALE: checks 
+*** SHOW DOWN ***
+fuzinger: shows [4h 5c] (two pair, Aces and Fours)
+BIANCALE: shows [As Ah] (four of a kind, Aces)
+BIANCALE collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d Ac Ad 7d 3h]
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) showed [4h 5c] and lost with two pair, Aces and Fours
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE showed [As Ah] and won ($0.24) with four of a kind, Aces
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942093006:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:55:29 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.17 in chips) 
+Seat 3: fuzinger ($10.68 in chips) 
+Seat 4: BIG DILLY709 ($17.30 in chips) 
+Seat 5: BIANCALE ($7.86 in chips) 
+Seat 6: Salhye ($12.46 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: calls $0.10
+Salhye: folds 
+Gorak2907: raises $0.30 to $0.40
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: calls $0.30
+*** FLOP *** [5h 6h Qd]
+BIANCALE: checks 
+Gorak2907: bets $0.40
+BIANCALE: calls $0.40
+*** TURN *** [5h 6h Qd] [7d]
+BIANCALE: checks 
+Gorak2907: checks 
+*** RIVER *** [5h 6h Qd 7d] [Qs]
+BIANCALE: bets $0.10
+Gorak2907: calls $0.10
+*** SHOW DOWN ***
+BIANCALE: shows [5s 5c] (a full house, Fives full of Queens)
+Gorak2907: mucks hand 
+BIANCALE collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [5h 6h Qd 7d Qs]
+Seat 1: Gorak2907 mucked
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) folded before Flop
+Seat 5: BIANCALE showed [5s 5c] and won ($1.86) with a full house, Fives full of Queens
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942112634:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:56:16 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.17 in chips) 
+Seat 3: fuzinger ($10.63 in chips) 
+Seat 4: BIG DILLY709 ($17.20 in chips) 
+Seat 5: BIANCALE ($8.82 in chips) 
+Seat 6: Salhye ($12.46 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+Salhye: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: folds 
+Uncalled bet ($0.05) returned to BIANCALE
+BIANCALE collected $0.10 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) folded before Flop
+Seat 5: BIANCALE (big blind) collected ($0.10)
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942114587:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:56:23 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.17 in chips) 
+Seat 3: fuzinger ($10.63 in chips) 
+Seat 4: BIG DILLY709 ($17.15 in chips) 
+Seat 5: BIANCALE ($8.87 in chips) 
+BIANCALE: posts small blind $0.05
+Salhye: is sitting out 
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: raises $0.20 to $0.30
+fuzinger: folds 
+Salhye leaves the table
+BIG DILLY709: calls $0.30
+ALL-IN0074 joins the table at seat #6 
+BIANCALE: calls $0.25
+Gorak2907: folds 
+*** FLOP *** [5h 3c 2s]
+BIANCALE: checks 
+0nix770: bets $0.52
+BIG DILLY709: folds 
+BIANCALE: folds 
+Uncalled bet ($0.52) returned to 0nix770
+0nix770 collected $0.96 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [5h 3c 2s]
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: 0nix770 collected ($0.96)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) folded on the Flop
+Seat 5: BIANCALE (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222942123600:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:56:55 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.83 in chips) 
+Seat 3: fuzinger ($10.63 in chips) 
+Seat 4: BIG DILLY709 ($16.85 in chips) 
+Seat 5: BIANCALE ($8.57 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+BIG DILLY709: calls $0.10
+BIANCALE: folds 
+Gorak2907: raises $0.35 to $0.45
+0nix770: folds 
+BIG DILLY709: calls $0.35
+*** FLOP *** [7s 7h Qd]
+Gorak2907: checks 
+BIG DILLY709: bets $0.50
+Gorak2907: calls $0.50
+*** TURN *** [7s 7h Qd] [Ac]
+Gorak2907: bets $1.50
+BIG DILLY709: folds 
+Uncalled bet ($1.50) returned to Gorak2907
+Gorak2907 collected $1.91 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [7s 7h Qd Ac]
+Seat 1: Gorak2907 (small blind) collected ($1.91)
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded on the Turn
+Seat 5: BIANCALE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942134709:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:57:34 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10.96 in chips) 
+Seat 2: 0nix770 ($12.73 in chips) 
+Seat 3: fuzinger ($10.63 in chips) 
+Seat 4: BIG DILLY709 ($15.90 in chips) 
+Seat 5: BIANCALE ($8.57 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+ALL-IN0074: sits out 
+*** HOLE CARDS ***
+BIG DILLY709: raises $0.20 to $0.30
+BIANCALE: folds 
+Gorak2907: calls $0.30
+0nix770: folds 
+fuzinger: calls $0.20
+*** FLOP *** [2s 6c Qd]
+fuzinger: checks 
+BIG DILLY709: checks 
+Gorak2907: bets $0.46
+fuzinger: folds 
+BIG DILLY709: calls $0.46
+*** TURN *** [2s 6c Qd] [8d]
+BIG DILLY709: checks 
+Gorak2907: checks 
+*** RIVER *** [2s 6c Qd 8d] [8h]
+BIG DILLY709: bets $0.80
+Gorak2907: calls $0.80
+*** SHOW DOWN ***
+BIG DILLY709: shows [Qs Th] (two pair, Queens and Eights)
+Gorak2907: mucks hand 
+BIG DILLY709 collected $3.31 from pot
+*** SUMMARY ***
+Total pot $3.47 | Rake $0.16 
+Board [2s 6c Qd 8d 8h]
+Seat 1: Gorak2907 (button) mucked
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded on the Flop
+Seat 4: BIG DILLY709 showed [Qs Th] and won ($3.31) with two pair, Queens and Eights
+Seat 5: BIANCALE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942149192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:58:26 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.68 in chips) 
+Seat 3: fuzinger ($10.33 in chips) 
+Seat 4: BIG DILLY709 ($17.65 in chips) 
+Seat 5: BIANCALE ($8.57 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+ALL-IN0074: sits out 
+*** HOLE CARDS ***
+BIANCALE: calls $0.10
+Gorak2907: folds 
+0nix770: calls $0.10
+fuzinger: folds 
+BIG DILLY709: checks 
+*** FLOP *** [Js 9d 3d]
+BIG DILLY709: checks 
+BIANCALE: bets $0.10
+0nix770: raises $0.20 to $0.30
+BIG DILLY709: folds 
+BIANCALE: calls $0.20
+*** TURN *** [Js 9d 3d] [5h]
+BIANCALE: checks 
+0nix770: bets $0.72
+BIANCALE: folds 
+Uncalled bet ($0.72) returned to 0nix770
+0nix770 collected $0.91 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Js 9d 3d 5h]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) collected ($0.91)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) folded on the Flop
+Seat 5: BIANCALE folded on the Turn
+
+
+
+PokerStars Hand #222942157336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:58:55 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($13.19 in chips) 
+Seat 3: fuzinger ($10.28 in chips) 
+Seat 4: BIG DILLY709 ($17.55 in chips) 
+Seat 5: BIANCALE ($8.17 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+ALL-IN0074: sits out 
+*** HOLE CARDS ***
+Gorak2907: folds 
+0nix770: raises $0.15 to $0.25
+fuzinger: folds 
+BIG DILLY709: calls $0.20
+BIANCALE: calls $0.15
+*** FLOP *** [4d 8c 4s]
+BIG DILLY709: checks 
+BIANCALE: checks 
+0nix770: bets $0.34
+BIG DILLY709: folds 
+BIANCALE: calls $0.34
+*** TURN *** [4d 8c 4s] [Qc]
+BIANCALE: checks 
+0nix770: bets $0.79
+BIANCALE: folds 
+Uncalled bet ($0.79) returned to 0nix770
+0nix770 collected $1.37 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.06 
+Board [4d 8c 4s Qc]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 collected ($1.37)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) folded on the Flop
+Seat 5: BIANCALE (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222942173900:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:59:54 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($13.97 in chips) 
+Seat 3: fuzinger ($10.28 in chips) 
+Seat 4: BIG DILLY709 ($17.30 in chips) 
+Seat 5: BIANCALE ($7.58 in chips) 
+Seat 6: ALL-IN0074 ($10 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: folds 
+0nix770: raises $0.20 to $0.30
+fuzinger: calls $0.30
+BIG DILLY709: calls $0.30
+BIANCALE: calls $0.25
+ALL-IN0074: folds 
+*** FLOP *** [Kd Ah 5d]
+BIANCALE: checks 
+0nix770: checks 
+fuzinger: bets $0.70
+BIG DILLY709: folds 
+BIANCALE: folds 
+0nix770: folds 
+Uncalled bet ($0.70) returned to fuzinger
+fuzinger collected $1.24 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [Kd Ah 5d]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded on the Flop
+Seat 3: fuzinger collected ($1.24)
+Seat 4: BIG DILLY709 (button) folded on the Flop
+Seat 5: BIANCALE (small blind) folded on the Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942186491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:00:33 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($13.67 in chips) 
+Seat 3: fuzinger ($11.22 in chips) 
+Seat 4: BIG DILLY709 ($17 in chips) 
+Seat 5: BIANCALE ($7.28 in chips) 
+Seat 6: ALL-IN0074 ($10 in chips) 
+ALL-IN0074: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+fuzinger: raises $0.25 to $0.35
+BIG DILLY709: folds 
+BIANCALE: calls $0.35
+ALL-IN0074: calls $0.30
+Gorak2907: folds 
+*** FLOP *** [3h Kh 3c]
+ALL-IN0074: checks 
+fuzinger: bets $0.60
+BIANCALE: folds 
+ALL-IN0074: calls $0.60
+*** TURN *** [3h Kh 3c] [3s]
+ALL-IN0074: checks 
+fuzinger: bets $0.60
+ALL-IN0074: calls $0.60
+*** RIVER *** [3h Kh 3c 3s] [Qd]
+ALL-IN0074: checks 
+fuzinger: checks 
+*** SHOW DOWN ***
+ALL-IN0074: shows [9c 9h] (a full house, Threes full of Nines)
+fuzinger: mucks hand 
+ALL-IN0074 collected $3.39 from pot
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.16 
+Board [3h Kh 3c 3s Qd]
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger mucked
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE (button) folded on the Flop
+Seat 6: ALL-IN0074 (small blind) showed [9c 9h] and won ($3.39) with a full house, Threes full of Nines
+
+
+
+PokerStars Hand #222942203662:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:01:20 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($13.67 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17 in chips) 
+Seat 5: BIANCALE ($6.93 in chips) 
+Seat 6: ALL-IN0074 ($11.84 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+BIG DILLY709: raises $0.20 to $0.30
+BIANCALE: calls $0.30
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: calls $0.20
+*** FLOP *** [6d 3d 7d]
+0nix770: checks 
+BIG DILLY709: bets $0.40
+BIANCALE: folds 
+0nix770: folds 
+Uncalled bet ($0.40) returned to BIG DILLY709
+BIG DILLY709 collected $0.91 from pot
+BIG DILLY709: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6d 3d 7d]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded on the Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 collected ($0.91)
+Seat 5: BIANCALE folded on the Flop
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942215025:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:01:51 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($13.37 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17.61 in chips) 
+Seat 5: BIANCALE ($6.63 in chips) 
+Seat 6: ALL-IN0074 ($11.84 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: folds 
+BIANCALE: folds 
+ALL-IN0074: folds 
+Gorak2907: raises $0.20 to $0.30
+0nix770: folds 
+fuzinger: folds 
+Uncalled bet ($0.20) returned to Gorak2907
+Gorak2907 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Gorak2907 (button) collected ($0.25)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942223323:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:13 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($10.15 in chips) 
+Seat 2: 0nix770 ($13.32 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17.61 in chips) 
+Seat 5: BIANCALE ($6.63 in chips) 
+Seat 6: ALL-IN0074 ($11.84 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: folds 
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to BIG DILLY709
+BIG DILLY709 collected $0.10 from pot
+BIG DILLY709: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) collected ($0.10)
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942227154:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:23 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($10.15 in chips) 
+Seat 2: 0nix770 ($13.32 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17.66 in chips) 
+Seat 5: BIANCALE ($6.63 in chips) 
+Seat 6: ALL-IN0074 ($11.84 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+Gorak2907: raises $0.15 to $0.25
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: calls $0.20
+BIANCALE: folds 
+*** FLOP *** [7h 7d 3c]
+BIG DILLY709: checks 
+Gorak2907: bets $0.28
+BIG DILLY709: folds 
+Uncalled bet ($0.28) returned to Gorak2907
+Gorak2907 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [7h 7d 3c]
+Seat 1: Gorak2907 collected ($0.57)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) folded on the Flop
+Seat 5: BIANCALE (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942237340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:49 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($10.47 in chips) 
+Seat 2: 0nix770 ($13.32 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17.41 in chips) 
+Seat 5: BIANCALE ($6.53 in chips) 
+Seat 6: ALL-IN0074 ($11.84 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: raises $0.20 to $0.30
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: calls $0.25
+ALL-IN0074: folds 
+*** FLOP *** [7c 5h 9h]
+BIANCALE: checks 
+Gorak2907: bets $0.34
+BIANCALE: calls $0.34
+*** TURN *** [7c 5h 9h] [Qd]
+BIANCALE: bets $0.66
+Gorak2907: calls $0.66
+*** RIVER *** [7c 5h 9h Qd] [2s]
+BIANCALE: checks 
+Gorak2907: checks 
+*** SHOW DOWN ***
+BIANCALE: shows [6d 9s] (a pair of Nines)
+Gorak2907: shows [Qs Js] (a pair of Queens)
+Gorak2907 collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [7c 5h 9h Qd 2s]
+Seat 1: Gorak2907 showed [Qs Js] and won ($2.58) with a pair of Queens
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) folded before Flop (didn't bet)
+Seat 5: BIANCALE (small blind) showed [6d 9s] and lost with a pair of Nines
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942252703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:03:29 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($11.75 in chips) 
+Seat 2: 0nix770 ($13.32 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17.41 in chips) 
+Seat 5: BIANCALE ($5.23 in chips) 
+Seat 6: ALL-IN0074 ($11.74 in chips) 
+ALL-IN0074: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: raises $0.20 to $0.30
+fuzinger: folds 
+BIG DILLY709: calls $0.30
+BIANCALE: calls $0.30
+ALL-IN0074: folds 
+Gorak2907: raises $1.25 to $1.55
+0nix770: folds 
+BIG DILLY709: folds 
+BIANCALE: calls $1.25
+*** FLOP *** [6d 3h 3d]
+Gorak2907: bets $10.20 and is all-in
+BIANCALE: calls $3.68 and is all-in
+Uncalled bet ($6.52) returned to Gorak2907
+*** TURN *** [6d 3h 3d] [As]
+*** RIVER *** [6d 3h 3d As] [2s]
+*** SHOW DOWN ***
+Gorak2907: shows [Ac Kh] (two pair, Aces and Threes)
+BIANCALE: shows [3c 2c] (a full house, Threes full of Deuces)
+BIANCALE collected $10.61 from pot
+*** SUMMARY ***
+Total pot $11.11 | Rake $0.50 
+Board [6d 3h 3d As 2s]
+Seat 1: Gorak2907 (big blind) showed [Ac Kh] and lost with two pair, Aces and Threes
+Seat 2: 0nix770 folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded before Flop
+Seat 5: BIANCALE (button) showed [3c 2c] and won ($10.61) with a full house, Threes full of Deuces
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942273456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:04:23 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($13.02 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($17.11 in chips) 
+Seat 5: BIANCALE ($10.61 in chips) 
+Seat 6: ALL-IN0074 ($11.69 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+BIG DILLY709: raises $0.20 to $0.30
+BIANCALE: calls $0.30
+ALL-IN0074: folds 
+Gorak2907: calls $0.25
+0nix770: folds 
+*** FLOP *** [2c 7c Ad]
+Gorak2907: checks 
+BIG DILLY709: bets $0.40
+BIANCALE: calls $0.40
+Gorak2907: calls $0.40
+*** TURN *** [2c 7c Ad] [8s]
+Gorak2907: checks 
+BIG DILLY709: checks 
+BIANCALE: bets $1.05
+Gorak2907: calls $1.05
+BIG DILLY709: folds 
+*** RIVER *** [2c 7c Ad 8s] [Tc]
+Gorak2907: checks 
+BIANCALE: checks 
+*** SHOW DOWN ***
+Gorak2907: shows [4h Ah] (a pair of Aces)
+BIANCALE: shows [Ac 9d] (a pair of Aces - Ten+Nine kicker)
+BIANCALE collected $4.11 from pot
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.19 
+Board [2c 7c Ad 8s Tc]
+Seat 1: Gorak2907 (small blind) showed [4h Ah] and lost with a pair of Aces
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded on the Turn
+Seat 5: BIANCALE showed [Ac 9d] and won ($4.11) with a pair of Aces
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942295821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:05:21 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: 0nix770 ($12.92 in chips) 
+Seat 4: BIG DILLY709 ($16.41 in chips) 
+Seat 5: BIANCALE ($12.97 in chips) 
+Seat 6: ALL-IN0074 ($11.69 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: is sitting out 
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: folds 
+ALL-IN0074: raises $0.15 to $0.25
+Gorak2907: raises $0.50 to $0.75
+0nix770: folds 
+BIG DILLY709: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.50) returned to Gorak2907
+Gorak2907 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Gorak2907 (button) collected ($0.65)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) folded before Flop
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222942303740:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:05:42 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($10.40 in chips) 
+Seat 2: 0nix770 ($12.87 in chips) 
+Seat 4: BIG DILLY709 ($16.31 in chips) 
+Seat 5: BIANCALE ($12.97 in chips) 
+Seat 6: ALL-IN0074 ($11.44 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: raises $0.13 to $0.23
+BIG DILLY709: calls $0.18
+BIANCALE: calls $0.13
+*** FLOP *** [Ks 9c 8d]
+BIG DILLY709: checks 
+BIANCALE: bets $0.10
+0nix770: raises $0.37 to $0.47
+BIG DILLY709: folds 
+BIANCALE: calls $0.37
+*** TURN *** [Ks 9c 8d] [7h]
+BIANCALE: checks 
+0nix770: bets $0.94
+BIANCALE: calls $0.94
+*** RIVER *** [Ks 9c 8d 7h] [6h]
+BIANCALE: checks 
+0nix770: checks 
+*** SHOW DOWN ***
+BIANCALE: shows [Kh 2h] (a pair of Kings)
+0nix770: shows [Kc Qc] (a pair of Kings - Queen kicker)
+0nix770 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.51 | Rake $0.16 
+Board [Ks 9c 8d 7h 6h]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) showed [Kc Qc] and won ($3.35) with a pair of Kings
+Seat 4: BIG DILLY709 (small blind) folded on the Flop
+Seat 5: BIANCALE (big blind) showed [Kh 2h] and lost with a pair of Kings
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942320060:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:06:24 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($10.40 in chips) 
+Seat 2: 0nix770 ($14.58 in chips) 
+Seat 4: BIG DILLY709 ($16.08 in chips) 
+Seat 5: BIANCALE ($11.33 in chips) 
+Seat 6: ALL-IN0074 ($11.44 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907 has timed out
+Gorak2907: folds 
+0nix770: folds 
+BIG DILLY709: calls $0.10
+BIANCALE: folds 
+ALL-IN0074: checks 
+*** FLOP *** [9h 7h 4d]
+ALL-IN0074: checks 
+BIG DILLY709: checks 
+*** TURN *** [9h 7h 4d] [9d]
+ALL-IN0074: bets $0.12
+BIG DILLY709: calls $0.12
+*** RIVER *** [9h 7h 4d 9d] [6c]
+ALL-IN0074: bets $0.30
+BIG DILLY709: folds 
+Uncalled bet ($0.30) returned to ALL-IN0074
+ALL-IN0074 collected $0.47 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [9h 7h 4d 9d 6c]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) folded on the River
+Seat 5: BIANCALE (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) collected ($0.47)
+
+
+
+PokerStars Hand #222942340598:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:07:11 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($10.40 in chips) 
+Seat 2: 0nix770 ($14.58 in chips) 
+Seat 4: BIG DILLY709 ($15.86 in chips) 
+Seat 6: ALL-IN0074 ($11.69 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: calls $0.10
+ALL-IN0074: raises $0.30 to $0.40
+Gorak2907: folds 
+0nix770: folds 
+BIG DILLY709: calls $0.30
+*** FLOP *** [5s 3s Jh]
+BIG DILLY709: checks 
+ALL-IN0074: bets $0.47
+BIANCALE is disconnected 
+BIG DILLY709: folds 
+Uncalled bet ($0.47) returned to ALL-IN0074
+ALL-IN0074 collected $0.91 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [5s 3s Jh]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 4: BIG DILLY709 folded on the Flop
+Seat 6: ALL-IN0074 (button) collected ($0.91)
+
+
+
+PokerStars Hand #222942353244:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:07:43 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10.35 in chips) 
+Seat 2: 0nix770 ($14.48 in chips) 
+Seat 4: BIG DILLY709 ($15.46 in chips) 
+Seat 6: ALL-IN0074 ($12.20 in chips) 
+0nix770: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.15 to $0.25
+Gorak2907: raises $0.50 to $0.75
+0nix770: folds 
+BIG DILLY709: calls $0.65
+ALL-IN0074: folds 
+*** FLOP *** [2c Th 3c]
+BIG DILLY709: checks 
+Gorak2907: bets $1.29
+BIG DILLY709: calls $1.29
+*** TURN *** [2c Th 3c] [5d]
+BIG DILLY709: checks 
+Gorak2907: bets $3.14
+BIG DILLY709: raises $10.28 to $13.42 and is all-in
+Gorak2907: calls $5.17 and is all-in
+Uncalled bet ($5.11) returned to BIG DILLY709
+*** RIVER *** [2c Th 3c 5d] [Kh]
+*** SHOW DOWN ***
+BIG DILLY709: shows [6h 6d] (a pair of Sixes)
+Gorak2907: shows [Ad Ah] (a pair of Aces)
+Gorak2907 cashed out the hand for $17.15 | Cash Out Fee $0.17
+*** SUMMARY ***
+Total pot $21 | Rake $0.94 
+Board [2c Th 3c 5d Kh]
+Seat 1: Gorak2907 (button) showed [Ad Ah] and won ($20.06) with a pair of Aces (pot not awarded as player cashed out)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) showed [6h 6d] and lost with a pair of Sixes
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222942375064:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:08:40 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($17.15 in chips) 
+Seat 2: 0nix770 ($14.43 in chips) 
+Seat 4: BIG DILLY709 ($5.11 in chips) 
+Seat 5: BIANCALE ($11.28 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: folds 
+BIG DILLY709: calls $0.05
+BIANCALE: raises $0.20 to $0.30
+BIG DILLY709: raises $0.20 to $0.50
+BIANCALE: calls $0.20
+*** FLOP *** [9h 2c Ks]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** TURN *** [9h 2c Ks] [3d]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** RIVER *** [9h 2c Ks 3d] [9d]
+BIG DILLY709: checks 
+BIANCALE: bets $0.48
+BIG DILLY709: folds 
+Uncalled bet ($0.48) returned to BIANCALE
+BIANCALE collected $0.96 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [9h 2c Ks 3d 9d]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) folded on the River
+Seat 5: BIANCALE (big blind) collected ($0.96)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942401977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:09:37 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($17.15 in chips) 
+Seat 2: 0nix770 ($14.43 in chips) 
+Seat 4: BIG DILLY709 ($4.61 in chips) 
+Seat 5: BIANCALE ($11.74 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+Gorak2907: raises $0.15 to $0.25
+0nix770: folds 
+BIG DILLY709: folds 
+BIANCALE: calls $0.20
+ALL-IN0074: folds 
+*** FLOP *** [Td 3h Tc]
+BIANCALE: bets $0.10
+Gorak2907: calls $0.10
+*** TURN *** [Td 3h Tc] [8s]
+BIANCALE: checks 
+Gorak2907: checks 
+*** RIVER *** [Td 3h Tc 8s] [9c]
+BIANCALE: checks 
+Gorak2907: bets $0.30
+BIANCALE: calls $0.30
+*** SHOW DOWN ***
+Gorak2907: shows [Kh 9h] (two pair, Tens and Nines)
+BIANCALE: mucks hand 
+Gorak2907 collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [Td 3h Tc 8s 9c]
+Seat 1: Gorak2907 showed [Kh 9h] and won ($1.34) with two pair, Tens and Nines
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) folded before Flop (didn't bet)
+Seat 5: BIANCALE (small blind) mucked
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942416499:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:10:15 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($17.84 in chips) 
+Seat 2: 0nix770 ($14.43 in chips) 
+Seat 4: BIG DILLY709 ($4.61 in chips) 
+Seat 5: BIANCALE ($11.09 in chips) 
+Seat 6: ALL-IN0074 ($11.85 in chips) 
+ALL-IN0074: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+0nix770: folds 
+BIG DILLY709: calls $0.10
+BIANCALE: calls $0.10
+ALL-IN0074: raises $0.50 to $0.60
+Gorak2907: folds 
+BIG DILLY709: folds 
+BIANCALE: folds 
+Uncalled bet ($0.50) returned to ALL-IN0074
+ALL-IN0074 collected $0.40 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded before Flop
+Seat 5: BIANCALE (button) folded before Flop
+Seat 6: ALL-IN0074 (small blind) collected ($0.40)
+
+
+
+PokerStars Hand #222942432262:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:10:48 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($17.74 in chips) 
+Seat 2: 0nix770 ($14.43 in chips) 
+Seat 4: BIG DILLY709 ($4.51 in chips) 
+Seat 5: BIANCALE ($10.99 in chips) 
+Seat 6: ALL-IN0074 ($12.15 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+BIG DILLY709: calls $0.10
+BIANCALE: folds 
+ALL-IN0074: raises $0.40 to $0.50
+Gorak2907: folds 
+0nix770: folds 
+BIG DILLY709: folds 
+Uncalled bet ($0.40) returned to ALL-IN0074
+ALL-IN0074 collected $0.35 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 4: BIG DILLY709 folded before Flop
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) collected ($0.35)
+
+
+
+PokerStars Hand #222942441371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:11:12 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($17.69 in chips) 
+Seat 2: 0nix770 ($14.33 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($4.41 in chips) 
+Seat 5: BIANCALE ($10.99 in chips) 
+Seat 6: ALL-IN0074 ($12.40 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: calls $0.10
+BIANCALE: calls $0.10
+ALL-IN0074: folds 
+Gorak2907: raises $0.20 to $0.30
+0nix770: calls $0.25
+fuzinger: folds 
+BIG DILLY709: calls $0.20
+BIANCALE: calls $0.20
+*** FLOP *** [Js Ts Jc]
+0nix770: checks 
+BIG DILLY709: checks 
+BIANCALE: bets $0.10
+Gorak2907: calls $0.10
+0nix770: folds 
+BIG DILLY709: calls $0.10
+*** TURN *** [Js Ts Jc] [Tc]
+BIG DILLY709: checks 
+BIANCALE: bets $0.10
+Gorak2907: calls $0.10
+BIG DILLY709: calls $0.10
+*** RIVER *** [Js Ts Jc Tc] [2c]
+BIG DILLY709: checks 
+BIANCALE: bets $1.81
+Gorak2907: calls $1.81
+BIG DILLY709: folds 
+*** SHOW DOWN ***
+BIANCALE: shows [8d Jh] (a full house, Jacks full of Tens)
+Gorak2907: mucks hand 
+BIANCALE collected $5.27 from pot
+*** SUMMARY ***
+Total pot $5.52 | Rake $0.25 
+Board [Js Ts Jc Tc 2c]
+Seat 1: Gorak2907 (button) mucked
+Seat 2: 0nix770 (small blind) folded on the Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: BIG DILLY709 folded on the River
+Seat 5: BIANCALE showed [8d Jh] and won ($5.27) with a full house, Jacks full of Tens
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942467640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:12:22 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($15.38 in chips) 
+Seat 2: 0nix770 ($14.03 in chips) 
+Seat 3: fuzinger ($10 in chips) 
+Seat 4: BIG DILLY709 ($3.91 in chips) 
+Seat 5: BIANCALE ($13.95 in chips) 
+Seat 6: ALL-IN0074 ($12.40 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: folds 
+ALL-IN0074: raises $0.20 to $0.30
+Gorak2907: calls $0.30
+0nix770: folds 
+fuzinger: raises $1 to $1.30
+BIG DILLY709: folds 
+ALL-IN0074: folds 
+Gorak2907: calls $1
+*** FLOP *** [4s 4d 7d]
+fuzinger: bets $2.86
+Gorak2907: folds 
+Uncalled bet ($2.86) returned to fuzinger
+fuzinger collected $2.86 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [4s 4d 7d]
+Seat 1: Gorak2907 folded on the Flop
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) collected ($2.86)
+Seat 4: BIG DILLY709 (big blind) folded before Flop
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222942485600:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:10 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($14.08 in chips) 
+Seat 2: 0nix770 ($14.03 in chips) 
+Seat 3: fuzinger ($11.56 in chips) 
+Seat 4: BIG DILLY709 ($3.81 in chips) 
+Seat 5: BIANCALE ($13.95 in chips) 
+Seat 6: ALL-IN0074 ($12.10 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: calls $0.05
+BIANCALE: raises $0.10 to $0.20
+BIG DILLY709: calls $0.10
+*** FLOP *** [4s Qd 3c]
+BIG DILLY709: checks 
+BIANCALE: bets $0.10
+BIG DILLY709: folds 
+Uncalled bet ($0.10) returned to BIANCALE
+BIANCALE collected $0.38 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [4s Qd 3c]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) folded on the Flop
+Seat 5: BIANCALE (big blind) collected ($0.38)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942494559:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:34 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($14.08 in chips) 
+Seat 2: 0nix770 ($14.03 in chips) 
+Seat 3: fuzinger ($11.56 in chips) 
+Seat 4: BIG DILLY709 ($3.61 in chips) 
+Seat 5: BIANCALE ($14.13 in chips) 
+Seat 6: ALL-IN0074 ($12.10 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: calls $0.10
+BIANCALE: calls $0.05
+ALL-IN0074: checks 
+*** FLOP *** [9s Qd Ks]
+BIANCALE: bets $0.10
+ALL-IN0074: folds 
+BIG DILLY709: calls $0.10
+*** TURN *** [9s Qd Ks] [7d]
+BIANCALE: checks 
+BIG DILLY709: checks 
+*** RIVER *** [9s Qd Ks 7d] [7s]
+BIANCALE: checks 
+BIG DILLY709: checks 
+*** SHOW DOWN ***
+BIANCALE: shows [8d Jc] (a pair of Sevens)
+BIG DILLY709: mucks hand 
+BIANCALE collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9s Qd Ks 7d 7s]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) mucked
+Seat 5: BIANCALE (small blind) showed [8d Jc] and won ($0.48) with a pair of Sevens
+Seat 6: ALL-IN0074 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222942504962:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:14:02 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($14.08 in chips) 
+Seat 2: 0nix770 ($14.03 in chips) 
+Seat 3: fuzinger ($11.56 in chips) 
+Seat 4: BIG DILLY709 ($3.41 in chips) 
+Seat 5: BIANCALE ($14.41 in chips) 
+Seat 6: ALL-IN0074 ($12 in chips) 
+ALL-IN0074: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: raises $0.20 to $0.30
+ALL-IN0074: folds 
+Gorak2907: folds 
+Uncalled bet ($0.20) returned to BIANCALE
+BIANCALE collected $0.25 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE (button) collected ($0.25)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942511351:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:14:19 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($13.98 in chips) 
+Seat 2: 0nix770 ($14.03 in chips) 
+Seat 3: fuzinger ($11.56 in chips) 
+Seat 4: BIG DILLY709 ($3.41 in chips) 
+Seat 5: BIANCALE ($14.56 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.20 to $0.30
+BIG DILLY709: folds 
+BIANCALE: calls $0.30
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: calls $0.20
+*** FLOP *** [As 5c Qs]
+0nix770: checks 
+fuzinger: bets $0.46
+BIANCALE: calls $0.46
+0nix770: calls $0.46
+*** TURN *** [As 5c Qs] [Jh]
+0nix770: checks 
+fuzinger: bets $0.50
+BIANCALE: calls $0.50
+0nix770: folds 
+*** RIVER *** [As 5c Qs Jh] [Jc]
+fuzinger: checks 
+BIANCALE: checks 
+*** SHOW DOWN ***
+fuzinger: shows [5s 8s] (two pair, Jacks and Fives)
+BIANCALE: shows [Ad Th] (two pair, Aces and Jacks)
+BIANCALE collected $3.18 from pot
+*** SUMMARY ***
+Total pot $3.33 | Rake $0.15 
+Board [As 5c Qs Jh Jc]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded on the Turn
+Seat 3: fuzinger showed [5s 8s] and lost with two pair, Jacks and Fives
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE showed [Ad Th] and won ($3.18) with two pair, Aces and Jacks
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942535111:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:15:16 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($13.93 in chips) 
+Seat 2: 0nix770 ($13.27 in chips) 
+Seat 3: fuzinger ($10.30 in chips) 
+Seat 4: BIG DILLY709 ($10 in chips) 
+Seat 5: BIANCALE ($16.48 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: calls $0.10
+BIANCALE: folds 
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: calls $0.05
+fuzinger: checks 
+*** FLOP *** [Jh 9h 9s]
+0nix770: checks 
+fuzinger: checks 
+BIG DILLY709: checks 
+*** TURN *** [Jh 9h 9s] [Tc]
+0nix770: checks 
+fuzinger: checks 
+BIG DILLY709: checks 
+*** RIVER *** [Jh 9h 9s Tc] [4c]
+0nix770: checks 
+fuzinger: checks 
+BIG DILLY709: checks 
+*** SHOW DOWN ***
+0nix770: shows [Ah 7c] (a pair of Nines)
+fuzinger: mucks hand 
+BIG DILLY709: mucks hand 
+0nix770 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jh 9h 9s Tc 4c]
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) showed [Ah 7c] and won ($0.29) with a pair of Nines
+Seat 3: fuzinger (big blind) mucked
+Seat 4: BIG DILLY709 mucked
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942550221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:15:56 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($13.93 in chips) 
+Seat 2: 0nix770 ($13.46 in chips) 
+Seat 3: fuzinger ($10.20 in chips) 
+Seat 4: BIG DILLY709 ($9.90 in chips) 
+Seat 5: BIANCALE ($16.48 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: folds 
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: raises $0.13 to $0.23
+fuzinger: folds 
+BIG DILLY709: raises $0.27 to $0.50
+0nix770: calls $0.27
+*** FLOP *** [7c 6d 2c]
+BIG DILLY709: bets $0.60
+0nix770: folds 
+Uncalled bet ($0.60) returned to BIG DILLY709
+BIG DILLY709 collected $1 from pot
+BIG DILLY709: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [7c 6d 2c]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded on the Flop
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) collected ($1)
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942559929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:22 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($13.93 in chips) 
+Seat 2: 0nix770 ($12.96 in chips) 
+Seat 3: fuzinger ($10.15 in chips) 
+Seat 4: BIG DILLY709 ($10.40 in chips) 
+Seat 5: BIANCALE ($16.48 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: raises $0.30 to $0.40
+BIG DILLY709: calls $0.35
+BIANCALE: raises $0.30 to $0.70
+fuzinger: calls $0.30
+BIG DILLY709: calls $0.30
+*** FLOP *** [Kh 5h 2s]
+BIG DILLY709: checks 
+BIANCALE: bets $1
+fuzinger: raises $1 to $2
+BIG DILLY709: folds 
+BIANCALE: calls $1
+*** TURN *** [Kh 5h 2s] [Jc]
+BIANCALE: checks 
+fuzinger: bets $3
+BIANCALE: folds 
+Uncalled bet ($3) returned to fuzinger
+fuzinger collected $5.83 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.27 
+Board [Kh 5h 2s Jc]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) collected ($5.83)
+Seat 4: BIG DILLY709 (small blind) folded on the Flop
+Seat 5: BIANCALE (big blind) folded on the Turn
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942578483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:17:12 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($13.93 in chips) 
+Seat 2: 0nix770 ($12.96 in chips) 
+Seat 3: fuzinger ($13.28 in chips) 
+Seat 4: BIG DILLY709 ($9.70 in chips) 
+Seat 5: BIANCALE ($13.78 in chips) 
+Seat 6: ALL-IN0074 ($11.95 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: raises $0.25 to $0.35
+BIG DILLY709: calls $0.35
+BIANCALE: raises $0.65 to $1
+ALL-IN0074: folds 
+fuzinger: folds 
+BIG DILLY709: calls $0.65
+*** FLOP *** [4c 3s 2s]
+BIANCALE: bets $12.78 and is all-in
+BIG DILLY709: folds 
+Uncalled bet ($12.78) returned to BIANCALE
+BIANCALE collected $2.34 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [4c 3s 2s]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop
+Seat 4: BIG DILLY709 (button) folded on the Flop
+Seat 5: BIANCALE (small blind) collected ($2.34)
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942590889:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:17:45 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($13.93 in chips) 
+Seat 2: 0nix770 ($12.96 in chips) 
+Seat 3: fuzinger ($12.93 in chips) 
+Seat 4: BIG DILLY709 ($8.70 in chips) 
+Seat 5: BIANCALE ($15.12 in chips) 
+Seat 6: ALL-IN0074 ($11.85 in chips) 
+ALL-IN0074: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+fuzinger: raises $0.25 to $0.35
+BIG DILLY709: calls $0.35
+BIANCALE: calls $0.35
+ALL-IN0074: folds 
+Gorak2907: folds 
+*** FLOP *** [As Kc 2h]
+fuzinger: bets $0.58
+BIG DILLY709: folds 
+BIANCALE: folds 
+Uncalled bet ($0.58) returned to fuzinger
+fuzinger collected $1.15 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [As Kc 2h]
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger collected ($1.15)
+Seat 4: BIG DILLY709 folded on the Flop
+Seat 5: BIANCALE (button) folded on the Flop
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942618708:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:18:38 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($13.83 in chips) 
+Seat 2: 0nix770 ($12.96 in chips) 
+Seat 3: fuzinger ($13.73 in chips) 
+Seat 4: BIG DILLY709 ($8.35 in chips) 
+Seat 5: BIANCALE ($14.77 in chips) 
+Seat 6: ALL-IN0074 ($11.80 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: calls $0.10
+ALL-IN0074: raises $0.15 to $0.25
+BIG DILLY709 leaves the table
+Gorak2907: folds 
+0nix770: calls $0.15
+manuelzak joins the table at seat #4 
+BIANCALE: raises $0.35 to $0.60
+ALL-IN0074: folds 
+0nix770: calls $0.35
+*** FLOP *** [Ah 6d 5s]
+0nix770: checks 
+BIANCALE: bets $0.81
+0nix770: folds 
+Uncalled bet ($0.81) returned to BIANCALE
+BIANCALE collected $1.43 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Ah 6d 5s]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded on the Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE collected ($1.43)
+Seat 6: ALL-IN0074 (button) folded before Flop
+
+
+
+PokerStars Hand #222942636237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:19:25 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($13.78 in chips) 
+Seat 2: 0nix770 ($12.36 in chips) 
+Seat 3: fuzinger ($13.73 in chips) 
+Seat 5: BIANCALE ($15.60 in chips) 
+Seat 6: ALL-IN0074 ($11.55 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+manuelzak: sits out 
+*** HOLE CARDS ***
+BIANCALE: raises $0.10 to $0.20
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+Uncalled bet ($0.10) returned to BIANCALE
+BIANCALE collected $0.25 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 5: BIANCALE collected ($0.25)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942641912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:19:41 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($13.78 in chips) 
+Seat 2: 0nix770 ($12.31 in chips) 
+Seat 3: fuzinger ($13.63 in chips) 
+Seat 4: manuelzak ($7.64 in chips) 
+Seat 5: BIANCALE ($15.75 in chips) 
+Seat 6: ALL-IN0074 ($11.55 in chips) 
+fuzinger: posts small blind $0.05
+manuelzak: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: folds 
+ALL-IN0074: raises $0.20 to $0.30
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+manuelzak: calls $0.20
+*** FLOP *** [As Jh 3d]
+manuelzak: checks 
+ALL-IN0074: bets $0.32
+manuelzak: folds 
+Uncalled bet ($0.32) returned to ALL-IN0074
+ALL-IN0074 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [As Jh 3d]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: manuelzak (big blind) folded on the Flop
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 collected ($0.62)
+
+
+
+PokerStars Hand #222942654784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:20:15 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($13.78 in chips) 
+Seat 2: 0nix770 ($12.31 in chips) 
+Seat 3: fuzinger ($13.58 in chips) 
+Seat 4: manuelzak ($7.34 in chips) 
+Seat 5: BIANCALE ($15.75 in chips) 
+Seat 6: ALL-IN0074 ($11.87 in chips) 
+manuelzak: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+Gorak2907: raises $0.20 to $0.30
+0nix770: folds 
+fuzinger: folds 
+manuelzak: folds 
+BIANCALE: calls $0.20
+*** FLOP *** [5c 4s Qc]
+BIANCALE: checks 
+Gorak2907: bets $0.40
+BIANCALE: folds 
+Uncalled bet ($0.40) returned to Gorak2907
+Gorak2907 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5c 4s Qc]
+Seat 1: Gorak2907 collected ($0.62)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: manuelzak (small blind) folded before Flop
+Seat 5: BIANCALE (big blind) folded on the Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942664467:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:20:41 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($14.10 in chips) 
+Seat 2: 0nix770 ($12.31 in chips) 
+Seat 3: fuzinger ($13.58 in chips) 
+Seat 4: manuelzak ($7.29 in chips) 
+Seat 5: BIANCALE ($15.45 in chips) 
+Seat 6: ALL-IN0074 ($11.87 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: folds 
+0nix770: raises $0.20 to $0.30
+fuzinger: calls $0.30
+manuelzak: folds 
+BIANCALE: folds 
+ALL-IN0074: folds 
+*** FLOP *** [3h As 2h]
+0nix770: checks 
+fuzinger: checks 
+*** TURN *** [3h As 2h] [Jd]
+0nix770: bets $0.31
+fuzinger: folds 
+Uncalled bet ($0.31) returned to 0nix770
+0nix770 collected $0.72 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [3h As 2h Jd]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 collected ($0.72)
+Seat 3: fuzinger folded on the Turn
+Seat 4: manuelzak (button) folded before Flop (didn't bet)
+Seat 5: BIANCALE (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942675324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:21:11 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($14.10 in chips) 
+Seat 2: 0nix770 ($12.73 in chips) 
+Seat 3: fuzinger ($13.28 in chips) 
+Seat 4: manuelzak ($7.29 in chips) 
+Seat 5: BIANCALE ($15.40 in chips) 
+Seat 6: ALL-IN0074 ($11.77 in chips) 
+ALL-IN0074: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+fuzinger: folds 
+manuelzak: folds 
+BIANCALE: folds 
+ALL-IN0074: raises $0.20 to $0.30
+Gorak2907: folds 
+Uncalled bet ($0.20) returned to ALL-IN0074
+ALL-IN0074 collected $0.20 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: manuelzak folded before Flop (didn't bet)
+Seat 5: BIANCALE (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222942682963:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:21:31 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($14 in chips) 
+Seat 2: 0nix770 ($12.73 in chips) 
+Seat 3: fuzinger ($13.28 in chips) 
+Seat 4: manuelzak ($7.29 in chips) 
+Seat 5: BIANCALE ($15.40 in chips) 
+Seat 6: ALL-IN0074 ($11.87 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+manuelzak: folds 
+BIANCALE has timed out
+BIANCALE: folds 
+ALL-IN0074: raises $0.15 to $0.25
+Gorak2907: folds 
+0nix770: folds 
+Uncalled bet ($0.15) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: manuelzak folded before Flop (didn't bet)
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942692930:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:21:58 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($13.95 in chips) 
+Seat 2: 0nix770 ($12.63 in chips) 
+Seat 3: fuzinger ($13.28 in chips) 
+Seat 4: manuelzak ($7.29 in chips) 
+Seat 5: BIANCALE ($15.40 in chips) 
+Seat 6: ALL-IN0074 ($12.02 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+manuelzak: folds 
+BIANCALE: calls $0.10
+ALL-IN0074: raises $0.30 to $0.40
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+BIANCALE: calls $0.30
+*** FLOP *** [8s Kc 6s]
+BIANCALE: checks 
+ALL-IN0074: bets $0.36
+BIANCALE: folds 
+Uncalled bet ($0.36) returned to ALL-IN0074
+ALL-IN0074 collected $0.91 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8s Kc 6s]
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: manuelzak folded before Flop (didn't bet)
+Seat 5: BIANCALE folded on the Flop
+Seat 6: ALL-IN0074 collected ($0.91)
+
+
+
+PokerStars Hand #222942710916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:22:46 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($13.95 in chips) 
+Seat 2: 0nix770 ($12.58 in chips) 
+Seat 3: fuzinger ($13.18 in chips) 
+Seat 4: manuelzak ($7.29 in chips) 
+Seat 5: BIANCALE ($15 in chips) 
+Seat 6: ALL-IN0074 ($12.53 in chips) 
+fuzinger: posts small blind $0.05
+manuelzak: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE has timed out
+BIANCALE: folds 
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: raises $0.13 to $0.23
+fuzinger: folds 
+manuelzak: calls $0.13
+*** FLOP *** [5s 3s Jc]
+manuelzak: checks 
+0nix770: checks 
+*** TURN *** [5s 3s Jc] [8s]
+manuelzak: bets $0.15
+0nix770: folds 
+Uncalled bet ($0.15) returned to manuelzak
+manuelzak collected $0.49 from pot
+manuelzak: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [5s 3s Jc 8s]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded on the Turn
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: manuelzak (big blind) collected ($0.49)
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942722612:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:23:18 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($13.95 in chips) 
+Seat 2: 0nix770 ($12.35 in chips) 
+Seat 3: fuzinger ($13.13 in chips) 
+Seat 4: manuelzak ($7.55 in chips) 
+Seat 6: ALL-IN0074 ($12.53 in chips) 
+manuelzak: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: folds 
+0nix770: raises $0.15 to $0.25
+fuzinger: folds 
+manuelzak: raises $0.45 to $0.70
+ALL-IN0074: folds 
+0nix770: calls $0.45
+*** FLOP *** [2d 8h 7d]
+manuelzak: checks 
+0nix770: bets $0.61
+manuelzak: raises $1.09 to $1.70
+0nix770: raises $9.95 to $11.65 and is all-in
+manuelzak: calls $5.15 and is all-in
+Uncalled bet ($4.80) returned to 0nix770
+*** TURN *** [2d 8h 7d] [9h]
+*** RIVER *** [2d 8h 7d 9h] [Ks]
+*** SHOW DOWN ***
+manuelzak: shows [Ad Qd] (high card Ace)
+0nix770: shows [4d 4h] (a pair of Fours)
+0nix770 collected $14.52 from pot
+*** SUMMARY ***
+Total pot $15.20 | Rake $0.68 
+Board [2d 8h 7d 9h Ks]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 showed [4d 4h] and won ($14.52) with a pair of Fours
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: manuelzak (small blind) showed [Ad Qd] and lost with high card Ace
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942748739:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:24:29 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($13.95 in chips) 
+Seat 2: 0nix770 ($19.32 in chips) 
+Seat 3: fuzinger ($13.13 in chips) 
+Seat 5: BIANCALE ($15 in chips) 
+Seat 6: ALL-IN0074 ($12.43 in chips) 
+Gorak2907: posts small blind $0.05
+0nix770: posts big blind $0.10
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+BIANCALE: checks 
+ALL-IN0074: raises $0.40 to $0.50
+Gorak2907: folds 
+0nix770: folds 
+manuelzak leaves the table
+BIANCALE: calls $0.40
+*** FLOP *** [5h Th Kc]
+Fifilaplum joins the table at seat #4 
+BIANCALE: bets $0.10
+ALL-IN0074: raises $0.50 to $0.60
+BIANCALE: calls $0.50
+*** TURN *** [5h Th Kc] [Ts]
+BIANCALE: checks 
+ALL-IN0074: bets $2
+BIANCALE: folds 
+Uncalled bet ($2) returned to ALL-IN0074
+ALL-IN0074 collected $2.24 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [5h Th Kc Ts]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 5: BIANCALE folded on the Turn
+Seat 6: ALL-IN0074 (button) collected ($2.24)
+
+
+
+PokerStars Hand #222942781758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:25:59 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($13.90 in chips) 
+Seat 2: 0nix770 ($19.22 in chips) 
+Seat 3: fuzinger ($13.13 in chips) 
+Seat 5: BIANCALE ($13.90 in chips) 
+Seat 6: ALL-IN0074 ($13.57 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+Fifilaplum: sits out 
+*** HOLE CARDS ***
+BIANCALE: calls $0.10
+ALL-IN0074: folds 
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: checks 
+*** FLOP *** [Ah Kd 3h]
+fuzinger: checks 
+BIANCALE: checks 
+*** TURN *** [Ah Kd 3h] [3c]
+fuzinger: checks 
+BIANCALE: checks 
+*** RIVER *** [Ah Kd 3h 3c] [7d]
+fuzinger: bets $0.10
+BIANCALE: folds 
+Uncalled bet ($0.10) returned to fuzinger
+fuzinger collected $0.24 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah Kd 3h 3c 7d]
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) collected ($0.24)
+Seat 5: BIANCALE folded on the River
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942800750:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:26:51 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($13.90 in chips) 
+Seat 2: 0nix770 ($19.17 in chips) 
+Seat 3: fuzinger ($13.27 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: BIANCALE ($13.80 in chips) 
+Seat 6: ALL-IN0074 ($13.57 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: folds 
+ALL-IN0074: raises $0.20 to $0.30
+Gorak2907: folds 
+0nix770: folds 
+fuzinger: folds 
+Fifilaplum: raises $0.90 to $1.20
+ALL-IN0074: raises $1.30 to $2.50
+Gorak2907 was removed from the table for failing to post
+Gorak2907 leaves the table
+Fifilaplum: calls $1.30
+*** FLOP *** [2d Qs 5s]
+Fifilaplum: checks 
+ALL-IN0074: checks 
+*** TURN *** [2d Qs 5s] [Jh]
+Fifilaplum: bets $2
+ALL-IN0074: calls $2
+*** RIVER *** [2d Qs 5s Jh] [Js]
+Fifilaplum: bets $5.50 and is all-in
+ALL-IN0074: calls $5.50
+*** SHOW DOWN ***
+Fifilaplum: shows [7c 9c] (a pair of Jacks)
+ALL-IN0074: shows [As Ad] (two pair, Aces and Jacks)
+ALL-IN0074 collected $19.15 from pot
+*** SUMMARY ***
+Total pot $20.05 | Rake $0.90 
+Board [2d Qs 5s Jh Js]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) showed [7c 9c] and lost with a pair of Jacks
+Seat 5: BIANCALE folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 showed [As Ad] and won ($19.15) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #222942837318:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:28:32 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 2: 0nix770 ($19.17 in chips) 
+Seat 3: fuzinger ($13.22 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: BIANCALE ($13.80 in chips) 
+Seat 6: ALL-IN0074 ($22.72 in chips) 
+Fifilaplum: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+0nix770: raises $0.15 to $0.25
+fuzinger: raises $0.65 to $0.90
+Fifilaplum: folds 
+BIANCALE: folds 
+0nix770: calls $0.65
+*** FLOP *** [9d 6h 4d]
+6A6ARH6A6yNH joins the table at seat #1 
+0nix770: checks 
+fuzinger: bets $1.86
+0nix770: folds 
+Uncalled bet ($1.86) returned to fuzinger
+fuzinger collected $1.86 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [9d 6h 4d]
+Seat 2: 0nix770 folded on the Flop
+Seat 3: fuzinger (button) collected ($1.86)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: BIANCALE (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942851076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:29:10 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 2: 0nix770 ($18.27 in chips) 
+Seat 3: fuzinger ($14.18 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: BIANCALE ($13.70 in chips) 
+Seat 6: ALL-IN0074 ($22.72 in chips) 
+BIANCALE: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+6A6ARH6A6yNH: sits out 
+*** HOLE CARDS ***
+0nix770: folds 
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+BIANCALE: calls $0.20
+ALL-IN0074: folds 
+*** FLOP *** [Qd 9c 8h]
+BIANCALE: checks 
+Fifilaplum: checks 
+*** TURN *** [Qd 9c 8h] [Ts]
+BIANCALE: checks 
+Fifilaplum: checks 
+*** RIVER *** [Qd 9c 8h Ts] [6h]
+BIANCALE: checks 
+Fifilaplum: bets $0.17
+BIANCALE: raises $0.17 to $0.34
+Fifilaplum: calls $0.17
+*** SHOW DOWN ***
+BIANCALE: shows [3h 7s] (a straight, Six to Ten)
+Fifilaplum: shows [7h 7c] (a straight, Six to Ten)
+BIANCALE collected $0.61 from pot
+Fifilaplum collected $0.61 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.06 
+Board [Qd 9c 8h Ts 6h]
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum (button) showed [7h 7c] and won ($0.61) with a straight, Six to Ten
+Seat 5: BIANCALE (small blind) showed [3h 7s] and won ($0.61) with a straight, Six to Ten
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942884765:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:30:23 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: 6A6ARH6A6yNH ($10 in chips) 
+Seat 2: 0nix770 ($18.27 in chips) 
+Seat 3: fuzinger ($14.18 in chips) 
+Seat 4: Fifilaplum ($10.02 in chips) 
+Seat 5: BIANCALE ($13.72 in chips) 
+Seat 6: ALL-IN0074 ($22.62 in chips) 
+ALL-IN0074: posts small blind $0.05
+6A6ARH6A6yNH: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+BIANCALE: folds 
+ALL-IN0074: folds 
+BIANCALE leaves the table
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.15) returned to Fifilaplum
+Fifilaplum collected $0.25 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 6A6ARH6A6yNH (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum collected ($0.25)
+Seat 5: BIANCALE (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942897177:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:30:57 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: 6A6ARH6A6yNH ($10 in chips) 
+Seat 2: 0nix770 ($18.27 in chips) 
+Seat 3: fuzinger ($14.18 in chips) 
+Seat 4: Fifilaplum ($10.17 in chips) 
+Seat 6: ALL-IN0074 ($22.57 in chips) 
+6A6ARH6A6yNH: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+ALL-IN0074: folds 
+6A6ARH6A6yNH: folds 
+0nix770: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 6A6ARH6A6yNH (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: fuzinger collected ($0.25)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942900493:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:31:07 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: 6A6ARH6A6yNH ($10 in chips) 
+Seat 2: 0nix770 ($18.17 in chips) 
+Seat 3: fuzinger ($14.33 in chips) 
+Seat 4: Fifilaplum ($10.17 in chips) 
+Seat 6: ALL-IN0074 ($22.57 in chips) 
+0nix770: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: raises $0.15 to $0.25
+ALL-IN0074: folds 
+6A6ARH6A6yNH: folds 
+0nix770: folds 
+fuzinger: folds 
+Uncalled bet ($0.15) returned to Fifilaplum
+Fifilaplum collected $0.25 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 6A6ARH6A6yNH (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum collected ($0.25)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942905648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:31:21 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: 6A6ARH6A6yNH ($10 in chips) 
+Seat 2: 0nix770 ($18.12 in chips) 
+Seat 3: fuzinger ($14.23 in chips) 
+Seat 4: Fifilaplum ($10.32 in chips) 
+Seat 6: ALL-IN0074 ($22.57 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12 joins the table at seat #5 
+ALL-IN0074: folds 
+6A6ARH6A6yNH: folds 
+0nix770: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to Fifilaplum
+Fifilaplum collected $0.10 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) collected ($0.10)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942907997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:31:28 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: 6A6ARH6A6yNH ($10 in chips) 
+Seat 2: 0nix770 ($18.12 in chips) 
+Seat 3: fuzinger ($14.18 in chips) 
+Seat 4: Fifilaplum ($10.37 in chips) 
+Seat 5: DomTB12 ($10 in chips) 
+Seat 6: ALL-IN0074 ($22.57 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.20 to $0.30
+6A6ARH6A6yNH: folds 
+0nix770: folds 
+fuzinger: folds 
+Fifilaplum: raises $0.90 to $1.20
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.90) returned to Fifilaplum
+Fifilaplum collected $0.70 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) collected ($0.70)
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222942914712:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:31:47 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: 6A6ARH6A6yNH ($10 in chips) 
+Seat 2: 0nix770 ($18.12 in chips) 
+Seat 3: fuzinger ($14.18 in chips) 
+Seat 4: Fifilaplum ($10.77 in chips) 
+Seat 5: DomTB12 ($9.90 in chips) 
+Seat 6: ALL-IN0074 ($22.27 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+0nix770: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.20) returned to 0nix770
+0nix770 collected $0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 2: 0nix770 collected ($0.25)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942921939:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:07 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 3: fuzinger ($14.18 in chips) 
+Seat 4: Fifilaplum ($10.77 in chips) 
+Seat 5: DomTB12 ($9.85 in chips) 
+Seat 6: ALL-IN0074 ($22.17 in chips) 
+ALL-IN0074: posts small blind $0.05
+6A6ARH6A6yNH: is sitting out 
+0nix770: is sitting out 
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770 leaves the table
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: folds 
+6A6ARH6A6yNH leaves the table
+fuzinger: folds 
+Uncalled bet ($0.15) returned to Fifilaplum
+Fifilaplum collected $0.25 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum collected ($0.25)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942925557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:17 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 3: fuzinger ($14.08 in chips) 
+Seat 4: Fifilaplum ($10.92 in chips) 
+Seat 5: DomTB12 ($9.85 in chips) 
+Seat 6: ALL-IN0074 ($22.12 in chips) 
+hunterrose666 joins the table at seat #2 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+fuzinger: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.15) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942929485:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:28 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 2: hunterrose666 ($10 in chips) 
+Seat 3: fuzinger ($14.03 in chips) 
+Seat 4: Fifilaplum ($10.82 in chips) 
+Seat 5: DomTB12 ($9.85 in chips) 
+Seat 6: ALL-IN0074 ($22.27 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+hunterrose666: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+hunterrose666: checks 
+fuzinger: folds 
+Fifilaplum: raises $0.30 to $0.40
+KingPotNoodle joins the table at seat #1 
+DomTB12: folds 
+hunterrose666: calls $0.30
+*** FLOP *** [4d 4h 5c]
+Fifilaplum: bets $0.26
+hunterrose666: calls $0.26
+*** TURN *** [4d 4h 5c] [5h]
+Fifilaplum: checks 
+hunterrose666: bets $0.10
+Fifilaplum: calls $0.10
+*** RIVER *** [4d 4h 5c 5h] [8h]
+Fifilaplum: checks 
+hunterrose666: bets $9.24 and is all-in
+Fifilaplum: folds 
+Uncalled bet ($9.24) returned to hunterrose666
+hunterrose666 collected $1.55 from pot
+hunterrose666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.07 
+Board [4d 4h 5c 5h 8h]
+Seat 2: hunterrose666 collected ($1.55)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded on the River
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942943106:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:33:06 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 2: hunterrose666 ($10.79 in chips) 
+Seat 3: fuzinger ($14.03 in chips) 
+Seat 4: Fifilaplum ($10.06 in chips) 
+Seat 5: DomTB12 ($9.75 in chips) 
+Seat 6: ALL-IN0074 ($22.27 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+KingPotNoodle: sits out 
+*** HOLE CARDS ***
+hunterrose666: folds 
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.15) returned to Fifilaplum
+Fifilaplum collected $0.25 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: hunterrose666 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum (button) collected ($0.25)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942947398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:33:18 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: hunterrose666 ($10.79 in chips) 
+Seat 3: fuzinger ($14.03 in chips) 
+Seat 4: Fifilaplum ($10.21 in chips) 
+Seat 5: DomTB12 ($9.70 in chips) 
+Seat 6: ALL-IN0074 ($22.17 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+hunterrose666: calls $0.10
+fuzinger: folds 
+Fifilaplum: raises $0.25 to $0.35
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: calls $0.25
+hunterrose666: calls $0.25
+*** FLOP *** [9c Th Qh]
+KingPotNoodle: checks 
+hunterrose666: checks 
+Fifilaplum: checks 
+*** TURN *** [9c Th Qh] [Ts]
+KingPotNoodle: bets $0.53
+hunterrose666: folds 
+Fifilaplum: calls $0.53
+*** RIVER *** [9c Th Qh Ts] [Js]
+KingPotNoodle: bets $1.36
+Fifilaplum: folds 
+Uncalled bet ($1.36) returned to KingPotNoodle
+KingPotNoodle collected $2.06 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.10 
+Board [9c Th Qh Ts Js]
+Seat 1: KingPotNoodle (big blind) collected ($2.06)
+Seat 2: hunterrose666 folded on the Turn
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded on the River
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942973218:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:34:15 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($11.18 in chips) 
+Seat 2: hunterrose666 ($10.44 in chips) 
+Seat 3: fuzinger ($14.03 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.70 in chips) 
+Seat 6: ALL-IN0074 ($22.12 in chips) 
+KingPotNoodle: posts small blind $0.05
+hunterrose666: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.15 to $0.25
+hunterrose666: calls $0.15
+*** FLOP *** [6c Qd 4s]
+KingPotNoodle: checks 
+hunterrose666: bets $0.10
+KingPotNoodle: raises $0.34 to $0.44
+hunterrose666: calls $0.34
+*** TURN *** [6c Qd 4s] [3c]
+KingPotNoodle: bets $1.32
+hunterrose666: calls $1.32
+*** RIVER *** [6c Qd 4s 3c] [Tc]
+KingPotNoodle: bets $9.17 and is all-in
+hunterrose666: calls $8.43 and is all-in
+Uncalled bet ($0.74) returned to KingPotNoodle
+*** SHOW DOWN ***
+KingPotNoodle: shows [As 5c] (high card Ace)
+hunterrose666: shows [Kd 6d] (a pair of Sixes)
+hunterrose666 collected $19.94 from pot
+*** SUMMARY ***
+Total pot $20.88 | Rake $0.94 
+Board [6c Qd 4s 3c Tc]
+Seat 1: KingPotNoodle (small blind) showed [As 5c] and lost with high card Ace
+Seat 2: hunterrose666 (big blind) showed [Kd 6d] and won ($19.94) with a pair of Sixes
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942990552:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:35:03 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: hunterrose666 ($19.94 in chips) 
+Seat 3: fuzinger ($14.03 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.70 in chips) 
+Seat 6: ALL-IN0074 ($22.12 in chips) 
+hunterrose666: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: calls $0.25
+ALL-IN0074: folds 
+KingPotNoodle: raises $1.25 to $1.50
+hunterrose666: folds 
+fuzinger: folds 
+Fifilaplum: raises $3 to $4.50
+DomTB12: folds 
+KingPotNoodle: folds 
+Uncalled bet ($3) returned to Fifilaplum
+Fifilaplum collected $3.40 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.40 | Rake $0 
+Seat 1: KingPotNoodle (button) folded before Flop
+Seat 2: hunterrose666 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum collected ($3.40)
+Seat 5: DomTB12 folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943005741:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:35:46 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: hunterrose666 ($19.89 in chips) 
+Seat 3: fuzinger ($13.93 in chips) 
+Seat 4: Fifilaplum ($11.90 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($22.12 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+hunterrose666: calls $0.30
+fuzinger: folds 
+Fifilaplum: calls $0.20
+*** FLOP *** [Qh 6d Ah]
+Fifilaplum: checks 
+KingPotNoodle: bets $0.60
+hunterrose666: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.60) returned to KingPotNoodle
+KingPotNoodle collected $0.91 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qh 6d Ah]
+Seat 1: KingPotNoodle collected ($0.91)
+Seat 2: hunterrose666 (button) folded on the Flop
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded on the Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943019380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:36:25 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.61 in chips) 
+Seat 2: hunterrose666 ($19.59 in chips) 
+Seat 3: fuzinger ($13.88 in chips) 
+Seat 4: Fifilaplum ($11.60 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($22.12 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+hunterrose666: calls $0.10
+fuzinger: raises $0.35 to $0.45
+Fifilaplum: folds 
+DomTB12: folds 
+hunterrose666: calls $0.35
+*** FLOP *** [7c Ah 9s]
+hunterrose666: checks 
+fuzinger: bets $1
+hunterrose666: raises $1 to $2
+fuzinger: raises $11.43 to $13.43 and is all-in
+hunterrose666: calls $11.43
+*** TURN *** [7c Ah 9s] [4c]
+*** RIVER *** [7c Ah 9s 4c] [5c]
+*** SHOW DOWN ***
+hunterrose666: shows [Th Ac] (a pair of Aces)
+fuzinger: shows [Ad 7h] (two pair, Aces and Sevens)
+fuzinger collected $26.65 from pot
+*** SUMMARY ***
+Total pot $27.91 | Rake $1.26 
+Board [7c Ah 9s 4c 5c]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: hunterrose666 showed [Th Ac] and lost with a pair of Aces
+Seat 3: fuzinger (button) showed [Ad 7h] and won ($26.65) with two pair, Aces and Sevens
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943037615:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:37:17 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.61 in chips) 
+Seat 2: hunterrose666 ($5.71 in chips) 
+Seat 3: fuzinger ($26.65 in chips) 
+Seat 4: Fifilaplum ($11.55 in chips) 
+Seat 5: DomTB12 ($9.35 in chips) 
+Seat 6: ALL-IN0074 ($22.12 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+hunterrose666: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: calls $0.05
+ALL-IN0074: raises $0.40 to $0.50
+DomTB12: calls $0.40
+*** FLOP *** [6d 5d Kc]
+DomTB12: checks 
+ALL-IN0074: bets $0.38
+DomTB12: calls $0.38
+*** TURN *** [6d 5d Kc] [3h]
+DomTB12: checks 
+ALL-IN0074: checks 
+*** RIVER *** [6d 5d Kc 3h] [5h]
+DomTB12: bets $0.84
+ALL-IN0074: folds 
+Uncalled bet ($0.84) returned to DomTB12
+DomTB12 collected $1.68 from pot
+DomTB12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [6d 5d Kc 3h 5h]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: hunterrose666 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) collected ($1.68)
+Seat 6: ALL-IN0074 (big blind) folded on the River
+
+
+
+PokerStars Hand #222943051854:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:37:58 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.61 in chips) 
+Seat 2: hunterrose666 ($5.71 in chips) 
+Seat 3: fuzinger ($26.65 in chips) 
+Seat 4: Fifilaplum ($11.55 in chips) 
+Seat 5: DomTB12 ($10.15 in chips) 
+Seat 6: ALL-IN0074 ($21.24 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+hunterrose666 has timed out
+hunterrose666: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: raises $0.80 to $1.10
+ALL-IN0074: folds 
+Uncalled bet ($0.80) returned to KingPotNoodle
+KingPotNoodle collected $0.60 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.60)
+Seat 2: hunterrose666 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943063820:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:38:32 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.91 in chips) 
+Seat 3: fuzinger ($26.65 in chips) 
+Seat 4: Fifilaplum ($11.55 in chips) 
+Seat 5: DomTB12 ($10.15 in chips) 
+Seat 6: ALL-IN0074 ($20.94 in chips) 
+KingPotNoodle: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+hunterrose666 is disconnected 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+fuzinger: calls $0.20
+*** FLOP *** [Kd 6d 7h]
+KingPotNoodle: bets $0.29
+fuzinger: folds 
+Uncalled bet ($0.29) returned to KingPotNoodle
+KingPotNoodle collected $0.57 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Kd 6d 7h]
+Seat 1: KingPotNoodle (small blind) collected ($0.57)
+Seat 3: fuzinger (big blind) folded on the Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943068938:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:38:47 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($11.18 in chips) 
+Seat 3: fuzinger ($26.35 in chips) 
+Seat 4: Fifilaplum ($11.55 in chips) 
+Seat 5: DomTB12 ($10.15 in chips) 
+Seat 6: ALL-IN0074 ($20.94 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+fuzinger: raises $0.20 to $0.30
+Fifilaplum: folds 
+Uncalled bet ($0.20) returned to fuzinger
+fuzinger collected $0.20 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) collected ($0.20)
+Seat 4: Fifilaplum (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943073722:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:00 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($11.18 in chips) 
+Seat 3: fuzinger ($26.45 in chips) 
+Seat 4: Fifilaplum ($11.45 in chips) 
+Seat 5: DomTB12 ($10.15 in chips) 
+Seat 6: ALL-IN0074 ($20.94 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+DomTB12: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 3: fuzinger (button) collected ($0.25)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943081459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:23 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($11.18 in chips) 
+Seat 3: fuzinger ($26.60 in chips) 
+Seat 4: Fifilaplum ($11.40 in chips) 
+Seat 5: DomTB12 ($10.05 in chips) 
+Seat 6: ALL-IN0074 ($20.94 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.65 to $1
+fuzinger: folds 
+Uncalled bet ($0.65) returned to ALL-IN0074
+ALL-IN0074 collected $0.75 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) collected ($0.75)
+
+
+
+PokerStars Hand #222943091487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:52 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($11.18 in chips) 
+Seat 3: fuzinger ($26.25 in chips) 
+Seat 4: Fifilaplum ($11.40 in chips) 
+Seat 5: DomTB12 ($10 in chips) 
+Seat 6: ALL-IN0074 ($21.34 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: calls $0.20
+*** FLOP *** [Ah 8h 4s]
+ALL-IN0074: checks 
+KingPotNoodle: bets $0.29
+ALL-IN0074: calls $0.29
+*** TURN *** [Ah 8h 4s] [6c]
+ALL-IN0074: checks 
+KingPotNoodle: bets $0.75
+ALL-IN0074: calls $0.75
+*** RIVER *** [Ah 8h 4s 6c] [7h]
+ALL-IN0074: checks 
+KingPotNoodle: checks 
+*** SHOW DOWN ***
+ALL-IN0074: shows [7c Ac] (two pair, Aces and Sevens)
+KingPotNoodle: mucks hand 
+ALL-IN0074 collected $2.56 from pot
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.12 
+Board [Ah 8h 4s 6c 7h]
+Seat 1: KingPotNoodle (big blind) mucked
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) showed [7c Ac] and won ($2.56) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #222943112548:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:40:52 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 3: fuzinger ($26.25 in chips) 
+Seat 4: Fifilaplum ($11.40 in chips) 
+Seat 5: DomTB12 ($10 in chips) 
+Seat 6: ALL-IN0074 ($22.56 in chips) 
+KingPotNoodle: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: raises $1.25 to $1.50
+fuzinger: folds 
+ALL-IN0074: folds 
+Uncalled bet ($1.25) returned to KingPotNoodle
+KingPotNoodle collected $0.60 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: KingPotNoodle (small blind) collected ($0.60)
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop
+
+
+
+PokerStars Hand #222943119227:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:12 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.35 in chips) 
+Seat 3: fuzinger ($26.15 in chips) 
+Seat 4: Fifilaplum ($11.40 in chips) 
+Seat 5: DomTB12 ($10 in chips) 
+Seat 6: ALL-IN0074 ($22.31 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: calls $0.20
+*** FLOP *** [Ts Kc 3h]
+Fifilaplum: checks 
+KingPotNoodle: bets $0.31
+Fifilaplum: calls $0.31
+*** TURN *** [Ts Kc 3h] [7c]
+Fifilaplum: checks 
+KingPotNoodle: bets $0.91
+Fifilaplum: raises $1.82 to $2.73
+KingPotNoodle: folds 
+Uncalled bet ($1.82) returned to Fifilaplum
+Fifilaplum collected $2.95 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.09 | Rake $0.14 
+Board [Ts Kc 3h 7c]
+Seat 1: KingPotNoodle (button) folded on the Turn
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) collected ($2.95)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943130758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:45 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 3: fuzinger ($26.10 in chips) 
+Seat 4: Fifilaplum ($12.83 in chips) 
+Seat 5: DomTB12 ($10 in chips) 
+Seat 6: ALL-IN0074 ($22.31 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943134487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:56 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 3: fuzinger ($26.10 in chips) 
+Seat 4: Fifilaplum ($12.78 in chips) 
+Seat 5: DomTB12 ($9.90 in chips) 
+Seat 6: ALL-IN0074 ($22.31 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 3: fuzinger collected ($0.25)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943138537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:07 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 3: fuzinger ($26.25 in chips) 
+Seat 4: Fifilaplum ($12.78 in chips) 
+Seat 5: DomTB12 ($9.85 in chips) 
+Seat 6: ALL-IN0074 ($22.21 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: calls $0.10
+ALL-IN0074: folds 
+KingPotNoodle: raises $1 to $1.10
+DomTB12: folds 
+Uncalled bet ($1) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.25)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) folded before Flop
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943147653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:34 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.30 in chips) 
+Seat 3: fuzinger ($26.25 in chips) 
+Seat 4: Fifilaplum ($12.78 in chips) 
+Seat 5: DomTB12 ($9.75 in chips) 
+Seat 6: ALL-IN0074 ($22.16 in chips) 
+KingPotNoodle: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: folds 
+fuzinger: folds 
+Uncalled bet ($0.15) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943157074:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:55 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.25 in chips) 
+Seat 3: fuzinger ($26.15 in chips) 
+Seat 4: Fifilaplum ($12.78 in chips) 
+Seat 5: DomTB12 ($9.75 in chips) 
+Seat 6: ALL-IN0074 ($22.31 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: raises $1.25 to $1.50
+fuzinger: folds 
+Fifilaplum: folds 
+ALL-IN0074: folds 
+Uncalled bet ($1.25) returned to KingPotNoodle
+KingPotNoodle collected $0.65 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: KingPotNoodle (button) collected ($0.65)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222941787365:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:42:34 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($10.31 in chips) 
+Seat 2: pensioner_x ($36.47 in chips) 
+Seat 4: BIG DILLY709 ($16.34 in chips) 
+Seat 5: BIANCALE ($9.83 in chips) 
+Seat 6: Salhye ($13.67 in chips) 
+Gorak2907: posts small blind $0.05
+pensioner_x: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+BIG DILLY709: calls $0.10
+BIANCALE: calls $0.10
+Salhye: folds 
+Gorak2907: calls $0.05
+pensioner_x: raises $0.50 to $0.60
+BIG DILLY709: folds 
+BIANCALE: calls $0.50
+Gorak2907: folds 
+*** FLOP *** [3s 6s Jc]
+pensioner_x: bets $0.67
+BIANCALE: calls $0.67
+*** TURN *** [3s 6s Jc] [4s]
+pensioner_x: checks 
+BIANCALE: bets $1.31
+pensioner_x: folds 
+Uncalled bet ($1.31) returned to BIANCALE
+BIANCALE collected $2.62 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.74 | Rake $0.12 
+Board [3s 6s Jc 4s]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: pensioner_x (big blind) folded on the Turn
+Seat 4: BIG DILLY709 folded before Flop
+Seat 5: BIANCALE collected ($2.62)
+Seat 6: Salhye (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941820142:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:43:36 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10.21 in chips) 
+Seat 2: pensioner_x ($35.20 in chips) 
+Seat 3: fuzinger ($12.13 in chips) 
+Seat 4: BIG DILLY709 ($16.24 in chips) 
+Seat 5: BIANCALE ($11.18 in chips) 
+Seat 6: Salhye ($13.67 in chips) 
+pensioner_x: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: raises $0.10 to $0.20
+BIANCALE: calls $0.20
+Salhye: folds 
+Gorak2907: folds 
+pensioner_x: folds 
+fuzinger: folds 
+*** FLOP *** [5s Jc 9d]
+BIG DILLY709: bets $0.40
+BIANCALE: calls $0.40
+*** TURN *** [5s Jc 9d] [Kd]
+BIG DILLY709: bets $0.80
+BIANCALE: folds 
+Uncalled bet ($0.80) returned to BIG DILLY709
+BIG DILLY709 collected $1.29 from pot
+BIG DILLY709: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [5s Jc 9d Kd]
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: pensioner_x (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: BIG DILLY709 collected ($1.29)
+Seat 5: BIANCALE folded on the Turn
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941834103:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:44:11 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($10.21 in chips) 
+Seat 2: pensioner_x ($35.15 in chips) 
+Seat 3: fuzinger ($12.03 in chips) 
+Seat 4: BIG DILLY709 ($16.93 in chips) 
+Seat 5: BIANCALE ($10.58 in chips) 
+Seat 6: Salhye ($13.67 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: raises $0.20 to $0.30
+Salhye: folds 
+Gorak2907: raises $0.60 to $0.90
+pensioner_x: folds 
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: folds 
+Uncalled bet ($0.60) returned to Gorak2907
+Gorak2907 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Gorak2907 collected ($0.75)
+Seat 2: pensioner_x (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) folded before Flop
+Seat 5: BIANCALE folded before Flop
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941845923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:44:42 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($10.66 in chips) 
+Seat 2: pensioner_x ($35.15 in chips) 
+Seat 3: fuzinger ($11.98 in chips) 
+Seat 4: BIG DILLY709 ($16.83 in chips) 
+Seat 5: BIANCALE ($10.28 in chips) 
+Seat 6: Salhye ($13.67 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+Salhye: folds 
+Gorak2907: folds 
+pensioner_x: raises $0.20 to $0.30
+fuzinger: folds 
+BIG DILLY709: calls $0.25
+BIANCALE: calls $0.20
+*** FLOP *** [9h Qd 3c]
+BIG DILLY709: checks 
+BIANCALE: bets $0.43
+pensioner_x: folds 
+BIG DILLY709: calls $0.43
+*** TURN *** [9h Qd 3c] [6h]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** RIVER *** [9h Qd 3c 6h] [Ts]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** SHOW DOWN ***
+BIG DILLY709: shows [8s 9d] (a pair of Nines)
+BIANCALE: mucks hand 
+BIG DILLY709 collected $1.68 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [9h Qd 3c 6h Ts]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: pensioner_x folded on the Flop
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) showed [8s 9d] and won ($1.68) with a pair of Nines
+Seat 5: BIANCALE (big blind) mucked
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941862467:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:24 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($10.66 in chips) 
+Seat 2: pensioner_x ($34.85 in chips) 
+Seat 3: fuzinger ($11.98 in chips) 
+Seat 4: BIG DILLY709 ($17.78 in chips) 
+Seat 5: BIANCALE ($9.55 in chips) 
+Seat 6: Salhye ($13.67 in chips) 
+BIANCALE: posts small blind $0.05
+Salhye: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: raises $0.15 to $0.25
+pensioner_x: raises $0.65 to $0.90
+fuzinger has timed out
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: folds 
+Salhye: folds 
+Gorak2907: calls $0.65
+*** FLOP *** [Js Qc Ad]
+Gorak2907: checks 
+pensioner_x: bets $1
+Gorak2907: folds 
+Uncalled bet ($1) returned to pensioner_x
+pensioner_x collected $1.86 from pot
+pensioner_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Js Qc Ad]
+Seat 1: Gorak2907 folded on the Flop
+Seat 2: pensioner_x collected ($1.86)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) folded before Flop (didn't bet)
+Seat 5: BIANCALE (small blind) folded before Flop
+Seat 6: Salhye (big blind) folded before Flop
+
+
+
+PokerStars Hand #222941876979:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:01 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($35.81 in chips) 
+Seat 4: BIG DILLY709 ($17.78 in chips) 
+Seat 5: BIANCALE ($9.50 in chips) 
+Seat 6: Salhye ($13.57 in chips) 
+Salhye: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+pensioner_x: folds 
+BIG DILLY709: calls $0.10
+BIANCALE: folds 
+Salhye: calls $0.05
+Gorak2907: checks 
+*** FLOP *** [2d 6h 8d]
+Salhye: checks 
+Gorak2907: checks 
+BIG DILLY709: bets $0.30
+Salhye: folds 
+Gorak2907: folds 
+Uncalled bet ($0.30) returned to BIG DILLY709
+BIG DILLY709 collected $0.29 from pot
+BIG DILLY709: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2d 6h 8d]
+Seat 1: Gorak2907 (big blind) folded on the Flop
+Seat 2: pensioner_x folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 collected ($0.29)
+Seat 5: BIANCALE (button) folded before Flop (didn't bet)
+Seat 6: Salhye (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222941891824:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:39 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($35.81 in chips) 
+Seat 3: fuzinger ($11.98 in chips) 
+Seat 4: BIG DILLY709 ($17.97 in chips) 
+Seat 5: BIANCALE ($9.50 in chips) 
+Seat 6: Salhye ($13.47 in chips) 
+Gorak2907: posts small blind $0.05
+pensioner_x: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: raises $0.40 to $0.50
+Salhye: folds 
+Gorak2907: folds 
+pensioner_x: calls $0.40
+*** FLOP *** [6s 7s 6h]
+pensioner_x: checks 
+BIANCALE: bets $1
+pensioner_x: raises $34.31 to $35.31 and is all-in
+BIANCALE: folds 
+Uncalled bet ($34.31) returned to pensioner_x
+pensioner_x collected $2.91 from pot
+pensioner_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.14 
+Board [6s 7s 6h]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 2: pensioner_x (big blind) collected ($2.91)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded before Flop (didn't bet)
+Seat 5: BIANCALE folded on the Flop
+Seat 6: Salhye (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941919314:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:47:50 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($37.22 in chips) 
+Seat 3: fuzinger ($11.98 in chips) 
+Seat 4: BIG DILLY709 ($17.97 in chips) 
+Seat 5: BIANCALE ($8 in chips) 
+Seat 6: Salhye ($13.47 in chips) 
+pensioner_x: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: calls $0.10
+BIANCALE: calls $0.10
+Salhye: folds 
+Gorak2907: folds 
+pensioner_x: calls $0.05
+fuzinger: raises $0.50 to $0.60
+BIG DILLY709: folds 
+BIANCALE: raises $0.50 to $1.10
+pensioner_x: folds 
+fuzinger: folds 
+Uncalled bet ($0.50) returned to BIANCALE
+BIANCALE collected $1.40 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0 
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 2: pensioner_x (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: BIG DILLY709 folded before Flop
+Seat 5: BIANCALE collected ($1.40)
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941935785:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:33 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($37.12 in chips) 
+Seat 3: fuzinger ($11.38 in chips) 
+Seat 4: BIG DILLY709 ($17.87 in chips) 
+Seat 5: BIANCALE ($8.80 in chips) 
+Seat 6: Salhye ($13.47 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: calls $0.10
+Salhye: raises $0.30 to $0.40
+Gorak2907: calls $0.40
+pensioner_x: folds 
+fuzinger: folds 
+BIG DILLY709: folds 
+BIANCALE: calls $0.30
+*** FLOP *** [3c 5h Tc]
+BIANCALE: checks 
+Salhye: checks 
+Gorak2907: checks 
+*** TURN *** [3c 5h Tc] [9s]
+BIANCALE: checks 
+Salhye: checks 
+Gorak2907: checks 
+*** RIVER *** [3c 5h Tc 9s] [9d]
+BIANCALE: bets $0.64
+Salhye: folds 
+Gorak2907: calls $0.64
+*** SHOW DOWN ***
+BIANCALE: shows [9h Td] (a full house, Nines full of Tens)
+Gorak2907: mucks hand 
+BIANCALE collected $2.51 from pot
+*** SUMMARY ***
+Total pot $2.63 | Rake $0.12 
+Board [3c 5h Tc 9s 9d]
+Seat 1: Gorak2907 mucked
+Seat 2: pensioner_x (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) folded before Flop
+Seat 5: BIANCALE showed [9h Td] and won ($2.51) with a full house, Nines full of Tens
+Seat 6: Salhye folded on the River
+
+
+
+PokerStars Hand #222941960485:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:49:37 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($37.12 in chips) 
+Seat 3: fuzinger ($11.33 in chips) 
+Seat 4: BIG DILLY709 ($17.77 in chips) 
+Seat 5: BIANCALE ($10.27 in chips) 
+Seat 6: Salhye ($13.07 in chips) 
+BIG DILLY709: posts small blind $0.05
+BIANCALE: posts big blind $0.10
+*** HOLE CARDS ***
+Salhye: folds 
+Gorak2907: folds 
+pensioner_x: folds 
+fuzinger: folds 
+BIG DILLY709: calls $0.05
+BIANCALE: raises $0.10 to $0.20
+BIG DILLY709: calls $0.10
+*** FLOP *** [Kc 8s Ad]
+BIG DILLY709: checks 
+BIANCALE: bets $0.10
+BIG DILLY709: calls $0.10
+*** TURN *** [Kc 8s Ad] [5d]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** RIVER *** [Kc 8s Ad 5d] [9s]
+BIG DILLY709: bets $0.80
+BIANCALE: calls $0.80
+*** SHOW DOWN ***
+BIG DILLY709: shows [8d 5c] (two pair, Eights and Fives)
+BIANCALE: mucks hand 
+BIG DILLY709 collected $2.10 from pot
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.10 
+Board [Kc 8s Ad 5d 9s]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: pensioner_x folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (small blind) showed [8d 5c] and won ($2.10) with two pair, Eights and Fives
+Seat 5: BIANCALE (big blind) mucked
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941972363:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:50:08 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($37.12 in chips) 
+Seat 3: fuzinger ($11.33 in chips) 
+Seat 4: BIG DILLY709 ($18.77 in chips) 
+Seat 5: BIANCALE ($9.17 in chips) 
+Seat 6: Salhye ($13.07 in chips) 
+BIANCALE: posts small blind $0.05
+Salhye: posts big blind $0.10
+*** HOLE CARDS ***
+Gorak2907: folds 
+pensioner_x: folds 
+fuzinger: folds 
+BIG DILLY709: calls $0.10
+BIANCALE: raises $0.20 to $0.30
+Salhye: calls $0.20
+BIG DILLY709: calls $0.20
+*** FLOP *** [3h Jc 9s]
+BIANCALE: bets $0.20
+Salhye: folds 
+BIG DILLY709: folds 
+Uncalled bet ($0.20) returned to BIANCALE
+BIANCALE collected $0.86 from pot
+BIANCALE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [3h Jc 9s]
+Seat 1: Gorak2907 folded before Flop (didn't bet)
+Seat 2: pensioner_x folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 (button) folded on the Flop
+Seat 5: BIANCALE (small blind) collected ($0.86)
+Seat 6: Salhye (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222941986236:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:50:44 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 2: pensioner_x ($37.12 in chips) 
+Seat 3: fuzinger ($11.33 in chips) 
+Seat 4: BIG DILLY709 ($18.47 in chips) 
+Seat 5: BIANCALE ($9.73 in chips) 
+Seat 6: Salhye ($12.77 in chips) 
+Salhye: posts small blind $0.05
+Gorak2907: posts big blind $0.10
+*** HOLE CARDS ***
+pensioner_x: raises $0.20 to $0.30
+fuzinger: folds 
+BIG DILLY709: calls $0.30
+BIANCALE: raises $0.20 to $0.50
+Salhye: folds 
+Gorak2907: folds 
+pensioner_x: calls $0.20
+BIG DILLY709: calls $0.20
+*** FLOP *** [6h 8c 7h]
+pensioner_x: checks 
+BIG DILLY709: checks 
+BIANCALE: bets $0.99
+pensioner_x: calls $0.99
+BIG DILLY709: folds 
+*** TURN *** [6h 8c 7h] [7d]
+pensioner_x: checks 
+BIANCALE: checks 
+*** RIVER *** [6h 8c 7h 7d] [9s]
+pensioner_x: checks 
+BIANCALE: checks 
+*** SHOW DOWN ***
+pensioner_x: shows [9h As] (two pair, Nines and Sevens)
+BIANCALE: mucks hand 
+pensioner_x collected $3.47 from pot
+*** SUMMARY ***
+Total pot $3.63 | Rake $0.16 
+Board [6h 8c 7h 7d 9s]
+Seat 1: Gorak2907 (big blind) folded before Flop
+Seat 2: pensioner_x showed [9h As] and won ($3.47) with two pair, Nines and Sevens
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: BIG DILLY709 folded on the Flop
+Seat 5: BIANCALE (button) mucked
+Seat 6: Salhye (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942000239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:51:20 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 3: fuzinger ($11.33 in chips) 
+Seat 4: BIG DILLY709 ($17.97 in chips) 
+Seat 5: BIANCALE ($8.24 in chips) 
+Seat 6: Salhye ($12.72 in chips) 
+Gorak2907: posts small blind $0.05
+pensioner_x: is sitting out 
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+BIG DILLY709: raises $0.10 to $0.20
+BIANCALE: calls $0.20
+Salhye: folds 
+Gorak2907: folds 
+fuzinger: folds 
+*** FLOP *** [4s 7c 7s]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** TURN *** [4s 7c 7s] [Td]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** RIVER *** [4s 7c 7s Td] [5s]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** SHOW DOWN ***
+BIG DILLY709: shows [5d Kd] (two pair, Sevens and Fives)
+BIANCALE: mucks hand 
+BIG DILLY709 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4s 7c 7s Td 5s]
+Seat 1: Gorak2907 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: BIG DILLY709 showed [5d Kd] and won ($0.53) with two pair, Sevens and Fives
+Seat 5: BIANCALE mucked
+Seat 6: Salhye (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942010911:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:51:48 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: Gorak2907 ($10 in chips) 
+Seat 3: fuzinger ($11.23 in chips) 
+Seat 4: BIG DILLY709 ($18.30 in chips) 
+Seat 5: BIANCALE ($8.04 in chips) 
+Seat 6: Salhye ($12.72 in chips) 
+fuzinger: posts small blind $0.05
+BIG DILLY709: posts big blind $0.10
+*** HOLE CARDS ***
+BIANCALE: calls $0.10
+Salhye: folds 
+Gorak2907: folds 
+fuzinger: folds 
+BIG DILLY709: raises $0.20 to $0.30
+BIANCALE: calls $0.20
+*** FLOP *** [9c 9h Jh]
+BIG DILLY709: checks 
+BIANCALE: checks 
+*** TURN *** [9c 9h Jh] [3c]
+BIG DILLY709: bets $0.30
+BIANCALE: calls $0.30
+*** RIVER *** [9c 9h Jh 3c] [Ac]
+BIG DILLY709: checks 
+pensioner_x leaves the table
+BIANCALE: checks 
+*** SHOW DOWN ***
+BIG DILLY709: shows [7h 8c] (a pair of Nines)
+BIANCALE: shows [8s As] (two pair, Aces and Nines)
+BIANCALE collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9c 9h Jh 3c Ac]
+Seat 1: Gorak2907 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: BIG DILLY709 (big blind) showed [7h 8c] and lost with a pair of Nines
+Seat 5: BIANCALE showed [8s As] and won ($1.19) with two pair, Aces and Nines
+Seat 6: Salhye folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943182996:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:10 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.80 in chips) 
+Seat 3: fuzinger ($26.10 in chips) 
+Seat 4: Fifilaplum ($12.38 in chips) 
+Seat 5: DomTB12 ($9.60 in chips) 
+Seat 6: ALL-IN0074 ($22.36 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: calls $0.15
+*** FLOP *** [Th 7h 4c]
+KingPotNoodle: checks 
+Fifilaplum: bets $0.20
+KingPotNoodle: raises $0.74 to $0.94
+Fifilaplum: folds 
+Uncalled bet ($0.74) returned to KingPotNoodle
+KingPotNoodle collected $0.91 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Th 7h 4c]
+Seat 1: KingPotNoodle (big blind) collected ($0.91)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded on the Flop
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943193818:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:41 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($11.26 in chips) 
+Seat 3: fuzinger ($26.10 in chips) 
+Seat 4: Fifilaplum ($11.93 in chips) 
+Seat 5: DomTB12 ($9.60 in chips) 
+Seat 6: ALL-IN0074 ($22.31 in chips) 
+KingPotNoodle: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+hunterrose666 was removed from the table for failing to post
+hunterrose666 leaves the table
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 3: fuzinger (big blind) collected ($0.10)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943199471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:58 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($11.21 in chips) 
+Seat 3: fuzinger ($26.15 in chips) 
+Seat 4: Fifilaplum ($11.93 in chips) 
+Seat 5: DomTB12 ($9.60 in chips) 
+Seat 6: ALL-IN0074 ($22.31 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: folds 
+fuzinger: folds 
+Fifilaplum: calls $0.15
+*** FLOP *** [Qh 3d 4c]
+Fifilaplum: checks 
+ALL-IN0074: bets $0.28
+Fifilaplum: folds 
+Uncalled bet ($0.28) returned to ALL-IN0074
+ALL-IN0074 collected $0.53 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Qh 3d 4c]
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded on the Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 collected ($0.53)
+
+
+
+PokerStars Hand #222943209944:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:28 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($11.21 in chips) 
+Seat 3: fuzinger ($26.10 in chips) 
+Seat 4: Fifilaplum ($11.68 in chips) 
+Seat 5: DomTB12 ($9.60 in chips) 
+Seat 6: ALL-IN0074 ($22.59 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+fuzinger: calls $0.30
+Fifilaplum: folds 
+DomTB12: folds 
+*** FLOP *** [Td As 2s]
+KingPotNoodle: bets $0.36
+fuzinger: folds 
+Uncalled bet ($0.36) returned to KingPotNoodle
+KingPotNoodle collected $0.72 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Td As 2s]
+Seat 1: KingPotNoodle collected ($0.72)
+Seat 3: fuzinger (button) folded on the Flop
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943216964:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:49 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($11.63 in chips) 
+Seat 3: fuzinger ($25.80 in chips) 
+Seat 4: Fifilaplum ($11.63 in chips) 
+Seat 5: DomTB12 ($9.50 in chips) 
+Seat 6: ALL-IN0074 ($22.59 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+Uncalled bet ($0.05) returned to ALL-IN0074
+ALL-IN0074 collected $0.10 from pot
+ALL-IN0074: doesn't show hand 
+wizzz000 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943221964:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:04 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($11.63 in chips) 
+Seat 3: fuzinger ($25.80 in chips) 
+Seat 4: Fifilaplum ($11.63 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($22.64 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+wizzz000: sits out 
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.15) returned to Fifilaplum
+Fifilaplum collected $0.25 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum collected ($0.25)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943231387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:22 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($11.53 in chips) 
+Seat 2: wizzz000 ($10 in chips) 
+Seat 3: fuzinger ($25.80 in chips) 
+Seat 4: Fifilaplum ($11.78 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($22.59 in chips) 
+KingPotNoodle: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+wizzz000: calls $0.20
+*** FLOP *** [5c 4s Ac]
+KingPotNoodle: bets $0.29
+wizzz000: folds 
+Uncalled bet ($0.29) returned to KingPotNoodle
+KingPotNoodle collected $0.57 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [5c 4s Ac]
+Seat 1: KingPotNoodle (small blind) collected ($0.57)
+Seat 2: wizzz000 (big blind) folded on the Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943242960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:56 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($11.80 in chips) 
+Seat 2: wizzz000 ($9.70 in chips) 
+Seat 3: fuzinger ($25.80 in chips) 
+Seat 4: Fifilaplum ($11.78 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($22.59 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: calls $0.25
+KingPotNoodle: calls $0.25
+wizzz000: folds 
+fuzinger: folds 
+*** FLOP *** [3s 5h 8d]
+Fifilaplum: checks 
+ALL-IN0074: checks 
+KingPotNoodle: checks 
+*** TURN *** [3s 5h 8d] [Kh]
+Fifilaplum: checks 
+ALL-IN0074: bets $0.67
+KingPotNoodle: raises $0.67 to $1.34
+Fifilaplum: folds 
+ALL-IN0074: calls $0.67
+*** RIVER *** [3s 5h 8d Kh] [2d]
+ALL-IN0074: checks 
+KingPotNoodle: checks 
+*** SHOW DOWN ***
+ALL-IN0074: shows [Qd Kd] (a pair of Kings)
+KingPotNoodle: mucks hand 
+ALL-IN0074 collected $3.42 from pot
+*** SUMMARY ***
+Total pot $3.58 | Rake $0.16 
+Board [3s 5h 8d Kh 2d]
+Seat 1: KingPotNoodle (button) mucked
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded on the Turn
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 showed [Qd Kd] and won ($3.42) with a pair of Kings
+
+
+
+PokerStars Hand #222943266756:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:05 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.21 in chips) 
+Seat 2: wizzz000 ($9.65 in chips) 
+Seat 3: fuzinger ($25.70 in chips) 
+Seat 4: Fifilaplum ($11.53 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($24.42 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 2: wizzz000 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943270186:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:16 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.36 in chips) 
+Seat 2: wizzz000 ($9.65 in chips) 
+Seat 3: fuzinger ($25.65 in chips) 
+Seat 4: Fifilaplum ($11.43 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($24.42 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.05) returned to DomTB12
+DomTB12 collected $0.10 from pot
+DomTB12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) collected ($0.10)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943274624:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:28 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.36 in chips) 
+Seat 2: wizzz000 ($9.65 in chips) 
+Seat 3: fuzinger ($25.65 in chips) 
+Seat 4: Fifilaplum ($11.38 in chips) 
+Seat 5: DomTB12 ($9.50 in chips) 
+Seat 6: ALL-IN0074 ($24.42 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.40 to $0.50
+wizzz000: folds 
+fuzinger: raises $1.15 to $1.65
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+Uncalled bet ($1.15) returned to fuzinger
+fuzinger collected $1.15 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger collected ($1.15)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943282689:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:52 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($9.65 in chips) 
+Seat 3: fuzinger ($26.30 in chips) 
+Seat 4: Fifilaplum ($11.38 in chips) 
+Seat 5: DomTB12 ($9.45 in chips) 
+Seat 6: ALL-IN0074 ($24.32 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: calls $0.30
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+*** FLOP *** [9d Ac 5h]
+wizzz000: bets $0.36
+DomTB12: calls $0.36
+*** TURN *** [9d Ac 5h] [6s]
+wizzz000: bets $0.70
+DomTB12: calls $0.70
+*** RIVER *** [9d Ac 5h 6s] [5d]
+wizzz000: bets $0.50
+DomTB12: calls $0.50
+*** SHOW DOWN ***
+wizzz000: shows [9s Kc] (two pair, Nines and Fives)
+DomTB12: shows [Ad Qc] (two pair, Aces and Fives)
+DomTB12 collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.87 | Rake $0.17 
+Board [9d Ac 5h 6s 5d]
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 2: wizzz000 showed [9s Kc] and lost with two pair, Nines and Fives
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) showed [Ad Qc] and won ($3.70) with two pair, Aces and Fives
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943301491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:30 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($7.79 in chips) 
+Seat 3: fuzinger ($26.30 in chips) 
+Seat 4: Fifilaplum ($11.38 in chips) 
+Seat 5: DomTB12 ($11.29 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+KingPotNoodle: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.05) returned to wizzz000
+wizzz000 collected $0.10 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) collected ($0.10)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943307332:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:47 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($7.84 in chips) 
+Seat 3: fuzinger ($26.30 in chips) 
+Seat 4: Fifilaplum ($11.38 in chips) 
+Seat 5: DomTB12 ($11.29 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: calls $0.10
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+DomTB12: calls $0.20
+*** FLOP *** [3d Kd 4c]
+wizzz000: checks 
+DomTB12: bets $0.33
+wizzz000: calls $0.33
+*** TURN *** [3d Kd 4c] [4d]
+wizzz000: checks 
+DomTB12: bets $0.65
+wizzz000: folds 
+Uncalled bet ($0.65) returned to DomTB12
+DomTB12 collected $1.30 from pot
+DomTB12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [3d Kd 4c 4d]
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: wizzz000 (small blind) folded on the Turn
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 collected ($1.30)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943320690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:27 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($7.21 in chips) 
+Seat 3: fuzinger ($26.20 in chips) 
+Seat 4: Fifilaplum ($11.38 in chips) 
+Seat 5: DomTB12 ($11.96 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: calls $0.10
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: raises $0.90 to $1.20
+DomTB12: calls $1.10
+wizzz000: calls $0.90
+*** FLOP *** [9h Ah 8s]
+Fifilaplum: checks 
+DomTB12: checks 
+wizzz000: checks 
+*** TURN *** [9h Ah 8s] [3d]
+Fifilaplum: checks 
+DomTB12: checks 
+wizzz000: checks 
+*** RIVER *** [9h Ah 8s 3d] [6h]
+Fifilaplum: checks 
+DomTB12: checks 
+wizzz000: bets $3.49
+Fifilaplum: folds 
+DomTB12: folds 
+Uncalled bet ($3.49) returned to wizzz000
+wizzz000 collected $3.49 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.16 
+Board [9h Ah 8s 3d 6h]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) collected ($3.49)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded on the River
+Seat 5: DomTB12 folded on the River
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943354164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:46 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($9.50 in chips) 
+Seat 3: fuzinger ($26.15 in chips) 
+Seat 4: Fifilaplum ($10.18 in chips) 
+Seat 5: DomTB12 ($10.76 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.05) returned to DomTB12
+DomTB12 collected $0.10 from pot
+DomTB12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) collected ($0.10)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943358490:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:59 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($9.50 in chips) 
+Seat 3: fuzinger ($26.15 in chips) 
+Seat 4: Fifilaplum ($10.13 in chips) 
+Seat 5: DomTB12 ($10.81 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger collected ($0.25)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943368877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:29 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($9.50 in chips) 
+Seat 3: fuzinger ($26.30 in chips) 
+Seat 4: Fifilaplum ($10.13 in chips) 
+Seat 5: DomTB12 ($10.76 in chips) 
+Seat 6: ALL-IN0074 ($24.17 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: raises $0.20 to $0.30
+fuzinger: calls $0.30
+Fifilaplum: raises $0.90 to $1.20
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: calls $0.90
+fuzinger: raises $25.10 to $26.30 and is all-in
+Fifilaplum: calls $8.93 and is all-in
+wizzz000: folds 
+Uncalled bet ($16.17) returned to fuzinger
+*** FLOP *** [3h 7d 3d]
+*** TURN *** [3h 7d 3d] [Th]
+*** RIVER *** [3h 7d 3d Th] [8h]
+*** SHOW DOWN ***
+fuzinger: shows [Kc Kh] (two pair, Kings and Threes)
+Fifilaplum: shows [Ah Kd] (a pair of Threes)
+fuzinger collected $20.64 from pot
+*** SUMMARY ***
+Total pot $21.61 | Rake $0.97 
+Board [3h 7d 3d Th 8h]
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 2: wizzz000 folded before Flop
+Seat 3: fuzinger showed [Kc Kh] and won ($20.64) with two pair, Kings and Threes
+Seat 4: Fifilaplum showed [Ah Kd] and lost with a pair of Threes
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943380435:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:04 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($8.30 in chips) 
+Seat 3: fuzinger ($36.81 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.76 in chips) 
+Seat 6: ALL-IN0074 ($24.12 in chips) 
+KingPotNoodle: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: folds 
+Uncalled bet ($0.15) returned to Fifilaplum
+Fifilaplum collected $0.25 from pot
+Fifilaplum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum collected ($0.25)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943384755:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:17 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($8.20 in chips) 
+Seat 3: fuzinger ($36.81 in chips) 
+Seat 4: Fifilaplum ($10.15 in chips) 
+Seat 5: DomTB12 ($10.76 in chips) 
+Seat 6: ALL-IN0074 ($24.12 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: folds 
+Uncalled bet ($0.15) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 collected ($0.25)
+
+
+
+PokerStars Hand #222943388197:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:27 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($8.15 in chips) 
+Seat 3: fuzinger ($36.71 in chips) 
+Seat 4: Fifilaplum ($10.15 in chips) 
+Seat 5: DomTB12 ($10.76 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: raises $0.90 to $1.20
+wizzz000: calls $0.90
+*** FLOP *** [Ad 9d Qd]
+Fifilaplum: bets $0.90
+wizzz000: calls $0.90
+*** TURN *** [Ad 9d Qd] [Jc]
+Fifilaplum: checks 
+wizzz000: checks 
+*** RIVER *** [Ad 9d Qd Jc] [3h]
+Fifilaplum: checks 
+wizzz000: bets $2.03
+Fifilaplum: folds 
+Uncalled bet ($2.03) returned to wizzz000
+wizzz000 collected $4.06 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [Ad 9d Qd Jc 3h]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) collected ($4.06)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded on the River
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943405084:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:18 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($10.11 in chips) 
+Seat 3: fuzinger ($36.66 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.76 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943411754:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:37 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.11 in chips) 
+Seat 3: fuzinger ($36.66 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.66 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+DomTB12: calls $0.30
+ALL-IN0074: folds 
+*** FLOP *** [9c Ac As]
+DomTB12: checks 
+fuzinger: checks 
+*** TURN *** [9c Ac As] [8h]
+DomTB12: checks 
+fuzinger: bets $0.38
+DomTB12: folds 
+Uncalled bet ($0.38) returned to fuzinger
+fuzinger collected $0.76 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [9c Ac As 8h]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger collected ($0.76)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded on the Turn
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943425315:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:22 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.11 in chips) 
+Seat 3: fuzinger ($37.07 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.31 in chips) 
+Seat 6: ALL-IN0074 ($24.17 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle (big blind) collected ($0.10)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943427692:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:31 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.20 in chips) 
+Seat 2: wizzz000 ($10.11 in chips) 
+Seat 3: fuzinger ($37.07 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.31 in chips) 
+Seat 6: ALL-IN0074 ($24.12 in chips) 
+KingPotNoodle: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: folds 
+wizzz000: folds 
+Uncalled bet ($0.15) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943430470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:42 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.01 in chips) 
+Seat 3: fuzinger ($37.07 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.31 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: folds 
+wizzz000: calls $0.20
+fuzinger: folds 
+*** FLOP *** [Th Kc Qc]
+wizzz000: checks 
+ALL-IN0074: bets $0.23
+wizzz000: calls $0.23
+*** TURN *** [Th Kc Qc] [Jd]
+wizzz000: checks 
+ALL-IN0074: checks 
+*** RIVER *** [Th Kc Qc Jd] [5s]
+wizzz000: bets $0.51
+ALL-IN0074: calls $0.51
+*** SHOW DOWN ***
+wizzz000: shows [9c Kh] (a straight, Nine to King)
+ALL-IN0074: shows [9s Js] (a straight, Nine to King)
+wizzz000 collected $1 from pot
+ALL-IN0074 collected $0.99 from pot
+*** SUMMARY ***
+Total pot $2.08 | Rake $0.09 
+Board [Th Kc Qc Jd 5s]
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: wizzz000 (small blind) showed [9c Kh] and won ($1) with a straight, Nine to King
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 showed [9s Js] and won ($0.99) with a straight, Nine to King
+
+
+
+PokerStars Hand #222943444601:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:38 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.02 in chips) 
+Seat 3: fuzinger ($36.97 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.31 in chips) 
+Seat 6: ALL-IN0074 ($24.27 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.20) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 collected ($0.25)
+
+
+
+PokerStars Hand #222943447872:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:50 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.02 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.31 in chips) 
+Seat 6: ALL-IN0074 ($24.42 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: calls $0.20
+*** FLOP *** [5s 5c 9h]
+DomTB12: checks 
+ALL-IN0074: bets $0.32
+DomTB12: folds 
+Uncalled bet ($0.32) returned to ALL-IN0074
+ALL-IN0074 collected $0.62 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5s 5c 9h]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded on the Flop
+Seat 6: ALL-IN0074 collected ($0.62)
+
+
+
+PokerStars Hand #222943458546:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:32 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.02 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($10.01 in chips) 
+Seat 6: ALL-IN0074 ($24.74 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: raises $0.25 to $0.35
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger collected ($0.25)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943462268:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:47 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($10.02 in chips) 
+Seat 3: fuzinger ($37.07 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.96 in chips) 
+Seat 6: ALL-IN0074 ($24.64 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: raises $0.20 to $0.30
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.20) returned to wizzz000
+wizzz000 collected $0.25 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 2: wizzz000 collected ($0.25)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943466517:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:03 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.05 in chips) 
+Seat 2: wizzz000 ($10.17 in chips) 
+Seat 3: fuzinger ($37.07 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.96 in chips) 
+Seat 6: ALL-IN0074 ($24.59 in chips) 
+KingPotNoodle: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: raises $0.15 to $0.25
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: folds 
+wizzz000: calls $0.15
+*** FLOP *** [5h 5d Ah]
+wizzz000: checks 
+Fifilaplum: bets $0.32
+wizzz000: calls $0.32
+*** TURN *** [5h 5d Ah] [6c]
+wizzz000: checks 
+Fifilaplum: bets $0.68
+wizzz000: raises $0.68 to $1.36
+Fifilaplum: folds 
+Uncalled bet ($0.68) returned to wizzz000
+wizzz000 collected $2.44 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [5h 5d Ah 6c]
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: wizzz000 (big blind) collected ($2.44)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded on the Turn
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943483980:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:12 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($11.36 in chips) 
+Seat 3: fuzinger ($37.07 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.96 in chips) 
+Seat 6: ALL-IN0074 ($24.59 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: folds 
+wizzz000: folds 
+fuzinger: folds 
+Uncalled bet ($0.15) returned to ALL-IN0074
+ALL-IN0074 collected $0.25 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 collected ($0.25)
+
+
+
+PokerStars Hand #222943487778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:26 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($11.31 in chips) 
+Seat 3: fuzinger ($36.97 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.96 in chips) 
+Seat 6: ALL-IN0074 ($24.74 in chips) 
+fuzinger: posts small blind $0.05
+Fifilaplum: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 2: wizzz000 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 4: Fifilaplum (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943491840:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:43 ET
+Table 'Laodica II' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($11.31 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.96 in chips) 
+Seat 6: ALL-IN0074 ($24.74 in chips) 
+Fifilaplum: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: folds 
+wizzz000: raises $0.60 to $0.90
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.60) returned to wizzz000
+wizzz000 collected $0.75 from pot
+wizzz000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: wizzz000 collected ($0.75)
+Seat 3: fuzinger (button) folded before Flop (didn't bet)
+Seat 4: Fifilaplum (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222943501979:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:19 ET
+Table 'Laodica II' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.15 in chips) 
+Seat 2: wizzz000 ($11.76 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.86 in chips) 
+Seat 6: ALL-IN0074 ($24.44 in chips) 
+DomTB12: posts small blind $0.05
+ALL-IN0074: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum (button) folded before Flop (didn't bet)
+Seat 5: DomTB12 (small blind) folded before Flop
+Seat 6: ALL-IN0074 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943505699:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:31 ET
+Table 'Laodica II' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.30 in chips) 
+Seat 2: wizzz000 ($11.76 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.81 in chips) 
+Seat 6: ALL-IN0074 ($24.34 in chips) 
+ALL-IN0074: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+wizzz000: folds 
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: calls $0.20
+*** FLOP *** [3h Qc Tc]
+ALL-IN0074: checks 
+KingPotNoodle: bets $0.29
+ALL-IN0074: raises $0.71 to $1
+KingPotNoodle: folds 
+Uncalled bet ($0.71) returned to ALL-IN0074
+ALL-IN0074 collected $1.13 from pot
+ALL-IN0074: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [3h Qc Tc]
+Seat 1: KingPotNoodle (big blind) folded on the Flop
+Seat 2: wizzz000 folded before Flop (didn't bet)
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 (button) folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (small blind) collected ($1.13)
+
+
+
+PokerStars Hand #222943519218:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:15 ET
+Table 'Laodica II' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: wizzz000 ($11.76 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 4: Fifilaplum ($10 in chips) 
+Seat 5: DomTB12 ($9.81 in chips) 
+Seat 6: ALL-IN0074 ($24.88 in chips) 
+KingPotNoodle: posts small blind $0.05
+wizzz000: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Fifilaplum: folds 
+DomTB12: folds 
+ALL-IN0074: folds 
+KingPotNoodle: raises $0.20 to $0.30
+wizzz000: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.20 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: KingPotNoodle (small blind) collected ($0.20)
+Seat 2: wizzz000 (big blind) folded before Flop
+Seat 3: fuzinger folded before Flop (didn't bet)
+Seat 4: Fifilaplum folded before Flop (didn't bet)
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943523850:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:29 ET
+Table 'Laodica II' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.10 in chips) 
+Seat 2: wizzz000 ($11.66 in chips) 
+Seat 3: fuzinger ($36.92 in chips) 
+Seat 5: DomTB12 ($9.81 in chips) 
+Seat 6: ALL-IN0074 ($24.88 in chips) 
+wizzz000: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+DomTB12: folds 
+ALL-IN0074: raises $0.15 to $0.25
+KingPotNoodle: raises $1.25 to $1.50
+wizzz000: folds 
+fuzinger: folds 
+ALL-IN0074: folds 
+Uncalled bet ($1.25) returned to KingPotNoodle
+KingPotNoodle collected $0.65 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: KingPotNoodle (button) collected ($0.65)
+Seat 2: wizzz000 (small blind) folded before Flop
+Seat 3: fuzinger (big blind) folded before Flop
+Seat 5: DomTB12 folded before Flop (didn't bet)
+Seat 6: ALL-IN0074 folded before Flop
+
+
+
+PokerStars Hand #222943529165:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:46 ET
+Table 'Laodica II' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.50 in chips) 
+Seat 2: wizzz000 ($11.61 in chips) 
+Seat 3: fuzinger ($36.82 in chips) 
+Seat 5: DomTB12 ($9.81 in chips) 
+Seat 6: ALL-IN0074 ($24.63 in chips) 
+fuzinger: posts small blind $0.05
+DomTB12: posts big blind $0.10
+*** HOLE CARDS ***
+ALL-IN0074: raises $0.20 to $0.30
+KingPotNoodle: calls $0.30
+wizzz000: folds 
+fuzinger: folds 
+DomTB12: folds 
+*** FLOP *** [5c 7s 7c]
+ALL-IN0074: checks 
+KingPotNoodle: checks 
+*** TURN *** [5c 7s 7c] [8c]
+ALL-IN0074: bets $0.24
+KingPotNoodle: raises $0.96 to $1.20
+ALL-IN0074: calls $0.96
+*** RIVER *** [5c 7s 7c 8c] [Ts]
+ALL-IN0074: checks 
+KingPotNoodle: bets $2.26
+ALL-IN0074: folds 
+Uncalled bet ($2.26) returned to KingPotNoodle
+KingPotNoodle collected $3.01 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.15 | Rake $0.14 
+Board [5c 7s 7c 8c Ts]
+Seat 1: KingPotNoodle collected ($3.01)
+Seat 2: wizzz000 (button) folded before Flop (didn't bet)
+Seat 3: fuzinger (small blind) folded before Flop
+Seat 5: DomTB12 (big blind) folded before Flop
+Seat 6: ALL-IN0074 folded on the River
+
+
+

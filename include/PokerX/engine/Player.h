@@ -90,7 +90,7 @@ namespace pokerx {
 
     };
 
-    using SharedPlayerPtr = std::shared_ptr<Player>;
+    //using SharedPlayerPtr = std::shared_ptr<Player>;
 
 }
 

@@ -1,0 +1,4672 @@
+﻿PokerStars Hand #222949742225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:42 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: Krisso88 ($9.85 in chips) 
+Seat 3: and_sp6 ($11.03 in chips) 
+Seat 5: fuzinger ($10.29 in chips) 
+Seat 6: Sergius 3108 ($19.50 in chips) 
+and_sp6: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108 has timed out
+Sergius 3108: folds 
+Krisso88: folds 
+and_sp6: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (button) folded before Flop (didn't bet)
+Seat 3: and_sp6 (small blind) folded before Flop
+Seat 5: fuzinger (big blind) collected ($0.10)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949746717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:56 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: Krisso88 ($9.85 in chips) 
+Seat 3: and_sp6 ($10.98 in chips) 
+Seat 5: fuzinger ($10.34 in chips) 
+fuzinger: posts small blind $0.05
+Krisso88: posts big blind $0.10
+*** HOLE CARDS ***
+and_sp6: folds 
+and_sp6 leaves the table
+fuzinger: folds 
+Uncalled bet ($0.05) returned to Krisso88
+Krisso88 collected $0.10 from pot
+Krisso88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (big blind) collected ($0.10)
+Seat 3: and_sp6 (button) folded before Flop (didn't bet)
+Seat 5: fuzinger (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949749452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:05 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: Krisso88 ($9.90 in chips) 
+Seat 5: fuzinger ($10.29 in chips) 
+Krisso88: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Krisso88: raises $0.20 to $0.30
+fuzinger: folds 
+Uncalled bet ($0.20) returned to Krisso88
+Krisso88 collected $0.20 from pot
+andymal101 was removed from the table for failing to post
+andymal101 leaves the table
+Krisso88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Krisso88 (button) (small blind) collected ($0.20)
+Seat 5: fuzinger (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949751344:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:11 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: Krisso88 ($10 in chips) 
+Seat 5: fuzinger ($10.19 in chips) 
+Seat 6: Sergius 3108 ($19.50 in chips) 
+fuzinger: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+Krisso88: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to Sergius 3108
+Sergius 3108 collected $0.10 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (button) folded before Flop (didn't bet)
+Seat 5: fuzinger (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949754302:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:21 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: Krisso88 ($10 in chips) 
+Seat 5: fuzinger ($10.14 in chips) 
+Seat 6: Sergius 3108 ($19.55 in chips) 
+Sergius 3108: posts small blind $0.05
+Krisso88: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+Sergius 3108: folds 
+Krisso88: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Krisso88 (big blind) folded before Flop
+Seat 5: fuzinger (button) collected ($0.25)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949757385:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:31 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: Krisso88 ($9.90 in chips) 
+Seat 5: fuzinger ($10.29 in chips) 
+Seat 6: Sergius 3108 ($19.50 in chips) 
+Krisso88: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+Krisso88: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (small blind) folded before Flop
+Seat 5: fuzinger (big blind) collected ($0.10)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949760097:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:39 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: Krisso88 ($9.85 in chips) 
+Seat 5: fuzinger ($10.34 in chips) 
+Seat 6: Sergius 3108 ($19.50 in chips) 
+fuzinger: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+Krisso88: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to Sergius 3108
+Sergius 3108 collected $0.10 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (button) folded before Flop (didn't bet)
+Seat 5: fuzinger (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949762062:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:45 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: Krisso88 ($9.85 in chips) 
+Seat 5: fuzinger ($10.29 in chips) 
+Seat 6: Sergius 3108 ($19.55 in chips) 
+Sergius 3108: posts small blind $0.05
+Krisso88: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Sergius 3108: raises $0.25 to $0.35
+Krisso88: raises $0.75 to $1.10
+Sergius 3108: folds 
+Uncalled bet ($0.75) returned to Krisso88
+Krisso88 collected $0.70 from pot
+Krisso88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Krisso88 (big blind) collected ($0.70)
+Seat 5: fuzinger (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949767151:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:02 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: Krisso88 ($10.20 in chips) 
+Seat 6: Sergius 3108 ($19.20 in chips) 
+Krisso88: posts small blind $0.05
+fuzinger: is sitting out 
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+Krisso88: raises $0.20 to $0.30
+Sergius 3108: folds 
+Uncalled bet ($0.20) returned to Krisso88
+Krisso88 collected $0.20 from pot
+Krisso88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Krisso88 (button) (small blind) collected ($0.20)
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949771401:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:16 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: Krisso88 ($10.30 in chips) 
+Seat 6: Sergius 3108 ($19.10 in chips) 
+Sergius 3108: posts small blind $0.05
+Krisso88: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger leaves the table
+Sergius 3108: folds 
+Uncalled bet ($0.05) returned to Krisso88
+Krisso88 collected $0.10 from pot
+Krisso88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (big blind) collected ($0.10)
+Seat 6: Sergius 3108 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949776989:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:34 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: Krisso88 ($10.35 in chips) 
+Seat 6: Sergius 3108 ($19.05 in chips) 
+Krisso88: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+Krisso88: folds 
+Uncalled bet ($0.05) returned to Sergius 3108
+Sergius 3108 collected $0.10 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (button) (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949778337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:38 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: Krisso88 ($10.30 in chips) 
+Seat 6: Sergius 3108 ($19.10 in chips) 
+Sergius 3108: posts small blind $0.05
+Krisso88: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: raises $0.25 to $0.35
+Krisso88: calls $0.25
+*** FLOP *** [4c 9d Qh]
+Krisso88: checks 
+Sergius 3108: bets $0.20
+Krisso88: calls $0.20
+*** TURN *** [4c 9d Qh] [2c]
+Krisso88: checks 
+Sergius 3108: bets $0.70
+Krisso88: folds 
+Uncalled bet ($0.70) returned to Sergius 3108
+Sergius 3108 collected $1.05 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4c 9d Qh 2c]
+Seat 1: Krisso88 (big blind) folded on the Turn
+Seat 6: Sergius 3108 (button) (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #222948508866:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:20:23 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($8.56 in chips) 
+Seat 2: yereke96 ($10.01 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+FreshStyIe: raises $0.15 to $0.25
+mini sonic: calls $0.20
+yereke96: folds 
+*** FLOP *** [4s 5d Kh]
+Sergius 3108 joins the table at seat #6 
+mini sonic: checks 
+FreshStyIe: bets $0.25
+mini sonic: calls $0.25
+*** TURN *** [4s 5d Kh] [5c]
+mini sonic: checks 
+FreshStyIe: bets $0.55
+mini sonic: folds 
+Uncalled bet ($0.55) returned to FreshStyIe
+FreshStyIe collected $1.05 from pot
+FreshStyIe: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4s 5d Kh 5c]
+Seat 1: mini sonic (small blind) folded on the Turn
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: FreshStyIe (button) collected ($1.05)
+
+
+
+PokerStars Hand #222948517352:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:20:55 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($8.06 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($10.55 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: posts big blind $0.10
+Sergius 3108: sits out 
+*** HOLE CARDS ***
+mini sonic: folds 
+andymal101 joins the table at seat #4 
+xmatador81x joins the table at seat #5 
+yereke96: raises $0.20 to $0.30
+FreshStyIe: calls $0.20
+*** FLOP *** [4s 8d Qc]
+yereke96: bets $0.20
+FreshStyIe: folds 
+Uncalled bet ($0.20) returned to yereke96
+yereke96 collected $0.57 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4s 8d Qc]
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) collected ($0.57)
+Seat 3: FreshStyIe (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222948523371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:21:17 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($8.06 in chips) 
+Seat 2: yereke96 ($10.27 in chips) 
+Seat 3: FreshStyIe ($10.25 in chips) 
+Seat 4: andymal101 ($10 in chips) 
+FreshStyIe: posts small blind $0.05
+andymal101: posts big blind $0.10
+xmatador81x: sits out 
+Sergius 3108: sits out 
+*** HOLE CARDS ***
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: calls $0.10
+*** FLOP *** [5c Td 7s]
+andymal101: bets $0.22
+mini sonic: calls $0.22
+*** TURN *** [5c Td 7s] [3h]
+andymal101: bets $0.64
+mini sonic: folds 
+Uncalled bet ($0.64) returned to andymal101
+andymal101 collected $0.85 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [5c Td 7s 3h]
+Seat 1: mini sonic folded on the Turn
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: FreshStyIe (small blind) folded before Flop
+Seat 4: andymal101 (big blind) collected ($0.85)
+
+
+
+PokerStars Hand #222948529080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:21:39 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($7.64 in chips) 
+Seat 2: yereke96 ($10.27 in chips) 
+Seat 3: FreshStyIe ($10.20 in chips) 
+Seat 4: andymal101 ($10.43 in chips) 
+Seat 5: xmatador81x ($8 in chips) 
+andymal101: posts small blind $0.05
+xmatador81x: posts big blind $0.10
+Sergius 3108: sits out 
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: raises $0.20 to $0.30
+xmatador81x: raises $0.68 to $0.98
+andymal101: folds 
+Uncalled bet ($0.68) returned to xmatador81x
+xmatador81x collected $0.60 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: xmatador81x (big blind) collected ($0.60)
+
+
+
+PokerStars Hand #222948537011:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:22:10 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($7.64 in chips) 
+Seat 2: yereke96 ($10.27 in chips) 
+Seat 3: FreshStyIe ($10.20 in chips) 
+Seat 4: andymal101 ($10.13 in chips) 
+Seat 5: xmatador81x ($8.30 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+xmatador81x: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: raises $0.20 to $0.30
+Sergius 3108: folds 
+Uncalled bet ($0.20) returned to xmatador81x
+xmatador81x collected $0.20 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: xmatador81x (small blind) collected ($0.20)
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948541465:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:22:26 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($7.64 in chips) 
+Seat 2: yereke96 ($10.27 in chips) 
+Seat 3: FreshStyIe ($10.20 in chips) 
+Seat 4: andymal101 ($10.13 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+FreshStyIe: folds 
+andymal101 has timed out
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: raises $0.25 to $0.35
+mini sonic: raises $0.70 to $1.05
+Sergius 3108: folds 
+Uncalled bet ($0.70) returned to mini sonic
+mini sonic collected $0.70 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: mini sonic (big blind) collected ($0.70)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948548232:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:22:52 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($7.99 in chips) 
+Seat 2: yereke96 ($10.27 in chips) 
+Seat 3: FreshStyIe ($10.20 in chips) 
+Seat 4: andymal101 ($10.13 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: calls $0.05
+yereke96: raises $0.20 to $0.30
+mini sonic: calls $0.20
+*** FLOP *** [6d 3h 5s]
+mini sonic: checks 
+yereke96: checks 
+*** TURN *** [6d 3h 5s] [9c]
+mini sonic: bets $0.28
+yereke96: calls $0.28
+*** RIVER *** [6d 3h 5s 9c] [Qh]
+mini sonic: bets $0.55
+yereke96: raises $1.45 to $2
+mini sonic: folds 
+Uncalled bet ($1.45) returned to yereke96
+yereke96 collected $2.16 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.26 | Rake $0.10 
+Board [6d 3h 5s 9c Qh]
+Seat 1: mini sonic (small blind) folded on the River
+Seat 2: yereke96 (big blind) collected ($2.16)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948560049:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:23:37 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($6.86 in chips) 
+Seat 2: yereke96 ($11.30 in chips) 
+Seat 3: FreshStyIe ($10.20 in chips) 
+Seat 4: andymal101 ($10.13 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to FreshStyIe
+FreshStyIe collected $0.10 from pot
+FreshStyIe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: FreshStyIe (big blind) collected ($0.10)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948564642:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:23:54 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($6.86 in chips) 
+Seat 2: yereke96 ($11.25 in chips) 
+Seat 3: FreshStyIe ($10.25 in chips) 
+Seat 4: andymal101 ($10.13 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+FreshStyIe: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: raises $0.25 to $0.35
+yereke96: calls $0.35
+FreshStyIe: calls $0.30
+andymal101: folds 
+*** FLOP *** [Ac Kc Tc]
+FreshStyIe: checks 
+mini sonic: bets $0.55
+yereke96: calls $0.55
+FreshStyIe: folds 
+*** TURN *** [Ac Kc Tc] [4d]
+mini sonic: bets $1.07
+yereke96: calls $1.07
+*** RIVER *** [Ac Kc Tc 4d] [Js]
+mini sonic: bets $4.89 and is all-in
+yereke96: folds 
+Uncalled bet ($4.89) returned to mini sonic
+mini sonic collected $4.19 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.39 | Rake $0.20 
+Board [Ac Kc Tc 4d Js]
+Seat 1: mini sonic collected ($4.19)
+Seat 2: yereke96 (button) folded on the River
+Seat 3: FreshStyIe (small blind) folded on the Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948578154:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:24:46 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($9.08 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($10.03 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+andymal101: posts small blind $0.05
+xmatador81x: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: raises $0.50 to $0.70
+xmatador81x: folds 
+mini sonic: calls $0.50
+*** FLOP *** [4d Kc Ts]
+andymal101: checks 
+mini sonic: checks 
+*** TURN *** [4d Kc Ts] [Tc]
+andymal101: checks 
+mini sonic: bets $0.71
+andymal101: folds 
+Uncalled bet ($0.71) returned to mini sonic
+mini sonic collected $1.43 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [4d Kc Ts Tc]
+Seat 1: mini sonic collected ($1.43)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded on the Turn
+Seat 5: xmatador81x (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948588359:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:25:25 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($9.81 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.33 in chips) 
+Seat 5: xmatador81x ($8.30 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+xmatador81x: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: raises $0.20 to $0.30
+Sergius 3108: folds 
+Uncalled bet ($0.20) returned to xmatador81x
+xmatador81x collected $0.20 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: xmatador81x (small blind) collected ($0.20)
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948593111:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:25:43 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($9.81 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.33 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+FreshStyIe: raises $0.15 to $0.25
+andymal101: folds 
+xmatador81x: calls $0.25
+Sergius 3108: folds 
+mini sonic: calls $0.15
+*** FLOP *** [Qs Td Ts]
+mini sonic: checks 
+FreshStyIe: checks 
+xmatador81x: bets $0.30
+mini sonic: calls $0.30
+FreshStyIe: folds 
+*** TURN *** [Qs Td Ts] [Kh]
+mini sonic: checks 
+xmatador81x: bets $0.65
+mini sonic: calls $0.65
+*** RIVER *** [Qs Td Ts Kh] [7h]
+mini sonic: checks 
+xmatador81x: checks 
+*** SHOW DOWN ***
+mini sonic: shows [4d Qh] (two pair, Queens and Tens)
+xmatador81x: mucks hand 
+mini sonic collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [Qs Td Ts Kh 7h]
+Seat 1: mini sonic (big blind) showed [4d Qh] and won ($2.58) with two pair, Queens and Tens
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded on the Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x (button) mucked
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948608940:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:26:44 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($11.19 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.33 in chips) 
+Seat 5: xmatador81x ($7.20 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+FreshStyIe: folds 
+andymal101 has timed out
+andymal101: folds 
+xmatador81x: calls $0.10
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: checks 
+*** FLOP *** [Th 6d 5h]
+yereke96: bets $0.25
+xmatador81x: folds 
+Uncalled bet ($0.25) returned to yereke96
+yereke96 collected $0.24 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Th 6d 5h]
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) collected ($0.24)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded on the Flop
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948617391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:27:16 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($11.14 in chips) 
+Seat 2: yereke96 ($10.14 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.33 in chips) 
+Seat 5: xmatador81x ($7.10 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+xmatador81x: calls $0.10
+Sergius 3108: folds 
+mini sonic: raises $0.10 to $0.20
+yereke96: raises $0.60 to $0.80
+FreshStyIe: folds 
+xmatador81x: folds 
+mini sonic: folds 
+Uncalled bet ($0.60) returned to yereke96
+yereke96 collected $0.60 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop
+Seat 2: yereke96 (small blind) collected ($0.60)
+Seat 3: FreshStyIe (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948625163:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:27:46 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($10.94 in chips) 
+Seat 2: yereke96 ($10.54 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.33 in chips) 
+Seat 5: xmatador81x ($7 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+FreshStyIe: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+xmatador81x: calls $0.10
+Sergius 3108: folds 
+mini sonic: raises $0.20 to $0.30
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: calls $0.20
+*** FLOP *** [7c 7s 2d]
+xmatador81x: checks 
+mini sonic: bets $0.36
+xmatador81x: raises $0.44 to $0.80
+mini sonic: calls $0.44
+*** TURN *** [7c 7s 2d] [8h]
+xmatador81x: checks 
+mini sonic: checks 
+*** RIVER *** [7c 7s 2d 8h] [3h]
+xmatador81x: bets $1.30
+mini sonic: folds 
+Uncalled bet ($1.30) returned to xmatador81x
+xmatador81x collected $2.24 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [7c 7s 2d 8h 3h]
+Seat 1: mini sonic folded on the River
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: FreshStyIe (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 5: xmatador81x collected ($2.24)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948640609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:28:44 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($9.84 in chips) 
+Seat 2: yereke96 ($10.54 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.23 in chips) 
+Seat 5: xmatador81x ($8.14 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+andymal101: posts small blind $0.05
+xmatador81x: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: raises $0.20 to $0.30
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: calls $0.20
+*** FLOP *** [8c 6h Jh]
+xmatador81x: bets $0.31
+mini sonic: calls $0.31
+*** TURN *** [8c 6h Jh] [Ac]
+xmatador81x: checks 
+mini sonic: bets $0.60
+xmatador81x: calls $0.60
+*** RIVER *** [8c 6h Jh Ac] [9h]
+xmatador81x: checks 
+mini sonic: checks 
+*** SHOW DOWN ***
+xmatador81x: shows [Kd Js] (a pair of Jacks)
+mini sonic: mucks hand 
+xmatador81x collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [8c 6h Jh Ac 9h]
+Seat 1: mini sonic mucked
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: xmatador81x (big blind) showed [Kd Js] and won ($2.36) with a pair of Jacks
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948652617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:29:30 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($8.63 in chips) 
+Seat 2: yereke96 ($10.54 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.18 in chips) 
+Seat 5: xmatador81x ($9.29 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+xmatador81x: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: calls $0.20
+xmatador81x: folds 
+Sergius 3108: calls $0.10
+*** FLOP *** [9c Js 3h]
+Sergius 3108: checks 
+mini sonic: checks 
+andymal101: checks 
+*** TURN *** [9c Js 3h] [Jh]
+Sergius 3108: bets $0.40
+mini sonic: folds 
+andymal101: folds 
+Uncalled bet ($0.40) returned to Sergius 3108
+Sergius 3108 collected $0.62 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9c Js 3h Jh]
+Seat 1: mini sonic folded on the Turn
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded on the Turn
+Seat 5: xmatador81x (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.62)
+
+
+
+PokerStars Hand #222948661903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:30:04 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($8.43 in chips) 
+Seat 2: yereke96 ($10.54 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($8.98 in chips) 
+Seat 5: xmatador81x ($9.24 in chips) 
+Seat 6: Sergius 3108 ($10.42 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: raises $0.25 to $0.35
+mini sonic: calls $0.25
+*** FLOP *** [Ac 9d Ah]
+Sergius 3108: bets $0.20
+mini sonic: folds 
+Uncalled bet ($0.20) returned to Sergius 3108
+Sergius 3108 collected $0.67 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Ac 9d Ah]
+Seat 1: mini sonic (big blind) folded on the Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) collected ($0.67)
+
+
+
+PokerStars Hand #222948668283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:30:28 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($8.08 in chips) 
+Seat 2: yereke96 ($10.54 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($8.98 in chips) 
+Seat 5: xmatador81x ($9.24 in chips) 
+Seat 6: Sergius 3108 ($10.74 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+FreshStyIe: folds 
+andymal101: raises $0.20 to $0.30
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.20) returned to andymal101
+andymal101 collected $0.25 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 collected ($0.25)
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948674582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:30:52 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($8.03 in chips) 
+Seat 2: yereke96 ($10.44 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.13 in chips) 
+Seat 5: xmatador81x ($9.24 in chips) 
+Seat 6: Sergius 3108 ($10.74 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: raises $0.25 to $0.35
+yereke96: folds 
+FreshStyIe: folds 
+Uncalled bet ($0.25) returned to mini sonic
+mini sonic collected $0.25 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic (button) collected ($0.25)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: FreshStyIe (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948680644:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:31:15 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($8.18 in chips) 
+Seat 2: yereke96 ($10.39 in chips) 
+Seat 3: FreshStyIe ($10 in chips) 
+Seat 4: andymal101 ($9.13 in chips) 
+Seat 5: xmatador81x ($9.24 in chips) 
+Seat 6: Sergius 3108 ($10.74 in chips) 
+FreshStyIe: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: raises $0.15 to $0.25
+andymal101: folds 
+Uncalled bet ($0.15) returned to FreshStyIe
+FreshStyIe collected $0.20 from pot
+FreshStyIe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: FreshStyIe (small blind) collected ($0.20)
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948687483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:31:40 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($8.18 in chips) 
+Seat 2: yereke96 ($10.39 in chips) 
+Seat 3: FreshStyIe ($10.10 in chips) 
+Seat 4: andymal101 ($9.03 in chips) 
+Seat 5: xmatador81x ($9.24 in chips) 
+Seat 6: Sergius 3108 ($10.74 in chips) 
+andymal101: posts small blind $0.05
+xmatador81x: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: raises $0.70 to $1
+xmatador81x: folds 
+Sergius 3108: folds 
+Uncalled bet ($0.70) returned to andymal101
+andymal101 collected $0.70 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) collected ($0.70)
+Seat 5: xmatador81x (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop
+
+
+
+PokerStars Hand #222948694266:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:32:06 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($8.18 in chips) 
+Seat 2: yereke96 ($10.39 in chips) 
+Seat 3: FreshStyIe ($10.10 in chips) 
+Seat 4: andymal101 ($9.43 in chips) 
+Seat 5: xmatador81x ($9.14 in chips) 
+Seat 6: Sergius 3108 ($10.44 in chips) 
+xmatador81x: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: calls $0.05
+Sergius 3108: checks 
+*** FLOP *** [Ad Jh As]
+xmatador81x: checks 
+Sergius 3108: bets $0.10
+xmatador81x: folds 
+Uncalled bet ($0.10) returned to Sergius 3108
+Sergius 3108 collected $0.19 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ad Jh As]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: xmatador81x (small blind) folded on the Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222948704150:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:32:43 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($8.18 in chips) 
+Seat 2: yereke96 ($10.39 in chips) 
+Seat 3: FreshStyIe ($10.10 in chips) 
+Seat 4: andymal101 ($9.43 in chips) 
+Seat 5: xmatador81x ($9.04 in chips) 
+Seat 6: Sergius 3108 ($10.53 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+FreshStyIe: raises $0.15 to $0.25
+andymal101: raises $0.65 to $0.90
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+FreshStyIe: calls $0.65
+*** FLOP *** [4d 7c 2c]
+FreshStyIe: checks 
+andymal101: bets $0.56
+FreshStyIe: raises $1.14 to $1.70
+andymal101: calls $1.14
+*** TURN *** [4d 7c 2c] [6h]
+FreshStyIe: bets $7.50 and is all-in
+andymal101: folds 
+Uncalled bet ($7.50) returned to FreshStyIe
+FreshStyIe collected $5.11 from pot
+FreshStyIe: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.24 
+Board [4d 7c 2c 6h]
+Seat 1: mini sonic (big blind) folded before Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe collected ($5.11)
+Seat 4: andymal101 folded on the Turn
+Seat 5: xmatador81x (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948723940:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:33:57 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($8.08 in chips) 
+Seat 2: yereke96 ($10.39 in chips) 
+Seat 3: FreshStyIe ($12.61 in chips) 
+Seat 4: andymal101 ($6.83 in chips) 
+Seat 5: xmatador81x ($9.04 in chips) 
+Seat 6: Sergius 3108 ($10.48 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: calls $0.05
+yereke96: checks 
+*** FLOP *** [2d Ks 3s]
+mini sonic: bets $0.10
+yereke96: folds 
+Uncalled bet ($0.10) returned to mini sonic
+mini sonic collected $0.19 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2d Ks 3s]
+Seat 1: mini sonic (small blind) collected ($0.19)
+Seat 2: yereke96 (big blind) folded on the Flop
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948731054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:34:24 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($8.17 in chips) 
+Seat 2: yereke96 ($10.29 in chips) 
+Seat 3: FreshStyIe ($12.61 in chips) 
+Seat 4: andymal101 ($6.83 in chips) 
+Seat 5: xmatador81x ($9.04 in chips) 
+Seat 6: Sergius 3108 ($10.48 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: folds 
+mini sonic: raises $0.25 to $0.35
+yereke96: folds 
+FreshStyIe: folds 
+Uncalled bet ($0.25) returned to mini sonic
+mini sonic collected $0.25 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic (button) collected ($0.25)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: FreshStyIe (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948735383:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:34:40 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($8.32 in chips) 
+Seat 2: yereke96 ($10.24 in chips) 
+Seat 3: FreshStyIe ($12.51 in chips) 
+Seat 4: andymal101 ($6.83 in chips) 
+Seat 5: xmatador81x ($9.04 in chips) 
+Seat 6: Sergius 3108 ($10.48 in chips) 
+FreshStyIe: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+xmatador81x: calls $0.10
+Sergius 3108: folds 
+mini sonic: calls $0.10
+yereke96: raises $0.20 to $0.30
+FreshStyIe: folds 
+andymal101: calls $0.20
+xmatador81x: calls $0.20
+mini sonic: calls $0.20
+*** FLOP *** [2h 9h 5s]
+andymal101: checks 
+xmatador81x: bets $1.19
+mini sonic: folds 
+yereke96: calls $1.19
+andymal101: folds 
+*** TURN *** [2h 9h 5s] [Td]
+xmatador81x: bets $2.40
+yereke96: folds 
+Uncalled bet ($2.40) returned to xmatador81x
+xmatador81x collected $3.47 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.63 | Rake $0.16 
+Board [2h 9h 5s Td]
+Seat 1: mini sonic folded on the Flop
+Seat 2: yereke96 (button) folded on the Turn
+Seat 3: FreshStyIe (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded on the Flop
+Seat 5: xmatador81x collected ($3.47)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948751415:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:35:40 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($8.02 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($12.46 in chips) 
+Seat 4: andymal101 ($6.53 in chips) 
+Seat 5: xmatador81x ($11.02 in chips) 
+Seat 6: Sergius 3108 ($10.48 in chips) 
+andymal101: posts small blind $0.05
+xmatador81x: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: raises $0.25 to $0.35
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: calls $0.25
+*** FLOP *** [Th 5d 4d]
+xmatador81x: checks 
+mini sonic: bets $0.36
+xmatador81x: raises $0.49 to $0.85
+mini sonic: calls $0.49
+*** TURN *** [Th 5d 4d] [9s]
+xmatador81x: bets $1.42
+mini sonic: calls $1.42
+*** RIVER *** [Th 5d 4d 9s] [Ah]
+xmatador81x: checks 
+mini sonic: bets $5.40 and is all-in
+xmatador81x: folds [Td]
+Uncalled bet ($5.40) returned to mini sonic
+mini sonic collected $5.05 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.29 | Rake $0.24 
+Board [Th 5d 4d 9s Ah]
+Seat 1: mini sonic collected ($5.05)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: xmatador81x (big blind) folded on the River
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948778616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:37:20 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($10.45 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($12.46 in chips) 
+Seat 4: andymal101 ($6.48 in chips) 
+Seat 5: xmatador81x ($8.40 in chips) 
+Seat 6: Sergius 3108 ($10.48 in chips) 
+xmatador81x: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: raises $0.25 to $0.35
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: folds 
+Sergius 3108: folds 
+Uncalled bet ($0.25) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 collected ($0.25)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: xmatador81x (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948783849:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:37:39 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($10.45 in chips) 
+Seat 2: yereke96 ($10.15 in chips) 
+Seat 3: FreshStyIe ($12.46 in chips) 
+Seat 4: andymal101 ($6.48 in chips) 
+Seat 5: xmatador81x ($8.35 in chips) 
+Seat 6: Sergius 3108 ($10.38 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: raises $0.20 to $0.30
+Sergius 3108: folds 
+mini sonic: calls $0.20
+*** FLOP *** [2s Tc Ah]
+mini sonic: checks 
+xmatador81x: bets $0.35
+mini sonic: folds 
+Uncalled bet ($0.35) returned to xmatador81x
+xmatador81x collected $0.62 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2s Tc Ah]
+Seat 1: mini sonic (big blind) folded on the Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x (button) collected ($0.62)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948792614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:38:12 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($10.15 in chips) 
+Seat 2: yereke96 ($10.15 in chips) 
+Seat 3: FreshStyIe ($12.46 in chips) 
+Seat 4: andymal101 ($6.48 in chips) 
+Seat 5: xmatador81x ($8.67 in chips) 
+Seat 6: Sergius 3108 ($10.33 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: raises $0.17 to $0.27
+Sergius 3108: raises $0.76 to $1.03
+mini sonic: folds 
+yereke96: folds 
+xmatador81x: calls $0.76
+*** FLOP *** [8d 3h Th]
+xmatador81x: checks 
+Sergius 3108: bets $1.40
+xmatador81x: raises $1.90 to $3.30
+Sergius 3108: raises $6 to $9.30 and is all-in
+xmatador81x: calls $4.34 and is all-in
+Uncalled bet ($1.66) returned to Sergius 3108
+*** TURN *** [8d 3h Th] [7s]
+*** RIVER *** [8d 3h Th 7s] [8s]
+*** SHOW DOWN ***
+xmatador81x: shows [Kh Kd] (two pair, Kings and Eights)
+Sergius 3108: shows [Ac Ad] (two pair, Aces and Eights)
+Sergius 3108 collected $16.70 from pot
+xmatador81x cashed out the hand for $2.13 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $17.49 | Rake $0.79 
+Board [8d 3h Th 7s 8s]
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x showed [Kh Kd] and lost with two pair, Kings and Eights (cashed out).
+Seat 6: Sergius 3108 (button) showed [Ac Ad] and won ($16.70) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #222948812211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:39:25 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($10.10 in chips) 
+Seat 2: yereke96 ($10.05 in chips) 
+Seat 3: FreshStyIe ($12.46 in chips) 
+Seat 4: andymal101 ($6.48 in chips) 
+Seat 5: xmatador81x ($2.13 in chips) 
+Seat 6: Sergius 3108 ($18.36 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+xmatador81x: raises $0.13 to $0.23
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+FreshStyIe: folds 
+Uncalled bet ($0.13) returned to xmatador81x
+xmatador81x collected $0.25 from pot
+xmatador81x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: FreshStyIe (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: xmatador81x collected ($0.25)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948817783:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:39:45 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($10.10 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($12.36 in chips) 
+Seat 4: andymal101 ($6.48 in chips) 
+Seat 5: xmatador81x ($2.28 in chips) 
+Seat 6: Sergius 3108 ($18.36 in chips) 
+FreshStyIe: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+xmatador81x: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: folds 
+yereke96: raises $0.60 to $0.90
+FreshStyIe: folds 
+andymal101: folds 
+Sergius 3108: calls $0.60
+*** FLOP *** [3d Kc 4d]
+Sergius 3108: checks 
+yereke96: bets $0.70
+Sergius 3108: calls $0.70
+*** TURN *** [3d Kc 4d] [8s]
+Sergius 3108: checks 
+yereke96: bets $2.50
+Sergius 3108: calls $2.50
+*** RIVER *** [3d Kc 4d 8s] [4h]
+Sergius 3108: bets $14.26 and is all-in
+yereke96: folds 
+Uncalled bet ($14.26) returned to Sergius 3108
+Sergius 3108 collected $7.97 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.38 
+Board [3d Kc 4d 8s 4h]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded on the River
+Seat 3: FreshStyIe (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 5: xmatador81x folded before Flop (didn't bet)
+Seat 6: Sergius 3108 collected ($7.97)
+
+
+
+PokerStars Hand #222948833992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:40:44 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($10.10 in chips) 
+Seat 2: yereke96 ($10 in chips) 
+Seat 3: FreshStyIe ($12.31 in chips) 
+Seat 4: andymal101 ($6.38 in chips) 
+Seat 5: xmatador81x ($2.28 in chips) 
+Seat 6: Sergius 3108 ($22.23 in chips) 
+andymal101: posts small blind $0.05
+xmatador81x: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: folds 
+yereke96: raises $0.70 to $1
+FreshStyIe: folds 
+andymal101: folds 
+xmatador81x: calls $0.90
+Sergius 3108: calls $0.70
+*** FLOP *** [7h Qh 6s]
+xmatador81x: bets $1.28 and is all-in
+Sergius 3108: calls $1.28
+yereke96: raises $7.72 to $9 and is all-in
+Sergius 3108: calls $7.72
+*** TURN *** [7h Qh 6s] [5h]
+*** RIVER *** [7h Qh 6s 5h] [8c]
+*** SHOW DOWN ***
+Sergius 3108: shows [6c 7c] (two pair, Sevens and Sixes)
+yereke96: shows [Ah 2h] (a flush, Ace high)
+yereke96 collected $14.75 from side pot
+xmatador81x: shows [Ts Ad] (high card Ace)
+yereke96 collected $6.58 from main pot
+*** SUMMARY ***
+Total pot $22.33 Main pot $6.58. Side pot $14.75. | Rake $1 
+Board [7h Qh 6s 5h 8c]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 showed [Ah 2h] and won ($21.33) with a flush, Ace high
+Seat 3: FreshStyIe (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: xmatador81x (big blind) showed [Ts Ad] and lost with high card Ace
+Seat 6: Sergius 3108 showed [6c 7c] and lost with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #222948853920:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:41:55 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($10.10 in chips) 
+Seat 2: yereke96 ($21.33 in chips) 
+Seat 3: FreshStyIe ($12.31 in chips) 
+Seat 4: andymal101 ($6.33 in chips) 
+Seat 6: Sergius 3108 ($12.23 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+FreshStyIe: raises $0.15 to $0.25
+andymal101: folds 
+xmatador81x leaves the table
+Sergius 3108: folds 
+mini sonic: calls $0.15
+*** FLOP *** [Qc 7d 3h]
+a1r93 joins the table at seat #5 
+mini sonic: checks 
+FreshStyIe: bets $0.17
+mini sonic: calls $0.17
+*** TURN *** [Qc 7d 3h] [Kd]
+mini sonic: checks 
+FreshStyIe: bets $0.64
+mini sonic: calls $0.64
+*** RIVER *** [Qc 7d 3h Kd] [Ah]
+mini sonic: checks 
+FreshStyIe: checks 
+*** SHOW DOWN ***
+mini sonic: shows [Ad 7h] (two pair, Aces and Sevens)
+FreshStyIe: mucks hand 
+mini sonic collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.10 
+Board [Qc 7d 3h Kd Ah]
+Seat 1: mini sonic (big blind) showed [Ad 7h] and won ($2.07) with two pair, Aces and Sevens
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: FreshStyIe mucked
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948867852:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:42:35 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($11.11 in chips) 
+Seat 2: yereke96 ($21.33 in chips) 
+Seat 3: FreshStyIe ($11.25 in chips) 
+Seat 4: andymal101 ($6.33 in chips) 
+Seat 6: Sergius 3108 ($12.18 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+a1r93: sits out 
+*** HOLE CARDS ***
+FreshStyIe: folds 
+andymal101: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.25
+yereke96: folds 
+*** FLOP *** [8d 7d Js]
+mini sonic: checks 
+Sergius 3108: bets $0.20
+mini sonic: calls $0.20
+*** TURN *** [8d 7d Js] [9h]
+mini sonic: checks 
+Sergius 3108: checks 
+*** RIVER *** [8d 7d Js 9h] [Kd]
+mini sonic: checks 
+Sergius 3108: bets $0.80
+mini sonic: folds 
+Uncalled bet ($0.80) returned to Sergius 3108
+Sergius 3108 collected $1.05 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8d 7d Js 9h Kd]
+Seat 1: mini sonic (small blind) folded on the River
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: FreshStyIe folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) collected ($1.05)
+
+
+
+PokerStars Hand #222948885477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:43:38 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($10.61 in chips) 
+Seat 2: yereke96 ($21.23 in chips) 
+Seat 4: andymal101 ($6.33 in chips) 
+Seat 6: Sergius 3108 ($12.73 in chips) 
+yereke96: posts small blind $0.05
+FreshStyIe: is sitting out 
+FreshStyIe leaves the table
+andymal101: posts big blind $0.10
+a1r93: sits out 
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to andymal101
+andymal101 collected $0.10 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) collected ($0.10)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948888053:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:43:47 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($10.61 in chips) 
+Seat 2: yereke96 ($21.18 in chips) 
+Seat 4: andymal101 ($6.38 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($12.73 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.30
+yereke96: folds 
+andymal101: calls $0.25
+a1r93: folds 
+*** FLOP *** [6c Kd 8h]
+andymal101: checks 
+Sergius 3108: checks 
+mini sonic: bets $0.48
+andymal101: folds 
+Sergius 3108: calls $0.48
+*** TURN *** [6c Kd 8h] [3s]
+Sergius 3108: checks 
+mini sonic: bets $0.93
+Sergius 3108: folds 
+Uncalled bet ($0.93) returned to mini sonic
+mini sonic collected $1.87 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [6c Kd 8h 3s]
+Seat 1: mini sonic collected ($1.87)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded on the Flop
+Seat 5: a1r93 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded on the Turn
+
+
+
+PokerStars Hand #222948905265:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:44:49 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($11.70 in chips) 
+Seat 2: yereke96 ($21.18 in chips) 
+Seat 4: andymal101 ($6.08 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($11.95 in chips) 
+a1r93: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+andymal101: raises $0.10 to $0.30
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: raises $11.40 to $11.70 and is all-in
+andymal101: folds 
+Uncalled bet ($11.40) returned to mini sonic
+mini sonic collected $0.75 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: mini sonic collected ($0.75)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop
+Seat 5: a1r93 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948910460:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:45:07 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($12.15 in chips) 
+Seat 2: yereke96 ($21.18 in chips) 
+Seat 4: andymal101 ($5.78 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($11.85 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: raises $0.20 to $0.30
+andymal101: folds 
+a1r93: folds 
+SergejB18 joins the table at seat #3 
+Sergius 3108: raises $0.84 to $1.14
+mini sonic: folds 
+yereke96: calls $0.84
+*** FLOP *** [Tc Ad Qh]
+Sergius 3108: checks 
+yereke96: checks 
+*** TURN *** [Tc Ad Qh] [Td]
+Sergius 3108: checks 
+yereke96: bets $1
+Sergius 3108: folds 
+Uncalled bet ($1) returned to yereke96
+yereke96 collected $2.27 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.38 | Rake $0.11 
+Board [Tc Ad Qh Td]
+Seat 1: mini sonic (big blind) folded before Flop
+Seat 2: yereke96 collected ($2.27)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222948924035:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:45:55 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($12.05 in chips) 
+Seat 2: yereke96 ($22.31 in chips) 
+Seat 3: SergejB18 ($8 in chips) 
+Seat 4: andymal101 ($5.78 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.71 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: checks 
+andymal101: folds 
+a1r93: raises $0.14 to $0.24
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: calls $0.14
+SergejB18: calls $0.14
+*** FLOP *** [Kd Ad Kc]
+yereke96: checks 
+SergejB18: bets $0.30
+a1r93: folds 
+yereke96: calls $0.30
+*** TURN *** [Kd Ad Kc] [2d]
+yereke96: checks 
+SergejB18: bets $0.50
+yereke96: calls $0.50
+*** RIVER *** [Kd Ad Kc 2d] [Ts]
+yereke96: bets $0.75
+SergejB18: calls $0.75
+*** SHOW DOWN ***
+yereke96: shows [Ac 8d] (two pair, Aces and Kings)
+SergejB18: shows [2h As] (two pair, Aces and Kings)
+yereke96 collected $1.85 from pot
+SergejB18 collected $1.85 from pot
+*** SUMMARY ***
+Total pot $3.87 | Rake $0.17 
+Board [Kd Ad Kc 2d Ts]
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) showed [Ac 8d] and won ($1.85) with two pair, Aces and Kings
+Seat 3: SergejB18 showed [2h As] and won ($1.85) with two pair, Aces and Kings
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded on the Flop
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948938895:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:46:47 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($12 in chips) 
+Seat 2: yereke96 ($22.37 in chips) 
+Seat 3: SergejB18 ($8.06 in chips) 
+Seat 4: andymal101 ($5.78 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.71 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+SergejB18: calls $0.10
+*** FLOP *** [As Kc 4d]
+SergejB18: checks 
+mini sonic: bets $0.21
+SergejB18: folds 
+Uncalled bet ($0.21) returned to mini sonic
+mini sonic collected $0.43 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [As Kc 4d]
+Seat 1: mini sonic (button) collected ($0.43)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) folded on the Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948945538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:47:11 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($12.23 in chips) 
+Seat 2: yereke96 ($22.32 in chips) 
+Seat 3: SergejB18 ($7.86 in chips) 
+Seat 4: andymal101 ($5.78 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.71 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: calls $0.05
+andymal101: raises $0.20 to $0.30
+SergejB18: folds 
+Uncalled bet ($0.20) returned to andymal101
+andymal101 collected $0.20 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) collected ($0.20)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948954450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:47:42 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($12.23 in chips) 
+Seat 2: yereke96 ($22.32 in chips) 
+Seat 3: SergejB18 ($7.76 in chips) 
+Seat 4: andymal101 ($5.88 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.71 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: raises $0.25 to $0.35
+yereke96 is disconnected 
+yereke96 has timed out while disconnected
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Uncalled bet ($0.25) returned to mini sonic
+mini sonic collected $0.25 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic collected ($0.25)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: a1r93 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948961690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:48:08 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($12.38 in chips) 
+Seat 3: SergejB18 ($7.76 in chips) 
+Seat 4: andymal101 ($5.83 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.71 in chips) 
+a1r93: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.10 to $0.20
+SergejB18: folds 
+andymal101: calls $0.20
+a1r93: calls $0.15
+Sergius 3108: folds 
+*** FLOP *** [Ah 2d 5s]
+a1r93: checks 
+mini sonic: checks 
+andymal101: checks 
+*** TURN *** [Ah 2d 5s] [As]
+a1r93: checks 
+mini sonic: checks 
+andymal101: checks 
+*** RIVER *** [Ah 2d 5s As] [3c]
+a1r93: checks 
+mini sonic: checks 
+andymal101: checks 
+*** SHOW DOWN ***
+a1r93: shows [8h 9h] (a pair of Aces)
+mini sonic: shows [Kh 7h] (a pair of Aces - King kicker)
+andymal101: mucks hand 
+mini sonic collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Ah 2d 5s As 3c]
+Seat 1: mini sonic showed [Kh 7h] and won ($0.67) with a pair of Aces
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) mucked
+Seat 5: a1r93 (small blind) showed [8h 9h] and lost with a pair of Aces
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948975038:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:48:56 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($12.85 in chips) 
+Seat 2: yereke96 ($22.32 in chips) 
+Seat 3: SergejB18 ($7.76 in chips) 
+Seat 4: andymal101 ($5.63 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.61 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: folds 
+andymal101: raises $0.20 to $0.30
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: calls $0.20
+*** FLOP *** [5d 7c 7d]
+mini sonic: checks 
+andymal101: bets $0.31
+mini sonic: calls $0.31
+*** TURN *** [5d 7c 7d] [9d]
+mini sonic: checks 
+andymal101: checks 
+*** RIVER *** [5d 7c 7d 9d] [9h]
+mini sonic: bets $1.21
+andymal101: folds 
+Uncalled bet ($1.21) returned to mini sonic
+mini sonic collected $1.21 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [5d 7c 7d 9d 9h]
+Seat 1: mini sonic (big blind) collected ($1.21)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 folded on the River
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948985977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:49:34 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($13.45 in chips) 
+Seat 2: yereke96 ($22.32 in chips) 
+Seat 3: SergejB18 ($7.76 in chips) 
+Seat 4: andymal101 ($5.02 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: calls $0.10
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: raises $0.40 to $0.50
+mini sonic: folds 
+yereke96: folds 
+SergejB18: folds 
+Uncalled bet ($0.40) returned to Sergius 3108
+Sergius 3108 collected $0.35 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: SergejB18 folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) collected ($0.35)
+
+
+
+PokerStars Hand #222948992190:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:49:56 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($13.40 in chips) 
+Seat 2: yereke96 ($22.22 in chips) 
+Seat 3: SergejB18 ($7.66 in chips) 
+Seat 4: andymal101 ($5.02 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.81 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: raises $0.20 to $0.30
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: folds 
+Uncalled bet ($0.20) returned to andymal101
+andymal101 collected $0.25 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) folded before Flop
+Seat 4: andymal101 collected ($0.25)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948997370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:50:15 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($13.40 in chips) 
+Seat 2: yereke96 ($22.17 in chips) 
+Seat 3: SergejB18 ($7.56 in chips) 
+Seat 4: andymal101 ($5.17 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.81 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: raises $0.14 to $0.24
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+Uncalled bet ($0.14) returned to a1r93
+a1r93 collected $0.25 from pot
+a1r93: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 5: a1r93 collected ($0.25)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949000867:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:50:27 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($13.40 in chips) 
+Seat 2: yereke96 ($22.17 in chips) 
+Seat 3: SergejB18 ($7.51 in chips) 
+Seat 4: andymal101 ($5.07 in chips) 
+Seat 5: a1r93 ($10.15 in chips) 
+Seat 6: Sergius 3108 ($10.81 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: folds 
+andymal101: raises $0.20 to $0.30
+a1r93: calls $0.20
+*** FLOP *** [7h 3c 8h]
+andymal101: checks 
+a1r93: bets $0.31
+andymal101: calls $0.31
+*** TURN *** [7h 3c 8h] [2c]
+andymal101: checks 
+a1r93: bets $0.49
+andymal101: raises $3.97 to $4.46 and is all-in
+a1r93: folds 
+Uncalled bet ($3.97) returned to andymal101
+andymal101 collected $2.10 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.10 
+Board [7h 3c 8h 2c]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) collected ($2.10)
+Seat 5: a1r93 (big blind) folded on the Turn
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949020446:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:51:36 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($13.40 in chips) 
+Seat 2: yereke96 ($22.17 in chips) 
+Seat 3: SergejB18 ($7.51 in chips) 
+Seat 4: andymal101 ($6.07 in chips) 
+Seat 5: a1r93 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.81 in chips) 
+a1r93: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+SergejB18: calls $0.20
+andymal101: folds 
+a1r93: calls $0.15
+Sergius 3108: calls $0.10
+*** FLOP *** [3s 9d 7c]
+a1r93: checks 
+Sergius 3108: checks 
+mini sonic: checks 
+SergejB18: checks 
+*** TURN *** [3s 9d 7c] [5s]
+a1r93: checks 
+Sergius 3108: checks 
+mini sonic: checks 
+SergejB18: checks 
+*** RIVER *** [3s 9d 7c 5s] [Ac]
+a1r93: bets $0.59
+Sergius 3108: folds 
+mini sonic: folds 
+SergejB18: folds 
+Uncalled bet ($0.59) returned to a1r93
+a1r93 collected $0.76 from pot
+a1r93: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [3s 9d 7c 5s Ac]
+Seat 1: mini sonic folded on the River
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded on the River
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: a1r93 (small blind) collected ($0.76)
+Seat 6: Sergius 3108 (big blind) folded on the River
+
+
+
+PokerStars Hand #222949035880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:52:31 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($13.20 in chips) 
+Seat 2: yereke96 ($22.17 in chips) 
+Seat 3: SergejB18 ($7.31 in chips) 
+Seat 4: andymal101 ($6.07 in chips) 
+Seat 5: a1r93 ($10.56 in chips) 
+Seat 6: Sergius 3108 ($10.61 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: calls $0.10
+andymal101: raises $0.30 to $0.40
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: calls $0.30
+SergejB18: calls $0.30
+*** FLOP *** [9c 7c 2d]
+mini sonic: checks 
+SergejB18: checks 
+andymal101: checks 
+*** TURN *** [9c 7c 2d] [Th]
+mini sonic: checks 
+SergejB18: checks 
+andymal101: checks 
+*** RIVER *** [9c 7c 2d Th] [9s]
+mini sonic: checks 
+SergejB18: checks 
+andymal101: checks 
+*** SHOW DOWN ***
+mini sonic: shows [5s 4s] (a pair of Nines)
+SergejB18: shows [Jh Kh] (a pair of Nines - King kicker)
+andymal101: shows [Jd Ac] (a pair of Nines - Ace kicker)
+andymal101 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9c 7c 2d Th 9s]
+Seat 1: mini sonic (big blind) showed [5s 4s] and lost with a pair of Nines
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 showed [Jh Kh] and lost with a pair of Nines
+Seat 4: andymal101 showed [Jd Ac] and won ($1.19) with a pair of Nines
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949052848:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:53:31 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($12.80 in chips) 
+Seat 2: yereke96 ($22.17 in chips) 
+Seat 3: SergejB18 ($6.91 in chips) 
+Seat 4: andymal101 ($6.86 in chips) 
+Seat 5: a1r93 ($10.56 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: calls $0.10
+andymal101: folds 
+a1r93: raises $0.20 to $0.30
+Sergius 3108: folds 
+mini sonic: calls $0.25
+yereke96: folds 
+SergejB18: calls $0.20
+*** FLOP *** [2c 8s 5s]
+mini sonic: bets $0.48
+SergejB18: calls $0.48
+a1r93: calls $0.48
+*** TURN *** [2c 8s 5s] [Jd]
+mini sonic: checks 
+SergejB18: checks 
+a1r93: bets $1.58
+mini sonic: folds 
+SergejB18: calls $1.58
+*** RIVER *** [2c 8s 5s Jd] [2d]
+SergejB18: checks 
+a1r93: checks 
+*** SHOW DOWN ***
+SergejB18: shows [4s Qs] (a pair of Deuces)
+a1r93: shows [Jh Qh] (two pair, Jacks and Deuces)
+a1r93 collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [2c 8s 5s Jd 2d]
+Seat 1: mini sonic (small blind) folded on the Turn
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: SergejB18 showed [4s Qs] and lost with a pair of Deuces
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 showed [Jh Qh] and won ($5.35) with two pair, Jacks and Deuces
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949069460:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:54:29 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($12.02 in chips) 
+Seat 2: yereke96 ($22.07 in chips) 
+Seat 3: SergejB18 ($4.55 in chips) 
+Seat 4: andymal101 ($6.86 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to SergejB18
+SergejB18 collected $0.10 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) collected ($0.10)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949072221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:54:39 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($12.02 in chips) 
+Seat 2: yereke96 ($22.02 in chips) 
+Seat 3: SergejB18 ($4.60 in chips) 
+Seat 4: andymal101 ($6.86 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: calls $0.05
+andymal101: raises $0.30 to $0.40
+SergejB18: calls $0.30
+*** FLOP *** [7c 9s 3c]
+SergejB18: checks 
+andymal101: bets $0.38
+SergejB18: calls $0.38
+*** TURN *** [7c 9s 3c] [6d]
+SergejB18: checks 
+andymal101: bets $0.75
+SergejB18: calls $0.75
+*** RIVER *** [7c 9s 3c 6d] [Th]
+SergejB18: checks 
+andymal101: bets $1.46
+SergejB18: folds 
+Uncalled bet ($1.46) returned to andymal101
+andymal101 collected $2.92 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.06 | Rake $0.14 
+Board [7c 9s 3c 6d Th]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded on the River
+Seat 4: andymal101 (big blind) collected ($2.92)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949083448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:55:21 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($12.02 in chips) 
+Seat 2: yereke96 ($22.02 in chips) 
+Seat 3: SergejB18 ($3.07 in chips) 
+Seat 4: andymal101 ($8.25 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+Uncalled bet ($0.05) returned to a1r93
+a1r93 collected $0.10 from pot
+a1r93: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: a1r93 (big blind) collected ($0.10)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949085999:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:55:32 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($12.02 in chips) 
+Seat 2: yereke96 ($22.02 in chips) 
+Seat 3: SergejB18 ($3.07 in chips) 
+Seat 4: andymal101 ($8.20 in chips) 
+Seat 5: a1r93 ($13.60 in chips) 
+a1r93: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Uncalled bet ($0.05) returned to mini sonic
+mini sonic collected $0.10 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (big blind) collected ($0.10)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: a1r93 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949088325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:55:42 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($12.07 in chips) 
+Seat 2: yereke96 ($22.02 in chips) 
+Seat 3: SergejB18 ($3.07 in chips) 
+Seat 4: andymal101 ($8.20 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+mini sonic: calls $0.05
+yereke96: checks 
+*** FLOP *** [7s 2h 2d]
+mini sonic: checks 
+yereke96: checks 
+*** TURN *** [7s 2h 2d] [5d]
+mini sonic: checks 
+yereke96: checks 
+*** RIVER *** [7s 2h 2d 5d] [5h]
+mini sonic: checks 
+yereke96: checks 
+*** SHOW DOWN ***
+mini sonic: shows [6s Qh] (two pair, Fives and Deuces)
+yereke96: mucks hand 
+mini sonic collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7s 2h 2d 5d 5h]
+Seat 1: mini sonic (small blind) showed [6s Qh] and won ($0.19) with two pair, Fives and Deuces
+Seat 2: yereke96 (big blind) mucked
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949095096:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:56:11 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($12.16 in chips) 
+Seat 2: yereke96 ($21.92 in chips) 
+Seat 3: SergejB18 ($3.07 in chips) 
+Seat 4: andymal101 ($8.20 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to SergejB18
+SergejB18 collected $0.10 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) collected ($0.10)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949097012:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:56:19 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($12.16 in chips) 
+Seat 2: yereke96 ($21.87 in chips) 
+Seat 3: SergejB18 ($3.12 in chips) 
+Seat 4: andymal101 ($8.20 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: raises $0.10 to $0.20
+andymal101: calls $0.10
+*** FLOP *** [3c Tc 9s]
+SergejB18: checks 
+andymal101: bets $0.19
+SergejB18: folds 
+Uncalled bet ($0.19) returned to andymal101
+andymal101 collected $0.38 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [3c Tc 9s]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded on the Flop
+Seat 4: andymal101 (big blind) collected ($0.38)
+Seat 5: a1r93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949103038:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:56:44 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($12.16 in chips) 
+Seat 2: yereke96 ($21.87 in chips) 
+Seat 3: SergejB18 ($2.92 in chips) 
+Seat 4: andymal101 ($8.38 in chips) 
+Seat 5: a1r93 ($13.55 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.25 to $0.35
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Uncalled bet ($0.25) returned to mini sonic
+mini sonic collected $0.25 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic collected ($0.25)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: a1r93 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949106330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:56:58 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($12.31 in chips) 
+Seat 2: yereke96 ($21.87 in chips) 
+Seat 3: SergejB18 ($2.92 in chips) 
+Seat 4: andymal101 ($8.33 in chips) 
+Seat 5: a1r93 ($13.45 in chips) 
+a1r93: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+a1r93: raises $0.14 to $0.24
+mini sonic: calls $0.14
+*** FLOP *** [Ts 5c As]
+a1r93: bets $0.30
+mini sonic: folds 
+Uncalled bet ($0.30) returned to a1r93
+a1r93 collected $0.46 from pot
+a1r93: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Ts 5c As]
+Seat 1: mini sonic (big blind) folded on the Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: a1r93 (small blind) collected ($0.46)
+
+
+
+PokerStars Hand #222949111539:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:57:20 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($12.07 in chips) 
+Seat 2: yereke96 ($21.87 in chips) 
+Seat 3: SergejB18 ($2.92 in chips) 
+Seat 4: andymal101 ($8.33 in chips) 
+Seat 5: a1r93 ($13.67 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: calls $0.10
+andymal101: folds 
+a1r93: folds 
+mini sonic: raises $0.10 to $0.20
+yereke96: calls $0.10
+SergejB18: calls $0.10
+*** FLOP *** [7d Qh 5h]
+mini sonic: bets $0.28
+yereke96: folds 
+SergejB18: calls $0.28
+*** TURN *** [7d Qh 5h] [Td]
+mini sonic: checks 
+SergejB18: checks 
+*** RIVER *** [7d Qh 5h Td] [4c]
+mini sonic: checks 
+SergejB18: bets $0.50
+mini sonic: folds 
+Uncalled bet ($0.50) returned to SergejB18
+SergejB18 collected $1.11 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [7d Qh 5h Td 4c]
+Seat 1: mini sonic (small blind) folded on the River
+Seat 2: yereke96 (big blind) folded on the Flop
+Seat 3: SergejB18 collected ($1.11)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949121378:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:58:00 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($11.59 in chips) 
+Seat 2: yereke96 ($21.67 in chips) 
+Seat 3: SergejB18 ($3.55 in chips) 
+Seat 4: andymal101 ($8.33 in chips) 
+Seat 5: a1r93 ($13.67 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93: raises $0.14 to $0.24
+mini sonic: raises $0.63 to $0.87
+yereke96: folds 
+SergejB18: folds 
+a1r93: folds 
+Uncalled bet ($0.63) returned to mini sonic
+mini sonic collected $0.63 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0 
+Seat 1: mini sonic (button) collected ($0.63)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop
+
+
+
+PokerStars Hand #222949125986:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:58:20 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($11.98 in chips) 
+Seat 2: yereke96 ($21.62 in chips) 
+Seat 3: SergejB18 ($3.45 in chips) 
+Seat 4: andymal101 ($8.33 in chips) 
+Seat 5: a1r93 ($13.43 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: raises $0.14 to $0.24
+mini sonic: calls $0.24
+yereke96: folds 
+SergejB18: folds 
+andymal101: calls $0.14
+*** FLOP *** [5c 7d 6c]
+andymal101: checks 
+a1r93: bets $0.41
+mini sonic: calls $0.41
+andymal101: calls $0.41
+*** TURN *** [5c 7d 6c] [As]
+andymal101: checks 
+a1r93: checks 
+mini sonic: checks 
+*** RIVER *** [5c 7d 6c As] [8d]
+andymal101: checks 
+a1r93: checks 
+mini sonic: checks 
+*** SHOW DOWN ***
+andymal101: shows [9c Th] (a straight, Six to Ten)
+a1r93: mucks hand 
+mini sonic: mucks hand 
+andymal101 collected $1.91 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [5c 7d 6c As 8d]
+Seat 1: mini sonic mucked
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) showed [9c Th] and won ($1.91) with a straight, Six to Ten
+Seat 5: a1r93 mucked
+
+
+
+PokerStars Hand #222949141423:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:59:24 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($11.33 in chips) 
+Seat 2: yereke96 ($21.62 in chips) 
+Seat 3: SergejB18 ($3.40 in chips) 
+Seat 4: andymal101 ($9.59 in chips) 
+Seat 5: a1r93 ($12.78 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+Sergius 3108: sits out 
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: raises $0.20 to $0.30
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Uncalled bet ($0.20) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 collected ($0.25)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: a1r93 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949145970:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:59:43 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($11.33 in chips) 
+Seat 2: yereke96 ($21.77 in chips) 
+Seat 3: SergejB18 ($3.40 in chips) 
+Seat 4: andymal101 ($9.54 in chips) 
+Seat 5: a1r93 ($12.68 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+a1r93: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.25 to $0.35
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: folds 
+Uncalled bet ($0.25) returned to mini sonic
+mini sonic collected $0.25 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic collected ($0.25)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: a1r93 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949149621:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:59:58 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($11.48 in chips) 
+Seat 2: yereke96 ($21.77 in chips) 
+Seat 3: SergejB18 ($3.40 in chips) 
+Seat 4: andymal101 ($9.54 in chips) 
+Seat 5: a1r93 ($12.63 in chips) 
+Seat 6: Sergius 3108 ($10.46 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: folds 
+Uncalled bet ($0.05) returned to mini sonic
+mini sonic collected $0.10 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (big blind) collected ($0.10)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949152703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:00:10 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 2: yereke96 ($21.77 in chips) 
+Seat 3: SergejB18 ($3.40 in chips) 
+Seat 4: andymal101 ($9.54 in chips) 
+Seat 5: a1r93 ($12.63 in chips) 
+Seat 6: Sergius 3108 ($10.41 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: folds 
+yereke96: raises $0.20 to $0.30
+SergejB18: calls $0.20
+*** FLOP *** [Qs 7d Td]
+yereke96: checks 
+SergejB18: checks 
+*** TURN *** [Qs 7d Td] [9s]
+yereke96: bets $0.60
+SergejB18: calls $0.60
+*** RIVER *** [Qs 7d Td 9s] [6h]
+yereke96: bets $1
+SergejB18: folds 
+Uncalled bet ($1) returned to yereke96
+yereke96 collected $1.72 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Qs 7d Td 9s 6h]
+Seat 2: yereke96 (small blind) collected ($1.72)
+Seat 3: SergejB18 (big blind) folded on the River
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949163591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:00:52 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 2: yereke96 ($22.59 in chips) 
+Seat 3: SergejB18 ($2.50 in chips) 
+Seat 4: andymal101 ($9.54 in chips) 
+Seat 5: a1r93 ($12.63 in chips) 
+Seat 6: Sergius 3108 ($10.41 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: folds 
+Sergius 3108: folds 
+yereke96: raises $0.15 to $0.25
+SergejB18: folds 
+andymal101: calls $0.15
+*** FLOP *** [8c 4c 4h]
+andymal101: bets $0.40
+yereke96: folds 
+Uncalled bet ($0.40) returned to andymal101
+andymal101 collected $0.53 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8c 4c 4h]
+Seat 2: yereke96 (button) folded on the Flop
+Seat 3: SergejB18 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) collected ($0.53)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949171883:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:01:21 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 2: yereke96 ($22.34 in chips) 
+Seat 3: SergejB18 ($2.45 in chips) 
+Seat 4: andymal101 ($9.82 in chips) 
+Seat 5: a1r93 ($12.63 in chips) 
+Seat 6: Sergius 3108 ($10.41 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+yereke96: folds 
+SergejB18: folds 
+andymal101: raises $0.20 to $0.30
+a1r93: folds 
+Uncalled bet ($0.20) returned to andymal101
+andymal101 collected $0.20 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) collected ($0.20)
+Seat 5: a1r93 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949175114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:01:33 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 2: yereke96 ($22.34 in chips) 
+Seat 3: SergejB18 ($2.45 in chips) 
+Seat 4: andymal101 ($9.92 in chips) 
+Seat 5: a1r93 ($12.53 in chips) 
+Seat 6: Sergius 3108 ($10.41 in chips) 
+a1r93: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: folds 
+andymal101: raises $0.20 to $0.30
+a1r93: folds 
+Sergius 3108: folds 
+Uncalled bet ($0.20) returned to andymal101
+andymal101 collected $0.25 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) collected ($0.25)
+Seat 5: a1r93 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949180568:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:01:52 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 2: yereke96 ($22.34 in chips) 
+Seat 3: SergejB18 ($2.45 in chips) 
+Seat 4: andymal101 ($10.07 in chips) 
+Seat 5: a1r93 ($12.48 in chips) 
+Seat 6: Sergius 3108 ($10.31 in chips) 
+Sergius 3108: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: folds 
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: raises $0.25 to $0.35
+yereke96: folds 
+Uncalled bet ($0.25) returned to Sergius 3108
+Sergius 3108 collected $0.20 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222949184938:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:02:07 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 2: yereke96 ($22.24 in chips) 
+Seat 3: SergejB18 ($2.45 in chips) 
+Seat 4: andymal101 ($10.07 in chips) 
+Seat 5: a1r93 ($12.48 in chips) 
+Seat 6: Sergius 3108 ($10.41 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93: folds 
+Sergius 3108: raises $0.20 to $0.30
+yereke96: folds 
+SergejB18: folds 
+Uncalled bet ($0.20) returned to Sergius 3108
+Sergius 3108 collected $0.25 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949189825:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:02:24 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 2: yereke96 ($22.19 in chips) 
+Seat 3: SergejB18 ($2.35 in chips) 
+Seat 4: andymal101 ($10.07 in chips) 
+Seat 5: a1r93 ($12.48 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+a1r93: folds 
+Sergius 3108: folds 
+yereke96: folds 
+SergejB18: folds 
+Uncalled bet ($0.05) returned to andymal101
+andymal101 collected $0.10 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) collected ($0.10)
+Seat 5: a1r93 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949193389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:02:36 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 2: yereke96 ($22.19 in chips) 
+Seat 3: SergejB18 ($2.30 in chips) 
+Seat 4: andymal101 ($10.12 in chips) 
+Seat 5: a1r93 ($12.48 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+andymal101: posts small blind $0.05
+a1r93: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+yereke96: folds 
+SergejB18 has timed out
+SergejB18: folds 
+andymal101: raises $0.20 to $0.30
+a1r93: folds 
+Uncalled bet ($0.20) returned to andymal101
+andymal101 collected $0.20 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) collected ($0.20)
+Seat 5: a1r93 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949201164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:03:03 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 2: yereke96 ($22.19 in chips) 
+Seat 3: SergejB18 ($2.30 in chips) 
+Seat 4: andymal101 ($10.22 in chips) 
+Seat 5: a1r93 ($12.38 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+a1r93: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96 has timed out
+yereke96: folds 
+SergejB18: calls $0.10
+andymal101: raises $0.30 to $0.40
+a1r93: folds 
+Sergius 3108: folds 
+SergejB18: calls $0.30
+*** FLOP *** [8d 6c 8c]
+SergejB18: checks 
+andymal101: checks 
+*** TURN *** [8d 6c 8c] [Jc]
+SergejB18: checks 
+andymal101: checks 
+*** RIVER *** [8d 6c 8c Jc] [7h]
+SergejB18: checks 
+andymal101: checks 
+*** SHOW DOWN ***
+SergejB18: shows [Ah 5h] (a pair of Eights)
+andymal101: shows [2d As] (a pair of Eights)
+SergejB18 collected $0.46 from pot
+andymal101 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8d 6c 8c Jc 7h]
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 showed [Ah 5h] and won ($0.46) with a pair of Eights
+Seat 4: andymal101 (button) showed [2d As] and won ($0.45) with a pair of Eights
+Seat 5: a1r93 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949214549:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:03:48 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 2: yereke96 ($22.19 in chips) 
+Seat 3: SergejB18 ($2.36 in chips) 
+Seat 4: andymal101 ($10.27 in chips) 
+Seat 5: a1r93 ($12.33 in chips) 
+Seat 6: Sergius 3108 ($10.46 in chips) 
+Sergius 3108: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: raises $0.20 to $0.30
+andymal101: folds 
+a1r93: raises $0.50 to $0.80
+Sergius 3108: folds 
+yereke96: folds 
+SergejB18: raises $1.56 to $2.36 and is all-in
+a1r93: folds 
+Uncalled bet ($1.56) returned to SergejB18
+SergejB18 collected $1.75 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: SergejB18 collected ($1.75)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: a1r93 (button) folded before Flop
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949225073:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:24 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 2: yereke96 ($22.09 in chips) 
+Seat 3: SergejB18 ($3.31 in chips) 
+Seat 4: andymal101 ($10.27 in chips) 
+Seat 6: Sergius 3108 ($10.41 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+a1r93 leaves the table
+Sergius 3108: raises $0.20 to $0.30
+yereke96: folds 
+Cpenchev90 joins the table at seat #5 
+SergejB18: folds 
+Uncalled bet ($0.20) returned to Sergius 3108
+Sergius 3108 collected $0.25 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949230665:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:43 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($11.53 in chips) 
+Seat 2: yereke96 ($22.04 in chips) 
+Seat 3: SergejB18 ($3.21 in chips) 
+Seat 4: andymal101 ($10.27 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+Cpenchev90: sits out 
+mini sonic: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Sergius 3108 has timed out
+Sergius 3108: folds 
+mini sonic: checks 
+yereke96: raises $0.15 to $0.25
+SergejB18: folds 
+andymal101: folds 
+mini sonic: calls $0.15
+*** FLOP *** [8c Tc 4s]
+mini sonic: checks 
+yereke96: bets $0.35
+mini sonic: folds 
+Uncalled bet ($0.35) returned to yereke96
+yereke96 collected $0.67 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [8c Tc 4s]
+Seat 1: mini sonic folded on the Flop
+Seat 2: yereke96 (button) collected ($0.67)
+Seat 3: SergejB18 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949240041:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:05:15 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($11.23 in chips) 
+Seat 2: yereke96 ($22.46 in chips) 
+Seat 3: SergejB18 ($3.16 in chips) 
+Seat 4: andymal101 ($10.17 in chips) 
+Seat 5: Cpenchev90 ($10 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+andymal101: posts small blind $0.05
+Cpenchev90: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: raises $0.20 to $0.30
+yereke96: folds 
+SergejB18: calls $0.30
+andymal101: folds 
+Cpenchev90: folds 
+*** FLOP *** [3d 8d Ac]
+mini sonic: bets $0.36
+SergejB18: folds 
+Uncalled bet ($0.36) returned to mini sonic
+mini sonic collected $0.72 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [3d 8d Ac]
+Seat 1: mini sonic collected ($0.72)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 (button) folded on the Flop
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: Cpenchev90 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949247662:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:05:41 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($11.65 in chips) 
+Seat 2: yereke96 ($22.46 in chips) 
+Seat 3: SergejB18 ($2.86 in chips) 
+Seat 4: andymal101 ($10.12 in chips) 
+Seat 5: Cpenchev90 ($9.90 in chips) 
+Seat 6: Sergius 3108 ($10.56 in chips) 
+Cpenchev90: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+SergejB18: folds 
+andymal101: folds 
+Cpenchev90: folds 
+Uncalled bet ($0.05) returned to Sergius 3108
+Sergius 3108 collected $0.10 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: Cpenchev90 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949251022:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:05:53 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($11.65 in chips) 
+Seat 2: yereke96 ($22.46 in chips) 
+Seat 3: SergejB18 ($2.86 in chips) 
+Seat 4: andymal101 ($10.12 in chips) 
+Seat 5: Cpenchev90 ($9.85 in chips) 
+Seat 6: Sergius 3108 ($10.61 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: raises $0.20 to $0.30
+andymal101: folds 
+Cpenchev90: folds 
+Sergius 3108: calls $0.25
+mini sonic: calls $0.20
+*** FLOP *** [8d 5h Kc]
+Sergius 3108: checks 
+mini sonic: checks 
+SergejB18: bets $0.40
+Sergius 3108: calls $0.40
+mini sonic: folds 
+*** TURN *** [8d 5h Kc] [9s]
+Sergius 3108: checks 
+SergejB18: bets $0.80
+Sergius 3108: folds 
+Uncalled bet ($0.80) returned to SergejB18
+SergejB18 collected $1.62 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.08 
+Board [8d 5h Kc 9s]
+Seat 1: mini sonic (big blind) folded on the Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 collected ($1.62)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222949271474:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:07:03 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($11.35 in chips) 
+Seat 2: yereke96 ($22.46 in chips) 
+Seat 3: SergejB18 ($3.78 in chips) 
+Seat 4: andymal101 ($10.12 in chips) 
+Seat 5: Cpenchev90 ($9.85 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: calls $0.10
+andymal101: folds 
+Cpenchev90: calls $0.10
+Sergius 3108: folds 
+mini sonic: calls $0.05
+yereke96: checks 
+*** FLOP *** [6s Ad 9d]
+mini sonic: checks 
+yereke96: checks 
+SergejB18: bets $0.20
+Cpenchev90: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.20) returned to SergejB18
+SergejB18 collected $0.38 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [6s Ad 9d]
+Seat 1: mini sonic (small blind) folded on the Flop
+Seat 2: yereke96 (big blind) folded on the Flop
+Seat 3: SergejB18 collected ($0.38)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 folded on the Flop
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949280381:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:07:34 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($11.25 in chips) 
+Seat 2: yereke96 ($22.36 in chips) 
+Seat 3: SergejB18 ($4.06 in chips) 
+Seat 4: andymal101 ($10.12 in chips) 
+Seat 5: Cpenchev90 ($9.75 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+Cpenchev90: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.30
+yereke96: calls $0.25
+SergejB18: folds 
+*** FLOP *** [Jh Th 7c]
+yereke96: checks 
+Sergius 3108: checks 
+mini sonic: bets $0.48
+yereke96: calls $0.48
+Sergius 3108: calls $0.48
+*** TURN *** [Jh Th 7c] [Kd]
+yereke96: checks 
+Sergius 3108: checks 
+mini sonic: checks 
+*** RIVER *** [Jh Th 7c Kd] [Qc]
+yereke96: checks 
+Sergius 3108: bets $0.70
+mini sonic: raises $3.73 to $4.43
+yereke96: folds 
+Sergius 3108: raises $4.79 to $9.22 and is all-in
+mini sonic: calls $4.79
+*** SHOW DOWN ***
+Sergius 3108: shows [Ah Kc] (a straight, Ten to Ace)
+mini sonic: shows [9d Ac] (a straight, Ten to Ace)
+Sergius 3108 collected $9.97 from pot
+mini sonic collected $9.97 from pot
+*** SUMMARY ***
+Total pot $20.88 | Rake $0.94 
+Board [Jh Th 7c Kd Qc]
+Seat 1: mini sonic (button) showed [9d Ac] and won ($9.97) with a straight, Ten to Ace
+Seat 2: yereke96 (small blind) folded on the River
+Seat 3: SergejB18 (big blind) folded before Flop
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 showed [Ah Kc] and won ($9.97) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #222949298201:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:08:34 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($11.22 in chips) 
+Seat 2: yereke96 ($21.58 in chips) 
+Seat 3: SergejB18 ($3.96 in chips) 
+Seat 4: andymal101 ($10.12 in chips) 
+Seat 5: Cpenchev90 ($9.75 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+Cpenchev90: raises $0.20 to $0.30
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: calls $0.25
+andymal101: calls $0.20
+*** FLOP *** [Jd 7h 2c]
+SergejB18: checks 
+andymal101: bets $0.43
+Cpenchev90: folds 
+SergejB18: folds 
+Uncalled bet ($0.43) returned to andymal101
+andymal101 collected $0.86 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Jd 7h 2c]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) folded on the Flop
+Seat 4: andymal101 (big blind) collected ($0.86)
+Seat 5: Cpenchev90 folded on the Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949312322:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:09:22 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($11.22 in chips) 
+Seat 2: yereke96 ($21.58 in chips) 
+Seat 3: SergejB18 ($3.66 in chips) 
+Seat 4: andymal101 ($10.68 in chips) 
+Seat 5: Cpenchev90 ($9.45 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+andymal101: posts small blind $0.05
+Cpenchev90: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108 has timed out
+Sergius 3108: folds 
+mini sonic: raises $0.20 to $0.30
+yereke96: raises $0.60 to $0.90
+SergejB18: folds 
+andymal101: folds 
+Cpenchev90: folds 
+mini sonic: calls $0.60
+*** FLOP *** [Kh 6d 6c]
+mini sonic: checks 
+yereke96: bets $1
+mini sonic: calls $1
+*** TURN *** [Kh 6d 6c] [Qh]
+mini sonic: checks 
+yereke96: checks 
+*** RIVER *** [Kh 6d 6c Qh] [3h]
+mini sonic: checks 
+yereke96: checks 
+*** SHOW DOWN ***
+mini sonic: shows [Tc Th] (two pair, Tens and Sixes)
+yereke96: mucks hand 
+mini sonic collected $3.77 from pot
+*** SUMMARY ***
+Total pot $3.95 | Rake $0.18 
+Board [Kh 6d 6c Qh 3h]
+Seat 1: mini sonic showed [Tc Th] and won ($3.77) with two pair, Tens and Sixes
+Seat 2: yereke96 mucked
+Seat 3: SergejB18 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: Cpenchev90 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949330195:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:10:23 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($13.09 in chips) 
+Seat 2: yereke96 ($19.68 in chips) 
+Seat 3: SergejB18 ($3.66 in chips) 
+Seat 4: andymal101 ($10.63 in chips) 
+Seat 5: Cpenchev90 ($9.35 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+Cpenchev90: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+SergejB18: calls $0.10
+andymal101: raises $0.30 to $0.40
+Cpenchev90: folds 
+Sergius 3108: folds 
+SergejB18: calls $0.30
+*** FLOP *** [2s 9c Ks]
+SergejB18: checks 
+andymal101: bets $0.46
+SergejB18: folds 
+Uncalled bet ($0.46) returned to andymal101
+andymal101 collected $0.91 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [2s 9c Ks]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded on the Flop
+Seat 4: andymal101 (button) collected ($0.91)
+Seat 5: Cpenchev90 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949338309:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:10:50 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($13.09 in chips) 
+Seat 2: yereke96 ($19.68 in chips) 
+Seat 3: SergejB18 ($3.26 in chips) 
+Seat 4: andymal101 ($11.14 in chips) 
+Seat 5: Cpenchev90 ($9.30 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+SergejB18: folds 
+andymal101: raises $0.20 to $0.30
+Cpenchev90: folds 
+Sergius 3108: folds 
+mini sonic: calls $0.20
+*** FLOP *** [7s Ad Tc]
+mini sonic: checks 
+andymal101: bets $0.47
+mini sonic: calls $0.47
+*** TURN *** [7s Ad Tc] [5h]
+mini sonic: checks 
+andymal101: bets $1.14
+mini sonic: calls $1.14
+*** RIVER *** [7s Ad Tc 5h] [3s]
+mini sonic: checks 
+andymal101: checks 
+*** SHOW DOWN ***
+mini sonic: shows [As 5s] (two pair, Aces and Fives)
+andymal101: mucks hand 
+mini sonic collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.87 | Rake $0.17 
+Board [7s Ad Tc 5h 3s]
+Seat 1: mini sonic (big blind) showed [As 5s] and won ($3.70) with two pair, Aces and Fives
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: SergejB18 folded before Flop (didn't bet)
+Seat 4: andymal101 mucked
+Seat 5: Cpenchev90 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949349935:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:11:30 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($14.88 in chips) 
+Seat 2: yereke96 ($19.68 in chips) 
+Seat 3: SergejB18 ($3.26 in chips) 
+Seat 4: andymal101 ($9.23 in chips) 
+Seat 5: Cpenchev90 ($9.30 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+SergejB18: raises $0.20 to $0.30
+andymal101: folds 
+Cpenchev90: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: calls $0.20
+*** FLOP *** [Kh 2c Ts]
+yereke96: checks 
+SergejB18: bets $0.40
+yereke96: calls $0.40
+*** TURN *** [Kh 2c Ts] [9h]
+yereke96: checks 
+SergejB18: bets $0.80
+yereke96: folds 
+Uncalled bet ($0.80) returned to SergejB18
+SergejB18 collected $1.38 from pot
+SergejB18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [Kh 2c Ts 9h]
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) folded on the Turn
+Seat 3: SergejB18 collected ($1.38)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949358918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:12:00 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($14.83 in chips) 
+Seat 2: yereke96 ($18.98 in chips) 
+Seat 3: SergejB18 ($3.94 in chips) 
+Seat 4: andymal101 ($9.23 in chips) 
+Seat 5: Cpenchev90 ($9.30 in chips) 
+Seat 6: Sergius 3108 ($10 in chips) 
+yereke96: posts small blind $0.05
+SergejB18: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+Cpenchev90: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: folds 
+yereke96: folds 
+SergejB18: calls $0.20
+*** FLOP *** [Jh 8h 9s]
+SergejB18: checks 
+Sergius 3108: bets $0.20
+SergejB18: calls $0.20
+*** TURN *** [Jh 8h 9s] [6d]
+SergejB18: checks 
+Sergius 3108: bets $0.70
+SergejB18: folds 
+Uncalled bet ($0.70) returned to Sergius 3108
+Sergius 3108 collected $1 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Jh 8h 9s 6d]
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: SergejB18 (big blind) folded on the Turn
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 collected ($1)
+
+
+
+PokerStars Hand #222949373469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:12:49 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($14.83 in chips) 
+Seat 2: yereke96 ($18.93 in chips) 
+Seat 3: SergejB18 ($3.44 in chips) 
+Seat 4: andymal101 ($9.23 in chips) 
+Seat 5: Cpenchev90 ($9.30 in chips) 
+Seat 6: Sergius 3108 ($10.50 in chips) 
+SergejB18: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+Cpenchev90: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+SergejB18: raises $0.20 to $0.30
+andymal101: calls $0.20
+*** FLOP *** [Th Qd 4h]
+SergejB18: bets $0.30
+andymal101: calls $0.30
+*** TURN *** [Th Qd 4h] [9c]
+SergejB18: bets $0.40
+andymal101: calls $0.40
+*** RIVER *** [Th Qd 4h 9c] [Jh]
+SergejB18: bets $1.30
+andymal101: raises $4.51 to $5.81
+SergejB18: calls $1.14 and is all-in
+Uncalled bet ($3.37) returned to andymal101
+*** SHOW DOWN ***
+andymal101: shows [Ah 5h] (a flush, Ace high)
+SergejB18: shows [Ad Ks] (a straight, Ten to Ace)
+andymal101 collected $6.57 from pot
+*** SUMMARY ***
+Total pot $6.88 | Rake $0.31 
+Board [Th Qd 4h 9c Jh]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: SergejB18 (small blind) showed [Ad Ks] and lost with a straight, Ten to Ace
+Seat 4: andymal101 (big blind) showed [Ah 5h] and won ($6.57) with a flush, Ace high
+Seat 5: Cpenchev90 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949388283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:13:40 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($14.83 in chips) 
+Seat 2: yereke96 ($18.93 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 5: Cpenchev90 ($9.30 in chips) 
+Seat 6: Sergius 3108 ($10.50 in chips) 
+Cpenchev90: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+andymal101: folds 
+Cpenchev90: raises $0.20 to $0.30
+Sergius 3108: calls $0.20
+*** FLOP *** [Td 6h Tc]
+Cpenchev90: bets $0.38
+SergejB18 leaves the table
+Sergius 3108: raises $0.92 to $1.30
+and_sp6 joins the table at seat #3 
+Cpenchev90: folds 
+Uncalled bet ($0.92) returned to Sergius 3108
+Sergius 3108 collected $1.30 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [Td 6h Tc]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: Cpenchev90 (small blind) folded on the Flop
+Seat 6: Sergius 3108 (big blind) collected ($1.30)
+
+
+
+PokerStars Hand #222949403737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:14:32 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($14.83 in chips) 
+Seat 2: yereke96 ($18.93 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 5: Cpenchev90 ($8.62 in chips) 
+Seat 6: Sergius 3108 ($11.12 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+and_sp6: sits out 
+*** HOLE CARDS ***
+yereke96: folds 
+andymal101: folds 
+Cpenchev90 has timed out
+Cpenchev90: folds 
+Sergius 3108: raises $0.25 to $0.35
+mini sonic: calls $0.25
+*** FLOP *** [6h Jh 6s]
+Sergius 3108: checks 
+mini sonic: bets $0.67
+Sergius 3108: folds 
+Uncalled bet ($0.67) returned to mini sonic
+mini sonic collected $0.67 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [6h Jh 6s]
+Seat 1: mini sonic (big blind) collected ($0.67)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222949419559:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:15:26 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($15.15 in chips) 
+Seat 2: yereke96 ($18.93 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 5: Cpenchev90 ($8.62 in chips) 
+Seat 6: Sergius 3108 ($10.77 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+and_sp6: sits out 
+*** HOLE CARDS ***
+andymal101: folds 
+Cpenchev90 has timed out
+Cpenchev90: folds 
+Sergius 3108 has timed out
+Sergius 3108: folds 
+mini sonic: raises $0.10 to $0.20
+yereke96: raises $0.40 to $0.60
+mini sonic: calls $0.40
+*** FLOP *** [5s 9h 3d]
+mini sonic: checks 
+yereke96: bets $0.60
+mini sonic: calls $0.60
+*** TURN *** [5s 9h 3d] [As]
+mini sonic: checks 
+yereke96: bets $1.75
+mini sonic: calls $1.75
+*** RIVER *** [5s 9h 3d As] [8c]
+mini sonic: checks 
+yereke96: checks 
+*** SHOW DOWN ***
+mini sonic: shows [Ad Th] (a pair of Aces)
+yereke96: mucks hand 
+mini sonic collected $5.63 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.27 
+Board [5s 9h 3d As 8c]
+Seat 1: mini sonic (small blind) showed [Ad Th] and won ($5.63) with a pair of Aces
+Seat 2: yereke96 (big blind) mucked
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: Cpenchev90 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949436261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:16:22 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($17.83 in chips) 
+Seat 2: yereke96 ($15.98 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 6: Sergius 3108 ($10.77 in chips) 
+yereke96: posts small blind $0.05
+and_sp6: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: folds 
+yereke96: folds 
+and_sp6: calls $0.20
+*** FLOP *** [8c Jh Ah]
+and_sp6: checks 
+Sergius 3108: bets $0.20
+and_sp6: raises $0.45 to $0.65
+Sergius 3108: folds 
+Uncalled bet ($0.45) returned to and_sp6
+and_sp6 collected $1 from pot
+and_sp6: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8c Jh Ah]
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: and_sp6 (big blind) collected ($1)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded on the Flop
+
+
+
+PokerStars Hand #222949457901:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:17:04 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($17.83 in chips) 
+Seat 2: yereke96 ($15.93 in chips) 
+Seat 3: and_sp6 ($10.50 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 6: Sergius 3108 ($10.27 in chips) 
+and_sp6: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+and_sp6: folds 
+Uncalled bet ($0.05) returned to andymal101
+andymal101 collected $0.10 from pot
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: and_sp6 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) collected ($0.10)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949460321:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:17:12 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($17.83 in chips) 
+Seat 2: yereke96 ($15.93 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 4: andymal101 ($12.41 in chips) 
+Seat 6: Sergius 3108 ($10.27 in chips) 
+andymal101: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+and_sp6: folds 
+andymal101: folds 
+Uncalled bet ($0.05) returned to Sergius 3108
+Sergius 3108 collected $0.10 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949462020:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:17:18 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($17.83 in chips) 
+Seat 2: yereke96 ($15.93 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 6: Sergius 3108 ($10.32 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+and_sp6: folds 
+andymal101: folds 
+Sergius 3108: raises $0.25 to $0.35
+mini sonic: calls $0.25
+*** FLOP *** [Jd 7d As]
+Sergius 3108: bets $0.20
+mini sonic: calls $0.20
+*** TURN *** [Jd 7d As] [2h]
+Sergius 3108: bets $0.70
+mini sonic: calls $0.70
+*** RIVER *** [Jd 7d As 2h] [4c]
+Sergius 3108: checks 
+mini sonic: bets $1.19
+Sergius 3108: calls $1.19
+*** SHOW DOWN ***
+mini sonic: shows [Tc Qh] (high card Ace)
+Sergius 3108: shows [6s Ac] (a pair of Aces)
+Sergius 3108 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.22 
+Board [Jd 7d As 2h 4c]
+Seat 1: mini sonic (big blind) showed [Tc Qh] and lost with high card Ace
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) showed [6s Ac] and won ($4.66) with a pair of Aces
+
+
+
+PokerStars Hand #222949472662:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:17:54 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($15.39 in chips) 
+Seat 2: yereke96 ($15.93 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 6: Sergius 3108 ($12.54 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+and_sp6: folds 
+andymal101: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.20) returned to Sergius 3108
+Sergius 3108 collected $0.25 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic (small blind) folded before Flop
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949478323:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:18:13 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($15.34 in chips) 
+Seat 2: yereke96 ($15.83 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 6: Sergius 3108 ($12.69 in chips) 
+yereke96: posts small blind $0.05
+and_sp6: posts big blind $0.10
+*** HOLE CARDS ***
+andymal101: folds 
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to and_sp6
+and_sp6 collected $0.10 from pot
+and_sp6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic (button) folded before Flop (didn't bet)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: and_sp6 (big blind) collected ($0.10)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949482151:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:18:26 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($15.34 in chips) 
+Seat 2: yereke96 ($15.78 in chips) 
+Seat 3: and_sp6 ($10.50 in chips) 
+Seat 4: andymal101 ($12.36 in chips) 
+Seat 6: Sergius 3108 ($12.69 in chips) 
+and_sp6: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: raises $0.15 to $0.25
+and_sp6: folds 
+andymal101: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) collected ($0.25)
+Seat 3: and_sp6 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949486044:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:18:39 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($15.34 in chips) 
+Seat 2: yereke96 ($15.93 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 4: andymal101 ($12.26 in chips) 
+Seat 6: Sergius 3108 ($12.69 in chips) 
+andymal101: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+and_sp6: folds 
+andymal101: folds 
+Uncalled bet ($0.05) returned to Sergius 3108
+Sergius 3108 collected $0.10 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 6: Sergius 3108 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949488296:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:18:47 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($15.34 in chips) 
+Seat 2: yereke96 ($15.93 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 4: andymal101 ($12.21 in chips) 
+Seat 6: Sergius 3108 ($12.74 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: raises $0.20 to $0.30
+and_sp6: folds 
+andymal101: folds 
+Sergius 3108: raises $0.91 to $1.21
+mini sonic: folds 
+yereke96: calls $0.91
+*** FLOP *** [4h Kh 6h]
+Sergius 3108: checks 
+yereke96: checks 
+*** TURN *** [4h Kh 6h] [Td]
+Sergius 3108: bets $1.70
+yereke96: folds 
+Uncalled bet ($1.70) returned to Sergius 3108
+Sergius 3108 collected $2.41 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.52 | Rake $0.11 
+Board [4h Kh 6h Td]
+Seat 1: mini sonic (big blind) folded before Flop
+Seat 2: yereke96 folded on the Turn
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) collected ($2.41)
+
+
+
+PokerStars Hand #222949503829:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:19:39 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($15.24 in chips) 
+Seat 2: yereke96 ($14.72 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 6: Sergius 3108 ($13.94 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+and_sp6: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.25
+yereke96: folds 
+*** FLOP *** [7h 2s 9d]
+mini sonic: checks 
+Sergius 3108: checks 
+*** TURN *** [7h 2s 9d] [Ad]
+mini sonic: checks 
+Sergius 3108: bets $0.40
+mini sonic: raises $1.47 to $1.87
+Sergius 3108: folds 
+Uncalled bet ($1.47) returned to mini sonic
+mini sonic collected $1.43 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [7h 2s 9d Ad]
+Seat 1: mini sonic (small blind) collected ($1.43)
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded on the Turn
+
+
+
+PokerStars Hand #222949515610:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:20:18 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($15.97 in chips) 
+Seat 2: yereke96 ($14.62 in chips) 
+Seat 3: and_sp6 ($10.45 in chips) 
+Seat 6: Sergius 3108 ($13.24 in chips) 
+yereke96: posts small blind $0.05
+and_sp6: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.30
+yereke96: folds 
+and_sp6: folds 
+*** FLOP *** [Td 4s 5c]
+Sergius 3108: bets $0.20
+mini sonic: calls $0.20
+*** TURN *** [Td 4s 5c] [3c]
+Sergius 3108: checks 
+mini sonic: bets $0.55
+Sergius 3108: calls $0.55
+*** RIVER *** [Td 4s 5c 3c] [3h]
+Sergius 3108: checks 
+mini sonic: bets $1.07
+Sergius 3108: folds 
+Uncalled bet ($1.07) returned to mini sonic
+mini sonic collected $2.15 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Td 4s 5c 3c 3h]
+Seat 1: mini sonic (button) collected ($2.15)
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: and_sp6 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded on the River
+
+
+
+PokerStars Hand #222949526764:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:20:55 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($17.07 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10.35 in chips) 
+Seat 6: Sergius 3108 ($12.19 in chips) 
+and_sp6: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: folds 
+yereke96: folds 
+and_sp6: raises $0.25 to $0.35
+Sergius 3108: calls $0.25
+*** FLOP *** [5h 8s 6s]
+and_sp6: bets $0.34
+Sergius 3108: raises $0.86 to $1.20
+and_sp6: calls $0.86
+*** TURN *** [5h 8s 6s] [Kh]
+and_sp6: checks 
+Sergius 3108: bets $1.90
+and_sp6: folds 
+Uncalled bet ($1.90) returned to Sergius 3108
+Sergius 3108 collected $2.96 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.14 
+Board [5h 8s 6s Kh]
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) folded before Flop (didn't bet)
+Seat 3: and_sp6 (small blind) folded on the Turn
+Seat 6: Sergius 3108 (big blind) collected ($2.96)
+
+
+
+PokerStars Hand #222949547521:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:22:03 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($17.07 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 6: Sergius 3108 ($13.60 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+and_sp6: raises $0.15 to $0.25
+Sergius 3108: folds 
+mini sonic: calls $0.15
+*** FLOP *** [Qc 9h 3s]
+mini sonic: checks 
+and_sp6: bets $0.18
+mini sonic: calls $0.18
+*** TURN *** [Qc 9h 3s] [Ah]
+mini sonic: checks 
+and_sp6: checks 
+*** RIVER *** [Qc 9h 3s Ah] [2d]
+mini sonic: checks 
+and_sp6: bets $0.29
+mini sonic: calls $0.29
+*** SHOW DOWN ***
+and_sp6: shows [Jd Js] (a pair of Jacks)
+mini sonic: mucks hand 
+and_sp6 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.07 
+Board [Qc 9h 3s Ah 2d]
+Seat 1: mini sonic (big blind) mucked
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 (button) showed [Jd Js] and won ($1.42) with a pair of Jacks
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949559701:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:22:44 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($16.35 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10.70 in chips) 
+Seat 6: Sergius 3108 ($13.55 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+andymal101: sits out 
+*** HOLE CARDS ***
+and_sp6: folds 
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.25
+yereke96: folds 
+*** FLOP *** [4s Js 9c]
+mini sonic: checks 
+Sergius 3108: bets $0.40
+mini sonic: calls $0.40
+*** TURN *** [4s Js 9c] [4h]
+mini sonic: checks 
+Sergius 3108: bets $0.90
+mini sonic: folds 
+Uncalled bet ($0.90) returned to Sergius 3108
+Sergius 3108 collected $1.43 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [4s Js 9c 4h]
+Seat 1: mini sonic (small blind) folded on the Turn
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) collected ($1.43)
+
+
+
+PokerStars Hand #222949568810:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:14 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($15.65 in chips) 
+Seat 2: yereke96 ($14.47 in chips) 
+Seat 3: and_sp6 ($10.70 in chips) 
+Seat 6: Sergius 3108 ($14.28 in chips) 
+yereke96: posts small blind $0.05
+and_sp6: posts big blind $0.10
+andymal101: sits out 
+*** HOLE CARDS ***
+Sergius 3108: raises $0.20 to $0.30
+mini sonic: calls $0.30
+yereke96: folds 
+and_sp6: folds 
+*** FLOP *** [Ts Kc 7c]
+Sergius 3108: bets $0.50
+mini sonic: folds 
+Uncalled bet ($0.50) returned to Sergius 3108
+Sergius 3108 collected $0.72 from pot
+Sergius 3108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ts Kc 7c]
+Seat 1: mini sonic (button) folded on the Flop
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: and_sp6 (big blind) folded before Flop
+Seat 6: Sergius 3108 collected ($0.72)
+
+
+
+PokerStars Hand #222949574380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:32 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($15.35 in chips) 
+Seat 2: yereke96 ($14.42 in chips) 
+Seat 3: and_sp6 ($10.60 in chips) 
+Seat 4: andymal101 ($12.21 in chips) 
+Seat 6: Sergius 3108 ($14.70 in chips) 
+and_sp6: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108 has timed out
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: raises $0.15 to $0.25
+and_sp6: folds 
+andymal101: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) collected ($0.25)
+Seat 3: and_sp6 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949580441:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:52 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($15.35 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10.55 in chips) 
+Seat 4: andymal101 ($12.11 in chips) 
+Seat 6: Sergius 3108 ($14.70 in chips) 
+andymal101: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.25 to $0.35
+yereke96: folds 
+and_sp6: calls $0.35
+andymal101: calls $0.30
+Sergius 3108: folds 
+*** FLOP *** [Jc 4s 7d]
+andymal101: bets $0.55
+mini sonic: folds 
+and_sp6: calls $0.55
+*** TURN *** [Jc 4s 7d] [8d]
+andymal101: bets $1.08
+and_sp6: folds 
+Uncalled bet ($1.08) returned to andymal101
+andymal101 collected $2.15 from pot
+Cpenchev90 was removed from the table for failing to post
+Cpenchev90 leaves the table
+andymal101: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jc 4s 7d 8d]
+Seat 1: mini sonic folded on the Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 (button) folded on the Turn
+Seat 4: andymal101 (small blind) collected ($2.15)
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949591045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:24:27 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($15 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($13.36 in chips) 
+Seat 6: Sergius 3108 ($14.60 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger joins the table at seat #5 
+yereke96: folds 
+and_sp6: raises $0.15 to $0.25
+andymal101: calls $0.25
+Sergius 3108: folds 
+mini sonic: calls $0.15
+*** FLOP *** [8d 7d 2s]
+mini sonic: checks 
+and_sp6: checks 
+andymal101: checks 
+*** TURN *** [8d 7d 2s] [Td]
+mini sonic: checks 
+and_sp6: checks 
+andymal101: bets $0.38
+mini sonic: calls $0.38
+and_sp6: folds 
+*** RIVER *** [8d 7d 2s Td] [6s]
+mini sonic: bets $0.74
+andymal101: calls $0.74
+*** SHOW DOWN ***
+mini sonic: shows [6d 9d] (a straight flush, Six to Ten)
+andymal101: mucks hand 
+mini sonic collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3.04 | Rake $0.14 
+Board [8d 7d 2s Td 6s]
+Seat 1: mini sonic (big blind) showed [6d 9d] and won ($2.90) with a straight flush, Six to Ten
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 folded on the Turn
+Seat 4: andymal101 (button) mucked
+Seat 6: Sergius 3108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949609120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:25:26 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($16.53 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($11.99 in chips) 
+Seat 6: Sergius 3108 ($14.55 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+and_sp6: folds 
+andymal101: folds 
+Sergius 3108 has timed out
+Sergius 3108: folds 
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+Uncalled bet ($0.10) returned to mini sonic
+mini sonic collected $0.20 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mini sonic (small blind) collected ($0.20)
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949617322:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:25:53 ET
+Table 'Polyhymnia II' 6-max Seat #1 is the button
+Seat 1: mini sonic ($16.63 in chips) 
+Seat 2: yereke96 ($14.47 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($11.99 in chips) 
+yereke96: posts small blind $0.05
+and_sp6: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+andymal101: raises $0.20 to $0.30
+mini sonic: calls $0.30
+yereke96: folds 
+and_sp6: folds 
+*** FLOP *** [Tc As Ks]
+andymal101: bets $0.36
+mini sonic: calls $0.36
+*** TURN *** [Tc As Ks] [8c]
+andymal101: checks 
+mini sonic: checks 
+*** RIVER *** [Tc As Ks 8c] [2c]
+andymal101: checks 
+mini sonic: bets $1.40
+andymal101: calls $1.40
+*** SHOW DOWN ***
+mini sonic: shows [2h 2s] (three of a kind, Deuces)
+andymal101: mucks hand 
+mini sonic collected $4.08 from pot
+*** SUMMARY ***
+Total pot $4.27 | Rake $0.19 
+Board [Tc As Ks 8c 2c]
+Seat 1: mini sonic (button) showed [2h 2s] and won ($4.08) with three of a kind, Deuces
+Seat 2: yereke96 (small blind) folded before Flop
+Seat 3: and_sp6 (big blind) folded before Flop
+Seat 4: andymal101 mucked
+
+
+
+PokerStars Hand #222949627616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:27 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 1: mini sonic ($18.65 in chips) 
+Seat 2: yereke96 ($14.42 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($9.93 in chips) 
+Seat 6: Sergius 3108 ($14.55 in chips) 
+and_sp6: posts small blind $0.05
+andymal101: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: raises $0.15 to $0.25
+and_sp6: folds 
+andymal101: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 (button) collected ($0.25)
+Seat 3: and_sp6 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949631517:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:40 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 1: mini sonic ($18.65 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($9.83 in chips) 
+Seat 5: fuzinger ($10 in chips) 
+Seat 6: Sergius 3108 ($14.55 in chips) 
+andymal101: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Sergius 3108: folds 
+mini sonic: folds 
+yereke96: folds 
+and_sp6: folds 
+andymal101: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mini sonic folded before Flop (didn't bet)
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 (button) folded before Flop (didn't bet)
+Seat 4: andymal101 (small blind) folded before Flop
+Seat 5: fuzinger (big blind) collected ($0.10)
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949636300:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:56 ET
+Table 'Polyhymnia II' 6-max Seat #4 is the button
+Seat 1: mini sonic ($18.65 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($9.78 in chips) 
+Seat 5: fuzinger ($10.05 in chips) 
+Seat 6: Sergius 3108 ($14.55 in chips) 
+fuzinger: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+*** HOLE CARDS ***
+mini sonic: raises $0.10 to $0.20
+yereke96: folds 
+and_sp6: calls $0.20
+andymal101: folds 
+fuzinger: calls $0.15
+Sergius 3108: folds 
+*** FLOP *** [5h 7s 2c]
+fuzinger: checks 
+mini sonic: checks 
+and_sp6: bets $0.22
+fuzinger: raises $0.28 to $0.50
+mini sonic: folds 
+and_sp6: folds 
+Uncalled bet ($0.28) returned to fuzinger
+fuzinger collected $1.09 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [5h 7s 2c]
+Seat 1: mini sonic folded on the Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 folded on the Flop
+Seat 4: andymal101 (button) folded before Flop (didn't bet)
+Seat 5: fuzinger (small blind) collected ($1.09)
+Seat 6: Sergius 3108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949649099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:27:38 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: mini sonic ($18.45 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($9.78 in chips) 
+Seat 5: fuzinger ($10.72 in chips) 
+Seat 6: Sergius 3108 ($14.45 in chips) 
+Sergius 3108: posts small blind $0.05
+mini sonic: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+and_sp6: folds 
+andymal101: folds 
+fuzinger: folds 
+Sergius 3108: raises $0.25 to $0.35
+mini sonic: calls $0.25
+*** FLOP *** [3d Jh 9s]
+Sergius 3108: bets $0.40
+mini sonic: calls $0.40
+*** TURN *** [3d Jh 9s] [6h]
+Sergius 3108: bets $0.90
+mini sonic: calls $0.90
+*** RIVER *** [3d Jh 9s 6h] [4c]
+Sergius 3108: checks 
+mini sonic: bets $1.57
+Sergius 3108: raises $3.73 to $5.30
+mini sonic: calls $3.73
+*** SHOW DOWN ***
+Sergius 3108: shows [3h 3s] (three of a kind, Threes)
+mini sonic: mucks hand 
+Sergius 3108 collected $13.27 from pot
+*** SUMMARY ***
+Total pot $13.90 | Rake $0.63 
+Board [3d Jh 9s 6h 4c]
+Seat 1: mini sonic (big blind) mucked
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: fuzinger (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) showed [3h 3s] and won ($13.27) with three of a kind, Threes
+
+
+
+PokerStars Hand #222949666277:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:28:34 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: mini sonic ($11.50 in chips) 
+Seat 2: yereke96 ($14.57 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($9.78 in chips) 
+Seat 5: fuzinger ($10.72 in chips) 
+Seat 6: Sergius 3108 ($20.77 in chips) 
+mini sonic: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+and_sp6: folds 
+andymal101: folds 
+fuzinger: raises $0.25 to $0.35
+Sergius 3108: folds 
+mini sonic: calls $0.30
+yereke96: folds 
+*** FLOP *** [4c As Kh]
+mini sonic: checks 
+fuzinger: checks 
+*** TURN *** [4c As Kh] [Qc]
+mini sonic: bets $0.10
+fuzinger: folds 
+Uncalled bet ($0.10) returned to mini sonic
+mini sonic collected $0.76 from pot
+mini sonic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [4c As Kh Qc]
+Seat 1: mini sonic (small blind) collected ($0.76)
+Seat 2: yereke96 (big blind) folded before Flop
+Seat 3: and_sp6 folded before Flop (didn't bet)
+Seat 4: andymal101 folded before Flop (didn't bet)
+Seat 5: fuzinger folded on the Turn
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949677075:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:29:09 ET
+Table 'Polyhymnia II' 6-max Seat #2 is the button
+Seat 2: yereke96 ($14.47 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 4: andymal101 ($9.78 in chips) 
+Seat 5: fuzinger ($10.37 in chips) 
+Seat 6: Sergius 3108 ($20.77 in chips) 
+and_sp6: posts small blind $0.05
+andymal101: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+Sergius 3108: folds 
+yereke96: calls $0.35
+mini sonic leaves the table
+and_sp6: folds 
+andymal101 is disconnected 
+Krisso88 joins the table at seat #1 
+andymal101 has timed out
+andymal101: folds 
+*** FLOP *** [4h 9s 7h]
+fuzinger: checks 
+yereke96: checks 
+*** TURN *** [4h 9s 7h] [3c]
+fuzinger: checks 
+yereke96: checks 
+*** RIVER *** [4h 9s 7h 3c] [9c]
+fuzinger: checks 
+yereke96: bets $0.70
+fuzinger: folds 
+Uncalled bet ($0.70) returned to yereke96
+yereke96 collected $0.81 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [4h 9s 7h 3c 9c]
+Seat 2: yereke96 (button) collected ($0.81)
+Seat 3: and_sp6 (small blind) folded before Flop
+Seat 4: andymal101 (big blind) folded before Flop
+Seat 5: fuzinger folded on the River
+Seat 6: Sergius 3108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949707422:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:30:49 ET
+Table 'Polyhymnia II' 6-max Seat #3 is the button
+Seat 2: yereke96 ($14.93 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 5: fuzinger ($10.02 in chips) 
+Seat 6: Sergius 3108 ($20.77 in chips) 
+andymal101 has timed out
+andymal101: is sitting out 
+fuzinger: posts small blind $0.05
+Sergius 3108: posts big blind $0.10
+Krisso88: sits out 
+*** HOLE CARDS ***
+yereke96: folds 
+and_sp6: folds 
+fuzinger: raises $0.20 to $0.30
+Sergius 3108: calls $0.20
+*** FLOP *** [Jh 6h 5d]
+fuzinger: bets $0.57
+Sergius 3108: folds 
+Uncalled bet ($0.57) returned to fuzinger
+fuzinger collected $0.57 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jh 6h 5d]
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 (button) folded before Flop (didn't bet)
+Seat 5: fuzinger (small blind) collected ($0.57)
+Seat 6: Sergius 3108 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222949718365:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:31:24 ET
+Table 'Polyhymnia II' 6-max Seat #5 is the button
+Seat 1: Krisso88 ($10 in chips) 
+Seat 2: yereke96 ($14.93 in chips) 
+Seat 3: and_sp6 ($10 in chips) 
+Seat 5: fuzinger ($10.29 in chips) 
+Seat 6: Sergius 3108 ($20.47 in chips) 
+Sergius 3108: posts small blind $0.05
+Krisso88: posts big blind $0.10
+andymal101 has timed out
+andymal101: is sitting out 
+*** HOLE CARDS ***
+yereke96: folds 
+yereke96 leaves the table
+and_sp6: raises $0.15 to $0.25
+fuzinger: folds 
+Sergius 3108: raises $0.72 to $0.97
+Krisso88: folds 
+and_sp6: calls $0.72
+*** FLOP *** [Jd Kd 3s]
+andymal101 is disconnected 
+Sergius 3108: checks 
+and_sp6: bets $1
+Sergius 3108: folds 
+Uncalled bet ($1) returned to and_sp6
+and_sp6 collected $1.95 from pot
+and_sp6: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [Jd Kd 3s]
+Seat 1: Krisso88 (big blind) folded before Flop
+Seat 2: yereke96 folded before Flop (didn't bet)
+Seat 3: and_sp6 collected ($1.95)
+Seat 5: fuzinger (button) folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222949738140:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:29 ET
+Table 'Polyhymnia II' 6-max Seat #6 is the button
+Seat 1: Krisso88 ($9.90 in chips) 
+Seat 3: and_sp6 ($10.98 in chips) 
+Seat 5: fuzinger ($10.29 in chips) 
+Seat 6: Sergius 3108 ($19.50 in chips) 
+Krisso88: posts small blind $0.05
+and_sp6: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+Sergius 3108: folds 
+Krisso88: folds 
+Uncalled bet ($0.05) returned to and_sp6
+and_sp6 collected $0.10 from pot
+and_sp6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Krisso88 (small blind) folded before Flop
+Seat 3: and_sp6 (big blind) collected ($0.10)
+Seat 5: fuzinger folded before Flop (didn't bet)
+Seat 6: Sergius 3108 (button) folded before Flop (didn't bet)
+
+
+

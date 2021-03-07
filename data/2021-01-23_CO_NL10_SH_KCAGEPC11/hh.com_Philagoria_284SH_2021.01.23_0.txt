@@ -1,0 +1,4352 @@
+﻿PokerStars Hand #222978213155:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:40:29 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($10.62 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10 in chips) 
+Seat 4: sobiesksquad ($8.46 in chips) 
+Seat 5: 0TheMouse0 ($11.39 in chips) 
+Seat 6: alex_kz_1989 ($10 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Tàgzz: folds 
+sobiesksquad: calls $0.10
+0TheMouse0: raises $0.40 to $0.50
+alex_kz_1989: calls $0.45
+yYanniky: folds 
+sobiesksquad: calls $0.40
+*** FLOP *** [4s 8h 3s]
+alex_kz_1989: checks 
+sobiesksquad: bets $0.10
+0TheMouse0: folds 
+alex_kz_1989: calls $0.10
+*** TURN *** [4s 8h 3s] [3d]
+alex_kz_1989: checks 
+sobiesksquad: bets $0.86
+alex_kz_1989: folds 
+Uncalled bet ($0.86) returned to sobiesksquad
+sobiesksquad collected $1.72 from pot
+sobiesksquad: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [4s 8h 3s 3d]
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: sobiesksquad collected ($1.72)
+Seat 5: 0TheMouse0 (button) folded on the Flop
+Seat 6: alex_kz_1989 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222978813956:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:56:50 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($15.27 in chips) 
+Seat 2: zebaztravez ($10.25 in chips) 
+Seat 3: Tàgzz ($10.73 in chips) 
+Seat 4: sobiesksquad ($17.93 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10 in chips) 
+sobiesksquad: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: raises $0.17 to $0.27
+zebaztravez: folds 
+Tàgzz: folds 
+sobiesksquad: calls $0.22
+0TheMouse0: folds 
+*** FLOP *** [3c 7s Kc]
+sobiesksquad: checks 
+yYanniky: bets $0.23
+sobiesksquad: raises $0.23 to $0.46
+yYanniky: calls $0.23
+*** TURN *** [3c 7s Kc] [Qh]
+sobiesksquad: checks 
+yYanniky: checks 
+*** RIVER *** [3c 7s Kc Qh] [4d]
+sobiesksquad: checks 
+yYanniky: checks 
+*** SHOW DOWN ***
+sobiesksquad: shows [5h 2h] (high card King)
+yYanniky: shows [Ts Ks] (a pair of Kings)
+yYanniky collected $1.49 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [3c 7s Kc Qh 4d]
+Seat 1: yYanniky showed [Ts Ks] and won ($1.49) with a pair of Kings
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz (button) folded before Flop (didn't bet)
+Seat 4: sobiesksquad (small blind) showed [5h 2h] and lost with high card King
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978840160:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:57:49 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.03 in chips) 
+Seat 2: zebaztravez ($10.25 in chips) 
+Seat 3: Tàgzz ($10.73 in chips) 
+Seat 4: sobiesksquad ($17.20 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Tàgzz: folds 
+sobiesksquad: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: checks 
+*** FLOP *** [Ad 5c 6h]
+alex_kz_1989: checks 
+sobiesksquad: bets $0.10
+alex_kz_1989: calls $0.10
+*** TURN *** [Ad 5c 6h] [6d]
+alex_kz_1989: checks 
+sobiesksquad: checks 
+*** RIVER *** [Ad 5c 6h 6d] [8d]
+alex_kz_1989: bets $0.29
+sobiesksquad: calls $0.29
+*** SHOW DOWN ***
+alex_kz_1989: shows [6c Jc] (three of a kind, Sixes)
+sobiesksquad: mucks hand 
+alex_kz_1989 collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [Ad 5c 6h 6d 8d]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: sobiesksquad (button) mucked
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) showed [6c Jc] and won ($0.98) with three of a kind, Sixes
+
+
+
+PokerStars Hand #222978860456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:58:35 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.03 in chips) 
+Seat 2: zebaztravez ($10.25 in chips) 
+Seat 3: Tàgzz ($10.73 in chips) 
+Seat 4: sobiesksquad ($16.71 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.49 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Tàgzz: folds 
+sobiesksquad: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: checks 
+*** FLOP *** [7h 6s Kd]
+yYanniky: checks 
+sobiesksquad: bets $0.10
+yYanniky: folds 
+Uncalled bet ($0.10) returned to sobiesksquad
+sobiesksquad collected $0.24 from pot
+sobiesksquad: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7h 6s Kd]
+Seat 1: yYanniky (big blind) folded on the Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: sobiesksquad collected ($0.24)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978868865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:58:54 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($15.93 in chips) 
+Seat 2: zebaztravez ($10.25 in chips) 
+Seat 3: Tàgzz ($10.73 in chips) 
+Seat 4: sobiesksquad ($16.85 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.44 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Tàgzz: folds 
+sobiesksquad: folds 
+0TheMouse0: folds 
+sobiesksquad leaves the table
+alex_kz_1989: folds 
+yYanniky: raises $0.20 to $0.30
+DailyWarge joins the table at seat #4 
+zebaztravez: calls $0.20
+*** FLOP *** [Kc Qc 4d]
+yYanniky: bets $0.21
+zebaztravez: calls $0.21
+*** TURN *** [Kc Qc 4d] [6c]
+yYanniky: checks 
+zebaztravez: checks 
+*** RIVER *** [Kc Qc 4d 6c] [7h]
+yYanniky: bets $1
+zebaztravez: folds 
+Uncalled bet ($1) returned to yYanniky
+yYanniky collected $0.97 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.05 
+Board [Kc Qc 4d 6c 7h]
+Seat 1: yYanniky (small blind) collected ($0.97)
+Seat 2: zebaztravez (big blind) folded on the River
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: sobiesksquad folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978890403:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:59:42 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.39 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.73 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.44 in chips) 
+zebaztravez: posts small blind $0.05
+Tàgzz: posts big blind $0.10
+DailyWarge: sits out 
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: raises $0.20 to $0.30
+Tàgzz: raises $0.60 to $0.90
+zebaztravez: folds 
+Uncalled bet ($0.60) returned to Tàgzz
+Tàgzz collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Tàgzz (big blind) collected ($0.60)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978905262:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:00:14 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.39 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($11.03 in chips) 
+Seat 4: DailyWarge ($5 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.44 in chips) 
+Tàgzz: posts small blind $0.05
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: calls $0.25
+yYanniky: folds 
+zebaztravez: folds 
+Tàgzz: folds 
+DailyWarge: calls $0.15
+*** FLOP *** [7s 6c 3h]
+DailyWarge: bets $0.20
+0TheMouse0: folds 
+alex_kz_1989: calls $0.20
+*** TURN *** [7s 6c 3h] [7c]
+DailyWarge: checks 
+alex_kz_1989: bets $0.58
+DailyWarge: folds 
+Uncalled bet ($0.58) returned to alex_kz_1989
+alex_kz_1989 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [7s 6c 3h 7c]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Tàgzz (small blind) folded before Flop
+Seat 4: DailyWarge (big blind) folded on the Turn
+Seat 5: 0TheMouse0 folded on the Flop
+Seat 6: alex_kz_1989 collected ($1.15)
+
+
+
+PokerStars Hand #222978931973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:01:07 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($16.39 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.98 in chips) 
+Seat 4: DailyWarge ($4.55 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.14 in chips) 
+DailyWarge: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: raises $0.55 to $0.80
+zebaztravez: folds 
+Tàgzz: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.55) returned to yYanniky
+yYanniky collected $0.65 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: yYanniky collected ($0.65)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz (button) folded before Flop (didn't bet)
+Seat 4: DailyWarge (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop
+
+
+
+PokerStars Hand #222978940687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:01:23 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.79 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.98 in chips) 
+Seat 4: DailyWarge ($4.50 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.89 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Tàgzz: folds 
+DailyWarge: raises $0.30 to $0.40
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.30) returned to DailyWarge
+DailyWarge collected $0.25 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: DailyWarge (button) collected ($0.25)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978954071:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:01:47 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.79 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.98 in chips) 
+Seat 4: DailyWarge ($4.65 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.79 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Tàgzz: folds 
+DailyWarge: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: checks 
+*** FLOP *** [8c Ad 3h]
+yYanniky: checks 
+DailyWarge: bets $0.20
+yYanniky: folds 
+Uncalled bet ($0.20) returned to DailyWarge
+DailyWarge collected $0.24 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8c Ad 3h]
+Seat 1: yYanniky (big blind) folded on the Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: DailyWarge collected ($0.24)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978968375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:02:11 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.69 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.98 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.74 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Tàgzz: folds 
+DailyWarge: folds 
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.15) returned to 0TheMouse0
+0TheMouse0 collected $0.25 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 collected ($0.25)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978976413:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:02:25 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.64 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.98 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.74 in chips) 
+zebaztravez: posts small blind $0.05
+Tàgzz: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: folds 
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Tàgzz: folds 
+Uncalled bet ($0.15) returned to 0TheMouse0
+0TheMouse0 collected $0.25 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Tàgzz (big blind) folded before Flop
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 collected ($0.25)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978992843:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:02:53 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.64 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.88 in chips) 
+Seat 5: 0TheMouse0 ($10.30 in chips) 
+Seat 6: alex_kz_1989 ($10.74 in chips) 
+Tàgzz: posts small blind $0.05
+DailyWarge has timed out
+DailyWarge: is sitting out 
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: raises $0.15 to $0.25
+DailyWarge is disconnected 
+yYanniky: folds 
+zebaztravez: folds 
+Tàgzz: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.15) returned to alex_kz_1989
+alex_kz_1989 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Tàgzz (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 collected ($0.25)
+
+
+
+PokerStars Hand #222979007360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:03:18 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($16.64 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.83 in chips) 
+Seat 5: 0TheMouse0 ($10.20 in chips) 
+Seat 6: alex_kz_1989 ($10.89 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Tàgzz: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.05) returned to alex_kz_1989
+alex_kz_1989 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Tàgzz (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222979011179:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:03:25 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.64 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($10.83 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.94 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: raises $0.20 to $0.30
+Tàgzz: raises $0.60 to $0.90
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.60) returned to Tàgzz
+Tàgzz collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez folded before Flop
+Seat 3: Tàgzz collected ($0.75)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979027574:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:03:53 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.54 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Tàgzz ($11.28 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.89 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+DailyWarge: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Tàgzz: folds 
+DailyWarge: raises $0.20 to $0.30
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.20) returned to DailyWarge
+DailyWarge collected $0.30 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Tàgzz folded before Flop (didn't bet)
+Seat 4: DailyWarge collected ($0.30)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979039570:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:14 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.49 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: DailyWarge ($4.94 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.89 in chips) 
+zebaztravez: posts small blind $0.05
+Tàgzz: is sitting out 
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+zebaztravez: raises $0.75 to $1
+DailyWarge: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.75) returned to zebaztravez
+zebaztravez collected $0.60 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) collected ($0.60)
+Seat 4: DailyWarge (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop
+
+
+
+PokerStars Hand #222979049123:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:31 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.49 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.84 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.64 in chips) 
+DailyWarge: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+DailyWarge: folds 
+Uncalled bet ($0.05) returned to 0TheMouse0
+0TheMouse0 collected $0.10 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 4: DailyWarge (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) collected ($0.10)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979053925:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:39 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.49 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10.20 in chips) 
+Seat 6: alex_kz_1989 ($10.64 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: raises $0.17 to $0.27
+zebaztravez: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.17) returned to yYanniky
+yYanniky collected $0.25 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky collected ($0.25)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 4: DailyWarge (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979060269:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:04:50 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.64 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.54 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: raises $0.20 to $0.30
+DailyWarge: folds 
+0TheMouse0: folds 
+Tàgzz leaves the table
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.20) returned to zebaztravez
+zebaztravez collected $0.25 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez collected ($0.25)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979078088:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:05:08 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.54 in chips) 
+Seat 2: zebaztravez ($10.50 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.49 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.15) returned to alex_kz_1989
+alex_kz_1989 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222979087134:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:05:23 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.49 in chips) 
+Seat 2: zebaztravez ($10.40 in chips) 
+Seat 4: DailyWarge ($4.79 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.64 in chips) 
+zebaztravez: posts small blind $0.05
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: raises $0.55 to $0.80
+zebaztravez: folds 
+DailyWarge: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.55) returned to yYanniky
+yYanniky collected $0.65 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: yYanniky (button) collected ($0.65)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 4: DailyWarge (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop
+
+
+
+PokerStars Hand #222979096513:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:05:39 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.69 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+DailyWarge: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+zebaztravez: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.15) returned to alex_kz_1989
+alex_kz_1989 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 4: DailyWarge (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 collected ($0.25)
+
+
+
+PokerStars Hand #222979102769:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:05:50 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.64 in chips) 
+Seat 5: 0TheMouse0 ($10.05 in chips) 
+Seat 6: alex_kz_1989 ($10.54 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+DailyWarge has timed out
+DailyWarge: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.05) returned to alex_kz_1989
+alex_kz_1989 collected $0.10 from pot
+DailyWarge is disconnected 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 4: DailyWarge (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222979118269:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:06:17 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.59 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.05) returned to yYanniky
+yYanniky collected $0.10 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (big blind) collected ($0.10)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979123611:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:06:26 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.94 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.54 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.05) returned to zebaztravez
+zebaztravez collected $0.10 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($0.10)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979133134:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:06:42 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.40 in chips) 
+Seat 4: DailyWarge ($4.64 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.54 in chips) 
+zebaztravez: posts small blind $0.05
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.05) returned to DailyWarge
+DailyWarge collected $0.10 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 4: DailyWarge (big blind) collected ($0.10)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979142737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:06:59 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.69 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.54 in chips) 
+DailyWarge: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+DailyWarge: folds 
+Uncalled bet ($0.05) returned to 0TheMouse0
+0TheMouse0 collected $0.10 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 4: DailyWarge (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) collected ($0.10)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979149148:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:07:10 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.64 in chips) 
+Seat 5: 0TheMouse0 ($10.05 in chips) 
+Seat 6: alex_kz_1989 ($10.54 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+DailyWarge: folds 
+0TheMouse0: raises $0.20 to $0.30
+alex_kz_1989: folds 
+Uncalled bet ($0.20) returned to 0TheMouse0
+0TheMouse0 collected $0.20 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 4: DailyWarge (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) collected ($0.20)
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979165966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:07:23 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.64 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.44 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.05) returned to yYanniky
+yYanniky collected $0.10 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (big blind) collected ($0.10)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979171260:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:07:32 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.94 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 4: DailyWarge ($4.64 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+yYanniky: posts small blind $0.05
+WillyRegs joins the table at seat #3 
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.05) returned to zebaztravez
+zebaztravez collected $0.10 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($0.10)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979180410:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:07:49 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.40 in chips) 
+Seat 3: WillyRegs ($10 in chips) 
+Seat 4: DailyWarge ($4.64 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+zebaztravez: posts small blind $0.05
+WillyRegs: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: checks 
+*** FLOP *** [4h 3d 2d]
+WillyRegs: checks 
+DailyWarge: bets $0.20
+WillyRegs: folds 
+Uncalled bet ($0.20) returned to DailyWarge
+DailyWarge collected $0.24 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4h 3d 2d]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: WillyRegs (big blind) folded on the Flop
+Seat 4: DailyWarge collected ($0.24)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979200631:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:08:25 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.35 in chips) 
+Seat 3: WillyRegs ($9.90 in chips) 
+Seat 4: DailyWarge ($4.78 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+WillyRegs: posts small blind $0.05
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: raises $0.15 to $0.25
+WillyRegs: calls $0.20
+DailyWarge: calls $0.15
+*** FLOP *** [Kc Ad 4c]
+WillyRegs: checks 
+DailyWarge: checks 
+zebaztravez: checks 
+*** TURN *** [Kc Ad 4c] [2h]
+WillyRegs: checks 
+DailyWarge: bets $0.20
+zebaztravez: folds 
+WillyRegs: calls $0.20
+*** RIVER *** [Kc Ad 4c 2h] [Kd]
+WillyRegs: bets $0.30
+DailyWarge: raises $0.80 to $1.10
+WillyRegs: folds 
+Uncalled bet ($0.80) returned to DailyWarge
+DailyWarge collected $1.67 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Kc Ad 4c 2h Kd]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded on the Turn
+Seat 3: WillyRegs (small blind) folded on the River
+Seat 4: DailyWarge (big blind) collected ($1.67)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979239759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:09:34 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.10 in chips) 
+Seat 3: WillyRegs ($9.15 in chips) 
+Seat 4: DailyWarge ($5.70 in chips) 
+Seat 5: 0TheMouse0 ($10.15 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+DailyWarge: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky has timed out
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: folds 
+DailyWarge: raises $0.10 to $0.20
+0TheMouse0: raises $0.55 to $0.75
+DailyWarge: calls $0.55
+*** FLOP *** [Ts Js 7h]
+DailyWarge: checks 
+0TheMouse0: bets $0.72
+DailyWarge: folds 
+Uncalled bet ($0.72) returned to 0TheMouse0
+0TheMouse0 collected $1.43 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Ts Js 7h]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: WillyRegs (button) folded before Flop (didn't bet)
+Seat 4: DailyWarge (small blind) folded on the Flop
+Seat 5: 0TheMouse0 (big blind) collected ($1.43)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979274195:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:10:36 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.10 in chips) 
+Seat 3: WillyRegs ($9.15 in chips) 
+Seat 4: DailyWarge ($4.95 in chips) 
+Seat 5: 0TheMouse0 ($10.83 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.05) returned to alex_kz_1989
+alex_kz_1989 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: WillyRegs folded before Flop (didn't bet)
+Seat 4: DailyWarge (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222979282729:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:10:51 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.89 in chips) 
+Seat 2: zebaztravez ($10.10 in chips) 
+Seat 3: WillyRegs ($9.15 in chips) 
+Seat 4: DailyWarge ($4.95 in chips) 
+Seat 5: 0TheMouse0 ($10.78 in chips) 
+Seat 6: alex_kz_1989 ($10.44 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+WillyRegs: folds 
+DailyWarge: raises $0.40 to $0.50
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.40) returned to DailyWarge
+DailyWarge collected $0.25 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: WillyRegs folded before Flop (didn't bet)
+Seat 4: DailyWarge collected ($0.25)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979294558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:11:11 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.79 in chips) 
+Seat 2: zebaztravez ($10.10 in chips) 
+Seat 3: WillyRegs ($9.15 in chips) 
+Seat 4: DailyWarge ($5.10 in chips) 
+Seat 5: 0TheMouse0 ($10.78 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+WillyRegs: calls $0.10
+DailyWarge: folds 
+0TheMouse0: raises $0.35 to $0.45
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: calls $0.35
+*** FLOP *** [2c 8d 7s]
+WillyRegs: checks 
+0TheMouse0: checks 
+*** TURN *** [2c 8d 7s] [Th]
+WillyRegs: checks 
+0TheMouse0: checks 
+*** RIVER *** [2c 8d 7s Th] [3s]
+WillyRegs: checks 
+0TheMouse0: checks 
+*** SHOW DOWN ***
+WillyRegs: shows [6h 5h] (high card Ten)
+0TheMouse0: shows [Qh Ah] (high card Ace)
+0TheMouse0 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [2c 8d 7s Th 3s]
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: WillyRegs showed [6h 5h] and lost with high card Ten
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 showed [Qh Ah] and won ($1) with high card Ace
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979330340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:12:15 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.74 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($8.70 in chips) 
+Seat 4: DailyWarge ($5.10 in chips) 
+Seat 5: 0TheMouse0 ($11.33 in chips) 
+Seat 6: alex_kz_1989 ($10.39 in chips) 
+zebaztravez: posts small blind $0.05
+WillyRegs: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: calls $0.15
+*** FLOP *** [Jh Th Td]
+WillyRegs: checks 
+alex_kz_1989: bets $0.20
+WillyRegs: calls $0.20
+*** TURN *** [Jh Th Td] [6c]
+WillyRegs: bets $0.30
+alex_kz_1989: calls $0.30
+*** RIVER *** [Jh Th Td 6c] [2c]
+WillyRegs: bets $2
+alex_kz_1989: folds 
+Uncalled bet ($2) returned to WillyRegs
+WillyRegs collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [Jh Th Td 6c 2c]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: WillyRegs (big blind) collected ($1.48)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded on the River
+
+
+
+PokerStars Hand #222979359380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:13:08 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.74 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($9.43 in chips) 
+Seat 4: DailyWarge ($5.10 in chips) 
+Seat 5: 0TheMouse0 ($11.33 in chips) 
+Seat 6: alex_kz_1989 ($10 in chips) 
+WillyRegs: posts small blind $0.05
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: folds 
+DailyWarge: raises $0.35 to $0.60
+0TheMouse0: calls $0.35
+*** FLOP *** [Qc 4h 7d]
+DailyWarge: bets $0.50
+0TheMouse0: calls $0.50
+*** TURN *** [Qc 4h 7d] [6c]
+DailyWarge: checks 
+0TheMouse0: bets $1.08
+DailyWarge: folds 
+Uncalled bet ($1.08) returned to 0TheMouse0
+0TheMouse0 collected $2.15 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Qc 4h 7d 6c]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: WillyRegs (small blind) folded before Flop
+Seat 4: DailyWarge (big blind) folded on the Turn
+Seat 5: 0TheMouse0 collected ($2.15)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979376520:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:13:38 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($16.74 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($9.38 in chips) 
+Seat 4: DailyWarge ($4 in chips) 
+Seat 5: 0TheMouse0 ($12.38 in chips) 
+Seat 6: alex_kz_1989 ($10 in chips) 
+DailyWarge: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: calls $0.10
+DailyWarge: raises $0.20 to $0.30
+0TheMouse0: folds 
+WillyRegs: calls $0.20
+*** FLOP *** [Js Qc Jd]
+DailyWarge: checks 
+WillyRegs: checks 
+*** TURN *** [Js Qc Jd] [5h]
+DailyWarge: checks 
+WillyRegs: bets $0.20
+DailyWarge: calls $0.20
+*** RIVER *** [Js Qc Jd 5h] [Ah]
+DailyWarge: bets $1.50
+WillyRegs: raises $4.40 to $5.90
+DailyWarge: calls $2 and is all-in
+Uncalled bet ($2.40) returned to WillyRegs
+*** SHOW DOWN ***
+WillyRegs: shows [Jh Td] (three of a kind, Jacks)
+DailyWarge: shows [Tc Kh] (a straight, Ten to Ace)
+DailyWarge collected $7.74 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.36 
+Board [Js Qc Jd 5h Ah]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: WillyRegs (button) showed [Jh Td] and lost with three of a kind, Jacks
+Seat 4: DailyWarge (small blind) showed [Tc Kh] and won ($7.74) with a straight, Ten to Ace
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979423421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:15:04 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.74 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($5.38 in chips) 
+Seat 4: DailyWarge ($7.74 in chips) 
+Seat 5: 0TheMouse0 ($12.28 in chips) 
+Seat 6: alex_kz_1989 ($10 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: raises $0.17 to $0.27
+zebaztravez: folds 
+WillyRegs: calls $0.27
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: raises $0.93 to $1.20
+yYanniky: folds 
+WillyRegs: calls $0.93
+*** FLOP *** [3s 8s 7h]
+alex_kz_1989: bets $1.50
+WillyRegs: folds 
+Uncalled bet ($1.50) returned to alex_kz_1989
+alex_kz_1989 collected $2.60 from pot
+*** SUMMARY ***
+Total pot $2.72 | Rake $0.12 
+Board [3s 8s 7h]
+Seat 1: yYanniky folded before Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: WillyRegs folded on the Flop
+Seat 4: DailyWarge (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) collected ($2.60)
+
+
+
+PokerStars Hand #222979447605:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:15:48 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.47 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($4.18 in chips) 
+Seat 4: DailyWarge ($7.74 in chips) 
+Seat 5: 0TheMouse0 ($12.23 in chips) 
+Seat 6: alex_kz_1989 ($11.40 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+WillyRegs: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.05) returned to yYanniky
+yYanniky collected $0.10 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (big blind) collected ($0.10)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: WillyRegs folded before Flop (didn't bet)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979455138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:16:01 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.52 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($4.18 in chips) 
+Seat 4: DailyWarge ($7.74 in chips) 
+Seat 5: 0TheMouse0 ($12.23 in chips) 
+Seat 6: alex_kz_1989 ($11.35 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+WillyRegs: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.05) returned to zebaztravez
+zebaztravez collected $0.10 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($0.10)
+Seat 3: WillyRegs folded before Flop (didn't bet)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979461160:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:16:12 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.47 in chips) 
+Seat 2: zebaztravez ($10.05 in chips) 
+Seat 3: WillyRegs ($4.18 in chips) 
+Seat 4: DailyWarge ($7.74 in chips) 
+Seat 5: 0TheMouse0 ($12.23 in chips) 
+Seat 6: alex_kz_1989 ($11.35 in chips) 
+zebaztravez: posts small blind $0.05
+WillyRegs: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.05) returned to WillyRegs
+WillyRegs collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: WillyRegs (big blind) collected ($0.10)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979471832:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:16:32 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($16.47 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: WillyRegs ($4.23 in chips) 
+Seat 4: DailyWarge ($7.74 in chips) 
+Seat 5: 0TheMouse0 ($12.23 in chips) 
+Seat 6: alex_kz_1989 ($11.35 in chips) 
+WillyRegs: posts small blind $0.05
+DailyWarge: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+WillyRegs: folds 
+DailyWarge: calls $0.15
+*** FLOP *** [3c 4d 4s]
+DailyWarge: bets $0.30
+0TheMouse0: raises $0.75 to $1.05
+DailyWarge: calls $0.75
+*** TURN *** [3c 4d 4s] [6d]
+DailyWarge: checks 
+0TheMouse0: bets $1.77
+DailyWarge: raises $4.67 to $6.44 and is all-in
+WillyRegs leaves the table
+0TheMouse0: folds 
+Uncalled bet ($4.67) returned to DailyWarge
+DailyWarge collected $5.91 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.19 | Rake $0.28 
+Board [3c 4d 4s 6d]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: WillyRegs (small blind) folded before Flop
+Seat 4: DailyWarge (big blind) collected ($5.91)
+Seat 5: 0TheMouse0 folded on the Turn
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979515101:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:17:51 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($16.47 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: DailyWarge ($10.58 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.35 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: raises $0.17 to $0.27
+zebaztravez: folds 
+DailyWarge: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.17) returned to yYanniky
+yYanniky collected $0.25 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky collected ($0.25)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 4: DailyWarge (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979521633:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:18:03 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($16.62 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: DailyWarge ($10.58 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.25 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+DailyWarge: folds 
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: calls $0.15
+*** FLOP *** [4c Jh 8h]
+yYanniky: checks 
+0TheMouse0: checks 
+*** TURN *** [4c Jh 8h] [8d]
+yYanniky: bets $0.20
+0TheMouse0: folds 
+Uncalled bet ($0.20) returned to yYanniky
+yYanniky collected $0.53 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4c Jh 8h 8d]
+Seat 1: yYanniky (big blind) collected ($0.53)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded on the Turn
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979535293:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:18:28 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($16.90 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 4: DailyWarge ($10.58 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.20 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: raises $0.10 to $0.20
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22 joins the table at seat #3 
+zebaztravez: folds 
+Uncalled bet ($0.10) returned to DailyWarge
+DailyWarge collected $0.25 from pot
+DailyWarge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 4: DailyWarge collected ($0.25)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979545997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:18:48 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($16.85 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($10 in chips) 
+Seat 4: DailyWarge ($10.73 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.20 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+DailyWarge: folds 
+0TheMouse0: folds 
+DailyWarge leaves the table
+alex_kz_1989: folds 
+yYanniky: raises $0.15 to $0.25
+zebaztravez: folds 
+roandogs joins the table at seat #4 
+Do-Man22: calls $0.15
+*** FLOP *** [2d Ks Th]
+Do-Man22: checks 
+yYanniky: bets $0.25
+Do-Man22: folds 
+Uncalled bet ($0.25) returned to yYanniky
+yYanniky collected $0.53 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2d Ks Th]
+Seat 1: yYanniky (button) collected ($0.53)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) folded on the Flop
+Seat 4: DailyWarge folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979569364:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:19:32 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($17.13 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($9.75 in chips) 
+Seat 4: roandogs ($4.65 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.20 in chips) 
+Do-Man22: posts small blind $0.05
+roandogs: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: raises $0.15 to $0.25
+zebaztravez: folds 
+Do-Man22: calls $0.20
+roandogs: calls $0.15
+*** FLOP *** [9h 4h 5c]
+Do-Man22: checks 
+roandogs: checks 
+yYanniky: bets $0.27
+Do-Man22: calls $0.27
+roandogs: calls $0.27
+*** TURN *** [9h 4h 5c] [Ah]
+Do-Man22: checks 
+roandogs: checks 
+yYanniky: checks 
+*** RIVER *** [9h 4h 5c Ah] [7s]
+Do-Man22: checks 
+roandogs: checks 
+yYanniky: bets $1
+Do-Man22: folds 
+roandogs: folds 
+Uncalled bet ($1) returned to yYanniky
+yYanniky collected $1.49 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [9h 4h 5c Ah 7s]
+Seat 1: yYanniky collected ($1.49)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded on the River
+Seat 4: roandogs (big blind) folded on the River
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979598770:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:20:26 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($18.10 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($9.23 in chips) 
+Seat 4: roandogs ($4.13 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.20 in chips) 
+roandogs: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: raises $0.17 to $0.27
+zebaztravez: folds 
+Do-Man22: folds 
+roandogs: folds 
+0TheMouse0: raises $0.88 to $1.15
+yYanniky: raises $1.95 to $3.10
+0TheMouse0: folds 
+Uncalled bet ($1.95) returned to yYanniky
+yYanniky collected $2.35 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: yYanniky collected ($2.35)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) folded before Flop (didn't bet)
+Seat 4: roandogs (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979615687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:20:58 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($19.30 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($9.23 in chips) 
+Seat 4: roandogs ($4.08 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.20 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: folds 
+roandogs: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: checks 
+*** FLOP *** [8s Ac Jd]
+alex_kz_1989: checks 
+roandogs: checks 
+*** TURN *** [8s Ac Jd] [Td]
+alex_kz_1989: checks 
+roandogs: checks 
+*** RIVER *** [8s Ac Jd Td] [6c]
+alex_kz_1989: checks 
+roandogs: checks 
+*** SHOW DOWN ***
+alex_kz_1989: shows [4c 7h] (high card Ace)
+roandogs: shows [8c Kc] (a pair of Eights)
+roandogs collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8s Ac Jd Td 6c]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: roandogs (button) showed [8c Kc] and won ($0.24) with a pair of Eights
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) showed [4c 7h] and lost with high card Ace
+
+
+
+PokerStars Hand #222979639722:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:21:43 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($19.30 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($9.23 in chips) 
+Seat 4: roandogs ($4.22 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.10 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22: folds 
+roandogs: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: checks 
+*** FLOP *** [8d Kh Kd]
+yYanniky: checks 
+roandogs: checks 
+*** TURN *** [8d Kh Kd] [Qs]
+yYanniky: bets $0.12
+roandogs: folds 
+Uncalled bet ($0.12) returned to yYanniky
+yYanniky collected $0.24 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d Kh Kd Qs]
+Seat 1: yYanniky (big blind) collected ($0.24)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: roandogs folded on the Turn
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979658503:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:22:18 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($19.44 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($9.23 in chips) 
+Seat 4: roandogs ($4.12 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: folds 
+roandogs: calls $0.10
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: calls $0.05
+zebaztravez: checks 
+*** FLOP *** [Tc 4h 7s]
+yYanniky: checks 
+zebaztravez: checks 
+roandogs: bets $0.14
+yYanniky: folds 
+zebaztravez: calls $0.14
+*** TURN *** [Tc 4h 7s] [7h]
+zebaztravez: checks 
+roandogs: bets $0.27
+zebaztravez: folds 
+Uncalled bet ($0.27) returned to roandogs
+roandogs collected $0.55 from pot
+roandogs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.03 
+Board [Tc 4h 7s 7h]
+Seat 1: yYanniky (small blind) folded on the Flop
+Seat 2: zebaztravez (big blind) folded on the Turn
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: roandogs collected ($0.55)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979692295:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:23:22 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($19.34 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($9.23 in chips) 
+Seat 4: roandogs ($4.43 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+roandogs: folds 
+0TheMouse0: raises $0.15 to $0.25
+roandogs leaves the table
+pudge.3096 joins the table at seat #4 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: calls $0.15
+*** FLOP *** [7h 8d 3h]
+Do-Man22: checks 
+0TheMouse0: bets $0.37
+Do-Man22: folds 
+Uncalled bet ($0.37) returned to 0TheMouse0
+0TheMouse0 collected $0.53 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [7h 8d 3h]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) folded on the Flop
+Seat 4: roandogs folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 collected ($0.53)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979712552:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:24:00 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($19.34 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($8.98 in chips) 
+Seat 4: pudge.3096 ($10 in chips) 
+Seat 5: 0TheMouse0 ($10.28 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.40 to $0.50
+pudge.3096: calls $0.40
+*** FLOP *** [4c Jc Qs]
+Do-Man22: bets $0.48
+pudge.3096: calls $0.48
+*** TURN *** [4c Jc Qs] [Ah]
+Do-Man22: bets $1.50
+pudge.3096: raises $3 to $4.50
+Do-Man22: calls $3
+*** RIVER *** [4c Jc Qs Ah] [As]
+Do-Man22: checks 
+pudge.3096: bets $4.52 and is all-in
+Do-Man22: folds 
+Uncalled bet ($4.52) returned to pudge.3096
+pudge.3096 collected $10.47 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.96 | Rake $0.49 
+Board [4c Jc Qs Ah As]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded on the River
+Seat 4: pudge.3096 (big blind) collected ($10.47)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979741498:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:24:55 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($19.34 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($4.52 in chips) 
+Seat 4: pudge.3096 ($14.99 in chips) 
+Seat 5: 0TheMouse0 ($10.28 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $4.42 to $4.52 and is all-in
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($4.42) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) collected ($0.25)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979749622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:25:10 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($19.34 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($10 in chips) 
+Seat 4: pudge.3096 ($14.94 in chips) 
+Seat 5: 0TheMouse0 ($10.18 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.60 to $0.70
+pudge.3096: folds 
+0TheMouse0: raises $1.10 to $1.80
+alex_kz_1989: folds 
+Do-Man22: calls $1.10
+*** FLOP *** [5c Ad 9h]
+0TheMouse0: checks 
+Do-Man22: checks 
+*** TURN *** [5c Ad 9h] [6s]
+0TheMouse0: bets $1.16
+Do-Man22: calls $1.16
+*** RIVER *** [5c Ad 9h 6s] [As]
+0TheMouse0: bets $2.88
+Do-Man22: folds 
+Uncalled bet ($2.88) returned to 0TheMouse0
+0TheMouse0 collected $5.75 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.02 | Rake $0.27 
+Board [5c Ad 9h 6s As]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded on the River
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) collected ($5.75)
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979778921:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:26:06 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($19.34 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($7.04 in chips) 
+Seat 4: pudge.3096 ($14.94 in chips) 
+Seat 5: 0TheMouse0 ($12.97 in chips) 
+Seat 6: alex_kz_1989 ($10.95 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22: raises $0.70 to $0.80
+pudge.3096: calls $0.80
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+*** FLOP *** [Jd 2d 4h]
+Do-Man22: bets $0.84
+pudge.3096: folds 
+Uncalled bet ($0.84) returned to Do-Man22
+Do-Man22 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Jd 2d 4h]
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 collected ($1.67)
+Seat 4: pudge.3096 folded on the Flop
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979791480:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:26:30 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($19.24 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($10 in chips) 
+Seat 4: pudge.3096 ($14.14 in chips) 
+Seat 5: 0TheMouse0 ($12.97 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.70 to $0.80
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.70) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979798267:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:26:42 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($19.19 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($10.15 in chips) 
+Seat 4: pudge.3096 ($14.14 in chips) 
+Seat 5: 0TheMouse0 ($12.97 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: raises $0.20 to $0.30
+Do-Man22: raises $0.90 to $1.20
+zebaztravez: raises $1.80 to $3
+Do-Man22: calls $1.80
+*** FLOP *** [Jc 5s As]
+zebaztravez: checks 
+Do-Man22: bets $2
+zebaztravez: folds 
+Uncalled bet ($2) returned to Do-Man22
+Do-Man22 collected $5.73 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.27 
+Board [Jc 5s As]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded on the Flop
+Seat 3: Do-Man22 (big blind) collected ($5.73)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979828990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:27:36 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($19.19 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($12.88 in chips) 
+Seat 4: pudge.3096 ($14.14 in chips) 
+Seat 5: 0TheMouse0 ($12.97 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.40 to $0.50
+pudge.3096: folds 
+Uncalled bet ($0.40) returned to Do-Man22
+Do-Man22 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) collected ($0.20)
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979835063:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:27:47 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($19.19 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($12.98 in chips) 
+Seat 4: pudge.3096 ($14.04 in chips) 
+Seat 5: 0TheMouse0 ($12.97 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.30) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) collected ($0.25)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979844122:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:05 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($19.19 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($13.13 in chips) 
+Seat 4: pudge.3096 ($13.99 in chips) 
+Seat 5: 0TheMouse0 ($12.87 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.05) returned to alex_kz_1989
+alex_kz_1989 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222979849546:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:15 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($19.19 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($13.13 in chips) 
+Seat 4: pudge.3096 ($13.99 in chips) 
+Seat 5: 0TheMouse0 ($12.82 in chips) 
+Seat 6: alex_kz_1989 ($10.95 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.30) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979861305:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:28:38 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($19.09 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($13.28 in chips) 
+Seat 4: pudge.3096 ($13.99 in chips) 
+Seat 5: 0TheMouse0 ($12.82 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: calls $0.10
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: checks 
+*** FLOP *** [5h 4d 8d]
+zebaztravez: checks 
+Do-Man22: checks 
+*** TURN *** [5h 4d 8d] [As]
+zebaztravez: checks 
+Do-Man22: checks 
+*** RIVER *** [5h 4d 8d As] [2h]
+zebaztravez: bets $0.18
+Do-Man22: folds 
+Uncalled bet ($0.18) returned to zebaztravez
+zebaztravez collected $0.24 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h 4d 8d As 2h]
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($0.24)
+Seat 3: Do-Man22 folded on the River
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979876423:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:06 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($19.04 in chips) 
+Seat 2: zebaztravez ($10.14 in chips) 
+Seat 3: Do-Man22 ($13.18 in chips) 
+Seat 4: pudge.3096 ($13.99 in chips) 
+Seat 5: 0TheMouse0 ($12.82 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: raises $0.20 to $0.30
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: calls $0.20
+*** FLOP *** [As 8d 3h]
+Do-Man22: checks 
+pudge.3096: checks 
+*** TURN *** [As 8d 3h] [2s]
+Do-Man22: bets $0.30
+pudge.3096: folds 
+Uncalled bet ($0.30) returned to Do-Man22
+Do-Man22 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [As 8d 3h 2s]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) collected ($0.62)
+Seat 4: pudge.3096 folded on the Turn
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979897141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:29:46 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($19.04 in chips) 
+Seat 2: zebaztravez ($10.09 in chips) 
+Seat 3: Do-Man22 ($13.50 in chips) 
+Seat 4: pudge.3096 ($13.69 in chips) 
+Seat 5: 0TheMouse0 ($12.82 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: raises $0.15 to $0.25
+zebaztravez: folds 
+Do-Man22: calls $0.20
+pudge.3096: folds 
+*** FLOP *** [Td 4d Jc]
+Do-Man22: bets $0.20
+yYanniky: raises $0.64 to $0.84
+Do-Man22: folds 
+Uncalled bet ($0.64) returned to yYanniky
+yYanniky collected $0.96 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Td 4d Jc]
+Seat 1: yYanniky collected ($0.96)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded on the Flop
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979919403:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:30:29 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($19.55 in chips) 
+Seat 2: zebaztravez ($10.09 in chips) 
+Seat 3: Do-Man22 ($13.05 in chips) 
+Seat 4: pudge.3096 ($13.59 in chips) 
+Seat 5: 0TheMouse0 ($12.82 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.20 to $0.30
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.20) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) collected ($0.25)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979925337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:30:40 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($19.55 in chips) 
+Seat 2: zebaztravez ($10.09 in chips) 
+Seat 3: Do-Man22 ($13.20 in chips) 
+Seat 4: pudge.3096 ($13.54 in chips) 
+Seat 5: 0TheMouse0 ($12.72 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: raises $0.20 to $0.30
+Do-Man22: calls $0.30
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+*** FLOP *** [Kh Qs Qc]
+zebaztravez: checks 
+Do-Man22: checks 
+*** TURN *** [Kh Qs Qc] [Js]
+zebaztravez: checks 
+Do-Man22: checks 
+*** RIVER *** [Kh Qs Qc Js] [Ts]
+zebaztravez: checks 
+Do-Man22: checks 
+*** SHOW DOWN ***
+zebaztravez: shows [Kd Jh] (two pair, Kings and Queens)
+Do-Man22: mucks hand 
+zebaztravez collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kh Qs Qc Js Ts]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez showed [Kd Jh] and won ($0.72) with two pair, Kings and Queens
+Seat 3: Do-Man22 mucked
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979945067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:19 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($19.55 in chips) 
+Seat 2: zebaztravez ($10.51 in chips) 
+Seat 3: Do-Man22 ($12.90 in chips) 
+Seat 4: pudge.3096 ($13.54 in chips) 
+Seat 5: 0TheMouse0 ($12.67 in chips) 
+Seat 6: alex_kz_1989 ($10.80 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22 has timed out
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: raises $0.20 to $0.30
+yYanniky: folds 
+Uncalled bet ($0.20) returned to alex_kz_1989
+alex_kz_1989 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222979959019:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:46 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($19.45 in chips) 
+Seat 2: zebaztravez ($10.51 in chips) 
+Seat 3: Do-Man22 ($12.90 in chips) 
+Seat 4: pudge.3096 ($13.54 in chips) 
+Seat 5: 0TheMouse0 ($12.67 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.15) returned to alex_kz_1989
+alex_kz_1989 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222979965622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:31:59 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($19.40 in chips) 
+Seat 2: zebaztravez ($10.41 in chips) 
+Seat 3: Do-Man22 ($12.90 in chips) 
+Seat 4: pudge.3096 ($13.54 in chips) 
+Seat 5: 0TheMouse0 ($12.67 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: raises $0.20 to $0.30
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: calls $0.30
+zebaztravez: folds 
+Do-Man22: calls $0.20
+*** FLOP *** [Tc Jc 4s]
+Do-Man22: bets $0.40
+pudge.3096: folds 
+yYanniky: raises $0.82 to $1.22
+Do-Man22: calls $0.82
+*** TURN *** [Tc Jc 4s] [3c]
+Do-Man22: checks 
+yYanniky: bets $1.20
+Do-Man22: calls $1.20
+*** RIVER *** [Tc Jc 4s 3c] [5c]
+Do-Man22: checks 
+yYanniky: checks 
+*** SHOW DOWN ***
+Do-Man22: shows [5s Js] (two pair, Jacks and Fives)
+yYanniky: shows [Th Td] (three of a kind, Tens)
+yYanniky collected $5.53 from pot
+*** SUMMARY ***
+Total pot $5.79 | Rake $0.26 
+Board [Tc Jc 4s 3c 5c]
+Seat 1: yYanniky (button) showed [Th Td] and won ($5.53) with three of a kind, Tens
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) showed [5s Js] and lost with two pair, Jacks and Fives
+Seat 4: pudge.3096 folded on the Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979999584:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:32:49 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($22.21 in chips) 
+Seat 2: zebaztravez ($10.36 in chips) 
+Seat 3: Do-Man22 ($10.18 in chips) 
+Seat 4: pudge.3096 ($13.24 in chips) 
+Seat 5: 0TheMouse0 ($12.67 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: raises $0.15 to $0.25
+zebaztravez: folds 
+Do-Man22: folds 
+pudge.3096: folds 
+Uncalled bet ($0.15) returned to yYanniky
+yYanniky collected $0.25 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky collected ($0.25)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded before Flop
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980016116:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:33:21 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($22.36 in chips) 
+Seat 2: zebaztravez ($10.36 in chips) 
+Seat 3: Do-Man22 ($10.13 in chips) 
+Seat 4: pudge.3096 ($13.14 in chips) 
+Seat 5: 0TheMouse0 ($12.67 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: raises $0.20 to $0.30
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: calls $0.20
+*** FLOP *** [4d 8h 2s]
+0TheMouse0: checks 
+zebaztravez: bets $0.19
+0TheMouse0: calls $0.19
+*** TURN *** [4d 8h 2s] [5s]
+0TheMouse0: checks 
+zebaztravez: bets $0.80
+0TheMouse0: raises $1.81 to $2.61
+zebaztravez: raises $7.26 to $9.87 and is all-in
+0TheMouse0: calls $7.26
+*** FIRST RIVER *** [4d 8h 2s 5s] [Qs]
+*** SECOND RIVER *** [4d 8h 2s 5s] [5d]
+*** FIRST SHOW DOWN ***
+0TheMouse0: shows [6h 7h] (a straight, Four to Eight)
+zebaztravez: shows [8s Ts] (a flush, Queen high)
+zebaztravez collected $9.92 from pot
+*** SECOND SHOW DOWN ***
+0TheMouse0: shows [6h 7h] (a straight, Four to Eight)
+zebaztravez: shows [8s Ts] (two pair, Eights and Fives)
+0TheMouse0 collected $9.92 from pot
+*** SUMMARY ***
+Total pot $20.77 | Rake $0.93 
+Hand was run twice
+FIRST Board [4d 8h 2s 5s Qs]
+SECOND Board [4d 8h 2s 5s 5d]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez showed [8s Ts] and won ($9.92) with a flush, Queen high, and lost with two pair, Eights and Fives
+Seat 3: Do-Man22 (button) folded before Flop (didn't bet)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) showed [6h 7h] and lost with a straight, Four to Eight, and won ($9.92) with a straight, Four to Eight
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980051580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:34:31 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($22.36 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($10.13 in chips) 
+Seat 4: pudge.3096 ($13.09 in chips) 
+Seat 5: 0TheMouse0 ($12.23 in chips) 
+Seat 6: alex_kz_1989 ($11.05 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.30) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980065258:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:34:59 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($22.36 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($10.28 in chips) 
+Seat 4: pudge.3096 ($13.09 in chips) 
+Seat 5: 0TheMouse0 ($12.18 in chips) 
+Seat 6: alex_kz_1989 ($10.95 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22: raises $0.20 to $0.30
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: calls $0.20
+*** FLOP *** [8h 8c Kd]
+yYanniky: checks 
+Do-Man22: checks 
+*** TURN *** [8h 8c Kd] [6h]
+yYanniky: checks 
+Do-Man22: checks 
+*** RIVER *** [8h 8c Kd 6h] [Td]
+yYanniky: checks 
+Do-Man22: checks 
+*** SHOW DOWN ***
+yYanniky: shows [Qd Jd] (a pair of Eights)
+Do-Man22: mucks hand 
+yYanniky collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8h 8c Kd 6h Td]
+Seat 1: yYanniky (big blind) showed [Qd Jd] and won ($0.62) with a pair of Eights
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 mucked
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980096845:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:36:01 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($22.68 in chips) 
+Seat 3: Do-Man22 ($9.98 in chips) 
+Seat 4: pudge.3096 ($13.09 in chips) 
+Seat 5: 0TheMouse0 ($12.18 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+yYanniky: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: raises $0.20 to $0.30
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22: calls $0.20
+*** FLOP *** [5h 5s 3s]
+Do-Man22: checks 
+pudge.3096: bets $0.31
+Do-Man22: raises $0.39 to $0.70
+pudge.3096: calls $0.39
+*** TURN *** [5h 5s 3s] [Js]
+Do-Man22: bets $1.70
+pudge.3096: calls $1.70
+*** RIVER *** [5h 5s 3s Js] [4d]
+Do-Man22: checks 
+pudge.3096: checks 
+*** SHOW DOWN ***
+Do-Man22: shows [Qd 6d] (a pair of Fives)
+pudge.3096: shows [Td Ts] (two pair, Tens and Fives)
+pudge.3096 collected $5.20 from pot
+*** SUMMARY ***
+Total pot $5.45 | Rake $0.25 
+Board [5h 5s 3s Js 4d]
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) showed [Qd 6d] and lost with a pair of Fives
+Seat 4: pudge.3096 showed [Td Ts] and won ($5.20) with two pair, Tens and Fives
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980117980:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:36:43 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($22.63 in chips) 
+Seat 3: Do-Man22 ($7.28 in chips) 
+Seat 4: pudge.3096 ($15.59 in chips) 
+Seat 5: 0TheMouse0 ($12.18 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22: folds 
+pudge.3096: folds 
+Uncalled bet ($0.15) returned to 0TheMouse0
+0TheMouse0 collected $0.25 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded before Flop
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 collected ($0.25)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980132938:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:37:12 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($22.63 in chips) 
+Seat 3: Do-Man22 ($9.95 in chips) 
+Seat 4: pudge.3096 ($15.49 in chips) 
+Seat 5: 0TheMouse0 ($12.33 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22: raises $1.20 to $1.30
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($1.20) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) collected ($0.25)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980143300:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:37:33 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($22.63 in chips) 
+Seat 3: Do-Man22 ($10.10 in chips) 
+Seat 4: pudge.3096 ($15.44 in chips) 
+Seat 5: 0TheMouse0 ($12.23 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+Do-Man22: raises $0.90 to $1
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+Uncalled bet ($0.90) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980150523:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:37:47 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($22.63 in chips) 
+Seat 3: Do-Man22 ($10.25 in chips) 
+Seat 4: pudge.3096 ($15.44 in chips) 
+Seat 5: 0TheMouse0 ($12.18 in chips) 
+Seat 6: alex_kz_1989 ($10.80 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.60 to $0.70
+pudge.3096: calls $0.70
+0TheMouse0: raises $1.95 to $2.65
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22: folds 
+pudge.3096: folds 
+Uncalled bet ($1.95) returned to 0TheMouse0
+0TheMouse0 collected $2.25 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 3: Do-Man22 folded before Flop
+Seat 4: pudge.3096 folded before Flop
+Seat 5: 0TheMouse0 (button) collected ($2.25)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980161897:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:38:10 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($22.53 in chips) 
+Seat 3: Do-Man22 ($9.55 in chips) 
+Seat 4: pudge.3096 ($14.74 in chips) 
+Seat 5: 0TheMouse0 ($13.73 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+yYanniky: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: raises $0.20 to $0.30
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: raises $0.90 to $1.20
+Do-Man22: folds 
+pudge.3096: calls $0.90
+*** FLOP *** [3d Js Kc]
+yYanniky: bets $0.88
+pudge.3096: folds 
+Uncalled bet ($0.88) returned to yYanniky
+yYanniky collected $2.39 from pot
+yYanniky: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11 
+Board [3d Js Kc]
+Seat 1: yYanniky (small blind) collected ($2.39)
+Seat 3: Do-Man22 (big blind) folded before Flop
+Seat 4: pudge.3096 folded on the Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980188771:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:39:04 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($23.72 in chips) 
+Seat 3: Do-Man22 ($9.45 in chips) 
+Seat 4: pudge.3096 ($13.54 in chips) 
+Seat 5: 0TheMouse0 ($13.73 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+Uncalled bet ($0.30) returned to Do-Man22
+Do-Man22 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) collected ($0.20)
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980200454:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:39:27 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($23.72 in chips) 
+Seat 3: Do-Man22 ($9.55 in chips) 
+Seat 4: pudge.3096 ($13.44 in chips) 
+Seat 5: 0TheMouse0 ($13.73 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+Do-Man22 has timed out
+Do-Man22: folds 
+pudge.3096: raises $0.15 to $0.25
+0TheMouse0: raises $0.60 to $0.85
+pudge.3096: folds 
+Uncalled bet ($0.60) returned to 0TheMouse0
+0TheMouse0 collected $0.50 from pot
+0TheMouse0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) folded before Flop (didn't bet)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) collected ($0.50)
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980213906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:39:54 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($23.72 in chips) 
+Seat 3: Do-Man22 ($9.55 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($13.98 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: raises $0.17 to $0.27
+Do-Man22: raises $0.23 to $0.50
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: calls $0.23
+*** FLOP *** [Td 4s 9s]
+yYanniky: checks 
+Do-Man22: bets $0.55
+yYanniky: folds 
+Uncalled bet ($0.55) returned to Do-Man22
+Do-Man22 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Td 4s 9s]
+Seat 1: yYanniky folded on the Flop
+Seat 3: Do-Man22 collected ($1.10)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980232127:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:40:31 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($23.22 in chips) 
+Seat 3: Do-Man22 ($10.15 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($13.93 in chips) 
+Seat 6: alex_kz_1989 ($10.65 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22 has timed out
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: raises $0.20 to $0.30
+yYanniky: folds 
+Uncalled bet ($0.20) returned to alex_kz_1989
+alex_kz_1989 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222980246383:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:40:59 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($23.12 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($13.93 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+yYanniky: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989 has timed out
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.05) returned to pudge.3096
+pudge.3096 collected $0.10 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 4: pudge.3096 (big blind) collected ($0.10)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980259076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:41:25 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($23.07 in chips) 
+Seat 4: pudge.3096 ($13.24 in chips) 
+Seat 5: 0TheMouse0 ($13.93 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.15) returned to alex_kz_1989
+alex_kz_1989 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 collected ($0.25)
+
+
+
+PokerStars Hand #222980270491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:41:48 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($23.07 in chips) 
+Seat 3: Do-Man22 ($10.15 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($13.83 in chips) 
+Seat 6: alex_kz_1989 ($10.90 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+Do-Man22: posts small & big blinds $0.15
+*** HOLE CARDS ***
+yYanniky: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+0TheMouse0: raises $1.25 to $1.65
+alex_kz_1989: folds 
+Do-Man22: calls $1.25
+*** FLOP *** [Ts Jh 6h]
+0TheMouse0: bets $1.65
+Do-Man22: calls $1.65
+*** TURN *** [Ts Jh 6h] [5s]
+0TheMouse0: bets $10.53 and is all-in
+Do-Man22: calls $6.80 and is all-in
+Uncalled bet ($3.73) returned to 0TheMouse0
+*** RIVER *** [Ts Jh 6h 5s] [2d]
+*** SHOW DOWN ***
+0TheMouse0: shows [9c Qc] (high card Queen)
+Do-Man22: shows [As 7s] (high card Ace)
+Do-Man22 cashed out the hand for $14.86 | Cash Out Fee $0.15
+*** SUMMARY ***
+Total pot $20.35 | Rake $0.92 
+Board [Ts Jh 6h 5s 2d]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 3: Do-Man22 showed [As 7s] and won ($19.43) with high card Ace (pot not awarded as player cashed out)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) showed [9c Qc] and lost with high card Queen
+Seat 6: alex_kz_1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980288400:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:42:25 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($23.07 in chips) 
+Seat 3: Do-Man22 ($14.86 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.80 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+zebaztravez: sits out 
+*** HOLE CARDS ***
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+0TheMouse0: calls $0.40
+alex_kz_1989: folds 
+yYanniky: folds 
+*** FLOP *** [9s Kd 6s]
+Do-Man22: checks 
+0TheMouse0: checks 
+*** TURN *** [9s Kd 6s] [2s]
+Do-Man22: bets $0.40
+0TheMouse0: folds 
+Uncalled bet ($0.40) returned to Do-Man22
+Do-Man22 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9s Kd 6s 2s]
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 3: Do-Man22 collected ($0.91)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded on the Turn
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980302498:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:42:54 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($22.97 in chips) 
+Seat 2: zebaztravez ($10 in chips) 
+Seat 3: Do-Man22 ($15.37 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.50 to $0.60
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: calls $0.50
+*** FLOP *** [4s 4c Qc]
+zebaztravez: checks 
+Do-Man22: bets $0.50
+zebaztravez: raises $1.20 to $1.70
+Do-Man22: folds 
+Uncalled bet ($1.20) returned to zebaztravez
+zebaztravez collected $2.15 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4s 4c Qc]
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($2.15)
+Seat 3: Do-Man22 folded on the Flop
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980316371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:43:21 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($22.92 in chips) 
+Seat 2: zebaztravez ($11.05 in chips) 
+Seat 3: Do-Man22 ($14.27 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: calls $0.15
+*** FLOP *** [5s 8s 5d]
+Do-Man22: checks 
+0TheMouse0: checks 
+*** TURN *** [5s 8s 5d] [3d]
+Do-Man22: bets $0.60
+0TheMouse0: folds 
+Uncalled bet ($0.60) returned to Do-Man22
+Do-Man22 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5s 8s 5d 3d]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) collected ($0.53)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded on the Turn
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980330087:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:43:49 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($22.92 in chips) 
+Seat 2: zebaztravez ($11 in chips) 
+Seat 3: Do-Man22 ($14.55 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($10.75 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+alex_kz_1989: raises $0.15 to $0.25
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: calls $0.20
+pudge.3096: folds 
+*** FLOP *** [3d 3s As]
+Do-Man22: bets $0.30
+alex_kz_1989: calls $0.30
+*** TURN *** [3d 3s As] [7h]
+Do-Man22: checks 
+alex_kz_1989: bets $0.40
+Do-Man22: calls $0.40
+*** RIVER *** [3d 3s As 7h] [9c]
+Do-Man22: checks 
+alex_kz_1989: checks 
+*** SHOW DOWN ***
+Do-Man22: shows [5s 5c] (two pair, Fives and Threes)
+alex_kz_1989: shows [Jh Jd] (two pair, Jacks and Threes)
+alex_kz_1989 collected $1.91 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [3d 3s As 7h 9c]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) showed [5s 5c] and lost with two pair, Fives and Threes
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 showed [Jh Jd] and won ($1.91) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #222980346424:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:44:23 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($22.92 in chips) 
+Seat 2: zebaztravez ($11 in chips) 
+Seat 3: Do-Man22 ($13.60 in chips) 
+Seat 4: pudge.3096 ($13.09 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.71 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: folds 
+pudge.3096: raises $0.15 to $0.25
+0TheMouse0: folds 
+Uncalled bet ($0.15) returned to pudge.3096
+pudge.3096 collected $0.20 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) folded before Flop (didn't bet)
+Seat 4: pudge.3096 (small blind) collected ($0.20)
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980353550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:44:37 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($22.92 in chips) 
+Seat 2: zebaztravez ($11 in chips) 
+Seat 3: Do-Man22 ($13.60 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.71 in chips) 
+0TheMouse0: posts small blind $0.05
+alex_kz_1989: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.05) returned to alex_kz_1989
+alex_kz_1989 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: alex_kz_1989 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222980361540:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:44:54 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($22.92 in chips) 
+Seat 2: zebaztravez ($11 in chips) 
+Seat 3: Do-Man22 ($13.60 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.76 in chips) 
+alex_kz_1989: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: raises $0.20 to $0.30
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: folds 
+Uncalled bet ($0.20) returned to zebaztravez
+zebaztravez collected $0.25 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (big blind) folded before Flop
+Seat 2: zebaztravez collected ($0.25)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980371869:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:45:15 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($22.82 in chips) 
+Seat 2: zebaztravez ($11.15 in chips) 
+Seat 3: Do-Man22 ($13.60 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.71 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+alex_kz_1989: folds 
+yYanniky: raises $0.20 to $0.30
+zebaztravez: raises $0.70 to $1
+yYanniky: folds 
+Uncalled bet ($0.70) returned to zebaztravez
+zebaztravez collected $0.60 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) collected ($0.60)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: alex_kz_1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980386912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:45:45 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($22.52 in chips) 
+Seat 2: zebaztravez ($11.45 in chips) 
+Seat 3: Do-Man22 ($13.60 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($11.71 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: calls $0.25
+yYanniky: folds 
+zebaztravez: calls $0.20
+Do-Man22: calls $0.15
+*** FLOP *** [4s Jh As]
+zebaztravez: checks 
+Do-Man22: checks 
+0TheMouse0: checks 
+alex_kz_1989: checks 
+*** TURN *** [4s Jh As] [6s]
+zebaztravez: checks 
+Do-Man22: checks 
+0TheMouse0: checks 
+alex_kz_1989: bets $0.48
+zebaztravez: folds 
+Do-Man22: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.48) returned to alex_kz_1989
+alex_kz_1989 collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [4s Jh As 6s]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded on the Turn
+Seat 3: Do-Man22 (big blind) folded on the Turn
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded on the Turn
+Seat 6: alex_kz_1989 collected ($0.96)
+
+
+
+PokerStars Hand #222980414943:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:46:43 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($22.52 in chips) 
+Seat 2: zebaztravez ($11.20 in chips) 
+Seat 3: Do-Man22 ($13.35 in chips) 
+Seat 4: pudge.3096 ($13.19 in chips) 
+Seat 5: 0TheMouse0 ($10 in chips) 
+Seat 6: alex_kz_1989 ($12.42 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: raises $0.15 to $0.25
+alex_kz_1989: folds 
+yYanniky: folds 
+zebaztravez: folds 
+alex_kz_1989 leaves the table
+Do-Man22: calls $0.20
+Robmanhawha joins the table at seat #6 
+pudge.3096: calls $0.15
+*** FLOP *** [2d Tc 5h]
+Do-Man22: checks 
+pudge.3096: checks 
+0TheMouse0: bets $0.50
+Do-Man22: folds 
+pudge.3096: calls $0.50
+*** TURN *** [2d Tc 5h] [As]
+pudge.3096: checks 
+0TheMouse0: checks 
+*** RIVER *** [2d Tc 5h As] [7s]
+pudge.3096: checks 
+0TheMouse0: checks 
+*** SHOW DOWN ***
+pudge.3096: shows [6c 7c] (a pair of Sevens)
+0TheMouse0: shows [Kh Th] (a pair of Tens)
+0TheMouse0 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [2d Tc 5h As 7s]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded on the Flop
+Seat 4: pudge.3096 (big blind) showed [6c 7c] and lost with a pair of Sevens
+Seat 5: 0TheMouse0 showed [Kh Th] and won ($1.67) with a pair of Tens
+Seat 6: alex_kz_1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980470450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:48:15 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($22.52 in chips) 
+Seat 2: zebaztravez ($11.20 in chips) 
+Seat 3: Do-Man22 ($13.10 in chips) 
+Seat 4: pudge.3096 ($12.44 in chips) 
+Seat 5: 0TheMouse0 ($10.92 in chips) 
+Seat 6: Robmanhawha ($10 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+Robmanhawha: checks 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: folds 
+0TheMouse0: folds 
+Robmanhawha: folds 
+Uncalled bet ($0.30) returned to Do-Man22
+Do-Man22 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) collected ($0.35)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980483417:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:48:42 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($22.52 in chips) 
+Seat 2: zebaztravez ($11.20 in chips) 
+Seat 3: Do-Man22 ($13.35 in chips) 
+Seat 4: pudge.3096 ($12.39 in chips) 
+Seat 5: 0TheMouse0 ($10.82 in chips) 
+Seat 6: Robmanhawha ($9.90 in chips) 
+0TheMouse0: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: folds 
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.05) returned to Robmanhawha
+Robmanhawha collected $0.10 from pot
+Robmanhawha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: Robmanhawha (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222980492758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:49:01 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($22.52 in chips) 
+Seat 2: zebaztravez ($11.20 in chips) 
+Seat 3: Do-Man22 ($13.35 in chips) 
+Seat 4: pudge.3096 ($12.39 in chips) 
+Seat 5: 0TheMouse0 ($10.77 in chips) 
+Seat 6: Robmanhawha ($9.95 in chips) 
+Robmanhawha: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22: calls $0.10
+pudge.3096: folds 
+0TheMouse0: calls $0.10
+Robmanhawha: folds 
+yYanniky: checks 
+*** FLOP *** [Th Ah 5h]
+yYanniky: checks 
+Do-Man22 has timed out
+Do-Man22: checks 
+0TheMouse0: checks 
+*** TURN *** [Th Ah 5h] [2h]
+yYanniky: checks 
+Do-Man22: bets $0.33
+0TheMouse0: folds 
+yYanniky: calls $0.33
+*** RIVER *** [Th Ah 5h 2h] [Td]
+yYanniky: checks 
+Do-Man22: checks 
+*** SHOW DOWN ***
+yYanniky: shows [Qh 6d] (a flush, Ace high)
+Do-Man22: mucks hand 
+yYanniky collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.05 
+Board [Th Ah 5h 2h Td]
+Seat 1: yYanniky (big blind) showed [Qh 6d] and won ($0.96) with a flush, Ace high
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 mucked
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded on the Turn
+Seat 6: Robmanhawha (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980537766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:50:36 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($23.05 in chips) 
+Seat 2: zebaztravez ($11.20 in chips) 
+Seat 3: Do-Man22 ($12.92 in chips) 
+Seat 4: pudge.3096 ($12.39 in chips) 
+Seat 5: 0TheMouse0 ($10.67 in chips) 
+Seat 6: Robmanhawha ($9.90 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: raises $0.80 to $1.20
+0TheMouse0: folds 
+Robmanhawha: calls $1.20
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: folds 
+*** FLOP *** [7c Ad 8h]
+pudge.3096: bets $0.90
+Robmanhawha: calls $0.90
+*** TURN *** [7c Ad 8h] [Jh]
+pudge.3096: bets $3.80
+Robmanhawha: calls $3.80
+*** RIVER *** [7c Ad 8h Jh] [3d]
+pudge.3096: bets $6.49 and is all-in
+Robmanhawha: calls $4 and is all-in
+Uncalled bet ($2.49) returned to pudge.3096
+*** SHOW DOWN ***
+pudge.3096: shows [Ac Js] (two pair, Aces and Jacks)
+Robmanhawha: shows [Qs As] (a pair of Aces)
+pudge.3096 collected $19.43 from pot
+*** SUMMARY ***
+Total pot $20.35 | Rake $0.92 
+Board [7c Ad 8h Jh 3d]
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Do-Man22 folded before Flop
+Seat 4: pudge.3096 showed [Ac Js] and won ($19.43) with two pair, Aces and Jacks
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: Robmanhawha (button) showed [Qs As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #222980571948:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:51:48 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($23 in chips) 
+Seat 2: zebaztravez ($11.10 in chips) 
+Seat 3: Do-Man22 ($12.52 in chips) 
+Seat 4: pudge.3096 ($21.92 in chips) 
+Seat 5: 0TheMouse0 ($10.67 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+0TheMouse0: folds 
+yYanniky: raises $0.15 to $0.25
+zebaztravez: raises $0.75 to $1
+Do-Man22: folds 
+yYanniky: calls $0.75
+*** FLOP *** [3h 2h 6c]
+zebaztravez: bets $1.01
+yYanniky: folds 
+Uncalled bet ($1.01) returned to zebaztravez
+zebaztravez collected $2.01 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [3h 2h 6c]
+Seat 1: yYanniky (button) folded on the Flop
+Seat 2: zebaztravez (small blind) collected ($2.01)
+Seat 3: Do-Man22 (big blind) folded before Flop
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980592226:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:52:31 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($22 in chips) 
+Seat 2: zebaztravez ($12.11 in chips) 
+Seat 3: Do-Man22 ($12.42 in chips) 
+Seat 4: pudge.3096 ($21.92 in chips) 
+Seat 5: 0TheMouse0 ($10.67 in chips) 
+Seat 6: Robmanhawha ($10 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+Robmanhawha: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.60 to $0.70
+pudge.3096: folds 
+Uncalled bet ($0.60) returned to Do-Man22
+Do-Man22 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) collected ($0.20)
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980601693:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:52:51 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($22 in chips) 
+Seat 2: zebaztravez ($12.11 in chips) 
+Seat 3: Do-Man22 ($12.52 in chips) 
+Seat 4: pudge.3096 ($21.82 in chips) 
+Seat 5: 0TheMouse0 ($10.67 in chips) 
+Seat 6: Robmanhawha ($10 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+Robmanhawha: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.60 to $0.70
+pudge.3096: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.60) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) collected ($0.25)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) folded before Flop
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980609758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:53:08 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($22 in chips) 
+Seat 2: zebaztravez ($12.11 in chips) 
+Seat 3: Do-Man22 ($12.67 in chips) 
+Seat 4: pudge.3096 ($21.77 in chips) 
+Seat 5: 0TheMouse0 ($10.57 in chips) 
+Seat 6: Robmanhawha ($10 in chips) 
+0TheMouse0: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.20 to $0.30
+pudge.3096: folds 
+0TheMouse0: folds 
+Robmanhawha: folds 
+Uncalled bet ($0.20) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: Robmanhawha (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980621267:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:53:32 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 1: yYanniky ($22 in chips) 
+Seat 2: zebaztravez ($12.11 in chips) 
+Seat 3: Do-Man22 ($12.82 in chips) 
+Seat 4: pudge.3096 ($21.77 in chips) 
+Seat 5: 0TheMouse0 ($10.52 in chips) 
+Seat 6: Robmanhawha ($9.90 in chips) 
+Robmanhawha: posts small blind $0.05
+yYanniky: posts big blind $0.10
+*** HOLE CARDS ***
+zebaztravez: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: calls $0.40
+0TheMouse0: folds 
+Robmanhawha: calls $0.35
+yYanniky: raises $1.60 to $2
+Do-Man22: calls $1.60
+pudge.3096: calls $1.60
+Robmanhawha: folds 
+*** FLOP *** [2c 6d 2s]
+yYanniky: checks 
+Do-Man22: checks 
+pudge.3096: checks 
+*** TURN *** [2c 6d 2s] [9h]
+yYanniky: checks 
+Do-Man22: bets $3.06
+pudge.3096: folds 
+yYanniky: folds 
+Uncalled bet ($3.06) returned to Do-Man22
+Do-Man22 collected $6.11 from pot
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.29 
+Board [2c 6d 2s 9h]
+Seat 1: yYanniky (big blind) folded on the Turn
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 collected ($6.11)
+Seat 4: pudge.3096 folded on the Turn
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: Robmanhawha (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980655226:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:54:45 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: yYanniky ($20 in chips) 
+Seat 2: zebaztravez ($12.11 in chips) 
+Seat 3: Do-Man22 ($16.93 in chips) 
+Seat 4: pudge.3096 ($19.77 in chips) 
+Seat 5: 0TheMouse0 ($10.52 in chips) 
+Seat 6: Robmanhawha ($9.50 in chips) 
+yYanniky: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.40 to $0.50
+pudge.3096: folds 
+0TheMouse0: folds 
+Robmanhawha: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Uncalled bet ($0.40) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: yYanniky (small blind) folded before Flop
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: Robmanhawha (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980661371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:54:59 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: yYanniky ($19.95 in chips) 
+Seat 2: zebaztravez ($12.01 in chips) 
+Seat 3: Do-Man22 ($17.08 in chips) 
+Seat 4: pudge.3096 ($19.77 in chips) 
+Seat 5: 0TheMouse0 ($10.52 in chips) 
+Seat 6: Robmanhawha ($9.50 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+0TheMouse0: raises $0.15 to $0.25
+Robmanhawha: calls $0.25
+yYanniky: folds 
+zebaztravez: calls $0.20
+Do-Man22: calls $0.15
+*** FLOP *** [6c Kh 8d]
+zebaztravez: checks 
+Do-Man22: checks 
+0TheMouse0: checks 
+Robmanhawha: bets $0.60
+zebaztravez: folds 
+Do-Man22: folds 
+0TheMouse0: folds 
+Uncalled bet ($0.60) returned to Robmanhawha
+Robmanhawha collected $0.96 from pot
+Robmanhawha: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6c Kh 8d]
+Seat 1: yYanniky (button) folded before Flop (didn't bet)
+Seat 2: zebaztravez (small blind) folded on the Flop
+Seat 3: Do-Man22 (big blind) folded on the Flop
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded on the Flop
+Seat 6: Robmanhawha collected ($0.96)
+
+
+
+PokerStars Hand #222980674618:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:55:32 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: yYanniky ($19.95 in chips) 
+Seat 2: zebaztravez ($11.76 in chips) 
+Seat 3: Do-Man22 ($16.83 in chips) 
+Seat 4: pudge.3096 ($19.77 in chips) 
+Seat 5: 0TheMouse0 ($10.27 in chips) 
+Seat 6: Robmanhawha ($10.21 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: folds 
+Robmanhawha: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.30 to $0.40
+pudge.3096: calls $0.30
+*** FLOP *** [6c Jd Kd]
+Do-Man22: bets $0.38
+pudge.3096: calls $0.38
+*** TURN *** [6c Jd Kd] [Ah]
+Do-Man22: checks 
+pudge.3096: checks 
+*** RIVER *** [6c Jd Kd Ah] [5c]
+Do-Man22: checks 
+pudge.3096: bets $2.24
+Do-Man22: folds 
+Uncalled bet ($2.24) returned to pudge.3096
+pudge.3096 collected $1.49 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [6c Jd Kd Ah 5c]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) folded on the River
+Seat 4: pudge.3096 (big blind) collected ($1.49)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980688457:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:56:10 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: yYanniky ($19.95 in chips) 
+Seat 2: zebaztravez ($11.76 in chips) 
+Seat 3: Do-Man22 ($16.05 in chips) 
+Seat 4: pudge.3096 ($20.48 in chips) 
+Seat 5: 0TheMouse0 ($10.27 in chips) 
+Seat 6: Robmanhawha ($10.21 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: posts big blind $0.10
+*** HOLE CARDS ***
+Robmanhawha: folds 
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.40 to $0.50
+pudge.3096: folds 
+0TheMouse0: calls $0.40
+*** FLOP *** [Qs Ah 2h]
+0TheMouse0: checks 
+Do-Man22: bets $0.80
+0TheMouse0: calls $0.80
+*** TURN *** [Qs Ah 2h] [9s]
+0TheMouse0: checks 
+Do-Man22: checks 
+*** RIVER *** [Qs Ah 2h 9s] [9d]
+0TheMouse0: checks 
+Do-Man22: checks 
+*** SHOW DOWN ***
+0TheMouse0: shows [Ts Ad] (two pair, Aces and Nines)
+Do-Man22: mucks hand 
+0TheMouse0 collected $2.53 from pot
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [Qs Ah 2h 9s 9d]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) mucked
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 5: 0TheMouse0 (big blind) showed [Ts Ad] and won ($2.53) with two pair, Aces and Nines
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980702955:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:56:50 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 1: yYanniky ($19.95 in chips) 
+Seat 2: zebaztravez ($11.76 in chips) 
+Seat 3: Do-Man22 ($14.75 in chips) 
+Seat 4: pudge.3096 ($20.43 in chips) 
+Seat 5: 0TheMouse0 ($11.50 in chips) 
+Seat 6: Robmanhawha ($10.21 in chips) 
+0TheMouse0: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+yYanniky: folds 
+zebaztravez: folds 
+Do-Man22: calls $0.10
+pudge.3096: raises $0.40 to $0.50
+0TheMouse0: folds 
+Robmanhawha: folds 
+Do-Man22: calls $0.40
+*** FLOP *** [2d Th 6d]
+Do-Man22: bets $1.20
+pudge.3096: calls $1.20
+*** TURN *** [2d Th 6d] [3d]
+Do-Man22: checks 
+pudge.3096: checks 
+*** RIVER *** [2d Th 6d 3d] [2c]
+Do-Man22: checks 
+pudge.3096: checks 
+*** SHOW DOWN ***
+Do-Man22: shows [9d 8c] (a pair of Deuces)
+pudge.3096: shows [Tc Jc] (two pair, Tens and Deuces)
+pudge.3096 collected $3.39 from pot
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.16 
+Board [2d Th 6d 3d 2c]
+Seat 1: yYanniky folded before Flop (didn't bet)
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 showed [9d 8c] and lost with a pair of Deuces
+Seat 4: pudge.3096 (button) showed [Tc Jc] and won ($3.39) with two pair, Tens and Deuces
+Seat 5: 0TheMouse0 (small blind) folded before Flop
+Seat 6: Robmanhawha (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980719078:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:35 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 2: zebaztravez ($11.76 in chips) 
+Seat 3: Do-Man22 ($13.05 in chips) 
+Seat 4: pudge.3096 ($22.12 in chips) 
+Seat 5: 0TheMouse0 ($11.45 in chips) 
+Seat 6: Robmanhawha ($10.11 in chips) 
+Robmanhawha: posts small blind $0.05
+yYanniky: is sitting out 
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $1.10 to $1.20
+pudge.3096: folds 
+0TheMouse0: folds 
+Robmanhawha: folds 
+zebaztravez: folds 
+Uncalled bet ($1.10) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: zebaztravez (big blind) folded before Flop
+Seat 3: Do-Man22 collected ($0.25)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 (button) folded before Flop (didn't bet)
+Seat 6: Robmanhawha (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980726847:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:56 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 2: zebaztravez ($11.66 in chips) 
+Seat 3: Do-Man22 ($13.20 in chips) 
+Seat 4: pudge.3096 ($22.12 in chips) 
+Seat 5: 0TheMouse0 ($11.45 in chips) 
+Seat 6: Robmanhawha ($10.06 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+0TheMouse0: folds 
+Robmanhawha: raises $0.20 to $0.30
+zebaztravez: folds 
+Do-Man22: calls $0.20
+*** FLOP *** [5s Ts Qs]
+Do-Man22: bets $0.31
+Robmanhawha: calls $0.31
+*** TURN *** [5s Ts Qs] [Ks]
+Do-Man22: bets $0.61
+yYanniky leaves the table
+Robmanhawha: folds 
+Uncalled bet ($0.61) returned to Do-Man22
+Do-Man22 collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [5s Ts Qs Ks]
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) collected ($1.21)
+Seat 4: pudge.3096 folded before Flop (didn't bet)
+Seat 5: 0TheMouse0 folded before Flop (didn't bet)
+Seat 6: Robmanhawha (button) folded on the Turn
+
+
+
+PokerStars Hand #222980740762:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:58:35 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 2: zebaztravez ($11.61 in chips) 
+Seat 3: Do-Man22 ($13.80 in chips) 
+Seat 4: pudge.3096 ($22.12 in chips) 
+Seat 5: 0TheMouse0 ($11.45 in chips) 
+Seat 6: Robmanhawha ($9.45 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0: raises $0.15 to $0.25
+Robmanhawha: folds 
+zebaztravez: folds 
+Do-Man22: calls $0.20
+pudge.3096: folds 
+*** FLOP *** [Th Jc 9c]
+Do-Man22: checks 
+0TheMouse0: checks 
+*** TURN *** [Th Jc 9c] [7d]
+Do-Man22: checks 
+0TheMouse0: checks 
+*** RIVER *** [Th Jc 9c 7d] [5c]
+Do-Man22 has timed out
+Do-Man22: checks 
+0TheMouse0: checks 
+*** SHOW DOWN ***
+Do-Man22: shows [4d 6s] (high card Jack)
+0TheMouse0: shows [4h 4s] (a pair of Fours)
+0TheMouse0 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Th Jc 9c 7d 5c]
+Seat 2: zebaztravez (button) folded before Flop (didn't bet)
+Seat 3: Do-Man22 (small blind) showed [4d 6s] and lost with high card Jack
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 5: 0TheMouse0 showed [4h 4s] and won ($0.57) with a pair of Fours
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980755124:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:14 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 2: zebaztravez ($11.61 in chips) 
+Seat 3: Do-Man22 ($13.55 in chips) 
+Seat 4: pudge.3096 ($22.02 in chips) 
+Seat 6: Robmanhawha ($9.45 in chips) 
+pudge.3096: posts small blind $0.05
+0TheMouse0: is sitting out 
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+0TheMouse0 leaves the table
+zebaztravez: folds 
+Do-Man22 has timed out
+Do-Man22: folds 
+pudge.3096: folds 
+Uncalled bet ($0.05) returned to Robmanhawha
+Robmanhawha collected $0.10 from pot
+Robmanhawha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: zebaztravez folded before Flop (didn't bet)
+Seat 3: Do-Man22 (button) folded before Flop (didn't bet)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 6: Robmanhawha (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222980763390:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:37 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 2: zebaztravez ($11.61 in chips) 
+Seat 3: Do-Man22 ($13.55 in chips) 
+Seat 4: pudge.3096 ($21.97 in chips) 
+Seat 6: Robmanhawha ($9.50 in chips) 
+Robmanhawha: posts small blind $0.05
+zebaztravez: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: folds 
+pudge.3096: folds 
+Robmanhawha: folds 
+Uncalled bet ($0.05) returned to zebaztravez
+zebaztravez collected $0.10 from pot
+zebaztravez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: zebaztravez (big blind) collected ($0.10)
+Seat 3: Do-Man22 folded before Flop (didn't bet)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 6: Robmanhawha (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980766410:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:46 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 2: zebaztravez ($11.66 in chips) 
+Seat 3: Do-Man22 ($13.55 in chips) 
+Seat 4: pudge.3096 ($21.97 in chips) 
+Seat 6: Robmanhawha ($9.45 in chips) 
+zebaztravez: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: raises $0.20 to $0.30
+Robmanhawha: folds 
+zebaztravez: folds 
+Do-Man22: raises $0.20 to $0.50
+pudge.3096: raises $2.50 to $3
+Do-Man22: raises $10.55 to $13.55 and is all-in
+pudge.3096: calls $10.55
+*** FLOP *** [Jc Qd Kh]
+*** TURN *** [Jc Qd Kh] [9s]
+*** RIVER *** [Jc Qd Kh 9s] [6h]
+*** SHOW DOWN ***
+Do-Man22: shows [Kc Ks] (three of a kind, Kings)
+pudge.3096: shows [Ac Ah] (a pair of Aces)
+Do-Man22 collected $26.15 from pot
+*** SUMMARY ***
+Total pot $27.15 | Rake $1 
+Board [Jc Qd Kh 9s 6h]
+Seat 2: zebaztravez (small blind) folded before Flop
+Seat 3: Do-Man22 (big blind) showed [Kc Ks] and won ($26.15) with three of a kind, Kings
+Seat 4: pudge.3096 showed [Ac Ah] and lost with a pair of Aces
+Seat 6: Robmanhawha (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980779306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:19 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 3: Do-Man22 ($26.15 in chips) 
+Seat 4: pudge.3096 ($10 in chips) 
+Seat 6: Robmanhawha ($9.45 in chips) 
+pudge.3096: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.40 to $0.50
+pudge.3096: folds 
+Robmanhawha: raises $0.90 to $1.40
+Do-Man22: calls $0.90
+*** FLOP *** [Ac 8s 7s]
+Robmanhawha: bets $1.50
+Do-Man22: raises $1.50 to $3
+Robmanhawha: calls $1.50
+*** TURN *** [Ac 8s 7s] [Qh]
+Robmanhawha: bets $5.05 and is all-in
+Do-Man22: folds 
+Uncalled bet ($5.05) returned to Robmanhawha
+Robmanhawha collected $8.45 from pot
+Robmanhawha: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [Ac 8s 7s Qh]
+Seat 3: Do-Man22 (button) folded on the Turn
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 6: Robmanhawha (big blind) collected ($8.45)
+
+
+
+PokerStars Hand #222980793413:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:53 ET
+Table 'Philagoria' 6-max Seat #4 is the button
+Seat 3: Do-Man22 ($21.75 in chips) 
+Seat 4: pudge.3096 ($10 in chips) 
+Seat 6: Robmanhawha ($13.50 in chips) 
+Robmanhawha: posts small blind $0.05
+Do-Man22: posts big blind $0.10
+*** HOLE CARDS ***
+pudge.3096: folds 
+Robmanhawha: raises $0.20 to $0.30
+Do-Man22: raises $1 to $1.30
+Robmanhawha: folds 
+Uncalled bet ($1) returned to Do-Man22
+Do-Man22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: Do-Man22 (big blind) collected ($0.60)
+Seat 4: pudge.3096 (button) folded before Flop (didn't bet)
+Seat 6: Robmanhawha (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980802530:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:01:14 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 3: Do-Man22 ($22.05 in chips) 
+Seat 4: pudge.3096 ($10 in chips) 
+Seat 6: Robmanhawha ($13.20 in chips) 
+Do-Man22: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+Robmanhawha: raises $0.20 to $0.30
+Do-Man22: raises $0.40 to $0.70
+pudge.3096: folds 
+Robmanhawha: calls $0.40
+*** FLOP *** [5h Qh 9c]
+Do-Man22: bets $0.72
+Robmanhawha: calls $0.72
+*** TURN *** [5h Qh 9c] [6s]
+Do-Man22: checks 
+Robmanhawha: bets $1.41
+Do-Man22: calls $1.41
+*** RIVER *** [5h Qh 9c 6s] [Qs]
+Do-Man22: checks 
+Robmanhawha: checks 
+*** SHOW DOWN ***
+Do-Man22: shows [3c Ac] (a pair of Queens)
+Robmanhawha: shows [4h Ah] (a pair of Queens)
+Do-Man22 collected $2.75 from pot
+Robmanhawha collected $2.75 from pot
+*** SUMMARY ***
+Total pot $5.76 | Rake $0.26 
+Board [5h Qh 9c 6s Qs]
+Seat 3: Do-Man22 (small blind) showed [3c Ac] and won ($2.75) with a pair of Queens
+Seat 4: pudge.3096 (big blind) folded before Flop
+Seat 6: Robmanhawha (button) showed [4h Ah] and won ($2.75) with a pair of Queens
+
+
+
+PokerStars Hand #222980821312:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:01:56 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 3: Do-Man22 ($21.97 in chips) 
+Seat 4: pudge.3096 ($10 in chips) 
+Seat 6: Robmanhawha ($13.12 in chips) 
+pudge.3096: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+Do-Man22: raises $0.70 to $0.80
+pudge.3096: folds 
+Robmanhawha: folds 
+Uncalled bet ($0.70) returned to Do-Man22
+Do-Man22 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: Do-Man22 (button) collected ($0.25)
+Seat 4: pudge.3096 (small blind) folded before Flop
+Seat 6: Robmanhawha (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981008263:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:21 ET
+Table 'Philagoria' 6-max Seat #6 is the button
+Seat 1: schoki77 ($14.20 in chips) 
+Seat 2: KiraLasVegas ($10 in chips) 
+Seat 5: Wassil01 ($14.46 in chips) 
+Seat 6: Robmanhawha ($14.30 in chips) 
+schoki77: posts small blind $0.05
+KiraLasVegas: posts big blind $0.10
+DrLevty: sits out 
+*** HOLE CARDS ***
+Wassil01: folds 
+Robmanhawha: folds 
+schoki77: folds 
+Uncalled bet ($0.05) returned to KiraLasVegas
+KiraLasVegas collected $0.10 from pot
+KiraLasVegas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 2: KiraLasVegas (big blind) collected ($0.10)
+Seat 5: Wassil01 folded before Flop (didn't bet)
+Seat 6: Robmanhawha (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981023568:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:34 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: schoki77 ($14.15 in chips) 
+Seat 2: KiraLasVegas ($10.05 in chips) 
+Seat 3: DrLevty ($10 in chips) 
+Seat 5: Wassil01 ($14.46 in chips) 
+Seat 6: Robmanhawha ($14.30 in chips) 
+KiraLasVegas: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+Wassil01: folds 
+Robmanhawha: folds 
+schoki77: folds 
+KiraLasVegas: raises $0.15 to $0.25
+DrLevty: folds 
+Uncalled bet ($0.15) returned to KiraLasVegas
+KiraLasVegas collected $0.20 from pot
+KiraLasVegas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 2: KiraLasVegas (small blind) collected ($0.20)
+Seat 3: DrLevty (big blind) folded before Flop
+Seat 5: Wassil01 folded before Flop (didn't bet)
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981029857:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:47 ET
+Table 'Philagoria' 6-max Seat #2 is the button
+Seat 1: schoki77 ($14.15 in chips) 
+Seat 2: KiraLasVegas ($10.15 in chips) 
+Seat 3: DrLevty ($10 in chips) 
+Seat 5: Wassil01 ($14.46 in chips) 
+Seat 6: Robmanhawha ($14.30 in chips) 
+DrLevty: posts small blind $0.05
+Wassil01: posts big blind $0.10
+*** HOLE CARDS ***
+Robmanhawha has timed out
+Robmanhawha: folds 
+schoki77: folds 
+schoki77 leaves the table
+KiraLasVegas: folds 
+DrLevty: folds 
+Uncalled bet ($0.05) returned to Wassil01
+Wassil01 collected $0.10 from pot
+Wassil01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: KiraLasVegas (button) folded before Flop (didn't bet)
+Seat 3: DrLevty (small blind) folded before Flop
+Seat 5: Wassil01 (big blind) collected ($0.10)
+Seat 6: Robmanhawha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981036858:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:09:03 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 2: KiraLasVegas ($10.15 in chips) 
+Seat 3: DrLevty ($10 in chips) 
+Seat 5: Wassil01 ($14.51 in chips) 
+Seat 6: Robmanhawha ($14.30 in chips) 
+Wassil01: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+KiraLasVegas: folds 
+DrLevty: folds 
+Wassil01: raises $0.20 to $0.30
+Robmanhawha: folds 
+Uncalled bet ($0.20) returned to Wassil01
+Robmanhawha leaves the table
+Wassil01 collected $0.20 from pot
+Wassil01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: KiraLasVegas folded before Flop (didn't bet)
+Seat 3: DrLevty (button) folded before Flop (didn't bet)
+Seat 5: Wassil01 (small blind) collected ($0.20)
+Seat 6: Robmanhawha (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981041176:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:09:12 ET
+Table 'Philagoria' 6-max Seat #5 is the button
+Seat 2: KiraLasVegas ($10.15 in chips) 
+Seat 3: DrLevty ($10 in chips) 
+Seat 5: Wassil01 ($14.61 in chips) 
+KiraLasVegas: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+Wassil01: raises $0.20 to $0.30
+KiraLasVegas: folds 
+DrLevty: folds 
+Uncalled bet ($0.20) returned to Wassil01
+KiraLasVegas leaves the table
+Wassil01 collected $0.25 from pot
+Wassil01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: KiraLasVegas (small blind) folded before Flop
+Seat 3: DrLevty (big blind) folded before Flop
+Seat 5: Wassil01 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222981045180:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:09:21 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 3: DrLevty ($10 in chips) 
+Seat 5: Wassil01 ($14.76 in chips) 
+DrLevty: posts small blind $0.05
+Wassil01: posts big blind $0.10
+*** HOLE CARDS ***
+DrLevty: folds 
+Uncalled bet ($0.05) returned to Wassil01
+Wassil01 collected $0.10 from pot
+Wassil01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: DrLevty (button) (small blind) folded before Flop
+Seat 5: Wassil01 (big blind) collected ($0.10)
+
+
+

@@ -1,0 +1,4193 @@
+﻿PokerStars Hand #222952728722:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:58:02 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($11.20 in chips) 
+Seat 2: sosedywka2 ($8.69 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($10.23 in chips) 
+Seat 6: father here ($10.10 in chips) 
+wma606: posts small blind $0.05
+father here: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: raises $0.20 to $0.30
+sosedywka2: calls $0.30
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+father here: calls $0.20
+*** FLOP *** [4d 8c Js]
+father here: checks 
+MicroGamer86: bets $0.45
+sosedywka2: calls $0.45
+father here: folds 
+*** TURN *** [4d 8c Js] [Ts]
+MicroGamer86: checks 
+sosedywka2: checks 
+*** RIVER *** [4d 8c Js Ts] [8s]
+MicroGamer86: checks 
+sosedywka2: bets $2.60
+MicroGamer86: folds 
+Uncalled bet ($2.60) returned to sosedywka2
+sosedywka2 collected $1.77 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [4d 8c Js Ts 8s]
+Seat 1: MicroGamer86 folded on the River
+Seat 2: sosedywka2 collected ($1.77)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k (button) folded before Flop (didn't bet)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: father here (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222952747254:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:58:59 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($10.45 in chips) 
+Seat 2: sosedywka2 ($9.71 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($10.18 in chips) 
+Seat 6: father here ($10 in chips) 
+father here: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+father here: raises $0.10 to $0.20
+MicroGamer86: calls $0.10
+*** FLOP *** [Kh 3s 4h]
+father here: checks 
+MicroGamer86: checks 
+*** TURN *** [Kh 3s 4h] [Ad]
+father here: checks 
+MicroGamer86: checks 
+*** RIVER *** [Kh 3s 4h Ad] [6h]
+father here: bets $0.30
+MicroGamer86: folds 
+Uncalled bet ($0.30) returned to father here
+father here collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kh 3s 4h Ad 6h]
+Seat 1: MicroGamer86 (big blind) folded on the River
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: father here (small blind) collected ($0.38)
+
+
+
+PokerStars Hand #222952760359:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:59:39 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($10.25 in chips) 
+Seat 2: sosedywka2 ($9.71 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($10.18 in chips) 
+Seat 6: father here ($10.18 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+father here: folds 
+MicroGamer86: folds 
+Uncalled bet ($0.05) returned to sosedywka2
+sosedywka2 collected $0.10 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) collected ($0.10)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: father here (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952769692:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:07 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($10.20 in chips) 
+Seat 2: sosedywka2 ($9.76 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($10.18 in chips) 
+Seat 6: father here ($10.18 in chips) 
+sosedywka2: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+irp0k: folds 
+wma606: folds 
+father here: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Uncalled bet ($0.05) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: Quatrehuith (big blind) collected ($0.10)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: father here folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952775218:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:23 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($10.20 in chips) 
+Seat 2: sosedywka2 ($9.71 in chips) 
+Seat 3: Quatrehuith ($10.05 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($10.18 in chips) 
+Seat 6: father here ($10.18 in chips) 
+Quatrehuith: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: raises $0.18 to $0.28
+father here: calls $0.28
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+*** FLOP *** [Ks Kd 9c]
+wma606: bets $0.48
+father here: calls $0.48
+*** TURN *** [Ks Kd 9c] [Jc]
+wma606: bets $1.11
+father here: folds 
+Uncalled bet ($1.11) returned to wma606
+wma606 collected $1.59 from pot
+wma606: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.08 
+Board [Ks Kd 9c Jc]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: Quatrehuith (small blind) folded before Flop
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 collected ($1.59)
+Seat 6: father here folded on the Turn
+
+
+
+PokerStars Hand #222952793360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:14 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($10.20 in chips) 
+Seat 2: sosedywka2 ($9.71 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($11.01 in chips) 
+Seat 6: father here ($10 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: raises $0.15 to $0.25
+father here leaves the table
+irp0k: folds 
+nicucta joins the table at seat #6 
+wma606: folds 
+Uncalled bet ($0.15) returned to Quatrehuith
+Quatrehuith collected $0.25 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith (button) collected ($0.25)
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) folded before Flop
+Seat 6: father here folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952797700:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:25 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($10.20 in chips) 
+Seat 2: sosedywka2 ($9.71 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($10 in chips) 
+Seat 5: wma606 ($10.91 in chips) 
+Seat 6: nicucta ($10 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2: calls $0.10
+Quatrehuith: folds 
+irp0k: raises $0.30 to $0.40
+wma606: folds 
+nicucta: folds 
+sosedywka2: calls $0.30
+*** FLOP *** [9c Kc 3h]
+sosedywka2: checks 
+irp0k: bets $0.35
+sosedywka2: calls $0.35
+*** TURN *** [9c Kc 3h] [Ts]
+sosedywka2: checks 
+irp0k: bets $1.19
+sosedywka2: calls $1.19
+*** RIVER *** [9c Kc 3h Ts] [5h]
+sosedywka2: checks 
+irp0k: bets $2.50
+sosedywka2: folds 
+Uncalled bet ($2.50) returned to irp0k
+irp0k collected $3.85 from pot
+irp0k: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.18 
+Board [9c Kc 3h Ts 5h]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded on the River
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k (button) collected ($3.85)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952821011:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:13 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($10.20 in chips) 
+Seat 2: sosedywka2 ($7.77 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($11.91 in chips) 
+Seat 5: wma606 ($10.86 in chips) 
+Seat 6: nicucta ($9.90 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.20 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: MicroGamer86 (big blind) folded before Flop
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222952824626:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:23 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($10.10 in chips) 
+Seat 2: sosedywka2 ($7.77 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($11.91 in chips) 
+Seat 5: wma606 ($10.86 in chips) 
+Seat 6: nicucta ($10 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+irp0k: raises $0.20 to $0.30
+wma606: folds 
+nicucta: calls $0.30
+MicroGamer86: folds 
+sosedywka2: folds 
+*** FLOP *** [Qc 6c Ks]
+irp0k: bets $0.30
+nicucta: folds 
+Uncalled bet ($0.30) returned to irp0k
+irp0k collected $0.72 from pot
+irp0k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qc 6c Ks]
+Seat 1: MicroGamer86 (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k collected ($0.72)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded on the Flop
+
+
+
+PokerStars Hand #222952833789:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:46 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($10.05 in chips) 
+Seat 2: sosedywka2 ($7.67 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($12.33 in chips) 
+Seat 5: wma606 ($10.86 in chips) 
+Seat 6: nicucta ($9.70 in chips) 
+sosedywka2: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+irp0k has timed out
+irp0k: folds 
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.25 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: Quatrehuith (big blind) folded before Flop
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta collected ($0.25)
+
+
+
+PokerStars Hand #222952841000:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:03:05 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($10.05 in chips) 
+Seat 2: sosedywka2 ($7.62 in chips) 
+Seat 3: Quatrehuith ($10.05 in chips) 
+Seat 4: irp0k ($12.33 in chips) 
+Seat 5: wma606 ($10.86 in chips) 
+Seat 6: nicucta ($9.85 in chips) 
+Quatrehuith: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: calls $0.20
+sosedywka2: calls $0.20
+Quatrehuith: folds 
+irp0k: folds 
+*** FLOP *** [Qd 7c As]
+nicucta: checks 
+MicroGamer86: bets $0.46
+sosedywka2: calls $0.46
+nicucta: calls $0.46
+*** TURN *** [Qd 7c As] [2c]
+nicucta: checks 
+MicroGamer86: bets $1.11
+sosedywka2: calls $1.11
+nicucta: folds 
+*** RIVER *** [Qd 7c As 2c] [7h]
+MicroGamer86: checks 
+sosedywka2: checks 
+*** SHOW DOWN ***
+MicroGamer86: shows [Js Ac] (two pair, Aces and Sevens)
+sosedywka2: mucks hand 
+MicroGamer86 collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [Qd 7c As 2c 7h]
+Seat 1: MicroGamer86 showed [Js Ac] and won ($4.15) with two pair, Aces and Sevens
+Seat 2: sosedywka2 (button) mucked
+Seat 3: Quatrehuith (small blind) folded before Flop
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded on the Turn
+
+
+
+PokerStars Hand #222952858010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:03:47 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($12.43 in chips) 
+Seat 2: sosedywka2 ($5.85 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.23 in chips) 
+Seat 5: wma606 ($10.86 in chips) 
+Seat 6: nicucta ($10 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: raises $0.15 to $0.25
+irp0k: folds 
+wma606: folds 
+Uncalled bet ($0.15) returned to Quatrehuith
+Quatrehuith collected $0.25 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith (button) collected ($0.25)
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) folded before Flop
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952868126:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:13 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($12.43 in chips) 
+Seat 2: sosedywka2 ($5.85 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($12.18 in chips) 
+Seat 5: wma606 ($10.76 in chips) 
+Seat 6: nicucta ($10 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86 has timed out
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+Uncalled bet ($0.05) returned to nicucta
+nicucta collected $0.10 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k (button) folded before Flop (didn't bet)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222952873935:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:27 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($12.43 in chips) 
+Seat 2: sosedywka2 ($5.85 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($12.18 in chips) 
+Seat 5: wma606 ($10.71 in chips) 
+Seat 6: nicucta ($10.05 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+wma606: raises $0.18 to $0.28
+nicucta: folds 
+MicroGamer86: calls $0.18
+*** FLOP *** [2s 7d 3h]
+MicroGamer86: checks 
+wma606: bets $0.41
+MicroGamer86: raises $0.80 to $1.21
+wma606: calls $0.80
+*** TURN *** [2s 7d 3h] [Qh]
+MicroGamer86: bets $1.94
+wma606: calls $1.94
+*** RIVER *** [2s 7d 3h Qh] [8c]
+MicroGamer86: bets $3.90
+wma606: folds 
+Uncalled bet ($3.90) returned to MicroGamer86
+MicroGamer86 collected $6.60 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.91 | Rake $0.31 
+Board [2s 7d 3h Qh 8c]
+Seat 1: MicroGamer86 (big blind) collected ($6.60)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded on the River
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952895492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:05:21 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($15.60 in chips) 
+Seat 2: sosedywka2 ($5.85 in chips) 
+Seat 3: Quatrehuith ($10.15 in chips) 
+Seat 4: irp0k ($12.18 in chips) 
+Seat 5: wma606 ($7.28 in chips) 
+Seat 6: nicucta ($10 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: raises $0.20 to $0.30
+irp0k is disconnected 
+irp0k has timed out while disconnected
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Uncalled bet ($0.20) returned to Quatrehuith
+Quatrehuith collected $0.25 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: Quatrehuith collected ($0.25)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952906727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:05:48 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($15.55 in chips) 
+Seat 2: sosedywka2 ($5.75 in chips) 
+Seat 3: Quatrehuith ($10.30 in chips) 
+Seat 5: wma606 ($7.28 in chips) 
+Seat 6: nicucta ($10 in chips) 
+sosedywka2: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: folds 
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Uncalled bet ($0.05) returned to Quatrehuith
+Quatrehuith collected $0.10 from pot
+Quatrehuith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: Quatrehuith (big blind) collected ($0.10)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952913300:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:06:05 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($15.55 in chips) 
+Seat 2: sosedywka2 ($5.70 in chips) 
+Seat 3: Quatrehuith ($10.35 in chips) 
+Seat 5: wma606 ($7.28 in chips) 
+Seat 6: nicucta ($10 in chips) 
+Quatrehuith: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+MicroGamer86: raises $0.20 to $0.30
+sosedywka2: calls $0.30
+Quatrehuith: folds 
+wma606: folds 
+*** FLOP *** [Qc Td Jh]
+MicroGamer86: checks 
+sosedywka2: checks 
+*** TURN *** [Qc Td Jh] [4d]
+MicroGamer86: bets $0.36
+sosedywka2: calls $0.36
+*** RIVER *** [Qc Td Jh 4d] [4c]
+MicroGamer86: checks 
+sosedywka2: checks 
+*** SHOW DOWN ***
+MicroGamer86: shows [9c 9d] (two pair, Nines and Fours)
+sosedywka2: shows [Qh Ad] (two pair, Queens and Fours)
+sosedywka2 collected $1.40 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [Qc Td Jh 4d 4c]
+Seat 1: MicroGamer86 showed [9c 9d] and lost with two pair, Nines and Fours
+Seat 2: sosedywka2 (button) showed [Qh Ad] and won ($1.40) with two pair, Queens and Fours
+Seat 3: Quatrehuith (small blind) folded before Flop
+Seat 5: wma606 (big blind) folded before Flop
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952930703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:06:48 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($14.89 in chips) 
+Seat 2: sosedywka2 ($6.44 in chips) 
+Seat 3: Quatrehuith ($10.30 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($10 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: folds 
+wma606: folds 
+Uncalled bet ($0.05) returned to nicucta
+nicucta collected $0.10 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222952936471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:07:02 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($14.89 in chips) 
+Seat 2: sosedywka2 ($6.44 in chips) 
+Seat 3: Quatrehuith ($10.30 in chips) 
+Seat 5: wma606 ($9.95 in chips) 
+Seat 6: nicucta ($10.05 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+Quatrehuith: folds 
+wma606: folds 
+nicucta: folds 
+Uncalled bet ($0.05) returned to MicroGamer86
+MicroGamer86 collected $0.10 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 (big blind) collected ($0.10)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952940003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:07:11 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($14.94 in chips) 
+Seat 2: sosedywka2 ($6.44 in chips) 
+Seat 3: Quatrehuith ($10.30 in chips) 
+Seat 5: wma606 ($9.95 in chips) 
+Seat 6: nicucta ($10 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: raises $0.20 to $0.30
+wma606: folds 
+nicucta: calls $0.30
+MicroGamer86: folds 
+sosedywka2: folds 
+*** FLOP *** [Kh 7s Ts]
+Quatrehuith: checks 
+nicucta: checks 
+*** TURN *** [Kh 7s Ts] [Qs]
+Quatrehuith: bets $0.48
+nicucta: raises $1.02 to $1.50
+Quatrehuith: calls $1.02
+*** RIVER *** [Kh 7s Ts Qs] [8c]
+Quatrehuith: checks 
+nicucta: bets $1.90
+Quatrehuith: calls $1.90
+*** SHOW DOWN ***
+nicucta: shows [Jc As] (a straight, Ten to Ace)
+Quatrehuith: mucks hand 
+nicucta collected $7.21 from pot
+*** SUMMARY ***
+Total pot $7.55 | Rake $0.34 
+Board [Kh 7s Ts Qs 8c]
+Seat 1: MicroGamer86 (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: Quatrehuith mucked
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) showed [Jc As] and won ($7.21) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #222952953724:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:07:45 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($14.89 in chips) 
+Seat 2: sosedywka2 ($6.34 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 5: wma606 ($9.95 in chips) 
+Seat 6: nicucta ($13.51 in chips) 
+sosedywka2: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+irp0k: sits out 
+*** HOLE CARDS ***
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: raises $0.55 to $0.75
+sosedywka2: folds 
+Quatrehuith: folds 
+nicucta: folds 
+Uncalled bet ($0.55) returned to MicroGamer86
+MicroGamer86 collected $0.55 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: MicroGamer86 (button) collected ($0.55)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: Quatrehuith (big blind) folded before Flop
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop
+
+
+
+PokerStars Hand #222952958571:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:07:57 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($15.24 in chips) 
+Seat 2: sosedywka2 ($6.29 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.18 in chips) 
+Seat 5: wma606 ($9.95 in chips) 
+Seat 6: nicucta ($13.31 in chips) 
+Quatrehuith: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: raises $0.18 to $0.28
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: calls $0.28
+Quatrehuith: folds 
+irp0k: folds 
+*** FLOP *** [5c 4s 5d]
+wma606: bets $0.27
+sosedywka2: calls $0.27
+*** TURN *** [5c 4s 5d] [2h]
+wma606: bets $0.48
+sosedywka2: raises $5.26 to $5.74 and is all-in
+wma606: folds 
+Uncalled bet ($5.26) returned to sosedywka2
+sosedywka2 collected $2.11 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.10 
+Board [5c 4s 5d 2h]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) collected ($2.11)
+Seat 3: Quatrehuith (small blind) folded before Flop
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 folded on the Turn
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952975747:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:08:39 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($15.24 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.08 in chips) 
+Seat 5: wma606 ($8.92 in chips) 
+Seat 6: nicucta ($13.31 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: raises $0.10 to $0.20
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith has timed out
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.25 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) folded before Flop
+Seat 6: nicucta collected ($0.25)
+
+
+
+PokerStars Hand #222952985297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:09:02 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($15.24 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.03 in chips) 
+Seat 5: wma606 ($8.82 in chips) 
+Seat 6: nicucta ($13.46 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: raises $0.20 to $0.30
+wma606: folds 
+nicucta: calls $0.20
+*** FLOP *** [3h 6h Th]
+nicucta: checks 
+irp0k: bets $0.30
+nicucta: calls $0.30
+*** TURN *** [3h 6h Th] [9d]
+nicucta: checks 
+irp0k: bets $0.89
+nicucta: folds 
+Uncalled bet ($0.89) returned to irp0k
+irp0k collected $1.19 from pot
+irp0k: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [3h 6h Th 9d]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k (button) collected ($1.19)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222953003939:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:09:48 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($15.24 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.62 in chips) 
+Seat 5: wma606 ($8.77 in chips) 
+Seat 6: nicucta ($12.86 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: calls $0.10
+*** FLOP *** [3d 2h 8h]
+nicucta: checks 
+MicroGamer86: bets $0.19
+nicucta: calls $0.19
+*** TURN *** [3d 2h 8h] [Th]
+nicucta: checks 
+MicroGamer86: checks 
+*** RIVER *** [3d 2h 8h Th] [3h]
+nicucta: checks 
+MicroGamer86: checks 
+*** SHOW DOWN ***
+nicucta: shows [8c 9s] (two pair, Eights and Threes)
+MicroGamer86: mucks hand 
+nicucta collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [3d 2h 8h Th 3h]
+Seat 1: MicroGamer86 (big blind) mucked
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) showed [8c 9s] and won ($0.74) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #222953014720:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:10:14 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($14.85 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.62 in chips) 
+Seat 5: wma606 ($8.77 in chips) 
+Seat 6: nicucta ($13.21 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: folds 
+Uncalled bet ($0.05) returned to sosedywka2
+sosedywka2 collected $0.10 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) collected ($0.10)
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953020220:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:10:28 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($14.80 in chips) 
+Seat 2: sosedywka2 ($7.42 in chips) 
+Seat 3: Quatrehuith ($10 in chips) 
+Seat 4: irp0k ($12.62 in chips) 
+Seat 5: wma606 ($8.77 in chips) 
+Seat 6: nicucta ($13.21 in chips) 
+sosedywka2: posts small blind $0.05
+Quatrehuith: posts big blind $0.10
+*** HOLE CARDS ***
+irp0k: folds 
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: calls $0.10
+*** FLOP *** [Qs 6c 5d]
+Quatrehuith: checks 
+nicucta: bets $0.22
+Quatrehuith: calls $0.22
+*** TURN *** [Qs 6c 5d] [2c]
+Quatrehuith: checks 
+nicucta: checks 
+*** RIVER *** [Qs 6c 5d 2c] [Jh]
+Quatrehuith: bets $0.57
+nicucta: calls $0.57
+*** SHOW DOWN ***
+Quatrehuith: shows [Qc Jd] (two pair, Queens and Jacks)
+nicucta: mucks hand 
+Quatrehuith collected $1.94 from pot
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.09 
+Board [Qs 6c 5d 2c Jh]
+Seat 1: MicroGamer86 (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: Quatrehuith (big blind) showed [Qc Jd] and won ($1.94) with two pair, Queens and Jacks
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta mucked
+
+
+
+PokerStars Hand #222953035362:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:11:05 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($14.80 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10.95 in chips) 
+Seat 4: irp0k ($12.62 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($12.22 in chips) 
+Quatrehuith: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: raises $0.55 to $0.75
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+nicucta: folds 
+Uncalled bet ($0.55) returned to MicroGamer86
+MicroGamer86 collected $0.55 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: MicroGamer86 collected ($0.55)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: Quatrehuith (small blind) folded before Flop
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop
+
+
+
+PokerStars Hand #222953047621:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:11:35 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($15.15 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10.90 in chips) 
+Seat 4: irp0k ($12.52 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($12.02 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Quatrehuith: folds 
+irp0k: folds 
+Uncalled bet ($0.05) returned to wma606
+wma606 collected $0.10 from pot
+wma606: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith (button) folded before Flop (didn't bet)
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) collected ($0.10)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953054243:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:11:51 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($15.15 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($10.90 in chips) 
+Seat 4: irp0k ($12.47 in chips) 
+Seat 5: wma606 ($10.05 in chips) 
+Seat 6: nicucta ($12.02 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+Quatrehuith: raises $0.15 to $0.25
+irp0k: calls $0.25
+wma606: folds 
+nicucta: calls $0.15
+*** FLOP *** [Ac 7s 3d]
+nicucta: checks 
+Quatrehuith: checks 
+irp0k: checks 
+*** TURN *** [Ac 7s 3d] [Qd]
+nicucta: checks 
+Quatrehuith: checks 
+irp0k: bets $0.57
+nicucta: folds 
+Quatrehuith: calls $0.57
+*** RIVER *** [Ac 7s 3d Qd] [9d]
+Quatrehuith: checks 
+irp0k: checks 
+*** SHOW DOWN ***
+Quatrehuith: shows [8c 8d] (a pair of Eights)
+irp0k: mucks hand 
+Quatrehuith collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.94 | Rake $0.09 
+Board [Ac 7s 3d Qd 9d]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: Quatrehuith showed [8c 8d] and won ($1.85) with a pair of Eights
+Seat 4: irp0k (button) mucked
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222953084251:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:04 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($15.15 in chips) 
+Seat 2: sosedywka2 ($7.37 in chips) 
+Seat 3: Quatrehuith ($11.93 in chips) 
+Seat 4: irp0k ($11.65 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($11.77 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: calls $0.10
+Quatrehuith: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: checks 
+*** FLOP *** [Ac 5c 8h]
+MicroGamer86: bets $0.12
+sosedywka2: folds 
+Uncalled bet ($0.12) returned to MicroGamer86
+MicroGamer86 collected $0.24 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac 5c 8h]
+Seat 1: MicroGamer86 (big blind) collected ($0.24)
+Seat 2: sosedywka2 folded on the Flop
+Seat 3: Quatrehuith folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953091604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:22 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($15.29 in chips) 
+Seat 2: sosedywka2 ($7.27 in chips) 
+Seat 3: Quatrehuith ($11.93 in chips) 
+Seat 4: irp0k ($11.65 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($11.72 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+Quatrehuith: raises $0.15 to $0.25
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: calls $0.15
+*** FLOP *** [Td 9s 8c]
+sosedywka2: checks 
+Quatrehuith: checks 
+*** TURN *** [Td 9s 8c] [2h]
+sosedywka2: checks 
+Quatrehuith: checks 
+*** RIVER *** [Td 9s 8c 2h] [Qh]
+sosedywka2: bets $0.50
+Quatrehuith: folds 
+Uncalled bet ($0.50) returned to sosedywka2
+sosedywka2 collected $0.53 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Td 9s 8c 2h Qh]
+Seat 1: MicroGamer86 (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) collected ($0.53)
+Seat 3: Quatrehuith folded on the River
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953106766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:59 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($15.24 in chips) 
+Seat 2: sosedywka2 ($7.55 in chips) 
+Seat 4: irp0k ($11.65 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($11.72 in chips) 
+sosedywka2: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: folds 
+Quatrehuith leaves the table
+nicucta: calls $0.10
+MicroGamer86: raises $0.30 to $0.40
+sosedywka2: folds 
+irp0k: folds 
+nicucta: calls $0.30
+*** FLOP *** [4s Kc Ts]
+nicucta: checks 
+MicroGamer86: bets $0.45
+kilativ7 joins the table at seat #3 
+nicucta: folds 
+Uncalled bet ($0.45) returned to MicroGamer86
+MicroGamer86 collected $0.91 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [4s Kc Ts]
+Seat 1: MicroGamer86 (button) collected ($0.91)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded on the Flop
+
+
+
+PokerStars Hand #222953120055:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:14:31 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($15.75 in chips) 
+Seat 2: sosedywka2 ($7.50 in chips) 
+Seat 4: irp0k ($11.55 in chips) 
+Seat 5: wma606 ($10 in chips) 
+Seat 6: nicucta ($11.32 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+MicroGamer86: folds 
+kilativ7 leaves the table
+sosedywka2: calls $0.10
+irp0k: folds 
+wma606: raises $0.30 to $0.40
+sosedywka2: calls $0.30
+*** FLOP *** [Ad 6s 9d]
+wma606: bets $0.57
+sosedywka2: calls $0.57
+*** TURN *** [Ad 6s 9d] [5h]
+wma606: bets $1.33
+sosedywka2: calls $1.33
+*** RIVER *** [Ad 6s 9d 5h] [5s]
+wma606: bets $3.11
+ivan2772ms joins the table at seat #3 
+sosedywka2: folds 
+Uncalled bet ($3.11) returned to wma606
+wma606 collected $4.44 from pot
+wma606: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.65 | Rake $0.21 
+Board [Ad 6s 9d 5h 5s]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded on the River
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) collected ($4.44)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953139743:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:15:19 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($15.75 in chips) 
+Seat 2: sosedywka2 ($5.20 in chips) 
+Seat 4: irp0k ($11.50 in chips) 
+Seat 5: wma606 ($12.14 in chips) 
+Seat 6: nicucta ($11.32 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+ivan2772ms: sits out 
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2: folds 
+irp0k: raises $0.20 to $0.30
+wma606: folds 
+nicucta: calls $0.20
+*** FLOP *** [Td Kc 4c]
+nicucta: checks 
+irp0k: bets $0.40
+nicucta: folds 
+Uncalled bet ($0.40) returned to irp0k
+irp0k collected $0.62 from pot
+irp0k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td Kc 4c]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 4: irp0k (button) collected ($0.62)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222953153043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:15:51 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($15.75 in chips) 
+Seat 2: sosedywka2 ($5.20 in chips) 
+Seat 4: irp0k ($11.82 in chips) 
+Seat 5: wma606 ($12.09 in chips) 
+Seat 6: nicucta ($11.02 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+ivan2772ms: sits out 
+*** HOLE CARDS ***
+sosedywka2: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.20 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: MicroGamer86 (big blind) folded before Flop
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222953159184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:06 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($15.65 in chips) 
+Seat 2: sosedywka2 ($5.20 in chips) 
+Seat 4: irp0k ($11.82 in chips) 
+Seat 5: wma606 ($12.09 in chips) 
+Seat 6: nicucta ($11.12 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+ivan2772ms: sits out 
+*** HOLE CARDS ***
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: raises $0.20 to $0.30
+sosedywka2: folds 
+Uncalled bet ($0.20) returned to MicroGamer86
+MicroGamer86 collected $0.20 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: MicroGamer86 (small blind) collected ($0.20)
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953170846:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:34 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($15.75 in chips) 
+Seat 2: sosedywka2 ($5.10 in chips) 
+Seat 3: ivan2772ms ($10 in chips) 
+Seat 4: irp0k ($11.82 in chips) 
+Seat 5: wma606 ($12.09 in chips) 
+Seat 6: nicucta ($11.12 in chips) 
+sosedywka2: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+irp0k: folds 
+wma606: raises $0.18 to $0.28
+nicucta: calls $0.28
+MicroGamer86: raises $0.99 to $1.27
+sosedywka2: folds 
+ivan2772ms: folds 
+wma606: folds 
+nicucta: folds 
+Uncalled bet ($0.99) returned to MicroGamer86
+MicroGamer86 collected $0.99 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0 
+Seat 1: MicroGamer86 (button) collected ($0.99)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ivan2772ms (big blind) folded before Flop
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop
+Seat 6: nicucta folded before Flop
+
+
+
+PokerStars Hand #222953181533:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:00 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($16.46 in chips) 
+Seat 2: sosedywka2 ($5.05 in chips) 
+Seat 3: ivan2772ms ($9.90 in chips) 
+Seat 4: irp0k ($11.82 in chips) 
+Seat 5: wma606 ($11.81 in chips) 
+Seat 6: nicucta ($10.84 in chips) 
+ivan2772ms: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: folds 
+nicucta: raises $0.10 to $0.20
+MicroGamer86: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+ivan2772ms: folds 
+irp0k: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.25 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ivan2772ms (small blind) folded before Flop
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta collected ($0.25)
+
+
+
+PokerStars Hand #222953191948:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:25 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($16.46 in chips) 
+Seat 3: ivan2772ms ($9.85 in chips) 
+Seat 4: irp0k ($11.72 in chips) 
+Seat 5: wma606 ($11.81 in chips) 
+Seat 6: nicucta ($10.99 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+MicroGamer86: folds 
+ivan2772ms: raises $0.15 to $0.25
+irp0k: folds 
+wma606: raises $0.60 to $0.85
+ivan2772ms: folds 
+Uncalled bet ($0.60) returned to wma606
+wma606 collected $0.55 from pot
+wma606: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 3: ivan2772ms (button) folded before Flop
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) collected ($0.55)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953199203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:42 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($16.46 in chips) 
+Seat 2: sosedywka2 ($5.05 in chips) 
+Seat 3: ivan2772ms ($10 in chips) 
+Seat 4: irp0k ($11.67 in chips) 
+Seat 5: wma606 ($12.11 in chips) 
+Seat 6: nicucta ($10.99 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2: calls $0.10
+ivan2772ms: folds 
+irp0k: raises $0.30 to $0.40
+wma606: folds 
+nicucta: folds 
+sosedywka2: calls $0.30
+*** FLOP *** [8h 7s 6d]
+sosedywka2: checks 
+irp0k: bets $0.50
+sosedywka2: calls $0.50
+*** TURN *** [8h 7s 6d] [6c]
+sosedywka2: checks 
+irp0k: checks 
+*** RIVER *** [8h 7s 6d 6c] [Qd]
+sosedywka2: checks 
+irp0k: bets $0.80
+sosedywka2: folds 
+Uncalled bet ($0.80) returned to irp0k
+irp0k collected $1.86 from pot
+irp0k: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [8h 7s 6d 6c Qd]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded on the River
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: irp0k (button) collected ($1.86)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953224951:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:18:43 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($16.46 in chips) 
+Seat 2: sosedywka2 ($4.15 in chips) 
+Seat 3: ivan2772ms ($10 in chips) 
+Seat 4: irp0k ($12.63 in chips) 
+Seat 5: wma606 ($12.06 in chips) 
+Seat 6: nicucta ($10.89 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+ivan2772ms: folds 
+irp0k: raises $0.20 to $0.30
+wma606: calls $0.30
+nicucta: folds 
+MicroGamer86: calls $0.20
+*** FLOP *** [Ts 5c 2s]
+MicroGamer86: checks 
+irp0k: checks 
+wma606: bets $0.64
+MicroGamer86: folds 
+irp0k: folds 
+Uncalled bet ($0.64) returned to wma606
+wma606 collected $0.91 from pot
+wma606: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Ts 5c 2s]
+Seat 1: MicroGamer86 (big blind) folded on the Flop
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: irp0k folded on the Flop
+Seat 5: wma606 (button) collected ($0.91)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953245115:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:19:31 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: MicroGamer86 ($16.16 in chips) 
+Seat 2: sosedywka2 ($4.15 in chips) 
+Seat 3: ivan2772ms ($10 in chips) 
+Seat 4: irp0k ($12.33 in chips) 
+Seat 5: wma606 ($12.67 in chips) 
+Seat 6: nicucta ($10.84 in chips) 
+MicroGamer86: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: raises $0.20 to $0.30
+sosedywka2: calls $0.20
+*** FLOP *** [Jd 5s 3h]
+MicroGamer86: bets $0.28
+sosedywka2: folds 
+Uncalled bet ($0.28) returned to MicroGamer86
+MicroGamer86 collected $0.57 from pot
+MicroGamer86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jd 5s 3h]
+Seat 1: MicroGamer86 (small blind) collected ($0.57)
+Seat 2: sosedywka2 (big blind) folded on the Flop
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953257150:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:00 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: MicroGamer86 ($16.43 in chips) 
+Seat 2: sosedywka2 ($3.85 in chips) 
+Seat 3: ivan2772ms ($10 in chips) 
+Seat 4: irp0k ($12.33 in chips) 
+Seat 5: wma606 ($12.67 in chips) 
+Seat 6: nicucta ($10.84 in chips) 
+sosedywka2: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+irp0k: folds 
+wma606: folds 
+nicucta: folds 
+MicroGamer86: folds 
+sosedywka2: folds 
+Uncalled bet ($0.05) returned to ivan2772ms
+ivan2772ms collected $0.10 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MicroGamer86 (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ivan2772ms (big blind) collected ($0.10)
+Seat 4: irp0k folded before Flop (didn't bet)
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953260267:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:07 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: MicroGamer86 ($16.43 in chips) 
+Seat 2: sosedywka2 ($3.80 in chips) 
+Seat 3: ivan2772ms ($10.05 in chips) 
+Seat 4: irp0k ($12.33 in chips) 
+Seat 5: wma606 ($12.67 in chips) 
+Seat 6: nicucta ($10.84 in chips) 
+ivan2772ms: posts small blind $0.05
+irp0k: posts big blind $0.10
+*** HOLE CARDS ***
+wma606: folds 
+nicucta: folds 
+MicroGamer86: raises $0.20 to $0.30
+sosedywka2: folds 
+ivan2772ms: raises $0.60 to $0.90
+irp0k: folds 
+MicroGamer86: folds 
+Uncalled bet ($0.60) returned to ivan2772ms
+ivan2772ms collected $0.70 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: MicroGamer86 folded before Flop
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ivan2772ms (small blind) collected ($0.70)
+Seat 4: irp0k (big blind) folded before Flop
+Seat 5: wma606 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953270114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:30 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: MicroGamer86 ($16.13 in chips) 
+Seat 2: sosedywka2 ($3.80 in chips) 
+Seat 3: ivan2772ms ($10.45 in chips) 
+Seat 4: irp0k ($12.23 in chips) 
+Seat 5: wma606 ($12.67 in chips) 
+Seat 6: nicucta ($10.84 in chips) 
+irp0k: posts small blind $0.05
+wma606: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: raises $0.20 to $0.30
+MicroGamer86: calls $0.30
+sosedywka2: folds 
+ivan2772ms: folds 
+irp0k: folds 
+wma606: calls $0.20
+*** FLOP *** [3d 4s Js]
+wma606: checks 
+nicucta: checks 
+MicroGamer86: bets $0.55
+wma606: calls $0.55
+nicucta: folds 
+*** TURN *** [3d 4s Js] [Ah]
+wma606: checks 
+MicroGamer86: checks 
+*** RIVER *** [3d 4s Js Ah] [9c]
+wma606: checks 
+MicroGamer86: checks 
+*** SHOW DOWN ***
+wma606: shows [6s 7c] (high card Ace)
+MicroGamer86: mucks hand 
+wma606 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [3d 4s Js Ah 9c]
+Seat 1: MicroGamer86 mucked
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms (button) folded before Flop (didn't bet)
+Seat 4: irp0k (small blind) folded before Flop
+Seat 5: wma606 (big blind) showed [6s 7c] and won ($1.96) with high card Ace
+Seat 6: nicucta folded on the Flop
+
+
+
+PokerStars Hand #222953291519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:21:20 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: MicroGamer86 ($15.28 in chips) 
+Seat 2: sosedywka2 ($3.80 in chips) 
+Seat 3: ivan2772ms ($10.45 in chips) 
+Seat 4: irp0k ($12.18 in chips) 
+Seat 5: wma606 ($13.78 in chips) 
+Seat 6: nicucta ($10.54 in chips) 
+wma606: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+MicroGamer86: folds 
+sosedywka2: calls $0.10
+ivan2772ms: folds 
+irp0k: folds 
+wma606: folds 
+nicucta: checks 
+*** FLOP *** [Td 7d Ks]
+nicucta: checks 
+sosedywka2: checks 
+*** TURN *** [Td 7d Ks] [4d]
+nicucta: bets $0.12
+sosedywka2: raises $3.58 to $3.70 and is all-in
+nicucta: folds 
+Uncalled bet ($3.58) returned to sosedywka2
+sosedywka2 collected $0.47 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Td 7d Ks 4d]
+Seat 1: MicroGamer86 folded before Flop (didn't bet)
+Seat 2: sosedywka2 collected ($0.47)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: irp0k (button) folded before Flop (didn't bet)
+Seat 5: wma606 (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222953305017:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:21:51 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: MicroGamer86 ($15.28 in chips) 
+Seat 2: sosedywka2 ($4.05 in chips) 
+Seat 3: ivan2772ms ($10.45 in chips) 
+Seat 4: irp0k ($12.18 in chips) 
+Seat 5: wma606 ($13.73 in chips) 
+Seat 6: nicucta ($10.32 in chips) 
+nicucta: posts small blind $0.05
+MicroGamer86: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+ivan2772ms: folds 
+irp0k: raises $0.20 to $0.30
+wma606: folds 
+nicucta: folds 
+MicroGamer86: folds 
+Uncalled bet ($0.20) returned to irp0k
+irp0k collected $0.25 from pot
+irp0k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: MicroGamer86 (big blind) folded before Flop
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: irp0k collected ($0.25)
+Seat 5: wma606 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953624194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:34:01 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 2: sosedywka2 ($4.82 in chips) 
+Seat 3: ivan2772ms ($10.68 in chips) 
+Seat 4: alexos04 ($10.87 in chips) 
+Seat 5: SThomas72 ($9.90 in chips) 
+Seat 6: nicucta ($33.07 in chips) 
+alexos04: posts small blind $0.05
+SThomas72: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+sosedywka2: folds 
+ivan2772ms: raises $0.15 to $0.25
+Mrburns.daoc joins the table at seat #1 
+alexos04: calls $0.20
+SThomas72: folds 
+*** FLOP *** [6s Jc Qs]
+alexos04: checks 
+ivan2772ms: bets $0.44
+alexos04: folds 
+Uncalled bet ($0.44) returned to ivan2772ms
+ivan2772ms collected $0.57 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6s Jc Qs]
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms (button) collected ($0.57)
+Seat 4: alexos04 (small blind) folded on the Flop
+Seat 5: SThomas72 (big blind) folded before Flop
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953640513:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:34:37 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 2: sosedywka2 ($4.82 in chips) 
+Seat 3: ivan2772ms ($11 in chips) 
+Seat 4: alexos04 ($10.62 in chips) 
+Seat 5: SThomas72 ($9.80 in chips) 
+Seat 6: nicucta ($33.07 in chips) 
+SThomas72: posts small blind $0.05
+nicucta: posts big blind $0.10
+Mrburns.daoc: sits out 
+*** HOLE CARDS ***
+sosedywka2: folds 
+ivan2772ms: folds 
+alexos04: folds 
+SThomas72: raises $0.10 to $0.20
+nicucta: folds 
+Uncalled bet ($0.10) returned to SThomas72
+SThomas72 collected $0.20 from pot
+SThomas72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: SThomas72 (small blind) collected ($0.20)
+Seat 6: nicucta (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953651175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:35:01 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Mrburns.daoc ($10 in chips) 
+Seat 2: sosedywka2 ($4.82 in chips) 
+Seat 3: ivan2772ms ($11 in chips) 
+Seat 4: alexos04 ($10.62 in chips) 
+Seat 5: SThomas72 ($9.90 in chips) 
+Seat 6: nicucta ($32.97 in chips) 
+nicucta: posts small blind $0.05
+Mrburns.daoc: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+ivan2772ms: folds 
+alexos04: folds 
+SThomas72: folds 
+nicucta: folds 
+Uncalled bet ($0.05) returned to Mrburns.daoc
+Mrburns.daoc collected $0.10 from pot
+Mrburns.daoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mrburns.daoc (big blind) collected ($0.10)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: SThomas72 (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953656026:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:35:13 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Mrburns.daoc ($10.05 in chips) 
+Seat 2: sosedywka2 ($4.82 in chips) 
+Seat 3: ivan2772ms ($11 in chips) 
+Seat 4: alexos04 ($10.62 in chips) 
+Seat 5: SThomas72 ($9.90 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+Mrburns.daoc: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+alexos04: folds 
+SThomas72: folds 
+nicucta: folds 
+Mrburns.daoc: raises $0.24 to $0.34
+sosedywka2: folds 
+Uncalled bet ($0.24) returned to Mrburns.daoc
+Mrburns.daoc collected $0.20 from pot
+Mrburns.daoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Mrburns.daoc (small blind) collected ($0.20)
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: SThomas72 folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953664010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:35:31 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Mrburns.daoc ($10.15 in chips) 
+Seat 2: sosedywka2 ($4.72 in chips) 
+Seat 3: ivan2772ms ($11 in chips) 
+Seat 4: alexos04 ($10.62 in chips) 
+Seat 5: SThomas72 ($9.90 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+sosedywka2: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+SThomas72: folds 
+nicucta: folds 
+Mrburns.daoc: raises $0.19 to $0.29
+sosedywka2: folds 
+ivan2772ms: folds 
+Uncalled bet ($0.19) returned to Mrburns.daoc
+Mrburns.daoc collected $0.25 from pot
+Mrburns.daoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mrburns.daoc (button) collected ($0.25)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ivan2772ms (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: SThomas72 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953672341:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:35:49 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Mrburns.daoc ($10.30 in chips) 
+Seat 2: sosedywka2 ($4.67 in chips) 
+Seat 3: ivan2772ms ($10.90 in chips) 
+Seat 4: alexos04 ($10.62 in chips) 
+Seat 5: SThomas72 ($9.90 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+ivan2772ms: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+SThomas72: calls $0.10
+nicucta: folds 
+Mrburns.daoc: folds 
+sosedywka2: folds 
+ivan2772ms: folds 
+alexos04: checks 
+*** FLOP *** [6h 5d Qd]
+alexos04: checks 
+SThomas72: checks 
+*** TURN *** [6h 5d Qd] [5h]
+alexos04: checks 
+SThomas72: bets $0.12
+alexos04: folds 
+Uncalled bet ($0.12) returned to SThomas72
+SThomas72 collected $0.24 from pot
+SThomas72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6h 5d Qd 5h]
+Seat 1: Mrburns.daoc folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ivan2772ms (small blind) folded before Flop
+Seat 4: alexos04 (big blind) folded on the Turn
+Seat 5: SThomas72 collected ($0.24)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953703943:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:37:00 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Mrburns.daoc ($10.30 in chips) 
+Seat 2: sosedywka2 ($4.67 in chips) 
+Seat 3: ivan2772ms ($10.85 in chips) 
+Seat 4: alexos04 ($10.52 in chips) 
+Seat 5: SThomas72 ($10.04 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+alexos04: posts small blind $0.05
+SThomas72: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: raises $0.10 to $0.20
+Mrburns.daoc: folds 
+sosedywka2: folds 
+ivan2772ms: folds 
+alexos04: folds 
+SThomas72: calls $0.10
+*** FLOP *** [Ks 6d Ah]
+SThomas72: checks 
+nicucta: checks 
+*** TURN *** [Ks 6d Ah] [4h]
+SThomas72: checks 
+nicucta: checks 
+*** RIVER *** [Ks 6d Ah 4h] [5c]
+SThomas72: bets $0.30
+nicucta: folds 
+Uncalled bet ($0.30) returned to SThomas72
+SThomas72 collected $0.43 from pot
+SThomas72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ks 6d Ah 4h 5c]
+Seat 1: Mrburns.daoc folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ivan2772ms (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: SThomas72 (big blind) collected ($0.43)
+Seat 6: nicucta folded on the River
+
+
+
+PokerStars Hand #222953726090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:37:50 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Mrburns.daoc ($10.30 in chips) 
+Seat 2: sosedywka2 ($4.67 in chips) 
+Seat 3: ivan2772ms ($10.85 in chips) 
+Seat 4: alexos04 ($10.47 in chips) 
+Seat 5: SThomas72 ($10.27 in chips) 
+Seat 6: nicucta ($32.72 in chips) 
+SThomas72: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+Mrburns.daoc: folds 
+sosedywka2: calls $0.10
+ivan2772ms: folds 
+alexos04: folds 
+SThomas72: calls $0.05
+nicucta: raises $1 to $1.10
+sosedywka2: folds 
+SThomas72: folds 
+Uncalled bet ($1) returned to nicucta
+nicucta collected $0.30 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: Mrburns.daoc folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded before Flop
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: SThomas72 (small blind) folded before Flop
+Seat 6: nicucta (big blind) collected ($0.30)
+
+
+
+PokerStars Hand #222953735192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:38:11 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Mrburns.daoc ($10.30 in chips) 
+Seat 2: sosedywka2 ($4.57 in chips) 
+Seat 3: ivan2772ms ($10.85 in chips) 
+Seat 4: alexos04 ($10.47 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+Mrburns.daoc: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+alexos04: raises $0.20 to $0.30
+nicucta: folds 
+Mrburns.daoc: raises $0.90 to $1.20
+sosedywka2: folds 
+alexos04: folds 
+Uncalled bet ($0.90) returned to Mrburns.daoc
+Mrburns.daoc collected $0.70 from pot
+Mrburns.daoc: doesn't show hand 
+SThomas72 leaves the table
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Mrburns.daoc (small blind) collected ($0.70)
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953747519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:38:38 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Mrburns.daoc ($10.70 in chips) 
+Seat 2: sosedywka2 ($4.47 in chips) 
+Seat 3: ivan2772ms ($10.85 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+sosedywka2: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu joins the table at seat #5 
+nicucta: folds 
+Mrburns.daoc: raises $0.19 to $0.29
+sosedywka2: folds 
+ivan2772ms: folds 
+Uncalled bet ($0.19) returned to Mrburns.daoc
+Mrburns.daoc collected $0.25 from pot
+Mrburns.daoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mrburns.daoc (button) collected ($0.25)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ivan2772ms (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953755774:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:38:57 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Mrburns.daoc ($10.85 in chips) 
+Seat 2: sosedywka2 ($4.42 in chips) 
+Seat 3: ivan2772ms ($10.75 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+ivan2772ms: posts small blind $0.05
+alexos04: posts big blind $0.10
+praghu: sits out 
+*** HOLE CARDS ***
+nicucta: folds 
+Mrburns.daoc: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+ivan2772ms: folds 
+Uncalled bet ($0.05) returned to alexos04
+alexos04 collected $0.10 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mrburns.daoc folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ivan2772ms (small blind) folded before Flop
+Seat 4: alexos04 (big blind) collected ($0.10)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953768400:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:39:25 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Mrburns.daoc ($10.85 in chips) 
+Seat 3: ivan2772ms ($10.70 in chips) 
+Seat 4: alexos04 ($10.22 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+Mrburns.daoc: folds 
+ivan2772ms: raises $0.15 to $0.25
+alexos04: folds 
+praghu: calls $0.15
+*** FLOP *** [7c Kh Tc]
+praghu: checks 
+ivan2772ms: checks 
+*** TURN *** [7c Kh Tc] [Ad]
+praghu: checks 
+ivan2772ms: bets $0.40
+praghu: folds 
+Uncalled bet ($0.40) returned to ivan2772ms
+ivan2772ms collected $0.53 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [7c Kh Tc Ad]
+Seat 1: Mrburns.daoc folded before Flop (didn't bet)
+Seat 3: ivan2772ms (button) collected ($0.53)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) folded on the Turn
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953787836:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:40:08 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Mrburns.daoc ($10.85 in chips) 
+Seat 3: ivan2772ms ($10.98 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+praghu: posts small blind $0.05
+nicucta: posts big blind $0.10
+*** HOLE CARDS ***
+Mrburns.daoc: folds 
+ivan2772ms: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to nicucta
+nicucta collected $0.10 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mrburns.daoc folded before Flop (didn't bet)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: nicucta (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222953790222:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:40:14 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Mrburns.daoc ($10.85 in chips) 
+Seat 3: ivan2772ms ($10.98 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: nicucta ($32.97 in chips) 
+nicucta: posts small blind $0.05
+Mrburns.daoc: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: raises $0.20 to $0.30
+alexos04: folds 
+praghu: raises $0.60 to $0.90
+nicucta: folds 
+Mrburns.daoc: folds 
+ivan2772ms: raises $1.50 to $2.40
+praghu: folds 
+Uncalled bet ($1.50) returned to ivan2772ms
+ivan2772ms collected $1.95 from pot
+ivan2772ms: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: Mrburns.daoc (big blind) folded before Flop
+Seat 3: ivan2772ms collected ($1.95)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded before Flop
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953811833:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:41:02 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Mrburns.daoc ($10.75 in chips) 
+Seat 2: sosedywka2 ($4.42 in chips) 
+Seat 3: ivan2772ms ($12.03 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+Mrburns.daoc: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ivan2772ms: folds 
+alexos04: folds 
+praghu: folds 
+nicucta: folds 
+Mrburns.daoc: folds 
+Uncalled bet ($0.05) returned to sosedywka2
+sosedywka2 collected $0.10 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mrburns.daoc (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) collected ($0.10)
+Seat 3: ivan2772ms folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953817675:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:41:15 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Mrburns.daoc ($10.70 in chips) 
+Seat 2: sosedywka2 ($4.47 in chips) 
+Seat 3: ivan2772ms ($12.03 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: nicucta ($32.92 in chips) 
+sosedywka2: posts small blind $0.05
+ivan2772ms: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: folds 
+nicucta: raises $0.10 to $0.20
+Mrburns.daoc: folds 
+sosedywka2: folds 
+ivan2772ms: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.25 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mrburns.daoc (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ivan2772ms (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: nicucta collected ($0.25)
+
+
+
+PokerStars Hand #222953826070:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:41:34 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 2: sosedywka2 ($4.42 in chips) 
+Seat 3: ivan2772ms ($11.93 in chips) 
+Seat 4: alexos04 ($10.17 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: nicucta ($33.07 in chips) 
+ivan2772ms: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: raises $0.20 to $0.30
+nicucta: folds 
+sosedywka2: folds 
+ivan2772ms: folds 
+alexos04: calls $0.20
+*** FLOP *** [4s 5c 3c]
+alexos04: checks 
+praghu: bets $0.31
+alexos04: folds 
+Uncalled bet ($0.31) returned to praghu
+praghu collected $0.62 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4s 5c 3c]
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ivan2772ms (small blind) folded before Flop
+Seat 4: alexos04 (big blind) folded on the Flop
+Seat 5: praghu collected ($0.62)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954248924:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:57:20 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 2: sosedywka2 ($8.18 in chips) 
+Seat 4: alexos04 ($10.05 in chips) 
+Seat 5: praghu ($11.69 in chips) 
+Seat 6: nicucta ($40.87 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+Indangeriam: sits out 
+*** HOLE CARDS ***
+nicucta: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+alexos04: folds 
+Uncalled bet ($0.05) returned to praghu
+praghu collected $0.10 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) collected ($0.10)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954257252:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:57:43 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 4: alexos04 ($10 in chips) 
+Seat 5: praghu ($11.74 in chips) 
+Seat 6: nicucta ($40.87 in chips) 
+praghu: posts small blind $0.05
+nicucta: posts big blind $0.10
+Indangeriam: sits out 
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: raises $0.12 to $0.22
+nicucta: folds 
+Uncalled bet ($0.12) returned to praghu
+praghu collected $0.20 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) collected ($0.20)
+Seat 6: nicucta (big blind) folded before Flop
+
+
+
+PokerStars Hand #222954261653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:57:55 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 4: alexos04 ($10 in chips) 
+Seat 5: praghu ($11.84 in chips) 
+Seat 6: nicucta ($40.77 in chips) 
+nicucta: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: folds 
+nicucta: folds 
+Uncalled bet ($0.05) returned to Indangeriam
+Indangeriam collected $0.10 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (big blind) collected ($0.10)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954264197:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:58:02 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.05 in chips) 
+Seat 4: alexos04 ($10 in chips) 
+Seat 5: praghu ($11.84 in chips) 
+Seat 6: nicucta ($40.72 in chips) 
+Indangeriam: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+nicucta: raises $0.10 to $0.20
+Indangeriam: folds 
+alexos04: raises $0.70 to $0.90
+nicucta: folds 
+Uncalled bet ($0.70) returned to alexos04
+alexos04 collected $0.45 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 4: alexos04 (big blind) collected ($0.45)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: nicucta (button) folded before Flop
+
+
+
+PokerStars Hand #222954269747:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:58:17 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 4: alexos04 ($10.25 in chips) 
+Seat 5: praghu ($11.84 in chips) 
+Seat 6: nicucta ($40.52 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: folds 
+Indangeriam: folds 
+alexos04: folds 
+Uncalled bet ($0.05) returned to praghu
+praghu collected $0.10 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) collected ($0.10)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954274947:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:58:31 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 4: alexos04 ($10.20 in chips) 
+Seat 5: praghu ($11.89 in chips) 
+Seat 6: nicucta ($40.52 in chips) 
+praghu: posts small blind $0.05
+nicucta: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+Indangeriam: folds 
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+nicucta: calls $0.20
+*** FLOP *** [9d 6s 8s]
+nicucta: bets $0.10
+alexos04: raises $0.50 to $0.60
+nicucta: folds 
+Uncalled bet ($0.50) returned to alexos04
+alexos04 collected $0.81 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [9d 6s 8s]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 4: alexos04 (button) collected ($0.81)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: nicucta (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222954284802:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:58:58 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 4: alexos04 ($10.61 in chips) 
+Seat 5: praghu ($11.84 in chips) 
+Seat 6: nicucta ($40.12 in chips) 
+nicucta: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: raises $0.20 to $0.30
+nicucta: folds 
+Indangeriam: folds 
+Uncalled bet ($0.20) returned to praghu
+praghu collected $0.25 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) collected ($0.25)
+Seat 6: nicucta (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954289405:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:59:11 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 2: sosedywka2 ($8.18 in chips) 
+Seat 4: alexos04 ($10.61 in chips) 
+Seat 5: praghu ($11.99 in chips) 
+Seat 6: nicucta ($40.07 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: raises $0.20 to $0.30
+nicucta: calls $0.30
+Indangeriam: folds 
+sosedywka2: folds 
+*** FLOP *** [3c Qh Tc]
+ivan2772ms leaves the table
+praghu: bets $0.40
+nicucta: calls $0.40
+*** TURN *** [3c Qh Tc] [2d]
+praghu: checks 
+nicucta: bets $0.90
+praghu: calls $0.90
+*** RIVER *** [3c Qh Tc 2d] [9s]
+praghu: checks 
+nicucta: bets $1.70
+praghu: folds 
+Uncalled bet ($1.70) returned to nicucta
+nicucta collected $3.20 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [3c Qh Tc 2d 9s]
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded on the River
+Seat 6: nicucta (button) collected ($3.20)
+
+
+
+PokerStars Hand #222954310821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:00:09 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 2: sosedywka2 ($8.08 in chips) 
+Seat 4: alexos04 ($10.61 in chips) 
+Seat 5: praghu ($10.39 in chips) 
+Seat 6: nicucta ($41.67 in chips) 
+sosedywka2: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+nicucta: folds 
+Indangeriam: raises $0.20 to $0.30
+sosedywka2: folds 
+alexos04: folds 
+Uncalled bet ($0.20) returned to Indangeriam
+Indangeriam collected $0.25 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (button) collected ($0.25)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: nicucta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954315964:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:00:23 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Indangeriam ($10.15 in chips) 
+Seat 2: sosedywka2 ($8.03 in chips) 
+Seat 4: alexos04 ($10.51 in chips) 
+Seat 5: praghu ($10.39 in chips) 
+Seat 6: nicucta ($41.67 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+nicucta: raises $0.10 to $0.20
+Indangeriam: folds 
+sosedywka2: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.10) returned to nicucta
+nicucta collected $0.25 from pot
+nicucta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) folded before Flop
+Seat 6: nicucta collected ($0.25)
+
+
+
+PokerStars Hand #222954320833:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:00:35 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.15 in chips) 
+Seat 2: sosedywka2 ($8.03 in chips) 
+Seat 4: alexos04 ($10.46 in chips) 
+Seat 5: praghu ($10.29 in chips) 
+praghu: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to Indangeriam
+Indangeriam collected $0.10 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (big blind) collected ($0.10)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954324096:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:00:44 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.20 in chips) 
+Seat 2: sosedywka2 ($8.03 in chips) 
+Seat 4: alexos04 ($10.46 in chips) 
+Seat 5: praghu ($10.24 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: raises $0.20 to $0.30
+ledezma mf joins the table at seat #3 
+praghu: calls $0.30
+Indangeriam: folds 
+sosedywka2: calls $0.20
+*** FLOP *** [8h 8c 5c]
+sosedywka2: checks 
+alexos04: checks 
+praghu: bets $0.70
+sosedywka2: folds 
+alexos04: folds 
+Uncalled bet ($0.70) returned to praghu
+praghu collected $0.91 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8h 8c 5c]
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded on the Flop
+Seat 4: alexos04 folded on the Flop
+Seat 5: praghu (button) collected ($0.91)
+
+
+
+PokerStars Hand #222954346272:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:01:28 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.15 in chips) 
+Seat 2: sosedywka2 ($7.73 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($10.16 in chips) 
+Seat 5: praghu ($10.85 in chips) 
+sosedywka2: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+Indangeriam: folds 
+sosedywka2: folds 
+ledezma mf: folds 
+Uncalled bet ($0.20) returned to alexos04
+alexos04 collected $0.25 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) folded before Flop
+Seat 4: alexos04 collected ($0.25)
+Seat 5: praghu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954354613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:01:47 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Indangeriam ($10.15 in chips) 
+Seat 2: sosedywka2 ($7.68 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($10.31 in chips) 
+Seat 5: praghu ($10.85 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+Indangeriam: folds 
+sosedywka2: folds 
+ledezma mf: raises $0.20 to $0.30
+alexos04: folds 
+Uncalled bet ($0.20) returned to ledezma mf
+ledezma mf collected $0.20 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) collected ($0.20)
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 5: praghu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954362656:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:02:04 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.15 in chips) 
+Seat 2: sosedywka2 ($7.68 in chips) 
+Seat 3: ledezma mf ($10.10 in chips) 
+Seat 4: alexos04 ($10.21 in chips) 
+Seat 5: praghu ($10.85 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: raises $0.20 to $0.30
+sosedywka2: folds 
+ledezma mf: folds 
+alexos04: calls $0.25
+praghu: folds 
+*** FLOP *** [2h Ks 6c]
+alexos04: checks 
+Indangeriam: bets $0.40
+alexos04: calls $0.40
+*** TURN *** [2h Ks 6c] [9d]
+alexos04: checks 
+Indangeriam: checks 
+*** RIVER *** [2h Ks 6c 9d] [5c]
+alexos04: checks 
+Indangeriam: checks 
+*** SHOW DOWN ***
+alexos04: shows [Kd Td] (a pair of Kings)
+Indangeriam: mucks hand 
+alexos04 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [2h Ks 6c 9d 5c]
+Seat 1: Indangeriam mucked
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) showed [Kd Td] and won ($1.43) with a pair of Kings
+Seat 5: praghu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222954390348:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:03:01 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 2: sosedywka2 ($7.68 in chips) 
+Seat 3: ledezma mf ($10.10 in chips) 
+Seat 4: alexos04 ($10.94 in chips) 
+Seat 5: praghu ($10.75 in chips) 
+praghu: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: folds 
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to Indangeriam
+Indangeriam collected $0.10 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (big blind) collected ($0.10)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954403156:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:03:27 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.05 in chips) 
+Seat 2: sosedywka2 ($7.68 in chips) 
+Seat 3: ledezma mf ($10.10 in chips) 
+Seat 4: alexos04 ($10.94 in chips) 
+Seat 5: praghu ($10.70 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: folds 
+praghu: raises $0.20 to $0.30
+Indangeriam: folds 
+sosedywka2: folds 
+Uncalled bet ($0.20) returned to praghu
+praghu collected $0.25 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) collected ($0.25)
+
+
+
+PokerStars Hand #222954413998:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:03:50 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10 in chips) 
+Seat 2: sosedywka2 ($7.58 in chips) 
+Seat 3: ledezma mf ($10.10 in chips) 
+Seat 4: alexos04 ($10.94 in chips) 
+Seat 5: praghu ($10.85 in chips) 
+sosedywka2: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: raises $0.20 to $0.30
+Indangeriam: calls $0.30
+sosedywka2: folds 
+ledezma mf: folds 
+*** FLOP *** [Jd Th 6h]
+praghu: checks 
+Indangeriam: bets $0.54
+praghu: calls $0.54
+*** TURN *** [Jd Th 6h] [Qs]
+praghu: checks 
+Indangeriam: checks 
+*** RIVER *** [Jd Th 6h Qs] [Qh]
+praghu: checks 
+Indangeriam: bets $1.31
+praghu: folds 
+Uncalled bet ($1.31) returned to Indangeriam
+Indangeriam collected $1.75 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.08 
+Board [Jd Th 6h Qs Qh]
+Seat 1: Indangeriam (button) collected ($1.75)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded on the River
+
+
+
+PokerStars Hand #222954459622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:05:23 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Indangeriam ($10.91 in chips) 
+Seat 2: sosedywka2 ($7.53 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($10.94 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+sosedywka2: folds 
+ledezma mf: raises $0.20 to $0.30
+alexos04: folds 
+Uncalled bet ($0.20) returned to ledezma mf
+ledezma mf collected $0.20 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) collected ($0.20)
+Seat 4: alexos04 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222954470004:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:05:45 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.91 in chips) 
+Seat 2: sosedywka2 ($7.53 in chips) 
+Seat 3: ledezma mf ($10.10 in chips) 
+Seat 4: alexos04 ($10.84 in chips) 
+alexos04: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2 has timed out
+sosedywka2: folds 
+ledezma mf: raises $0.15 to $0.25
+alexos04: folds 
+Indangeriam: calls $0.15
+*** FLOP *** [Ts 9s Ad]
+Indangeriam: checks 
+ledezma mf: bets $0.17
+Indangeriam: calls $0.17
+*** TURN *** [Ts 9s Ad] [2c]
+Indangeriam: checks 
+ledezma mf: checks 
+*** RIVER *** [Ts 9s Ad 2c] [9c]
+Indangeriam: checks 
+ledezma mf: bets $0.43
+Indangeriam: folds 
+Uncalled bet ($0.43) returned to ledezma mf
+ledezma mf collected $0.85 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [Ts 9s Ad 2c 9c]
+Seat 1: Indangeriam (big blind) folded on the River
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) collected ($0.85)
+Seat 4: alexos04 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954508665:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:07:03 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.49 in chips) 
+Seat 2: sosedywka2 ($7.53 in chips) 
+Seat 3: ledezma mf ($10.53 in chips) 
+Seat 4: alexos04 ($10.79 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: raises $0.20 to $0.30
+alexos04: folds 
+Indangeriam: folds 
+sosedywka2: calls $0.20
+*** FLOP *** [Ts 6c 3h]
+sosedywka2: checks 
+ledezma mf: bets $0.20
+sosedywka2: calls $0.20
+*** TURN *** [Ts 6c 3h] [Tc]
+sosedywka2: checks 
+ledezma mf: checks 
+*** RIVER *** [Ts 6c 3h Tc] [5c]
+sosedywka2: checks 
+ledezma mf: bets $0.51
+sosedywka2: folds 
+Uncalled bet ($0.51) returned to ledezma mf
+ledezma mf collected $1 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Ts 6c 3h Tc 5c]
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded on the River
+Seat 3: ledezma mf collected ($1)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954543637:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:08:14 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 2: sosedywka2 ($7.03 in chips) 
+Seat 3: ledezma mf ($11.03 in chips) 
+Seat 4: alexos04 ($10.79 in chips) 
+sosedywka2: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+Indangeriam: raises $0.20 to $0.30
+sosedywka2: folds 
+ledezma mf: folds 
+Uncalled bet ($0.20) returned to Indangeriam
+Indangeriam collected $0.25 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (button) collected ($0.25)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954551875:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:08:31 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 2: sosedywka2 ($6.98 in chips) 
+Seat 3: ledezma mf ($10.93 in chips) 
+Seat 4: alexos04 ($10.79 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+ledezma mf: raises $0.20 to $0.30
+alexos04: calls $0.20
+*** FLOP *** [Jd Qh Jh]
+ledezma mf: bets $0.29
+alexos04: calls $0.29
+*** TURN *** [Jd Qh Jh] [2h]
+ledezma mf: checks 
+alexos04: checks 
+*** RIVER *** [Jd Qh Jh 2h] [3d]
+ledezma mf: checks 
+alexos04: bets $0.40
+ledezma mf: calls $0.40
+*** SHOW DOWN ***
+alexos04: shows [Qs Ts] (two pair, Queens and Jacks)
+ledezma mf: mucks hand 
+alexos04 collected $1.89 from pot
+*** SUMMARY ***
+Total pot $1.98 | Rake $0.09 
+Board [Jd Qh Jh 2h 3d]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) mucked
+Seat 4: alexos04 (big blind) showed [Qs Ts] and won ($1.89) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222954583064:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:09:34 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 2: sosedywka2 ($6.98 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.69 in chips) 
+alexos04: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2 has timed out
+sosedywka2: folds 
+ledezma mf: folds 
+alexos04: folds 
+Uncalled bet ($0.05) returned to Indangeriam
+Indangeriam collected $0.10 from pot
+nicucta was removed from the table for failing to post
+nicucta leaves the table
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (big blind) collected ($0.10)
+Seat 2: sosedywka2 folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954593783:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:09:56 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.64 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.64 in chips) 
+Indangeriam: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06 joins the table at seat #6 
+alexos04: folds 
+Indangeriam: folds 
+Uncalled bet ($0.05) returned to ledezma mf
+ledezma mf collected $0.10 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) collected ($0.10)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954597446:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:10:03 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 3: ledezma mf ($10.05 in chips) 
+Seat 4: alexos04 ($11.64 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+praghu: sits out 
+saitam_06: sits out 
+*** HOLE CARDS ***
+Indangeriam: folds 
+ledezma mf: folds 
+Uncalled bet ($0.05) returned to alexos04
+alexos04 collected $0.10 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) folded before Flop
+Seat 4: alexos04 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222954600470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:10:10 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 2: sosedywka2 ($6.98 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.69 in chips) 
+Seat 5: praghu ($10.01 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+saitam_06: sits out 
+sosedywka2: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Indangeriam: folds 
+sosedywka2: checks 
+ledezma mf: folds 
+alexos04: calls $0.05
+praghu: checks 
+*** FLOP *** [Td 8s 5s]
+alexos04: checks 
+praghu: checks 
+sosedywka2: checks 
+*** TURN *** [Td 8s 5s] [Kh]
+alexos04: checks 
+praghu: checks 
+sosedywka2: bets $0.30
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.30) returned to sosedywka2
+sosedywka2 collected $0.33 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [Td 8s 5s Kh]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 collected ($0.33)
+Seat 3: ledezma mf (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded on the Turn
+Seat 5: praghu (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222954636831:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:11:23 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 2: sosedywka2 ($7.16 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.59 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+sosedywka2: calls $0.10
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+saitam_06: raises $0.40 to $0.50
+sosedywka2: calls $0.40
+*** FLOP *** [4d 3s 5s]
+saitam_06: checks 
+sosedywka2: checks 
+*** TURN *** [4d 3s 5s] [6d]
+saitam_06: bets $0.33
+sosedywka2: folds 
+Uncalled bet ($0.33) returned to saitam_06
+saitam_06 collected $1 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [4d 3s 5s 6d]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 folded on the Turn
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) collected ($1)
+
+
+
+PokerStars Hand #222954655931:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:12:01 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 2: sosedywka2 ($6.66 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.59 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.50 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+sosedywka2: calls $0.10
+ledezma mf: folds 
+alexos04: folds 
+praghu: calls $0.10
+saitam_06: calls $0.05
+Indangeriam: checks 
+*** FLOP *** [Kh 4s 3s]
+saitam_06: checks 
+Indangeriam: checks 
+sosedywka2: checks 
+praghu: checks 
+*** TURN *** [Kh 4s 3s] [Qs]
+saitam_06: bets $0.29
+Indangeriam: folds 
+sosedywka2: folds 
+praghu: folds 
+Uncalled bet ($0.29) returned to saitam_06
+saitam_06 collected $0.38 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kh 4s 3s Qs]
+Seat 1: Indangeriam (big blind) folded on the Turn
+Seat 2: sosedywka2 folded on the Turn
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded on the Turn
+Seat 6: saitam_06 (small blind) collected ($0.38)
+
+
+
+PokerStars Hand #222954675566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:12:41 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.49 in chips) 
+Seat 2: sosedywka2 ($6.56 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.59 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2: folds 
+Uncalled bet ($0.20) returned to alexos04
+alexos04 collected $0.25 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 collected ($0.25)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954687980:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:13:05 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 2: sosedywka2 ($6.46 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.74 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+sosedywka2: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2: folds 
+ledezma mf: folds 
+Uncalled bet ($0.20) returned to alexos04
+alexos04 collected $0.25 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) folded before Flop
+Seat 4: alexos04 collected ($0.25)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954705973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:13:41 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 2: sosedywka2 ($6.41 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.89 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+ledezma mf: raises $0.20 to $0.30
+alexos04: folds 
+Uncalled bet ($0.20) returned to ledezma mf
+ledezma mf collected $0.20 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) collected ($0.20)
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954724433:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:14:18 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.10 in chips) 
+Seat 4: alexos04 ($11.79 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: raises $0.15 to $0.25
+alexos04: calls $0.20
+praghu: folds 
+*** FLOP *** [Jd 8c Qc]
+alexos04: checks 
+ledezma mf: checks 
+*** TURN *** [Jd 8c Qc] [Kc]
+alexos04: checks 
+ledezma mf: checks 
+*** RIVER *** [Jd 8c Qc Kc] [8h]
+alexos04: checks 
+ledezma mf: checks 
+*** SHOW DOWN ***
+alexos04: shows [6h 7h] (a pair of Eights)
+ledezma mf: shows [Ad 4h] (a pair of Eights - Ace kicker)
+ledezma mf collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jd 8c Qc Kc 8h]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) showed [Ad 4h] and won ($0.57) with a pair of Eights
+Seat 4: alexos04 (small blind) showed [6h 7h] and lost with a pair of Eights
+Seat 5: praghu (big blind) folded before Flop
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954743921:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:14:57 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.42 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to saitam_06
+saitam_06 collected $0.10 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222954747787:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:15:05 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.42 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.83 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+saitam_06: folds 
+Uncalled bet ($0.05) returned to Indangeriam
+Indangeriam collected $0.10 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (big blind) collected ($0.10)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: saitam_06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954753970:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:15:17 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.49 in chips) 
+Seat 3: ledezma mf ($10.42 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+Indangeriam: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: folds 
+saitam_06: raises $0.15 to $0.25
+Indangeriam: folds 
+ledezma mf: folds 
+Uncalled bet ($0.15) returned to saitam_06
+saitam_06 collected $0.25 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222954761137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:15:32 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.32 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: folds 
+Uncalled bet ($0.05) returned to alexos04
+alexos04 collected $0.10 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) folded before Flop
+Seat 4: alexos04 (big blind) collected ($0.10)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954766067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:15:42 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.59 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+Uncalled bet ($0.05) returned to praghu
+praghu collected $0.10 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) collected ($0.10)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954775812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:16:01 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10.05 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to saitam_06
+saitam_06 collected $0.10 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222954782342:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:16:15 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.98 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: raises $0.20 to $0.30
+alexos04: folds 
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+Uncalled bet ($0.20) returned to ledezma mf
+ledezma mf collected $0.25 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (big blind) folded before Flop
+Seat 3: ledezma mf collected ($0.25)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: saitam_06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954791280:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:16:32 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.34 in chips) 
+Seat 3: ledezma mf ($10.42 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+Indangeriam: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: folds 
+saitam_06: folds 
+Indangeriam: raises $0.20 to $0.30
+ledezma mf: folds 
+Uncalled bet ($0.20) returned to Indangeriam
+Indangeriam collected $0.20 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam (small blind) collected ($0.20)
+Seat 3: ledezma mf (big blind) folded before Flop
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954801285:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:16:53 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.32 in chips) 
+Seat 4: alexos04 ($11.54 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+saitam_06: folds 
+Indangeriam: raises $0.20 to $0.30
+ledezma mf: folds 
+alexos04: folds 
+Uncalled bet ($0.20) returned to Indangeriam
+Indangeriam collected $0.25 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (button) collected ($0.25)
+Seat 3: ledezma mf (small blind) folded before Flop
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954813429:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:17:17 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 2: sosedywka2 ($6.41 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.44 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+sosedywka2: posts small & big blinds $0.15
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2: checks 
+ledezma mf: folds 
+alexos04: folds 
+praghu: checks 
+*** FLOP *** [3d 7d 9h]
+praghu: checks 
+sosedywka2: checks 
+*** TURN *** [3d 7d 9h] [Jd]
+praghu: checks 
+sosedywka2: checks 
+*** RIVER *** [3d 7d 9h Jd] [8d]
+praghu: checks 
+sosedywka2: bets $0.30
+praghu: folds 
+Uncalled bet ($0.30) returned to sosedywka2
+sosedywka2 collected $0.29 from pot
+sosedywka2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3d 7d 9h Jd 8d]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 collected ($0.29)
+Seat 3: ledezma mf (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) folded on the River
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954850977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:18:32 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.39 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to saitam_06
+saitam_06 collected $0.10 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222954854452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:18:39 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.59 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.39 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.98 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+saitam_06: raises $0.15 to $0.25
+Indangeriam: folds 
+Uncalled bet ($0.15) returned to saitam_06
+saitam_06 collected $0.20 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam (big blind) folded before Flop
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: saitam_06 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222954862466:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:18:55 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.49 in chips) 
+Seat 3: ledezma mf ($10.27 in chips) 
+Seat 4: alexos04 ($11.39 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($11.08 in chips) 
+Indangeriam: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: raises $0.20 to $0.30
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: calls $0.20
+*** FLOP *** [4s 8d 6h]
+ledezma mf: checks 
+praghu: checks 
+*** TURN *** [4s 8d 6h] [8c]
+ledezma mf: checks 
+praghu: checks 
+*** RIVER *** [4s 8d 6h 8c] [Ac]
+ledezma mf: checks 
+praghu: bets $0.31
+ledezma mf: folds 
+Uncalled bet ($0.31) returned to praghu
+praghu collected $0.62 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4s 8d 6h 8c Ac]
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) folded on the River
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu collected ($0.62)
+Seat 6: saitam_06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954900037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:20:10 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.39 in chips) 
+Seat 5: praghu ($10.32 in chips) 
+Seat 6: saitam_06 ($11.08 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: raises $0.20 to $0.30
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+Uncalled bet ($0.20) returned to praghu
+praghu collected $0.25 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) folded before Flop
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 5: praghu collected ($0.25)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954904370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:20:19 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.29 in chips) 
+Seat 5: praghu ($10.47 in chips) 
+Seat 6: saitam_06 ($11.08 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+Uncalled bet ($0.05) returned to praghu
+praghu collected $0.10 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) collected ($0.10)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954909369:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:20:29 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.52 in chips) 
+Seat 6: saitam_06 ($11.08 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+Indangeriam: folds 
+ledezma mf: raises $0.20 to $0.30
+alexos04: folds 
+praghu: calls $0.25
+saitam_06: folds 
+*** FLOP *** [8d Tc Ac]
+praghu: checks 
+ledezma mf: bets $0.22
+praghu: calls $0.22
+*** TURN *** [8d Tc Ac] [Kc]
+praghu: checks 
+ledezma mf: bets $0.60
+praghu: folds 
+Uncalled bet ($0.60) returned to ledezma mf
+ledezma mf collected $1.09 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [8d Tc Ac Kc]
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf collected ($1.09)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded on the Turn
+Seat 6: saitam_06 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222954941206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:21:32 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.57 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10 in chips) 
+Seat 6: saitam_06 ($10.98 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: folds 
+praghu: raises $0.20 to $0.30
+saitam_06: folds 
+Indangeriam: folds 
+Uncalled bet ($0.20) returned to praghu
+praghu collected $0.25 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (big blind) folded before Flop
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) collected ($0.25)
+Seat 6: saitam_06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954947221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:21:44 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.34 in chips) 
+Seat 2: sosedywka2 ($6.55 in chips) 
+Seat 3: ledezma mf ($10.57 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.15 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+saitam_06: folds 
+Indangeriam: raises $0.20 to $0.30
+sosedywka2: folds 
+Uncalled bet ($0.20) returned to Indangeriam
+Indangeriam collected $0.20 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam (small blind) collected ($0.20)
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954957040:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:22:04 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 2: sosedywka2 ($6.45 in chips) 
+Seat 3: ledezma mf ($10.57 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.15 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+sosedywka2: posts small blind $0.05
+ledezma mf: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2: folds 
+Uncalled bet ($0.05) returned to ledezma mf
+ledezma mf collected $0.10 from pot
+ledezma mf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 2: sosedywka2 (small blind) folded before Flop
+Seat 3: ledezma mf (big blind) collected ($0.10)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954961019:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:22:12 ET
+Table 'Sarita III' 6-max Seat #2 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 2: sosedywka2 ($6.40 in chips) 
+Seat 3: ledezma mf ($10.62 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.15 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+ledezma mf: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+ledezma mf: folds 
+Uncalled bet ($0.05) returned to alexos04
+alexos04 collected $0.10 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 2: sosedywka2 (button) folded before Flop (didn't bet)
+Seat 3: ledezma mf (small blind) folded before Flop
+Seat 4: alexos04 (big blind) collected ($0.10)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954972168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:22:34 ET
+Table 'Sarita III' 6-max Seat #3 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.57 in chips) 
+Seat 4: alexos04 ($11.29 in chips) 
+Seat 5: praghu ($10.15 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+ledezma mf: raises $0.15 to $0.25
+alexos04: folds 
+praghu: raises $0.75 to $1
+ledezma mf: folds 
+Uncalled bet ($0.75) returned to praghu
+praghu collected $0.55 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf (button) folded before Flop
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) collected ($0.55)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222954984242:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:22:58 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.32 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.45 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+Uncalled bet ($0.05) returned to saitam_06
+saitam_06 collected $0.10 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222954989341:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:23:08 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 3: ledezma mf ($10.32 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.40 in chips) 
+Seat 6: saitam_06 ($10.98 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+*** HOLE CARDS ***
+ledezma mf: folds 
+alexos04: folds 
+praghu: folds 
+saitam_06: folds 
+Uncalled bet ($0.05) returned to Indangeriam
+Indangeriam collected $0.10 from pot
+Indangeriam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (big blind) collected ($0.10)
+Seat 3: ledezma mf folded before Flop (didn't bet)
+Seat 4: alexos04 folded before Flop (didn't bet)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: saitam_06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222954993153:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:23:16 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.49 in chips) 
+Seat 4: alexos04 ($11.24 in chips) 
+Seat 5: praghu ($10.40 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+Indangeriam: posts small blind $0.05
+ledezma mf: is sitting out 
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: raises $0.20 to $0.30
+saitam_06: folds 
+Indangeriam: folds 
+alexos04: folds 
+Uncalled bet ($0.20) returned to praghu
+praghu collected $0.25 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 5: praghu collected ($0.25)
+Seat 6: saitam_06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955001730:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:23:33 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 4: alexos04 ($11.14 in chips) 
+Seat 5: praghu ($10.55 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2 is disconnected 
+alexos04: raises $0.20 to $0.30
+praghu: calls $0.20
+*** FLOP *** [6d Kd 3d]
+alexos04: bets $0.30
+praghu: calls $0.30
+*** TURN *** [6d Kd 3d] [Jh]
+alexos04: checks 
+praghu: bets $0.70
+alexos04: folds 
+Uncalled bet ($0.70) returned to praghu
+praghu collected $1.15 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [6d Kd 3d Jh]
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded on the Turn
+Seat 5: praghu (big blind) collected ($1.15)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955030886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:24:31 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 4: alexos04 ($10.54 in chips) 
+Seat 5: praghu ($11.10 in chips) 
+Seat 6: saitam_06 ($10.93 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+Indangeriam: folds 
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+saitam_06: folds 
+Uncalled bet ($0.20) returned to alexos04
+alexos04 collected $0.25 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 4: alexos04 (button) collected ($0.25)
+Seat 5: praghu (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955037217:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:24:44 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 1: Indangeriam ($10.44 in chips) 
+Seat 4: alexos04 ($10.69 in chips) 
+Seat 5: praghu ($11.05 in chips) 
+Seat 6: saitam_06 ($10.83 in chips) 
+saitam_06: posts small blind $0.05
+Indangeriam: posts big blind $0.10
+sosedywka2: sits out 
+*** HOLE CARDS ***
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+Uncalled bet ($0.20) returned to alexos04
+alexos04 collected $0.25 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (big blind) folded before Flop
+Seat 4: alexos04 collected ($0.25)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: saitam_06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955044323:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:24:59 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 1: Indangeriam ($10.34 in chips) 
+Seat 2: sosedywka2 ($6.40 in chips) 
+Seat 4: alexos04 ($10.84 in chips) 
+Seat 5: praghu ($11.05 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+Indangeriam: posts small blind $0.05
+sosedywka2: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: raises $0.20 to $0.30
+praghu: folds 
+saitam_06: folds 
+Indangeriam: folds 
+sosedywka2 has timed out
+sosedywka2: folds 
+Uncalled bet ($0.20) returned to alexos04
+alexos04 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Indangeriam (small blind) folded before Flop
+Seat 2: sosedywka2 (big blind) folded before Flop
+Seat 4: alexos04 collected ($0.25)
+Seat 5: praghu folded before Flop (didn't bet)
+Seat 6: saitam_06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955065532:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:25:42 ET
+Table 'Sarita III' 6-max Seat #1 is the button
+Seat 1: Indangeriam ($10.29 in chips) 
+Seat 4: alexos04 ($10.99 in chips) 
+Seat 5: praghu ($11.05 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+alexos04: posts small blind $0.05
+praghu: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06: folds 
+Indangeriam: folds 
+alexos04: folds 
+Uncalled bet ($0.05) returned to praghu
+praghu collected $0.10 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Indangeriam (button) folded before Flop (didn't bet)
+Seat 4: alexos04 (small blind) folded before Flop
+Seat 5: praghu (big blind) collected ($0.10)
+Seat 6: saitam_06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222955073672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:25:58 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 1: Indangeriam ($10.29 in chips) 
+Seat 4: alexos04 ($10.94 in chips) 
+Seat 5: praghu ($11.10 in chips) 
+Seat 6: saitam_06 ($10.78 in chips) 
+praghu: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+Indangeriam: folds 
+alexos04: folds 
+Indangeriam leaves the table
+praghu: raises $0.12 to $0.22
+saitam_06: folds 
+Uncalled bet ($0.12) returned to praghu
+praghu collected $0.20 from pot
+praghu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Indangeriam folded before Flop (didn't bet)
+Seat 4: alexos04 (button) folded before Flop (didn't bet)
+Seat 5: praghu (small blind) collected ($0.20)
+Seat 6: saitam_06 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222955080114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:26:11 ET
+Table 'Sarita III' 6-max Seat #5 is the button
+Seat 4: alexos04 ($10.94 in chips) 
+Seat 5: praghu ($11.20 in chips) 
+Seat 6: saitam_06 ($10.68 in chips) 
+saitam_06: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+praghu: folds 
+saitam_06: folds 
+Uncalled bet ($0.05) returned to alexos04
+alexos04 collected $0.10 from pot
+alexos04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 4: alexos04 (big blind) collected ($0.10)
+Seat 5: praghu (button) folded before Flop (didn't bet)
+Seat 6: saitam_06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222955082601:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:26:16 ET
+Table 'Sarita III' 6-max Seat #4 is the button
+Seat 4: alexos04 ($10.99 in chips) 
+Seat 6: saitam_06 ($10.63 in chips) 
+alexos04: posts small blind $0.05
+saitam_06: posts big blind $0.10
+*** HOLE CARDS ***
+alexos04: folds 
+Uncalled bet ($0.05) returned to saitam_06
+saitam_06 collected $0.10 from pot
+ledezma mf was removed from the table for failing to post
+ledezma mf leaves the table
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 4: alexos04 (button) (small blind) folded before Flop
+Seat 6: saitam_06 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222955084828:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 9:26:21 ET
+Table 'Sarita III' 6-max Seat #6 is the button
+Seat 4: alexos04 ($10.94 in chips) 
+Seat 6: saitam_06 ($10.68 in chips) 
+praghu leaves the table
+saitam_06: posts small blind $0.05
+alexos04: posts big blind $0.10
+*** HOLE CARDS ***
+saitam_06: raises $0.15 to $0.25
+alexos04: folds 
+Uncalled bet ($0.15) returned to saitam_06
+saitam_06 collected $0.20 from pot
+saitam_06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 4: alexos04 (big blind) folded before Flop
+Seat 6: saitam_06 (button) (small blind) collected ($0.20)
+
+
+

@@ -1,0 +1,385 @@
+﻿PokerStars Hand #222966908657:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:38:34 ET
+Table 'Eleutheria III' 6-max Seat #4 is the button
+Seat 1: whizzy15 ($9.47 in chips) 
+Seat 2: Bigboy2512 ($10.15 in chips) 
+Seat 3: FacuLarrocca ($11.27 in chips) 
+Seat 4: toxa910212 ($10.17 in chips) 
+Seat 5: dulaiv ($7.58 in chips) 
+Seat 6: Rat1o ($10.07 in chips) 
+dulaiv: posts small blind $0.05
+Rat1o: posts big blind $0.10
+*** HOLE CARDS ***
+whizzy15 has timed out
+whizzy15: folds 
+Bigboy2512: raises $0.15 to $0.25
+FacuLarrocca: folds 
+toxa910212: folds 
+dulaiv: folds 
+Rat1o: folds 
+Uncalled bet ($0.15) returned to Bigboy2512
+Bigboy2512 collected $0.25 from pot
+Bigboy2512: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: whizzy15 folded before Flop (didn't bet)
+Seat 2: Bigboy2512 collected ($0.25)
+Seat 3: FacuLarrocca folded before Flop (didn't bet)
+Seat 4: toxa910212 (button) folded before Flop (didn't bet)
+Seat 5: dulaiv (small blind) folded before Flop
+Seat 6: Rat1o (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966939780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:39:14 ET
+Table 'Eleutheria III' 6-max Seat #5 is the button
+Seat 2: Bigboy2512 ($10.30 in chips) 
+Seat 3: FacuLarrocca ($11.27 in chips) 
+Seat 4: toxa910212 ($10.17 in chips) 
+Seat 5: dulaiv ($7.53 in chips) 
+Seat 6: Rat1o ($10 in chips) 
+Rat1o: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+toxa910212: folds 
+dulaiv: calls $0.10
+Rat1o: folds 
+Bigboy2512: checks 
+*** FLOP *** [Ts Kc 3c]
+Bigboy2512: checks 
+dulaiv: checks 
+*** TURN *** [Ts Kc 3c] [Tc]
+Bigboy2512: checks 
+dulaiv: checks 
+*** RIVER *** [Ts Kc 3c Tc] [2h]
+Bigboy2512: checks 
+dulaiv: checks 
+*** SHOW DOWN ***
+Bigboy2512: shows [Jh 4c] (a pair of Tens)
+dulaiv: shows [4s Ac] (a pair of Tens - Ace kicker)
+dulaiv collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts Kc 3c Tc 2h]
+Seat 2: Bigboy2512 (big blind) showed [Jh 4c] and lost with a pair of Tens
+Seat 3: FacuLarrocca folded before Flop (didn't bet)
+Seat 4: toxa910212 folded before Flop (didn't bet)
+Seat 5: dulaiv (button) showed [4s Ac] and won ($0.24) with a pair of Tens
+Seat 6: Rat1o (small blind) folded before Flop
+
+
+
+PokerStars Hand #222966965308:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:39:47 ET
+Table 'Eleutheria III' 6-max Seat #6 is the button
+Seat 2: Bigboy2512 ($10.20 in chips) 
+Seat 3: FacuLarrocca ($11.27 in chips) 
+Seat 4: toxa910212 ($10.17 in chips) 
+Seat 5: dulaiv ($7.67 in chips) 
+Seat 6: Rat1o ($10 in chips) 
+Bigboy2512: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+dulaiv: folds 
+Rat1o: raises $0.20 to $0.30
+Bigboy2512: folds 
+FacuLarrocca: calls $0.20
+*** FLOP *** [Ac Kc Jh]
+FacuLarrocca: checks 
+Rat1o: bets $0.41
+FacuLarrocca: calls $0.41
+*** TURN *** [Ac Kc Jh] [5c]
+FacuLarrocca: checks 
+Rat1o: bets $0.90
+FacuLarrocca: folds 
+Uncalled bet ($0.90) returned to Rat1o
+Rat1o collected $1.40 from pot
+Rat1o: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [Ac Kc Jh 5c]
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: FacuLarrocca (big blind) folded on the Turn
+Seat 4: toxa910212 folded before Flop (didn't bet)
+Seat 5: dulaiv folded before Flop (didn't bet)
+Seat 6: Rat1o (button) collected ($1.40)
+
+
+
+PokerStars Hand #222966993643:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:40:23 ET
+Table 'Eleutheria III' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($10.15 in chips) 
+Seat 3: FacuLarrocca ($10.56 in chips) 
+Seat 4: toxa910212 ($10.17 in chips) 
+Seat 5: dulaiv ($7.67 in chips) 
+Seat 6: Rat1o ($10.69 in chips) 
+FacuLarrocca: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+dulaiv: raises $0.10 to $0.20
+Rat1o: folds 
+Bigboy2512: raises $0.50 to $0.70
+FacuLarrocca: folds 
+toxa910212: folds 
+dulaiv: calls $0.50
+*** FLOP *** [Kh 4c 2s]
+dulaiv: checks 
+Bigboy2512: checks 
+*** TURN *** [Kh 4c 2s] [2c]
+dulaiv: bets $0.74
+Bigboy2512: raises $1.18 to $1.92
+dulaiv: raises $1.18 to $3.10
+Bigboy2512: raises $5.76 to $8.86
+dulaiv: calls $3.87 and is all-in
+Uncalled bet ($1.89) returned to Bigboy2512
+*** RIVER *** [Kh 4c 2s 2c] [Td]
+*** SHOW DOWN ***
+dulaiv: shows [Kd Qc] (two pair, Kings and Deuces)
+Bigboy2512: shows [Ah Ks] (two pair, Kings and Deuces - Ace kicker)
+Bigboy2512 collected $14.79 from pot
+*** SUMMARY ***
+Total pot $15.49 | Rake $0.70 
+Board [Kh 4c 2s 2c Td]
+Seat 2: Bigboy2512 (button) showed [Ah Ks] and won ($14.79) with two pair, Kings and Deuces
+Seat 3: FacuLarrocca (small blind) folded before Flop
+Seat 4: toxa910212 (big blind) folded before Flop
+Seat 5: dulaiv showed [Kd Qc] and lost with two pair, Kings and Deuces
+Seat 6: Rat1o folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967043774:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:41:27 ET
+Table 'Eleutheria III' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($17.27 in chips) 
+Seat 3: FacuLarrocca ($10.51 in chips) 
+Seat 4: toxa910212 ($10.07 in chips) 
+Seat 6: Rat1o ($10.69 in chips) 
+toxa910212: posts small blind $0.05
+Rat1o: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: folds 
+dulaiv leaves the table
+FacuLarrocca: folds 
+toxa910212: raises $0.10 to $0.20
+Rat1o: calls $0.10
+*** FLOP *** [Js Td Th]
+toxa910212: bets $0.20
+Wease1973 joins the table at seat #5 
+Rat1o: raises $0.60 to $0.80
+toxa910212: folds 
+Uncalled bet ($0.60) returned to Rat1o
+Rat1o collected $0.76 from pot
+Rat1o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Js Td Th]
+Seat 2: Bigboy2512 folded before Flop (didn't bet)
+Seat 3: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 4: toxa910212 (small blind) folded on the Flop
+Seat 6: Rat1o (big blind) collected ($0.76)
+
+
+
+PokerStars Hand #222967076909:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:09 ET
+Table 'Eleutheria III' 6-max Seat #4 is the button
+Seat 2: Bigboy2512 ($17.27 in chips) 
+Seat 3: FacuLarrocca ($10.51 in chips) 
+Seat 4: toxa910212 ($10 in chips) 
+Seat 6: Rat1o ($11.05 in chips) 
+Rat1o: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: raises $0.20 to $0.30
+toxa910212: folds 
+Rat1o: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.20) returned to FacuLarrocca
+FacuLarrocca collected $0.25 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: FacuLarrocca collected ($0.25)
+Seat 4: toxa910212 (button) folded before Flop (didn't bet)
+Seat 6: Rat1o (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967086511:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:22 ET
+Table 'Eleutheria III' 6-max Seat #6 is the button
+Seat 2: Bigboy2512 ($17.17 in chips) 
+Seat 3: FacuLarrocca ($10.66 in chips) 
+Seat 4: toxa910212 ($10 in chips) 
+Seat 6: Rat1o ($11 in chips) 
+Bigboy2512: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+Wease1973: sits out 
+*** HOLE CARDS ***
+toxa910212: folds 
+Rat1o: raises $0.20 to $0.30
+Bigboy2512: folds 
+FacuLarrocca: folds 
+Uncalled bet ($0.20) returned to Rat1o
+Rat1o collected $0.25 from pot
+Rat1o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: FacuLarrocca (big blind) folded before Flop
+Seat 4: toxa910212 folded before Flop (didn't bet)
+Seat 6: Rat1o (button) collected ($0.25)
+
+
+
+PokerStars Hand #222967095268:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:33 ET
+Table 'Eleutheria III' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($17.12 in chips) 
+Seat 3: FacuLarrocca ($10.56 in chips) 
+Seat 4: toxa910212 ($10 in chips) 
+Seat 6: Rat1o ($11.15 in chips) 
+FacuLarrocca: posts small blind $0.05
+toxa910212: posts big blind $0.10
+Wease1973: sits out 
+*** HOLE CARDS ***
+Rat1o: raises $0.20 to $0.30
+Bigboy2512: folds 
+Wease1973 leaves the table
+FacuLarrocca: folds 
+KiraLasVegas joins the table at seat #5 
+toxa910212: folds 
+Uncalled bet ($0.20) returned to Rat1o
+Rat1o collected $0.25 from pot
+Rat1o: doesn't show hand 
+KiraLasVegas leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Bigboy2512 (button) folded before Flop (didn't bet)
+Seat 3: FacuLarrocca (small blind) folded before Flop
+Seat 4: toxa910212 (big blind) folded before Flop
+Seat 6: Rat1o collected ($0.25)
+
+
+
+PokerStars Hand #222967105789:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:46 ET
+Table 'Eleutheria III' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($17.12 in chips) 
+Seat 3: FacuLarrocca ($10.51 in chips) 
+Seat 4: toxa910212 ($10 in chips) 
+toxa910212: posts small blind $0.05
+Rat1o: is sitting out 
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+toxa910212: raises $0.30 to $0.40
+Bigboy2512: folds 
+Uncalled bet ($0.30) returned to toxa910212
+toxa910212 collected $0.20 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 4: toxa910212 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222967111835:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:54 ET
+Table 'Eleutheria III' 6-max Seat #4 is the button
+Seat 2: Bigboy2512 ($17.02 in chips) 
+Seat 3: FacuLarrocca ($10.51 in chips) 
+Seat 4: toxa910212 ($10.10 in chips) 
+Bigboy2512: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+Bigboy2512: folds 
+Uncalled bet ($0.05) returned to FacuLarrocca
+FacuLarrocca collected $0.10 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Bigboy2512 (small blind) folded before Flop
+Seat 3: FacuLarrocca (big blind) collected ($0.10)
+Seat 4: toxa910212 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967117082:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:43:01 ET
+Table 'Eleutheria III' 6-max Seat #2 is the button
+Seat 2: Bigboy2512 ($16.97 in chips) 
+Seat 3: FacuLarrocca ($10.56 in chips) 
+Seat 4: toxa910212 ($10.10 in chips) 
+FacuLarrocca: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+Bigboy2512: raises $0.15 to $0.25
+FacuLarrocca: folds 
+toxa910212: raises $0.75 to $1
+Bigboy2512: folds 
+Uncalled bet ($0.75) returned to toxa910212
+toxa910212 collected $0.55 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 2: Bigboy2512 (button) folded before Flop
+Seat 3: FacuLarrocca (small blind) folded before Flop
+Seat 4: toxa910212 (big blind) collected ($0.55)
+
+
+
+PokerStars Hand #222967127076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:43:14 ET
+Table 'Eleutheria III' 6-max Seat #3 is the button
+Seat 2: Bigboy2512 ($16.72 in chips) 
+Seat 3: FacuLarrocca ($10.51 in chips) 
+Seat 4: toxa910212 ($10.40 in chips) 
+toxa910212: posts small blind $0.05
+Bigboy2512: posts big blind $0.10
+*** HOLE CARDS ***
+Rat1o leaves the table
+FacuLarrocca: folds 
+toxa910212: raises $0.15 to $0.25
+Bigboy2512: folds 
+Uncalled bet ($0.15) returned to toxa910212
+toxa910212 collected $0.20 from pot
+whizzy15 was removed from the table for failing to post
+whizzy15 leaves the table
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bigboy2512 (big blind) folded before Flop
+Seat 3: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 4: toxa910212 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222967134246:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:43:23 ET
+Table 'Eleutheria III' 6-max Seat #4 is the button
+Seat 2: Bigboy2512 ($16.62 in chips) 
+Seat 3: FacuLarrocca ($10.51 in chips) 
+Seat 4: toxa910212 ($10.50 in chips) 
+Bigboy2512: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+Bigboy2512: raises $0.20 to $0.30
+FacuLarrocca: calls $0.20
+*** FLOP *** [Td 5h 8h]
+Bigboy2512: checks 
+FacuLarrocca: bets $0.19
+Bigboy2512: calls $0.19
+*** TURN *** [Td 5h 8h] [7s]
+Bigboy2512: checks 
+FacuLarrocca: bets $1.41
+Bigboy2512: folds 
+Uncalled bet ($1.41) returned to FacuLarrocca
+FacuLarrocca collected $0.94 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Td 5h 8h 7s]
+Seat 2: Bigboy2512 (small blind) folded on the Turn
+Seat 3: FacuLarrocca (big blind) collected ($0.94)
+Seat 4: toxa910212 (button) folded before Flop (didn't bet)
+
+
+

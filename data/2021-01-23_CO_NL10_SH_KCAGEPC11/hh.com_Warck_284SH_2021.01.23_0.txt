@@ -1,0 +1,1552 @@
+﻿PokerStars Hand #222951325282:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:53:57 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 1: Musea311 ($6.45 in chips) 
+Seat 2: mastiko1996 ($10.40 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 4: petrovichkag ($13.05 in chips) 
+Seat 5: Janxxx82 ($9.75 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+NooBeeK: posts small blind $0.05
+Musea311: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+platypus681: folds 
+petrovichkag: raises $0.60 to $0.90
+Janxxx82: folds 
+NooBeeK: folds 
+Musea311: folds 
+mastiko1996: folds 
+Uncalled bet ($0.60) returned to petrovichkag
+petrovichkag collected $0.75 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Musea311 (big blind) folded before Flop
+Seat 2: mastiko1996 folded before Flop
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: petrovichkag collected ($0.75)
+Seat 5: Janxxx82 (button) folded before Flop (didn't bet)
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951333552:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:54:20 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 1: Musea311 ($6.35 in chips) 
+Seat 2: mastiko1996 ($10.10 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 4: petrovichkag ($13.50 in chips) 
+Seat 5: Janxxx82 ($9.75 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+Musea311: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+platypus681: folds 
+petrovichkag: folds 
+Janxxx82: calls $0.10
+NooBeeK: folds 
+Musea311: calls $0.05
+mastiko1996: checks 
+*** FLOP *** [Tc Jd Qd]
+Musea311: checks 
+mastiko1996: checks 
+Janxxx82: checks 
+*** TURN *** [Tc Jd Qd] [Kc]
+Musea311: checks 
+mastiko1996: checks 
+Janxxx82: bets $1
+Musea311: calls $1
+mastiko1996: folds 
+*** RIVER *** [Tc Jd Qd Kc] [Jh]
+Musea311: checks 
+Janxxx82: bets $0.50
+Musea311: calls $0.50
+*** SHOW DOWN ***
+Janxxx82: shows [9c 4c] (a straight, Nine to King)
+Musea311: shows [3d As] (a straight, Ten to Ace)
+Musea311 collected $3.15 from pot
+*** SUMMARY ***
+Total pot $3.30 | Rake $0.15 
+Board [Tc Jd Qd Kc Jh]
+Seat 1: Musea311 (small blind) showed [3d As] and won ($3.15) with a straight, Ten to Ace
+Seat 2: mastiko1996 (big blind) folded on the Turn
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: Janxxx82 showed [9c 4c] and lost with a straight, Nine to King
+Seat 6: NooBeeK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951348492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:55:02 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 4: petrovichkag ($13.50 in chips) 
+Seat 5: Janxxx82 ($8.15 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+platypus681: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Janxxx82: calls $0.10
+NooBeeK: folds 
+mastiko1996: folds 
+platypus681 has timed out
+platypus681: folds 
+petrovichkag: checks 
+*** FLOP *** [6d 5d 9h]
+petrovichkag: checks 
+Janxxx82: checks 
+*** TURN *** [6d 5d 9h] [Ac]
+petrovichkag: bets $0.19
+Janxxx82: folds 
+Uncalled bet ($0.19) returned to petrovichkag
+petrovichkag collected $0.24 from pot
+petrovichkag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d 5d 9h Ac]
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: platypus681 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) collected ($0.24)
+Seat 5: Janxxx82 folded on the Turn
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951361472:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:55:44 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 4: petrovichkag ($13.64 in chips) 
+Seat 5: Janxxx82 ($8.05 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+petrovichkag: calls $0.30
+Janxxx82: folds 
+NooBeeK: folds 
+*** FLOP *** [7c Ah 3h]
+mastiko1996: checks 
+petrovichkag: checks 
+*** TURN *** [7c Ah 3h] [7d]
+mastiko1996: checks 
+petrovichkag: checks 
+*** RIVER *** [7c Ah 3h 7d] [Js]
+mastiko1996: checks 
+petrovichkag: bets $0.56
+mastiko1996: calls $0.56
+*** SHOW DOWN ***
+petrovichkag: shows [Td 9d] (a pair of Sevens)
+mastiko1996: shows [5d Ad] (two pair, Aces and Sevens)
+mastiko1996 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [7c Ah 3h 7d Js]
+Seat 2: mastiko1996 showed [5d Ad] and won ($1.79) with two pair, Aces and Sevens
+Seat 4: petrovichkag (button) showed [Td 9d] and lost with a pair of Sevens
+Seat 5: Janxxx82 (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) folded before Flop
+
+
+
+PokerStars Hand #222951372969:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:56:22 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 2: mastiko1996 ($10.93 in chips) 
+Seat 4: petrovichkag ($12.78 in chips) 
+Seat 5: Janxxx82 ($10 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+NooBeeK: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Janxxx82: folds 
+NooBeeK: raises $0.20 to $0.30
+mastiko1996: folds 
+Uncalled bet ($0.20) returned to NooBeeK
+NooBeeK collected $0.20 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: mastiko1996 (big blind) folded before Flop
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: Janxxx82 (button) folded before Flop (didn't bet)
+Seat 6: NooBeeK (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222951375468:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:56:30 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 2: mastiko1996 ($10.83 in chips) 
+Seat 4: petrovichkag ($12.78 in chips) 
+Seat 5: Janxxx82 ($10 in chips) 
+Seat 6: NooBeeK ($10.10 in chips) 
+mastiko1996: posts small blind $0.05
+petrovichkag: posts big blind $0.10
+*** HOLE CARDS ***
+Janxxx82: calls $0.10
+NooBeeK: folds 
+mastiko1996: folds 
+petrovichkag: checks 
+*** FLOP *** [Qs 4h 7c]
+petrovichkag: checks 
+Janxxx82: checks 
+*** TURN *** [Qs 4h 7c] [8h]
+petrovichkag: checks 
+Janxxx82: bets $0.10
+petrovichkag: calls $0.10
+*** RIVER *** [Qs 4h 7c 8h] [6c]
+petrovichkag: checks 
+Janxxx82: bets $2
+petrovichkag: folds 
+Uncalled bet ($2) returned to Janxxx82
+Janxxx82 collected $0.43 from pot
+Janxxx82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qs 4h 7c 8h 6c]
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 4: petrovichkag (big blind) folded on the River
+Seat 5: Janxxx82 collected ($0.43)
+Seat 6: NooBeeK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951388261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:57:12 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 2: mastiko1996 ($10.78 in chips) 
+Seat 4: petrovichkag ($12.58 in chips) 
+Seat 5: Janxxx82 ($10.23 in chips) 
+Seat 6: NooBeeK ($10.10 in chips) 
+petrovichkag: posts small blind $0.05
+Janxxx82: posts big blind $0.10
+*** HOLE CARDS ***
+NooBeeK: raises $0.15 to $0.25
+mastiko1996: folds 
+petrovichkag: folds 
+Janxxx82: calls $0.15
+*** FLOP *** [9d 6c 5s]
+Janxxx82: checks 
+NooBeeK: checks 
+*** TURN *** [9d 6c 5s] [Js]
+Janxxx82: bets $0.10
+NooBeeK: calls $0.10
+*** RIVER *** [9d 6c 5s Js] [Qs]
+Janxxx82: bets $0.10
+NooBeeK: calls $0.10
+*** SHOW DOWN ***
+Janxxx82: shows [Kh Jc] (a pair of Jacks)
+NooBeeK: mucks hand 
+Janxxx82 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9d 6c 5s Js Qs]
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: petrovichkag (small blind) folded before Flop
+Seat 5: Janxxx82 (big blind) showed [Kh Jc] and won ($0.91) with a pair of Jacks
+Seat 6: NooBeeK mucked
+
+
+
+PokerStars Hand #222951400245:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:57:52 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 2: mastiko1996 ($10.78 in chips) 
+Seat 4: petrovichkag ($12.53 in chips) 
+Seat 5: Janxxx82 ($10.69 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+petrovichkag: folds 
+Janxxx82: calls $0.05
+NooBeeK: raises $0.40 to $0.50
+Janxxx82: folds 
+Uncalled bet ($0.40) returned to NooBeeK
+NooBeeK collected $0.20 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 4: petrovichkag (button) folded before Flop (didn't bet)
+Seat 5: Janxxx82 (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #222951404572:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:58:06 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 2: mastiko1996 ($10.78 in chips) 
+Seat 4: petrovichkag ($12.53 in chips) 
+Seat 5: Janxxx82 ($10.59 in chips) 
+Seat 6: NooBeeK ($10.10 in chips) 
+NooBeeK: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+petrovichkag: folds 
+Janxxx82: folds 
+NooBeeK: folds 
+Uncalled bet ($0.05) returned to mastiko1996
+mastiko1996 collected $0.10 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: mastiko1996 (big blind) collected ($0.10)
+Seat 4: petrovichkag folded before Flop (didn't bet)
+Seat 5: Janxxx82 (button) folded before Flop (didn't bet)
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951406437:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:58:12 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 2: mastiko1996 ($10.83 in chips) 
+Seat 5: Janxxx82 ($10.59 in chips) 
+Seat 6: NooBeeK ($10.05 in chips) 
+mastiko1996: posts small blind $0.05
+petrovichkag: is sitting out 
+Janxxx82: posts big blind $0.10
+*** HOLE CARDS ***
+NooBeeK: folds 
+petrovichkag leaves the table
+mastiko1996: raises $0.20 to $0.30
+Janxxx82: folds 
+Uncalled bet ($0.20) returned to mastiko1996
+mastiko1996 collected $0.20 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: mastiko1996 (small blind) collected ($0.20)
+Seat 5: Janxxx82 (big blind) folded before Flop
+Seat 6: NooBeeK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951408809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:58:20 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 2: mastiko1996 ($10.93 in chips) 
+Seat 5: Janxxx82 ($10.49 in chips) 
+Seat 6: NooBeeK ($10.05 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+Janxxx82: folds 
+NooBeeK: folds 
+Uncalled bet ($0.20) returned to mastiko1996
+mastiko1996 collected $0.25 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: mastiko1996 (button) collected ($0.25)
+Seat 5: Janxxx82 (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) folded before Flop
+
+
+
+PokerStars Hand #222951411640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:58:29 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 2: mastiko1996 ($11.08 in chips) 
+Seat 5: Janxxx82 ($10.44 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+NooBeeK: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+platypus681: sits out 
+*** HOLE CARDS ***
+Janxxx82: calls $0.10
+NooBeeK: folds 
+mastiko1996: checks 
+*** FLOP *** [6d Ks 4d]
+mastiko1996: checks 
+Janxxx82: checks 
+*** TURN *** [6d Ks 4d] [Qd]
+mastiko1996: checks 
+Janxxx82: bets $0.30
+mastiko1996: calls $0.30
+*** RIVER *** [6d Ks 4d Qd] [As]
+mastiko1996: checks 
+Janxxx82: bets $0.10
+mastiko1996: calls $0.10
+*** SHOW DOWN ***
+Janxxx82: shows [Qs 9d] (a pair of Queens)
+mastiko1996: shows [Kh 2c] (a pair of Kings)
+mastiko1996 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [6d Ks 4d Qd As]
+Seat 2: mastiko1996 (big blind) showed [Kh 2c] and won ($1) with a pair of Kings
+Seat 5: Janxxx82 (button) showed [Qs 9d] and lost with a pair of Queens
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951422533:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:59:05 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 2: mastiko1996 ($11.58 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 5: Janxxx82 ($9.94 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+mastiko1996: posts small blind $0.05
+platypus681: posts big blind $0.10
+*** HOLE CARDS ***
+Janxxx82: folds 
+NooBeeK: folds 
+mastiko1996: folds 
+Uncalled bet ($0.05) returned to platypus681
+platypus681 collected $0.10 from pot
+platypus681: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 3: platypus681 (big blind) collected ($0.10)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951424698:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:59:12 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 2: mastiko1996 ($11.53 in chips) 
+Seat 3: platypus681 ($10.05 in chips) 
+Seat 5: Janxxx82 ($9.94 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+platypus681: posts small blind $0.05
+Janxxx82: posts big blind $0.10
+*** HOLE CARDS ***
+NooBeeK: raises $0.15 to $0.25
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh joins the table at seat #4 
+Janxxx82: calls $0.15
+*** FLOP *** [Td Qh 5s]
+Janxxx82: checks 
+NooBeeK: bets $0.17
+Janxxx82: calls $0.17
+*** TURN *** [Td Qh 5s] [Ks]
+Janxxx82: checks 
+NooBeeK: checks 
+*** RIVER *** [Td Qh 5s Ks] [Tc]
+Janxxx82: bets $0.10
+NooBeeK: folds 
+Uncalled bet ($0.10) returned to Janxxx82
+Janxxx82 collected $0.85 from pot
+Janxxx82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [Td Qh 5s Ks Tc]
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: platypus681 (small blind) folded before Flop
+Seat 5: Janxxx82 (big blind) collected ($0.85)
+Seat 6: NooBeeK folded on the River
+
+
+
+PokerStars Hand #222951433752:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:59:41 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 2: mastiko1996 ($11.53 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 5: Janxxx82 ($10.37 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+platypus681: raises $0.18 to $0.28
+Janxxx82: folds 
+NooBeeK: calls $0.18
+*** FLOP *** [Qc Kc Ts]
+NooBeeK: checks 
+platypus681: checks 
+*** TURN *** [Qc Kc Ts] [9d]
+NooBeeK: bets $0.44
+platypus681: folds 
+Uncalled bet ($0.44) returned to NooBeeK
+NooBeeK collected $0.58 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.03 
+Board [Qc Kc Ts 9d]
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 (button) folded on the Turn
+Seat 5: Janxxx82 (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) collected ($0.58)
+
+
+
+PokerStars Hand #222951442380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:00:09 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 2: mastiko1996 ($11.53 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 5: Janxxx82 ($10.32 in chips) 
+Seat 6: NooBeeK ($10.30 in chips) 
+NooBeeK: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+AAA_set_nh: sits out 
+*** HOLE CARDS ***
+platypus681: folds 
+Janxxx82: calls $0.10
+NooBeeK: raises $0.40 to $0.50
+mastiko1996: folds 
+Janxxx82: folds 
+Uncalled bet ($0.40) returned to NooBeeK
+NooBeeK collected $0.30 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 2: mastiko1996 (big blind) folded before Flop
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 5: Janxxx82 (button) folded before Flop
+Seat 6: NooBeeK (small blind) collected ($0.30)
+
+
+
+PokerStars Hand #222951448640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:00:28 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 2: mastiko1996 ($11.43 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 5: Janxxx82 ($10.22 in chips) 
+Seat 6: NooBeeK ($10.50 in chips) 
+mastiko1996: posts small blind $0.05
+platypus681: posts big blind $0.10
+AAA_set_nh: sits out 
+*** HOLE CARDS ***
+Janxxx82: calls $0.10
+NooBeeK: raises $0.40 to $0.50
+mastiko1996: folds 
+platypus681: folds 
+Janxxx82: folds 
+Uncalled bet ($0.40) returned to NooBeeK
+NooBeeK collected $0.35 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 3: platypus681 (big blind) folded before Flop
+Seat 5: Janxxx82 folded before Flop
+Seat 6: NooBeeK (button) collected ($0.35)
+
+
+
+PokerStars Hand #222951453171:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:00:42 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 2: mastiko1996 ($11.38 in chips) 
+Seat 3: platypus681 ($10 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($10.12 in chips) 
+Seat 6: NooBeeK ($10.75 in chips) 
+platypus681: posts small blind $0.05
+AAA_set_nh: posts big blind $0.10
+Musea311: sits out 
+*** HOLE CARDS ***
+Janxxx82: folds 
+NooBeeK: raises $0.15 to $0.25
+mastiko1996: folds 
+platypus681: raises $0.75 to $1
+AAA_set_nh: folds 
+NooBeeK: folds 
+Uncalled bet ($0.75) returned to platypus681
+platypus681 collected $0.60 from pot
+platypus681: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: platypus681 (small blind) collected ($0.60)
+Seat 4: AAA_set_nh (big blind) folded before Flop
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK folded before Flop
+
+
+
+PokerStars Hand #222951459228:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:01:01 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 2: mastiko1996 ($11.38 in chips) 
+Seat 3: platypus681 ($10.35 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($10.12 in chips) 
+Seat 6: NooBeeK ($10.50 in chips) 
+AAA_set_nh: posts small blind $0.05
+Janxxx82: posts big blind $0.10
+Musea311: sits out 
+*** HOLE CARDS ***
+NooBeeK: folds 
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh: raises $0.20 to $0.30
+Janxxx82: calls $0.20
+*** FLOP *** [6s 5d Kd]
+AAA_set_nh: checks 
+Janxxx82: checks 
+*** TURN *** [6s 5d Kd] [5h]
+AAA_set_nh: checks 
+Janxxx82: checks 
+*** RIVER *** [6s 5d Kd 5h] [6h]
+AAA_set_nh: checks 
+Janxxx82: checks 
+*** SHOW DOWN ***
+AAA_set_nh: shows [Tc Ad] (two pair, Sixes and Fives)
+Janxxx82: shows [As Td] (two pair, Sixes and Fives)
+AAA_set_nh collected $0.29 from pot
+Janxxx82 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6s 5d Kd 5h 6h]
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 (button) folded before Flop (didn't bet)
+Seat 4: AAA_set_nh (small blind) showed [Tc Ad] and won ($0.29) with two pair, Sixes and Fives
+Seat 5: Janxxx82 (big blind) showed [As Td] and won ($0.28) with two pair, Sixes and Fives
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951469150:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:01:30 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 2: mastiko1996 ($11.38 in chips) 
+Seat 3: platypus681 ($10.35 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($10.10 in chips) 
+Seat 6: NooBeeK ($10.50 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+Musea311: sits out 
+*** HOLE CARDS ***
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh: raises $0.10 to $0.20
+Janxxx82: calls $0.15
+NooBeeK: calls $0.10
+*** FLOP *** [4d Qd 4s]
+Janxxx82: checks 
+NooBeeK: checks 
+AAA_set_nh: bets $0.38
+Janxxx82: folds 
+NooBeeK: folds 
+Uncalled bet ($0.38) returned to AAA_set_nh
+AAA_set_nh collected $0.57 from pot
+AAA_set_nh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4d Qd 4s]
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: AAA_set_nh (button) collected ($0.57)
+Seat 5: Janxxx82 (small blind) folded on the Flop
+Seat 6: NooBeeK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222951479303:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:01:59 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 1: Musea311 ($7.90 in chips) 
+Seat 2: mastiko1996 ($11.38 in chips) 
+Seat 3: platypus681 ($10.35 in chips) 
+Seat 4: AAA_set_nh ($10.37 in chips) 
+Seat 5: Janxxx82 ($9.90 in chips) 
+Seat 6: NooBeeK ($10.30 in chips) 
+NooBeeK: posts small blind $0.05
+Musea311: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh: folds 
+Janxxx82: calls $0.10
+NooBeeK: raises $0.40 to $0.50
+Musea311: calls $0.40
+Janxxx82: calls $0.40
+*** FLOP *** [9h 4d 4c]
+NooBeeK: bets $0.47
+Musea311: calls $0.47
+Janxxx82: folds 
+*** TURN *** [9h 4d 4c] [3c]
+NooBeeK: checks 
+Musea311: checks 
+*** RIVER *** [9h 4d 4c 3c] [6d]
+NooBeeK: checks 
+Musea311: bets $1.17
+NooBeeK: folds 
+Uncalled bet ($1.17) returned to Musea311
+Musea311 collected $2.33 from pot
+Musea311: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.44 | Rake $0.11 
+Board [9h 4d 4c 3c 6d]
+Seat 1: Musea311 (big blind) collected ($2.33)
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 (button) folded on the Flop
+Seat 6: NooBeeK (small blind) folded on the River
+
+
+
+PokerStars Hand #222951497786:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:02:52 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 1: Musea311 ($9.26 in chips) 
+Seat 2: mastiko1996 ($11.38 in chips) 
+Seat 3: platypus681 ($10.35 in chips) 
+Seat 4: AAA_set_nh ($10.37 in chips) 
+Seat 5: Janxxx82 ($9.40 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+Musea311: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+platypus681: folds 
+AAA_set_nh: folds 
+Janxxx82: folds 
+NooBeeK: folds 
+Musea311: folds 
+Uncalled bet ($0.05) returned to mastiko1996
+Musea311 leaves the table
+mastiko1996 collected $0.10 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Musea311 (small blind) folded before Flop
+Seat 2: mastiko1996 (big blind) collected ($0.10)
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951502368:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:03:04 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 2: mastiko1996 ($11.43 in chips) 
+Seat 3: platypus681 ($10.35 in chips) 
+Seat 4: AAA_set_nh ($10.37 in chips) 
+Seat 5: Janxxx82 ($9.40 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+platypus681: posts small blind $0.05
+AAA_set_nh: posts big blind $0.10
+*** HOLE CARDS ***
+Janxxx82: calls $0.10
+NooBeeK: folds 
+mastiko1996: folds 
+platypus681: raises $0.30 to $0.40
+AAA_set_nh: folds 
+Janxxx82: calls $0.30
+*** FLOP *** [Ts Qh 7s]
+eustw joins the table at seat #1 
+platypus681: bets $0.50
+Janxxx82: folds 
+Uncalled bet ($0.50) returned to platypus681
+platypus681 collected $0.86 from pot
+platypus681: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Ts Qh 7s]
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: platypus681 (small blind) collected ($0.86)
+Seat 4: AAA_set_nh (big blind) folded before Flop
+Seat 5: Janxxx82 folded on the Flop
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951516470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:03:44 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 2: mastiko1996 ($11.43 in chips) 
+Seat 3: platypus681 ($10.81 in chips) 
+Seat 4: AAA_set_nh ($10.27 in chips) 
+Seat 5: Janxxx82 ($9 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+AAA_set_nh: posts small blind $0.05
+Janxxx82: posts big blind $0.10
+eustw: sits out 
+*** HOLE CARDS ***
+NooBeeK: folds 
+mastiko1996: folds 
+platypus681: raises $0.18 to $0.28
+AAA_set_nh: folds 
+Janxxx82: calls $0.18
+*** FLOP *** [Qh 2c 3h]
+Janxxx82: checks 
+platypus681: checks 
+*** TURN *** [Qh 2c 3h] [5c]
+Janxxx82: checks 
+eustw leaves the table
+platypus681: checks 
+*** RIVER *** [Qh 2c 3h 5c] [6d]
+Janxxx82: checks 
+platypus681: bets $0.25
+sniegs99 joins the table at seat #1 
+Janxxx82: folds 
+Uncalled bet ($0.25) returned to platypus681
+platypus681 collected $0.58 from pot
+platypus681: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.03 
+Board [Qh 2c 3h 5c 6d]
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 (button) collected ($0.58)
+Seat 4: AAA_set_nh (small blind) folded before Flop
+Seat 5: Janxxx82 (big blind) folded on the River
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951537685:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:04:43 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 2: mastiko1996 ($11.43 in chips) 
+Seat 3: platypus681 ($11.11 in chips) 
+Seat 4: AAA_set_nh ($10.22 in chips) 
+Seat 5: Janxxx82 ($8.72 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+sniegs99: sits out 
+*** HOLE CARDS ***
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh: folds 
+Janxxx82: calls $0.05
+NooBeeK: checks 
+*** FLOP *** [Th 9c 6h]
+Janxxx82: bets $0.10
+NooBeeK: calls $0.10
+*** TURN *** [Th 9c 6h] [7s]
+Janxxx82: bets $0.10
+NooBeeK: calls $0.10
+*** RIVER *** [Th 9c 6h 7s] [Kd]
+Janxxx82: bets $0.10
+NooBeeK: folds 
+Uncalled bet ($0.10) returned to Janxxx82
+Janxxx82 collected $0.57 from pot
+Janxxx82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Th 9c 6h 7s Kd]
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: AAA_set_nh (button) folded before Flop (didn't bet)
+Seat 5: Janxxx82 (small blind) collected ($0.57)
+Seat 6: NooBeeK (big blind) folded on the River
+
+
+
+PokerStars Hand #222951548021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:05:12 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 1: sniegs99 ($10 in chips) 
+Seat 2: mastiko1996 ($11.43 in chips) 
+Seat 3: platypus681 ($11.11 in chips) 
+Seat 4: AAA_set_nh ($10.22 in chips) 
+Seat 5: Janxxx82 ($8.99 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+NooBeeK: posts small blind $0.05
+sniegs99: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh: raises $0.15 to $0.25
+Janxxx82: calls $0.25
+NooBeeK: folds 
+sniegs99: calls $0.15
+*** FLOP *** [8d 2h 3d]
+sniegs99: checks 
+AAA_set_nh: checks 
+Janxxx82: checks 
+*** TURN *** [8d 2h 3d] [4c]
+sniegs99: checks 
+AAA_set_nh: checks 
+Janxxx82: checks 
+*** RIVER *** [8d 2h 3d 4c] [2s]
+sniegs99: checks 
+AAA_set_nh: checks 
+Janxxx82: checks 
+*** SHOW DOWN ***
+sniegs99: shows [Ac 3c] (two pair, Threes and Deuces)
+AAA_set_nh: mucks hand 
+Janxxx82: mucks hand 
+sniegs99 collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [8d 2h 3d 4c 2s]
+Seat 1: sniegs99 (big blind) showed [Ac 3c] and won ($0.76) with two pair, Threes and Deuces
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: AAA_set_nh mucked
+Seat 5: Janxxx82 (button) mucked
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951559283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:05:44 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 1: sniegs99 ($10.51 in chips) 
+Seat 2: mastiko1996 ($11.43 in chips) 
+Seat 3: platypus681 ($11.11 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($8.74 in chips) 
+Seat 6: NooBeeK ($10 in chips) 
+sniegs99: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+platypus681: folds 
+AAA_set_nh: folds 
+Janxxx82: folds 
+NooBeeK: raises $0.15 to $0.25
+sniegs99: folds 
+mastiko1996: folds 
+Uncalled bet ($0.15) returned to NooBeeK
+NooBeeK collected $0.25 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sniegs99 (small blind) folded before Flop
+Seat 2: mastiko1996 (big blind) folded before Flop
+Seat 3: platypus681 folded before Flop (didn't bet)
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK (button) collected ($0.25)
+
+
+
+PokerStars Hand #222951563936:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:05:57 ET
+Table 'Warck II' 6-max Seat #1 is the button
+Seat 1: sniegs99 ($10.46 in chips) 
+Seat 2: mastiko1996 ($11.33 in chips) 
+Seat 3: platypus681 ($11.11 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($8.74 in chips) 
+Seat 6: NooBeeK ($10.15 in chips) 
+mastiko1996: posts small blind $0.05
+platypus681: posts big blind $0.10
+*** HOLE CARDS ***
+AAA_set_nh: raises $0.20 to $0.30
+Janxxx82: folds 
+NooBeeK: folds 
+sniegs99: folds 
+mastiko1996: folds 
+platypus681: folds 
+Uncalled bet ($0.20) returned to AAA_set_nh
+AAA_set_nh collected $0.25 from pot
+AAA_set_nh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sniegs99 (button) folded before Flop (didn't bet)
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 3: platypus681 (big blind) folded before Flop
+Seat 4: AAA_set_nh collected ($0.25)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951568282:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:06:09 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 1: sniegs99 ($10.46 in chips) 
+Seat 2: mastiko1996 ($11.28 in chips) 
+Seat 3: platypus681 ($11.01 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+Seat 5: Janxxx82 ($8.74 in chips) 
+Seat 6: NooBeeK ($10.15 in chips) 
+platypus681: posts small blind $0.05
+AAA_set_nh: posts big blind $0.10
+*** HOLE CARDS ***
+Janxxx82: calls $0.10
+NooBeeK: folds 
+sniegs99: folds 
+mastiko1996: folds 
+platypus681: raises $0.30 to $0.40
+AAA_set_nh: folds 
+Janxxx82: calls $0.30
+*** FLOP *** [3h 7c 6s]
+platypus681: bets $0.35
+Janxxx82: folds 
+Uncalled bet ($0.35) returned to platypus681
+platypus681 collected $0.86 from pot
+platypus681: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [3h 7c 6s]
+Seat 1: sniegs99 folded before Flop (didn't bet)
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: platypus681 (small blind) collected ($0.86)
+Seat 4: AAA_set_nh (big blind) folded before Flop
+Seat 5: Janxxx82 folded on the Flop
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951578674:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:06:38 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 1: sniegs99 ($10.46 in chips) 
+Seat 2: mastiko1996 ($11.28 in chips) 
+Seat 3: platypus681 ($11.47 in chips) 
+Seat 4: AAA_set_nh ($10.05 in chips) 
+Seat 5: Janxxx82 ($8.34 in chips) 
+AAA_set_nh: posts small blind $0.05
+Janxxx82: posts big blind $0.10
+*** HOLE CARDS ***
+sniegs99: folds 
+mastiko1996: folds 
+platypus681: folds 
+AAA_set_nh: raises $0.20 to $0.30
+Janxxx82: folds 
+Uncalled bet ($0.20) returned to AAA_set_nh
+AAA_set_nh collected $0.20 from pot
+AAA_set_nh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: sniegs99 folded before Flop (didn't bet)
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 (button) folded before Flop (didn't bet)
+Seat 4: AAA_set_nh (small blind) collected ($0.20)
+Seat 5: Janxxx82 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222951582444:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:06:49 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 1: sniegs99 ($10.46 in chips) 
+Seat 2: mastiko1996 ($11.28 in chips) 
+Seat 3: platypus681 ($11.47 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+Seat 5: Janxxx82 ($8.24 in chips) 
+Janxxx82: posts small blind $0.05
+sniegs99: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+platypus681: raises $0.16 to $0.26
+AAA_set_nh: folds 
+Janxxx82: calls $0.21
+sniegs99: folds 
+*** FLOP *** [Ac 2d Qs]
+Janxxx82: bets $0.10
+platypus681: calls $0.10
+*** TURN *** [Ac 2d Qs] [6d]
+Janxxx82: bets $0.10
+platypus681: calls $0.10
+*** RIVER *** [Ac 2d Qs 6d] [3c]
+Janxxx82: bets $0.10
+platypus681: raises $1.56 to $1.66
+Janxxx82: calls $1.56
+*** SHOW DOWN ***
+platypus681: shows [3s 3d] (three of a kind, Threes)
+Janxxx82: mucks hand 
+platypus681 collected $4.14 from pot
+*** SUMMARY ***
+Total pot $4.34 | Rake $0.20 
+Board [Ac 2d Qs 6d 3c]
+Seat 1: sniegs99 (big blind) folded before Flop
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: platypus681 showed [3s 3d] and won ($4.14) with three of a kind, Threes
+Seat 4: AAA_set_nh (button) folded before Flop (didn't bet)
+Seat 5: Janxxx82 (small blind) mucked
+
+
+
+PokerStars Hand #222951600803:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:07:40 ET
+Table 'Warck II' 6-max Seat #1 is the button
+Seat 1: sniegs99 ($10.36 in chips) 
+Seat 2: mastiko1996 ($11.28 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+mastiko1996: posts small blind $0.05
+platypus681: is sitting out 
+AAA_set_nh: posts big blind $0.10
+NooBeeK: sits out 
+*** HOLE CARDS ***
+platypus681 leaves the table
+sniegs99: folds 
+mastiko1996: folds 
+Uncalled bet ($0.05) returned to AAA_set_nh
+AAA_set_nh collected $0.10 from pot
+AAA_set_nh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: sniegs99 (button) folded before Flop (didn't bet)
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 4: AAA_set_nh (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222951604265:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:07:49 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 1: sniegs99 ($10.36 in chips) 
+Seat 2: mastiko1996 ($11.23 in chips) 
+Seat 4: AAA_set_nh ($10.20 in chips) 
+Seat 6: NooBeeK ($10.15 in chips) 
+AAA_set_nh: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+sniegs99: raises $0.15 to $0.25
+Rainlol joins the table at seat #3 
+mastiko1996: raises $0.50 to $0.75
+AAA_set_nh: folds 
+NooBeeK: calls $0.65
+sniegs99: folds 
+*** FLOP *** [Ad 9h 5h]
+NooBeeK: checks 
+mastiko1996: checks 
+*** TURN *** [Ad 9h 5h] [7c]
+NooBeeK: bets $0.60
+mastiko1996: calls $0.60
+*** RIVER *** [Ad 9h 5h 7c] [Td]
+NooBeeK: bets $3.30
+mastiko1996: folds 
+Uncalled bet ($3.30) returned to NooBeeK
+NooBeeK collected $2.86 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [Ad 9h 5h 7c Td]
+Seat 1: sniegs99 folded before Flop
+Seat 2: mastiko1996 (button) folded on the River
+Seat 4: AAA_set_nh (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) collected ($2.86)
+
+
+
+PokerStars Hand #222951620512:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:08:34 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 1: sniegs99 ($10.11 in chips) 
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+Seat 6: NooBeeK ($11.66 in chips) 
+NooBeeK: posts small blind $0.05
+sniegs99: posts big blind $0.10
+Rainlol: sits out 
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+AAA_set_nh: folds 
+NooBeeK: folds 
+sniegs99: calls $0.20
+*** FLOP *** [7h Ac 5s]
+sniegs99: checks 
+mastiko1996: bets $0.20
+sniegs99: folds 
+Uncalled bet ($0.20) returned to mastiko1996
+mastiko1996 collected $0.62 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7h Ac 5s]
+Seat 1: sniegs99 (big blind) folded on the Flop
+Seat 2: mastiko1996 collected ($0.62)
+Seat 4: AAA_set_nh (button) folded before Flop (didn't bet)
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951626885:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:08:52 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 1: sniegs99 ($9.81 in chips) 
+Seat 2: mastiko1996 ($10.32 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+Seat 5: Janxxx82 ($6.12 in chips) 
+Seat 6: NooBeeK ($11.61 in chips) 
+sniegs99: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+Rainlol: sits out 
+Janxxx82: posts small & big blinds $0.15
+*** HOLE CARDS ***
+AAA_set_nh: folds 
+Janxxx82: checks 
+NooBeeK: raises $0.35 to $0.45
+sniegs99: folds 
+mastiko1996: raises $1.25 to $1.70
+Janxxx82: folds 
+NooBeeK: folds 
+Uncalled bet ($1.25) returned to mastiko1996
+mastiko1996 collected $1.10 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: sniegs99 (small blind) folded before Flop
+Seat 2: mastiko1996 (big blind) collected ($1.10)
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK (button) folded before Flop
+
+
+
+PokerStars Hand #222951633618:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:09:11 ET
+Table 'Warck II' 6-max Seat #1 is the button
+Seat 1: sniegs99 ($9.76 in chips) 
+Seat 2: mastiko1996 ($10.97 in chips) 
+Seat 3: Rainlol ($10 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+Seat 5: Janxxx82 ($5.97 in chips) 
+Seat 6: NooBeeK ($11.16 in chips) 
+mastiko1996: posts small blind $0.05
+Rainlol: posts big blind $0.10
+*** HOLE CARDS ***
+AAA_set_nh: folds 
+Janxxx82: folds 
+NooBeeK: raises $0.15 to $0.25
+sniegs99: folds 
+mastiko1996: folds 
+Rainlol: calls $0.15
+*** FLOP *** [9c Ad 5c]
+Rainlol: checks 
+NooBeeK: bets $0.17
+Rainlol: folds 
+Uncalled bet ($0.17) returned to NooBeeK
+NooBeeK collected $0.53 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9c Ad 5c]
+Seat 1: sniegs99 (button) folded before Flop (didn't bet)
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 3: Rainlol (big blind) folded on the Flop
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK collected ($0.53)
+
+
+
+PokerStars Hand #222951639769:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:09:28 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 1: sniegs99 ($9.76 in chips) 
+Seat 2: mastiko1996 ($10.92 in chips) 
+Seat 3: Rainlol ($9.75 in chips) 
+Seat 4: AAA_set_nh ($10.15 in chips) 
+Seat 5: Janxxx82 ($5.97 in chips) 
+Seat 6: NooBeeK ($11.44 in chips) 
+Rainlol: posts small blind $0.05
+AAA_set_nh: posts big blind $0.10
+*** HOLE CARDS ***
+Janxxx82: folds 
+NooBeeK: folds 
+sniegs99: folds 
+mastiko1996: folds 
+Rainlol: raises $0.20 to $0.30
+AAA_set_nh: calls $0.20
+*** FLOP *** [7d 6s 9d]
+Rainlol: bets $0.30
+AAA_set_nh: raises $0.60 to $0.90
+Rainlol: calls $0.60
+*** TURN *** [7d 6s 9d] [Kh]
+Rainlol: checks 
+AAA_set_nh: checks 
+*** RIVER *** [7d 6s 9d Kh] [3d]
+Rainlol: bets $0.60
+AAA_set_nh: folds 
+Uncalled bet ($0.60) returned to Rainlol
+Rainlol collected $2.29 from pot
+Rainlol: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.11 
+Board [7d 6s 9d Kh 3d]
+Seat 1: sniegs99 folded before Flop (didn't bet)
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: Rainlol (small blind) collected ($2.29)
+Seat 4: AAA_set_nh (big blind) folded on the River
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951662518:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:10:31 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 1: sniegs99 ($9.76 in chips) 
+Seat 2: mastiko1996 ($10.92 in chips) 
+Seat 3: Rainlol ($10.84 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($5.97 in chips) 
+Seat 6: NooBeeK ($11.44 in chips) 
+AAA_set_nh: posts small blind $0.05
+Janxxx82: posts big blind $0.10
+*** HOLE CARDS ***
+NooBeeK: folds 
+sniegs99: folds 
+mastiko1996: folds 
+Rainlol: raises $0.20 to $0.30
+AAA_set_nh: folds 
+Janxxx82: calls $0.20
+*** FLOP *** [5h Kd 5s]
+Janxxx82: bets $0.20
+Rainlol: folds 
+Uncalled bet ($0.20) returned to Janxxx82
+Janxxx82 collected $0.62 from pot
+Janxxx82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5h Kd 5s]
+Seat 1: sniegs99 folded before Flop (didn't bet)
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: Rainlol (button) folded on the Flop
+Seat 4: AAA_set_nh (small blind) folded before Flop
+Seat 5: Janxxx82 (big blind) collected ($0.62)
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951674522:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:11:04 ET
+Table 'Warck II' 6-max Seat #4 is the button
+Seat 1: sniegs99 ($9.76 in chips) 
+Seat 2: mastiko1996 ($10.92 in chips) 
+Seat 3: Rainlol ($10.54 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($6.29 in chips) 
+Seat 6: NooBeeK ($11.44 in chips) 
+Janxxx82: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+sniegs99: folds 
+mastiko1996: raises $0.20 to $0.30
+Rainlol: calls $0.30
+AAA_set_nh: folds 
+Janxxx82: folds 
+NooBeeK: raises $1.10 to $1.40
+mastiko1996: folds 
+Rainlol: folds 
+Uncalled bet ($1.10) returned to NooBeeK
+NooBeeK collected $0.95 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: sniegs99 folded before Flop (didn't bet)
+Seat 2: mastiko1996 folded before Flop
+Seat 3: Rainlol folded before Flop
+Seat 4: AAA_set_nh (button) folded before Flop (didn't bet)
+Seat 5: Janxxx82 (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) collected ($0.95)
+
+
+
+PokerStars Hand #222951682093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:11:24 ET
+Table 'Warck II' 6-max Seat #5 is the button
+Seat 1: sniegs99 ($9.76 in chips) 
+Seat 2: mastiko1996 ($10.62 in chips) 
+Seat 3: Rainlol ($10.24 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($6.24 in chips) 
+Seat 6: NooBeeK ($12.09 in chips) 
+NooBeeK: posts small blind $0.05
+sniegs99: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+Rainlol: folds 
+AAA_set_nh: folds 
+Janxxx82: calls $0.10
+NooBeeK: folds 
+sniegs99: checks 
+*** FLOP *** [Ks Ac 9c]
+sniegs99: checks 
+Janxxx82: checks 
+*** TURN *** [Ks Ac 9c] [7s]
+sniegs99: checks 
+Janxxx82: bets $0.30
+sniegs99: calls $0.30
+*** RIVER *** [Ks Ac 9c 7s] [5d]
+sniegs99: checks 
+Janxxx82: bets $1
+sniegs99: folds 
+Uncalled bet ($1) returned to Janxxx82
+Janxxx82 collected $0.81 from pot
+Janxxx82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Ks Ac 9c 7s 5d]
+Seat 1: sniegs99 (big blind) folded on the River
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: Rainlol folded before Flop (didn't bet)
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 (button) collected ($0.81)
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951698686:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:12:10 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 1: sniegs99 ($9.36 in chips) 
+Seat 2: mastiko1996 ($10.62 in chips) 
+Seat 3: Rainlol ($10.24 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 5: Janxxx82 ($6.65 in chips) 
+Seat 6: NooBeeK ($12.04 in chips) 
+sniegs99: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+Rainlol: folds 
+AAA_set_nh: folds 
+Janxxx82: folds 
+NooBeeK: folds 
+sniegs99: raises $0.15 to $0.25
+mastiko1996: folds 
+Uncalled bet ($0.15) returned to sniegs99
+sniegs99 collected $0.20 from pot
+sniegs99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: sniegs99 (small blind) collected ($0.20)
+Seat 2: mastiko1996 (big blind) folded before Flop
+Seat 3: Rainlol folded before Flop (didn't bet)
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 5: Janxxx82 folded before Flop (didn't bet)
+Seat 6: NooBeeK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951756799:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:14:23 ET
+Table 'Warck II' 6-max Seat #1 is the button
+Seat 1: sniegs99 ($10 in chips) 
+Seat 2: mastiko1996 ($10.52 in chips) 
+Seat 3: Rainlol ($16.96 in chips) 
+Seat 4: AAA_set_nh ($10 in chips) 
+Seat 6: NooBeeK ($11.47 in chips) 
+mastiko1996: posts small blind $0.05
+Rainlol: posts big blind $0.10
+*** HOLE CARDS ***
+AAA_set_nh: folds 
+NooBeeK: folds 
+sniegs99: folds 
+mastiko1996: raises $0.20 to $0.30
+Rainlol: raises $0.70 to $1
+mastiko1996: calls $0.70
+*** FLOP *** [6h 9s 9h]
+mastiko1996: checks 
+Rainlol: bets $1
+mastiko1996: calls $1
+*** TURN *** [6h 9s 9h] [Td]
+mastiko1996: checks 
+Rainlol: checks 
+*** RIVER *** [6h 9s 9h Td] [5h]
+Janxxx82 leaves the table
+Lergik joins the table at seat #5 
+AAA_set_nh leaves the table
+Lergik leaves the table
+mastiko1996: bets $2.60
+Rainlol: folds 
+Uncalled bet ($2.60) returned to mastiko1996
+mastiko1996 collected $3.82 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.18 
+Board [6h 9s 9h Td 5h]
+Seat 1: sniegs99 (button) folded before Flop (didn't bet)
+Seat 2: mastiko1996 (small blind) collected ($3.82)
+Seat 3: Rainlol (big blind) folded on the River
+Seat 4: AAA_set_nh folded before Flop (didn't bet)
+Seat 6: NooBeeK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222951794847:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:16:07 ET
+Table 'Warck II' 6-max Seat #2 is the button
+Seat 1: sniegs99 ($10 in chips) 
+Seat 2: mastiko1996 ($12.34 in chips) 
+Seat 3: Rainlol ($14.96 in chips) 
+Seat 6: NooBeeK ($11.47 in chips) 
+Rainlol: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+sniegs99: folds 
+mastiko1996: folds 
+Rainlol: folds 
+Uncalled bet ($0.05) returned to NooBeeK
+NooBeeK collected $0.10 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: sniegs99 folded before Flop (didn't bet)
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: Rainlol (small blind) folded before Flop
+Seat 6: NooBeeK (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222951797245:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:16:14 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 1: sniegs99 ($10 in chips) 
+Seat 2: mastiko1996 ($12.34 in chips) 
+Seat 3: Rainlol ($14.91 in chips) 
+Seat 6: NooBeeK ($11.52 in chips) 
+NooBeeK: posts small blind $0.05
+sniegs99: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+Rainlol: folds 
+NooBeeK: folds 
+sniegs99: folds 
+Uncalled bet ($0.20) returned to mastiko1996
+mastiko1996 collected $0.25 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: sniegs99 (big blind) folded before Flop
+Seat 2: mastiko1996 collected ($0.25)
+Seat 3: Rainlol (button) folded before Flop (didn't bet)
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+
+PokerStars Hand #222951802534:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:16:28 ET
+Table 'Warck II' 6-max Seat #6 is the button
+Seat 1: sniegs99 ($9.90 in chips) 
+Seat 3: Rainlol ($14.91 in chips) 
+Seat 6: NooBeeK ($11.47 in chips) 
+sniegs99: posts small blind $0.05
+mastiko1996: is sitting out 
+Rainlol: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996 leaves the table
+NooBeeK: raises $0.15 to $0.25
+sniegs99: folds 
+Rainlol: calls $0.15
+*** FLOP *** [5c Qc 9s]
+Rainlol: checks 
+NooBeeK: bets $0.40
+Rainlol: folds 
+Uncalled bet ($0.40) returned to NooBeeK
+NooBeeK collected $0.53 from pot
+NooBeeK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5c Qc 9s]
+Seat 1: sniegs99 (small blind) folded before Flop
+Seat 3: Rainlol (big blind) folded on the Flop
+Seat 6: NooBeeK (button) collected ($0.53)
+
+
+
+PokerStars Hand #222951811437:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:16:52 ET
+Table 'Warck II' 6-max Seat #1 is the button
+Seat 1: sniegs99 ($9.85 in chips) 
+Seat 3: Rainlol ($14.66 in chips) 
+Seat 6: NooBeeK ($11.75 in chips) 
+Rainlol: posts small blind $0.05
+NooBeeK: posts big blind $0.10
+*** HOLE CARDS ***
+sniegs99: folds 
+Rainlol: raises $0.20 to $0.30
+NooBeeK: calls $0.20
+*** FLOP *** [Jc 5h 3h]
+Rainlol: bets $0.20
+NooBeeK: folds 
+Uncalled bet ($0.20) returned to Rainlol
+Rainlol collected $0.57 from pot
+Rainlol: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jc 5h 3h]
+Seat 1: sniegs99 (button) folded before Flop (didn't bet)
+Seat 3: Rainlol (small blind) collected ($0.57)
+Seat 6: NooBeeK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222951818737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:17:12 ET
+Table 'Warck II' 6-max Seat #3 is the button
+Seat 1: sniegs99 ($9.85 in chips) 
+Seat 3: Rainlol ($14.93 in chips) 
+Seat 6: NooBeeK ($11.45 in chips) 
+NooBeeK: posts small blind $0.05
+sniegs99: posts big blind $0.10
+*** HOLE CARDS ***
+Rainlol: folds 
+NooBeeK: folds 
+Uncalled bet ($0.05) returned to sniegs99
+sniegs99 collected $0.10 from pot
+sniegs99: doesn't show hand 
+Rainlol leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: sniegs99 (big blind) collected ($0.10)
+Seat 3: Rainlol (button) folded before Flop (didn't bet)
+Seat 6: NooBeeK (small blind) folded before Flop
+
+
+

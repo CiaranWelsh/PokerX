@@ -1,0 +1,3564 @@
+﻿PokerStars Hand #222949176712:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:01:38 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: Bartryx ($10 in chips) 
+Seat 2: PsychoPala ($16.02 in chips) 
+Seat 3: KramSS ($10.61 in chips) 
+Seat 6: the_humster ($12.45 in chips) 
+Bartryx: posts small blind $0.05
+PsychoPala: posts big blind $0.10
+*** HOLE CARDS ***
+KramSS: folds 
+the_humster: folds 
+Bartryx has timed out
+Bartryx: folds 
+Uncalled bet ($0.05) returned to PsychoPala
+PsychoPala collected $0.10 from pot
+PsychoPala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Bartryx (small blind) folded before Flop
+Seat 2: PsychoPala (big blind) collected ($0.10)
+Seat 3: KramSS folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949186860:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:02:14 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 2: PsychoPala ($16.07 in chips) 
+Seat 3: KramSS ($10.61 in chips) 
+Seat 6: the_humster ($12.45 in chips) 
+KramSS: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+PsychoPala: folds 
+KramSS: raises $0.30 to $0.40
+the_humster: folds 
+Uncalled bet ($0.30) returned to KramSS
+KramSS collected $0.20 from pot
+KramSS: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: PsychoPala (button) folded before Flop (didn't bet)
+Seat 3: KramSS (small blind) collected ($0.20)
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949190585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:02:27 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 2: PsychoPala ($16.07 in chips) 
+Seat 3: KramSS ($10.71 in chips) 
+Seat 6: the_humster ($12.35 in chips) 
+the_humster: posts small blind $0.05
+PsychoPala: posts big blind $0.10
+*** HOLE CARDS ***
+KramSS: folds 
+the_humster: raises $0.20 to $0.30
+PsychoPala: folds 
+Uncalled bet ($0.20) returned to the_humster
+the_humster collected $0.20 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: PsychoPala (big blind) folded before Flop
+Seat 3: KramSS (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222949193676:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:02:37 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 2: PsychoPala ($15.97 in chips) 
+Seat 3: KramSS ($10.71 in chips) 
+Seat 6: the_humster ($12.45 in chips) 
+PsychoPala: posts small blind $0.05
+KramSS: posts big blind $0.10
+*** HOLE CARDS ***
+Bartryx leaves the table
+the_humster: folds 
+WasyaUragan joins the table at seat #1 
+PsychoPala: raises $0.20 to $0.30
+KramSS: calls $0.20
+*** FLOP *** [4c Jh 7c]
+PsychoPala: bets $0.30
+KramSS: calls $0.30
+*** TURN *** [4c Jh 7c] [Jd]
+PsychoPala: bets $0.92
+KramSS: calls $0.92
+*** RIVER *** [4c Jh 7c Jd] [8s]
+PsychoPala: bets $1.35
+KramSS: calls $1.35
+*** SHOW DOWN ***
+PsychoPala: shows [Tc Ad] (a pair of Jacks)
+KramSS: shows [Js Qs] (three of a kind, Jacks)
+KramSS collected $5.48 from pot
+*** SUMMARY ***
+Total pot $5.74 | Rake $0.26 
+Board [4c Jh 7c Jd 8s]
+Seat 2: PsychoPala (small blind) showed [Tc Ad] and lost with a pair of Jacks
+Seat 3: KramSS (big blind) showed [Js Qs] and won ($5.48) with three of a kind, Jacks
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949211569:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:03:38 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 2: PsychoPala ($13.10 in chips) 
+Seat 3: KramSS ($13.32 in chips) 
+Seat 6: the_humster ($12.45 in chips) 
+KramSS: posts small blind $0.05
+the_humster: posts big blind $0.10
+WasyaUragan: sits out 
+*** HOLE CARDS ***
+PsychoPala: raises $0.20 to $0.30
+KramSS: folds 
+the_humster: folds 
+Uncalled bet ($0.20) returned to PsychoPala
+PsychoPala collected $0.25 from pot
+PsychoPala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: PsychoPala (button) collected ($0.25)
+Seat 3: KramSS (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949214964:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:03:50 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: PsychoPala ($13.25 in chips) 
+Seat 3: KramSS ($13.27 in chips) 
+Seat 6: the_humster ($12.35 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+PsychoPala: folds 
+KramSS: raises $0.15 to $0.25
+the_humster: folds 
+PsychoPala leaves the table
+WasyaUragan: raises $0.65 to $0.90
+KramSS: folds 
+Uncalled bet ($0.65) returned to WasyaUragan
+WasyaUragan collected $0.55 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: WasyaUragan (big blind) collected ($0.55)
+Seat 2: PsychoPala folded before Flop (didn't bet)
+Seat 3: KramSS (button) folded before Flop
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949220592:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:09 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.30 in chips) 
+Seat 6: the_humster ($12.30 in chips) 
+WasyaUragan: posts small blind $0.05
+KramSS: is sitting out 
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Uncalled bet ($0.05) returned to the_humster
+the_humster collected $0.10 from pot
+Timsan303van was removed from the table for failing to post
+Timsan303van leaves the table
+Artemka0055 was removed from the table for failing to post
+Artemka0055 leaves the table
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) (small blind) folded before Flop
+Seat 6: the_humster (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949225900:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:27 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.25 in chips) 
+Seat 6: the_humster ($12.35 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+Uncalled bet ($0.05) returned to WasyaUragan
+WasyaUragan collected $0.10 from pot
+WasyaUragan: doesn't show hand 
+Assetgasse joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (big blind) collected ($0.10)
+Seat 6: the_humster (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949227545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:33 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.30 in chips) 
+Seat 4: Assetgasse ($10 in chips) 
+Seat 6: the_humster ($12.30 in chips) 
+WasyaUragan: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+KramSS leaves the table
+WasyaUragan: folds 
+Uncalled bet ($0.05) returned to Assetgasse
+Assetgasse collected $0.10 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 4: Assetgasse (big blind) collected ($0.10)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949229535:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:40 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.25 in chips) 
+Seat 4: Assetgasse ($10.05 in chips) 
+Seat 6: the_humster ($12.30 in chips) 
+Assetgasse: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10 joins the table at seat #3 
+WasyaUragan: folds 
+perfinance joins the table at seat #5 
+Assetgasse: folds 
+Uncalled bet ($0.05) returned to the_humster
+the_humster collected $0.10 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 4: Assetgasse (small blind) folded before Flop
+Seat 6: the_humster (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222949232743:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:04:50 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10.25 in chips) 
+Seat 4: Assetgasse ($10 in chips) 
+Seat 6: the_humster ($12.35 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+lucima10: sits out 
+*** HOLE CARDS ***
+Assetgasse: folds 
+the_humster: folds 
+Uncalled bet ($0.05) returned to WasyaUragan
+WasyaUragan collected $0.10 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (big blind) collected ($0.10)
+Seat 4: Assetgasse (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949235765:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:05:01 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.30 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Assetgasse ($10 in chips) 
+Seat 5: perfinance ($5.80 in chips) 
+Seat 6: the_humster ($12.30 in chips) 
+WasyaUragan: posts small blind $0.05
+lucima10: posts big blind $0.10
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: raises $0.30 to $0.40
+perfinance: calls $0.30
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+*** FLOP *** [Th 3c 9s]
+Assetgasse: bets $0.60
+perfinance: calls $0.60
+*** TURN *** [Th 3c 9s] [2c]
+Assetgasse: bets $1.20
+perfinance: folds 
+Uncalled bet ($1.20) returned to Assetgasse
+Assetgasse collected $2.05 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [Th 3c 9s 2c]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 3: lucima10 (big blind) folded before Flop
+Seat 4: Assetgasse collected ($2.05)
+Seat 5: perfinance folded on the Turn
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949247769:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:05:42 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.25 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 5: perfinance ($4.80 in chips) 
+Seat 6: the_humster ($12.30 in chips) 
+lucima10: posts small blind $0.05
+Assetgasse: is sitting out 
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: raises $0.20 to $0.30
+WasyaUragan: folds 
+lucima10: folds 
+perfinance: calls $0.20
+*** FLOP *** [7s Kh 3s]
+perfinance: bets $0.30
+Assetgasse leaves the table
+the_humster: raises $0.79 to $1.09
+Assetgasse joins the table at seat #2 
+perfinance: calls $0.79
+*** TURN *** [7s Kh 3s] [Qd]
+Kol9I joins the table at seat #4 
+perfinance: bets $0.30
+the_humster: raises $4.13 to $4.43
+perfinance: folds 
+Uncalled bet ($4.13) returned to the_humster
+the_humster collected $3.28 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.43 | Rake $0.15 
+Board [7s Kh 3s Qd]
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 5: perfinance (big blind) folded on the Turn
+Seat 6: the_humster collected ($3.28)
+
+
+
+PokerStars Hand #222949269759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:06:57 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10.25 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 5: perfinance ($3.11 in chips) 
+Seat 6: the_humster ($13.89 in chips) 
+perfinance: posts small blind $0.05
+the_humster: posts big blind $0.10
+Assetgasse: sits out 
+*** HOLE CARDS ***
+WasyaUragan: folds 
+lucima10: folds 
+perfinance: calls $0.05
+the_humster: checks 
+*** FLOP *** [Ac 8s Ah]
+perfinance: checks 
+the_humster: checks 
+*** TURN *** [Ac 8s Ah] [9c]
+perfinance: checks 
+the_humster: bets $0.12
+perfinance: folds 
+Uncalled bet ($0.12) returned to the_humster
+the_humster collected $0.19 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ac 8s Ah 9c]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 (button) folded before Flop (didn't bet)
+Seat 5: perfinance (small blind) folded on the Turn
+Seat 6: the_humster (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222949278336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:07:27 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($10.25 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8 in chips) 
+Seat 5: perfinance ($3.01 in chips) 
+Seat 6: the_humster ($13.98 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+Assetgasse: sits out 
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: checks 
+perfinance: calls $0.10
+the_humster: raises $0.40 to $0.50
+WasyaUragan: folds 
+Kol9I: folds 
+perfinance: raises $1.20 to $1.70
+the_humster: folds 
+Uncalled bet ($1.20) returned to perfinance
+perfinance collected $1.20 from pot
+perfinance: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0 
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance (button) collected ($1.20)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949283698:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:07:45 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.15 in chips) 
+Seat 2: Assetgasse ($11.05 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($7.90 in chips) 
+Seat 5: perfinance ($3.71 in chips) 
+Seat 6: the_humster ($13.48 in chips) 
+WasyaUragan: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: calls $0.10
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Assetgasse: checks 
+*** FLOP *** [9h 9c Tc]
+Assetgasse: bets $0.10
+Kol9I: raises $0.15 to $0.25
+Assetgasse: calls $0.15
+*** TURN *** [9h 9c Tc] [8h]
+Assetgasse: checks 
+Kol9I: bets $0.25
+Assetgasse: calls $0.25
+*** RIVER *** [9h 9c Tc 8h] [Th]
+Assetgasse: checks 
+Kol9I: checks 
+*** SHOW DOWN ***
+Assetgasse: shows [8c Ts] (a full house, Tens full of Nines)
+Kol9I: mucks hand 
+Assetgasse collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9h 9c Tc 8h Th]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Assetgasse (big blind) showed [8c Ts] and won ($1.19) with a full house, Tens full of Nines
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I mucked
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949294801:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:08:23 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.10 in chips) 
+Seat 2: Assetgasse ($11.64 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($7.30 in chips) 
+Seat 5: perfinance ($3.71 in chips) 
+Seat 6: the_humster ($13.48 in chips) 
+Assetgasse: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: raises $0.30 to $0.40
+Assetgasse: folds 
+lucima10: folds 
+Kol9I: calls $0.30
+*** FLOP *** [7s Jd Th]
+Kol9I: bets $0.15
+WasyaUragan: raises $0.61 to $0.76
+Kol9I: calls $0.61
+*** TURN *** [7s Jd Th] [6c]
+Kol9I: checks 
+WasyaUragan: checks 
+*** RIVER *** [7s Jd Th 6c] [3d]
+Kol9I: checks 
+WasyaUragan: checks 
+*** SHOW DOWN ***
+Kol9I: shows [Kc Ts] (a pair of Tens)
+WasyaUragan: mucks hand 
+Kol9I collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [7s Jd Th 6c 3d]
+Seat 1: WasyaUragan (button) mucked
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: lucima10 (big blind) folded before Flop
+Seat 4: Kol9I showed [Kc Ts] and won ($2.36) with a pair of Tens
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949312592:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:09:23 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Assetgasse ($11.59 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.50 in chips) 
+Seat 5: perfinance ($3.71 in chips) 
+Seat 6: the_humster ($13.48 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+perfinance: calls $0.10
+the_humster: folds 
+WasyaUragan: folds 
+Assetgasse: folds 
+lucima10: folds 
+Kol9I: checks 
+*** FLOP *** [6h 2c 2s]
+Kol9I: checks 
+perfinance: checks 
+*** TURN *** [6h 2c 2s] [4d]
+Kol9I: bets $0.15
+perfinance: calls $0.15
+*** RIVER *** [6h 2c 2s 4d] [7s]
+Kol9I: bets $0.15
+perfinance: folds 
+Uncalled bet ($0.15) returned to Kol9I
+Kol9I collected $0.53 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6h 2c 2s 4d 7s]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.53)
+Seat 5: perfinance folded on the River
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949322927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:09:58 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.78 in chips) 
+Seat 5: perfinance ($3.46 in chips) 
+Seat 6: the_humster ($13.48 in chips) 
+Kol9I: posts small blind $0.05
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+Kol9I: folds 
+Uncalled bet ($0.05) returned to perfinance
+perfinance collected $0.10 from pot
+perfinance: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 (button) folded before Flop (didn't bet)
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: perfinance (big blind) collected ($0.10)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949326573:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:10:10 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.73 in chips) 
+Seat 5: perfinance ($3.51 in chips) 
+Seat 6: the_humster ($13.48 in chips) 
+perfinance: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.05
+the_humster: checks 
+*** FLOP *** [Qh Tc 6h]
+perfinance: checks 
+the_humster: checks 
+*** TURN *** [Qh Tc 6h] [Ac]
+perfinance: checks 
+the_humster: checks 
+*** RIVER *** [Qh Tc 6h Ac] [Th]
+perfinance: checks 
+the_humster: checks 
+*** SHOW DOWN ***
+perfinance: shows [Qs Jc] (two pair, Queens and Tens)
+the_humster: mucks hand 
+perfinance collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qh Tc 6h Ac Th]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 5: perfinance (small blind) showed [Qs Jc] and won ($0.19) with two pair, Queens and Tens
+Seat 6: the_humster (big blind) mucked
+
+
+
+PokerStars Hand #222949334876:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:10:39 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.73 in chips) 
+Seat 5: perfinance ($3.60 in chips) 
+Seat 6: the_humster ($13.38 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.10
+the_humster: raises $0.40 to $0.50
+WasyaUragan: folds 
+perfinance: folds 
+Uncalled bet ($0.40) returned to the_humster
+the_humster collected $0.30 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance (button) folded before Flop
+Seat 6: the_humster (small blind) collected ($0.30)
+
+
+
+PokerStars Hand #222949339541:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:10:55 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.73 in chips) 
+Seat 5: perfinance ($3.50 in chips) 
+Seat 6: the_humster ($13.58 in chips) 
+WasyaUragan: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: folds 
+perfinance: calls $0.10
+the_humster: raises $0.30 to $0.40
+WasyaUragan: folds 
+lucima10: folds 
+perfinance: raises $0.95 to $1.35
+the_humster: folds 
+Uncalled bet ($0.95) returned to perfinance
+perfinance collected $0.95 from pot
+perfinance: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 3: lucima10 (big blind) folded before Flop
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance collected ($0.95)
+Seat 6: the_humster (button) folded before Flop
+
+
+
+PokerStars Hand #222949346988:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:11:20 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.73 in chips) 
+Seat 5: perfinance ($4.05 in chips) 
+Seat 6: the_humster ($13.18 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+Uncalled bet ($0.05) returned to Kol9I
+Kol9I collected $0.10 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.10)
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949351091:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:11:34 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.78 in chips) 
+Seat 5: perfinance ($4.05 in chips) 
+Seat 6: the_humster ($13.18 in chips) 
+Kol9I: posts small blind $0.05
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: raises $0.15 to $0.25
+Kol9I: calls $0.20
+perfinance: calls $0.15
+*** FLOP *** [6s 9h 4h]
+Kol9I: checks 
+perfinance: checks 
+lucima10: bets $0.37
+Kol9I: folds 
+perfinance: folds 
+Uncalled bet ($0.37) returned to lucima10
+lucima10 collected $0.72 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6s 9h 4h]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 (button) collected ($0.72)
+Seat 4: Kol9I (small blind) folded on the Flop
+Seat 5: perfinance (big blind) folded on the Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949358580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:11:59 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10.47 in chips) 
+Seat 4: Kol9I ($8.53 in chips) 
+Seat 5: perfinance ($3.80 in chips) 
+Seat 6: the_humster ($13.18 in chips) 
+perfinance: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+lucima10: folds 
+Kol9I: calls $0.10
+perfinance: raises $0.10 to $0.20
+the_humster: calls $0.10
+Kol9I: calls $0.10
+*** FLOP *** [2s Jc 7s]
+perfinance: checks 
+the_humster: checks 
+Kol9I: bets $0.13
+perfinance: folds 
+the_humster: folds 
+Uncalled bet ($0.13) returned to Kol9I
+Kol9I collected $0.57 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [2s Jc 7s]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) collected ($0.57)
+Seat 5: perfinance (small blind) folded on the Flop
+Seat 6: the_humster (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222949369077:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:12:34 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10.47 in chips) 
+Seat 4: Kol9I ($8.90 in chips) 
+Seat 5: perfinance ($3.60 in chips) 
+Seat 6: the_humster ($12.98 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: calls $0.10
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: checks 
+*** FLOP *** [2h Js Th]
+WasyaUragan: checks 
+Kol9I: checks 
+*** TURN *** [2h Js Th] [Kd]
+WasyaUragan: checks 
+Kol9I: checks 
+*** RIVER *** [2h Js Th Kd] [6d]
+WasyaUragan: checks 
+Kol9I: checks 
+*** SHOW DOWN ***
+WasyaUragan: shows [5d 7c] (high card King)
+Kol9I: shows [7h 3h] (high card King)
+WasyaUragan collected $0.12 from pot
+Kol9I collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2h Js Th Kd 6d]
+Seat 1: WasyaUragan (big blind) showed [5d 7c] and won ($0.12) with high card King
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I showed [7h 3h] and won ($0.12) with high card King
+Seat 5: perfinance (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949379255:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:13:09 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.02 in chips) 
+Seat 3: lucima10 ($10.47 in chips) 
+Seat 4: Kol9I ($8.92 in chips) 
+Seat 5: perfinance ($3.60 in chips) 
+Seat 6: the_humster ($12.93 in chips) 
+WasyaUragan: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: folds 
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+lucima10: raises $0.80 to $1.10
+WasyaUragan: folds 
+Uncalled bet ($0.80) returned to lucima10
+lucima10 collected $0.60 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 3: lucima10 (big blind) collected ($0.60)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949386629:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:13:34 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10.77 in chips) 
+Seat 4: Kol9I ($8.92 in chips) 
+Seat 5: perfinance ($3.60 in chips) 
+Seat 6: the_humster ($12.93 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+Uncalled bet ($0.05) returned to Kol9I
+Kol9I collected $0.10 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.10)
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949389798:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:13:45 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10.72 in chips) 
+Seat 4: Kol9I ($8.97 in chips) 
+Seat 5: perfinance ($3.60 in chips) 
+Seat 6: the_humster ($12.93 in chips) 
+Kol9I: posts small blind $0.05
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: raises $0.15 to $0.25
+Kol9I: folds 
+perfinance: folds 
+Uncalled bet ($0.15) returned to lucima10
+lucima10 collected $0.25 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 (button) collected ($0.25)
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: perfinance (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949393400:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:13:57 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10.87 in chips) 
+Seat 4: Kol9I ($8.92 in chips) 
+Seat 5: perfinance ($3.50 in chips) 
+Seat 6: the_humster ($12.93 in chips) 
+perfinance: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.05
+the_humster: checks 
+*** FLOP *** [4d 8s 9s]
+perfinance: checks 
+the_humster: bets $0.12
+perfinance: folds 
+Uncalled bet ($0.12) returned to the_humster
+the_humster collected $0.19 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4d 8s 9s]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 5: perfinance (small blind) folded on the Flop
+Seat 6: the_humster (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222949403229:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:14:31 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 3: lucima10 ($10.87 in chips) 
+Seat 4: Kol9I ($8.92 in chips) 
+Seat 5: perfinance ($3.40 in chips) 
+Seat 6: the_humster ($13.02 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.10
+the_humster: folds 
+WasyaUragan: checks 
+*** FLOP *** [5c Ac 4s]
+WasyaUragan: checks 
+perfinance: checks 
+*** TURN *** [5c Ac 4s] [As]
+WasyaUragan: bets $0.12
+perfinance: folds 
+Uncalled bet ($0.12) returned to WasyaUragan
+WasyaUragan collected $0.24 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5c Ac 4s As]
+Seat 1: WasyaUragan (big blind) collected ($0.24)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance (button) folded on the Turn
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949411973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:15:01 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.14 in chips) 
+Seat 3: lucima10 ($10.87 in chips) 
+Seat 4: Kol9I ($8.92 in chips) 
+Seat 5: perfinance ($3.30 in chips) 
+Seat 6: the_humster ($12.97 in chips) 
+WasyaUragan: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+perfinance: calls $0.10
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: checks 
+*** FLOP *** [8d Kh 7c]
+lucima10: checks 
+Kol9I: bets $0.12
+perfinance: folds 
+lucima10: folds 
+Uncalled bet ($0.12) returned to Kol9I
+Kol9I collected $0.33 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [8d Kh 7c]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 3: lucima10 (big blind) folded on the Flop
+Seat 4: Kol9I collected ($0.33)
+Seat 5: perfinance folded on the Flop
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949423263:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:15:39 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.09 in chips) 
+Seat 3: lucima10 ($10.77 in chips) 
+Seat 4: Kol9I ($9.15 in chips) 
+Seat 5: perfinance ($3.20 in chips) 
+Seat 6: the_humster ($12.97 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+Uncalled bet ($0.05) returned to Kol9I
+Kol9I collected $0.10 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.10)
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949425857:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:15:47 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10.09 in chips) 
+Seat 3: lucima10 ($10.72 in chips) 
+Seat 4: Kol9I ($9.20 in chips) 
+Seat 6: the_humster ($12.97 in chips) 
+Kol9I: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+lucima10: folds 
+Kol9I: calls $0.05
+the_humster: checks 
+*** FLOP *** [3c 4d 8h]
+Kol9I: bets $0.15
+the_humster: folds 
+Uncalled bet ($0.15) returned to Kol9I
+Kol9I collected $0.19 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3c 4d 8h]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 (button) folded before Flop (didn't bet)
+Seat 4: Kol9I (small blind) collected ($0.19)
+Seat 6: the_humster (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222949430483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:16:03 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10.09 in chips) 
+Seat 3: lucima10 ($10.72 in chips) 
+Seat 4: Kol9I ($9.29 in chips) 
+Seat 6: the_humster ($12.87 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: folds 
+the_humster: folds 
+Uncalled bet ($0.05) returned to WasyaUragan
+WasyaUragan collected $0.10 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (big blind) collected ($0.10)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949432806:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:16:11 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.14 in chips) 
+Seat 3: lucima10 ($10.72 in chips) 
+Seat 4: Kol9I ($9.29 in chips) 
+Seat 5: perfinance ($3.20 in chips) 
+Seat 6: the_humster ($12.82 in chips) 
+WasyaUragan: posts small blind $0.05
+lucima10: posts big blind $0.10
+perfinance: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+perfinance: checks 
+the_humster: folds 
+WasyaUragan: raises $0.50 to $0.60
+lucima10: folds 
+Kol9I: folds 
+perfinance: folds 
+Uncalled bet ($0.50) returned to WasyaUragan
+WasyaUragan collected $0.45 from pot
+Assetgasse was removed from the table for failing to post
+Assetgasse leaves the table
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: WasyaUragan (small blind) collected ($0.45)
+Seat 3: lucima10 (big blind) folded before Flop
+Seat 4: Kol9I folded before Flop
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949438977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:16:31 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.49 in chips) 
+Seat 3: lucima10 ($10.62 in chips) 
+Seat 4: Kol9I ($9.19 in chips) 
+Seat 5: perfinance ($3.05 in chips) 
+Seat 6: the_humster ($12.82 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+perfinance: folds 
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+Uncalled bet ($0.05) returned to Kol9I
+Kol9I collected $0.10 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.10)
+Seat 5: perfinance folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949451176:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:16:41 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10.49 in chips) 
+Seat 3: lucima10 ($10.57 in chips) 
+Seat 4: Kol9I ($9.24 in chips) 
+Seat 5: perfinance ($3.05 in chips) 
+Seat 6: the_humster ($12.82 in chips) 
+Kol9I: posts small blind $0.05
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade joins the table at seat #2 
+the_humster: folds 
+WasyaUragan: folds 
+lucima10: folds 
+Kol9I: calls $0.05
+perfinance: checks 
+*** FLOP *** [8h 3c Ah]
+Kol9I: bets $0.10
+perfinance: calls $0.10
+*** TURN *** [8h 3c Ah] [4c]
+Kol9I: bets $0.14
+perfinance: calls $0.14
+*** RIVER *** [8h 3c Ah 4c] [3s]
+Kol9I: bets $0.10
+perfinance: calls $0.10
+*** SHOW DOWN ***
+Kol9I: shows [5c 4h] (two pair, Fours and Threes)
+perfinance: shows [8s Jd] (two pair, Eights and Threes)
+perfinance collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.04 
+Board [8h 3c Ah 4c 3s]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 3: lucima10 (button) folded before Flop (didn't bet)
+Seat 4: Kol9I (small blind) showed [5c 4h] and lost with two pair, Fours and Threes
+Seat 5: perfinance (big blind) showed [8s Jd] and won ($0.84) with two pair, Eights and Threes
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949465717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:17:31 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10.49 in chips) 
+Seat 2: Samirzade ($6.70 in chips) 
+Seat 3: lucima10 ($10.57 in chips) 
+Seat 4: Kol9I ($8.80 in chips) 
+Seat 5: perfinance ($3.45 in chips) 
+Seat 6: the_humster ($12.82 in chips) 
+perfinance: posts small blind $0.05
+the_humster: posts big blind $0.10
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: raises $0.30 to $0.40
+Samirzade: folds 
+lucima10: folds 
+Kol9I: folds 
+perfinance: folds 
+the_humster: folds 
+Uncalled bet ($0.30) returned to WasyaUragan
+WasyaUragan collected $0.35 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: WasyaUragan collected ($0.35)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 5: perfinance (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949470748:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:17:48 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($10.74 in chips) 
+Seat 2: Samirzade ($6.60 in chips) 
+Seat 3: lucima10 ($10.57 in chips) 
+Seat 4: Kol9I ($8.80 in chips) 
+Seat 5: perfinance ($3.40 in chips) 
+Seat 6: the_humster ($12.72 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: folds 
+lucima10: raises $0.20 to $0.30
+Kol9I: calls $0.30
+perfinance: calls $0.30
+the_humster: folds 
+WasyaUragan: folds 
+*** FLOP *** [3s 9c 6s]
+lucima10: checks 
+Kol9I: checks 
+perfinance: checks 
+*** TURN *** [3s 9c 6s] [Kh]
+lucima10: bets $0.50
+Kol9I: folds 
+perfinance: calls $0.50
+*** RIVER *** [3s 9c 6s Kh] [2h]
+lucima10: checks 
+perfinance: bets $0.10
+lucima10: calls $0.10
+*** SHOW DOWN ***
+perfinance: shows [Ad Kc] (a pair of Kings)
+lucima10: mucks hand 
+perfinance collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [3s 9c 6s Kh 2h]
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 mucked
+Seat 4: Kol9I folded on the Turn
+Seat 5: perfinance (button) showed [Ad Kc] and won ($2.15) with a pair of Kings
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949484055:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:18:33 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10.64 in chips) 
+Seat 2: Samirzade ($6.60 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.50 in chips) 
+Seat 5: perfinance ($4.65 in chips) 
+Seat 6: the_humster ($12.67 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.10
+the_humster: folds 
+WasyaUragan: raises $0.30 to $0.40
+Samirzade: folds 
+perfinance: calls $0.30
+*** FLOP *** [5h 6d Qh]
+WasyaUragan: checks 
+perfinance: bets $0.10
+WasyaUragan: calls $0.10
+*** TURN *** [5h 6d Qh] [9c]
+WasyaUragan: checks 
+perfinance: bets $0.10
+WasyaUragan: calls $0.10
+*** RIVER *** [5h 6d Qh 9c] [Ac]
+WasyaUragan: checks 
+perfinance: checks 
+*** SHOW DOWN ***
+WasyaUragan: shows [As Tc] (a pair of Aces)
+perfinance: shows [Qc 5c] (two pair, Queens and Fives)
+perfinance collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [5h 6d Qh 9c Ac]
+Seat 1: WasyaUragan (small blind) showed [As Tc] and lost with a pair of Aces
+Seat 2: Samirzade (big blind) folded before Flop
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance showed [Qc 5c] and won ($1.24) with two pair, Queens and Fives
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949498011:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:19:20 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10.04 in chips) 
+Seat 2: Samirzade ($6.50 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.50 in chips) 
+Seat 5: perfinance ($5.29 in chips) 
+Seat 6: the_humster ($12.67 in chips) 
+Samirzade: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: folds 
+perfinance: calls $0.10
+the_humster: raises $0.30 to $0.40
+WasyaUragan: raises $1 to $1.40
+Samirzade: folds 
+lucima10: folds 
+perfinance: folds 
+the_humster: folds 
+Uncalled bet ($1) returned to WasyaUragan
+WasyaUragan collected $1.05 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0 
+Seat 1: WasyaUragan (button) collected ($1.05)
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: lucima10 (big blind) folded before Flop
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: perfinance folded before Flop
+Seat 6: the_humster folded before Flop
+
+
+
+PokerStars Hand #222949507622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:19:51 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($10.69 in chips) 
+Seat 2: Samirzade ($6.45 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.50 in chips) 
+Seat 5: perfinance ($5.19 in chips) 
+Seat 6: the_humster ($12.27 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+perfinance: calls $0.10
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: folds 
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.20
+*** FLOP *** [4d Ks Qd]
+perfinance: bets $0.10
+WasyaUragan: calls $0.10
+*** TURN *** [4d Ks Qd] [Ad]
+perfinance: checks 
+WasyaUragan: checks 
+*** RIVER *** [4d Ks Qd Ad] [7c]
+perfinance: bets $0.91
+WasyaUragan: calls $0.91
+*** SHOW DOWN ***
+perfinance: shows [6d Jd] (a flush, Ace high)
+WasyaUragan: mucks hand 
+perfinance collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.77 | Rake $0.12 
+Board [4d Ks Qd Ad 7c]
+Seat 1: WasyaUragan mucked
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) folded before Flop
+Seat 4: Kol9I (big blind) folded before Flop
+Seat 5: perfinance showed [6d Jd] and won ($2.65) with a flush, Ace high
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949523092:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:20:42 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.45 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($8.40 in chips) 
+Seat 5: perfinance ($6.53 in chips) 
+Seat 6: the_humster ($12.27 in chips) 
+Kol9I: posts small blind $0.05
+perfinance: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+lucima10: raises $0.15 to $0.25
+Kol9I: folds 
+perfinance: calls $0.15
+*** FLOP *** [4d 2c Ac]
+perfinance: checks 
+lucima10: bets $0.40
+perfinance: folds 
+Uncalled bet ($0.40) returned to lucima10
+lucima10 collected $0.53 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4d 2c Ac]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 (button) collected ($0.53)
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: perfinance (big blind) folded on the Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949531587:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:21:10 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.45 in chips) 
+Seat 3: lucima10 ($10.28 in chips) 
+Seat 4: Kol9I ($8.35 in chips) 
+Seat 5: perfinance ($6.28 in chips) 
+Seat 6: the_humster ($12.27 in chips) 
+perfinance: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: folds 
+lucima10: folds 
+Kol9I: folds 
+perfinance: calls $0.05
+the_humster: checks 
+*** FLOP *** [5h 2s Kd]
+perfinance: checks 
+the_humster: checks 
+*** TURN *** [5h 2s Kd] [7h]
+perfinance: checks 
+the_humster: checks 
+*** RIVER *** [5h 2s Kd 7h] [3h]
+perfinance: checks 
+the_humster: checks 
+*** SHOW DOWN ***
+perfinance: shows [4s Ks] (a pair of Kings)
+the_humster: mucks hand 
+perfinance collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5h 2s Kd 7h 3h]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 5: perfinance (small blind) showed [4s Ks] and won ($0.19) with a pair of Kings
+Seat 6: the_humster (big blind) mucked
+
+
+
+PokerStars Hand #222949547802:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:22:04 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.45 in chips) 
+Seat 3: lucima10 ($10.28 in chips) 
+Seat 4: Kol9I ($8.35 in chips) 
+Seat 5: perfinance ($6.37 in chips) 
+Seat 6: the_humster ($12.17 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade is disconnected 
+Samirzade has timed out while disconnected
+Samirzade: folds 
+lucima10: raises $0.15 to $0.25
+Kol9I: calls $0.25
+perfinance: calls $0.25
+the_humster: folds 
+WasyaUragan: folds 
+*** FLOP *** [6d 3d Jc]
+lucima10: checks 
+Kol9I: bets $0.10
+perfinance: calls $0.10
+lucima10: raises $1.28 to $1.38
+Kol9I: folds 
+perfinance: calls $1.28
+*** TURN *** [6d 3d Jc] [Qs]
+lucima10: bets $2.70
+perfinance: folds 
+Uncalled bet ($2.70) returned to lucima10
+lucima10 collected $3.59 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.76 | Rake $0.17 
+Board [6d 3d Jc Qs]
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 collected ($3.59)
+Seat 4: Kol9I folded on the Flop
+Seat 5: perfinance (button) folded on the Turn
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949567757:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:10 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.45 in chips) 
+Seat 3: lucima10 ($12.24 in chips) 
+Seat 4: Kol9I ($8 in chips) 
+Seat 5: perfinance ($4.74 in chips) 
+Seat 6: the_humster ($12.12 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: calls $0.10
+perfinance: calls $0.10
+the_humster: calls $0.10
+WasyaUragan: folds 
+Samirzade: checks 
+*** FLOP *** [2s Ac Jd]
+Samirzade: bets $0.21
+Kol9I: folds 
+perfinance: calls $0.21
+the_humster: folds 
+*** TURN *** [2s Ac Jd] [Qd]
+Samirzade: bets $0.10
+perfinance: calls $0.10
+*** RIVER *** [2s Ac Jd Qd] [8s]
+Samirzade: bets $1.02
+perfinance: folds 
+Uncalled bet ($1.02) returned to Samirzade
+Samirzade collected $1.02 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.05 
+Board [2s Ac Jd Qd 8s]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) collected ($1.02)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded on the Flop
+Seat 5: perfinance folded on the River
+Seat 6: the_humster (button) folded on the Flop
+
+
+
+PokerStars Hand #222949581092:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:54 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($7.06 in chips) 
+Seat 3: lucima10 ($12.24 in chips) 
+Seat 4: Kol9I ($7.90 in chips) 
+Seat 5: perfinance ($4.33 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+Samirzade: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+perfinance: calls $0.10
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: calls $0.05
+lucima10: checks 
+*** FLOP *** [2c As 2s]
+Samirzade: checks 
+lucima10: bets $0.30
+Kol9I: calls $0.30
+perfinance: calls $0.30
+Samirzade is disconnected 
+Samirzade is connected 
+Samirzade: calls $0.30
+*** TURN *** [2c As 2s] [3c]
+Samirzade: checks 
+lucima10: bets $0.60
+Kol9I: calls $0.60
+perfinance: raises $3.33 to $3.93 and is all-in
+Samirzade: folds 
+lucima10: folds 
+Kol9I: calls $3.33
+*** RIVER *** [2c As 2s 3c] [5h]
+*** SHOW DOWN ***
+Kol9I: shows [2d Ac] (a full house, Deuces full of Aces)
+perfinance: shows [5d 2h] (a full house, Deuces full of Fives)
+Kol9I collected $9.61 from pot
+*** SUMMARY ***
+Total pot $10.06 | Rake $0.45 
+Board [2c As 2s 3c 5h]
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 2: Samirzade (small blind) folded on the Turn
+Seat 3: lucima10 (big blind) folded on the Turn
+Seat 4: Kol9I showed [2d Ac] and won ($9.61) with a full house, Deuces full of Aces
+Seat 5: perfinance showed [5d 2h] and lost with a full house, Deuces full of Fives
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949616558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:25:51 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.66 in chips) 
+Seat 3: lucima10 ($11.24 in chips) 
+Seat 4: Kol9I ($13.18 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+lucima10: raises $0.20 to $0.30
+Kol9I: folds 
+Uncalled bet ($0.20) returned to lucima10
+lucima10 collected $0.20 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: lucima10 (small blind) collected ($0.20)
+Seat 4: Kol9I (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949619922:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:02 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.66 in chips) 
+Seat 3: lucima10 ($11.34 in chips) 
+Seat 4: Kol9I ($13.08 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+Kol9I: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: raises $0.10 to $0.20
+lucima10: raises $0.50 to $0.70
+Kol9I: folds 
+perfinance leaves the table
+the_humster: folds 
+Samirzade: folds 
+Uncalled bet ($0.50) returned to lucima10
+$$_DACENT_60 joins the table at seat #5 
+lucima10 collected $0.55 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop
+Seat 3: lucima10 (button) collected ($0.55)
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949627051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:25 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($10 in chips) 
+Seat 2: Samirzade ($6.46 in chips) 
+Seat 3: lucima10 ($11.69 in chips) 
+Seat 4: Kol9I ($13.03 in chips) 
+Seat 6: the_humster ($11.92 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: folds 
+lucima10: folds 
+Kol9I: calls $0.10
+the_humster: folds 
+WasyaUragan: checks 
+*** FLOP *** [4s 7c 3d]
+WasyaUragan: checks 
+Kol9I: bets $0.13
+WasyaUragan: calls $0.13
+*** TURN *** [4s 7c 3d] [4h]
+WasyaUragan: checks 
+Kol9I: bets $0.25
+WasyaUragan: raises $0.50 to $0.75
+Kol9I: calls $0.50
+*** RIVER *** [4s 7c 3d 4h] [9h]
+WasyaUragan: bets $1.44
+Kol9I: calls $1.44
+*** SHOW DOWN ***
+WasyaUragan: shows [Ac 4d] (three of a kind, Fours)
+Kol9I: mucks hand 
+WasyaUragan collected $4.67 from pot
+*** SUMMARY ***
+Total pot $4.89 | Rake $0.22 
+Board [4s 7c 3d 4h 9h]
+Seat 1: WasyaUragan (big blind) showed [Ac 4d] and won ($4.67) with three of a kind, Fours
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) mucked
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949643903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:27:21 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($12.25 in chips) 
+Seat 2: Samirzade ($6.46 in chips) 
+Seat 3: lucima10 ($11.69 in chips) 
+Seat 4: Kol9I ($10.61 in chips) 
+Seat 6: the_humster ($11.87 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+$$_DACENT_60: sits out 
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: folds 
+the_humster: raises $0.15 to $0.25
+WasyaUragan: folds 
+Samirzade: folds 
+Uncalled bet ($0.15) returned to the_humster
+the_humster collected $0.25 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) folded before Flop
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 6: the_humster (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949647682:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:27:33 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($12.20 in chips) 
+Seat 2: Samirzade ($6.36 in chips) 
+Seat 3: lucima10 ($11.69 in chips) 
+Seat 4: Kol9I ($10.61 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+Samirzade: posts small blind $0.05
+lucima10: posts big blind $0.10
+$$_DACENT_60: sits out 
+*** HOLE CARDS ***
+Kol9I: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: calls $0.25
+lucima10: raises $0.60 to $0.90
+WasyaUragan: raises $1.50 to $2.40
+Samirzade: folds 
+lucima10: calls $1.50
+*** FLOP *** [5c 7s 9d]
+lucima10: checks 
+WasyaUragan: bets $2.44
+lucima10: calls $2.44
+*** TURN *** [5c 7s 9d] [2s]
+lucima10: checks 
+WasyaUragan: bets $7.36 and is all-in
+lucima10: folds 
+Uncalled bet ($7.36) returned to WasyaUragan
+WasyaUragan collected $9.53 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.98 | Rake $0.45 
+Board [5c 7s 9d 2s]
+Seat 1: WasyaUragan (button) collected ($9.53)
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: lucima10 (big blind) folded on the Turn
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949660659:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:28:16 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($16.89 in chips) 
+Seat 2: Samirzade ($6.06 in chips) 
+Seat 3: lucima10 ($10 in chips) 
+Seat 4: Kol9I ($10.61 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+lucima10: posts small blind $0.05
+Kol9I: posts big blind $0.10
+$$_DACENT_60: sits out 
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: calls $0.10
+lucima10: raises $0.40 to $0.50
+Kol9I: raises $0.40 to $0.90
+Samirzade: folds 
+lucima10: raises $1.60 to $2.50
+Kol9I: calls $1.60
+*** FLOP *** [Th Qd 3c]
+lucima10: bets $2.48
+Kol9I: folds 
+Uncalled bet ($2.48) returned to lucima10
+lucima10 collected $4.87 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.23 
+Board [Th Qd 3c]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade (button) folded before Flop
+Seat 3: lucima10 (small blind) collected ($4.87)
+Seat 4: Kol9I (big blind) folded on the Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949680018:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:29:19 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($16.89 in chips) 
+Seat 2: Samirzade ($5.96 in chips) 
+Seat 3: lucima10 ($12.37 in chips) 
+Seat 4: Kol9I ($8.11 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+Kol9I: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: calls $0.10
+lucima10: raises $0.50 to $0.60
+Kol9I: folds 
+$$_DACENT_60: folds 
+Samirzade: calls $0.50
+*** FLOP *** [Qd 4s 3d]
+Samirzade: checks 
+lucima10: checks 
+*** TURN *** [Qd 4s 3d] [Qc]
+Samirzade: bets $0.64
+lucima10: folds 
+Uncalled bet ($0.64) returned to Samirzade
+Samirzade collected $1.29 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [Qd 4s 3d Qc]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade collected ($1.29)
+Seat 3: lucima10 (button) folded on the Turn
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949696332:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:30:13 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($16.89 in chips) 
+Seat 2: Samirzade ($6.65 in chips) 
+Seat 3: lucima10 ($11.77 in chips) 
+Seat 4: Kol9I ($8.06 in chips) 
+Seat 5: $$_DACENT_60 ($9.90 in chips) 
+Seat 6: the_humster ($12.02 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: folds 
+lucima10: folds 
+Kol9I: raises $0.26 to $0.36
+$$_DACENT_60: folds 
+the_humster: calls $0.26
+*** FLOP *** [7c 8d Kc]
+the_humster: checks 
+Kol9I: bets $0.35
+the_humster: calls $0.35
+*** TURN *** [7c 8d Kc] [Ac]
+the_humster: checks 
+Kol9I: checks 
+*** RIVER *** [7c 8d Kc Ac] [3s]
+the_humster: bets $0.91
+Kol9I: folds 
+Uncalled bet ($0.91) returned to the_humster
+the_humster collected $1.40 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [7c 8d Kc Ac 3s]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded on the River
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) collected ($1.40)
+
+
+
+PokerStars Hand #222949718084:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:31:24 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($16.89 in chips) 
+Seat 2: Samirzade ($6.65 in chips) 
+Seat 3: lucima10 ($11.77 in chips) 
+Seat 4: Kol9I ($7.35 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($12.71 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: raises $0.20 to $0.30
+lucima10: folds 
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Uncalled bet ($0.20) returned to Samirzade
+Samirzade collected $0.25 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 2: Samirzade collected ($0.25)
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949721335:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:31:34 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($16.79 in chips) 
+Seat 2: Samirzade ($6.80 in chips) 
+Seat 3: lucima10 ($11.77 in chips) 
+Seat 4: Kol9I ($7.35 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($12.66 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Kol9I: calls $0.10
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: checks 
+*** FLOP *** [9s Qc Jd]
+Samirzade: checks 
+Kol9I: checks 
+*** TURN *** [9s Qc Jd] [Ac]
+Samirzade: checks 
+Kol9I: bets $0.25
+Samirzade: folds 
+Uncalled bet ($0.25) returned to Kol9I
+Kol9I collected $0.24 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s Qc Jd Ac]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) folded on the Turn
+Seat 3: lucima10 folded before Flop (didn't bet)
+Seat 4: Kol9I collected ($0.24)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949729373:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:00 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($16.74 in chips) 
+Seat 2: Samirzade ($6.70 in chips) 
+Seat 4: Kol9I ($7.49 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($12.66 in chips) 
+Samirzade: posts small blind $0.05
+lucima10: is sitting out 
+lucima10 leaves the table
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+Uncalled bet ($0.05) returned to Kol9I
+Kol9I collected $0.10 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.10)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949731500:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:07 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($16.74 in chips) 
+Seat 2: Samirzade ($6.65 in chips) 
+Seat 4: Kol9I ($7.54 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($12.66 in chips) 
+Kol9I: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+1.Richmond joins the table at seat #3 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: calls $0.30
+Kol9I: folds 
+$$_DACENT_60: folds 
+*** FLOP *** [Ks 9d 2s]
+WasyaUragan: checks 
+Samirzade: bets $0.36
+WasyaUragan: calls $0.36
+*** TURN *** [Ks 9d 2s] [6s]
+WasyaUragan: checks 
+Samirzade: checks 
+*** RIVER *** [Ks 9d 2s 6s] [Js]
+WasyaUragan: bets $0.42
+Samirzade: folds 
+Uncalled bet ($0.42) returned to WasyaUragan
+WasyaUragan collected $1.40 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [Ks 9d 2s 6s Js]
+Seat 1: WasyaUragan collected ($1.40)
+Seat 2: Samirzade (button) folded on the River
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949746960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:57 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($17.48 in chips) 
+Seat 2: Samirzade ($5.99 in chips) 
+Seat 4: Kol9I ($7.49 in chips) 
+Seat 5: $$_DACENT_60 ($9.90 in chips) 
+Seat 6: the_humster ($12.66 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+1.Richmond: sits out 
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: raises $0.10 to $0.20
+Kol9I: calls $0.20
+$$_DACENT_60: folds 
+the_humster: folds 
+*** FLOP *** [4d 5s Jd]
+Samirzade: checks 
+Kol9I: checks 
+*** TURN *** [4d 5s Jd] [2d]
+Samirzade: checks 
+Kol9I: checks 
+*** RIVER *** [4d 5s Jd 2d] [5h]
+Samirzade: checks 
+Kol9I: checks 
+*** SHOW DOWN ***
+Samirzade: shows [Ac 4s] (two pair, Fives and Fours)
+Kol9I: mucks hand 
+Samirzade collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4d 5s Jd 2d 5h]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade showed [Ac 4s] and won ($0.53) with two pair, Fives and Fours
+Seat 4: Kol9I (button) mucked
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949754958:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:23 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($17.48 in chips) 
+Seat 2: Samirzade ($6.32 in chips) 
+Seat 4: Kol9I ($7.29 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($12.56 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+1.Richmond: sits out 
+*** HOLE CARDS ***
+Samirzade: folds 
+Kol9I: folds 
+$$_DACENT_60: raises $0.20 to $0.30
+the_humster: folds 
+WasyaUragan: calls $0.20
+*** FLOP *** [7c 6s Kc]
+WasyaUragan: checks 
+$$_DACENT_60: checks 
+*** TURN *** [7c 6s Kc] [3c]
+WasyaUragan: checks 
+$$_DACENT_60: checks 
+*** RIVER *** [7c 6s Kc 3c] [Jc]
+WasyaUragan: checks 
+$$_DACENT_60: bets $0.40
+WasyaUragan: folds 
+Uncalled bet ($0.40) returned to $$_DACENT_60
+$$_DACENT_60 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7c 6s Kc 3c Jc]
+Seat 1: WasyaUragan (big blind) folded on the River
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) collected ($0.62)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949778993:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:40 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($17.18 in chips) 
+Seat 2: Samirzade ($6.32 in chips) 
+Seat 4: Kol9I ($7.29 in chips) 
+Seat 5: $$_DACENT_60 ($10.32 in chips) 
+Seat 6: the_humster ($12.51 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+1.Richmond: sits out 
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: checks 
+*** FLOP *** [9d 9s Ah]
+Samirzade: checks 
+Kol9I: checks 
+*** TURN *** [9d 9s Ah] [7d]
+Samirzade: checks 
+Kol9I: bets $0.19
+Samirzade: calls $0.19
+*** RIVER *** [9d 9s Ah 7d] [Kc]
+Samirzade: checks 
+Kol9I: bets $0.50
+Samirzade: calls $0.50
+*** SHOW DOWN ***
+Kol9I: shows [Th 9h] (three of a kind, Nines)
+Samirzade: mucks hand 
+Kol9I collected $1.56 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.07 
+Board [9d 9s Ah 7d Kc]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) mucked
+Seat 4: Kol9I showed [Th 9h] and won ($1.56) with three of a kind, Nines
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949790423:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:35:17 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($17.13 in chips) 
+Seat 2: Samirzade ($5.53 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 4: Kol9I ($8.06 in chips) 
+Seat 5: $$_DACENT_60 ($10.32 in chips) 
+Seat 6: the_humster ($12.51 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+1.Richmond: checks 
+*** FLOP *** [5d 8d Td]
+1.Richmond: checks 
+Kol9I: checks 
+*** TURN *** [5d 8d Td] [Jc]
+1.Richmond: checks 
+Kol9I: bets $0.16
+1.Richmond: folds 
+Uncalled bet ($0.16) returned to Kol9I
+Kol9I collected $0.24 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5d 8d Td Jc]
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) folded on the Turn
+Seat 4: Kol9I collected ($0.24)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949803729:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:35:59 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($17.13 in chips) 
+Seat 2: Samirzade ($5.48 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 4: Kol9I ($8.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.32 in chips) 
+Seat 6: the_humster ($12.51 in chips) 
+1.Richmond: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+1.Richmond: folds 
+Uncalled bet ($0.05) returned to Kol9I
+Kol9I collected $0.10 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: 1.Richmond (small blind) folded before Flop
+Seat 4: Kol9I (big blind) collected ($0.10)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949809055:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:36:16 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($17.13 in chips) 
+Seat 2: Samirzade ($5.48 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 4: Kol9I ($8.25 in chips) 
+Seat 5: $$_DACENT_60 ($10.32 in chips) 
+Seat 6: the_humster ($12.51 in chips) 
+Kol9I: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: folds 
+1.Richmond: folds 
+Kol9I: folds 
+$$_DACENT_60: folds 
+Uncalled bet ($0.20) returned to WasyaUragan
+WasyaUragan collected $0.25 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan collected ($0.25)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949813411:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:36:30 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($17.28 in chips) 
+Seat 2: Samirzade ($5.48 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 4: Kol9I ($8.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.22 in chips) 
+Seat 6: the_humster ($12.51 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: folds 
+1.Richmond: raises $0.20 to $0.30
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: calls $0.20
+*** FLOP *** [Js 8h 8s]
+the_humster: checks 
+1.Richmond: bets $0.30
+the_humster: calls $0.30
+*** TURN *** [Js 8h 8s] [4s]
+the_humster: checks 
+1.Richmond: bets $0.75
+the_humster: folds 
+Uncalled bet ($0.75) returned to 1.Richmond
+1.Richmond collected $1.19 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Js 8h 8s 4s]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond collected ($1.19)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222949825852:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:09 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($17.28 in chips) 
+Seat 2: Samirzade ($5.48 in chips) 
+Seat 3: 1.Richmond ($10.59 in chips) 
+Seat 4: Kol9I ($8.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($11.91 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: raises $0.10 to $0.20
+1.Richmond: folds 
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Uncalled bet ($0.10) returned to Samirzade
+Samirzade collected $0.25 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 2: Samirzade collected ($0.25)
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949831071:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:26 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($17.18 in chips) 
+Seat 2: Samirzade ($5.63 in chips) 
+Seat 3: 1.Richmond ($10.59 in chips) 
+Seat 4: Kol9I ($8.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($11.86 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+1.Richmond: folds 
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: raises $0.15 to $0.25
+WasyaUragan: folds 
+Samirzade: calls $0.15
+*** FLOP *** [6c Ad 4h]
+Samirzade: checks 
+the_humster: bets $0.34
+Samirzade: folds 
+Uncalled bet ($0.34) returned to the_humster
+the_humster collected $0.53 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6c Ad 4h]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) folded on the Flop
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) collected ($0.53)
+
+
+
+PokerStars Hand #222949838066:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:48 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($17.13 in chips) 
+Seat 2: Samirzade ($5.38 in chips) 
+Seat 3: 1.Richmond ($10.59 in chips) 
+Seat 4: Kol9I ($8.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($12.14 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: folds 
+1.Richmond: folds 
+Uncalled bet ($0.20) returned to WasyaUragan
+WasyaUragan collected $0.25 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan (button) collected ($0.25)
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) folded before Flop
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949844877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:38:10 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($17.28 in chips) 
+Seat 2: Samirzade ($5.33 in chips) 
+Seat 3: 1.Richmond ($10.49 in chips) 
+Seat 4: Kol9I ($8.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($12.14 in chips) 
+1.Richmond: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: raises $0.20 to $0.30
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+1.Richmond: folds 
+Kol9I: folds 
+Uncalled bet ($0.20) returned to $$_DACENT_60
+$$_DACENT_60 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: 1.Richmond (small blind) folded before Flop
+Seat 4: Kol9I (big blind) folded before Flop
+Seat 5: $$_DACENT_60 collected ($0.25)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949850270:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:38:27 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($17.28 in chips) 
+Seat 2: Samirzade ($5.33 in chips) 
+Seat 3: 1.Richmond ($10.44 in chips) 
+Seat 4: Kol9I ($8.10 in chips) 
+Seat 5: $$_DACENT_60 ($10.32 in chips) 
+Seat 6: the_humster ($12.14 in chips) 
+Kol9I: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: raises $0.20 to $0.30
+WasyaUragan: folds 
+Samirzade: folds 
+1.Richmond: folds 
+Kol9I: folds 
+$$_DACENT_60: folds 
+Uncalled bet ($0.20) returned to the_humster
+the_humster collected $0.25 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Kol9I (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster collected ($0.25)
+
+
+
+PokerStars Hand #222949853851:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:38:38 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($17.28 in chips) 
+Seat 2: Samirzade ($5.33 in chips) 
+Seat 3: 1.Richmond ($10.44 in chips) 
+Seat 4: Kol9I ($8.05 in chips) 
+Seat 5: $$_DACENT_60 ($10.22 in chips) 
+Seat 6: the_humster ($12.29 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: raises $0.25 to $0.35
+1.Richmond: folds 
+Kol9I: calls $0.35
+$$_DACENT_60: folds 
+the_humster: folds 
+*** FLOP *** [5c 2c Kh]
+Samirzade: checks 
+Kol9I: bets $0.10
+Samirzade: calls $0.10
+*** TURN *** [5c 2c Kh] [9h]
+Samirzade: checks 
+Kol9I: bets $0.10
+Samirzade: calls $0.10
+*** RIVER *** [5c 2c Kh 9h] [3h]
+Samirzade: checks 
+Kol9I: checks 
+*** SHOW DOWN ***
+Samirzade: shows [7c 6c] (high card King)
+Kol9I: shows [Qc Ac] (high card Ace)
+Kol9I collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5c 2c Kh 9h 3h]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade showed [7c 6c] and lost with high card King
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I (button) showed [Qc Ac] and won ($1.19) with high card Ace
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949864260:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:39:11 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($17.28 in chips) 
+Seat 2: Samirzade ($4.78 in chips) 
+Seat 3: 1.Richmond ($10.44 in chips) 
+Seat 4: Kol9I ($8.69 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($12.19 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: raises $0.20 to $0.30
+1.Richmond: raises $0.60 to $0.90
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: calls $0.60
+*** FLOP *** [Ks 3c 6c]
+Samirzade: checks 
+1.Richmond: bets $1
+Samirzade: folds 
+Uncalled bet ($1) returned to 1.Richmond
+1.Richmond collected $1.86 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Ks 3c 6c]
+Seat 1: WasyaUragan (big blind) folded before Flop
+Seat 2: Samirzade folded on the Flop
+Seat 3: 1.Richmond collected ($1.86)
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949875319:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:39:46 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($17.18 in chips) 
+Seat 2: Samirzade ($3.88 in chips) 
+Seat 3: 1.Richmond ($11.40 in chips) 
+Seat 4: Kol9I ($8.69 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($12.14 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+1.Richmond: folds 
+Kol9I: calls $0.10
+$$_DACENT_60: folds 
+the_humster: raises $0.30 to $0.40
+WasyaUragan: folds 
+Samirzade: calls $0.30
+Kol9I: calls $0.30
+*** FLOP *** [Kd 2h Tc]
+Samirzade: checks 
+Kol9I: bets $0.19
+the_humster: calls $0.19
+Samirzade: calls $0.19
+*** TURN *** [Kd 2h Tc] [Qh]
+Samirzade: checks 
+Kol9I: checks 
+the_humster: checks 
+*** RIVER *** [Kd 2h Tc Qh] [7c]
+Samirzade: bets $1.74
+Kol9I: folds 
+the_humster: folds 
+Uncalled bet ($1.74) returned to Samirzade
+Samirzade collected $1.74 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.82 | Rake $0.08 
+Board [Kd 2h Tc Qh 7c]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) collected ($1.74)
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I folded on the River
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded on the River
+
+
+
+PokerStars Hand #222949888740:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:40:30 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($17.13 in chips) 
+Seat 2: Samirzade ($5.03 in chips) 
+Seat 3: 1.Richmond ($11.40 in chips) 
+Seat 4: Kol9I ($8.10 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($11.55 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: calls $0.10
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: calls $0.05
+1.Richmond: checks 
+*** FLOP *** [Jd Ks Qd]
+Samirzade: checks 
+1.Richmond: checks 
+Kol9I: bets $0.10
+Samirzade: folds 
+1.Richmond: calls $0.10
+*** TURN *** [Jd Ks Qd] [9c]
+1.Richmond: checks 
+Kol9I: checks 
+*** RIVER *** [Jd Ks Qd 9c] [2c]
+1.Richmond: bets $0.25
+Kol9I: folds 
+Uncalled bet ($0.25) returned to 1.Richmond
+1.Richmond collected $0.48 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Jd Ks Qd 9c 2c]
+Seat 1: WasyaUragan (button) folded before Flop (didn't bet)
+Seat 2: Samirzade (small blind) folded on the Flop
+Seat 3: 1.Richmond (big blind) collected ($0.48)
+Seat 4: Kol9I folded on the River
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949901005:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:41:09 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($17.13 in chips) 
+Seat 2: Samirzade ($4.93 in chips) 
+Seat 3: 1.Richmond ($11.68 in chips) 
+Seat 4: Kol9I ($7.90 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($11.55 in chips) 
+1.Richmond: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: calls $0.30
+1.Richmond: folds 
+Kol9I: calls $0.20
+*** FLOP *** [2d 8d Jd]
+Kol9I: bets $0.40
+WasyaUragan: calls $0.40
+Samirzade: folds 
+*** TURN *** [2d 8d Jd] [6h]
+Kol9I: bets $0.70
+WasyaUragan: calls $0.70
+*** RIVER *** [2d 8d Jd 6h] [Tc]
+Kol9I: checks 
+WasyaUragan: bets $1.20
+Kol9I: calls $1.20
+*** SHOW DOWN ***
+WasyaUragan: shows [Td Jc] (two pair, Jacks and Tens)
+Kol9I: mucks hand 
+WasyaUragan collected $5.30 from pot
+*** SUMMARY ***
+Total pot $5.55 | Rake $0.25 
+Board [2d 8d Jd 6h Tc]
+Seat 1: WasyaUragan showed [Td Jc] and won ($5.30) with two pair, Jacks and Tens
+Seat 2: Samirzade (button) folded on the Flop
+Seat 3: 1.Richmond (small blind) folded before Flop
+Seat 4: Kol9I (big blind) mucked
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949915825:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:41:56 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($19.83 in chips) 
+Seat 2: Samirzade ($4.63 in chips) 
+Seat 3: 1.Richmond ($11.63 in chips) 
+Seat 4: Kol9I ($5.30 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($11.55 in chips) 
+Kol9I: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: raises $0.20 to $0.30
+WasyaUragan: folds 
+Samirzade: raises $0.50 to $0.80
+1.Richmond: folds 
+Kol9I: calls $0.75
+$$_DACENT_60: folds 
+the_humster: calls $0.50
+*** FLOP *** [2h 9d 2c]
+Kol9I: bets $0.50
+the_humster: folds 
+Samirzade: calls $0.50
+*** TURN *** [2h 9d 2c] [7c]
+Kol9I: checks 
+Samirzade: checks 
+*** RIVER *** [2h 9d 2c 7c] [6c]
+Kol9I: checks 
+Samirzade: checks 
+*** SHOW DOWN ***
+Kol9I: shows [Th Ad] (a pair of Deuces)
+Samirzade: shows [Kh Kc] (two pair, Kings and Deuces)
+Samirzade collected $3.34 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.16 
+Board [2h 9d 2c 7c 6c]
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade showed [Kh Kc] and won ($3.34) with two pair, Kings and Deuces
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Kol9I (small blind) showed [Th Ad] and lost with a pair of Deuces
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster folded on the Flop
+
+
+
+PokerStars Hand #222949933769:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:42:54 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($19.83 in chips) 
+Seat 2: Samirzade ($6.67 in chips) 
+Seat 3: 1.Richmond ($11.63 in chips) 
+Seat 4: Kol9I ($4 in chips) 
+Seat 5: $$_DACENT_60 ($10.07 in chips) 
+Seat 6: the_humster ($10.75 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: calls $0.30
+1.Richmond: folds 
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+*** FLOP *** [6d Qs Js]
+WasyaUragan: bets $0.22
+Samirzade: calls $0.22
+*** TURN *** [6d Qs Js] [3d]
+WasyaUragan: bets $0.86
+Samirzade: folds 
+Uncalled bet ($0.86) returned to WasyaUragan
+WasyaUragan collected $1.14 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.05 
+Board [6d Qs Js 3d]
+Seat 1: WasyaUragan collected ($1.14)
+Seat 2: Samirzade folded on the Turn
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I (button) folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949946495:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:43:35 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($20.45 in chips) 
+Seat 2: Samirzade ($6.15 in chips) 
+Seat 3: 1.Richmond ($11.63 in chips) 
+Seat 4: Kol9I ($4 in chips) 
+Seat 5: $$_DACENT_60 ($10.02 in chips) 
+Seat 6: the_humster ($10.65 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: calls $0.10
+1.Richmond: folds 
+Kol9I: calls $0.10
+$$_DACENT_60: folds 
+the_humster: calls $0.05
+WasyaUragan: raises $0.60 to $0.70
+Samirzade: folds 
+Kol9I: folds 
+the_humster: folds 
+Uncalled bet ($0.60) returned to WasyaUragan
+WasyaUragan collected $0.40 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: WasyaUragan (big blind) collected ($0.40)
+Seat 2: Samirzade folded before Flop
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I folded before Flop
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949955133:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:44:02 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($20.75 in chips) 
+Seat 2: Samirzade ($6.05 in chips) 
+Seat 3: 1.Richmond ($11.63 in chips) 
+Seat 4: Kol9I ($3.90 in chips) 
+Seat 5: $$_DACENT_60 ($10.02 in chips) 
+Seat 6: the_humster ($10.55 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+1.Richmond: folds 
+Kol9I: raises $3.80 to $3.90 and is all-in
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: folds 
+Samirzade: folds 
+Uncalled bet ($3.80) returned to Kol9I
+Kol9I collected $0.25 from pot
+Kol9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 2: Samirzade (big blind) folded before Flop
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Kol9I collected ($0.25)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949959571:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:44:17 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($20.70 in chips) 
+Seat 2: Samirzade ($5.95 in chips) 
+Seat 3: 1.Richmond ($11.63 in chips) 
+Seat 4: Kol9I ($4.05 in chips) 
+Seat 5: $$_DACENT_60 ($10.02 in chips) 
+Seat 6: the_humster ($10.55 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Kol9I: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: folds 
+1.Richmond: calls $0.20
+*** FLOP *** [8s Ad 5h]
+1.Richmond: checks 
+WasyaUragan: checks 
+*** TURN *** [8s Ad 5h] [Qs]
+1.Richmond: bets $0.30
+WasyaUragan: calls $0.30
+*** RIVER *** [8s Ad 5h Qs] [9s]
+1.Richmond: bets $0.85
+WasyaUragan: calls $0.85
+*** SHOW DOWN ***
+1.Richmond: shows [9c Qh] (two pair, Queens and Nines)
+WasyaUragan: shows [As 9d] (two pair, Aces and Nines)
+WasyaUragan collected $2.82 from pot
+*** SUMMARY ***
+Total pot $2.95 | Rake $0.13 
+Board [8s Ad 5h Qs 9s]
+Seat 1: WasyaUragan (button) showed [As 9d] and won ($2.82) with two pair, Aces and Nines
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) showed [9c Qh] and lost with two pair, Queens and Nines
+Seat 4: Kol9I folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949980046:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:45:21 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: WasyaUragan ($22.07 in chips) 
+Seat 2: Samirzade ($5.90 in chips) 
+Seat 3: 1.Richmond ($10.18 in chips) 
+Seat 4: Kol9I ($4.05 in chips) 
+Seat 5: $$_DACENT_60 ($10.02 in chips) 
+Seat 6: the_humster ($10.55 in chips) 
+1.Richmond: posts small blind $0.05
+Kol9I: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: folds 
+1.Richmond: folds 
+Kol9I: raises $0.20 to $0.50
+WasyaUragan: raises $21.57 to $22.07 and is all-in
+Kol9I: calls $3.55 and is all-in
+Uncalled bet ($18.02) returned to WasyaUragan
+*** FLOP *** [Qd 3s Qs]
+*** TURN *** [Qd 3s Qs] [9d]
+*** RIVER *** [Qd 3s Qs 9d] [2h]
+*** SHOW DOWN ***
+Kol9I: shows [Th Ah] (a pair of Queens)
+WasyaUragan: shows [Jc Jd] (two pair, Queens and Jacks)
+WasyaUragan collected $7.78 from pot
+*** SUMMARY ***
+Total pot $8.15 | Rake $0.37 
+Board [Qd 3s Qs 9d 2h]
+Seat 1: WasyaUragan showed [Jc Jd] and won ($7.78) with two pair, Queens and Jacks
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: 1.Richmond (small blind) folded before Flop
+Seat 4: Kol9I (big blind) showed [Th Ah] and lost with a pair of Queens
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949989787:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:45:52 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($25.80 in chips) 
+Seat 2: Samirzade ($5.90 in chips) 
+Seat 3: 1.Richmond ($10.13 in chips) 
+Seat 5: $$_DACENT_60 ($10.02 in chips) 
+Seat 6: the_humster ($10.55 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: raises $0.20 to $0.30
+Samirzade: folds 
+1.Richmond: folds 
+$$_DACENT_60: folds 
+Kol9I leaves the table
+the_humster: calls $0.20
+*** FLOP *** [8h Ah 8s]
+the_humster: checks 
+WasyaUragan: checks 
+*** TURN *** [8h Ah 8s] [Jd]
+Last_Warr1or joins the table at seat #4 
+the_humster: bets $0.40
+WasyaUragan: calls $0.40
+*** RIVER *** [8h Ah 8s Jd] [Jh]
+the_humster: bets $0.69
+WasyaUragan: calls $0.69
+*** SHOW DOWN ***
+the_humster: shows [8d Kd] (a full house, Eights full of Jacks)
+WasyaUragan: mucks hand 
+the_humster collected $2.70 from pot
+*** SUMMARY ***
+Total pot $2.83 | Rake $0.13 
+Board [8h Ah 8s Jd Jh]
+Seat 1: WasyaUragan mucked
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) showed [8d Kd] and won ($2.70) with a full house, Eights full of Jacks
+
+
+
+PokerStars Hand #222950002266:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:46:31 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: WasyaUragan ($24.41 in chips) 
+Seat 2: Samirzade ($5.90 in chips) 
+Seat 3: 1.Richmond ($10.13 in chips) 
+Seat 5: $$_DACENT_60 ($9.97 in chips) 
+Seat 6: the_humster ($11.86 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: posts big blind $0.10
+Last_Warr1or: sits out 
+*** HOLE CARDS ***
+Samirzade: calls $0.10
+1.Richmond: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: checks 
+*** FLOP *** [2h Kh Ad]
+WasyaUragan: checks 
+Samirzade: checks 
+*** TURN *** [2h Kh Ad] [7c]
+WasyaUragan: checks 
+Samirzade is disconnected 
+Samirzade has timed out while disconnected
+Samirzade: checks 
+*** RIVER *** [2h Kh Ad 7c] [Tc]
+WasyaUragan: checks 
+Samirzade has timed out while disconnected
+Samirzade: checks 
+*** SHOW DOWN ***
+WasyaUragan: shows [9c 3s] (high card Ace)
+Samirzade: shows [Qc 4c] (high card Ace - King+Queen kicker)
+Samirzade collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2h Kh Ad 7c Tc]
+Seat 1: WasyaUragan (big blind) showed [9c 3s] and lost with high card Ace
+Seat 2: Samirzade showed [Qc 4c] and won ($0.24) with high card Ace
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950026585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:47:48 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: WasyaUragan ($24.31 in chips) 
+Seat 3: 1.Richmond ($10.13 in chips) 
+Seat 5: $$_DACENT_60 ($10 in chips) 
+Seat 6: the_humster ($11.81 in chips) 
+WasyaUragan: posts small blind $0.05
+Samirzade has timed out while disconnected
+Samirzade: is sitting out 
+1.Richmond: posts big blind $0.10
+Last_Warr1or: sits out 
+*** HOLE CARDS ***
+$$_DACENT_60: raises $0.20 to $0.30
+the_humster: calls $0.30
+WasyaUragan: folds 
+1.Richmond: folds 
+*** FLOP *** [8c 7d Ah]
+$$_DACENT_60: checks 
+the_humster: checks 
+*** TURN *** [8c 7d Ah] [4c]
+$$_DACENT_60: checks 
+the_humster: checks 
+*** RIVER *** [8c 7d Ah 4c] [6d]
+$$_DACENT_60: checks 
+the_humster: checks 
+*** SHOW DOWN ***
+$$_DACENT_60: shows [Qh Kd] (high card Ace)
+the_humster: mucks hand 
+$$_DACENT_60 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8c 7d Ah 4c 6d]
+Seat 1: WasyaUragan (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) folded before Flop
+Seat 5: $$_DACENT_60 showed [Qh Kd] and won ($0.72) with high card Ace
+Seat 6: the_humster (button) mucked
+
+
+
+PokerStars Hand #222950039520:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:48:29 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: WasyaUragan ($24.26 in chips) 
+Seat 3: 1.Richmond ($10.03 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.42 in chips) 
+Seat 6: the_humster ($11.51 in chips) 
+1.Richmond: posts small blind $0.05
+Last_Warr1or: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+WasyaUragan: raises $0.20 to $0.30
+1.Richmond: raises $0.70 to $1
+Last_Warr1or: folds 
+WasyaUragan: folds 
+Uncalled bet ($0.70) returned to 1.Richmond
+1.Richmond collected $0.70 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: WasyaUragan (button) folded before Flop
+Seat 3: 1.Richmond (small blind) collected ($0.70)
+Seat 4: Last_Warr1or (big blind) folded before Flop
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950047240:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:48:53 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: WasyaUragan ($23.96 in chips) 
+Seat 2: Samirzade ($6.04 in chips) 
+Seat 3: 1.Richmond ($10.43 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.42 in chips) 
+Seat 6: the_humster ($11.51 in chips) 
+Last_Warr1or: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+Samirzade: posts small & big blinds $0.15
+*** HOLE CARDS ***
+the_humster: folds 
+WasyaUragan: raises $0.30 to $0.40
+Samirzade: folds 
+1.Richmond: folds 
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+Uncalled bet ($0.30) returned to WasyaUragan
+WasyaUragan collected $0.40 from pot
+WasyaUragan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: WasyaUragan collected ($0.40)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950052505:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:49:10 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: WasyaUragan ($24.26 in chips) 
+Seat 2: Samirzade ($5.89 in chips) 
+Seat 3: 1.Richmond ($10.43 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.32 in chips) 
+Seat 6: the_humster ($11.51 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan: folds 
+Samirzade: raises $0.10 to $0.20
+1.Richmond: folds 
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+Uncalled bet ($0.10) returned to Samirzade
+Samirzade collected $0.25 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: WasyaUragan folded before Flop (didn't bet)
+Seat 2: Samirzade collected ($0.25)
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (button) folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950057681:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:49:26 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 2: Samirzade ($6.04 in chips) 
+Seat 3: 1.Richmond ($10.43 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.27 in chips) 
+Seat 6: the_humster ($11.41 in chips) 
+the_humster: posts small blind $0.05
+WasyaUragan: is sitting out 
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+WasyaUragan leaves the table
+1.Richmond: raises $0.20 to $0.30
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+Samirzade: folds 
+Uncalled bet ($0.20) returned to 1.Richmond
+1.Richmond collected $0.25 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Samirzade (big blind) folded before Flop
+Seat 3: 1.Richmond collected ($0.25)
+Seat 4: Last_Warr1or folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950062086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:49:40 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 2: Samirzade ($5.94 in chips) 
+Seat 3: 1.Richmond ($10.58 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.27 in chips) 
+Seat 6: the_humster ($11.36 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+the_humster: raises $0.15 to $0.25
+Samirzade: folds 
+directto joins the table at seat #1 
+1.Richmond: raises $0.65 to $0.90
+the_humster: calls $0.65
+*** FLOP *** [5s 5c Jc]
+1.Richmond: bets $0.95
+the_humster: folds 
+Uncalled bet ($0.95) returned to 1.Richmond
+1.Richmond collected $1.77 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [5s 5c Jc]
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) collected ($1.77)
+Seat 4: Last_Warr1or folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded on the Flop
+
+
+
+PokerStars Hand #222950073306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:50:16 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: directto ($10 in chips) 
+Seat 2: Samirzade ($5.89 in chips) 
+Seat 3: 1.Richmond ($11.45 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.27 in chips) 
+Seat 6: the_humster ($10.46 in chips) 
+1.Richmond: posts small blind $0.05
+Last_Warr1or: posts big blind $0.10
+directto: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+directto: checks 
+Samirzade: folds 
+1.Richmond: raises $0.35 to $0.45
+Last_Warr1or: folds 
+directto: folds 
+Uncalled bet ($0.35) returned to 1.Richmond
+1.Richmond collected $0.30 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: directto folded before Flop (didn't bet)
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: 1.Richmond (small blind) collected ($0.30)
+Seat 4: Last_Warr1or (big blind) folded before Flop
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950081328:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:50:41 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: directto ($9.90 in chips) 
+Seat 2: Samirzade ($5.89 in chips) 
+Seat 3: 1.Richmond ($11.65 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.27 in chips) 
+Seat 6: the_humster ($10.46 in chips) 
+Last_Warr1or: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+directto: folds 
+Samirzade: raises $0.10 to $0.20
+1.Richmond: folds 
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+Uncalled bet ($0.10) returned to Samirzade
+Samirzade collected $0.25 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: directto folded before Flop (didn't bet)
+Seat 2: Samirzade collected ($0.25)
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950085221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:50:53 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: directto ($9.90 in chips) 
+Seat 2: Samirzade ($6.04 in chips) 
+Seat 3: 1.Richmond ($11.65 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.17 in chips) 
+Seat 6: the_humster ($10.46 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+directto: folds 
+Samirzade: folds 
+1.Richmond: folds 
+Last_Warr1or: raises $0.15 to $0.25
+$$_DACENT_60: folds 
+the_humster: folds 
+Uncalled bet ($0.15) returned to Last_Warr1or
+Last_Warr1or collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: directto folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (button) collected ($0.25)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950089360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:51:07 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 1: directto ($9.90 in chips) 
+Seat 2: Samirzade ($6.04 in chips) 
+Seat 3: 1.Richmond ($11.65 in chips) 
+Seat 4: Last_Warr1or ($10.15 in chips) 
+Seat 5: $$_DACENT_60 ($10.12 in chips) 
+Seat 6: the_humster ($10.36 in chips) 
+the_humster: posts small blind $0.05
+directto: posts big blind $0.10
+*** HOLE CARDS ***
+Samirzade: raises $0.10 to $0.20
+1.Richmond: raises $0.40 to $0.60
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+directto: folds 
+Samirzade: calls $0.40
+*** FLOP *** [7s Qs 3s]
+Samirzade: bets $5.44 and is all-in
+1.Richmond: folds 
+Uncalled bet ($5.44) returned to Samirzade
+Samirzade collected $1.29 from pot
+Samirzade: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [7s Qs 3s]
+Seat 1: directto (big blind) folded before Flop
+Seat 2: Samirzade collected ($1.29)
+Seat 3: 1.Richmond folded on the Flop
+Seat 4: Last_Warr1or folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950102975:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:51:50 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 1: directto ($9.80 in chips) 
+Seat 2: Samirzade ($6.73 in chips) 
+Seat 3: 1.Richmond ($11.05 in chips) 
+Seat 4: Last_Warr1or ($10.15 in chips) 
+Seat 5: $$_DACENT_60 ($10.12 in chips) 
+Seat 6: the_humster ($10.31 in chips) 
+directto: posts small blind $0.05
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+1.Richmond: raises $0.20 to $0.30
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+directto: calls $0.25
+Samirzade: folds 
+*** FLOP *** [Qh 4h 5c]
+directto: bets $0.34
+1.Richmond: calls $0.34
+*** TURN *** [Qh 4h 5c] [Qs]
+directto: bets $0.60
+1.Richmond: calls $0.60
+*** RIVER *** [Qh 4h 5c Qs] [7h]
+directto: bets $1.60
+1.Richmond: folds 
+Uncalled bet ($1.60) returned to directto
+directto collected $2.46 from pot
+directto: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.58 | Rake $0.12 
+Board [Qh 4h 5c Qs 7h]
+Seat 1: directto (small blind) collected ($2.46)
+Seat 2: Samirzade (big blind) folded before Flop
+Seat 3: 1.Richmond folded on the River
+Seat 4: Last_Warr1or folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950122403:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:52:52 ET
+Table 'Larissa III' 6-max Seat #1 is the button
+Seat 1: directto ($11.02 in chips) 
+Seat 2: Samirzade ($6.63 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 4: Last_Warr1or ($10.15 in chips) 
+Seat 5: $$_DACENT_60 ($10.12 in chips) 
+Seat 6: the_humster ($10.31 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+the_humster: folds 
+directto: raises $0.10 to $0.20
+Samirzade: folds 
+1.Richmond: calls $0.10
+*** FLOP *** [7h Jh Qd]
+1.Richmond: checks 
+directto: checks 
+*** TURN *** [7h Jh Qd] [Jd]
+1.Richmond: bets $0.20
+directto: folds 
+Uncalled bet ($0.20) returned to 1.Richmond
+1.Richmond collected $0.43 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7h Jh Qd Jd]
+Seat 1: directto (button) folded on the Turn
+Seat 2: Samirzade (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) collected ($0.43)
+Seat 4: Last_Warr1or folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950131836:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:53:22 ET
+Table 'Larissa III' 6-max Seat #2 is the button
+Seat 1: directto ($10.82 in chips) 
+Seat 2: Samirzade ($6.58 in chips) 
+Seat 3: 1.Richmond ($10.23 in chips) 
+Seat 4: Last_Warr1or ($10.15 in chips) 
+Seat 5: $$_DACENT_60 ($10.12 in chips) 
+Seat 6: the_humster ($10.31 in chips) 
+1.Richmond: posts small blind $0.05
+Last_Warr1or: posts big blind $0.10
+*** HOLE CARDS ***
+$$_DACENT_60: folds 
+the_humster: folds 
+directto: raises $0.20 to $0.30
+Samirzade: folds 
+1.Richmond: folds 
+Last_Warr1or: folds 
+Uncalled bet ($0.20) returned to directto
+directto collected $0.25 from pot
+directto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: directto collected ($0.25)
+Seat 2: Samirzade (button) folded before Flop (didn't bet)
+Seat 3: 1.Richmond (small blind) folded before Flop
+Seat 4: Last_Warr1or (big blind) folded before Flop
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950139093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:53:45 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 1: directto ($10.97 in chips) 
+Seat 2: Samirzade ($6.58 in chips) 
+Seat 3: 1.Richmond ($10.18 in chips) 
+Seat 4: Last_Warr1or ($10.05 in chips) 
+Seat 5: $$_DACENT_60 ($10.12 in chips) 
+Seat 6: the_humster ($10.31 in chips) 
+Last_Warr1or: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: folds 
+directto: folds 
+Samirzade: calls $0.10
+1.Richmond: folds 
+Last_Warr1or: folds 
+$$_DACENT_60: raises $0.40 to $0.50
+Samirzade: folds 
+Uncalled bet ($0.40) returned to $$_DACENT_60
+$$_DACENT_60 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: directto folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) collected ($0.25)
+Seat 6: the_humster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950145297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:54:04 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 1: directto ($10.97 in chips) 
+Seat 2: Samirzade ($6.48 in chips) 
+Seat 3: 1.Richmond ($10.18 in chips) 
+Seat 4: Last_Warr1or ($10 in chips) 
+Seat 5: $$_DACENT_60 ($10.27 in chips) 
+Seat 6: the_humster ($10.31 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: posts big blind $0.10
+*** HOLE CARDS ***
+directto: folds 
+Samirzade: folds 
+1.Richmond: folds 
+Last_Warr1or: raises $0.15 to $0.25
+$$_DACENT_60: folds 
+the_humster: folds 
+Uncalled bet ($0.15) returned to Last_Warr1or
+Last_Warr1or collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: directto folded before Flop (didn't bet)
+Seat 2: Samirzade folded before Flop (didn't bet)
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (button) collected ($0.25)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+Seat 6: the_humster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950148806:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:54:15 ET
+Table 'Larissa III' 6-max Seat #5 is the button
+Seat 2: Samirzade ($6.48 in chips) 
+Seat 3: 1.Richmond ($10.18 in chips) 
+Seat 4: Last_Warr1or ($10.15 in chips) 
+Seat 5: $$_DACENT_60 ($10.22 in chips) 
+Seat 6: the_humster ($10.21 in chips) 
+the_humster: posts small blind $0.05
+directto: is sitting out 
+Samirzade: posts big blind $0.10
+*** HOLE CARDS ***
+1.Richmond: folds 
+directto leaves the table
+Last_Warr1or: raises $0.20 to $0.30
+$$_DACENT_60: folds 
+the_humster: folds 
+Samirzade: folds 
+Uncalled bet ($0.20) returned to Last_Warr1or
+Last_Warr1or collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Samirzade (big blind) folded before Flop
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 4: Last_Warr1or collected ($0.25)
+Seat 5: $$_DACENT_60 (button) folded before Flop (didn't bet)
+Seat 6: the_humster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950153841:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:54:31 ET
+Table 'Larissa III' 6-max Seat #6 is the button
+Seat 2: Samirzade ($6.38 in chips) 
+Seat 3: 1.Richmond ($10.18 in chips) 
+Seat 4: Last_Warr1or ($10.30 in chips) 
+Seat 5: $$_DACENT_60 ($10.22 in chips) 
+Seat 6: the_humster ($10.16 in chips) 
+Samirzade: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Last_Warr1or: raises $0.20 to $0.30
+$$_DACENT_60: folds 
+the_humster: folds 
+Samirzade: raises $0.20 to $0.50
+1.Richmond: folds 
+Last_Warr1or: calls $0.20
+*** FLOP *** [3d Qs 4s]
+Samirzade: bets $1.20
+Last_Warr1or: calls $1.20
+*** TURN *** [3d Qs 4s] [8h]
+Samirzade: bets $1.40
+Last_Warr1or: raises $4.61 to $6.01
+Samirzade: calls $3.28 and is all-in
+Uncalled bet ($1.33) returned to Last_Warr1or
+*** RIVER *** [3d Qs 4s 8h] [5d]
+*** SHOW DOWN ***
+Samirzade: shows [Ac 3c] (a pair of Threes)
+Last_Warr1or: shows [4h 4c] (three of a kind, Fours)
+Last_Warr1or collected $12.28 from pot
+*** SUMMARY ***
+Total pot $12.86 | Rake $0.58 
+Board [3d Qs 4s 8h 5d]
+Seat 2: Samirzade (small blind) showed [Ac 3c] and lost with a pair of Threes
+Seat 3: 1.Richmond (big blind) folded before Flop
+Seat 4: Last_Warr1or showed [4h 4c] and won ($12.28) with three of a kind, Fours
+Seat 5: $$_DACENT_60 folded before Flop (didn't bet)
+Seat 6: the_humster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950168342:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:55:19 ET
+Table 'Larissa III' 6-max Seat #3 is the button
+Seat 3: 1.Richmond ($10.08 in chips) 
+Seat 4: Last_Warr1or ($16.20 in chips) 
+Seat 5: $$_DACENT_60 ($10.22 in chips) 
+Seat 6: the_humster ($10.16 in chips) 
+Last_Warr1or: posts small blind $0.05
+$$_DACENT_60: posts big blind $0.10
+*** HOLE CARDS ***
+the_humster: raises $0.20 to $0.30
+Samirzade leaves the table
+1.Richmond: folds 
+Last_Warr1or: folds 
+$$_DACENT_60: folds 
+Uncalled bet ($0.20) returned to the_humster
+the_humster collected $0.25 from pot
+the_humster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 4: Last_Warr1or (small blind) folded before Flop
+Seat 5: $$_DACENT_60 (big blind) folded before Flop
+Seat 6: the_humster collected ($0.25)
+
+
+
+PokerStars Hand #222950172809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:55:35 ET
+Table 'Larissa III' 6-max Seat #4 is the button
+Seat 3: 1.Richmond ($10.08 in chips) 
+Seat 4: Last_Warr1or ($16.15 in chips) 
+Seat 5: $$_DACENT_60 ($10.12 in chips) 
+$$_DACENT_60: posts small blind $0.05
+the_humster: is sitting out 
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+Last_Warr1or: folds 
+the_humster leaves the table
+Last_Warr1or leaves the table
+$$_DACENT_60: folds 
+Uncalled bet ($0.05) returned to 1.Richmond
+1.Richmond collected $0.10 from pot
+1.Richmond: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: 1.Richmond (big blind) collected ($0.10)
+Seat 4: Last_Warr1or (button) folded before Flop (didn't bet)
+Seat 5: $$_DACENT_60 (small blind) folded before Flop
+
+
+

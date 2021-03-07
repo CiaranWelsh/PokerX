@@ -1,0 +1,268 @@
+﻿PokerStars Hand #222950813841:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:29:03 ET
+Table 'Kartvelia II' 6-max Seat #3 is the button
+Seat 1: DonKappo90 ($8 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Burlica2013: posts small blind $0.05
+DonKappo90: posts big blind $0.10
+*** HOLE CARDS ***
+buranela joins the table at seat #4 
+Burlica2013 has timed out
+Burlica2013: folds 
+Uncalled bet ($0.05) returned to DonKappo90
+DonKappo90 collected $0.10 from pot
+DonKappo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DonKappo90 (big blind) collected ($0.10)
+Seat 3: Burlica2013 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950823271:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:29:31 ET
+Table 'Kartvelia II' 6-max Seat #1 is the button
+Seat 1: DonKappo90 ($8.05 in chips) 
+Seat 4: buranela ($10 in chips) 
+DonKappo90: posts small blind $0.05
+buranela: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055 leaves the table
+DonKappo90: folds 
+Uncalled bet ($0.05) returned to buranela
+buranela collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DonKappo90 (button) (small blind) folded before Flop
+Seat 4: buranela (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222950825461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:29:37 ET
+Table 'Kartvelia II' 6-max Seat #4 is the button
+Seat 1: DonKappo90 ($8 in chips) 
+Seat 4: buranela ($10.05 in chips) 
+buranela: posts small blind $0.05
+DonKappo90: posts big blind $0.10
+*** HOLE CARDS ***
+buranela: raises $0.15 to $0.25
+DonKappo90: folds 
+Uncalled bet ($0.15) returned to buranela
+buranela collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: DonKappo90 (big blind) folded before Flop
+Seat 4: buranela (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222950827809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:29:45 ET
+Table 'Kartvelia II' 6-max Seat #4 is the button
+Seat 1: DonKappo90 ($7.90 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.15 in chips) 
+DonKappo90: posts small blind $0.05
+Burlica2013: posts big blind $0.10
+*** HOLE CARDS ***
+buranela: folds 
+DonKappo90: raises $0.10 to $0.20
+Burlica2013: folds 
+Uncalled bet ($0.10) returned to DonKappo90
+DonKappo90 collected $0.20 from pot
+DonKappo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: DonKappo90 (small blind) collected ($0.20)
+Seat 3: Burlica2013 (big blind) folded before Flop
+Seat 4: buranela (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950833523:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:30:02 ET
+Table 'Kartvelia II' 6-max Seat #1 is the button
+Seat 1: DonKappo90 ($8 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.15 in chips) 
+Burlica2013: posts small blind $0.05
+buranela: posts big blind $0.10
+*** HOLE CARDS ***
+DonKappo90: folds 
+mastiko1996 joins the table at seat #2 
+Burlica2013: raises $0.15 to $0.25
+buranela: raises $0.75 to $1
+Burlica2013: folds 
+Uncalled bet ($0.75) returned to buranela
+buranela collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: DonKappo90 (button) folded before Flop (didn't bet)
+Seat 3: Burlica2013 (small blind) folded before Flop
+Seat 4: buranela (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #222950838008:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:30:15 ET
+Table 'Kartvelia II' 6-max Seat #3 is the button
+Seat 1: DonKappo90 ($8 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.40 in chips) 
+buranela: posts small blind $0.05
+DonKappo90: posts big blind $0.10
+mastiko1996: sits out 
+*** HOLE CARDS ***
+Burlica2013: raises $0.15 to $0.25
+buranela: raises $0.75 to $1
+DonKappo90: folds 
+Burlica2013: folds 
+Uncalled bet ($0.75) returned to buranela
+buranela collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: DonKappo90 (big blind) folded before Flop
+Seat 3: Burlica2013 (button) folded before Flop
+Seat 4: buranela (small blind) collected ($0.60)
+
+
+
+PokerStars Hand #222950844069:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:30:33 ET
+Table 'Kartvelia II' 6-max Seat #4 is the button
+Seat 1: DonKappo90 ($7.90 in chips) 
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.75 in chips) 
+DonKappo90: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+Burlica2013: folds 
+buranela: raises $0.15 to $0.25
+DonKappo90: folds 
+mastiko1996: folds 
+Uncalled bet ($0.15) returned to buranela
+buranela collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DonKappo90 (small blind) folded before Flop
+Seat 2: mastiko1996 (big blind) folded before Flop
+Seat 3: Burlica2013 folded before Flop (didn't bet)
+Seat 4: buranela (button) collected ($0.25)
+
+
+
+PokerStars Hand #222950846264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:30:40 ET
+Table 'Kartvelia II' 6-max Seat #1 is the button
+Seat 1: DonKappo90 ($7.85 in chips) 
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.90 in chips) 
+mastiko1996: posts small blind $0.05
+Burlica2013: posts big blind $0.10
+*** HOLE CARDS ***
+buranela: raises $0.15 to $0.25
+DonKappo90: calls $0.25
+mastiko1996: folds 
+Burlica2013: folds 
+*** FLOP *** [4c Ac 7d]
+buranela: checks 
+DonKappo90: bets $0.62
+buranela: folds 
+Uncalled bet ($0.62) returned to DonKappo90
+DonKappo90 collected $0.62 from pot
+DonKappo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4c Ac 7d]
+Seat 1: DonKappo90 (button) collected ($0.62)
+Seat 2: mastiko1996 (small blind) folded before Flop
+Seat 3: Burlica2013 (big blind) folded before Flop
+Seat 4: buranela folded on the Flop
+
+
+
+PokerStars Hand #222950850930:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:30:54 ET
+Table 'Kartvelia II' 6-max Seat #2 is the button
+Seat 1: DonKappo90 ($8.22 in chips) 
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.65 in chips) 
+Burlica2013: posts small blind $0.05
+buranela: posts big blind $0.10
+*** HOLE CARDS ***
+DonKappo90: folds 
+mastiko1996: folds 
+Burlica2013: folds 
+Uncalled bet ($0.05) returned to buranela
+buranela collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DonKappo90 folded before Flop (didn't bet)
+Seat 2: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 3: Burlica2013 (small blind) folded before Flop
+Seat 4: buranela (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222950853254:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:31:01 ET
+Table 'Kartvelia II' 6-max Seat #3 is the button
+Seat 1: DonKappo90 ($8.22 in chips) 
+Seat 2: mastiko1996 ($10 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.70 in chips) 
+buranela: posts small blind $0.05
+DonKappo90: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+Burlica2013: folds 
+buranela: folds 
+Uncalled bet ($0.05) returned to DonKappo90
+DonKappo90 collected $0.10 from pot
+DonKappo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DonKappo90 (big blind) collected ($0.10)
+Seat 2: mastiko1996 folded before Flop (didn't bet)
+Seat 3: Burlica2013 (button) folded before Flop (didn't bet)
+Seat 4: buranela (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950856622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:31:11 ET
+Table 'Kartvelia II' 6-max Seat #4 is the button
+Seat 1: DonKappo90 ($8.27 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Seat 4: buranela ($10.65 in chips) 
+DonKappo90: posts small blind $0.05
+mastiko1996: is sitting out 
+Burlica2013: posts big blind $0.10
+*** HOLE CARDS ***
+buranela: raises $0.15 to $0.25
+DonKappo90: folds 
+Burlica2013: folds 
+Uncalled bet ($0.15) returned to buranela
+buranela collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DonKappo90 (small blind) folded before Flop
+Seat 3: Burlica2013 (big blind) folded before Flop
+Seat 4: buranela (button) collected ($0.25)
+
+
+
+PokerStars Hand #222950858880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:31:17 ET
+Table 'Kartvelia II' 6-max Seat #3 is the button
+Seat 1: DonKappo90 ($8.22 in chips) 
+Seat 3: Burlica2013 ($10 in chips) 
+Burlica2013: posts small blind $0.05
+buranela: is sitting out 
+DonKappo90: posts big blind $0.10
+*** HOLE CARDS ***
+buranela leaves the table
+Burlica2013: folds 
+Uncalled bet ($0.05) returned to DonKappo90
+DonKappo90 collected $0.10 from pot
+mastiko1996 leaves the table
+DonKappo90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DonKappo90 (big blind) collected ($0.10)
+Seat 3: Burlica2013 (button) (small blind) folded before Flop
+
+
+

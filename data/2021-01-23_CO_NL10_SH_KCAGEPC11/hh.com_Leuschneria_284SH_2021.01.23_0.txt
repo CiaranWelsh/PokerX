@@ -1,0 +1,110 @@
+﻿PokerStars Hand #222950934210:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:35:01 ET
+Table 'Leuschneria II' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($3.85 in chips) 
+Seat 2: poseidoporunbot ($10.40 in chips) 
+Seat 3: cruxua ($10 in chips) 
+Seat 6: DocktoR222 ($10 in chips) 
+cruxua: posts small blind $0.05
+platypus681: is sitting out 
+DocktoR222: posts big blind $0.10
+*** HOLE CARDS ***
+platypus681 leaves the table
+XUPUMXAH: folds 
+poseidoporunbot: raises $0.15 to $0.25
+cruxua: raises $0.55 to $0.80
+DocktoR222: folds 
+poseidoporunbot: folds 
+Uncalled bet ($0.55) returned to cruxua
+cruxua collected $0.60 from pot
+cruxua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: poseidoporunbot (button) folded before Flop
+Seat 3: cruxua (small blind) collected ($0.60)
+Seat 6: DocktoR222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950943993:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:35:30 ET
+Table 'Leuschneria II' 6-max Seat #3 is the button
+Seat 1: XUPUMXAH ($3.85 in chips) 
+Seat 2: poseidoporunbot ($10.15 in chips) 
+Seat 3: cruxua ($10.35 in chips) 
+Seat 6: DocktoR222 ($10 in chips) 
+DocktoR222: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: raises $0.20 to $0.30
+cruxua: folds 
+DocktoR222: folds 
+XUPUMXAH: calls $0.20
+*** FLOP *** [Qc Tc Jd]
+XUPUMXAH: checks 
+poseidoporunbot: bets $0.20
+XUPUMXAH: calls $0.20
+*** TURN *** [Qc Tc Jd] [Td]
+XUPUMXAH: checks 
+poseidoporunbot: checks 
+*** RIVER *** [Qc Tc Jd Td] [2h]
+XUPUMXAH: bets $1
+poseidoporunbot: folds 
+Uncalled bet ($1) returned to XUPUMXAH
+XUPUMXAH collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Qc Tc Jd Td 2h]
+Seat 1: XUPUMXAH (big blind) collected ($1)
+Seat 2: poseidoporunbot folded on the River
+Seat 3: cruxua (button) folded before Flop (didn't bet)
+Seat 6: DocktoR222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950961050:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:36:21 ET
+Table 'Leuschneria II' 6-max Seat #6 is the button
+Seat 2: poseidoporunbot ($10 in chips) 
+Seat 3: cruxua ($10.35 in chips) 
+Seat 6: DocktoR222 ($10 in chips) 
+XUPUMXAH has timed out
+XUPUMXAH: is sitting out 
+poseidoporunbot: posts small blind $0.05
+cruxua: posts big blind $0.10
+*** HOLE CARDS ***
+DocktoR222: raises $0.15 to $0.25
+XUPUMXAH is disconnected 
+poseidoporunbot: folds 
+cruxua: folds 
+Uncalled bet ($0.15) returned to DocktoR222
+DocktoR222 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: poseidoporunbot (small blind) folded before Flop
+Seat 3: cruxua (big blind) folded before Flop
+Seat 6: DocktoR222 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222950969551:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:36:46 ET
+Table 'Leuschneria II' 6-max Seat #2 is the button
+Seat 2: poseidoporunbot ($10 in chips) 
+Seat 3: cruxua ($10.25 in chips) 
+Seat 6: DocktoR222 ($10.15 in chips) 
+cruxua: posts small blind $0.05
+DocktoR222: posts big blind $0.10
+*** HOLE CARDS ***
+poseidoporunbot: folds 
+poseidoporunbot leaves the table
+cruxua: raises $0.25 to $0.35
+DocktoR222: folds 
+Uncalled bet ($0.25) returned to cruxua
+cruxua collected $0.20 from pot
+cruxua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: poseidoporunbot (button) folded before Flop (didn't bet)
+Seat 3: cruxua (small blind) collected ($0.20)
+Seat 6: DocktoR222 (big blind) folded before Flop
+
+
+

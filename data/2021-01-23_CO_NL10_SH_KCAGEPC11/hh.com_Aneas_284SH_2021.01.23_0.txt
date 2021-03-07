@@ -1,0 +1,4212 @@
+﻿PokerStars Hand #222947669774:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:24:22 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 3: Timsan303van ($5.28 in chips) 
+Seat 4: yereke96 ($10.89 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($10.35 in chips) 
+gresscrack: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: raises $0.20 to $0.30
+dai234: folds 
+gresscrack: folds 
+Timsan303van: calls $0.20
+*** FLOP *** [Ac 4d 9d]
+Timsan303van: bets $0.10
+yereke96: calls $0.10
+*** TURN *** [Ac 4d 9d] [Qc]
+Timsan303van: bets $0.10
+yereke96: raises $0.55 to $0.65
+Timsan303van: calls $0.55
+*** RIVER *** [Ac 4d 9d Qc] [3s]
+Timsan303van: bets $0.10
+yereke96: calls $0.10
+*** SHOW DOWN ***
+Timsan303van: shows [3h Ad] (two pair, Aces and Threes)
+yereke96: mucks hand 
+Timsan303van collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [Ac 4d 9d Qc 3s]
+Seat 3: Timsan303van (big blind) showed [3h Ad] and won ($2.24) with two pair, Aces and Threes
+Seat 4: yereke96 mucked
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948043585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:49:00 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.55 in chips) 
+Seat 2: misha22o ($9.45 in chips) 
+Seat 3: Timsan303van ($27.49 in chips) 
+Seat 4: yereke96 ($12.38 in chips) 
+Seat 5: dai234 ($30.88 in chips) 
+Seat 6: gresscrack ($12.64 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: calls $0.10
+yereke96: raises $0.20 to $0.30
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.20
+*** FLOP *** [9c 6c 6s]
+Timsan303van: bets $0.10
+yereke96: calls $0.10
+*** TURN *** [9c 6c 6s] [Jh]
+Timsan303van: bets $0.46
+yereke96: folds 
+Uncalled bet ($0.46) returned to Timsan303van
+Timsan303van collected $0.91 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9c 6c 6s Jh]
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 3: Timsan303van collected ($0.91)
+Seat 4: yereke96 folded on the Turn
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948048690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:49:21 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.50 in chips) 
+Seat 2: misha22o ($9.35 in chips) 
+Seat 3: Timsan303van ($28 in chips) 
+Seat 4: yereke96 ($11.98 in chips) 
+Seat 5: dai234 ($30.88 in chips) 
+Seat 6: gresscrack ($12.64 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+Timsan303van: calls $0.15
+*** FLOP *** [3d As 6h]
+Timsan303van: bets $0.27
+dai234 leaves the table
+Dante21b: folds 
+Uncalled bet ($0.27) returned to Timsan303van
+Timsan303van collected $0.53 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3d As 6h]
+Seat 1: Dante21b (button) folded on the Flop
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) collected ($0.53)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948052535:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:49:37 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.30 in chips) 
+Seat 3: Timsan303van ($28.28 in chips) 
+Seat 4: yereke96 ($11.98 in chips) 
+Seat 6: gresscrack ($12.64 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+Bannnkai joins the table at seat #5 
+misha22o: folds 
+Timsan303van: calls $0.05
+yereke96: raises $0.30 to $0.40
+Timsan303van: calls $0.30
+*** FLOP *** [2d 5h Jh]
+Timsan303van: bets $0.38
+yereke96: calls $0.38
+*** TURN *** [2d 5h Jh] [Ac]
+Timsan303van: bets $0.75
+yereke96: raises $3 to $3.75
+Timsan303van: folds 
+Uncalled bet ($3) returned to yereke96
+yereke96 collected $2.92 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.06 | Rake $0.14 
+Board [2d 5h Jh Ac]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Timsan303van (small blind) folded on the Turn
+Seat 4: yereke96 (big blind) collected ($2.92)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948060782:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:50:10 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.30 in chips) 
+Seat 3: Timsan303van ($26.75 in chips) 
+Seat 4: yereke96 ($13.37 in chips) 
+Seat 5: Bannnkai ($10 in chips) 
+Seat 6: gresscrack ($12.64 in chips) 
+yereke96: posts small blind $0.05
+Bannnkai: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+Bannnkai: checks 
+*** FLOP *** [6d 8h Th]
+Bannnkai: checks 
+Timsan303van: bets $0.10
+Bannnkai: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.24 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d 8h Th]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van (button) collected ($0.24)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: Bannnkai (big blind) folded on the Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948064541:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:50:26 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.30 in chips) 
+Seat 3: Timsan303van ($26.89 in chips) 
+Seat 4: yereke96 ($13.32 in chips) 
+Seat 5: Bannnkai ($10 in chips) 
+Seat 6: gresscrack ($12.64 in chips) 
+Bannnkai: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+Bannnkai: folds 
+gresscrack: checks 
+*** FLOP *** [Ts Kd 3h]
+gresscrack: checks 
+Timsan303van: bets $0.10
+gresscrack: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.24 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts Kd 3h]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van collected ($0.24)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: Bannnkai (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222948068650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:50:42 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.30 in chips) 
+Seat 3: Timsan303van ($27.03 in chips) 
+Seat 4: yereke96 ($13.32 in chips) 
+Seat 5: Bannnkai ($10 in chips) 
+Seat 6: gresscrack ($12.54 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Timsan303van: raises $0.10 to $0.20
+yereke96: folds 
+Bannnkai: folds 
+gresscrack: folds 
+Dante21b: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.25 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van collected ($0.25)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: Bannnkai (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948070640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:50:50 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($9.30 in chips) 
+Seat 3: Timsan303van ($27.18 in chips) 
+Seat 4: yereke96 ($13.32 in chips) 
+Seat 5: Bannnkai ($10 in chips) 
+Seat 6: gresscrack ($12.49 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: raises $0.10 to $0.20
+yereke96: calls $0.20
+Bannnkai: folds 
+gresscrack: folds 
+Dante21b: calls $0.15
+misha22o: folds 
+*** FLOP *** [7d Ts 7c]
+Dante21b: checks 
+Timsan303van: bets $0.34
+yereke96: calls $0.34
+Dante21b: folds 
+*** TURN *** [7d Ts 7c] [4c]
+Timsan303van: checks 
+yereke96: bets $1.50
+Timsan303van: folds 
+Uncalled bet ($1.50) returned to yereke96
+yereke96 collected $1.32 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.06 
+Board [7d Ts 7c 4c]
+Seat 1: Dante21b (small blind) folded on the Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 3: Timsan303van folded on the Turn
+Seat 4: yereke96 collected ($1.32)
+Seat 5: Bannnkai folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948082477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:51:38 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.70 in chips) 
+Seat 2: misha22o ($9.20 in chips) 
+Seat 3: Timsan303van ($26.64 in chips) 
+Seat 4: yereke96 ($14.10 in chips) 
+Seat 5: Bannnkai ($10 in chips) 
+Seat 6: gresscrack ($12.49 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+Bannnkai: raises $0.20 to $0.30
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.20
+*** FLOP *** [9c 8c 6d]
+Timsan303van: bets $0.31
+Bannnkai: calls $0.31
+*** TURN *** [9c 8c 6d] [7s]
+Timsan303van: bets $0.61
+Bannnkai: calls $0.61
+*** RIVER *** [9c 8c 6d 7s] [2h]
+Timsan303van: bets $1.19
+Bannnkai: calls $1.19
+*** SHOW DOWN ***
+Timsan303van: shows [2d 5c] (a straight, Five to Nine)
+Bannnkai: shows [Td Ts] (a straight, Six to Ten)
+Bannnkai collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.87 | Rake $0.22 
+Board [9c 8c 6d 7s 2h]
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) showed [2d 5c] and lost with a straight, Five to Nine
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: Bannnkai showed [Td Ts] and won ($4.65) with a straight, Six to Ten
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948091641:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:52:15 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($9.70 in chips) 
+Seat 2: misha22o ($9.15 in chips) 
+Seat 3: Timsan303van ($24.23 in chips) 
+Seat 4: yereke96 ($14.10 in chips) 
+Seat 5: Bannnkai ($12.24 in chips) 
+Seat 6: gresscrack ($12.49 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+Bannnkai: folds 
+gresscrack: folds 
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+Timsan303van: folds 
+yereke96: calls $0.15
+*** FLOP *** [Ks Ad 4c]
+yereke96: checks 
+Dante21b: bets $0.17
+yereke96: calls $0.17
+*** TURN *** [Ks Ad 4c] [As]
+yereke96: checks 
+Dante21b: checks 
+*** RIVER *** [Ks Ad 4c As] [Tc]
+yereke96: bets $0.30
+Timsan303van leaves the table
+Dante21b: folds 
+Uncalled bet ($0.30) returned to yereke96
+yereke96 collected $0.85 from pot
+yereke96: doesn't show hand 
+StarkomT3ob joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [Ks Ad 4c As Tc]
+Seat 1: Dante21b folded on the River
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Timsan303van (small blind) folded before Flop
+Seat 4: yereke96 (big blind) collected ($0.85)
+Seat 5: Bannnkai folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948102471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:52:58 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.15 in chips) 
+Seat 4: yereke96 ($14.53 in chips) 
+Seat 5: Bannnkai ($12.24 in chips) 
+Bannnkai: posts small blind $0.05
+gresscrack: is sitting out 
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+StarkomT3ob leaves the table
+misha22o: folds 
+gresscrack leaves the table
+yereke96: raises $0.15 to $0.25
+Bannnkai: folds 
+Dante21b: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 4: yereke96 (button) collected ($0.25)
+Seat 5: Bannnkai (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948107538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:53:19 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($9.15 in chips) 
+Seat 4: yereke96 ($14.68 in chips) 
+Seat 5: Bannnkai ($12.19 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+Crolik74 joins the table at seat #3 
+Bannnkai: folds 
+Dante21b: folds 
+Uncalled bet ($0.05) returned to misha22o
+misha22o collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) collected ($0.10)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: Bannnkai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948110448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:53:30 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($9.20 in chips) 
+Seat 3: Crolik74 ($6.81 in chips) 
+Seat 4: yereke96 ($14.68 in chips) 
+misha22o: posts small blind $0.05
+Crolik74: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+Crolik74: folds 
+Uncalled bet ($0.15) returned to Dante21b
+Dante21b collected $0.25 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (button) collected ($0.25)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Crolik74 (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948112655:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:53:39 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.15 in chips) 
+Seat 3: Crolik74 ($6.71 in chips) 
+Seat 4: yereke96 ($14.68 in chips) 
+Crolik74: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Crolik74: calls $0.05
+yereke96: raises $0.20 to $0.30
+Crolik74: calls $0.20
+*** FLOP *** [Jd 5d Qs]
+Crolik74: checks 
+yereke96: checks 
+*** TURN *** [Jd 5d Qs] [2d]
+gussyfinknottle joins the table at seat #6 
+Crolik74: checks 
+yereke96: bets $0.60
+Crolik74: folds 
+Uncalled bet ($0.60) returned to yereke96
+yereke96 collected $0.57 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jd 5d Qs 2d]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Crolik74 (small blind) folded on the Turn
+Seat 4: yereke96 (big blind) collected ($0.57)
+
+
+
+PokerStars Hand #222948124537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:54:27 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.15 in chips) 
+Seat 3: Crolik74 ($6.41 in chips) 
+Seat 4: yereke96 ($14.95 in chips) 
+Seat 6: gussyfinknottle ($6.64 in chips) 
+yereke96: posts small blind $0.05
+gussyfinknottle: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Crolik74: folds 
+yereke96: raises $0.20 to $0.30
+gussyfinknottle: calls $0.20
+*** FLOP *** [5s 4d 2c]
+yereke96: checks 
+gussyfinknottle: checks 
+*** TURN *** [5s 4d 2c] [Qh]
+yereke96: checks 
+gussyfinknottle: checks 
+*** RIVER *** [5s 4d 2c Qh] [Td]
+yereke96: checks 
+gussyfinknottle: checks 
+*** SHOW DOWN ***
+yereke96: shows [Kc Jd] (high card King)
+gussyfinknottle: shows [2h 3h] (a pair of Deuces)
+gussyfinknottle collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [5s 4d 2c Qh Td]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Crolik74 (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) showed [Kc Jd] and lost with high card King
+Seat 6: gussyfinknottle (big blind) showed [2h 3h] and won ($0.57) with a pair of Deuces
+
+
+
+PokerStars Hand #222948130219:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:54:51 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.15 in chips) 
+Seat 3: Crolik74 ($6.41 in chips) 
+Seat 4: yereke96 ($14.65 in chips) 
+Seat 6: gussyfinknottle ($6.91 in chips) 
+gussyfinknottle: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: raises $0.20 to $0.30
+Crolik74: calls $0.30
+yereke96: calls $0.30
+gussyfinknottle: calls $0.25
+Dante21b: folds 
+*** FLOP *** [6h Qs Kh]
+gussyfinknottle: bets $0.10
+misha22o: folds 
+Crolik74: calls $0.10
+Bannnkai leaves the table
+yereke96: calls $0.10
+*** TURN *** [6h Qs Kh] [4c]
+gussyfinknottle: checks 
+Crolik74: checks 
+yereke96: checks 
+*** RIVER *** [6h Qs Kh 4c] [7c]
+Kimiuran joins the table at seat #5 
+gussyfinknottle: checks 
+Crolik74: checks 
+yereke96: checks 
+*** SHOW DOWN ***
+gussyfinknottle: shows [Qc Jh] (a pair of Queens)
+Crolik74: mucks hand 
+yereke96: mucks hand 
+gussyfinknottle collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [6h Qs Kh 4c 7c]
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded on the Flop
+Seat 3: Crolik74 mucked
+Seat 4: yereke96 (button) mucked
+Seat 6: gussyfinknottle (small blind) showed [Qc Jh] and won ($1.53) with a pair of Queens
+
+
+
+PokerStars Hand #222948139580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:55:33 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($8.85 in chips) 
+Seat 3: Crolik74 ($6.01 in chips) 
+Seat 4: yereke96 ($14.25 in chips) 
+Seat 6: gussyfinknottle ($8.04 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+Kimiuran: sits out 
+*** HOLE CARDS ***
+Crolik74: folds 
+yereke96: folds 
+gussyfinknottle: calls $0.10
+Dante21b: folds 
+misha22o: checks 
+*** FLOP *** [6c Js 2s]
+misha22o: checks 
+gussyfinknottle: checks 
+*** TURN *** [6c Js 2s] [Qh]
+misha22o: checks 
+gussyfinknottle: checks 
+*** RIVER *** [6c Js 2s Qh] [6d]
+misha22o: bets $0.10
+gussyfinknottle: folds 
+Uncalled bet ($0.10) returned to misha22o
+misha22o collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c Js 2s Qh 6d]
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) collected ($0.24)
+Seat 3: Crolik74 folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 6: gussyfinknottle (button) folded on the River
+
+
+
+PokerStars Hand #222948144720:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:55:58 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($8.99 in chips) 
+Seat 3: Crolik74 ($6.01 in chips) 
+Seat 4: yereke96 ($14.25 in chips) 
+Seat 6: gussyfinknottle ($7.94 in chips) 
+misha22o: posts small blind $0.05
+Crolik74: posts big blind $0.10
+Kimiuran: sits out 
+*** HOLE CARDS ***
+yereke96: raises $0.20 to $0.30
+gussyfinknottle: folds 
+Dante21b: calls $0.30
+misha22o: folds 
+gussyfinknottle leaves the table
+Crolik74: folds 
+*** FLOP *** [3d 3h Jc]
+Demon31222 joins the table at seat #6 
+yereke96: bets $0.40
+Dante21b: calls $0.40
+*** TURN *** [3d 3h Jc] [Jh]
+yereke96: checks 
+Dante21b: checks 
+*** RIVER *** [3d 3h Jc Jh] [Ad]
+yereke96: bets $0.50
+Dante21b: raises $1.29 to $1.79
+yereke96: calls $1.29
+*** SHOW DOWN ***
+Dante21b: shows [Ac Qh] (two pair, Aces and Jacks)
+yereke96: shows [As Kc] (two pair, Aces and Jacks - King kicker)
+yereke96 collected $4.90 from pot
+*** SUMMARY ***
+Total pot $5.13 | Rake $0.23 
+Board [3d 3h Jc Jh Ad]
+Seat 1: Dante21b (button) showed [Ac Qh] and lost with two pair, Aces and Jacks
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Crolik74 (big blind) folded before Flop
+Seat 4: yereke96 showed [As Kc] and won ($4.90) with two pair, Aces and Jacks
+Seat 6: gussyfinknottle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948155248:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:56:49 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 3: Crolik74 ($5.91 in chips) 
+Seat 4: yereke96 ($16.66 in chips) 
+Crolik74: posts small blind $0.05
+yereke96: posts big blind $0.10
+Kimiuran: sits out 
+Demon31222: sits out 
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Crolik74: calls $0.05
+yereke96: raises $0.20 to $0.30
+Crolik74: raises $0.20 to $0.50
+yereke96: calls $0.20
+*** FLOP *** [Ad Qs 5s]
+Crolik74: checks 
+yereke96: checks 
+*** TURN *** [Ad Qs 5s] [9s]
+Crolik74: checks 
+yereke96: bets $1
+Crolik74: calls $1
+*** RIVER *** [Ad Qs 5s 9s] [4s]
+Kimiuran leaves the table
+Crolik74: checks 
+yereke96: checks 
+*** SHOW DOWN ***
+Crolik74: shows [Kh Kd] (a pair of Kings)
+yereke96: shows [Qh Ah] (two pair, Aces and Queens)
+yereke96 collected $2.86 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [Ad Qs 5s 9s 4s]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Crolik74 (small blind) showed [Kh Kd] and lost with a pair of Kings
+Seat 4: yereke96 (big blind) showed [Qh Ah] and won ($2.86) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #222948167462:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:57:47 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 3: Crolik74 ($4.41 in chips) 
+Seat 4: yereke96 ($18.02 in chips) 
+Seat 6: Demon31222 ($10 in chips) 
+yereke96: posts small blind $0.05
+Demon31222: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Crolik74: folds 
+Crolik74 leaves the table
+yereke96: folds 
+Uncalled bet ($0.05) returned to Demon31222
+Demon31222 collected $0.10 from pot
+Demon31222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Crolik74 (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 6: Demon31222 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948170143:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:00 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 4: yereke96 ($17.97 in chips) 
+Seat 6: Demon31222 ($10.05 in chips) 
+Demon31222: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+yereke96: raises $0.15 to $0.25
+Demon31222: folds 
+Dante21b: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 4: yereke96 (button) collected ($0.25)
+Seat 6: Demon31222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948171927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:08 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 4: yereke96 ($18.12 in chips) 
+Seat 6: Demon31222 ($10 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+Demon31222: folds 
+Dante21b: folds 
+Uncalled bet ($0.05) returned to misha22o
+misha22o collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) collected ($0.10)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 6: Demon31222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948173316:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:15 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($8.99 in chips) 
+Seat 6: Demon31222 ($10 in chips) 
+misha22o: posts small blind $0.05
+yereke96: is sitting out 
+Demon31222: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+yereke96 leaves the table
+misha22o: folds 
+Uncalled bet ($0.05) returned to Demon31222
+Demon31222 collected $0.10 from pot
+Demon31222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 6: Demon31222 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222948174525:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:21 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 6: Demon31222 ($10.05 in chips) 
+Demon31222: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Demon31222: raises $0.20 to $0.30
+Dante21b: folds 
+Uncalled bet ($0.20) returned to Demon31222
+Demon31222 collected $0.20 from pot
+Demon31222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 6: Demon31222 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222948176540:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:30 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.75 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 6: Demon31222 ($10.15 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Demon31222: raises $0.12 to $0.22
+Dante21b: folds 
+misha22o: folds 
+Uncalled bet ($0.12) returned to Demon31222
+Demon31222 collected $0.25 from pot
+Demon31222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 6: Demon31222 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222948178059:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:37 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.70 in chips) 
+Seat 2: misha22o ($8.84 in chips) 
+Seat 6: Demon31222 ($10.30 in chips) 
+misha22o: posts small blind $0.05
+Demon31222: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+Demon31222: folds 
+Uncalled bet ($0.15) returned to Dante21b
+Dante21b collected $0.25 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (button) collected ($0.25)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 6: Demon31222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222948180716:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:50 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($8.79 in chips) 
+Seat 6: Demon31222 ($10.20 in chips) 
+Demon31222: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: raises $0.20 to $0.30
+Demon31222: folds 
+leeper4 joins the table at seat #4 
+Dante21b: folds 
+Uncalled bet ($0.20) returned to misha22o
+misha22o collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o (button) collected ($0.25)
+Seat 6: Demon31222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222948182761:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:58:59 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.75 in chips) 
+Seat 2: misha22o ($8.94 in chips) 
+Seat 6: Demon31222 ($10.15 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+leeper4: sits out 
+*** HOLE CARDS ***
+Demon31222: folds 
+Dante21b: folds 
+Uncalled bet ($0.05) returned to misha22o
+misha22o collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) collected ($0.10)
+Seat 6: Demon31222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948185237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:59:11 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.70 in chips) 
+Seat 2: misha22o ($8.99 in chips) 
+Seat 4: leeper4 ($4 in chips) 
+Seat 6: Demon31222 ($10.15 in chips) 
+misha22o: posts small blind $0.05
+leeper4: posts big blind $0.10
+*** HOLE CARDS ***
+Demon31222: folds 
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+leeper4: raises $3.70 to $4 and is all-in
+misha22o: folds 
+Uncalled bet ($3.70) returned to leeper4
+leeper4 collected $0.60 from pot
+leeper4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 4: leeper4 (big blind) collected ($0.60)
+Seat 6: Demon31222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948188923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:59:28 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($9.70 in chips) 
+Seat 2: misha22o ($8.69 in chips) 
+Seat 4: leeper4 ($4.30 in chips) 
+Seat 6: Demon31222 ($10.15 in chips) 
+leeper4: posts small blind $0.05
+Demon31222: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+leeper4: raises $0.10 to $0.20
+Demon31222: raises $0.45 to $0.65
+leeper4: calls $0.45
+*** FLOP *** [5c 5d Jh]
+leeper4: checks 
+Demon31222: bets $0.41
+leeper4: calls $0.41
+*** TURN *** [5c 5d Jh] [6s]
+leeper4: checks 
+Demon31222: bets $0.67
+leeper4: calls $0.67
+*** RIVER *** [5c 5d Jh 6s] [8s]
+leeper4: checks 
+Demon31222: bets $2.60
+leeper4: calls $2.57 and is all-in
+Uncalled bet ($0.03) returned to Demon31222
+*** SHOW DOWN ***
+Demon31222: shows [Jc Qc] (two pair, Jacks and Fives)
+leeper4: shows [7c 7s] (two pair, Sevens and Fives)
+Demon31222 collected $8.21 from pot
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.39 
+Board [5c 5d Jh 6s 8s]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 4: leeper4 (small blind) showed [7c 7s] and lost with two pair, Sevens and Fives
+Seat 6: Demon31222 (big blind) showed [Jc Qc] and won ($8.21) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #222948199453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:00:16 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.70 in chips) 
+Seat 2: misha22o ($8.69 in chips) 
+Seat 6: Demon31222 ($14.06 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Demon31222: raises $0.12 to $0.22
+Dante21b: folds 
+misha22o: folds 
+Uncalled bet ($0.12) returned to Demon31222
+Demon31222 collected $0.25 from pot
+leeper4 leaves the table
+Demon31222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 6: Demon31222 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222948201832:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:00:27 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.65 in chips) 
+Seat 2: misha22o ($8.59 in chips) 
+Seat 6: Demon31222 ($14.21 in chips) 
+misha22o: posts small blind $0.05
+Demon31222: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+Demon31222: calls $0.20
+*** FLOP *** [Jd 7d 2c]
+misha22o: checks 
+Demon31222: checks 
+*** TURN *** [Jd 7d 2c] [4h]
+misha22o: bets $0.30
+Demon31222: calls $0.30
+*** RIVER *** [Jd 7d 2c 4h] [4d]
+misha22o: bets $0.40
+Demon31222: calls $0.40
+*** SHOW DOWN ***
+misha22o: shows [Kd Kc] (two pair, Kings and Fours)
+Demon31222: mucks hand 
+misha22o collected $1.91 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [Jd 7d 2c 4h 4d]
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) showed [Kd Kc] and won ($1.91) with two pair, Kings and Fours
+Seat 6: Demon31222 (big blind) mucked
+
+
+
+PokerStars Hand #222948211673:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:01:08 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($9.65 in chips) 
+Seat 2: misha22o ($9.50 in chips) 
+Seat 6: Demon31222 ($13.21 in chips) 
+Demon31222: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Demon31222: raises $0.20 to $0.30
+Dante21b: calls $0.20
+*** FLOP *** [7d 7c 6s]
+Demon31222: bets $0.29
+Dante21b: calls $0.29
+*** TURN *** [7d 7c 6s] [9d]
+Demon31222: checks 
+Dante21b: bets $0.85
+Demon31222: calls $0.85
+*** RIVER *** [7d 7c 6s 9d] [2s]
+Demon31222: checks 
+Dante21b: bets $2.06
+Demon31222: calls $2.06
+*** SHOW DOWN ***
+Dante21b: shows [8h Td] (a straight, Six to Ten)
+Demon31222: mucks hand 
+Dante21b collected $6.68 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.32 
+Board [7d 7c 6s 9d 2s]
+Seat 1: Dante21b (big blind) showed [8h Td] and won ($6.68) with a straight, Six to Ten
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 6: Demon31222 (small blind) mucked
+
+
+
+PokerStars Hand #222948219860:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:01:40 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($12.83 in chips) 
+Seat 2: misha22o ($9.50 in chips) 
+Seat 6: Demon31222 ($10 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Demon31222: folds 
+Dante21b: raises $0.20 to $0.30
+misha22o: folds 
+Uncalled bet ($0.20) returned to Dante21b
+Dante21b collected $0.20 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dante21b (small blind) collected ($0.20)
+Seat 2: misha22o (big blind) folded before Flop
+Seat 6: Demon31222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948222145:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 4:01:49 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($12.93 in chips) 
+Seat 2: misha22o ($9.40 in chips) 
+misha22o: posts small blind $0.05
+Demon31222: is sitting out 
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Uncalled bet ($0.05) returned to Dante21b
+Demon31222 leaves the table
+Dante21b collected $0.10 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (big blind) collected ($0.10)
+Seat 2: misha22o (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947367750:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:03:03 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($10.43 in chips) 
+Seat 2: lucima10 ($11.28 in chips) 
+Seat 3: frantzx ($3.79 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($9.60 in chips) 
+Seat 6: edietheeagle ($9.50 in chips) 
+dai234: posts small blind $0.05
+edietheeagle: posts big blind $0.10
+*** HOLE CARDS ***
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+frantzx: folds 
+yereke96: folds 
+dai234: folds 
+edietheeagle: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 collected ($0.25)
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: frantzx folded before Flop (didn't bet)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: edietheeagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947370261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:03:14 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($10.58 in chips) 
+Seat 2: lucima10 ($11.28 in chips) 
+Seat 3: frantzx ($3.79 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($9.95 in chips) 
+Seat 6: edietheeagle ($9.40 in chips) 
+edietheeagle: posts small blind $0.05
+kaisen75: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+frantzx: folds 
+yereke96: folds 
+dai234: folds 
+edietheeagle: raises $0.20 to $0.30
+kaisen75: folds 
+Uncalled bet ($0.20) returned to edietheeagle
+edietheeagle collected $0.20 from pot
+edietheeagle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: kaisen75 (big blind) folded before Flop
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: frantzx folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: edietheeagle (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947373458:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:03:28 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: kaisen75 ($10.48 in chips) 
+Seat 2: lucima10 ($11.28 in chips) 
+Seat 3: frantzx ($3.79 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($9.95 in chips) 
+Seat 6: edietheeagle ($9.50 in chips) 
+kaisen75: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+frantzx: folds 
+yereke96: folds 
+dai234: folds 
+edietheeagle: folds 
+kaisen75: raises $0.25 to $0.35
+lucima10: calls $0.25
+*** FLOP *** [6c 4h 8h]
+kaisen75: checks 
+lucima10: bets $0.34
+kaisen75: calls $0.34
+*** TURN *** [6c 4h 8h] [Qs]
+kaisen75: checks 
+lucima10: checks 
+*** RIVER *** [6c 4h 8h Qs] [3d]
+kaisen75: checks 
+lucima10: bets $1.45
+kaisen75: calls $1.45
+*** SHOW DOWN ***
+lucima10: shows [3s 4s] (two pair, Fours and Threes)
+kaisen75: mucks hand 
+lucima10 collected $4.09 from pot
+*** SUMMARY ***
+Total pot $4.28 | Rake $0.19 
+Board [6c 4h 8h Qs 3d]
+Seat 1: kaisen75 (small blind) mucked
+Seat 2: lucima10 (big blind) showed [3s 4s] and won ($4.09) with two pair, Fours and Threes
+Seat 3: frantzx folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947386918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:25 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10 in chips) 
+Seat 2: lucima10 ($13.23 in chips) 
+Seat 3: frantzx ($3.79 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($9.95 in chips) 
+Seat 6: edietheeagle ($9.50 in chips) 
+lucima10: posts small blind $0.05
+frantzx: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+edietheeagle: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+frantzx: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (button) collected ($0.25)
+Seat 2: lucima10 (small blind) folded before Flop
+Seat 3: frantzx (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947389256:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:35 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($10.15 in chips) 
+Seat 2: lucima10 ($13.18 in chips) 
+Seat 3: frantzx ($3.69 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($9.95 in chips) 
+Seat 6: edietheeagle ($9.50 in chips) 
+frantzx: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+edietheeagle: folds 
+kaisen75: folds 
+lucima10: folds 
+frantzx: raises $0.20 to $0.30
+yereke96: calls $0.20
+*** FLOP *** [2d 9h 4c]
+frantzx: bets $0.60
+yereke96: calls $0.60
+*** TURN *** [2d 9h 4c] [Jd]
+frantzx: checks 
+yereke96: checks 
+*** RIVER *** [2d 9h 4c Jd] [7s]
+frantzx: bets $0.30
+yereke96: raises $1.25 to $1.55
+frantzx: calls $1.25
+*** SHOW DOWN ***
+yereke96: shows [4d 3d] (a pair of Fours)
+frantzx: shows [Tc Ts] (a pair of Tens)
+frantzx collected $4.68 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.22 
+Board [2d 9h 4c Jd 7s]
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 (button) folded before Flop (didn't bet)
+Seat 3: frantzx (small blind) showed [Tc Ts] and won ($4.68) with a pair of Tens
+Seat 4: yereke96 (big blind) showed [4d 3d] and lost with a pair of Fours
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947397052:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:05:09 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: kaisen75 ($10.15 in chips) 
+Seat 2: lucima10 ($13.18 in chips) 
+Seat 3: frantzx ($5.92 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($9.95 in chips) 
+Seat 6: edietheeagle ($9.50 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+edietheeagle: folds 
+kaisen75: folds 
+lucima10: raises $0.15 to $0.25
+frantzx: folds 
+yereke96: folds 
+dai234: calls $0.15
+*** FLOP *** [5h 7c 9h]
+dai234: checks 
+lucima10: checks 
+*** TURN *** [5h 7c 9h] [Ts]
+dai234: bets $0.30
+lucima10: calls $0.30
+*** RIVER *** [5h 7c 9h Ts] [8h]
+dai234: bets $0.70
+lucima10: folds 
+Uncalled bet ($0.70) returned to dai234
+dai234 collected $1.10 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [5h 7c 9h Ts 8h]
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 folded on the River
+Seat 3: frantzx (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($1.10)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947405587:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:05:46 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($10.15 in chips) 
+Seat 2: lucima10 ($12.63 in chips) 
+Seat 3: frantzx ($5.92 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($10.50 in chips) 
+Seat 6: edietheeagle ($9.50 in chips) 
+dai234: posts small blind $0.05
+edietheeagle: posts big blind $0.10
+*** HOLE CARDS ***
+kaisen75: folds 
+lucima10: folds 
+frantzx: folds 
+yereke96: raises $0.15 to $0.25
+dai234: folds 
+edietheeagle: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: frantzx folded before Flop (didn't bet)
+Seat 4: yereke96 (button) collected ($0.25)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: edietheeagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947408887:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:00 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($10.15 in chips) 
+Seat 2: lucima10 ($12.63 in chips) 
+Seat 3: frantzx ($5.92 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.45 in chips) 
+Seat 6: edietheeagle ($9.40 in chips) 
+edietheeagle: posts small blind $0.05
+kaisen75: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+frantzx: folds 
+yereke96: folds 
+dai234: raises $0.20 to $0.30
+edietheeagle: folds 
+kaisen75: calls $0.20
+*** FLOP *** [3d Ah 9c]
+kaisen75: checks 
+dai234: bets $0.40
+kaisen75: folds 
+Uncalled bet ($0.40) returned to dai234
+dai234 collected $0.62 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3d Ah 9c]
+Seat 1: kaisen75 (big blind) folded on the Flop
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: frantzx folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) collected ($0.62)
+Seat 6: edietheeagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947413729:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:21 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: kaisen75 ($10 in chips) 
+Seat 2: lucima10 ($12.63 in chips) 
+Seat 3: frantzx ($5.92 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.77 in chips) 
+Seat 6: edietheeagle ($9.35 in chips) 
+kaisen75: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+frantzx: folds 
+yereke96: folds 
+dai234: folds 
+frantzx leaves the table
+edietheeagle: raises $0.20 to $0.30
+kaisen75: folds 
+lucima10: calls $0.20
+*** FLOP *** [8h 6h 2d]
+lucima10: checks 
+edietheeagle: bets $0.31
+lucima10: calls $0.31
+*** TURN *** [8h 6h 2d] [2c]
+lucima10: checks 
+edietheeagle: checks 
+*** RIVER *** [8h 6h 2d 2c] [8d]
+lucima10: bets $0.80
+cao87 joins the table at seat #3 
+edietheeagle: raises $1.40 to $2.20
+lucima10: folds 
+Uncalled bet ($1.40) returned to edietheeagle
+edietheeagle collected $2.74 from pot
+edietheeagle: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.13 
+Board [8h 6h 2d 2c 8d]
+Seat 1: kaisen75 (small blind) folded before Flop
+Seat 2: lucima10 (big blind) folded on the River
+Seat 3: frantzx folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle (button) collected ($2.74)
+
+
+
+PokerStars Hand #222947421690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:55 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10 in chips) 
+Seat 2: lucima10 ($11.22 in chips) 
+Seat 3: cao87 ($10 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.77 in chips) 
+Seat 6: edietheeagle ($10.68 in chips) 
+lucima10: posts small blind $0.05
+cao87: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+edietheeagle: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+cao87: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (button) collected ($0.25)
+Seat 2: lucima10 (small blind) folded before Flop
+Seat 3: cao87 (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947424240:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:06 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($10.15 in chips) 
+Seat 2: lucima10 ($11.17 in chips) 
+Seat 3: cao87 ($10 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.77 in chips) 
+Seat 6: edietheeagle ($10.68 in chips) 
+cao87: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+edietheeagle: raises $0.20 to $0.30
+kaisen75: raises $0.50 to $0.80
+lucima10: folds 
+cao87: folds 
+yereke96: folds 
+edietheeagle: calls $0.50
+*** FLOP *** [5d 6d Ac]
+edietheeagle: checks 
+kaisen75: bets $0.50
+edietheeagle: folds 
+Uncalled bet ($0.50) returned to kaisen75
+kaisen75 collected $1.67 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [5d 6d Ac]
+Seat 1: kaisen75 collected ($1.67)
+Seat 2: lucima10 (button) folded before Flop (didn't bet)
+Seat 3: cao87 (small blind) folded before Flop
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded on the Flop
+
+
+
+PokerStars Hand #222947431116:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:36 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: kaisen75 ($11.02 in chips) 
+Seat 2: lucima10 ($11.17 in chips) 
+Seat 3: cao87 ($10 in chips) 
+Seat 4: yereke96 ($10.05 in chips) 
+Seat 5: dai234 ($10.77 in chips) 
+Seat 6: edietheeagle ($9.88 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+edietheeagle: folds 
+kaisen75: folds 
+lucima10: folds 
+cao87: raises $0.15 to $0.25
+yereke96: folds 
+dai234: folds 
+Uncalled bet ($0.15) returned to cao87
+cao87 collected $0.25 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: cao87 (button) collected ($0.25)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded before Flop
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947433589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:47 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($11.02 in chips) 
+Seat 2: lucima10 ($11.17 in chips) 
+Seat 3: cao87 ($10.15 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($10.67 in chips) 
+Seat 6: edietheeagle ($9.88 in chips) 
+dai234: posts small blind $0.05
+edietheeagle: posts big blind $0.10
+*** HOLE CARDS ***
+kaisen75: folds 
+lucima10: folds 
+cao87: folds 
+yereke96: raises $0.15 to $0.25
+dai234: folds 
+edietheeagle: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: cao87 folded before Flop (didn't bet)
+Seat 4: yereke96 (button) collected ($0.25)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: edietheeagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947436576:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:00 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($11.02 in chips) 
+Seat 2: lucima10 ($11.17 in chips) 
+Seat 3: cao87 ($10.15 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+Seat 6: edietheeagle ($9.78 in chips) 
+edietheeagle: posts small blind $0.05
+kaisen75: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: raises $0.20 to $0.30
+cao87: folds 
+yereke96: folds 
+dai234: folds 
+edietheeagle: folds 
+kaisen75: calls $0.20
+*** FLOP *** [6c 7s 8s]
+kaisen75: checks 
+lucima10: bets $0.40
+kaisen75: calls $0.40
+*** TURN *** [6c 7s 8s] [Kc]
+kaisen75: checks 
+lucima10: bets $1.04
+cao87 leaves the table
+kaisen75: calls $1.04
+*** RIVER *** [6c 7s 8s Kc] [2c]
+kaisen75: checks 
+paok 0101 joins the table at seat #3 
+lucima10: bets $3.40
+kaisen75: folds 
+Uncalled bet ($3.40) returned to lucima10
+lucima10 collected $3.37 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.53 | Rake $0.16 
+Board [6c 7s 8s Kc 2c]
+Seat 1: kaisen75 (big blind) folded on the River
+Seat 2: lucima10 collected ($3.37)
+Seat 3: cao87 folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: edietheeagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947449820:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:57 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: kaisen75 ($10 in chips) 
+Seat 2: lucima10 ($12.80 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+Seat 6: edietheeagle ($9.73 in chips) 
+kaisen75: posts small blind $0.05
+lucima10: posts big blind $0.10
+paok 0101: sits out 
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+paok 0101 leaves the table
+edietheeagle: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.20 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: kaisen75 (small blind) collected ($0.20)
+Seat 2: lucima10 (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947454655:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:17 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10.10 in chips) 
+Seat 2: lucima10 ($12.70 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+Seat 6: edietheeagle ($9.73 in chips) 
+lucima10: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+edietheeagle: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+yereke96: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (button) collected ($0.25)
+Seat 2: lucima10 (small blind) folded before Flop
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947458443:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:33 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($10.25 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 4: yereke96 ($10.05 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+Seat 6: edietheeagle ($9.73 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+edietheeagle: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+yereke96: folds 
+2z1k14ru joins the table at seat #3 
+dai234: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 collected ($0.25)
+Seat 2: lucima10 (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded before Flop
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947460916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:44 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($10.52 in chips) 
+Seat 6: edietheeagle ($9.73 in chips) 
+dai234: posts small blind $0.05
+edietheeagle: posts big blind $0.10
+2z1k14ru: sits out 
+*** HOLE CARDS ***
+kaisen75: folds 
+lucima10: folds 
+yereke96: folds 
+dai234: raises $0.20 to $0.30
+edietheeagle: calls $0.20
+*** FLOP *** [Jh 2d 6d]
+dai234: checks 
+edietheeagle: bets $0.30
+dai234: folds 
+Uncalled bet ($0.30) returned to edietheeagle
+edietheeagle collected $0.57 from pot
+edietheeagle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jh 2d 6d]
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded on the Flop
+Seat 6: edietheeagle (big blind) collected ($0.57)
+
+
+
+PokerStars Hand #222947467009:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:10 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 3: 2z1k14ru ($4 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($10.22 in chips) 
+Seat 6: edietheeagle ($10 in chips) 
+edietheeagle: posts small blind $0.05
+kaisen75: posts big blind $0.10
+2z1k14ru: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+2z1k14ru: checks 
+yereke96: folds 
+dai234: raises $0.30 to $0.40
+edietheeagle: folds 
+kaisen75: folds 
+2z1k14ru: folds 
+Uncalled bet ($0.30) returned to dai234
+dai234 collected $0.35 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: kaisen75 (big blind) folded before Flop
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) collected ($0.35)
+Seat 6: edietheeagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947471971:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:31 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: kaisen75 ($10.30 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 3: 2z1k14ru ($3.90 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($10.47 in chips) 
+Seat 6: edietheeagle ($9.95 in chips) 
+kaisen75: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+2z1k14ru: calls $0.10
+yereke96: raises $0.20 to $0.30
+dai234: folds 
+edietheeagle: calls $0.30
+kaisen75: folds 
+lucima10: folds 
+2z1k14ru: calls $0.20
+*** FLOP *** [Jd 4c 4h]
+2z1k14ru: checks 
+yereke96: bets $0.55
+edietheeagle: folds 
+2z1k14ru: folds 
+Uncalled bet ($0.55) returned to yereke96
+yereke96 collected $1 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Jd 4c 4h]
+Seat 1: kaisen75 (small blind) folded before Flop
+Seat 2: lucima10 (big blind) folded before Flop
+Seat 3: 2z1k14ru folded on the Flop
+Seat 4: yereke96 collected ($1)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle (button) folded on the Flop
+
+
+
+PokerStars Hand #222947481791:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:13 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10.25 in chips) 
+Seat 2: lucima10 ($12.55 in chips) 
+Seat 3: 2z1k14ru ($3.60 in chips) 
+Seat 4: yereke96 ($10.70 in chips) 
+Seat 5: dai234 ($10.47 in chips) 
+Seat 6: edietheeagle ($9.65 in chips) 
+lucima10: posts small blind $0.05
+2z1k14ru: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+edietheeagle: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+2z1k14ru: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (button) collected ($0.25)
+Seat 2: lucima10 (small blind) folded before Flop
+Seat 3: 2z1k14ru (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947485043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:27 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.50 in chips) 
+Seat 3: 2z1k14ru ($3.50 in chips) 
+Seat 4: yereke96 ($10.70 in chips) 
+Seat 5: dai234 ($10.47 in chips) 
+Seat 6: edietheeagle ($9.65 in chips) 
+2z1k14ru: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+edietheeagle: folds 
+kaisen75: folds 
+lucima10: raises $0.15 to $0.25
+2z1k14ru: folds 
+yereke96: folds 
+Uncalled bet ($0.15) returned to lucima10
+lucima10 collected $0.25 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 (button) collected ($0.25)
+Seat 3: 2z1k14ru (small blind) folded before Flop
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947488877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:44 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 3: 2z1k14ru ($3.45 in chips) 
+Seat 4: yereke96 ($10.60 in chips) 
+Seat 5: dai234 ($10.47 in chips) 
+Seat 6: edietheeagle ($9.65 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+edietheeagle: folds 
+kaisen75: folds 
+lucima10: folds 
+2z1k14ru has timed out
+2z1k14ru: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to dai234
+dai234 collected $0.10 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: 2z1k14ru (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($0.10)
+Seat 6: edietheeagle folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947495499:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:12 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 4: yereke96 ($10.55 in chips) 
+Seat 5: dai234 ($10.52 in chips) 
+dai234: posts small blind $0.05
+edietheeagle: is sitting out 
+kaisen75: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+yereke96: folds 
+edietheeagle leaves the table
+dai234: raises $0.20 to $0.30
+2z1k14ru is disconnected 
+kaisen75: folds 
+Uncalled bet ($0.20) returned to dai234
+dai234 collected $0.20 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: kaisen75 (big blind) folded before Flop
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947497881:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:22 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($10.30 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 4: yereke96 ($10.55 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+kaisen75: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.20 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: kaisen75 (small blind) collected ($0.20)
+Seat 2: lucima10 (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947501040:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:35 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.55 in chips) 
+Seat 4: yereke96 ($10.55 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+lucima10: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+kaisen75: folds 
+lucima10: raises $0.20 to $0.30
+yereke96: folds 
+Uncalled bet ($0.20) returned to lucima10
+lucima10 collected $0.20 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: kaisen75 (button) folded before Flop (didn't bet)
+Seat 2: lucima10 (small blind) collected ($0.20)
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947506096:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:56 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 4: yereke96 ($10.45 in chips) 
+Seat 5: dai234 ($10.62 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+kaisen75: folds 
+lucima10: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to dai234
+dai234 collected $0.10 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: lucima10 (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222947507730:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:03 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($10.40 in chips) 
+Seat 2: lucima10 ($12.65 in chips) 
+Seat 3: 2z1k14ru ($3.45 in chips) 
+Seat 4: yereke96 ($10.40 in chips) 
+Seat 5: dai234 ($10.67 in chips) 
+dai234: posts small blind $0.05
+kaisen75: posts big blind $0.10
+2z1k14ru: posts small & big blinds $0.15
+*** HOLE CARDS ***
+lucima10: folds 
+2z1k14ru: checks 
+yereke96: raises $0.20 to $0.30
+gresscrack joins the table at seat #6 
+dai234: calls $0.25
+kaisen75: folds 
+2z1k14ru: folds 
+*** FLOP *** [4h 9s 2c]
+dai234: checks 
+yereke96: checks 
+*** TURN *** [4h 9s 2c] [Ts]
+dai234: checks 
+yereke96: bets $0.50
+dai234: calls $0.50
+*** RIVER *** [4h 9s 2c Ts] [Qs]
+dai234: checks 
+yereke96: checks 
+*** SHOW DOWN ***
+dai234: shows [4d 5d] (a pair of Fours)
+yereke96: shows [Tc Jd] (a pair of Tens)
+yereke96 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [4h 9s 2c Ts Qs]
+Seat 1: kaisen75 (big blind) folded before Flop
+Seat 2: lucima10 folded before Flop (didn't bet)
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 (button) showed [Tc Jd] and won ($1.77) with a pair of Tens
+Seat 5: dai234 (small blind) showed [4d 5d] and lost with a pair of Fours
+
+
+
+PokerStars Hand #222947515995:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:38 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($10.30 in chips) 
+Seat 3: 2z1k14ru ($3.30 in chips) 
+Seat 4: yereke96 ($11.37 in chips) 
+Seat 5: dai234 ($9.87 in chips) 
+kaisen75: posts small blind $0.05
+lucima10: is sitting out 
+2z1k14ru: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+kaisen75: raises $0.15 to $0.25
+lucima10 leaves the table
+2z1k14ru: calls $0.15
+*** FLOP *** [Tc 2h 2c]
+kaisen75: bets $0.20
+2z1k14ru: folds 
+Uncalled bet ($0.20) returned to kaisen75
+kaisen75 collected $0.48 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Tc 2h 2c]
+Seat 1: kaisen75 (small blind) collected ($0.48)
+Seat 3: 2z1k14ru (big blind) folded on the Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947521464:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:14:01 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10.53 in chips) 
+Seat 3: 2z1k14ru ($3.05 in chips) 
+Seat 4: yereke96 ($11.37 in chips) 
+Seat 5: dai234 ($10 in chips) 
+2z1k14ru: posts small blind $0.05
+yereke96: posts big blind $0.10
+gresscrack: sits out 
+*** HOLE CARDS ***
+dai234: raises $0.20 to $0.30
+kaisen75: folds 
+Aphnaidel joins the table at seat #2 
+2z1k14ru: folds 
+yereke96: folds 
+Uncalled bet ($0.20) returned to dai234
+dai234 collected $0.25 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (button) folded before Flop (didn't bet)
+Seat 3: 2z1k14ru (small blind) folded before Flop
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 collected ($0.25)
+
+
+
+PokerStars Hand #222947528128:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:14:29 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: kaisen75 ($10.53 in chips) 
+Seat 2: Aphnaidel ($10 in chips) 
+Seat 3: 2z1k14ru ($3 in chips) 
+Seat 4: yereke96 ($11.27 in chips) 
+Seat 5: dai234 ($10.15 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+gresscrack: sits out 
+Aphnaidel: posts big blind $0.10
+*** HOLE CARDS ***
+kaisen75: raises $0.40 to $0.50
+Aphnaidel: folds 
+2z1k14ru: calls $0.50
+yereke96: folds 
+dai234: calls $0.40
+*** FLOP *** [5s 8c 8h]
+dai234: checks 
+kaisen75: checks 
+2z1k14ru: checks 
+*** TURN *** [5s 8c 8h] [Td]
+dai234: checks 
+kaisen75: checks 
+2z1k14ru: bets $0.50
+dai234: calls $0.50
+kaisen75: folds 
+*** RIVER *** [5s 8c 8h Td] [3h]
+dai234: bets $0.80
+2z1k14ru: calls $0.80
+*** SHOW DOWN ***
+dai234: shows [3d 3s] (a full house, Threes full of Eights)
+2z1k14ru: mucks hand 
+dai234 collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [5s 8c 8h Td 3h]
+Seat 1: kaisen75 folded on the Turn
+Seat 2: Aphnaidel folded before Flop (didn't bet)
+Seat 3: 2z1k14ru (button) mucked
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) showed [3d 3s] and won ($4.06) with a full house, Threes full of Eights
+
+
+
+PokerStars Hand #222947540384:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:21 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($10.03 in chips) 
+Seat 2: Aphnaidel ($9.90 in chips) 
+Seat 3: 2z1k14ru ($1.20 in chips) 
+Seat 4: yereke96 ($11.22 in chips) 
+Seat 5: dai234 ($12.41 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+kaisen75: folds 
+Aphnaidel: folds 
+2z1k14ru is disconnected 
+2z1k14ru has timed out while being disconnected
+2z1k14ru: folds 
+yereke96: raises $0.15 to $0.25
+dai234: raises $0.65 to $0.90
+gresscrack: folds 
+yereke96: folds 
+Uncalled bet ($0.65) returned to dai234
+dai234 collected $0.60 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: Aphnaidel folded before Flop (didn't bet)
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 (button) folded before Flop
+Seat 5: dai234 (small blind) collected ($0.60)
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947549449:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:59 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($10.03 in chips) 
+Seat 2: Aphnaidel ($9.90 in chips) 
+Seat 3: 2z1k14ru ($1.20 in chips) 
+Seat 4: yereke96 ($10.97 in chips) 
+Seat 5: dai234 ($12.76 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+gresscrack: posts small blind $0.05
+kaisen75: posts big blind $0.10
+*** HOLE CARDS ***
+Aphnaidel: raises $0.10 to $0.20
+2z1k14ru: folds 
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+kaisen75: folds 
+Uncalled bet ($0.10) returned to Aphnaidel
+Aphnaidel collected $0.25 from pot
+Aphnaidel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (big blind) folded before Flop
+Seat 2: Aphnaidel collected ($0.25)
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947552051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:16:10 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: kaisen75 ($10 in chips) 
+Seat 2: Aphnaidel ($10.05 in chips) 
+Seat 3: 2z1k14ru ($1.20 in chips) 
+Seat 4: yereke96 ($10.97 in chips) 
+Seat 5: dai234 ($12.76 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+kaisen75: posts small blind $0.05
+Aphnaidel: posts big blind $0.10
+*** HOLE CARDS ***
+2z1k14ru: folds 
+yereke96: folds 
+dai234: folds 
+gresscrack: raises $0.20 to $0.30
+kaisen75: raises $0.70 to $1
+Aphnaidel: raises $0.70 to $1.70
+gresscrack: folds 
+kaisen75: calls $0.70
+*** FLOP *** [9s 9h 6s]
+kaisen75: checks 
+Aphnaidel: checks 
+*** TURN *** [9s 9h 6s] [Qs]
+kaisen75: checks 
+Aphnaidel: bets $3.53
+kaisen75: calls $3.53
+*** RIVER *** [9s 9h 6s Qs] [Qc]
+kaisen75: checks 
+Aphnaidel: bets $4.82 and is all-in
+kaisen75: folds 
+Uncalled bet ($4.82) returned to Aphnaidel
+Aphnaidel collected $10.28 from pot
+Aphnaidel: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.76 | Rake $0.48 
+Board [9s 9h 6s Qs Qc]
+Seat 1: kaisen75 (small blind) folded on the River
+Seat 2: Aphnaidel (big blind) collected ($10.28)
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop
+
+
+
+PokerStars Hand #222947568971:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:21 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($10 in chips) 
+Seat 2: Aphnaidel ($15.10 in chips) 
+Seat 4: yereke96 ($10.97 in chips) 
+Seat 5: dai234 ($12.76 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+Aphnaidel: posts small blind $0.05
+2z1k14ru has timed out
+2z1k14ru: is sitting out 
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+2z1k14ru is disconnected 
+gresscrack: folds 
+kaisen75: raises $0.15 to $0.25
+Aphnaidel: folds 
+yereke96: folds 
+Uncalled bet ($0.15) returned to kaisen75
+kaisen75 collected $0.25 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (button) collected ($0.25)
+Seat 2: Aphnaidel (small blind) folded before Flop
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947575135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:47 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($10.15 in chips) 
+Seat 2: Aphnaidel ($15.05 in chips) 
+Seat 4: yereke96 ($10.87 in chips) 
+Seat 5: dai234 ($12.76 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+kaisen75: raises $0.15 to $0.25
+Aphnaidel: raises $0.15 to $0.40
+yereke96: folds 
+dai234: folds 
+kaisen75: raises $0.50 to $0.90
+Aphnaidel: raises $1.70 to $2.60
+kaisen75: calls $1.70
+*** FLOP *** [9d 2h Th]
+kaisen75: checks 
+Aphnaidel: checks 
+*** TURN *** [9d 2h Th] [6h]
+kaisen75: bets $7.55 and is all-in
+Aphnaidel: folds 
+Uncalled bet ($7.55) returned to kaisen75
+kaisen75 collected $5.11 from pot
+kaisen75: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.24 
+Board [9d 2h Th 6h]
+Seat 1: kaisen75 collected ($5.11)
+Seat 2: Aphnaidel (button) folded on the Turn
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded before Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947590067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:18:49 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($12.66 in chips) 
+Seat 2: Aphnaidel ($12.45 in chips) 
+Seat 3: 2z1k14ru ($1.20 in chips) 
+Seat 4: yereke96 ($10.82 in chips) 
+Seat 5: dai234 ($12.66 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+2z1k14ru: posts small & big blinds $0.15
+*** HOLE CARDS ***
+kaisen75: folds 
+Aphnaidel: folds 
+2z1k14ru: checks 
+yereke96: raises $0.15 to $0.25
+dai234: calls $0.20
+gresscrack: folds 
+2z1k14ru: folds 
+*** FLOP *** [4h 3s Jh]
+dai234: checks 
+yereke96: bets $0.40
+dai234: folds 
+Uncalled bet ($0.40) returned to yereke96
+yereke96 collected $0.72 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [4h 3s Jh]
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 2: Aphnaidel folded before Flop (didn't bet)
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 (button) collected ($0.72)
+Seat 5: dai234 (small blind) folded on the Flop
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947595810:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:13 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: kaisen75 ($12.66 in chips) 
+Seat 2: Aphnaidel ($12.45 in chips) 
+Seat 3: 2z1k14ru ($1.05 in chips) 
+Seat 4: yereke96 ($11.29 in chips) 
+Seat 5: dai234 ($12.41 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+gresscrack: posts small blind $0.05
+kaisen75: posts big blind $0.10
+*** HOLE CARDS ***
+Aphnaidel: raises $0.10 to $0.20
+2z1k14ru: folds 
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+kaisen75: calls $0.10
+*** FLOP *** [9s Jh Jc]
+kaisen75: checks 
+Aphnaidel: bets $0.21
+kaisen75: calls $0.21
+*** TURN *** [9s Jh Jc] [5s]
+kaisen75: checks 
+Aphnaidel: checks 
+*** RIVER *** [9s Jh Jc 5s] [4s]
+kaisen75: checks 
+Aphnaidel: checks 
+*** SHOW DOWN ***
+kaisen75: shows [9c 8c] (two pair, Jacks and Nines)
+Aphnaidel: mucks hand 
+kaisen75 collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [9s Jh Jc 5s 4s]
+Seat 1: kaisen75 (big blind) showed [9c 8c] and won ($0.83) with two pair, Jacks and Nines
+Seat 2: Aphnaidel mucked
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947605029:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:52 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: kaisen75 ($13.08 in chips) 
+Seat 2: Aphnaidel ($12.04 in chips) 
+Seat 3: 2z1k14ru ($1.05 in chips) 
+Seat 4: yereke96 ($11.29 in chips) 
+Seat 5: dai234 ($12.41 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+kaisen75: posts small blind $0.05
+Aphnaidel: posts big blind $0.10
+*** HOLE CARDS ***
+2z1k14ru: folds 
+yereke96: raises $0.20 to $0.30
+dai234: folds 
+gresscrack: folds 
+kaisen75: folds 
+Aphnaidel: folds 
+Uncalled bet ($0.20) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: kaisen75 (small blind) folded before Flop
+Seat 2: Aphnaidel (big blind) folded before Flop
+Seat 3: 2z1k14ru folded before Flop (didn't bet)
+Seat 4: yereke96 collected ($0.25)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947609028:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:08 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: kaisen75 ($13.03 in chips) 
+Seat 2: Aphnaidel ($11.94 in chips) 
+Seat 3: 2z1k14ru ($1.05 in chips) 
+Seat 4: yereke96 ($11.44 in chips) 
+Seat 5: dai234 ($12.41 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+Aphnaidel: posts small blind $0.05
+2z1k14ru: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: raises $0.20 to $0.30
+gresscrack: folds 
+kaisen75: folds 
+Aphnaidel: folds 
+2z1k14ru: calls $0.20
+*** FLOP *** [Qd Tc 2c]
+2z1k14ru: checks 
+dai234: bets $0.30
+2z1k14ru: raises $0.45 to $0.75 and is all-in
+dai234: calls $0.45
+*** TURN *** [Qd Tc 2c] [8c]
+*** RIVER *** [Qd Tc 2c 8c] [2h]
+*** SHOW DOWN ***
+2z1k14ru: shows [Kh 5d] (a pair of Deuces)
+dai234: shows [Ts Kc] (two pair, Tens and Deuces)
+dai234 collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [Qd Tc 2c 8c 2h]
+Seat 1: kaisen75 (button) folded before Flop (didn't bet)
+Seat 2: Aphnaidel (small blind) folded before Flop
+Seat 3: 2z1k14ru (big blind) showed [Kh 5d] and lost with a pair of Deuces
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 showed [Ts Kc] and won ($2.05) with two pair, Tens and Deuces
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947619664:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:52 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: kaisen75 ($13.03 in chips) 
+Seat 2: Aphnaidel ($11.89 in chips) 
+Seat 4: yereke96 ($11.44 in chips) 
+Seat 5: dai234 ($13.41 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+kaisen75: raises $0.15 to $0.25
+2z1k14ru leaves the table
+Aphnaidel: raises $0.25 to $0.50
+yereke96: folds 
+dai234: calls $0.40
+kaisen75: calls $0.25
+*** FLOP *** [3h Js Ts]
+Timsan303van joins the table at seat #3 
+dai234: checks 
+kaisen75: bets $1.30
+Aphnaidel: raises $4.08 to $5.38
+dai234: folds 
+kaisen75: raises $7.15 to $12.53 and is all-in
+Aphnaidel: calls $6.01 and is all-in
+Uncalled bet ($1.14) returned to kaisen75
+*** TURN *** [3h Js Ts] [7h]
+*** RIVER *** [3h Js Ts 7h] [Qc]
+*** SHOW DOWN ***
+kaisen75: shows [Th Jc] (two pair, Jacks and Tens)
+Aphnaidel: shows [Kd Kh] (a pair of Kings)
+kaisen75 collected $23.24 from pot
+*** SUMMARY ***
+Total pot $24.33 | Rake $1.09 
+Board [3h Js Ts 7h Qc]
+Seat 1: kaisen75 showed [Th Jc] and won ($23.24) with two pair, Jacks and Tens
+Seat 2: Aphnaidel (button) showed [Kd Kh] and lost with a pair of Kings
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded on the Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947633869:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:21:52 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: kaisen75 ($24.38 in chips) 
+Seat 4: yereke96 ($11.39 in chips) 
+Seat 5: dai234 ($12.91 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+Timsan303van: sits out 
+*** HOLE CARDS ***
+Aphnaidel leaves the table
+kaisen75: folds 
+yereke96: raises $0.15 to $0.25
+dai234: calls $0.20
+gresscrack: folds 
+*** FLOP *** [Tc 5h 3s]
+dai234: checks 
+yereke96: checks 
+*** TURN *** [Tc 5h 3s] [2h]
+dai234: bets $0.40
+yereke96: folds 
+Uncalled bet ($0.40) returned to dai234
+dai234 collected $0.57 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc 5h 3s 2h]
+Seat 1: kaisen75 folded before Flop (didn't bet)
+Seat 4: yereke96 (button) folded on the Turn
+Seat 5: dai234 (small blind) collected ($0.57)
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947640973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:22 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 3: Timsan303van ($5.45 in chips) 
+Seat 4: yereke96 ($11.14 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($10 in chips) 
+gresscrack: posts small blind $0.05
+kaisen75: is sitting out 
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+kaisen75 leaves the table
+gresscrack: raises $0.20 to $0.30
+Timsan303van: calls $0.20
+*** FLOP *** [9h 8h Tc]
+gresscrack: bets $0.19
+Timsan303van: calls $0.19
+*** TURN *** [9h 8h Tc] [9s]
+gresscrack: bets $0.94
+Timsan303van: folds 
+Uncalled bet ($0.94) returned to gresscrack
+gresscrack collected $0.94 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [9h 8h Tc 9s]
+Seat 3: Timsan303van (big blind) folded on the Turn
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) collected ($0.94)
+
+
+
+PokerStars Hand #222947657991:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:23:33 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 3: Timsan303van ($4.96 in chips) 
+Seat 4: yereke96 ($11.14 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($10.45 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Timsan303van: calls $0.05
+yereke96: checks 
+*** FLOP *** [As Qh Kh]
+Timsan303van: bets $0.10
+yereke96: calls $0.10
+*** TURN *** [As Qh Kh] [5d]
+Timsan303van: bets $0.19
+yereke96: folds 
+Uncalled bet ($0.19) returned to Timsan303van
+Timsan303van collected $0.38 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [As Qh Kh 5d]
+Seat 3: Timsan303van (small blind) collected ($0.38)
+Seat 4: yereke96 (big blind) folded on the Turn
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947663267:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:23:55 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 3: Timsan303van ($5.14 in chips) 
+Seat 4: yereke96 ($10.94 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($10.45 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Timsan303van: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to dai234
+dai234 collected $0.10 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Timsan303van (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($0.10)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947665293:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:24:03 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 3: Timsan303van ($5.14 in chips) 
+Seat 4: yereke96 ($10.89 in chips) 
+Seat 5: dai234 ($13.28 in chips) 
+Seat 6: gresscrack ($10.45 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: folds 
+gresscrack: checks 
+*** FLOP *** [8h 9c 4c]
+gresscrack: checks 
+Timsan303van: bets $0.10
+gresscrack: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.24 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h 9c 4c]
+Seat 3: Timsan303van collected ($0.24)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222947675744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:24:46 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 3: Timsan303van ($6.37 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($10.30 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: raises $0.20 to $0.30
+Timsan303van: calls $0.25
+yereke96: folds 
+*** FLOP *** [Kc 3d 9h]
+Timsan303van: bets $0.10
+gresscrack: raises $0.65 to $0.75
+Timsan303van: calls $0.65
+*** TURN *** [Kc 3d 9h] [9c]
+Timsan303van: bets $1.05
+gresscrack: calls $1.05
+*** RIVER *** [Kc 3d 9h 9c] [4s]
+Dante21b joins the table at seat #1 
+Timsan303van: bets $2.06
+gresscrack: calls $2.06
+*** SHOW DOWN ***
+Timsan303van: shows [3c Qs] (two pair, Nines and Threes)
+gresscrack: shows [Kh Jh] (two pair, Kings and Nines)
+gresscrack collected $8.04 from pot
+misha22o joins the table at seat #2 
+*** SUMMARY ***
+Total pot $8.42 | Rake $0.38 
+Board [Kc 3d 9h 9c 4s]
+Seat 3: Timsan303van (small blind) showed [3c Qs] and lost with two pair, Nines and Threes
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) showed [Kh Jh] and won ($8.04) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #222947688966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:25:42 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 3: Timsan303van ($2.21 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($14.18 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+Dante21b: sits out 
+misha22o: sits out 
+*** HOLE CARDS ***
+gresscrack: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: raises $0.40 to $0.50
+Timsan303van: folds 
+Uncalled bet ($0.40) returned to dai234
+dai234 collected $0.25 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: Timsan303van (button) folded before Flop
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($0.25)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947692244:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:25:56 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 2: misha22o ($4 in chips) 
+Seat 3: Timsan303van ($2.11 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($13.38 in chips) 
+Seat 6: gresscrack ($14.18 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+Dante21b: sits out 
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: checks 
+Timsan303van: calls $0.10
+yereke96: raises $0.45 to $0.55
+dai234: folds 
+gresscrack: folds 
+misha22o: folds 
+Timsan303van: calls $0.45
+*** FLOP *** [2h Ah Ad]
+Timsan303van: bets $0.10
+yereke96: calls $0.10
+*** TURN *** [2h Ah Ad] [Kc]
+Timsan303van: checks 
+yereke96: checks 
+*** RIVER *** [2h Ah Ad Kc] [9d]
+Timsan303van: bets $0.10
+yereke96: raises $1.68 to $1.78
+Timsan303van: calls $1.36 and is all-in
+Uncalled bet ($0.32) returned to yereke96
+*** SHOW DOWN ***
+yereke96: shows [Jh Ac] (three of a kind, Aces)
+Timsan303van: shows [8d 9h] (two pair, Aces and Nines)
+yereke96 collected $4.27 from pot
+*** SUMMARY ***
+Total pot $4.47 | Rake $0.20 
+Board [2h Ah Ad Kc 9d]
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van showed [8d 9h] and lost with two pair, Aces and Nines
+Seat 4: yereke96 (button) showed [Jh Ac] and won ($4.27) with three of a kind, Aces
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947700882:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:31 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($3.90 in chips) 
+Seat 4: yereke96 ($12.16 in chips) 
+Seat 5: dai234 ($13.33 in chips) 
+Seat 6: gresscrack ($14.08 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Uncalled bet ($0.05) returned to Dante21b
+Dante21b collected $0.10 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (big blind) collected ($0.10)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947702459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:37 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($10.05 in chips) 
+Seat 2: misha22o ($3.90 in chips) 
+Seat 3: Timsan303van ($4 in chips) 
+Seat 4: yereke96 ($12.16 in chips) 
+Seat 5: dai234 ($13.33 in chips) 
+Seat 6: gresscrack ($14.03 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: raises $0.30 to $0.40
+gresscrack: raises $0.80 to $1.20
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: folds 
+dai234: folds 
+Uncalled bet ($0.80) returned to gresscrack
+gresscrack collected $1.05 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 3: Timsan303van folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop
+Seat 6: gresscrack (button) collected ($1.05)
+
+
+
+PokerStars Hand #222947710370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:10 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($3.80 in chips) 
+Seat 3: Timsan303van ($3.90 in chips) 
+Seat 4: yereke96 ($12.16 in chips) 
+Seat 5: dai234 ($12.93 in chips) 
+Seat 6: gresscrack ($14.68 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+gresscrack: raises $0.20 to $0.30
+Dante21b: raises $0.60 to $0.90
+misha22o: folds 
+Timsan303van: calls $0.80
+gresscrack: raises $2.75 to $3.65
+Dante21b: folds 
+Timsan303van: folds 
+Uncalled bet ($2.75) returned to gresscrack
+gresscrack collected $2.75 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack collected ($2.75)
+
+
+
+PokerStars Hand #222947718828:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:45 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($3.75 in chips) 
+Seat 3: Timsan303van ($3 in chips) 
+Seat 4: yereke96 ($12.16 in chips) 
+Seat 5: dai234 ($12.93 in chips) 
+Seat 6: gresscrack ($16.53 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+Timsan303van: calls $0.25
+yereke96: folds 
+*** FLOP *** [Qd 3s 5d]
+Timsan303van: bets $0.10
+misha22o: raises $0.30 to $0.40
+Timsan303van: calls $0.30
+*** TURN *** [Qd 3s 5d] [6s]
+Timsan303van: checks 
+misha22o: checks 
+*** RIVER *** [Qd 3s 5d 6s] [Qc]
+Timsan303van: bets $0.72
+misha22o: calls $0.72
+*** SHOW DOWN ***
+Timsan303van: shows [Js Tc] (a pair of Queens)
+misha22o: shows [Ah 8h] (a pair of Queens - Ace kicker)
+misha22o collected $2.81 from pot
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.13 
+Board [Qd 3s 5d 6s Qc]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) showed [Ah 8h] and won ($2.81) with a pair of Queens
+Seat 3: Timsan303van (small blind) showed [Js Tc] and lost with a pair of Queens
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947726203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:28:16 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($5.14 in chips) 
+Seat 3: Timsan303van ($1.58 in chips) 
+Seat 4: yereke96 ($12.06 in chips) 
+Seat 5: dai234 ($12.93 in chips) 
+Seat 6: gresscrack ($16.53 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: checks 
+*** FLOP *** [As Qh Ad]
+dai234: checks 
+Timsan303van: bets $0.10
+dai234: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.24 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As Qh Ad]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van (button) collected ($0.24)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded on the Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947732159:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:28:41 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($5.14 in chips) 
+Seat 3: Timsan303van ($1.72 in chips) 
+Seat 4: yereke96 ($12.01 in chips) 
+Seat 5: dai234 ($12.83 in chips) 
+Seat 6: gresscrack ($16.53 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: folds 
+gresscrack: checks 
+*** FLOP *** [Ts Jd Qh]
+gresscrack: checks 
+Timsan303van: bets $0.10
+gresscrack: calls $0.10
+*** TURN *** [Ts Jd Qh] [6d]
+gresscrack: checks 
+Timsan303van: bets $0.22
+gresscrack: folds 
+Uncalled bet ($0.22) returned to Timsan303van
+Timsan303van collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ts Jd Qh 6d]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van collected ($0.43)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222947742197:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:29:22 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($5.14 in chips) 
+Seat 3: Timsan303van ($1.95 in chips) 
+Seat 4: yereke96 ($12.01 in chips) 
+Seat 5: dai234 ($12.78 in chips) 
+Seat 6: gresscrack ($16.33 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: raises $0.20 to $0.30
+Timsan303van: calls $0.30
+yereke96: folds 
+dai234: folds 
+gresscrack: raises $1.10 to $1.40
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: raises $0.55 to $1.95 and is all-in
+gresscrack: calls $0.55
+*** FLOP *** [6d 2s Ks]
+*** TURN *** [6d 2s Ks] [3c]
+*** RIVER *** [6d 2s Ks 3c] [Tc]
+*** SHOW DOWN ***
+gresscrack: shows [Qs Qh] (a pair of Queens)
+Timsan303van: shows [6s Kc] (two pair, Kings and Sixes)
+Timsan303van collected $4.11 from pot
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.19 
+Board [6d 2s Ks 3c Tc]
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop
+Seat 3: Timsan303van showed [6s Kc] and won ($4.11) with two pair, Kings and Sixes
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) showed [Qs Qh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #222947758914:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:30:02 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($4.84 in chips) 
+Seat 3: Timsan303van ($4.11 in chips) 
+Seat 4: yereke96 ($12.01 in chips) 
+Seat 5: dai234 ($12.78 in chips) 
+Seat 6: gresscrack ($14.38 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: calls $0.10
+yereke96: raises $0.35 to $0.45
+dai234: folds 
+gresscrack: folds 
+Dante21b: calls $0.40
+misha22o: calls $0.35
+Timsan303van: folds 
+*** FLOP *** [Jd 8c Kd]
+Dante21b: checks 
+misha22o: checks 
+yereke96: bets $1.40
+Dante21b: folds 
+misha22o: calls $1.40
+*** TURN *** [Jd 8c Kd] [3s]
+misha22o: checks 
+yereke96: bets $4.06
+misha22o: calls $2.99 and is all-in
+Uncalled bet ($1.07) returned to yereke96
+*** RIVER *** [Jd 8c Kd 3s] [8d]
+*** SHOW DOWN ***
+misha22o: shows [9c Kc] (two pair, Kings and Eights)
+yereke96: shows [Ah As] (two pair, Aces and Eights)
+yereke96 collected $9.77 from pot
+misha22o cashed out the hand for $1.11 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $10.23 | Rake $0.46 
+Board [Jd 8c Kd 3s 8d]
+Seat 1: Dante21b (small blind) folded on the Flop
+Seat 2: misha22o (big blind) showed [9c Kc] and lost with two pair, Kings and Eights (cashed out).
+Seat 3: Timsan303van folded before Flop
+Seat 4: yereke96 showed [Ah As] and won ($9.77) with two pair, Aces and Eights
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947774018:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:31:03 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($1.11 in chips) 
+Seat 3: Timsan303van ($4.01 in chips) 
+Seat 4: yereke96 ($16.94 in chips) 
+Seat 5: dai234 ($12.78 in chips) 
+Seat 6: gresscrack ($14.38 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Uncalled bet ($0.05) returned to Timsan303van
+Timsan303van collected $0.10 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) collected ($0.10)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947775967:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:31:11 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($1.06 in chips) 
+Seat 3: Timsan303van ($4.06 in chips) 
+Seat 4: yereke96 ($16.94 in chips) 
+Seat 5: dai234 ($12.78 in chips) 
+Seat 6: gresscrack ($14.38 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.05
+yereke96: checks 
+*** FLOP *** [Kh 3d 2s]
+Timsan303van: checks 
+yereke96: checks 
+*** TURN *** [Kh 3d 2s] [3h]
+Timsan303van: bets $0.10
+yereke96: calls $0.10
+*** RIVER *** [Kh 3d 2s 3h] [9c]
+Timsan303van: bets $3.86 and is all-in
+yereke96: folds 
+Uncalled bet ($3.86) returned to Timsan303van
+Timsan303van collected $0.38 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kh 3d 2s 3h 9c]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Timsan303van (small blind) collected ($0.38)
+Seat 4: yereke96 (big blind) folded on the River
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947782635:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:31:39 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.77 in chips) 
+Seat 3: Timsan303van ($4.24 in chips) 
+Seat 4: yereke96 ($16.74 in chips) 
+Seat 5: dai234 ($12.78 in chips) 
+Seat 6: gresscrack ($14.38 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: raises $0.40 to $0.50
+Timsan303van: calls $0.40
+*** FLOP *** [Qs Jd 2h]
+dai234: bets $0.50
+Timsan303van: folds 
+Uncalled bet ($0.50) returned to dai234
+dai234 collected $1 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Qs Jd 2h]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van (button) folded on the Flop
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($1)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947793128:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:31:57 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($9.77 in chips) 
+Seat 3: Timsan303van ($3.74 in chips) 
+Seat 4: yereke96 ($16.69 in chips) 
+Seat 5: dai234 ($13.28 in chips) 
+Seat 6: gresscrack ($14.38 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+Timsan303van: calls $0.30
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+*** FLOP *** [Ad Jc 6h]
+misha22o: bets $0.30
+Timsan303van: calls $0.30
+*** TURN *** [Ad Jc 6h] [2c]
+misha22o: bets $0.60
+Timsan303van: folds 
+Uncalled bet ($0.60) returned to misha22o
+misha22o collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [Ad Jc 6h 2c]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o collected ($1.29)
+Seat 3: Timsan303van folded on the Turn
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947799031:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:32:21 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.46 in chips) 
+Seat 3: Timsan303van ($3.14 in chips) 
+Seat 4: yereke96 ($16.69 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($14.28 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: folds 
+gresscrack: raises $0.40 to $0.50
+Dante21b: calls $0.40
+Timsan303van: folds 
+*** FLOP *** [As 8d 9s]
+gresscrack: bets $0.35
+Dante21b: folds 
+Uncalled bet ($0.35) returned to gresscrack
+gresscrack collected $1.05 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [As 8d 9s]
+Seat 1: Dante21b (big blind) folded on the Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #222947805096:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:32:45 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.50 in chips) 
+Seat 2: misha22o ($10.46 in chips) 
+Seat 3: Timsan303van ($3.04 in chips) 
+Seat 4: yereke96 ($16.69 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($14.83 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: checks 
+*** FLOP *** [2c 8d Jh]
+misha22o: bets $0.24
+Timsan303van: folds 
+Uncalled bet ($0.24) returned to misha22o
+misha22o collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 8d Jh]
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) collected ($0.24)
+Seat 3: Timsan303van folded on the Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947810166:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:33:06 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.60 in chips) 
+Seat 3: Timsan303van ($2.94 in chips) 
+Seat 4: yereke96 ($16.69 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($14.83 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+gresscrack: raises $0.20 to $0.30
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: folds 
+Uncalled bet ($0.20) returned to gresscrack
+gresscrack collected $0.25 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) folded before Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack collected ($0.25)
+
+
+
+PokerStars Hand #222947813061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:33:18 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.55 in chips) 
+Seat 3: Timsan303van ($2.84 in chips) 
+Seat 4: yereke96 ($16.69 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($14.98 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.05
+yereke96: checks 
+*** FLOP *** [Ac 2d Ks]
+Timsan303van: bets $0.10
+yereke96: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.19 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ac 2d Ks]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Timsan303van (small blind) collected ($0.19)
+Seat 4: yereke96 (big blind) folded on the Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947818129:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:33:39 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.55 in chips) 
+Seat 3: Timsan303van ($2.93 in chips) 
+Seat 4: yereke96 ($16.59 in chips) 
+Seat 5: dai234 ($13.23 in chips) 
+Seat 6: gresscrack ($14.98 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: raises $0.40 to $0.50
+Timsan303van: calls $0.40
+*** FLOP *** [Qh 3c 2s]
+dai234: bets $0.40
+Timsan303van: calls $0.40
+*** TURN *** [Qh 3c 2s] [5d]
+dai234: bets $0.70
+Timsan303van: raises $1.33 to $2.03 and is all-in
+dai234: folds 
+Uncalled bet ($1.33) returned to Timsan303van
+Timsan303van collected $3.10 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Qh 3c 2s 5d]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van (button) collected ($3.10)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded on the Turn
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947828620:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:34:22 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.55 in chips) 
+Seat 3: Timsan303van ($4.43 in chips) 
+Seat 4: yereke96 ($16.54 in chips) 
+Seat 5: dai234 ($11.63 in chips) 
+Seat 6: gresscrack ($14.98 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+Timsan303van: folds 
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Uncalled bet ($0.20) returned to misha22o
+misha22o collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o collected ($0.25)
+Seat 3: Timsan303van folded before Flop (didn't bet)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947831261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:34:32 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.70 in chips) 
+Seat 3: Timsan303van ($4.43 in chips) 
+Seat 4: yereke96 ($16.54 in chips) 
+Seat 5: dai234 ($11.58 in chips) 
+Seat 6: gresscrack ($14.88 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Timsan303van: folds 
+yereke96: folds 
+dai234: raises $0.20 to $0.30
+gresscrack: folds 
+Dante21b: folds 
+Uncalled bet ($0.20) returned to dai234
+dai234 collected $0.25 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van folded before Flop (didn't bet)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) collected ($0.25)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947834175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:34:45 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($10.70 in chips) 
+Seat 3: Timsan303van ($4.43 in chips) 
+Seat 4: yereke96 ($16.54 in chips) 
+Seat 5: dai234 ($11.73 in chips) 
+Seat 6: gresscrack ($14.83 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: calls $0.10
+yereke96: raises $0.20 to $0.30
+dai234: raises $0.70 to $1
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.90
+yereke96: calls $0.70
+*** FLOP *** [6d 8c 4c]
+Timsan303van: bets $3.43 and is all-in
+yereke96: raises $12.11 to $15.54 and is all-in
+dai234: calls $10.73 and is all-in
+Uncalled bet ($4.81) returned to yereke96
+*** TURN *** [6d 8c 4c] [Kh]
+*** RIVER *** [6d 8c 4c Kh] [Qc]
+*** SHOW DOWN ***
+yereke96: shows [9s 9d] (a pair of Nines)
+dai234: shows [Jh Jc] (a pair of Jacks)
+Timsan303van: shows [Js As] (high card Ace)
+dai234 cashed out the hand for $21.98 | Cash Out Fee $0.22
+*** SUMMARY ***
+Total pot $28.04 Main pot $12.84. Side pot $13.94. | Rake $1.26 
+Board [6d 8c 4c Kh Qc]
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 3: Timsan303van showed [Js As] and lost with high card Ace
+Seat 4: yereke96 showed [9s 9d] and lost with a pair of Nines
+Seat 5: dai234 showed [Jh Jc] and won ($26.78) with a pair of Jacks (pot not awarded as player cashed out)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947847237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:35:39 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($10.60 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($21.98 in chips) 
+Seat 6: gresscrack ($14.83 in chips) 
+misha22o: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+yereke96: folds 
+Uncalled bet ($0.15) returned to Dante21b
+Dante21b collected $0.25 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Dante21b (button) collected ($0.25)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947850026:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:35:50 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.55 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($21.98 in chips) 
+Seat 6: gresscrack ($14.83 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b has timed out
+Dante21b: folds 
+misha22o: folds 
+yereke96: folds 
+Uncalled bet ($0.05) returned to dai234
+dai234 collected $0.10 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) collected ($0.10)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947854069:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:36:07 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 2: misha22o ($10.55 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.03 in chips) 
+Seat 6: gresscrack ($14.83 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+Timsan303van: sits out 
+*** HOLE CARDS ***
+misha22o: folds 
+yereke96: raises $0.15 to $0.25
+dai234: folds 
+gresscrack: folds 
+Uncalled bet ($0.15) returned to yereke96
+yereke96 collected $0.25 from pot
+yereke96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 4: yereke96 (button) collected ($0.25)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947856705:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:36:17 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.55 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($21.98 in chips) 
+Seat 6: gresscrack ($14.73 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+Timsan303van: sits out 
+*** HOLE CARDS ***
+misha22o: raises $0.20 to $0.30
+yereke96: folds 
+dai234: calls $0.30
+gresscrack: folds 
+Dante21b: folds 
+*** FLOP *** [4s 6c 9d]
+misha22o: checks 
+dai234: bets $0.40
+misha22o: folds 
+Uncalled bet ($0.40) returned to dai234
+dai234 collected $0.72 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [4s 6c 9d]
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded on the Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) collected ($0.72)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947861800:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:36:38 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($10.25 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($22.40 in chips) 
+Seat 6: gresscrack ($14.68 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+Timsan303van: sits out 
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+Uncalled bet ($0.05) returned to misha22o
+misha22o collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) collected ($0.10)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947863768:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:36:46 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($10.30 in chips) 
+Seat 3: Timsan303van ($4 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($22.40 in chips) 
+Seat 6: gresscrack ($14.68 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Uncalled bet ($0.05) returned to Timsan303van
+Timsan303van collected $0.10 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) collected ($0.10)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947865461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:36:52 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($9.85 in chips) 
+Seat 2: misha22o ($10.25 in chips) 
+Seat 3: Timsan303van ($4.05 in chips) 
+Seat 4: yereke96 ($10.15 in chips) 
+Seat 5: dai234 ($22.40 in chips) 
+Seat 6: gresscrack ($14.68 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+Timsan303van: calls $0.20
+yereke96: folds 
+*** FLOP *** [Ac 4c 6h]
+Timsan303van: bets $0.10
+Dante21b: calls $0.10
+*** TURN *** [Ac 4c 6h] [7d]
+Timsan303van: bets $0.10
+Dante21b: calls $0.10
+*** RIVER *** [Ac 4c 6h 7d] [Ks]
+Timsan303van: checks 
+Dante21b: bets $0.50
+Timsan303van: folds 
+Uncalled bet ($0.50) returned to Dante21b
+Dante21b collected $0.96 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ac 4c 6h 7d Ks]
+Seat 1: Dante21b collected ($0.96)
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Timsan303van (small blind) folded on the River
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947875422:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:37:33 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10.36 in chips) 
+Seat 2: misha22o ($10.25 in chips) 
+Seat 3: Timsan303van ($3.60 in chips) 
+Seat 4: yereke96 ($10.05 in chips) 
+Seat 5: dai234 ($22.40 in chips) 
+Seat 6: gresscrack ($14.68 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: checks 
+*** FLOP *** [Ah As 2c]
+dai234: checks 
+Timsan303van: bets $0.10
+dai234: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.24 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah As 2c]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van (button) collected ($0.24)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded on the Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947879034:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:37:48 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10.36 in chips) 
+Seat 2: misha22o ($10.25 in chips) 
+Seat 3: Timsan303van ($3.74 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.30 in chips) 
+Seat 6: gresscrack ($14.68 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: folds 
+gresscrack: checks 
+*** FLOP *** [3s 3h Qd]
+gresscrack: checks 
+Timsan303van: bets $0.10
+gresscrack: folds 
+Uncalled bet ($0.10) returned to Timsan303van
+Timsan303van collected $0.24 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3s 3h Qd]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van collected ($0.24)
+Seat 4: yereke96 (button) folded before Flop (didn't bet)
+Seat 5: dai234 (small blind) folded before Flop
+Seat 6: gresscrack (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222947883396:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:38:07 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10.36 in chips) 
+Seat 2: misha22o ($10.25 in chips) 
+Seat 3: Timsan303van ($3.88 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.25 in chips) 
+Seat 6: gresscrack ($14.58 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: folds 
+dai234: folds 
+gresscrack: raises $0.40 to $0.50
+Dante21b: folds 
+Timsan303van: calls $0.40
+*** FLOP *** [9d 7d 6d]
+gresscrack: bets $0.26
+Timsan303van: raises $3.12 to $3.38 and is all-in
+gresscrack: folds 
+Uncalled bet ($3.12) returned to Timsan303van
+Timsan303van collected $1.55 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.07 
+Board [9d 7d 6d]
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van collected ($1.55)
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222947892461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:38:44 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($10.26 in chips) 
+Seat 2: misha22o ($10.25 in chips) 
+Seat 3: Timsan303van ($4.67 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.25 in chips) 
+Seat 6: gresscrack ($13.82 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: raises $0.10 to $0.20
+yereke96: calls $0.20
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+*** FLOP *** [3s Kc 7s]
+Timsan303van: bets $0.27
+yereke96: calls $0.27
+*** TURN *** [3s Kc 7s] [2h]
+Timsan303van: bets $0.52
+yereke96: folds 
+Uncalled bet ($0.52) returned to Timsan303van
+Timsan303van collected $1.04 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [3s Kc 7s 2h]
+Seat 1: Dante21b (small blind) folded before Flop
+Seat 2: misha22o (big blind) folded before Flop
+Seat 3: Timsan303van collected ($1.04)
+Seat 4: yereke96 folded on the Turn
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947897042:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:39:03 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($10.21 in chips) 
+Seat 2: misha22o ($10.15 in chips) 
+Seat 3: Timsan303van ($5.24 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.25 in chips) 
+Seat 6: gresscrack ($13.82 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: folds 
+dai234: raises $0.20 to $0.30
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: calls $0.20
+*** FLOP *** [4h Qd Js]
+Timsan303van: bets $0.10
+dai234: raises $0.40 to $0.50
+Timsan303van: folds 
+Uncalled bet ($0.40) returned to dai234
+dai234 collected $0.81 from pot
+dai234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [4h Qd Js]
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) folded on the Flop
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 collected ($0.81)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947905195:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:39:37 ET
+Table 'Aneas II' 6-max Seat #2 is the button
+Seat 1: Dante21b ($10.21 in chips) 
+Seat 2: misha22o ($10.10 in chips) 
+Seat 3: Timsan303van ($4.84 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.66 in chips) 
+Seat 6: gresscrack ($13.82 in chips) 
+Timsan303van: posts small blind $0.05
+yereke96: posts big blind $0.10
+*** HOLE CARDS ***
+dai234: folds 
+gresscrack: folds 
+Dante21b: raises $0.15 to $0.25
+misha22o: folds 
+Timsan303van: calls $0.20
+yereke96: folds 
+*** FLOP *** [Jh Ac 9d]
+Timsan303van: bets $0.10
+Dante21b: calls $0.10
+*** TURN *** [Jh Ac 9d] [4d]
+Timsan303van: bets $0.38
+Dante21b: calls $0.38
+*** RIVER *** [Jh Ac 9d 4d] [7c]
+Timsan303van: bets $0.75
+Dante21b: folds 
+Uncalled bet ($0.75) returned to Timsan303van
+Timsan303van collected $1.49 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [Jh Ac 9d 4d 7c]
+Seat 1: Dante21b folded on the River
+Seat 2: misha22o (button) folded before Flop (didn't bet)
+Seat 3: Timsan303van (small blind) collected ($1.49)
+Seat 4: yereke96 (big blind) folded before Flop
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947913933:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:40:13 ET
+Table 'Aneas II' 6-max Seat #3 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($10.10 in chips) 
+Seat 3: Timsan303van ($5.60 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.66 in chips) 
+Seat 6: gresscrack ($13.82 in chips) 
+yereke96: posts small blind $0.05
+dai234: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+Timsan303van: raises $0.20 to $0.50
+yereke96: folds 
+dai234: folds 
+misha22o: calls $0.20
+*** FLOP *** [8d Qd 7s]
+misha22o: checks 
+Timsan303van: bets $0.55
+misha22o: calls $0.55
+*** TURN *** [8d Qd 7s] [7h]
+misha22o: checks 
+Timsan303van: bets $1.08
+misha22o: calls $1.08
+*** RIVER *** [8d Qd 7s 7h] [6h]
+misha22o: checks 
+Timsan303van: bets $3.47 and is all-in
+misha22o: folds 
+Uncalled bet ($3.47) returned to Timsan303van
+Timsan303van collected $4.21 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [8d Qd 7s 7h 6h]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded on the River
+Seat 3: Timsan303van (button) collected ($4.21)
+Seat 4: yereke96 (small blind) folded before Flop
+Seat 5: dai234 (big blind) folded before Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947921391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:40:43 ET
+Table 'Aneas II' 6-max Seat #4 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($7.97 in chips) 
+Seat 3: Timsan303van ($7.68 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($22.56 in chips) 
+Seat 6: gresscrack ($13.82 in chips) 
+dai234: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Dante21b: folds 
+misha22o: raises $0.20 to $0.30
+Timsan303van: calls $0.30
+yereke96: calls $0.30
+dai234: raises $1.30 to $1.60
+gresscrack: folds 
+misha22o: calls $1.30
+Timsan303van: calls $1.30
+yereke96: calls $1.30
+*** FLOP *** [7c Ac 3s]
+dai234: bets $4.66
+misha22o: folds 
+Timsan303van: raises $1.42 to $6.08 and is all-in
+yereke96: folds 
+dai234: calls $1.42
+*** TURN *** [7c Ac 3s] [Qs]
+*** RIVER *** [7c Ac 3s Qs] [8c]
+*** SHOW DOWN ***
+dai234: shows [As Kh] (a pair of Aces)
+Timsan303van: shows [6c Qc] (a flush, Ace high)
+Timsan303van collected $17.82 from pot
+dai234 cashed out the hand for $10.95 | Cash Out Fee $0.11
+*** SUMMARY ***
+Total pot $18.66 | Rake $0.84 
+Board [7c Ac 3s Qs 8c]
+Seat 1: Dante21b folded before Flop (didn't bet)
+Seat 2: misha22o folded on the Flop
+Seat 3: Timsan303van showed [6c Qc] and won ($17.82) with a flush, Ace high
+Seat 4: yereke96 (button) folded on the Flop
+Seat 5: dai234 (small blind) showed [As Kh] and lost with a pair of Aces (cashed out).
+Seat 6: gresscrack (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947931390:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:41:25 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($10 in chips) 
+Seat 2: misha22o ($6.37 in chips) 
+Seat 3: Timsan303van ($17.82 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($25.83 in chips) 
+Seat 6: gresscrack ($13.72 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: folds 
+Timsan303van: calls $0.10
+yereke96: raises $0.20 to $0.30
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+Timsan303van: calls $0.20
+*** FLOP *** [7c 7s 8d]
+Timsan303van: bets $0.10
+yereke96: raises $0.47 to $0.57
+Timsan303van: raises $0.47 to $1.04
+yereke96: calls $0.47
+*** TURN *** [7c 7s 8d] [Tc]
+Timsan303van: bets $1.35
+yereke96: calls $1.35
+*** RIVER *** [7c 7s 8d Tc] [3h]
+Timsan303van: bets $5.28
+yereke96: folds 
+Uncalled bet ($5.28) returned to Timsan303van
+Timsan303van collected $5.28 from pot
+Timsan303van: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.53 | Rake $0.25 
+Board [7c 7s 8d Tc 3h]
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o folded before Flop (didn't bet)
+Seat 3: Timsan303van collected ($5.28)
+Seat 4: yereke96 folded on the River
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947938471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:41:54 ET
+Table 'Aneas II' 6-max Seat #6 is the button
+Seat 1: Dante21b ($9.90 in chips) 
+Seat 2: misha22o ($6.37 in chips) 
+Seat 3: Timsan303van ($20.41 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($25.83 in chips) 
+Seat 6: gresscrack ($13.67 in chips) 
+Dante21b: posts small blind $0.05
+misha22o: posts big blind $0.10
+*** HOLE CARDS ***
+Timsan303van: raises $0.10 to $0.20
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: calls $0.15
+misha22o: calls $0.10
+*** FLOP *** [3h 7c Ts]
+Dante21b: checks 
+misha22o: checks 
+Timsan303van: bets $0.29
+Dante21b: raises $0.60 to $0.89
+misha22o: folds 
+Timsan303van: calls $0.60
+*** TURN *** [3h 7c Ts] [8h]
+Dante21b: bets $1.70
+Timsan303van: calls $1.70
+*** RIVER *** [3h 7c Ts 8h] [Ac]
+Dante21b: bets $4.14
+Timsan303van: folds 
+Uncalled bet ($4.14) returned to Dante21b
+Dante21b collected $5.52 from pot
+Dante21b: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.78 | Rake $0.26 
+Board [3h 7c Ts 8h Ac]
+Seat 1: Dante21b (small blind) collected ($5.52)
+Seat 2: misha22o (big blind) folded on the Flop
+Seat 3: Timsan303van folded on the River
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 folded before Flop (didn't bet)
+Seat 6: gresscrack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947953120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:42:55 ET
+Table 'Aneas II' 6-max Seat #1 is the button
+Seat 1: Dante21b ($12.63 in chips) 
+Seat 2: misha22o ($6.17 in chips) 
+Seat 3: Timsan303van ($17.62 in chips) 
+Seat 4: yereke96 ($10 in chips) 
+Seat 5: dai234 ($25.83 in chips) 
+Seat 6: gresscrack ($13.67 in chips) 
+misha22o: posts small blind $0.05
+Timsan303van: posts big blind $0.10
+*** HOLE CARDS ***
+yereke96: raises $0.20 to $0.30
+dai234: calls $0.30
+gresscrack: folds 
+Dante21b: folds 
+misha22o: folds 
+Timsan303van: raises $0.20 to $0.50
+yereke96: raises $9.50 to $10 and is all-in
+dai234: folds 
+Timsan303van: calls $9.50
+*** FLOP *** [Ts 6c 4c]
+*** TURN *** [Ts 6c 4c] [7h]
+*** RIVER *** [Ts 6c 4c 7h] [Ks]
+*** SHOW DOWN ***
+Timsan303van: shows [Td Ac] (a pair of Tens)
+yereke96: shows [8h Ad] (high card Ace)
+Timsan303van collected $19.43 from pot
+*** SUMMARY ***
+Total pot $20.35 | Rake $0.92 
+Board [Ts 6c 4c 7h Ks]
+Seat 1: Dante21b (button) folded before Flop (didn't bet)
+Seat 2: misha22o (small blind) folded before Flop
+Seat 3: Timsan303van (big blind) showed [Td Ac] and won ($19.43) with a pair of Tens
+Seat 4: yereke96 showed [8h Ad] and lost with high card Ace
+Seat 5: dai234 folded before Flop
+Seat 6: gresscrack folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222948036197:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:48:31 ET
+Table 'Aneas II' 6-max Seat #5 is the button
+Seat 1: Dante21b ($9.65 in chips) 
+Seat 2: misha22o ($6.39 in chips) 
+Seat 3: Timsan303van ($30.69 in chips) 
+Seat 4: yereke96 ($12.38 in chips) 
+Seat 5: dai234 ($30.88 in chips) 
+Seat 6: gresscrack ($12.69 in chips) 
+gresscrack: posts small blind $0.05
+Dante21b: posts big blind $0.10
+*** HOLE CARDS ***
+misha22o: raises $0.20 to $0.30
+Timsan303van: raises $0.20 to $0.50
+yereke96: folds 
+dai234: folds 
+gresscrack: folds 
+Dante21b: folds 
+misha22o: calls $0.20
+*** FLOP *** [6c Jc 2c]
+misha22o: checks 
+Timsan303van: bets $0.55
+misha22o: calls $0.55
+*** TURN *** [6c Jc 2c] [2d]
+misha22o: checks 
+Timsan303van: bets $2.15
+misha22o: calls $2.15
+*** RIVER *** [6c Jc 2c 2d] [4s]
+misha22o: bets $3.19 and is all-in
+Timsan303van: folds 
+Uncalled bet ($3.19) returned to misha22o
+misha22o collected $6.26 from pot
+*** SUMMARY ***
+Total pot $6.55 | Rake $0.29 
+Board [6c Jc 2c 2d 4s]
+Seat 1: Dante21b (big blind) folded before Flop
+Seat 2: misha22o collected ($6.26)
+Seat 3: Timsan303van folded on the River
+Seat 4: yereke96 folded before Flop (didn't bet)
+Seat 5: dai234 (button) folded before Flop (didn't bet)
+Seat 6: gresscrack (small blind) folded before Flop
+
+
+

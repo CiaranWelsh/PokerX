@@ -1,0 +1,5294 @@
+﻿PokerStars Hand #222943084434:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:31 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: CAMMY420 ($8.62 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($11.21 in chips) 
+Seat 4: Wan252678 ($16.19 in chips) 
+Seat 5: candypayne ($5.44 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.17 in chips) 
+CAMMY420: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: folds 
+Wan252678: calls $0.10
+candypayne: calls $0.10
+6A6ARH6A6yNH: folds 
+CAMMY420: folds 
+xxxbohunxxx: checks 
+*** FLOP *** [5s 4h 4s]
+xxxbohunxxx: checks 
+Wan252678: checks 
+candypayne: bets $0.20
+xxxbohunxxx: folds 
+Wan252678: folds 
+Uncalled bet ($0.20) returned to candypayne
+candypayne collected $0.33 from pot
+candypayne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [5s 4h 4s]
+Seat 1: CAMMY420 (small blind) folded before Flop
+Seat 2: xxxbohunxxx (big blind) folded on the Flop
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: Wan252678 folded on the Flop
+Seat 5: candypayne collected ($0.33)
+Seat 6: 6A6ARH6A6yNH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943096642:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:40:07 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: CAMMY420 ($8.57 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($11.21 in chips) 
+Seat 4: Wan252678 ($16.09 in chips) 
+Seat 5: candypayne ($5.67 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.17 in chips) 
+xxxbohunxxx: posts small blind $0.05
+sloom44: posts big blind $0.10
+*** HOLE CARDS ***
+Wan252678: calls $0.10
+candypayne: calls $0.10
+6A6ARH6A6yNH: calls $0.10
+CAMMY420: calls $0.10
+xxxbohunxxx: folds 
+sloom44: checks 
+*** FLOP *** [4h Ad 9d]
+sloom44: checks 
+Wan252678: checks 
+candypayne: checks 
+6A6ARH6A6yNH: bets $0.30
+CAMMY420: folds 
+sloom44: folds 
+Wan252678: folds 
+candypayne: folds 
+Uncalled bet ($0.30) returned to 6A6ARH6A6yNH
+6A6ARH6A6yNH collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4h Ad 9d]
+Seat 1: CAMMY420 (button) folded on the Flop
+Seat 2: xxxbohunxxx (small blind) folded before Flop
+Seat 3: sloom44 (big blind) folded on the Flop
+Seat 4: Wan252678 folded on the Flop
+Seat 5: candypayne folded on the Flop
+Seat 6: 6A6ARH6A6yNH collected ($0.53)
+
+
+
+PokerStars Hand #222943111895:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:40:50 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: CAMMY420 ($8.47 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($11.11 in chips) 
+Seat 4: Wan252678 ($15.99 in chips) 
+Seat 5: candypayne ($5.57 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.60 in chips) 
+sloom44: posts small blind $0.05
+Wan252678: posts big blind $0.10
+*** HOLE CARDS ***
+candypayne: folds 
+6A6ARH6A6yNH: folds 
+CAMMY420: folds 
+xxxbohunxxx: folds 
+sloom44: raises $0.30 to $0.40
+Wan252678: calls $0.30
+*** FLOP *** [Kc Ac 5h]
+sloom44: bets $0.57
+Wan252678: calls $0.57
+*** TURN *** [Kc Ac 5h] [Th]
+sloom44: bets $1.76
+Wan252678: calls $1.76
+*** RIVER *** [Kc Ac 5h Th] [Tc]
+sloom44: bets $4.95
+Wan252678: calls $4.95
+*** SHOW DOWN ***
+sloom44: shows [Ts Ah] (a full house, Tens full of Aces)
+Wan252678: mucks hand 
+sloom44 collected $14.67 from pot
+*** SUMMARY ***
+Total pot $15.36 | Rake $0.69 
+Board [Kc Ac 5h Th Tc]
+Seat 1: CAMMY420 folded before Flop (didn't bet)
+Seat 2: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 3: sloom44 (small blind) showed [Ts Ah] and won ($14.67) with a full house, Tens full of Aces
+Seat 4: Wan252678 (big blind) mucked
+Seat 5: candypayne folded before Flop (didn't bet)
+Seat 6: 6A6ARH6A6yNH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943120593:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:16 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: CAMMY420 ($8.47 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($18.10 in chips) 
+Seat 4: Wan252678 ($8.31 in chips) 
+Seat 5: candypayne ($5.57 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.60 in chips) 
+Wan252678: posts small blind $0.05
+candypayne: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+CAMMY420: folds 
+xxxbohunxxx: folds 
+sloom44: folds 
+Wan252678: calls $0.05
+candypayne: checks 
+*** FLOP *** [Jh Js Ks]
+Wan252678: bets $0.19
+candypayne: calls $0.19
+*** TURN *** [Jh Js Ks] [9c]
+Wan252678: checks 
+candypayne: checks 
+*** RIVER *** [Jh Js Ks 9c] [Jd]
+Wan252678: checks 
+candypayne: bets $0.30
+Wan252678: calls $0.30
+*** SHOW DOWN ***
+candypayne: shows [Th 9d] (a full house, Jacks full of Nines)
+Wan252678: mucks hand 
+candypayne collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [Jh Js Ks 9c Jd]
+Seat 1: CAMMY420 folded before Flop (didn't bet)
+Seat 2: xxxbohunxxx folded before Flop (didn't bet)
+Seat 3: sloom44 (button) folded before Flop (didn't bet)
+Seat 4: Wan252678 (small blind) mucked
+Seat 5: candypayne (big blind) showed [Th 9d] and won ($1.13) with a full house, Jacks full of Nines
+Seat 6: 6A6ARH6A6yNH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943134140:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:55 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: CAMMY420 ($8.47 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($18.10 in chips) 
+Seat 4: Wan252678 ($7.72 in chips) 
+Seat 5: candypayne ($6.11 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.60 in chips) 
+candypayne: posts small blind $0.05
+6A6ARH6A6yNH: posts big blind $0.10
+*** HOLE CARDS ***
+CAMMY420: calls $0.10
+xxxbohunxxx: folds 
+sloom44: raises $0.10 to $0.20
+Wan252678: raises $0.20 to $0.40
+candypayne: raises $0.20 to $0.60
+6A6ARH6A6yNH: folds 
+CAMMY420: raises $0.20 to $0.80
+sloom44: calls $0.60
+Wan252678: calls $0.40
+candypayne: calls $0.20
+*** FLOP *** [7c 5d 8s]
+candypayne: bets $0.60
+CAMMY420: raises $2.18 to $2.78
+sloom44: folds 
+Wan252678: raises $4.14 to $6.92 and is all-in
+candypayne: calls $4.71 and is all-in
+CAMMY420: calls $4.14
+*** TURN *** [7c 5d 8s] [Qd]
+*** RIVER *** [7c 5d 8s Qd] [Qh]
+*** SHOW DOWN ***
+CAMMY420: shows [Ac As] (two pair, Aces and Queens)
+Wan252678: shows [Ad 8h] (two pair, Queens and Eights)
+CAMMY420 collected $3.08 from side pot
+candypayne: shows [9d 9h] (two pair, Queens and Nines)
+CAMMY420 collected $18.36 from main pot
+*** SUMMARY ***
+Total pot $22.45 Main pot $18.36. Side pot $3.08. | Rake $1.01 
+Board [7c 5d 8s Qd Qh]
+Seat 1: CAMMY420 showed [Ac As] and won ($21.44) with two pair, Aces and Queens
+Seat 2: xxxbohunxxx folded before Flop (didn't bet)
+Seat 3: sloom44 folded on the Flop
+Seat 4: Wan252678 (button) showed [Ad 8h] and lost with two pair, Queens and Eights
+Seat 5: candypayne (small blind) showed [9d 9h] and lost with two pair, Queens and Nines
+Seat 6: 6A6ARH6A6yNH (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943159016:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:00 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: CAMMY420 ($22.19 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($17.30 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.50 in chips) 
+CAMMY420: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: folds 
+6A6ARH6A6yNH: calls $0.10
+CAMMY420: calls $0.05
+xxxbohunxxx: checks 
+*** FLOP *** [Ah 6h 7s]
+CAMMY420: bets $0.10
+xxxbohunxxx: folds 
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.10) returned to CAMMY420
+CAMMY420 collected $0.29 from pot
+CAMMY420: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ah 6h 7s]
+Seat 1: CAMMY420 (small blind) collected ($0.29)
+Seat 2: xxxbohunxxx (big blind) folded on the Flop
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 6: 6A6ARH6A6yNH (button) folded on the Flop
+
+
+
+PokerStars Hand #222943167410:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:25 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: CAMMY420 ($22.38 in chips) 
+Seat 2: xxxbohunxxx ($10 in chips) 
+Seat 3: sloom44 ($17.30 in chips) 
+Seat 5: candypayne ($10 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.40 in chips) 
+xxxbohunxxx: posts small blind $0.05
+sloom44: posts big blind $0.10
+*** HOLE CARDS ***
+Wan252678 leaves the table
+candypayne: folds 
+6A6ARH6A6yNH: folds 
+CAMMY420: calls $0.10
+candypayne leaves the table
+xxxbohunxxx: raises $0.40 to $0.50
+sloom44: calls $0.40
+CAMMY420: calls $0.40
+*** FLOP *** [3h 7s 6h]
+AvGeL joins the table at seat #4 
+xxxbohunxxx: bets $1.07
+sloom44: folds 
+CAMMY420: folds 
+Uncalled bet ($1.07) returned to xxxbohunxxx
+xxxbohunxxx collected $1.43 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [3h 7s 6h]
+Seat 1: CAMMY420 (button) folded on the Flop
+Seat 2: xxxbohunxxx (small blind) collected ($1.43)
+Seat 3: sloom44 (big blind) folded on the Flop
+Seat 5: candypayne folded before Flop (didn't bet)
+Seat 6: 6A6ARH6A6yNH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943179720:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:00 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: CAMMY420 ($21.88 in chips) 
+Seat 2: xxxbohunxxx ($10.93 in chips) 
+Seat 3: sloom44 ($16.80 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.40 in chips) 
+sloom44: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+H1O2S3H joins the table at seat #5 
+CAMMY420: calls $0.10
+xxxbohunxxx: folds 
+sloom44: folds 
+AvGeL: checks 
+*** FLOP *** [7s Kd Ah]
+AvGeL: checks 
+CAMMY420: bets $0.10
+AvGeL: folds 
+Uncalled bet ($0.10) returned to CAMMY420
+CAMMY420 collected $0.24 from pot
+CAMMY420: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7s Kd Ah]
+Seat 1: CAMMY420 collected ($0.24)
+Seat 2: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 3: sloom44 (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded on the Flop
+Seat 6: 6A6ARH6A6yNH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943190081:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:30 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: CAMMY420 ($22.02 in chips) 
+Seat 2: xxxbohunxxx ($10.93 in chips) 
+Seat 3: sloom44 ($16.75 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10 in chips) 
+Seat 6: 6A6ARH6A6yNH ($12.40 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+CAMMY420: calls $0.10
+xxxbohunxxx: folds 
+sloom44: raises $0.60 to $0.70
+AvGeL: folds 
+H1O2S3H: calls $0.60
+CAMMY420: calls $0.60
+*** FLOP *** [6h 3s Qd]
+H1O2S3H: checks 
+CAMMY420: bets $0.50
+sloom44: raises $2.03 to $2.53
+H1O2S3H: folds 
+CAMMY420: calls $2.03
+*** TURN *** [6h 3s Qd] [5s]
+CAMMY420: bets $0.20
+sloom44: raises $5.47 to $5.67
+CAMMY420: raises $13.12 to $18.79 and is all-in
+sloom44: calls $7.85 and is all-in
+Uncalled bet ($5.27) returned to CAMMY420
+*** RIVER *** [6h 3s Qd 5s] [8c]
+*** SHOW DOWN ***
+CAMMY420: shows [Js Qc] (a pair of Queens)
+sloom44: shows [Qs As] (a pair of Queens - Ace kicker)
+sloom44 collected $32.75 from pot
+*** SUMMARY ***
+Total pot $34.25 | Rake $1.50 
+Board [6h 3s Qd 5s 8c]
+Seat 1: CAMMY420 showed [Js Qc] and lost with a pair of Queens
+Seat 2: xxxbohunxxx folded before Flop (didn't bet)
+Seat 3: sloom44 (button) showed [Qs As] and won ($32.75) with a pair of Queens
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) folded on the Flop
+Seat 6: 6A6ARH6A6yNH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943212664:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:36 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: CAMMY420 ($5.27 in chips) 
+Seat 2: xxxbohunxxx ($10.93 in chips) 
+Seat 3: sloom44 ($32.75 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.30 in chips) 
+H1O2S3H: posts small blind $0.05
+6A6ARH6A6yNH: is sitting out 
+CAMMY420: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+sloom44: folds 
+6A6ARH6A6yNH leaves the table
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.05) returned to CAMMY420
+CAMMY420 collected $0.10 from pot
+CAMMY420: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: CAMMY420 (big blind) collected ($0.10)
+Seat 2: xxxbohunxxx folded before Flop (didn't bet)
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943215250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:44 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: CAMMY420 ($5.32 in chips) 
+Seat 2: xxxbohunxxx ($10.93 in chips) 
+Seat 3: sloom44 ($32.75 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.25 in chips) 
+CAMMY420: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: raises $0.20 to $0.30
+CSC96 joins the table at seat #6 
+AvGeL: folds 
+H1O2S3H: folds 
+CAMMY420: raises $5.02 to $5.32 and is all-in
+xxxbohunxxx: folds 
+sloom44: calls $5.02
+*** FLOP *** [3c 9h 9c]
+*** TURN *** [3c 9h 9c] [7h]
+*** RIVER *** [3c 9h 9c 7h] [Qh]
+*** SHOW DOWN ***
+CAMMY420: shows [Kd Ad] (a pair of Nines)
+sloom44: shows [5h 5c] (two pair, Nines and Fives)
+sloom44 collected $10.26 from pot
+CAMMY420 is disconnected 
+*** SUMMARY ***
+Total pot $10.74 | Rake $0.48 
+Board [3c 9h 9c 7h Qh]
+Seat 1: CAMMY420 (small blind) showed [Kd Ad] and lost with a pair of Nines
+Seat 2: xxxbohunxxx (big blind) folded before Flop
+Seat 3: sloom44 showed [5h 5c] and won ($10.26) with two pair, Nines and Fives
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943223548:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:08 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 2: xxxbohunxxx ($10.83 in chips) 
+Seat 3: sloom44 ($37.69 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.25 in chips) 
+Seat 6: CSC96 ($8.95 in chips) 
+sloom44: posts small blind $0.05
+AvGeL: posts big blind $0.10
+CSC96: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+CSC96: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+sloom44: folds 
+AvGeL: folds 
+Uncalled bet ($0.20) returned to CSC96
+CSC96 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 3: sloom44 (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: CSC96 collected ($0.25)
+
+
+
+PokerStars Hand #222943233815:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:29 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 2: xxxbohunxxx ($10.83 in chips) 
+Seat 3: sloom44 ($37.64 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.25 in chips) 
+Seat 6: CSC96 ($9.10 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+CSC96: folds 
+xxxbohunxxx: folds 
+sloom44: raises $0.30 to $0.40
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.30) returned to sloom44
+sloom44 collected $0.25 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: xxxbohunxxx folded before Flop (didn't bet)
+Seat 3: sloom44 (button) collected ($0.25)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) folded before Flop
+Seat 6: CSC96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943239432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:45 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: xxxbohunxxx ($10.83 in chips) 
+Seat 3: sloom44 ($37.79 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.15 in chips) 
+Seat 6: CSC96 ($9.10 in chips) 
+H1O2S3H: posts small blind $0.05
+CSC96: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+sloom44: raises $0.30 to $0.40
+AvGeL: folds 
+H1O2S3H: folds 
+CSC96: folds 
+Uncalled bet ($0.30) returned to sloom44
+sloom44 collected $0.25 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: xxxbohunxxx folded before Flop (didn't bet)
+Seat 3: sloom44 collected ($0.25)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: CSC96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943245068:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:02 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 2: xxxbohunxxx ($10.83 in chips) 
+Seat 3: sloom44 ($37.94 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.10 in chips) 
+Seat 6: CSC96 ($9 in chips) 
+CSC96: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: folds 
+sloom44 leaves the table
+AvGeL: folds 
+H1O2S3H: raises $0.20 to $0.30
+CSC96: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.20) returned to H1O2S3H
+H1O2S3H collected $0.25 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: xxxbohunxxx (big blind) folded before Flop
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) collected ($0.25)
+Seat 6: CSC96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943252940:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:25 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 2: xxxbohunxxx ($10.73 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($9.25 in chips) 
+Seat 6: CSC96 ($8.95 in chips) 
+xxxbohunxxx: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H has timed out
+H1O2S3H: folds 
+CSC96: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+TrabenTra joins the table at seat #3 
+AvGeL: raises $0.75 to $1.05
+CSC96: folds 
+Uncalled bet ($0.75) returned to AvGeL
+AvGeL collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 2: xxxbohunxxx (small blind) folded before Flop
+Seat 4: AvGeL (big blind) collected ($0.65)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: CSC96 (button) folded before Flop
+
+
+
+PokerStars Hand #222943265194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:01 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 2: xxxbohunxxx ($10.68 in chips) 
+Seat 4: AvGeL ($10.35 in chips) 
+Seat 5: H1O2S3H ($9.25 in chips) 
+Seat 6: CSC96 ($8.65 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+CSC96: folds 
+xxxbohunxxx: raises $0.15 to $0.25
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.15) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: xxxbohunxxx (button) collected ($0.25)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) folded before Flop
+Seat 6: CSC96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943268906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:12 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: xxxbohunxxx ($10.83 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($9.15 in chips) 
+Seat 6: CSC96 ($8.65 in chips) 
+H1O2S3H: posts small blind $0.05
+CSC96: posts big blind $0.10
+TrabenTra: sits out 
+*** HOLE CARDS ***
+xxxbohunxxx: raises $0.20 to $0.30
+AvGeL: folds 
+H1O2S3H: folds 
+CSC96: calls $0.20
+*** FLOP *** [9h 3s 8d]
+CSC96: checks 
+xxxbohunxxx: checks 
+*** TURN *** [9h 3s 8d] [9s]
+CSC96: bets $0.10
+xxxbohunxxx: calls $0.10
+*** RIVER *** [9h 3s 8d 9s] [Td]
+CSC96: checks 
+xxxbohunxxx: checks 
+*** SHOW DOWN ***
+CSC96: shows [Qs 7h] (a pair of Nines)
+xxxbohunxxx: shows [4c 4h] (two pair, Nines and Fours)
+xxxbohunxxx collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [9h 3s 8d 9s Td]
+Seat 2: xxxbohunxxx showed [4c 4h] and won ($0.81) with two pair, Nines and Fours
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: CSC96 (big blind) showed [Qs 7h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #222943283021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:53 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($9.10 in chips) 
+Seat 6: CSC96 ($8.25 in chips) 
+CSC96: posts small blind $0.05
+xxxbohunxxx: is sitting out 
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx leaves the table
+AvGeL: folds 
+ArseRam joins the table at seat #2 
+H1O2S3H: raises $0.20 to $0.30
+CSC96: calls $0.25
+TrabenTra: folds 
+*** FLOP *** [4s 8c As]
+CSC96: checks 
+H1O2S3H: bets $0.40
+CSC96: folds 
+Uncalled bet ($0.40) returned to H1O2S3H
+H1O2S3H collected $0.67 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [4s 8c As]
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) collected ($0.67)
+Seat 6: CSC96 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222943299950:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:25 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($9.47 in chips) 
+Seat 6: CSC96 ($7.95 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+CSC96: folds 
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to AvGeL
+AvGeL collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) collected ($0.10)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: CSC96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943304233:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:38 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 2: ArseRam ($10 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.35 in chips) 
+Seat 5: H1O2S3H ($9.47 in chips) 
+Seat 6: CSC96 ($7.95 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+ArseRam: posts big blind $0.10
+*** HOLE CARDS ***
+CSC96: folds 
+ArseRam: checks 
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: raises $0.30 to $0.40
+ArseRam: calls $0.30
+*** FLOP *** [7s 2h Ac]
+H1O2S3H: bets $0.54
+ArseRam: calls $0.54
+*** TURN *** [7s 2h Ac] [Js]
+H1O2S3H: bets $1.23
+ArseRam: folds 
+Uncalled bet ($1.23) returned to H1O2S3H
+H1O2S3H collected $1.84 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.09 
+Board [7s 2h Ac Js]
+Seat 2: ArseRam folded on the Turn
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) collected ($1.84)
+Seat 6: CSC96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943321129:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:28 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: ArseRam ($9.06 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($10.37 in chips) 
+Seat 6: CSC96 ($7.95 in chips) 
+H1O2S3H: posts small blind $0.05
+CSC96: posts big blind $0.10
+*** HOLE CARDS ***
+ArseRam: folds 
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.05) returned to CSC96
+CSC96 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: CSC96 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943326169:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:44 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 2: ArseRam ($9.06 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+Seat 6: CSC96 ($8 in chips) 
+CSC96: posts small blind $0.05
+ArseRam: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.30 to $0.40
+AvGeL: folds 
+H1O2S3H: folds 
+CSC96: raises $0.90 to $1.30
+ArseRam: folds 
+TrabenTra: folds 
+Uncalled bet ($0.90) returned to CSC96
+CSC96 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 2: ArseRam (big blind) folded before Flop
+Seat 3: TrabenTra folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) folded before Flop (didn't bet)
+Seat 6: CSC96 (small blind) collected ($0.90)
+
+
+
+PokerStars Hand #222943338174:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:20 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 2: ArseRam ($8.96 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+Seat 6: CSC96 ($8.50 in chips) 
+ArseRam: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+H1O2S3H: folds 
+CSC96: raises $0.30 to $0.40
+ArseRam: calls $0.35
+TrabenTra: folds 
+*** FLOP *** [Qd Kd Qc]
+ArseRam: checks 
+CSC96: checks 
+*** TURN *** [Qd Kd Qc] [As]
+ArseRam: checks 
+CSC96: bets $0.30
+ArseRam: folds 
+Uncalled bet ($0.30) returned to CSC96
+CSC96 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Qd Kd Qc As]
+Seat 2: ArseRam (small blind) folded on the Turn
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: CSC96 (button) collected ($0.86)
+
+
+
+PokerStars Hand #222943356996:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:54 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 2: ArseRam ($8.56 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.30 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+Seat 6: CSC96 ($8.96 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+CSC96: folds 
+ArseRam: raises $0.40 to $0.50
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.40) returned to ArseRam
+ArseRam collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: ArseRam (button) collected ($0.25)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: CSC96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943360665:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:05 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 2: ArseRam ($8.71 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.20 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+Seat 6: CSC96 ($8.96 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+CSC96: folds 
+ArseRam: folds 
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.05) returned to H1O2S3H
+H1O2S3H collected $0.10 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) collected ($0.10)
+Seat 6: CSC96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943365878:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:21 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: ArseRam ($8.71 in chips) 
+Seat 3: TrabenTra ($10 in chips) 
+Seat 4: AvGeL ($10.15 in chips) 
+Seat 5: H1O2S3H ($10.37 in chips) 
+Seat 6: CSC96 ($8.96 in chips) 
+H1O2S3H: posts small blind $0.05
+CSC96: posts big blind $0.10
+*** HOLE CARDS ***
+ArseRam: folds 
+TrabenTra: raises $0.20 to $0.30
+AvGeL: folds 
+H1O2S3H: folds 
+CSC96: calls $0.20
+*** FLOP *** [9h 3s Qd]
+CSC96: checks 
+TrabenTra: bets $0.20
+CSC96: raises $0.51 to $0.71
+TrabenTra: calls $0.51
+*** TURN *** [9h 3s Qd] [9d]
+CSC96: checks 
+TrabenTra: checks 
+*** RIVER *** [9h 3s Qd 9d] [8h]
+CSC96: bets $0.70
+TrabenTra: raises $3.20 to $3.90
+CSC96: calls $3.20
+*** SHOW DOWN ***
+TrabenTra: shows [Jc Tc] (a straight, Eight to Queen)
+CSC96: mucks hand 
+TrabenTra collected $9.43 from pot
+*** SUMMARY ***
+Total pot $9.87 | Rake $0.44 
+Board [9h 3s Qd 9d 8h]
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra showed [Jc Tc] and won ($9.43) with a straight, Eight to Queen
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: CSC96 (big blind) mucked
+
+
+
+PokerStars Hand #222943391426:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:37 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 2: ArseRam ($8.71 in chips) 
+Seat 3: TrabenTra ($14.52 in chips) 
+Seat 4: AvGeL ($10.15 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+Seat 6: CSC96 ($4.05 in chips) 
+CSC96: posts small blind $0.05
+ArseRam: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: raises $0.15 to $0.25
+H1O2S3H: folds 
+CSC96: folds 
+ArseRam: raises $0.55 to $0.80
+AvGeL: folds 
+Uncalled bet ($0.55) returned to ArseRam
+CSC96 leaves the table
+ArseRam collected $0.55 from pot
+CAMMY420 was removed from the table for failing to post
+CAMMY420 leaves the table
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 2: ArseRam (big blind) collected ($0.55)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop
+Seat 5: H1O2S3H (button) folded before Flop (didn't bet)
+Seat 6: CSC96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943400656:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:05 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 2: ArseRam ($9.01 in chips) 
+Seat 3: TrabenTra ($14.52 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+ArseRam: raises $0.40 to $0.50
+Hamasaki XX joins the table at seat #6 
+TrabenTra: folds 
+AvGeL: calls $0.40
+*** FLOP *** [7d 9c 2c]
+AvGeL: checks 
+KingPotNoodle joins the table at seat #1 
+ArseRam: bets $0.60
+AvGeL: folds 
+Uncalled bet ($0.60) returned to ArseRam
+ArseRam collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [7d 9c 2c]
+Seat 2: ArseRam (button) collected ($1)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded on the Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943410679:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:34 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 2: ArseRam ($9.51 in chips) 
+Seat 3: TrabenTra ($14.47 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.32 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+Hamasaki XX: sits out 
+KingPotNoodle: sits out 
+*** HOLE CARDS ***
+ArseRam: raises $0.30 to $0.40
+TrabenTra: calls $0.40
+AvGeL: folds 
+H1O2S3H: calls $0.30
+*** FLOP *** [2s Jh As]
+H1O2S3H: checks 
+ArseRam: checks 
+TrabenTra: checks 
+*** TURN *** [2s Jh As] [Jc]
+H1O2S3H: checks 
+ArseRam: checks 
+TrabenTra: checks 
+*** RIVER *** [2s Jh As Jc] [Qd]
+H1O2S3H: checks 
+ArseRam: checks 
+TrabenTra: bets $0.83
+H1O2S3H: calls $0.83
+ArseRam: folds 
+*** SHOW DOWN ***
+TrabenTra: shows [5s 5d] (two pair, Jacks and Fives)
+H1O2S3H: shows [Qs 9s] (two pair, Queens and Jacks)
+H1O2S3H collected $2.78 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.13 
+Board [2s Jh As Jc Qd]
+Seat 2: ArseRam folded on the River
+Seat 3: TrabenTra (button) showed [5s 5d] and lost with two pair, Jacks and Fives
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) showed [Qs 9s] and won ($2.78) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222943433801:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:55 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: ArseRam ($9.11 in chips) 
+Seat 3: TrabenTra ($13.24 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.87 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+H1O2S3H: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+KingPotNoodle: sits out 
+*** HOLE CARDS ***
+ArseRam: folds 
+TrabenTra: raises $0.20 to $0.30
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: folds 
+Uncalled bet ($0.20) returned to TrabenTra
+TrabenTra collected $0.25 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra collected ($0.25)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943437923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:12 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($9.11 in chips) 
+Seat 3: TrabenTra ($13.39 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.82 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+Hamasaki XX: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ArseRam: calls $0.10
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: raises $0.20 to $0.30
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+ArseRam: calls $0.20
+*** FLOP *** [3d 2d Ks]
+ArseRam: checks 
+H1O2S3H: bets $0.48
+ArseRam: folds 
+Uncalled bet ($0.48) returned to H1O2S3H
+H1O2S3H collected $0.72 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [3d 2d Ks]
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 2: ArseRam folded on the Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) collected ($0.72)
+Seat 6: Hamasaki XX (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943448585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:53 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($8.81 in chips) 
+Seat 3: TrabenTra ($13.39 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($12.24 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ArseRam: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: raises $0.20 to $0.30
+H1O2S3H: folds 
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+ArseRam: folds 
+Uncalled bet ($0.20) returned to AvGeL
+AvGeL collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: ArseRam (big blind) folded before Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL collected ($0.25)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943455513:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:20 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($8.71 in chips) 
+Seat 3: TrabenTra ($13.39 in chips) 
+Seat 4: AvGeL ($10.15 in chips) 
+Seat 5: H1O2S3H ($12.24 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+ArseRam: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+H1O2S3H: raises $0.20 to $0.30
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+ArseRam: calls $0.25
+TrabenTra: folds 
+*** FLOP *** [3h Kd 5d]
+ArseRam: checks 
+H1O2S3H: bets $0.22
+ArseRam: raises $0.78 to $1
+H1O2S3H: folds 
+Uncalled bet ($0.78) returned to ArseRam
+ArseRam collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [3h Kd 5d]
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: ArseRam (small blind) collected ($1.09)
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded on the Flop
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943467285:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:06 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($9.28 in chips) 
+Seat 3: TrabenTra ($13.29 in chips) 
+Seat 4: AvGeL ($10.15 in chips) 
+Seat 5: H1O2S3H ($11.72 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+ArseRam: raises $0.10 to $0.20
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.10) returned to ArseRam
+ArseRam collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: ArseRam (button) collected ($0.25)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943471145:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:21 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($9.43 in chips) 
+Seat 3: TrabenTra ($13.24 in chips) 
+Seat 4: AvGeL ($10.05 in chips) 
+Seat 5: H1O2S3H ($11.72 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: raises $0.15 to $0.25
+KingPotNoodle: folds 
+ArseRam: folds 
+TrabenTra: calls $0.25
+AvGeL: folds 
+H1O2S3H: folds 
+*** FLOP *** [8d 3h Qh]
+Hamasaki XX: checks 
+TrabenTra: checks 
+*** TURN *** [8d 3h Qh] [Ts]
+Hamasaki XX: checks 
+TrabenTra: checks 
+*** RIVER *** [8d 3h Qh Ts] [6d]
+Hamasaki XX: bets $0.43
+TrabenTra: calls $0.43
+*** SHOW DOWN ***
+Hamasaki XX: shows [4s 5s] (high card Queen)
+TrabenTra: shows [6c Ac] (a pair of Sixes)
+TrabenTra collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.07 
+Board [8d 3h Qh Ts 6d]
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) showed [6c Ac] and won ($1.44) with a pair of Sixes
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) folded before Flop
+Seat 6: Hamasaki XX showed [4s 5s] and lost with high card Queen
+
+
+
+PokerStars Hand #222943485997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:20 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($9.43 in chips) 
+Seat 3: TrabenTra ($14 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.62 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+H1O2S3H: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ArseRam: raises $0.10 to $0.20
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: raises $0.40 to $0.60
+Hamasaki XX: folds 
+ArseRam: raises $0.40 to $1
+H1O2S3H: folds 
+Uncalled bet ($0.40) returned to ArseRam
+ArseRam collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: ArseRam collected ($1.30)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943494793:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:54 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($10.13 in chips) 
+Seat 3: TrabenTra ($14 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.02 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+Hamasaki XX: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ArseRam: raises $0.30 to $0.40
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.30) returned to ArseRam
+ArseRam collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (big blind) folded before Flop
+Seat 2: ArseRam collected ($0.25)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943498829:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:09 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($10.28 in chips) 
+Seat 3: TrabenTra ($14 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.02 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ArseRam: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.30 to $0.40
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+ArseRam: raises $0.60 to $1
+TrabenTra: raises $2.05 to $3.05
+ArseRam: calls $2.05
+*** FLOP *** [3h 6s 6c]
+ArseRam: checks 
+TrabenTra: checks 
+*** TURN *** [3h 6s 6c] [2c]
+ArseRam: checks 
+TrabenTra: checks 
+*** RIVER *** [3h 6s 6c 2c] [8d]
+ArseRam: bets $2
+TrabenTra: calls $2
+*** SHOW DOWN ***
+ArseRam: shows [7c 9c] (a pair of Sixes)
+TrabenTra: shows [Ks Ac] (a pair of Sixes - Ace kicker)
+TrabenTra collected $9.69 from pot
+*** SUMMARY ***
+Total pot $10.15 | Rake $0.46 
+Board [3h 6s 6c 2c 8d]
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: ArseRam (big blind) showed [7c 9c] and lost with a pair of Sixes
+Seat 3: TrabenTra showed [Ks Ac] and won ($9.69) with a pair of Sixes
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943526599:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:38 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10 in chips) 
+Seat 2: ArseRam ($5.23 in chips) 
+Seat 3: TrabenTra ($18.64 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.02 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+ArseRam: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ArseRam: calls $0.25
+TrabenTra: calls $0.20
+*** FLOP *** [5c Ad 9d]
+ArseRam: checks 
+TrabenTra: checks 
+KingPotNoodle: checks 
+*** TURN *** [5c Ad 9d] [As]
+ArseRam: checks 
+TrabenTra: checks 
+KingPotNoodle: bets $0.43
+ArseRam: folds 
+TrabenTra: folds 
+Uncalled bet ($0.43) returned to KingPotNoodle
+KingPotNoodle collected $0.86 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [5c Ad 9d As]
+Seat 1: KingPotNoodle (button) collected ($0.86)
+Seat 2: ArseRam (small blind) folded on the Turn
+Seat 3: TrabenTra (big blind) folded on the Turn
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943544517:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:34 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: KingPotNoodle ($10.56 in chips) 
+Seat 2: ArseRam ($4.93 in chips) 
+Seat 3: TrabenTra ($18.34 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.02 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+Hamasaki XX: raises $0.15 to $0.25
+KingPotNoodle: calls $0.25
+ArseRam: raises $0.15 to $0.40
+TrabenTra: folds 
+AvGeL: folds 
+Hamasaki XX: calls $0.15
+KingPotNoodle: calls $0.15
+*** FLOP *** [Ac Kh Jh]
+Hamasaki XX: checks 
+KingPotNoodle: checks 
+ArseRam: bets $0.80
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.80) returned to ArseRam
+ArseRam collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [Ac Kh Jh]
+Seat 1: KingPotNoodle folded on the Flop
+Seat 2: ArseRam (button) collected ($1.29)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded on the Flop
+
+
+
+PokerStars Hand #222943565082:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:38 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.16 in chips) 
+Seat 2: ArseRam ($5.82 in chips) 
+Seat 3: TrabenTra ($18.29 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.02 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+KingPotNoodle: raises $0.30 to $0.40
+ArseRam: folds 
+TrabenTra: calls $0.40
+AvGeL: folds 
+H1O2S3H: folds 
+*** FLOP *** [Td 3s 2c]
+KingPotNoodle: bets $0.46
+TrabenTra: folds 
+Uncalled bet ($0.46) returned to KingPotNoodle
+KingPotNoodle collected $0.91 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Td 3s 2c]
+Seat 1: KingPotNoodle collected ($0.91)
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded on the Flop
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) folded before Flop
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943573162:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:02 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.67 in chips) 
+Seat 2: ArseRam ($5.82 in chips) 
+Seat 3: TrabenTra ($17.89 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.92 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+H1O2S3H: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ArseRam: folds 
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KingPotNoodle folded before Flop (didn't bet)
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943576579:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:13 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: KingPotNoodle ($10.67 in chips) 
+Seat 2: ArseRam ($5.82 in chips) 
+Seat 3: TrabenTra ($17.89 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.87 in chips) 
+Seat 6: Hamasaki XX ($10.05 in chips) 
+Hamasaki XX: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ArseRam: folds 
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: raises $0.20 to $0.30
+Hamasaki XX: folds 
+KingPotNoodle: calls $0.20
+*** FLOP *** [6s Tc 6h]
+KingPotNoodle: checks 
+H1O2S3H: bets $0.20
+KingPotNoodle: folds 
+Uncalled bet ($0.20) returned to H1O2S3H
+H1O2S3H collected $0.62 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [6s Tc 6h]
+Seat 1: KingPotNoodle (big blind) folded on the Flop
+Seat 2: ArseRam folded before Flop (didn't bet)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) collected ($0.62)
+Seat 6: Hamasaki XX (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943585691:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:41 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: KingPotNoodle ($10.37 in chips) 
+Seat 2: ArseRam ($5.82 in chips) 
+Seat 3: TrabenTra ($17.89 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($11.19 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ArseRam: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: raises $0.20 to $0.30
+Hamasaki XX: folds 
+KingPotNoodle: folds 
+ArseRam: raises $0.20 to $0.50
+H1O2S3H: calls $0.20
+*** FLOP *** [8h 2c Kh]
+ArseRam: checks 
+H1O2S3H: checks 
+*** TURN *** [8h 2c Kh] [5h]
+ArseRam: bets $0.10
+H1O2S3H: calls $0.10
+*** RIVER *** [8h 2c Kh 5h] [5c]
+ArseRam: bets $0.60
+H1O2S3H: folds 
+Uncalled bet ($0.60) returned to ArseRam
+ArseRam collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [8h 2c Kh 5h 5c]
+Seat 1: KingPotNoodle (small blind) folded before Flop
+Seat 2: ArseRam (big blind) collected ($1.19)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded on the River
+Seat 6: Hamasaki XX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943607639:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:39 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: KingPotNoodle ($10.32 in chips) 
+Seat 2: ArseRam ($6.41 in chips) 
+Seat 3: TrabenTra ($17.89 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.59 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+ArseRam: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: raises $0.15 to $0.25
+KingPotNoodle: folds 
+ArseRam: folds 
+TrabenTra: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+ArseRam leaves the table
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 2: ArseRam (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX collected ($0.25)
+
+
+
+PokerStars Hand #222943612283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:53 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: KingPotNoodle ($10.32 in chips) 
+Seat 3: TrabenTra ($17.79 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.59 in chips) 
+Seat 6: Hamasaki XX ($10.15 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+KingPotNoodle: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: H1O2S3H (big blind) folded before Flop
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943616280:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:06 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: KingPotNoodle ($10.47 in chips) 
+Seat 3: TrabenTra ($17.79 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.49 in chips) 
+Seat 6: Hamasaki XX ($10.15 in chips) 
+H1O2S3H: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: KingPotNoodle collected ($0.25)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943621509:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:22 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($17.79 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.44 in chips) 
+Seat 6: Hamasaki XX ($10.05 in chips) 
+Hamasaki XX: posts small blind $0.05
+KingPotNoodle: is sitting out 
+KingPotNoodle leaves the table
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+H1O2S3H: raises $0.20 to $0.30
+Hamasaki XX: folds 
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to H1O2S3H
+H1O2S3H collected $0.25 from pot
+H1O2S3H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) collected ($0.25)
+Seat 6: Hamasaki XX (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943624814:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:32 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 3: TrabenTra ($17.69 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.59 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+schoki77 joins the table at seat #1 
+nahorgizmo joins the table at seat #2 
+Hamasaki XX: raises $0.15 to $0.25
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+nahorgizmo leaves the table
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943629137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:46 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($17.64 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: H1O2S3H ($10.59 in chips) 
+Seat 6: Hamasaki XX ($10.15 in chips) 
+AvGeL: posts small blind $0.05
+H1O2S3H: posts big blind $0.10
+schoki77: sits out 
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+TrabenTra: folds 
+AvGeL: raises $0.20 to $0.30
+H1O2S3H: folds 
+Uncalled bet ($0.20) returned to AvGeL
+AvGeL collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) collected ($0.20)
+Seat 5: H1O2S3H (big blind) folded before Flop
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943632257:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:55 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 3: TrabenTra ($17.64 in chips) 
+Seat 4: AvGeL ($10.10 in chips) 
+Seat 5: H1O2S3H ($10.49 in chips) 
+Seat 6: Hamasaki XX ($10.15 in chips) 
+H1O2S3H: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+schoki77: sits out 
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: H1O2S3H (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943635062:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:04 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: schoki77 ($5.60 in chips) 
+Seat 3: TrabenTra ($17.64 in chips) 
+Seat 4: AvGeL ($10.10 in chips) 
+Seat 5: H1O2S3H ($10.44 in chips) 
+Seat 6: Hamasaki XX ($10.20 in chips) 
+Hamasaki XX: posts small blind $0.05
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: raises $0.20 to $0.30
+schoki77: folds 
+Uncalled bet ($0.20) returned to Hamasaki XX
+Hamasaki XX collected $0.20 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: schoki77 (big blind) folded before Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H (button) folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943641535:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:24 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: schoki77 ($5.50 in chips) 
+Seat 3: TrabenTra ($17.64 in chips) 
+Seat 4: AvGeL ($10.10 in chips) 
+Seat 5: H1O2S3H ($10.44 in chips) 
+Seat 6: Hamasaki XX ($10.30 in chips) 
+schoki77: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+H1O2S3H: folds 
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: calls $0.20
+TrabenTra: folds 
+*** FLOP *** [9d As Qd]
+schoki77: checks 
+Hamasaki XX: bets $0.40
+schoki77: calls $0.40
+*** TURN *** [9d As Qd] [5h]
+schoki77: checks 
+Hamasaki XX: bets $0.94
+schoki77: raises $3.91 to $4.85 and is all-in
+Hamasaki XX: folds 
+Uncalled bet ($3.91) returned to schoki77
+schoki77 collected $3.13 from pot
+schoki77: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.15 
+Board [9d As Qd 5h]
+Seat 1: schoki77 (small blind) collected ($3.13)
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) folded on the Turn
+
+
+
+PokerStars Hand #222943659211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:19 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($7.04 in chips) 
+Seat 3: TrabenTra ($17.54 in chips) 
+Seat 4: AvGeL ($10.10 in chips) 
+Seat 5: H1O2S3H ($10.44 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+H1O2S3H: folds 
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: folds 
+H1O2S3H leaves the table
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: H1O2S3H folded before Flop (didn't bet)
+Seat 6: Hamasaki XX collected ($0.25)
+
+
+
+PokerStars Hand #222943663596:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:32 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($7.04 in chips) 
+Seat 3: TrabenTra ($17.49 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.15 in chips) 
+AvGeL: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+schoki77: folds 
+TrabenTra: raises $0.15 to $0.25
+AvGeL: folds 
+Hamasaki XX: folds 
+Uncalled bet ($0.15) returned to TrabenTra
+TrabenTra collected $0.25 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) collected ($0.25)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943669588:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:51 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($7.04 in chips) 
+Seat 3: TrabenTra ($17.64 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.05 in chips) 
+Hamasaki XX: posts small blind $0.05
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: raises $0.10 to $0.20
+Hamasaki XX: raises $0.50 to $0.70
+schoki77: folds 
+AvGeL: folds 
+Uncalled bet ($0.50) returned to Hamasaki XX
+Hamasaki XX collected $0.50 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: schoki77 (big blind) folded before Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop
+Seat 6: Hamasaki XX (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #222943675991:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:11 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: schoki77 ($6.94 in chips) 
+Seat 3: TrabenTra ($17.64 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.35 in chips) 
+schoki77: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: folds 
+TrabenTra: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) collected ($0.25)
+
+
+
+PokerStars Hand #222944274312:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:39:35 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: hana666yuki ($10 in chips) 
+Seat 2: EasySteavy ($10.15 in chips) 
+Seat 3: TrabenTra ($20.97 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.81 in chips) 
+Seat 6: PinkFloydAA ($4.04 in chips) 
+PinkFloydAA: posts small blind $0.05
+hana666yuki: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+PinkFloydAA: folds 
+hana666yuki: folds 
+Uncalled bet ($0.20) returned to EasySteavy
+EasySteavy collected $0.25 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hana666yuki (big blind) folded before Flop
+Seat 2: EasySteavy collected ($0.25)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 6: PinkFloydAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944279286:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:39:52 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: hana666yuki ($9.90 in chips) 
+Seat 2: EasySteavy ($10.30 in chips) 
+Seat 3: TrabenTra ($20.97 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.81 in chips) 
+Seat 6: PinkFloydAA ($3.99 in chips) 
+hana666yuki: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.30 to $0.40
+AvGeL: folds 
+ildar87kzn: folds 
+PinkFloydAA: folds 
+hana666yuki: folds 
+EasySteavy: folds 
+Uncalled bet ($0.30) returned to TrabenTra
+TrabenTra collected $0.25 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hana666yuki (small blind) folded before Flop
+Seat 2: EasySteavy (big blind) folded before Flop
+Seat 3: TrabenTra collected ($0.25)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: PinkFloydAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944285718:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:40:13 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: hana666yuki ($9.85 in chips) 
+Seat 2: EasySteavy ($10.20 in chips) 
+Seat 3: TrabenTra ($21.12 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.81 in chips) 
+Seat 6: PinkFloydAA ($3.99 in chips) 
+EasySteavy: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+ildar87kzn: folds 
+PinkFloydAA: calls $0.10
+hana666yuki: calls $0.10
+EasySteavy: calls $0.05
+TrabenTra: checks 
+*** FLOP *** [Kh Qh 7s]
+EasySteavy: bets $0.19
+TrabenTra: folds 
+PinkFloydAA: calls $0.19
+hana666yuki: folds 
+*** TURN *** [Kh Qh 7s] [Tc]
+EasySteavy: checks 
+PinkFloydAA: checks 
+*** RIVER *** [Kh Qh 7s Tc] [3s]
+EasySteavy: bets $0.47
+PinkFloydAA: folds 
+Uncalled bet ($0.47) returned to EasySteavy
+EasySteavy collected $0.74 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [Kh Qh 7s Tc 3s]
+Seat 1: hana666yuki (button) folded on the Flop
+Seat 2: EasySteavy (small blind) collected ($0.74)
+Seat 3: TrabenTra (big blind) folded on the Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: PinkFloydAA folded on the River
+
+
+
+PokerStars Hand #222944307804:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:05 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: hana666yuki ($9.75 in chips) 
+Seat 2: EasySteavy ($10.65 in chips) 
+Seat 3: TrabenTra ($21.02 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.81 in chips) 
+Seat 6: PinkFloydAA ($3.70 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+PinkFloydAA: calls $0.10
+hana666yuki: folds 
+EasySteavy: raises $0.35 to $0.45
+TrabenTra: folds 
+AvGeL: folds 
+PinkFloydAA: folds 
+Uncalled bet ($0.35) returned to EasySteavy
+EasySteavy collected $0.35 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: hana666yuki folded before Flop (didn't bet)
+Seat 2: EasySteavy (button) collected ($0.35)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: PinkFloydAA folded before Flop
+
+
+
+PokerStars Hand #222944318713:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:41 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: hana666yuki ($9.75 in chips) 
+Seat 2: EasySteavy ($10.90 in chips) 
+Seat 3: TrabenTra ($20.97 in chips) 
+Seat 4: AvGeL ($27.10 in chips) 
+Seat 5: ildar87kzn ($10.81 in chips) 
+Seat 6: PinkFloydAA ($3.60 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+PinkFloydAA: folds 
+hana666yuki: raises $0.20 to $0.30
+EasySteavy: folds 
+TrabenTra: calls $0.30
+AvGeL: folds 
+ildar87kzn: folds 
+*** FLOP *** [6c 7h 6s]
+hana666yuki: checks 
+TrabenTra: bets $0.40
+hana666yuki: calls $0.40
+*** TURN *** [6c 7h 6s] [7s]
+hana666yuki: checks 
+TrabenTra: checks 
+*** RIVER *** [6c 7h 6s 7s] [Jd]
+hana666yuki: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+hana666yuki: shows [9c Ac] (two pair, Sevens and Sixes)
+TrabenTra: mucks hand 
+hana666yuki collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [6c 7h 6s 7s Jd]
+Seat 1: hana666yuki showed [9c Ac] and won ($1.48) with two pair, Sevens and Sixes
+Seat 2: EasySteavy folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) mucked
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) folded before Flop
+Seat 6: PinkFloydAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944331492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:42:24 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: hana666yuki ($10.53 in chips) 
+Seat 2: EasySteavy ($10.90 in chips) 
+Seat 3: TrabenTra ($20.27 in chips) 
+Seat 4: AvGeL ($27.05 in chips) 
+Seat 5: ildar87kzn ($10.71 in chips) 
+Seat 6: PinkFloydAA ($3.60 in chips) 
+ildar87kzn: posts small blind $0.05
+PinkFloydAA: posts big blind $0.10
+*** HOLE CARDS ***
+hana666yuki: folds 
+EasySteavy: folds 
+TrabenTra: folds 
+AvGeL: raises $0.10 to $0.20
+ildar87kzn: folds 
+PinkFloydAA: folds 
+Uncalled bet ($0.10) returned to AvGeL
+AvGeL collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hana666yuki folded before Flop (didn't bet)
+Seat 2: EasySteavy folded before Flop (didn't bet)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) collected ($0.25)
+Seat 5: ildar87kzn (small blind) folded before Flop
+Seat 6: PinkFloydAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944336454:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:42:40 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: hana666yuki ($10.53 in chips) 
+Seat 2: EasySteavy ($10.90 in chips) 
+Seat 3: TrabenTra ($20.27 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.66 in chips) 
+Seat 6: PinkFloydAA ($3.50 in chips) 
+PinkFloydAA: posts small blind $0.05
+hana666yuki: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+PinkFloydAA: folds 
+hana666yuki: folds 
+Uncalled bet ($0.20) returned to EasySteavy
+EasySteavy collected $0.25 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hana666yuki (big blind) folded before Flop
+Seat 2: EasySteavy collected ($0.25)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 6: PinkFloydAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944341043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:42:56 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: hana666yuki ($10.43 in chips) 
+Seat 3: TrabenTra ($20.27 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.66 in chips) 
+Seat 6: PinkFloydAA ($3.45 in chips) 
+hana666yuki: posts small blind $0.05
+EasySteavy: is sitting out 
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+ildar87kzn: folds 
+PinkFloydAA: folds 
+hana666yuki: calls $0.05
+TrabenTra: checks 
+*** FLOP *** [Td 9s 6d]
+EasySteavy leaves the table
+hana666yuki: bets $0.19
+TrabenTra: folds 
+Uncalled bet ($0.19) returned to hana666yuki
+hana666yuki collected $0.19 from pot
+hana666yuki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Td 9s 6d]
+Seat 1: hana666yuki (small blind) collected ($0.19)
+Seat 3: TrabenTra (big blind) folded on the Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: PinkFloydAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944348400:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:43:20 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: hana666yuki ($10.52 in chips) 
+Seat 3: TrabenTra ($20.17 in chips) 
+Seat 4: AvGeL ($27.20 in chips) 
+Seat 5: ildar87kzn ($10.66 in chips) 
+Seat 6: PinkFloydAA ($3.45 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.20 to $0.30
+PinkFloydAA: folds 
+hana666yuki: folds 
+TrabenTra: folds 
+AvGeL: calls $0.20
+*** FLOP *** [7s Td 2h]
+AvGeL: checks 
+xucuo joins the table at seat #2 
+ildar87kzn: bets $0.40
+AvGeL: calls $0.40
+*** TURN *** [7s Td 2h] [Qs]
+AvGeL: checks 
+ildar87kzn: checks 
+*** RIVER *** [7s Td 2h Qs] [6d]
+AvGeL: checks 
+ildar87kzn: bets $1.38
+AvGeL: folds 
+Uncalled bet ($1.38) returned to ildar87kzn
+ildar87kzn collected $1.38 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [7s Td 2h Qs 6d]
+Seat 1: hana666yuki (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded on the River
+Seat 5: ildar87kzn collected ($1.38)
+Seat 6: PinkFloydAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944362844:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:09 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: hana666yuki ($10.52 in chips) 
+Seat 3: TrabenTra ($20.12 in chips) 
+Seat 4: AvGeL ($26.50 in chips) 
+Seat 5: ildar87kzn ($11.34 in chips) 
+Seat 6: PinkFloydAA ($3.45 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+xucuo: sits out 
+*** HOLE CARDS ***
+PinkFloydAA: folds 
+hana666yuki: folds 
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.05) returned to ildar87kzn
+ildar87kzn collected $0.10 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: hana666yuki folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) collected ($0.10)
+Seat 6: PinkFloydAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944365558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:18 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: hana666yuki ($10.52 in chips) 
+Seat 3: TrabenTra ($20.12 in chips) 
+Seat 4: AvGeL ($26.45 in chips) 
+Seat 5: ildar87kzn ($11.39 in chips) 
+Seat 6: PinkFloydAA ($3.45 in chips) 
+ildar87kzn: posts small blind $0.05
+PinkFloydAA: posts big blind $0.10
+xucuo: sits out 
+*** HOLE CARDS ***
+hana666yuki: folds 
+TrabenTra: folds 
+AvGeL: raises $0.10 to $0.20
+ildar87kzn: raises $1 to $1.20
+PinkFloydAA is disconnected 
+PinkFloydAA has timed out while disconnected
+PinkFloydAA: folds 
+AvGeL: folds 
+Uncalled bet ($1) returned to ildar87kzn
+ildar87kzn collected $0.50 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: hana666yuki folded before Flop (didn't bet)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop
+Seat 5: ildar87kzn (small blind) collected ($0.50)
+Seat 6: PinkFloydAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944383273:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:17 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: hana666yuki ($10.52 in chips) 
+Seat 2: xucuo ($10 in chips) 
+Seat 3: TrabenTra ($20.12 in chips) 
+Seat 4: AvGeL ($26.25 in chips) 
+Seat 5: ildar87kzn ($11.69 in chips) 
+hana666yuki: posts small blind $0.05
+xucuo: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL has timed out
+AvGeL: folds 
+ildar87kzn: raises $0.20 to $0.30
+hana666yuki: folds 
+xucuo: folds 
+Uncalled bet ($0.20) returned to ildar87kzn
+xucuo leaves the table
+ildar87kzn collected $0.25 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hana666yuki (small blind) folded before Flop
+Seat 2: xucuo (big blind) folded before Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn (button) collected ($0.25)
+
+
+
+PokerStars Hand #222944393374:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:51 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: hana666yuki ($10.47 in chips) 
+Seat 3: TrabenTra ($20.12 in chips) 
+Seat 4: AvGeL ($26.25 in chips) 
+Seat 5: ildar87kzn ($11.84 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+hana666yuki: folds 
+TrabenTra: raises $0.20 to $0.30
+AvGeL: folds 
+Uncalled bet ($0.20) returned to TrabenTra
+TrabenTra collected $0.20 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: hana666yuki (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) collected ($0.20)
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944397673:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:46:06 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: hana666yuki ($10.47 in chips) 
+Seat 3: TrabenTra ($20.22 in chips) 
+Seat 4: AvGeL ($26.15 in chips) 
+AvGeL: posts small blind $0.05
+hana666yuki: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn leaves the table
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.05) returned to hana666yuki
+hana666yuki collected $0.10 from pot
+hana666yuki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: hana666yuki (big blind) collected ($0.10)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944401158:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:46:18 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: hana666yuki ($10.52 in chips) 
+Seat 3: TrabenTra ($20.22 in chips) 
+Seat 4: AvGeL ($26.10 in chips) 
+hana666yuki: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: raises $0.10 to $0.20
+hana666yuki: folds 
+TrabenTra: folds 
+Uncalled bet ($0.10) returned to AvGeL
+AvGeL collected $0.25 from pot
+hana666yuki leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hana666yuki (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL (button) collected ($0.25)
+
+
+
+PokerStars Hand #222944415549:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:47:06 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 3: TrabenTra ($20.12 in chips) 
+Seat 6: PinkFloydAA ($3.35 in chips) 
+PinkFloydAA: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+PinkFloydAA: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 6: PinkFloydAA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944417488:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:47:13 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($20.17 in chips) 
+Seat 6: PinkFloydAA ($3.30 in chips) 
+TrabenTra: posts small blind $0.05
+PinkFloydAA: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20 joins the table at seat #5 
+TrabenTra: raises $0.15 to $0.25
+PinkFloydAA: calls $0.15
+*** FLOP *** [4d 7d Tc]
+PinkFloydAA: checks 
+TrabenTra: bets $0.20
+PinkFloydAA: calls $0.20
+*** TURN *** [4d 7d Tc] [7c]
+PinkFloydAA: checks 
+TrabenTra: bets $0.30
+PinkFloydAA: calls $0.30
+*** RIVER *** [4d 7d Tc 7c] [3h]
+PinkFloydAA: bets $0.71
+TrabenTra: folds 
+Uncalled bet ($0.71) returned to PinkFloydAA
+PinkFloydAA collected $1.43 from pot
+PinkFloydAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [4d 7d Tc 7c 3h]
+Seat 3: TrabenTra (button) (small blind) folded on the River
+Seat 6: PinkFloydAA (big blind) collected ($1.43)
+
+
+
+PokerStars Hand #222944429212:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:47:52 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 3: TrabenTra ($19.42 in chips) 
+Seat 5: abrm20 ($10 in chips) 
+Seat 6: PinkFloydAA ($3.98 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+PinkFloydAA: calls $0.10
+TrabenTra: folds 
+abrm20: checks 
+*** FLOP *** [Jh 5d Qc]
+abrm20: checks 
+PinkFloydAA: checks 
+*** TURN *** [Jh 5d Qc] [9s]
+abrm20: checks 
+PinkFloydAA: checks 
+*** RIVER *** [Jh 5d Qc 9s] [7s]
+abrm20: checks 
+PinkFloydAA: checks 
+*** SHOW DOWN ***
+abrm20: shows [4h 9c] (a pair of Nines)
+PinkFloydAA: mucks hand 
+abrm20 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jh 5d Qc 9s 7s]
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 5: abrm20 (big blind) showed [4h 9c] and won ($0.24) with a pair of Nines
+Seat 6: PinkFloydAA (button) mucked
+
+
+
+PokerStars Hand #222944434702:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:48:11 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($19.37 in chips) 
+Seat 5: abrm20 ($10.14 in chips) 
+Seat 6: PinkFloydAA ($3.88 in chips) 
+abrm20: posts small blind $0.05
+PinkFloydAA: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.20
+PinkFloydAA: folds 
+*** FLOP *** [7s 5d 7c]
+abrm20: checks 
+TrabenTra: checks 
+*** TURN *** [7s 5d 7c] [Tc]
+lnfIame joins the table at seat #1 
+abrm20: checks 
+PinkFloydAA is disconnected 
+TrabenTra: bets $0.30
+abrm20: calls $0.30
+*** RIVER *** [7s 5d 7c Tc] [Ts]
+abrm20: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+abrm20: shows [8h 8c] (two pair, Tens and Eights)
+TrabenTra: mucks hand 
+abrm20 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [7s 5d 7c Tc Ts]
+Seat 3: TrabenTra (button) mucked
+Seat 5: abrm20 (small blind) showed [8h 8c] and won ($1.15) with two pair, Tens and Eights
+Seat 6: PinkFloydAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944448688:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:48:58 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.82 in chips) 
+Seat 5: abrm20 ($10.74 in chips) 
+PinkFloydAA has timed out while disconnected
+PinkFloydAA: is sitting out 
+lnfIame will be allowed to play after the button
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944452813:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:49:12 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: lnfIame ($10 in chips) 
+Seat 3: TrabenTra ($18.87 in chips) 
+Seat 5: abrm20 ($10.69 in chips) 
+abrm20: posts small blind $0.05
+lnfIame: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.20
+lnfIame: folds 
+*** FLOP *** [Td Qc 6s]
+abrm20: checks 
+PinkFloydAA leaves the table
+TrabenTra: bets $0.20
+abrm20: calls $0.20
+*** TURN *** [Td Qc 6s] [As]
+abrm20: checks 
+TrabenTra: checks 
+*** RIVER *** [Td Qc 6s As] [Kh]
+abrm20: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+abrm20: shows [Ts 9c] (a pair of Tens)
+TrabenTra: mucks hand 
+abrm20 collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Td Qc 6s As Kh]
+Seat 1: lnfIame (big blind) folded before Flop
+Seat 3: TrabenTra (button) mucked
+Seat 5: abrm20 (small blind) showed [Ts 9c] and won ($0.96) with a pair of Tens
+
+
+
+PokerStars Hand #222944467970:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:03 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: lnfIame ($10 in chips) 
+Seat 3: TrabenTra ($18.42 in chips) 
+Seat 5: abrm20 ($11.20 in chips) 
+lnfIame: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+lnfIame: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lnfIame (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944469470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:08 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: lnfIame ($10 in chips) 
+Seat 3: TrabenTra ($18.47 in chips) 
+Seat 5: abrm20 ($11.20 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33 joins the table at seat #6 
+lnfIame: folds 
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to abrm20
+abrm20 collected $0.10 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lnfIame (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 5: abrm20 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944472124:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:17 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: lnfIame ($10 in chips) 
+Seat 3: TrabenTra ($18.42 in chips) 
+Seat 5: abrm20 ($11.25 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+abrm20: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame: folds 
+TrabenTra: raises $0.15 to $0.25
+abrm20: folds 
+arabella 33: folds 
+Uncalled bet ($0.15) returned to TrabenTra
+TrabenTra collected $0.25 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lnfIame folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) collected ($0.25)
+Seat 5: abrm20 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944475086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:28 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.57 in chips) 
+Seat 5: abrm20 ($11.20 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+arabella 33: posts small blind $0.05
+lnfIame: is sitting out 
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame leaves the table
+abrm20: folds 
+arabella 33: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944476798:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:33 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 3: TrabenTra ($18.62 in chips) 
+Seat 5: abrm20 ($11.20 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to abrm20
+abrm20 collected $0.10 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 5: abrm20 (big blind) collected ($0.10)
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944478763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:40 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.57 in chips) 
+Seat 5: abrm20 ($11.25 in chips) 
+abrm20: posts small blind $0.05
+arabella 33: is sitting out 
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: raises $0.20 to $0.30
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to abrm20
+abrm20 collected $0.20 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 5: abrm20 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944481118:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:48 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.47 in chips) 
+Seat 5: abrm20 ($11.35 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.15
+*** FLOP *** [Jd Ad 3d]
+abrm20: checks 
+arabella 33 leaves the table
+TrabenTra: checks 
+*** TURN *** [Jd Ad 3d] [4c]
+abrm20: checks 
+TrabenTra: checks 
+*** RIVER *** [Jd Ad 3d 4c] [9c]
+abrm20: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+abrm20: shows [Ks Ts] (high card Ace)
+TrabenTra: mucks hand 
+abrm20 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Jd Ad 3d 4c 9c]
+Seat 3: TrabenTra (button) (small blind) mucked
+Seat 5: abrm20 (big blind) showed [Ks Ts] and won ($0.48) with high card Ace
+
+
+
+PokerStars Hand #222944491051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:51:23 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.22 in chips) 
+Seat 5: abrm20 ($11.58 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: raises $0.20 to $0.30
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to abrm20
+abrm20 collected $0.20 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 5: abrm20 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944493516:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:51:31 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.12 in chips) 
+Seat 5: abrm20 ($11.68 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.15
+*** FLOP *** [4h 8d 7d]
+abrm20: checks 
+TrabenTra: checks 
+*** TURN *** [4h 8d 7d] [2s]
+abrm20: bets $0.40
+TrabenTra: folds 
+Uncalled bet ($0.40) returned to abrm20
+abrm20 collected $0.48 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4h 8d 7d 2s]
+Seat 3: TrabenTra (button) (small blind) folded on the Turn
+Seat 5: abrm20 (big blind) collected ($0.48)
+
+
+
+PokerStars Hand #222944503059:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:04 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($17.87 in chips) 
+Seat 5: abrm20 ($11.91 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944504796:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:10 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($17.92 in chips) 
+Seat 5: abrm20 ($11.86 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to abrm20
+abrm20 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) folded before Flop
+Seat 5: abrm20 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944507159:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:18 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($17.87 in chips) 
+Seat 5: abrm20 ($11.91 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943679199:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:21 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($6.89 in chips) 
+Seat 3: TrabenTra ($17.54 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.50 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+schoki77: folds 
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to AvGeL
+AvGeL collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) collected ($0.10)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943681333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:27 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($6.89 in chips) 
+Seat 3: TrabenTra ($17.49 in chips) 
+Seat 4: AvGeL ($10.05 in chips) 
+Seat 6: Hamasaki XX ($10.50 in chips) 
+AvGeL: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+schoki77: folds 
+TrabenTra: folds 
+accept55 joins the table at seat #5 
+AvGeL: folds 
+Uncalled bet ($0.05) returned to Hamasaki XX
+Hamasaki XX collected $0.10 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943684103:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:36 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($6.89 in chips) 
+Seat 3: TrabenTra ($17.49 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.55 in chips) 
+Hamasaki XX: posts small blind $0.05
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.20 to $0.30
+AvGeL: folds 
+Hamasaki XX: raises $0.70 to $1
+schoki77: folds 
+TrabenTra: folds 
+Uncalled bet ($0.70) returned to Hamasaki XX
+Hamasaki XX collected $0.70 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: schoki77 (big blind) folded before Flop
+Seat 3: TrabenTra folded before Flop
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (small blind) collected ($0.70)
+
+
+
+PokerStars Hand #222943691112:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:58 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: schoki77 ($6.79 in chips) 
+Seat 3: TrabenTra ($17.19 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.95 in chips) 
+schoki77: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+accept55: sits out 
+*** HOLE CARDS ***
+AvGeL: folds 
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: folds 
+TrabenTra: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943695370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:11 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($6.74 in chips) 
+Seat 3: TrabenTra ($17.09 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($11.10 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+accept55: sits out 
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+schoki77: folds 
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to AvGeL
+AvGeL collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) collected ($0.10)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943697450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:17 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($6.74 in chips) 
+Seat 3: TrabenTra ($17.04 in chips) 
+Seat 4: AvGeL ($10.05 in chips) 
+Seat 5: accept55 ($4 in chips) 
+Seat 6: Hamasaki XX ($11.10 in chips) 
+AvGeL: posts small blind $0.05
+accept55: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: folds 
+TrabenTra: folds 
+Skyydurr joins the table at seat #2 
+AvGeL: folds 
+accept55: calls $0.15
+*** FLOP *** [Qc 5c Ac]
+accept55: checks 
+Hamasaki XX: checks 
+*** TURN *** [Qc 5c Ac] [5h]
+accept55: checks 
+Hamasaki XX: checks 
+*** RIVER *** [Qc 5c Ac 5h] [Td]
+accept55: bets $0.10
+Hamasaki XX: calls $0.10
+*** SHOW DOWN ***
+accept55: shows [7s Kd] (a pair of Fives)
+Hamasaki XX: shows [Kh 9h] (a pair of Fives)
+accept55 collected $0.36 from pot
+Hamasaki XX collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qc 5c Ac 5h Td]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: accept55 (big blind) showed [7s Kd] and won ($0.36) with a pair of Fives
+Seat 6: Hamasaki XX showed [Kh 9h] and won ($0.36) with a pair of Fives
+
+
+
+PokerStars Hand #222943720826:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:28 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($6.74 in chips) 
+Seat 2: Skyydurr ($10 in chips) 
+Seat 3: TrabenTra ($17.04 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: accept55 ($4.01 in chips) 
+Seat 6: Hamasaki XX ($11.11 in chips) 
+accept55: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+Skyydurr: posts big blind $0.10
+*** HOLE CARDS ***
+schoki77: folds 
+Skyydurr: raises $0.25 to $0.35
+TrabenTra: folds 
+AvGeL: folds 
+accept55: raises $3.66 to $4.01 and is all-in
+Hamasaki XX: folds 
+Skyydurr: calls $3.66
+*** FLOP *** [3d 7h 7d]
+*** TURN *** [3d 7h 7d] [4c]
+*** RIVER *** [3d 7h 7d 4c] [7s]
+*** SHOW DOWN ***
+accept55: shows [Kh Qs] (three of a kind, Sevens)
+Skyydurr: shows [Qh Kd] (three of a kind, Sevens)
+accept55 collected $3.88 from pot
+Skyydurr collected $3.87 from pot
+*** SUMMARY ***
+Total pot $8.12 | Rake $0.37 
+Board [3d 7h 7d 4c 7s]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Skyydurr showed [Qh Kd] and won ($3.87) with three of a kind, Sevens
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: accept55 (small blind) showed [Kh Qs] and won ($3.88) with three of a kind, Sevens
+Seat 6: Hamasaki XX (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943738177:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:10 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: schoki77 ($6.74 in chips) 
+Seat 2: Skyydurr ($9.86 in chips) 
+Seat 3: TrabenTra ($17.04 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: accept55 ($3.88 in chips) 
+Seat 6: Hamasaki XX ($11.01 in chips) 
+Hamasaki XX: posts small blind $0.05
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+Skyydurr: folds 
+TrabenTra: folds 
+AvGeL: folds 
+accept55: calls $0.10
+Hamasaki XX: calls $0.05
+schoki77: checks 
+*** FLOP *** [5d Kd 7h]
+Hamasaki XX: checks 
+schoki77: checks 
+accept55: bets $0.70
+Hamasaki XX: folds 
+schoki77: folds 
+Uncalled bet ($0.70) returned to accept55
+accept55 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5d Kd 7h]
+Seat 1: schoki77 (big blind) folded on the Flop
+Seat 2: Skyydurr folded before Flop (didn't bet)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: accept55 (button) collected ($0.29)
+Seat 6: Hamasaki XX (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222943748205:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:41 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: schoki77 ($6.64 in chips) 
+Seat 2: Skyydurr ($9.86 in chips) 
+Seat 3: TrabenTra ($17.04 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: accept55 ($4.07 in chips) 
+Seat 6: Hamasaki XX ($10.91 in chips) 
+schoki77: posts small blind $0.05
+Skyydurr: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+accept55: calls $0.10
+Hamasaki XX: folds 
+schoki77: calls $0.05
+Skyydurr: checks 
+*** FLOP *** [7d Qd Ac]
+schoki77: checks 
+Skyydurr: checks 
+accept55: bets $0.50
+schoki77: folds 
+Skyydurr: folds 
+Uncalled bet ($0.50) returned to accept55
+accept55 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7d Qd Ac]
+Seat 1: schoki77 (small blind) folded on the Flop
+Seat 2: Skyydurr (big blind) folded on the Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: accept55 collected ($0.29)
+Seat 6: Hamasaki XX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943755572:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:04 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($6.54 in chips) 
+Seat 2: Skyydurr ($9.76 in chips) 
+Seat 3: TrabenTra ($17.04 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: accept55 ($4.26 in chips) 
+Seat 6: Hamasaki XX ($10.91 in chips) 
+Skyydurr: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+accept55: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+Skyydurr: raises $0.20 to $0.30
+TrabenTra: calls $0.20
+*** FLOP *** [4d Kc 8c]
+Skyydurr: bets $0.29
+TrabenTra: calls $0.29
+*** TURN *** [4d Kc 8c] [5c]
+Skyydurr: checks 
+TrabenTra: bets $0.30
+accept55 leaves the table
+Skyydurr: folds 
+Uncalled bet ($0.30) returned to TrabenTra
+TrabenTra collected $1.13 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [4d Kc 8c 5c]
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 2: Skyydurr (small blind) folded on the Turn
+Seat 3: TrabenTra (big blind) collected ($1.13)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: accept55 folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943768137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:43 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: schoki77 ($6.54 in chips) 
+Seat 2: Skyydurr ($9.17 in chips) 
+Seat 3: TrabenTra ($17.58 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 6: Hamasaki XX ($10.91 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+schoki77: calls $0.10
+Skyydurr: raises $0.35 to $0.45
+NeverScream joins the table at seat #5 
+TrabenTra: folds 
+AvGeL: folds 
+schoki77: calls $0.35
+*** FLOP *** [Kd 3c As]
+schoki77: checks 
+Skyydurr: bets $0.50
+schoki77: folds 
+Uncalled bet ($0.50) returned to Skyydurr
+Skyydurr collected $1 from pot
+Skyydurr: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Kd 3c As]
+Seat 1: schoki77 folded on the Flop
+Seat 2: Skyydurr (button) collected ($1)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943776076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:08 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($6.09 in chips) 
+Seat 2: Skyydurr ($9.72 in chips) 
+Seat 3: TrabenTra ($17.53 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10.91 in chips) 
+AvGeL: posts small blind $0.05
+NeverScream: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: folds 
+Skyydurr: folds 
+TrabenTra: folds 
+AvGeL: folds 
+NeverScream: folds 
+Uncalled bet ($0.15) returned to Hamasaki XX
+Hamasaki XX collected $0.25 from pot
+Hamasaki XX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Skyydurr folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: NeverScream (big blind) folded before Flop
+Seat 6: Hamasaki XX collected ($0.25)
+
+
+
+PokerStars Hand #222943778981:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:17 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($6.09 in chips) 
+Seat 2: Skyydurr ($9.72 in chips) 
+Seat 3: TrabenTra ($17.53 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($11.06 in chips) 
+NeverScream: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+schoki77: folds 
+Skyydurr: raises $0.25 to $0.35
+TrabenTra: folds 
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: calls $0.25
+*** FLOP *** [Ks 9d Kd]
+Hamasaki XX: checks 
+Skyydurr: bets $0.36
+Hamasaki XX: calls $0.36
+*** TURN *** [Ks 9d Kd] [4c]
+Hamasaki XX: checks 
+Skyydurr: checks 
+*** RIVER *** [Ks 9d Kd 4c] [7h]
+Hamasaki XX: bets $0.73
+Skyydurr: calls $0.73
+*** SHOW DOWN ***
+Hamasaki XX: shows [9s Qs] (two pair, Kings and Nines)
+Skyydurr: shows [Qh Qc] (two pair, Kings and Queens)
+Skyydurr collected $2.80 from pot
+*** SUMMARY ***
+Total pot $2.93 | Rake $0.13 
+Board [Ks 9d Kd 4c 7h]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Skyydurr showed [Qh Qc] and won ($2.80) with two pair, Kings and Queens
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: NeverScream (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) showed [9s Qs] and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #222943793868:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:03 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: schoki77 ($6.09 in chips) 
+Seat 2: Skyydurr ($11.08 in chips) 
+Seat 3: TrabenTra ($17.53 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+Hamasaki XX: posts small blind $0.05
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+Skyydurr: raises $0.25 to $0.35
+TrabenTra: calls $0.35
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+*** FLOP *** [5d Qh 8d]
+Skyydurr: bets $0.41
+TrabenTra: calls $0.41
+*** TURN *** [5d Qh 8d] [8h]
+Skyydurr: bets $1.59
+TrabenTra: folds 
+Uncalled bet ($1.59) returned to Skyydurr
+Skyydurr collected $1.59 from pot
+Skyydurr: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.08 
+Board [5d Qh 8d 8h]
+Seat 1: schoki77 (big blind) folded before Flop
+Seat 2: Skyydurr collected ($1.59)
+Seat 3: TrabenTra folded on the Turn
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: NeverScream (button) folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943806744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:43 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: schoki77 ($5.99 in chips) 
+Seat 2: Skyydurr ($11.91 in chips) 
+Seat 3: TrabenTra ($16.77 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+schoki77: posts small blind $0.05
+Skyydurr: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+Uncalled bet ($0.05) returned to Skyydurr
+Skyydurr collected $0.10 from pot
+Skyydurr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 2: Skyydurr (big blind) collected ($0.10)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: NeverScream folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943809745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:53 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($5.94 in chips) 
+Seat 2: Skyydurr ($11.96 in chips) 
+Seat 3: TrabenTra ($16.77 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10 in chips) 
+Skyydurr: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: raises $0.15 to $0.25
+schoki77: folds 
+Skyydurr: calls $0.20
+TrabenTra: folds 
+*** FLOP *** [Kd 3c As]
+Skyydurr: checks 
+Hamasaki XX: checks 
+*** TURN *** [Kd 3c As] [4c]
+Skyydurr: checks 
+Hamasaki XX: checks 
+*** RIVER *** [Kd 3c As 4c] [8c]
+Skyydurr: checks 
+Hamasaki XX: checks 
+*** SHOW DOWN ***
+Skyydurr: shows [6h 9h] (high card Ace)
+Hamasaki XX: shows [Td Qs] (high card Ace - King+Queen kicker)
+Hamasaki XX collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Kd 3c As 4c 8c]
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 2: Skyydurr (small blind) showed [6h 9h] and lost with high card Ace
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: NeverScream folded before Flop (didn't bet)
+Seat 6: Hamasaki XX showed [Td Qs] and won ($0.57) with high card Ace
+
+
+
+PokerStars Hand #222943821964:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:31 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: schoki77 ($5.94 in chips) 
+Seat 2: Skyydurr ($11.71 in chips) 
+Seat 3: TrabenTra ($16.67 in chips) 
+Seat 4: AvGeL ($10 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10.32 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+NeverScream: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+Skyydurr: raises $0.25 to $0.35
+TrabenTra: folds 
+AvGeL: calls $0.25
+*** FLOP *** [Ac 3c Js]
+AvGeL: checks 
+Skyydurr: checks 
+*** TURN *** [Ac 3c Js] [7c]
+AvGeL: bets $0.54
+Skyydurr: calls $0.54
+*** RIVER *** [Ac 3c Js 7c] [Th]
+AvGeL: bets $1.31
+Skyydurr: calls $1.31
+*** SHOW DOWN ***
+AvGeL: shows [3h 3s] (three of a kind, Threes)
+Skyydurr: mucks hand 
+AvGeL collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.45 | Rake $0.20 
+Board [Ac 3c Js 7c Th]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Skyydurr (button) mucked
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) showed [3h 3s] and won ($4.25) with three of a kind, Threes
+Seat 5: NeverScream folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943828690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:52 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($5.94 in chips) 
+Seat 2: Skyydurr ($9.51 in chips) 
+Seat 3: TrabenTra ($16.62 in chips) 
+Seat 4: AvGeL ($12.05 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10.32 in chips) 
+AvGeL: posts small blind $0.05
+NeverScream: posts big blind $0.10
+*** HOLE CARDS ***
+Hamasaki XX: folds 
+schoki77: folds 
+Skyydurr: folds 
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.05) returned to NeverScream
+Skyydurr leaves the table
+NeverScream collected $0.10 from pot
+NeverScream: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Skyydurr folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: NeverScream (big blind) collected ($0.10)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943841367:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:05 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($5.94 in chips) 
+Seat 3: TrabenTra ($16.62 in chips) 
+Seat 4: AvGeL ($12 in chips) 
+Seat 5: NeverScream ($10.05 in chips) 
+Seat 6: Hamasaki XX ($10.32 in chips) 
+NeverScream: posts small blind $0.05
+Hamasaki XX: posts big blind $0.10
+*** HOLE CARDS ***
+schoki77: calls $0.10
+Mxger17 joins the table at seat #2 
+TrabenTra: folds 
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: checks 
+*** FLOP *** [Ac Qc 4h]
+Hamasaki XX: checks 
+schoki77: bets $0.10
+Hamasaki XX: folds 
+Uncalled bet ($0.10) returned to schoki77
+schoki77 collected $0.24 from pot
+schoki77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac Qc 4h]
+Seat 1: schoki77 collected ($0.24)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: NeverScream (small blind) folded before Flop
+Seat 6: Hamasaki XX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943851999:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:38 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: schoki77 ($6.08 in chips) 
+Seat 2: Mxger17 ($10 in chips) 
+Seat 3: TrabenTra ($16.62 in chips) 
+Seat 4: AvGeL ($12 in chips) 
+Seat 5: NeverScream ($10 in chips) 
+Seat 6: Hamasaki XX ($10.22 in chips) 
+Hamasaki XX: posts small blind $0.05
+schoki77: posts big blind $0.10
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+Mxger17: checks 
+TrabenTra: folds 
+AvGeL: folds 
+NeverScream: raises $0.25 to $0.35
+Hamasaki XX: folds 
+schoki77: folds 
+Mxger17: calls $0.25
+*** FLOP *** [Tc 4h 2h]
+Mxger17: bets $0.80
+NeverScream: raises $1.08 to $1.88
+Mxger17: calls $1.08
+*** TURN *** [Tc 4h 2h] [3h]
+Mxger17: checks 
+NeverScream: checks 
+*** RIVER *** [Tc 4h 2h 3h] [4d]
+Mxger17: checks 
+NeverScream: bets $1.32
+Mxger17: folds 
+Uncalled bet ($1.32) returned to NeverScream
+NeverScream collected $4.40 from pot
+NeverScream: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.61 | Rake $0.21 
+Board [Tc 4h 2h 3h 4d]
+Seat 1: schoki77 (big blind) folded before Flop
+Seat 2: Mxger17 folded on the River
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: NeverScream (button) collected ($4.40)
+Seat 6: Hamasaki XX (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943882326:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:50 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: schoki77 ($5.98 in chips) 
+Seat 2: Mxger17 ($7.77 in chips) 
+Seat 3: TrabenTra ($16.62 in chips) 
+Seat 4: AvGeL ($12 in chips) 
+Seat 5: NeverScream ($12.17 in chips) 
+Seat 6: Hamasaki XX ($10.17 in chips) 
+schoki77: posts small blind $0.05
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+Uncalled bet ($0.05) returned to Mxger17
+Mxger17 collected $0.10 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 2: Mxger17 (big blind) collected ($0.10)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: NeverScream folded before Flop (didn't bet)
+Seat 6: Hamasaki XX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943886012:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:01 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($5.93 in chips) 
+Seat 2: Mxger17 ($7.82 in chips) 
+Seat 3: TrabenTra ($16.62 in chips) 
+Seat 4: AvGeL ($12 in chips) 
+Seat 5: NeverScream ($12.17 in chips) 
+Seat 6: Hamasaki XX ($10.17 in chips) 
+Mxger17: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+NeverScream: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+Mxger17: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 2: Mxger17 (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: NeverScream folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943888496:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:09 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: schoki77 ($5.93 in chips) 
+Seat 2: Mxger17 ($7.77 in chips) 
+Seat 3: TrabenTra ($16.67 in chips) 
+Seat 4: AvGeL ($12 in chips) 
+Seat 5: NeverScream ($12.17 in chips) 
+Seat 6: Hamasaki XX ($10.17 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+NeverScream: folds 
+Hamasaki XX: folds 
+schoki77: folds 
+Mxger17: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: calls $0.20
+*** FLOP *** [Js Ad Td]
+AvGeL: checks 
+Mxger17: bets $0.31
+AvGeL: calls $0.31
+*** TURN *** [Js Ad Td] [6h]
+AvGeL: checks 
+Mxger17: bets $0.60
+AvGeL: calls $0.60
+*** RIVER *** [Js Ad Td 6h] [5s]
+AvGeL: checks 
+Mxger17: bets $3.60
+AvGeL: folds 
+Uncalled bet ($3.60) returned to Mxger17
+Mxger17 collected $2.36 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [Js Ad Td 6h 5s]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Mxger17 (button) collected ($2.36)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded on the River
+Seat 5: NeverScream folded before Flop (didn't bet)
+Seat 6: Hamasaki XX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943903672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:57 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($5.93 in chips) 
+Seat 2: Mxger17 ($8.92 in chips) 
+Seat 3: TrabenTra ($16.62 in chips) 
+Seat 4: AvGeL ($10.79 in chips) 
+AvGeL: posts small blind $0.05
+NeverScream: is sitting out 
+Hamasaki XX: is sitting out 
+NeverScream leaves the table
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+Mxger17: calls $0.10
+Hamasaki XX leaves the table
+TrabenTra: raises $0.30 to $0.40
+AvGeL: folds 
+schoki77: calls $0.30
+Mxger17: calls $0.30
+*** FLOP *** [2s As 2d]
+schoki77: checks 
+ildar87kzn joins the table at seat #5 
+Mxger17: checks 
+TrabenTra: bets $0.40
+schoki77: folds 
+Mxger17: folds 
+Uncalled bet ($0.40) returned to TrabenTra
+TrabenTra collected $1.19 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [2s As 2d]
+Seat 1: schoki77 (big blind) folded on the Flop
+Seat 2: Mxger17 folded on the Flop
+Seat 3: TrabenTra (button) collected ($1.19)
+Seat 4: AvGeL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943912886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:26 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($5.53 in chips) 
+Seat 2: Mxger17 ($8.52 in chips) 
+Seat 3: TrabenTra ($17.41 in chips) 
+Seat 4: AvGeL ($10.74 in chips) 
+schoki77: posts small blind $0.05
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+schoki77: folds 
+Uncalled bet ($0.05) returned to Mxger17
+Mxger17 collected $0.10 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 2: Mxger17 (big blind) collected ($0.10)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943915081:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:33 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($5.48 in chips) 
+Seat 2: Mxger17 ($8.57 in chips) 
+Seat 3: TrabenTra ($17.41 in chips) 
+Seat 4: AvGeL ($10.74 in chips) 
+Mxger17: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+ildar87kzn: sits out 
+*** HOLE CARDS ***
+AvGeL: folds 
+schoki77: folds 
+Mxger17: calls $0.05
+bilavych joins the table at seat #6 
+TrabenTra: checks 
+*** FLOP *** [Ts Kc 5s]
+Mxger17: checks 
+TrabenTra: checks 
+*** TURN *** [Ts Kc 5s] [8d]
+Mxger17: checks 
+TrabenTra: checks 
+*** RIVER *** [Ts Kc 5s 8d] [Ah]
+Mxger17: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+Mxger17: shows [Jc 6c] (high card Ace)
+TrabenTra: shows [Jh 6s] (high card Ace)
+Mxger17 collected $0.10 from pot
+TrabenTra collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ts Kc 5s 8d Ah]
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 2: Mxger17 (small blind) showed [Jc 6c] and won ($0.10) with high card Ace
+Seat 3: TrabenTra (big blind) showed [Jh 6s] and won ($0.09) with high card Ace
+Seat 4: AvGeL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943924644:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:03 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: schoki77 ($5.48 in chips) 
+Seat 2: Mxger17 ($8.57 in chips) 
+Seat 3: TrabenTra ($17.40 in chips) 
+Seat 4: AvGeL ($10.74 in chips) 
+Seat 6: bilavych ($8 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+ildar87kzn: sits out 
+bilavych: posts big blind $0.10
+*** HOLE CARDS ***
+bilavych: checks 
+schoki77: folds 
+Mxger17: calls $0.10
+TrabenTra: calls $0.05
+AvGeL: checks 
+*** FLOP *** [Jc 8h Qs]
+TrabenTra: checks 
+AvGeL: checks 
+bilavych: checks 
+Mxger17: checks 
+*** TURN *** [Jc 8h Qs] [2h]
+TrabenTra: checks 
+AvGeL: bets $0.29
+bilavych: calls $0.29
+Mxger17: calls $0.29
+TrabenTra: folds 
+*** RIVER *** [Jc 8h Qs 2h] [Ah]
+AvGeL: checks 
+bilavych: checks 
+Mxger17: checks 
+*** SHOW DOWN ***
+AvGeL: shows [9s Td] (a straight, Eight to Queen)
+bilavych: mucks hand 
+Mxger17: mucks hand 
+AvGeL collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [Jc 8h Qs 2h Ah]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Mxger17 (button) mucked
+Seat 3: TrabenTra (small blind) folded on the Turn
+Seat 4: AvGeL (big blind) showed [9s Td] and won ($1.21) with a straight, Eight to Queen
+Seat 6: bilavych mucked
+
+
+
+PokerStars Hand #222943939233:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:49 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($5.48 in chips) 
+Seat 2: Mxger17 ($8.18 in chips) 
+Seat 3: TrabenTra ($17.30 in chips) 
+Seat 4: AvGeL ($11.56 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+Seat 6: bilavych ($7.61 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+bilavych: raises $7.51 to $7.61 and is all-in
+schoki77: folds 
+Mxger17: folds 
+TrabenTra: folds 
+AvGeL: calls $7.56
+ildar87kzn: folds 
+*** FLOP *** [3s 9s 3d]
+*** TURN *** [3s 9s 3d] [5c]
+*** RIVER *** [3s 9s 3d 5c] [Jh]
+*** SHOW DOWN ***
+AvGeL: shows [Td Ts] (two pair, Tens and Threes)
+bilavych: shows [Ad Th] (a pair of Threes)
+AvGeL collected $14.63 from pot
+*** SUMMARY ***
+Total pot $15.32 | Rake $0.69 
+Board [3s 9s 3d 5c Jh]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Mxger17 folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) showed [Td Ts] and won ($14.63) with two pair, Tens and Threes
+Seat 5: ildar87kzn (big blind) folded before Flop
+Seat 6: bilavych showed [Ad Th] and lost with a pair of Threes
+
+
+
+PokerStars Hand #222943948844:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:19 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: schoki77 ($5.48 in chips) 
+Seat 2: Mxger17 ($8.18 in chips) 
+Seat 3: TrabenTra ($17.30 in chips) 
+Seat 4: AvGeL ($18.58 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+ildar87kzn: posts small blind $0.05
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+Mxger17: calls $0.10
+TrabenTra: folds 
+AvGeL: folds 
+bilavych leaves the table
+ildar87kzn: folds 
+schoki77: checks 
+*** FLOP *** [2s Ts Qs]
+schoki77: checks 
+Mxger17: bets $2.90
+schoki77: folds 
+Uncalled bet ($2.90) returned to Mxger17
+Mxger17 collected $0.24 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s Ts Qs]
+Seat 1: schoki77 (big blind) folded on the Flop
+Seat 2: Mxger17 collected ($0.24)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: ildar87kzn (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943954715:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:38 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: schoki77 ($5.38 in chips) 
+Seat 2: Mxger17 ($8.32 in chips) 
+Seat 3: TrabenTra ($17.30 in chips) 
+Seat 4: AvGeL ($18.58 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+schoki77: posts small blind $0.05
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+ALPHAmax99 joins the table at seat #6 
+TrabenTra: folds 
+AvGeL: raises $0.15 to $0.25
+ildar87kzn: folds 
+schoki77: folds 
+Mxger17: calls $0.15
+*** FLOP *** [6c As 6d]
+Mxger17: checks 
+AvGeL: checks 
+*** TURN *** [6c As 6d] [Ks]
+Mxger17: checks 
+AvGeL: bets $0.40
+Mxger17: folds 
+Uncalled bet ($0.40) returned to AvGeL
+AvGeL collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6c As 6d Ks]
+Seat 1: schoki77 (small blind) folded before Flop
+Seat 2: Mxger17 (big blind) folded on the Turn
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL collected ($0.53)
+Seat 5: ildar87kzn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943966231:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:14 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: schoki77 ($5.33 in chips) 
+Seat 2: Mxger17 ($8.07 in chips) 
+Seat 3: TrabenTra ($17.30 in chips) 
+Seat 4: AvGeL ($18.86 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+Seat 6: ALPHAmax99 ($7.43 in chips) 
+Mxger17: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+ALPHAmax99: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+ildar87kzn: raises $0.30 to $0.40
+ALPHAmax99: folds 
+schoki77: folds 
+Mxger17: calls $0.35
+TrabenTra: folds 
+*** FLOP *** [8c 2d Ah]
+Mxger17: bets $1.70
+ildar87kzn: folds 
+Uncalled bet ($1.70) returned to Mxger17
+Mxger17 collected $0.96 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [8c 2d Ah]
+Seat 1: schoki77 (button) folded before Flop (didn't bet)
+Seat 2: Mxger17 (small blind) collected ($0.96)
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded on the Flop
+Seat 6: ALPHAmax99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943976276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:45 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: schoki77 ($5.33 in chips) 
+Seat 2: Mxger17 ($8.63 in chips) 
+Seat 3: TrabenTra ($17.20 in chips) 
+Seat 4: AvGeL ($18.86 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+Seat 6: ALPHAmax99 ($7.33 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.20 to $0.30
+ALPHAmax99: calls $0.30
+schoki77: folds 
+Mxger17: folds 
+TrabenTra: folds 
+AvGeL: folds 
+*** FLOP *** [Js Qd 9d]
+ildar87kzn: bets $0.37
+ALPHAmax99: calls $0.37
+*** TURN *** [Js Qd 9d] [2c]
+ildar87kzn: checks 
+ALPHAmax99: checks 
+*** RIVER *** [Js Qd 9d 2c] [Qc]
+ildar87kzn: bets $1.70
+ALPHAmax99: folds 
+Uncalled bet ($1.70) returned to ildar87kzn
+ildar87kzn collected $1.42 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.07 
+Board [Js Qd 9d 2c Qc]
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Mxger17 (button) folded before Flop (didn't bet)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: ildar87kzn collected ($1.42)
+Seat 6: ALPHAmax99 folded on the River
+
+
+
+PokerStars Hand #222943989585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:27 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: schoki77 ($5.33 in chips) 
+Seat 2: Mxger17 ($8.63 in chips) 
+Seat 3: TrabenTra ($17.15 in chips) 
+Seat 4: AvGeL ($18.76 in chips) 
+Seat 5: ildar87kzn ($10.75 in chips) 
+Seat 6: ALPHAmax99 ($6.66 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+ALPHAmax99: calls $0.10
+schoki77: folds 
+Mxger17: calls $0.10
+TrabenTra: raises $0.40 to $0.50
+AvGeL: folds 
+schoki77 leaves the table
+ildar87kzn: raises $1.25 to $1.75
+ALPHAmax99: folds 
+Mxger17: folds 
+gresscrack joins the table at seat #1 
+TrabenTra: folds 
+Uncalled bet ($1.25) returned to ildar87kzn
+ildar87kzn collected $1.25 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: schoki77 folded before Flop (didn't bet)
+Seat 2: Mxger17 folded before Flop
+Seat 3: TrabenTra (button) folded before Flop
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) collected ($1.25)
+Seat 6: ALPHAmax99 folded before Flop
+
+
+
+PokerStars Hand #222944004640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:14 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: Mxger17 ($8.53 in chips) 
+Seat 3: TrabenTra ($16.65 in chips) 
+Seat 4: AvGeL ($18.71 in chips) 
+Seat 5: ildar87kzn ($11.50 in chips) 
+Seat 6: ALPHAmax99 ($6.56 in chips) 
+ildar87kzn: posts small blind $0.05
+ALPHAmax99: posts big blind $0.10
+gresscrack: sits out 
+*** HOLE CARDS ***
+Mxger17: raises $0.10 to $0.20
+TrabenTra: calls $0.20
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: calls $0.10
+*** FLOP *** [3h 8h 3c]
+ALPHAmax99: checks 
+Mxger17: bets $0.31
+TrabenTra: raises $0.31 to $0.62
+ALPHAmax99: folds 
+Mxger17: raises $0.93 to $1.55
+TrabenTra: folds 
+Uncalled bet ($0.93) returned to Mxger17
+Mxger17 collected $1.80 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [3h 8h 3c]
+Seat 2: Mxger17 collected ($1.80)
+Seat 3: TrabenTra folded on the Flop
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: ildar87kzn (small blind) folded before Flop
+Seat 6: ALPHAmax99 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222944017786:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:56 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($9.51 in chips) 
+Seat 3: TrabenTra ($15.83 in chips) 
+Seat 4: AvGeL ($18.71 in chips) 
+Seat 5: ildar87kzn ($11.45 in chips) 
+Seat 6: ALPHAmax99 ($6.36 in chips) 
+ALPHAmax99: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Mxger17: calls $0.10
+TrabenTra: raises $0.40 to $0.50
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: folds 
+gresscrack: folds 
+Mxger17: calls $0.40
+*** FLOP *** [Kc 9s 5s]
+Mxger17: checks 
+TrabenTra: checks 
+*** TURN *** [Kc 9s 5s] [Kh]
+Mxger17: checks 
+TrabenTra: bets $0.77
+Mxger17: folds 
+Uncalled bet ($0.77) returned to TrabenTra
+TrabenTra collected $1.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Kc 9s 5s Kh]
+Seat 1: gresscrack (big blind) folded before Flop
+Seat 2: Mxger17 folded on the Turn
+Seat 3: TrabenTra collected ($1.10)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 6: ALPHAmax99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944032144:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:41 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($9.01 in chips) 
+Seat 3: TrabenTra ($16.43 in chips) 
+Seat 4: AvGeL ($18.71 in chips) 
+Seat 5: ildar87kzn ($11.45 in chips) 
+Seat 6: ALPHAmax99 ($6.31 in chips) 
+gresscrack: posts small blind $0.05
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: calls $0.10
+gresscrack: folds 
+Mxger17: checks 
+*** FLOP *** [Ac Qs Js]
+Mxger17: checks 
+ALPHAmax99: checks 
+*** TURN *** [Ac Qs Js] [9s]
+Mxger17: checks 
+ALPHAmax99: checks 
+*** RIVER *** [Ac Qs Js 9s] [6s]
+Mxger17: checks 
+ALPHAmax99: bets $0.10
+Mxger17: calls $0.10
+*** SHOW DOWN ***
+ALPHAmax99: shows [7s Jh] (a flush, Queen high)
+Mxger17: mucks hand 
+ALPHAmax99 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ac Qs Js 9s 6s]
+Seat 1: gresscrack (small blind) folded before Flop
+Seat 2: Mxger17 (big blind) mucked
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: ALPHAmax99 (button) showed [7s Jh] and won ($0.43) with a flush, Queen high
+
+
+
+PokerStars Hand #222944038942:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:03 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($8.81 in chips) 
+Seat 3: TrabenTra ($16.43 in chips) 
+Seat 4: AvGeL ($18.71 in chips) 
+Seat 5: ildar87kzn ($11.45 in chips) 
+Seat 6: ALPHAmax99 ($6.54 in chips) 
+Mxger17: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: calls $0.10
+gresscrack: folds 
+Mxger17: calls $0.05
+TrabenTra: checks 
+*** FLOP *** [4h 7s 6h]
+Mxger17: checks 
+TrabenTra: checks 
+ALPHAmax99: bets $0.14
+Mxger17: calls $0.14
+TrabenTra: folds 
+*** TURN *** [4h 7s 6h] [6d]
+Mxger17: checks 
+ALPHAmax99: bets $0.27
+Mxger17: calls $0.27
+*** RIVER *** [4h 7s 6h 6d] [9d]
+Mxger17: checks 
+ALPHAmax99: checks 
+*** SHOW DOWN ***
+Mxger17: shows [Qs 5h] (a pair of Sixes)
+ALPHAmax99: shows [Tc 7d] (two pair, Sevens and Sixes)
+ALPHAmax99 collected $1.07 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.05 
+Board [4h 7s 6h 6d 9d]
+Seat 1: gresscrack (button) folded before Flop (didn't bet)
+Seat 2: Mxger17 (small blind) showed [Qs 5h] and lost with a pair of Sixes
+Seat 3: TrabenTra (big blind) folded on the Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: ALPHAmax99 showed [Tc 7d] and won ($1.07) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #222944054359:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:53 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($8.30 in chips) 
+Seat 3: TrabenTra ($16.33 in chips) 
+Seat 4: AvGeL ($18.71 in chips) 
+Seat 5: ildar87kzn ($11.45 in chips) 
+Seat 6: ALPHAmax99 ($7.10 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+ALPHAmax99: folds 
+gresscrack: folds 
+Mxger17: calls $0.10
+TrabenTra: calls $0.05
+AvGeL: checks 
+*** FLOP *** [2s 2c 5d]
+TrabenTra: checks 
+AvGeL: checks 
+Mxger17: checks 
+*** TURN *** [2s 2c 5d] [As]
+TrabenTra: checks 
+AvGeL: bets $0.22
+Mxger17: calls $0.22
+TrabenTra: calls $0.22
+*** RIVER *** [2s 2c 5d As] [3d]
+TrabenTra: checks 
+AvGeL: checks 
+Mxger17: checks 
+*** SHOW DOWN ***
+TrabenTra: shows [4c Ad] (a straight, Ace to Five)
+AvGeL: mucks hand 
+Mxger17: mucks hand 
+TrabenTra collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.04 
+Board [2s 2c 5d As 3d]
+Seat 1: gresscrack folded before Flop (didn't bet)
+Seat 2: Mxger17 (button) mucked
+Seat 3: TrabenTra (small blind) showed [4c Ad] and won ($0.92) with a straight, Ace to Five
+Seat 4: AvGeL (big blind) mucked
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: ALPHAmax99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944068831:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:40 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($7.98 in chips) 
+Seat 3: TrabenTra ($16.93 in chips) 
+Seat 4: AvGeL ($18.39 in chips) 
+Seat 5: ildar87kzn ($11.45 in chips) 
+Seat 6: ALPHAmax99 ($7.10 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+ALPHAmax99: folds 
+gresscrack: folds 
+Mxger17: calls $0.10
+TrabenTra: raises $0.30 to $0.40
+AvGeL: folds 
+ildar87kzn: folds 
+Mxger17: folds 
+Uncalled bet ($0.30) returned to TrabenTra
+TrabenTra collected $0.35 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: gresscrack folded before Flop (didn't bet)
+Seat 2: Mxger17 folded before Flop
+Seat 3: TrabenTra (button) collected ($0.35)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) folded before Flop
+Seat 6: ALPHAmax99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944074256:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:57 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($7.88 in chips) 
+Seat 3: TrabenTra ($17.18 in chips) 
+Seat 4: AvGeL ($18.34 in chips) 
+Seat 5: ildar87kzn ($11.35 in chips) 
+Seat 6: ALPHAmax99 ($7.10 in chips) 
+ildar87kzn: posts small blind $0.05
+ALPHAmax99: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Mxger17: calls $0.10
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: checks 
+*** FLOP *** [Td 2c As]
+ALPHAmax99: checks 
+Mxger17: checks 
+*** TURN *** [Td 2c As] [2d]
+ALPHAmax99: checks 
+Mxger17: bets $2.60
+ALPHAmax99: folds 
+Uncalled bet ($2.60) returned to Mxger17
+Mxger17 collected $0.24 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Td 2c As 2d]
+Seat 1: gresscrack folded before Flop (didn't bet)
+Seat 2: Mxger17 collected ($0.24)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: ildar87kzn (small blind) folded before Flop
+Seat 6: ALPHAmax99 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222944083644:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:27 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($8.02 in chips) 
+Seat 3: TrabenTra ($17.18 in chips) 
+Seat 4: AvGeL ($18.34 in chips) 
+Seat 5: ildar87kzn ($11.30 in chips) 
+Seat 6: ALPHAmax99 ($7 in chips) 
+ALPHAmax99: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Mxger17: calls $0.10
+TrabenTra: folds 
+AvGeL: raises $0.30 to $0.40
+ildar87kzn: calls $0.40
+ALPHAmax99: calls $0.35
+gresscrack: calls $0.30
+Mxger17: folds 
+*** FLOP *** [Th 9d 4d]
+ALPHAmax99: checks 
+gresscrack: checks 
+AvGeL: bets $0.81
+ildar87kzn: folds 
+ALPHAmax99: folds 
+gresscrack: folds 
+Uncalled bet ($0.81) returned to AvGeL
+AvGeL collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.08 
+Board [Th 9d 4d]
+Seat 1: gresscrack (big blind) folded on the Flop
+Seat 2: Mxger17 folded before Flop
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL collected ($1.62)
+Seat 5: ildar87kzn (button) folded on the Flop
+Seat 6: ALPHAmax99 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222944098284:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:14 ET
+Table 'Arduina' 6-max Seat #6 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($7.92 in chips) 
+Seat 3: TrabenTra ($17.18 in chips) 
+Seat 4: AvGeL ($19.56 in chips) 
+Seat 5: ildar87kzn ($10.90 in chips) 
+Seat 6: ALPHAmax99 ($6.60 in chips) 
+gresscrack: posts small blind $0.05
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: folds 
+gresscrack: folds 
+Uncalled bet ($0.05) returned to Mxger17
+Mxger17 collected $0.10 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gresscrack (small blind) folded before Flop
+Seat 2: Mxger17 (big blind) collected ($0.10)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: ALPHAmax99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944100660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:22 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($7.97 in chips) 
+Seat 3: TrabenTra ($17.18 in chips) 
+Seat 4: AvGeL ($19.56 in chips) 
+Seat 5: ildar87kzn ($10.90 in chips) 
+Seat 6: ALPHAmax99 ($6.60 in chips) 
+Mxger17: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: folds 
+ildar87kzn: folds 
+ALPHAmax99: folds 
+gresscrack: folds 
+Mxger17: calls $0.05
+ALPHAmax99 leaves the table
+TrabenTra: checks 
+*** FLOP *** [Ah 5s 7s]
+Mxger17: bets $1.30
+TrabenTra: folds 
+Uncalled bet ($1.30) returned to Mxger17
+Mxger17 collected $0.19 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ah 5s 7s]
+Seat 1: gresscrack (button) folded before Flop (didn't bet)
+Seat 2: Mxger17 (small blind) collected ($0.19)
+Seat 3: TrabenTra (big blind) folded on the Flop
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+Seat 6: ALPHAmax99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944106778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:42 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($8.06 in chips) 
+Seat 3: TrabenTra ($17.08 in chips) 
+Seat 4: AvGeL ($19.56 in chips) 
+Seat 5: ildar87kzn ($10.90 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+gresscrack: folds 
+Mxger17: raises $0.10 to $0.20
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.10) returned to Mxger17
+Mxger17 collected $0.25 from pot
+Mxger17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gresscrack folded before Flop (didn't bet)
+Seat 2: Mxger17 (button) collected ($0.25)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944113599:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:57 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($8.21 in chips) 
+Seat 3: TrabenTra ($17.03 in chips) 
+Seat 4: AvGeL ($19.46 in chips) 
+Seat 5: ildar87kzn ($10.90 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Mxger17: raises $0.10 to $0.20
+PinkFloydAA joins the table at seat #6 
+TrabenTra: raises $0.40 to $0.60
+AvGeL: folds 
+ildar87kzn: folds 
+Mxger17: calls $0.40
+*** FLOP *** [4h 3h 6c]
+Mxger17: checks 
+TrabenTra: checks 
+*** TURN *** [4h 3h 6c] [Ks]
+Mxger17: checks 
+TrabenTra: bets $0.60
+Mxger17: calls $0.60
+*** RIVER *** [4h 3h 6c Ks] [Ah]
+PinkFloydAA is disconnected 
+Mxger17: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+Mxger17: shows [4c 8c] (a pair of Fours)
+TrabenTra: shows [Kh Qc] (a pair of Kings)
+TrabenTra collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [4h 3h 6c Ks Ah]
+Seat 1: gresscrack folded before Flop (didn't bet)
+Seat 2: Mxger17 showed [4c 8c] and lost with a pair of Fours
+Seat 3: TrabenTra (button) showed [Kh Qc] and won ($2.44) with a pair of Kings
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944131442:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:55 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: gresscrack ($10 in chips) 
+Seat 2: Mxger17 ($7.01 in chips) 
+Seat 3: TrabenTra ($18.27 in chips) 
+Seat 4: AvGeL ($19.41 in chips) 
+Seat 5: ildar87kzn ($10.80 in chips) 
+ildar87kzn: posts small blind $0.05
+PinkFloydAA has timed out while disconnected
+PinkFloydAA: is sitting out 
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Mxger17: calls $0.10
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+gresscrack: raises $0.40 to $0.50
+Mxger17: calls $0.40
+*** FLOP *** [7c 3h 4d]
+PinkFloydAA is disconnected 
+gresscrack: bets $0.33
+Mxger17: calls $0.33
+*** TURN *** [7c 3h 4d] [2c]
+gresscrack: bets $1.22
+Mxger17: calls $1.22
+*** RIVER *** [7c 3h 4d 2c] [3s]
+gresscrack: bets $7.50
+PinkFloydAA is disconnected 
+Mxger17: calls $4.96 and is all-in
+Uncalled bet ($2.54) returned to gresscrack
+*** SHOW DOWN ***
+gresscrack: shows [Jc Js] (two pair, Jacks and Threes)
+Mxger17: shows [7s Qd] (two pair, Sevens and Threes)
+gresscrack collected $13.44 from pot
+*** SUMMARY ***
+Total pot $14.07 | Rake $0.63 
+Board [7c 3h 4d 2c 3s]
+Seat 1: gresscrack (big blind) showed [Jc Js] and won ($13.44) with two pair, Jacks and Threes
+Seat 2: Mxger17 showed [7s Qd] and lost with two pair, Sevens and Threes
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: ildar87kzn (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944154146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:09 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: gresscrack ($16.43 in chips) 
+Seat 3: TrabenTra ($18.27 in chips) 
+Seat 4: AvGeL ($19.41 in chips) 
+Seat 5: ildar87kzn ($10.75 in chips) 
+gresscrack: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: raises $0.15 to $0.25
+ildar87kzn: folds 
+gresscrack: folds 
+TrabenTra: raises $0.55 to $0.80
+AvGeL: folds 
+Uncalled bet ($0.55) returned to TrabenTra
+TrabenTra collected $0.55 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: gresscrack (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) collected ($0.55)
+Seat 4: AvGeL folded before Flop
+Seat 5: ildar87kzn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944159672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:27 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: gresscrack ($16.38 in chips) 
+Seat 3: TrabenTra ($18.57 in chips) 
+Seat 4: AvGeL ($19.16 in chips) 
+Seat 5: ildar87kzn ($10.75 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+PinkFloydAA has timed out while disconnected
+PinkFloydAA: is sitting out 
+*** HOLE CARDS ***
+ildar87kzn: folds 
+gresscrack: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.20) returned to gresscrack
+gresscrack collected $0.25 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gresscrack (button) collected ($0.25)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944165567:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:46 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: gresscrack ($16.53 in chips) 
+Seat 3: TrabenTra ($18.52 in chips) 
+Seat 4: AvGeL ($19.06 in chips) 
+Seat 5: ildar87kzn ($10.75 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.20) returned to gresscrack
+gresscrack collected $0.25 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gresscrack collected ($0.25)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944170245:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:01 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 1: gresscrack ($16.68 in chips) 
+Seat 3: TrabenTra ($18.52 in chips) 
+Seat 4: AvGeL ($19.01 in chips) 
+Seat 5: ildar87kzn ($10.65 in chips) 
+ildar87kzn: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.05) returned to gresscrack
+gresscrack collected $0.10 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gresscrack (big blind) collected ($0.10)
+Seat 3: TrabenTra folded before Flop (didn't bet)
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: ildar87kzn (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944173173:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:11 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 1: gresscrack ($16.73 in chips) 
+Seat 2: Mxger17 ($10 in chips) 
+Seat 3: TrabenTra ($18.52 in chips) 
+Seat 4: AvGeL ($19.01 in chips) 
+Seat 5: ildar87kzn ($10.60 in chips) 
+gresscrack: posts small blind $0.05
+Mxger17: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.30 to $0.40
+AvGeL: folds 
+ildar87kzn: folds 
+gresscrack: folds 
+Mxger17: calls $0.30
+*** FLOP *** [5c Ah 8s]
+Mxger17: checks 
+TrabenTra: bets $0.20
+Mxger17: calls $0.20
+*** TURN *** [5c Ah 8s] [Qs]
+Mxger17: checks 
+TrabenTra: bets $0.30
+Mxger17: calls $0.30
+*** RIVER *** [5c Ah 8s Qs] [6c]
+Mxger17: checks 
+TrabenTra: bets $0.50
+Mxger17: calls $0.50
+*** SHOW DOWN ***
+TrabenTra: shows [Ac Kc] (a pair of Aces)
+Mxger17: mucks hand 
+TrabenTra collected $2.72 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.13 
+Board [5c Ah 8s Qs 6c]
+Seat 1: gresscrack (small blind) folded before Flop
+Seat 2: Mxger17 (big blind) mucked
+Seat 3: TrabenTra showed [Ac Kc] and won ($2.72) with a pair of Aces
+Seat 4: AvGeL folded before Flop (didn't bet)
+Seat 5: ildar87kzn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944185921:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:53 ET
+Table 'Arduina' 6-max Seat #1 is the button
+Seat 1: gresscrack ($16.68 in chips) 
+Seat 2: Mxger17 ($8.60 in chips) 
+Seat 3: TrabenTra ($19.84 in chips) 
+Seat 4: AvGeL ($19.01 in chips) 
+Seat 5: ildar87kzn ($10.60 in chips) 
+Mxger17: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: raises $0.20 to $0.30
+ildar87kzn: folds 
+gresscrack: folds 
+Mxger17: folds 
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to AvGeL
+Mxger17 leaves the table
+AvGeL collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gresscrack (button) folded before Flop (didn't bet)
+Seat 2: Mxger17 (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL collected ($0.25)
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944203052:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:39 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 1: gresscrack ($16.68 in chips) 
+Seat 3: TrabenTra ($19.74 in chips) 
+Seat 4: AvGeL ($19.16 in chips) 
+Seat 5: ildar87kzn ($10.60 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+TrabenTra: folds 
+AvGeL: raises $0.20 to $0.30
+Mxger17 joins the table at seat #2 
+ildar87kzn: raises $0.60 to $0.90
+AvGeL: raises $1.50 to $2.40
+Mxger17 leaves the table
+ildar87kzn: raises $8.20 to $10.60 and is all-in
+AvGeL: calls $8.20
+*** FLOP *** [4c Js Qc]
+EasySteavy joins the table at seat #2 
+*** TURN *** [4c Js Qc] [8h]
+*** RIVER *** [4c Js Qc 8h] [Kd]
+*** SHOW DOWN ***
+AvGeL: shows [Kc Kh] (three of a kind, Kings)
+ildar87kzn: shows [9s 9d] (a pair of Nines)
+AvGeL collected $20.25 from pot
+*** SUMMARY ***
+Total pot $21.20 | Rake $0.95 
+Board [4c Js Qc 8h Kd]
+Seat 1: gresscrack folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) showed [Kc Kh] and won ($20.25) with three of a kind, Kings
+Seat 5: ildar87kzn (big blind) showed [9s 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #222944215476:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:21 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: EasySteavy ($10 in chips) 
+Seat 3: TrabenTra ($19.74 in chips) 
+Seat 4: AvGeL ($28.81 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+ildar87kzn: posts small blind $0.05
+gresscrack: is sitting out 
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+gresscrack leaves the table
+AvGeL: folds 
+ildar87kzn: folds 
+EasySteavy: calls $0.15
+*** FLOP *** [Qc Ts 5s]
+EasySteavy: checks 
+TrabenTra: bets $0.20
+EasySteavy: calls $0.20
+*** TURN *** [Qc Ts 5s] [2d]
+EasySteavy: checks 
+TrabenTra: bets $0.30
+EasySteavy: calls $0.30
+*** RIVER *** [Qc Ts 5s 2d] [5d]
+EasySteavy: checks 
+hana666yuki joins the table at seat #1 
+TrabenTra: checks 
+*** SHOW DOWN ***
+EasySteavy: shows [Jh Ah] (a pair of Fives)
+TrabenTra: shows [Tc Jc] (two pair, Tens and Fives)
+TrabenTra collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [Qc Ts 5s 2d 5d]
+Seat 2: EasySteavy (big blind) showed [Jh Ah] and lost with a pair of Fives
+Seat 3: TrabenTra showed [Tc Jc] and won ($1.48) with two pair, Tens and Fives
+Seat 4: AvGeL (button) folded before Flop (didn't bet)
+Seat 5: ildar87kzn (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944233051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:19 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 2: EasySteavy ($10 in chips) 
+Seat 3: TrabenTra ($20.47 in chips) 
+Seat 4: AvGeL ($28.81 in chips) 
+Seat 5: ildar87kzn ($10 in chips) 
+EasySteavy: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+AvGeL: raises $0.20 to $0.30
+ildar87kzn: raises $0.60 to $0.90
+EasySteavy: folds 
+TrabenTra: folds 
+PinkFloydAA is disconnected 
+AvGeL: calls $0.60
+*** FLOP *** [9s Ac 4h]
+AvGeL: checks 
+ildar87kzn: checks 
+*** TURN *** [9s Ac 4h] [8s]
+AvGeL: checks 
+ildar87kzn: bets $1.21
+AvGeL: folds 
+Uncalled bet ($1.21) returned to ildar87kzn
+ildar87kzn collected $1.86 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [9s Ac 4h 8s]
+Seat 2: EasySteavy (small blind) folded before Flop
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 4: AvGeL folded on the Turn
+Seat 5: ildar87kzn (button) collected ($1.86)
+
+
+
+PokerStars Hand #222944245740:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:01 ET
+Table 'Arduina' 6-max Seat #2 is the button
+Seat 2: EasySteavy ($10 in chips) 
+Seat 3: TrabenTra ($20.37 in chips) 
+Seat 4: AvGeL ($27.91 in chips) 
+Seat 5: ildar87kzn ($10.96 in chips) 
+TrabenTra: posts small blind $0.05
+AvGeL: posts big blind $0.10
+PinkFloydAA: sits out 
+hana666yuki: sits out 
+*** HOLE CARDS ***
+ildar87kzn: folds 
+EasySteavy: raises $0.20 to $0.30
+TrabenTra: folds 
+AvGeL: folds 
+Uncalled bet ($0.20) returned to EasySteavy
+EasySteavy collected $0.25 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EasySteavy (button) collected ($0.25)
+Seat 3: TrabenTra (small blind) folded before Flop
+Seat 4: AvGeL (big blind) folded before Flop
+Seat 5: ildar87kzn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944248164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:09 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 2: EasySteavy ($10.15 in chips) 
+Seat 3: TrabenTra ($20.32 in chips) 
+Seat 4: AvGeL ($27.81 in chips) 
+Seat 5: ildar87kzn ($10.96 in chips) 
+Seat 6: PinkFloydAA ($4 in chips) 
+AvGeL: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+PinkFloydAA: posts small & big blinds $0.15
+hana666yuki: sits out 
+*** HOLE CARDS ***
+PinkFloydAA: checks 
+EasySteavy: folds 
+TrabenTra: folds 
+AvGeL: folds 
+ildar87kzn: checks 
+*** FLOP *** [Jd 9d 2s]
+ildar87kzn: checks 
+PinkFloydAA: bets $0.14
+ildar87kzn: folds 
+Uncalled bet ($0.14) returned to PinkFloydAA
+PinkFloydAA collected $0.29 from pot
+PinkFloydAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jd 9d 2s]
+Seat 2: EasySteavy folded before Flop (didn't bet)
+Seat 3: TrabenTra (button) folded before Flop (didn't bet)
+Seat 4: AvGeL (small blind) folded before Flop
+Seat 5: ildar87kzn (big blind) folded on the Flop
+Seat 6: PinkFloydAA collected ($0.29)
+
+
+
+PokerStars Hand #222944258278:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:43 ET
+Table 'Arduina' 6-max Seat #4 is the button
+Seat 2: EasySteavy ($10.15 in chips) 
+Seat 3: TrabenTra ($20.32 in chips) 
+Seat 4: AvGeL ($27.76 in chips) 
+Seat 5: ildar87kzn ($10.86 in chips) 
+Seat 6: PinkFloydAA ($4.14 in chips) 
+ildar87kzn: posts small blind $0.05
+PinkFloydAA: posts big blind $0.10
+hana666yuki: sits out 
+*** HOLE CARDS ***
+EasySteavy: folds 
+TrabenTra: raises $0.15 to $0.25
+AvGeL: calls $0.25
+ildar87kzn: folds 
+PinkFloydAA: folds 
+*** FLOP *** [7s 7h 2h]
+TrabenTra: checks 
+AvGeL: bets $0.31
+TrabenTra: calls $0.31
+*** TURN *** [7s 7h 2h] [7c]
+TrabenTra: checks 
+AvGeL: checks 
+*** RIVER *** [7s 7h 2h 7c] [5s]
+TrabenTra: bets $1.21
+AvGeL: folds 
+Uncalled bet ($1.21) returned to TrabenTra
+TrabenTra collected $1.21 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [7s 7h 2h 7c 5s]
+Seat 2: EasySteavy folded before Flop (didn't bet)
+Seat 3: TrabenTra collected ($1.21)
+Seat 4: AvGeL (button) folded on the River
+Seat 5: ildar87kzn (small blind) folded before Flop
+Seat 6: PinkFloydAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944508727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:23 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($17.92 in chips) 
+Seat 5: abrm20 ($11.86 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.15
+*** FLOP *** [Jh Ks 3d]
+abrm20: checks 
+TrabenTra: bets $0.20
+abrm20: calls $0.20
+*** TURN *** [Jh Ks 3d] [Qd]
+abrm20: checks 
+TrabenTra: checks 
+*** RIVER *** [Jh Ks 3d Qd] [4s]
+abrm20: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+abrm20: shows [Ah 3s] (a pair of Threes)
+TrabenTra: shows [2h 4d] (a pair of Fours)
+TrabenTra collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Jh Ks 3d Qd 4s]
+Seat 3: TrabenTra (button) (small blind) showed [2h 4d] and won ($0.86) with a pair of Fours
+Seat 5: abrm20 (big blind) showed [Ah 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #222944520372:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:03 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.33 in chips) 
+Seat 5: abrm20 ($11.41 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944521714:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:08 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.38 in chips) 
+Seat 5: abrm20 ($11.36 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: folds 
+Uncalled bet ($0.15) returned to TrabenTra
+TrabenTra collected $0.20 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) collected ($0.20)
+Seat 5: abrm20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944523521:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:14 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.48 in chips) 
+Seat 5: abrm20 ($11.26 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944524796:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:19 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.53 in chips) 
+Seat 5: abrm20 ($11.21 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: folds 
+Uncalled bet ($0.15) returned to TrabenTra
+TrabenTra collected $0.20 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) collected ($0.20)
+Seat 5: abrm20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944527420:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:28 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.63 in chips) 
+Seat 5: abrm20 ($11.11 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944528773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:32 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.68 in chips) 
+Seat 5: abrm20 ($11.06 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: raises $0.65 to $0.90
+TrabenTra: folds 
+Uncalled bet ($0.65) returned to abrm20
+abrm20 collected $0.50 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) folded before Flop
+Seat 5: abrm20 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #222944532661:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:46 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.43 in chips) 
+Seat 5: abrm20 ($11.31 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944534054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:50 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.48 in chips) 
+Seat 5: abrm20 ($11.26 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: folds 
+Uncalled bet ($0.15) returned to TrabenTra
+TrabenTra collected $0.20 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) collected ($0.20)
+Seat 5: abrm20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944535784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:56 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.58 in chips) 
+Seat 5: abrm20 ($11.16 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944537137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:01 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.63 in chips) 
+Seat 5: abrm20 ($11.11 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: folds 
+Uncalled bet ($0.15) returned to TrabenTra
+TrabenTra collected $0.20 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) collected ($0.20)
+Seat 5: abrm20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944539050:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:07 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.73 in chips) 
+Seat 5: abrm20 ($11.01 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: raises $0.20 to $0.30
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to abrm20
+abrm20 collected $0.20 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 5: abrm20 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944541026:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:14 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.63 in chips) 
+Seat 5: abrm20 ($11.11 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to abrm20
+abrm20 collected $0.10 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) folded before Flop
+Seat 5: abrm20 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944542304:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:19 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.58 in chips) 
+Seat 5: abrm20 ($11.16 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944543609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:23 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.63 in chips) 
+Seat 5: abrm20 ($11.11 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: folds 
+Uncalled bet ($0.05) returned to abrm20
+abrm20 collected $0.10 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (button) (small blind) folded before Flop
+Seat 5: abrm20 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944544622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:27 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.58 in chips) 
+Seat 5: abrm20 ($11.16 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: raises $0.20 to $0.30
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to abrm20
+abrm20 collected $0.20 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 5: abrm20 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944551226:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:38 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.48 in chips) 
+Seat 5: abrm20 ($11.26 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.15
+*** FLOP *** [9c Ks Td]
+abrm20: checks 
+TrabenTra: checks 
+*** TURN *** [9c Ks Td] [Qd]
+abrm20: checks 
+TrabenTra: checks 
+*** RIVER *** [9c Ks Td Qd] [Jc]
+abrm20: checks 
+TrabenTra: checks 
+*** SHOW DOWN ***
+abrm20: shows [Qc 6c] (a straight, Nine to King)
+TrabenTra: shows [8c 8d] (a straight, Nine to King)
+abrm20 collected $0.24 from pot
+TrabenTra collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9c Ks Td Qd Jc]
+Seat 3: TrabenTra (button) (small blind) showed [8c 8d] and won ($0.24) with a straight, Nine to King
+Seat 5: abrm20 (big blind) showed [Qc 6c] and won ($0.24) with a straight, Nine to King
+
+
+
+PokerStars Hand #222944559651:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:07 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.47 in chips) 
+Seat 5: abrm20 ($11.25 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: folds 
+Uncalled bet ($0.05) returned to TrabenTra
+TrabenTra collected $0.10 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: TrabenTra (big blind) collected ($0.10)
+Seat 5: abrm20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944560884:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:13 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.52 in chips) 
+Seat 5: abrm20 ($11.20 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.15
+*** FLOP *** [5d 4h 5c]
+abrm20: checks 
+TrabenTra: bets $0.20
+abrm20: folds 
+Uncalled bet ($0.20) returned to TrabenTra
+TrabenTra collected $0.48 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [5d 4h 5c]
+Seat 3: TrabenTra (button) (small blind) collected ($0.48)
+Seat 5: abrm20 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222944564930:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:32 ET
+Table 'Arduina' 6-max Seat #5 is the button
+Seat 3: TrabenTra ($18.75 in chips) 
+Seat 5: abrm20 ($10.95 in chips) 
+abrm20: posts small blind $0.05
+TrabenTra: posts big blind $0.10
+*** HOLE CARDS ***
+abrm20: raises $0.20 to $0.30
+TrabenTra: folds 
+Uncalled bet ($0.20) returned to abrm20
+abrm20 collected $0.20 from pot
+abrm20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: TrabenTra (big blind) folded before Flop
+Seat 5: abrm20 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944566513:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:39 ET
+Table 'Arduina' 6-max Seat #3 is the button
+Seat 3: TrabenTra ($18.65 in chips) 
+Seat 5: abrm20 ($11.05 in chips) 
+TrabenTra: posts small blind $0.05
+abrm20: posts big blind $0.10
+*** HOLE CARDS ***
+TrabenTra: raises $0.15 to $0.25
+abrm20: calls $0.15
+*** FLOP *** [Kc 9h Ac]
+abrm20: checks 
+TrabenTra: bets $0.20
+abrm20: folds 
+Uncalled bet ($0.20) returned to TrabenTra
+TrabenTra collected $0.48 from pot
+TrabenTra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Kc 9h Ac]
+Seat 3: TrabenTra (button) (small blind) collected ($0.48)
+Seat 5: abrm20 (big blind) folded on the Flop
+
+
+

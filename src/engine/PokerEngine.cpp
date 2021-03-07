@@ -119,6 +119,15 @@ namespace pokerx {
     }
 
     CardCollection PokerEngine::dealFlop() {
+        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        // if we are reproducing some game then we just take the fist three cards for injected cards
+        if (!injCards.empty()){
+            // use copy constructor to slice the vector
+            std::vector<ICard*> flop = std::vector<ICard*>(injCards.begin(), injCards.begin()+3);
+            return CardCollection(flop);
+        }
+        // otherwise its a random selection
+
         // get a reference to the deck
         Deck &deck = getGameVariables()->getDeck();
         CardCollection community = gameVariables_->getCommunityCards();
@@ -133,6 +142,11 @@ namespace pokerx {
     }
 
     ICard *PokerEngine::dealTurn() const {
+        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        // if we are reproducing some game then we just take the fist three cards for injected cards
+        if (!injCards.empty()){
+            return injCards[3];
+        }
         Deck &deck = getGameVariables()->getDeck();
         // discard top card
         deck.pop();
@@ -142,6 +156,11 @@ namespace pokerx {
     }
 
     ICard *PokerEngine::dealRiver() const {
+        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        // if we are reproducing some game then we just take the fist three cards for injected cards
+        if (!injCards.empty()){
+            return injCards[4];
+        }
         Deck &deck = getGameVariables()->getDeck();
         // discard top card
         deck.pop();

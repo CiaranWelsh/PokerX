@@ -1,0 +1,2002 @@
+﻿PokerStars Hand #222943259785:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:45 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($27.24 in chips) 
+Seat 2: ALF48 ($21.80 in chips) 
+Seat 3: gresscrack ($16.82 in chips) 
+Seat 4: supeR_Systm2 ($10.43 in chips) 
+Seat 5: bernicethebeast ($20.36 in chips) 
+Seat 6: rosie22538 ($5.44 in chips) 
+supeR_Systm2: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: folds 
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+supeR_Systm2: raises $0.20 to $0.30
+bernicethebeast: calls $0.20
+*** FLOP *** [9s Td As]
+supeR_Systm2: bets $0.27
+bernicethebeast: folds 
+Uncalled bet ($0.27) returned to supeR_Systm2
+supeR_Systm2 collected $0.57 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [9s Td As]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 (small blind) collected ($0.57)
+Seat 5: bernicethebeast (big blind) folded on the Flop
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943273719:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:26 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($27.24 in chips) 
+Seat 2: ALF48 ($21.80 in chips) 
+Seat 3: gresscrack ($16.82 in chips) 
+Seat 4: supeR_Systm2 ($10.70 in chips) 
+Seat 5: bernicethebeast ($20.06 in chips) 
+Seat 6: rosie22538 ($5.44 in chips) 
+bernicethebeast: posts small blind $0.05
+rosie22538: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+supeR_Systm2: folds 
+bernicethebeast: calls $0.05
+rosie22538: checks 
+*** FLOP *** [Ts 2s 9h]
+bernicethebeast: bets $0.19
+rosie22538: calls $0.19
+*** TURN *** [Ts 2s 9h] [Ah]
+bernicethebeast: checks 
+rosie22538: bets $0.28
+bernicethebeast: raises $1.11 to $1.39
+rosie22538: folds 
+Uncalled bet ($1.11) returned to bernicethebeast
+bernicethebeast collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [Ts 2s 9h Ah]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 5: bernicethebeast (small blind) collected ($1.09)
+Seat 6: rosie22538 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222943298227:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:20 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($27.24 in chips) 
+Seat 2: ALF48 ($21.80 in chips) 
+Seat 3: gresscrack ($16.82 in chips) 
+Seat 4: supeR_Systm2 ($10.70 in chips) 
+Seat 5: bernicethebeast ($20.58 in chips) 
+Seat 6: rosie22538 ($4.87 in chips) 
+rosie22538: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+supeR_Systm2: folds 
+bernicethebeast: folds 
+rosie22538: calls $0.25
+johnysvk18: calls $0.20
+*** FLOP *** [9c 6c Kc]
+rosie22538: bets $0.43
+johnysvk18: calls $0.43
+gresscrack: calls $0.43
+*** TURN *** [9c 6c Kc] [7c]
+rosie22538: bets $4.14 and is all-in
+johnysvk18: folds 
+gresscrack: folds 
+Uncalled bet ($4.14) returned to rosie22538
+rosie22538 collected $2.09 from pot
+*** SUMMARY ***
+Total pot $2.19 | Rake $0.10 
+Board [9c 6c Kc 7c]
+Seat 1: johnysvk18 (big blind) folded on the Turn
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded on the Turn
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 5: bernicethebeast (button) folded before Flop (didn't bet)
+Seat 6: rosie22538 (small blind) collected ($2.09)
+
+
+
+PokerStars Hand #222943328584:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:51 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 1: johnysvk18 ($26.51 in chips) 
+Seat 2: ALF48 ($21.80 in chips) 
+Seat 3: gresscrack ($16.09 in chips) 
+Seat 4: supeR_Systm2 ($10.70 in chips) 
+Seat 5: bernicethebeast ($20.58 in chips) 
+Seat 6: rosie22538 ($6.23 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+supeR_Systm2: folds 
+bernicethebeast: calls $0.10
+rosie22538: raises $0.20 to $0.30
+johnysvk18: folds 
+ALF48: calls $0.20
+bernicethebeast: calls $0.20
+*** FLOP *** [Kd 6d 5d]
+ALF48: checks 
+bernicethebeast: checks 
+rosie22538: checks 
+*** TURN *** [Kd 6d 5d] [4s]
+ALF48: bets $0.61
+bernicethebeast: calls $0.61
+rosie22538: folds 
+*** RIVER *** [Kd 6d 5d 4s] [As]
+ALF48: checks 
+bernicethebeast: bets $1.10
+ALF48: calls $1.10
+*** SHOW DOWN ***
+bernicethebeast: shows [4d Ah] (two pair, Aces and Fours)
+ALF48: mucks hand 
+bernicethebeast collected $4.17 from pot
+*** SUMMARY ***
+Total pot $4.37 | Rake $0.20 
+Board [Kd 6d 5d 4s As]
+Seat 1: johnysvk18 (small blind) folded before Flop
+Seat 2: ALF48 (big blind) mucked
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 5: bernicethebeast showed [4d Ah] and won ($4.17) with two pair, Aces and Fours
+Seat 6: rosie22538 (button) folded on the Turn
+
+
+
+PokerStars Hand #222943359443:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:01 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($19.79 in chips) 
+Seat 3: gresscrack ($16.09 in chips) 
+Seat 4: supeR_Systm2 ($10.70 in chips) 
+Seat 5: bernicethebeast ($22.74 in chips) 
+Seat 6: rosie22538 ($5.93 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+bernicethebeast: folds 
+rosie22538: raises $0.10 to $0.20
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Uncalled bet ($0.10) returned to rosie22538
+rosie22538 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: johnysvk18 (button) folded before Flop (didn't bet)
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 5: bernicethebeast folded before Flop (didn't bet)
+Seat 6: rosie22538 collected ($0.25)
+
+
+
+PokerStars Hand #222943364789:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:17 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($19.74 in chips) 
+Seat 3: gresscrack ($15.99 in chips) 
+Seat 4: supeR_Systm2 ($10.70 in chips) 
+Seat 5: bernicethebeast ($22.74 in chips) 
+Seat 6: rosie22538 ($6.08 in chips) 
+gresscrack: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+bernicethebeast: folds 
+rosie22538: folds 
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Uncalled bet ($0.05) returned to supeR_Systm2
+supeR_Systm2 collected $0.10 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) folded before Flop (didn't bet)
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: supeR_Systm2 (big blind) collected ($0.10)
+Seat 5: bernicethebeast folded before Flop (didn't bet)
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943367380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:25 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($19.74 in chips) 
+Seat 3: gresscrack ($15.94 in chips) 
+Seat 4: supeR_Systm2 ($10.75 in chips) 
+Seat 5: bernicethebeast ($22.74 in chips) 
+Seat 6: rosie22538 ($6.08 in chips) 
+supeR_Systm2: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: raises $0.20 to $0.30
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+supeR_Systm2: folds 
+bernicethebeast: calls $0.20
+*** FLOP *** [8c 2d Ts]
+bernicethebeast: checks 
+rosie22538: checks 
+*** TURN *** [8c 2d Ts] [8s]
+bernicethebeast: checks 
+rosie22538: bets $0.31
+bernicethebeast: calls $0.31
+*** RIVER *** [8c 2d Ts 8s] [Kc]
+bernicethebeast: checks 
+rosie22538: bets $1.21
+bernicethebeast: calls $1.21
+*** SHOW DOWN ***
+rosie22538: shows [Ah 6s] (a pair of Eights)
+bernicethebeast: shows [9c Th] (two pair, Tens and Eights)
+bernicethebeast collected $3.52 from pot
+*** SUMMARY ***
+Total pot $3.69 | Rake $0.17 
+Board [8c 2d Ts 8s Kc]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 (small blind) folded before Flop
+Seat 5: bernicethebeast (big blind) showed [9c Th] and won ($3.52) with two pair, Tens and Eights
+Seat 6: rosie22538 showed [Ah 6s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #222943384273:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:16 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($19.74 in chips) 
+Seat 3: gresscrack ($15.94 in chips) 
+Seat 4: supeR_Systm2 ($10.70 in chips) 
+Seat 6: rosie22538 ($4.26 in chips) 
+rosie22538: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+supeR_Systm2: calls $0.30
+rosie22538: folds 
+johnysvk18: folds 
+*** FLOP *** [Kh 3d 7c]
+ALF48: bets $0.10
+supeR_Systm2: calls $0.10
+*** TURN *** [Kh 3d 7c] [4h]
+ALF48: bets $0.68
+supeR_Systm2: folds 
+Uncalled bet ($0.68) returned to ALF48
+ALF48 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kh 3d 7c 4h]
+Seat 1: johnysvk18 (big blind) folded before Flop
+Seat 2: ALF48 collected ($0.91)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 (button) folded on the Turn
+Seat 6: rosie22538 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943399140:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:00 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 1: johnysvk18 ($26.36 in chips) 
+Seat 2: ALF48 ($20.25 in chips) 
+Seat 3: gresscrack ($15.94 in chips) 
+Seat 4: supeR_Systm2 ($10.30 in chips) 
+Seat 6: rosie22538 ($4.21 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+supeR_Systm2: folds 
+rosie22538: folds 
+johnysvk18: raises $0.15 to $0.25
+ALF48: folds 
+Uncalled bet ($0.15) returned to johnysvk18
+johnysvk18 collected $0.20 from pot
+johnysvk18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: johnysvk18 (small blind) collected ($0.20)
+Seat 2: ALF48 (big blind) folded before Flop
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 6: rosie22538 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943406364:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:21 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($20.15 in chips) 
+Seat 3: gresscrack ($15.94 in chips) 
+Seat 4: supeR_Systm2 ($10.30 in chips) 
+Seat 6: rosie22538 ($4.21 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2 has timed out
+supeR_Systm2: folds 
+rosie22538: raises $0.20 to $0.30
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Uncalled bet ($0.20) returned to rosie22538
+rosie22538 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: johnysvk18 (button) folded before Flop (didn't bet)
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 6: rosie22538 collected ($0.25)
+
+
+
+PokerStars Hand #222943417372:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:54 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($20.10 in chips) 
+Seat 3: gresscrack ($15.84 in chips) 
+Seat 4: supeR_Systm2 ($10.30 in chips) 
+Seat 6: rosie22538 ($4.36 in chips) 
+gresscrack: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: folds 
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+supeR_Systm2: folds 
+Uncalled bet ($0.20) returned to gresscrack
+gresscrack collected $0.20 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) folded before Flop (didn't bet)
+Seat 3: gresscrack (small blind) collected ($0.20)
+Seat 4: supeR_Systm2 (big blind) folded before Flop
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943422139:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:09 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($20.10 in chips) 
+Seat 3: gresscrack ($15.94 in chips) 
+Seat 4: supeR_Systm2 ($10.20 in chips) 
+Seat 6: rosie22538 ($4.36 in chips) 
+supeR_Systm2: posts small blind $0.05
+rosie22538: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+supeR_Systm2: folds 
+rosie22538: calls $0.20
+*** FLOP *** [5c Ac Kd]
+rosie22538: bets $0.31
+gresscrack: calls $0.31
+*** TURN *** [5c Ac Kd] [4h]
+rosie22538: checks 
+gresscrack: bets $0.91
+rosie22538: folds 
+Uncalled bet ($0.91) returned to gresscrack
+gresscrack collected $1.21 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [5c Ac Kd 4h]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) collected ($1.21)
+Seat 4: supeR_Systm2 (small blind) folded before Flop
+Seat 6: rosie22538 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222943435213:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:01 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($26.46 in chips) 
+Seat 2: ALF48 ($20.10 in chips) 
+Seat 3: gresscrack ($16.54 in chips) 
+Seat 4: supeR_Systm2 ($10.15 in chips) 
+Seat 6: rosie22538 ($3.75 in chips) 
+rosie22538: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+supeR_Systm2: folds 
+rosie22538: folds 
+johnysvk18: folds 
+Uncalled bet ($0.20) returned to gresscrack
+gresscrack collected $0.25 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: johnysvk18 (big blind) folded before Flop
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack collected ($0.25)
+Seat 4: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 6: rosie22538 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943439564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:18 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 1: johnysvk18 ($26.36 in chips) 
+Seat 2: ALF48 ($20.10 in chips) 
+Seat 3: gresscrack ($16.69 in chips) 
+Seat 4: supeR_Systm2 ($10.15 in chips) 
+Seat 5: bernicethebeast ($24.44 in chips) 
+Seat 6: rosie22538 ($3.70 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+bernicethebeast: posts small & big blinds $0.15
+*** HOLE CARDS ***
+gresscrack: folds 
+supeR_Systm2: folds 
+bernicethebeast: checks 
+rosie22538: folds 
+johnysvk18: raises $0.40 to $0.50
+ALF48: calls $0.40
+bernicethebeast: calls $0.40
+*** FLOP *** [9h 8s 7c]
+johnysvk18: checks 
+ALF48: checks 
+bernicethebeast: checks 
+*** TURN *** [9h 8s 7c] [Tc]
+johnysvk18: checks 
+ALF48: checks 
+bernicethebeast: checks 
+*** RIVER *** [9h 8s 7c Tc] [7d]
+johnysvk18: checks 
+ALF48: bets $0.99
+bernicethebeast: folds 
+johnysvk18: calls $0.99
+*** SHOW DOWN ***
+ALF48: shows [9c 6c] (a straight, Six to Ten)
+johnysvk18: mucks hand 
+ALF48 collected $3.37 from pot
+*** SUMMARY ***
+Total pot $3.53 | Rake $0.16 
+Board [9h 8s 7c Tc 7d]
+Seat 1: johnysvk18 (small blind) mucked
+Seat 2: ALF48 (big blind) showed [9c 6c] and won ($3.37) with a straight, Six to Ten
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 5: bernicethebeast folded on the River
+Seat 6: rosie22538 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943472984:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:28 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($24.87 in chips) 
+Seat 2: ALF48 ($21.98 in chips) 
+Seat 3: gresscrack ($16.69 in chips) 
+Seat 4: supeR_Systm2 ($10.15 in chips) 
+Seat 5: bernicethebeast ($23.89 in chips) 
+Seat 6: rosie22538 ($3.70 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+bernicethebeast: calls $0.10
+rosie22538: folds 
+johnysvk18: raises $0.25 to $0.35
+ALF48: folds 
+gresscrack: folds 
+bernicethebeast: calls $0.25
+*** FLOP *** [9c Ad Qs]
+bernicethebeast: checks 
+johnysvk18: bets $0.30
+bernicethebeast: calls $0.30
+*** TURN *** [9c Ad Qs] [6s]
+bernicethebeast: checks 
+johnysvk18: checks 
+*** RIVER *** [9c Ad Qs 6s] [Kh]
+bernicethebeast: checks 
+johnysvk18: bets $0.46
+bernicethebeast: calls $0.46
+*** SHOW DOWN ***
+johnysvk18: shows [Kc Jh] (a pair of Kings)
+bernicethebeast: mucks hand 
+johnysvk18 collected $2.26 from pot
+*** SUMMARY ***
+Total pot $2.37 | Rake $0.11 
+Board [9c Ad Qs 6s Kh]
+Seat 1: johnysvk18 (button) showed [Kc Jh] and won ($2.26) with a pair of Kings
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: supeR_Systm2 folded before Flop (didn't bet)
+Seat 5: bernicethebeast mucked
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943490138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:36 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($26.02 in chips) 
+Seat 2: ALF48 ($21.93 in chips) 
+Seat 3: gresscrack ($16.59 in chips) 
+Seat 5: bernicethebeast ($22.78 in chips) 
+Seat 6: rosie22538 ($3.70 in chips) 
+gresscrack: posts small blind $0.05
+supeR_Systm2: is sitting out 
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: folds 
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: raises $0.40 to $0.50
+bernicethebeast: folds 
+Uncalled bet ($0.40) returned to gresscrack
+gresscrack collected $0.20 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) folded before Flop (didn't bet)
+Seat 3: gresscrack (small blind) collected ($0.20)
+Seat 5: bernicethebeast (big blind) folded before Flop
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943494360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:52 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($26.02 in chips) 
+Seat 2: ALF48 ($21.93 in chips) 
+Seat 3: gresscrack ($16.69 in chips) 
+Seat 5: bernicethebeast ($22.68 in chips) 
+Seat 6: rosie22538 ($3.70 in chips) 
+bernicethebeast: posts small blind $0.05
+rosie22538: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2 leaves the table
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+bernicethebeast: folds 
+rosie22538: calls $0.20
+*** FLOP *** [As 3c 7h]
+rosie22538: checks 
+gresscrack: checks 
+*** TURN *** [As 3c 7h] [Ks]
+rosie22538: checks 
+gresscrack: bets $0.47
+rosie22538: folds 
+Uncalled bet ($0.47) returned to gresscrack
+gresscrack collected $0.62 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [As 3c 7h Ks]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) collected ($0.62)
+Seat 5: bernicethebeast (small blind) folded before Flop
+Seat 6: rosie22538 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222943504663:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:28 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 2: ALF48 ($21.93 in chips) 
+Seat 3: gresscrack ($17.01 in chips) 
+Seat 5: bernicethebeast ($22.63 in chips) 
+Seat 6: rosie22538 ($3.40 in chips) 
+rosie22538: posts small blind $0.05
+johnysvk18: is sitting out 
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+bernicethebeast: folds 
+rosie22538: raises $0.20 to $0.30
+ALF48: folds 
+Uncalled bet ($0.20) returned to rosie22538
+rosie22538 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: ALF48 (big blind) folded before Flop
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 5: bernicethebeast (button) folded before Flop (didn't bet)
+Seat 6: rosie22538 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943510168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:46 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 2: ALF48 ($21.83 in chips) 
+Seat 3: gresscrack ($17.01 in chips) 
+Seat 5: bernicethebeast ($22.63 in chips) 
+Seat 6: rosie22538 ($3.50 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+bernicethebeast: folds 
+rosie22538: raises $0.20 to $0.30
+ALF48: folds 
+gresscrack: calls $0.20
+*** FLOP *** [9h 6s 3d]
+gresscrack: checks 
+rosie22538: checks 
+*** TURN *** [9h 6s 3d] [Th]
+gresscrack: bets $0.20
+rosie22538: calls $0.20
+*** RIVER *** [9h 6s 3d Th] [Kc]
+Shannel4321 joins the table at seat #4 
+gresscrack: bets $1.30
+rosie22538: raises $1.70 to $3 and is all-in
+gresscrack: calls $1.70
+*** SHOW DOWN ***
+rosie22538: shows [Jh Qd] (a straight, Nine to King)
+gresscrack: shows [Qs Kd] (a pair of Kings)
+rosie22538 collected $6.73 from pot
+*** SUMMARY ***
+Total pot $7.05 | Rake $0.32 
+Board [9h 6s 3d Th Kc]
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) showed [Qs Kd] and lost with a pair of Kings
+Seat 5: bernicethebeast folded before Flop (didn't bet)
+Seat 6: rosie22538 (button) showed [Jh Qd] and won ($6.73) with a straight, Nine to King
+
+
+
+PokerStars Hand #222943531454:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:53 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 2: ALF48 ($21.78 in chips) 
+Seat 3: gresscrack ($13.51 in chips) 
+Seat 4: Shannel4321 ($8 in chips) 
+Seat 5: bernicethebeast ($22.63 in chips) 
+Seat 6: rosie22538 ($6.73 in chips) 
+gresscrack: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+bernicethebeast: calls $0.10
+rosie22538: raises $0.20 to $0.30
+ALF48: calls $0.30
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: calls $0.20
+*** FLOP *** [5d Jc Jh]
+bernicethebeast: checks 
+rosie22538: checks 
+ALF48: checks 
+*** TURN *** [5d Jc Jh] [2c]
+bernicethebeast: checks 
+rosie22538: bets $1
+ALF48: folds 
+bernicethebeast: folds 
+Uncalled bet ($1) returned to rosie22538
+rosie22538 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [5d Jc Jh 2c]
+Seat 2: ALF48 (button) folded on the Turn
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) folded before Flop
+Seat 5: bernicethebeast folded on the Turn
+Seat 6: rosie22538 collected ($1)
+
+
+
+PokerStars Hand #222943547652:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:43 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 2: ALF48 ($21.48 in chips) 
+Seat 3: gresscrack ($13.46 in chips) 
+Seat 4: Shannel4321 ($7.90 in chips) 
+Seat 5: bernicethebeast ($22.33 in chips) 
+Seat 6: rosie22538 ($7.43 in chips) 
+Shannel4321: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: folds 
+Uncalled bet ($0.20) returned to ALF48
+ALF48 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: ALF48 collected ($0.25)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: bernicethebeast (big blind) folded before Flop
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943552864:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:59 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 2: ALF48 ($21.63 in chips) 
+Seat 3: gresscrack ($13.46 in chips) 
+Seat 4: Shannel4321 ($7.85 in chips) 
+Seat 5: bernicethebeast ($22.23 in chips) 
+Seat 6: rosie22538 ($7.43 in chips) 
+bernicethebeast: posts small blind $0.05
+rosie22538: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+Shannel4321: folds 
+bernicethebeast: calls $0.25
+rosie22538: calls $0.20
+*** FLOP *** [6h Kh 9h]
+bernicethebeast: checks 
+rosie22538: checks 
+gresscrack: checks 
+*** TURN *** [6h Kh 9h] [Th]
+bernicethebeast: checks 
+rosie22538: bets $0.86
+gresscrack: folds 
+bernicethebeast: folds 
+Uncalled bet ($0.86) returned to rosie22538
+rosie22538 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [6h Kh 9h Th]
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded on the Turn
+Seat 4: Shannel4321 (button) folded before Flop (didn't bet)
+Seat 5: bernicethebeast (small blind) folded on the Turn
+Seat 6: rosie22538 (big blind) collected ($0.86)
+
+
+
+PokerStars Hand #222943568298:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:47 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 2: ALF48 ($21.63 in chips) 
+Seat 3: gresscrack ($13.16 in chips) 
+Seat 4: Shannel4321 ($7.85 in chips) 
+Seat 5: bernicethebeast ($21.93 in chips) 
+Seat 6: rosie22538 ($7.99 in chips) 
+rosie22538: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Shannel4321: calls $0.10
+bernicethebeast: folds 
+rosie22538: calls $0.05
+ALF48: checks 
+*** FLOP *** [5d 5h 3c]
+rosie22538: checks 
+ALF48: checks 
+Shannel4321: bets $0.10
+rosie22538: calls $0.10
+ALF48: folds 
+*** TURN *** [5d 5h 3c] [4h]
+rosie22538: bets $0.48
+Shannel4321: calls $0.48
+*** RIVER *** [5d 5h 3c 4h] [Qd]
+rosie22538: bets $1.39
+Shannel4321: folds 
+Uncalled bet ($1.39) returned to rosie22538
+rosie22538 collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.07 
+Board [5d 5h 3c 4h Qd]
+Seat 2: ALF48 (big blind) folded on the Flop
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 folded on the River
+Seat 5: bernicethebeast (button) folded before Flop (didn't bet)
+Seat 6: rosie22538 (small blind) collected ($1.39)
+
+
+
+PokerStars Hand #222943595858:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:12 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 2: ALF48 ($21.53 in chips) 
+Seat 3: gresscrack ($13.16 in chips) 
+Seat 4: Shannel4321 ($7.17 in chips) 
+Seat 5: bernicethebeast ($21.93 in chips) 
+Seat 6: rosie22538 ($8.70 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Shannel4321: folds 
+bernicethebeast: folds 
+rosie22538: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Uncalled bet ($0.20) returned to ALF48
+ALF48 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: ALF48 (small blind) collected ($0.20)
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: Shannel4321 folded before Flop (didn't bet)
+Seat 5: bernicethebeast folded before Flop (didn't bet)
+Seat 6: rosie22538 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943602171:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:22 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 2: ALF48 ($21.63 in chips) 
+Seat 3: gresscrack ($13.06 in chips) 
+Seat 4: Shannel4321 ($7.17 in chips) 
+Seat 5: bernicethebeast ($21.93 in chips) 
+Seat 6: rosie22538 ($8.70 in chips) 
+gresscrack: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+johnysvk18: sits out 
+*** HOLE CARDS ***
+bernicethebeast: folds 
+rosie22538: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: calls $0.20
+*** FLOP *** [7h Tc 6c]
+Shannel4321: bets $0.31
+ALF48: folds 
+Uncalled bet ($0.31) returned to Shannel4321
+Shannel4321 collected $0.62 from pot
+Shannel4321: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7h Tc 6c]
+Seat 2: ALF48 (button) folded on the Flop
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) collected ($0.62)
+Seat 5: bernicethebeast folded before Flop (didn't bet)
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943612784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:55 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 2: ALF48 ($21.33 in chips) 
+Seat 3: gresscrack ($13.01 in chips) 
+Seat 4: Shannel4321 ($7.49 in chips) 
+Seat 5: bernicethebeast ($21.93 in chips) 
+Seat 6: rosie22538 ($8.70 in chips) 
+Shannel4321: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+johnysvk18: sits out 
+*** HOLE CARDS ***
+rosie22538: raises $0.20 to $0.30
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: calls $0.20
+*** FLOP *** [3s 3h 7c]
+bernicethebeast: checks 
+rosie22538: bets $0.10
+bernicethebeast: calls $0.10
+*** TURN *** [3s 3h 7c] [8c]
+bernicethebeast: checks 
+rosie22538: bets $0.81
+bernicethebeast: folds 
+Uncalled bet ($0.81) returned to rosie22538
+rosie22538 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [3s 3h 7c 8c]
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: bernicethebeast (big blind) folded on the Turn
+Seat 6: rosie22538 collected ($0.81)
+
+
+
+PokerStars Hand #222943623205:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:27 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 2: ALF48 ($21.33 in chips) 
+Seat 3: gresscrack ($13.01 in chips) 
+Seat 4: Shannel4321 ($7.44 in chips) 
+Seat 5: bernicethebeast ($21.53 in chips) 
+Seat 6: rosie22538 ($9.11 in chips) 
+bernicethebeast: posts small blind $0.05
+rosie22538: posts big blind $0.10
+johnysvk18: sits out 
+*** HOLE CARDS ***
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: calls $0.25
+rosie22538: calls $0.20
+*** FLOP *** [Js 2s Tc]
+bernicethebeast: checks 
+rosie22538: checks 
+ALF48: checks 
+*** TURN *** [Js 2s Tc] [Kd]
+bernicethebeast: checks 
+rosie22538: bets $0.86
+ALF48: folds 
+bernicethebeast: folds 
+Uncalled bet ($0.86) returned to rosie22538
+rosie22538 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Js 2s Tc Kd]
+Seat 2: ALF48 folded on the Turn
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 (button) folded before Flop (didn't bet)
+Seat 5: bernicethebeast (small blind) folded on the Turn
+Seat 6: rosie22538 (big blind) collected ($0.86)
+
+
+
+PokerStars Hand #222943637018:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:10 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($26.02 in chips) 
+Seat 2: ALF48 ($21.03 in chips) 
+Seat 3: gresscrack ($13.01 in chips) 
+Seat 4: Shannel4321 ($7.44 in chips) 
+Seat 5: bernicethebeast ($21.23 in chips) 
+Seat 6: rosie22538 ($9.67 in chips) 
+rosie22538: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48 has timed out
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: folds 
+rosie22538: calls $0.05
+johnysvk18: raises $0.20 to $0.30
+rosie22538: calls $0.20
+*** FLOP *** [4s 3c Th]
+rosie22538: bets $0.57
+johnysvk18: folds 
+Uncalled bet ($0.57) returned to rosie22538
+rosie22538 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4s 3c Th]
+Seat 1: johnysvk18 (big blind) folded on the Flop
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 folded before Flop (didn't bet)
+Seat 5: bernicethebeast (button) folded before Flop (didn't bet)
+Seat 6: rosie22538 (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #222943648250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:45 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 1: johnysvk18 ($25.72 in chips) 
+Seat 2: ALF48 ($21.03 in chips) 
+Seat 3: gresscrack ($13.01 in chips) 
+Seat 4: Shannel4321 ($7.44 in chips) 
+Seat 5: bernicethebeast ($21.23 in chips) 
+Seat 6: rosie22538 ($9.94 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: folds 
+rosie22538: folds 
+johnysvk18: folds 
+Uncalled bet ($0.05) returned to ALF48
+ALF48 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: johnysvk18 (small blind) folded before Flop
+Seat 2: ALF48 (big blind) collected ($0.10)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 folded before Flop (didn't bet)
+Seat 5: bernicethebeast folded before Flop (didn't bet)
+Seat 6: rosie22538 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943651412:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:55 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($25.67 in chips) 
+Seat 2: ALF48 ($21.08 in chips) 
+Seat 3: gresscrack ($13.01 in chips) 
+Seat 4: Shannel4321 ($7.44 in chips) 
+Seat 5: bernicethebeast ($21.23 in chips) 
+Seat 6: rosie22538 ($9.94 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Shannel4321: calls $0.10
+bernicethebeast: calls $0.10
+rosie22538: calls $0.10
+johnysvk18: folds 
+ALF48: raises $0.90 to $1
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: folds 
+rosie22538: calls $0.90
+*** FLOP *** [9h 9s 8d]
+ALF48: bets $0.73
+rosie22538: calls $0.73
+*** TURN *** [9h 9s 8d] [Qh]
+ALF48: checks 
+rosie22538: checks 
+*** RIVER *** [9h 9s 8d Qh] [Js]
+ALF48: bets $1.18
+rosie22538: calls $1.18
+*** SHOW DOWN ***
+ALF48: shows [Qs Ac] (two pair, Queens and Nines)
+rosie22538: mucks hand 
+ALF48 collected $5.84 from pot
+*** SUMMARY ***
+Total pot $6.12 | Rake $0.28 
+Board [9h 9s 8d Qh Js]
+Seat 1: johnysvk18 (button) folded before Flop (didn't bet)
+Seat 2: ALF48 (small blind) showed [Qs Ac] and won ($5.84) with two pair, Queens and Nines
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: Shannel4321 folded before Flop
+Seat 5: bernicethebeast folded before Flop
+Seat 6: rosie22538 mucked
+
+
+
+PokerStars Hand #222943669550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:51 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($25.67 in chips) 
+Seat 2: ALF48 ($24.01 in chips) 
+Seat 3: gresscrack ($12.91 in chips) 
+Seat 4: Shannel4321 ($7.34 in chips) 
+Seat 5: bernicethebeast ($21.13 in chips) 
+Seat 6: rosie22538 ($7.03 in chips) 
+gresscrack: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+bernicethebeast: calls $0.10
+rosie22538: raises $0.20 to $0.30
+johnysvk18: raises $0.60 to $0.90
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: folds 
+rosie22538: calls $0.60
+*** FLOP *** [8c Jd Tc]
+rosie22538: bets $0.98
+johnysvk18: raises $1.92 to $2.90
+rosie22538: calls $1.92
+*** TURN *** [8c Jd Tc] [5d]
+rosie22538: bets $3.23 and is all-in
+johnysvk18: calls $3.23
+*** RIVER *** [8c Jd Tc 5d] [7d]
+*** SHOW DOWN ***
+rosie22538: shows [8s 7s] (two pair, Eights and Sevens)
+johnysvk18: shows [Kc Qc] (high card King)
+rosie22538 collected $13.67 from pot
+*** SUMMARY ***
+Total pot $14.31 | Rake $0.64 
+Board [8c Jd Tc 5d 7d]
+Seat 1: johnysvk18 showed [Kc Qc] and lost with high card King
+Seat 2: ALF48 (button) folded before Flop (didn't bet)
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) folded before Flop
+Seat 5: bernicethebeast folded before Flop
+Seat 6: rosie22538 showed [8s 7s] and won ($13.67) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #222943687653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:47 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($18.64 in chips) 
+Seat 2: ALF48 ($24.01 in chips) 
+Seat 3: gresscrack ($12.86 in chips) 
+Seat 4: Shannel4321 ($7.24 in chips) 
+Seat 5: bernicethebeast ($21.03 in chips) 
+Seat 6: rosie22538 ($13.67 in chips) 
+Shannel4321: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: raises $0.20 to $0.30
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: calls $0.25
+bernicethebeast: folds 
+*** FLOP *** [Ac 7d 5s]
+Shannel4321: checks 
+rosie22538: checks 
+*** TURN *** [Ac 7d 5s] [2d]
+Shannel4321: checks 
+rosie22538: bets $0.67
+Shannel4321: folds 
+Uncalled bet ($0.67) returned to rosie22538
+rosie22538 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Ac 7d 5s 2d]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded on the Turn
+Seat 5: bernicethebeast (big blind) folded before Flop
+Seat 6: rosie22538 collected ($0.67)
+
+
+
+PokerStars Hand #222943697549:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:18 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($18.64 in chips) 
+Seat 2: ALF48 ($24.01 in chips) 
+Seat 3: gresscrack ($12.86 in chips) 
+Seat 4: Shannel4321 ($6.94 in chips) 
+Seat 5: bernicethebeast ($20.93 in chips) 
+Seat 6: rosie22538 ($14.04 in chips) 
+bernicethebeast: posts small blind $0.05
+rosie22538: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: folds 
+bernicethebeast: folds 
+rosie22538: calls $0.20
+*** FLOP *** [8s Qh Ad]
+rosie22538: checks 
+ALF48: bets $0.41
+bernicethebeast leaves the table
+rosie22538: folds 
+Uncalled bet ($0.41) returned to ALF48
+ALF48 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8s Qh Ad]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 collected ($0.62)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 (button) folded before Flop (didn't bet)
+Seat 5: bernicethebeast (small blind) folded before Flop
+Seat 6: rosie22538 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943705627:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:41 ET
+Table 'Columbia III' 6-max Seat #6 is the button
+Seat 1: johnysvk18 ($18.64 in chips) 
+Seat 2: ALF48 ($24.33 in chips) 
+Seat 3: gresscrack ($12.86 in chips) 
+Seat 4: Shannel4321 ($6.94 in chips) 
+Seat 6: rosie22538 ($13.74 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: raises $0.20 to $0.30
+Shannel4321: calls $0.30
+rosie22538: calls $0.30
+johnysvk18: folds 
+ALF48: folds 
+*** FLOP *** [3s Jh 6c]
+gresscrack: checks 
+Shannel4321: checks 
+Black021 joins the table at seat #5 
+rosie22538: checks 
+*** TURN *** [3s Jh 6c] [8d]
+gresscrack: checks 
+Shannel4321: checks 
+rosie22538: checks 
+*** RIVER *** [3s Jh 6c 8d] [Jc]
+gresscrack: checks 
+Shannel4321: checks 
+rosie22538: checks 
+*** SHOW DOWN ***
+gresscrack: shows [Qs Kd] (a pair of Jacks)
+Shannel4321: mucks hand 
+rosie22538: mucks hand 
+gresscrack collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [3s Jh 6c 8d Jc]
+Seat 1: johnysvk18 (small blind) folded before Flop
+Seat 2: ALF48 (big blind) folded before Flop
+Seat 3: gresscrack showed [Qs Kd] and won ($1) with a pair of Jacks
+Seat 4: Shannel4321 mucked
+Seat 6: rosie22538 (button) mucked
+
+
+
+PokerStars Hand #222943725352:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:42 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($18.59 in chips) 
+Seat 2: ALF48 ($24.23 in chips) 
+Seat 3: gresscrack ($13.56 in chips) 
+Seat 4: Shannel4321 ($6.64 in chips) 
+Seat 6: rosie22538 ($13.44 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+Black021: sits out 
+*** HOLE CARDS ***
+Shannel4321: raises $0.10 to $0.20
+rosie22538: calls $0.20
+johnysvk18: calls $0.20
+ALF48: folds 
+gresscrack: folds 
+*** FLOP *** [7s 2c 9h]
+Shannel4321: checks 
+rosie22538: checks 
+johnysvk18: bets $0.30
+Shannel4321: calls $0.30
+rosie22538: calls $0.30
+*** TURN *** [7s 2c 9h] [4h]
+Shannel4321: checks 
+rosie22538: bets $0.79
+johnysvk18: calls $0.79
+Shannel4321: folds 
+*** RIVER *** [7s 2c 9h 4h] [5c]
+rosie22538: bets $3.08
+johnysvk18: calls $3.08
+*** SHOW DOWN ***
+rosie22538: shows [Ah Qc] (high card Ace)
+johnysvk18: shows [8h 7h] (a pair of Sevens)
+johnysvk18 collected $8.97 from pot
+*** SUMMARY ***
+Total pot $9.39 | Rake $0.42 
+Board [7s 2c 9h 4h 5c]
+Seat 1: johnysvk18 (button) showed [8h 7h] and won ($8.97) with a pair of Sevens
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: Shannel4321 folded on the Turn
+Seat 6: rosie22538 showed [Ah Qc] and lost with high card Ace
+
+
+
+PokerStars Hand #222943756013:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:05 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($23.19 in chips) 
+Seat 2: ALF48 ($24.18 in chips) 
+Seat 3: gresscrack ($13.46 in chips) 
+Seat 4: Shannel4321 ($6.14 in chips) 
+Seat 6: rosie22538 ($9.07 in chips) 
+gresscrack: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+Black021: sits out 
+*** HOLE CARDS ***
+rosie22538: folds 
+johnysvk18: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: folds 
+Uncalled bet ($0.20) returned to ALF48
+ALF48 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) collected ($0.25)
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) folded before Flop
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943759549:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:17 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($23.19 in chips) 
+Seat 2: ALF48 ($24.33 in chips) 
+Seat 3: gresscrack ($13.41 in chips) 
+Seat 4: Shannel4321 ($6.04 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Seat 6: rosie22538 ($9.07 in chips) 
+Shannel4321: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+rosie22538: folds 
+johnysvk18: raises $0.15 to $0.25
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+Black021: raises $0.75 to $1
+johnysvk18: folds 
+Uncalled bet ($0.75) returned to Black021
+Black021 collected $0.55 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: johnysvk18 folded before Flop
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: Black021 (big blind) collected ($0.55)
+Seat 6: rosie22538 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943766307:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:37 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($22.94 in chips) 
+Seat 2: ALF48 ($24.33 in chips) 
+Seat 3: gresscrack ($13.41 in chips) 
+Seat 4: Shannel4321 ($5.99 in chips) 
+Seat 5: Black021 ($10.30 in chips) 
+Seat 6: rosie22538 ($9.07 in chips) 
+Black021: posts small blind $0.05
+rosie22538: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: calls $0.10
+Black021: folds 
+rosie22538: checks 
+*** FLOP *** [3s 8s Jh]
+rosie22538: checks 
+Shannel4321: checks 
+*** TURN *** [3s 8s Jh] [2c]
+rosie22538: bets $0.24
+Shannel4321: folds 
+Uncalled bet ($0.24) returned to rosie22538
+rosie22538 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3s 8s Jh 2c]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 (button) folded on the Turn
+Seat 5: Black021 (small blind) folded before Flop
+Seat 6: rosie22538 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #222943777771:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:13 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($22.94 in chips) 
+Seat 2: ALF48 ($24.33 in chips) 
+Seat 3: gresscrack ($13.41 in chips) 
+Seat 4: Shannel4321 ($5.89 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+Seat 6: rosie22538 ($9.21 in chips) 
+rosie22538: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: calls $0.10
+Black021: folds 
+rosie22538: raises $0.20 to $0.30
+johnysvk18: calls $0.20
+Shannel4321: calls $0.20
+*** FLOP *** [Js Th Qc]
+rosie22538: bets $0.86
+johnysvk18: calls $0.86
+Shannel4321: folds 
+*** TURN *** [Js Th Qc] [Ah]
+rosie22538: bets $2.50
+johnysvk18: raises $7.50 to $10
+rosie22538: calls $5.55 and is all-in
+Uncalled bet ($1.95) returned to johnysvk18
+*** RIVER *** [Js Th Qc Ah] [6s]
+*** SHOW DOWN ***
+rosie22538: shows [Qh Jc] (two pair, Queens and Jacks)
+johnysvk18: shows [Kc Td] (a straight, Ten to Ace)
+johnysvk18 collected $17.88 from pot
+*** SUMMARY ***
+Total pot $18.72 | Rake $0.84 
+Board [Js Th Qc Ah 6s]
+Seat 1: johnysvk18 (big blind) showed [Kc Td] and won ($17.88) with a straight, Ten to Ace
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 folded on the Flop
+Seat 5: Black021 (button) folded before Flop (didn't bet)
+Seat 6: rosie22538 (small blind) showed [Qh Jc] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222943795104:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:07 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($31.61 in chips) 
+Seat 2: ALF48 ($24.33 in chips) 
+Seat 3: gresscrack ($13.41 in chips) 
+Seat 4: Shannel4321 ($5.59 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Shannel4321: raises $0.20 to $0.30
+Black021: folds 
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Uncalled bet ($0.20) returned to Shannel4321
+Shannel4321 collected $0.25 from pot
+Shannel4321: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: johnysvk18 (button) folded before Flop (didn't bet)
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: Shannel4321 collected ($0.25)
+Seat 5: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943799309:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:20 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($31.61 in chips) 
+Seat 2: ALF48 ($24.28 in chips) 
+Seat 3: gresscrack ($13.31 in chips) 
+Seat 4: Shannel4321 ($5.74 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+gresscrack: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+johnysvk18: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: calls $0.20
+*** FLOP *** [7c 9d 9h]
+Shannel4321: bets $0.31
+ALF48: calls $0.31
+*** TURN *** [7c 9d 9h] [Qc]
+Shannel4321: bets $0.60
+ALF48: calls $0.60
+*** RIVER *** [7c 9d 9h Qc] [4h]
+Shannel4321: checks 
+ALF48: checks 
+*** SHOW DOWN ***
+Shannel4321: shows [Ac 2h] (a pair of Nines)
+ALF48: shows [5d 5s] (two pair, Nines and Fives)
+ALF48 collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [7c 9d 9h Qc 4h]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) showed [5d 5s] and won ($2.36) with two pair, Nines and Fives
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) showed [Ac 2h] and lost with a pair of Nines
+Seat 5: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943813004:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:03 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($31.61 in chips) 
+Seat 2: ALF48 ($25.43 in chips) 
+Seat 3: gresscrack ($13.26 in chips) 
+Seat 4: Shannel4321 ($4.53 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+Shannel4321: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+Uncalled bet ($0.05) returned to Black021
+Black021 collected $0.10 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: Black021 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943816248:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:13 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($31.61 in chips) 
+Seat 2: ALF48 ($25.43 in chips) 
+Seat 3: gresscrack ($13.26 in chips) 
+Seat 4: Shannel4321 ($4.48 in chips) 
+Seat 5: Black021 ($10.30 in chips) 
+Black021: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+gresscrack: raises $0.20 to $0.30
+Shannel4321: calls $0.30
+Black021: folds 
+johnysvk18: folds 
+*** FLOP *** [Jh 2s As]
+gresscrack: bets $0.18
+Shannel4321: folds 
+Uncalled bet ($0.18) returned to gresscrack
+gresscrack collected $0.72 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Jh 2s As]
+Seat 1: johnysvk18 (big blind) folded before Flop
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack collected ($0.72)
+Seat 4: Shannel4321 (button) folded on the Flop
+Seat 5: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943824540:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:39 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($31.51 in chips) 
+Seat 2: ALF48 ($25.43 in chips) 
+Seat 3: gresscrack ($13.68 in chips) 
+Seat 4: Shannel4321 ($4.18 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+Shannel4321: folds 
+Black021: folds 
+johnysvk18: raises $0.15 to $0.25
+ALF48: calls $0.15
+*** FLOP *** [9d Qs 6s]
+johnysvk18: checks 
+ALF48: bets $0.16
+johnysvk18: calls $0.16
+*** TURN *** [9d Qs 6s] [Jc]
+johnysvk18: checks 
+ALF48: bets $0.59
+johnysvk18: folds 
+Uncalled bet ($0.59) returned to ALF48
+ALF48 collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [9d Qs 6s Jc]
+Seat 1: johnysvk18 (small blind) folded on the Turn
+Seat 2: ALF48 (big blind) collected ($0.78)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 folded before Flop (didn't bet)
+Seat 5: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943850745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:34 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($31.10 in chips) 
+Seat 2: ALF48 ($25.80 in chips) 
+Seat 3: gresscrack ($13.68 in chips) 
+Seat 4: Shannel4321 ($4.18 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+ALF48: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+Shannel4321: calls $0.10
+Black021: folds 
+johnysvk18: raises $0.25 to $0.35
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+Uncalled bet ($0.25) returned to johnysvk18
+johnysvk18 collected $0.35 from pot
+johnysvk18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: johnysvk18 (button) collected ($0.35)
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 3: gresscrack (big blind) folded before Flop
+Seat 4: Shannel4321 folded before Flop
+Seat 5: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943856514:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:52 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($31.35 in chips) 
+Seat 2: ALF48 ($25.75 in chips) 
+Seat 3: gresscrack ($13.58 in chips) 
+Seat 4: Shannel4321 ($4.08 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+gresscrack: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+johnysvk18: folds 
+ALF48: raises $0.20 to $0.30
+gresscrack: folds 
+Shannel4321: calls $0.20
+*** FLOP *** [3c 3h 3s]
+Shannel4321: checks 
+ALF48: bets $0.41
+Shannel4321: calls $0.41
+*** TURN *** [3c 3h 3s] [8d]
+Shannel4321: checks 
+ALF48: bets $0.93
+Shannel4321: calls $0.93
+*** RIVER *** [3c 3h 3s 8d] [Jc]
+Shannel4321: checks 
+ALF48: bets $2.94
+Shannel4321: folds 
+Uncalled bet ($2.94) returned to ALF48
+ALF48 collected $3.18 from pot
+*** SUMMARY ***
+Total pot $3.33 | Rake $0.15 
+Board [3c 3h 3s 8d Jc]
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) collected ($3.18)
+Seat 3: gresscrack (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) folded on the River
+Seat 5: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943879316:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:40 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($31.35 in chips) 
+Seat 2: ALF48 ($27.29 in chips) 
+Seat 3: gresscrack ($13.53 in chips) 
+Seat 4: Shannel4321 ($2.44 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+Shannel4321: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+Uncalled bet ($0.05) returned to Black021
+Black021 collected $0.10 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: Black021 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943882270:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:50 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($31.35 in chips) 
+Seat 2: ALF48 ($27.29 in chips) 
+Seat 3: gresscrack ($13.53 in chips) 
+Seat 4: Shannel4321 ($2.39 in chips) 
+Seat 5: Black021 ($10.30 in chips) 
+Black021: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+gresscrack: folds 
+Shannel4321: folds 
+Black021: raises $0.17 to $0.27
+johnysvk18: folds 
+Uncalled bet ($0.17) returned to Black021
+Black021 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: johnysvk18 (big blind) folded before Flop
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 (button) folded before Flop (didn't bet)
+Seat 5: Black021 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943885666:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:00 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($31.25 in chips) 
+Seat 2: ALF48 ($27.29 in chips) 
+Seat 3: gresscrack ($13.53 in chips) 
+Seat 4: Shannel4321 ($2.39 in chips) 
+Seat 5: Black021 ($10.40 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+gresscrack leaves the table
+Shannel4321: calls $0.10
+Black021: folds 
+johnysvk18: folds 
+ALF48: checks 
+*** FLOP *** [Ad Kd 2d]
+ALF48: checks 
+Shannel4321: bets $0.12
+ALF48: calls $0.12
+*** TURN *** [Ad Kd 2d] [2s]
+ALF48: checks 
+Shannel4321: bets $0.23
+ALF48: calls $0.23
+*** RIVER *** [Ad Kd 2d 2s] [4h]
+ALF48: checks 
+Shannel4321: bets $0.91
+Robmanhawha joins the table at seat #3 
+ALF48: calls $0.91
+*** SHOW DOWN ***
+Shannel4321: shows [6d 5d] (a flush, Ace high)
+ALF48: mucks hand 
+Shannel4321 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.77 | Rake $0.12 
+Board [Ad Kd 2d 2s 4h]
+Seat 1: johnysvk18 (small blind) folded before Flop
+Seat 2: ALF48 (big blind) mucked
+Seat 3: gresscrack folded before Flop (didn't bet)
+Seat 4: Shannel4321 showed [6d 5d] and won ($2.65) with a flush, Ace high
+Seat 5: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943904138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:59 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($31.20 in chips) 
+Seat 2: ALF48 ($25.93 in chips) 
+Seat 3: Robmanhawha ($10 in chips) 
+Seat 4: Shannel4321 ($3.68 in chips) 
+Seat 5: Black021 ($10.40 in chips) 
+ALF48: posts small blind $0.05
+Robmanhawha: posts big blind $0.10
+*** HOLE CARDS ***
+Shannel4321: folds 
+Black021: folds 
+johnysvk18: folds 
+ALF48: raises $0.20 to $0.30
+Robmanhawha: folds 
+Uncalled bet ($0.20) returned to ALF48
+ALF48 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: johnysvk18 (button) folded before Flop (didn't bet)
+Seat 2: ALF48 (small blind) collected ($0.20)
+Seat 3: Robmanhawha (big blind) folded before Flop
+Seat 4: Shannel4321 folded before Flop (didn't bet)
+Seat 5: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943912462:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:25 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($31.20 in chips) 
+Seat 2: ALF48 ($26.03 in chips) 
+Seat 3: Robmanhawha ($9.90 in chips) 
+Seat 4: Shannel4321 ($3.68 in chips) 
+Seat 5: Black021 ($10.40 in chips) 
+Robmanhawha: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+johnysvk18: raises $0.15 to $0.25
+ALF48: raises $0.65 to $0.90
+Robmanhawha: folds 
+Shannel4321: folds 
+johnysvk18: folds 
+Uncalled bet ($0.65) returned to ALF48
+ALF48 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: johnysvk18 folded before Flop
+Seat 2: ALF48 (button) collected ($0.65)
+Seat 3: Robmanhawha (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) folded before Flop
+Seat 5: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943923968:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:01 ET
+Table 'Columbia III' 6-max Seat #3 is the button
+Seat 1: johnysvk18 ($30.95 in chips) 
+Seat 2: ALF48 ($26.43 in chips) 
+Seat 3: Robmanhawha ($9.85 in chips) 
+Seat 4: Shannel4321 ($3.58 in chips) 
+Seat 5: Black021 ($10.40 in chips) 
+Shannel4321: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: raises $0.15 to $0.25
+ALF48: folds 
+Robmanhawha: folds 
+Shannel4321: folds 
+Black021: folds 
+Uncalled bet ($0.15) returned to johnysvk18
+johnysvk18 collected $0.25 from pot
+johnysvk18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: johnysvk18 collected ($0.25)
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: Robmanhawha (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943930115:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:20 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($31.10 in chips) 
+Seat 2: ALF48 ($26.43 in chips) 
+Seat 3: Robmanhawha ($9.85 in chips) 
+Seat 4: Shannel4321 ($3.53 in chips) 
+Seat 5: Black021 ($10.30 in chips) 
+Black021: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+Robmanhawha: folds 
+Shannel4321: calls $0.10
+Black021: folds 
+johnysvk18: checks 
+*** FLOP *** [Js 7c Jd]
+johnysvk18: checks 
+Shannel4321: checks 
+*** TURN *** [Js 7c Jd] [Th]
+johnysvk18: checks 
+Shannel4321: checks 
+*** RIVER *** [Js 7c Jd Th] [9d]
+johnysvk18: checks 
+Shannel4321: checks 
+*** SHOW DOWN ***
+johnysvk18: shows [Ad 5d] (a pair of Jacks)
+Shannel4321: shows [6s 6h] (two pair, Jacks and Sixes)
+Shannel4321 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Js 7c Jd Th 9d]
+Seat 1: johnysvk18 (big blind) showed [Ad 5d] and lost with a pair of Jacks
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 3: Robmanhawha folded before Flop (didn't bet)
+Seat 4: Shannel4321 (button) showed [6s 6h] and won ($0.24) with two pair, Jacks and Sixes
+Seat 5: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943945654:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:09 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($31 in chips) 
+Seat 2: ALF48 ($26.43 in chips) 
+Seat 3: Robmanhawha ($9.85 in chips) 
+Seat 4: Shannel4321 ($3.67 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+Robmanhawha has timed out
+Robmanhawha: folds 
+Shannel4321: calls $0.10
+Black021: folds 
+johnysvk18: folds 
+ALF48: raises $0.40 to $0.50
+Shannel4321: calls $0.40
+*** FLOP *** [Qc 6c 3h]
+ALF48: bets $0.54
+Shannel4321: folds 
+Uncalled bet ($0.54) returned to ALF48
+ALF48 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Qc 6c 3h]
+Seat 1: johnysvk18 (small blind) folded before Flop
+Seat 2: ALF48 (big blind) collected ($1)
+Seat 3: Robmanhawha folded before Flop (didn't bet)
+Seat 4: Shannel4321 folded on the Flop
+Seat 5: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943958566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:50 ET
+Table 'Columbia III' 6-max Seat #1 is the button
+Seat 1: johnysvk18 ($30.95 in chips) 
+Seat 2: ALF48 ($26.93 in chips) 
+Seat 4: Shannel4321 ($3.17 in chips) 
+Seat 5: Black021 ($10.25 in chips) 
+ALF48: posts small blind $0.05
+Shannel4321: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: raises $0.15 to $0.25
+johnysvk18: folds 
+ALF48: folds 
+Shannel4321: calls $0.15
+*** FLOP *** [8s Qh 5s]
+Shannel4321: bets $0.20
+Black021: folds 
+Uncalled bet ($0.20) returned to Shannel4321
+Shannel4321 collected $0.53 from pot
+Shannel4321: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8s Qh 5s]
+Seat 1: johnysvk18 (button) folded before Flop (didn't bet)
+Seat 2: ALF48 (small blind) folded before Flop
+Seat 4: Shannel4321 (big blind) collected ($0.53)
+Seat 5: Black021 folded on the Flop
+
+
+
+PokerStars Hand #222943966453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:15 ET
+Table 'Columbia III' 6-max Seat #2 is the button
+Seat 1: johnysvk18 ($30.95 in chips) 
+Seat 2: ALF48 ($26.88 in chips) 
+Seat 4: Shannel4321 ($3.45 in chips) 
+Seat 5: Black021 ($10 in chips) 
+Shannel4321: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+johnysvk18: folds 
+ALF48: folds 
+Shannel4321: folds 
+Uncalled bet ($0.05) returned to Black021
+Black021 collected $0.10 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: johnysvk18 folded before Flop (didn't bet)
+Seat 2: ALF48 (button) folded before Flop (didn't bet)
+Seat 4: Shannel4321 (small blind) folded before Flop
+Seat 5: Black021 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943969354:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:23 ET
+Table 'Columbia III' 6-max Seat #4 is the button
+Seat 1: johnysvk18 ($30.95 in chips) 
+Seat 2: ALF48 ($26.88 in chips) 
+Seat 4: Shannel4321 ($3.40 in chips) 
+Seat 5: Black021 ($10.05 in chips) 
+Black021: posts small blind $0.05
+johnysvk18: posts big blind $0.10
+*** HOLE CARDS ***
+ALF48: folds 
+Shannel4321: folds 
+Black021: raises $0.17 to $0.27
+johnysvk18: calls $0.17
+*** FLOP *** [4d Qc Td]
+Shannel4321 leaves the table
+Black021: bets $0.34
+johnysvk18: folds 
+Uncalled bet ($0.34) returned to Black021
+Black021 collected $0.52 from pot
+rosie22538 was removed from the table for failing to post
+rosie22538 leaves the table
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [4d Qc Td]
+Seat 1: johnysvk18 (big blind) folded on the Flop
+Seat 2: ALF48 folded before Flop (didn't bet)
+Seat 4: Shannel4321 (button) folded before Flop (didn't bet)
+Seat 5: Black021 (small blind) collected ($0.52)
+
+
+
+PokerStars Hand #222943975806:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:44 ET
+Table 'Columbia III' 6-max Seat #5 is the button
+Seat 1: johnysvk18 ($30.68 in chips) 
+Seat 2: ALF48 ($26.88 in chips) 
+Seat 5: Black021 ($10.30 in chips) 
+johnysvk18: posts small blind $0.05
+ALF48: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: raises $0.12 to $0.22
+johnysvk18: folds 
+ALF48: calls $0.12
+*** FLOP *** [6d 3h 4c]
+ALF48: checks 
+Black021: bets $0.31
+ALF48: calls $0.31
+*** TURN *** [6d 3h 4c] [Ac]
+ALF48: checks 
+Black021: checks 
+*** RIVER *** [6d 3h 4c Ac] [8c]
+ALF48: bets $0.35
+Black021: folds 
+Uncalled bet ($0.35) returned to ALF48
+ALF48 collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05 
+Board [6d 3h 4c Ac 8c]
+Seat 1: johnysvk18 (small blind) folded before Flop
+Seat 2: ALF48 (big blind) collected ($1.06)
+Seat 5: Black021 (button) folded on the River
+
+
+

@@ -122,5 +122,17 @@ namespace pokerx {
         RandomNumberGenerator::getInstance().setSeed(seed);
     }
 
+    void GameVariables::injectCommunityCards(const std::vector<ICard*>& cards){
+        injectedCommunityCards_ = cards;
+    }
+
+    void GameVariables::injectCommunityCards(const std::initializer_list<ICard *> &cards) {
+        injectedCommunityCards_ = std::vector<ICard*>(cards.begin(), cards.end());
+    }
+
+    const std::vector<ICard *> &GameVariables::getInjectedCommunityCards() const {
+        return injectedCommunityCards_;
+    }
+
 
 }

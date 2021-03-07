@@ -1,0 +1,4706 @@
+﻿PokerStars Hand #222944424646:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:47:37 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 2: Himik30 ($7.61 in chips) 
+Seat 3: ildar87kzn ($11.04 in chips) 
+Seat 4: starii13 ($14.82 in chips) 
+Seat 6: arabella 33 ($17.54 in chips) 
+starii13: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+ildar87kzn: raises $0.20 to $0.30
+starii13: folds 
+arabella 33: calls $0.20
+*** FLOP *** [Td Jd 7c]
+Himik30 leaves the table
+arabella 33: checks 
+bubbleburner85 leaves the table
+ildar87kzn: checks 
+*** TURN *** [Td Jd 7c] [4s]
+bernicethebeast joins the table at seat #1 
+arabella 33: checks 
+ildar87kzn: checks 
+*** RIVER *** [Td Jd 7c 4s] [2c]
+arabella 33: checks 
+ildar87kzn: checks 
+*** SHOW DOWN ***
+arabella 33: shows [7s 8s] (a pair of Sevens)
+ildar87kzn: mucks hand 
+arabella 33 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td Jd 7c 4s 2c]
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) mucked
+Seat 4: starii13 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) showed [7s 8s] and won ($0.62) with a pair of Sevens
+
+
+
+PokerStars Hand #222944446676:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:48:51 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: bernicethebeast ($4 in chips) 
+Seat 3: ildar87kzn ($10.74 in chips) 
+Seat 4: starii13 ($14.77 in chips) 
+Seat 6: arabella 33 ($17.86 in chips) 
+arabella 33: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.20 to $0.30
+starii13: folds 
+arabella 33: folds 
+bernicethebeast: folds 
+Uncalled bet ($0.20) returned to ildar87kzn
+ildar87kzn collected $0.25 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bernicethebeast (big blind) folded before Flop
+Seat 3: ildar87kzn collected ($0.25)
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944449817:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:49:02 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: bernicethebeast ($3.90 in chips) 
+Seat 3: ildar87kzn ($10.89 in chips) 
+Seat 4: starii13 ($14.77 in chips) 
+Seat 6: arabella 33 ($17.81 in chips) 
+bernicethebeast: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: raises $0.20 to $0.30
+arabella 33: folds 
+bernicethebeast: calls $0.25
+ildar87kzn: folds 
+*** FLOP *** [4s Ad 5d]
+bernicethebeast: checks 
+starii13: bets $0.25
+bernicethebeast: folds 
+Uncalled bet ($0.25) returned to starii13
+starii13 collected $0.67 from pot
+starii13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [4s Ad 5d]
+Seat 1: bernicethebeast (small blind) folded on the Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 4: starii13 collected ($0.67)
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944457237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:49:27 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: bernicethebeast ($3.60 in chips) 
+Seat 3: ildar87kzn ($10.79 in chips) 
+Seat 4: starii13 ($15.14 in chips) 
+Seat 6: arabella 33 ($17.81 in chips) 
+ildar87kzn: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+bernicethebeast: calls $0.10
+ildar87kzn: calls $0.05
+starii13: checks 
+*** FLOP *** [3d 2h Ah]
+ildar87kzn: bets $0.19
+starii13: folds 
+bernicethebeast: folds 
+Uncalled bet ($0.19) returned to ildar87kzn
+ildar87kzn collected $0.29 from pot
+ildar87kzn: doesn't show hand 
+arabella 33 leaves the table
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3d 2h Ah]
+Seat 1: bernicethebeast (button) folded on the Flop
+Seat 3: ildar87kzn (small blind) collected ($0.29)
+Seat 4: starii13 (big blind) folded on the Flop
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944463356:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:49:48 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: bernicethebeast ($3.50 in chips) 
+Seat 3: ildar87kzn ($10.98 in chips) 
+Seat 4: starii13 ($15.04 in chips) 
+starii13: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+starii13: folds 
+Uncalled bet ($0.05) returned to bernicethebeast
+bernicethebeast collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bernicethebeast (big blind) collected ($0.10)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: starii13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944464796:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:49:53 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: bernicethebeast ($3.55 in chips) 
+Seat 3: ildar87kzn ($10.98 in chips) 
+Seat 4: starii13 ($14.99 in chips) 
+bernicethebeast: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame joins the table at seat #5 
+starii13: folds 
+bernicethebeast: folds 
+Uncalled bet ($0.05) returned to ildar87kzn
+ildar87kzn collected $0.10 from pot
+ildar87kzn: doesn't show hand 
+starii13 leaves the table
+lnfIame leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bernicethebeast (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) collected ($0.10)
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944467068:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:00 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: bernicethebeast ($3.50 in chips) 
+Seat 3: ildar87kzn ($11.03 in chips) 
+ildar87kzn: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+Uncalled bet ($0.05) returned to bernicethebeast
+bernicethebeast collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bernicethebeast (big blind) collected ($0.10)
+Seat 3: ildar87kzn (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944468261:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:04 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: bernicethebeast ($3.55 in chips) 
+Seat 3: ildar87kzn ($10.98 in chips) 
+bernicethebeast: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+bernicethebeast: calls $0.05
+ildar87kzn: checks 
+*** FLOP *** [6h 3s 8d]
+lnfIame joins the table at seat #2 
+ildar87kzn: checks 
+bernicethebeast: checks 
+*** TURN *** [6h 3s 8d] [Jc]
+ildar87kzn: bets $0.19
+bernicethebeast: calls $0.19
+*** RIVER *** [6h 3s 8d Jc] [7h]
+ildar87kzn: bets $0.55
+bernicethebeast: calls $0.55
+*** SHOW DOWN ***
+ildar87kzn: shows [3c Jh] (two pair, Jacks and Threes)
+bernicethebeast: mucks hand 
+ildar87kzn collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.08 
+Board [6h 3s 8d Jc 7h]
+Seat 1: bernicethebeast (button) (small blind) mucked
+Seat 3: ildar87kzn (big blind) showed [3c Jh] and won ($1.60) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #222944481260:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:50:49 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: bernicethebeast ($2.71 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($11.74 in chips) 
+bernicethebeast: posts small blind $0.05
+lnfIame: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.20 to $0.30
+bernicethebeast: calls $0.25
+lnfIame: folds 
+*** FLOP *** [Tc 6h 9c]
+bernicethebeast: checks 
+ildar87kzn: bets $0.60
+bernicethebeast: folds 
+Uncalled bet ($0.60) returned to ildar87kzn
+ildar87kzn collected $0.67 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Tc 6h 9c]
+Seat 1: bernicethebeast (small blind) folded on the Flop
+Seat 2: lnfIame (big blind) folded before Flop
+Seat 3: ildar87kzn (button) collected ($0.67)
+
+
+
+PokerStars Hand #222944486684:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:51:07 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: bernicethebeast ($2.41 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.11 in chips) 
+lnfIame: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33 joins the table at seat #4 
+bernicethebeast has timed out
+bernicethebeast: folds 
+lnfIame: raises $0.15 to $0.25
+ildar87kzn: raises $0.50 to $0.75
+lnfIame: folds 
+Uncalled bet ($0.50) returned to ildar87kzn
+ildar87kzn collected $0.50 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: bernicethebeast (button) folded before Flop (didn't bet)
+Seat 2: lnfIame (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #222944494622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:51:35 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: bernicethebeast ($2.41 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.36 in chips) 
+ildar87kzn: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+Aquariusala1 joins the table at seat #5 
+lnfIame: folds 
+ildar87kzn: raises $0.20 to $0.30
+bernicethebeast: calls $0.20
+*** FLOP *** [5s 3s 9d]
+ildar87kzn: checks 
+bernicethebeast: checks 
+*** TURN *** [5s 3s 9d] [Qs]
+AMateuR955 joins the table at seat #6 
+ildar87kzn: bets $2.20
+bernicethebeast: folds 
+Uncalled bet ($2.20) returned to ildar87kzn
+ildar87kzn collected $0.57 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [5s 3s 9d Qs]
+Seat 1: bernicethebeast (big blind) folded on the Turn
+Seat 2: lnfIame (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #222944502029:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:01 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: bernicethebeast ($2.11 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.63 in chips) 
+bernicethebeast: posts small blind $0.05
+lnfIame: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+bernicethebeast: calls $0.05
+lnfIame: checks 
+*** FLOP *** [8h 2s Qd]
+bernicethebeast: checks 
+lnfIame: checks 
+*** TURN *** [8h 2s Qd] [9s]
+bernicethebeast: checks 
+lnfIame has timed out
+lnfIame: checks 
+*** RIVER *** [8h 2s Qd 9s] [Jc]
+bernicethebeast: bets $0.19
+lnfIame: folds 
+Uncalled bet ($0.19) returned to bernicethebeast
+bernicethebeast collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8h 2s Qd 9s Jc]
+Seat 1: bernicethebeast (small blind) collected ($0.19)
+Seat 2: lnfIame (big blind) folded on the River
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944522099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:09 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: bernicethebeast ($2.20 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.63 in chips) 
+lnfIame: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+Aquariusala1: sits out 
+AMateuR955: sits out 
+*** HOLE CARDS ***
+bernicethebeast: folds 
+lnfIame: raises $0.15 to $0.25
+ildar87kzn: calls $0.15
+*** FLOP *** [Ac 6d 4h]
+arabella 33 leaves the table
+lnfIame: bets $0.20
+ildar87kzn: calls $0.20
+*** TURN *** [Ac 6d 4h] [6h]
+lnfIame: checks 
+ildar87kzn: checks 
+*** RIVER *** [Ac 6d 4h 6h] [9d]
+lnfIame: checks 
+ildar87kzn: bets $0.56
+lnfIame: folds 
+Uncalled bet ($0.56) returned to ildar87kzn
+ildar87kzn collected $0.86 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Ac 6d 4h 6h 9d]
+Seat 1: bernicethebeast (button) folded before Flop (didn't bet)
+Seat 2: lnfIame (small blind) folded on the River
+Seat 3: ildar87kzn (big blind) collected ($0.86)
+
+
+
+PokerStars Hand #222944540347:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:12 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: bernicethebeast ($2.20 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($13.04 in chips) 
+Seat 5: Aquariusala1 ($10 in chips) 
+ildar87kzn: posts small blind $0.05
+Aquariusala1: posts big blind $0.10
+AMateuR955: sits out 
+*** HOLE CARDS ***
+bernicethebeast: folds 
+lnfIame: raises $0.15 to $0.25
+ildar87kzn: folds 
+Aquariusala1: calls $0.15
+*** FLOP *** [Qh 7s Ts]
+Aquariusala1: checks 
+lnfIame: bets $0.25
+Aquariusala1: raises $0.65 to $0.90
+lnfIame: calls $0.65
+*** TURN *** [Qh 7s Ts] [6s]
+Aquariusala1: bets $1.12
+lnfIame: folds 
+Uncalled bet ($1.12) returned to Aquariusala1
+Aquariusala1 collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [Qh 7s Ts 6s]
+Seat 1: bernicethebeast folded before Flop (didn't bet)
+Seat 2: lnfIame (button) folded on the Turn
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 5: Aquariusala1 (big blind) collected ($2.24)
+
+
+
+PokerStars Hand #222944557089:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:58 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: bernicethebeast ($2.20 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.99 in chips) 
+Seat 5: Aquariusala1 ($11.09 in chips) 
+Seat 6: AMateuR955 ($18.31 in chips) 
+Aquariusala1: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+Pablo7-Pro joins the table at seat #4 
+bernicethebeast: folds 
+lnfIame: folds 
+ildar87kzn: folds 
+Aquariusala1: raises $0.20 to $0.30
+AMateuR955: folds 
+Uncalled bet ($0.20) returned to Aquariusala1
+Aquariusala1 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: bernicethebeast folded before Flop (didn't bet)
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (small blind) collected ($0.20)
+Seat 6: AMateuR955 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944565469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:34 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: bernicethebeast ($2.20 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.99 in chips) 
+Seat 5: Aquariusala1 ($11.19 in chips) 
+Seat 6: AMateuR955 ($18.21 in chips) 
+AMateuR955: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+Pablo7-Pro: sits out 
+*** HOLE CARDS ***
+lnfIame: raises $0.15 to $0.25
+ildar87kzn: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+bernicethebeast: calls $0.15
+*** FLOP *** [8s Qc Ad]
+bernicethebeast: checks 
+lnfIame: bets $0.25
+bernicethebeast: folds 
+Uncalled bet ($0.25) returned to lnfIame
+lnfIame collected $0.53 from pot
+lnfIame: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8s Qc Ad]
+Seat 1: bernicethebeast (big blind) folded on the Flop
+Seat 2: lnfIame collected ($0.53)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (button) folded before Flop (didn't bet)
+Seat 6: AMateuR955 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944571389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:56:01 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: bernicethebeast ($1.95 in chips) 
+Seat 2: lnfIame ($10.28 in chips) 
+Seat 3: ildar87kzn ($12.99 in chips) 
+Seat 5: Aquariusala1 ($11.19 in chips) 
+Seat 6: AMateuR955 ($18.16 in chips) 
+bernicethebeast: posts small blind $0.05
+lnfIame: posts big blind $0.10
+Pablo7-Pro: sits out 
+*** HOLE CARDS ***
+ildar87kzn: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+bernicethebeast: calls $0.05
+lnfIame: raises $0.30 to $0.40
+bernicethebeast: calls $0.30
+*** FLOP *** [7d 6d Jd]
+bernicethebeast: checks 
+lnfIame: checks 
+*** TURN *** [7d 6d Jd] [7s]
+bernicethebeast: checks 
+lnfIame: checks 
+*** RIVER *** [7d 6d Jd 7s] [2c]
+bernicethebeast: checks 
+lnfIame: checks 
+*** SHOW DOWN ***
+bernicethebeast: shows [Ts Ad] (a pair of Sevens)
+lnfIame: mucks hand 
+bernicethebeast collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [7d 6d Jd 7s 2c]
+Seat 1: bernicethebeast (small blind) showed [Ts Ad] and won ($0.76) with a pair of Sevens
+Seat 2: lnfIame (big blind) mucked
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944580221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:56:42 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: bernicethebeast ($2.31 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.99 in chips) 
+Seat 5: Aquariusala1 ($11.19 in chips) 
+Seat 6: AMateuR955 ($18.16 in chips) 
+lnfIame: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+Pablo7-Pro: sits out 
+*** HOLE CARDS ***
+Aquariusala1: folds 
+AMateuR955: raises $0.20 to $0.30
+bernicethebeast: calls $0.30
+lnfIame: folds 
+ildar87kzn: folds 
+*** FLOP *** [2c 4h 8d]
+AMateuR955: checks 
+bernicethebeast: checks 
+*** TURN *** [2c 4h 8d] [Qs]
+AMateuR955: bets $0.36
+bernicethebeast: calls $0.36
+*** RIVER *** [2c 4h 8d Qs] [3h]
+AMateuR955: checks 
+bernicethebeast: checks 
+*** SHOW DOWN ***
+AMateuR955: shows [As Kd] (high card Ace)
+bernicethebeast: shows [Qc Th] (a pair of Queens)
+bernicethebeast collected $1.40 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [2c 4h 8d Qs 3h]
+Seat 1: bernicethebeast (button) showed [Qc Th] and won ($1.40) with a pair of Queens
+Seat 2: lnfIame (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 showed [As Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #222944590337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:57:28 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: bernicethebeast ($3.05 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.89 in chips) 
+Seat 4: Pablo7-Pro ($10 in chips) 
+Seat 5: Aquariusala1 ($11.19 in chips) 
+Seat 6: AMateuR955 ($17.50 in chips) 
+ildar87kzn: posts small blind $0.05
+Pablo7-Pro: posts big blind $0.10
+*** HOLE CARDS ***
+Aquariusala1: folds 
+AMateuR955: folds 
+bernicethebeast: calls $0.10
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: checks 
+*** FLOP *** [8c 7c 3s]
+Pablo7-Pro: checks 
+bernicethebeast: checks 
+*** TURN *** [8c 7c 3s] [7h]
+Pablo7-Pro: bets $0.19
+bernicethebeast: calls $0.19
+*** RIVER *** [8c 7c 3s 7h] [5c]
+Pablo7-Pro: bets $0.80
+bernicethebeast: calls $0.80
+*** SHOW DOWN ***
+Pablo7-Pro: shows [8h 7s] (a full house, Sevens full of Eights)
+bernicethebeast: mucks hand 
+Pablo7-Pro collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.10 
+Board [8c 7c 3s 7h 5c]
+Seat 1: bernicethebeast mucked
+Seat 2: lnfIame (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: Pablo7-Pro (big blind) showed [8h 7s] and won ($2.13) with a full house, Sevens full of Eights
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944602403:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:58:24 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: bernicethebeast ($1.96 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.84 in chips) 
+Seat 4: Pablo7-Pro ($11.04 in chips) 
+Seat 5: Aquariusala1 ($11.19 in chips) 
+Seat 6: AMateuR955 ($17.50 in chips) 
+Pablo7-Pro: posts small blind $0.05
+Aquariusala1: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: raises $0.20 to $0.30
+bernicethebeast: folds 
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+Uncalled bet ($0.20) returned to AMateuR955
+AMateuR955 collected $0.25 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bernicethebeast folded before Flop (didn't bet)
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro (small blind) folded before Flop
+Seat 5: Aquariusala1 (big blind) folded before Flop
+Seat 6: AMateuR955 collected ($0.25)
+
+
+
+PokerStars Hand #222944607848:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:58:49 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: bernicethebeast ($1.96 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.84 in chips) 
+Seat 4: Pablo7-Pro ($10.99 in chips) 
+Seat 5: Aquariusala1 ($11.09 in chips) 
+Seat 6: AMateuR955 ($17.65 in chips) 
+Aquariusala1: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+bernicethebeast: folds 
+lnfIame: raises $0.15 to $0.25
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+Uncalled bet ($0.15) returned to lnfIame
+lnfIame collected $0.25 from pot
+lnfIame: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bernicethebeast folded before Flop (didn't bet)
+Seat 2: lnfIame collected ($0.25)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro (button) folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (small blind) folded before Flop
+Seat 6: AMateuR955 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944611311:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:59:05 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: bernicethebeast ($1.96 in chips) 
+Seat 2: lnfIame ($10.15 in chips) 
+Seat 3: ildar87kzn ($12.84 in chips) 
+Seat 4: Pablo7-Pro ($10.99 in chips) 
+Seat 5: Aquariusala1 ($11.04 in chips) 
+Seat 6: AMateuR955 ($17.55 in chips) 
+AMateuR955: posts small blind $0.05
+bernicethebeast: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: raises $0.20 to $0.30
+Aquariusala1: folds 
+AMateuR955: folds 
+bernicethebeast: calls $0.20
+*** FLOP *** [6d Ah Jh]
+bernicethebeast: checks 
+Pablo7-Pro: bets $0.20
+bernicethebeast: folds 
+Uncalled bet ($0.20) returned to Pablo7-Pro
+Pablo7-Pro collected $0.62 from pot
+Pablo7-Pro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [6d Ah Jh]
+Seat 1: bernicethebeast (big blind) folded on the Flop
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro collected ($0.62)
+Seat 5: Aquariusala1 (button) folded before Flop (didn't bet)
+Seat 6: AMateuR955 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944617830:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:59:35 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: bernicethebeast ($1.66 in chips) 
+Seat 2: lnfIame ($10.15 in chips) 
+Seat 3: ildar87kzn ($12.84 in chips) 
+Seat 4: Pablo7-Pro ($11.31 in chips) 
+Seat 5: Aquariusala1 ($11.04 in chips) 
+Seat 6: AMateuR955 ($17.50 in chips) 
+bernicethebeast: posts small blind $0.05
+lnfIame: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+Aquariusala1: raises $0.20 to $0.30
+AMateuR955: folds 
+bernicethebeast: calls $0.25
+lnfIame: calls $0.20
+*** FLOP *** [2d 6h Jh]
+bernicethebeast: checks 
+lnfIame: bets $0.45
+Aquariusala1: calls $0.45
+bernicethebeast: calls $0.45
+*** TURN *** [2d 6h Jh] [4c]
+bernicethebeast: checks 
+lnfIame: bets $1.10
+Aquariusala1: calls $1.10
+bernicethebeast: calls $0.91 and is all-in
+*** RIVER *** [2d 6h Jh 4c] [9h]
+lnfIame: checks 
+Aquariusala1: bets $3.50
+lnfIame: folds 
+Uncalled bet ($3.50) returned to Aquariusala1
+*** SHOW DOWN ***
+Aquariusala1: shows [Ah 4h] (a flush, Ace high)
+Aquariusala1 collected $0.36 from side pot
+bernicethebeast: shows [8h 5h] (a flush, Jack high)
+Aquariusala1 collected $4.76 from main pot
+*** SUMMARY ***
+Total pot $5.36 Main pot $4.76. Side pot $0.36. | Rake $0.24 
+Board [2d 6h Jh 4c 9h]
+Seat 1: bernicethebeast (small blind) showed [8h 5h] and lost with a flush, Jack high
+Seat 2: lnfIame (big blind) folded on the River
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro folded before Flop (didn't bet)
+Seat 5: Aquariusala1 showed [Ah 4h] and won ($5.12) with a flush, Ace high
+Seat 6: AMateuR955 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943252833:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:25 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($6.47 in chips) 
+Seat 2: murphy523 ($4.06 in chips) 
+Seat 3: juligan111 ($10 in chips) 
+Seat 4: jay160705 ($10.02 in chips) 
+Seat 5: gresscrack ($13.91 in chips) 
+Seat 6: xxxbohunxxx ($12.10 in chips) 
+jay160705: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: raises $0.10 to $0.20
+murphy523: folds 
+juligan111: folds 
+jay160705: calls $0.15
+gresscrack: folds 
+*** FLOP *** [2h Td Jd]
+jay160705: checks 
+palmitos629: checks 
+*** TURN *** [2h Td Jd] [5c]
+jay160705: checks 
+palmitos629: bets $0.29
+jay160705: calls $0.29
+*** RIVER *** [2h Td Jd 5c] [7c]
+jay160705: checks 
+palmitos629: checks 
+*** SHOW DOWN ***
+jay160705: shows [Th Qh] (a pair of Tens)
+palmitos629: mucks hand 
+jay160705 collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.05 
+Board [2h Td Jd 5c 7c]
+Seat 1: palmitos629 mucked
+Seat 2: murphy523 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 4: jay160705 (small blind) showed [Th Qh] and won ($1.03) with a pair of Tens
+Seat 5: gresscrack (big blind) folded before Flop
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943265892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:03 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($5.98 in chips) 
+Seat 2: murphy523 ($4.06 in chips) 
+Seat 3: juligan111 ($10 in chips) 
+Seat 4: jay160705 ($10.56 in chips) 
+Seat 5: gresscrack ($13.81 in chips) 
+Seat 6: xxxbohunxxx ($12.10 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+murphy523: raises $0.20 to $0.30
+juligan111: folds 
+jay160705: calls $0.30
+gresscrack: folds 
+xxxbohunxxx: folds 
+*** FLOP *** [6d 7d Ah]
+murphy523: bets $0.72
+jay160705: folds 
+Uncalled bet ($0.72) returned to murphy523
+murphy523 collected $0.72 from pot
+murphy523: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6d 7d Ah]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: murphy523 collected ($0.72)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 (button) folded on the Flop
+Seat 5: gresscrack (small blind) folded before Flop
+Seat 6: xxxbohunxxx (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943275118:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:30 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.98 in chips) 
+Seat 2: murphy523 ($4.48 in chips) 
+Seat 3: juligan111 ($10 in chips) 
+Seat 4: jay160705 ($10.26 in chips) 
+Seat 5: gresscrack ($13.76 in chips) 
+Seat 6: xxxbohunxxx ($12 in chips) 
+xxxbohunxxx: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+murphy523: folds 
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: raises $0.50 to $0.60
+xxxbohunxxx: folds 
+palmitos629: folds 
+jay160705: folds 
+Uncalled bet ($0.50) returned to gresscrack
+gresscrack collected $0.35 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: murphy523 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 folded before Flop
+Seat 5: gresscrack (button) collected ($0.35)
+Seat 6: xxxbohunxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943291970:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:02 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($5.88 in chips) 
+Seat 2: murphy523 ($4.48 in chips) 
+Seat 3: juligan111 ($10 in chips) 
+Seat 4: jay160705 ($10.16 in chips) 
+Seat 5: gresscrack ($14.01 in chips) 
+Seat 6: xxxbohunxxx ($11.95 in chips) 
+palmitos629: posts small blind $0.05
+murphy523: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: raises $0.20 to $0.30
+jay160705: calls $0.30
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: folds 
+murphy523: folds 
+*** FLOP *** [5c Tc 2h]
+juligan111: bets $0.27
+jay160705: calls $0.27
+*** TURN *** [5c Tc 2h] [Ks]
+juligan111: bets $0.55
+jay160705: calls $0.55
+*** RIVER *** [5c Tc 2h Ks] [Td]
+juligan111: bets $1
+jay160705: raises $1 to $2
+juligan111: calls $1
+*** SHOW DOWN ***
+jay160705: shows [2d 6d] (two pair, Tens and Deuces)
+juligan111: shows [As Kh] (two pair, Kings and Tens)
+juligan111 collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.39 | Rake $0.29 
+Board [5c Tc 2h Ks Td]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: murphy523 (big blind) folded before Flop
+Seat 3: juligan111 showed [As Kh] and won ($6.10) with two pair, Kings and Tens
+Seat 4: jay160705 showed [2d 6d] and lost with two pair, Tens and Deuces
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943306028:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:44 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($5.83 in chips) 
+Seat 2: murphy523 ($4.38 in chips) 
+Seat 3: juligan111 ($12.98 in chips) 
+Seat 4: jay160705 ($7.04 in chips) 
+Seat 5: gresscrack ($14.01 in chips) 
+Seat 6: xxxbohunxxx ($11.95 in chips) 
+murphy523: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+jay160705: raises $0.40 to $0.50
+gresscrack: folds 
+xxxbohunxxx: calls $0.50
+palmitos629: folds 
+murphy523: folds 
+juligan111: folds 
+*** FLOP *** [6d Kc Ah]
+jay160705: checks 
+xxxbohunxxx: checks 
+*** TURN *** [6d Kc Ah] [Kd]
+jay160705: checks 
+xxxbohunxxx: checks 
+*** RIVER *** [6d Kc Ah Kd] [2s]
+jay160705: checks 
+xxxbohunxxx: checks 
+*** SHOW DOWN ***
+jay160705: shows [Td As] (two pair, Aces and Kings)
+xxxbohunxxx: mucks hand 
+jay160705 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [6d Kc Ah Kd 2s]
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: murphy523 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 4: jay160705 showed [Td As] and won ($1.10) with two pair, Aces and Kings
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx mucked
+
+
+
+PokerStars Hand #222943322725:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:33 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($5.83 in chips) 
+Seat 2: murphy523 ($4.33 in chips) 
+Seat 3: juligan111 ($12.88 in chips) 
+Seat 4: jay160705 ($7.64 in chips) 
+Seat 5: gresscrack ($14.01 in chips) 
+Seat 6: xxxbohunxxx ($11.45 in chips) 
+juligan111: posts small blind $0.05
+jay160705: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: folds 
+murphy523: calls $0.10
+juligan111: folds 
+jay160705: raises $0.10 to $0.20
+murphy523: calls $0.10
+*** FLOP *** [Qh 9c 8c]
+jay160705: checks 
+murphy523: bets $0.63
+jay160705: calls $0.63
+*** TURN *** [Qh 9c 8c] [Ac]
+jay160705: checks 
+murphy523: bets $1.63
+jay160705: folds 
+Uncalled bet ($1.63) returned to murphy523
+murphy523 collected $1.63 from pot
+murphy523: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.08 
+Board [Qh 9c 8c Ac]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: murphy523 (button) collected ($1.63)
+Seat 3: juligan111 (small blind) folded before Flop
+Seat 4: jay160705 (big blind) folded on the Turn
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943338961:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:22 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($5.83 in chips) 
+Seat 2: murphy523 ($5.13 in chips) 
+Seat 3: juligan111 ($12.83 in chips) 
+Seat 4: jay160705 ($6.81 in chips) 
+Seat 5: gresscrack ($14.01 in chips) 
+Seat 6: xxxbohunxxx ($11.45 in chips) 
+jay160705: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: folds 
+murphy523: folds 
+juligan111: folds 
+jay160705: calls $0.05
+gresscrack: checks 
+*** FLOP *** [3d 7s 5h]
+jay160705: checks 
+gresscrack: checks 
+*** TURN *** [3d 7s 5h] [7d]
+jay160705: checks 
+gresscrack: bets $0.19
+jay160705: calls $0.19
+*** RIVER *** [3d 7s 5h 7d] [Jd]
+jay160705: checks 
+gresscrack: checks 
+*** SHOW DOWN ***
+jay160705: shows [Ts 5d] (two pair, Sevens and Fives)
+gresscrack: mucks hand 
+jay160705 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.03 
+Board [3d 7s 5h 7d Jd]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: murphy523 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 4: jay160705 (small blind) showed [Ts 5d] and won ($0.55) with two pair, Sevens and Fives
+Seat 5: gresscrack (big blind) mucked
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943357264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:55 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($5.83 in chips) 
+Seat 2: murphy523 ($5.13 in chips) 
+Seat 3: juligan111 ($12.83 in chips) 
+Seat 4: jay160705 ($7.07 in chips) 
+Seat 5: gresscrack ($13.72 in chips) 
+Seat 6: xxxbohunxxx ($11.45 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+murphy523: folds 
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: checks 
+*** FLOP *** [9d 2d 7d]
+xxxbohunxxx: checks 
+jay160705: checks 
+*** TURN *** [9d 2d 7d] [8c]
+xxxbohunxxx: bets $0.18
+jay160705: calls $0.18
+*** RIVER *** [9d 2d 7d 8c] [4h]
+xxxbohunxxx: bets $0.35
+jay160705: calls $0.35
+*** SHOW DOWN ***
+xxxbohunxxx: shows [Td 6s] (a straight, Six to Ten)
+jay160705: mucks hand 
+xxxbohunxxx collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.06 
+Board [9d 2d 7d 8c 4h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: murphy523 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 (button) mucked
+Seat 5: gresscrack (small blind) folded before Flop
+Seat 6: xxxbohunxxx (big blind) showed [Td 6s] and won ($1.25) with a straight, Six to Ten
+
+
+
+PokerStars Hand #222943374717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:47 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.83 in chips) 
+Seat 2: murphy523 ($5.13 in chips) 
+Seat 3: juligan111 ($12.83 in chips) 
+Seat 4: jay160705 ($6.44 in chips) 
+Seat 5: gresscrack ($13.67 in chips) 
+Seat 6: xxxbohunxxx ($12.07 in chips) 
+xxxbohunxxx: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+murphy523 has timed out
+murphy523: folds 
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: raises $0.40 to $0.50
+xxxbohunxxx: folds 
+palmitos629: folds 
+jay160705: folds 
+Uncalled bet ($0.40) returned to gresscrack
+gresscrack collected $0.35 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: murphy523 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 folded before Flop
+Seat 5: gresscrack (button) collected ($0.35)
+Seat 6: xxxbohunxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943384110:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:15 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($5.73 in chips) 
+Seat 2: murphy523 ($5.13 in chips) 
+Seat 3: juligan111 ($12.83 in chips) 
+Seat 4: jay160705 ($6.34 in chips) 
+Seat 5: gresscrack ($13.92 in chips) 
+Seat 6: xxxbohunxxx ($12.02 in chips) 
+palmitos629: posts small blind $0.05
+murphy523: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: raises $0.40 to $0.50
+xxxbohunxxx: folds 
+palmitos629: folds 
+murphy523: folds 
+jay160705: calls $0.40
+*** FLOP *** [2h 7c Tc]
+jay160705: checks 
+gresscrack: bets $0.36
+jay160705: calls $0.36
+*** TURN *** [2h 7c Tc] [Ts]
+jay160705: checks 
+gresscrack: checks 
+*** RIVER *** [2h 7c Tc Ts] [2s]
+jay160705: checks 
+gresscrack: checks 
+*** SHOW DOWN ***
+jay160705: shows [Ad 3c] (two pair, Tens and Deuces)
+gresscrack: mucks hand 
+jay160705 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [2h 7c Tc Ts 2s]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: murphy523 (big blind) folded before Flop
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 showed [Ad 3c] and won ($1.79) with two pair, Tens and Deuces
+Seat 5: gresscrack mucked
+Seat 6: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943400755:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:05 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($5.68 in chips) 
+Seat 2: murphy523 ($5.03 in chips) 
+Seat 3: juligan111 ($12.83 in chips) 
+Seat 4: jay160705 ($7.27 in chips) 
+Seat 5: gresscrack ($13.06 in chips) 
+Seat 6: xxxbohunxxx ($12.02 in chips) 
+murphy523: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: raises $0.30 to $0.40
+palmitos629: folds 
+murphy523: folds 
+juligan111: folds 
+jay160705: calls $0.30
+*** FLOP *** [7c 2h Jd]
+jay160705: checks 
+xxxbohunxxx: checks 
+*** TURN *** [7c 2h Jd] [3c]
+jay160705: checks 
+xxxbohunxxx: checks 
+*** RIVER *** [7c 2h Jd 3c] [4s]
+jay160705: checks 
+xxxbohunxxx: checks 
+*** SHOW DOWN ***
+jay160705: shows [5d 9d] (high card Jack)
+xxxbohunxxx: shows [2d Ad] (a pair of Deuces)
+xxxbohunxxx collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [7c 2h Jd 3c 4s]
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: murphy523 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 4: jay160705 showed [5d 9d] and lost with high card Jack
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx showed [2d Ad] and won ($0.91) with a pair of Deuces
+
+
+
+PokerStars Hand #222943422328:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:10 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($5.68 in chips) 
+Seat 2: murphy523 ($4.98 in chips) 
+Seat 3: juligan111 ($12.73 in chips) 
+Seat 4: jay160705 ($6.87 in chips) 
+Seat 5: gresscrack ($13.06 in chips) 
+Seat 6: xxxbohunxxx ($12.53 in chips) 
+juligan111: posts small blind $0.05
+jay160705: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+palmitos629: folds 
+murphy523: raises $0.20 to $0.50
+juligan111: folds 
+jay160705: folds 
+xxxbohunxxx: raises $1 to $1.50
+murphy523: calls $1
+*** FLOP *** [9h Ah 7s]
+xxxbohunxxx: checks 
+murphy523: bets $3.48 and is all-in
+xxxbohunxxx: calls $3.48
+*** TURN *** [9h Ah 7s] [3h]
+*** RIVER *** [9h Ah 7s 3h] [2h]
+*** SHOW DOWN ***
+xxxbohunxxx: shows [Ks Kh] (a flush, Ace high)
+murphy523: shows [Kc As] (a pair of Aces)
+xxxbohunxxx collected $9.66 from pot
+*** SUMMARY ***
+Total pot $10.11 | Rake $0.45 
+Board [9h Ah 7s 3h 2h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: murphy523 (button) showed [Kc As] and lost with a pair of Aces
+Seat 3: juligan111 (small blind) folded before Flop
+Seat 4: jay160705 (big blind) folded before Flop
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx showed [Ks Kh] and won ($9.66) with a flush, Ace high
+
+
+
+PokerStars Hand #222943440397:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:21 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($5.68 in chips) 
+Seat 3: juligan111 ($12.68 in chips) 
+Seat 4: jay160705 ($6.77 in chips) 
+Seat 5: gresscrack ($13.06 in chips) 
+Seat 6: xxxbohunxxx ($17.21 in chips) 
+jay160705: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: raises $0.25 to $0.35
+juligan111: folds 
+jay160705: calls $0.30
+gresscrack: folds 
+*** FLOP *** [2s 2c Jc]
+jay160705: checks 
+murphy523 leaves the table
+palmitos629: bets $0.84
+jay160705: calls $0.84
+*** TURN *** [2s 2c Jc] [Tc]
+jay160705: checks 
+palmitos629: bets $2.61
+jay160705: calls $2.61
+*** RIVER *** [2s 2c Jc Tc] [9c]
+jay160705: checks 
+palmitos629: checks 
+*** SHOW DOWN ***
+jay160705: shows [Qs 5c] (a flush, Jack high)
+palmitos629: mucks hand 
+jay160705 collected $7.35 from pot
+*** SUMMARY ***
+Total pot $7.70 | Rake $0.35 
+Board [2s 2c Jc Tc 9c]
+Seat 1: palmitos629 mucked
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 4: jay160705 (small blind) showed [Qs 5c] and won ($7.35) with a flush, Jack high
+Seat 5: gresscrack (big blind) folded before Flop
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943450749:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:02 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($1.88 in chips) 
+Seat 3: juligan111 ($12.68 in chips) 
+Seat 4: jay160705 ($10.32 in chips) 
+Seat 5: gresscrack ($12.96 in chips) 
+Seat 6: xxxbohunxxx ($17.21 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: raises $1.78 to $1.88 and is all-in
+juligan111: folds 
+jay160705: folds 
+gresscrack: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($1.78) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 collected ($0.25)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 (button) folded before Flop (didn't bet)
+Seat 5: gresscrack (small blind) folded before Flop
+Seat 6: xxxbohunxxx (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943457046:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:26 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($2.03 in chips) 
+Seat 3: juligan111 ($12.68 in chips) 
+Seat 4: jay160705 ($10.32 in chips) 
+Seat 5: gresscrack ($12.91 in chips) 
+Seat 6: xxxbohunxxx ($17.11 in chips) 
+xxxbohunxxx: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: raises $0.40 to $0.50
+xxxbohunxxx: folds 
+palmitos629: folds 
+jay160705: calls $0.40
+*** FLOP *** [7h Jd Kh]
+jay160705: checks 
+gresscrack: bets $0.36
+jay160705: calls $0.36
+*** TURN *** [7h Jd Kh] [8d]
+jay160705: checks 
+gresscrack: checks 
+*** RIVER *** [7h Jd Kh 8d] [5h]
+jay160705: checks 
+gresscrack: checks 
+*** SHOW DOWN ***
+jay160705: shows [Qc 8c] (a pair of Eights)
+gresscrack: shows [Th Td] (a pair of Tens)
+gresscrack collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [7h Jd Kh 8d 5h]
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 showed [Qc 8c] and lost with a pair of Eights
+Seat 5: gresscrack (button) showed [Th Td] and won ($1.79) with a pair of Tens
+Seat 6: xxxbohunxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943468056:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:09 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($1.93 in chips) 
+Seat 3: juligan111 ($12.68 in chips) 
+Seat 4: jay160705 ($9.46 in chips) 
+Seat 5: gresscrack ($13.84 in chips) 
+Seat 6: xxxbohunxxx ($17.06 in chips) 
+palmitos629: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+jay160705: calls $0.10
+gresscrack: raises $0.40 to $0.50
+xxxbohunxxx: folds 
+palmitos629: folds 
+juligan111: folds 
+jay160705: calls $0.40
+*** FLOP *** [4d 6d Ts]
+jay160705: checks 
+gresscrack: bets $0.36
+jay160705: calls $0.36
+*** TURN *** [4d 6d Ts] [3s]
+jay160705: checks 
+gresscrack: checks 
+*** RIVER *** [4d 6d Ts 3s] [4h]
+jay160705: checks 
+gresscrack: checks 
+*** SHOW DOWN ***
+jay160705: shows [8d 8h] (two pair, Eights and Fours)
+gresscrack: mucks hand 
+jay160705 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [4d 6d Ts 3s 4h]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 4: jay160705 showed [8d 8h] and won ($1.79) with two pair, Eights and Fours
+Seat 5: gresscrack mucked
+Seat 6: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943479074:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:52 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($1.88 in chips) 
+Seat 3: juligan111 ($12.58 in chips) 
+Seat 4: jay160705 ($10.39 in chips) 
+Seat 5: gresscrack ($12.98 in chips) 
+Seat 6: xxxbohunxxx ($17.06 in chips) 
+juligan111: posts small blind $0.05
+jay160705: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30 joins the table at seat #2 
+gresscrack: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+palmitos629: calls $0.30
+juligan111: folds 
+jay160705: calls $0.20
+*** FLOP *** [Kd 4h 7d]
+jay160705: checks 
+gresscrack: checks 
+palmitos629: bets $1.58 and is all-in
+jay160705: folds 
+gresscrack: folds 
+Uncalled bet ($1.58) returned to palmitos629
+palmitos629 collected $0.91 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kd 4h 7d]
+Seat 1: palmitos629 (button) collected ($0.91)
+Seat 3: juligan111 (small blind) folded before Flop
+Seat 4: jay160705 (big blind) folded on the Flop
+Seat 5: gresscrack folded on the Flop
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943488462:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:29 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($2.49 in chips) 
+Seat 3: juligan111 ($12.53 in chips) 
+Seat 4: jay160705 ($10.09 in chips) 
+Seat 5: gresscrack ($12.68 in chips) 
+Seat 6: xxxbohunxxx ($17.06 in chips) 
+jay160705: posts small blind $0.05
+gresscrack: posts big blind $0.10
+Himik30: sits out 
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: folds 
+juligan111: folds 
+jay160705: calls $0.05
+gresscrack: checks 
+*** FLOP *** [Kh Td Js]
+jay160705: checks 
+gresscrack: checks 
+*** TURN *** [Kh Td Js] [Jd]
+jay160705: checks 
+gresscrack: bets $0.19
+jay160705: calls $0.19
+*** RIVER *** [Kh Td Js Jd] [2h]
+jay160705: checks 
+gresscrack: checks 
+*** SHOW DOWN ***
+jay160705: shows [Qd 7h] (a pair of Jacks)
+gresscrack: shows [5c Ts] (two pair, Jacks and Tens)
+gresscrack collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.03 
+Board [Kh Td Js Jd 2h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 4: jay160705 (small blind) showed [Qd 7h] and lost with a pair of Jacks
+Seat 5: gresscrack (big blind) showed [5c Ts] and won ($0.55) with two pair, Jacks and Tens
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943498609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:08 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($2.49 in chips) 
+Seat 3: juligan111 ($12.53 in chips) 
+Seat 4: jay160705 ($9.80 in chips) 
+Seat 5: gresscrack ($12.94 in chips) 
+Seat 6: xxxbohunxxx ($17.06 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+Himik30: sits out 
+*** HOLE CARDS ***
+palmitos629: folds 
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: raises $0.30 to $0.40
+jay160705: calls $0.30
+*** FLOP *** [6s Th Qc]
+xxxbohunxxx: bets $0.61
+jay160705: folds 
+Uncalled bet ($0.61) returned to xxxbohunxxx
+xxxbohunxxx collected $0.81 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [6s Th Qc]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 (button) folded on the Flop
+Seat 5: gresscrack (small blind) folded before Flop
+Seat 6: xxxbohunxxx (big blind) collected ($0.81)
+
+
+
+PokerStars Hand #222943508722:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:41 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($2.49 in chips) 
+Seat 3: juligan111 ($12.53 in chips) 
+Seat 4: jay160705 ($9.40 in chips) 
+Seat 5: gresscrack ($12.89 in chips) 
+Seat 6: xxxbohunxxx ($17.47 in chips) 
+xxxbohunxxx: posts small blind $0.05
+palmitos629: posts big blind $0.10
+Himik30: sits out 
+*** HOLE CARDS ***
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: checks 
+*** FLOP *** [6c Qc Ts]
+palmitos629: checks 
+jay160705: checks 
+*** TURN *** [6c Qc Ts] [5s]
+palmitos629: checks 
+jay160705: checks 
+*** RIVER *** [6c Qc Ts 5s] [Ad]
+palmitos629: checks 
+jay160705: checks 
+*** SHOW DOWN ***
+palmitos629: shows [8c 2d] (high card Ace)
+jay160705: shows [4c As] (a pair of Aces)
+jay160705 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c Qc Ts 5s Ad]
+Seat 1: palmitos629 (big blind) showed [8c 2d] and lost with high card Ace
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 showed [4c As] and won ($0.24) with a pair of Aces
+Seat 5: gresscrack (button) folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943517362:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:09 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($2.39 in chips) 
+Seat 2: Himik30 ($10 in chips) 
+Seat 3: juligan111 ($12.53 in chips) 
+Seat 4: jay160705 ($9.54 in chips) 
+Seat 5: gresscrack ($12.89 in chips) 
+Seat 6: xxxbohunxxx ($17.42 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: raises $0.40 to $0.50
+xxxbohunxxx: folds 
+palmitos629: folds 
+Himik30: folds 
+jay160705: calls $0.40
+*** FLOP *** [2d 3d Jd]
+jay160705: checks 
+gresscrack: bets $0.36
+jay160705: calls $0.36
+*** TURN *** [2d 3d Jd] [Kh]
+jay160705: checks 
+gresscrack: checks 
+*** RIVER *** [2d 3d Jd Kh] [Kc]
+jay160705: checks 
+gresscrack: checks 
+*** SHOW DOWN ***
+jay160705: shows [2c Jc] (two pair, Kings and Jacks)
+gresscrack: mucks hand 
+jay160705 collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [2d 3d Jd Kh Kc]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 showed [2c Jc] and won ($1.79) with two pair, Kings and Jacks
+Seat 5: gresscrack mucked
+Seat 6: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943529648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:47 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($2.34 in chips) 
+Seat 2: Himik30 ($9.90 in chips) 
+Seat 3: juligan111 ($12.53 in chips) 
+Seat 4: jay160705 ($10.47 in chips) 
+Seat 5: gresscrack ($12.03 in chips) 
+Seat 6: xxxbohunxxx ($17.42 in chips) 
+Himik30: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: calls $0.10
+Himik30: folds 
+juligan111: checks 
+*** FLOP *** [Td 3h 2s]
+juligan111: checks 
+jay160705: checks 
+palmitos629: bets $0.36
+juligan111: folds 
+jay160705: folds 
+Uncalled bet ($0.36) returned to palmitos629
+palmitos629 collected $0.33 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [Td 3h 2s]
+Seat 1: palmitos629 (button) collected ($0.33)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded on the Flop
+Seat 4: jay160705 folded on the Flop
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943538398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:14 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($2.57 in chips) 
+Seat 2: Himik30 ($9.85 in chips) 
+Seat 3: juligan111 ($12.43 in chips) 
+Seat 4: jay160705 ($10.37 in chips) 
+Seat 5: gresscrack ($12.03 in chips) 
+Seat 6: xxxbohunxxx ($17.42 in chips) 
+juligan111: posts small blind $0.05
+jay160705: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: folds 
+Himik30: raises $0.15 to $0.25
+juligan111: folds 
+jay160705: calls $0.15
+*** FLOP *** [Tc Qd Ac]
+jay160705: checks 
+Himik30: bets $0.25
+jay160705: calls $0.25
+*** TURN *** [Tc Qd Ac] [3d]
+jay160705: checks 
+Himik30: bets $0.80
+jay160705: folds 
+Uncalled bet ($0.80) returned to Himik30
+Himik30 collected $1 from pot
+Himik30: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Tc Qd Ac 3d]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) collected ($1)
+Seat 3: juligan111 (small blind) folded before Flop
+Seat 4: jay160705 (big blind) folded on the Turn
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943549548:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:49 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($2.57 in chips) 
+Seat 2: Himik30 ($10.35 in chips) 
+Seat 3: juligan111 ($12.38 in chips) 
+Seat 4: jay160705 ($9.87 in chips) 
+Seat 5: gresscrack ($12.03 in chips) 
+Seat 6: xxxbohunxxx ($17.42 in chips) 
+jay160705: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: folds 
+Himik30: folds 
+juligan111: raises $0.15 to $0.25
+jay160705: calls $0.20
+gresscrack: calls $0.15
+*** FLOP *** [Kd Jd Kc]
+jay160705: checks 
+gresscrack: checks 
+juligan111: checks 
+*** TURN *** [Kd Jd Kc] [7h]
+jay160705: checks 
+gresscrack: checks 
+juligan111: checks 
+*** RIVER *** [Kd Jd Kc 7h] [8c]
+jay160705: checks 
+gresscrack: checks 
+juligan111: checks 
+*** SHOW DOWN ***
+jay160705: shows [Ts 8s] (two pair, Kings and Eights)
+gresscrack: shows [6d 8d] (two pair, Kings and Eights)
+juligan111: mucks hand 
+jay160705 collected $0.36 from pot
+gresscrack collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kd Jd Kc 7h 8c]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) mucked
+Seat 4: jay160705 (small blind) showed [Ts 8s] and won ($0.36) with two pair, Kings and Eights
+Seat 5: gresscrack (big blind) showed [6d 8d] and won ($0.36) with two pair, Kings and Eights
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943565178:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:38 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($2.57 in chips) 
+Seat 2: Himik30 ($10.35 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($9.98 in chips) 
+Seat 5: gresscrack ($12.14 in chips) 
+Seat 6: xxxbohunxxx ($17.42 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: raises $0.40 to $0.50
+xxxbohunxxx: folds 
+jay160705: calls $0.40
+*** FLOP *** [6c Jh 4d]
+gresscrack: bets $0.35
+jay160705: folds 
+Uncalled bet ($0.35) returned to gresscrack
+gresscrack collected $1.05 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6c Jh 4d]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 (button) folded on the Flop
+Seat 5: gresscrack (small blind) collected ($1.05)
+Seat 6: xxxbohunxxx (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943576853:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:13 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($2.57 in chips) 
+Seat 2: Himik30 ($10.35 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($9.48 in chips) 
+Seat 5: gresscrack ($12.69 in chips) 
+Seat 6: xxxbohunxxx ($17.32 in chips) 
+xxxbohunxxx: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: raises $0.30 to $0.40
+palmitos629: folds 
+jay160705: calls $0.30
+*** FLOP *** [Jc Td Js]
+xxxbohunxxx: checks 
+jay160705: checks 
+*** TURN *** [Jc Td Js] [Ad]
+xxxbohunxxx: checks 
+jay160705: checks 
+*** RIVER *** [Jc Td Js Ad] [4d]
+xxxbohunxxx: checks 
+jay160705: checks 
+*** SHOW DOWN ***
+xxxbohunxxx: shows [7d 7s] (two pair, Jacks and Sevens)
+jay160705: mucks hand 
+xxxbohunxxx collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Jc Td Js Ad 4d]
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 mucked
+Seat 5: gresscrack (button) folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx (small blind) showed [7d 7s] and won ($0.86) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #222943591788:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:04:59 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($2.47 in chips) 
+Seat 2: Himik30 ($10.35 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($9.08 in chips) 
+Seat 5: gresscrack ($12.69 in chips) 
+Seat 6: xxxbohunxxx ($17.78 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: raises $0.40 to $0.50
+Himik30: folds 
+jay160705: calls $0.40
+*** FLOP *** [Th 2h Qd]
+palmitos629: bets $0.20
+jay160705: calls $0.20
+*** TURN *** [Th 2h Qd] [6c]
+palmitos629: bets $1.77 and is all-in
+jay160705: calls $1.77
+*** RIVER *** [Th 2h Qd 6c] [Kh]
+*** SHOW DOWN ***
+palmitos629: shows [Qs Ks] (two pair, Kings and Queens)
+jay160705: shows [Ts Jh] (a pair of Tens)
+palmitos629 collected $4.81 from pot
+*** SUMMARY ***
+Total pot $5.04 | Rake $0.23 
+Board [Th 2h Qd 6c Kh]
+Seat 1: palmitos629 (small blind) showed [Qs Ks] and won ($4.81) with two pair, Kings and Queens
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 showed [Ts Jh] and lost with a pair of Tens
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943610051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:46 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($4.81 in chips) 
+Seat 2: Himik30 ($10.25 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($6.61 in chips) 
+Seat 5: gresscrack ($12.69 in chips) 
+Seat 6: xxxbohunxxx ($17.78 in chips) 
+Himik30: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+jay160705: calls $0.10
+gresscrack: folds 
+xxxbohunxxx: raises $0.30 to $0.40
+palmitos629: folds 
+Himik30: folds 
+juligan111: folds 
+jay160705: calls $0.30
+*** FLOP *** [Kc 3h Jh]
+jay160705: checks 
+xxxbohunxxx: bets $0.46
+jay160705: folds 
+Uncalled bet ($0.46) returned to xxxbohunxxx
+xxxbohunxxx collected $0.91 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kc 3h Jh]
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 4: jay160705 folded on the Flop
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx collected ($0.91)
+
+
+
+PokerStars Hand #222943620229:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:18 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.81 in chips) 
+Seat 2: Himik30 ($10.20 in chips) 
+Seat 3: juligan111 ($12.03 in chips) 
+Seat 4: jay160705 ($6.21 in chips) 
+Seat 5: gresscrack ($12.69 in chips) 
+Seat 6: xxxbohunxxx ($18.29 in chips) 
+juligan111: posts small blind $0.05
+jay160705: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: folds 
+Himik30: folds 
+juligan111: raises $0.20 to $0.30
+jay160705: folds 
+Uncalled bet ($0.20) returned to juligan111
+juligan111 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: juligan111 (small blind) collected ($0.20)
+Seat 4: jay160705 (big blind) folded before Flop
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943625794:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:35 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.81 in chips) 
+Seat 2: Himik30 ($10.20 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($6.11 in chips) 
+Seat 5: gresscrack ($12.69 in chips) 
+Seat 6: xxxbohunxxx ($18.29 in chips) 
+jay160705: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: raises $0.25 to $0.35
+Himik30: folds 
+juligan111: folds 
+jay160705: calls $0.30
+gresscrack: folds 
+*** FLOP *** [8s 7s Js]
+jay160705: checks 
+palmitos629: bets $0.84
+jay160705: folds 
+Uncalled bet ($0.84) returned to palmitos629
+palmitos629 collected $0.76 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [8s 7s Js]
+Seat 1: palmitos629 collected ($0.76)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 4: jay160705 (small blind) folded on the Flop
+Seat 5: gresscrack (big blind) folded before Flop
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943635027:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:04 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($5.22 in chips) 
+Seat 2: Himik30 ($10.20 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($5.76 in chips) 
+Seat 5: gresscrack ($12.59 in chips) 
+Seat 6: xxxbohunxxx ($18.29 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: raises $0.10 to $0.20
+Himik30: folds 
+juligan111: folds 
+jay160705: calls $0.20
+gresscrack: folds 
+xxxbohunxxx: folds 
+*** FLOP *** [Kh 8h Qs]
+palmitos629: checks 
+jay160705: checks 
+*** TURN *** [Kh 8h Qs] [3s]
+palmitos629: bets $0.32
+jay160705: calls $0.32
+*** RIVER *** [Kh 8h Qs 3s] [2c]
+palmitos629: bets $0.68
+jay160705: folds 
+Uncalled bet ($0.68) returned to palmitos629
+palmitos629 collected $1.14 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.05 
+Board [Kh 8h Qs 3s 2c]
+Seat 1: palmitos629 collected ($1.14)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 4: jay160705 (button) folded on the River
+Seat 5: gresscrack (small blind) folded before Flop
+Seat 6: xxxbohunxxx (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943649509:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:49 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.84 in chips) 
+Seat 2: Himik30 ($10.20 in chips) 
+Seat 3: juligan111 ($12.13 in chips) 
+Seat 4: jay160705 ($5.24 in chips) 
+Seat 5: gresscrack ($12.54 in chips) 
+Seat 6: xxxbohunxxx ($18.19 in chips) 
+xxxbohunxxx: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+juligan111: raises $0.15 to $0.25
+jay160705: calls $0.25
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: calls $0.15
+*** FLOP *** [2d Ad Qd]
+palmitos629: checks 
+juligan111: checks 
+jay160705: checks 
+*** TURN *** [2d Ad Qd] [8s]
+palmitos629: checks 
+juligan111: checks 
+jay160705: checks 
+*** RIVER *** [2d Ad Qd 8s] [Td]
+palmitos629: bets $0.23
+juligan111: folds 
+jay160705: calls $0.23
+*** SHOW DOWN ***
+palmitos629: shows [5s 4s] (high card Ace)
+jay160705: shows [As 2c] (two pair, Aces and Deuces)
+jay160705 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.06 
+Board [2d Ad Qd 8s Td]
+Seat 1: palmitos629 (big blind) showed [5s 4s] and lost with high card Ace
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 folded on the River
+Seat 4: jay160705 showed [As 2c] and won ($1.20) with two pair, Aces and Deuces
+Seat 5: gresscrack (button) folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943663172:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:31 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($5.36 in chips) 
+Seat 2: Himik30 ($10.20 in chips) 
+Seat 3: juligan111 ($11.88 in chips) 
+Seat 4: jay160705 ($5.96 in chips) 
+Seat 5: gresscrack ($12.54 in chips) 
+Seat 6: xxxbohunxxx ($18.14 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: raises $0.20 to $0.30
+jay160705: calls $0.30
+gresscrack: folds 
+xxxbohunxxx: folds 
+palmitos629: folds 
+Himik30: folds 
+*** FLOP *** [Qs Ks Kh]
+juligan111: bets $0.25
+jay160705: calls $0.25
+*** TURN *** [Qs Ks Kh] [2d]
+juligan111: checks 
+jay160705: checks 
+*** RIVER *** [Qs Ks Kh 2d] [Qh]
+juligan111: bets $0.45
+jay160705: folds 
+Uncalled bet ($0.45) returned to juligan111
+juligan111 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qs Ks Kh 2d Qh]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: juligan111 collected ($1.19)
+Seat 4: jay160705 folded on the River
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943674563:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:06 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($5.31 in chips) 
+Seat 2: Himik30 ($10.10 in chips) 
+Seat 3: juligan111 ($12.52 in chips) 
+Seat 5: gresscrack ($12.54 in chips) 
+Seat 6: xxxbohunxxx ($18.14 in chips) 
+Himik30: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+palmitos629: folds 
+Himik30: folds 
+juligan111: folds 
+Uncalled bet ($0.20) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 5: gresscrack folded before Flop (didn't bet)
+Seat 6: xxxbohunxxx collected ($0.25)
+
+
+
+PokerStars Hand #222943679524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:22 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($5.31 in chips) 
+Seat 2: Himik30 ($10.05 in chips) 
+Seat 3: juligan111 ($12.42 in chips) 
+Seat 5: gresscrack ($12.54 in chips) 
+Seat 6: xxxbohunxxx ($18.29 in chips) 
+juligan111: posts small blind $0.05
+gresscrack: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+palmitos629: folds 
+Himik30: raises $0.15 to $0.25
+juligan111: calls $0.20
+gresscrack: folds 
+*** FLOP *** [4c 8c Jd]
+juligan111: bets $0.20
+Himik30: calls $0.20
+*** TURN *** [4c 8c Jd] [4h]
+juligan111: checks 
+Himik30: bets $0.64
+juligan111: folds 
+Uncalled bet ($0.64) returned to Himik30
+Himik30 collected $0.96 from pot
+Himik30: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [4c 8c Jd 4h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) collected ($0.96)
+Seat 3: juligan111 (small blind) folded on the Turn
+Seat 5: gresscrack (big blind) folded before Flop
+Seat 6: xxxbohunxxx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943693247:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:04 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($5.31 in chips) 
+Seat 2: Himik30 ($10.56 in chips) 
+Seat 3: juligan111 ($11.97 in chips) 
+Seat 5: gresscrack ($12.44 in chips) 
+gresscrack: posts small blind $0.05
+xxxbohunxxx: is sitting out 
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx leaves the table
+Himik30: folds 
+juligan111: raises $0.20 to $0.30
+gresscrack: folds 
+palmitos629: folds 
+Uncalled bet ($0.20) returned to juligan111
+juligan111 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) collected ($0.25)
+Seat 5: gresscrack (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943697805:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:18 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.21 in chips) 
+Seat 2: Himik30 ($10.56 in chips) 
+Seat 3: juligan111 ($12.12 in chips) 
+Seat 5: gresscrack ($12.39 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+gresscrack: raises $0.20 to $0.30
+palmitos629: folds 
+Himik30: raises $0.70 to $1
+gresscrack: folds 
+Uncalled bet ($0.70) returned to Himik30
+Himik30 collected $0.65 from pot
+Himik30: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) collected ($0.65)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 5: gresscrack (button) folded before Flop
+
+
+
+PokerStars Hand #222943703956:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:35 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($5.16 in chips) 
+Seat 2: Himik30 ($10.91 in chips) 
+Seat 3: juligan111 ($12.12 in chips) 
+Seat 5: gresscrack ($12.09 in chips) 
+Himik30: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack: raises $0.20 to $0.30
+palmitos629: calls $0.30
+Himik30: folds 
+juligan111: calls $0.20
+*** FLOP *** [Qs 8d Js]
+juligan111: checks 
+gresscrack: bets $0.23
+palmitos629: folds 
+juligan111: calls $0.23
+*** TURN *** [Qs 8d Js] [8c]
+juligan111: bets $0.40
+Pokernan95 joins the table at seat #6 
+gresscrack: raises $2.15 to $2.55
+juligan111: folds 
+Uncalled bet ($2.15) returned to gresscrack
+gresscrack collected $2.11 from pot
+gresscrack: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.10 
+Board [Qs 8d Js 8c]
+Seat 1: palmitos629 (button) folded on the Flop
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded on the Turn
+Seat 5: gresscrack collected ($2.11)
+
+
+
+PokerStars Hand #222943725726:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:43 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.86 in chips) 
+Seat 2: Himik30 ($10.86 in chips) 
+Seat 3: juligan111 ($11.19 in chips) 
+Seat 6: Pokernan95 ($10 in chips) 
+juligan111: posts small blind $0.05
+gresscrack: is sitting out 
+Pokernan95: posts big blind $0.10
+*** HOLE CARDS ***
+gresscrack leaves the table
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+juligan111: folds 
+Pokernan95: calls $0.20
+*** FLOP *** [4h 4d 6h]
+Pokernan95: checks 
+palmitos629: bets $0.37
+6A6ARH6A6yNH joins the table at seat #5 
+Pokernan95: raises $0.37 to $0.74
+palmitos629: folds 
+Uncalled bet ($0.37) returned to Pokernan95
+Pokernan95 collected $1.33 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.06 
+Board [4h 4d 6h]
+Seat 1: palmitos629 folded on the Flop
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: juligan111 (small blind) folded before Flop
+Seat 6: Pokernan95 (big blind) collected ($1.33)
+
+
+
+PokerStars Hand #222943749543:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:45 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.19 in chips) 
+Seat 2: Himik30 ($10.86 in chips) 
+Seat 3: juligan111 ($11.14 in chips) 
+Seat 6: Pokernan95 ($10.66 in chips) 
+Pokernan95: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: raises $0.15 to $0.25
+juligan111: calls $0.25
+Pokernan95: calls $0.20
+palmitos629: calls $0.15
+*** FLOP *** [9d 3h 4d]
+Pokernan95: checks 
+palmitos629: checks 
+Himik30: checks 
+juligan111: checks 
+*** TURN *** [9d 3h 4d] [Qs]
+Pokernan95: bets $0.48
+palmitos629: calls $0.48
+Himik30: folds 
+juligan111: folds 
+*** RIVER *** [9d 3h 4d Qs] [Kc]
+Pokernan95: bets $1
+palmitos629: raises $2.46 to $3.46 and is all-in
+Pokernan95: calls $2.46
+*** SHOW DOWN ***
+palmitos629: shows [Qc Ks] (two pair, Kings and Queens)
+Pokernan95: shows [Kh Ac] (a pair of Kings)
+palmitos629 collected $8.48 from pot
+*** SUMMARY ***
+Total pot $8.88 | Rake $0.40 
+Board [9d 3h 4d Qs Kc]
+Seat 1: palmitos629 (big blind) showed [Qc Ks] and won ($8.48) with two pair, Kings and Queens
+Seat 2: Himik30 folded on the Turn
+Seat 3: juligan111 (button) folded on the Turn
+Seat 6: Pokernan95 (small blind) showed [Kh Ac] and lost with a pair of Kings
+
+
+
+PokerStars Hand #222943765115:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:34 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($8.48 in chips) 
+Seat 2: Himik30 ($10.61 in chips) 
+Seat 3: juligan111 ($10.89 in chips) 
+Seat 6: Pokernan95 ($6.47 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+6A6ARH6A6yNH: sits out 
+*** HOLE CARDS ***
+juligan111: folds 
+Pokernan95: raises $0.20 to $0.30
+palmitos629: raises $0.70 to $1
+Himik30: folds 
+Pokernan95: raises $0.80 to $1.80
+palmitos629: calls $0.80
+*** FLOP *** [6h 8d Jh]
+palmitos629: checks 
+Pokernan95: bets $1.70
+palmitos629: folds [Ac Qs]
+Uncalled bet ($1.70) returned to Pokernan95
+Pokernan95 collected $3.53 from pot
+Pokernan95: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.70 | Rake $0.17 
+Board [6h 8d Jh]
+Seat 1: palmitos629 (small blind) folded on the Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 6: Pokernan95 (button) collected ($3.53)
+
+
+
+PokerStars Hand #222943774497:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:03 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($6.68 in chips) 
+Seat 2: Himik30 ($10.51 in chips) 
+Seat 3: juligan111 ($10.89 in chips) 
+Seat 6: Pokernan95 ($8.20 in chips) 
+Himik30: posts small blind $0.05
+juligan111: posts big blind $0.10
+6A6ARH6A6yNH: sits out 
+*** HOLE CARDS ***
+Pokernan95: folds 
+palmitos629: raises $0.25 to $0.35
+Himik30: folds 
+juligan111: folds 
+Uncalled bet ($0.25) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (button) collected ($0.25)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 6: Pokernan95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943778758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:16 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($6.83 in chips) 
+Seat 2: Himik30 ($10.46 in chips) 
+Seat 3: juligan111 ($10.79 in chips) 
+Seat 5: 6A6ARH6A6yNH ($10 in chips) 
+Seat 6: Pokernan95 ($8.20 in chips) 
+juligan111: posts small blind $0.05
+6A6ARH6A6yNH: posts big blind $0.10
+*** HOLE CARDS ***
+Pokernan95: folds 
+palmitos629: folds 
+Himik30: folds 
+juligan111: raises $0.20 to $0.30
+6A6ARH6A6yNH: raises $0.60 to $0.90
+juligan111: calls $0.60
+*** FLOP *** [3s 6s Ks]
+juligan111: bets $0.45
+Pokernan95 leaves the table
+jay160705 is disconnected 
+juligan111 is disconnected 
+negritos81 joins the table at seat #6 
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.45) returned to juligan111
+juligan111 collected $1.72 from pot
+juligan111 is connected 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [3s 6s Ks]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: juligan111 (small blind) collected ($1.72)
+Seat 5: 6A6ARH6A6yNH (big blind) folded on the Flop
+Seat 6: Pokernan95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943797616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:15 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($6.83 in chips) 
+Seat 2: Himik30 ($10.46 in chips) 
+Seat 3: juligan111 ($11.61 in chips) 
+Seat 5: 6A6ARH6A6yNH ($10 in chips) 
+Seat 6: negritos81 ($10 in chips) 
+6A6ARH6A6yNH: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: raises $0.10 to $0.20
+Himik30: folds 
+juligan111: folds 
+6A6ARH6A6yNH: folds 
+negritos81: folds 
+Uncalled bet ($0.10) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 collected ($0.25)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: 6A6ARH6A6yNH (small blind) folded before Flop
+Seat 6: negritos81 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943811449:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:58 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($6.98 in chips) 
+Seat 2: Himik30 ($10.46 in chips) 
+Seat 3: juligan111 ($11.61 in chips) 
+Seat 5: 6A6ARH6A6yNH ($10 in chips) 
+Seat 6: negritos81 ($10 in chips) 
+negritos81: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+juligan111: folds 
+6A6ARH6A6yNH: calls $0.10
+negritos81: folds 
+palmitos629: checks 
+*** FLOP *** [9s Qc Td]
+palmitos629: bets $0.14
+6A6ARH6A6yNH has timed out
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.14) returned to palmitos629
+palmitos629 collected $0.24 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s Qc Td]
+Seat 1: palmitos629 (big blind) collected ($0.24)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 5: 6A6ARH6A6yNH (button) folded on the Flop
+Seat 6: negritos81 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943828842:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:52 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($7.12 in chips) 
+Seat 2: Himik30 ($10.46 in chips) 
+Seat 3: juligan111 ($11.61 in chips) 
+Seat 5: 6A6ARH6A6yNH ($10 in chips) 
+Seat 6: negritos81 ($10 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+6A6ARH6A6yNH has timed out
+6A6ARH6A6yNH: folds 
+negritos81: raises $0.20 to $0.30
+palmitos629: folds 
+Himik30: folds 
+Uncalled bet ($0.20) returned to negritos81
+negritos81 collected $0.25 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: juligan111 folded before Flop (didn't bet)
+Seat 5: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 6: negritos81 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943846747:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:22 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($7.07 in chips) 
+Seat 2: Himik30 ($10.36 in chips) 
+Seat 3: juligan111 ($11.61 in chips) 
+Seat 5: 6A6ARH6A6yNH ($10 in chips) 
+Seat 6: negritos81 ($10.15 in chips) 
+Himik30: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: calls $0.10
+negritos81: folds 
+palmitos629: raises $0.35 to $0.45
+juligan111 is disconnected 
+Himik30: folds 
+juligan111 has timed out while disconnected
+juligan111: folds 
+6A6ARH6A6yNH: calls $0.35
+*** FLOP *** [Kh 4s Th]
+6A6ARH6A6yNH: checks 
+palmitos629: bets $0.60
+6A6ARH6A6yNH: calls $0.60
+*** TURN *** [Kh 4s Th] [9d]
+6A6ARH6A6yNH: checks 
+palmitos629: bets $1.90
+6A6ARH6A6yNH: raises $7.05 to $8.95 and is all-in
+palmitos629: folds 
+Uncalled bet ($7.05) returned to 6A6ARH6A6yNH
+6A6ARH6A6yNH collected $5.78 from pot
+*** SUMMARY ***
+Total pot $6.05 | Rake $0.27 
+Board [Kh 4s Th 9d]
+Seat 1: palmitos629 (button) folded on the Turn
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: juligan111 (big blind) folded before Flop
+Seat 5: 6A6ARH6A6yNH collected ($5.78)
+Seat 6: negritos81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943899293:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:43 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.12 in chips) 
+Seat 2: Himik30 ($10.31 in chips) 
+Seat 3: juligan111 ($11.51 in chips) 
+Seat 5: 6A6ARH6A6yNH ($12.83 in chips) 
+Seat 6: negritos81 ($10.15 in chips) 
+juligan111: posts small blind $0.05
+6A6ARH6A6yNH: posts big blind $0.10
+*** HOLE CARDS ***
+negritos81: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+juligan111: folds 
+6A6ARH6A6yNH: calls $0.20
+*** FLOP *** [5c 6d 8s]
+6A6ARH6A6yNH: checks 
+palmitos629: bets $0.68
+negritos81 leaves the table
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.68) returned to palmitos629
+palmitos629 collected $0.62 from pot
+jay160705 was removed from the table for failing to post
+jay160705 leaves the table
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5c 6d 8s]
+Seat 1: palmitos629 collected ($0.62)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: juligan111 (small blind) folded before Flop
+Seat 5: 6A6ARH6A6yNH (big blind) folded on the Flop
+Seat 6: negritos81 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943913706:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:29 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.44 in chips) 
+Seat 2: Himik30 ($10.31 in chips) 
+Seat 3: juligan111 ($11.46 in chips) 
+Seat 5: 6A6ARH6A6yNH ($12.53 in chips) 
+6A6ARH6A6yNH: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+juligan111: folds 
+juligan111 leaves the table
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.05) returned to palmitos629
+palmitos629 collected $0.10 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 (big blind) collected ($0.10)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: 6A6ARH6A6yNH (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943919879:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:48 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($4.49 in chips) 
+Seat 2: Himik30 ($10.31 in chips) 
+Seat 5: 6A6ARH6A6yNH ($12.48 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: calls $0.20
+*** FLOP *** [6c 2s 9c]
+palmitos629: checks 
+Himik30: bets $0.38
+palmitos629: folds [Ad]
+Uncalled bet ($0.38) returned to Himik30
+Himik30 collected $0.57 from pot
+Himik30: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6c 2s 9c]
+Seat 1: palmitos629 (small blind) folded on the Flop
+Seat 2: Himik30 (big blind) collected ($0.57)
+Seat 5: 6A6ARH6A6yNH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943927540:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:12 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.19 in chips) 
+Seat 2: Himik30 ($10.58 in chips) 
+Himik30: posts small blind $0.05
+6A6ARH6A6yNH: is sitting out 
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH leaves the table
+Himik30: raises $0.15 to $0.25
+palmitos629: calls $0.15
+*** FLOP *** [Th 5d Kh]
+ildar87kzn joins the table at seat #3 
+palmitos629: checks 
+Himik30: bets $0.32
+palmitos629: calls $0.32
+*** TURN *** [Th 5d Kh] [Ks]
+palmitos629: checks 
+Himik30: checks 
+*** RIVER *** [Th 5d Kh Ks] [6h]
+palmitos629: bets $1.20
+negritos81 joins the table at seat #4 
+Himik30: folds 
+Uncalled bet ($1.20) returned to palmitos629
+palmitos629 collected $1.09 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [Th 5d Kh Ks 6h]
+Seat 1: palmitos629 (big blind) collected ($1.09)
+Seat 2: Himik30 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #222943941517:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:56 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($4.71 in chips) 
+Seat 2: Himik30 ($10.01 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+negritos81: sits out 
+*** HOLE CARDS ***
+palmitos629: raises $4.61 to $4.71 and is all-in
+Himik30: folds 
+ildar87kzn: folds 
+Uncalled bet ($4.61) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (button) collected ($0.25)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943945791:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:10 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.86 in chips) 
+Seat 2: Himik30 ($9.96 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: negritos81 ($10.15 in chips) 
+ildar87kzn: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+bubbleburner85 joins the table at seat #5 
+ildar87kzn: raises $0.20 to $0.30
+negritos81: calls $0.20
+*** FLOP *** [Ah Td 3d]
+ildar87kzn: bets $0.57
+arabella 33 joins the table at seat #6 
+negritos81: folds 
+Uncalled bet ($0.57) returned to ildar87kzn
+ildar87kzn collected $0.57 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ah Td 3d]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) collected ($0.57)
+Seat 4: negritos81 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943960250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:55 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.86 in chips) 
+Seat 2: Himik30 ($9.96 in chips) 
+Seat 3: ildar87kzn ($10.27 in chips) 
+Seat 4: negritos81 ($10 in chips) 
+Seat 5: bubbleburner85 ($6.65 in chips) 
+negritos81: posts small blind $0.05
+bubbleburner85: posts big blind $0.10
+arabella 33: sits out 
+*** HOLE CARDS ***
+palmitos629: raises $0.10 to $0.20
+Himik30: folds 
+ildar87kzn: folds 
+negritos81: folds 
+bubbleburner85: calls $0.10
+*** FLOP *** [4s Qh 9s]
+bubbleburner85: checks 
+palmitos629: checks 
+*** TURN *** [4s Qh 9s] [9h]
+bubbleburner85: checks 
+palmitos629: checks 
+*** RIVER *** [4s Qh 9s 9h] [Js]
+bubbleburner85: checks 
+palmitos629: bets $0.47
+bubbleburner85: folds 
+Uncalled bet ($0.47) returned to palmitos629
+palmitos629 collected $0.43 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [4s Qh 9s 9h Js]
+Seat 1: palmitos629 collected ($0.43)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: negritos81 (small blind) folded before Flop
+Seat 5: bubbleburner85 (big blind) folded on the River
+
+
+
+PokerStars Hand #222943977404:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:49 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($5.09 in chips) 
+Seat 2: Himik30 ($9.96 in chips) 
+Seat 3: ildar87kzn ($10.27 in chips) 
+Seat 4: negritos81 ($10 in chips) 
+Seat 5: bubbleburner85 ($6.45 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+negritos81: raises $0.20 to $0.30
+bubbleburner85: folds 
+arabella 33: folds 
+Uncalled bet ($0.20) returned to negritos81
+negritos81 collected $0.25 from pot
+negritos81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: negritos81 (button) collected ($0.25)
+Seat 5: bubbleburner85 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943985338:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:14 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.09 in chips) 
+Seat 2: Himik30 ($9.96 in chips) 
+Seat 3: ildar87kzn ($10.27 in chips) 
+Seat 4: negritos81 ($10.15 in chips) 
+Seat 5: bubbleburner85 ($6.40 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+ildar87kzn: raises $0.20 to $0.30
+negritos81: folds 
+bubbleburner85: calls $0.30
+arabella 33: folds 
+palmitos629: folds 
+*** FLOP *** [Qh 6d 3d]
+ildar87kzn: checks 
+bubbleburner85: checks 
+*** TURN *** [Qh 6d 3d] [6h]
+ildar87kzn: checks 
+bubbleburner85: checks 
+*** RIVER *** [Qh 6d 3d 6h] [5c]
+negritos81 leaves the table
+ildar87kzn: checks 
+bubbleburner85: bets $0.10
+ildar87kzn: folds 
+Uncalled bet ($0.10) returned to bubbleburner85
+bubbleburner85 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qh 6d 3d 6h 5c]
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded on the River
+Seat 4: negritos81 folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (button) collected ($0.72)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943998712:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:56 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($4.99 in chips) 
+Seat 2: Himik30 ($9.96 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 5: bubbleburner85 ($6.82 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+bubbleburner85: folds 
+arabella 33: raises $0.15 to $0.25
+palmitos629: folds 
+joeyjojoash joins the table at seat #4 
+Himik30: folds 
+Uncalled bet ($0.15) returned to arabella 33
+arabella 33 collected $0.25 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222944004189:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:13 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($4.94 in chips) 
+Seat 2: Himik30 ($9.86 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 5: bubbleburner85 ($6.82 in chips) 
+Seat 6: arabella 33 ($10.15 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+joeyjojoash: sits out 
+*** HOLE CARDS ***
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: folds 
+Himik30: calls $0.05
+ildar87kzn: checks 
+*** FLOP *** [Kd 8s 4h]
+Himik30: checks 
+ildar87kzn: checks 
+bubbleburner85: checks 
+*** TURN *** [Kd 8s 4h] [As]
+Himik30: bets $0.10
+ildar87kzn: folds 
+bubbleburner85: calls $0.10
+*** RIVER *** [Kd 8s 4h As] [3c]
+Himik30: checks 
+bubbleburner85: checks 
+*** SHOW DOWN ***
+Himik30: shows [9d Ac] (a pair of Aces)
+bubbleburner85: mucks hand 
+Himik30 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Kd 8s 4h As 3c]
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: Himik30 (small blind) showed [9d Ac] and won ($0.48) with a pair of Aces
+Seat 3: ildar87kzn (big blind) folded on the Turn
+Seat 5: bubbleburner85 mucked
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944018083:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:57 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.94 in chips) 
+Seat 2: Himik30 ($10.14 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($10 in chips) 
+Seat 5: bubbleburner85 ($6.62 in chips) 
+Seat 6: arabella 33 ($10.15 in chips) 
+ildar87kzn: posts small blind $0.05
+joeyjojoash: posts big blind $0.10
+*** HOLE CARDS ***
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.05) returned to joeyjojoash
+joeyjojoash collected $0.10 from pot
+joeyjojoash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: joeyjojoash (big blind) collected ($0.10)
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944022960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:12 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.94 in chips) 
+Seat 2: Himik30 ($10.14 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($10.05 in chips) 
+Seat 5: bubbleburner85 ($6.62 in chips) 
+Seat 6: arabella 33 ($10.15 in chips) 
+joeyjojoash: posts small blind $0.05
+bubbleburner85: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: raises $0.15 to $0.25
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+joeyjojoash: calls $0.20
+bubbleburner85: folds 
+*** FLOP *** [7c Td 6s]
+joeyjojoash: checks 
+arabella 33: bets $0.30
+joeyjojoash: calls $0.30
+*** TURN *** [7c Td 6s] [9h]
+joeyjojoash: checks 
+arabella 33: checks 
+*** RIVER *** [7c Td 6s 9h] [4h]
+joeyjojoash: bets $1.15
+arabella 33: folds 
+Uncalled bet ($1.15) returned to joeyjojoash
+joeyjojoash collected $1.15 from pot
+joeyjojoash: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [7c Td 6s 9h 4h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: joeyjojoash (small blind) collected ($1.15)
+Seat 5: bubbleburner85 (big blind) folded before Flop
+Seat 6: arabella 33 folded on the River
+
+
+
+PokerStars Hand #222944035560:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:52 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($4.94 in chips) 
+Seat 2: Himik30 ($10.14 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($10.65 in chips) 
+Seat 5: bubbleburner85 ($6.52 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+joeyjojoash: folds 
+bubbleburner85: folds 
+Uncalled bet ($0.05) returned to arabella 33
+arabella 33 collected $0.10 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: joeyjojoash (button) folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944038633:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:02 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($4.94 in chips) 
+Seat 2: Himik30 ($10.14 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($10.65 in chips) 
+Seat 5: bubbleburner85 ($6.47 in chips) 
+Seat 6: arabella 33 ($10.05 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: calls $0.10
+ildar87kzn: folds 
+joeyjojoash: calls $0.10
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: checks 
+*** FLOP *** [6d 2c 2s]
+palmitos629: bets $0.36
+Himik30: calls $0.36
+joeyjojoash: raises $10.19 to $10.55 and is all-in
+palmitos629: folds 
+Himik30: calls $9.68 and is all-in
+Uncalled bet ($0.51) returned to joeyjojoash
+*** TURN *** [6d 2c 2s] [Qs]
+*** RIVER *** [6d 2c 2s Qs] [3h]
+*** SHOW DOWN ***
+Himik30: shows [Ts Tc] (two pair, Tens and Deuces)
+joeyjojoash: shows [Ac 2d] (three of a kind, Deuces)
+joeyjojoash collected $19.85 from pot
+*** SUMMARY ***
+Total pot $20.79 | Rake $0.94 
+Board [6d 2c 2s Qs 3h]
+Seat 1: palmitos629 (big blind) folded on the Flop
+Seat 2: Himik30 showed [Ts Tc] and lost with two pair, Tens and Deuces
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: joeyjojoash showed [Ac 2d] and won ($19.85) with three of a kind, Deuces
+Seat 5: bubbleburner85 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944062681:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:20 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($4.48 in chips) 
+Seat 2: Himik30 ($10 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($20.36 in chips) 
+Seat 5: bubbleburner85 ($6.47 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+joeyjojoash: folds 
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: calls $0.05
+Himik30: checks 
+*** FLOP *** [Qc 9h 4d]
+palmitos629: bets $0.17
+Himik30: folds 
+bubbleburner85: calls $0.17
+*** TURN *** [Qc 9h 4d] [6s]
+palmitos629: bets $0.37
+bubbleburner85: folds 
+Uncalled bet ($0.37) returned to palmitos629
+palmitos629 collected $0.61 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03 
+Board [Qc 9h 4d 6s]
+Seat 1: palmitos629 (small blind) collected ($0.61)
+Seat 2: Himik30 (big blind) folded on the Flop
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: joeyjojoash folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded on the Turn
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944078927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:12 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($4.82 in chips) 
+Seat 2: Himik30 ($9.90 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($20.36 in chips) 
+Seat 5: bubbleburner85 ($6.20 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+joeyjojoash has timed out
+joeyjojoash: folds 
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: folds 
+Himik30: folds 
+Uncalled bet ($0.05) returned to ildar87kzn
+ildar87kzn collected $0.10 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) collected ($0.10)
+Seat 4: joeyjojoash folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944084325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:30 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.82 in chips) 
+Seat 2: Himik30 ($9.85 in chips) 
+Seat 3: ildar87kzn ($10.05 in chips) 
+Seat 4: joeyjojoash ($20.36 in chips) 
+Seat 5: bubbleburner85 ($6.20 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+ildar87kzn: posts small blind $0.05
+joeyjojoash: posts big blind $0.10
+*** HOLE CARDS ***
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+joeyjojoash: checks 
+*** FLOP *** [9h 7h 6s]
+joeyjojoash: checks 
+bubbleburner85: checks 
+*** TURN *** [9h 7h 6s] [As]
+joeyjojoash: checks 
+bubbleburner85: checks 
+*** RIVER *** [9h 7h 6s As] [6h]
+joeyjojoash: bets $0.24
+bubbleburner85: folds 
+Uncalled bet ($0.24) returned to joeyjojoash
+joeyjojoash collected $0.24 from pot
+joeyjojoash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h 7h 6s As 6h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: joeyjojoash (big blind) collected ($0.24)
+Seat 5: bubbleburner85 folded on the River
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944093008:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:58 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.82 in chips) 
+Seat 2: Himik30 ($9.85 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($20.50 in chips) 
+Seat 5: bubbleburner85 ($6.10 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+joeyjojoash: posts small blind $0.05
+bubbleburner85: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+ildar87kzn: folds 
+joeyjojoash: calls $0.25
+bubbleburner85: folds 
+*** FLOP *** [6h 9d Jc]
+joeyjojoash: checks 
+palmitos629: bets $0.74
+joeyjojoash: folds 
+Uncalled bet ($0.74) returned to palmitos629
+palmitos629 collected $0.67 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [6h 9d Jc]
+Seat 1: palmitos629 collected ($0.67)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: joeyjojoash (small blind) folded on the Flop
+Seat 5: bubbleburner85 (big blind) folded before Flop
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944100706:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:22 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($9.85 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($20.20 in chips) 
+Seat 5: bubbleburner85 ($6 in chips) 
+Seat 6: arabella 33 ($10 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+joeyjojoash: folds 
+bubbleburner85: calls $0.05
+arabella 33: checks 
+*** FLOP *** [Qs 2c Jd]
+bubbleburner85: checks 
+arabella 33: checks 
+*** TURN *** [Qs 2c Jd] [Th]
+bubbleburner85: checks 
+arabella 33: checks 
+*** RIVER *** [Qs 2c Jd Th] [6h]
+bubbleburner85: checks 
+arabella 33: checks 
+*** SHOW DOWN ***
+bubbleburner85: shows [8c 5h] (high card Queen)
+arabella 33: shows [Jc 4h] (a pair of Jacks)
+arabella 33 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qs 2c Jd Th 6h]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: joeyjojoash (button) folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (small blind) showed [8c 5h] and lost with high card Queen
+Seat 6: arabella 33 (big blind) showed [Jc 4h] and won ($0.19) with a pair of Jacks
+
+
+
+PokerStars Hand #222944112067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:52 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($9.85 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($20.20 in chips) 
+Seat 5: bubbleburner85 ($5.90 in chips) 
+Seat 6: arabella 33 ($10.09 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+ildar87kzn: raises $0.20 to $0.30
+joeyjojoash: calls $0.30
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: folds 
+*** FLOP *** [7s 5h 5c]
+ildar87kzn: checks 
+joeyjojoash: checks 
+*** TURN *** [7s 5h 5c] [Jc]
+ildar87kzn: bets $0.50
+joeyjojoash: calls $0.50
+*** RIVER *** [7s 5h 5c Jc] [9d]
+ildar87kzn: checks 
+joeyjojoash: bets $19.40 and is all-in
+ildar87kzn: calls $9.20 and is all-in
+Uncalled bet ($10.20) returned to joeyjojoash
+*** SHOW DOWN ***
+joeyjojoash: shows [5s Js] (a full house, Fives full of Jacks)
+ildar87kzn: shows [Qd Qs] (two pair, Queens and Fives)
+joeyjojoash collected $19.24 from pot
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [7s 5h 5c Jc 9d]
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn showed [Qd Qs] and lost with two pair, Queens and Fives
+Seat 4: joeyjojoash showed [5s Js] and won ($19.24) with a full house, Fives full of Jacks
+Seat 5: bubbleburner85 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944124901:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:34 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($5.09 in chips) 
+Seat 2: Himik30 ($9.85 in chips) 
+Seat 3: ildar87kzn ($10 in chips) 
+Seat 4: joeyjojoash ($29.44 in chips) 
+Seat 5: bubbleburner85 ($5.90 in chips) 
+Seat 6: arabella 33 ($10.04 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.25 to $0.35
+joeyjojoash: calls $0.35
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: folds 
+Himik30: folds 
+*** FLOP *** [4d 8c 8s]
+ildar87kzn: checks 
+joeyjojoash: checks 
+*** TURN *** [4d 8c 8s] [9c]
+ildar87kzn: checks 
+joeyjojoash: checks 
+*** RIVER *** [4d 8c 8s 9c] [2h]
+ildar87kzn: checks 
+joeyjojoash: checks 
+*** SHOW DOWN ***
+ildar87kzn: shows [5h Ah] (a pair of Eights)
+joeyjojoash: mucks hand 
+ildar87kzn collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [4d 8c 8s 9c 2h]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: ildar87kzn showed [5h Ah] and won ($0.81) with a pair of Eights
+Seat 4: joeyjojoash mucked
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944135364:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:08 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($5.04 in chips) 
+Seat 2: Himik30 ($9.75 in chips) 
+Seat 3: ildar87kzn ($10.46 in chips) 
+Seat 4: joeyjojoash ($29.09 in chips) 
+Seat 5: bubbleburner85 ($5.90 in chips) 
+Seat 6: arabella 33 ($10.04 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+joeyjojoash: folds 
+bubbleburner85: folds 
+joeyjojoash leaves the table
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.20) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (button) collected ($0.25)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 4: joeyjojoash folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944140399:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:24 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($9.70 in chips) 
+Seat 3: ildar87kzn ($10.36 in chips) 
+Seat 5: bubbleburner85 ($5.90 in chips) 
+Seat 6: arabella 33 ($10.04 in chips) 
+ildar87kzn: posts small blind $0.05
+negritos81 joins the table at seat #4 
+bubbleburner85: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+palmitos629: folds 
+Himik30: raises $0.15 to $0.25
+ildar87kzn: raises $0.85 to $1.10
+bubbleburner85: folds 
+Himik30: folds 
+Uncalled bet ($0.85) returned to ildar87kzn
+ildar87kzn collected $0.60 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop
+Seat 3: ildar87kzn (small blind) collected ($0.60)
+Seat 5: bubbleburner85 (big blind) folded before Flop
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944147929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:49 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($9.45 in chips) 
+Seat 3: ildar87kzn ($10.71 in chips) 
+Seat 5: bubbleburner85 ($5.80 in chips) 
+Seat 6: arabella 33 ($10.04 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+bubbleburner85: folds 
+Uncalled bet ($0.05) returned to arabella 33
+arabella 33 collected $0.10 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944150168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:56 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($9.45 in chips) 
+Seat 3: ildar87kzn ($10.71 in chips) 
+Seat 5: bubbleburner85 ($5.75 in chips) 
+Seat 6: arabella 33 ($10.09 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+negritos81: sits out 
+*** HOLE CARDS ***
+Himik30: folds 
+ildar87kzn: folds 
+bubbleburner85: folds 
+arabella 33: raises $0.20 to $0.30
+palmitos629: calls $0.20
+*** FLOP *** [2d Kc Ac]
+arabella 33: checks 
+palmitos629: bets $0.40
+arabella 33: calls $0.40
+*** TURN *** [2d Kc Ac] [Qh]
+arabella 33: checks 
+palmitos629: checks 
+*** RIVER *** [2d Kc Ac Qh] [2c]
+arabella 33: bets $0.70
+palmitos629: folds 
+Uncalled bet ($0.70) returned to arabella 33
+arabella 33 collected $1.34 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [2d Kc Ac Qh 2c]
+Seat 1: palmitos629 (big blind) folded on the River
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) collected ($1.34)
+
+
+
+PokerStars Hand #222944169660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:00 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($4.49 in chips) 
+Seat 2: Himik30 ($9.45 in chips) 
+Seat 3: ildar87kzn ($10.71 in chips) 
+Seat 5: bubbleburner85 ($5.75 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+negritos81: sits out 
+*** HOLE CARDS ***
+ildar87kzn: folds 
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+Uncalled bet ($0.20) returned to palmitos629
+palmitos629 collected $0.20 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: palmitos629 (small blind) collected ($0.20)
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944174842:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:17 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($4.59 in chips) 
+Seat 2: Himik30 ($9.35 in chips) 
+Seat 3: ildar87kzn ($10.71 in chips) 
+Seat 5: bubbleburner85 ($5.75 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+negritos81: sits out 
+*** HOLE CARDS ***
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: folds 
+Himik30: calls $0.05
+ildar87kzn: raises $0.40 to $0.50
+bubbleburner85: calls $0.40
+Himik30: calls $0.40
+*** FLOP *** [Ac 2c 3c]
+Himik30: checks 
+ildar87kzn: checks 
+bubbleburner85: checks 
+*** TURN *** [Ac 2c 3c] [7d]
+Himik30: checks 
+ildar87kzn: bets $0.93
+bubbleburner85: folds 
+Himik30: folds 
+Uncalled bet ($0.93) returned to ildar87kzn
+ildar87kzn collected $1.43 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Ac 2c 3c 7d]
+Seat 1: palmitos629 (button) folded before Flop (didn't bet)
+Seat 2: Himik30 (small blind) folded on the Turn
+Seat 3: ildar87kzn (big blind) collected ($1.43)
+Seat 5: bubbleburner85 folded on the Turn
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944198294:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:24 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($4.59 in chips) 
+Seat 2: Himik30 ($8.85 in chips) 
+Seat 3: ildar87kzn ($11.64 in chips) 
+Seat 4: negritos81 ($10.15 in chips) 
+Seat 5: bubbleburner85 ($5.25 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+ildar87kzn: posts small blind $0.05
+negritos81: posts big blind $0.10
+*** HOLE CARDS ***
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+ildar87kzn: raises $0.70 to $1
+negritos81: folds 
+palmitos629: folds 
+Uncalled bet ($0.70) returned to ildar87kzn
+negritos81 leaves the table
+ildar87kzn collected $0.70 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: palmitos629 folded before Flop
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) collected ($0.70)
+Seat 4: negritos81 (big blind) folded before Flop
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944207755:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:55 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($4.29 in chips) 
+Seat 2: Himik30 ($8.85 in chips) 
+Seat 3: ildar87kzn ($12.04 in chips) 
+Seat 5: bubbleburner85 ($5.25 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+bubbleburner85: folds 
+Uncalled bet ($0.05) returned to arabella 33
+arabella 33 collected $0.10 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944210382:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:03 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($4.29 in chips) 
+Seat 2: Himik30 ($8.85 in chips) 
+Seat 3: ildar87kzn ($12.04 in chips) 
+Seat 5: bubbleburner85 ($5.20 in chips) 
+Seat 6: arabella 33 ($10.78 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+d3l0 joins the table at seat #4 
+ildar87kzn: raises $0.20 to $0.30
+bubbleburner85: raises $0.20 to $0.50
+arabella 33: folds 
+palmitos629: folds 
+ildar87kzn: calls $0.20
+*** FLOP *** [5d Td 5c]
+ildar87kzn: checks 
+bubbleburner85: bets $1.10
+ildar87kzn: folds 
+Uncalled bet ($1.10) returned to bubbleburner85
+bubbleburner85 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [5d Td 5c]
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded on the Flop
+Seat 5: bubbleburner85 (button) collected ($1.10)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944219236:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:33 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($4.19 in chips) 
+Seat 2: Himik30 ($8.85 in chips) 
+Seat 3: ildar87kzn ($11.54 in chips) 
+Seat 5: bubbleburner85 ($5.80 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+d3l0: sits out 
+*** HOLE CARDS ***
+ildar87kzn: folds 
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: raises $0.30 to $0.40
+Himik30: folds 
+bubbleburner85: calls $0.30
+*** FLOP *** [4d Ks 6s]
+palmitos629: checks 
+bubbleburner85: bets $0.43
+palmitos629: calls $0.43
+*** TURN *** [4d Ks 6s] [7c]
+palmitos629: checks 
+bubbleburner85: checks 
+*** RIVER *** [4d Ks 6s 7c] [3d]
+palmitos629: bets $1.01
+bubbleburner85: folds 
+Uncalled bet ($1.01) returned to palmitos629
+palmitos629 collected $1.68 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [4d Ks 6s 7c 3d]
+Seat 1: palmitos629 (small blind) collected ($1.68)
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded on the River
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944237055:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:32 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($5.04 in chips) 
+Seat 2: Himik30 ($8.75 in chips) 
+Seat 3: ildar87kzn ($11.54 in chips) 
+Seat 5: bubbleburner85 ($4.97 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+d3l0: sits out 
+*** HOLE CARDS ***
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: raises $4.94 to $5.04 and is all-in
+Himik30: folds 
+ildar87kzn: folds 
+Uncalled bet ($4.94) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (button) collected ($0.25)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944242412:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:50 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($8.70 in chips) 
+Seat 3: ildar87kzn ($11.44 in chips) 
+Seat 4: d3l0 ($8 in chips) 
+Seat 5: bubbleburner85 ($4.97 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+ildar87kzn: posts small blind $0.05
+d3l0: posts big blind $0.10
+*** HOLE CARDS ***
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: folds 
+Himik30: folds 
+ildar87kzn: folds 
+d3l0: checks 
+*** FLOP *** [Td Kc 6d]
+d3l0: checks 
+bubbleburner85: bets $0.12
+d3l0: calls $0.12
+*** TURN *** [Td Kc 6d] [2d]
+d3l0: checks 
+bubbleburner85: bets $0.24
+d3l0: calls $0.24
+*** RIVER *** [Td Kc 6d 2d] [Qd]
+d3l0: bets $0.46
+bubbleburner85: raises $1.85 to $2.31
+d3l0: folds 
+Uncalled bet ($1.85) returned to bubbleburner85
+bubbleburner85 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [Td Kc 6d 2d Qd]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: d3l0 (big blind) folded on the River
+Seat 5: bubbleburner85 collected ($1.80)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944259378:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:46 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($5.19 in chips) 
+Seat 2: Himik30 ($8.70 in chips) 
+Seat 3: ildar87kzn ($11.39 in chips) 
+Seat 4: d3l0 ($7.08 in chips) 
+Seat 5: bubbleburner85 ($5.85 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+d3l0: posts small blind $0.05
+bubbleburner85: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+ildar87kzn: folds 
+d3l0: calls $0.25
+bubbleburner85: folds 
+*** FLOP *** [9d 5s 7c]
+d3l0: bets $0.33
+palmitos629: calls $0.33
+*** TURN *** [9d 5s 7c] [Qd]
+d3l0: bets $0.65
+palmitos629: calls $0.65
+*** RIVER *** [9d 5s 7c Qd] [9s]
+d3l0: bets $2.54
+palmitos629: folds 
+Uncalled bet ($2.54) returned to d3l0
+d3l0 collected $2.54 from pot
+d3l0: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.66 | Rake $0.12 
+Board [9d 5s 7c Qd 9s]
+Seat 1: palmitos629 folded on the River
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: d3l0 (small blind) collected ($2.54)
+Seat 5: bubbleburner85 (big blind) folded before Flop
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944277587:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:39:46 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($3.91 in chips) 
+Seat 2: Himik30 ($8.70 in chips) 
+Seat 3: ildar87kzn ($11.39 in chips) 
+Seat 4: d3l0 ($8.34 in chips) 
+Seat 5: bubbleburner85 ($5.75 in chips) 
+Seat 6: arabella 33 ($10.73 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: folds 
+Himik30: raises $0.15 to $0.25
+ildar87kzn: folds 
+d3l0: calls $0.25
+bubbleburner85: calls $0.20
+arabella 33: folds 
+*** FLOP *** [2d Jh Kd]
+bubbleburner85: checks 
+Himik30: bets $0.41
+d3l0: folds 
+bubbleburner85: folds 
+Uncalled bet ($0.41) returned to Himik30
+Himik30 collected $0.81 from pot
+Himik30: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [2d Jh Kd]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 collected ($0.81)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: d3l0 (button) folded on the Flop
+Seat 5: bubbleburner85 (small blind) folded on the Flop
+Seat 6: arabella 33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944289062:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:40:24 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($3.91 in chips) 
+Seat 2: Himik30 ($9.26 in chips) 
+Seat 3: ildar87kzn ($11.39 in chips) 
+Seat 4: d3l0 ($8.09 in chips) 
+Seat 5: bubbleburner85 ($5.50 in chips) 
+Seat 6: arabella 33 ($10.63 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+ildar87kzn: folds 
+d3l0: raises $0.10 to $0.20
+bubbleburner85: folds 
+arabella 33: raises $0.50 to $0.70
+palmitos629: folds 
+d3l0: raises $0.50 to $1.20
+arabella 33: raises $9.43 to $10.63 and is all-in
+d3l0: calls $6.89 and is all-in
+Uncalled bet ($2.54) returned to arabella 33
+*** FLOP *** [7c Qh Td]
+*** TURN *** [7c Qh Td] [As]
+*** RIVER *** [7c Qh Td As] [Kh]
+*** SHOW DOWN ***
+arabella 33: shows [Jd Js] (a straight, Ten to Ace)
+d3l0: shows [Kd Ks] (three of a kind, Kings)
+arabella 33 collected $15.55 from pot
+*** SUMMARY ***
+Total pot $16.28 | Rake $0.73 
+Board [7c Qh Td As Kh]
+Seat 1: palmitos629 (big blind) folded before Flop
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: d3l0 showed [Kd Ks] and lost with three of a kind, Kings
+Seat 5: bubbleburner85 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) showed [Jd Js] and won ($15.55) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #222944306146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:00 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($3.81 in chips) 
+Seat 2: Himik30 ($9.26 in chips) 
+Seat 3: ildar87kzn ($11.39 in chips) 
+Seat 5: bubbleburner85 ($5.50 in chips) 
+Seat 6: arabella 33 ($18.09 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+d3l0 leaves the table
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: calls $0.05
+starii13 joins the table at seat #4 
+Himik30: checks 
+*** FLOP *** [4c 5h 4s]
+palmitos629: bets $0.32
+Himik30: folds 
+bubbleburner85: calls $0.32
+*** TURN *** [4c 5h 4s] [Js]
+palmitos629: bets $0.54
+bubbleburner85: calls $0.54
+*** RIVER *** [4c 5h 4s Js] [8s]
+palmitos629: bets $2.85 and is all-in
+bubbleburner85: calls $2.85
+*** SHOW DOWN ***
+palmitos629: shows [5d As] (two pair, Fives and Fours)
+bubbleburner85: shows [9h Kh] (a pair of Fours)
+palmitos629 collected $7.37 from pot
+*** SUMMARY ***
+Total pot $7.72 | Rake $0.35 
+Board [4c 5h 4s Js 8s]
+Seat 1: palmitos629 (small blind) showed [5d As] and won ($7.37) with two pair, Fives and Fours
+Seat 2: Himik30 (big blind) folded on the Flop
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 5: bubbleburner85 showed [9h Kh] and lost with a pair of Fours
+Seat 6: arabella 33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944327991:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:42:12 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($7.37 in chips) 
+Seat 2: Himik30 ($9.16 in chips) 
+Seat 3: ildar87kzn ($11.39 in chips) 
+Seat 5: bubbleburner85 ($1.69 in chips) 
+Seat 6: arabella 33 ($18.09 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+starii13: sits out 
+*** HOLE CARDS ***
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: calls $0.25
+ildar87kzn: folds 
+*** FLOP *** [Ad Qh Ts]
+Himik30: bets $0.34
+palmitos629: calls $0.34
+*** TURN *** [Ad Qh Ts] [Kh]
+Himik30: checks 
+palmitos629: bets $0.79
+Himik30: folds 
+Uncalled bet ($0.79) returned to palmitos629
+palmitos629 collected $1.32 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.06 
+Board [Ad Qh Ts Kh]
+Seat 1: palmitos629 (button) collected ($1.32)
+Seat 2: Himik30 (small blind) folded on the Turn
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944344346:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:43:06 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($8.05 in chips) 
+Seat 2: Himik30 ($8.52 in chips) 
+Seat 3: ildar87kzn ($11.29 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($1.69 in chips) 
+Seat 6: arabella 33 ($18.09 in chips) 
+ildar87kzn: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: folds 
+Himik30: calls $0.10
+ildar87kzn: calls $0.05
+starii13: checks 
+*** FLOP *** [3h Qs Qd]
+ildar87kzn: checks 
+starii13: checks 
+bubbleburner85: checks 
+Himik30: bets $0.19
+ildar87kzn: folds 
+starii13: folds 
+bubbleburner85: calls $0.19
+*** TURN *** [3h Qs Qd] [Ac]
+bubbleburner85: checks 
+Himik30: bets $0.20
+bubbleburner85: calls $0.20
+*** RIVER *** [3h Qs Qd Ac] [Ah]
+bubbleburner85: checks 
+Himik30: checks 
+*** SHOW DOWN ***
+bubbleburner85: shows [Qh 7d] (a full house, Queens full of Aces)
+Himik30: mucks hand 
+bubbleburner85 collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [3h Qs Qd Ac Ah]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) mucked
+Seat 3: ildar87kzn (small blind) folded on the Flop
+Seat 4: starii13 (big blind) folded on the Flop
+Seat 5: bubbleburner85 showed [Qh 7d] and won ($1.13) with a full house, Queens full of Aces
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944366405:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:21 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: palmitos629 ($8.05 in chips) 
+Seat 2: Himik30 ($8.03 in chips) 
+Seat 3: ildar87kzn ($11.19 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($2.33 in chips) 
+Seat 6: arabella 33 ($18.09 in chips) 
+starii13: posts small blind $0.05
+bubbleburner85: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+palmitos629: raises $0.25 to $0.35
+Himik30: folds 
+ildar87kzn: folds 
+starii13: folds 
+bubbleburner85: calls $0.25
+*** FLOP *** [7s Qc 6h]
+bubbleburner85: checks 
+palmitos629: bets $0.79
+bubbleburner85: raises $1.19 to $1.98 and is all-in
+palmitos629: calls $1.19
+*** TURN *** [7s Qc 6h] [3h]
+*** RIVER *** [7s Qc 6h 3h] [9d]
+*** SHOW DOWN ***
+bubbleburner85: shows [8s 8h] (a pair of Eights)
+palmitos629: shows [Js As] (high card Ace)
+bubbleburner85 collected $4.50 from pot
+palmitos629 cashed out the hand for $1.29 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.71 | Rake $0.21 
+Board [7s Qc 6h 3h 9d]
+Seat 1: palmitos629 showed [Js As] and lost with high card Ace (cashed out).
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: starii13 (small blind) folded before Flop
+Seat 5: bubbleburner85 (big blind) showed [8s 8h] and won ($4.50) with a pair of Eights
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944384615:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:22 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: palmitos629 ($7.01 in chips) 
+Seat 2: Himik30 ($8.03 in chips) 
+Seat 3: ildar87kzn ($11.19 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($4.50 in chips) 
+Seat 6: arabella 33 ($18.09 in chips) 
+bubbleburner85: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+ildar87kzn: folds 
+starii13: folds 
+bubbleburner85: folds 
+arabella 33: folds 
+Uncalled bet ($0.20) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 collected ($0.25)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (small blind) folded before Flop
+Seat 6: arabella 33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944387870:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:32 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: palmitos629 ($7.16 in chips) 
+Seat 2: Himik30 ($8.03 in chips) 
+Seat 3: ildar87kzn ($11.19 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($4.45 in chips) 
+Seat 6: arabella 33 ($17.99 in chips) 
+arabella 33: posts small blind $0.05
+palmitos629: posts big blind $0.10
+*** HOLE CARDS ***
+Himik30: folds 
+ildar87kzn: folds 
+starii13: folds 
+bubbleburner85: folds 
+arabella 33: folds 
+Uncalled bet ($0.05) returned to palmitos629
+palmitos629 collected $0.10 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: palmitos629 (big blind) collected ($0.10)
+Seat 2: Himik30 folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: bubbleburner85 (button) folded before Flop (didn't bet)
+Seat 6: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944391614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:45 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: palmitos629 ($7.21 in chips) 
+Seat 2: Himik30 ($8.03 in chips) 
+Seat 3: ildar87kzn ($11.19 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($4.45 in chips) 
+Seat 6: arabella 33 ($17.94 in chips) 
+palmitos629: posts small blind $0.05
+Himik30: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: folds 
+starii13: folds 
+bubbleburner85: calls $0.10
+arabella 33: raises $0.30 to $0.40
+palmitos629: folds 
+Himik30: folds 
+bubbleburner85: calls $0.30
+*** FLOP *** [3d Jd Tc]
+bubbleburner85: checks 
+arabella 33: checks 
+*** TURN *** [3d Jd Tc] [Kd]
+bubbleburner85: bets $0.46
+arabella 33: folds 
+Uncalled bet ($0.46) returned to bubbleburner85
+bubbleburner85 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [3d Jd Tc Kd]
+Seat 1: palmitos629 (small blind) folded before Flop
+Seat 2: Himik30 (big blind) folded before Flop
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: bubbleburner85 collected ($0.91)
+Seat 6: arabella 33 (button) folded on the Turn
+
+
+
+PokerStars Hand #222944403469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:46:25 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: palmitos629 ($7.16 in chips) 
+Seat 2: Himik30 ($7.93 in chips) 
+Seat 3: ildar87kzn ($11.19 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($4.96 in chips) 
+Seat 6: arabella 33 ($17.54 in chips) 
+Himik30: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+bubbleburner85: folds 
+arabella 33: folds 
+palmitos629: raises $0.20 to $0.30
+Himik30: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.20) returned to palmitos629
+palmitos629 collected $0.25 from pot
+palmitos629: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: palmitos629 (button) collected ($0.25)
+Seat 2: Himik30 (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: bubbleburner85 folded before Flop (didn't bet)
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944408483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:46:42 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: palmitos629 ($7.31 in chips) 
+Seat 2: Himik30 ($7.88 in chips) 
+Seat 3: ildar87kzn ($11.09 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: bubbleburner85 ($4.96 in chips) 
+Seat 6: arabella 33 ($17.54 in chips) 
+ildar87kzn: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+bubbleburner85: calls $0.10
+arabella 33: folds 
+palmitos629: folds 
+palmitos629 leaves the table
+Himik30: calls $0.10
+ildar87kzn: folds 
+starii13: checks 
+*** FLOP *** [Th 7d Ts]
+starii13: checks 
+bubbleburner85: checks 
+Himik30: checks 
+*** TURN *** [Th 7d Ts] [Kc]
+starii13: bets $0.17
+bubbleburner85: calls $0.17
+Himik30: calls $0.17
+*** RIVER *** [Th 7d Ts Kc] [Ac]
+starii13: bets $9.73 and is all-in
+bubbleburner85: calls $4.69 and is all-in
+Himik30: folds 
+Uncalled bet ($5.04) returned to starii13
+*** SHOW DOWN ***
+starii13: shows [7c 7s] (a full house, Sevens full of Tens)
+bubbleburner85: shows [Js Tc] (three of a kind, Tens)
+starii13 collected $9.78 from pot
+*** SUMMARY ***
+Total pot $10.24 | Rake $0.46 
+Board [Th 7d Ts Kc Ac]
+Seat 1: palmitos629 folded before Flop (didn't bet)
+Seat 2: Himik30 (button) folded on the River
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: starii13 (big blind) showed [7c 7s] and won ($9.78) with a full house, Sevens full of Tens
+Seat 5: bubbleburner85 showed [Js Tc] and lost with three of a kind, Tens
+Seat 6: arabella 33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944649967:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:06 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.84 in chips) 
+Seat 4: Pablo7-Pro ($11.31 in chips) 
+Seat 5: Aquariusala1 ($14.31 in chips) 
+Seat 6: AMateuR955 ($17.50 in chips) 
+ildar87kzn: posts small blind $0.05
+Pablo7-Pro: posts big blind $0.10
+*** HOLE CARDS ***
+Aquariusala1: raises $0.20 to $0.30
+AMateuR955: calls $0.30
+lnfIame: folds 
+ildar87kzn: folds 
+bernicethebeast leaves the table
+Pablo7-Pro: folds 
+*** FLOP *** [3s 2d 7d]
+justa p1ayer joins the table at seat #1 
+Aquariusala1: checks 
+AMateuR955: bets $0.36
+Aquariusala1: folds 
+Uncalled bet ($0.36) returned to AMateuR955
+AMateuR955 collected $0.72 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [3s 2d 7d]
+Seat 2: lnfIame (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: Pablo7-Pro (big blind) folded before Flop
+Seat 5: Aquariusala1 folded on the Flop
+Seat 6: AMateuR955 collected ($0.72)
+
+
+
+PokerStars Hand #222944659379:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:40 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.79 in chips) 
+Seat 4: Pablo7-Pro ($11.21 in chips) 
+Seat 5: Aquariusala1 ($14.01 in chips) 
+Seat 6: AMateuR955 ($17.92 in chips) 
+Pablo7-Pro: posts small blind $0.05
+Aquariusala1: posts big blind $0.10
+justa p1ayer: sits out 
+*** HOLE CARDS ***
+AMateuR955: raises $0.20 to $0.30
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+Uncalled bet ($0.20) returned to AMateuR955
+AMateuR955 collected $0.25 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro (small blind) folded before Flop
+Seat 5: Aquariusala1 (big blind) folded before Flop
+Seat 6: AMateuR955 collected ($0.25)
+
+
+
+PokerStars Hand #222944664200:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:58 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.79 in chips) 
+Seat 4: Pablo7-Pro ($11.16 in chips) 
+Seat 5: Aquariusala1 ($13.91 in chips) 
+Seat 6: AMateuR955 ($18.07 in chips) 
+Aquariusala1: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+justa p1ayer: sits out 
+*** HOLE CARDS ***
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: raises $0.10 to $0.20
+Aquariusala1: folds 
+AMateuR955: calls $0.10
+*** FLOP *** [8c 5s 2c]
+AMateuR955: checks 
+Pablo7-Pro: checks 
+*** TURN *** [8c 5s 2c] [Qd]
+AMateuR955: bets $0.22
+Pablo7-Pro: folds 
+Uncalled bet ($0.22) returned to AMateuR955
+AMateuR955 collected $0.43 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8c 5s 2c Qd]
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro (button) folded on the Turn
+Seat 5: Aquariusala1 (small blind) folded before Flop
+Seat 6: AMateuR955 (big blind) collected ($0.43)
+
+
+
+PokerStars Hand #222944672229:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:02:27 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: justa p1ayer ($4 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($12.79 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($13.86 in chips) 
+Seat 6: AMateuR955 ($18.30 in chips) 
+AMateuR955: posts small blind $0.05
+justa p1ayer: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame: folds 
+ildar87kzn: raises $0.20 to $0.30
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+justa p1ayer: calls $0.20
+*** FLOP *** [6d 7c 4d]
+justa p1ayer: checks 
+ildar87kzn: bets $0.50
+justa p1ayer: calls $0.50
+*** TURN *** [6d 7c 4d] [Ad]
+justa p1ayer: checks 
+ildar87kzn: bets $1.20
+justa p1ayer: calls $1.20
+*** RIVER *** [6d 7c 4d Ad] [Qd]
+justa p1ayer: checks 
+ildar87kzn: checks 
+*** SHOW DOWN ***
+justa p1ayer: shows [3h Ac] (a pair of Aces)
+ildar87kzn: shows [Ah 7h] (two pair, Aces and Sevens)
+ildar87kzn collected $3.87 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.18 
+Board [6d 7c 4d Ad Qd]
+Seat 1: justa p1ayer (big blind) showed [3h Ac] and lost with a pair of Aces
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn showed [Ah 7h] and won ($3.87) with two pair, Aces and Sevens
+Seat 4: Pablo7-Pro folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (button) folded before Flop (didn't bet)
+Seat 6: AMateuR955 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944702663:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:03:40 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: justa p1ayer ($2 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($14.66 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($13.86 in chips) 
+Seat 6: AMateuR955 ($18.25 in chips) 
+justa p1ayer: posts small blind $0.05
+lnfIame: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.30 to $0.40
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+justa p1ayer: folds 
+lnfIame: folds 
+Uncalled bet ($0.30) returned to ildar87kzn
+ildar87kzn collected $0.25 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: justa p1ayer (small blind) folded before Flop
+Seat 2: lnfIame (big blind) folded before Flop
+Seat 3: ildar87kzn collected ($0.25)
+Seat 4: Pablo7-Pro folded before Flop (didn't bet)
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944706336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:03:53 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: justa p1ayer ($1.95 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($14.81 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($13.86 in chips) 
+Seat 6: AMateuR955 ($18.25 in chips) 
+lnfIame: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+justa p1ayer: calls $0.10
+lnfIame: raises $0.30 to $0.40
+ildar87kzn: folds 
+justa p1ayer: folds 
+Uncalled bet ($0.30) returned to lnfIame
+lnfIame collected $0.30 from pot
+lnfIame: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: justa p1ayer (button) folded before Flop
+Seat 2: lnfIame (small blind) collected ($0.30)
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 4: Pablo7-Pro folded before Flop (didn't bet)
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944713394:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:04:18 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 1: justa p1ayer ($1.85 in chips) 
+Seat 2: lnfIame ($10.20 in chips) 
+Seat 3: ildar87kzn ($14.71 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($13.86 in chips) 
+Seat 6: AMateuR955 ($18.25 in chips) 
+ildar87kzn: posts small blind $0.05
+Pablo7-Pro: posts big blind $0.10
+*** HOLE CARDS ***
+Aquariusala1: folds 
+AMateuR955: folds 
+justa p1ayer: calls $0.10
+lnfIame: raises $0.30 to $0.40
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+justa p1ayer: raises $1.45 to $1.85 and is all-in
+lnfIame: calls $1.45
+*** FLOP *** [5s 5d Kc]
+*** TURN *** [5s 5d Kc] [Js]
+*** RIVER *** [5s 5d Kc Js] [2s]
+*** SHOW DOWN ***
+justa p1ayer: shows [Ah 7h] (a pair of Fives)
+lnfIame: shows [Ac 9c] (a pair of Fives)
+justa p1ayer collected $1.84 from pot
+lnfIame collected $1.84 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.17 
+Board [5s 5d Kc Js 2s]
+Seat 1: justa p1ayer showed [Ah 7h] and won ($1.84) with a pair of Fives
+Seat 2: lnfIame (button) showed [Ac 9c] and won ($1.84) with a pair of Fives
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: Pablo7-Pro (big blind) folded before Flop
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944724040:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:04:55 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 1: justa p1ayer ($1.84 in chips) 
+Seat 2: lnfIame ($10.19 in chips) 
+Seat 3: ildar87kzn ($14.66 in chips) 
+Seat 4: Pablo7-Pro ($10.86 in chips) 
+Seat 5: Aquariusala1 ($13.86 in chips) 
+Seat 6: AMateuR955 ($18.25 in chips) 
+Pablo7-Pro: posts small blind $0.05
+Aquariusala1: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+justa p1ayer: folds 
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: raises $0.20 to $0.30
+Aquariusala1: folds 
+Uncalled bet ($0.20) returned to Pablo7-Pro
+Pablo7-Pro collected $0.20 from pot
+Pablo7-Pro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: justa p1ayer folded before Flop (didn't bet)
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro (small blind) collected ($0.20)
+Seat 5: Aquariusala1 (big blind) folded before Flop
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944729330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:05:13 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 1: justa p1ayer ($1.84 in chips) 
+Seat 2: lnfIame ($10.19 in chips) 
+Seat 3: ildar87kzn ($14.66 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($13.76 in chips) 
+Seat 6: AMateuR955 ($18.25 in chips) 
+Aquariusala1: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+justa p1ayer: folds 
+lnfIame: folds 
+ildar87kzn: raises $0.20 to $0.30
+Pablo7-Pro: folds 
+Aquariusala1: raises $0.80 to $1.10
+AMateuR955: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.80) returned to Aquariusala1
+Aquariusala1 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: justa p1ayer folded before Flop (didn't bet)
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop
+Seat 4: Pablo7-Pro (button) folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (small blind) collected ($0.70)
+Seat 6: AMateuR955 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944735599:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:05:36 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 1: justa p1ayer ($1.84 in chips) 
+Seat 2: lnfIame ($10.19 in chips) 
+Seat 3: ildar87kzn ($14.36 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($14.16 in chips) 
+Seat 6: AMateuR955 ($18.15 in chips) 
+AMateuR955: posts small blind $0.05
+justa p1ayer: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+Uncalled bet ($0.05) returned to justa p1ayer
+justa p1ayer collected $0.10 from pot
+justa p1ayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: justa p1ayer (big blind) collected ($0.10)
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (button) folded before Flop (didn't bet)
+Seat 6: AMateuR955 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944738164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:05:45 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 1: justa p1ayer ($1.89 in chips) 
+Seat 2: lnfIame ($10.19 in chips) 
+Seat 3: ildar87kzn ($14.36 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($14.16 in chips) 
+Seat 6: AMateuR955 ($18.10 in chips) 
+justa p1ayer: posts small blind $0.05
+lnfIame: posts big blind $0.10
+*** HOLE CARDS ***
+ildar87kzn: raises $0.20 to $0.30
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+justa p1ayer: folds 
+lnfIame: calls $0.20
+*** FLOP *** [Jc 2h 7d]
+lnfIame: checks 
+ildar87kzn: bets $0.50
+lnfIame: folds 
+Uncalled bet ($0.50) returned to ildar87kzn
+ildar87kzn collected $0.62 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Jc 2h 7d]
+Seat 1: justa p1ayer (small blind) folded before Flop
+Seat 2: lnfIame (big blind) folded on the Flop
+Seat 3: ildar87kzn collected ($0.62)
+Seat 4: Pablo7-Pro folded before Flop (didn't bet)
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944747426:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:06:17 ET
+Table 'Pels II' 6-max Seat #1 is the button
+Seat 1: justa p1ayer ($1.84 in chips) 
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($14.68 in chips) 
+Seat 4: Pablo7-Pro ($10.96 in chips) 
+Seat 5: Aquariusala1 ($14.16 in chips) 
+Seat 6: AMateuR955 ($18.10 in chips) 
+lnfIame: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+Pablo7-Pro: raises $0.20 to $0.30
+Aquariusala1: folds 
+AMateuR955: folds 
+justa p1ayer: calls $0.30
+lnfIame: folds 
+ildar87kzn: folds 
+*** FLOP *** [4s Ts 6s]
+Pablo7-Pro: bets $0.24
+justa p1ayer: raises $0.56 to $0.80
+Pablo7-Pro: raises $1.40 to $2.20
+justa p1ayer: calls $0.74 and is all-in
+Uncalled bet ($0.66) returned to Pablo7-Pro
+*** TURN *** [4s Ts 6s] [Kh]
+*** RIVER *** [4s Ts 6s Kh] [As]
+*** SHOW DOWN ***
+Pablo7-Pro: shows [Jd Js] (a flush, Ace high)
+justa p1ayer: shows [Qc Qh] (a pair of Queens)
+Pablo7-Pro collected $3.66 from pot
+*** SUMMARY ***
+Total pot $3.83 | Rake $0.17 
+Board [4s Ts 6s Kh As]
+Seat 1: justa p1ayer (button) showed [Qc Qh] and lost with a pair of Queens
+Seat 2: lnfIame (small blind) folded before Flop
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 4: Pablo7-Pro showed [Jd Js] and won ($3.66) with a flush, Ace high
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944759496:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:06:59 ET
+Table 'Pels II' 6-max Seat #2 is the button
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($14.58 in chips) 
+Seat 4: Pablo7-Pro ($12.78 in chips) 
+Seat 5: Aquariusala1 ($14.16 in chips) 
+Seat 6: AMateuR955 ($18.10 in chips) 
+ildar87kzn: posts small blind $0.05
+Pablo7-Pro: posts big blind $0.10
+*** HOLE CARDS ***
+Aquariusala1: folds 
+AMateuR955: folds 
+lnfIame: folds 
+ildar87kzn: folds 
+Uncalled bet ($0.05) returned to Pablo7-Pro
+Pablo7-Pro collected $0.10 from pot
+Pablo7-Pro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: lnfIame (button) folded before Flop (didn't bet)
+Seat 3: ildar87kzn (small blind) folded before Flop
+Seat 4: Pablo7-Pro (big blind) collected ($0.10)
+Seat 5: Aquariusala1 folded before Flop (didn't bet)
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944761912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:07:08 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($14.53 in chips) 
+Seat 4: Pablo7-Pro ($12.83 in chips) 
+Seat 5: Aquariusala1 ($14.16 in chips) 
+Seat 6: AMateuR955 ($18.10 in chips) 
+Pablo7-Pro: posts small blind $0.05
+Aquariusala1: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+lnfIame: folds 
+ildar87kzn: folds 
+Pablo7-Pro: folds 
+Uncalled bet ($0.05) returned to Aquariusala1
+Aquariusala1 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn (button) folded before Flop (didn't bet)
+Seat 4: Pablo7-Pro (small blind) folded before Flop
+Seat 5: Aquariusala1 (big blind) collected ($0.10)
+Seat 6: AMateuR955 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944763928:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:07:15 ET
+Table 'Pels II' 6-max Seat #4 is the button
+Seat 2: lnfIame ($10 in chips) 
+Seat 3: ildar87kzn ($14.53 in chips) 
+Seat 4: Pablo7-Pro ($12.78 in chips) 
+Seat 5: Aquariusala1 ($14.21 in chips) 
+Seat 6: AMateuR955 ($18.10 in chips) 
+Aquariusala1: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+lnfIame: folds 
+ildar87kzn: raises $0.20 to $0.30
+Pablo7-Pro: folds 
+Aquariusala1: folds 
+AMateuR955: folds 
+Uncalled bet ($0.20) returned to ildar87kzn
+ildar87kzn collected $0.25 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: lnfIame folded before Flop (didn't bet)
+Seat 3: ildar87kzn collected ($0.25)
+Seat 4: Pablo7-Pro (button) folded before Flop (didn't bet)
+Seat 5: Aquariusala1 (small blind) folded before Flop
+Seat 6: AMateuR955 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944770593:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:07:38 ET
+Table 'Pels II' 6-max Seat #5 is the button
+Seat 3: ildar87kzn ($14.68 in chips) 
+Seat 4: Pablo7-Pro ($12.78 in chips) 
+Seat 5: Aquariusala1 ($14.16 in chips) 
+Seat 6: AMateuR955 ($18 in chips) 
+AMateuR955: posts small blind $0.05
+lnfIame: is sitting out 
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+Pablo7-Pro: raises $0.20 to $0.30
+lnfIame leaves the table
+Aquariusala1: calls $0.30
+AMateuR955: folds 
+ildar87kzn: folds 
+*** FLOP *** [8c 4s 5h]
+Pablo7-Pro: checks 
+justa p1ayer leaves the table
+Aquariusala1: bets $0.40
+Pablo7-Pro: folds 
+Uncalled bet ($0.40) returned to Aquariusala1
+Aquariusala1 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8c 4s 5h]
+Seat 3: ildar87kzn (big blind) folded before Flop
+Seat 4: Pablo7-Pro folded on the Flop
+Seat 5: Aquariusala1 (button) collected ($0.72)
+Seat 6: AMateuR955 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944780789:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:08:13 ET
+Table 'Pels II' 6-max Seat #3 is the button
+Seat 3: ildar87kzn ($14.58 in chips) 
+Seat 6: AMateuR955 ($17.95 in chips) 
+ildar87kzn: posts small blind $0.05
+Pablo7-Pro: is sitting out 
+Aquariusala1: is sitting out 
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+Aquariusala1 leaves the table
+ildar87kzn: folds 
+Uncalled bet ($0.05) returned to AMateuR955
+AMateuR955 collected $0.10 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: ildar87kzn (button) (small blind) folded before Flop
+Seat 6: AMateuR955 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944782188:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:08:18 ET
+Table 'Pels II' 6-max Seat #6 is the button
+Seat 3: ildar87kzn ($14.53 in chips) 
+Seat 6: AMateuR955 ($18 in chips) 
+AMateuR955: posts small blind $0.05
+ildar87kzn: posts big blind $0.10
+*** HOLE CARDS ***
+Pablo7-Pro leaves the table
+AMateuR955: folds 
+Uncalled bet ($0.05) returned to ildar87kzn
+ildar87kzn collected $0.10 from pot
+ildar87kzn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: ildar87kzn (big blind) collected ($0.10)
+Seat 6: AMateuR955 (button) (small blind) folded before Flop
+
+
+

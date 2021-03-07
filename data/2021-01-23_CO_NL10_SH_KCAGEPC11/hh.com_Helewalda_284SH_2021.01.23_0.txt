@@ -1,0 +1,4997 @@
+﻿PokerStars Hand #222967248387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:45:49 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: schatz9999 ($5.57 in chips) 
+Seat 3: Britss ($12.17 in chips) 
+Seat 4: DimaLesnoy ($10.27 in chips) 
+Seat 5: xScarface ($9.45 in chips) 
+Seat 6: Calltossen ($11.61 in chips) 
+xScarface: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: folds 
+schatz9999: folds 
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: folds 
+Uncalled bet ($0.05) returned to Calltossen
+Calltossen collected $0.10 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: schatz9999 folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: xScarface (small blind) folded before Flop
+Seat 6: Calltossen (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222967259093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:46:03 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: schatz9999 ($5.57 in chips) 
+Seat 3: Britss ($12.17 in chips) 
+Seat 4: DimaLesnoy ($10.27 in chips) 
+Seat 5: xScarface ($9.40 in chips) 
+Seat 6: Calltossen ($11.66 in chips) 
+Calltossen: posts small blind $0.05
+uterkrm.ua: posts big blind $0.10
+*** HOLE CARDS ***
+schatz9999: calls $0.10
+Britss: raises $0.20 to $0.30
+DimaLesnoy: folds 
+xScarface: calls $0.30
+Calltossen: folds 
+uterkrm.ua: folds 
+schatz9999: calls $0.20
+*** FLOP *** [7c 6h 2c]
+schatz9999: checks 
+Britss: checks 
+xScarface: bets $1
+schatz9999: calls $1
+Britss: calls $1
+*** TURN *** [7c 6h 2c] [Jd]
+schatz9999: checks 
+Britss: checks 
+xScarface: bets $1.94
+schatz9999: folds 
+Britss: folds 
+Uncalled bet ($1.94) returned to xScarface
+xScarface collected $3.87 from pot
+xScarface: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.18 
+Board [7c 6h 2c Jd]
+Seat 1: uterkrm.ua (big blind) folded before Flop
+Seat 2: schatz9999 folded on the Turn
+Seat 3: Britss folded on the Turn
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface (button) collected ($3.87)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967303003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:46:59 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: schatz9999 ($4.27 in chips) 
+Seat 3: Britss ($10.87 in chips) 
+Seat 4: DimaLesnoy ($10.27 in chips) 
+Seat 5: xScarface ($11.97 in chips) 
+Seat 6: Calltossen ($11.61 in chips) 
+uterkrm.ua: posts small blind $0.05
+schatz9999: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+uterkrm.ua: folds 
+Uncalled bet ($0.05) returned to schatz9999
+schatz9999 collected $0.10 from pot
+schatz9999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: uterkrm.ua (small blind) folded before Flop
+Seat 2: schatz9999 (big blind) collected ($0.10)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967309360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:47:08 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: schatz9999 ($4.32 in chips) 
+Seat 3: Britss ($10.87 in chips) 
+Seat 4: DimaLesnoy ($10.27 in chips) 
+Seat 5: xScarface ($11.97 in chips) 
+Seat 6: Calltossen ($11.61 in chips) 
+schatz9999: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+uterkrm.ua: raises $0.15 to $0.25
+schatz9999: calls $0.20
+Britss: folds 
+*** FLOP *** [7s Kd 8s]
+schatz9999: checks 
+uterkrm.ua: checks 
+*** TURN *** [7s Kd 8s] [Ks]
+schatz9999: checks 
+uterkrm.ua: checks 
+*** RIVER *** [7s Kd 8s Ks] [Ts]
+schatz9999: checks 
+uterkrm.ua: checks 
+*** SHOW DOWN ***
+schatz9999: shows [Jd Ac] (a pair of Kings)
+uterkrm.ua: shows [6h Th] (two pair, Kings and Tens)
+uterkrm.ua collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [7s Kd 8s Ks Ts]
+Seat 1: uterkrm.ua (button) showed [6h Th] and won ($0.57) with two pair, Kings and Tens
+Seat 2: schatz9999 (small blind) showed [Jd Ac] and lost with a pair of Kings
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967331184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:47:36 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: uterkrm.ua ($10.32 in chips) 
+Seat 2: schatz9999 ($4.07 in chips) 
+Seat 3: Britss ($10.77 in chips) 
+Seat 4: DimaLesnoy ($10.27 in chips) 
+Seat 5: xScarface ($11.97 in chips) 
+Seat 6: Calltossen ($11.61 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+xScarface: calls $0.10
+Calltossen: folds 
+uterkrm.ua: raises $0.35 to $0.45
+schatz9999: folds 
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: calls $0.35
+*** FLOP *** [2c 6c Js]
+xScarface: bets $1
+uterkrm.ua: calls $1
+*** TURN *** [2c 6c Js] [Ts]
+xScarface: bets $1.46
+uterkrm.ua: folds 
+Uncalled bet ($1.46) returned to xScarface
+xScarface collected $2.91 from pot
+xScarface: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.14 
+Board [2c 6c Js Ts]
+Seat 1: uterkrm.ua folded on the Turn
+Seat 2: schatz9999 (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: xScarface collected ($2.91)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967376812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:48:35 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: schatz9999 ($4.07 in chips) 
+Seat 3: Britss ($10.72 in chips) 
+Seat 4: DimaLesnoy ($10.17 in chips) 
+Seat 5: xScarface ($13.43 in chips) 
+Seat 6: Calltossen ($11.61 in chips) 
+DimaLesnoy: posts small blind $0.05
+xScarface: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: raises $0.20 to $0.30
+uterkrm.ua: folds 
+schatz9999: folds 
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: folds 
+Uncalled bet ($0.20) returned to Calltossen
+Calltossen collected $0.25 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: schatz9999 folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: xScarface (big blind) folded before Flop
+Seat 6: Calltossen collected ($0.25)
+
+
+
+PokerStars Hand #222967391672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:48:54 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: schatz9999 ($4.07 in chips) 
+Seat 3: Britss ($10.72 in chips) 
+Seat 4: DimaLesnoy ($10.12 in chips) 
+Seat 5: xScarface ($13.33 in chips) 
+Seat 6: Calltossen ($11.76 in chips) 
+xScarface: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: raises $0.20 to $0.30
+schatz9999: folds 
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: calls $0.25
+Calltossen: raises $0.90 to $1.20
+uterkrm.ua: folds 
+xScarface: calls $0.90
+*** FLOP *** [7c As 4h]
+xScarface: checks 
+Calltossen: bets $1.94
+uterkrm.ua leaves the table
+xScarface: folds 
+Uncalled bet ($1.94) returned to Calltossen
+Calltossen collected $2.58 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [7c As 4h]
+Seat 1: uterkrm.ua folded before Flop
+Seat 2: schatz9999 folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: xScarface (small blind) folded on the Flop
+Seat 6: Calltossen (big blind) collected ($2.58)
+
+
+
+PokerStars Hand #222967427377:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:49:40 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 2: schatz9999 ($4.07 in chips) 
+Seat 3: Britss ($10.72 in chips) 
+Seat 4: DimaLesnoy ($10.12 in chips) 
+Seat 5: xScarface ($12.13 in chips) 
+Seat 6: Calltossen ($13.14 in chips) 
+Calltossen: posts small blind $0.05
+schatz9999: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+DimaLesnoy: raises $0.15 to $0.25
+gonza.maiti joins the table at seat #1 
+xScarface: folds 
+Calltossen: folds 
+schatz9999: calls $0.15
+*** FLOP *** [6h Kh 5d]
+schatz9999: checks 
+DimaLesnoy: bets $0.23
+schatz9999: calls $0.23
+*** TURN *** [6h Kh 5d] [4c]
+schatz9999: checks 
+DimaLesnoy: checks 
+*** RIVER *** [6h Kh 5d 4c] [6c]
+schatz9999: checks 
+DimaLesnoy: bets $0.53
+schatz9999: folds 
+Uncalled bet ($0.53) returned to DimaLesnoy
+DimaLesnoy collected $0.96 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.05 
+Board [6h Kh 5d 4c 6c]
+Seat 2: schatz9999 (big blind) folded on the River
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy collected ($0.96)
+Seat 5: xScarface (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967463447:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:50:27 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 2: schatz9999 ($3.59 in chips) 
+Seat 3: Britss ($10.72 in chips) 
+Seat 4: DimaLesnoy ($10.60 in chips) 
+Seat 5: xScarface ($12.13 in chips) 
+Seat 6: Calltossen ($13.09 in chips) 
+schatz9999: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: raises $0.20 to $0.30
+xScarface: calls $0.30
+Calltossen: folds 
+schatz9999: folds 
+Britss: raises $0.95 to $1.25
+DimaLesnoy: folds 
+xScarface: folds 
+Uncalled bet ($0.95) returned to Britss
+Britss collected $0.95 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 2: schatz9999 (small blind) folded before Flop
+Seat 3: Britss (big blind) collected ($0.95)
+Seat 4: DimaLesnoy folded before Flop
+Seat 5: xScarface folded before Flop
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967489430:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:51:01 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 2: schatz9999 ($3.54 in chips) 
+Seat 3: Britss ($11.37 in chips) 
+Seat 4: DimaLesnoy ($10.30 in chips) 
+Seat 5: xScarface ($11.83 in chips) 
+Seat 6: Calltossen ($13.09 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+gonza.maiti: sits out 
+*** HOLE CARDS ***
+xScarface: folds 
+Calltossen: folds 
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: checks 
+*** FLOP *** [Qc 3h 8s]
+DimaLesnoy: checks 
+schatz9999: checks 
+*** TURN *** [Qc 3h 8s] [3s]
+DimaLesnoy: bets $0.17
+schatz9999: calls $0.17
+*** RIVER *** [Qc 3h 8s 3s] [6h]
+DimaLesnoy: bets $0.87
+schatz9999: calls $0.87
+*** SHOW DOWN ***
+DimaLesnoy: shows [6s 3d] (a full house, Threes full of Sixes)
+schatz9999: mucks hand 
+DimaLesnoy collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.10 
+Board [Qc 3h 8s 3s 6h]
+Seat 2: schatz9999 (button) mucked
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) showed [6s 3d] and won ($2.23) with a full house, Threes full of Sixes
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967509272:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:51:27 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 2: schatz9999 ($2.40 in chips) 
+Seat 3: Britss ($11.32 in chips) 
+Seat 4: DimaLesnoy ($11.39 in chips) 
+Seat 5: xScarface ($11.83 in chips) 
+Seat 6: Calltossen ($13.09 in chips) 
+DimaLesnoy: posts small blind $0.05
+xScarface: posts big blind $0.10
+gonza.maiti: sits out 
+*** HOLE CARDS ***
+Calltossen: folds 
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: checks 
+*** FLOP *** [5d 5h Tc]
+xScarface: checks 
+schatz9999: checks 
+*** TURN *** [5d 5h Tc] [9d]
+xScarface: checks 
+schatz9999: checks 
+*** RIVER *** [5d 5h Tc 9d] [Ts]
+xScarface: checks 
+schatz9999: checks 
+*** SHOW DOWN ***
+xScarface: shows [3d Kc] (two pair, Tens and Fives)
+schatz9999: shows [8c 5c] (a full house, Fives full of Tens)
+schatz9999 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5d 5h Tc 9d Ts]
+Seat 2: schatz9999 showed [8c 5c] and won ($0.24) with a full house, Fives full of Tens
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: xScarface (big blind) showed [3d Kc] and lost with two pair, Tens and Fives
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967530578:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:51:54 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 2: schatz9999 ($2.54 in chips) 
+Seat 3: Britss ($11.32 in chips) 
+Seat 4: DimaLesnoy ($11.34 in chips) 
+Seat 5: xScarface ($11.73 in chips) 
+Seat 6: Calltossen ($13.09 in chips) 
+xScarface: posts small blind $0.05
+Calltossen: posts big blind $0.10
+gonza.maiti: sits out 
+*** HOLE CARDS ***
+schatz9999: calls $0.10
+Britss: raises $0.30 to $0.40
+DimaLesnoy: calls $0.40
+xScarface: folds 
+Calltossen: folds 
+schatz9999: calls $0.30
+*** FLOP *** [Qc 9c 4h]
+schatz9999: checks 
+Britss: bets $0.90
+DimaLesnoy: calls $0.90
+schatz9999: folds 
+*** TURN *** [Qc 9c 4h] [2d]
+Britss: checks 
+DimaLesnoy: bets $1.80
+Britss: calls $1.80
+*** RIVER *** [Qc 9c 4h 2d] [4c]
+Britss: checks 
+DimaLesnoy: bets $8.24 and is all-in
+Britss: folds 
+Uncalled bet ($8.24) returned to DimaLesnoy
+DimaLesnoy collected $6.45 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [Qc 9c 4h 2d 4c]
+Seat 2: schatz9999 folded on the Flop
+Seat 3: Britss folded on the River
+Seat 4: DimaLesnoy (button) collected ($6.45)
+Seat 5: xScarface (small blind) folded before Flop
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967575748:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:52:53 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: schatz9999 ($2.14 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: DimaLesnoy ($14.69 in chips) 
+Seat 5: xScarface ($11.68 in chips) 
+Seat 6: Calltossen ($12.99 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: calls $0.10
+Calltossen: folds 
+gonza.maiti: checks 
+*** FLOP *** [9h 4h 9d]
+gonza.maiti: checks 
+schatz9999: checks 
+xScarface: checks 
+*** TURN *** [9h 4h 9d] [5s]
+gonza.maiti: checks 
+schatz9999: checks 
+xScarface: checks 
+*** RIVER *** [9h 4h 9d 5s] [8d]
+gonza.maiti: checks 
+schatz9999: checks 
+xScarface: checks 
+*** SHOW DOWN ***
+gonza.maiti: shows [2c Ad] (a pair of Nines)
+schatz9999: shows [As Td] (a pair of Nines - Ace+Ten kicker)
+xScarface: mucks hand 
+schatz9999 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [9h 4h 9d 5s 8d]
+Seat 1: gonza.maiti (big blind) showed [2c Ad] and lost with a pair of Nines
+Seat 2: schatz9999 showed [As Td] and won ($0.33) with a pair of Nines
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface (button) mucked
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967620227:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:53:42 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: schatz9999 ($2.37 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: DimaLesnoy ($14.69 in chips) 
+Seat 5: xScarface ($11.58 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+gonza.maiti: posts small blind $0.05
+schatz9999: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+schatz9999: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: schatz9999 (big blind) folded before Flop
+Seat 3: Britss collected ($0.25)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967628851:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:53:54 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: schatz9999 ($2.27 in chips) 
+Seat 3: Britss ($10.15 in chips) 
+Seat 4: DimaLesnoy ($14.69 in chips) 
+Seat 5: xScarface ($11.58 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+schatz9999: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+schatz9999: calls $0.05
+Britss: raises $0.20 to $0.30
+schatz9999: calls $0.20
+*** FLOP *** [6d 8c Ac]
+schatz9999: checks 
+Britss: bets $0.30
+schatz9999: folds 
+Uncalled bet ($0.30) returned to Britss
+Britss collected $0.57 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6d 8c Ac]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: schatz9999 (small blind) folded on the Flop
+Seat 3: Britss (big blind) collected ($0.57)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967652023:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:54:24 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: schatz9999 ($1.97 in chips) 
+Seat 3: Britss ($10.42 in chips) 
+Seat 4: DimaLesnoy ($14.69 in chips) 
+Seat 5: xScarface ($11.58 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: raises $0.15 to $0.25
+schatz9999: folds 
+Britss: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.15) returned to gonza.maiti
+gonza.maiti collected $0.25 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti collected ($0.25)
+Seat 2: schatz9999 (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967660663:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:54:35 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.15 in chips) 
+Seat 2: schatz9999 ($1.97 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.59 in chips) 
+Seat 5: xScarface ($11.58 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+DimaLesnoy: posts small blind $0.05
+xScarface: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: calls $0.05
+xScarface: checks 
+*** FLOP *** [3c Qc 2h]
+DimaLesnoy: checks 
+xScarface: checks 
+schatz9999: checks 
+*** TURN *** [3c Qc 2h] [Js]
+DimaLesnoy: checks 
+xScarface: bets $0.10
+schatz9999: folds 
+DimaLesnoy: calls $0.10
+*** RIVER *** [3c Qc 2h Js] [4s]
+DimaLesnoy: checks 
+xScarface: checks 
+*** SHOW DOWN ***
+DimaLesnoy: shows [Td 9d] (high card Queen)
+xScarface: shows [Jh 5h] (a pair of Jacks)
+xScarface collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3c Qc 2h Js 4s]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: schatz9999 folded on the Turn
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) showed [Td 9d] and lost with high card Queen
+Seat 5: xScarface (big blind) showed [Jh 5h] and won ($0.48) with a pair of Jacks
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967707681:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:55:49 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.15 in chips) 
+Seat 2: schatz9999 ($1.87 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.39 in chips) 
+Seat 5: xScarface ($11.86 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+xScarface: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: raises $0.15 to $0.25
+schatz9999: calls $0.25
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+*** FLOP *** [7s Qd Ah]
+gonza.maiti: bets $0.19
+schatz9999: calls $0.19
+*** TURN *** [7s Qd Ah] [5c]
+gonza.maiti: checks 
+schatz9999: checks 
+*** RIVER *** [7s Qd Ah 5c] [Qs]
+gonza.maiti: checks 
+schatz9999: checks 
+*** SHOW DOWN ***
+gonza.maiti: shows [8d 8h] (two pair, Queens and Eights)
+schatz9999: mucks hand 
+gonza.maiti collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [7s Qd Ah 5c Qs]
+Seat 1: gonza.maiti showed [8d 8h] and won ($0.98) with two pair, Queens and Eights
+Seat 2: schatz9999 mucked
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 5: xScarface (small blind) folded before Flop
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967730470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:56:32 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.69 in chips) 
+Seat 2: schatz9999 ($1.43 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.39 in chips) 
+Seat 5: xScarface ($11.81 in chips) 
+Seat 6: Calltossen ($12.84 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: checks 
+*** FLOP *** [Kc 2s Ah]
+gonza.maiti: checks 
+schatz9999: checks 
+*** TURN *** [Kc 2s Ah] [4c]
+gonza.maiti: checks 
+schatz9999: checks 
+*** RIVER *** [Kc 2s Ah 4c] [5s]
+gonza.maiti: checks 
+schatz9999: checks 
+*** SHOW DOWN ***
+gonza.maiti: shows [6h 5h] (a pair of Fives)
+schatz9999: mucks hand 
+gonza.maiti collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kc 2s Ah 4c 5s]
+Seat 1: gonza.maiti (big blind) showed [6h 5h] and won ($0.24) with a pair of Fives
+Seat 2: schatz9999 mucked
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967743214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:56:55 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.83 in chips) 
+Seat 2: schatz9999 ($1.33 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.39 in chips) 
+Seat 5: xScarface ($11.81 in chips) 
+Seat 6: Calltossen ($12.79 in chips) 
+gonza.maiti: posts small blind $0.05
+schatz9999: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: raises $0.75 to $1.05
+gonza.maiti: folds 
+schatz9999: folds 
+Britss: folds 
+Uncalled bet ($0.75) returned to Calltossen
+Calltossen collected $0.75 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: schatz9999 (big blind) folded before Flop
+Seat 3: Britss folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen (button) collected ($0.75)
+
+
+
+PokerStars Hand #222967753142:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:57:14 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 2: schatz9999 ($1.23 in chips) 
+Seat 3: Britss ($10.07 in chips) 
+Seat 4: DimaLesnoy ($14.39 in chips) 
+Seat 5: xScarface ($11.81 in chips) 
+Seat 6: Calltossen ($13.24 in chips) 
+schatz9999: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+schatz9999: calls $0.25
+Britss: folds 
+*** FLOP *** [7d Qd Tc]
+schatz9999: checks 
+Calltossen: checks 
+*** TURN *** [7d Qd Tc] [6s]
+schatz9999: checks 
+Calltossen: checks 
+*** RIVER *** [7d Qd Tc 6s] [7h]
+schatz9999: checks 
+Calltossen: checks 
+*** SHOW DOWN ***
+schatz9999: shows [8s 8h] (two pair, Eights and Sevens)
+Calltossen: mucks hand 
+schatz9999 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7d Qd Tc 6s 7h]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: schatz9999 (small blind) showed [8s 8h] and won ($0.67) with two pair, Eights and Sevens
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen mucked
+
+
+
+PokerStars Hand #222967766340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:57:38 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: DimaLesnoy ($14.39 in chips) 
+Seat 5: xScarface ($11.81 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+DimaLesnoy: posts small blind $0.05
+xScarface: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Britss: raises $0.20 to $0.30
+DimaLesnoy: folds 
+xScarface: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss (button) collected ($0.25)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: xScarface (big blind) folded before Flop
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967772247:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:57:50 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 3: Britss ($10.15 in chips) 
+Seat 4: DimaLesnoy ($14.34 in chips) 
+Seat 5: xScarface ($11.71 in chips) 
+Seat 6: Calltossen ($12.94 in chips) 
+xScarface: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Britss: folds 
+DimaLesnoy: raises $0.12 to $0.22
+xScarface: calls $0.17
+Calltossen: folds 
+*** FLOP *** [6h Kd 7h]
+xScarface: checks 
+DimaLesnoy: checks 
+*** TURN *** [6h Kd 7h] [3s]
+xScarface: checks 
+DimaLesnoy: bets $0.37
+xScarface: calls $0.37
+*** RIVER *** [6h Kd 7h 3s] [Jd]
+xScarface: checks 
+DimaLesnoy: bets $0.70
+xScarface: calls $0.70
+*** SHOW DOWN ***
+DimaLesnoy: shows [9c Ad] (high card Ace)
+xScarface: shows [Ks 4s] (a pair of Kings)
+xScarface collected $2.56 from pot
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.12 
+Board [6h Kd 7h 3s Jd]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) showed [9c Ad] and lost with high card Ace
+Seat 5: xScarface (small blind) showed [Ks 4s] and won ($2.56) with a pair of Kings
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967794966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:58:32 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 2: schatz9999 ($1.60 in chips) 
+Seat 3: Britss ($10.15 in chips) 
+Seat 4: DimaLesnoy ($13.05 in chips) 
+Seat 5: xScarface ($12.98 in chips) 
+Seat 6: Calltossen ($12.84 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: calls $0.10
+Calltossen: folds 
+gonza.maiti: checks 
+*** FLOP *** [7h 2h 2c]
+gonza.maiti: checks 
+schatz9999: checks 
+xScarface: bets $0.33
+gonza.maiti: folds 
+schatz9999: folds 
+Uncalled bet ($0.33) returned to xScarface
+xScarface collected $0.33 from pot
+xScarface: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [7h 2h 2c]
+Seat 1: gonza.maiti (big blind) folded on the Flop
+Seat 2: schatz9999 folded on the Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface (button) collected ($0.33)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967809822:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:59:00 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.68 in chips) 
+Seat 2: schatz9999 ($1.50 in chips) 
+Seat 3: Britss ($10.15 in chips) 
+Seat 4: DimaLesnoy ($13.05 in chips) 
+Seat 5: xScarface ($13.21 in chips) 
+Seat 6: Calltossen ($12.79 in chips) 
+gonza.maiti: posts small blind $0.05
+schatz9999: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+DimaLesnoy: raises $0.20 to $0.30
+xScarface: folds 
+Calltossen: calls $0.30
+gonza.maiti: folds 
+schatz9999: calls $0.20
+*** FLOP *** [8d Ad 8h]
+schatz9999: checks 
+DimaLesnoy: checks 
+Calltossen: bets $0.68
+schatz9999: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.68) returned to Calltossen
+Calltossen collected $0.91 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8d Ad 8h]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: schatz9999 (big blind) folded on the Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded on the Flop
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen (button) collected ($0.91)
+
+
+
+PokerStars Hand #222967831080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:59:39 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: schatz9999 ($1.20 in chips) 
+Seat 3: Britss ($10.15 in chips) 
+Seat 4: DimaLesnoy ($12.75 in chips) 
+Seat 5: xScarface ($13.21 in chips) 
+Seat 6: Calltossen ($13.40 in chips) 
+schatz9999: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+schatz9999: calls $0.05
+Britss: raises $0.20 to $0.30
+schatz9999: calls $0.20
+*** FLOP *** [Th Tc 5h]
+schatz9999: checks 
+Britss: bets $0.40
+schatz9999: folds 
+Uncalled bet ($0.40) returned to Britss
+Britss collected $0.57 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Th Tc 5h]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: schatz9999 (small blind) folded on the Flop
+Seat 3: Britss (big blind) collected ($0.57)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967844442:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:00:03 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: schatz9999 ($0.90 in chips) 
+Seat 3: Britss ($10.42 in chips) 
+Seat 4: DimaLesnoy ($12.75 in chips) 
+Seat 5: xScarface ($13.21 in chips) 
+Seat 6: Calltossen ($13.40 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+xScarface: calls $0.10
+Calltossen: folds 
+gonza.maiti: folds 
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: raises $0.50 to $0.60
+xScarface: calls $0.50
+schatz9999: calls $0.50
+*** FLOP *** [Qs 9c 7s]
+DimaLesnoy: bets $0.76
+xScarface: folds 
+schatz9999: calls $0.30 and is all-in
+Uncalled bet ($0.46) returned to DimaLesnoy
+*** TURN *** [Qs 9c 7s] [Th]
+*** RIVER *** [Qs 9c 7s Th] [As]
+*** SHOW DOWN ***
+DimaLesnoy: shows [Qh Qd] (three of a kind, Queens)
+schatz9999: shows [Jh Ah] (a pair of Aces)
+DimaLesnoy collected $2.34 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [Qs 9c 7s Th As]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: schatz9999 (button) showed [Jh Ah] and lost with a pair of Aces
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) showed [Qh Qd] and won ($2.34) with three of a kind, Queens
+Seat 5: xScarface folded on the Flop
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967873273:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:00:52 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.19 in chips) 
+Seat 5: xScarface ($12.61 in chips) 
+Seat 6: Calltossen ($13.40 in chips) 
+DimaLesnoy: posts small blind $0.05
+xScarface: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Britss: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.05) returned to xScarface
+xScarface collected $0.10 from pot
+xScarface: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 5: xScarface (big blind) collected ($0.10)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967877420:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:00:59 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: schatz9999 ($4 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.14 in chips) 
+Seat 5: xScarface ($12.66 in chips) 
+Seat 6: Calltossen ($13.40 in chips) 
+xScarface: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: raises $0.30 to $0.40
+xScarface: folds 
+Calltossen: folds 
+schatz9999: calls $0.30
+*** FLOP *** [Th Kc Qc]
+schatz9999: checks 
+DimaLesnoy: checks 
+*** TURN *** [Th Kc Qc] [8s]
+schatz9999: checks 
+DimaLesnoy: checks 
+*** RIVER *** [Th Kc Qc 8s] [5s]
+schatz9999: checks 
+DimaLesnoy: checks 
+*** SHOW DOWN ***
+schatz9999: shows [Ah 7d] (high card Ace)
+DimaLesnoy: shows [5h Ad] (a pair of Fives)
+DimaLesnoy collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Th Kc Qc 8s 5s]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: schatz9999 showed [Ah 7d] and lost with high card Ace
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) showed [5h Ad] and won ($0.91) with a pair of Fives
+Seat 5: xScarface (small blind) folded before Flop
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967902557:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:01:32 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: schatz9999 ($3.60 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 5: xScarface ($12.61 in chips) 
+Seat 6: Calltossen ($13.30 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+schatz9999: calls $0.10
+Britss: folds 
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: checks 
+*** FLOP *** [7c Qs 5h]
+gonza.maiti: checks 
+schatz9999: checks 
+*** TURN *** [7c Qs 5h] [7h]
+gonza.maiti: checks 
+schatz9999: checks 
+*** RIVER *** [7c Qs 5h 7h] [Ac]
+gonza.maiti: checks 
+schatz9999: checks 
+*** SHOW DOWN ***
+gonza.maiti: shows [3s 6h] (a pair of Sevens)
+schatz9999: shows [Kh 5d] (two pair, Sevens and Fives)
+schatz9999 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7c Qs 5h 7h Ac]
+Seat 1: gonza.maiti (big blind) showed [3s 6h] and lost with a pair of Sevens
+Seat 2: schatz9999 showed [Kh 5d] and won ($0.24) with two pair, Sevens and Fives
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967926701:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:01:59 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.53 in chips) 
+Seat 3: Britss ($10.37 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 5: xScarface ($12.61 in chips) 
+Seat 6: Calltossen ($13.25 in chips) 
+gonza.maiti: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+xScarface: folds 
+Calltossen: folds 
+schatz9999 leaves the table
+gonza.maiti: raises $0.20 to $0.30
+Britss: folds 
+Uncalled bet ($0.20) returned to gonza.maiti
+Michael_Kss joins the table at seat #2 
+gonza.maiti collected $0.20 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (small blind) collected ($0.20)
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967940093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:02:17 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 3: Britss ($10.27 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 5: xScarface ($12.61 in chips) 
+Seat 6: Calltossen ($13.25 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+xScarface: folds 
+Calltossen: folds 
+gonza.maiti: raises $0.10 to $0.20
+Britss: folds 
+DimaLesnoy: folds 
+Uncalled bet ($0.10) returned to gonza.maiti
+gonza.maiti collected $0.25 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (button) collected ($0.25)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) folded before Flop
+Seat 5: xScarface folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967952387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:02:32 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 3: Britss ($10.22 in chips) 
+Seat 4: DimaLesnoy ($14.55 in chips) 
+Seat 6: Calltossen ($13.25 in chips) 
+DimaLesnoy: posts small blind $0.05
+xScarface: is sitting out 
+Calltossen: posts big blind $0.10
+Michael_Kss: sits out 
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Britss: folds 
+DimaLesnoy: raises $0.20 to $0.30
+Calltossen: folds 
+Uncalled bet ($0.20) returned to DimaLesnoy
+DimaLesnoy collected $0.20 from pot
+DimaLesnoy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (small blind) collected ($0.20)
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967959142:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:02:41 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 3: Britss ($10.22 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 6: Calltossen ($13.15 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+Michael_Kss: sits out 
+*** HOLE CARDS ***
+Britss: folds 
+DimaLesnoy: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+Uncalled bet ($0.20) returned to Calltossen
+Calltossen collected $0.20 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222967971913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:02:57 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.68 in chips) 
+Seat 2: Michael_Kss ($10 in chips) 
+Seat 3: Britss ($10.22 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 6: Calltossen ($13.25 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+DimaLesnoy: folds 
+Calltossen: raises $0.75 to $1.05
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: calls $0.75
+*** FLOP *** [Qs Qd 2h]
+Britss: checks 
+Calltossen: bets $1.61
+Britss: calls $1.61
+*** TURN *** [Qs Qd 2h] [Jd]
+Britss: checks 
+Calltossen: checks 
+*** RIVER *** [Qs Qd 2h Jd] [Ks]
+Britss: bets $2.50
+Calltossen: folds 
+Uncalled bet ($2.50) returned to Britss
+Britss collected $5.22 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.47 | Rake $0.25 
+Board [Qs Qd 2h Jd Ks]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss collected ($5.22)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded on the River
+
+
+
+PokerStars Hand #222968014516:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:03:50 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($9.90 in chips) 
+Seat 3: Britss ($12.78 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 6: Calltossen ($10.59 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: calls $0.20
+*** FLOP *** [Ad 2s 2d]
+Britss: checks 
+Calltossen: bets $0.47
+Britss: folds 
+Uncalled bet ($0.47) returned to Calltossen
+Calltossen collected $0.62 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ad 2s 2d]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) folded on the Flop
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 6: Calltossen collected ($0.62)
+
+
+
+PokerStars Hand #222968029912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:04:09 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($9.85 in chips) 
+Seat 3: Britss ($12.48 in chips) 
+Seat 4: DimaLesnoy ($14.65 in chips) 
+Seat 6: Calltossen ($10.91 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+DimaLesnoy: calls $0.20
+*** FLOP *** [Qd 3c 3s]
+DimaLesnoy: checks 
+Michael_Kss: bets $0.15
+DimaLesnoy: calls $0.15
+*** TURN *** [Qd 3c 3s] [6d]
+DimaLesnoy: checks 
+Michael_Kss: checks 
+*** RIVER *** [Qd 3c 3s 6d] [5h]
+DimaLesnoy: checks 
+Michael_Kss: checks 
+*** SHOW DOWN ***
+DimaLesnoy: shows [Ad 4s] (a pair of Threes)
+Michael_Kss: shows [Th Ah] (a pair of Threes - Ace+Queen+Ten kicker)
+Michael_Kss collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qd 3c 3s 6d 5h]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) showed [Th Ah] and won ($0.91) with a pair of Threes
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: DimaLesnoy (big blind) showed [Ad 4s] and lost with a pair of Threes
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968062360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:04:48 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($10.31 in chips) 
+Seat 3: Britss ($12.43 in chips) 
+Seat 4: DimaLesnoy ($14.20 in chips) 
+Seat 6: Calltossen ($10.91 in chips) 
+DimaLesnoy: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: calls $0.30
+DimaLesnoy: folds 
+Calltossen: calls $0.20
+*** FLOP *** [8c Kh 3c]
+Calltossen: checks 
+Michael_Kss: bets $0.30
+Britss: calls $0.30
+Calltossen: calls $0.30
+*** TURN *** [8c Kh 3c] [Tc]
+Calltossen: checks 
+Michael_Kss: checks 
+Britss: checks 
+*** RIVER *** [8c Kh 3c Tc] [2h]
+Calltossen: bets $1.77
+Michael_Kss: folds 
+Britss: raises $1.77 to $3.54
+Calltossen: calls $1.77
+*** SHOW DOWN ***
+Britss: shows [6c 5c] (a flush, Ten high)
+Calltossen: shows [9c Jc] (a flush, Jack high)
+Calltossen collected $8.53 from pot
+*** SUMMARY ***
+Total pot $8.93 | Rake $0.40 
+Board [8c Kh 3c Tc 2h]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded on the River
+Seat 3: Britss (button) showed [6c 5c] and lost with a flush, Ten high
+Seat 4: DimaLesnoy (small blind) folded before Flop
+Seat 6: Calltossen (big blind) showed [9c Jc] and won ($8.53) with a flush, Jack high
+
+
+
+PokerStars Hand #222968115532:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:05:52 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($9.71 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: DimaLesnoy ($14.15 in chips) 
+Seat 6: Calltossen ($15.30 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+DimaLesnoy: folds 
+Calltossen: folds 
+Uncalled bet ($0.05) returned to gonza.maiti
+gonza.maiti collected $0.10 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (big blind) collected ($0.10)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968122524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:06:00 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.68 in chips) 
+Seat 2: Michael_Kss ($9.71 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: DimaLesnoy ($14.15 in chips) 
+Seat 6: Calltossen ($15.25 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+DimaLesnoy: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: calls $0.20
+*** FLOP *** [As 4d 5d]
+Michael_Kss: checks 
+Calltossen: checks 
+*** TURN *** [As 4d 5d] [2s]
+Michael_Kss: checks 
+Calltossen: checks 
+*** RIVER *** [As 4d 5d 2s] [Qd]
+Michael_Kss: bets $0.30
+Calltossen: folds 
+Uncalled bet ($0.30) returned to Michael_Kss
+Michael_Kss collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [As 4d 5d 2s Qd]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) collected ($0.62)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: DimaLesnoy folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded on the River
+
+
+
+PokerStars Hand #222968151824:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:06:35 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($10.03 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: DimaLesnoy ($14.15 in chips) 
+Seat 6: Calltossen ($14.95 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy: raises $0.20 to $0.30
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: calls $0.25
+Britss: folds 
+*** FLOP *** [3s Ts Ad]
+Michael_Kss: checks 
+DimaLesnoy: bets $0.29
+Michael_Kss: calls $0.29
+*** TURN *** [3s Ts Ad] [Ks]
+Michael_Kss: checks 
+DimaLesnoy: checks 
+*** RIVER *** [3s Ts Ad Ks] [8d]
+Michael_Kss: checks 
+DimaLesnoy: checks 
+*** SHOW DOWN ***
+Michael_Kss: shows [Kh Qh] (a pair of Kings)
+DimaLesnoy: shows [Qd Kc] (a pair of Kings)
+Michael_Kss collected $0.61 from pot
+DimaLesnoy collected $0.61 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.06 
+Board [3s Ts Ad Ks 8d]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) showed [Kh Qh] and won ($0.61) with a pair of Kings
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: DimaLesnoy showed [Qd Kc] and won ($0.61) with a pair of Kings
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968202743:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:07:36 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($10.05 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 6: Calltossen ($14.95 in chips) 
+Britss: posts small blind $0.05
+DimaLesnoy: is sitting out 
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+DimaLesnoy leaves the table
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.05) returned to Calltossen
+20guette joins the table at seat #4 
+Calltossen collected $0.10 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 6: Calltossen (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222968209932:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:07:45 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($10.05 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: raises $0.60 to $0.90
+Calltossen: folds 
+Uncalled bet ($0.60) returned to gonza.maiti
+gonza.maiti collected $0.60 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gonza.maiti (big blind) collected ($0.60)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968227148:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:08:05 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.93 in chips) 
+Seat 2: Michael_Kss ($10.05 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 6: Calltossen ($14.70 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+20guette: sits out 
+*** HOLE CARDS ***
+Britss: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Uncalled bet ($0.05) returned to Michael_Kss
+Michael_Kss collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) collected ($0.10)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968234140:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:08:13 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.88 in chips) 
+Seat 2: Michael_Kss ($10.10 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 6: Calltossen ($14.70 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+20guette: sits out 
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) collected ($0.20)
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968243467:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:08:25 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.88 in chips) 
+Seat 2: Michael_Kss ($10.20 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 6: Calltossen ($14.70 in chips) 
+Britss: posts small blind $0.05
+20guette: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+20guette: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) collected ($0.25)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: 20guette (big blind) folded before Flop
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968256027:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:08:40 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.88 in chips) 
+Seat 2: Michael_Kss ($10.35 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 6: Calltossen ($14.70 in chips) 
+20guette: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+20guette: folds 
+Uncalled bet ($0.05) returned to Calltossen
+Calltossen collected $0.10 from pot
+xScarface was removed from the table for failing to post
+xScarface leaves the table
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: 20guette (small blind) folded before Flop
+Seat 6: Calltossen (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222968267443:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:08:53 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.88 in chips) 
+Seat 2: Michael_Kss ($10.35 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 6: Calltossen ($14.75 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+20guette: raises $0.15 to $0.25
+Calltossen: folds 
+gonza.maiti: folds 
+Uncalled bet ($0.15) returned to 20guette
+20guette collected $0.25 from pot
+20guette: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: 20guette (button) collected ($0.25)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968274977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:09:02 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.78 in chips) 
+Seat 2: Michael_Kss ($10.35 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: 20guette ($10.15 in chips) 
+Seat 6: Calltossen ($14.70 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+20guette: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss collected ($0.25)
+Seat 4: 20guette folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968290854:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:09:21 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.73 in chips) 
+Seat 2: Michael_Kss ($10.25 in chips) 
+Seat 3: Britss ($10.15 in chips) 
+Seat 4: 20guette ($10.15 in chips) 
+Seat 6: Calltossen ($14.70 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+20guette: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.20) returned to Calltossen
+Calltossen collected $0.25 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: 20guette folded before Flop (didn't bet)
+Seat 6: Calltossen collected ($0.25)
+
+
+
+PokerStars Hand #222968305697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:09:39 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.73 in chips) 
+Seat 2: Michael_Kss ($10.20 in chips) 
+Seat 3: Britss ($10.05 in chips) 
+Seat 4: 20guette ($10.15 in chips) 
+Seat 6: Calltossen ($14.85 in chips) 
+Britss: posts small blind $0.05
+20guette: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: raises $0.20 to $0.30
+buradin de joins the table at seat #5 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+20guette: folds 
+Uncalled bet ($0.20) returned to Calltossen
+Calltossen collected $0.25 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: 20guette (big blind) folded before Flop
+Seat 6: Calltossen collected ($0.25)
+
+
+
+PokerStars Hand #222968325521:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:10:02 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.73 in chips) 
+Seat 2: Michael_Kss ($10.20 in chips) 
+Seat 3: Britss ($10 in chips) 
+Seat 4: 20guette ($10.05 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+20guette: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: raises $0.75 to $1.05
+20guette: raises $1.95 to $3
+buradin de: folds 
+Michael_Kss: folds 
+Britss: raises $7 to $10 and is all-in
+20guette: calls $7
+*** FLOP *** [Kd 7s 5h]
+*** TURN *** [Kd 7s 5h] [9d]
+*** RIVER *** [Kd 7s 5h 9d] [3s]
+*** SHOW DOWN ***
+20guette: shows [As Qs] (high card Ace)
+Britss: shows [Ks Kh] (three of a kind, Kings)
+Britss collected $19.48 from pot
+*** SUMMARY ***
+Total pot $20.40 | Rake $0.92 
+Board [Kd 7s 5h 9d 3s]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop
+Seat 3: Britss (button) showed [Ks Kh] and won ($19.48) with three of a kind, Kings
+Seat 4: 20guette (small blind) showed [As Qs] and lost with high card Ace
+Seat 5: buradin de (big blind) folded before Flop
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968376666:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:11:03 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.73 in chips) 
+Seat 2: Michael_Kss ($9.90 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+buradin de: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+20guette: raises $0.15 to $0.25
+buradin de: calls $0.20
+Calltossen: folds 
+*** FLOP *** [8d As 3d]
+buradin de: checks 
+20guette: bets $0.29
+buradin de: folds 
+Uncalled bet ($0.29) returned to 20guette
+20guette collected $0.57 from pot
+20guette: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8d As 3d]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: 20guette (button) collected ($0.57)
+Seat 5: buradin de (small blind) folded on the Flop
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968399037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:11:30 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.73 in chips) 
+Seat 2: Michael_Kss ($9.90 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: 20guette ($10.32 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($14.90 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+20guette: folds 
+buradin de: folds 
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+Uncalled bet ($0.20) returned to Calltossen
+Calltossen collected $0.20 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: 20guette folded before Flop (didn't bet)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222968410590:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:11:44 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.63 in chips) 
+Seat 2: Michael_Kss ($9.90 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: 20guette ($10.32 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+20guette: raises $0.15 to $0.25
+buradin de: calls $0.25
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: calls $0.15
+*** FLOP *** [Jc 3d 7s]
+Michael_Kss: checks 
+20guette: checks 
+buradin de: checks 
+*** TURN *** [Jc 3d 7s] [9h]
+Michael_Kss: bets $0.25
+20guette: calls $0.25
+buradin de: folds 
+*** RIVER *** [Jc 3d 7s 9h] [Ad]
+Michael_Kss: checks 
+20guette: bets $0.80
+Michael_Kss: calls $0.80
+*** SHOW DOWN ***
+20guette: shows [Kd Ts] (high card Ace)
+Michael_Kss: shows [As Tc] (a pair of Aces)
+Michael_Kss collected $2.77 from pot
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.13 
+Board [Jc 3d 7s 9h Ad]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) showed [As Tc] and won ($2.77) with a pair of Aces
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: 20guette showed [Kd Ts] and lost with high card Ace
+Seat 5: buradin de folded on the Turn
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968466827:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:12:42 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.58 in chips) 
+Seat 2: Michael_Kss ($11.37 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+20guette: folds 
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss is disconnected 
+Michael_Kss has timed out while being disconnected
+Michael_Kss: folds 
+Uncalled bet ($0.05) returned to Britss
+Britss collected $0.10 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) collected ($0.10)
+Seat 4: 20guette folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968522487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:13:49 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.58 in chips) 
+Seat 3: Britss ($19.53 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+20guette: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Britss: folds 
+20guette: folds 
+Uncalled bet ($0.05) returned to buradin de
+buradin de collected $0.10 from pot
+buradin de: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: 20guette (small blind) folded before Flop
+Seat 5: buradin de (big blind) collected ($0.10)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968533252:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:14:02 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.58 in chips) 
+Seat 3: Britss ($19.53 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 5: buradin de ($10.05 in chips) 
+Seat 6: Calltossen ($15 in chips) 
+buradin de: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Britss: folds 
+20guette: folds 
+buradin de: raises $0.10 to $0.20
+Calltossen: raises $0.40 to $0.60
+buradin de: folds 
+Uncalled bet ($0.40) returned to Calltossen
+Calltossen collected $0.40 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: 20guette (button) folded before Flop (didn't bet)
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: Calltossen (big blind) collected ($0.40)
+
+
+
+PokerStars Hand #222968556007:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:14:29 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.58 in chips) 
+Seat 3: Britss ($19.53 in chips) 
+Seat 4: 20guette ($10 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15.20 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+20guette: raises $0.15 to $0.25
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Uncalled bet ($0.15) returned to 20guette
+20guette collected $0.25 from pot
+20guette: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: 20guette collected ($0.25)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968573763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:14:50 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.48 in chips) 
+Seat 3: Britss ($19.53 in chips) 
+Seat 4: 20guette ($10.15 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15.15 in chips) 
+gonza.maiti: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+20guette: folds 
+buradin de: folds 
+20guette leaves the table
+Calltossen: raises $0.20 to $0.30
+gonza.maiti: folds 
+Britss: calls $0.20
+*** FLOP *** [7d Kc Kh]
+Britss: checks 
+Calltossen: bets $0.47
+Britss: folds 
+Uncalled bet ($0.47) returned to Calltossen
+Calltossen collected $0.62 from pot
+Calltossen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7d Kc Kh]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 3: Britss (big blind) folded on the Flop
+Seat 4: 20guette folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen (button) collected ($0.62)
+
+
+
+PokerStars Hand #222968595457:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:15:15 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.43 in chips) 
+Seat 3: Britss ($19.23 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15.47 in chips) 
+Britss: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: raises $0.10 to $0.20
+Britss: folds 
+buradin de: folds 
+Uncalled bet ($0.10) returned to gonza.maiti
+gonza.maiti collected $0.25 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (button) collected ($0.25)
+Seat 3: Britss (small blind) folded before Flop
+Seat 5: buradin de (big blind) folded before Flop
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968608102:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:15:30 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.58 in chips) 
+Seat 3: Britss ($19.18 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15.47 in chips) 
+buradin de: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Britss: raises $0.20 to $0.30
+buradin de: folds 
+Calltossen: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss (button) collected ($0.25)
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968621394:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:15:46 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.58 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15.37 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+buradin de: folds 
+Calltossen: folds 
+Toralf68 joins the table at seat #4 
+gonza.maiti: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 3: Britss collected ($0.25)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968634752:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:02 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.48 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 5: buradin de ($10 in chips) 
+Seat 6: Calltossen ($15.32 in chips) 
+gonza.maiti: posts small blind $0.05
+Britss: posts big blind $0.10
+Toralf68: sits out 
+*** HOLE CARDS ***
+buradin de: calls $0.10
+Calltossen: raises $0.35 to $0.45
+gonza.maiti: folds 
+Britss: folds 
+buradin de: calls $0.35
+*** FLOP *** [4h 7c 5s]
+buradin de: checks 
+Calltossen: bets $0.75
+buradin de: calls $0.75
+*** TURN *** [4h 7c 5s] [Th]
+buradin de: checks 
+Calltossen: bets $1.83
+buradin de: calls $1.83
+*** RIVER *** [4h 7c 5s Th] [4s]
+buradin de: checks 
+Calltossen: checks 
+*** SHOW DOWN ***
+buradin de: shows [6d 6c] (two pair, Sixes and Fours)
+Calltossen: mucks hand 
+buradin de collected $5.93 from pot
+*** SUMMARY ***
+Total pot $6.21 | Rake $0.28 
+Board [4h 7c 5s Th 4s]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 3: Britss (big blind) folded before Flop
+Seat 5: buradin de showed [6d 6c] and won ($5.93) with two pair, Sixes and Fours
+Seat 6: Calltossen (button) mucked
+
+
+
+PokerStars Hand #222968683358:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:58 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.43 in chips) 
+Seat 3: Britss ($19.38 in chips) 
+Seat 4: Toralf68 ($10 in chips) 
+Seat 5: buradin de ($12.90 in chips) 
+Seat 6: Calltossen ($12.29 in chips) 
+Britss: posts small blind $0.05
+Toralf68: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: raises $0.10 to $0.20
+Britss: folds 
+Toralf68: calls $0.10
+*** FLOP *** [9c 7s 2h]
+Toralf68: checks 
+gonza.maiti: bets $0.22
+Toralf68: folds 
+Uncalled bet ($0.22) returned to gonza.maiti
+gonza.maiti collected $0.43 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9c 7s 2h]
+Seat 1: gonza.maiti (button) collected ($0.43)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: Toralf68 (big blind) folded on the Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968703376:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:17:22 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.66 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($9.80 in chips) 
+Seat 5: buradin de ($12.90 in chips) 
+Seat 6: Calltossen ($12.29 in chips) 
+Toralf68: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: raises $0.15 to $0.25
+Britss: folds 
+Toralf68: folds 
+buradin de: calls $0.15
+*** FLOP *** [5s 8d 2h]
+buradin de: checks 
+gonza.maiti: checks 
+*** TURN *** [5s 8d 2h] [7h]
+buradin de: checks 
+gonza.maiti: checks 
+*** RIVER *** [5s 8d 2h 7h] [2s]
+buradin de: checks 
+gonza.maiti: checks 
+*** SHOW DOWN ***
+buradin de: shows [Tc Jd] (a pair of Deuces)
+gonza.maiti: shows [Jh As] (a pair of Deuces - Ace kicker)
+gonza.maiti collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5s 8d 2h 7h 2s]
+Seat 1: gonza.maiti showed [Jh As] and won ($0.53) with a pair of Deuces
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: Toralf68 (small blind) folded before Flop
+Seat 5: buradin de (big blind) showed [Tc Jd] and lost with a pair of Deuces
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968744916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:18:11 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.94 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($9.75 in chips) 
+Seat 5: buradin de ($12.65 in chips) 
+Seat 6: Calltossen ($12.29 in chips) 
+buradin de: posts small blind $0.05
+Calltossen: posts big blind $0.10
+Michael_Kss: sits out 
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Britss: folds 
+Toralf68: raises $0.10 to $0.20
+buradin de: folds 
+Calltossen: folds 
+Uncalled bet ($0.10) returned to Toralf68
+Toralf68 collected $0.25 from pot
+Toralf68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: Toralf68 (button) collected ($0.25)
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: Calltossen (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968759668:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:18:28 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.94 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($9.90 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($12.19 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+Michael_Kss: sits out 
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+Toralf68: folds 
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 3: Britss collected ($0.25)
+Seat 4: Toralf68 folded before Flop (didn't bet)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968773532:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:18:44 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.84 in chips) 
+Seat 2: Michael_Kss ($11.32 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: Toralf68 ($9.90 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($12.14 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+Toralf68: raises $0.10 to $0.20
+buradin de: folds 
+Calltossen: raises $0.55 to $0.75
+gonza.maiti: folds 
+Michael_Kss: folds 
+Toralf68: calls $0.55
+*** FLOP *** [3s 4s 2s]
+Toralf68: checks 
+Calltossen: checks 
+*** TURN *** [3s 4s 2s] [Ts]
+Toralf68: bets $0.79
+Calltossen: folds 
+Uncalled bet ($0.79) returned to Toralf68
+Toralf68 collected $1.58 from pot
+Toralf68: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [3s 4s 2s Ts]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: Toralf68 collected ($1.58)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded on the Turn
+
+
+
+PokerStars Hand #222968805549:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:19:22 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.79 in chips) 
+Seat 2: Michael_Kss ($11.22 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: Toralf68 ($10.73 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($11.39 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+Toralf68: raises $0.10 to $0.20
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.10) returned to Toralf68
+Toralf68 collected $0.25 from pot
+Toralf68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: Toralf68 collected ($0.25)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968827463:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:19:48 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.79 in chips) 
+Seat 2: Michael_Kss ($11.17 in chips) 
+Seat 3: Britss ($19.38 in chips) 
+Seat 4: Toralf68 ($10.88 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($11.39 in chips) 
+Britss: posts small blind $0.05
+Toralf68: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.05) returned to Toralf68
+Toralf68 collected $0.10 from pot
+Toralf68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: Toralf68 (big blind) collected ($0.10)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968840604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:20:03 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.79 in chips) 
+Seat 2: Michael_Kss ($11.17 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($10.93 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($11.39 in chips) 
+Toralf68: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Toralf68: folds 
+Uncalled bet ($0.05) returned to buradin de
+buradin de collected $0.10 from pot
+buradin de: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: Toralf68 (small blind) folded before Flop
+Seat 5: buradin de (big blind) collected ($0.10)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968853601:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:20:17 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.79 in chips) 
+Seat 2: Michael_Kss ($11.17 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($10.88 in chips) 
+Seat 5: buradin de ($12.65 in chips) 
+Seat 6: Calltossen ($11.39 in chips) 
+buradin de: posts small blind $0.05
+Calltossen: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+Toralf68: calls $0.30
+buradin de: folds 
+Calltossen: raises $0.95 to $1.25
+Michael_Kss: folds 
+Toralf68: calls $0.95
+*** FLOP *** [3h Qh 6s]
+Calltossen: bets $2.04
+Toralf68: calls $2.04
+*** TURN *** [3h Qh 6s] [Ks]
+Calltossen: bets $4.97
+Toralf68: raises $2.62 to $7.59 and is all-in
+Calltossen: calls $2.62
+*** RIVER *** [3h Qh 6s Ks] [2c]
+*** SHOW DOWN ***
+Calltossen: shows [As Kh] (a pair of Kings)
+Toralf68: shows [Qs Kd] (two pair, Kings and Queens)
+Toralf68 collected $21.12 from pot
+*** SUMMARY ***
+Total pot $22.11 | Rake $0.99 
+Board [3h Qh 6s Ks 2c]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: Toralf68 (button) showed [Qs Kd] and won ($21.12) with two pair, Kings and Queens
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: Calltossen (big blind) showed [As Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #222968893970:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:21:05 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.79 in chips) 
+Seat 2: Michael_Kss ($10.87 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($21.12 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($10 in chips) 
+Calltossen: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+Toralf68: raises $0.10 to $0.20
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Uncalled bet ($0.10) returned to Toralf68
+Toralf68 collected $0.25 from pot
+Toralf68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: Toralf68 collected ($0.25)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: Calltossen (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968908717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:21:22 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.69 in chips) 
+Seat 2: Michael_Kss ($10.87 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 4: Toralf68 ($21.27 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($10 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+Toralf68: folds 
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: raises $0.20 to $0.30
+Toralf68 leaves the table
+Michael_Kss: calls $0.20
+*** FLOP *** [8d 6h 5h]
+gonza.maiti: checks 
+Michael_Kss: checks 
+*** TURN *** [8d 6h 5h] [5c]
+gonza.maiti: checks 
+Michael_Kss: bets $0.30
+gonza.maiti: folds 
+Uncalled bet ($0.30) returned to Michael_Kss
+Michael_Kss collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8d 6h 5h 5c]
+Seat 1: gonza.maiti (small blind) folded on the Turn
+Seat 2: Michael_Kss (big blind) collected ($0.57)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: Toralf68 folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968951797:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:22:12 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.39 in chips) 
+Seat 2: Michael_Kss ($11.14 in chips) 
+Seat 3: Britss ($19.33 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($10 in chips) 
+johan416 joins the table at seat #4 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: raises $0.10 to $0.20
+Michael_Kss: folds 
+Britss: raises $0.60 to $0.80
+gonza.maiti: folds 
+Uncalled bet ($0.60) returned to Britss
+Britss collected $0.45 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) collected ($0.45)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968976194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:22:40 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($11.09 in chips) 
+Seat 3: Britss ($19.58 in chips) 
+Seat 4: johan416 ($8 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($10 in chips) 
+Britss: posts small blind $0.05
+johan416: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+Calltossen: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.15 to $0.25
+Britss: raises $0.75 to $1
+johan416: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.75) returned to Britss
+Britss collected $0.60 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop
+Seat 3: Britss (small blind) collected ($0.60)
+Seat 4: johan416 (big blind) folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968991156:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:22:57 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.84 in chips) 
+Seat 3: Britss ($19.93 in chips) 
+Seat 4: johan416 ($7.90 in chips) 
+Seat 5: buradin de ($12.60 in chips) 
+Seat 6: Calltossen ($10 in chips) 
+johan416: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+Calltossen: folds 
+Calltossen leaves the table
+gonza.maiti: folds 
+dragos12508 joins the table at seat #6 
+Michael_Kss: folds 
+Britss: folds 
+johan416: calls $0.05
+buradin de: checks 
+*** FLOP *** [8s 6s 6d]
+johan416: bets $0.10
+buradin de: calls $0.10
+*** TURN *** [8s 6s 6d] [8h]
+johan416: checks 
+buradin de: checks 
+*** RIVER *** [8s 6s 6d 8h] [Ah]
+johan416: checks 
+buradin de: checks 
+*** SHOW DOWN ***
+johan416: shows [7d 9c] (two pair, Eights and Sixes)
+buradin de: shows [7s 4s] (two pair, Eights and Sixes)
+johan416 collected $0.19 from pot
+buradin de collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [8s 6s 6d 8h Ah]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: johan416 (small blind) showed [7d 9c] and won ($0.19) with two pair, Eights and Sixes
+Seat 5: buradin de (big blind) showed [7s 4s] and won ($0.19) with two pair, Eights and Sixes
+Seat 6: Calltossen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969033883:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:23:47 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.84 in chips) 
+Seat 3: Britss ($19.93 in chips) 
+Seat 4: johan416 ($7.89 in chips) 
+Seat 5: buradin de ($12.59 in chips) 
+Seat 6: dragos12508 ($10 in chips) 
+buradin de: posts small blind $0.05
+dragos12508: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+johan416: raises $0.20 to $0.30
+buradin de: folds 
+dragos12508: calls $0.20
+*** FLOP *** [5h 5s 6d]
+dragos12508: checks 
+johan416: checks 
+*** TURN *** [5h 5s 6d] [3c]
+dragos12508: checks 
+johan416: bets $0.20
+dragos12508: folds 
+Uncalled bet ($0.20) returned to johan416
+johan416 collected $0.62 from pot
+johan416: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5h 5s 6d 3c]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 (button) collected ($0.62)
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: dragos12508 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222969085999:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:24:47 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.84 in chips) 
+Seat 3: Britss ($19.93 in chips) 
+Seat 4: johan416 ($8.21 in chips) 
+Seat 5: buradin de ($12.54 in chips) 
+Seat 6: dragos12508 ($9.70 in chips) 
+dragos12508: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+johan416: folds 
+buradin de has timed out
+buradin de: folds 
+dragos12508: folds 
+Uncalled bet ($0.05) returned to gonza.maiti
+gonza.maiti collected $0.10 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (big blind) collected ($0.10)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: dragos12508 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969104018:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:25:08 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.24 in chips) 
+Seat 2: Michael_Kss ($10.84 in chips) 
+Seat 3: Britss ($19.93 in chips) 
+Seat 4: johan416 ($8.21 in chips) 
+Seat 5: buradin de ($12.54 in chips) 
+Seat 6: dragos12508 ($9.65 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Uncalled bet ($0.05) returned to Michael_Kss
+Michael_Kss collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) collected ($0.10)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969115983:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:25:22 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.89 in chips) 
+Seat 3: Britss ($19.93 in chips) 
+Seat 4: johan416 ($8.21 in chips) 
+Seat 5: buradin de ($12.54 in chips) 
+Seat 6: dragos12508 ($9.65 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+johan416: folds 
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to Michael_Kss
+Michael_Kss collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) collected ($0.20)
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969135951:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:25:46 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.99 in chips) 
+Seat 3: Britss ($19.83 in chips) 
+Seat 4: johan416 ($8.21 in chips) 
+Seat 5: buradin de ($12.54 in chips) 
+Seat 6: dragos12508 ($9.65 in chips) 
+Britss: posts small blind $0.05
+johan416: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.05) returned to johan416
+johan416 collected $0.10 from pot
+johan416: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: johan416 (big blind) collected ($0.10)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969152479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:26:05 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.99 in chips) 
+Seat 3: Britss ($19.78 in chips) 
+Seat 4: johan416 ($8.26 in chips) 
+Seat 5: buradin de ($12.54 in chips) 
+Seat 6: dragos12508 ($9.65 in chips) 
+johan416: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+johan416: calls $0.05
+buradin de: checks 
+*** FLOP *** [Jh 2d 6d]
+johan416: bets $0.10
+buradin de: folds 
+Uncalled bet ($0.10) returned to johan416
+johan416 collected $0.19 from pot
+johan416: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jh 2d 6d]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: johan416 (small blind) collected ($0.19)
+Seat 5: buradin de (big blind) folded on the Flop
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969177382:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:26:34 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($10.99 in chips) 
+Seat 3: Britss ($19.78 in chips) 
+Seat 4: johan416 ($8.35 in chips) 
+Seat 5: buradin de ($12.44 in chips) 
+Seat 6: dragos12508 ($9.65 in chips) 
+buradin de: posts small blind $0.05
+dragos12508: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+dragos12508: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss collected ($0.25)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 (button) folded before Flop (didn't bet)
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: dragos12508 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222969196772:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:26:57 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.19 in chips) 
+Seat 2: Michael_Kss ($11.14 in chips) 
+Seat 3: Britss ($19.78 in chips) 
+Seat 4: johan416 ($8.35 in chips) 
+Seat 5: buradin de ($12.39 in chips) 
+Seat 6: dragos12508 ($9.55 in chips) 
+dragos12508: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+dragos12508: folds 
+Uncalled bet ($0.05) returned to gonza.maiti
+gonza.maiti collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (big blind) collected ($0.10)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: dragos12508 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969211010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:27:13 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.24 in chips) 
+Seat 2: Michael_Kss ($11.14 in chips) 
+Seat 3: Britss ($19.78 in chips) 
+Seat 4: johan416 ($8.35 in chips) 
+Seat 5: buradin de ($12.39 in chips) 
+Seat 6: dragos12508 ($9.50 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+johan416: calls $0.10
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: raises $0.30 to $0.40
+Michael_Kss: calls $0.30
+johan416: calls $0.30
+*** FLOP *** [7c 6c 8d]
+gonza.maiti: checks 
+Michael_Kss: bets $0.40
+johan416: calls $0.40
+gonza.maiti: folds 
+*** TURN *** [7c 6c 8d] [3s]
+Michael_Kss: bets $1.70
+johan416: calls $1.70
+*** RIVER *** [7c 6c 8d 3s] [9s]
+Michael_Kss: bets $1.15
+johan416: calls $1.15
+*** SHOW DOWN ***
+Michael_Kss: shows [7d 7h] (three of a kind, Sevens)
+johan416: shows [4s 5c] (a straight, Five to Nine)
+johan416 collected $7.35 from pot
+*** SUMMARY ***
+Total pot $7.70 | Rake $0.35 
+Board [7c 6c 8d 3s 9s]
+Seat 1: gonza.maiti (small blind) folded on the Flop
+Seat 2: Michael_Kss (big blind) showed [7d 7h] and lost with three of a kind, Sevens
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 showed [4s 5c] and won ($7.35) with a straight, Five to Nine
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969279860:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:28:34 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10 in chips) 
+Seat 3: Britss ($19.78 in chips) 
+Seat 4: johan416 ($12.05 in chips) 
+Seat 5: buradin de ($12.39 in chips) 
+Seat 6: dragos12508 ($9.50 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+johan416: calls $0.10
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.40 to $0.50
+Britss: folds 
+johan416: folds 
+Uncalled bet ($0.40) returned to Michael_Kss
+Michael_Kss collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) collected ($0.30)
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: johan416 folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969300861:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:28:58 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.20 in chips) 
+Seat 3: Britss ($19.68 in chips) 
+Seat 4: johan416 ($11.95 in chips) 
+Seat 5: buradin de ($12.39 in chips) 
+Seat 6: dragos12508 ($9.50 in chips) 
+Britss: posts small blind $0.05
+johan416: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.30 to $0.40
+Britss: folds 
+johan416: folds 
+Uncalled bet ($0.30) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) collected ($0.25)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: johan416 (big blind) folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969315525:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:29:15 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.35 in chips) 
+Seat 3: Britss ($19.63 in chips) 
+Seat 4: johan416 ($11.85 in chips) 
+Seat 5: buradin de ($12.39 in chips) 
+Seat 6: dragos12508 ($9.50 in chips) 
+johan416: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+dragos12508: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+Uncalled bet ($0.20) returned to dragos12508
+dragos12508 collected $0.25 from pot
+dragos12508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: johan416 (small blind) folded before Flop
+Seat 5: buradin de (big blind) folded before Flop
+Seat 6: dragos12508 collected ($0.25)
+
+
+
+PokerStars Hand #222969328789:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:29:30 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.35 in chips) 
+Seat 3: Britss ($19.63 in chips) 
+Seat 4: johan416 ($11.80 in chips) 
+Seat 5: buradin de ($12.29 in chips) 
+Seat 6: dragos12508 ($9.65 in chips) 
+buradin de: posts small blind $0.05
+dragos12508: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+johan416: calls $0.30
+buradin de: folds 
+dragos12508: calls $0.20
+*** FLOP *** [Kc 2c 7s]
+dragos12508: checks 
+Michael_Kss: bets $0.25
+johan416: folds 
+dragos12508: calls $0.25
+*** TURN *** [Kc 2c 7s] [3c]
+dragos12508: checks 
+Michael_Kss: bets $0.70
+dragos12508: folds 
+Uncalled bet ($0.70) returned to Michael_Kss
+Michael_Kss collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [Kc 2c 7s 3c]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss collected ($1.38)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 (button) folded on the Flop
+Seat 5: buradin de (small blind) folded before Flop
+Seat 6: dragos12508 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222969373966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:30:22 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($11.18 in chips) 
+Seat 3: Britss ($19.63 in chips) 
+Seat 4: johan416 ($11.50 in chips) 
+Seat 5: buradin de ($12.24 in chips) 
+Seat 6: dragos12508 ($9.10 in chips) 
+dragos12508: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+johan416: calls $0.10
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: checks 
+*** FLOP *** [4s Kd 9c]
+gonza.maiti: checks 
+johan416: bets $0.10
+gonza.maiti: folds 
+Uncalled bet ($0.10) returned to johan416
+johan416 collected $0.24 from pot
+johan416: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s Kd 9c]
+Seat 1: gonza.maiti (big blind) folded on the Flop
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 collected ($0.24)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: dragos12508 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969390645:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:30:42 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($11.18 in chips) 
+Seat 3: Britss ($19.63 in chips) 
+Seat 4: johan416 ($11.64 in chips) 
+Seat 5: buradin de ($12.24 in chips) 
+Seat 6: dragos12508 ($9.05 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+dragos12508: raises $0.10 to $0.20
+gonza.maiti: folds 
+Michael_Kss: calls $0.10
+*** FLOP *** [2c Td 2d]
+Michael_Kss: checks 
+dragos12508: bets $0.21
+Michael_Kss: calls $0.21
+*** TURN *** [2c Td 2d] [Js]
+Michael_Kss: checks 
+dragos12508: bets $0.41
+Michael_Kss: folds 
+Uncalled bet ($0.41) returned to dragos12508
+dragos12508 collected $0.83 from pot
+dragos12508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [2c Td 2d Js]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) folded on the Turn
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 (button) collected ($0.83)
+
+
+
+PokerStars Hand #222969445451:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:31:32 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.77 in chips) 
+Seat 3: Britss ($19.63 in chips) 
+Seat 4: johan416 ($11.64 in chips) 
+Seat 5: buradin de ($12.24 in chips) 
+Seat 6: dragos12508 ($9.47 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+johan416: folds 
+buradin de: raises $0.13 to $0.23
+dragos12508: calls $0.23
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+*** FLOP *** [Ah Qd Qc]
+buradin de: checks 
+dragos12508: checks 
+*** TURN *** [Ah Qd Qc] [6s]
+buradin de: bets $0.10
+dragos12508: raises $0.78 to $0.88
+buradin de: calls $0.78
+*** RIVER *** [Ah Qd Qc 6s] [Qs]
+buradin de: checks 
+dragos12508: bets $2.26
+buradin de: folds 
+Uncalled bet ($2.26) returned to dragos12508
+dragos12508 collected $2.26 from pot
+dragos12508: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.37 | Rake $0.11 
+Board [Ah Qd Qc 6s Qs]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de folded on the River
+Seat 6: dragos12508 collected ($2.26)
+
+
+
+PokerStars Hand #222969498077:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:32:33 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.72 in chips) 
+Seat 3: Britss ($19.53 in chips) 
+Seat 4: johan416 ($11.64 in chips) 
+Seat 5: buradin de ($11.13 in chips) 
+Seat 6: dragos12508 ($10.62 in chips) 
+Britss: posts small blind $0.05
+johan416: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+dragos12508: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+johan416: folds 
+Uncalled bet ($0.20) returned to dragos12508
+dragos12508 collected $0.25 from pot
+dragos12508: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: johan416 (big blind) folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 collected ($0.25)
+
+
+
+PokerStars Hand #222969512771:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:32:50 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.72 in chips) 
+Seat 3: Britss ($19.48 in chips) 
+Seat 4: johan416 ($11.54 in chips) 
+Seat 5: buradin de ($11.13 in chips) 
+Seat 6: dragos12508 ($10.77 in chips) 
+johan416: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+dragos12508: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: raises $0.75 to $1.05
+johan416: folds 
+buradin de: folds 
+dragos12508: calls $0.75
+*** FLOP *** [Td Tc 5c]
+dragos12508: checks 
+Britss: bets $1.50
+dragos12508: calls $1.50
+*** TURN *** [Td Tc 5c] [6h]
+dragos12508: checks 
+Britss: bets $1.50
+dragos12508: raises $1.50 to $3
+Britss: raises $13.93 to $16.93 and is all-in
+dragos12508: folds 
+Uncalled bet ($13.93) returned to Britss
+Britss collected $10.74 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.25 | Rake $0.51 
+Board [Td Tc 5c 6h]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) collected ($10.74)
+Seat 4: johan416 (small blind) folded before Flop
+Seat 5: buradin de (big blind) folded before Flop
+Seat 6: dragos12508 folded on the Turn
+
+
+
+PokerStars Hand #222969578531:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:34:07 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.72 in chips) 
+Seat 3: Britss ($24.67 in chips) 
+Seat 4: johan416 ($11.49 in chips) 
+Seat 5: buradin de ($11.03 in chips) 
+Seat 6: dragos12508 ($5.22 in chips) 
+buradin de: posts small blind $0.05
+dragos12508: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+johan416: folds 
+buradin de: calls $0.25
+dragos12508: calls $0.20
+*** FLOP *** [9h Qs Js]
+buradin de: checks 
+dragos12508: checks 
+Michael_Kss: bets $0.30
+buradin de: raises $1.45 to $1.75
+dragos12508: folds 
+Michael_Kss: folds 
+Uncalled bet ($1.45) returned to buradin de
+buradin de collected $1.43 from pot
+buradin de: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [9h Qs Js]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded on the Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 (button) folded before Flop (didn't bet)
+Seat 5: buradin de (small blind) collected ($1.43)
+Seat 6: dragos12508 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222969623879:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:34:58 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($10.12 in chips) 
+Seat 3: Britss ($24.67 in chips) 
+Seat 4: johan416 ($11.49 in chips) 
+Seat 5: buradin de ($11.86 in chips) 
+Seat 6: dragos12508 ($4.92 in chips) 
+dragos12508: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: raises $0.20 to $0.30
+Britss: raises $0.75 to $1.05
+johan416: folds 
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $1.35 to $2.40
+Britss: calls $1.35
+*** FLOP *** [Ts 8c 8s]
+Michael_Kss: bets $7.72 and is all-in
+Britss: folds 
+Uncalled bet ($7.72) returned to Michael_Kss
+Michael_Kss collected $4.73 from pot
+*** SUMMARY ***
+Total pot $4.95 | Rake $0.22 
+Board [Ts 8c 8s]
+Seat 1: gonza.maiti (big blind) folded before Flop
+Seat 2: Michael_Kss collected ($4.73)
+Seat 3: Britss folded on the Flop
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+Seat 6: dragos12508 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969676594:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:36:00 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($12.45 in chips) 
+Seat 3: Britss ($22.27 in chips) 
+Seat 4: johan416 ($11.49 in chips) 
+Seat 5: buradin de ($11.86 in chips) 
+Seat 6: dragos12508 ($4.87 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+johan416: calls $0.10
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: checks 
+*** FLOP *** [3s 7d 5c]
+Michael_Kss: bets $0.15
+johan416: calls $0.15
+*** TURN *** [3s 7d 5c] [4h]
+Michael_Kss: checks 
+johan416: checks 
+*** RIVER *** [3s 7d 5c 4h] [5s]
+Michael_Kss: bets $0.20
+johan416: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3s 7d 5c 4h 5s]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) collected ($0.53)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 folded on the River
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969719996:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:36:50 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($12.73 in chips) 
+Seat 3: Britss ($22.27 in chips) 
+Seat 4: johan416 ($11.24 in chips) 
+Seat 5: buradin de ($11.86 in chips) 
+Seat 6: dragos12508 ($4.87 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+johan416: folds 
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.15 to $0.25
+Britss: calls $0.15
+*** FLOP *** [2s 5s 4c]
+Michael_Kss: bets $0.30
+Britss: folds 
+Uncalled bet ($0.30) returned to Michael_Kss
+Michael_Kss collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2s 5s 4c]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) collected ($0.48)
+Seat 3: Britss (big blind) folded on the Flop
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969743391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:37:18 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($12.96 in chips) 
+Seat 3: Britss ($22.02 in chips) 
+Seat 4: johan416 ($11.24 in chips) 
+Seat 5: buradin de ($11.86 in chips) 
+Seat 6: dragos12508 ($4.87 in chips) 
+Britss: posts small blind $0.05
+johan416: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+dragos12508: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+johan416: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) collected ($0.25)
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: johan416 (big blind) folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+Seat 6: dragos12508 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969759057:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:37:36 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($13.11 in chips) 
+Seat 3: Britss ($21.97 in chips) 
+Seat 4: johan416 ($11.14 in chips) 
+Seat 5: buradin de ($11.86 in chips) 
+Seat 6: dragos12508 ($4.87 in chips) 
+johan416: posts small blind $0.05
+buradin de: posts big blind $0.10
+*** HOLE CARDS ***
+dragos12508: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: raises $0.75 to $1.05
+johan416: folds 
+buradin de: folds 
+dragos12508: calls $0.75
+*** FLOP *** [Tc 8s 8h]
+dragos12508: checks 
+Britss: bets $1.50
+dragos12508: folds 
+Uncalled bet ($1.50) returned to Britss
+dragos12508 leaves the table
+Britss collected $2.15 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Tc 8s 8h]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) collected ($2.15)
+Seat 4: johan416 (small blind) folded before Flop
+Seat 5: buradin de (big blind) folded before Flop
+Seat 6: dragos12508 folded on the Flop
+
+
+
+PokerStars Hand #222969787509:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:38:10 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10 in chips) 
+Seat 2: Michael_Kss ($13.11 in chips) 
+Seat 3: Britss ($23.07 in chips) 
+Seat 4: johan416 ($11.09 in chips) 
+Seat 5: buradin de ($11.76 in chips) 
+buradin de: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+johan416: calls $0.10
+buradin de: folds 
+gonza.maiti: checks 
+*** FLOP *** [3h 7c 6s]
+gonza.maiti: bets $0.18
+AtoGoldstein joins the table at seat #6 
+johan416: folds 
+Uncalled bet ($0.18) returned to gonza.maiti
+gonza.maiti collected $0.24 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h 7c 6s]
+Seat 1: gonza.maiti (big blind) collected ($0.24)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 (button) folded on the Flop
+Seat 5: buradin de (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969810494:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:38:37 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.14 in chips) 
+Seat 2: Michael_Kss ($13.11 in chips) 
+Seat 3: Britss ($23.07 in chips) 
+Seat 4: johan416 ($10.99 in chips) 
+Seat 5: buradin de ($11.71 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss has timed out
+Britss: folds 
+johan416: calls $0.10
+buradin de: folds 
+gonza.maiti: folds 
+Michael_Kss: checks 
+*** FLOP *** [Td Jd 2d]
+Michael_Kss: checks 
+johan416: bets $0.10
+Michael_Kss: calls $0.10
+*** TURN *** [Td Jd 2d] [2h]
+Michael_Kss: checks 
+johan416: checks 
+*** RIVER *** [Td Jd 2d 2h] [2s]
+Michael_Kss: checks 
+johan416: bets $0.30
+Michael_Kss: calls $0.30
+*** SHOW DOWN ***
+johan416: shows [As 5c] (three of a kind, Deuces)
+Michael_Kss: shows [Ts Kc] (a full house, Deuces full of Tens)
+Michael_Kss collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Td Jd 2d 2h 2s]
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) showed [Ts Kc] and won ($1) with a full house, Deuces full of Tens
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 showed [As 5c] and lost with three of a kind, Deuces
+Seat 5: buradin de (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969854177:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:39:20 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.61 in chips) 
+Seat 3: Britss ($23.07 in chips) 
+Seat 4: johan416 ($10.49 in chips) 
+Seat 5: buradin de ($11.71 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+AtoGoldstein: sits out 
+*** HOLE CARDS ***
+johan416: folds 
+buradin de: calls $0.10
+gonza.maiti: folds 
+Michael_Kss: calls $0.05
+Britss: checks 
+*** FLOP *** [2s 4d 2d]
+Michael_Kss: checks 
+Britss: checks 
+buradin de: checks 
+*** TURN *** [2s 4d 2d] [3d]
+Michael_Kss: checks 
+Britss: bets $0.20
+buradin de: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.29 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2s 4d 2d 3d]
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded on the Turn
+Seat 3: Britss (big blind) collected ($0.29)
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de folded on the Turn
+
+
+
+PokerStars Hand #222969898419:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:40:12 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.51 in chips) 
+Seat 3: Britss ($23.26 in chips) 
+Seat 4: johan416 ($10.49 in chips) 
+Seat 5: buradin de ($11.61 in chips) 
+Britss: posts small blind $0.05
+johan416: posts big blind $0.10
+AtoGoldstein: sits out 
+*** HOLE CARDS ***
+buradin de has timed out
+buradin de: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: raises $0.80 to $1.10
+johan416: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.80) returned to Britss
+Britss collected $0.70 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop
+Seat 3: Britss (small blind) collected ($0.70)
+Seat 4: johan416 (big blind) folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969929105:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:40:49 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.21 in chips) 
+Seat 3: Britss ($23.66 in chips) 
+Seat 4: johan416 ($10.39 in chips) 
+Seat 5: buradin de ($11.61 in chips) 
+johan416: posts small blind $0.05
+buradin de: posts big blind $0.10
+AtoGoldstein: sits out 
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss collected ($0.25)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: johan416 (small blind) folded before Flop
+Seat 5: buradin de (big blind) folded before Flop
+
+
+
+PokerStars Hand #222969950618:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:41:14 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.36 in chips) 
+Seat 3: Britss ($23.66 in chips) 
+Seat 4: johan416 ($10.34 in chips) 
+Seat 5: buradin de ($11.51 in chips) 
+buradin de: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+johan416: folds 
+buradin de: folds 
+Uncalled bet ($0.05) returned to gonza.maiti
+gonza.maiti collected $0.10 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (big blind) collected ($0.10)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 (button) folded before Flop (didn't bet)
+Seat 5: buradin de (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969963759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:41:30 ET
+Table 'Helewalda II' 6-max Seat #5 is the button
+Seat 1: gonza.maiti ($10.14 in chips) 
+Seat 2: Michael_Kss ($13.36 in chips) 
+Seat 3: Britss ($23.66 in chips) 
+Seat 4: johan416 ($10.34 in chips) 
+Seat 5: buradin de ($11.46 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+johan416: folds 
+buradin de: raises $0.22 to $0.32
+gonza.maiti: folds 
+johan416 leaves the table
+Michael_Kss: folds 
+Uncalled bet ($0.22) returned to buradin de
+buradin de collected $0.25 from pot
+buradin de: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (small blind) folded before Flop
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: johan416 folded before Flop (didn't bet)
+Seat 5: buradin de (button) collected ($0.25)
+
+
+
+PokerStars Hand #222969979240:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:41:49 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.26 in chips) 
+Seat 3: Britss ($23.66 in chips) 
+Seat 5: buradin de ($11.61 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+buradin de: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.20 to $0.30
+Britss: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) collected ($0.20)
+Seat 3: Britss (big blind) folded before Flop
+Seat 5: buradin de folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969999946:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:13 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.36 in chips) 
+Seat 3: Britss ($23.56 in chips) 
+Seat 6: AtoGoldstein ($10 in chips) 
+Britss: posts small blind $0.05
+buradin de: is sitting out 
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.05) returned to AtoGoldstein
+AtoGoldstein collected $0.10 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222970012302:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:28 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.09 in chips) 
+Seat 2: Michael_Kss ($13.36 in chips) 
+Seat 3: Britss ($23.51 in chips) 
+Seat 6: AtoGoldstein ($10.05 in chips) 
+AtoGoldstein: posts small blind $0.05
+gonza.maiti: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+AtoGoldstein: folds 
+Uncalled bet ($0.05) returned to gonza.maiti
+gonza.maiti collected $0.10 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gonza.maiti (big blind) collected ($0.10)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970019014:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:36 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: gonza.maiti ($10.14 in chips) 
+Seat 2: Michael_Kss ($13.36 in chips) 
+Seat 3: Britss ($23.51 in chips) 
+Seat 6: AtoGoldstein ($10 in chips) 
+gonza.maiti: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+AtoGoldstein: folds 
+gonza.maiti: raises $0.20 to $0.30
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to gonza.maiti
+gonza.maiti collected $0.20 from pot
+gonza.maiti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gonza.maiti (small blind) collected ($0.20)
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 6: AtoGoldstein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970030403:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:49 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: gonza.maiti ($10.24 in chips) 
+Seat 2: Michael_Kss ($13.26 in chips) 
+Seat 3: Britss ($23.51 in chips) 
+Seat 6: AtoGoldstein ($10 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+meteor9867 joins the table at seat #4 
+AtoGoldstein: raises $0.20 to $0.30
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+Uncalled bet ($0.20) returned to AtoGoldstein
+AtoGoldstein collected $0.25 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gonza.maiti (button) folded before Flop (didn't bet)
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein collected ($0.25)
+
+
+
+PokerStars Hand #222970046157:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:43:08 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: gonza.maiti ($10.24 in chips) 
+Seat 2: Michael_Kss ($13.21 in chips) 
+Seat 3: Britss ($23.41 in chips) 
+Seat 4: meteor9867 ($10 in chips) 
+Seat 6: AtoGoldstein ($10.15 in chips) 
+Britss: posts small blind $0.05
+meteor9867: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: folds 
+gonza.maiti: folds 
+Michael_Kss: raises $0.15 to $0.25
+Britss: folds 
+meteor9867: calls $0.15
+*** FLOP *** [6d 9d 4h]
+meteor9867: checks 
+Michael_Kss: checks 
+*** TURN *** [6d 9d 4h] [2c]
+meteor9867: bets $0.35
+Michael_Kss: folds 
+Uncalled bet ($0.35) returned to meteor9867
+meteor9867 collected $0.53 from pot
+meteor9867: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6d 9d 4h 2c]
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss (button) folded on the Turn
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: meteor9867 (big blind) collected ($0.53)
+Seat 6: AtoGoldstein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970083899:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:43:53 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: gonza.maiti ($10.24 in chips) 
+Seat 2: Michael_Kss ($12.96 in chips) 
+Seat 3: Britss ($23.36 in chips) 
+Seat 4: meteor9867 ($10.28 in chips) 
+Seat 6: AtoGoldstein ($10.15 in chips) 
+meteor9867: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+gonza.maiti: folds 
+Michael_Kss: folds 
+Britss: folds 
+meteor9867: raises $0.15 to $0.25
+AtoGoldstein: raises $0.65 to $0.90
+meteor9867: folds 
+Uncalled bet ($0.65) returned to AtoGoldstein
+AtoGoldstein collected $0.50 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: gonza.maiti folded before Flop (didn't bet)
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss (button) folded before Flop (didn't bet)
+Seat 4: meteor9867 (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #222970099105:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:44:11 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 2: Michael_Kss ($12.96 in chips) 
+Seat 3: Britss ($23.36 in chips) 
+Seat 4: meteor9867 ($10.03 in chips) 
+Seat 6: AtoGoldstein ($10.40 in chips) 
+AtoGoldstein: posts small blind $0.05
+gonza.maiti: is sitting out 
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+gonza.maiti leaves the table
+meteor9867: folds 
+AtoGoldstein: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss collected ($0.25)
+Seat 4: meteor9867 (button) folded before Flop (didn't bet)
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970112482:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:44:27 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 2: Michael_Kss ($12.86 in chips) 
+Seat 3: Britss ($23.51 in chips) 
+Seat 4: meteor9867 ($10.03 in chips) 
+Seat 6: AtoGoldstein ($10.35 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+Vjbajo171 joins the table at seat #1 
+meteor9867: folds 
+AtoGoldstein: folds 
+Michael_Kss: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to Michael_Kss
+Michael_Kss collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Michael_Kss (small blind) collected ($0.20)
+Seat 3: Britss (big blind) folded before Flop
+Seat 4: meteor9867 folded before Flop (didn't bet)
+Seat 6: AtoGoldstein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970124083:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:44:40 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 2: Michael_Kss ($12.96 in chips) 
+Seat 3: Britss ($23.41 in chips) 
+Seat 4: meteor9867 ($10.03 in chips) 
+Seat 6: AtoGoldstein ($10.35 in chips) 
+Britss: posts small blind $0.05
+meteor9867: posts big blind $0.10
+Vjbajo171: sits out 
+*** HOLE CARDS ***
+AtoGoldstein: folds 
+Michael_Kss: raises $0.15 to $0.25
+Britss: folds 
+meteor9867: raises $0.70 to $0.95
+Michael_Kss: folds 
+Uncalled bet ($0.70) returned to meteor9867
+meteor9867 collected $0.55 from pot
+meteor9867: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 2: Michael_Kss (button) folded before Flop
+Seat 3: Britss (small blind) folded before Flop
+Seat 4: meteor9867 (big blind) collected ($0.55)
+Seat 6: AtoGoldstein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970139991:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:44:59 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 2: Michael_Kss ($12.71 in chips) 
+Seat 3: Britss ($23.36 in chips) 
+Seat 4: meteor9867 ($10.33 in chips) 
+Seat 6: AtoGoldstein ($10.35 in chips) 
+meteor9867: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+Vjbajo171: sits out 
+*** HOLE CARDS ***
+Michael_Kss: raises $0.20 to $0.30
+Britss: raises $0.75 to $1.05
+meteor9867: folds 
+AtoGoldstein: folds 
+Michael_Kss: calls $0.75
+*** FLOP *** [Tc 5h 9s]
+Michael_Kss: checks 
+Britss: checks 
+*** TURN *** [Tc 5h 9s] [4d]
+Michael_Kss: bets $1.20
+Britss: folds 
+Uncalled bet ($1.20) returned to Michael_Kss
+Michael_Kss collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Tc 5h 9s 4d]
+Seat 2: Michael_Kss collected ($2.15)
+Seat 3: Britss (button) folded on the Turn
+Seat 4: meteor9867 (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970167127:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:45:32 ET
+Table 'Helewalda II' 6-max Seat #4 is the button
+Seat 1: Vjbajo171 ($10 in chips) 
+Seat 2: Michael_Kss ($13.81 in chips) 
+Seat 3: Britss ($22.31 in chips) 
+Seat 4: meteor9867 ($10.28 in chips) 
+Seat 6: AtoGoldstein ($10.25 in chips) 
+AtoGoldstein: posts small blind $0.05
+Vjbajo171: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Britss: folds 
+meteor9867: raises $0.15 to $0.25
+AtoGoldstein: folds 
+Vjbajo171: folds 
+Uncalled bet ($0.15) returned to meteor9867
+meteor9867 collected $0.25 from pot
+meteor9867: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Vjbajo171 (big blind) folded before Flop
+Seat 2: Michael_Kss folded before Flop (didn't bet)
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: meteor9867 (button) collected ($0.25)
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970182757:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:45:50 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: Vjbajo171 ($9.90 in chips) 
+Seat 2: Michael_Kss ($13.81 in chips) 
+Seat 3: Britss ($22.31 in chips) 
+Seat 4: meteor9867 ($10.43 in chips) 
+Seat 6: AtoGoldstein ($10.20 in chips) 
+Vjbajo171: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+meteor9867: raises $0.15 to $0.25
+AtoGoldstein: folds 
+buradin de leaves the table
+Vjbajo171: calls $0.20
+Michael_Kss: folds 
+*** FLOP *** [Js 6d Qc]
+Vjbajo171: checks 
+meteor9867: checks 
+*** TURN *** [Js 6d Qc] [8c]
+Vjbajo171: bets $0.57
+meteor9867: calls $0.57
+*** RIVER *** [Js 6d Qc 8c] [9c]
+Vjbajo171: bets $1.66
+meteor9867: folds 
+Uncalled bet ($1.66) returned to Vjbajo171
+Vjbajo171 collected $1.66 from pot
+Vjbajo171: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.74 | Rake $0.08 
+Board [Js 6d Qc 8c 9c]
+Seat 1: Vjbajo171 (small blind) collected ($1.66)
+Seat 2: Michael_Kss (big blind) folded before Flop
+Seat 3: Britss folded before Flop (didn't bet)
+Seat 4: meteor9867 folded on the River
+Seat 6: AtoGoldstein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970238060:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:46:56 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: Vjbajo171 ($10.74 in chips) 
+Seat 2: Michael_Kss ($13.71 in chips) 
+Seat 3: Britss ($22.31 in chips) 
+Seat 4: meteor9867 ($10 in chips) 
+Seat 6: AtoGoldstein ($10.20 in chips) 
+Michael_Kss: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+meteor9867: folds 
+AtoGoldstein: folds 
+Vjbajo171: calls $0.10
+Michael_Kss: folds 
+Britss: checks 
+*** FLOP *** [Td Kc 3s]
+Britss: bets $0.24
+Vjbajo171: calls $0.24
+*** TURN *** [Td Kc 3s] [6d]
+Britss: bets $0.50
+Vjbajo171: calls $0.50
+*** RIVER *** [Td Kc 3s 6d] [4d]
+Britss: checks 
+Vjbajo171: checks 
+*** SHOW DOWN ***
+Britss: shows [Kd 5d] (a flush, King high)
+Vjbajo171: mucks hand 
+Britss collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.08 
+Board [Td Kc 3s 6d 4d]
+Seat 1: Vjbajo171 (button) mucked
+Seat 2: Michael_Kss (small blind) folded before Flop
+Seat 3: Britss (big blind) showed [Kd 5d] and won ($1.65) with a flush, King high
+Seat 4: meteor9867 folded before Flop (didn't bet)
+Seat 6: AtoGoldstein folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970273239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:47:38 ET
+Table 'Helewalda II' 6-max Seat #2 is the button
+Seat 1: Vjbajo171 ($9.90 in chips) 
+Seat 2: Michael_Kss ($13.66 in chips) 
+Seat 3: Britss ($23.12 in chips) 
+Seat 6: AtoGoldstein ($10.20 in chips) 
+Britss: posts small blind $0.05
+meteor9867: is sitting out 
+meteor9867 leaves the table
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Vjbajo171: calls $0.10
+Michael_Kss: raises $0.35 to $0.45
+Britss: folds 
+AtoGoldstein: folds 
+Vjbajo171: calls $0.35
+*** FLOP *** [Qd As Kh]
+Vjbajo171: checks 
+Michael_Kss: bets $0.33
+Vjbajo171: calls $0.33
+*** TURN *** [Qd As Kh] [6c]
+Vjbajo171: checks 
+Michael_Kss: checks 
+*** RIVER *** [Qd As Kh 6c] [Ah]
+Vjbajo171: bets $0.10
+Michael_Kss: calls $0.10
+*** SHOW DOWN ***
+Vjbajo171: shows [Ks 8c] (two pair, Aces and Kings)
+Michael_Kss: mucks hand 
+Vjbajo171 collected $1.82 from pot
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.09 
+Board [Qd As Kh 6c Ah]
+Seat 1: Vjbajo171 showed [Ks 8c] and won ($1.82) with two pair, Aces and Kings
+Seat 2: Michael_Kss (button) mucked
+Seat 3: Britss (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970316278:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:48:30 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: Vjbajo171 ($10.84 in chips) 
+Seat 3: Britss ($23.07 in chips) 
+Seat 6: AtoGoldstein ($10.10 in chips) 
+AtoGoldstein: posts small blind $0.05
+Vjbajo171: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+Michael_Kss leaves the table
+AtoGoldstein: folds 
+Vjbajo171: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Vjbajo171 (big blind) folded before Flop
+Seat 3: Britss (button) collected ($0.25)
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970324766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:48:40 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: Vjbajo171 ($10.74 in chips) 
+Seat 3: Britss ($23.22 in chips) 
+Seat 6: AtoGoldstein ($10.05 in chips) 
+Vjbajo171: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Vjbajo171: calls $0.20
+Britss: folds 
+*** FLOP *** [2h 9h 2d]
+Vjbajo171: checks 
+AtoGoldstein: bets $0.29
+Vjbajo171: calls $0.29
+*** TURN *** [2h 9h 2d] [4s]
+Vjbajo171: checks 
+AtoGoldstein: checks 
+*** RIVER *** [2h 9h 2d 4s] [7h]
+Vjbajo171: checks 
+AtoGoldstein: checks 
+*** SHOW DOWN ***
+Vjbajo171: shows [6c 6d] (two pair, Sixes and Deuces)
+AtoGoldstein: shows [9c Kh] (two pair, Nines and Deuces)
+AtoGoldstein collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [2h 9h 2d 4s 7h]
+Seat 1: Vjbajo171 (small blind) showed [6c 6d] and lost with two pair, Sixes and Deuces
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) showed [9c Kh] and won ($1.13) with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #222970357368:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:49:20 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: Vjbajo171 ($10.20 in chips) 
+Seat 3: Britss ($23.12 in chips) 
+Seat 6: AtoGoldstein ($10.64 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Vjbajo171: calls $0.10
+Britss: folds 
+AtoGoldstein: checks 
+*** FLOP *** [4s Kc Jh]
+AtoGoldstein: checks 
+Vjbajo171: bets $0.24
+AtoGoldstein: folds 
+Uncalled bet ($0.24) returned to Vjbajo171
+Vjbajo171 collected $0.24 from pot
+Vjbajo171: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s Kc Jh]
+Seat 1: Vjbajo171 (button) collected ($0.24)
+Seat 3: Britss (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222970378892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:49:45 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: Vjbajo171 ($10.34 in chips) 
+Seat 3: Britss ($23.07 in chips) 
+Seat 6: AtoGoldstein ($10.54 in chips) 
+AtoGoldstein: posts small blind $0.05
+Vjbajo171: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: folds 
+Vjbajo171: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Vjbajo171 (big blind) folded before Flop
+Seat 3: Britss (button) collected ($0.25)
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970408264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:21 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: Vjbajo171 ($10.24 in chips) 
+Seat 3: Britss ($23.22 in chips) 
+Seat 6: AtoGoldstein ($10.49 in chips) 
+Vjbajo171: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: folds 
+Vjbajo171: folds 
+Uncalled bet ($0.05) returned to Britss
+Britss collected $0.10 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Vjbajo171 (small blind) folded before Flop
+Seat 3: Britss (big blind) collected ($0.10)
+Seat 6: AtoGoldstein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970414209:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:28 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: Vjbajo171 ($10.19 in chips) 
+Seat 3: Britss ($23.27 in chips) 
+Seat 6: AtoGoldstein ($10.49 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Vjbajo171 has timed out
+Vjbajo171: folds 
+Britss: folds 
+Uncalled bet ($0.05) returned to AtoGoldstein
+AtoGoldstein collected $0.10 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Vjbajo171 (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222970425894:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:42 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($23.22 in chips) 
+Seat 6: AtoGoldstein ($10.54 in chips) 
+AtoGoldstein: posts small blind $0.05
+vilemo20 joins the table at seat #2 
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970432153:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:50 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: Vjbajo171 ($10.19 in chips) 
+Seat 3: Britss ($23.12 in chips) 
+Seat 6: AtoGoldstein ($10.64 in chips) 
+AtoGoldstein: posts small blind $0.05
+Vjbajo171: posts big blind $0.10
+vilemo20: sits out 
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: folds 
+Vjbajo171: raises $0.65 to $0.95
+Britss: folds 
+Uncalled bet ($0.65) returned to Vjbajo171
+vilemo20 leaves the table
+Vjbajo171 collected $0.65 from pot
+Vjbajo171: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Vjbajo171 (big blind) collected ($0.65)
+Seat 3: Britss (button) folded before Flop
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970445966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:06 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 1: Vjbajo171 ($10.54 in chips) 
+Seat 3: Britss ($22.82 in chips) 
+Seat 6: AtoGoldstein ($10.59 in chips) 
+Vjbajo171: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: folds 
+Vjbajo171: raises $0.10 to $0.20
+Britss: calls $0.10
+*** FLOP *** [Kd 3c 6s]
+Vjbajo171: bets $0.38
+Britss: folds 
+Uncalled bet ($0.38) returned to Vjbajo171
+Vjbajo171 collected $0.38 from pot
+Vjbajo171: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kd 3c 6s]
+Seat 1: Vjbajo171 (small blind) collected ($0.38)
+Seat 3: Britss (big blind) folded on the Flop
+Seat 6: AtoGoldstein (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970462451:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:26 ET
+Table 'Helewalda II' 6-max Seat #1 is the button
+Seat 1: Vjbajo171 ($10.72 in chips) 
+Seat 3: Britss ($22.62 in chips) 
+Seat 6: AtoGoldstein ($10.59 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Vjbajo171: folds 
+Britss: folds 
+Uncalled bet ($0.05) returned to AtoGoldstein
+AtoGoldstein collected $0.10 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Vjbajo171 (button) folded before Flop (didn't bet)
+Seat 3: Britss (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222970468164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:33 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 1: Vjbajo171 ($10.72 in chips) 
+Seat 3: Britss ($22.57 in chips) 
+Seat 6: AtoGoldstein ($10.64 in chips) 
+AtoGoldstein: posts small blind $0.05
+Vjbajo171: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: folds 
+Vjbajo171: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.25 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Vjbajo171 (big blind) folded before Flop
+Seat 3: Britss (button) collected ($0.25)
+Seat 6: AtoGoldstein (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970479162:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:46 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($22.72 in chips) 
+Seat 6: AtoGoldstein ($10.59 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970485733:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:53 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($22.62 in chips) 
+Seat 6: AtoGoldstein ($10.69 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: calls $0.20
+*** FLOP *** [8s 8c 9d]
+AtoGoldstein: checks 
+Britss: bets $0.40
+AtoGoldstein: calls $0.40
+*** TURN *** [8s 8c 9d] [Tc]
+AtoGoldstein: checks 
+Britss: checks 
+*** RIVER *** [8s 8c 9d Tc] [8d]
+AtoGoldstein: checks 
+Britss: bets $0.70
+AtoGoldstein: calls $0.70
+*** SHOW DOWN ***
+Britss: shows [9h Kc] (a full house, Eights full of Nines)
+AtoGoldstein: shows [Ts Qh] (a full house, Eights full of Tens)
+AtoGoldstein collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.80 | Rake $0.13 
+Board [8s 8c 9d Tc 8d]
+Seat 3: Britss (button) (small blind) showed [9h Kc] and lost with a full house, Eights full of Nines
+Seat 6: AtoGoldstein (big blind) showed [Ts Qh] and won ($2.67) with a full house, Eights full of Tens
+
+
+
+PokerStars Hand #222970508976:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:52:21 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($21.22 in chips) 
+Seat 6: AtoGoldstein ($11.96 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970515146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:52:29 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($21.12 in chips) 
+Seat 6: AtoGoldstein ($12.06 in chips) 
+Britss: posts small blind $0.05
+Vjbajo171 leaves the table
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+Uncalled bet ($0.05) returned to AtoGoldstein
+AtoGoldstein collected $0.10 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Britss (button) (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222970519093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:52:34 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($21.07 in chips) 
+Seat 6: AtoGoldstein ($12.11 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: raises $0.65 to $0.90
+AtoGoldstein: calls $0.65
+*** FLOP *** [4h Ts 5s]
+Britss: bets $1.30
+AtoGoldstein: calls $1.30
+*** TURN *** [4h Ts 5s] [6d]
+Britss: checks 
+AtoGoldstein: checks 
+*** RIVER *** [4h Ts 5s 6d] [3c]
+Britss: checks 
+AtoGoldstein: checks 
+*** SHOW DOWN ***
+Britss: shows [Jh As] (high card Ace)
+AtoGoldstein: shows [9s 9d] (a pair of Nines)
+AtoGoldstein collected $4.20 from pot
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.20 
+Board [4h Ts 5s 6d 3c]
+Seat 3: Britss (big blind) showed [Jh As] and lost with high card Ace
+Seat 6: AtoGoldstein (button) (small blind) showed [9s 9d] and won ($4.20) with a pair of Nines
+
+
+
+PokerStars Hand #222970556497:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:18 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($18.87 in chips) 
+Seat 6: AtoGoldstein ($14.11 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.20 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (button) (small blind) collected ($0.20)
+Seat 6: AtoGoldstein (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970562982:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:26 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($18.97 in chips) 
+Seat 6: AtoGoldstein ($14.01 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970568728:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:33 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($18.87 in chips) 
+Seat 6: AtoGoldstein ($14.11 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: raises $0.60 to $0.90
+Britss: calls $0.60
+*** FLOP *** [9c 6h 8d]
+AtoGoldstein: bets $0.57
+Britss: folds 
+Uncalled bet ($0.57) returned to AtoGoldstein
+AtoGoldstein collected $1.72 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [9c 6h 8d]
+Seat 3: Britss (button) (small blind) folded on the Flop
+Seat 6: AtoGoldstein (big blind) collected ($1.72)
+
+
+
+PokerStars Hand #222970583204:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:50 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($17.97 in chips) 
+Seat 6: AtoGoldstein ($14.93 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970590024:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:59 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($17.87 in chips) 
+Seat 6: AtoGoldstein ($15.03 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.20 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (button) (small blind) collected ($0.20)
+Seat 6: AtoGoldstein (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970595713:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:54:05 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($17.97 in chips) 
+Seat 6: AtoGoldstein ($14.93 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: folds 
+Uncalled bet ($0.15) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970601014:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:54:12 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($17.87 in chips) 
+Seat 6: AtoGoldstein ($15.03 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: raises $0.80 to $1.10
+Britss: raises $2.10 to $3.20
+AtoGoldstein: folds 
+Uncalled bet ($2.10) returned to Britss
+Britss collected $2.20 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.20 | Rake $0 
+Seat 3: Britss (button) (small blind) collected ($2.20)
+Seat 6: AtoGoldstein (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970622122:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:54:37 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($18.97 in chips) 
+Seat 6: AtoGoldstein ($13.93 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: calls $0.15
+*** FLOP *** [Tc 7s 3d]
+Britss: checks 
+AtoGoldstein: bets $0.24
+Britss: calls $0.24
+*** TURN *** [Tc 7s 3d] [3s]
+Britss: bets $0.70
+AtoGoldstein: folds 
+Uncalled bet ($0.70) returned to Britss
+Britss collected $0.94 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Tc 7s 3d 3s]
+Seat 3: Britss (big blind) collected ($0.94)
+Seat 6: AtoGoldstein (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222970642363:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:02 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($19.42 in chips) 
+Seat 6: AtoGoldstein ($13.44 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: calls $0.05
+AtoGoldstein: checks 
+*** FLOP *** [7s 4h 4s]
+AtoGoldstein: checks 
+Britss: checks 
+*** TURN *** [7s 4h 4s] [5h]
+AtoGoldstein: bets $0.25
+Britss: calls $0.25
+*** RIVER *** [7s 4h 4s 5h] [Qs]
+AtoGoldstein: bets $0.87
+Britss: folds 
+Uncalled bet ($0.87) returned to AtoGoldstein
+AtoGoldstein collected $0.67 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7s 4h 4s 5h Qs]
+Seat 3: Britss (button) (small blind) folded on the River
+Seat 6: AtoGoldstein (big blind) collected ($0.67)
+
+
+
+PokerStars Hand #222970656874:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:25 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($19.07 in chips) 
+Seat 6: AtoGoldstein ($13.76 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: calls $0.15
+*** FLOP *** [Td Ks 9d]
+Britss: checks 
+AtoGoldstein: bets $0.16
+Britss: calls $0.16
+*** TURN *** [Td Ks 9d] [8d]
+Britss: bets $0.60
+AtoGoldstein: folds 
+Uncalled bet ($0.60) returned to Britss
+Britss collected $0.78 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [Td Ks 9d 8d]
+Seat 3: Britss (big blind) collected ($0.78)
+Seat 6: AtoGoldstein (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222970670742:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:50 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($19.44 in chips) 
+Seat 6: AtoGoldstein ($13.35 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: folds 
+Uncalled bet ($0.05) returned to AtoGoldstein
+AtoGoldstein collected $0.10 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Britss (button) (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222970673113:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:54 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($19.39 in chips) 
+Seat 6: AtoGoldstein ($13.40 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: calls $0.15
+*** FLOP *** [Td 3d 4d]
+Britss: checks 
+AtoGoldstein: bets $0.24
+Britss: folds 
+Uncalled bet ($0.24) returned to AtoGoldstein
+AtoGoldstein collected $0.48 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Td 3d 4d]
+Seat 3: Britss (big blind) folded on the Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.48)
+
+
+
+PokerStars Hand #222970688393:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:56:12 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($19.14 in chips) 
+Seat 6: AtoGoldstein ($13.63 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: calls $0.05
+AtoGoldstein: raises $0.20 to $0.30
+Britss: calls $0.20
+*** FLOP *** [Td 4d 3s]
+AtoGoldstein: bets $0.29
+Britss: raises $0.61 to $0.90
+AtoGoldstein: calls $0.61
+*** TURN *** [Td 4d 3s] [4c]
+AtoGoldstein: checks 
+Britss: bets $1.60
+AtoGoldstein: calls $1.60
+*** RIVER *** [Td 4d 3s 4c] [6h]
+AtoGoldstein: checks 
+Britss: bets $2.40
+AtoGoldstein: calls $2.40
+*** SHOW DOWN ***
+Britss: shows [Jc Jd] (two pair, Jacks and Fours)
+AtoGoldstein: mucks hand 
+Britss collected $9.93 from pot
+*** SUMMARY ***
+Total pot $10.40 | Rake $0.47 
+Board [Td 4d 3s 4c 6h]
+Seat 3: Britss (button) (small blind) showed [Jc Jd] and won ($9.93) with two pair, Jacks and Fours
+Seat 6: AtoGoldstein (big blind) mucked
+
+
+
+PokerStars Hand #222970714695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:56:59 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($23.87 in chips) 
+Seat 6: AtoGoldstein ($10 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.20 to $0.30
+Britss: folds 
+Uncalled bet ($0.20) returned to AtoGoldstein
+AtoGoldstein collected $0.20 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (big blind) folded before Flop
+Seat 6: AtoGoldstein (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970723190:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:13 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($23.77 in chips) 
+Seat 6: AtoGoldstein ($10.10 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: folds 
+Uncalled bet ($0.20) returned to Britss
+Britss collected $0.20 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Britss (button) (small blind) collected ($0.20)
+Seat 6: AtoGoldstein (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970727366:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:21 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($23.87 in chips) 
+Seat 6: AtoGoldstein ($10 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: raises $0.50 to $0.75
+AtoGoldstein: folds 
+Uncalled bet ($0.50) returned to Britss
+Britss collected $0.50 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Britss (big blind) collected ($0.50)
+Seat 6: AtoGoldstein (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970733638:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:32 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($24.12 in chips) 
+Seat 6: AtoGoldstein ($10 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: raises $0.80 to $1.10
+Britss: raises $23.02 to $24.12 and is all-in
+AtoGoldstein: calls $8.90 and is all-in
+Uncalled bet ($14.12) returned to Britss
+*** FLOP *** [Tc Th 6d]
+*** TURN *** [Tc Th 6d] [9s]
+*** RIVER *** [Tc Th 6d 9s] [Js]
+*** SHOW DOWN ***
+AtoGoldstein: shows [Kd Qc] (a straight, Nine to King)
+Britss: shows [Ad Ks] (a pair of Tens)
+AtoGoldstein collected $19.50 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0.50 
+Board [Tc Th 6d 9s Js]
+Seat 3: Britss (button) (small blind) showed [Ad Ks] and lost with a pair of Tens
+Seat 6: AtoGoldstein (big blind) showed [Kd Qc] and won ($19.50) with a straight, Nine to King
+
+
+
+PokerStars Hand #222970746404:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:54 ET
+Table 'Helewalda II' 6-max Seat #6 is the button
+Seat 3: Britss ($14.12 in chips) 
+Seat 6: AtoGoldstein ($19.50 in chips) 
+AtoGoldstein: posts small blind $0.05
+Britss: posts big blind $0.10
+*** HOLE CARDS ***
+AtoGoldstein: raises $0.15 to $0.25
+Britss: raises $13.87 to $14.12 and is all-in
+AtoGoldstein: folds 
+Uncalled bet ($13.87) returned to Britss
+Britss collected $0.50 from pot
+Britss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Britss (big blind) collected ($0.50)
+Seat 6: AtoGoldstein (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970753780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:58:07 ET
+Table 'Helewalda II' 6-max Seat #3 is the button
+Seat 3: Britss ($14.37 in chips) 
+Seat 6: AtoGoldstein ($19.25 in chips) 
+Britss: posts small blind $0.05
+AtoGoldstein: posts big blind $0.10
+*** HOLE CARDS ***
+Britss: raises $0.20 to $0.30
+AtoGoldstein: raises $18.95 to $19.25 and is all-in
+Britss: folds 
+Uncalled bet ($18.95) returned to AtoGoldstein
+AtoGoldstein collected $0.60 from pot
+AtoGoldstein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: Britss (button) (small blind) folded before Flop
+Seat 6: AtoGoldstein (big blind) collected ($0.60)
+
+
+

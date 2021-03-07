@@ -1,0 +1,4615 @@
+﻿PokerStars Hand #222973015737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:25 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: bagemono23 ($7.32 in chips) 
+Seat 2: GoodmanAR ($15.56 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.22 in chips) 
+Seat 6: MrHuntery ($32.78 in chips) 
+bagemono23: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: folds 
+MrHuntery: folds 
+bagemono23: calls $0.05
+GoodmanAR: raises $0.40 to $0.50
+bagemono23: calls $0.40
+*** FLOP *** [Js 2h Th]
+bagemono23: bets $0.48
+GoodmanAR: calls $0.48
+*** TURN *** [Js 2h Th] [Jd]
+bagemono23: bets $0.50
+GoodmanAR: calls $0.50
+*** RIVER *** [Js 2h Th Jd] [3h]
+bagemono23: bets $1.41
+GoodmanAR: folds 
+Uncalled bet ($1.41) returned to bagemono23
+bagemono23 collected $2.83 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.96 | Rake $0.13 
+Board [Js 2h Th Jd 3h]
+Seat 1: bagemono23 (small blind) collected ($2.83)
+Seat 2: GoodmanAR (big blind) folded on the River
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973070597:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:44:32 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: bagemono23 ($8.67 in chips) 
+Seat 2: GoodmanAR ($14.08 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.22 in chips) 
+Seat 6: MrHuntery ($32.78 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+bagemono23: calls $0.10
+GoodmanAR: folds 
+SchuhaRt71: checks 
+*** FLOP *** [2d Ac 7s]
+SchuhaRt71: checks 
+oohmenuts: checks 
+bagemono23: checks 
+*** TURN *** [2d Ac 7s] [As]
+SchuhaRt71: checks 
+oohmenuts: checks 
+bagemono23: checks 
+*** RIVER *** [2d Ac 7s As] [9d]
+SchuhaRt71: checks 
+oohmenuts: bets $0.33
+bagemono23: calls $0.33
+SchuhaRt71: folds 
+*** SHOW DOWN ***
+oohmenuts: shows [Ad 8h] (three of a kind, Aces)
+bagemono23: mucks hand 
+oohmenuts collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.05 
+Board [2d Ac 7s As 9d]
+Seat 1: bagemono23 (button) mucked
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded on the River
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts showed [Ad 8h] and won ($0.96) with three of a kind, Aces
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973124279:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:45:37 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: bagemono23 ($8.24 in chips) 
+Seat 2: GoodmanAR ($14.03 in chips) 
+Seat 3: SchuhaRt71 ($11.26 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.75 in chips) 
+Seat 6: MrHuntery ($32.78 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: calls $0.10
+MrHuntery: folds 
+bagemono23: calls $0.10
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: checks 
+*** FLOP *** [2h Kd 9s]
+AAAcostA: checks 
+oohmenuts: checks 
+bagemono23: bets $0.33
+AAAcostA: folds 
+oohmenuts: folds 
+Uncalled bet ($0.33) returned to bagemono23
+bagemono23 collected $0.33 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [2h Kd 9s]
+Seat 1: bagemono23 collected ($0.33)
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) folded on the Flop
+Seat 5: oohmenuts folded on the Flop
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973176500:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:40 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: bagemono23 ($8.47 in chips) 
+Seat 2: GoodmanAR ($14.03 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.65 in chips) 
+Seat 6: MrHuntery ($32.78 in chips) 
+AAAcostA: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: folds 
+bagemono23: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+Uncalled bet ($0.05) returned to oohmenuts
+oohmenuts collected $0.10 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bagemono23 folded before Flop (didn't bet)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: oohmenuts (big blind) collected ($0.10)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973185899:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:46:51 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: bagemono23 ($8.47 in chips) 
+Seat 2: GoodmanAR ($14.03 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.70 in chips) 
+Seat 6: MrHuntery ($32.78 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+bagemono23: calls $0.10
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.05
+MrHuntery: raises $0.50 to $0.60
+bagemono23: calls $0.50
+oohmenuts: calls $0.50
+*** FLOP *** [4d As 9s]
+oohmenuts: checks 
+MrHuntery: bets $1.05
+bagemono23: folds 
+oohmenuts: calls $1.05
+*** TURN *** [4d As 9s] [Kc]
+oohmenuts: checks 
+MrHuntery: bets $2.16
+oohmenuts: raises $2.16 to $4.32
+MrHuntery: raises $9.64 to $13.96
+oohmenuts: calls $2.73 and is all-in
+Uncalled bet ($6.91) returned to MrHuntery
+*** RIVER *** [4d As 9s Kc] [7s]
+*** SHOW DOWN ***
+oohmenuts: shows [Ah 6d] (a pair of Aces)
+MrHuntery: shows [Ac Qd] (a pair of Aces - King+Queen kicker)
+oohmenuts cashed out the hand for $2.33 | Cash Out Fee $0.02
+MrHuntery cashed out the hand for $14.69 | Cash Out Fee $0.15
+*** SUMMARY ***
+Total pot $18 | Rake $0.81 
+Board [4d As 9s Kc 7s]
+Seat 1: bagemono23 folded on the Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: oohmenuts (small blind) showed [Ah 6d] and lost with a pair of Aces (cashed out).
+Seat 6: MrHuntery (big blind) showed [Ac Qd] and won ($17.19) with a pair of Aces (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222973247910:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:48:05 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: bagemono23 ($7.87 in chips) 
+Seat 2: GoodmanAR ($14.03 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($2.33 in chips) 
+Seat 6: MrHuntery ($38.77 in chips) 
+MrHuntery: posts small blind $0.05
+bagemono23: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: raises $0.20 to $0.30
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: raises $0.20 to $0.50
+MrHuntery: folds 
+bagemono23: folds 
+GoodmanAR: calls $0.20
+*** FLOP *** [Qh 2h 2d]
+GoodmanAR: checks 
+oohmenuts: bets $1.10
+GoodmanAR: calls $1.10
+*** TURN *** [Qh 2h 2d] [Qs]
+GoodmanAR: checks 
+oohmenuts: bets $0.73 and is all-in
+GoodmanAR: calls $0.73
+*** RIVER *** [Qh 2h 2d Qs] [9d]
+*** SHOW DOWN ***
+GoodmanAR: shows [2c Ac] (a full house, Deuces full of Queens)
+oohmenuts: shows [Qd As] (a full house, Queens full of Deuces)
+AAAcostA is disconnected 
+oohmenuts collected $4.59 from pot
+*** SUMMARY ***
+Total pot $4.81 | Rake $0.22 
+Board [Qh 2h 2d Qs 9d]
+Seat 1: bagemono23 (big blind) folded before Flop
+Seat 2: GoodmanAR showed [2c Ac] and lost with a full house, Deuces full of Queens
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) showed [Qd As] and won ($4.59) with a full house, Queens full of Deuces
+Seat 6: MrHuntery (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973297239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:49:03 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: bagemono23 ($7.77 in chips) 
+Seat 2: GoodmanAR ($11.70 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.59 in chips) 
+Seat 6: MrHuntery ($38.72 in chips) 
+bagemono23: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA has timed out while disconnected
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+bagemono23: calls $0.05
+GoodmanAR: raises $0.50 to $0.60
+oohmenuts: calls $0.50
+bagemono23: calls $0.50
+*** FLOP *** [9c 3d 8c]
+bagemono23: checks 
+GoodmanAR: bets $0.57
+oohmenuts: folds 
+bagemono23: calls $0.57
+*** TURN *** [9c 3d 8c] [8d]
+bagemono23: checks 
+GoodmanAR: checks 
+*** RIVER *** [9c 3d 8c 8d] [4s]
+bagemono23: bets $1.40
+GoodmanAR: folds 
+Uncalled bet ($1.40) returned to bagemono23
+bagemono23 collected $2.81 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.13 
+Board [9c 3d 8c 8d 4s]
+Seat 1: bagemono23 (small blind) collected ($2.81)
+Seat 2: GoodmanAR (big blind) folded on the River
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded on the Flop
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973361662:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:50:20 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: bagemono23 ($9.41 in chips) 
+Seat 2: GoodmanAR ($10.53 in chips) 
+Seat 5: oohmenuts ($3.99 in chips) 
+Seat 6: MrHuntery ($38.72 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: is sitting out 
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: raises $0.20 to $0.30
+bagemono23: calls $0.30
+GoodmanAR: folds 
+oohmenuts: calls $0.20
+*** FLOP *** [Ts 9h Qh]
+oohmenuts: checks 
+MrHuntery: bets $0.53
+bagemono23: calls $0.53
+oohmenuts: folds 
+*** TURN *** [Ts 9h Qh] [8c]
+MrHuntery: bets $0.73
+bagemono23: folds 
+Uncalled bet ($0.73) returned to MrHuntery
+MrHuntery collected $1.92 from pot
+*** SUMMARY ***
+Total pot $2.01 | Rake $0.09 
+Board [Ts 9h Qh 8c]
+Seat 1: bagemono23 (button) folded on the Turn
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 5: oohmenuts (big blind) folded on the Flop
+Seat 6: MrHuntery collected ($1.92)
+
+
+
+PokerStars Hand #222973388059:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:50:52 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: bagemono23 ($8.58 in chips) 
+Seat 2: GoodmanAR ($10.48 in chips) 
+Seat 5: oohmenuts ($3.69 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: is sitting out 
+bagemono23: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery leaves the table
+GoodmanAR: folds 
+oohmenuts: calls $0.05
+bagemono23: checks 
+*** FLOP *** [7s 2s Ad]
+oohmenuts: checks 
+willmig joins the table at seat #6 
+bagemono23: bets $0.10
+oohmenuts: calls $0.10
+*** TURN *** [7s 2s Ad] [Js]
+oohmenuts: checks 
+bagemono23: bets $0.38
+oohmenuts: folds 
+Uncalled bet ($0.38) returned to bagemono23
+bagemono23 collected $0.38 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [7s 2s Ad Js]
+Seat 1: bagemono23 (big blind) collected ($0.38)
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 5: oohmenuts (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222973417481:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:51:27 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: bagemono23 ($8.76 in chips) 
+Seat 2: GoodmanAR ($10.48 in chips) 
+Seat 5: oohmenuts ($3.49 in chips) 
+bagemono23: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+AAAcostA: sits out 
+*** HOLE CARDS ***
+oohmenuts: folds 
+oohmenuts leaves the table
+bagemono23: calls $0.05
+GoodmanAR: checks 
+*** FLOP *** [Qs Jh 8s]
+bagemono23: checks 
+GoodmanAR: checks 
+*** TURN *** [Qs Jh 8s] [Ad]
+maltsevig joins the table at seat #5 
+bagemono23: checks 
+GoodmanAR: checks 
+*** RIVER *** [Qs Jh 8s Ad] [3s]
+maltsevig leaves the table
+bagemono23: bets $0.19
+Lucky HoBBiT joins the table at seat #5 
+GoodmanAR: folds 
+Uncalled bet ($0.19) returned to bagemono23
+bagemono23 collected $0.19 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qs Jh 8s Ad 3s]
+Seat 1: bagemono23 (small blind) collected ($0.19)
+Seat 2: GoodmanAR (big blind) folded on the River
+Seat 5: oohmenuts (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973452217:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:52:08 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: bagemono23 ($8.85 in chips) 
+Seat 2: GoodmanAR ($10.38 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 6: willmig ($10 in chips) 
+GoodmanAR: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+Lucky HoBBiT: sits out 
+willmig: posts big blind $0.10
+*** HOLE CARDS ***
+willmig: checks 
+bagemono23: raises $0.35 to $0.45
+GoodmanAR: folds 
+AAAcostA: folds 
+willmig: calls $0.35
+*** FLOP *** [6s Qc 6c]
+willmig: checks 
+bagemono23: bets $1
+willmig: calls $1
+*** TURN *** [6s Qc 6c] [8s]
+willmig: checks 
+bagemono23: bets $2.91
+willmig: folds 
+Uncalled bet ($2.91) returned to bagemono23
+bagemono23 collected $2.91 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.14 
+Board [6s Qc 6c 8s]
+Seat 1: bagemono23 (button) collected ($2.91)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) folded before Flop
+Seat 6: willmig folded on the Turn
+
+
+
+PokerStars Hand #222973487832:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:52:51 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: bagemono23 ($10.31 in chips) 
+Seat 2: GoodmanAR ($10.33 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($8.55 in chips) 
+AAAcostA: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+willmig: calls $0.10
+bagemono23: calls $0.10
+GoodmanAR: folds 
+AAAcostA: folds 
+Lucky HoBBiT: checks 
+*** FLOP *** [9s 2h Ts]
+Lucky HoBBiT: checks 
+willmig: bets $0.33
+bagemono23: folds 
+Lucky HoBBiT: raises $0.99 to $1.32
+willmig: calls $0.99
+*** TURN *** [9s 2h Ts] [2s]
+Lucky HoBBiT: checks 
+willmig: checks 
+*** RIVER *** [9s 2h Ts 2s] [4c]
+Lucky HoBBiT: checks 
+willmig: checks 
+*** SHOW DOWN ***
+Lucky HoBBiT: shows [Th 9d] (two pair, Tens and Nines)
+willmig: mucks hand 
+Lucky HoBBiT collected $2.86 from pot
+bagemono23 leaves the table
+*** SUMMARY ***
+Total pot $2.99 | Rake $0.13 
+Board [9s 2h Ts 2s 4c]
+Seat 1: bagemono23 folded on the Flop
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) showed [Th 9d] and won ($2.86) with two pair, Tens and Nines
+Seat 6: willmig mucked
+
+
+
+PokerStars Hand #222973520877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:53:31 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 2: GoodmanAR ($10.33 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($11.44 in chips) 
+Seat 6: willmig ($7.13 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+willmig: posts big blind $0.10
+SchuhaRt71: sits out 
+*** HOLE CARDS ***
+GoodmanAR: folds 
+blacking#013 joins the table at seat #1 
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.05) returned to willmig
+willmig collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: willmig (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222973534594:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:53:47 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($10 in chips) 
+Seat 2: GoodmanAR ($10.33 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($11.39 in chips) 
+Seat 6: willmig ($7.18 in chips) 
+willmig: posts small blind $0.05
+blacking#013: posts big blind $0.10
+SchuhaRt71: sits out 
+*** HOLE CARDS ***
+GoodmanAR: raises $0.20 to $0.30
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: calls $0.25
+blacking#013: folds 
+*** FLOP *** [9c 8c 7d]
+willmig: checks 
+GoodmanAR: bets $0.22
+willmig: folds 
+Uncalled bet ($0.22) returned to GoodmanAR
+GoodmanAR collected $0.67 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [9c 8c 7d]
+Seat 1: blacking#013 (big blind) folded before Flop
+Seat 2: GoodmanAR collected ($0.67)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 6: willmig (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222973551903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:54:08 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: blacking#013 ($9.90 in chips) 
+Seat 2: GoodmanAR ($10.70 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($11.39 in chips) 
+Seat 6: willmig ($6.88 in chips) 
+blacking#013: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+SchuhaRt71: sits out 
+*** HOLE CARDS ***
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: raises $0.25 to $0.35
+blacking#013: raises $0.55 to $0.90
+GoodmanAR: folds 
+willmig: raises $5.98 to $6.88 and is all-in
+blacking#013: folds 
+Uncalled bet ($5.98) returned to willmig
+willmig collected $1.90 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0 
+Seat 1: blacking#013 (small blind) folded before Flop
+Seat 2: GoodmanAR (big blind) folded before Flop
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig (button) collected ($1.90)
+
+
+
+PokerStars Hand #222973578241:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:54:40 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($9 in chips) 
+Seat 2: GoodmanAR ($10.60 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($11.39 in chips) 
+Seat 6: willmig ($7.88 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: raises $0.20 to $0.30
+blacking#013: raises $0.50 to $0.80
+GoodmanAR: folds 
+SchuhaRt71: folds 
+willmig: calls $0.50
+*** FLOP *** [Ts 7c 4c]
+willmig: checks 
+blacking#013: bets $0.84
+willmig: folds 
+Uncalled bet ($0.84) returned to blacking#013
+blacking#013 collected $1.67 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Ts 7c 4c]
+Seat 1: blacking#013 (button) collected ($1.67)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig folded on the Flop
+
+
+
+PokerStars Hand #222973606983:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:55:16 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: blacking#013 ($9.87 in chips) 
+Seat 2: GoodmanAR ($10.55 in chips) 
+Seat 3: SchuhaRt71 ($11.11 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($11.39 in chips) 
+Seat 6: willmig ($7.08 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+willmig: raises $0.10 to $0.20
+blacking#013: raises $0.40 to $0.60
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+willmig: raises $6.48 to $7.08 and is all-in
+blacking#013: calls $6.48
+*** FLOP *** [2s Jd Ad]
+*** TURN *** [2s Jd Ad] [9d]
+*** RIVER *** [2s Jd Ad 9d] [8d]
+*** SHOW DOWN ***
+willmig: shows [Js Kd] (a flush, Ace high)
+blacking#013: shows [7h Ah] (a pair of Aces)
+willmig collected $13.67 from pot
+blacking#013 cashed out the hand for $8.13 | Cash Out Fee $0.08
+*** SUMMARY ***
+Total pot $14.31 | Rake $0.64 
+Board [2s Jd Ad 9d 8d]
+Seat 1: blacking#013 showed [7h Ah] and lost with a pair of Aces (cashed out).
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) folded before Flop
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig showed [Js Kd] and won ($13.67) with a flush, Ace high
+
+
+
+PokerStars Hand #222973622175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:55:43 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($10.92 in chips) 
+Seat 2: GoodmanAR ($10.55 in chips) 
+Seat 3: SchuhaRt71 ($11.06 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($11.39 in chips) 
+Seat 6: willmig ($13.67 in chips) 
+AAAcostA: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+willmig: folds 
+blacking#013: raises $0.20 to $0.30
+GoodmanAR: folds 
+SchuhaRt71: calls $0.30
+AAAcostA: folds 
+Lucky HoBBiT: raises $1.10 to $1.40
+blacking#013: calls $1.10
+SchuhaRt71: folds 
+*** FLOP *** [2d 7h Ad]
+Lucky HoBBiT: checks 
+blacking#013: checks 
+*** TURN *** [2d 7h Ad] [6d]
+Lucky HoBBiT: bets $1.20
+blacking#013: raises $1.20 to $2.40
+Lucky HoBBiT: calls $1.20
+*** RIVER *** [2d 7h Ad 6d] [5c]
+Lucky HoBBiT: checks 
+blacking#013: bets $7.12 and is all-in
+Lucky HoBBiT: folds 
+Uncalled bet ($7.12) returned to blacking#013
+blacking#013 collected $7.59 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.95 | Rake $0.36 
+Board [2d 7h Ad 6d 5c]
+Seat 1: blacking#013 collected ($7.59)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded on the River
+Seat 6: willmig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973650007:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:33 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: blacking#013 ($14.71 in chips) 
+Seat 2: GoodmanAR ($10.55 in chips) 
+Seat 3: SchuhaRt71 ($10.76 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.67 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+willmig: posts big blind $0.10
+*** HOLE CARDS ***
+blacking#013: calls $0.10
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: checks 
+*** FLOP *** [Td Qs Kh]
+willmig: checks 
+blacking#013: checks 
+*** TURN *** [Td Qs Kh] [3h]
+willmig: checks 
+blacking#013: bets $0.12
+willmig: folds 
+Uncalled bet ($0.12) returned to blacking#013
+blacking#013 collected $0.24 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Td Qs Kh 3h]
+Seat 1: blacking#013 collected ($0.24)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: willmig (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222973662745:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:56:55 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($14.85 in chips) 
+Seat 2: GoodmanAR ($10.55 in chips) 
+Seat 3: SchuhaRt71 ($10.76 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.57 in chips) 
+willmig: posts small blind $0.05
+blacking#013: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: folds 
+Uncalled bet ($0.05) returned to blacking#013
+blacking#013 collected $0.10 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: blacking#013 (big blind) collected ($0.10)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 6: willmig (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973671855:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:10 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: blacking#013 ($14.90 in chips) 
+Seat 2: GoodmanAR ($10.55 in chips) 
+Seat 3: SchuhaRt71 ($10.76 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.52 in chips) 
+blacking#013: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: raises $0.10 to $0.20
+blacking#013: calls $0.15
+GoodmanAR: calls $0.10
+*** FLOP *** [Kd 6h 7c]
+blacking#013: checks 
+GoodmanAR: checks 
+willmig: bets $0.28
+blacking#013: folds 
+GoodmanAR: folds 
+Uncalled bet ($0.28) returned to willmig
+willmig collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Kd 6h 7c]
+Seat 1: blacking#013 (small blind) folded on the Flop
+Seat 2: GoodmanAR (big blind) folded on the Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig (button) collected ($0.57)
+
+
+
+PokerStars Hand #222973694418:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:50 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($14.70 in chips) 
+Seat 2: GoodmanAR ($10.35 in chips) 
+Seat 3: SchuhaRt71 ($10.76 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.89 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: raises $0.20 to $0.30
+Lucky HoBBiT: folds 
+willmig: folds 
+blacking#013: folds 
+GoodmanAR: folds 
+SchuhaRt71: calls $0.20
+*** FLOP *** [Kc Qc 4d]
+SchuhaRt71: checks 
+AAAcostA: bets $0.19
+SchuhaRt71: calls $0.19
+*** TURN *** [Kc Qc 4d] [As]
+SchuhaRt71: checks 
+AAAcostA: bets $0.74
+SchuhaRt71: folds 
+Uncalled bet ($0.74) returned to AAAcostA
+AAAcostA collected $0.98 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [Kc Qc 4d As]
+Seat 1: blacking#013 (button) folded before Flop (didn't bet)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded on the Turn
+Seat 4: AAAcostA collected ($0.98)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973710491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:17 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: blacking#013 ($14.70 in chips) 
+Seat 2: GoodmanAR ($10.30 in chips) 
+Seat 3: SchuhaRt71 ($10.27 in chips) 
+Seat 4: AAAcostA ($10.49 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.89 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+willmig: folds 
+blacking#013: folds 
+GoodmanAR: raises $0.15 to $0.25
+SchuhaRt71: folds 
+AAAcostA: calls $0.15
+*** FLOP *** [4c 2h 5c]
+AAAcostA: checks 
+GoodmanAR: checks 
+*** TURN *** [4c 2h 5c] [9s]
+AAAcostA: bets $0.40
+GoodmanAR: calls $0.40
+*** RIVER *** [4c 2h 5c 9s] [4h]
+AAAcostA: bets $0.39
+GoodmanAR: calls $0.39
+*** SHOW DOWN ***
+AAAcostA: shows [9c Ts] (two pair, Nines and Fours)
+GoodmanAR: shows [Kc 9d] (two pair, Nines and Fours - King kicker)
+GoodmanAR collected $2.03 from pot
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.10 
+Board [4c 2h 5c 9s 4h]
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: GoodmanAR (button) showed [Kc 9d] and won ($2.03) with two pair, Nines and Fours
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) showed [9c Ts] and lost with two pair, Nines and Fours
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973736690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:02 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($14.70 in chips) 
+Seat 2: GoodmanAR ($11.29 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.89 in chips) 
+AAAcostA: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+willmig: raises $0.10 to $0.20
+blacking#013: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.10) returned to willmig
+willmig collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded before Flop
+Seat 6: willmig collected ($0.25)
+
+
+
+PokerStars Hand #222973742171:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:12 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: blacking#013 ($14.70 in chips) 
+Seat 2: GoodmanAR ($11.29 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($14.04 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+willmig: posts big blind $0.10
+*** HOLE CARDS ***
+blacking#013: raises $0.10 to $0.20
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: raises $0.70 to $0.90
+Lucky HoBBiT: folds 
+willmig: folds 
+blacking#013: calls $0.70
+*** FLOP *** [9d 6d Kc]
+blacking#013: checks 
+AAAcostA: bets $1.40
+blacking#013: raises $1.40 to $2.80
+AAAcostA: calls $1.40
+*** TURN *** [9d 6d Kc] [4s]
+blacking#013: bets $1.82
+AAAcostA: raises $4.48 to $6.30 and is all-in
+blacking#013: calls $4.48
+*** RIVER *** [9d 6d Kc 4s] [Ks]
+*** SHOW DOWN ***
+blacking#013: shows [8h Kd] (three of a kind, Kings)
+AAAcostA: shows [Qh Kh] (three of a kind, Kings - Queen kicker)
+AAAcostA collected $19.24 from pot
+blacking#013 cashed out the hand for $1.31 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [9d 6d Kc 4s Ks]
+Seat 1: blacking#013 showed [8h Kd] and lost with three of a kind, Kings (cashed out).
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) showed [Qh Kh] and won ($19.24) with three of a kind, Kings
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: willmig (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973764435:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:50 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($6.01 in chips) 
+Seat 2: GoodmanAR ($11.29 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($19.24 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($13.94 in chips) 
+willmig: posts small blind $0.05
+blacking#013: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: raises $0.20 to $0.30
+Lucky HoBBiT: folds 
+willmig: calls $0.25
+blacking#013: calls $0.20
+*** FLOP *** [Th Tc 7s]
+willmig: checks 
+blacking#013: checks 
+AAAcostA: bets $0.46
+willmig: raises $0.46 to $0.92
+blacking#013: folds 
+AAAcostA: calls $0.46
+*** TURN *** [Th Tc 7s] [Qd]
+willmig: checks 
+AAAcostA: bets $3.93
+willmig: folds 
+Uncalled bet ($3.93) returned to AAAcostA
+AAAcostA collected $2.62 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.74 | Rake $0.12 
+Board [Th Tc 7s Qd]
+Seat 1: blacking#013 (big blind) folded on the Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA collected ($2.62)
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 6: willmig (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222973789344:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:30 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: blacking#013 ($5.71 in chips) 
+Seat 2: GoodmanAR ($11.29 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($20.64 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($12.72 in chips) 
+blacking#013: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+willmig: calls $0.25
+blacking#013: folds 
+GoodmanAR: folds 
+*** FLOP *** [5h 8h 2c]
+Lucky HoBBiT: bets $0.42
+willmig: calls $0.42
+*** TURN *** [5h 8h 2c] [9h]
+Lucky HoBBiT: checks 
+willmig: bets $1.42
+Lucky HoBBiT: calls $1.42
+*** RIVER *** [5h 8h 2c 9h] [Kc]
+Lucky HoBBiT: checks 
+willmig: bets $4.14
+Lucky HoBBiT: calls $4.14
+*** SHOW DOWN ***
+willmig: shows [9s 8d] (two pair, Nines and Eights)
+Lucky HoBBiT: mucks hand 
+willmig collected $12.04 from pot
+*** SUMMARY ***
+Total pot $12.61 | Rake $0.57 
+Board [5h 8h 2c 9h Kc]
+Seat 1: blacking#013 (small blind) folded before Flop
+Seat 2: GoodmanAR (big blind) folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT mucked
+Seat 6: willmig (button) showed [9s 8d] and won ($12.04) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #222973805958:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:55 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($5.66 in chips) 
+Seat 2: GoodmanAR ($11.19 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($20.64 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($18.53 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+willmig: folds 
+blacking#013: folds 
+GoodmanAR: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: blacking#013 (button) folded before Flop (didn't bet)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) collected ($0.10)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: willmig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973814637:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:07 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: blacking#013 ($5.66 in chips) 
+Seat 2: GoodmanAR ($11.14 in chips) 
+Seat 3: SchuhaRt71 ($10.27 in chips) 
+Seat 4: AAAcostA ($20.64 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: willmig ($18.53 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: raises $0.20 to $0.30
+willmig: folds 
+blacking#013: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: calls $0.20
+*** FLOP *** [Jd 9h Kd]
+AAAcostA: checks 
+willmig leaves the table
+Lucky HoBBiT: checks 
+*** TURN *** [Jd 9h Kd] [6c]
+AAAcostA: bets $0.47
+Lucky HoBBiT: calls $0.47
+*** RIVER *** [Jd 9h Kd 6c] [5d]
+AAAcostA: bets $1.14
+Lucky HoBBiT: folds 
+Uncalled bet ($1.14) returned to AAAcostA
+AAAcostA collected $1.52 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.07 
+Board [Jd 9h Kd 6c 5d]
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) collected ($1.52)
+Seat 5: Lucky HoBBiT folded on the River
+Seat 6: willmig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973840780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:41 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($5.66 in chips) 
+Seat 2: GoodmanAR ($11.14 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($21.39 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+AAAcostA: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+blacking#013: raises $0.20 to $0.30
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.20) returned to blacking#013
+blacking#013 collected $0.25 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: blacking#013 collected ($0.25)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973854880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:58 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: blacking#013 ($5.81 in chips) 
+Seat 2: GoodmanAR ($11.14 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($21.34 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+blacking#013: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: raises $0.20 to $0.30
+SchuhaRt71: folds 
+AAAcostA: folds 
+Lucky HoBBiT: raises $0.66 to $0.96
+blacking#013: calls $0.86
+GoodmanAR: folds 
+*** FLOP *** [Ts 3c 3d]
+Lucky HoBBiT: checks 
+blacking#013: checks 
+*** TURN *** [Ts 3c 3d] [4h]
+Lucky HoBBiT: checks 
+blacking#013: bets $1.06
+Lucky HoBBiT: folds 
+Uncalled bet ($1.06) returned to blacking#013
+blacking#013 collected $2.12 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.22 | Rake $0.10 
+Board [Ts 3c 3d 4h]
+Seat 1: blacking#013 (big blind) collected ($2.12)
+Seat 2: GoodmanAR folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222973884401:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:02:34 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($6.97 in chips) 
+Seat 3: SchuhaRt71 ($10.22 in chips) 
+Seat 4: AAAcostA ($21.34 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+blacking#013: posts small blind $0.05
+GoodmanAR: is sitting out 
+GoodmanAR leaves the table
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+blacking#013: raises $0.45 to $0.70
+SchuhaRt71: folds 
+Lucky HoBBiT: calls $0.45
+*** FLOP *** [9s 7h Js]
+blacking#013: bets $0.72
+Lucky HoBBiT: calls $0.72
+*** TURN *** [9s 7h Js] [5s]
+blacking#013: bets $1.41
+Lucky HoBBiT: raises $7.17 to $8.58 and is all-in
+blacking#013: calls $4.14 and is all-in
+Uncalled bet ($3.03) returned to Lucky HoBBiT
+*** RIVER *** [9s 7h Js 5s] [Tc]
+*** SHOW DOWN ***
+blacking#013: shows [8s 8d] (a straight, Seven to Jack)
+Lucky HoBBiT: shows [Jd Th] (two pair, Jacks and Tens)
+blacking#013 cashed out the hand for $4.23 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $14.04 | Rake $0.63 
+Board [9s 7h Js 5s Tc]
+Seat 1: blacking#013 (small blind) showed [8s 8d] and won ($13.41) with a straight, Seven to Jack (pot not awarded as player cashed out)
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) showed [Jd Th] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #222973912537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:08 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($4.23 in chips) 
+Seat 3: SchuhaRt71 ($10.12 in chips) 
+Seat 4: AAAcostA ($21.34 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+blacking#013: raises $0.20 to $0.30
+SchuhaRt71: calls $0.25
+AAAcostA: folds 
+*** FLOP *** [9d 2c 8c]
+SchuhaRt71: bets $0.60
+blacking#013: raises $1.84 to $2.44
+SchuhaRt71: raises $4.16 to $6.60
+blacking#013: calls $1.49 and is all-in
+Uncalled bet ($2.67) returned to SchuhaRt71
+*** TURN *** [9d 2c 8c] [5c]
+*** RIVER *** [9d 2c 8c 5c] [6h]
+*** SHOW DOWN ***
+SchuhaRt71: shows [Th 9h] (a pair of Nines)
+blacking#013: shows [8h 9c] (two pair, Nines and Eights)
+blacking#013 collected $8.17 from pot
+*** SUMMARY ***
+Total pot $8.56 | Rake $0.39 
+Board [9d 2c 8c 5c 6h]
+Seat 1: blacking#013 (button) showed [8h 9c] and won ($8.17) with two pair, Nines and Eights
+Seat 3: SchuhaRt71 (small blind) showed [Th 9h] and lost with a pair of Nines
+Seat 4: AAAcostA (big blind) folded before Flop
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973942992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:44 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($8.17 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: AAAcostA ($21.24 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+AAAcostA: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+blacking#013: folds 
+SchuhaRt71: raises $0.15 to $0.25
+AAAcostA: raises $0.65 to $0.90
+Lucky HoBBiT: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.65) returned to AAAcostA
+AAAcostA collected $0.60 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop
+Seat 4: AAAcostA (small blind) collected ($0.60)
+Seat 5: Lucky HoBBiT (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973973997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:09 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: blacking#013 ($8.17 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: AAAcostA ($21.59 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+blacking#013: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.30 to $0.40
+AAAcostA: folds 
+gruffster78 joins the table at seat #6 
+Lucky HoBBiT: raises $0.88 to $1.28
+blacking#013: folds 
+SchuhaRt71: calls $0.88
+*** FLOP *** [8s 8h Jc]
+Lucky HoBBiT: checks 
+SchuhaRt71: bets $1.69
+Lucky HoBBiT: folds 
+Uncalled bet ($1.69) returned to SchuhaRt71
+SchuhaRt71 collected $2.54 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.66 | Rake $0.12 
+Board [8s 8h Jc]
+Seat 1: blacking#013 (big blind) folded before Flop
+Seat 3: SchuhaRt71 collected ($2.54)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222974005592:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:35 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($8.07 in chips) 
+Seat 3: SchuhaRt71 ($11.26 in chips) 
+Seat 4: AAAcostA ($21.59 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+blacking#013: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+Lucky HoBBiT: folds 
+Assetgasse joins the table at seat #2 
+blacking#013: raises $0.20 to $0.30
+SchuhaRt71: calls $0.20
+*** FLOP *** [8d Qs 7d]
+blacking#013: bets $0.29
+SchuhaRt71: raises $1.11 to $1.40
+blacking#013: calls $1.11
+*** TURN *** [8d Qs 7d] [Qc]
+blacking#013: checks 
+SchuhaRt71: bets $9.30
+blacking#013: folds 
+Uncalled bet ($9.30) returned to SchuhaRt71
+SchuhaRt71 collected $3.25 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.40 | Rake $0.15 
+Board [8d Qs 7d Qc]
+Seat 1: blacking#013 (small blind) folded on the Turn
+Seat 3: SchuhaRt71 (big blind) collected ($3.25)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974034100:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:09 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($6.37 in chips) 
+Seat 3: SchuhaRt71 ($12.81 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($5.20 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: is sitting out 
+Lucky HoBBiT: posts big blind $0.10
+AAAcostA leaves the table
+gruffster78: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar joins the table at seat #4 
+gruffster78: checks 
+blacking#013: raises $0.20 to $0.30
+SchuhaRt71: folds 
+Lucky HoBBiT: calls $0.20
+gruffster78: calls $0.20
+*** FLOP *** [Ks 6h 9d]
+Lucky HoBBiT: checks 
+gruffster78: checks 
+blacking#013: bets $0.46
+Lucky HoBBiT: calls $0.46
+gruffster78: folds 
+*** TURN *** [Ks 6h 9d] [4c]
+Lucky HoBBiT: checks 
+blacking#013: bets $0.90
+Lucky HoBBiT: calls $0.90
+*** RIVER *** [Ks 6h 9d 4c] [Js]
+Lucky HoBBiT: checks 
+blacking#013: bets $4.71 and is all-in
+Lucky HoBBiT: folds 
+Uncalled bet ($4.71) returned to blacking#013
+blacking#013 collected $3.50 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.67 | Rake $0.17 
+Board [Ks 6h 9d 4c Js]
+Seat 1: blacking#013 (button) collected ($3.50)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded on the River
+Seat 6: gruffster78 folded on the Flop
+
+
+
+PokerStars Hand #222974060553:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:41 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($8.21 in chips) 
+Seat 3: SchuhaRt71 ($12.76 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($4.90 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+Assetgasse: sits out 
+*** HOLE CARDS ***
+blacking#013: folds 
+SchuhaRt71: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.05) returned to gruffster78
+gruffster78 collected $0.10 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: gruffster78 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222974065650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:47 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($8.21 in chips) 
+Seat 3: SchuhaRt71 ($12.76 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($4.95 in chips) 
+gruffster78: posts small blind $0.05
+blacking#013: posts big blind $0.10
+Assetgasse: sits out 
+aman kumar: sits out 
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.15 to $0.25
+Lucky HoBBiT: folds 
+gruffster78: calls $0.20
+blacking#013: calls $0.15
+*** FLOP *** [6h 6c 5c]
+gruffster78: checks 
+blacking#013: bets $0.36
+SchuhaRt71: calls $0.36
+gruffster78: calls $0.36
+*** TURN *** [6h 6c 5c] [As]
+gruffster78: checks 
+blacking#013: checks 
+SchuhaRt71: checks 
+*** RIVER *** [6h 6c 5c As] [5d]
+gruffster78: bets $0.88
+blacking#013: calls $0.88
+SchuhaRt71: folds 
+*** SHOW DOWN ***
+gruffster78: shows [Ac 8d] (two pair, Aces and Sixes)
+blacking#013: shows [3s 5s] (a full house, Fives full of Sixes)
+blacking#013 collected $3.43 from pot
+*** SUMMARY ***
+Total pot $3.59 | Rake $0.16 
+Board [6h 6c 5c As 5d]
+Seat 1: blacking#013 (big blind) showed [3s 5s] and won ($3.43) with a full house, Fives full of Sixes
+Seat 3: SchuhaRt71 folded on the River
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 6: gruffster78 (small blind) showed [Ac 8d] and lost with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #222974092302:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:19 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: blacking#013 ($10.15 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($12.15 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($3.46 in chips) 
+blacking#013: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+aman kumar: sits out 
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+Lucky HoBBiT: folds 
+gruffster78: raises $0.20 to $0.30
+blacking#013: calls $0.25
+Assetgasse: calls $0.20
+*** FLOP *** [4s Qc 6c]
+blacking#013: checks 
+Assetgasse: checks 
+gruffster78: checks 
+*** TURN *** [4s Qc 6c] [Kd]
+blacking#013: checks 
+Assetgasse: checks 
+gruffster78: bets $0.43
+blacking#013: folds 
+Assetgasse: folds 
+Uncalled bet ($0.43) returned to gruffster78
+gruffster78 collected $0.86 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [4s Qc 6c Kd]
+Seat 1: blacking#013 (small blind) folded on the Turn
+Seat 2: Assetgasse (big blind) folded on the Turn
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 (button) collected ($0.86)
+
+
+
+PokerStars Hand #222974117100:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:49 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($9.85 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($12.15 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($4.02 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+aman kumar: sits out 
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+gruffster78: calls $0.10
+blacking#013: raises $0.30 to $0.40
+Assetgasse: folds 
+SchuhaRt71: folds 
+gruffster78: calls $0.30
+*** FLOP *** [6h 8c Jc]
+gruffster78: checks 
+blacking#013: checks 
+*** TURN *** [6h 8c Jc] [3c]
+gruffster78: checks 
+blacking#013: bets $0.46
+gruffster78: folds 
+Uncalled bet ($0.46) returned to blacking#013
+blacking#013 collected $0.91 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6h 8c Jc 3c]
+Seat 1: blacking#013 (button) collected ($0.91)
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded on the Turn
+
+
+
+PokerStars Hand #222974145830:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:23 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: blacking#013 ($10.36 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($12.05 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($3.62 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+gruffster78: folds 
+blacking#013: folds 
+Assetgasse: raises $0.17 to $0.27
+SchuhaRt71: folds 
+aman kumar: calls $0.17
+*** FLOP *** [9s 8c 6c]
+aman kumar: checks 
+Assetgasse: bets $0.40
+aman kumar: calls $0.40
+*** TURN *** [9s 8c 6c] [7s]
+aman kumar: checks 
+Assetgasse: bets $1
+aman kumar: folds 
+Uncalled bet ($1) returned to Assetgasse
+Assetgasse collected $1.33 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.06 
+Board [9s 8c 6c 7s]
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) collected ($1.33)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) folded on the Turn
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974167650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:49 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($10.36 in chips) 
+Seat 2: Assetgasse ($10.66 in chips) 
+Seat 3: SchuhaRt71 ($12 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($3.62 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78: folds 
+blacking#013: raises $0.10 to $0.20
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.10) returned to blacking#013
+blacking#013 collected $0.25 from pot
+blacking#013: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: blacking#013 collected ($0.25)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded before Flop
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974178693:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:03 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: blacking#013 ($10.51 in chips) 
+Seat 2: Assetgasse ($10.66 in chips) 
+Seat 3: SchuhaRt71 ($12 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($3.62 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+*** HOLE CARDS ***
+blacking#013: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.05) returned to gruffster78
+gruffster78 collected $0.10 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: gruffster78 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222974184905:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:10 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($10.51 in chips) 
+Seat 2: Assetgasse ($10.66 in chips) 
+Seat 3: SchuhaRt71 ($12 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10 in chips) 
+Seat 6: gruffster78 ($3.67 in chips) 
+gruffster78: posts small blind $0.05
+blacking#013: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: raises $0.10 to $0.20
+Lucky HoBBiT: calls $0.20
+gruffster78: folds 
+blacking#013: calls $0.10
+*** FLOP *** [5c 6d 5s]
+blacking#013: checks 
+aman kumar: bets $0.20
+Lucky HoBBiT: calls $0.20
+blacking#013: calls $0.20
+*** TURN *** [5c 6d 5s] [7c]
+blacking#013: checks 
+aman kumar: checks 
+Lucky HoBBiT: checks 
+*** RIVER *** [5c 6d 5s 7c] [Tc]
+blacking#013: checks 
+aman kumar: checks 
+Lucky HoBBiT: checks 
+*** SHOW DOWN ***
+blacking#013: shows [8d 6c] (two pair, Sixes and Fives)
+aman kumar: mucks hand 
+Lucky HoBBiT: shows [Kd Td] (two pair, Tens and Fives)
+Lucky HoBBiT collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5c 6d 5s 7c Tc]
+Seat 1: blacking#013 (big blind) showed [8d 6c] and lost with two pair, Sixes and Fives
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar mucked
+Seat 5: Lucky HoBBiT (button) showed [Kd Td] and won ($1.19) with two pair, Tens and Fives
+Seat 6: gruffster78 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974224915:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:58 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: blacking#013 ($10.11 in chips) 
+Seat 2: Assetgasse ($10.66 in chips) 
+Seat 3: SchuhaRt71 ($12 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($10.79 in chips) 
+Seat 6: gruffster78 ($3.62 in chips) 
+blacking#013: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+gruffster78: calls $0.25
+blacking#013: raises $0.55 to $0.80
+Assetgasse: folds 
+Lucky HoBBiT: calls $0.55
+gruffster78: calls $0.55
+*** FLOP *** [8h Th Jh]
+blacking#013: bets $1.20
+Lucky HoBBiT: calls $1.20
+gruffster78: folds 
+*** TURN *** [8h Th Jh] [4c]
+blacking#013: bets $1.83
+Lucky HoBBiT: raises $6.96 to $8.79 and is all-in
+blacking#013: folds 
+Uncalled bet ($6.96) returned to Lucky HoBBiT
+Lucky HoBBiT collected $8.17 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.56 | Rake $0.39 
+Board [8h Th Jh 4c]
+Seat 1: blacking#013 (small blind) folded on the Turn
+Seat 2: Assetgasse (big blind) folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT collected ($8.17)
+Seat 6: gruffster78 (button) folded on the Flop
+
+
+
+PokerStars Hand #222974253406:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:09:32 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: blacking#013 ($6.28 in chips) 
+Seat 2: Assetgasse ($10.56 in chips) 
+Seat 3: SchuhaRt71 ($12 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($15.13 in chips) 
+Seat 6: gruffster78 ($2.82 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: folds 
+blacking#013 has timed out
+blacking#013: folds 
+Assetgasse: raises $0.12 to $0.22
+SchuhaRt71: folds 
+Uncalled bet ($0.12) returned to Assetgasse
+Assetgasse collected $0.20 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: blacking#013 (button) folded before Flop (didn't bet)
+Seat 2: Assetgasse (small blind) collected ($0.20)
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974271051:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:09:54 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: blacking#013 ($6.28 in chips) 
+Seat 2: Assetgasse ($10.66 in chips) 
+Seat 3: SchuhaRt71 ($11.90 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($15.13 in chips) 
+Seat 6: gruffster78 ($2.82 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT has timed out
+Lucky HoBBiT: folds 
+gruffster78: folds 
+blacking#013 has timed out
+blacking#013: folds 
+Assetgasse: raises $0.17 to $0.27
+SchuhaRt71: folds 
+aman kumar: calls $0.17
+*** FLOP *** [Td Qd 6s]
+aman kumar: checks 
+Assetgasse: checks 
+*** TURN *** [Td Qd 6s] [2h]
+aman kumar: bets $0.40
+Assetgasse: folds 
+Uncalled bet ($0.40) returned to aman kumar
+aman kumar collected $0.56 from pot
+aman kumar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.03 
+Board [Td Qd 6s 2h]
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) folded on the Turn
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) collected ($0.56)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974331045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:11:06 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: blacking#013 ($6.28 in chips) 
+Seat 2: Assetgasse ($10.39 in chips) 
+Seat 3: SchuhaRt71 ($11.85 in chips) 
+Seat 4: aman kumar ($10.29 in chips) 
+Seat 5: Lucky HoBBiT ($15.13 in chips) 
+Seat 6: gruffster78 ($2.82 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78 has timed out
+gruffster78: folds 
+blacking#013: folds 
+Assetgasse: folds 
+SchuhaRt71: raises $0.20 to $0.30
+aman kumar: folds 
+Lucky HoBBiT: raises $0.66 to $0.96
+SchuhaRt71: raises $1.29 to $2.25
+Lucky HoBBiT: raises $12.88 to $15.13 and is all-in
+SchuhaRt71: folds 
+Uncalled bet ($12.88) returned to Lucky HoBBiT
+Lucky HoBBiT collected $4.55 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.55 | Rake $0 
+Seat 1: blacking#013 folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) collected ($4.55)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974381992:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:12:07 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: blacking#013 ($6.28 in chips) 
+Seat 2: Assetgasse ($10.39 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10.24 in chips) 
+Seat 5: Lucky HoBBiT ($17.43 in chips) 
+Seat 6: gruffster78 ($2.82 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+*** HOLE CARDS ***
+blacking#013: raises $0.10 to $0.20
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: calls $0.10
+*** FLOP *** [Td 3h 5h]
+gruffster78: bets $0.43
+blacking#013: folds 
+Uncalled bet ($0.43) returned to gruffster78
+gruffster78 collected $0.43 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td 3h 5h]
+Seat 1: blacking#013 folded on the Flop
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: gruffster78 (big blind) collected ($0.43)
+
+
+
+PokerStars Hand #222974400539:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:12:30 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: blacking#013 ($6.08 in chips) 
+Seat 2: Assetgasse ($10.39 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10.24 in chips) 
+Seat 5: Lucky HoBBiT ($17.38 in chips) 
+Seat 6: gruffster78 ($3.05 in chips) 
+gruffster78: posts small blind $0.05
+blacking#013: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: raises $0.12 to $0.22
+SchuhaRt71: folds 
+aman kumar: raises $0.48 to $0.70
+Lucky HoBBiT: folds 
+gruffster78: folds 
+blacking#013: calls $0.60
+Assetgasse: folds 
+*** FLOP *** [Qh Ad 4s]
+blacking#013: checks 
+aman kumar: bets $0.52
+blacking#013: folds 
+Uncalled bet ($0.52) returned to aman kumar
+aman kumar collected $1.59 from pot
+aman kumar: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.08 
+Board [Qh Ad 4s]
+Seat 1: blacking#013 (big blind) folded on the Flop
+Seat 2: Assetgasse folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar collected ($1.59)
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 6: gruffster78 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974420308:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:12:54 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: blacking#013 ($5.38 in chips) 
+Seat 2: Assetgasse ($10.17 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($11.13 in chips) 
+Seat 5: Lucky HoBBiT ($17.38 in chips) 
+Seat 6: gruffster78 ($3 in chips) 
+blacking#013: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.20 to $0.30
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: folds 
+blacking#013: folds 
+Assetgasse: calls $0.20
+*** FLOP *** [3c 4d 9s]
+blacking#013 leaves the table
+Assetgasse: checks 
+Just_Million joins the table at seat #1 
+SchuhaRt71: bets $0.41
+Assetgasse: folds 
+Uncalled bet ($0.41) returned to SchuhaRt71
+SchuhaRt71 collected $0.62 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3c 4d 9s]
+Seat 1: blacking#013 (small blind) folded before Flop
+Seat 2: Assetgasse (big blind) folded on the Flop
+Seat 3: SchuhaRt71 collected ($0.62)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974434563:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:11 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.32 in chips) 
+Seat 4: aman kumar ($11.13 in chips) 
+Seat 5: Lucky HoBBiT ($17.38 in chips) 
+Seat 6: gruffster78 ($3 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+Just_Million: sits out 
+*** HOLE CARDS ***
+Just_Million leaves the table
+Lucky HoBBiT: folds 
+gruffster78: raises $0.20 to $0.30
+brightsunfun joins the table at seat #1 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Uncalled bet ($0.20) returned to gruffster78
+gruffster78 collected $0.25 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Assetgasse (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) folded before Flop
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 collected ($0.25)
+
+
+
+PokerStars Hand #222974448575:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:28 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.27 in chips) 
+Seat 4: aman kumar ($11.03 in chips) 
+Seat 5: Lucky HoBBiT ($17.38 in chips) 
+Seat 6: gruffster78 ($3.15 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+brightsunfun: sits out 
+*** HOLE CARDS ***
+gruffster78: calls $0.10
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: checks 
+*** FLOP *** [7h 6h Jh]
+Lucky HoBBiT: checks 
+gruffster78: bets $0.12
+Lucky HoBBiT: folds 
+Uncalled bet ($0.12) returned to gruffster78
+gruffster78 collected $0.24 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7h 6h Jh]
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded on the Flop
+Seat 6: gruffster78 collected ($0.24)
+
+
+
+PokerStars Hand #222974463228:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:46 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.27 in chips) 
+Seat 4: aman kumar ($10.98 in chips) 
+Seat 5: Lucky HoBBiT ($17.28 in chips) 
+Seat 6: gruffster78 ($3.29 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+brightsunfun: sits out 
+*** HOLE CARDS ***
+Assetgasse: folds 
+SchuhaRt71: raises $0.15 to $0.25
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: calls $0.15
+*** FLOP *** [Ks 5h 6h]
+gruffster78: checks 
+SchuhaRt71: checks 
+*** TURN *** [Ks 5h 6h] [7c]
+gruffster78: checks 
+SchuhaRt71: bets $0.50
+gruffster78: calls $0.50
+*** RIVER *** [Ks 5h 6h 7c] [Qs]
+gruffster78: bets $1.48
+SchuhaRt71: folds 
+Uncalled bet ($1.48) returned to gruffster78
+gruffster78 collected $1.48 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [Ks 5h 6h 7c Qs]
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded on the River
+Seat 4: aman kumar (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: gruffster78 (big blind) collected ($1.48)
+
+
+
+PokerStars Hand #222974491564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:14:21 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: brightsunfun ($10 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10.98 in chips) 
+Seat 5: Lucky HoBBiT ($17.23 in chips) 
+Seat 6: gruffster78 ($4.02 in chips) 
+gruffster78: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: raises $0.10 to $0.20
+Lucky HoBBiT: raises $0.70 to $0.90
+gruffster78: folds 
+brightsunfun: folds 
+aman kumar: calls $0.70
+*** FLOP *** [Ts Td Ks]
+aman kumar: checks 
+Lucky HoBBiT: checks 
+*** TURN *** [Ts Td Ks] [2c]
+aman kumar: checks 
+Lucky HoBBiT: checks 
+*** RIVER *** [Ts Td Ks 2c] [Th]
+aman kumar: checks 
+Lucky HoBBiT: checks 
+*** SHOW DOWN ***
+aman kumar: shows [Qh Jh] (three of a kind, Tens)
+Lucky HoBBiT: shows [8s 8h] (a full house, Tens full of Eights)
+Lucky HoBBiT collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Ts Td Ks 2c Th]
+Seat 1: brightsunfun (big blind) folded before Flop
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar showed [Qh Jh] and lost with three of a kind, Tens
+Seat 5: Lucky HoBBiT (button) showed [8s 8h] and won ($1.86) with a full house, Tens full of Eights
+Seat 6: gruffster78 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974521661:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:14:57 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: brightsunfun ($9.90 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10.08 in chips) 
+Seat 5: Lucky HoBBiT ($18.19 in chips) 
+Seat 6: gruffster78 ($3.97 in chips) 
+brightsunfun: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: raises $0.20 to $0.30
+brightsunfun: folds 
+Assetgasse: folds 
+Uncalled bet ($0.20) returned to gruffster78
+gruffster78 collected $0.25 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: brightsunfun (small blind) folded before Flop
+Seat 2: Assetgasse (big blind) folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222974534432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:13 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: brightsunfun ($9.85 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10.08 in chips) 
+Seat 5: Lucky HoBBiT ($18.19 in chips) 
+Seat 6: gruffster78 ($4.12 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: folds 
+brightsunfun has timed out
+brightsunfun: folds 
+Assetgasse: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: brightsunfun (button) folded before Flop (didn't bet)
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) collected ($0.10)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974548235:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:29 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: brightsunfun ($9.85 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.05 in chips) 
+Seat 4: aman kumar ($10.08 in chips) 
+Seat 5: Lucky HoBBiT ($18.19 in chips) 
+Seat 6: gruffster78 ($4.12 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+gruffster78: calls $0.10
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: checks 
+*** FLOP *** [5c 3d Kc]
+aman kumar: checks 
+gruffster78: checks 
+*** TURN *** [5c 3d Kc] [Tc]
+aman kumar: checks 
+gruffster78: checks 
+*** RIVER *** [5c 3d Kc Tc] [4d]
+aman kumar: checks 
+gruffster78: bets $0.12
+aman kumar: folds 
+Uncalled bet ($0.12) returned to gruffster78
+gruffster78 collected $0.24 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5c 3d Kc Tc 4d]
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) folded on the River
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 collected ($0.24)
+
+
+
+PokerStars Hand #222974577045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:04 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: brightsunfun ($9.85 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($18.19 in chips) 
+Seat 6: gruffster78 ($4.26 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78 has timed out
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Uncalled bet ($0.05) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.10 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) collected ($0.10)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974588717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:18 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: brightsunfun ($9.85 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($18.24 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+brightsunfun: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.20 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: brightsunfun (big blind) folded before Flop
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222974600469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:33 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: brightsunfun ($9.75 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($18.34 in chips) 
+brightsunfun: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: raises $0.10 to $0.20
+Lucky HoBBiT: folds 
+brightsunfun: folds 
+Assetgasse: calls $0.10
+*** FLOP *** [Jc Js Tc]
+Assetgasse: checks 
+aman kumar: bets $0.14
+Assetgasse: raises $0.47 to $0.61
+aman kumar: calls $0.47
+*** TURN *** [Jc Js Tc] [Th]
+Assetgasse: bets $1.05
+aman kumar: calls $1.05
+*** RIVER *** [Jc Js Tc Th] [3d]
+Assetgasse: bets $2.38
+aman kumar: calls $2.38
+*** SHOW DOWN ***
+Assetgasse: shows [Jh Ts] (a full house, Jacks full of Tens)
+aman kumar: shows [Kd Jd] (a full house, Jacks full of Tens)
+Assetgasse collected $4.08 from pot
+aman kumar collected $4.07 from pot
+*** SUMMARY ***
+Total pot $8.53 | Rake $0.38 
+Board [Jc Js Tc Th 3d]
+Seat 1: brightsunfun (small blind) folded before Flop
+Seat 2: Assetgasse (big blind) showed [Jh Ts] and won ($4.08) with a full house, Jacks full of Tens
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar showed [Kd Jd] and won ($4.07) with a full house, Jacks full of Tens
+Seat 5: Lucky HoBBiT (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974640856:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:22 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: brightsunfun ($9.70 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($18.34 in chips) 
+Seat 6: gruffster78 ($4.26 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+gruffster78: posts small & big blinds $0.15
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: checks 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: checks 
+*** FLOP *** [2h Td 6h]
+SchuhaRt71: checks 
+gruffster78: checks 
+*** TURN *** [2h Td 6h] [3s]
+SchuhaRt71: bets $0.10
+gruffster78: folds 
+Uncalled bet ($0.10) returned to SchuhaRt71
+SchuhaRt71 collected $0.29 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2h Td 6h 3s]
+Seat 1: brightsunfun (button) folded before Flop (didn't bet)
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) collected ($0.29)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded on the Turn (didn't bet)
+
+
+
+PokerStars Hand #222974664582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:50 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: brightsunfun ($9.70 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.19 in chips) 
+Seat 4: aman kumar ($10 in chips) 
+Seat 5: Lucky HoBBiT ($18.34 in chips) 
+Seat 6: gruffster78 ($4.11 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: raises $0.17 to $0.27
+SchuhaRt71: folds 
+aman kumar: raises $0.83 to $1.10
+Assetgasse: raises $1.30 to $2.40
+aman kumar: raises $7.60 to $10 and is all-in
+Assetgasse: calls $7.60 and is all-in
+*** FIRST FLOP *** [4s Qs 9d]
+*** FIRST TURN *** [4s Qs 9d] [2c]
+*** FIRST RIVER *** [4s Qs 9d 2c] [Td]
+*** SECOND FLOP *** [Jh Th 7s]
+*** SECOND TURN *** [Jh Th 7s] [7h]
+*** SECOND RIVER *** [Jh Th 7s 7h] [9c]
+*** FIRST SHOW DOWN ***
+aman kumar: shows [Ah Ad] (a pair of Aces)
+Assetgasse: shows [As Kd] (high card Ace)
+aman kumar collected $9.58 from pot
+*** SECOND SHOW DOWN ***
+aman kumar: shows [Ah Ad] (two pair, Aces and Sevens)
+Assetgasse: shows [As Kd] (a pair of Sevens)
+aman kumar collected $9.57 from pot
+*** SUMMARY ***
+Total pot $20.05 | Rake $0.90 
+Hand was run twice
+FIRST Board [4s Qs 9d 2c Td]
+SECOND Board [Jh Th 7s 7h 9c]
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) showed [As Kd] and lost with high card Ace, and lost with a pair of Sevens
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) showed [Ah Ad] and won ($9.58) with a pair of Aces, and won ($9.57) with two pair, Aces and Sevens
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974709357:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:18:45 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: brightsunfun ($9.70 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.14 in chips) 
+Seat 4: aman kumar ($19.15 in chips) 
+Seat 5: Lucky HoBBiT ($18.34 in chips) 
+Seat 6: gruffster78 ($4.11 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: raises $0.20 to $0.30
+Lucky HoBBiT: calls $0.20
+*** FLOP *** [Jd 7h 9d]
+aman kumar: checks 
+Lucky HoBBiT: bets $0.20
+aman kumar: calls $0.20
+*** TURN *** [Jd 7h 9d] [Tc]
+aman kumar: checks 
+Lucky HoBBiT: bets $0.65
+aman kumar: calls $0.65
+*** RIVER *** [Jd 7h 9d Tc] [2h]
+aman kumar: checks 
+Lucky HoBBiT: bets $1.85
+aman kumar: folds 
+Uncalled bet ($1.85) returned to Lucky HoBBiT
+Lucky HoBBiT collected $2.20 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.30 | Rake $0.10 
+Board [Jd 7h 9d Tc 2h]
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded on the River
+Seat 5: Lucky HoBBiT (big blind) collected ($2.20)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974742927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:26 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: brightsunfun ($9.70 in chips) 
+Seat 2: Assetgasse ($10 in chips) 
+Seat 3: SchuhaRt71 ($10.14 in chips) 
+Seat 4: aman kumar ($18 in chips) 
+Seat 5: Lucky HoBBiT ($19.39 in chips) 
+Seat 6: gruffster78 ($4.11 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Assetgasse: raises $0.12 to $0.22
+SchuhaRt71: folds 
+aman kumar: raises $0.44 to $0.66
+Lucky HoBBiT: folds 
+gruffster78: folds 
+Assetgasse: raises $1.47 to $2.13
+aman kumar: folds 
+Uncalled bet ($1.47) returned to Assetgasse
+Assetgasse collected $1.47 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse collected ($1.47)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) folded before Flop
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: gruffster78 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974768803:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:58 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: brightsunfun ($9.70 in chips) 
+Seat 2: Assetgasse ($10.81 in chips) 
+Seat 3: SchuhaRt71 ($10.14 in chips) 
+Seat 4: aman kumar ($17.34 in chips) 
+Seat 5: Lucky HoBBiT ($19.34 in chips) 
+Seat 6: gruffster78 ($4.01 in chips) 
+gruffster78: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: folds 
+SchuhaRt71: raises $0.30 to $0.40
+aman kumar: folds 
+Lucky HoBBiT: calls $0.40
+gruffster78: folds 
+brightsunfun: folds 
+*** FLOP *** [5d 5c Td]
+SchuhaRt71: bets $0.46
+Lucky HoBBiT: calls $0.46
+*** TURN *** [5d 5c Td] [Qd]
+SchuhaRt71: checks 
+Lucky HoBBiT: checks 
+*** RIVER *** [5d 5c Td Qd] [9c]
+SchuhaRt71: checks 
+Lucky HoBBiT: bets $2.42
+SchuhaRt71: folds 
+Uncalled bet ($2.42) returned to Lucky HoBBiT
+Lucky HoBBiT collected $1.79 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [5d 5c Td Qd 9c]
+Seat 1: brightsunfun (big blind) folded before Flop
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded on the River
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) collected ($1.79)
+Seat 6: gruffster78 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974799763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:36 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: brightsunfun ($9.60 in chips) 
+Seat 2: Assetgasse ($10.81 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($17.34 in chips) 
+Seat 5: Lucky HoBBiT ($20.27 in chips) 
+Seat 6: gruffster78 ($3.96 in chips) 
+brightsunfun: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: raises $0.20 to $0.30
+brightsunfun: folds 
+Assetgasse: folds 
+Uncalled bet ($0.20) returned to gruffster78
+gruffster78 collected $0.25 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: brightsunfun (small blind) folded before Flop
+Seat 2: Assetgasse (big blind) folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222974810833:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:50 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: brightsunfun ($9.55 in chips) 
+Seat 2: Assetgasse ($10.71 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($17.34 in chips) 
+Seat 5: Lucky HoBBiT ($20.27 in chips) 
+Seat 6: gruffster78 ($4.11 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: raises $0.20 to $0.30
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.20) returned to gruffster78
+gruffster78 collected $0.25 from pot
+gruffster78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: brightsunfun (button) folded before Flop (didn't bet)
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 collected ($0.25)
+
+
+
+PokerStars Hand #222974825003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:07 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: brightsunfun ($9.55 in chips) 
+Seat 2: Assetgasse ($10.66 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($17.34 in chips) 
+Seat 5: Lucky HoBBiT ($20.27 in chips) 
+Seat 6: gruffster78 ($4.26 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+gruffster78: folds 
+brightsunfun: raises $0.15 to $0.25
+Assetgasse: raises $0.65 to $0.90
+SchuhaRt71: folds 
+aman kumar: folds 
+brightsunfun: folds 
+Uncalled bet ($0.65) returned to Assetgasse
+Assetgasse collected $0.65 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: brightsunfun folded before Flop
+Seat 2: Assetgasse (button) collected ($0.65)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) folded before Flop
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974849613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:37 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: brightsunfun ($10 in chips) 
+Seat 2: Assetgasse ($11.06 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($17.24 in chips) 
+Seat 5: Lucky HoBBiT ($20.27 in chips) 
+Seat 6: gruffster78 ($4.26 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Uncalled bet ($0.05) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.10 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) collected ($0.10)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974859503:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:49 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: brightsunfun ($10 in chips) 
+Seat 2: Assetgasse ($11.06 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($17.19 in chips) 
+Seat 5: Lucky HoBBiT ($20.32 in chips) 
+Seat 6: gruffster78 ($4.26 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: raises $0.15 to $0.25
+Lucky HoBBiT: folds 
+gruffster78: folds 
+Uncalled bet ($0.15) returned to aman kumar
+aman kumar collected $0.25 from pot
+aman kumar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) collected ($0.25)
+Seat 5: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: gruffster78 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974875127:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:09 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: brightsunfun ($10 in chips) 
+Seat 2: Assetgasse ($11.06 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($17.34 in chips) 
+Seat 5: Lucky HoBBiT ($20.27 in chips) 
+Seat 6: gruffster78 ($4.16 in chips) 
+gruffster78: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse has timed out
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: raises $0.10 to $0.20
+Lucky HoBBiT: calls $0.20
+gruffster78: calls $0.15
+brightsunfun: folds 
+*** FLOP *** [8s Td 4h]
+gruffster78: bets $0.34
+aman kumar: calls $0.34
+Lucky HoBBiT: raises $1.15 to $1.49
+gruffster78: calls $1.15
+aman kumar: calls $1.15
+*** TURN *** [8s Td 4h] [4d]
+gruffster78: bets $2.47 and is all-in
+aman kumar: calls $2.47
+Lucky HoBBiT: folds 
+*** RIVER *** [8s Td 4h 4d] [5s]
+*** SHOW DOWN ***
+gruffster78: shows [9h 4c] (three of a kind, Fours)
+aman kumar: shows [Kh Kc] (two pair, Kings and Fours)
+gruffster78 collected $9.66 from pot
+*** SUMMARY ***
+Total pot $10.11 | Rake $0.45 
+Board [8s Td 4h 4d 5s]
+Seat 1: brightsunfun (big blind) folded before Flop
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar showed [Kh Kc] and lost with two pair, Kings and Fours
+Seat 5: Lucky HoBBiT (button) folded on the Turn
+Seat 6: gruffster78 (small blind) showed [9h 4c] and won ($9.66) with three of a kind, Fours
+
+
+
+PokerStars Hand #222974941009:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:29 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: brightsunfun ($9.90 in chips) 
+Seat 2: Assetgasse ($11.06 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.18 in chips) 
+Seat 5: Lucky HoBBiT ($18.58 in chips) 
+Seat 6: gruffster78 ($9.66 in chips) 
+brightsunfun: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: folds 
+brightsunfun: raises $0.23 to $0.33
+Assetgasse: calls $0.23
+*** FLOP *** [9h Tc 8s]
+brightsunfun: checks 
+Assetgasse: bets $0.40
+brightsunfun: raises $2.08 to $2.48
+Assetgasse: folds 
+Uncalled bet ($2.08) returned to brightsunfun
+brightsunfun collected $1.39 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.07 
+Board [9h Tc 8s]
+Seat 1: brightsunfun (small blind) collected ($1.39)
+Seat 2: Assetgasse (big blind) folded on the Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974975832:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:13 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: brightsunfun ($10.56 in chips) 
+Seat 2: Assetgasse ($10.33 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.18 in chips) 
+Seat 5: Lucky HoBBiT ($18.58 in chips) 
+Seat 6: gruffster78 ($9.66 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.25 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: brightsunfun (button) folded before Flop (didn't bet)
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT collected ($0.25)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974985545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:25 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: brightsunfun ($10.56 in chips) 
+Seat 2: Assetgasse ($10.28 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.18 in chips) 
+Seat 5: Lucky HoBBiT ($18.73 in chips) 
+Seat 6: gruffster78 ($9.66 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.05) returned to aman kumar
+aman kumar collected $0.10 from pot
+aman kumar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) collected ($0.10)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974997215:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:39 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: brightsunfun ($10.56 in chips) 
+Seat 2: Assetgasse ($10.28 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.23 in chips) 
+Seat 5: Lucky HoBBiT ($18.73 in chips) 
+Seat 6: gruffster78 ($9.66 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78 has timed out
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: raises $0.20 to $0.30
+Lucky HoBBiT: calls $0.20
+*** FLOP *** [9c 6s As]
+aman kumar: bets $0.30
+Lucky HoBBiT: folds 
+Uncalled bet ($0.30) returned to aman kumar
+aman kumar collected $0.57 from pot
+aman kumar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [9c 6s As]
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) collected ($0.57)
+Seat 5: Lucky HoBBiT (big blind) folded on the Flop
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975018559:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:06 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: brightsunfun ($10.56 in chips) 
+Seat 2: Assetgasse ($10.28 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.50 in chips) 
+Seat 5: Lucky HoBBiT ($18.43 in chips) 
+Seat 6: gruffster78 ($9.66 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+gruffster78: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+gruffster78: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.20 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) collected ($0.20)
+Seat 6: gruffster78 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975031365:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:22 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: brightsunfun ($10.56 in chips) 
+Seat 2: Assetgasse ($10.28 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.50 in chips) 
+Seat 5: Lucky HoBBiT ($18.53 in chips) 
+Seat 6: gruffster78 ($9.56 in chips) 
+gruffster78: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+gruffster78: calls $0.20
+brightsunfun: folds 
+*** FLOP *** [3h 8h Qd]
+gruffster78: checks 
+Lucky HoBBiT: bets $0.20
+gruffster78: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.57 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3h 8h Qd]
+Seat 1: brightsunfun (big blind) folded before Flop
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) collected ($0.57)
+Seat 6: gruffster78 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222975053401:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:49 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: brightsunfun ($10.46 in chips) 
+Seat 2: Assetgasse ($10.28 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.50 in chips) 
+Seat 5: Lucky HoBBiT ($18.85 in chips) 
+Seat 6: gruffster78 ($9.31 in chips) 
+brightsunfun: posts small blind $0.05
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: folds 
+brightsunfun: folds 
+Uncalled bet ($0.05) returned to Assetgasse
+Assetgasse collected $0.10 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: brightsunfun (small blind) folded before Flop
+Seat 2: Assetgasse (big blind) collected ($0.10)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975068761:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:26:08 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: brightsunfun ($10.41 in chips) 
+Seat 2: Assetgasse ($10.33 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.50 in chips) 
+Seat 5: Lucky HoBBiT ($18.85 in chips) 
+Seat 6: gruffster78 ($9.31 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: calls $0.10
+brightsunfun: folds 
+Assetgasse: raises $0.40 to $0.50
+SchuhaRt71: folds 
+gruffster78: calls $0.40
+*** FLOP *** [3c 9h Kc]
+Assetgasse: checks 
+gruffster78: bets $0.53
+Assetgasse: calls $0.53
+*** TURN *** [3c 9h Kc] [9s]
+Assetgasse: checks 
+gruffster78: checks 
+*** RIVER *** [3c 9h Kc 9s] [Jh]
+Assetgasse: bets $0.40
+gruffster78: folds 
+Uncalled bet ($0.40) returned to Assetgasse
+Assetgasse collected $2.06 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.10 
+Board [3c 9h Kc 9s Jh]
+Seat 1: brightsunfun (button) folded before Flop (didn't bet)
+Seat 2: Assetgasse (small blind) collected ($2.06)
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: gruffster78 folded on the River
+
+
+
+PokerStars Hand #222975102458:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:26:50 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: brightsunfun ($10.41 in chips) 
+Seat 2: Assetgasse ($11.36 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.50 in chips) 
+Seat 5: Lucky HoBBiT ($18.85 in chips) 
+Seat 6: gruffster78 ($8.28 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: raises $0.20 to $0.30
+gruffster78: folds 
+brightsunfun: folds 
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.25 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: brightsunfun folded before Flop (didn't bet)
+Seat 2: Assetgasse (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) folded before Flop
+Seat 5: Lucky HoBBiT collected ($0.25)
+Seat 6: gruffster78 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975111869:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:02 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: brightsunfun ($10.41 in chips) 
+Seat 2: Assetgasse ($11.36 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.40 in chips) 
+Seat 5: Lucky HoBBiT ($19 in chips) 
+Seat 6: gruffster78 ($8.28 in chips) 
+aman kumar: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+gruffster78: calls $0.10
+brightsunfun: raises $0.35 to $0.45
+Assetgasse: folds 
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: folds 
+gruffster78: calls $0.35
+*** FLOP *** [Ad Js Qh]
+gruffster78: checks 
+brightsunfun: bets $0.77
+gruffster78: calls $0.77
+*** TURN *** [Ad Js Qh] [5h]
+gruffster78: checks 
+brightsunfun: bets $9.19 and is all-in
+gruffster78: calls $7.06 and is all-in
+Uncalled bet ($2.13) returned to brightsunfun
+*** RIVER *** [Ad Js Qh 5h] [8d]
+*** SHOW DOWN ***
+gruffster78: shows [4c As] (a pair of Aces)
+brightsunfun: shows [Ks Ac] (a pair of Aces - King kicker)
+brightsunfun collected $15.96 from pot
+*** SUMMARY ***
+Total pot $16.71 | Rake $0.75 
+Board [Ad Js Qh 5h 8d]
+Seat 1: brightsunfun showed [Ks Ac] and won ($15.96) with a pair of Aces
+Seat 2: Assetgasse folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: Lucky HoBBiT (big blind) folded before Flop
+Seat 6: gruffster78 showed [4c As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #222975155998:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:54 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 2: Assetgasse ($11.36 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.35 in chips) 
+Seat 5: Lucky HoBBiT ($18.90 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+brightsunfun: is sitting out 
+Assetgasse: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+aman kumar: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+gruffster78 leaves the table
+Assetgasse: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.20 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Assetgasse (big blind) folded before Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: aman kumar (button) folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222975167022:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:07 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 2: Assetgasse ($11.26 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.35 in chips) 
+Seat 5: Lucky HoBBiT ($19 in chips) 
+Assetgasse: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+aman kumar: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+brightsunfun leaves the table
+Assetgasse: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.15) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.25 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Assetgasse (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: aman kumar folded before Flop (didn't bet)
+Seat 5: Lucky HoBBiT (button) collected ($0.25)
+
+
+
+PokerStars Hand #222975178063:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:21 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 2: Assetgasse ($11.21 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.35 in chips) 
+Seat 5: Lucky HoBBiT ($19.15 in chips) 
+SchuhaRt71: posts small blind $0.05
+aman kumar: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+Lucky HoBBiT leaves the table
+Assetgasse: raises $0.17 to $0.27
+SchuhaRt71: folds 
+aman kumar: calls $0.17
+*** FLOP *** [Ad 2d 5s]
+aman kumar: checks 
+electrobox joins the table at seat #5 
+Assetgasse: checks 
+*** TURN *** [Ad 2d 5s] [Ac]
+aman kumar: checks 
+Assetgasse: checks 
+*** RIVER *** [Ad 2d 5s Ac] [Jc]
+aman kumar: bets $0.18
+Assetgasse: folds 
+Uncalled bet ($0.18) returned to aman kumar
+aman kumar collected $0.56 from pot
+aman kumar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.03 
+Board [Ad 2d 5s Ac Jc]
+Seat 2: Assetgasse (button) folded on the River
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: aman kumar (big blind) collected ($0.56)
+Seat 5: Lucky HoBBiT folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975204029:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:54 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 2: Assetgasse ($10.94 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: aman kumar ($13.64 in chips) 
+Seat 5: electrobox ($10 in chips) 
+aman kumar: posts small blind $0.05
+electrobox: posts big blind $0.10
+*** HOLE CARDS ***
+Assetgasse: raises $0.12 to $0.22
+SchuhaRt71: folds 
+aman kumar: folds 
+electrobox: folds 
+Uncalled bet ($0.12) returned to Assetgasse
+Assetgasse collected $0.25 from pot
+Assetgasse: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Assetgasse collected ($0.25)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: aman kumar (small blind) folded before Flop
+Seat 5: electrobox (big blind) folded before Flop
+
+
+
+PokerStars Hand #222971819161:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:20:10 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: machlas2 ($10.20 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($13.14 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.44 in chips) 
+Seat 6: MrHuntery ($23.95 in chips) 
+MrHuntery: posts small blind $0.05
+machlas2: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+machlas2: checks 
+*** FLOP *** [9c 6d 9d]
+machlas2: checks 
+oohmenuts: bets $0.24
+machlas2: folds 
+Uncalled bet ($0.24) returned to oohmenuts
+oohmenuts collected $0.24 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c 6d 9d]
+Seat 1: machlas2 (big blind) folded on the Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) collected ($0.24)
+Seat 6: MrHuntery (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971865538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:21:04 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: machlas2 ($10.10 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($13.14 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.58 in chips) 
+Seat 6: MrHuntery ($23.90 in chips) 
+machlas2: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: raises $0.30 to $0.40
+machlas2: folds 
+GoodmanAR: calls $0.30
+oohmenuts: calls $0.30
+*** FLOP *** [Jh 7h 4s]
+GoodmanAR: checks 
+oohmenuts: checks 
+MrHuntery: bets $0.85
+GoodmanAR: folds 
+oohmenuts: folds 
+Uncalled bet ($0.85) returned to MrHuntery
+MrHuntery collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jh 7h 4s]
+Seat 1: machlas2 (small blind) folded before Flop
+Seat 2: GoodmanAR (big blind) folded on the Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded on the Flop
+Seat 6: MrHuntery (button) collected ($1.19)
+
+
+
+PokerStars Hand #222971896636:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:21:40 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: machlas2 ($10.05 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($13.14 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.18 in chips) 
+Seat 6: MrHuntery ($24.69 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: raises $0.30 to $0.40
+machlas2: folds 
+GoodmanAR: calls $0.35
+SchuhaRt71: folds 
+oohmenuts: calls $0.30
+*** FLOP *** [2d 2c Jd]
+GoodmanAR: checks 
+oohmenuts: checks 
+MrHuntery: checks 
+*** TURN *** [2d 2c Jd] [Js]
+GoodmanAR: checks 
+oohmenuts: checks 
+MrHuntery: checks 
+*** RIVER *** [2d 2c Jd Js] [5c]
+GoodmanAR: checks 
+oohmenuts: checks 
+MrHuntery: checks 
+*** SHOW DOWN ***
+GoodmanAR: shows [Tc 9c] (two pair, Jacks and Deuces)
+oohmenuts: mucks hand 
+MrHuntery: shows [Qh Kh] (two pair, Jacks and Deuces - King kicker)
+MrHuntery collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [2d 2c Jd Js 5c]
+Seat 1: machlas2 (button) folded before Flop (didn't bet)
+Seat 2: GoodmanAR (small blind) showed [Tc 9c] and lost with two pair, Jacks and Deuces
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts mucked
+Seat 6: MrHuntery showed [Qh Kh] and won ($1.24) with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #222971943444:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:22:35 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: machlas2 ($10.05 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($13.04 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.78 in chips) 
+Seat 6: MrHuntery ($25.53 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: folds 
+machlas2: folds 
+GoodmanAR: raises $0.15 to $0.25
+SchuhaRt71: raises $0.75 to $1
+AAAcostA: folds 
+GoodmanAR: folds 
+Uncalled bet ($0.75) returned to SchuhaRt71
+SchuhaRt71 collected $0.60 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR (button) folded before Flop
+Seat 3: SchuhaRt71 (small blind) collected ($0.60)
+Seat 4: AAAcostA (big blind) folded before Flop
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971961090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:22:55 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: machlas2 ($10.05 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($13.39 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.78 in chips) 
+Seat 6: MrHuntery ($25.53 in chips) 
+AAAcostA: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: folds 
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+Uncalled bet ($0.05) returned to oohmenuts
+oohmenuts collected $0.10 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: oohmenuts (big blind) collected ($0.10)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971969887:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:23:06 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: machlas2 ($10.05 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($13.39 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.83 in chips) 
+Seat 6: MrHuntery ($25.53 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+machlas2: raises $0.15 to $0.25
+GoodmanAR: folds 
+SchuhaRt71: raises $0.55 to $0.80
+AAAcostA: folds 
+oohmenuts: calls $0.75
+MrHuntery: folds 
+machlas2: folds 
+*** FLOP *** [2c 7h 5d]
+oohmenuts: checks 
+SchuhaRt71: checks 
+*** TURN *** [2c 7h 5d] [Kd]
+oohmenuts: checks 
+SchuhaRt71: bets $1.40
+oohmenuts: folds 
+Uncalled bet ($1.40) returned to SchuhaRt71
+SchuhaRt71 collected $1.86 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [2c 7h 5d Kd]
+Seat 1: machlas2 folded before Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 collected ($1.86)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: oohmenuts (small blind) folded on the Turn
+Seat 6: MrHuntery (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972021192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:23:58 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: machlas2 ($9.80 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($14.45 in chips) 
+Seat 5: oohmenuts ($4.03 in chips) 
+Seat 6: MrHuntery ($25.43 in chips) 
+MrHuntery: posts small blind $0.05
+machlas2: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+oohmenuts: folds 
+MrHuntery: folds 
+Uncalled bet ($0.05) returned to machlas2
+machlas2 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: machlas2 (big blind) collected ($0.10)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) folded before Flop (didn't bet)
+Seat 6: MrHuntery (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972028975:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:07 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: machlas2 ($9.85 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($14.45 in chips) 
+Seat 5: oohmenuts ($4.03 in chips) 
+Seat 6: MrHuntery ($25.38 in chips) 
+machlas2: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+oohmenuts: folds 
+MrHuntery: folds 
+machlas2: calls $0.05
+GoodmanAR: checks 
+*** FLOP *** [3d Jc 8d]
+machlas2: checks 
+GoodmanAR: checks 
+*** TURN *** [3d Jc 8d] [3h]
+machlas2: bets $0.10
+GoodmanAR: folds 
+Uncalled bet ($0.10) returned to machlas2
+machlas2 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d Jc 8d 3h]
+Seat 1: machlas2 (small blind) collected ($0.19)
+Seat 2: GoodmanAR (big blind) folded on the Turn
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972044529:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:25 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: machlas2 ($9.94 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($14.45 in chips) 
+Seat 5: oohmenuts ($4.03 in chips) 
+Seat 6: MrHuntery ($25.38 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: raises $0.20 to $0.30
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.20) returned to MrHuntery
+MrHuntery collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: machlas2 (button) folded before Flop (didn't bet)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery collected ($0.25)
+
+
+
+PokerStars Hand #222972053470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:36 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: machlas2 ($9.94 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($14.35 in chips) 
+Seat 5: oohmenuts ($4.03 in chips) 
+Seat 6: MrHuntery ($25.53 in chips) 
+SchuhaRt71: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: folds 
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: raises $0.15 to $0.25
+oohmenuts: folds 
+Uncalled bet ($0.15) returned to SchuhaRt71
+SchuhaRt71 collected $0.20 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) collected ($0.20)
+Seat 5: oohmenuts (big blind) folded before Flop
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972061106:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:45 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: machlas2 ($9.94 in chips) 
+Seat 2: GoodmanAR ($10 in chips) 
+Seat 3: SchuhaRt71 ($14.45 in chips) 
+Seat 5: oohmenuts ($3.93 in chips) 
+Seat 6: MrHuntery ($25.53 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+machlas2: folds 
+GoodmanAR: raises $0.20 to $0.30
+SchuhaRt71: raises $0.70 to $1
+oohmenuts: folds 
+MrHuntery: folds 
+GoodmanAR: calls $0.70
+*** FLOP *** [2h Ts Kc]
+GoodmanAR: checks 
+SchuhaRt71: bets $1.37
+GoodmanAR: calls $1.37
+*** TURN *** [2h Ts Kc] [2c]
+GoodmanAR: checks 
+SchuhaRt71: checks 
+*** RIVER *** [2h Ts Kc 2c] [3s]
+GoodmanAR: checks 
+SchuhaRt71: bets $3.15
+GoodmanAR: calls $3.15
+*** SHOW DOWN ***
+SchuhaRt71: shows [Ah 8h] (a pair of Deuces)
+GoodmanAR: shows [Th 9h] (two pair, Tens and Deuces)
+GoodmanAR collected $10.69 from pot
+*** SUMMARY ***
+Total pot $11.19 | Rake $0.50 
+Board [2h Ts Kc 2c 3s]
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR showed [Th 9h] and won ($10.69) with two pair, Tens and Deuces
+Seat 3: SchuhaRt71 (button) showed [Ah 8h] and lost with a pair of Deuces
+Seat 5: oohmenuts (small blind) folded before Flop
+Seat 6: MrHuntery (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972166608:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:26:49 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: machlas2 ($9.94 in chips) 
+Seat 2: GoodmanAR ($15.17 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 5: oohmenuts ($3.88 in chips) 
+Seat 6: MrHuntery ($25.43 in chips) 
+MrHuntery: posts small blind $0.05
+machlas2: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+machlas2: checks 
+*** FLOP *** [Qd 4c Jd]
+machlas2: checks 
+oohmenuts: checks 
+*** TURN *** [Qd 4c Jd] [5h]
+machlas2: bets $0.10
+oohmenuts: calls $0.10
+*** RIVER *** [Qd 4c Jd 5h] [3d]
+machlas2: bets $0.20
+oohmenuts: calls $0.20
+*** SHOW DOWN ***
+machlas2: shows [Ks 6d] (high card King)
+oohmenuts: shows [4s Ah] (a pair of Fours)
+oohmenuts collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Qd 4c Jd 5h 3d]
+Seat 1: machlas2 (big blind) showed [Ks 6d] and lost with high card King
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) showed [4s Ah] and won ($0.81) with a pair of Fours
+Seat 6: MrHuntery (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972187460:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:27:14 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: machlas2 ($9.54 in chips) 
+Seat 2: GoodmanAR ($15.17 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 5: oohmenuts ($4.29 in chips) 
+Seat 6: MrHuntery ($25.38 in chips) 
+machlas2: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.30 to $0.40
+oohmenuts: calls $0.40
+MrHuntery: folds 
+machlas2: folds 
+GoodmanAR: folds 
+*** FLOP *** [2d 9d 5h]
+SchuhaRt71: bets $0.61
+oohmenuts: calls $0.61
+*** TURN *** [2d 9d 5h] [3d]
+SchuhaRt71: checks 
+oohmenuts: bets $1.04
+SchuhaRt71: calls $1.04
+*** RIVER *** [2d 9d 5h 3d] [5c]
+SchuhaRt71: checks 
+oohmenuts: checks 
+*** SHOW DOWN ***
+SchuhaRt71: shows [7s 7d] (two pair, Sevens and Fives)
+oohmenuts: mucks hand 
+SchuhaRt71 collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [2d 9d 5h 3d 5c]
+Seat 1: machlas2 (small blind) folded before Flop
+Seat 2: GoodmanAR (big blind) folded before Flop
+Seat 3: SchuhaRt71 showed [7s 7d] and won ($4.06) with two pair, Sevens and Fives
+Seat 5: oohmenuts mucked
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972220011:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:27:52 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: machlas2 ($9.49 in chips) 
+Seat 2: GoodmanAR ($15.07 in chips) 
+Seat 3: SchuhaRt71 ($12.01 in chips) 
+Seat 5: oohmenuts ($2.24 in chips) 
+Seat 6: MrHuntery ($25.38 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: calls $0.10
+MrHuntery: raises $0.30 to $0.40
+machlas2: raises $1.20 to $1.60
+GoodmanAR: folds 
+SchuhaRt71: folds 
+oohmenuts: raises $0.64 to $2.24 and is all-in
+MrHuntery: folds 
+machlas2: calls $0.64
+*** FLOP *** [5c 3d 8s]
+*** TURN *** [5c 3d 8s] [Qh]
+*** RIVER *** [5c 3d 8s Qh] [Qs]
+*** SHOW DOWN ***
+oohmenuts: shows [Qc 9d] (three of a kind, Queens)
+machlas2: shows [Ks Ah] (a pair of Queens)
+oohmenuts collected $4.80 from pot
+*** SUMMARY ***
+Total pot $5.03 | Rake $0.23 
+Board [5c 3d 8s Qh Qs]
+Seat 1: machlas2 (button) showed [Ks Ah] and lost with a pair of Queens
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 5: oohmenuts showed [Qc 9d] and won ($4.80) with three of a kind, Queens
+Seat 6: MrHuntery folded before Flop
+
+
+
+PokerStars Hand #222972259214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:28:38 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: machlas2 ($7.25 in chips) 
+Seat 2: GoodmanAR ($15.02 in chips) 
+Seat 3: SchuhaRt71 ($11.91 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.80 in chips) 
+Seat 6: MrHuntery ($24.98 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: raises $0.20 to $0.30
+machlas2: calls $0.30
+GoodmanAR: folds 
+SchuhaRt71: calls $0.25
+AAAcostA: folds 
+*** FLOP *** [8d 5c Ah]
+SchuhaRt71: checks 
+MrHuntery: checks 
+machlas2: checks 
+*** TURN *** [8d 5c Ah] [Ad]
+SchuhaRt71: checks 
+MrHuntery: bets $0.45
+machlas2: calls $0.45
+SchuhaRt71: folds 
+*** RIVER *** [8d 5c Ah Ad] [7c]
+MrHuntery: bets $0.69
+machlas2: raises $1.81 to $2.50
+MrHuntery: calls $1.81
+*** SHOW DOWN ***
+machlas2: shows [6s 6d] (two pair, Aces and Sixes)
+MrHuntery: shows [Jh Jc] (two pair, Aces and Jacks)
+MrHuntery collected $6.59 from pot
+*** SUMMARY ***
+Total pot $6.90 | Rake $0.31 
+Board [8d 5c Ah Ad 7c]
+Seat 1: machlas2 showed [6s 6d] and lost with two pair, Aces and Sixes
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded on the Turn
+Seat 4: AAAcostA (big blind) folded before Flop
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery showed [Jh Jc] and won ($6.59) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #222972326238:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:57 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: machlas2 ($4 in chips) 
+Seat 2: GoodmanAR ($15.02 in chips) 
+Seat 3: SchuhaRt71 ($11.61 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 6: MrHuntery ($28.32 in chips) 
+AAAcostA: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+machlas2: raises $0.15 to $0.25
+GoodmanAR: folds 
+SchuhaRt71: calls $0.25
+AAAcostA: folds 
+MrHuntery: raises $1.15 to $1.40
+machlas2: folds 
+SchuhaRt71: folds 
+Uncalled bet ($1.15) returned to MrHuntery
+MrHuntery collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0 
+Seat 1: machlas2 folded before Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 6: MrHuntery (big blind) collected ($0.80)
+
+
+
+PokerStars Hand #222972344346:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:30:18 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: machlas2 ($3.75 in chips) 
+Seat 2: GoodmanAR ($15.02 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 6: MrHuntery ($28.87 in chips) 
+MrHuntery: posts small blind $0.05
+machlas2: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+MrHuntery: raises $0.20 to $0.30
+machlas2: calls $0.20
+*** FLOP *** [4h 4s 9h]
+MrHuntery: bets $0.33
+machlas2: calls $0.33
+*** TURN *** [4h 4s 9h] [6d]
+MrHuntery: checks 
+machlas2: bets $0.60
+MrHuntery: folds 
+Uncalled bet ($0.60) returned to machlas2
+machlas2 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.06 
+Board [4h 4s 9h 6d]
+Seat 1: machlas2 (big blind) collected ($1.20)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 6: MrHuntery (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222972388468:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:31:05 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: machlas2 ($4.32 in chips) 
+Seat 2: GoodmanAR ($15.02 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 6: MrHuntery ($28.24 in chips) 
+machlas2: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+MrHuntery: folds 
+machlas2: calls $0.05
+GoodmanAR: checks 
+*** FLOP *** [3d Ac 7h]
+machlas2: checks 
+GoodmanAR: checks 
+*** TURN *** [3d Ac 7h] [Ks]
+machlas2: checks 
+GoodmanAR: bets $0.10
+machlas2: folds 
+Uncalled bet ($0.10) returned to GoodmanAR
+GoodmanAR collected $0.19 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d Ac 7h Ks]
+Seat 1: machlas2 (small blind) folded on the Turn
+Seat 2: GoodmanAR (big blind) collected ($0.19)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972415271:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:31:37 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: machlas2 ($4.22 in chips) 
+Seat 2: GoodmanAR ($15.11 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.80 in chips) 
+Seat 6: MrHuntery ($28.24 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+oohmenuts: posts small & big blinds $0.15
+*** HOLE CARDS ***
+AAAcostA: folds 
+oohmenuts: checks 
+MrHuntery: folds 
+machlas2: raises $0.50 to $0.60
+GoodmanAR: folds 
+SchuhaRt71: folds 
+oohmenuts: folds 
+Uncalled bet ($0.50) returned to machlas2
+machlas2 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: machlas2 (button) collected ($0.40)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded before Flop
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972431783:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:31:56 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: machlas2 ($4.52 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.26 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.65 in chips) 
+Seat 6: MrHuntery ($28.24 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: folds 
+machlas2: raises $0.20 to $0.30
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: raises $0.70 to $1
+machlas2: raises $3.52 to $4.52 and is all-in
+AAAcostA: calls $3.52
+*** FIRST FLOP *** [Jd Ks 3d]
+*** FIRST TURN *** [Jd Ks 3d] [5d]
+*** FIRST RIVER *** [Jd Ks 3d 5d] [5c]
+*** SECOND FLOP *** [9h 2c 7d]
+*** SECOND TURN *** [9h 2c 7d] [2h]
+*** SECOND RIVER *** [9h 2c 7d 2h] [4d]
+*** FIRST SHOW DOWN ***
+AAAcostA: shows [Ah Kh] (two pair, Kings and Fives)
+machlas2: shows [Kd As] (two pair, Kings and Fives)
+AAAcostA collected $2.17 from pot
+machlas2 collected $2.17 from pot
+*** SECOND SHOW DOWN ***
+AAAcostA: shows [Ah Kh] (a pair of Deuces)
+machlas2: shows [Kd As] (a pair of Deuces)
+AAAcostA collected $2.17 from pot
+machlas2 collected $2.17 from pot
+*** SUMMARY ***
+Total pot $9.09 | Rake $0.41 
+Hand was run twice
+FIRST Board [Jd Ks 3d 5d 5c]
+SECOND Board [9h 2c 7d 2h 4d]
+Seat 1: machlas2 showed [Kd As] and won ($2.17) with two pair, Kings and Fives, and won ($2.17) with a pair of Deuces
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) showed [Ah Kh] and won ($2.17) with two pair, Kings and Fives, and won ($2.17) with a pair of Deuces
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972465542:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:32:36 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: machlas2 ($4.34 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.65 in chips) 
+Seat 6: MrHuntery ($28.24 in chips) 
+AAAcostA: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: raises $0.20 to $0.30
+machlas2: calls $0.30
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.20
+*** FLOP *** [Kh Ac Kd]
+oohmenuts: checks 
+MrHuntery: checks 
+machlas2: checks 
+*** TURN *** [Kh Ac Kd] [4c]
+oohmenuts: checks 
+MrHuntery: checks 
+machlas2: checks 
+*** RIVER *** [Kh Ac Kd 4c] [3d]
+oohmenuts: bets $0.91
+MrHuntery: folds 
+machlas2: folds 
+Uncalled bet ($0.91) returned to oohmenuts
+oohmenuts collected $0.91 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kh Ac Kd 4c 3d]
+Seat 1: machlas2 folded on the River
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: oohmenuts (big blind) collected ($0.91)
+Seat 6: MrHuntery folded on the River
+
+
+
+PokerStars Hand #222972494022:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:33:10 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: machlas2 ($4.04 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.26 in chips) 
+Seat 6: MrHuntery ($27.94 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: raises $0.10 to $0.20
+MrHuntery: raises $0.65 to $0.85
+oohmenuts: calls $0.65
+*** FLOP *** [Td 4d 2h]
+oohmenuts: checks 
+MrHuntery: checks 
+*** TURN *** [Td 4d 2h] [2d]
+oohmenuts: checks 
+MrHuntery: bets $0.62
+oohmenuts: calls $0.62
+*** RIVER *** [Td 4d 2h 2d] [Jd]
+oohmenuts: bets $1.41
+MrHuntery: folds 
+Uncalled bet ($1.41) returned to oohmenuts
+oohmenuts collected $2.81 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.13 
+Board [Td 4d 2h 2d Jd]
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: oohmenuts (small blind) collected ($2.81)
+Seat 6: MrHuntery (big blind) folded on the River
+
+
+
+PokerStars Hand #222972542453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:34:07 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: machlas2 ($4.04 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($6.60 in chips) 
+Seat 6: MrHuntery ($26.47 in chips) 
+MrHuntery: posts small blind $0.05
+machlas2: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: raises $0.40 to $0.50
+machlas2: folds 
+oohmenuts: calls $0.40
+*** FLOP *** [5d 2d Ks]
+MrHuntery: bets $0.45
+oohmenuts: folds 
+Uncalled bet ($0.45) returned to MrHuntery
+MrHuntery collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5d 2d Ks]
+Seat 1: machlas2 (big blind) folded before Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) folded on the Flop
+Seat 6: MrHuntery (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #222972565588:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:34:35 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: machlas2 ($3.94 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($6.10 in chips) 
+Seat 6: MrHuntery ($27.02 in chips) 
+machlas2: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+machlas2: calls $0.05
+GoodmanAR: checks 
+*** FLOP *** [5s Ac 3d]
+machlas2: checks 
+GoodmanAR: checks 
+oohmenuts: bets $0.29
+machlas2: folds 
+GoodmanAR: folds 
+Uncalled bet ($0.29) returned to oohmenuts
+oohmenuts collected $0.29 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5s Ac 3d]
+Seat 1: machlas2 (small blind) folded on the Flop
+Seat 2: GoodmanAR (big blind) folded on the Flop
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts collected ($0.29)
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972588306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:02 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: machlas2 ($3.84 in chips) 
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($11.21 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($6.29 in chips) 
+Seat 6: MrHuntery ($27.02 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: raises $0.30 to $0.40
+oohmenuts: calls $0.30
+*** FLOP *** [Kd 4s Qs]
+SchuhaRt71: bets $0.25
+oohmenuts: folds 
+Uncalled bet ($0.25) returned to SchuhaRt71
+SchuhaRt71 collected $0.81 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Kd 4s Qs]
+Seat 1: machlas2 (button) folded before Flop (didn't bet)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) collected ($0.81)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded on the Flop
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972612076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:30 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: machlas2 ($3.84 in chips) 
+Seat 2: GoodmanAR ($14.91 in chips) 
+Seat 3: SchuhaRt71 ($11.62 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.89 in chips) 
+Seat 6: MrHuntery ($27.02 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: raises $0.20 to $0.30
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: calls $0.20
+*** FLOP *** [7h 3s 4h]
+AAAcostA: checks 
+MrHuntery: bets $0.24
+AAAcostA: folds 
+Uncalled bet ($0.24) returned to MrHuntery
+MrHuntery collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7h 3s 4h]
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) folded on the Flop
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery collected ($0.62)
+
+
+
+PokerStars Hand #222972634897:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:57 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: machlas2 ($3.84 in chips) 
+Seat 2: GoodmanAR ($14.91 in chips) 
+Seat 3: SchuhaRt71 ($11.57 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.89 in chips) 
+Seat 6: MrHuntery ($27.34 in chips) 
+AAAcostA: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: folds 
+machlas2: folds 
+GoodmanAR: folds 
+SchuhaRt71: raises $0.20 to $0.30
+AAAcostA: folds 
+oohmenuts: calls $0.20
+*** FLOP *** [Ts 9s 9d]
+oohmenuts: checks 
+SchuhaRt71: bets $0.31
+oohmenuts: folds 
+Uncalled bet ($0.31) returned to SchuhaRt71
+SchuhaRt71 collected $0.62 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ts 9s 9d]
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) collected ($0.62)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: oohmenuts (big blind) folded on the Flop
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972652330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:18 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: machlas2 ($3.84 in chips) 
+Seat 2: GoodmanAR ($14.91 in chips) 
+Seat 3: SchuhaRt71 ($11.89 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.59 in chips) 
+Seat 6: MrHuntery ($27.34 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+machlas2: folds 
+GoodmanAR: raises $0.20 to $0.30
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: folds 
+MrHuntery: folds 
+Uncalled bet ($0.20) returned to GoodmanAR
+GoodmanAR collected $0.25 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: machlas2 folded before Flop (didn't bet)
+Seat 2: GoodmanAR collected ($0.25)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: oohmenuts (small blind) folded before Flop
+Seat 6: MrHuntery (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972660522:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:28 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: machlas2 ($3.84 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.89 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.54 in chips) 
+Seat 6: MrHuntery ($27.24 in chips) 
+MrHuntery: posts small blind $0.05
+machlas2: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71 has timed out
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: raises $0.10 to $0.20
+MrHuntery: folds 
+machlas2: raises $3.64 to $3.84 and is all-in
+oohmenuts: folds 
+Uncalled bet ($3.64) returned to machlas2
+machlas2 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: machlas2 (big blind) collected ($0.45)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) folded before Flop
+Seat 6: MrHuntery (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972683558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:55 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: machlas2 ($4.09 in chips) 
+Seat 2: GoodmanAR ($15.06 in chips) 
+Seat 3: SchuhaRt71 ($11.89 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.34 in chips) 
+Seat 6: MrHuntery ($27.19 in chips) 
+machlas2: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.25 to $0.35
+AAAcostA: folds 
+oohmenuts: folds 
+MrHuntery: raises $0.65 to $1
+machlas2: calls $0.95
+GoodmanAR: folds 
+SchuhaRt71: calls $0.65
+*** FLOP *** [6c Jd 7d]
+machlas2: checks 
+SchuhaRt71: checks 
+MrHuntery: bets $1.12
+machlas2: calls $1.12
+SchuhaRt71: calls $1.12
+*** TURN *** [6c Jd 7d] [3c]
+machlas2: bets $1.97 and is all-in
+SchuhaRt71: folds 
+MrHuntery: calls $1.97
+*** RIVER *** [6c Jd 7d 3c] [4s]
+*** SHOW DOWN ***
+machlas2: shows [As Ad] (a pair of Aces)
+MrHuntery: shows [Jh Js] (three of a kind, Jacks)
+MrHuntery cashed out the hand for $9.38 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $10.40 | Rake $0.47 
+Board [6c Jd 7d 3c 4s]
+Seat 1: machlas2 (small blind) showed [As Ad] and lost with a pair of Aces
+Seat 2: GoodmanAR (big blind) folded before Flop
+Seat 3: SchuhaRt71 folded on the Turn
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery (button) showed [Jh Js] and won ($9.93) with three of a kind, Jacks (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222972748653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:13 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.34 in chips) 
+Seat 6: MrHuntery ($32.48 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: folds 
+GoodmanAR: folds 
+machlas2 leaves the table
+SchuhaRt71: folds 
+Uncalled bet ($0.05) returned to AAAcostA
+AAAcostA collected $0.10 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) collected ($0.10)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972758188:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:25 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: AAAcostA ($10.05 in chips) 
+Seat 5: oohmenuts ($5.34 in chips) 
+Seat 6: MrHuntery ($32.48 in chips) 
+AAAcostA: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: folds 
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: raises $0.20 to $0.30
+oohmenuts: folds 
+Uncalled bet ($0.20) returned to AAAcostA
+bagemono23 joins the table at seat #1 
+AAAcostA collected $0.20 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) collected ($0.20)
+Seat 5: oohmenuts (big blind) folded before Flop
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972767098:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:35 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($10 in chips) 
+Seat 4: AAAcostA ($10.15 in chips) 
+Seat 5: oohmenuts ($5.24 in chips) 
+Seat 6: MrHuntery ($32.48 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+bagemono23: sits out 
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: raises $0.15 to $0.25
+AAAcostA: raises $0.65 to $0.90
+oohmenuts: folds 
+MrHuntery: folds 
+SchuhaRt71: calls $0.65
+*** FLOP *** [7s 8c 9c]
+SchuhaRt71: checks 
+AAAcostA: bets $0.99
+SchuhaRt71: raises $8.11 to $9.10 and is all-in
+AAAcostA: folds [Kh Ks]
+Uncalled bet ($8.11) returned to SchuhaRt71
+SchuhaRt71 collected $3.75 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.93 | Rake $0.18 
+Board [7s 8c 9c]
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 collected ($3.75)
+Seat 4: AAAcostA (button) folded on the Flop
+Seat 5: oohmenuts (small blind) folded before Flop
+Seat 6: MrHuntery (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972803044:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:19 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: bagemono23 ($5 in chips) 
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($11.86 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($5.19 in chips) 
+Seat 6: MrHuntery ($32.38 in chips) 
+MrHuntery: posts small blind $0.05
+bagemono23: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: raises $0.40 to $0.50
+bagemono23: folds 
+oohmenuts: calls $0.40
+*** FLOP *** [Ac 9h 4c]
+MrHuntery: bets $0.45
+oohmenuts: folds 
+Uncalled bet ($0.45) returned to MrHuntery
+MrHuntery collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ac 9h 4c]
+Seat 1: bagemono23 (big blind) folded before Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) folded on the Flop
+Seat 6: MrHuntery (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #222972828651:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:50 ET
+Table 'Kastalia II' 6-max Seat #6 is the button
+Seat 1: bagemono23 ($4.90 in chips) 
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($11.86 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.69 in chips) 
+Seat 6: MrHuntery ($32.93 in chips) 
+bagemono23: posts small blind $0.05
+GoodmanAR: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: folds 
+MrHuntery: folds 
+bagemono23: folds 
+Uncalled bet ($0.05) returned to GoodmanAR
+GoodmanAR collected $0.10 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bagemono23 (small blind) folded before Flop
+Seat 2: GoodmanAR (big blind) collected ($0.10)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972850730:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:04 ET
+Table 'Kastalia II' 6-max Seat #1 is the button
+Seat 1: bagemono23 ($4.85 in chips) 
+Seat 2: GoodmanAR ($15.01 in chips) 
+Seat 3: SchuhaRt71 ($11.86 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($4.69 in chips) 
+Seat 6: MrHuntery ($32.93 in chips) 
+GoodmanAR: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+bagemono23: calls $0.10
+GoodmanAR: folds 
+SchuhaRt71: raises $0.35 to $0.45
+oohmenuts: calls $0.35
+bagemono23: calls $0.35
+*** FLOP *** [6c 7h Jh]
+SchuhaRt71: checks 
+oohmenuts: checks 
+bagemono23: bets $0.67
+SchuhaRt71: folds 
+oohmenuts: calls $0.67
+*** TURN *** [6c 7h Jh] [9s]
+oohmenuts: checks 
+bagemono23: bets $1
+oohmenuts: calls $1
+*** RIVER *** [6c 7h Jh 9s] [Ah]
+oohmenuts: checks 
+bagemono23: bets $2.26
+oohmenuts: folds 
+Uncalled bet ($2.26) returned to bagemono23
+bagemono23 collected $4.53 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.74 | Rake $0.21 
+Board [6c 7h Jh 9s Ah]
+Seat 1: bagemono23 (button) collected ($4.53)
+Seat 2: GoodmanAR (small blind) folded before Flop
+Seat 3: SchuhaRt71 (big blind) folded on the Flop
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts folded on the River
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972911896:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:18 ET
+Table 'Kastalia II' 6-max Seat #2 is the button
+Seat 1: bagemono23 ($7.26 in chips) 
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($11.41 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($2.57 in chips) 
+Seat 6: MrHuntery ($32.93 in chips) 
+SchuhaRt71: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+oohmenuts: folds 
+MrHuntery: folds 
+bagemono23: calls $0.10
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: checks 
+*** FLOP *** [6c 8h 3h]
+AAAcostA: checks 
+bagemono23: bets $0.24
+AAAcostA: calls $0.24
+*** TURN *** [6c 8h 3h] [9c]
+AAAcostA: checks 
+bagemono23: checks 
+*** RIVER *** [6c 8h 3h 9c] [Tc]
+AAAcostA: bets $1.05
+bagemono23: folds 
+Uncalled bet ($1.05) returned to AAAcostA
+AAAcostA collected $0.70 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [6c 8h 3h 9c Tc]
+Seat 1: bagemono23 folded on the River
+Seat 2: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (small blind) folded before Flop
+Seat 4: AAAcostA (big blind) collected ($0.70)
+Seat 5: oohmenuts folded before Flop (didn't bet)
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972939164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:51 ET
+Table 'Kastalia II' 6-max Seat #3 is the button
+Seat 1: bagemono23 ($6.92 in chips) 
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10.36 in chips) 
+Seat 5: oohmenuts ($8.23 in chips) 
+Seat 6: MrHuntery ($32.93 in chips) 
+AAAcostA: posts small blind $0.05
+oohmenuts: posts big blind $0.10
+*** HOLE CARDS ***
+MrHuntery: folds 
+bagemono23: raises $0.25 to $0.35
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: raises $0.55 to $0.90
+oohmenuts: folds 
+bagemono23: raises $1.90 to $2.80
+AAAcostA: folds 
+Uncalled bet ($1.90) returned to bagemono23
+bagemono23 collected $1.90 from pot
+bagemono23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.90 | Rake $0 
+Seat 1: bagemono23 collected ($1.90)
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 (button) folded before Flop (didn't bet)
+Seat 4: AAAcostA (small blind) folded before Flop
+Seat 5: oohmenuts (big blind) folded before Flop
+Seat 6: MrHuntery folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972967912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:42:26 ET
+Table 'Kastalia II' 6-max Seat #4 is the button
+Seat 1: bagemono23 ($7.92 in chips) 
+Seat 2: GoodmanAR ($14.96 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.13 in chips) 
+Seat 6: MrHuntery ($32.93 in chips) 
+oohmenuts: posts small blind $0.05
+MrHuntery: posts big blind $0.10
+*** HOLE CARDS ***
+bagemono23: calls $0.10
+GoodmanAR: raises $0.40 to $0.50
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: folds 
+MrHuntery: folds 
+bagemono23: calls $0.40
+*** FLOP *** [3c Jd 9s]
+bagemono23: checks 
+GoodmanAR: bets $0.36
+bagemono23: folds 
+Uncalled bet ($0.36) returned to GoodmanAR
+GoodmanAR collected $1.10 from pot
+GoodmanAR: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [3c Jd 9s]
+Seat 1: bagemono23 folded on the Flop
+Seat 2: GoodmanAR collected ($1.10)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: oohmenuts (small blind) folded before Flop
+Seat 6: MrHuntery (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972993154:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:42:57 ET
+Table 'Kastalia II' 6-max Seat #5 is the button
+Seat 1: bagemono23 ($7.42 in chips) 
+Seat 2: GoodmanAR ($15.56 in chips) 
+Seat 3: SchuhaRt71 ($11.36 in chips) 
+Seat 4: AAAcostA ($10 in chips) 
+Seat 5: oohmenuts ($8.08 in chips) 
+Seat 6: MrHuntery ($32.83 in chips) 
+MrHuntery: posts small blind $0.05
+bagemono23: posts big blind $0.10
+*** HOLE CARDS ***
+GoodmanAR: folds 
+SchuhaRt71: folds 
+AAAcostA: folds 
+oohmenuts: calls $0.10
+MrHuntery: folds 
+bagemono23: checks 
+*** FLOP *** [4d Js Th]
+bagemono23: checks 
+oohmenuts: bets $0.24
+bagemono23: folds 
+Uncalled bet ($0.24) returned to oohmenuts
+oohmenuts collected $0.24 from pot
+oohmenuts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d Js Th]
+Seat 1: bagemono23 (big blind) folded on the Flop
+Seat 2: GoodmanAR folded before Flop (didn't bet)
+Seat 3: SchuhaRt71 folded before Flop (didn't bet)
+Seat 4: AAAcostA folded before Flop (didn't bet)
+Seat 5: oohmenuts (button) collected ($0.24)
+Seat 6: MrHuntery (small blind) folded before Flop
+
+
+

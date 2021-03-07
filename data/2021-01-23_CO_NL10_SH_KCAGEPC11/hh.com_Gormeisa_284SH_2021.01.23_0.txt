@@ -1,0 +1,1420 @@
+﻿PokerStars Hand #222980696384:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:56:32 ET
+Table 'Gormeisa III' 6-max Seat #1 is the button
+Seat 1: macbeth11 ($9.25 in chips) 
+Seat 2: 0nix770 ($10.10 in chips) 
+Seat 3: kettari.13 ($10 in chips) 
+Seat 6: Grand7776 ($10.48 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: posts big blind $0.10
+*** HOLE CARDS ***
+Grand7776: folds 
+macbeth11: calls $0.10
+0nix770: calls $0.05
+kettari.13: raises $0.40 to $0.50
+macbeth11: folds 
+0nix770: folds 
+Uncalled bet ($0.40) returned to kettari.13
+kettari.13 collected $0.30 from pot
+kettari.13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: macbeth11 (button) folded before Flop
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: kettari.13 (big blind) collected ($0.30)
+Seat 6: Grand7776 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980705691:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:56:58 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 1: macbeth11 ($9.15 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 3: kettari.13 ($10.20 in chips) 
+Seat 6: Grand7776 ($10.48 in chips) 
+kettari.13: posts small blind $0.05
+Grand7776: posts big blind $0.10
+*** HOLE CARDS ***
+macbeth11: calls $0.10
+0nix770: folds 
+kettari.13: folds 
+Grand7776: checks 
+*** FLOP *** [6c As 5d]
+Grand7776: checks 
+gorenalex joins the table at seat #4 
+macbeth11: checks 
+*** TURN *** [6c As 5d] [Td]
+Grand7776: checks 
+macbeth11: checks 
+*** RIVER *** [6c As 5d Td] [2d]
+mavun322 joins the table at seat #5 
+Grand7776: checks 
+macbeth11: checks 
+*** SHOW DOWN ***
+Grand7776: shows [4h Qc] (high card Ace)
+macbeth11: shows [7s 6d] (a pair of Sixes)
+macbeth11 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c As 5d Td 2d]
+Seat 1: macbeth11 showed [7s 6d] and won ($0.24) with a pair of Sixes
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: kettari.13 (small blind) folded before Flop
+Seat 6: Grand7776 (big blind) showed [4h Qc] and lost with high card Ace
+
+
+
+PokerStars Hand #222980719890:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:37 ET
+Table 'Gormeisa III' 6-max Seat #3 is the button
+Seat 1: macbeth11 ($9.29 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 3: kettari.13 ($10.15 in chips) 
+Seat 6: Grand7776 ($10.38 in chips) 
+Grand7776: posts small blind $0.05
+macbeth11: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: raises $0.15 to $0.25
+kettari.13: folds 
+Grand7776: folds 
+macbeth11: folds 
+Uncalled bet ($0.15) returned to 0nix770
+0nix770 collected $0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: macbeth11 (big blind) folded before Flop
+Seat 2: 0nix770 collected ($0.25)
+Seat 3: kettari.13 (button) folded before Flop (didn't bet)
+Seat 6: Grand7776 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980723211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:57:46 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 1: macbeth11 ($9.19 in chips) 
+Seat 2: 0nix770 ($10.15 in chips) 
+Seat 3: kettari.13 ($10.15 in chips) 
+Seat 6: Grand7776 ($10.33 in chips) 
+macbeth11: posts small blind $0.05
+0nix770: posts big blind $0.10
+gorenalex: sits out 
+mavun322: sits out 
+*** HOLE CARDS ***
+kettari.13: raises $0.25 to $0.35
+Grand7776: folds 
+macbeth11: calls $0.30
+0nix770: folds 
+*** FLOP *** [9c Jh 7c]
+macbeth11: checks 
+kettari.13: bets $0.20
+macbeth11: calls $0.20
+*** TURN *** [9c Jh 7c] [3h]
+macbeth11: checks 
+kettari.13: bets $0.90
+macbeth11: folds 
+Uncalled bet ($0.90) returned to kettari.13
+kettari.13 collected $1.15 from pot
+kettari.13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [9c Jh 7c 3h]
+Seat 1: macbeth11 (small blind) folded on the Turn
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: kettari.13 collected ($1.15)
+Seat 6: Grand7776 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980732496:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:58:12 ET
+Table 'Gormeisa III' 6-max Seat #1 is the button
+Seat 1: macbeth11 ($8.64 in chips) 
+Seat 2: 0nix770 ($10.05 in chips) 
+Seat 4: gorenalex ($10 in chips) 
+Seat 6: Grand7776 ($10.33 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: is sitting out 
+gorenalex: posts big blind $0.10
+mavun322: sits out 
+*** HOLE CARDS ***
+Grand7776: calls $0.10
+macbeth11: calls $0.10
+0nix770: folds 
+gorenalex: checks 
+*** FLOP *** [Kc 9c 6h]
+gorenalex: checks 
+Grand7776: checks 
+macbeth11: checks 
+*** TURN *** [Kc 9c 6h] [Js]
+gorenalex: checks 
+Grand7776: checks 
+macbeth11: checks 
+*** RIVER *** [Kc 9c 6h Js] [3h]
+gorenalex: bets $0.33
+Grand7776: folds 
+macbeth11: folds 
+Uncalled bet ($0.33) returned to gorenalex
+gorenalex collected $0.33 from pot
+gorenalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [Kc 9c 6h Js 3h]
+Seat 1: macbeth11 (button) folded on the River
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 4: gorenalex (big blind) collected ($0.33)
+Seat 6: Grand7776 folded on the River
+
+
+
+PokerStars Hand #222980752962:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:09 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 1: macbeth11 ($8.54 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($10.23 in chips) 
+Seat 5: mavun322 ($10 in chips) 
+Seat 6: Grand7776 ($10.23 in chips) 
+gorenalex: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+Grand7776: folds 
+Grand7776 leaves the table
+macbeth11: folds 
+0nix770: folds 
+gorenalex: folds 
+Uncalled bet ($0.05) returned to mavun322
+mavun322 collected $0.10 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: macbeth11 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 4: gorenalex (small blind) folded before Flop
+Seat 5: mavun322 (big blind) collected ($0.10)
+Seat 6: Grand7776 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980754939:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:14 ET
+Table 'Gormeisa III' 6-max Seat #4 is the button
+Seat 1: macbeth11 ($8.54 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($10.18 in chips) 
+Seat 5: mavun322 ($10.05 in chips) 
+mavun322: posts small blind $0.05
+macbeth11: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+gorenalex: raises $0.20 to $0.30
+mavun322: calls $0.25
+macbeth11: folds 
+*** FLOP *** [3d 8h Qc]
+maldonado01 joins the table at seat #6 
+mavun322: checks 
+gorenalex: checks 
+*** TURN *** [3d 8h Qc] [2s]
+mavun322: checks 
+gorenalex: checks 
+*** RIVER *** [3d 8h Qc 2s] [6s]
+mavun322: checks 
+gorenalex: checks 
+*** SHOW DOWN ***
+mavun322: shows [4s 4c] (a pair of Fours)
+gorenalex: mucks hand 
+mavun322 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3d 8h Qc 2s 6s]
+Seat 1: macbeth11 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 4: gorenalex (button) mucked
+Seat 5: mavun322 (small blind) showed [4s 4c] and won ($0.67) with a pair of Fours
+
+
+
+PokerStars Hand #222980768437:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 19:59:51 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 1: macbeth11 ($8.44 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($9.88 in chips) 
+Seat 5: mavun322 ($10.42 in chips) 
+macbeth11: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+gorenalex: folds 
+mavun322: raises $0.20 to $0.30
+macbeth11: folds 
+0nix770: folds 
+Uncalled bet ($0.20) returned to mavun322
+mavun322 collected $0.25 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: macbeth11 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222980773003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:03 ET
+Table 'Gormeisa III' 6-max Seat #1 is the button
+Seat 1: macbeth11 ($8.39 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($9.88 in chips) 
+Seat 5: mavun322 ($10.57 in chips) 
+Seat 6: maldonado01 ($10 in chips) 
+0nix770: posts small blind $0.05
+gorenalex: posts big blind $0.10
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: folds 
+maldonado01: checks 
+macbeth11: folds 
+0nix770: folds 
+gorenalex: checks 
+*** FLOP *** [Th 3d 2d]
+gorenalex: checks 
+maldonado01: bets $0.24
+gorenalex: calls $0.24
+*** TURN *** [Th 3d 2d] [Ad]
+gorenalex: checks 
+maldonado01: checks 
+*** RIVER *** [Th 3d 2d Ad] [7d]
+gorenalex: bets $0.70
+maldonado01: folds 
+Uncalled bet ($0.70) returned to gorenalex
+gorenalex collected $0.70 from pot
+gorenalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Th 3d 2d Ad 7d]
+Seat 1: macbeth11 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 4: gorenalex (big blind) collected ($0.70)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 folded on the River
+
+
+
+PokerStars Hand #222980784805:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:32 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 1: macbeth11 ($8.39 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($10.24 in chips) 
+Seat 5: mavun322 ($10.57 in chips) 
+Seat 6: maldonado01 ($9.66 in chips) 
+gorenalex: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: folds 
+macbeth11: calls $0.10
+0nix770: folds 
+gorenalex: raises $0.30 to $0.40
+mavun322: folds 
+macbeth11: calls $0.30
+*** FLOP *** [Kd 2c 3h]
+gorenalex: bets $0.43
+macbeth11: folds 
+Uncalled bet ($0.43) returned to gorenalex
+gorenalex collected $0.86 from pot
+gorenalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Kd 2c 3h]
+Seat 1: macbeth11 folded on the Flop
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 4: gorenalex (small blind) collected ($0.86)
+Seat 5: mavun322 (big blind) folded before Flop
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980796166:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:00:59 ET
+Table 'Gormeisa III' 6-max Seat #4 is the button
+Seat 1: macbeth11 ($7.99 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($10.70 in chips) 
+Seat 5: mavun322 ($10.47 in chips) 
+Seat 6: maldonado01 ($9.66 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+kettari.13: sits out 
+*** HOLE CARDS ***
+macbeth11: calls $0.10
+0nix770: folds 
+gorenalex: raises $0.30 to $0.40
+mavun322: folds 
+maldonado01: calls $0.30
+macbeth11: calls $0.30
+*** FLOP *** [Jd 9h Qs]
+maldonado01: checks 
+macbeth11: checks 
+gorenalex: bets $1.19
+maldonado01: folds 
+macbeth11: folds 
+Uncalled bet ($1.19) returned to gorenalex
+gorenalex collected $1.19 from pot
+gorenalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jd 9h Qs]
+Seat 1: macbeth11 folded on the Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 4: gorenalex (button) collected ($1.19)
+Seat 5: mavun322 (small blind) folded before Flop
+Seat 6: maldonado01 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222980807002:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:01:24 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 1: macbeth11 ($7.59 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 4: gorenalex ($11.49 in chips) 
+Seat 5: mavun322 ($10.42 in chips) 
+Seat 6: maldonado01 ($9.26 in chips) 
+maldonado01: posts small blind $0.05
+macbeth11: posts big blind $0.10
+kettari.13: sits out 
+*** HOLE CARDS ***
+0nix770: raises $0.20 to $0.30
+gorenalex: folds 
+mavun322: folds 
+maldonado01: folds 
+macbeth11: folds 
+Uncalled bet ($0.20) returned to 0nix770
+0nix770 collected $0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: macbeth11 (big blind) folded before Flop
+Seat 2: 0nix770 collected ($0.25)
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 (button) folded before Flop (didn't bet)
+Seat 6: maldonado01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980809608:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:01:30 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 1: macbeth11 ($7.49 in chips) 
+Seat 2: 0nix770 ($10.15 in chips) 
+Seat 4: gorenalex ($11.49 in chips) 
+Seat 5: mavun322 ($10.42 in chips) 
+Seat 6: maldonado01 ($9.21 in chips) 
+macbeth11: posts small blind $0.05
+0nix770: posts big blind $0.10
+kettari.13: sits out 
+*** HOLE CARDS ***
+gorenalex: folds 
+mavun322: folds 
+maldonado01: raises $0.20 to $0.30
+macbeth11: calls $0.25
+0nix770: raises $1 to $1.30
+maldonado01: calls $1
+macbeth11: folds 
+*** FLOP *** [9h 6s 9c]
+0nix770: bets $1
+maldonado01: raises $1.99 to $2.99
+0nix770: raises $5.86 to $8.85 and is all-in
+maldonado01: calls $4.92 and is all-in
+Uncalled bet ($0.94) returned to 0nix770
+*** TURN *** [9h 6s 9c] [7h]
+*** RIVER *** [9h 6s 9c 7h] [5h]
+*** SHOW DOWN ***
+0nix770: shows [Ah Qh] (a flush, Ace high)
+maldonado01: shows [7c 7s] (a full house, Sevens full of Nines)
+maldonado01 collected $17.88 from pot
+*** SUMMARY ***
+Total pot $18.72 | Rake $0.84 
+Board [9h 6s 9c 7h 5h]
+Seat 1: macbeth11 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) showed [Ah Qh] and lost with a flush, Ace high
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 (button) showed [7c 7s] and won ($17.88) with a full house, Sevens full of Nines
+
+
+
+PokerStars Hand #222980830168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:02:16 ET
+Table 'Gormeisa III' 6-max Seat #1 is the button
+Seat 1: macbeth11 ($7.19 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 3: kettari.13 ($10.75 in chips) 
+Seat 4: gorenalex ($11.49 in chips) 
+Seat 5: mavun322 ($10.42 in chips) 
+Seat 6: maldonado01 ($17.88 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: posts big blind $0.10
+*** HOLE CARDS ***
+gorenalex: folds 
+mavun322: folds 
+maldonado01: raises $0.20 to $0.30
+macbeth11: folds 
+0nix770: raises $0.80 to $1.10
+kettari.13: folds 
+maldonado01: folds 
+Uncalled bet ($0.80) returned to 0nix770
+0nix770 collected $0.70 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: macbeth11 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) collected ($0.70)
+Seat 3: kettari.13 (big blind) folded before Flop
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 folded before Flop
+
+
+
+PokerStars Hand #222980840024:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:02:37 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 1: macbeth11 ($7.19 in chips) 
+Seat 2: 0nix770 ($10.40 in chips) 
+Seat 3: kettari.13 ($10.65 in chips) 
+Seat 4: gorenalex ($11.49 in chips) 
+Seat 5: mavun322 ($10.42 in chips) 
+Seat 6: maldonado01 ($17.58 in chips) 
+kettari.13: posts small blind $0.05
+gorenalex: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: folds 
+maldonado01: folds 
+macbeth11: calls $0.10
+0nix770: folds 
+kettari.13: folds 
+gorenalex: checks 
+*** FLOP *** [7d 4s Qs]
+gorenalex: checks 
+macbeth11: checks 
+*** TURN *** [7d 4s Qs] [6c]
+gorenalex: bets $0.24
+macbeth11: calls $0.24
+*** RIVER *** [7d 4s Qs 6c] [3h]
+gorenalex: bets $0.70
+macbeth11: raises $0.70 to $1.40
+gorenalex: calls $0.70
+*** SHOW DOWN ***
+macbeth11: shows [Th 5h] (a straight, Three to Seven)
+gorenalex: mucks hand 
+macbeth11 collected $3.37 from pot
+*** SUMMARY ***
+Total pot $3.53 | Rake $0.16 
+Board [7d 4s Qs 6c 3h]
+Seat 1: macbeth11 showed [Th 5h] and won ($3.37) with a straight, Three to Seven
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 3: kettari.13 (small blind) folded before Flop
+Seat 4: gorenalex (big blind) mucked
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980866276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:03:28 ET
+Table 'Gormeisa III' 6-max Seat #3 is the button
+Seat 1: macbeth11 ($8.82 in chips) 
+Seat 2: 0nix770 ($10.40 in chips) 
+Seat 3: kettari.13 ($10.60 in chips) 
+Seat 4: gorenalex ($9.75 in chips) 
+Seat 5: mavun322 ($10.42 in chips) 
+Seat 6: maldonado01 ($17.58 in chips) 
+gorenalex: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: folds 
+macbeth11: calls $0.10
+0nix770: raises $0.40 to $0.50
+kettari.13: raises $1.10 to $1.60
+gorenalex: folds 
+mavun322: folds 
+macbeth11: folds 
+0nix770: folds 
+Uncalled bet ($1.10) returned to kettari.13
+kettari.13 collected $1.25 from pot
+kettari.13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: macbeth11 folded before Flop
+Seat 2: 0nix770 folded before Flop
+Seat 3: kettari.13 (button) collected ($1.25)
+Seat 4: gorenalex (small blind) folded before Flop
+Seat 5: mavun322 (big blind) folded before Flop
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980884599:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:04:07 ET
+Table 'Gormeisa III' 6-max Seat #4 is the button
+Seat 1: macbeth11 ($8.72 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.70 in chips) 
+Seat 5: mavun322 ($10.32 in chips) 
+Seat 6: maldonado01 ($17.58 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+macbeth11: calls $0.10
+0nix770: folds 
+kettari.13: folds 
+gorenalex: raises $0.30 to $0.40
+mavun322: folds 
+maldonado01: folds 
+macbeth11: folds 
+Uncalled bet ($0.30) returned to gorenalex
+gorenalex collected $0.35 from pot
+gorenalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: macbeth11 folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 4: gorenalex (button) collected ($0.35)
+Seat 5: mavun322 (small blind) folded before Flop
+Seat 6: maldonado01 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980900886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:04:29 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 1: macbeth11 ($8.62 in chips) 
+Seat 2: 0nix770 ($10 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.95 in chips) 
+Seat 5: mavun322 ($10.27 in chips) 
+Seat 6: maldonado01 ($17.48 in chips) 
+maldonado01: posts small blind $0.05
+macbeth11: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: raises $0.20 to $0.30
+kettari.13: folds 
+gorenalex: folds 
+mavun322: folds 
+maldonado01: calls $0.25
+macbeth11: folds 
+*** FLOP *** [Jc 2d Qd]
+maldonado01: checks 
+0nix770: bets $0.38
+maldonado01: calls $0.38
+*** TURN *** [Jc 2d Qd] [Kh]
+maldonado01: checks 
+0nix770: bets $1.23
+maldonado01: calls $1.23
+*** RIVER *** [Jc 2d Qd Kh] [6s]
+maldonado01: checks 
+0nix770: bets $8.09 and is all-in
+maldonado01: folds 
+Uncalled bet ($8.09) returned to 0nix770
+0nix770 collected $3.74 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.92 | Rake $0.18 
+Board [Jc 2d Qd Kh 6s]
+Seat 1: macbeth11 (big blind) folded before Flop
+Seat 2: 0nix770 collected ($3.74)
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 (button) folded before Flop (didn't bet)
+Seat 6: maldonado01 (small blind) folded on the River
+
+
+
+PokerStars Hand #222980912881:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:04:55 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 1: macbeth11 ($8.52 in chips) 
+Seat 2: 0nix770 ($11.83 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.95 in chips) 
+Seat 5: mavun322 ($10.27 in chips) 
+Seat 6: maldonado01 ($15.57 in chips) 
+macbeth11: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+kettari.13: folds 
+gorenalex: raises $0.20 to $0.30
+mavun322: folds 
+maldonado01: folds 
+macbeth11: folds 
+0nix770: folds 
+Uncalled bet ($0.20) returned to gorenalex
+gorenalex collected $0.25 from pot
+gorenalex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: macbeth11 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 4: gorenalex collected ($0.25)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980918926:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:05:08 ET
+Table 'Gormeisa III' 6-max Seat #1 is the button
+Seat 1: macbeth11 ($8.47 in chips) 
+Seat 2: 0nix770 ($11.73 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($10.10 in chips) 
+Seat 5: mavun322 ($10.27 in chips) 
+Seat 6: maldonado01 ($15.57 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: posts big blind $0.10
+*** HOLE CARDS ***
+gorenalex: folds 
+mavun322: folds 
+maldonado01: folds 
+macbeth11: folds 
+0nix770: folds 
+Uncalled bet ($0.05) returned to kettari.13
+kettari.13 collected $0.10 from pot
+kettari.13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: macbeth11 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: kettari.13 (big blind) collected ($0.10)
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980923461:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:05:18 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 1: macbeth11 ($8.47 in chips) 
+Seat 2: 0nix770 ($11.68 in chips) 
+Seat 3: kettari.13 ($11.40 in chips) 
+Seat 4: gorenalex ($10.10 in chips) 
+Seat 5: mavun322 ($10.27 in chips) 
+Seat 6: maldonado01 ($15.57 in chips) 
+kettari.13: posts small blind $0.05
+gorenalex: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: folds 
+maldonado01: folds 
+macbeth11: folds 
+0nix770: raises $0.13 to $0.23
+kettari.13: folds 
+gorenalex: folds 
+Uncalled bet ($0.13) returned to 0nix770
+0nix770 collected $0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: macbeth11 folded before Flop (didn't bet)
+Seat 2: 0nix770 (button) collected ($0.25)
+Seat 3: kettari.13 (small blind) folded before Flop
+Seat 4: gorenalex (big blind) folded before Flop
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980928368:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:05:28 ET
+Table 'Gormeisa III' 6-max Seat #3 is the button
+Seat 1: macbeth11 ($8.47 in chips) 
+Seat 2: 0nix770 ($11.83 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($10 in chips) 
+Seat 5: mavun322 ($10.27 in chips) 
+Seat 6: maldonado01 ($15.57 in chips) 
+gorenalex: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: folds 
+macbeth11: calls $0.10
+0nix770: raises $0.30 to $0.40
+kettari.13: folds 
+gorenalex: folds 
+mavun322: folds 
+macbeth11: folds 
+Uncalled bet ($0.30) returned to 0nix770
+0nix770 collected $0.35 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: macbeth11 folded before Flop
+Seat 2: 0nix770 collected ($0.35)
+Seat 3: kettari.13 (button) folded before Flop (didn't bet)
+Seat 4: gorenalex (small blind) folded before Flop
+Seat 5: mavun322 (big blind) folded before Flop
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980936708:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:05:46 ET
+Table 'Gormeisa III' 6-max Seat #4 is the button
+Seat 1: macbeth11 ($8.37 in chips) 
+Seat 2: 0nix770 ($12.08 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.95 in chips) 
+Seat 5: mavun322 ($10.17 in chips) 
+Seat 6: maldonado01 ($15.57 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+macbeth11: folds 
+0nix770: raises $0.20 to $0.30
+kettari.13: folds 
+gorenalex: folds 
+mavun322: raises $0.90 to $1.20
+maldonado01: folds 
+0nix770: folds 
+Uncalled bet ($0.90) returned to mavun322
+mavun322 collected $0.70 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: macbeth11 folded before Flop (didn't bet)
+Seat 2: 0nix770 folded before Flop
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 4: gorenalex (button) folded before Flop (didn't bet)
+Seat 5: mavun322 (small blind) collected ($0.70)
+Seat 6: maldonado01 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980943844:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:06:01 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 1: macbeth11 ($8.37 in chips) 
+Seat 2: 0nix770 ($11.78 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.95 in chips) 
+Seat 5: mavun322 ($10.57 in chips) 
+Seat 6: maldonado01 ($15.47 in chips) 
+maldonado01: posts small blind $0.05
+macbeth11: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+kettari.13: folds 
+gorenalex: folds 
+mavun322: raises $0.20 to $0.30
+maldonado01: calls $0.25
+macbeth11: folds 
+*** FLOP *** [2c Ah Ad]
+maldonado01: checks 
+mavun322: bets $0.20
+maldonado01: calls $0.20
+*** TURN *** [2c Ah Ad] [9h]
+maldonado01: checks 
+mavun322: bets $0.53
+maldonado01: calls $0.53
+*** RIVER *** [2c Ah Ad 9h] [Jd]
+maldonado01: checks 
+mavun322: bets $1.65
+maldonado01: calls $1.65
+*** SHOW DOWN ***
+mavun322: shows [As Th] (three of a kind, Aces)
+maldonado01: mucks hand 
+mavun322 collected $5.21 from pot
+*** SUMMARY ***
+Total pot $5.46 | Rake $0.25 
+Board [2c Ah Ad 9h Jd]
+Seat 1: macbeth11 (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 (button) showed [As Th] and won ($5.21) with three of a kind, Aces
+Seat 6: maldonado01 (small blind) mucked
+
+
+
+PokerStars Hand #222980969294:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:06:56 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 1: macbeth11 ($8.27 in chips) 
+Seat 2: 0nix770 ($11.78 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.95 in chips) 
+Seat 5: mavun322 ($13.10 in chips) 
+Seat 6: maldonado01 ($12.79 in chips) 
+macbeth11: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+kettari.13: folds 
+gorenalex: folds 
+mavun322: folds 
+maldonado01: raises $0.20 to $0.30
+macbeth11: folds 
+0nix770: calls $0.20
+*** FLOP *** [Ks 9h Kh]
+0nix770: checks 
+maldonado01: bets $0.62
+0nix770: folds 
+Uncalled bet ($0.62) returned to maldonado01
+maldonado01 collected $0.62 from pot
+maldonado01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ks 9h Kh]
+Seat 1: macbeth11 (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) folded on the Flop
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 (button) collected ($0.62)
+
+
+
+PokerStars Hand #222980977906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:07:15 ET
+Table 'Gormeisa III' 6-max Seat #1 is the button
+Seat 1: macbeth11 ($8.22 in chips) 
+Seat 2: 0nix770 ($11.48 in chips) 
+Seat 3: kettari.13 ($11.35 in chips) 
+Seat 4: gorenalex ($9.95 in chips) 
+Seat 5: mavun322 ($13.10 in chips) 
+Seat 6: maldonado01 ($13.11 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: posts big blind $0.10
+*** HOLE CARDS ***
+gorenalex: folds 
+gorenalex leaves the table
+mavun322: folds 
+maldonado01: folds 
+macbeth11: folds 
+ddoshkova joins the table at seat #4 
+0nix770: raises $0.20 to $0.30
+ddoshkova leaves the table
+kettari.13: folds 
+Uncalled bet ($0.20) returned to 0nix770
+0nix770 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: macbeth11 (button) folded before Flop (didn't bet)
+Seat 2: 0nix770 (small blind) collected ($0.20)
+Seat 3: kettari.13 (big blind) folded before Flop
+Seat 4: gorenalex folded before Flop (didn't bet)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980984289:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:07:29 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 2: 0nix770 ($11.58 in chips) 
+Seat 3: kettari.13 ($11.25 in chips) 
+Seat 5: mavun322 ($13.10 in chips) 
+Seat 6: maldonado01 ($13.11 in chips) 
+kettari.13: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: folds 
+macbeth11 leaves the table
+0nix770: raises $0.13 to $0.23
+kettari.13: folds 
+mavun322: folds 
+Uncalled bet ($0.13) returned to 0nix770
+0nix770 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: 0nix770 (button) collected ($0.25)
+Seat 3: kettari.13 (small blind) folded before Flop
+Seat 5: mavun322 (big blind) folded before Flop
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980988731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:07:38 ET
+Table 'Gormeisa III' 6-max Seat #3 is the button
+Seat 2: 0nix770 ($11.73 in chips) 
+Seat 3: kettari.13 ($11.20 in chips) 
+Seat 5: mavun322 ($13 in chips) 
+Seat 6: maldonado01 ($13.11 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: raises $0.15 to $0.25
+kettari.13: folds 
+mavun322: folds 
+maldonado01: calls $0.15
+*** FLOP *** [7d 6s 9s]
+maldonado01: checks 
+0nix770: bets $0.29
+maldonado01: calls $0.29
+*** TURN *** [7d 6s 9s] [6d]
+maldonado01: checks 
+0nix770: checks 
+*** RIVER *** [7d 6s 9s 6d] [Js]
+gorenalex joins the table at seat #1 
+maldonado01: bets $1.08
+0nix770: folds 
+Uncalled bet ($1.08) returned to maldonado01
+maldonado01 collected $1.08 from pot
+maldonado01: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.05 
+Board [7d 6s 9s 6d Js]
+Seat 2: 0nix770 folded on the River
+Seat 3: kettari.13 (button) folded before Flop (didn't bet)
+Seat 5: mavun322 (small blind) folded before Flop
+Seat 6: maldonado01 (big blind) collected ($1.08)
+
+
+
+PokerStars Hand #222981001418:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:06 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 1: gorenalex ($10 in chips) 
+Seat 2: 0nix770 ($11.19 in chips) 
+Seat 3: kettari.13 ($11.20 in chips) 
+Seat 5: mavun322 ($12.95 in chips) 
+Seat 6: maldonado01 ($13.65 in chips) 
+maldonado01: posts small blind $0.05
+gorenalex: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+kettari.13: folds 
+mavun322: raises $0.20 to $0.30
+maldonado01: folds 
+gorenalex: folds 
+Uncalled bet ($0.20) returned to mavun322
+mavun322 collected $0.25 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gorenalex (big blind) folded before Flop
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 5: mavun322 (button) collected ($0.25)
+Seat 6: maldonado01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981007203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:19 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 1: gorenalex ($9.90 in chips) 
+Seat 2: 0nix770 ($11.19 in chips) 
+Seat 3: kettari.13 ($11.20 in chips) 
+Seat 5: mavun322 ($13.10 in chips) 
+Seat 6: maldonado01 ($13.60 in chips) 
+gorenalex: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+kettari.13: folds 
+mavun322: folds 
+maldonado01: folds 
+gorenalex: folds 
+Uncalled bet ($0.05) returned to 0nix770
+gorenalex leaves the table
+0nix770 collected $0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gorenalex (small blind) folded before Flop
+Seat 2: 0nix770 (big blind) collected ($0.10)
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 5: mavun322 folded before Flop (didn't bet)
+Seat 6: maldonado01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981010114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:08:25 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 2: 0nix770 ($11.24 in chips) 
+Seat 3: kettari.13 ($11.20 in chips) 
+Seat 5: mavun322 ($13.10 in chips) 
+Seat 6: maldonado01 ($13.60 in chips) 
+kettari.13: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: folds 
+0nix770: raises $0.13 to $0.23
+kettari.13: calls $0.18
+mavun322: calls $0.13
+*** FLOP *** [9s 9h 2d]
+kettari.13: checks 
+mavun322: checks 
+0nix770: bets $0.24
+kettari.13: folds 
+mavun322: calls $0.24
+*** TURN *** [9s 9h 2d] [4d]
+mavun322: checks 
+0nix770: bets $0.46
+mavun322: calls $0.46
+*** RIVER *** [9s 9h 2d 4d] [Ks]
+mavun322: checks 
+0nix770: checks 
+*** SHOW DOWN ***
+mavun322: shows [Ad 8d] (a pair of Nines)
+0nix770: shows [4h 3h] (two pair, Nines and Fours)
+0nix770 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.09 | Rake $0.09 
+Board [9s 9h 2d 4d Ks]
+Seat 2: 0nix770 (button) showed [4h 3h] and won ($2) with two pair, Nines and Fours
+Seat 3: kettari.13 (small blind) folded on the Flop
+Seat 5: mavun322 (big blind) showed [Ad 8d] and lost with a pair of Nines
+Seat 6: maldonado01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981050699:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:09:33 ET
+Table 'Gormeisa III' 6-max Seat #3 is the button
+Seat 2: 0nix770 ($12.31 in chips) 
+Seat 3: kettari.13 ($10.97 in chips) 
+Seat 5: mavun322 ($12.17 in chips) 
+Seat 6: maldonado01 ($13.60 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+kettari.13: folds 
+mavun322: folds 
+Uncalled bet ($0.05) returned to maldonado01
+maldonado01 collected $0.10 from pot
+maldonado01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: 0nix770 folded before Flop (didn't bet)
+Seat 3: kettari.13 (button) folded before Flop (didn't bet)
+Seat 5: mavun322 (small blind) folded before Flop
+Seat 6: maldonado01 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222981054677:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:09:42 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 2: 0nix770 ($12.31 in chips) 
+Seat 3: kettari.13 ($10.97 in chips) 
+Seat 5: mavun322 ($12.12 in chips) 
+Seat 6: maldonado01 ($13.65 in chips) 
+maldonado01: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+kettari.13: folds 
+mavun322: folds 
+maldonado01: raises $0.20 to $0.30
+0nix770: calls $0.20
+*** FLOP *** [6s Qs 5s]
+maldonado01: checks 
+0nix770: checks 
+*** TURN *** [6s Qs 5s] [2d]
+maldonado01: bets $0.28
+0nix770: calls $0.28
+*** RIVER *** [6s Qs 5s 2d] [8c]
+maldonado01: bets $1.11
+0nix770: calls $1.11
+*** SHOW DOWN ***
+maldonado01: shows [7s 9c] (a straight, Five to Nine)
+0nix770: mucks hand 
+maldonado01 collected $3.23 from pot
+*** SUMMARY ***
+Total pot $3.38 | Rake $0.15 
+Board [6s Qs 5s 2d 8c]
+Seat 2: 0nix770 (big blind) mucked
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 5: mavun322 (button) folded before Flop (didn't bet)
+Seat 6: maldonado01 (small blind) showed [7s 9c] and won ($3.23) with a straight, Five to Nine
+
+
+
+PokerStars Hand #222981068080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:10:12 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 2: 0nix770 ($10.62 in chips) 
+Seat 3: kettari.13 ($10.97 in chips) 
+Seat 5: mavun322 ($12.12 in chips) 
+Seat 6: maldonado01 ($15.19 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: raises $0.20 to $0.30
+maldonado01: folds 
+0nix770: folds 
+kettari.13: folds 
+Uncalled bet ($0.20) returned to mavun322
+mavun322 collected $0.25 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 3: kettari.13 (big blind) folded before Flop
+Seat 5: mavun322 collected ($0.25)
+Seat 6: maldonado01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981072921:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:10:22 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 2: 0nix770 ($10.57 in chips) 
+Seat 3: kettari.13 ($10.87 in chips) 
+Seat 5: mavun322 ($12.27 in chips) 
+Seat 6: maldonado01 ($15.19 in chips) 
+kettari.13: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: calls $0.10
+0nix770: raises $0.30 to $0.40
+kettari.13: folds 
+mavun322: folds 
+maldonado01: calls $0.30
+*** FLOP *** [5s 8d Kd]
+maldonado01: checks 
+0nix770: bets $0.44
+maldonado01: calls $0.44
+*** TURN *** [5s 8d Kd] [8s]
+maldonado01: checks 
+0nix770: bets $1.43
+maldonado01: folds 
+Uncalled bet ($1.43) returned to 0nix770
+0nix770 collected $1.75 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.08 
+Board [5s 8d Kd 8s]
+Seat 2: 0nix770 (button) collected ($1.75)
+Seat 3: kettari.13 (small blind) folded before Flop
+Seat 5: mavun322 (big blind) folded before Flop
+Seat 6: maldonado01 folded on the Turn
+
+
+
+PokerStars Hand #222981090442:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:11:01 ET
+Table 'Gormeisa III' 6-max Seat #3 is the button
+Seat 2: 0nix770 ($11.48 in chips) 
+Seat 3: kettari.13 ($10.82 in chips) 
+Seat 5: mavun322 ($12.17 in chips) 
+Seat 6: maldonado01 ($14.35 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: raises $0.15 to $0.25
+kettari.13: folds 
+mavun322: folds 
+maldonado01: raises $0.55 to $0.80
+0nix770: calls $0.55
+*** FLOP *** [Qc Td 4c]
+maldonado01: bets $1.18
+0nix770: calls $1.18
+*** TURN *** [Qc Td 4c] [Ac]
+maldonado01: bets $1.91
+0nix770: folds 
+Uncalled bet ($1.91) returned to maldonado01
+maldonado01 collected $3.83 from pot
+maldonado01: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.18 
+Board [Qc Td 4c Ac]
+Seat 2: 0nix770 folded on the Turn
+Seat 3: kettari.13 (button) folded before Flop (didn't bet)
+Seat 5: mavun322 (small blind) folded before Flop
+Seat 6: maldonado01 (big blind) collected ($3.83)
+
+
+
+PokerStars Hand #222981110773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:11:46 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 2: 0nix770 ($10 in chips) 
+Seat 3: kettari.13 ($10.82 in chips) 
+Seat 5: mavun322 ($12.12 in chips) 
+Seat 6: maldonado01 ($16.20 in chips) 
+maldonado01: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+kettari.13: folds 
+mavun322: folds 
+maldonado01: calls $0.05
+0nix770: checks 
+*** FLOP *** [5d 9d 7c]
+maldonado01: checks 
+0nix770: bets $0.17
+maldonado01: calls $0.17
+*** TURN *** [5d 9d 7c] [3c]
+maldonado01: checks 
+0nix770: bets $0.91
+maldonado01: calls $0.91
+*** RIVER *** [5d 9d 7c 3c] [6h]
+maldonado01: checks 
+0nix770: bets $0.74
+maldonado01: calls $0.74
+*** SHOW DOWN ***
+0nix770: shows [9h 4s] (a straight, Three to Seven)
+maldonado01: mucks hand 
+0nix770 collected $3.67 from pot
+*** SUMMARY ***
+Total pot $3.84 | Rake $0.17 
+Board [5d 9d 7c 3c 6h]
+Seat 2: 0nix770 (big blind) showed [9h 4s] and won ($3.67) with a straight, Three to Seven
+Seat 3: kettari.13 folded before Flop (didn't bet)
+Seat 5: mavun322 (button) folded before Flop (didn't bet)
+Seat 6: maldonado01 (small blind) mucked
+
+
+
+PokerStars Hand #222981124158:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:12:16 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 2: 0nix770 ($11.75 in chips) 
+Seat 5: mavun322 ($12.12 in chips) 
+Seat 6: maldonado01 ($14.28 in chips) 
+0nix770: posts small blind $0.05
+kettari.13: is sitting out 
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+kettari.13 leaves the table
+maldonado01: calls $0.10
+0nix770: calls $0.05
+mavun322: raises $0.40 to $0.50
+maldonado01: calls $0.40
+0nix770: folds 
+*** FLOP *** [7s 3d Jd]
+mavun322: bets $0.40
+maldonado01: raises $0.83 to $1.23
+mavun322: calls $0.83
+*** TURN *** [7s 3d Jd] [9c]
+mavun322: checks 
+maldonado01: bets $1.70
+mavun322: calls $1.70
+*** RIVER *** [7s 3d Jd 9c] [6d]
+mavun322: bets $8.69 and is all-in
+maldonado01: calls $8.69
+*** SHOW DOWN ***
+mavun322: shows [9d Ad] (a flush, Ace high)
+maldonado01: shows [Td 4d] (a flush, Jack high)
+mavun322 collected $23.34 from pot
+*** SUMMARY ***
+Total pot $24.34 | Rake $1 
+Board [7s 3d Jd 9c 6d]
+Seat 2: 0nix770 (small blind) folded before Flop
+Seat 5: mavun322 (big blind) showed [9d Ad] and won ($23.34) with a flush, Ace high
+Seat 6: maldonado01 (button) showed [Td 4d] and lost with a flush, Jack high
+
+
+
+PokerStars Hand #222981144328:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:01 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 2: 0nix770 ($11.65 in chips) 
+Seat 5: mavun322 ($23.34 in chips) 
+Seat 6: maldonado01 ($2.16 in chips) 
+mavun322: posts small blind $0.05
+maldonado01: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+mavun322: raises $0.20 to $0.30
+maldonado01: calls $0.20
+*** FLOP *** [Qh 2h Jh]
+mavun322: bets $0.20
+maldonado01: folds 
+Uncalled bet ($0.20) returned to mavun322
+mavun322 collected $0.57 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qh 2h Jh]
+Seat 2: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: mavun322 (small blind) collected ($0.57)
+Seat 6: maldonado01 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222981149810:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:13 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 2: 0nix770 ($11.65 in chips) 
+Seat 5: mavun322 ($23.61 in chips) 
+Seat 6: maldonado01 ($1.86 in chips) 
+maldonado01: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: folds 
+maldonado01: folds 
+Uncalled bet ($0.05) returned to 0nix770
+0nix770 collected $0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: 0nix770 (big blind) collected ($0.10)
+Seat 5: mavun322 (button) folded before Flop (didn't bet)
+Seat 6: maldonado01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981153465:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:21 ET
+Table 'Gormeisa III' 6-max Seat #6 is the button
+Seat 2: 0nix770 ($11.70 in chips) 
+Seat 5: mavun322 ($23.61 in chips) 
+Seat 6: maldonado01 ($1.81 in chips) 
+0nix770: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+maldonado01: raises $0.20 to $0.30
+0nix770: raises $0.70 to $1
+mavun322: folds 
+maldonado01: raises $0.81 to $1.81 and is all-in
+0nix770: calls $0.81
+*** FIRST FLOP *** [2c 8h 3c]
+*** FIRST TURN *** [2c 8h 3c] [Jc]
+*** FIRST RIVER *** [2c 8h 3c Jc] [6h]
+*** SECOND FLOP *** [7s 8c 3h]
+*** SECOND TURN *** [7s 8c 3h] [Ts]
+*** SECOND RIVER *** [7s 8c 3h Ts] [5c]
+*** FIRST SHOW DOWN ***
+0nix770: shows [Kh As] (high card Ace)
+maldonado01: shows [Ad Qh] (high card Ace - lower kicker)
+0nix770 collected $1.78 from pot
+*** SECOND SHOW DOWN ***
+0nix770: shows [Kh As] (high card Ace)
+maldonado01: shows [Ad Qh] (high card Ace - lower kicker)
+0nix770 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $3.72 | Rake $0.17 
+Hand was run twice
+FIRST Board [2c 8h 3c Jc 6h]
+SECOND Board [7s 8c 3h Ts 5c]
+Seat 2: 0nix770 (small blind) showed [Kh As] and won ($1.78) with high card Ace, and won ($1.77) with high card Ace
+Seat 5: mavun322 (big blind) folded before Flop
+Seat 6: maldonado01 (button) showed [Ad Qh] and lost with high card Ace, and lost with high card Ace
+
+
+
+PokerStars Hand #222981164822:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:47 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 2: 0nix770 ($13.44 in chips) 
+Seat 5: mavun322 ($23.51 in chips) 
+mavun322: posts small blind $0.05
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: folds 
+Uncalled bet ($0.05) returned to 0nix770
+0nix770 collected $0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: 0nix770 (big blind) collected ($0.10)
+Seat 5: mavun322 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981166447:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:50 ET
+Table 'Gormeisa III' 6-max Seat #2 is the button
+Seat 2: 0nix770 ($13.49 in chips) 
+Seat 5: mavun322 ($23.46 in chips) 
+0nix770: posts small blind $0.05
+mavun322: posts big blind $0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Uncalled bet ($0.05) returned to mavun322
+mavun322 collected $0.10 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: 0nix770 (button) (small blind) folded before Flop
+Seat 5: mavun322 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222981167931:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:13:53 ET
+Table 'Gormeisa III' 6-max Seat #5 is the button
+Seat 2: 0nix770 ($13.44 in chips) 
+Seat 5: mavun322 ($23.51 in chips) 
+mavun322: posts small blind $0.05
+maldonado01 is disconnected 
+0nix770: posts big blind $0.10
+*** HOLE CARDS ***
+mavun322: raises $0.20 to $0.30
+0nix770: folds 
+Uncalled bet ($0.20) returned to mavun322
+mavun322 collected $0.20 from pot
+mavun322: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: 0nix770 (big blind) folded before Flop
+Seat 5: mavun322 (button) (small blind) collected ($0.20)
+
+
+

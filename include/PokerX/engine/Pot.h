@@ -13,8 +13,6 @@ public:
 
     explicit Pot(float value);
 
-    explicit Pot(int value);
-
     Pot &operator+(const Pot &other);
 
     Pot &operator+(const float &amount);

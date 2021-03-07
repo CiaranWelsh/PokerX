@@ -1,0 +1,2201 @@
+﻿PokerStars Hand #222952265175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:37:24 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($9.11 in chips) 
+Seat 2: Dugipokers ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+Black021: sits out 
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996 has timed out
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: checks 
+*** FLOP *** [Qc 2h 6d]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** TURN *** [Qc 2h 6d] [Tc]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** RIVER *** [Qc 2h 6d Tc] [Ts]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+Antonio8812: shows [As 5h] (a pair of Tens)
+8KUZNEC8: shows [Ac 4s] (a pair of Tens)
+Antonio8812 collected $0.12 from pot
+8KUZNEC8 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc 2h 6d Tc Ts]
+Seat 1: 8KUZNEC8 showed [Ac 4s] and won ($0.12) with a pair of Tens
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) showed [As 5h] and won ($0.12) with a pair of Tens
+
+
+
+PokerStars Hand #222952279325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:38:01 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($9.13 in chips) 
+Seat 2: Dugipokers ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.02 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: raises $0.30 to $0.40
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.30
+*** FLOP *** [Ah 2h 3s]
+8KUZNEC8: checks 
+kilativ7: bets $0.50
+8KUZNEC8: calls $0.50
+*** TURN *** [Ah 2h 3s] [8c]
+8KUZNEC8: checks 
+kilativ7: checks 
+*** RIVER *** [Ah 2h 3s 8c] [8h]
+8KUZNEC8: bets $0.93
+kilativ7: folds 
+Uncalled bet ($0.93) returned to 8KUZNEC8
+8KUZNEC8 collected $1.86 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Ah 2h 3s 8c 8h]
+Seat 1: 8KUZNEC8 collected ($1.86)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded on the River
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952294152:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:38:40 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($10.09 in chips) 
+Seat 2: Dugipokers ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: calls $0.20
+*** FLOP *** [Ah 8d Js]
+8KUZNEC8: bets $0.31
+Antonio8812: calls $0.31
+*** TURN *** [Ah 8d Js] [Qd]
+8KUZNEC8: bets $0.60
+Antonio8812: calls $0.60
+*** RIVER *** [Ah 8d Js Qd] [7c]
+8KUZNEC8: bets $1.18
+Antonio8812: folds 
+Uncalled bet ($1.18) returned to 8KUZNEC8
+8KUZNEC8 collected $2.36 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [Ah 8d Js Qd 7c]
+Seat 1: 8KUZNEC8 (big blind) collected ($2.36)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) folded on the River
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952310784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:39:25 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($11.24 in chips) 
+Seat 2: Dugipokers ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: raises $0.12 to $0.22
+8KUZNEC8: calls $0.17
+Dugipokers: calls $0.12
+*** FLOP *** [9h 3c Tc]
+8KUZNEC8: checks 
+Dugipokers: checks 
+Black021: checks 
+*** TURN *** [9h 3c Tc] [7d]
+8KUZNEC8: checks 
+Dugipokers: checks 
+Black021: checks 
+*** RIVER *** [9h 3c Tc 7d] [9c]
+8KUZNEC8: checks 
+Dugipokers: checks 
+Black021: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [Ah 2d] (a pair of Nines)
+Dugipokers: shows [6d Ad] (a pair of Nines)
+Black021: mucks hand 
+8KUZNEC8 collected $0.32 from pot
+Dugipokers collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.03 
+Board [9h 3c Tc 7d 9c]
+Seat 1: 8KUZNEC8 (small blind) showed [Ah 2d] and won ($0.32) with a pair of Nines
+Seat 2: Dugipokers (big blind) showed [6d Ad] and won ($0.31) with a pair of Nines
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) mucked
+
+
+
+PokerStars Hand #222952329960:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:40:16 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($11.34 in chips) 
+Seat 2: Dugipokers ($10.09 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Dugipokers: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: checks 
+*** FLOP *** [2s Ac 8c]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** TURN *** [2s Ac 8c] [9d]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** RIVER *** [2s Ac 8c 9d] [3c]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+mastiko1996: shows [7d 6c] (high card Ace)
+8KUZNEC8: shows [7h Qc] (high card Ace - Queen kicker)
+8KUZNEC8 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s Ac 8c 9d 3c]
+Seat 1: 8KUZNEC8 (button) showed [7h Qc] and won ($0.24) with high card Ace
+Seat 2: Dugipokers (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) showed [7d 6c] and lost with high card Ace
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952347543:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:41:02 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($11.48 in chips) 
+Seat 2: Dugipokers ($10.04 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: raises $0.40 to $0.50
+kilativ7: folds 
+8KUZNEC8: calls $0.40
+*** FLOP *** [5h 8s As]
+mastiko1996: bets $0.30
+8KUZNEC8: calls $0.30
+*** TURN *** [5h 8s As] [8d]
+mastiko1996: checks 
+8KUZNEC8: bets $0.81
+mastiko1996: folds 
+Uncalled bet ($0.81) returned to 8KUZNEC8
+8KUZNEC8 collected $1.62 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.08 
+Board [5h 8s As 8d]
+Seat 1: 8KUZNEC8 collected ($1.62)
+Seat 2: Dugipokers (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded on the Turn
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952360652:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:41:37 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($12.30 in chips) 
+Seat 2: Dugipokers ($10.04 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: raises $0.17 to $0.27
+8KUZNEC8: calls $0.27
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: calls $0.22
+Antonio8812: folds 
+*** FLOP *** [Ks 3s 2s]
+kilativ7: checks 
+Black021: checks 
+8KUZNEC8: checks 
+*** TURN *** [Ks 3s 2s] [3d]
+kilativ7: bets $0.65
+Black021: folds 
+8KUZNEC8: folds 
+Uncalled bet ($0.65) returned to kilativ7
+kilativ7 collected $0.87 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04 
+Board [Ks 3s 2s 3d]
+Seat 1: 8KUZNEC8 folded on the Turn
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) collected ($0.87)
+Seat 5: Antonio8812 (big blind) folded before Flop
+Seat 6: Black021 folded on the Turn
+
+
+
+PokerStars Hand #222952368567:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:41:58 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($12.03 in chips) 
+Seat 2: Dugipokers ($10.04 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.60 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: raises $0.30 to $0.40
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.30
+*** FLOP *** [Ks 4s 8d]
+8KUZNEC8: checks 
+Dugipokers: checks 
+*** TURN *** [Ks 4s 8d] [Ts]
+8KUZNEC8: bets $0.45
+Dugipokers: folds 
+Uncalled bet ($0.45) returned to 8KUZNEC8
+8KUZNEC8 collected $0.91 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Ks 4s 8d Ts]
+Seat 1: 8KUZNEC8 collected ($0.91)
+Seat 2: Dugipokers folded on the Turn
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952384639:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:42:40 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($12.54 in chips) 
+Seat 2: Dugipokers ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.60 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: raises $0.65 to $0.95
+Antonio8812: raises $1.80 to $2.75
+8KUZNEC8: calls $1.80
+*** FLOP *** [9d Kd 7d]
+8KUZNEC8: bets $9.79 and is all-in
+Antonio8812: calls $7.25 and is all-in
+Uncalled bet ($2.54) returned to 8KUZNEC8
+*** TURN *** [9d Kd 7d] [2d]
+*** RIVER *** [9d Kd 7d 2d] [3c]
+*** SHOW DOWN ***
+8KUZNEC8: shows [Qd Ks] (a flush, King high)
+Antonio8812: shows [Kc Kh] (three of a kind, Kings)
+8KUZNEC8 cashed out the hand for $5.52 | Cash Out Fee $0.06
+*** SUMMARY ***
+Total pot $20.05 | Rake $0.90 
+Board [9d Kd 7d 2d 3c]
+Seat 1: 8KUZNEC8 (big blind) showed [Qd Ks] and won ($19.15) with a flush, King high (pot not awarded as player cashed out)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) showed [Kc Kh] and lost with three of a kind, Kings
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952399564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:43:20 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($8.06 in chips) 
+Seat 2: Dugipokers ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.60 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: raises $0.20 to $0.30
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.25
+Dugipokers: calls $0.20
+*** FLOP *** [8d 9d 7s]
+8KUZNEC8: checks 
+Dugipokers: checks 
+kilativ7: bets $0.70
+8KUZNEC8: calls $0.70
+Dugipokers: calls $0.70
+*** TURN *** [8d 9d 7s] [Tc]
+8KUZNEC8: bets $1.43
+Dugipokers: raises $7.57 to $9 and is all-in
+kilativ7: folds 
+8KUZNEC8: folds 
+Uncalled bet ($7.57) returned to Dugipokers
+Dugipokers collected $5.60 from pot
+Dugipokers: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.86 | Rake $0.26 
+Board [8d 9d 7s Tc]
+Seat 1: 8KUZNEC8 (small blind) folded on the Turn
+Seat 2: Dugipokers (big blind) collected ($5.60)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded on the Turn
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952432174:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:44:45 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($5.63 in chips) 
+Seat 2: Dugipokers ($13.17 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+Dugipokers: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: checks 
+*** FLOP *** [Ac 9d 8d]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** TURN *** [Ac 9d 8d] [2c]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** RIVER *** [Ac 9d 8d 2c] [6d]
+mastiko1996: bets $0.16
+8KUZNEC8: folds 
+Uncalled bet ($0.16) returned to mastiko1996
+mastiko1996 collected $0.24 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac 9d 8d 2c 6d]
+Seat 1: 8KUZNEC8 (button) folded on the River
+Seat 2: Dugipokers (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) collected ($0.24)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952448458:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:45:27 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($5.53 in chips) 
+Seat 2: Dugipokers ($13.12 in chips) 
+Seat 3: mastiko1996 ($10.14 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: raises $0.17 to $0.27
+8KUZNEC8: calls $0.27
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+*** FLOP *** [8c Th 5h]
+Black021: bets $0.44
+8KUZNEC8: folds 
+Uncalled bet ($0.44) returned to Black021
+Black021 collected $0.66 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03 
+Board [8c Th 5h]
+Seat 1: 8KUZNEC8 folded on the Flop
+Seat 2: Dugipokers (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 collected ($0.66)
+
+
+
+PokerStars Hand #222952457937:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:45:52 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($5.26 in chips) 
+Seat 2: Dugipokers ($13.12 in chips) 
+Seat 3: mastiko1996 ($10.09 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.39 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: raises $0.30 to $0.40
+kilativ7: folds 
+Antonio8812: calls $0.30
+8KUZNEC8: calls $0.30
+*** FLOP *** [As 4c 3d]
+Antonio8812: checks 
+8KUZNEC8: bets $0.59
+mastiko1996: folds 
+Antonio8812: folds 
+Uncalled bet ($0.59) returned to 8KUZNEC8
+8KUZNEC8 collected $1.19 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [As 4c 3d]
+Seat 1: 8KUZNEC8 collected ($1.19)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded on the Flop
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) folded on the Flop
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952470550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:46:25 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($6.05 in chips) 
+Seat 2: Dugipokers ($13.12 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.39 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: calls $0.05
+Black021: checks 
+*** FLOP *** [9s Jc Ts]
+Antonio8812: checks 
+Black021: checks 
+8KUZNEC8: checks 
+*** TURN *** [9s Jc Ts] [9h]
+Antonio8812: checks 
+Black021: checks 
+8KUZNEC8: checks 
+*** RIVER *** [9s Jc Ts 9h] [5h]
+Antonio8812: checks 
+Black021: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+Antonio8812: shows [8s 8h] (two pair, Nines and Eights)
+Black021: mucks hand 
+8KUZNEC8: mucks hand 
+Antonio8812 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9s Jc Ts 9h 5h]
+Seat 1: 8KUZNEC8 mucked
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) showed [8s 8h] and won ($0.29) with two pair, Nines and Eights
+Seat 6: Black021 (big blind) mucked
+
+
+
+PokerStars Hand #222952483193:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:46:58 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($5.95 in chips) 
+Seat 2: Dugipokers ($13.12 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.19 in chips) 
+Seat 6: Black021 ($10.29 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: raises $0.20 to $0.30
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.20
+*** FLOP *** [3s 5d As]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** TURN *** [3s 5d As] [4c]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** RIVER *** [3s 5d As 4c] [7d]
+8KUZNEC8: bets $0.62
+mastiko1996: calls $0.62
+*** SHOW DOWN ***
+8KUZNEC8: shows [2d Jd] (a straight, Ace to Five)
+mastiko1996: mucks hand 
+8KUZNEC8 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [3s 5d As 4c 7d]
+Seat 1: 8KUZNEC8 (big blind) showed [2d Jd] and won ($1.80) with a straight, Ace to Five
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 mucked
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) folded before Flop (didn't bet)
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952495090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:47:29 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($6.83 in chips) 
+Seat 2: Dugipokers ($13.12 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.19 in chips) 
+Seat 6: Black021 ($10.24 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: calls $0.25
+Dugipokers: raises $1 to $1.30
+Antonio8812: calls $1
+8KUZNEC8: folds 
+*** FLOP *** [2d 2s 7c]
+Dugipokers: bets $0.91
+Antonio8812: folds 
+Uncalled bet ($0.91) returned to Dugipokers
+Dugipokers collected $2.77 from pot
+Dugipokers: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.13 
+Board [2d 2s 7c]
+Seat 1: 8KUZNEC8 (small blind) folded before Flop
+Seat 2: Dugipokers (big blind) collected ($2.77)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded on the Flop
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952514912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:48:21 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($6.53 in chips) 
+Seat 2: Dugipokers ($14.59 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.24 in chips) 
+Dugipokers: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: folds 
+Black021: raises $0.15 to $0.25
+8KUZNEC8: raises $0.65 to $0.90
+Dugipokers: folds 
+mastiko1996: folds 
+Black021: folds 
+Uncalled bet ($0.65) returned to 8KUZNEC8
+8KUZNEC8 collected $0.65 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: 8KUZNEC8 (button) collected ($0.65)
+Seat 2: Dugipokers (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) folded before Flop
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop
+
+
+
+PokerStars Hand #222952523170:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:48:42 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($6.93 in chips) 
+Seat 2: Dugipokers ($14.54 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: calls $0.30
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+*** FLOP *** [2h Qh Kd]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** TURN *** [2h Qh Kd] [Tc]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** RIVER *** [2h Qh Kd Tc] [6c]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+Antonio8812: shows [8s 8h] (a pair of Eights)
+8KUZNEC8: mucks hand 
+Antonio8812 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2h Qh Kd Tc 6c]
+Seat 1: 8KUZNEC8 mucked
+Seat 2: Dugipokers (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 showed [8s 8h] and won ($0.72) with a pair of Eights
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952534306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:49:11 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($6.63 in chips) 
+Seat 2: Dugipokers ($14.54 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.42 in chips) 
+Seat 6: Black021 ($10 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: raises $0.17 to $0.27
+8KUZNEC8: calls $0.27
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+*** FLOP *** [3s Ks 2c]
+Black021: checks 
+8KUZNEC8: checks 
+*** TURN *** [3s Ks 2c] [9c]
+Black021: bets $0.40
+8KUZNEC8: folds 
+Uncalled bet ($0.40) returned to Black021
+Black021 collected $0.66 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03 
+Board [3s Ks 2c 9c]
+Seat 1: 8KUZNEC8 folded on the Turn
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) folded before Flop
+Seat 6: Black021 collected ($0.66)
+
+
+
+PokerStars Hand #222952542892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:49:34 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($6.36 in chips) 
+Seat 2: Dugipokers ($14.54 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.32 in chips) 
+Seat 6: Black021 ($10.39 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: checks 
+*** FLOP *** [4c 9h 6s]
+Black021: checks 
+8KUZNEC8: checks 
+*** TURN *** [4c 9h 6s] [Kc]
+Black021: checks 
+8KUZNEC8: checks 
+*** RIVER *** [4c 9h 6s Kc] [9d]
+Black021: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+Black021: shows [Js 6d] (two pair, Nines and Sixes)
+8KUZNEC8: mucks hand 
+Black021 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4c 9h 6s Kc 9d]
+Seat 1: 8KUZNEC8 mucked
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) showed [Js 6d] and won ($0.24) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #222952554255:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:50:03 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($6.26 in chips) 
+Seat 2: Dugipokers ($14.54 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.27 in chips) 
+Seat 6: Black021 ($10.53 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: calls $0.20
+*** FLOP *** [4d Js 7h]
+8KUZNEC8: checks 
+Antonio8812: bets $0.31
+8KUZNEC8: calls $0.31
+*** TURN *** [4d Js 7h] [4s]
+8KUZNEC8: checks 
+Antonio8812: checks 
+*** RIVER *** [4d Js 7h 4s] [2h]
+8KUZNEC8: checks 
+Antonio8812: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [8s 9s] (a pair of Fours)
+Antonio8812: mucks hand 
+8KUZNEC8 collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [4d Js 7h 4s 2h]
+Seat 1: 8KUZNEC8 (big blind) showed [8s 9s] and won ($1.21) with a pair of Fours
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) mucked
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952566160:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:50:34 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($6.86 in chips) 
+Seat 2: Dugipokers ($14.54 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.48 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.05
+Dugipokers: checks 
+*** FLOP *** [2s 5s 2d]
+8KUZNEC8: checks 
+Dugipokers: bets $0.15
+8KUZNEC8: calls $0.15
+*** TURN *** [2s 5s 2d] [7s]
+8KUZNEC8: checks 
+Dugipokers: checks 
+*** RIVER *** [2s 5s 2d 7s] [2c]
+8KUZNEC8: checks 
+Dugipokers: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [3d 9h] (three of a kind, Deuces)
+Dugipokers: shows [Kh 8d] (three of a kind, Deuces - King kicker)
+Dugipokers collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2s 5s 2d 7s 2c]
+Seat 1: 8KUZNEC8 (small blind) showed [3d 9h] and lost with three of a kind, Deuces
+Seat 2: Dugipokers (big blind) showed [Kh 8d] and won ($0.48) with three of a kind, Deuces
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952582485:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:51:17 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($6.61 in chips) 
+Seat 2: Dugipokers ($14.77 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.48 in chips) 
+Dugipokers: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: calls $0.30
+Dugipokers: folds 
+mastiko1996: calls $0.20
+*** FLOP *** [5d 8s 9c]
+mastiko1996: checks 
+Antonio8812: bets $0.55
+8KUZNEC8: calls $0.55
+mastiko1996: calls $0.55
+*** TURN *** [5d 8s 9c] [5c]
+mastiko1996: checks 
+Antonio8812: bets $1
+8KUZNEC8: calls $1
+mastiko1996: folds 
+*** RIVER *** [5d 8s 9c 5c] [6h]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+Antonio8812: shows [Jh Js] (two pair, Jacks and Fives)
+8KUZNEC8: mucks hand 
+Antonio8812 collected $4.39 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.21 
+Board [5d 8s 9c 5c 6h]
+Seat 1: 8KUZNEC8 (button) mucked
+Seat 2: Dugipokers (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) folded on the Turn
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 showed [Jh Js] and won ($4.39) with two pair, Jacks and Fives
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952605666:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:52:17 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($4.76 in chips) 
+Seat 2: Dugipokers ($14.72 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.54 in chips) 
+Seat 6: Black021 ($10.48 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: raises $0.25 to $0.35
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: calls $0.25
+*** FLOP *** [8s 4c 2s]
+kilativ7: checks 
+8KUZNEC8: bets $0.72
+kilativ7: folds 
+Uncalled bet ($0.72) returned to 8KUZNEC8
+8KUZNEC8 collected $0.72 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8s 4c 2s]
+Seat 1: 8KUZNEC8 collected ($0.72)
+Seat 2: Dugipokers (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded on the Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952615959:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:52:43 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($5.13 in chips) 
+Seat 2: Dugipokers ($14.72 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.54 in chips) 
+Seat 6: Black021 ($10.48 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: raises $0.10 to $0.20
+Dugipokers: folds 
+mastiko1996: raises $0.60 to $0.80
+kilativ7: folds 
+Antonio8812: folds 
+8KUZNEC8: calls $0.60
+*** FLOP *** [Ac Qc 9c]
+8KUZNEC8: bets $4.33 and is all-in
+mastiko1996: folds 
+Uncalled bet ($4.33) returned to 8KUZNEC8
+8KUZNEC8 collected $1.67 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Ac Qc 9c]
+Seat 1: 8KUZNEC8 collected ($1.67)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded on the Flop
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) folded before Flop
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952623527:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:53:03 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($6 in chips) 
+Seat 2: Dugipokers ($14.72 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.44 in chips) 
+Seat 6: Black021 ($10.48 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: raises $0.20 to $0.30
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+Uncalled bet ($0.20) returned to 8KUZNEC8
+8KUZNEC8 collected $0.25 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 collected ($0.25)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952629036:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:53:17 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($6.15 in chips) 
+Seat 2: Dugipokers ($14.72 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.39 in chips) 
+Seat 6: Black021 ($10.38 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: raises $0.20 to $0.30
+kilativ7: folds 
+Antonio8812: calls $0.30
+Black021: folds 
+8KUZNEC8: calls $0.20
+*** FLOP *** [6s Jd 2d]
+8KUZNEC8: checks 
+mastiko1996: checks 
+Antonio8812: checks 
+*** TURN *** [6s Jd 2d] [8s]
+8KUZNEC8: checks 
+mastiko1996: checks 
+Antonio8812: checks 
+*** RIVER *** [6s Jd 2d 8s] [Qs]
+8KUZNEC8: checks 
+mastiko1996: checks 
+Antonio8812: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [3s Kc] (high card King)
+mastiko1996: shows [5h 5d] (a pair of Fives)
+Antonio8812: mucks hand 
+mastiko1996 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6s Jd 2d 8s Qs]
+Seat 1: 8KUZNEC8 (big blind) showed [3s Kc] and lost with high card King
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 showed [5h 5d] and won ($0.91) with a pair of Fives
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) mucked
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952645406:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:53:59 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($5.85 in chips) 
+Seat 2: Dugipokers ($14.72 in chips) 
+Seat 3: mastiko1996 ($10.61 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.09 in chips) 
+Seat 6: Black021 ($10.33 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: raises $0.12 to $0.22
+8KUZNEC8: calls $0.17
+Dugipokers: raises $0.98 to $1.20
+Black021: folds 
+8KUZNEC8: calls $0.98
+*** FLOP *** [9h Qc Qh]
+8KUZNEC8: checks 
+Dugipokers: checks 
+*** TURN *** [9h Qc Qh] [Qd]
+8KUZNEC8: checks 
+Dugipokers: checks 
+*** RIVER *** [9h Qc Qh Qd] [7h]
+8KUZNEC8: checks 
+Dugipokers: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [Ks 2c] (three of a kind, Queens)
+Dugipokers: shows [As Kh] (three of a kind, Queens - Ace kicker)
+Dugipokers collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.62 | Rake $0.12 
+Board [9h Qc Qh Qd 7h]
+Seat 1: 8KUZNEC8 (small blind) showed [Ks 2c] and lost with three of a kind, Queens
+Seat 2: Dugipokers (big blind) showed [As Kh] and won ($2.50) with three of a kind, Queens
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop
+
+
+
+PokerStars Hand #222952664924:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:54:50 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($4.65 in chips) 
+Seat 2: Dugipokers ($16.02 in chips) 
+Seat 3: mastiko1996 ($10.61 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.09 in chips) 
+Seat 6: Black021 ($10.11 in chips) 
+Dugipokers: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: raises $0.40 to $0.50
+8KUZNEC8: calls $0.40
+*** FLOP *** [As 6c 4c]
+mastiko1996: bets $0.67
+8KUZNEC8: calls $0.67
+*** TURN *** [As 6c 4c] [7c]
+mastiko1996: checks 
+8KUZNEC8: bets $1.14
+mastiko1996: folds 
+Uncalled bet ($1.14) returned to 8KUZNEC8
+8KUZNEC8 collected $2.28 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.39 | Rake $0.11 
+Board [As 6c 4c 7c]
+Seat 1: 8KUZNEC8 (button) collected ($2.28)
+Seat 2: Dugipokers (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) folded on the Turn
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952680027:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:55:33 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($5.76 in chips) 
+Seat 2: Dugipokers ($15.97 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.09 in chips) 
+Seat 6: Black021 ($10.11 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: raises $0.10 to $0.20
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Uncalled bet ($0.10) returned to 8KUZNEC8
+8KUZNEC8 collected $0.25 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 collected ($0.25)
+Seat 2: Dugipokers (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952683973:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:55:45 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($5.91 in chips) 
+Seat 2: Dugipokers ($15.97 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($12.09 in chips) 
+Seat 6: Black021 ($10.11 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: raises $0.10 to $0.20
+Dugipokers: raises $0.60 to $0.80
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+8KUZNEC8: calls $0.60
+*** FLOP *** [Qc Ah 8d]
+8KUZNEC8: bets $1.67
+Dugipokers: folds 
+Uncalled bet ($1.67) returned to 8KUZNEC8
+8KUZNEC8 collected $1.67 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Qc Ah 8d]
+Seat 1: 8KUZNEC8 collected ($1.67)
+Seat 2: Dugipokers folded on the Flop
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) folded before Flop
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952689858:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:56:03 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($6.78 in chips) 
+Seat 2: Dugipokers ($15.17 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($11.99 in chips) 
+Seat 6: Black021 ($10.11 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: raises $0.30 to $0.40
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.30
+*** FLOP *** [7s 9h Qc]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** TURN *** [7s 9h Qc] [Jd]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** RIVER *** [7s 9h Qc Jd] [Kd]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [5d 3c] (high card King)
+mastiko1996: shows [Jc As] (a pair of Jacks)
+mastiko1996 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [7s 9h Qc Jd Kd]
+Seat 1: 8KUZNEC8 showed [5d 3c] and lost with high card King
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 showed [Jc As] and won ($0.91) with a pair of Jacks
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952697677:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:56:27 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($6.38 in chips) 
+Seat 2: Dugipokers ($15.17 in chips) 
+Seat 3: mastiko1996 ($10.51 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($11.94 in chips) 
+Seat 6: Black021 ($10.01 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: calls $0.10
+Antonio8812: calls $0.10
+Black021: folds 
+8KUZNEC8: checks 
+*** FLOP *** [Ks 8s 9s]
+8KUZNEC8: checks 
+kilativ7: checks 
+Antonio8812: checks 
+*** TURN *** [Ks 8s 9s] [Tc]
+8KUZNEC8: checks 
+kilativ7: checks 
+Antonio8812: checks 
+*** RIVER *** [Ks 8s 9s Tc] [3c]
+8KUZNEC8: checks 
+kilativ7: checks 
+Antonio8812: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [Ts 4d] (a pair of Tens)
+kilativ7: mucks hand 
+Antonio8812: mucks hand 
+8KUZNEC8 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [Ks 8s 9s Tc 3c]
+Seat 1: 8KUZNEC8 (big blind) showed [Ts 4d] and won ($0.33) with a pair of Tens
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 mucked
+Seat 5: Antonio8812 (button) mucked
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952708394:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:57:00 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($6.61 in chips) 
+Seat 2: Dugipokers ($15.17 in chips) 
+Seat 3: mastiko1996 ($10.51 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($11.84 in chips) 
+Seat 6: Black021 ($10 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: raises $0.12 to $0.22
+8KUZNEC8: calls $0.17
+Dugipokers: folds 
+*** FLOP *** [Qs 5s 9s]
+8KUZNEC8: checks 
+Black021: bets $0.17
+8KUZNEC8: folds 
+Uncalled bet ($0.17) returned to Black021
+Black021 collected $0.52 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Qs 5s 9s]
+Seat 1: 8KUZNEC8 (small blind) folded on the Flop
+Seat 2: Dugipokers (big blind) folded before Flop
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) collected ($0.52)
+
+
+
+PokerStars Hand #222952715508:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:57:22 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($6.39 in chips) 
+Seat 2: Dugipokers ($15.07 in chips) 
+Seat 3: mastiko1996 ($10.51 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($11.84 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+Dugipokers: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: folds 
+Dugipokers: folds 
+mastiko1996: folds 
+Uncalled bet ($0.20) returned to Antonio8812
+Antonio8812 collected $0.25 from pot
+Antonio8812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 (button) folded before Flop (didn't bet)
+Seat 2: Dugipokers (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) folded before Flop
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 collected ($0.25)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952720907:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:57:38 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($6.39 in chips) 
+Seat 2: Dugipokers ($15.02 in chips) 
+Seat 3: mastiko1996 ($10.41 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($11.99 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: checks 
+*** FLOP *** [4s 9c Kc]
+kilativ7: checks 
+8KUZNEC8: bets $0.12
+kilativ7: folds 
+Uncalled bet ($0.12) returned to 8KUZNEC8
+8KUZNEC8 collected $0.24 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s 9c Kc]
+Seat 1: 8KUZNEC8 collected ($0.24)
+Seat 2: Dugipokers (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded on the Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952727785:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:57:59 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($6.53 in chips) 
+Seat 2: Dugipokers ($15.02 in chips) 
+Seat 3: mastiko1996 ($10.36 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($11.99 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: raises $0.10 to $0.20
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: calls $0.15
+Antonio8812: calls $0.10
+*** FLOP *** [6s 3c Ts]
+kilativ7: checks 
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** TURN *** [6s 3c Ts] [8s]
+kilativ7: bets $0.43
+Antonio8812: folds 
+8KUZNEC8: folds 
+Uncalled bet ($0.43) returned to kilativ7
+kilativ7 collected $0.57 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6s 3c Ts 8s]
+Seat 1: 8KUZNEC8 folded on the Turn
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) collected ($0.57)
+Seat 5: Antonio8812 (big blind) folded on the Turn
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952742434:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:58:44 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($6.33 in chips) 
+Seat 2: Dugipokers ($15.02 in chips) 
+Seat 3: mastiko1996 ($10.36 in chips) 
+Seat 4: kilativ7 ($10.37 in chips) 
+Seat 5: Antonio8812 ($11.79 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: raises $0.30 to $0.40
+Antonio8812: calls $0.35
+Black021: folds 
+8KUZNEC8: calls $0.30
+*** FLOP *** [5c 7d Jh]
+Antonio8812: checks 
+8KUZNEC8: checks 
+kilativ7: bets $0.60
+Antonio8812: calls $0.60
+8KUZNEC8: raises $0.60 to $1.20
+kilativ7: folds 
+Antonio8812: calls $0.60
+*** TURN *** [5c 7d Jh] [Ac]
+Antonio8812: checks 
+8KUZNEC8: bets $2.05
+Antonio8812: folds 
+Uncalled bet ($2.05) returned to 8KUZNEC8
+8KUZNEC8 collected $4.11 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.19 
+Board [5c 7d Jh Ac]
+Seat 1: 8KUZNEC8 collected ($4.11)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded on the Flop
+Seat 5: Antonio8812 (small blind) folded on the Turn
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952760631:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:59:40 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($8.84 in chips) 
+Seat 2: Dugipokers ($15.02 in chips) 
+Seat 3: mastiko1996 ($10.36 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.19 in chips) 
+Seat 6: Black021 ($10.20 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+Uncalled bet ($0.05) returned to 8KUZNEC8
+8KUZNEC8 collected $0.10 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 8KUZNEC8 (big blind) collected ($0.10)
+Seat 2: Dugipokers folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) folded before Flop (didn't bet)
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952763193:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:59:48 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($8.89 in chips) 
+Seat 3: mastiko1996 ($10.36 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.19 in chips) 
+Seat 6: Black021 ($10.15 in chips) 
+8KUZNEC8: posts small blind $0.05
+Dugipokers: is sitting out 
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+Dugipokers leaves the table
+kilativ7: folds 
+Antonio8812: folds 
+Black021: raises $0.12 to $0.22
+8KUZNEC8: calls $0.17
+mastiko1996: folds 
+*** FLOP *** [Ts 5h Qh]
+8KUZNEC8: checks 
+Black021: bets $0.34
+8KUZNEC8: folds 
+Uncalled bet ($0.34) returned to Black021
+Black021 collected $0.52 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Ts 5h Qh]
+Seat 1: 8KUZNEC8 (small blind) folded on the Flop
+Seat 3: mastiko1996 (big blind) folded before Flop
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) collected ($0.52)
+
+
+
+PokerStars Hand #222952769524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:07 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($8.67 in chips) 
+Seat 3: mastiko1996 ($10.26 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.19 in chips) 
+Seat 6: Black021 ($10.45 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+mastiko1996: raises $0.40 to $0.50
+kilativ7: folds 
+8KUZNEC8: calls $0.40
+*** FLOP *** [9c Js 6s]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** TURN *** [9c Js 6s] [6c]
+mastiko1996: checks 
+8KUZNEC8: checks 
+*** RIVER *** [9c Js 6s 6c] [Qh]
+mastiko1996: checks 
+8KUZNEC8: bets $0.52
+romanromanro joins the table at seat #2 
+mastiko1996: folds 
+Uncalled bet ($0.52) returned to 8KUZNEC8
+8KUZNEC8 collected $1.05 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9c Js 6s 6c Qh]
+Seat 1: 8KUZNEC8 (button) collected ($1.05)
+Seat 3: mastiko1996 (small blind) folded on the River
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952786650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:56 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($9.22 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.19 in chips) 
+Seat 6: Black021 ($10.45 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+romanromanro: sits out 
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: raises $0.20 to $0.30
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Uncalled bet ($0.20) returned to 8KUZNEC8
+8KUZNEC8 collected $0.25 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 collected ($0.25)
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) folded before Flop
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952790380:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:06 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($9.37 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.09 in chips) 
+Seat 6: Black021 ($10.45 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+romanromanro: sits out 
+*** HOLE CARDS ***
+8KUZNEC8: raises $0.20 to $0.30
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+Uncalled bet ($0.20) returned to 8KUZNEC8
+8KUZNEC8 collected $0.25 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 collected ($0.25)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952793838:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:15 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($9.52 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.04 in chips) 
+Seat 6: Black021 ($10.35 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+romanromanro: sits out 
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: raises $0.20 to $0.30
+Black021: folds 
+8KUZNEC8: calls $0.20
+*** FLOP *** [5h 8s 2h]
+8KUZNEC8: checks 
+Antonio8812: checks 
+*** TURN *** [5h 8s 2h] [7s]
+8KUZNEC8: checks 
+Antonio8812: checks 
+*** RIVER *** [5h 8s 2h 7s] [9s]
+8KUZNEC8: checks 
+Antonio8812: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [2d Qs] (a pair of Deuces)
+Antonio8812: mucks hand 
+8KUZNEC8 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5h 8s 2h 7s 9s]
+Seat 1: 8KUZNEC8 (big blind) showed [2d Qs] and won ($0.62) with a pair of Deuces
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) mucked
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952801663:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:36 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($9.84 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+8KUZNEC8: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.25
+romanromanro: folds 
+*** FLOP *** [Kh 7c Td]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** TURN *** [Kh 7c Td] [8c]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** RIVER *** [Kh 7c Td 8c] [5c]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** SHOW DOWN ***
+8KUZNEC8: shows [9h Jh] (a straight, Seven to Jack)
+mastiko1996: mucks hand 
+8KUZNEC8 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Kh 7c Td 8c 5c]
+Seat 1: 8KUZNEC8 (small blind) showed [9h Jh] and won ($0.67) with a straight, Seven to Jack
+Seat 2: romanromanro (big blind) folded before Flop
+Seat 3: mastiko1996 mucked
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952809459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:56 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($10.21 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+romanromanro: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: raises $0.10 to $0.20
+romanromanro: folds 
+mastiko1996: folds 
+Uncalled bet ($0.10) returned to 8KUZNEC8
+8KUZNEC8 collected $0.25 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 (button) collected ($0.25)
+Seat 2: romanromanro (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) folded before Flop
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952813628:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:06 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($10.36 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: raises $0.20 to $0.30
+romanromanro: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Uncalled bet ($0.20) returned to 8KUZNEC8
+8KUZNEC8 collected $0.25 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 8KUZNEC8 collected ($0.25)
+Seat 2: romanromanro (button) folded before Flop (didn't bet)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952823344:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:19 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($10.51 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: calls $0.10
+romanromanro: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: checks 
+*** FLOP *** [9d 7h Kc]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** TURN *** [9d 7h Kc] [8c]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** RIVER *** [9d 7h Kc 8c] [5s]
+Antonio8812: checks 
+8KUZNEC8: checks 
+*** SHOW DOWN ***
+Antonio8812: shows [2h 7s] (a pair of Sevens)
+8KUZNEC8: mucks hand 
+Antonio8812 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9d 7h Kc 8c 5s]
+Seat 1: 8KUZNEC8 mucked
+Seat 2: romanromanro folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded before Flop (didn't bet)
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) showed [2h 7s] and won ($0.24) with a pair of Sevens
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952834965:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:49 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 1: 8KUZNEC8 ($10.41 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.14 in chips) 
+Seat 6: Black021 ($10.30 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+8KUZNEC8: calls $0.10
+romanromanro: folds 
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: checks 
+*** FLOP *** [9c 2s 2c]
+Black021: checks 
+8KUZNEC8: checks 
+*** TURN *** [9c 2s 2c] [6d]
+Black021: checks 
+8KUZNEC8: checks 
+*** RIVER *** [9c 2s 2c 6d] [Qc]
+Black021: checks 
+8KUZNEC8: bets $0.12
+Black021: folds 
+Uncalled bet ($0.12) returned to 8KUZNEC8
+8KUZNEC8 collected $0.24 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c 2s 2c 6d Qc]
+Seat 1: 8KUZNEC8 collected ($0.24)
+Seat 2: romanromanro folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) folded before Flop (didn't bet)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded on the River
+
+
+
+PokerStars Hand #222952843939:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:03:12 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 1: 8KUZNEC8 ($10.55 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.09 in chips) 
+Seat 6: Black021 ($10.20 in chips) 
+Black021: posts small blind $0.05
+8KUZNEC8: posts big blind $0.10
+*** HOLE CARDS ***
+romanromanro: folds 
+mastiko1996: raises $0.20 to $0.30
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: raises $0.20 to $0.50
+mastiko1996: calls $0.20
+*** FLOP *** [3s 6s 7s]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** TURN *** [3s 6s 7s] [Qd]
+8KUZNEC8: checks 
+mastiko1996: checks 
+*** RIVER *** [3s 6s 7s Qd] [9d]
+8KUZNEC8: bets $0.10
+mastiko1996: folds 
+Uncalled bet ($0.10) returned to 8KUZNEC8
+8KUZNEC8 collected $1 from pot
+8KUZNEC8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [3s 6s 7s Qd 9d]
+Seat 1: 8KUZNEC8 (big blind) collected ($1)
+Seat 2: romanromanro folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded on the River
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) folded before Flop (didn't bet)
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952855655:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:03:42 ET
+Table 'Guisan II' 6-max Seat #6 is the button
+Seat 1: 8KUZNEC8 ($11.05 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10 in chips) 
+Seat 5: Antonio8812 ($10.09 in chips) 
+Seat 6: Black021 ($10.15 in chips) 
+8KUZNEC8: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: raises $0.20 to $0.30
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.25
+romanromanro: folds 
+*** FLOP *** [2h 7s 4s]
+8KUZNEC8: checks 
+kilativ7: bets $0.37
+8KUZNEC8: calls $0.37
+*** TURN *** [2h 7s 4s] [Qd]
+8KUZNEC8: checks 
+kilativ7: bets $0.80
+8KUZNEC8: folds 
+Uncalled bet ($0.80) returned to kilativ7
+kilativ7 collected $1.38 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.06 
+Board [2h 7s 4s Qd]
+Seat 1: 8KUZNEC8 (small blind) folded on the Turn
+Seat 2: romanromanro (big blind) folded before Flop
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 collected ($1.38)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952871287:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:20 ET
+Table 'Guisan II' 6-max Seat #1 is the button
+Seat 1: 8KUZNEC8 ($10.38 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.71 in chips) 
+Seat 5: Antonio8812 ($10.09 in chips) 
+Seat 6: Black021 ($10.15 in chips) 
+romanromanro: posts small blind $0.05
+mastiko1996: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Antonio8812: folds 
+Black021: raises $0.15 to $0.25
+8KUZNEC8: calls $0.25
+romanromanro: folds 
+mastiko1996: folds 
+*** FLOP *** [5c Kc Kh]
+Black021: checks 
+8KUZNEC8: checks 
+*** TURN *** [5c Kc Kh] [Ad]
+Black021: bets $0.46
+8KUZNEC8: folds 
+Uncalled bet ($0.46) returned to Black021
+Black021 collected $0.62 from pot
+Black021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5c Kc Kh Ad]
+Seat 1: 8KUZNEC8 (button) folded on the Turn
+Seat 2: romanromanro (small blind) folded before Flop
+Seat 3: mastiko1996 (big blind) folded before Flop
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 collected ($0.62)
+
+
+
+PokerStars Hand #222952880274:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:43 ET
+Table 'Guisan II' 6-max Seat #2 is the button
+Seat 1: 8KUZNEC8 ($10.13 in chips) 
+Seat 2: romanromanro ($10 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.71 in chips) 
+Seat 5: Antonio8812 ($10.09 in chips) 
+Seat 6: Black021 ($10.52 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Antonio8812: folds 
+Black021: folds 
+8KUZNEC8: calls $0.10
+romanromanro: raises $0.35 to $0.45
+mastiko1996: folds 
+kilativ7: folds 
+8KUZNEC8: calls $0.35
+*** FLOP *** [6d 5d 3d]
+8KUZNEC8: checks 
+romanromanro: bets $0.50
+8KUZNEC8: folds 
+Uncalled bet ($0.50) returned to romanromanro
+romanromanro collected $1 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [6d 5d 3d]
+Seat 1: 8KUZNEC8 folded on the Flop
+Seat 2: romanromanro (button) collected ($1)
+Seat 3: mastiko1996 (small blind) folded before Flop
+Seat 4: kilativ7 (big blind) folded before Flop
+Seat 5: Antonio8812 folded before Flop (didn't bet)
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952889352:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:05:05 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 1: 8KUZNEC8 ($9.68 in chips) 
+Seat 2: romanromanro ($10.55 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.61 in chips) 
+Seat 5: Antonio8812 ($10.09 in chips) 
+Seat 6: Black021 ($10.52 in chips) 
+kilativ7: posts small blind $0.05
+Antonio8812: posts big blind $0.10
+*** HOLE CARDS ***
+Black021: folds 
+8KUZNEC8: calls $0.10
+romanromanro: folds 
+mastiko1996: raises $0.30 to $0.40
+kilativ7: folds 
+Antonio8812: raises $1 to $1.40
+8KUZNEC8: calls $1.30
+mastiko1996: calls $1
+*** FLOP *** [5h 7s Ks]
+Antonio8812: bets $2.80
+8KUZNEC8: calls $2.80
+mastiko1996: folds 
+*** TURN *** [5h 7s Ks] [5d]
+Antonio8812: bets $5.89 and is all-in
+8KUZNEC8: calls $5.48 and is all-in
+Uncalled bet ($0.41) returned to Antonio8812
+*** RIVER *** [5h 7s Ks 5d] [3s]
+*** SHOW DOWN ***
+Antonio8812: shows [As Ac] (two pair, Aces and Fives)
+8KUZNEC8: shows [6s 6h] (two pair, Sixes and Fives)
+Antonio8812 collected $19.87 from pot
+*** SUMMARY ***
+Total pot $20.81 | Rake $0.94 
+Board [5h 7s Ks 5d 3s]
+Seat 1: 8KUZNEC8 showed [6s 6h] and lost with two pair, Sixes and Fives
+Seat 2: romanromanro folded before Flop (didn't bet)
+Seat 3: mastiko1996 (button) folded on the Flop
+Seat 4: kilativ7 (small blind) folded before Flop
+Seat 5: Antonio8812 (big blind) showed [As Ac] and won ($19.87) with two pair, Aces and Fives
+Seat 6: Black021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952915367:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:06:10 ET
+Table 'Guisan II' 6-max Seat #4 is the button
+Seat 2: romanromanro ($10.55 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.56 in chips) 
+Seat 5: Antonio8812 ($20.28 in chips) 
+Seat 6: Black021 ($10.52 in chips) 
+Antonio8812: posts small blind $0.05
+Black021: posts big blind $0.10
+*** HOLE CARDS ***
+romanromanro: folds 
+mastiko1996: folds 
+kilativ7: raises $0.15 to $0.25
+Antonio8812: folds 
+8KUZNEC8 leaves the table
+Black021: folds 
+Uncalled bet ($0.15) returned to kilativ7
+kilativ7 collected $0.25 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: romanromanro folded before Flop (didn't bet)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 (button) collected ($0.25)
+Seat 5: Antonio8812 (small blind) folded before Flop
+Seat 6: Black021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952920486:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:06:23 ET
+Table 'Guisan II' 6-max Seat #5 is the button
+Seat 2: romanromanro ($10.55 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+Seat 4: kilativ7 ($10.71 in chips) 
+Seat 5: Antonio8812 ($20.23 in chips) 
+Seat 6: Black021 ($10.42 in chips) 
+Black021: posts small blind $0.05
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+kilativ7: folds 
+Antonio8812: folds 
+Black021: folds 
+Uncalled bet ($0.05) returned to romanromanro
+Black021 was removed from the table for failing to post
+Black021 leaves the table
+romanromanro collected $0.10 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: romanromanro (big blind) collected ($0.10)
+Seat 3: mastiko1996 folded before Flop (didn't bet)
+Seat 4: kilativ7 folded before Flop (didn't bet)
+Seat 5: Antonio8812 (button) folded before Flop (didn't bet)
+Seat 6: Black021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952924470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:06:33 ET
+Table 'Guisan II' 6-max Seat #3 is the button
+Seat 2: romanromanro ($10.60 in chips) 
+Seat 3: mastiko1996 ($10 in chips) 
+mastiko1996: posts small blind $0.05
+kilativ7: is sitting out 
+Antonio8812: is sitting out 
+romanromanro: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: raises $0.20 to $0.30
+Antonio8812 leaves the table
+kilativ7 leaves the table
+romanromanro: raises $0.30 to $0.60
+mastiko1996: calls $0.30
+*** FLOP *** [9d Kc 9s]
+romanromanro: checks 
+mastiko1996: bets $0.58
+romanromanro: raises $1.07 to $1.65
+mastiko1996: folds 
+Uncalled bet ($1.07) returned to romanromanro
+romanromanro collected $2.25 from pot
+romanromanro: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.11 
+Board [9d Kc 9s]
+Seat 2: romanromanro (big blind) collected ($2.25)
+Seat 3: mastiko1996 (button) (small blind) folded on the Flop
+
+
+

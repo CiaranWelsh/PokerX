@@ -1,0 +1,2614 @@
+﻿PokerStars Hand #222967306782:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:47:04 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.02 in chips) 
+Seat 2: Marocki ($14.60 in chips) 
+Seat 4: teddyKK ($11.63 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.35 in chips) 
+handbrake333: posts small blind $0.05
+mlhnfld: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marocki: folds 
+teddyKK: folds 
+alex-zacapa joins the table at seat #3 
+handbrake333: folds 
+Uncalled bet ($0.05) returned to mlhnfld
+mlhnfld collected $0.10 from pot
+mlhnfld: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: handbrake333 (small blind) folded before Flop
+Seat 6: mlhnfld (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222967315865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:47:16 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.02 in chips) 
+Seat 2: Marocki ($14.60 in chips) 
+Seat 4: teddyKK ($11.63 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.40 in chips) 
+mlhnfld: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+alex-zacapa: sits out 
+*** HOLE CARDS ***
+Marocki: folds 
+teddyKK: folds 
+handbrake333: folds 
+mlhnfld: folds 
+Uncalled bet ($0.05) returned to Karl Edgar
+Karl Edgar collected $0.10 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (big blind) collected ($0.10)
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 (button) folded before Flop (didn't bet)
+Seat 6: mlhnfld (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967328290:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:47:32 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.07 in chips) 
+Seat 2: Marocki ($14.60 in chips) 
+Seat 3: alex-zacapa ($10 in chips) 
+Seat 4: teddyKK ($11.63 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.35 in chips) 
+Karl Edgar: posts small blind $0.05
+Marocki: posts big blind $0.10
+alex-zacapa: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa: checks 
+teddyKK: folds 
+handbrake333: raises $0.40 to $0.50
+mlhnfld: folds 
+Karl Edgar: folds 
+Marocki: folds 
+alex-zacapa: folds 
+Uncalled bet ($0.40) returned to handbrake333
+handbrake333 collected $0.35 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marocki (big blind) folded before Flop
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 collected ($0.35)
+Seat 6: mlhnfld (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967346848:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:47:56 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.02 in chips) 
+Seat 2: Marocki ($14.50 in chips) 
+Seat 3: alex-zacapa ($9.90 in chips) 
+Seat 4: teddyKK ($11.63 in chips) 
+Seat 5: handbrake333 ($10.25 in chips) 
+Seat 6: mlhnfld ($2.35 in chips) 
+Marocki: posts small blind $0.05
+alex-zacapa: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+handbrake333: folds 
+mlhnfld: folds 
+Karl Edgar: raises $0.10 to $0.20
+Marocki: folds 
+alex-zacapa: calls $0.10
+*** FLOP *** [8h 5c 8d]
+alex-zacapa: checks 
+Karl Edgar: bets $0.14
+alex-zacapa: folds 
+Uncalled bet ($0.14) returned to Karl Edgar
+Karl Edgar collected $0.43 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8h 5c 8d]
+Seat 1: Karl Edgar (button) collected ($0.43)
+Seat 2: Marocki (small blind) folded before Flop
+Seat 3: alex-zacapa (big blind) folded on the Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 folded before Flop (didn't bet)
+Seat 6: mlhnfld folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967372937:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:48:30 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.25 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($9.70 in chips) 
+Seat 4: teddyKK ($11.63 in chips) 
+Seat 5: handbrake333 ($10.25 in chips) 
+Seat 6: mlhnfld ($2.35 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+mlhnfld: raises $0.10 to $0.20
+Karl Edgar: folds 
+Marocki: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Uncalled bet ($0.10) returned to mlhnfld
+mlhnfld collected $0.25 from pot
+mlhnfld: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki (button) folded before Flop (didn't bet)
+Seat 3: alex-zacapa (small blind) folded before Flop
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 5: handbrake333 folded before Flop (didn't bet)
+Seat 6: mlhnfld collected ($0.25)
+
+
+
+PokerStars Hand #222967388045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:48:49 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($27.25 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($9.65 in chips) 
+Seat 4: teddyKK ($11.53 in chips) 
+Seat 5: handbrake333 ($10.25 in chips) 
+Seat 6: mlhnfld ($2.50 in chips) 
+teddyKK: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+mlhnfld: folds 
+Karl Edgar: folds 
+Marocki: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 3: alex-zacapa (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: handbrake333 (big blind) collected ($0.10)
+Seat 6: mlhnfld folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967395617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:48:59 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.25 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($9.65 in chips) 
+Seat 4: teddyKK ($11.48 in chips) 
+Seat 5: handbrake333 ($10.30 in chips) 
+Seat 6: mlhnfld ($2.50 in chips) 
+handbrake333: posts small blind $0.05
+mlhnfld: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marocki: folds 
+alex-zacapa: raises $0.10 to $0.20
+teddyKK: calls $0.20
+handbrake333: folds 
+mlhnfld: calls $0.10
+*** FLOP *** [Th 2d Jd]
+mlhnfld: checks 
+alex-zacapa: checks 
+teddyKK: bets $0.40
+mlhnfld: folds 
+alex-zacapa: folds 
+Uncalled bet ($0.40) returned to teddyKK
+teddyKK collected $0.62 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Th 2d Jd]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 3: alex-zacapa folded on the Flop
+Seat 4: teddyKK (button) collected ($0.62)
+Seat 5: handbrake333 (small blind) folded before Flop
+Seat 6: mlhnfld (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222967431775:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:49:46 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.25 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($9.45 in chips) 
+Seat 4: teddyKK ($11.90 in chips) 
+Seat 5: handbrake333 ($10.25 in chips) 
+Seat 6: mlhnfld ($2.30 in chips) 
+mlhnfld: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki has timed out
+Marocki: folds 
+alex-zacapa: raises $0.10 to $0.20
+teddyKK: folds 
+handbrake333: raises $0.40 to $0.60
+mlhnfld: folds 
+Karl Edgar: folds 
+alex-zacapa: calls $0.40
+*** FLOP *** [3s 8s Td]
+alex-zacapa: bets $0.65
+handbrake333: folds 
+Uncalled bet ($0.65) returned to alex-zacapa
+alex-zacapa collected $1.29 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [3s 8s Td]
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 3: alex-zacapa collected ($1.29)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 (button) folded on the Flop
+Seat 6: mlhnfld (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967471511:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:50:37 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.15 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($10.14 in chips) 
+Seat 4: teddyKK ($11.90 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.25 in chips) 
+Karl Edgar: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa: folds 
+teddyKK: folds 
+handbrake333: folds 
+mlhnfld: folds 
+Karl Edgar: raises $0.15 to $0.25
+Marocki: folds 
+Uncalled bet ($0.15) returned to Karl Edgar
+Karl Edgar collected $0.20 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar (small blind) collected ($0.20)
+Seat 2: Marocki (big blind) folded before Flop
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 folded before Flop (didn't bet)
+Seat 6: mlhnfld (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967486896:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:50:58 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.25 in chips) 
+Seat 2: Marocki ($14.35 in chips) 
+Seat 3: alex-zacapa ($10.14 in chips) 
+Seat 4: teddyKK ($11.90 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.25 in chips) 
+Marocki: posts small blind $0.05
+alex-zacapa: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+handbrake333: folds 
+mlhnfld: folds 
+Karl Edgar: raises $0.10 to $0.20
+Marocki: folds 
+alex-zacapa: calls $0.10
+*** FLOP *** [5s 7s 4d]
+alex-zacapa: checks 
+Karl Edgar: bets $0.14
+alex-zacapa: calls $0.14
+*** TURN *** [5s 7s 4d] [Ts]
+alex-zacapa: bets $0.35
+Karl Edgar: folds 
+Uncalled bet ($0.35) returned to alex-zacapa
+alex-zacapa collected $0.70 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [5s 7s 4d Ts]
+Seat 1: Karl Edgar (button) folded on the Turn
+Seat 2: Marocki (small blind) folded before Flop
+Seat 3: alex-zacapa (big blind) collected ($0.70)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 folded before Flop (didn't bet)
+Seat 6: mlhnfld folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967516803:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:51:36 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($26.91 in chips) 
+Seat 2: Marocki ($14.30 in chips) 
+Seat 3: alex-zacapa ($10.50 in chips) 
+Seat 4: teddyKK ($11.90 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.25 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+mlhnfld: folds 
+Karl Edgar: folds 
+Marocki: raises $0.15 to $0.25
+alex-zacapa: folds 
+teddyKK: folds 
+Uncalled bet ($0.15) returned to Marocki
+Marocki collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki (button) collected ($0.25)
+Seat 3: alex-zacapa (small blind) folded before Flop
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 5: handbrake333 folded before Flop (didn't bet)
+Seat 6: mlhnfld folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967538206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:52:04 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($26.91 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($10.45 in chips) 
+Seat 4: teddyKK ($11.80 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.25 in chips) 
+teddyKK: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+mlhnfld: folds 
+Karl Edgar: folds 
+Marocki: folds 
+alex-zacapa: folds 
+teddyKK: raises $0.20 to $0.30
+handbrake333: folds 
+Uncalled bet ($0.20) returned to teddyKK
+teddyKK collected $0.20 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 3: alex-zacapa (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) collected ($0.20)
+Seat 5: handbrake333 (big blind) folded before Flop
+Seat 6: mlhnfld folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967554401:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:52:25 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($26.91 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($10.45 in chips) 
+Seat 4: teddyKK ($11.90 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.25 in chips) 
+handbrake333: posts small blind $0.05
+mlhnfld: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marocki: folds 
+alex-zacapa: raises $0.20 to $0.30
+teddyKK: raises $0.60 to $0.90
+handbrake333: folds 
+mlhnfld: folds 
+alex-zacapa: calls $0.60
+*** FLOP *** [6s 3c 7h]
+alex-zacapa: checks 
+teddyKK: checks 
+*** TURN *** [6s 3c 7h] [7c]
+alex-zacapa: checks 
+teddyKK: checks 
+*** RIVER *** [6s 3c 7h 7c] [3h]
+alex-zacapa: checks 
+teddyKK: checks 
+*** SHOW DOWN ***
+alex-zacapa: shows [Qh Jh] (two pair, Sevens and Threes)
+teddyKK: shows [Jc Ac] (two pair, Sevens and Threes - Ace kicker)
+teddyKK collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [6s 3c 7h 7c 3h]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 3: alex-zacapa showed [Qh Jh] and lost with two pair, Sevens and Threes
+Seat 4: teddyKK (button) showed [Jc Ac] and won ($1.86) with two pair, Sevens and Threes
+Seat 5: handbrake333 (small blind) folded before Flop
+Seat 6: mlhnfld (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967606137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:53:32 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($26.91 in chips) 
+Seat 2: Marocki ($14.45 in chips) 
+Seat 3: alex-zacapa ($9.55 in chips) 
+Seat 4: teddyKK ($12.86 in chips) 
+Seat 5: handbrake333 ($10 in chips) 
+Seat 6: mlhnfld ($2.15 in chips) 
+mlhnfld: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+alex-zacapa: raises $0.25 to $0.35
+teddyKK: folds 
+handbrake333: folds 
+handbrake333 leaves the table
+mlhnfld: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.25) returned to alex-zacapa
+Samat11101982 joins the table at seat #5 
+alex-zacapa collected $0.25 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marocki folded before Flop (didn't bet)
+Seat 3: alex-zacapa collected ($0.25)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: handbrake333 (button) folded before Flop (didn't bet)
+Seat 6: mlhnfld (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967638589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:54:06 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($26.81 in chips) 
+Seat 3: alex-zacapa ($9.70 in chips) 
+Seat 4: teddyKK ($12.86 in chips) 
+Seat 6: mlhnfld ($2.10 in chips) 
+Karl Edgar: posts small blind $0.05
+Marocki: is sitting out 
+alex-zacapa: posts big blind $0.10
+Samat11101982: sits out 
+*** HOLE CARDS ***
+teddyKK: folds 
+mlhnfld: raises $0.10 to $0.20
+Marocki leaves the table
+Karl Edgar: folds 
+alex-zacapa: folds 
+Uncalled bet ($0.10) returned to mlhnfld
+mlhnfld collected $0.25 from pot
+Marchun joins the table at seat #2 
+mlhnfld: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 3: alex-zacapa (big blind) folded before Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: mlhnfld (button) collected ($0.25)
+
+
+
+PokerStars Hand #222967652965:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:54:25 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($26.76 in chips) 
+Seat 3: alex-zacapa ($9.60 in chips) 
+Seat 4: teddyKK ($12.86 in chips) 
+Seat 5: Samat11101982 ($8 in chips) 
+Seat 6: mlhnfld ($2.25 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+Samat11101982: posts big blind $0.10
+*** HOLE CARDS ***
+Samat11101982: checks 
+mlhnfld: raises $2.15 to $2.25 and is all-in
+Karl Edgar: folds 
+alex-zacapa: calls $2.20
+teddyKK: folds 
+Samat11101982: calls $2.15
+*** FLOP *** [2s Jd 5h]
+alex-zacapa: bets $6.10
+Samat11101982: folds 
+Uncalled bet ($6.10) returned to alex-zacapa
+*** TURN *** [2s Jd 5h] [Kd]
+*** RIVER *** [2s Jd 5h Kd] [Jc]
+*** SHOW DOWN ***
+alex-zacapa: shows [5s 5c] (a full house, Fives full of Jacks)
+mlhnfld: shows [Ah 6s] (a pair of Jacks)
+alex-zacapa collected $6.54 from pot
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.31 
+Board [2s Jd 5h Kd Jc]
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 3: alex-zacapa (small blind) showed [5s 5c] and won ($6.54) with a full house, Fives full of Jacks
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 5: Samat11101982 folded on the Flop
+Seat 6: mlhnfld showed [Ah 6s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #222967690097:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:55:15 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($26.76 in chips) 
+Seat 3: alex-zacapa ($13.89 in chips) 
+Seat 4: teddyKK ($12.76 in chips) 
+Seat 5: Samat11101982 ($5.75 in chips) 
+teddyKK: posts small blind $0.05
+Samat11101982: posts big blind $0.10
+Marchun: sits out 
+*** HOLE CARDS ***
+Karl Edgar: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to Samat11101982
+Samat11101982 collected $0.10 from pot
+Samat11101982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 3: alex-zacapa (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: Samat11101982 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222967696030:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:55:27 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($26.76 in chips) 
+Seat 3: alex-zacapa ($13.89 in chips) 
+Seat 4: teddyKK ($12.71 in chips) 
+Seat 5: Samat11101982 ($5.80 in chips) 
+Samat11101982: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+Marchun: sits out 
+*** HOLE CARDS ***
+alex-zacapa: folds 
+teddyKK: folds 
+mlhnfld leaves the table
+Samat11101982: raises $0.10 to $0.20
+Karl Edgar: raises $0.40 to $0.60
+Samat11101982: calls $0.40
+*** FLOP *** [2d Qh Jc]
+Samat11101982: bets $0.10
+Impostore1988 joins the table at seat #6 
+Karl Edgar: calls $0.10
+*** TURN *** [2d Qh Jc] [9d]
+Samat11101982: bets $0.10
+Karl Edgar: calls $0.10
+*** RIVER *** [2d Qh Jc 9d] [9h]
+Samat11101982: checks 
+Karl Edgar: checks 
+*** SHOW DOWN ***
+Samat11101982: shows [8d 8s] (two pair, Nines and Eights)
+Karl Edgar: shows [Td Ts] (two pair, Tens and Nines)
+Karl Edgar collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [2d Qh Jc 9d 9h]
+Seat 1: Karl Edgar (big blind) showed [Td Ts] and won ($1.53) with two pair, Tens and Nines
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Samat11101982 (small blind) showed [8d 8s] and lost with two pair, Nines and Eights
+
+
+
+PokerStars Hand #222967720630:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:56:13 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.49 in chips) 
+Seat 2: Marchun ($10 in chips) 
+Seat 3: alex-zacapa ($13.89 in chips) 
+Seat 4: teddyKK ($12.71 in chips) 
+Seat 5: Samat11101982 ($5 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa: raises $0.10 to $0.20
+teddyKK: folds 
+Samat11101982: folds 
+Karl Edgar: folds 
+Marchun: folds 
+Uncalled bet ($0.10) returned to alex-zacapa
+alex-zacapa collected $0.25 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) folded before Flop
+Seat 3: alex-zacapa collected ($0.25)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967725699:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:56:23 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($10 in chips) 
+Seat 3: alex-zacapa ($14.04 in chips) 
+Seat 4: teddyKK ($12.71 in chips) 
+Seat 5: Samat11101982 ($5 in chips) 
+Marchun: posts small blind $0.05
+alex-zacapa: posts big blind $0.10
+Impostore1988: sits out 
+*** HOLE CARDS ***
+teddyKK: folds 
+Samat11101982: raises $0.10 to $0.20
+Karl Edgar: folds 
+Marchun: calls $0.15
+alex-zacapa: calls $0.10
+*** FLOP *** [Qh 4c Th]
+Marchun: checks 
+alex-zacapa: checks 
+Samat11101982: checks 
+*** TURN *** [Qh 4c Th] [Qc]
+Marchun: bets $0.30
+alex-zacapa: folds 
+Samat11101982: calls $0.30
+*** RIVER *** [Qh 4c Th Qc] [Kc]
+Marchun: bets $0.75
+Samat11101982: calls $0.75
+*** SHOW DOWN ***
+Marchun: shows [9c Jc] (a flush, King high)
+Samat11101982: mucks hand 
+Marchun collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [Qh 4c Th Qc Kc]
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) showed [9c Jc] and won ($2.58) with a flush, King high
+Seat 3: alex-zacapa (big blind) folded on the Turn
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 mucked
+
+
+
+PokerStars Hand #222967749412:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:57:07 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($11.33 in chips) 
+Seat 3: alex-zacapa ($13.84 in chips) 
+Seat 4: teddyKK ($12.71 in chips) 
+Seat 5: Samat11101982 ($3.75 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+Impostore1988: sits out 
+*** HOLE CARDS ***
+Samat11101982: folds 
+Karl Edgar: folds 
+Marchun: raises $0.15 to $0.25
+alex-zacapa: folds 
+teddyKK: calls $0.15
+*** FLOP *** [Ah 5h 4s]
+teddyKK: checks 
+Marchun: checks 
+*** TURN *** [Ah 5h 4s] [8s]
+teddyKK: bets $0.40
+Marchun: folds 
+Uncalled bet ($0.40) returned to teddyKK
+teddyKK collected $0.53 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ah 5h 4s 8s]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded on the Turn
+Seat 3: alex-zacapa (small blind) folded before Flop
+Seat 4: teddyKK (big blind) collected ($0.53)
+Seat 5: Samat11101982 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967764541:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:57:35 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($11.08 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.99 in chips) 
+Seat 5: Samat11101982 ($3.75 in chips) 
+teddyKK: posts small blind $0.05
+Samat11101982: posts big blind $0.10
+Impostore1988: sits out 
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: raises $0.20 to $0.30
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: calls $0.20
+*** FLOP *** [Kc Jh 5s]
+Samat11101982: checks 
+Marchun: bets $0.25
+Samat11101982: folds 
+Uncalled bet ($0.25) returned to Marchun
+Marchun collected $0.62 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Kc Jh 5s]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun collected ($0.62)
+Seat 3: alex-zacapa (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: Samat11101982 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222967777534:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:58:00 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($11.40 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.94 in chips) 
+Seat 5: Samat11101982 ($3.45 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+Samat11101982: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: raises $0.20 to $0.30
+Marchun: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: folds 
+Impostore1988: folds 
+Uncalled bet ($0.20) returned to Karl Edgar
+Karl Edgar collected $0.25 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar collected ($0.25)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Samat11101982 (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967784740:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:58:13 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.59 in chips) 
+Seat 2: Marchun ($11.40 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.94 in chips) 
+Seat 5: Samat11101982 ($3.40 in chips) 
+Seat 6: Impostore1988 ($9.90 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: raises $0.20 to $0.30
+alex-zacapa: folds 
+teddyKK: calls $0.30
+Samat11101982: calls $0.30
+Impostore1988: folds 
+Karl Edgar: folds 
+*** FLOP *** [Jh 4c 6h]
+Marchun: bets $0.40
+teddyKK: folds 
+Samat11101982: raises $0.40 to $0.80
+Marchun: raises $10.30 to $11.10 and is all-in
+Samat11101982: folds 
+Uncalled bet ($10.30) returned to Marchun
+Marchun collected $2.53 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [Jh 4c 6h]
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun collected ($2.53)
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK folded on the Flop
+Seat 5: Samat11101982 (button) folded on the Flop
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967807510:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:58:55 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.49 in chips) 
+Seat 2: Marchun ($12.83 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.64 in chips) 
+Seat 5: Samat11101982 ($2.30 in chips) 
+Seat 6: Impostore1988 ($9.85 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: calls $0.10
+Impostore1988: raises $0.50 to $0.60
+Karl Edgar: folds 
+Marchun: folds 
+Samat11101982: folds 
+Uncalled bet ($0.50) returned to Impostore1988
+Impostore1988 collected $0.35 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) folded before Flop
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 folded before Flop
+Seat 6: Impostore1988 (button) collected ($0.35)
+
+
+
+PokerStars Hand #222967818375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:59:16 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($12.73 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.64 in chips) 
+Seat 5: Samat11101982 ($2.20 in chips) 
+Seat 6: Impostore1988 ($10.10 in chips) 
+Marchun: posts small blind $0.05
+alex-zacapa: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Samat11101982: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: raises $0.20 to $0.30
+alex-zacapa: folds 
+Uncalled bet ($0.20) returned to Marchun
+Marchun collected $0.20 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) collected ($0.20)
+Seat 3: alex-zacapa (big blind) folded before Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967824716:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:59:28 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($12.83 in chips) 
+Seat 3: alex-zacapa ($13.69 in chips) 
+Seat 4: teddyKK ($12.64 in chips) 
+Seat 5: Samat11101982 ($2.20 in chips) 
+Seat 6: Impostore1988 ($10.10 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Samat11101982: raises $0.10 to $0.20
+Impostore1988: raises $0.80 to $1
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: calls $0.80
+*** FLOP *** [4h 5d Qh]
+Samat11101982: checks 
+Impostore1988: bets $2.05
+Samat11101982: folds 
+Uncalled bet ($2.05) returned to Impostore1988
+Impostore1988 collected $2.05 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [4h 5d Qh]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 3: alex-zacapa (small blind) folded before Flop
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 5: Samat11101982 folded on the Flop
+Seat 6: Impostore1988 collected ($2.05)
+
+
+
+PokerStars Hand #222967840913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:59:58 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($12.83 in chips) 
+Seat 3: alex-zacapa ($13.64 in chips) 
+Seat 4: teddyKK ($12.54 in chips) 
+Seat 5: Samat11101982 ($1.20 in chips) 
+Seat 6: Impostore1988 ($11.15 in chips) 
+teddyKK: posts small blind $0.05
+Samat11101982: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: folds 
+teddyKK: raises $0.20 to $0.30
+Samat11101982: calls $0.20
+*** FLOP *** [3h 9h 8c]
+teddyKK: checks 
+Samat11101982: checks 
+*** TURN *** [3h 9h 8c] [7c]
+teddyKK: checks 
+Samat11101982: checks 
+*** RIVER *** [3h 9h 8c 7c] [6h]
+teddyKK: checks 
+Samat11101982: bets $0.90 and is all-in
+teddyKK: folds 
+Uncalled bet ($0.90) returned to Samat11101982
+Samat11101982 collected $0.57 from pot
+Samat11101982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3h 9h 8c 7c 6h]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded on the River
+Seat 5: Samat11101982 (big blind) collected ($0.57)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967869238:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:00:46 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($12.83 in chips) 
+Seat 3: alex-zacapa ($13.64 in chips) 
+Seat 4: teddyKK ($12.24 in chips) 
+Seat 5: Samat11101982 ($1.47 in chips) 
+Seat 6: Impostore1988 ($11.15 in chips) 
+Samat11101982: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: raises $0.10 to $0.20
+teddyKK: folds 
+Samat11101982: folds 
+Impostore1988: folds 
+Uncalled bet ($0.10) returned to alex-zacapa
+alex-zacapa collected $0.25 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa collected ($0.25)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Samat11101982 (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967879273:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:01:02 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($12.83 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.24 in chips) 
+Seat 5: Samat11101982 ($1.42 in chips) 
+Seat 6: Impostore1988 ($11.05 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: calls $0.10
+Impostore1988: folds 
+Karl Edgar: raises $0.40 to $0.50
+Samat11101982: folds 
+Uncalled bet ($0.40) returned to Karl Edgar
+Karl Edgar collected $0.25 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (big blind) collected ($0.25)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 (button) folded before Flop
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967901107:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:01:29 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.59 in chips) 
+Seat 2: Marchun ($12.83 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.24 in chips) 
+Seat 5: Samat11101982 ($1.32 in chips) 
+Seat 6: Impostore1988 ($11 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa: folds 
+teddyKK: raises $0.20 to $0.30
+Samat11101982: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+Uncalled bet ($0.20) returned to teddyKK
+teddyKK collected $0.25 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) folded before Flop
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK collected ($0.25)
+Seat 5: Samat11101982 folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967916582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:01:45 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.54 in chips) 
+Seat 2: Marchun ($12.73 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.39 in chips) 
+Seat 5: Samat11101982 ($1.32 in chips) 
+Seat 6: Impostore1988 ($11 in chips) 
+Marchun: posts small blind $0.05
+alex-zacapa: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Samat11101982: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+Uncalled bet ($0.05) returned to alex-zacapa
+alex-zacapa collected $0.10 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) folded before Flop
+Seat 3: alex-zacapa (big blind) collected ($0.10)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967926561:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:01:59 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.54 in chips) 
+Seat 2: Marchun ($12.68 in chips) 
+Seat 3: alex-zacapa ($13.84 in chips) 
+Seat 4: teddyKK ($12.39 in chips) 
+Seat 5: Samat11101982 ($1.32 in chips) 
+Seat 6: Impostore1988 ($11 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Samat11101982 has timed out
+Samat11101982: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: folds 
+Uncalled bet ($0.05) returned to teddyKK
+teddyKK collected $0.10 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 3: alex-zacapa (small blind) folded before Flop
+Seat 4: teddyKK (big blind) collected ($0.10)
+Seat 5: Samat11101982 folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967938501:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:02:15 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($27.54 in chips) 
+Seat 2: Marchun ($12.68 in chips) 
+Seat 3: alex-zacapa ($13.79 in chips) 
+Seat 4: teddyKK ($12.44 in chips) 
+Seat 5: Samat11101982 ($1.32 in chips) 
+Seat 6: Impostore1988 ($11 in chips) 
+teddyKK: posts small blind $0.05
+Samat11101982: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: raises $0.10 to $0.20
+teddyKK: folds 
+Samat11101982: folds 
+Uncalled bet ($0.10) returned to alex-zacapa
+alex-zacapa collected $0.25 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa (button) collected ($0.25)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: Samat11101982 (big blind) folded before Flop
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967971383:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:02:57 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.54 in chips) 
+Seat 2: Marchun ($12.68 in chips) 
+Seat 3: alex-zacapa ($13.94 in chips) 
+Seat 4: teddyKK ($12.39 in chips) 
+Seat 5: Samat11101982 ($1.22 in chips) 
+Seat 6: Impostore1988 ($11 in chips) 
+Samat11101982: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: folds 
+teddyKK: raises $0.20 to $0.30
+Samat11101982: calls $0.25
+Impostore1988: folds 
+*** FLOP *** [Kd Jc Ac]
+Samat11101982: bets $0.10
+teddyKK: folds 
+Uncalled bet ($0.10) returned to Samat11101982
+Samat11101982 collected $0.67 from pot
+Samat11101982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Kd Jc Ac]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded on the Flop
+Seat 5: Samat11101982 (small blind) collected ($0.67)
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968006995:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:03:40 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.54 in chips) 
+Seat 2: Marchun ($12.68 in chips) 
+Seat 3: alex-zacapa ($13.94 in chips) 
+Seat 4: teddyKK ($12.09 in chips) 
+Seat 5: Samat11101982 ($1.59 in chips) 
+Seat 6: Impostore1988 ($10.90 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: raises $0.10 to $0.20
+Impostore1988: raises $0.50 to $0.70
+Karl Edgar: folds 
+Samat11101982: raises $0.89 to $1.59 and is all-in
+Impostore1988: calls $0.89
+*** FLOP *** [9d 6d 5d]
+*** TURN *** [9d 6d 5d] [Qh]
+*** RIVER *** [9d 6d 5d Qh] [4s]
+*** SHOW DOWN ***
+Impostore1988: shows [Ac Td] (high card Ace)
+Samat11101982: shows [Qs 6s] (two pair, Queens and Sixes)
+Samat11101982 collected $3.13 from pot
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.15 
+Board [9d 6d 5d Qh 4s]
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Samat11101982 (button) showed [Qs 6s] and won ($3.13) with two pair, Queens and Sixes
+Seat 6: Impostore1988 (small blind) showed [Ac Td] and lost with high card Ace
+
+
+
+PokerStars Hand #222968036758:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:04:17 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.44 in chips) 
+Seat 2: Marchun ($12.68 in chips) 
+Seat 3: alex-zacapa ($13.94 in chips) 
+Seat 4: teddyKK ($12.09 in chips) 
+Seat 5: Samat11101982 ($3.13 in chips) 
+Seat 6: Impostore1988 ($9.31 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa: raises $0.20 to $0.30
+teddyKK: calls $0.30
+Samat11101982: calls $0.30
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: calls $0.20
+*** FLOP *** [Kd 6c Ad]
+Marchun: checks 
+alex-zacapa: bets $0.60
+teddyKK: folds 
+Samat11101982: folds 
+Marchun: folds 
+Uncalled bet ($0.60) returned to alex-zacapa
+alex-zacapa collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kd 6c Ad]
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) folded on the Flop
+Seat 3: alex-zacapa collected ($1.19)
+Seat 4: teddyKK folded on the Flop
+Seat 5: Samat11101982 folded on the Flop
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968070098:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:04:58 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.39 in chips) 
+Seat 2: Marchun ($12.38 in chips) 
+Seat 3: alex-zacapa ($14.83 in chips) 
+Seat 4: teddyKK ($11.79 in chips) 
+Seat 5: Samat11101982 ($2.83 in chips) 
+Seat 6: Impostore1988 ($9.31 in chips) 
+Marchun: posts small blind $0.05
+alex-zacapa: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: raises $0.20 to $0.30
+Samat11101982: calls $0.30
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: raises $1.10 to $1.40
+alex-zacapa: folds 
+teddyKK: folds 
+Samat11101982: raises $1.43 to $2.83 and is all-in
+Marchun: calls $1.43
+*** FLOP *** [6s 9s 5s]
+*** TURN *** [6s 9s 5s] [6c]
+*** RIVER *** [6s 9s 5s 6c] [7c]
+*** SHOW DOWN ***
+Marchun: shows [Ks As] (a flush, Ace high)
+Samat11101982: shows [8c Tc] (a straight, Six to Ten)
+Marchun collected $5.79 from pot
+*** SUMMARY ***
+Total pot $6.06 | Rake $0.27 
+Board [6s 9s 5s 6c 7c]
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) showed [Ks As] and won ($5.79) with a flush, Ace high
+Seat 3: alex-zacapa (big blind) folded before Flop
+Seat 4: teddyKK folded before Flop
+Seat 5: Samat11101982 showed [8c Tc] and lost with a straight, Six to Ten
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968112690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:05:49 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.39 in chips) 
+Seat 2: Marchun ($15.34 in chips) 
+Seat 3: alex-zacapa ($14.73 in chips) 
+Seat 4: teddyKK ($11.49 in chips) 
+Seat 6: Impostore1988 ($9.31 in chips) 
+alex-zacapa: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: raises $0.15 to $0.25
+alex-zacapa: calls $0.20
+teddyKK: folds 
+*** FLOP *** [Ac 5s Jc]
+alex-zacapa: checks 
+Marchun: checks 
+*** TURN *** [Ac 5s Jc] [4d]
+alex-zacapa: checks 
+Marchun: checks 
+*** RIVER *** [Ac 5s Jc 4d] [Jh]
+alex-zacapa: checks 
+Marchun: checks 
+*** SHOW DOWN ***
+alex-zacapa: shows [8d 7s] (a pair of Jacks)
+Marchun: shows [9c 9h] (two pair, Jacks and Nines)
+Marchun collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ac 5s Jc 4d Jh]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) showed [9c 9h] and won ($0.57) with two pair, Jacks and Nines
+Seat 3: alex-zacapa (small blind) showed [8d 7s] and lost with a pair of Jacks
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968160806:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:06:46 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($27.39 in chips) 
+Seat 2: Marchun ($15.66 in chips) 
+Seat 3: alex-zacapa ($14.48 in chips) 
+Seat 4: teddyKK ($11.39 in chips) 
+Seat 6: Impostore1988 ($9.31 in chips) 
+teddyKK: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+alex-zacapa: raises $0.20 to $0.30
+teddyKK: folds 
+Impostore1988: folds 
+Uncalled bet ($0.20) returned to alex-zacapa
+alex-zacapa collected $0.25 from pot
+alex-zacapa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: alex-zacapa (button) collected ($0.25)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968174061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:07:02 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.39 in chips) 
+Seat 2: Marchun ($15.66 in chips) 
+Seat 4: teddyKK ($11.34 in chips) 
+Seat 6: Impostore1988 ($9.21 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+alex-zacapa leaves the table
+Marchun: folds 
+teddyKK: folds 
+Bretz232 joins the table at seat #3 
+Impostore1988: raises $0.20 to $0.30
+Karl Edgar: folds 
+Uncalled bet ($0.20) returned to Impostore1988
+Impostore1988 collected $0.20 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 6: Impostore1988 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222968183906:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:07:14 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.29 in chips) 
+Seat 2: Marchun ($15.66 in chips) 
+Seat 4: teddyKK ($11.34 in chips) 
+Seat 6: Impostore1988 ($9.31 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+Bretz232: sits out 
+*** HOLE CARDS ***
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.05) returned to Marchun
+Marchun collected $0.10 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) collected ($0.10)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968193442:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:07:25 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.24 in chips) 
+Seat 2: Marchun ($15.71 in chips) 
+Seat 3: Bretz232 ($10 in chips) 
+Seat 4: teddyKK ($11.34 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+Marchun: posts small blind $0.05
+Bretz232: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Impostore1988: raises $0.20 to $0.30
+Karl Edgar: folds 
+Marchun: raises $0.90 to $1.20
+Bretz232: calls $1.10
+Impostore1988: folds 
+*** FLOP *** [9c Kd Ad]
+Marchun: checks 
+Bretz232: checks 
+*** TURN *** [9c Kd Ad] [Ac]
+Marchun: checks 
+Bretz232: bets $1.29
+Marchun: folds 
+Uncalled bet ($1.29) returned to Bretz232
+Bretz232 collected $2.58 from pot
+Bretz232: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [9c Kd Ad Ac]
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) folded on the Turn
+Seat 3: Bretz232 (big blind) collected ($2.58)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop
+
+
+
+PokerStars Hand #222968231413:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:08:10 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.24 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($11.38 in chips) 
+Seat 4: teddyKK ($11.34 in chips) 
+Seat 6: Impostore1988 ($9.70 in chips) 
+Bretz232: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988 has timed out
+Impostore1988: folds 
+Karl Edgar: raises $0.15 to $0.25
+Marchun: folds 
+Bretz232: calls $0.20
+teddyKK: calls $0.15
+*** FLOP *** [3c Kc 8s]
+Bretz232: checks 
+teddyKK: checks 
+Karl Edgar: checks 
+*** TURN *** [3c Kc 8s] [Ac]
+Bretz232: checks 
+teddyKK: checks 
+Karl Edgar: checks 
+*** RIVER *** [3c Kc 8s Ac] [5h]
+Bretz232: checks 
+teddyKK: checks 
+Karl Edgar: checks 
+*** SHOW DOWN ***
+Bretz232: shows [7h Qh] (high card Ace)
+teddyKK: shows [6c 6h] (a pair of Sixes)
+Karl Edgar: mucks hand 
+teddyKK collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [3c Kc 8s Ac 5h]
+Seat 1: Karl Edgar mucked
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 3: Bretz232 (small blind) showed [7h Qh] and lost with high card Ace
+Seat 4: teddyKK (big blind) showed [6c 6h] and won ($0.72) with a pair of Sixes
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968288754:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:09:19 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($26.99 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($11.13 in chips) 
+Seat 4: teddyKK ($11.81 in chips) 
+Seat 6: Impostore1988 ($9.70 in chips) 
+teddyKK: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: raises $0.20 to $0.30
+Marchun: folds 
+Bretz232: folds 
+teddyKK: folds 
+Impostore1988: folds 
+Uncalled bet ($0.20) returned to Karl Edgar
+Karl Edgar collected $0.25 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar collected ($0.25)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: Bretz232 (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968312849:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:09:47 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.14 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($11.13 in chips) 
+Seat 4: teddyKK ($11.76 in chips) 
+Seat 6: Impostore1988 ($9.60 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+Bretz232: calls $0.10
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: checks 
+*** FLOP *** [5d 7d Ad]
+Karl Edgar: checks 
+Bretz232: bets $0.12
+Karl Edgar: calls $0.12
+*** TURN *** [5d 7d Ad] [Qd]
+Karl Edgar: checks 
+Bretz232: checks 
+*** RIVER *** [5d 7d Ad Qd] [3d]
+Karl Edgar: checks 
+Bretz232: checks 
+*** SHOW DOWN ***
+Karl Edgar: shows [8d 5c] (a flush, Ace high)
+Bretz232: mucks hand 
+Karl Edgar collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [5d 7d Ad Qd 3d]
+Seat 1: Karl Edgar (big blind) showed [8d 5c] and won ($0.47) with a flush, Ace high
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: Bretz232 mucked
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968348854:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:10:30 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.39 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($10.91 in chips) 
+Seat 4: teddyKK ($11.76 in chips) 
+Seat 6: Impostore1988 ($9.55 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+Bretz232: folds 
+teddyKK: raises $0.20 to $0.30
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+Uncalled bet ($0.20) returned to teddyKK
+teddyKK collected $0.25 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) folded before Flop
+Seat 3: Bretz232 folded before Flop (didn't bet)
+Seat 4: teddyKK collected ($0.25)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968360744:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:10:44 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.34 in chips) 
+Seat 2: Marchun ($14.41 in chips) 
+Seat 3: Bretz232 ($10.91 in chips) 
+Seat 4: teddyKK ($11.91 in chips) 
+Seat 6: Impostore1988 ($9.55 in chips) 
+Marchun: posts small blind $0.05
+Bretz232: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+Uncalled bet ($0.05) returned to Bretz232
+Bretz232 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) folded before Flop
+Seat 3: Bretz232 (big blind) collected ($0.10)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968367124:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:10:52 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.34 in chips) 
+Seat 2: Marchun ($14.36 in chips) 
+Seat 3: Bretz232 ($10.96 in chips) 
+Seat 4: teddyKK ($11.91 in chips) 
+Seat 6: Impostore1988 ($9.55 in chips) 
+Bretz232: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: raises $0.15 to $0.25
+Bretz232: folds 
+teddyKK: folds 
+Uncalled bet ($0.15) returned to Marchun
+Marchun collected $0.25 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) collected ($0.25)
+Seat 3: Bretz232 (small blind) folded before Flop
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968393712:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:11:24 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($27.34 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($10.91 in chips) 
+Seat 4: teddyKK ($11.81 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+teddyKK: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+Bretz232: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to Impostore1988
+Impostore1988 collected $0.10 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: Bretz232 (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222968402416:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:11:34 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.34 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($10.91 in chips) 
+Seat 4: teddyKK ($11.76 in chips) 
+Seat 6: Impostore1988 ($10.05 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+Bretz232: folds 
+teddyKK: folds 
+Impostore1988: raises $0.20 to $0.30
+Karl Edgar: folds 
+Uncalled bet ($0.20) returned to Impostore1988
+Impostore1988 collected $0.20 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: Bretz232 folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 6: Impostore1988 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222968431310:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:12:00 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.24 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 3: Bretz232 ($10.91 in chips) 
+Seat 4: teddyKK ($11.76 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+Bretz232 is disconnected 
+Bretz232 has timed out while disconnected
+Bretz232: folds 
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.05) returned to Marchun
+Marchun collected $0.10 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) collected ($0.10)
+Seat 3: Bretz232 folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968451184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:12:24 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($27.19 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 4: teddyKK ($11.76 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+Marchun: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: raises $0.10 to $0.20
+Marchun: folds 
+teddyKK: folds 
+Uncalled bet ($0.10) returned to Karl Edgar
+Karl Edgar collected $0.25 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (button) collected ($0.25)
+Seat 2: Marchun (small blind) folded before Flop
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968466582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:12:42 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($27.34 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+teddyKK: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to Impostore1988
+Impostore1988 collected $0.10 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222968491668:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:13:12 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($27.34 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 4: teddyKK ($11.61 in chips) 
+Seat 6: Impostore1988 ($10.20 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: raises $0.20 to $0.30
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.20) returned to Marchun
+Marchun collected $0.25 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun collected ($0.25)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968504990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:13:28 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($27.24 in chips) 
+Seat 2: Marchun ($14.66 in chips) 
+Seat 4: teddyKK ($11.61 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.05) returned to Marchun
+Marchun collected $0.10 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) collected ($0.10)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968513212:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:13:38 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 2: Marchun ($14.71 in chips) 
+Seat 4: teddyKK ($11.61 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+teddyKK: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to Impostore1988
+Impostore1988 collected $0.10 from pot
+Samat11101982 was removed from the table for failing to post
+Samat11101982 leaves the table
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222968521099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:13:47 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 2: Marchun ($14.71 in chips) 
+Seat 4: teddyKK ($11.56 in chips) 
+Seat 6: Impostore1988 ($10.20 in chips) 
+Impostore1988: posts small blind $0.05
+Marchun: posts big blind $0.10
+Bretz232: sits out 
+*** HOLE CARDS ***
+teddyKK: folds 
+Impostore1988: folds 
+Uncalled bet ($0.05) returned to Marchun
+Marchun collected $0.10 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Marchun (big blind) collected ($0.10)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968525923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:13:53 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 2: Marchun ($14.76 in chips) 
+Seat 3: Bretz232 ($10.91 in chips) 
+Seat 4: teddyKK ($11.56 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+Marchun: posts small blind $0.05
+Bretz232: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: raises $0.20 to $0.30
+Persstv joins the table at seat #5 
+Impostore1988: folds 
+Marchun: folds 
+Bretz232: folds 
+Uncalled bet ($0.20) returned to teddyKK
+Bretz232 leaves the table
+teddyKK collected $0.25 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Marchun (small blind) folded before Flop
+Seat 3: Bretz232 (big blind) folded before Flop
+Seat 4: teddyKK collected ($0.25)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968542370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:14:13 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 2: Marchun ($14.71 in chips) 
+Seat 4: teddyKK ($11.71 in chips) 
+Seat 5: Persstv ($10 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+teddyKK: posts small blind $0.05
+Persstv: posts big blind $0.10
+*** HOLE CARDS ***
+winn07 joins the table at seat #3 
+Impostore1988: folds 
+Marchun: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to Persstv
+Persstv collected $0.10 from pot
+Persstv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: Persstv (big blind) collected ($0.10)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968550203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:14:22 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 2: Marchun ($14.71 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 5: Persstv ($10.05 in chips) 
+Seat 6: Impostore1988 ($10.15 in chips) 
+Persstv: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+winn07: sits out 
+*** HOLE CARDS ***
+Marchun: folds 
+teddyKK: folds 
+Persstv: raises $0.10 to $0.20
+Impostore1988: folds 
+Uncalled bet ($0.10) returned to Persstv
+Persstv collected $0.20 from pot
+Persstv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Persstv (small blind) collected ($0.20)
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968562332:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:14:37 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($27.19 in chips) 
+Seat 2: Marchun ($14.71 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 5: Persstv ($10.15 in chips) 
+Seat 6: Impostore1988 ($10.05 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+winn07: sits out 
+*** HOLE CARDS ***
+Marchun: folds 
+teddyKK: folds 
+Persstv: raises $0.20 to $0.30
+Impostore1988: folds 
+Karl Edgar: calls $0.20
+*** FLOP *** [Td 5c 4d]
+Karl Edgar: checks 
+Persstv: bets $0.30
+Karl Edgar: calls $0.30
+*** TURN *** [Td 5c 4d] [Qh]
+Karl Edgar: checks 
+Persstv: bets $0.60
+Karl Edgar: folds 
+Uncalled bet ($0.60) returned to Persstv
+Persstv collected $1.19 from pot
+Persstv: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Td 5c 4d Qh]
+Seat 1: Karl Edgar (big blind) folded on the Turn
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Persstv (button) collected ($1.19)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968597337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:15:17 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($26.59 in chips) 
+Seat 2: Marchun ($14.71 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 5: Persstv ($10.74 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+winn07: sits out 
+*** HOLE CARDS ***
+teddyKK: folds 
+Persstv: raises $0.30 to $0.40
+Impostore1988: folds 
+Karl Edgar: raises $0.80 to $1.20
+Marchun: folds 
+Persstv: raises $0.80 to $2
+Karl Edgar: raises $24.59 to $26.59 and is all-in
+Persstv: calls $8.74 and is all-in
+Uncalled bet ($15.85) returned to Karl Edgar
+*** FLOP *** [Ts Ks 8d]
+*** TURN *** [Ts Ks 8d] [2s]
+*** RIVER *** [Ts Ks 8d 2s] [6s]
+*** SHOW DOWN ***
+Karl Edgar: shows [Qs Qh] (a flush, King high)
+Persstv: shows [Jh Js] (a flush, King high - lower cards)
+Karl Edgar collected $20.61 from pot
+*** SUMMARY ***
+Total pot $21.58 | Rake $0.97 
+Board [Ts Ks 8d 2s 6s]
+Seat 1: Karl Edgar (small blind) showed [Qs Qh] and won ($20.61) with a flush, King high
+Seat 2: Marchun (big blind) folded before Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Persstv showed [Jh Js] and lost with a flush, King high
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968632375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:15:59 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($36.46 in chips) 
+Seat 2: Marchun ($14.61 in chips) 
+Seat 3: winn07 ($10 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+Marchun: posts small blind $0.05
+winn07: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Impostore1988: folds 
+Karl Edgar: raises $0.10 to $0.20
+Marchun: folds 
+Persstv leaves the table
+winn07: folds 
+Uncalled bet ($0.10) returned to Karl Edgar
+Karl Edgar collected $0.25 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (button) collected ($0.25)
+Seat 2: Marchun (small blind) folded before Flop
+Seat 3: winn07 (big blind) folded before Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968644538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:13 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 3: winn07 ($9.90 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+winn07: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+winn07: folds 
+Uncalled bet ($0.05) returned to teddyKK
+teddyKK collected $0.10 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 3: winn07 (small blind) folded before Flop
+Seat 4: teddyKK (big blind) collected ($0.10)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968650890:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:20 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 3: winn07 ($10 in chips) 
+Seat 4: teddyKK ($11.71 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+teddyKK: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+winn07: folds 
+teddyKK: folds 
+Uncalled bet ($0.05) returned to Impostore1988
+Impostore1988 collected $0.10 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: winn07 (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222968657586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:28 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 3: winn07 ($10 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 6: Impostore1988 ($10.05 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+winn07: folds 
+teddyKK: folds 
+Impostore1988: folds 
+Uncalled bet ($0.05) returned to Karl Edgar
+Karl Edgar collected $0.10 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (big blind) collected ($0.10)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: winn07 folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968664890:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:37 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($36.66 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 3: winn07 ($10 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+winn07: folds 
+teddyKK: folds 
+paraDonnn joins the table at seat #5 
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.05) returned to Marchun
+Marchun collected $0.10 from pot
+Marchun: doesn't show hand 
+paraDonnn leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) collected ($0.10)
+Seat 3: winn07 folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968676507:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:16:51 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.61 in chips) 
+Seat 3: winn07 ($10 in chips) 
+Seat 4: teddyKK ($11.66 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+Marchun: posts small blind $0.05
+winn07: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: raises $0.20 to $0.30
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+winn07: calls $0.20
+*** FLOP *** [Ad 4d 5h]
+lastfox joins the table at seat #5 
+winn07: checks 
+teddyKK: bets $0.31
+winn07: calls $0.31
+*** TURN *** [Ad 4d 5h] [5d]
+winn07: checks 
+teddyKK: bets $0.61
+winn07: calls $0.61
+*** RIVER *** [Ad 4d 5h 5d] [4s]
+lastfox leaves the table
+winn07: checks 
+teddyKK: bets $1.19
+winn07: calls $1.19
+*** SHOW DOWN ***
+teddyKK: shows [Ac As] (a full house, Aces full of Fives)
+winn07: mucks hand 
+teddyKK collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.87 | Rake $0.22 
+Board [Ad 4d 5h 5d 4s]
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) folded before Flop
+Seat 3: winn07 (big blind) mucked
+Seat 4: teddyKK showed [Ac As] and won ($4.65) with a full house, Aces full of Fives
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968715193:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:17:36 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 3: winn07 ($7.59 in chips) 
+Seat 4: teddyKK ($13.90 in chips) 
+Seat 6: Impostore1988 ($10 in chips) 
+winn07: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: raises $0.20 to $0.30
+Karl Edgar: folds 
+Marchun: folds 
+winn07: calls $0.25
+teddyKK: calls $0.20
+*** FLOP *** [Tc Jh 2h]
+winn07: checks 
+teddyKK: checks 
+Impostore1988: checks 
+*** TURN *** [Tc Jh 2h] [Qh]
+winn07: checks 
+teddyKK: checks 
+Impostore1988: bets $0.86
+winn07: folds 
+teddyKK: folds 
+Uncalled bet ($0.86) returned to Impostore1988
+Impostore1988 collected $0.86 from pot
+Impostore1988: doesn't show hand 
+Jacub1987 joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Tc Jh 2h Qh]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 3: winn07 (small blind) folded on the Turn
+Seat 4: teddyKK (big blind) folded on the Turn
+Seat 6: Impostore1988 collected ($0.86)
+
+
+
+PokerStars Hand #222968752664:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:18:20 ET
+Table 'Polydoros II' 6-max Seat #3 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 3: winn07 ($10 in chips) 
+Seat 4: teddyKK ($13.60 in chips) 
+Seat 5: Jacub1987 ($10 in chips) 
+Seat 6: Impostore1988 ($10.56 in chips) 
+teddyKK: posts small blind $0.05
+Jacub1987: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: raises $0.20 to $0.30
+Karl Edgar: folds 
+Marchun: folds 
+winn07: folds 
+winn07 leaves the table
+teddyKK: folds 
+winn07 joins the table at seat #3 
+Jacub1987: folds 
+Uncalled bet ($0.20) returned to Impostore1988
+Impostore1988 collected $0.25 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 3: winn07 (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: Jacub1987 (big blind) folded before Flop
+Seat 6: Impostore1988 collected ($0.25)
+
+
+
+PokerStars Hand #222968767750:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:18:37 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10 in chips) 
+Seat 6: Impostore1988 ($10.71 in chips) 
+Jacub1987: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+winn07: is sitting out 
+*** HOLE CARDS ***
+winn07 leaves the table
+Ochinev joins the table at seat #3 
+Karl Edgar: folds 
+Marchun: folds 
+teddyKK: folds 
+Jacub1987: raises $0.15 to $0.25
+Impostore1988: raises $0.50 to $0.75
+Jacub1987: raises $1.35 to $2.10
+Impostore1988: calls $1.35
+*** FLOP *** [8c 7s 6c]
+Jacub1987: checks 
+Impostore1988: bets $1.50
+Jacub1987: raises $6.40 to $7.90 and is all-in
+Impostore1988: calls $6.40
+*** TURN *** [8c 7s 6c] [Jd]
+*** RIVER *** [8c 7s 6c Jd] [8d]
+*** SHOW DOWN ***
+Jacub1987: shows [Ac Kc] (a pair of Eights)
+Impostore1988: shows [9d 9h] (two pair, Nines and Eights)
+Impostore1988 collected $19.10 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0.90 
+Board [8c 7s 6c Jd 8d]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Jacub1987 (small blind) showed [Ac Kc] and lost with a pair of Eights
+Seat 6: Impostore1988 (big blind) showed [9d 9h] and won ($19.10) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #222968797603:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:19:12 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($36.61 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10 in chips) 
+Seat 6: Impostore1988 ($19.81 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+teddyKK: folds 
+Jacub1987: raises $0.12 to $0.22
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.12) returned to Jacub1987
+Jacub1987 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Jacub1987 (button) collected ($0.25)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968808141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:19:25 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($36.51 in chips) 
+Seat 2: Marchun ($14.56 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10.15 in chips) 
+Seat 6: Impostore1988 ($19.76 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Jacub1987: folds 
+Impostore1988: raises $0.10 to $0.20
+Karl Edgar: folds 
+Marchun: calls $0.10
+*** FLOP *** [Ts 7d Qc]
+Marchun: checks 
+Impostore1988: bets $0.22
+Marchun: folds 
+Uncalled bet ($0.22) returned to Impostore1988
+Impostore1988 collected $0.43 from pot
+Impostore1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ts 7d Qc]
+Seat 1: Karl Edgar (small blind) folded before Flop
+Seat 2: Marchun (big blind) folded on the Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Jacub1987 folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) collected ($0.43)
+
+
+
+PokerStars Hand #222968830716:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:19:51 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($36.46 in chips) 
+Seat 2: Marchun ($14.36 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10.15 in chips) 
+Seat 6: Impostore1988 ($19.99 in chips) 
+Marchun: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Jacub1987: folds 
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+Uncalled bet ($0.05) returned to teddyKK
+teddyKK collected $0.10 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Karl Edgar (button) folded before Flop (didn't bet)
+Seat 2: Marchun (small blind) folded before Flop
+Seat 4: teddyKK (big blind) collected ($0.10)
+Seat 5: Jacub1987 folded before Flop (didn't bet)
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968837135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:19:59 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($36.46 in chips) 
+Seat 2: Marchun ($14.31 in chips) 
+Seat 4: teddyKK ($13.60 in chips) 
+Seat 5: Jacub1987 ($10.15 in chips) 
+Seat 6: Impostore1988 ($19.99 in chips) 
+teddyKK: posts small blind $0.05
+Jacub1987: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: raises $0.15 to $0.25
+teddyKK: folds 
+Jacub1987: folds 
+Uncalled bet ($0.15) returned to Marchun
+Marchun collected $0.25 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) collected ($0.25)
+Seat 4: teddyKK (small blind) folded before Flop
+Seat 5: Jacub1987 (big blind) folded before Flop
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968850495:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:20:14 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($36.46 in chips) 
+Seat 2: Marchun ($14.46 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10.05 in chips) 
+Seat 6: Impostore1988 ($19.99 in chips) 
+Jacub1987: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: raises $0.20 to $0.30
+teddyKK: folds 
+Jacub1987: folds 
+Impostore1988: folds 
+Uncalled bet ($0.20) returned to Marchun
+Marchun collected $0.25 from pot
+Marchun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun collected ($0.25)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Jacub1987 (small blind) folded before Flop
+Seat 6: Impostore1988 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222968859538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:20:24 ET
+Table 'Polydoros II' 6-max Seat #5 is the button
+Seat 1: Karl Edgar ($36.46 in chips) 
+Seat 2: Marchun ($14.61 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10 in chips) 
+Seat 6: Impostore1988 ($19.89 in chips) 
+Impostore1988: posts small blind $0.05
+Karl Edgar: posts big blind $0.10
+*** HOLE CARDS ***
+Marchun: folds 
+teddyKK: folds 
+Jacub1987: raises $0.12 to $0.22
+Impostore1988: folds 
+Karl Edgar: folds 
+Uncalled bet ($0.12) returned to Jacub1987
+Jacub1987 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Karl Edgar (big blind) folded before Flop
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Jacub1987 (button) collected ($0.25)
+Seat 6: Impostore1988 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222968879709:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:20:48 ET
+Table 'Polydoros II' 6-max Seat #6 is the button
+Seat 1: Karl Edgar ($36.36 in chips) 
+Seat 2: Marchun ($14.61 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10.15 in chips) 
+Seat 6: Impostore1988 ($19.84 in chips) 
+Karl Edgar: posts small blind $0.05
+Marchun: posts big blind $0.10
+*** HOLE CARDS ***
+teddyKK: folds 
+Jacub1987: folds 
+Impostore1988: folds 
+Karl Edgar: raises $0.15 to $0.25
+Marchun: folds 
+Uncalled bet ($0.15) returned to Karl Edgar
+Karl Edgar collected $0.20 from pot
+Karl Edgar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar (small blind) collected ($0.20)
+Seat 2: Marchun (big blind) folded before Flop
+Seat 4: teddyKK folded before Flop (didn't bet)
+Seat 5: Jacub1987 folded before Flop (didn't bet)
+Seat 6: Impostore1988 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968887998:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:20:58 ET
+Table 'Polydoros II' 6-max Seat #1 is the button
+Seat 1: Karl Edgar ($36.46 in chips) 
+Seat 2: Marchun ($14.51 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($10.15 in chips) 
+Seat 6: Impostore1988 ($19.84 in chips) 
+Marchun: posts small blind $0.05
+teddyKK: posts big blind $0.10
+*** HOLE CARDS ***
+Jacub1987: raises $0.15 to $0.25
+Impostore1988: folds 
+Karl Edgar: calls $0.25
+Marchun: folds 
+teddyKK: folds 
+*** FLOP *** [5c Jd 4c]
+Jacub1987: bets $0.47
+Karl Edgar: calls $0.47
+*** TURN *** [5c Jd 4c] [3h]
+Jacub1987: bets $0.90
+Karl Edgar: calls $0.90
+*** RIVER *** [5c Jd 4c 3h] [9h]
+Jacub1987: bets $1.10
+Karl Edgar: calls $1.10
+*** SHOW DOWN ***
+Jacub1987: shows [Kc Jh] (a pair of Jacks)
+Karl Edgar: mucks hand 
+Jacub1987 collected $5.34 from pot
+*** SUMMARY ***
+Total pot $5.59 | Rake $0.25 
+Board [5c Jd 4c 3h 9h]
+Seat 1: Karl Edgar (button) mucked
+Seat 2: Marchun (small blind) folded before Flop
+Seat 4: teddyKK (big blind) folded before Flop
+Seat 5: Jacub1987 showed [Kc Jh] and won ($5.34) with a pair of Jacks
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968926459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:21:42 ET
+Table 'Polydoros II' 6-max Seat #2 is the button
+Seat 1: Karl Edgar ($33.74 in chips) 
+Seat 2: Marchun ($14.46 in chips) 
+Seat 4: teddyKK ($13.45 in chips) 
+Seat 5: Jacub1987 ($12.77 in chips) 
+Seat 6: Impostore1988 ($19.84 in chips) 
+teddyKK: posts small blind $0.05
+Jacub1987: posts big blind $0.10
+*** HOLE CARDS ***
+Impostore1988: folds 
+Karl Edgar: folds 
+Marchun: folds 
+teddyKK: raises $0.20 to $0.30
+Jacub1987: folds 
+Uncalled bet ($0.20) returned to teddyKK
+teddyKK collected $0.20 from pot
+teddyKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun (button) folded before Flop (didn't bet)
+Seat 4: teddyKK (small blind) collected ($0.20)
+Seat 5: Jacub1987 (big blind) folded before Flop
+Seat 6: Impostore1988 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222968933930:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:21:51 ET
+Table 'Polydoros II' 6-max Seat #4 is the button
+Seat 1: Karl Edgar ($33.74 in chips) 
+Seat 2: Marchun ($14.46 in chips) 
+Seat 4: teddyKK ($13.55 in chips) 
+Seat 5: Jacub1987 ($12.67 in chips) 
+Seat 6: Impostore1988 ($19.84 in chips) 
+Jacub1987: posts small blind $0.05
+Impostore1988: posts big blind $0.10
+*** HOLE CARDS ***
+Karl Edgar: folds 
+Marchun: folds 
+teddyKK: folds 
+Jacub1987: raises $0.15 to $0.25
+Impostore1988: calls $0.15
+*** FLOP *** [Kh 7c Qd]
+Jacub1987: checks 
+Impostore1988: checks 
+*** TURN *** [Kh 7c Qd] [7s]
+Jacub1987: bets $0.25
+Impostore1988: folds 
+Uncalled bet ($0.25) returned to Jacub1987
+Jacub1987 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Kh 7c Qd 7s]
+Seat 1: Karl Edgar folded before Flop (didn't bet)
+Seat 2: Marchun folded before Flop (didn't bet)
+Seat 4: teddyKK (button) folded before Flop (didn't bet)
+Seat 5: Jacub1987 (small blind) collected ($0.48)
+Seat 6: Impostore1988 (big blind) folded on the Turn
+
+
+

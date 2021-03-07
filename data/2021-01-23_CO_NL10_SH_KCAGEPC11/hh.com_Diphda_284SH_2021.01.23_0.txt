@@ -1,0 +1,1650 @@
+﻿PokerStars Hand #222943469020:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:13 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: asss03 rus ($10.65 in chips) 
+Seat 2: jourdin23 ($10.89 in chips) 
+Seat 3: AleksCash ($10.78 in chips) 
+Seat 4: 6A6ARH6A6yNH ($10 in chips) 
+Seat 5: rubduckofdeath ($10 in chips) 
+Seat 6: EasySteavy ($10 in chips) 
+AleksCash: posts small blind $0.05
+6A6ARH6A6yNH: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EasySteavy: raises $0.20 to $0.30
+asss03 rus: calls $0.30
+jourdin23: folds 
+AleksCash: folds 
+6A6ARH6A6yNH: folds 
+*** FLOP *** [Th 4c Qc]
+EasySteavy: bets $0.56
+asss03 rus: calls $0.56
+*** TURN *** [Th 4c Qc] [6d]
+EasySteavy: bets $0.89
+asss03 rus: folds 
+Uncalled bet ($0.89) returned to EasySteavy
+EasySteavy collected $1.79 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [Th 4c Qc 6d]
+Seat 1: asss03 rus folded on the Turn
+Seat 2: jourdin23 (button) folded before Flop (didn't bet)
+Seat 3: AleksCash (small blind) folded before Flop
+Seat 4: 6A6ARH6A6yNH (big blind) folded before Flop
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy collected ($1.79)
+
+
+
+PokerStars Hand #222943480498:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:58 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 1: asss03 rus ($9.79 in chips) 
+Seat 2: jourdin23 ($10.89 in chips) 
+Seat 3: AleksCash ($10.73 in chips) 
+Seat 4: 6A6ARH6A6yNH ($10 in chips) 
+Seat 5: rubduckofdeath ($10 in chips) 
+Seat 6: EasySteavy ($10.93 in chips) 
+6A6ARH6A6yNH: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: folds 
+asss03 rus: folds 
+jourdin23: raises $0.75 to $0.85
+AleksCash: folds 
+6A6ARH6A6yNH: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.75) returned to jourdin23
+jourdin23 collected $0.25 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: asss03 rus folded before Flop (didn't bet)
+Seat 2: jourdin23 collected ($0.25)
+Seat 3: AleksCash (button) folded before Flop (didn't bet)
+Seat 4: 6A6ARH6A6yNH (small blind) folded before Flop
+Seat 5: rubduckofdeath (big blind) folded before Flop
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943487465:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:25 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 1: asss03 rus ($9.79 in chips) 
+Seat 2: jourdin23 ($11.04 in chips) 
+Seat 3: AleksCash ($10.73 in chips) 
+Seat 4: 6A6ARH6A6yNH ($10 in chips) 
+Seat 5: rubduckofdeath ($10 in chips) 
+Seat 6: EasySteavy ($10.93 in chips) 
+rubduckofdeath: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+asss03 rus: folds 
+jourdin23: raises $0.25 to $0.35
+AleksCash: folds 
+6A6ARH6A6yNH: raises $0.70 to $1.05
+rubduckofdeath: folds 
+EasySteavy: folds 
+jourdin23: calls $0.70
+*** FLOP *** [7h 5c 4s]
+jourdin23: checks 
+6A6ARH6A6yNH: checks 
+*** TURN *** [7h 5c 4s] [Kc]
+jourdin23: checks 
+6A6ARH6A6yNH: bets $2.15
+jourdin23: calls $2.15
+*** RIVER *** [7h 5c 4s Kc] [4c]
+jourdin23: checks 
+6A6ARH6A6yNH: checks 
+*** SHOW DOWN ***
+jourdin23: shows [Qh Ad] (a pair of Fours)
+6A6ARH6A6yNH: shows [Ah Kd] (two pair, Kings and Fours)
+6A6ARH6A6yNH collected $6.26 from pot
+*** SUMMARY ***
+Total pot $6.55 | Rake $0.29 
+Board [7h 5c 4s Kc 4c]
+Seat 1: asss03 rus folded before Flop (didn't bet)
+Seat 2: jourdin23 showed [Qh Ad] and lost with a pair of Fours
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: 6A6ARH6A6yNH (button) showed [Ah Kd] and won ($6.26) with two pair, Kings and Fours
+Seat 5: rubduckofdeath (small blind) folded before Flop
+Seat 6: EasySteavy (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943502583:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:21 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: asss03 rus ($9.79 in chips) 
+Seat 2: jourdin23 ($7.84 in chips) 
+Seat 3: AleksCash ($10.73 in chips) 
+Seat 4: 6A6ARH6A6yNH ($13.06 in chips) 
+Seat 5: rubduckofdeath ($10 in chips) 
+Seat 6: EasySteavy ($10.83 in chips) 
+EasySteavy: posts small blind $0.05
+asss03 rus: posts big blind $0.10
+*** HOLE CARDS ***
+jourdin23: calls $0.10
+AleksCash: raises $0.30 to $0.40
+6A6ARH6A6yNH: folds 
+rubduckofdeath: folds 
+EasySteavy: folds 
+asss03 rus: calls $0.30
+jourdin23: calls $0.30
+*** FLOP *** [9s Ad Jc]
+asss03 rus: checks 
+jourdin23: checks 
+AleksCash: checks 
+*** TURN *** [9s Ad Jc] [Ac]
+asss03 rus: bets $0.20
+jourdin23: calls $0.20
+AleksCash: folds 
+*** RIVER *** [9s Ad Jc Ac] [7h]
+asss03 rus: bets $0.70
+jourdin23: calls $0.70
+*** SHOW DOWN ***
+asss03 rus: shows [Kh Ts] (a pair of Aces)
+jourdin23: shows [5h 5d] (two pair, Aces and Fives)
+jourdin23 collected $2.91 from pot
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.14 
+Board [9s Ad Jc Ac 7h]
+Seat 1: asss03 rus (big blind) showed [Kh Ts] and lost with a pair of Aces
+Seat 2: jourdin23 showed [5h 5d] and won ($2.91) with two pair, Aces and Fives
+Seat 3: AleksCash folded on the Turn
+Seat 4: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 6: EasySteavy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943612353:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:54 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: asss03 rus ($10.55 in chips) 
+Seat 2: jourdin23 ($8.86 in chips) 
+Seat 3: AleksCash ($10.18 in chips) 
+Seat 4: 6A6ARH6A6yNH ($11.82 in chips) 
+Seat 5: rubduckofdeath ($20.75 in chips) 
+Seat 6: EasySteavy ($10.05 in chips) 
+EasySteavy: posts small blind $0.05
+asss03 rus: posts big blind $0.10
+*** HOLE CARDS ***
+jourdin23: calls $0.10
+AleksCash: raises $0.30 to $0.40
+6A6ARH6A6yNH: raises $0.95 to $1.35
+rubduckofdeath: folds 
+EasySteavy: folds 
+asss03 rus: folds 
+jourdin23: calls $1.25
+AleksCash: folds 
+*** FLOP *** [6h 5c 5d]
+jourdin23: checks 
+6A6ARH6A6yNH: checks 
+*** TURN *** [6h 5c 5d] [4c]
+jourdin23: checks 
+6A6ARH6A6yNH: bets $2.10
+jourdin23: calls $2.10
+*** RIVER *** [6h 5c 5d 4c] [2h]
+jourdin23: checks 
+6A6ARH6A6yNH: checks 
+*** SHOW DOWN ***
+jourdin23: shows [8h Kd] (a pair of Fives)
+6A6ARH6A6yNH: shows [Ah Ad] (two pair, Aces and Fives)
+6A6ARH6A6yNH collected $7.11 from pot
+*** SUMMARY ***
+Total pot $7.45 | Rake $0.34 
+Board [6h 5c 5d 4c 2h]
+Seat 1: asss03 rus (big blind) folded before Flop
+Seat 2: jourdin23 showed [8h Kd] and lost with a pair of Fives
+Seat 3: AleksCash folded before Flop
+Seat 4: 6A6ARH6A6yNH showed [Ah Ad] and won ($7.11) with two pair, Aces and Fives
+Seat 5: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 6: EasySteavy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943635519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:05 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: asss03 rus ($10.45 in chips) 
+Seat 2: jourdin23 ($5.41 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($15.48 in chips) 
+Seat 5: rubduckofdeath ($20.75 in chips) 
+Seat 6: EasySteavy ($10 in chips) 
+asss03 rus: posts small blind $0.05
+jourdin23: posts big blind $0.10
+*** HOLE CARDS ***
+AleksCash: folds 
+6A6ARH6A6yNH: calls $0.10
+rubduckofdeath: folds 
+EasySteavy: raises $0.35 to $0.45
+asss03 rus: calls $0.40
+jourdin23: folds 
+6A6ARH6A6yNH: calls $0.35
+*** FLOP *** [Ah Qd 9d]
+asss03 rus: bets $0.30
+6A6ARH6A6yNH: folds 
+EasySteavy: raises $1.19 to $1.49
+asss03 rus: folds 
+Uncalled bet ($1.19) returned to EasySteavy
+EasySteavy collected $1.96 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [Ah Qd 9d]
+Seat 1: asss03 rus (small blind) folded on the Flop
+Seat 2: jourdin23 (big blind) folded before Flop
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: 6A6ARH6A6yNH folded on the Flop
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy (button) collected ($1.96)
+
+
+
+PokerStars Hand #222943651184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:54 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: asss03 rus ($9.70 in chips) 
+Seat 2: jourdin23 ($5.31 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($15.03 in chips) 
+Seat 5: rubduckofdeath ($20.75 in chips) 
+Seat 6: EasySteavy ($11.21 in chips) 
+jourdin23: posts small blind $0.05
+AleksCash: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+rubduckofdeath: folds 
+EasySteavy: folds 
+asss03 rus: calls $0.10
+jourdin23: folds 
+AleksCash: checks 
+*** FLOP *** [9h Ac 3s]
+AleksCash: checks 
+asss03 rus: bets $0.10
+AleksCash: folds 
+Uncalled bet ($0.10) returned to asss03 rus
+asss03 rus collected $0.24 from pot
+asss03 rus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h Ac 3s]
+Seat 1: asss03 rus (button) collected ($0.24)
+Seat 2: jourdin23 (small blind) folded before Flop
+Seat 3: AleksCash (big blind) folded on the Flop
+Seat 4: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943663658:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:32 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: asss03 rus ($9.84 in chips) 
+Seat 2: jourdin23 ($5.26 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($15.03 in chips) 
+Seat 5: rubduckofdeath ($20.75 in chips) 
+Seat 6: EasySteavy ($11.21 in chips) 
+AleksCash: posts small blind $0.05
+6A6ARH6A6yNH: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: raises $0.20 to $0.30
+EasySteavy: folds 
+asss03 rus: folds 
+asss03 rus leaves the table
+jourdin23: folds 
+AleksCash: folds 
+6A6ARH6A6yNH: folds 
+Uncalled bet ($0.20) returned to rubduckofdeath
+rubduckofdeath collected $0.25 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: asss03 rus folded before Flop (didn't bet)
+Seat 2: jourdin23 (button) folded before Flop (didn't bet)
+Seat 3: AleksCash (small blind) folded before Flop
+Seat 4: 6A6ARH6A6yNH (big blind) folded before Flop
+Seat 5: rubduckofdeath collected ($0.25)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943671607:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:57 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 2: jourdin23 ($5.26 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($14.93 in chips) 
+Seat 5: rubduckofdeath ($20.90 in chips) 
+Seat 6: EasySteavy ($11.21 in chips) 
+6A6ARH6A6yNH: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: folds 
+jourdin23: calls $0.10
+AleksCash: folds 
+6A6ARH6A6yNH: calls $0.05
+rubduckofdeath: checks 
+*** FLOP *** [7s 8h Jh]
+6A6ARH6A6yNH: checks 
+rubduckofdeath: checks 
+jourdin23: checks 
+*** TURN *** [7s 8h Jh] [3c]
+6A6ARH6A6yNH: bets $0.10
+rubduckofdeath: folds 
+jourdin23: folds 
+Uncalled bet ($0.10) returned to 6A6ARH6A6yNH
+6A6ARH6A6yNH collected $0.29 from pot
+6A6ARH6A6yNH: shows [Kh]
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7s 8h Jh 3c]
+Seat 2: jourdin23 folded on the Turn
+Seat 3: AleksCash (button) folded before Flop (didn't bet)
+Seat 4: 6A6ARH6A6yNH (small blind) collected ($0.29)
+Seat 5: rubduckofdeath (big blind) folded on the Turn
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943681436:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:28 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 2: jourdin23 ($5.16 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($15.12 in chips) 
+Seat 5: rubduckofdeath ($20.80 in chips) 
+Seat 6: EasySteavy ($11.21 in chips) 
+rubduckofdeath: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+jourdin23: folds 
+AleksCash: folds 
+6A6ARH6A6yNH: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.05) returned to EasySteavy
+EasySteavy collected $0.10 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: jourdin23 folded before Flop (didn't bet)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: 6A6ARH6A6yNH (button) folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (small blind) folded before Flop
+Seat 6: EasySteavy (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943686158:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:42 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 2: jourdin23 ($5.16 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($15.12 in chips) 
+Seat 5: rubduckofdeath ($20.75 in chips) 
+Seat 6: EasySteavy ($11.26 in chips) 
+EasySteavy: posts small blind $0.05
+jourdin23: posts big blind $0.10
+*** HOLE CARDS ***
+AleksCash: folds 
+6A6ARH6A6yNH: calls $0.10
+rubduckofdeath: calls $0.10
+EasySteavy: calls $0.05
+jourdin23: checks 
+*** FLOP *** [Ks 9d 8d]
+EasySteavy: checks 
+jourdin23: checks 
+6A6ARH6A6yNH: checks 
+bone60 joins the table at seat #1 
+rubduckofdeath: checks 
+*** TURN *** [Ks 9d 8d] [Kc]
+EasySteavy: checks 
+jourdin23: checks 
+6A6ARH6A6yNH: bets $0.29
+rubduckofdeath: calls $0.29
+EasySteavy: folds 
+jourdin23: folds 
+*** RIVER *** [Ks 9d 8d Kc] [8h]
+6A6ARH6A6yNH: bets $0.22
+rubduckofdeath: folds 
+Uncalled bet ($0.22) returned to 6A6ARH6A6yNH
+6A6ARH6A6yNH collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Ks 9d 8d Kc 8h]
+Seat 2: jourdin23 (big blind) folded on the Turn
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: 6A6ARH6A6yNH collected ($0.94)
+Seat 5: rubduckofdeath (button) folded on the River
+Seat 6: EasySteavy (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222943708538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:49 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 2: jourdin23 ($5.06 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 4: 6A6ARH6A6yNH ($15.67 in chips) 
+Seat 5: rubduckofdeath ($20.36 in chips) 
+Seat 6: EasySteavy ($11.16 in chips) 
+jourdin23: posts small blind $0.05
+AleksCash: posts big blind $0.10
+*** HOLE CARDS ***
+6A6ARH6A6yNH: folds 
+rubduckofdeath: folds 
+EasySteavy has timed out
+EasySteavy: folds 
+jourdin23: folds 
+Uncalled bet ($0.05) returned to AleksCash
+AleksCash collected $0.10 from pot
+AleksCash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: jourdin23 (small blind) folded before Flop
+Seat 3: AleksCash (big blind) collected ($0.10)
+Seat 4: 6A6ARH6A6yNH folded before Flop (didn't bet)
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943714424:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:08 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 2: jourdin23 ($5.01 in chips) 
+Seat 3: AleksCash ($10.05 in chips) 
+Seat 5: rubduckofdeath ($20.36 in chips) 
+Seat 6: EasySteavy ($11.16 in chips) 
+AleksCash: posts small blind $0.05
+6A6ARH6A6yNH: is sitting out 
+rubduckofdeath: posts big blind $0.10
+bone60: sits out 
+*** HOLE CARDS ***
+6A6ARH6A6yNH leaves the table
+EasySteavy: folds 
+jourdin23: calls $0.10
+AleksCash: folds 
+rubduckofdeath: checks 
+*** FLOP *** [2h 8d 3s]
+rubduckofdeath: checks 
+jourdin23: checks 
+*** TURN *** [2h 8d 3s] [Ac]
+starii13 joins the table at seat #4 
+rubduckofdeath: checks 
+jourdin23: checks 
+*** RIVER *** [2h 8d 3s Ac] [9c]
+rubduckofdeath: checks 
+jourdin23: bets $0.10
+rubduckofdeath: calls $0.10
+*** SHOW DOWN ***
+jourdin23: shows [9s Jh] (a pair of Nines)
+rubduckofdeath: shows [Ad 4h] (a pair of Aces)
+rubduckofdeath collected $0.43 from pot
+EasySteavy is disconnected 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2h 8d 3s Ac 9c]
+Seat 2: jourdin23 (button) showed [9s Jh] and lost with a pair of Nines
+Seat 3: AleksCash (small blind) folded before Flop
+Seat 5: rubduckofdeath (big blind) showed [Ad 4h] and won ($0.43) with a pair of Aces
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943733085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:54 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 2: jourdin23 ($4.81 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 5: rubduckofdeath ($20.59 in chips) 
+Seat 6: EasySteavy ($11.16 in chips) 
+rubduckofdeath: posts small blind $0.05
+EasySteavy is connected 
+EasySteavy: posts big blind $0.10
+bone60: sits out 
+*** HOLE CARDS ***
+jourdin23: calls $0.10
+AleksCash: folds 
+rubduckofdeath: raises $0.20 to $0.30
+EasySteavy: calls $0.20
+jourdin23: calls $0.20
+*** FLOP *** [Kh 3c Ah]
+rubduckofdeath: checks 
+EasySteavy: checks 
+jourdin23: checks 
+*** TURN *** [Kh 3c Ah] [Jd]
+rubduckofdeath: checks 
+EasySteavy: checks 
+jourdin23: checks 
+*** RIVER *** [Kh 3c Ah Jd] [8d]
+rubduckofdeath: checks 
+EasySteavy: checks 
+jourdin23: checks 
+*** SHOW DOWN ***
+rubduckofdeath: shows [9s 8c] (a pair of Eights)
+EasySteavy: mucks hand 
+jourdin23: mucks hand 
+rubduckofdeath collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Kh 3c Ah Jd 8d]
+Seat 2: jourdin23 mucked
+Seat 3: AleksCash (button) folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (small blind) showed [9s 8c] and won ($0.86) with a pair of Eights
+Seat 6: EasySteavy (big blind) mucked
+
+
+
+PokerStars Hand #222943761697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:23 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: bone60 ($8 in chips) 
+Seat 2: jourdin23 ($4.51 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 5: rubduckofdeath ($21.15 in chips) 
+Seat 6: EasySteavy ($10.86 in chips) 
+EasySteavy: posts small blind $0.05
+bone60: posts big blind $0.10
+starii13: sits out 
+*** HOLE CARDS ***
+jourdin23: folds 
+AleksCash: folds 
+rubduckofdeath: raises $0.20 to $0.30
+EasySteavy: folds 
+bone60: folds 
+Uncalled bet ($0.20) returned to rubduckofdeath
+rubduckofdeath collected $0.25 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 (big blind) folded before Flop
+Seat 2: jourdin23 folded before Flop (didn't bet)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (button) collected ($0.25)
+Seat 6: EasySteavy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943770853:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:52 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: bone60 ($7.90 in chips) 
+Seat 2: jourdin23 ($4.51 in chips) 
+Seat 3: AleksCash ($10 in chips) 
+Seat 5: rubduckofdeath ($21.30 in chips) 
+Seat 6: EasySteavy ($10.81 in chips) 
+bone60: posts small blind $0.05
+jourdin23: posts big blind $0.10
+starii13: sits out 
+*** HOLE CARDS ***
+AleksCash: raises $0.20 to $0.30
+rubduckofdeath: folds 
+EasySteavy: raises $0.85 to $1.15
+bone60: folds 
+jourdin23: folds 
+AleksCash: raises $2.60 to $3.75
+EasySteavy: calls $2.60
+*** FLOP *** [Js 8d 5c]
+AleksCash: bets $6.25 and is all-in
+EasySteavy: calls $6.25
+*** TURN *** [Js 8d 5c] [5s]
+*** RIVER *** [Js 8d 5c 5s] [Qs]
+*** SHOW DOWN ***
+AleksCash: shows [Kd Ah] (a pair of Fives)
+EasySteavy: shows [Ad Qc] (two pair, Queens and Fives)
+EasySteavy collected $19.24 from pot
+AleksCash cashed out the hand for $16.18 | Cash Out Fee $0.16
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [Js 8d 5c 5s Qs]
+Seat 1: bone60 (small blind) folded before Flop
+Seat 2: jourdin23 (big blind) folded before Flop
+Seat 3: AleksCash showed [Kd Ah] and lost with a pair of Fives (cashed out).
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy (button) showed [Ad Qc] and won ($19.24) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #222943785174:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:36 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: bone60 ($7.85 in chips) 
+Seat 2: jourdin23 ($4.41 in chips) 
+Seat 3: AleksCash ($16.18 in chips) 
+Seat 5: rubduckofdeath ($21.30 in chips) 
+Seat 6: EasySteavy ($20.05 in chips) 
+jourdin23: posts small blind $0.05
+AleksCash: posts big blind $0.10
+starii13: sits out 
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EasySteavy is disconnected 
+EasySteavy is connected 
+EasySteavy has timed out
+EasySteavy: folds 
+bone60: folds 
+jourdin23: raises $0.10 to $0.20
+AleksCash: folds 
+Uncalled bet ($0.10) returned to jourdin23
+jourdin23 collected $0.20 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: bone60 (button) folded before Flop (didn't bet)
+Seat 2: jourdin23 (small blind) collected ($0.20)
+Seat 3: AleksCash (big blind) folded before Flop
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943796555:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:12 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: bone60 ($7.85 in chips) 
+Seat 2: jourdin23 ($4.51 in chips) 
+Seat 3: AleksCash ($16.08 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.30 in chips) 
+Seat 6: EasySteavy ($20.05 in chips) 
+AleksCash: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EasySteavy has timed out
+EasySteavy: folds 
+bone60: raises $0.20 to $0.30
+jourdin23: folds 
+AleksCash: folds 
+starii13: folds 
+Uncalled bet ($0.20) returned to bone60
+bone60 collected $0.25 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 collected ($0.25)
+Seat 2: jourdin23 (button) folded before Flop (didn't bet)
+Seat 3: AleksCash (small blind) folded before Flop
+Seat 4: starii13 (big blind) folded before Flop
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943805022:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:15:38 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 1: bone60 ($8 in chips) 
+Seat 2: jourdin23 ($4.51 in chips) 
+Seat 3: AleksCash ($16.03 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.30 in chips) 
+starii13: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+jourdin23: calls $0.10
+AleksCash: folds 
+starii13: folds 
+rubduckofdeath: checks 
+*** FLOP *** [2s 4h 7h]
+rubduckofdeath: checks 
+jourdin23: bets $0.24
+rubduckofdeath: calls $0.24
+*** TURN *** [2s 4h 7h] [Jd]
+rubduckofdeath: checks 
+jourdin23: bets $0.70
+rubduckofdeath: folds 
+Uncalled bet ($0.70) returned to jourdin23
+jourdin23 collected $0.70 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [2s 4h 7h Jd]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 collected ($0.70)
+Seat 3: AleksCash (button) folded before Flop (didn't bet)
+Seat 4: starii13 (small blind) folded before Flop
+Seat 5: rubduckofdeath (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222943820617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:27 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 1: bone60 ($8 in chips) 
+Seat 2: jourdin23 ($4.87 in chips) 
+Seat 3: AleksCash ($16.03 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($20.96 in chips) 
+Seat 6: EasySteavy ($20.05 in chips) 
+rubduckofdeath: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+jourdin23: folds 
+AleksCash: folds 
+starii13: folds 
+rubduckofdeath: folds 
+Uncalled bet ($0.05) returned to EasySteavy
+EasySteavy collected $0.10 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 folded before Flop (didn't bet)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (small blind) folded before Flop
+Seat 6: EasySteavy (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943826455:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:45 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: bone60 ($8 in chips) 
+Seat 2: jourdin23 ($4.87 in chips) 
+Seat 3: AleksCash ($16.03 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($20.91 in chips) 
+Seat 6: EasySteavy ($20.10 in chips) 
+EasySteavy: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+jourdin23: folds 
+AleksCash: folds 
+starii13: raises $0.20 to $0.30
+rubduckofdeath: raises $0.75 to $1.05
+EasySteavy: folds 
+bone60: folds 
+starii13: folds 
+Uncalled bet ($0.75) returned to rubduckofdeath
+rubduckofdeath collected $0.75 from pot
+rubduckofdeath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: bone60 (big blind) folded before Flop
+Seat 2: jourdin23 folded before Flop (didn't bet)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop
+Seat 5: rubduckofdeath (button) collected ($0.75)
+Seat 6: EasySteavy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943845982:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:19 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: bone60 ($7.90 in chips) 
+Seat 2: jourdin23 ($4.87 in chips) 
+Seat 3: AleksCash ($16.03 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.36 in chips) 
+Seat 6: EasySteavy ($20.05 in chips) 
+bone60: posts small blind $0.05
+jourdin23: posts big blind $0.10
+*** HOLE CARDS ***
+AleksCash: folds 
+starii13: folds 
+rubduckofdeath: folds 
+EasySteavy: raises $0.20 to $0.30
+bone60: calls $0.25
+jourdin23: folds 
+*** FLOP *** [4s Ac Ks]
+bone60: checks 
+EasySteavy: checks 
+*** TURN *** [4s Ac Ks] [3s]
+bone60: checks 
+EasySteavy: bets $0.33
+bone60: calls $0.33
+*** RIVER *** [4s Ac Ks 3s] [Jh]
+bone60: checks 
+EasySteavy: checks 
+*** SHOW DOWN ***
+bone60: shows [Kd Jd] (two pair, Kings and Jacks)
+EasySteavy: mucks hand 
+bone60 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [4s Ac Ks 3s Jh]
+Seat 1: bone60 (small blind) showed [Kd Jd] and won ($1.30) with two pair, Kings and Jacks
+Seat 2: jourdin23 (big blind) folded before Flop
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy (button) mucked
+
+
+
+PokerStars Hand #222943859518:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:01 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: bone60 ($8.57 in chips) 
+Seat 2: jourdin23 ($4.77 in chips) 
+Seat 3: AleksCash ($16.03 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.36 in chips) 
+Seat 6: EasySteavy ($19.42 in chips) 
+jourdin23: posts small blind $0.05
+AleksCash: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+rubduckofdeath: folds 
+EasySteavy: raises $0.20 to $0.30
+bone60: calls $0.30
+jourdin23: calls $0.25
+AleksCash: folds 
+*** FLOP *** [Ks Jc 2s]
+jourdin23: checks 
+EasySteavy: checks 
+bone60: checks 
+*** TURN *** [Ks Jc 2s] [Jd]
+jourdin23: checks 
+EasySteavy: checks 
+bone60: checks 
+*** RIVER *** [Ks Jc 2s Jd] [Qc]
+jourdin23: checks 
+EasySteavy: checks 
+bone60: checks 
+*** SHOW DOWN ***
+jourdin23: shows [8d 7d] (a pair of Jacks)
+EasySteavy: shows [5s 5d] (two pair, Jacks and Fives)
+bone60: shows [8c 8h] (two pair, Jacks and Eights)
+bone60 collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ks Jc 2s Jd Qc]
+Seat 1: bone60 (button) showed [8c 8h] and won ($0.96) with two pair, Jacks and Eights
+Seat 2: jourdin23 (small blind) showed [8d 7d] and lost with a pair of Jacks
+Seat 3: AleksCash (big blind) folded before Flop
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy showed [5s 5d] and lost with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #222943887654:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:07 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: bone60 ($9.23 in chips) 
+Seat 2: jourdin23 ($4.47 in chips) 
+Seat 3: AleksCash ($15.93 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.36 in chips) 
+Seat 6: EasySteavy ($19.12 in chips) 
+AleksCash: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+EasySteavy: folds 
+bone60: raises $0.20 to $0.30
+jourdin23: folds 
+AleksCash: folds 
+starii13: folds 
+Uncalled bet ($0.20) returned to bone60
+bone60 collected $0.25 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 collected ($0.25)
+Seat 2: jourdin23 (button) folded before Flop (didn't bet)
+Seat 3: AleksCash (small blind) folded before Flop
+Seat 4: starii13 (big blind) folded before Flop
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943893658:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:26 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 1: bone60 ($9.38 in chips) 
+Seat 2: jourdin23 ($4.47 in chips) 
+Seat 3: AleksCash ($15.88 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.36 in chips) 
+Seat 6: EasySteavy ($19.12 in chips) 
+starii13: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: folds 
+bone60: folds 
+jourdin23 has timed out
+jourdin23: folds 
+AleksCash: raises $0.15 to $0.25
+starii13: calls $0.20
+rubduckofdeath: calls $0.15
+*** FLOP *** [Jd 3d 4d]
+starii13: checks 
+rubduckofdeath: checks 
+AleksCash: checks 
+*** TURN *** [Jd 3d 4d] [Qh]
+starii13: checks 
+rubduckofdeath: checks 
+AleksCash: checks 
+*** RIVER *** [Jd 3d 4d Qh] [3s]
+starii13: bets $0.27
+rubduckofdeath: calls $0.27
+AleksCash: calls $0.27
+*** SHOW DOWN ***
+starii13: shows [9h Kh] (a pair of Threes)
+rubduckofdeath: shows [Jh 9d] (two pair, Jacks and Threes)
+AleksCash: shows [Jc Td] (two pair, Jacks and Threes)
+rubduckofdeath collected $0.75 from pot
+AleksCash collected $0.74 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [Jd 3d 4d Qh 3s]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 folded before Flop (didn't bet)
+Seat 3: AleksCash (button) showed [Jc Td] and won ($0.74) with two pair, Jacks and Threes
+Seat 4: starii13 (small blind) showed [9h Kh] and lost with a pair of Threes
+Seat 5: rubduckofdeath (big blind) showed [Jh 9d] and won ($0.75) with two pair, Jacks and Threes
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943913524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:28 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 1: bone60 ($9.38 in chips) 
+Seat 2: jourdin23 ($4.47 in chips) 
+Seat 3: AleksCash ($16.10 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.59 in chips) 
+rubduckofdeath: posts small blind $0.05
+EasySteavy has timed out
+EasySteavy: is sitting out 
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy is disconnected 
+jourdin23: raises $0.70 to $0.80
+AleksCash: folds 
+starii13: folds 
+rubduckofdeath: folds 
+bone60: folds 
+Uncalled bet ($0.70) returned to jourdin23
+jourdin23 collected $0.25 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 (big blind) folded before Flop
+Seat 2: jourdin23 collected ($0.25)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943923949:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:01 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: bone60 ($9.28 in chips) 
+Seat 2: jourdin23 ($4.62 in chips) 
+Seat 3: AleksCash ($16.10 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.54 in chips) 
+bone60: posts small blind $0.05
+jourdin23: posts big blind $0.10
+*** HOLE CARDS ***
+AleksCash: folds 
+starii13: raises $0.20 to $0.30
+rubduckofdeath: calls $0.30
+bone60: folds 
+jourdin23: raises $0.20 to $0.50
+starii13: calls $0.20
+rubduckofdeath: calls $0.20
+*** FLOP *** [4c As 2s]
+jourdin23: checks 
+starii13: checks 
+rubduckofdeath: checks 
+*** TURN *** [4c As 2s] [8s]
+jourdin23: bets $0.10
+starii13: calls $0.10
+rubduckofdeath: folds 
+*** RIVER *** [4c As 2s 8s] [Td]
+jourdin23: bets $1.67
+starii13: folds 
+Uncalled bet ($1.67) returned to jourdin23
+jourdin23 collected $1.67 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [4c As 2s 8s Td]
+Seat 1: bone60 (small blind) folded before Flop
+Seat 2: jourdin23 (big blind) collected ($1.67)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 folded on the River
+Seat 5: rubduckofdeath (button) folded on the Turn
+
+
+
+PokerStars Hand #222943944581:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:06 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: bone60 ($9.23 in chips) 
+Seat 2: jourdin23 ($5.69 in chips) 
+Seat 3: AleksCash ($16.10 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.04 in chips) 
+jourdin23: posts small blind $0.05
+AleksCash: posts big blind $0.10
+EasySteavy: sits out 
+*** HOLE CARDS ***
+starii13: folds 
+rubduckofdeath: folds 
+bone60: folds 
+jourdin23: calls $0.05
+AleksCash: raises $0.30 to $0.40
+jourdin23: calls $0.30
+*** FLOP *** [7s 5s 2c]
+jourdin23: bets $0.38
+AleksCash: folds 
+Uncalled bet ($0.38) returned to jourdin23
+jourdin23 collected $0.76 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [7s 5s 2c]
+Seat 1: bone60 (button) folded before Flop (didn't bet)
+Seat 2: jourdin23 (small blind) collected ($0.76)
+Seat 3: AleksCash (big blind) folded on the Flop
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943956120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:42 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: bone60 ($9.23 in chips) 
+Seat 2: jourdin23 ($6.05 in chips) 
+Seat 3: AleksCash ($15.70 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.04 in chips) 
+AleksCash: posts small blind $0.05
+starii13: posts big blind $0.10
+EasySteavy: sits out 
+*** HOLE CARDS ***
+rubduckofdeath: folds 
+bone60: folds 
+jourdin23: calls $0.10
+AleksCash: raises $0.30 to $0.40
+starii13: calls $0.30
+jourdin23: calls $0.30
+*** FLOP *** [7c Ts 8h]
+AleksCash: checks 
+starii13: checks 
+jourdin23: bets $1.15
+AleksCash: folds 
+starii13: folds 
+Uncalled bet ($1.15) returned to jourdin23
+jourdin23 collected $1.15 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [7c Ts 8h]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 (button) collected ($1.15)
+Seat 3: AleksCash (small blind) folded on the Flop
+Seat 4: starii13 (big blind) folded on the Flop
+Seat 5: rubduckofdeath folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943972061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:32 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 1: bone60 ($9.23 in chips) 
+Seat 2: jourdin23 ($6.80 in chips) 
+Seat 3: AleksCash ($15.30 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($21.04 in chips) 
+starii13: posts small blind $0.05
+rubduckofdeath: posts big blind $0.10
+EasySteavy: sits out 
+*** HOLE CARDS ***
+bone60: raises $0.20 to $0.30
+jourdin23: raises $0.20 to $0.50
+AleksCash: folds 
+starii13: folds 
+rubduckofdeath: folds 
+bone60: calls $0.20
+*** FLOP *** [Ks 6d 2h]
+bone60: checks 
+jourdin23: bets $1.10
+bone60: folds 
+Uncalled bet ($1.10) returned to jourdin23
+jourdin23 collected $1.10 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Ks 6d 2h]
+Seat 1: bone60 folded on the Flop
+Seat 2: jourdin23 collected ($1.10)
+Seat 3: AleksCash (button) folded before Flop (didn't bet)
+Seat 4: starii13 (small blind) folded before Flop
+Seat 5: rubduckofdeath (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943985730:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:15 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 1: bone60 ($8.73 in chips) 
+Seat 2: jourdin23 ($7.40 in chips) 
+Seat 3: AleksCash ($15.30 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($20.94 in chips) 
+Seat 6: EasySteavy ($19.12 in chips) 
+rubduckofdeath: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+jourdin23: calls $0.10
+AleksCash: raises $0.30 to $0.40
+starii13: folds 
+rubduckofdeath: folds 
+EasySteavy: calls $0.30
+jourdin23: calls $0.30
+*** FLOP *** [9d Td 5c]
+EasySteavy: checks 
+jourdin23: bets $1.19
+AleksCash: raises $2.11 to $3.30
+EasySteavy: folds 
+jourdin23: calls $2.11
+*** TURN *** [9d Td 5c] [7s]
+jourdin23: checks 
+AleksCash: bets $5.02
+jourdin23: calls $3.70 and is all-in
+Uncalled bet ($1.32) returned to AleksCash
+jourdin23 has timed out
+*** RIVER *** [9d Td 5c 7s] [Ad]
+*** SHOW DOWN ***
+jourdin23: shows [8d 7d] (a flush, Ace high)
+AleksCash: shows [Th Ac] (two pair, Aces and Tens)
+jourdin23 collected $14.56 from pot
+AleksCash cashed out the hand for $7.86 | Cash Out Fee $0.08
+*** SUMMARY ***
+Total pot $15.25 | Rake $0.69 
+Board [9d Td 5c 7s Ad]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 showed [8d 7d] and won ($14.56) with a flush, Ace high
+Seat 3: AleksCash showed [Th Ac] and lost with two pair, Aces and Tens (cashed out).
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+Seat 5: rubduckofdeath (small blind) folded before Flop
+Seat 6: EasySteavy (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222944003673:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:11 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: bone60 ($8.73 in chips) 
+Seat 2: jourdin23 ($14.56 in chips) 
+Seat 3: AleksCash ($15.76 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: rubduckofdeath ($20.89 in chips) 
+Seat 6: EasySteavy ($18.72 in chips) 
+EasySteavy: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+jourdin23: folds 
+AleksCash: folds 
+starii13: raises $0.20 to $0.30
+rubduckofdeath: folds 
+rubduckofdeath leaves the table
+EasySteavy: folds 
+bone60: folds 
+Uncalled bet ($0.20) returned to starii13
+starii13 collected $0.25 from pot
+starii13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 (big blind) folded before Flop
+Seat 2: jourdin23 folded before Flop (didn't bet)
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 collected ($0.25)
+Seat 5: rubduckofdeath (button) folded before Flop (didn't bet)
+Seat 6: EasySteavy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944011142:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:35 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: bone60 ($8.63 in chips) 
+Seat 2: jourdin23 ($14.56 in chips) 
+Seat 3: AleksCash ($15.76 in chips) 
+Seat 4: starii13 ($10.15 in chips) 
+Seat 6: EasySteavy ($18.67 in chips) 
+bone60: posts small blind $0.05
+jourdin23: posts big blind $0.10
+*** HOLE CARDS ***
+AleksCash: folds 
+starii13: folds 
+EasySteavy: raises $0.20 to $0.30
+bone60: folds 
+Mistercool61 joins the table at seat #5 
+jourdin23: folds 
+Uncalled bet ($0.20) returned to EasySteavy
+EasySteavy collected $0.25 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 (small blind) folded before Flop
+Seat 2: jourdin23 (big blind) folded before Flop
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 6: EasySteavy (button) collected ($0.25)
+
+
+
+PokerStars Hand #222944018532:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:58 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: bone60 ($8.58 in chips) 
+Seat 2: jourdin23 ($14.46 in chips) 
+Seat 3: AleksCash ($15.76 in chips) 
+Seat 4: starii13 ($10.15 in chips) 
+Seat 6: EasySteavy ($18.82 in chips) 
+jourdin23: posts small blind $0.05
+AleksCash: posts big blind $0.10
+Mistercool61: sits out 
+*** HOLE CARDS ***
+starii13: folds 
+EasySteavy: folds 
+bone60: folds 
+jourdin23: folds 
+Uncalled bet ($0.05) returned to AleksCash
+AleksCash collected $0.10 from pot
+AleksCash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bone60 (button) folded before Flop (didn't bet)
+Seat 2: jourdin23 (small blind) folded before Flop
+Seat 3: AleksCash (big blind) collected ($0.10)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944023703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:14 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: bone60 ($8.58 in chips) 
+Seat 2: jourdin23 ($14.41 in chips) 
+Seat 3: AleksCash ($15.81 in chips) 
+Seat 4: starii13 ($10.15 in chips) 
+Seat 5: Mistercool61 ($8 in chips) 
+Seat 6: EasySteavy ($18.82 in chips) 
+AleksCash: posts small blind $0.05
+starii13: posts big blind $0.10
+Mistercool61: posts big blind $0.10
+*** HOLE CARDS ***
+Mistercool61: checks 
+EasySteavy: raises $0.35 to $0.45
+bone60: folds 
+jourdin23: folds 
+AleksCash: folds 
+starii13: folds 
+Mistercool61: calls $0.35
+*** FLOP *** [2h 4h 8c]
+Mistercool61: checks 
+EasySteavy: bets $1
+Mistercool61: folds 
+Uncalled bet ($1) returned to EasySteavy
+EasySteavy collected $1 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [2h 4h 8c]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 (button) folded before Flop (didn't bet)
+Seat 3: AleksCash (small blind) folded before Flop
+Seat 4: starii13 (big blind) folded before Flop
+Seat 5: Mistercool61 folded on the Flop
+Seat 6: EasySteavy collected ($1)
+
+
+
+PokerStars Hand #222944041061:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:10 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 1: bone60 ($8.58 in chips) 
+Seat 2: jourdin23 ($14.41 in chips) 
+Seat 3: AleksCash ($15.76 in chips) 
+Seat 4: starii13 ($10.05 in chips) 
+Seat 5: Mistercool61 ($7.55 in chips) 
+Seat 6: EasySteavy ($19.37 in chips) 
+starii13: posts small blind $0.05
+Mistercool61: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: folds 
+bone60: folds 
+jourdin23: raises $0.30 to $0.40
+AleksCash: folds 
+starii13: folds 
+Mistercool61: folds 
+Uncalled bet ($0.30) returned to jourdin23
+jourdin23 collected $0.25 from pot
+jourdin23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 collected ($0.25)
+Seat 3: AleksCash (button) folded before Flop (didn't bet)
+Seat 4: starii13 (small blind) folded before Flop
+Seat 5: Mistercool61 (big blind) folded before Flop
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944047904:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:32 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 1: bone60 ($8.58 in chips) 
+Seat 2: jourdin23 ($14.56 in chips) 
+Seat 3: AleksCash ($15.76 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($7.45 in chips) 
+Seat 6: EasySteavy ($19.37 in chips) 
+Mistercool61: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+jourdin23: calls $0.10
+AleksCash: raises $0.30 to $0.40
+starii13: raises $0.40 to $0.80
+Mistercool61: calls $0.75
+EasySteavy: folds 
+jourdin23: folds 
+AleksCash: calls $0.40
+*** FLOP *** [Qs 5h 7d]
+jourdin23 leaves the table
+pudge.3096 joins the table at seat #2 
+Mistercool61: checks 
+AleksCash: checks 
+starii13: bets $0.90
+Mistercool61: folds 
+AleksCash: calls $0.90
+*** TURN *** [Qs 5h 7d] [8d]
+AleksCash: checks 
+starii13: bets $1.55
+AleksCash: calls $1.55
+*** RIVER *** [Qs 5h 7d 8d] [4h]
+AleksCash: checks 
+starii13: checks 
+*** SHOW DOWN ***
+AleksCash: shows [Jc Js] (a pair of Jacks)
+starii13: mucks hand 
+AleksCash collected $7.16 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.34 
+Board [Qs 5h 7d 8d 4h]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: jourdin23 folded before Flop
+Seat 3: AleksCash showed [Jc Js] and won ($7.16) with a pair of Jacks
+Seat 4: starii13 (button) mucked
+Seat 5: Mistercool61 (small blind) folded on the Flop
+Seat 6: EasySteavy (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944079694:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:15 ET
+Table 'Diphda II' 6-max Seat #5 is the button
+Seat 1: bone60 ($8.58 in chips) 
+Seat 3: AleksCash ($19.67 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($6.65 in chips) 
+Seat 6: EasySteavy ($19.27 in chips) 
+EasySteavy: posts small blind $0.05
+bone60: posts big blind $0.10
+pudge.3096: sits out 
+*** HOLE CARDS ***
+AleksCash: folds 
+starii13: folds 
+Mistercool61: raises $0.10 to $0.20
+EasySteavy: raises $0.50 to $0.70
+bone60: folds 
+Mistercool61: folds 
+Uncalled bet ($0.50) returned to EasySteavy
+EasySteavy collected $0.50 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: bone60 (big blind) folded before Flop
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: Mistercool61 (button) folded before Flop
+Seat 6: EasySteavy (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #222944087651:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:40 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: bone60 ($8.48 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: AleksCash ($19.67 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($6.45 in chips) 
+Seat 6: EasySteavy ($19.57 in chips) 
+bone60: posts small blind $0.05
+pudge.3096: posts big blind $0.10
+*** HOLE CARDS ***
+AleksCash: folds 
+starii13: folds 
+Mistercool61: folds 
+AleksCash leaves the table
+EasySteavy: raises $0.10 to $0.20
+bone60: folds 
+pudge.3096: raises $0.70 to $0.90
+EasySteavy: calls $0.70
+*** FLOP *** [5c Jc 7s]
+pudge.3096: bets $0.89
+EasySteavy: calls $0.89
+*** TURN *** [5c Jc 7s] [Tc]
+maroy85 joins the table at seat #3 
+pudge.3096: checks 
+EasySteavy: bets $1.83
+pudge.3096: calls $1.83
+*** RIVER *** [5c Jc 7s Tc] [Jh]
+pudge.3096: checks 
+EasySteavy: bets $6.46
+pudge.3096: folds 
+Uncalled bet ($6.46) returned to EasySteavy
+EasySteavy collected $6.96 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.29 | Rake $0.33 
+Board [5c Jc 7s Tc Jh]
+Seat 1: bone60 (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) folded on the River
+Seat 3: AleksCash folded before Flop (didn't bet)
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: Mistercool61 folded before Flop (didn't bet)
+Seat 6: EasySteavy (button) collected ($6.96)
+
+
+
+PokerStars Hand #222944117050:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:08 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: bone60 ($8.43 in chips) 
+Seat 2: pudge.3096 ($10 in chips) 
+Seat 3: maroy85 ($8 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($6.45 in chips) 
+Seat 6: EasySteavy ($22.91 in chips) 
+pudge.3096: posts small blind $0.05
+maroy85: posts big blind $0.10
+*** HOLE CARDS ***
+starii13: folds 
+Mistercool61: folds 
+EasySteavy: folds 
+bone60: folds 
+pudge.3096: raises $0.15 to $0.25
+maroy85: folds 
+Uncalled bet ($0.15) returned to pudge.3096
+pudge.3096 collected $0.20 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: bone60 (button) folded before Flop (didn't bet)
+Seat 2: pudge.3096 (small blind) collected ($0.20)
+Seat 3: maroy85 (big blind) folded before Flop
+Seat 4: starii13 folded before Flop (didn't bet)
+Seat 5: Mistercool61 folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944122162:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:24 ET
+Table 'Diphda II' 6-max Seat #2 is the button
+Seat 1: bone60 ($8.43 in chips) 
+Seat 2: pudge.3096 ($10.10 in chips) 
+Seat 3: maroy85 ($7.90 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($6.45 in chips) 
+Seat 6: EasySteavy ($22.91 in chips) 
+maroy85: posts small blind $0.05
+starii13: posts big blind $0.10
+*** HOLE CARDS ***
+Mistercool61: folds 
+EasySteavy: folds 
+bone60: folds 
+pudge.3096: raises $0.15 to $0.25
+maroy85: folds 
+starii13: folds 
+Uncalled bet ($0.15) returned to pudge.3096
+pudge.3096 collected $0.25 from pot
+pudge.3096: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: pudge.3096 (button) collected ($0.25)
+Seat 3: maroy85 (small blind) folded before Flop
+Seat 4: starii13 (big blind) folded before Flop
+Seat 5: Mistercool61 folded before Flop (didn't bet)
+Seat 6: EasySteavy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944128938:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:47 ET
+Table 'Diphda II' 6-max Seat #3 is the button
+Seat 1: bone60 ($8.43 in chips) 
+Seat 2: pudge.3096 ($10.25 in chips) 
+Seat 3: maroy85 ($7.85 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($6.45 in chips) 
+Seat 6: EasySteavy ($22.91 in chips) 
+starii13: posts small blind $0.05
+Mistercool61: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: raises $0.20 to $0.30
+bone60: folds 
+pudge.3096: folds 
+maroy85: folds 
+starii13: folds 
+maroy85 leaves the table
+Mistercool61: folds 
+Uncalled bet ($0.20) returned to EasySteavy
+EasySteavy collected $0.25 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: maroy85 (button) folded before Flop (didn't bet)
+Seat 4: starii13 (small blind) folded before Flop
+Seat 5: Mistercool61 (big blind) folded before Flop
+Seat 6: EasySteavy collected ($0.25)
+
+
+
+PokerStars Hand #222944135104:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:07 ET
+Table 'Diphda II' 6-max Seat #4 is the button
+Seat 1: bone60 ($8.43 in chips) 
+Seat 2: pudge.3096 ($10.25 in chips) 
+Seat 4: starii13 ($10 in chips) 
+Seat 5: Mistercool61 ($6.35 in chips) 
+Seat 6: EasySteavy ($23.06 in chips) 
+Mistercool61: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+pudge.3096: folds 
+starii13: folds 
+Mistercool61: raises $0.10 to $0.20
+EasySteavy: raises $0.40 to $0.60
+Mistercool61: calls $0.40
+*** FLOP *** [4c Ts Qs]
+Mistercool61: checks 
+PaoloGod joins the table at seat #3 
+EasySteavy: bets $0.85
+Mistercool61: calls $0.85
+*** TURN *** [4c Ts Qs] [2d]
+Mistercool61: checks 
+EasySteavy: bets $1.98
+Mistercool61: calls $1.98
+*** RIVER *** [4c Ts Qs 2d] [Js]
+Mistercool61: checks 
+EasySteavy: bets $3.27
+pudge.3096 is disconnected 
+Mistercool61: calls $2.92 and is all-in
+Uncalled bet ($0.35) returned to EasySteavy
+*** SHOW DOWN ***
+EasySteavy: shows [Kc Qd] (a pair of Queens)
+Mistercool61: shows [Qh 6d] (a pair of Queens - lower kicker)
+EasySteavy collected $12.13 from pot
+*** SUMMARY ***
+Total pot $12.70 | Rake $0.57 
+Board [4c Ts Qs 2d Js]
+Seat 1: bone60 folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 4: starii13 (button) folded before Flop (didn't bet)
+Seat 5: Mistercool61 (small blind) showed [Qh 6d] and lost with a pair of Queens
+Seat 6: EasySteavy (big blind) showed [Kc Qd] and won ($12.13) with a pair of Queens
+
+
+
+PokerStars Hand #222944171603:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:06 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: bone60 ($8.43 in chips) 
+Seat 6: EasySteavy ($28.84 in chips) 
+EasySteavy: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: raises $0.20 to $0.30
+bone60: folds 
+Uncalled bet ($0.20) returned to EasySteavy
+EasySteavy collected $0.20 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: bone60 (big blind) folded before Flop
+Seat 6: EasySteavy (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944174766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:16 ET
+Table 'Diphda II' 6-max Seat #1 is the button
+Seat 1: bone60 ($8.33 in chips) 
+Seat 6: EasySteavy ($28.94 in chips) 
+bone60: posts small blind $0.05
+EasySteavy: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+Uncalled bet ($0.05) returned to EasySteavy
+EasySteavy collected $0.10 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: bone60 (button) (small blind) folded before Flop
+Seat 6: EasySteavy (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944177271:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:25 ET
+Table 'Diphda II' 6-max Seat #6 is the button
+Seat 1: bone60 ($8.28 in chips) 
+Seat 6: EasySteavy ($28.99 in chips) 
+EasySteavy: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+EasySteavy: raises $0.10 to $0.20
+bone60: calls $0.10
+*** FLOP *** [9s 3s Kh]
+bone60: checks 
+pudge.3096 leaves the table
+EasySteavy: bets $0.19
+bone60: calls $0.19
+*** TURN *** [9s 3s Kh] [3c]
+bone60: checks 
+EasySteavy: checks 
+*** RIVER *** [9s 3s Kh 3c] [Js]
+bone60: checks 
+EasySteavy: bets $0.47
+bone60: folds 
+Uncalled bet ($0.47) returned to EasySteavy
+bone60 leaves the table
+EasySteavy collected $0.74 from pot
+EasySteavy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [9s 3s Kh 3c Js]
+Seat 1: bone60 (big blind) folded on the River
+Seat 6: EasySteavy (button) (small blind) collected ($0.74)
+
+
+

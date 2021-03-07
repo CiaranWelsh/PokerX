@@ -1,0 +1,4106 @@
+﻿PokerStars Hand #222941899150:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:58 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: mrbumpisblue ($14.34 in chips) 
+Seat 2: Corty O ($5.83 in chips) 
+Seat 3: brianmgee ($7.15 in chips) 
+Seat 4: M709199 ($10.70 in chips) 
+Seat 5: KingPotNoodle ($10 in chips) 
+Seat 6: u_wot_poker ($13.66 in chips) 
+KingPotNoodle: posts small blind $0.05
+u_wot_poker: posts big blind $0.10
+*** HOLE CARDS ***
+mrbumpisblue has timed out
+mrbumpisblue: folds 
+Corty O: folds 
+brianmgee: calls $0.10
+M709199: folds 
+KingPotNoodle: raises $0.40 to $0.50
+u_wot_poker: raises $0.40 to $0.90
+brianmgee: folds 
+KingPotNoodle: raises $9.10 to $10 and is all-in
+u_wot_poker: calls $9.10
+*** FLOP *** [Tc Qh Qc]
+*** TURN *** [Tc Qh Qc] [Th]
+*** RIVER *** [Tc Qh Qc Th] [4h]
+*** SHOW DOWN ***
+KingPotNoodle: shows [2c Ac] (two pair, Queens and Tens)
+u_wot_poker: shows [Qd Ah] (a full house, Queens full of Tens)
+u_wot_poker cashed out the hand for $13.09 | Cash Out Fee $0.13
+*** SUMMARY ***
+Total pot $20.10 | Rake $0.90 
+Board [Tc Qh Qc Th 4h]
+Seat 1: mrbumpisblue folded before Flop (didn't bet)
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: brianmgee folded before Flop
+Seat 4: M709199 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) showed [2c Ac] and lost with two pair, Queens and Tens
+Seat 6: u_wot_poker (big blind) showed [Qd Ah] and won ($19.20) with a full house, Queens full of Tens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222941925475:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:06 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: mrbumpisblue ($14.34 in chips) 
+Seat 2: Corty O ($5.83 in chips) 
+Seat 3: brianmgee ($7.05 in chips) 
+Seat 4: M709199 ($10.70 in chips) 
+Seat 5: KingPotNoodle ($10 in chips) 
+Seat 6: u_wot_poker ($16.75 in chips) 
+u_wot_poker: posts small blind $0.05
+mrbumpisblue: posts big blind $0.10
+*** HOLE CARDS ***
+Corty O: folds 
+brianmgee: folds 
+M709199: folds 
+KingPotNoodle: raises $0.20 to $0.30
+u_wot_poker: folds 
+mrbumpisblue: calls $0.20
+*** FLOP *** [9s Jc 4h]
+mrbumpisblue: checks 
+KingPotNoodle: bets $0.31
+mrbumpisblue: folds 
+Uncalled bet ($0.31) returned to KingPotNoodle
+KingPotNoodle collected $0.62 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9s Jc 4h]
+Seat 1: mrbumpisblue (big blind) folded on the Flop
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: brianmgee folded before Flop (didn't bet)
+Seat 4: M709199 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) collected ($0.62)
+Seat 6: u_wot_poker (small blind) folded before Flop
+
+
+
+PokerStars Hand #222941935544:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:32 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: mrbumpisblue ($14.04 in chips) 
+Seat 2: Corty O ($5.83 in chips) 
+Seat 3: brianmgee ($7.05 in chips) 
+Seat 4: M709199 ($10.70 in chips) 
+Seat 5: KingPotNoodle ($10.32 in chips) 
+Seat 6: u_wot_poker ($16.70 in chips) 
+mrbumpisblue: posts small blind $0.05
+Corty O: posts big blind $0.10
+*** HOLE CARDS ***
+brianmgee: folds 
+M709199: folds 
+KingPotNoodle: raises $0.20 to $0.30
+u_wot_poker: folds 
+mrbumpisblue: folds 
+Corty O: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mrbumpisblue (small blind) folded before Flop
+Seat 2: Corty O (big blind) folded before Flop
+Seat 3: brianmgee folded before Flop (didn't bet)
+Seat 4: M709199 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle collected ($0.25)
+Seat 6: u_wot_poker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941943795:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:54 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: mrbumpisblue ($13.99 in chips) 
+Seat 2: Corty O ($5.73 in chips) 
+Seat 3: brianmgee ($7.05 in chips) 
+Seat 4: M709199 ($10.70 in chips) 
+Seat 5: KingPotNoodle ($10.47 in chips) 
+Seat 6: u_wot_poker ($16.70 in chips) 
+Corty O: posts small blind $0.05
+brianmgee: posts big blind $0.10
+*** HOLE CARDS ***
+M709199: folds 
+KingPotNoodle: folds 
+u_wot_poker: calls $0.10
+mrbumpisblue: folds 
+Corty O: calls $0.05
+brianmgee: checks 
+*** FLOP *** [Kd 2h Td]
+Corty O: bets $0.30
+brianmgee: folds 
+u_wot_poker: calls $0.30
+*** TURN *** [Kd 2h Td] [2c]
+Corty O: bets $0.50
+u_wot_poker: folds 
+Uncalled bet ($0.50) returned to Corty O
+Corty O collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Kd 2h Td 2c]
+Seat 1: mrbumpisblue (button) folded before Flop (didn't bet)
+Seat 2: Corty O (small blind) collected ($0.86)
+Seat 3: brianmgee (big blind) folded on the Flop
+Seat 4: M709199 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: u_wot_poker folded on the Turn
+
+
+
+PokerStars Hand #222941956360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:49:26 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: mrbumpisblue ($13.99 in chips) 
+Seat 2: Corty O ($6.19 in chips) 
+Seat 3: brianmgee ($6.95 in chips) 
+Seat 4: M709199 ($10.70 in chips) 
+Seat 5: KingPotNoodle ($10.47 in chips) 
+Seat 6: u_wot_poker ($16.30 in chips) 
+brianmgee: posts small blind $0.05
+M709199: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.30 to $0.40
+u_wot_poker: raises $0.30 to $0.70
+mrbumpisblue: folds 
+Corty O: folds 
+brianmgee: folds 
+M709199: folds 
+KingPotNoodle: raises $9.77 to $10.47 and is all-in
+u_wot_poker: calls $9.77
+*** FLOP *** [6c Qh 7h]
+*** TURN *** [6c Qh 7h] [8s]
+*** RIVER *** [6c Qh 7h 8s] [4s]
+*** SHOW DOWN ***
+KingPotNoodle: shows [Qd Jd] (a pair of Queens)
+u_wot_poker: shows [Ah 5h] (a straight, Four to Eight)
+u_wot_poker cashed out the hand for $11.05 | Cash Out Fee $0.11
+*** SUMMARY ***
+Total pot $21.09 | Rake $0.95 
+Board [6c Qh 7h 8s 4s]
+Seat 1: mrbumpisblue folded before Flop (didn't bet)
+Seat 2: Corty O (button) folded before Flop (didn't bet)
+Seat 3: brianmgee (small blind) folded before Flop
+Seat 4: M709199 (big blind) folded before Flop
+Seat 5: KingPotNoodle showed [Qd Jd] and lost with a pair of Queens
+Seat 6: u_wot_poker showed [Ah 5h] and won ($20.14) with a straight, Four to Eight (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #222941971085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:50:04 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: mrbumpisblue ($13.99 in chips) 
+Seat 2: Corty O ($6.19 in chips) 
+Seat 3: brianmgee ($6.90 in chips) 
+Seat 4: M709199 ($10.60 in chips) 
+Seat 5: KingPotNoodle ($10 in chips) 
+Seat 6: u_wot_poker ($16.88 in chips) 
+M709199: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+u_wot_poker: calls $0.10
+mrbumpisblue: folds 
+Corty O: folds 
+brianmgee: calls $0.10
+M709199: raises $0.50 to $0.60
+KingPotNoodle: calls $0.50
+u_wot_poker: calls $0.50
+brianmgee: calls $0.50
+*** FLOP *** [Kh Tc 9s]
+M709199: checks 
+KingPotNoodle: checks 
+u_wot_poker: checks 
+brianmgee: bets $0.40
+M709199: calls $0.40
+KingPotNoodle: calls $0.40
+u_wot_poker: folds 
+*** TURN *** [Kh Tc 9s] [4s]
+M709199: checks 
+KingPotNoodle: checks 
+u_wot_poker leaves the table
+brianmgee: bets $1.10
+M709199: calls $1.10
+KingPotNoodle: folds 
+*** RIVER *** [Kh Tc 9s 4s] [Qd]
+M709199: checks 
+ChileNaTuraL joins the table at seat #6 
+brianmgee: checks 
+*** SHOW DOWN ***
+M709199: shows [Qc Kd] (two pair, Kings and Queens)
+brianmgee: mucks hand 
+M709199 collected $5.54 from pot
+*** SUMMARY ***
+Total pot $5.80 | Rake $0.26 
+Board [Kh Tc 9s 4s Qd]
+Seat 1: mrbumpisblue folded before Flop (didn't bet)
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: brianmgee (button) mucked
+Seat 4: M709199 (small blind) showed [Qc Kd] and won ($5.54) with two pair, Kings and Queens
+Seat 5: KingPotNoodle (big blind) folded on the Turn
+Seat 6: u_wot_poker folded on the Flop
+
+
+
+PokerStars Hand #222942004391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:51:31 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: mrbumpisblue ($13.99 in chips) 
+Seat 2: Corty O ($6.19 in chips) 
+Seat 3: brianmgee ($4.80 in chips) 
+Seat 4: M709199 ($14.04 in chips) 
+Seat 5: KingPotNoodle ($10 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+mrbumpisblue: calls $0.10
+Corty O: folds 
+brianmgee: calls $0.10
+M709199: raises $0.10 to $0.20
+KingPotNoodle: raises $1.30 to $1.50
+ChileNaTuraL: folds 
+mrbumpisblue: folds 
+brianmgee: folds 
+M709199: folds 
+Uncalled bet ($1.30) returned to KingPotNoodle
+KingPotNoodle collected $0.70 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: mrbumpisblue folded before Flop
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: brianmgee folded before Flop
+Seat 4: M709199 (button) folded before Flop
+Seat 5: KingPotNoodle (small blind) collected ($0.70)
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942016650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:52:03 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: mrbumpisblue ($13.89 in chips) 
+Seat 2: Corty O ($6.19 in chips) 
+Seat 3: brianmgee ($4.70 in chips) 
+Seat 4: M709199 ($13.84 in chips) 
+Seat 5: KingPotNoodle ($10.50 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+mrbumpisblue: posts big blind $0.10
+*** HOLE CARDS ***
+Corty O: folds 
+brianmgee: calls $0.10
+M709199: raises $0.40 to $0.50
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+mrbumpisblue: folds 
+brianmgee: calls $0.40
+*** FLOP *** [5c 8d 2c]
+brianmgee: checks 
+M709199: checks 
+*** TURN *** [5c 8d 2c] [Ac]
+brianmgee: checks 
+M709199: bets $0.60
+brianmgee: calls $0.60
+*** RIVER *** [5c 8d 2c Ac] [Jd]
+brianmgee: checks 
+M709199: checks 
+*** SHOW DOWN ***
+brianmgee: shows [Jh Tc] (a pair of Jacks)
+M709199: mucks hand 
+brianmgee collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [5c 8d 2c Ac Jd]
+Seat 1: mrbumpisblue (big blind) folded before Flop
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: brianmgee showed [Jh Tc] and won ($2.24) with a pair of Jacks
+Seat 4: M709199 mucked
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942043467:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:53:14 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: mrbumpisblue ($13.79 in chips) 
+Seat 2: Corty O ($6.19 in chips) 
+Seat 3: brianmgee ($5.84 in chips) 
+Seat 4: M709199 ($12.74 in chips) 
+Seat 5: KingPotNoodle ($10.50 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+mrbumpisblue: posts small blind $0.05
+Corty O: posts big blind $0.10
+*** HOLE CARDS ***
+brianmgee: folds 
+M709199: raises $0.15 to $0.25
+KingPotNoodle: folds 
+ChileNaTuraL: calls $0.25
+mrbumpisblue: folds 
+Corty O: folds 
+*** FLOP *** [3s Td 2s]
+M709199: bets $0.41
+ChileNaTuraL: folds 
+Uncalled bet ($0.41) returned to M709199
+M709199 collected $0.62 from pot
+M709199: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3s Td 2s]
+Seat 1: mrbumpisblue (small blind) folded before Flop
+Seat 2: Corty O (big blind) folded before Flop
+Seat 3: brianmgee folded before Flop (didn't bet)
+Seat 4: M709199 collected ($0.62)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) folded on the Flop
+
+
+
+PokerStars Hand #222942054355:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:53:42 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: mrbumpisblue ($13.74 in chips) 
+Seat 2: Corty O ($6.09 in chips) 
+Seat 3: brianmgee ($5.84 in chips) 
+Seat 4: M709199 ($13.11 in chips) 
+Seat 5: KingPotNoodle ($10.50 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+Corty O: posts small blind $0.05
+brianmgee: posts big blind $0.10
+*** HOLE CARDS ***
+M709199: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+mrbumpisblue: calls $0.30
+Corty O: folds 
+brianmgee: calls $0.20
+*** FLOP *** [Kc 2h 3d]
+brianmgee: bets $0.10
+ChileNaTuraL: calls $0.10
+mrbumpisblue: calls $0.10
+*** TURN *** [Kc 2h 3d] [4c]
+brianmgee: checks 
+ChileNaTuraL: checks 
+mrbumpisblue: bets $0.69
+brianmgee: calls $0.69
+ChileNaTuraL: folds 
+*** RIVER *** [Kc 2h 3d 4c] [Th]
+brianmgee: checks 
+mrbumpisblue: bets $3.41
+brianmgee: raises $1.34 to $4.75 and is all-in
+mrbumpisblue: calls $1.34
+*** SHOW DOWN ***
+brianmgee: shows [Kh 9c] (a pair of Kings)
+mrbumpisblue: shows [5s 6s] (a straight, Deuce to Six)
+mrbumpisblue collected $11.58 from pot
+*** SUMMARY ***
+Total pot $12.13 | Rake $0.55 
+Board [Kc 2h 3d 4c Th]
+Seat 1: mrbumpisblue (button) showed [5s 6s] and won ($11.58) with a straight, Deuce to Six
+Seat 2: Corty O (small blind) folded before Flop
+Seat 3: brianmgee (big blind) showed [Kh 9c] and lost with a pair of Kings
+Seat 4: M709199 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded on the Turn
+
+
+
+PokerStars Hand #222942084099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:54:59 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: mrbumpisblue ($19.48 in chips) 
+Seat 2: Corty O ($6.04 in chips) 
+Seat 4: M709199 ($13.11 in chips) 
+Seat 5: KingPotNoodle ($10.50 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+M709199: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+mrbumpisblue: folds 
+Corty O: folds 
+brianmgee leaves the table
+M709199: raises $0.10 to $0.20
+KingPotNoodle: calls $0.10
+*** FLOP *** [Kc Tc Jd]
+M709199: checks 
+Monterrey S joins the table at seat #3 
+KingPotNoodle: checks 
+*** TURN *** [Kc Tc Jd] [3h]
+M709199: bets $0.25
+KingPotNoodle: folds 
+Uncalled bet ($0.25) returned to M709199
+M709199 collected $0.38 from pot
+M709199: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kc Tc Jd 3h]
+Seat 1: mrbumpisblue folded before Flop (didn't bet)
+Seat 2: Corty O (button) folded before Flop (didn't bet)
+Seat 4: M709199 (small blind) collected ($0.38)
+Seat 5: KingPotNoodle (big blind) folded on the Turn
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942105387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:55:50 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: mrbumpisblue ($19.48 in chips) 
+Seat 2: Corty O ($6.04 in chips) 
+Seat 4: M709199 ($13.29 in chips) 
+Seat 5: KingPotNoodle ($10.30 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+Monterrey S: sits out 
+*** HOLE CARDS ***
+mrbumpisblue: raises $0.20 to $0.30
+Corty O: folds 
+M709199: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: calls $0.20
+*** FLOP *** [9h 3d Jh]
+ChileNaTuraL: checks 
+mrbumpisblue: bets $0.31
+ChileNaTuraL: folds 
+Uncalled bet ($0.31) returned to mrbumpisblue
+mrbumpisblue collected $0.62 from pot
+mrbumpisblue: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9h 3d Jh]
+Seat 1: mrbumpisblue collected ($0.62)
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 4: M709199 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222942112581:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:56:16 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: mrbumpisblue ($19.80 in chips) 
+Seat 2: Corty O ($6.04 in chips) 
+Seat 4: M709199 ($13.29 in chips) 
+Seat 5: KingPotNoodle ($10.25 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+mrbumpisblue: posts big blind $0.10
+Monterrey S: sits out 
+*** HOLE CARDS ***
+Corty O: raises $0.15 to $0.25
+M709199: raises $0.50 to $0.75
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+mrbumpisblue: folds 
+Corty O: folds 
+Uncalled bet ($0.50) returned to M709199
+M709199 collected $0.65 from pot
+M709199: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: mrbumpisblue (big blind) folded before Flop
+Seat 2: Corty O folded before Flop
+Seat 4: M709199 collected ($0.65)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942122472:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:56:51 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: mrbumpisblue ($19.70 in chips) 
+Seat 2: Corty O ($5.79 in chips) 
+Seat 4: M709199 ($13.69 in chips) 
+Seat 5: KingPotNoodle ($10.25 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+mrbumpisblue: posts small blind $0.05
+Corty O: posts big blind $0.10
+Monterrey S: sits out 
+*** HOLE CARDS ***
+M709199: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+Monterrey S leaves the table
+mrbumpisblue: raises $0.70 to $1
+Corty O: folds 
+KingPotNoodle: calls $0.70
+*** FLOP *** [Kh 5s Kc]
+mrbumpisblue: checks 
+KingPotNoodle: checks 
+*** TURN *** [Kh 5s Kc] [3s]
+mrbumpisblue: checks 
+KingPotNoodle: bets $1.01
+AAAcostA joins the table at seat #3 
+mrbumpisblue: calls $1.01
+*** RIVER *** [Kh 5s Kc 3s] [4d]
+mrbumpisblue: checks 
+KingPotNoodle: checks 
+*** SHOW DOWN ***
+mrbumpisblue: shows [Ah Jd] (a pair of Kings)
+KingPotNoodle: shows [9d 9h] (two pair, Kings and Nines)
+KingPotNoodle collected $3.93 from pot
+*** SUMMARY ***
+Total pot $4.12 | Rake $0.19 
+Board [Kh 5s Kc 3s 4d]
+Seat 1: mrbumpisblue (small blind) showed [Ah Jd] and lost with a pair of Kings
+Seat 2: Corty O (big blind) folded before Flop
+Seat 4: M709199 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle showed [9d 9h] and won ($3.93) with two pair, Kings and Nines
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942138389:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:57:47 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: mrbumpisblue ($17.69 in chips) 
+Seat 2: Corty O ($5.69 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 4: M709199 ($13.69 in chips) 
+Seat 5: KingPotNoodle ($12.17 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+Corty O: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+M709199: raises $0.15 to $0.25
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+mrbumpisblue: calls $0.25
+Corty O: folds 
+AAAcostA: raises $1.15 to $1.40
+M709199: folds 
+mrbumpisblue: folds 
+Uncalled bet ($1.15) returned to AAAcostA
+AAAcostA collected $0.80 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0 
+Seat 1: mrbumpisblue (button) folded before Flop
+Seat 2: Corty O (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) collected ($0.80)
+Seat 4: M709199 folded before Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942148911:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:58:25 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: mrbumpisblue ($17.44 in chips) 
+Seat 2: Corty O ($5.64 in chips) 
+Seat 3: AAAcostA ($10.55 in chips) 
+Seat 5: KingPotNoodle ($12.17 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+AAAcostA: posts small blind $0.05
+M709199: is sitting out 
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+mrbumpisblue: raises $0.20 to $0.30
+Corty O: folds 
+AAAcostA: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.20) returned to mrbumpisblue
+mrbumpisblue collected $0.25 from pot
+mrbumpisblue: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mrbumpisblue collected ($0.25)
+Seat 2: Corty O (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942154552:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:58:45 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: mrbumpisblue ($17.59 in chips) 
+Seat 2: Corty O ($5.64 in chips) 
+Seat 3: AAAcostA ($10.50 in chips) 
+Seat 5: KingPotNoodle ($12.07 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+mrbumpisblue: folds 
+Corty O: folds 
+AAAcostA: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.20 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mrbumpisblue folded before Flop (didn't bet)
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) collected ($0.20)
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942159229:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:59:02 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: mrbumpisblue ($17.59 in chips) 
+Seat 2: Corty O ($5.64 in chips) 
+Seat 3: AAAcostA ($10.50 in chips) 
+Seat 5: KingPotNoodle ($12.17 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+mrbumpisblue: posts big blind $0.10
+*** HOLE CARDS ***
+Corty O: folds 
+Corty O leaves the table
+AAAcostA: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+mrbumpisblue: calls $0.20
+*** FLOP *** [7s Ac 8d]
+fuzinger joins the table at seat #2 
+ChileNaTuraL: bets $0.19
+fuzinger leaves the table
+mrbumpisblue: calls $0.19
+*** TURN *** [7s Ac 8d] [Ah]
+ChileNaTuraL: bets $0.70
+mrbumpisblue: calls $0.70
+*** RIVER *** [7s Ac 8d Ah] [4d]
+ChileNaTuraL: bets $1.77
+mrbumpisblue: raises $5.57 to $7.34
+ChileNaTuraL: calls $5.57
+*** SHOW DOWN ***
+mrbumpisblue: shows [4h Ad] (a full house, Aces full of Fours)
+ChileNaTuraL: mucks hand 
+mrbumpisblue collected $16.29 from pot
+*** SUMMARY ***
+Total pot $17.06 | Rake $0.77 
+Board [7s Ac 8d Ah 4d]
+Seat 1: mrbumpisblue (big blind) showed [4h Ad] and won ($16.29) with a full house, Aces full of Fours
+Seat 2: Corty O folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) mucked
+
+
+
+PokerStars Hand #222942176842:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:00:04 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: mrbumpisblue ($25.35 in chips) 
+Seat 3: AAAcostA ($10.50 in chips) 
+Seat 5: KingPotNoodle ($12.17 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+mrbumpisblue: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+mrbumpisblue: calls $0.25
+AAAcostA: folds 
+*** FLOP *** [7d Ts 7c]
+EZEQUIEL.C10 joins the table at seat #2 
+mrbumpisblue: checks 
+KingPotNoodle: checks 
+*** TURN *** [7d Ts 7c] [8h]
+mrbumpisblue: checks 
+KingPotNoodle: bets $0.22
+mrbumpisblue: folds 
+Uncalled bet ($0.22) returned to KingPotNoodle
+KingPotNoodle collected $0.67 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7d Ts 7c 8h]
+Seat 1: mrbumpisblue (small blind) folded on the Turn
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 5: KingPotNoodle collected ($0.67)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942185847:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:00:31 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: mrbumpisblue ($25.05 in chips) 
+Seat 3: AAAcostA ($10.40 in chips) 
+Seat 5: KingPotNoodle ($12.54 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+AAAcostA: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+mrbumpisblue: raises $0.20 to $0.30
+AAAcostA: raises $0.60 to $0.90
+KingPotNoodle: folds 
+mrbumpisblue: calls $0.60
+*** FLOP *** [4s 2d 3d]
+AAAcostA: bets $1.36
+mrbumpisblue: calls $1.36
+*** TURN *** [4s 2d 3d] [5h]
+AAAcostA: checks 
+M709199 was removed from the table for failing to post
+M709199 leaves the table
+mrbumpisblue: bets $2.40
+willian527 joins the table at seat #4 
+AAAcostA: calls $2.40
+*** RIVER *** [4s 2d 3d 5h] [Th]
+AAAcostA: checks 
+mrbumpisblue: bets $20.39 and is all-in
+AAAcostA: calls $5.74 and is all-in
+Uncalled bet ($14.65) returned to mrbumpisblue
+*** SHOW DOWN ***
+mrbumpisblue: shows [Ad 6d] (a straight, Deuce to Six)
+AAAcostA: shows [7c Ac] (a straight, Ace to Five)
+mrbumpisblue collected $19.96 from pot
+*** SUMMARY ***
+Total pot $20.90 | Rake $0.94 
+Board [4s 2d 3d 5h Th]
+Seat 1: mrbumpisblue (button) showed [Ad 6d] and won ($19.96) with a straight, Deuce to Six
+Seat 3: AAAcostA (small blind) showed [7c Ac] and lost with a straight, Ace to Five
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942232246:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:02:36 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: mrbumpisblue ($34.61 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($12.44 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+EZEQUIEL.C10: sits out 
+*** HOLE CARDS ***
+mrbumpisblue: calls $0.10
+AAAcostA: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.20
+mrbumpisblue: calls $0.20
+*** FLOP *** [Kh 7h 5d]
+KingPotNoodle: bets $0.43
+ChileNaTuraL: folds 
+mrbumpisblue: calls $0.43
+*** TURN *** [Kh 7h 5d] [Kd]
+willian527 leaves the table
+KingPotNoodle: bets $0.84
+mrbumpisblue: folds 
+Uncalled bet ($0.84) returned to KingPotNoodle
+KingPotNoodle collected $1.68 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [Kh 7h 5d Kd]
+Seat 1: mrbumpisblue folded on the Turn
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) collected ($1.68)
+Seat 6: ChileNaTuraL (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222942265091:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:04:01 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: mrbumpisblue ($33.88 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($13.39 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+mrbumpisblue: posts big blind $0.10
+EZEQUIEL.C10: sits out 
+*** HOLE CARDS ***
+AAAcostA: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.25
+mrbumpisblue: calls $0.20
+*** FLOP *** [Qc Ts 4h]
+ChileNaTuraL: checks 
+juligan111 joins the table at seat #4 
+mrbumpisblue: checks 
+KingPotNoodle: bets $0.43
+ChileNaTuraL: folds 
+mrbumpisblue: folds 
+Uncalled bet ($0.43) returned to KingPotNoodle
+KingPotNoodle collected $0.86 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Qc Ts 4h]
+Seat 1: mrbumpisblue (big blind) folded on the Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) collected ($0.86)
+Seat 6: ChileNaTuraL (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222942286740:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:04:58 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: mrbumpisblue ($33.58 in chips) 
+Seat 2: EZEQUIEL.C10 ($8 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($13.95 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+mrbumpisblue: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+juligan111: sits out 
+*** HOLE CARDS ***
+AAAcostA has timed out
+AAAcostA: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+mrbumpisblue: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.15) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: mrbumpisblue (small blind) folded before Flop
+Seat 2: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942297615:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:05:25 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: mrbumpisblue ($33.53 in chips) 
+Seat 2: EZEQUIEL.C10 ($7.90 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($13.95 in chips) 
+Seat 6: ChileNaTuraL ($10.15 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+juligan111: sits out 
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.30
+mrbumpisblue: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+*** FLOP *** [8d 5h Kh]
+KingPotNoodle: bets $0.24
+ChileNaTuraL: folds 
+Uncalled bet ($0.24) returned to KingPotNoodle
+KingPotNoodle collected $0.72 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8d 5h Kh]
+Seat 1: mrbumpisblue (button) folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 5: KingPotNoodle collected ($0.72)
+Seat 6: ChileNaTuraL folded on the Flop
+
+
+
+PokerStars Hand #222942310766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:06:00 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: mrbumpisblue ($33.53 in chips) 
+Seat 2: EZEQUIEL.C10 ($7.85 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.37 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+mrbumpisblue is disconnected 
+mrbumpisblue has timed out while disconnected
+mrbumpisblue: folds 
+EZEQUIEL.C10: raises $0.15 to $0.25
+AAAcostA: folds 
+juligan111: calls $0.15
+*** FLOP *** [8s Ad Kc]
+juligan111: bets $0.15
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.15) returned to juligan111
+juligan111 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8s Ad Kc]
+Seat 1: mrbumpisblue folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 (button) folded on the Flop
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) collected ($0.53)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942330080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:06:43 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 2: EZEQUIEL.C10 ($7.60 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 4: juligan111 ($10.28 in chips) 
+Seat 5: KingPotNoodle ($14.37 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: raises $0.20 to $0.30
+KingPotNoodle: calls $0.20
+*** FLOP *** [2s Qc 6h]
+juligan111: bets $0.20
+KingPotNoodle: calls $0.20
+*** TURN *** [2s Qc 6h] [2h]
+juligan111: checks 
+KingPotNoodle: bets $0.63
+juligan111: folds 
+Uncalled bet ($0.63) returned to KingPotNoodle
+KingPotNoodle collected $0.96 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [2s Qc 6h 2h]
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded on the Turn
+Seat 5: KingPotNoodle (big blind) collected ($0.96)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942348300:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:07:30 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 2: EZEQUIEL.C10 ($7.60 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.83 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.20) returned to AAAcostA
+AAAcostA collected $0.25 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA collected ($0.25)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942354707:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:07:47 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 2: EZEQUIEL.C10 ($7.60 in chips) 
+Seat 3: AAAcostA ($10.15 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.78 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: calls $0.25
+EZEQUIEL.C10: calls $0.20
+*** FLOP *** [3c 7c 8c]
+ChileNaTuraL: checks 
+EZEQUIEL.C10: checks 
+AAAcostA: checks 
+*** TURN *** [3c 7c 8c] [2h]
+ChileNaTuraL: bets $1.02
+EZEQUIEL.C10: folds 
+AAAcostA: calls $1.02
+*** RIVER *** [3c 7c 8c 2h] [2s]
+ChileNaTuraL: bets $5.50
+AAAcostA: folds [Qh Qc]
+Uncalled bet ($5.50) returned to ChileNaTuraL
+ChileNaTuraL collected $2.81 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.13 
+Board [3c 7c 8c 2h 2s]
+Seat 2: EZEQUIEL.C10 (big blind) folded on the Turn
+Seat 3: AAAcostA folded on the River
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) collected ($2.81)
+
+
+
+PokerStars Hand #222942390062:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:09:19 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 2: EZEQUIEL.C10 ($7.30 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($14.78 in chips) 
+Seat 6: ChileNaTuraL ($11.49 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 5: KingPotNoodle collected ($0.25)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942405910:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:09:47 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 2: EZEQUIEL.C10 ($7.25 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($14.93 in chips) 
+Seat 6: ChileNaTuraL ($11.49 in chips) 
+AAAcostA: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) collected ($0.10)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942410459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:09:59 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 2: EZEQUIEL.C10 ($7.25 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($14.98 in chips) 
+Seat 6: ChileNaTuraL ($11.49 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.20 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) collected ($0.20)
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942416852:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:10:16 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 2: EZEQUIEL.C10 ($7.25 in chips) 
+Seat 3: AAAcostA ($10 in chips) 
+Seat 5: KingPotNoodle ($15.08 in chips) 
+Seat 6: ChileNaTuraL ($11.39 in chips) 
+ChileNaTuraL: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: raises $0.20 to $0.30
+KingPotNoodle: calls $0.30
+ChileNaTuraL: calls $0.25
+EZEQUIEL.C10: folds 
+*** FLOP *** [2c 7h Kc]
+ChileNaTuraL: checks 
+AAAcostA: bets $0.51
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.51) returned to AAAcostA
+AAAcostA collected $0.96 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [2c 7h Kc]
+Seat 2: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 3: AAAcostA collected ($0.96)
+Seat 5: KingPotNoodle (button) folded on the Flop
+Seat 6: ChileNaTuraL (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222942431626:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:10:47 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 2: EZEQUIEL.C10 ($7.15 in chips) 
+Seat 3: AAAcostA ($10.66 in chips) 
+Seat 5: KingPotNoodle ($14.78 in chips) 
+Seat 6: ChileNaTuraL ($11.09 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+juligan111: sits out 
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.30
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+*** FLOP *** [Tc 8c 7h]
+KingPotNoodle: checks 
+ChileNaTuraL: bets $0.24
+KingPotNoodle: folds 
+Uncalled bet ($0.24) returned to ChileNaTuraL
+ChileNaTuraL collected $0.72 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Tc 8c 7h]
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 5: KingPotNoodle folded on the Flop
+Seat 6: ChileNaTuraL (button) collected ($0.72)
+
+
+
+PokerStars Hand #222942446935:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:11:28 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 2: EZEQUIEL.C10 ($7.10 in chips) 
+Seat 3: AAAcostA ($10.56 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($11.51 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.30
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+*** FLOP *** [Th Js 7d]
+KingPotNoodle: bets $0.24
+ChileNaTuraL: calls $0.24
+*** TURN *** [Th Js 7d] [9s]
+KingPotNoodle: checks 
+ChileNaTuraL: bets $0.39
+KingPotNoodle: calls $0.39
+*** RIVER *** [Th Js 7d 9s] [8d]
+KingPotNoodle: checks 
+ChileNaTuraL: checks 
+*** SHOW DOWN ***
+KingPotNoodle: shows [Jh Jc] (a straight, Seven to Jack)
+ChileNaTuraL: shows [9h 7h] (a straight, Seven to Jack)
+KingPotNoodle collected $0.96 from pot
+ChileNaTuraL collected $0.96 from pot
+*** SUMMARY ***
+Total pot $2.01 | Rake $0.09 
+Board [Th Js 7d 9s 8d]
+Seat 2: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle showed [Jh Jc] and won ($0.96) with a straight, Seven to Jack
+Seat 6: ChileNaTuraL showed [9h 7h] and won ($0.96) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #222942463364:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:12:11 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 2: EZEQUIEL.C10 ($7.10 in chips) 
+Seat 3: AAAcostA ($10.51 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.51 in chips) 
+Seat 6: ChileNaTuraL ($11.54 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: calls $0.20
+*** FLOP *** [5d Ks Jh]
+KingPotNoodle: checks 
+ChileNaTuraL: bets $0.20
+KingPotNoodle: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.62 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5d Ks Jh]
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded on the Flop
+Seat 6: ChileNaTuraL collected ($0.62)
+
+
+
+PokerStars Hand #222942474609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:12:41 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 2: EZEQUIEL.C10 ($7.10 in chips) 
+Seat 3: AAAcostA ($10.51 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.21 in chips) 
+Seat 6: ChileNaTuraL ($11.86 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.20
+*** FLOP *** [Kc 2s 5c]
+KingPotNoodle: checks 
+ChileNaTuraL: checks 
+*** TURN *** [Kc 2s 5c] [Qc]
+KingPotNoodle: bets $0.29
+ChileNaTuraL: folds 
+Uncalled bet ($0.29) returned to KingPotNoodle
+KingPotNoodle collected $0.57 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Kc 2s 5c Qc]
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) collected ($0.57)
+Seat 6: ChileNaTuraL (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222942483327:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:04 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 2: EZEQUIEL.C10 ($7.10 in chips) 
+Seat 3: AAAcostA ($10.51 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($11.56 in chips) 
+ChileNaTuraL: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.20 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: EZEQUIEL.C10 (big blind) folded before Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222942488002:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:17 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 2: EZEQUIEL.C10 ($7 in chips) 
+Seat 3: AAAcostA ($10.51 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($11.66 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: raises $0.15 to $0.25
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: calls $0.15
+*** FLOP *** [4h 6c 8c]
+AAAcostA: checks 
+juligan111: bets $0.20
+AAAcostA: raises $0.49 to $0.69
+juligan111: folds 
+Uncalled bet ($0.49) returned to AAAcostA
+AAAcostA collected $0.91 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [4h 6c 8c]
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) collected ($0.91)
+Seat 4: juligan111 folded on the Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942500572:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:13:50 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($10.97 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($11.66 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: calls $0.20
+*** FLOP *** [3d 5c 5h]
+juligan111: checks 
+ChileNaTuraL: bets $0.32
+juligan111: calls $0.32
+*** TURN *** [3d 5c 5h] [As]
+juligan111: checks 
+ChileNaTuraL: bets $0.96
+juligan111: calls $0.96
+*** RIVER *** [3d 5c 5h As] [8s]
+juligan111: checks 
+ChileNaTuraL: bets $1.90
+juligan111: calls $1.90
+*** SHOW DOWN ***
+ChileNaTuraL: shows [Ks Th] (a pair of Fives)
+juligan111: shows [Ac 3c] (two pair, Aces and Fives)
+juligan111 collected $6.69 from pot
+*** SUMMARY ***
+Total pot $7.01 | Rake $0.32 
+Board [3d 5c 5h As 8s]
+Seat 2: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) showed [Ac 3c] and won ($6.69) with two pair, Aces and Fives
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL showed [Ks Th] and lost with a pair of Fives
+
+
+
+PokerStars Hand #222942518519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:14:38 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($10.92 in chips) 
+Seat 4: juligan111 ($13.21 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) collected ($0.10)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942525687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:14:57 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($10.92 in chips) 
+Seat 4: juligan111 ($13.16 in chips) 
+Seat 5: KingPotNoodle ($14.53 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.70 to $1
+AAAcostA: calls $0.70
+*** FLOP *** [9s 4s 2h]
+ChileNaTuraL: bets $0.65
+AAAcostA: calls $0.65
+*** TURN *** [9s 4s 2h] [4d]
+ChileNaTuraL: checks 
+AAAcostA: checks 
+*** RIVER *** [9s 4s 2h 4d] [Js]
+ChileNaTuraL: checks 
+AAAcostA: checks 
+*** SHOW DOWN ***
+ChileNaTuraL: shows [5h Ah] (a pair of Fours)
+AAAcostA: shows [Ac Kh] (a pair of Fours - Ace+King kicker)
+AAAcostA collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [9s 4s 2h 4d Js]
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA showed [Ac Kh] and won ($3.20) with a pair of Fours
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) showed [5h Ah] and lost with a pair of Fours
+
+
+
+PokerStars Hand #222942556157:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:12 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($12.47 in chips) 
+Seat 4: juligan111 ($13.16 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+mrbumpisblue was removed from the table for failing to post
+mrbumpisblue leaves the table
+ChileNaTuraL: folds 
+Uncalled bet ($0.05) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.10 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: EZEQUIEL.C10 (big blind) collected ($0.10)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942563633:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:32 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 2: EZEQUIEL.C10 ($7 in chips) 
+Seat 3: AAAcostA ($12.47 in chips) 
+Seat 4: juligan111 ($13.16 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+YarullinM joins the table at seat #1 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+Uncalled bet ($0.15) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942572243:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:16:55 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($8 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($12.37 in chips) 
+Seat 4: juligan111 ($13.16 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($10.15 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: checks 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: checks 
+*** FLOP *** [7h 9s Tc]
+juligan111: checks 
+YarullinM: bets $0.10
+juligan111: folds 
+Uncalled bet ($0.10) returned to YarullinM
+YarullinM collected $0.24 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7h 9s Tc]
+Seat 1: YarullinM collected ($0.24)
+Seat 2: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded on the Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942580897:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:17:18 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($8.14 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($12.32 in chips) 
+Seat 4: juligan111 ($13.06 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($10.15 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: calls $0.10
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: checks 
+*** FLOP *** [4d Kc 3h]
+KingPotNoodle: checks 
+YarullinM: bets $0.10
+KingPotNoodle: folds 
+Uncalled bet ($0.10) returned to YarullinM
+YarullinM collected $0.24 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d Kc 3h]
+Seat 1: YarullinM collected ($0.24)
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded on the Flop
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942597150:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:18:02 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($8.28 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.95 in chips) 
+Seat 3: AAAcostA ($12.32 in chips) 
+Seat 4: juligan111 ($13.01 in chips) 
+Seat 5: KingPotNoodle ($14.38 in chips) 
+Seat 6: ChileNaTuraL ($10.15 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: folds 
+EZEQUIEL.C10: raises $0.20 to $0.30
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.20) returned to EZEQUIEL.C10
+EZEQUIEL.C10 collected $0.25 from pot
+EZEQUIEL.C10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 collected ($0.25)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942613618:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:18:25 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($8.28 in chips) 
+Seat 2: EZEQUIEL.C10 ($7.10 in chips) 
+Seat 3: AAAcostA ($12.32 in chips) 
+Seat 4: juligan111 ($13.01 in chips) 
+Seat 5: KingPotNoodle ($14.33 in chips) 
+Seat 6: ChileNaTuraL ($10.05 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+YarullinM: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (big blind) folded before Flop
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) collected ($0.25)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942621620:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:18:46 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($8.18 in chips) 
+Seat 2: EZEQUIEL.C10 ($7.10 in chips) 
+Seat 3: AAAcostA ($12.32 in chips) 
+Seat 4: juligan111 ($13.01 in chips) 
+Seat 5: KingPotNoodle ($14.48 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+YarullinM: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+YarullinM: folds 
+EZEQUIEL.C10: calls $0.20
+*** FLOP *** [2h Ad 7d]
+EZEQUIEL.C10: checks 
+KingPotNoodle: bets $0.31
+EZEQUIEL.C10: calls $0.31
+*** TURN *** [2h Ad 7d] [4d]
+EZEQUIEL.C10: checks 
+KingPotNoodle: bets $0.80
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.80) returned to KingPotNoodle
+KingPotNoodle collected $1.21 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [2h Ad 7d 4d]
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 2: EZEQUIEL.C10 (big blind) folded on the Turn
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle collected ($1.21)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942645438:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:19:50 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($8.13 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.49 in chips) 
+Seat 3: AAAcostA ($12.32 in chips) 
+Seat 4: juligan111 ($13.01 in chips) 
+Seat 5: KingPotNoodle ($15.08 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: raises $0.20 to $0.30
+KingPotNoodle: raises $0.60 to $0.90
+ChileNaTuraL: folds 
+YarullinM: calls $0.90
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+*** FLOP *** [Ks 8d 2h]
+KingPotNoodle: checks 
+YarullinM: bets $0.30
+KingPotNoodle: raises $0.70 to $1
+YarullinM: calls $0.70
+*** TURN *** [Ks 8d 2h] [6h]
+KingPotNoodle: bets $13.18 and is all-in
+YarullinM: folds 
+Uncalled bet ($13.18) returned to KingPotNoodle
+KingPotNoodle collected $4.06 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [Ks 8d 2h 6h]
+Seat 1: YarullinM (button) folded on the Turn
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 4: juligan111 folded before Flop
+Seat 5: KingPotNoodle collected ($4.06)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942668463:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:20:52 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($6.23 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.44 in chips) 
+Seat 3: AAAcostA ($12.22 in chips) 
+Seat 4: juligan111 ($12.71 in chips) 
+Seat 5: KingPotNoodle ($17.24 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+YarullinM: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+Uncalled bet ($0.20) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle collected ($0.25)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942679118:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:21:21 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($6.23 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.44 in chips) 
+Seat 3: AAAcostA ($12.17 in chips) 
+Seat 4: juligan111 ($12.61 in chips) 
+Seat 5: KingPotNoodle ($17.39 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+YarullinM: calls $0.30
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: calls $0.25
+KingPotNoodle: folds 
+*** FLOP *** [2s 9d 9s]
+juligan111: bets $0.30
+ChileNaTuraL: calls $0.30
+YarullinM: calls $0.30
+*** TURN *** [2s 9d 9s] [5d]
+juligan111: checks 
+ChileNaTuraL: bets $1.50
+YarullinM: calls $1.50
+juligan111: folds 
+*** RIVER *** [2s 9d 9s 5d] [Kh]
+ChileNaTuraL: bets $5.57
+YarullinM: folds 
+Uncalled bet ($5.57) returned to ChileNaTuraL
+ChileNaTuraL collected $4.68 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.22 
+Board [2s 9d 9s 5d Kh]
+Seat 1: YarullinM folded on the River
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded on the Turn
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL collected ($4.68)
+
+
+
+PokerStars Hand #222942694276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:22:01 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($4.13 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.44 in chips) 
+Seat 3: AAAcostA ($12.17 in chips) 
+Seat 4: juligan111 ($12.01 in chips) 
+Seat 5: KingPotNoodle ($17.29 in chips) 
+Seat 6: ChileNaTuraL ($12.58 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: calls $0.15
+*** FLOP *** [As 8c 8s]
+KingPotNoodle: checks 
+ChileNaTuraL: checks 
+*** TURN *** [As 8c 8s] [7h]
+KingPotNoodle: bets $0.16
+ChileNaTuraL: raises $0.74 to $0.90
+KingPotNoodle: folds 
+Uncalled bet ($0.74) returned to ChileNaTuraL
+ChileNaTuraL collected $0.78 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [As 8c 8s 7h]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded on the Turn
+Seat 6: ChileNaTuraL (big blind) collected ($0.78)
+
+
+
+PokerStars Hand #222942709341:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:22:42 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($4.13 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.44 in chips) 
+Seat 3: AAAcostA ($12.17 in chips) 
+Seat 4: juligan111 ($12.01 in chips) 
+Seat 5: KingPotNoodle ($16.88 in chips) 
+Seat 6: ChileNaTuraL ($12.95 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: raises $0.20 to $0.30
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: calls $0.20
+*** FLOP *** [Ac Jc 5d]
+YarullinM: bets $0.30
+juligan111: calls $0.30
+*** TURN *** [Ac Jc 5d] [As]
+YarullinM: bets $0.30
+juligan111: folds 
+Uncalled bet ($0.30) returned to YarullinM
+YarullinM collected $1.19 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ac Jc 5d As]
+Seat 1: YarullinM (big blind) collected ($1.19)
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded on the Turn
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942720069:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:23:11 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($4.72 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.44 in chips) 
+Seat 3: AAAcostA ($12.17 in chips) 
+Seat 4: juligan111 ($11.41 in chips) 
+Seat 5: KingPotNoodle ($16.88 in chips) 
+Seat 6: ChileNaTuraL ($12.90 in chips) 
+YarullinM: posts small blind $0.05
+EZEQUIEL.C10: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+YarullinM: calls $0.20
+EZEQUIEL.C10: calls $0.15
+*** FLOP *** [Ks 3d 3s]
+YarullinM: checks 
+EZEQUIEL.C10: checks 
+ChileNaTuraL: bets $0.24
+YarullinM: folds 
+EZEQUIEL.C10: folds 
+Uncalled bet ($0.24) returned to ChileNaTuraL
+ChileNaTuraL collected $0.72 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ks 3d 3s]
+Seat 1: YarullinM (small blind) folded on the Flop
+Seat 2: EZEQUIEL.C10 (big blind) folded on the Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) collected ($0.72)
+
+
+
+PokerStars Hand #222942732038:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:23:43 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($4.47 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.19 in chips) 
+Seat 3: AAAcostA ($12.17 in chips) 
+Seat 4: juligan111 ($11.41 in chips) 
+Seat 5: KingPotNoodle ($16.88 in chips) 
+Seat 6: ChileNaTuraL ($13.37 in chips) 
+EZEQUIEL.C10: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+YarullinM: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (button) folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL collected ($0.25)
+
+
+
+PokerStars Hand #222942742000:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:24:11 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($4.47 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.14 in chips) 
+Seat 3: AAAcostA ($12.07 in chips) 
+Seat 4: juligan111 ($11.41 in chips) 
+Seat 5: KingPotNoodle ($16.88 in chips) 
+Seat 6: ChileNaTuraL ($13.52 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: raises $0.10 to $0.20
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+Uncalled bet ($0.10) returned to YarullinM
+YarullinM collected $0.25 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM collected ($0.25)
+Seat 2: EZEQUIEL.C10 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942746309:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:24:22 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($4.62 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.14 in chips) 
+Seat 3: AAAcostA ($12.02 in chips) 
+Seat 4: juligan111 ($11.31 in chips) 
+Seat 5: KingPotNoodle ($16.88 in chips) 
+Seat 6: ChileNaTuraL ($13.52 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+YarullinM: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL collected ($0.25)
+
+
+
+PokerStars Hand #222942751197:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:24:36 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($4.62 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.14 in chips) 
+Seat 3: AAAcostA ($12.02 in chips) 
+Seat 4: juligan111 ($11.26 in chips) 
+Seat 5: KingPotNoodle ($16.78 in chips) 
+Seat 6: ChileNaTuraL ($13.67 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: folds 
+EZEQUIEL.C10: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: raises $0.30 to $0.60
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+AAAcostA: raises $1.60 to $2.20
+juligan111: calls $1.60
+*** FLOP *** [Qd Tc Th]
+AAAcostA: bets $1.31
+juligan111: calls $1.31
+*** TURN *** [Qd Tc Th] [Kd]
+AAAcostA: bets $2.06
+juligan111: calls $2.06
+*** RIVER *** [Qd Tc Th Kd] [8c]
+AAAcostA: bets $6.45 and is all-in
+juligan111: folds 
+Uncalled bet ($6.45) returned to AAAcostA
+AAAcostA collected $10.78 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.29 | Rake $0.51 
+Board [Qd Tc Th Kd 8c]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA collected ($10.78)
+Seat 4: juligan111 (button) folded on the River
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222942784106:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:26:06 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($4.62 in chips) 
+Seat 2: EZEQUIEL.C10 ($6.14 in chips) 
+Seat 3: AAAcostA ($17.23 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.73 in chips) 
+Seat 6: ChileNaTuraL ($13.57 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+EZEQUIEL.C10: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: calls $0.30
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+*** FLOP *** [8d 3h Kh]
+AAAcostA: checks 
+juligan111: bets $0.19
+AAAcostA: folds 
+Uncalled bet ($0.19) returned to juligan111
+juligan111 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8d 3h Kh]
+Seat 1: YarullinM (big blind) folded before Flop
+Seat 2: EZEQUIEL.C10 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded on the Flop
+Seat 4: juligan111 collected ($0.72)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942796501:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:26:40 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($4.52 in chips) 
+Seat 3: AAAcostA ($16.93 in chips) 
+Seat 4: juligan111 ($10.42 in chips) 
+Seat 5: KingPotNoodle ($16.73 in chips) 
+Seat 6: ChileNaTuraL ($13.52 in chips) 
+YarullinM: posts small blind $0.05
+EZEQUIEL.C10: is sitting out 
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: raises $0.60 to $0.90
+YarullinM: folds 
+AAAcostA: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.60) returned to ChileNaTuraL
+ChileNaTuraL collected $0.75 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop
+Seat 6: ChileNaTuraL (button) collected ($0.75)
+
+
+
+PokerStars Hand #222942804597:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:27:02 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($4.47 in chips) 
+Seat 3: AAAcostA ($16.83 in chips) 
+Seat 4: juligan111 ($10.42 in chips) 
+Seat 5: KingPotNoodle ($16.43 in chips) 
+Seat 6: ChileNaTuraL ($13.97 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+EZEQUIEL.C10 leaves the table
+ChileNaTuraL: folds 
+YarullinM: raises $0.10 to $0.20
+AAAcostA: folds 
+juligan111: calls $0.10
+*** FLOP *** [Kh 5c Jh]
+juligan111: checks 
+YarullinM: bets $0.30
+juligan111: folds 
+Uncalled bet ($0.30) returned to YarullinM
+YarullinM collected $0.43 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Kh 5c Jh]
+Seat 1: YarullinM (button) collected ($0.43)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded on the Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942812812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:27:24 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($4.70 in chips) 
+Seat 3: AAAcostA ($16.78 in chips) 
+Seat 4: juligan111 ($10.22 in chips) 
+Seat 5: KingPotNoodle ($16.43 in chips) 
+Seat 6: ChileNaTuraL ($13.97 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2 joins the table at seat #2 
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+KingPotNoodle: calls $0.20
+*** FLOP *** [3c 9d Qc]
+KingPotNoodle: checks 
+AAAcostA: bets $0.19
+KingPotNoodle: calls $0.19
+*** TURN *** [3c 9d Qc] [Js]
+KingPotNoodle: checks 
+AAAcostA: bets $1.47
+KingPotNoodle: folds [Td Ad]
+Uncalled bet ($1.47) returned to AAAcostA
+AAAcostA collected $0.98 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [3c 9d Qc Js]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) collected ($0.98)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded on the Turn
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942831427:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:28:15 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($4.70 in chips) 
+Seat 3: AAAcostA ($17.27 in chips) 
+Seat 4: juligan111 ($10.17 in chips) 
+Seat 5: KingPotNoodle ($15.94 in chips) 
+Seat 6: ChileNaTuraL ($13.97 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+supeR_Systm2: sits out 
+*** HOLE CARDS ***
+YarullinM: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: calls $0.20
+*** FLOP *** [3h 8s 9h]
+KingPotNoodle: checks 
+ChileNaTuraL: checks 
+*** TURN *** [3h 8s 9h] [Qs]
+KingPotNoodle: bets $0.29
+ChileNaTuraL: folds 
+Uncalled bet ($0.29) returned to KingPotNoodle
+KingPotNoodle collected $0.57 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3h 8s 9h Qs]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) collected ($0.57)
+Seat 6: ChileNaTuraL (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222942848298:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:29:03 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($4.70 in chips) 
+Seat 3: AAAcostA ($17.27 in chips) 
+Seat 4: juligan111 ($10.17 in chips) 
+Seat 5: KingPotNoodle ($16.21 in chips) 
+Seat 6: ChileNaTuraL ($13.67 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+supeR_Systm2: sits out 
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+YarullinM: calls $0.15
+*** FLOP *** [2d Qd 7c]
+YarullinM: bets $0.10
+KingPotNoodle: raises $0.37 to $0.47
+YarullinM: folds 
+Uncalled bet ($0.37) returned to KingPotNoodle
+KingPotNoodle collected $0.72 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2d Qd 7c]
+Seat 1: YarullinM (big blind) folded on the Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) collected ($0.72)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222942866324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:29:39 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($4.35 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.27 in chips) 
+Seat 4: juligan111 ($10.17 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($13.62 in chips) 
+YarullinM: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+YarullinM: folds 
+supeR_Systm2: folds 
+Uncalled bet ($0.15) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 2: supeR_Systm2 (big blind) folded before Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) collected ($0.25)
+
+
+
+PokerStars Hand #222942878220:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:30:04 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($4.30 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.27 in chips) 
+Seat 4: juligan111 ($10.17 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($13.77 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: calls $0.10
+supeR_Systm2: folds 
+AAAcostA: raises $0.40 to $0.50
+YarullinM: folds 
+Uncalled bet ($0.40) returned to AAAcostA
+AAAcostA collected $0.25 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (button) folded before Flop
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) collected ($0.25)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942888927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:30:34 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($4.20 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.42 in chips) 
+Seat 4: juligan111 ($10.17 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($13.77 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: calls $0.10
+supeR_Systm2: raises $0.35 to $0.45
+AAAcostA: folds 
+juligan111: folds 
+YarullinM: calls $0.35
+*** FLOP *** [2h 8c 3c]
+YarullinM: checks 
+supeR_Systm2: bets $0.48
+YarullinM: calls $0.48
+*** TURN *** [2h 8c 3c] [6s]
+YarullinM: checks 
+supeR_Systm2: bets $1.10
+YarullinM: calls $1.10
+*** RIVER *** [2h 8c 3c 6s] [9d]
+YarullinM: bets $0.10
+supeR_Systm2: calls $0.10
+*** SHOW DOWN ***
+YarullinM: shows [9c 6c] (two pair, Nines and Sixes)
+supeR_Systm2: mucks hand 
+YarullinM collected $4.21 from pot
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [2h 8c 3c 6s 9d]
+Seat 1: YarullinM showed [9c 6c] and won ($4.21) with two pair, Nines and Sixes
+Seat 2: supeR_Systm2 (button) mucked
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942916210:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:31:51 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($6.28 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10.07 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($13.77 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+Uncalled bet ($0.05) returned to KingPotNoodle
+KingPotNoodle collected $0.10 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) collected ($0.10)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942920487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:03 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($6.28 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10.02 in chips) 
+Seat 5: KingPotNoodle ($16.63 in chips) 
+Seat 6: ChileNaTuraL ($13.77 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: calls $0.10
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: checks 
+*** FLOP *** [As 6s Tc]
+ChileNaTuraL: checks 
+YarullinM: bets $0.10
+ChileNaTuraL: folds 
+Uncalled bet ($0.10) returned to YarullinM
+YarullinM collected $0.24 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As 6s Tc]
+Seat 1: YarullinM collected ($0.24)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222942928558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:32:25 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($6.42 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10.02 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($13.67 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: raises $0.12 to $0.22
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: calls $0.17
+YarullinM: folds 
+*** FLOP *** [7d 4c Ac]
+ChileNaTuraL: checks 
+supeR_Systm2: bets $0.20
+ChileNaTuraL: calls $0.20
+*** TURN *** [7d 4c Ac] [9c]
+ChileNaTuraL: checks 
+supeR_Systm2: bets $0.50
+ChileNaTuraL: calls $0.50
+*** RIVER *** [7d 4c Ac 9c] [8s]
+ChileNaTuraL: bets $1.60
+supeR_Systm2: folds 
+Uncalled bet ($1.60) returned to ChileNaTuraL
+ChileNaTuraL collected $1.85 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.94 | Rake $0.09 
+Board [7d 4c Ac 9c 8s]
+Seat 1: YarullinM (big blind) folded before Flop
+Seat 2: supeR_Systm2 folded on the River
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) collected ($1.85)
+
+
+
+PokerStars Hand #222942950663:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:33:27 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($6.32 in chips) 
+Seat 2: supeR_Systm2 ($10 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10.02 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($14.60 in chips) 
+YarullinM: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.15 to $0.25
+YarullinM: calls $0.20
+supeR_Systm2: raises $1 to $1.25
+ChileNaTuraL: folds 
+YarullinM: folds 
+Uncalled bet ($1) returned to supeR_Systm2
+supeR_Systm2 collected $0.75 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 2: supeR_Systm2 (big blind) collected ($0.75)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) folded before Flop
+
+
+
+PokerStars Hand #222942972194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:34:12 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($6.07 in chips) 
+Seat 2: supeR_Systm2 ($10.50 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10.02 in chips) 
+Seat 5: KingPotNoodle ($16.58 in chips) 
+Seat 6: ChileNaTuraL ($14.35 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: raises $0.30 to $0.40
+ChileNaTuraL: calls $0.40
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+*** FLOP *** [2h 5d Qs]
+KingPotNoodle: checks 
+ChileNaTuraL: bets $0.30
+KingPotNoodle: calls $0.30
+*** TURN *** [2h 5d Qs] [Ks]
+KingPotNoodle: checks 
+ChileNaTuraL: bets $1.90
+KingPotNoodle: folds 
+Uncalled bet ($1.90) returned to ChileNaTuraL
+ChileNaTuraL collected $1.48 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [2h 5d Qs Ks]
+Seat 1: YarullinM (button) folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded on the Turn
+Seat 6: ChileNaTuraL collected ($1.48)
+
+
+
+PokerStars Hand #222942985266:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:34:49 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($6.07 in chips) 
+Seat 2: supeR_Systm2 ($10.45 in chips) 
+Seat 3: AAAcostA ($17.27 in chips) 
+Seat 4: juligan111 ($10.02 in chips) 
+Seat 5: KingPotNoodle ($15.88 in chips) 
+Seat 6: ChileNaTuraL ($15.13 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL collected ($0.25)
+
+
+
+PokerStars Hand #222942993186:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:35:11 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($6.07 in chips) 
+Seat 2: supeR_Systm2 ($10.45 in chips) 
+Seat 3: AAAcostA ($17.22 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($15.88 in chips) 
+Seat 6: ChileNaTuraL ($15.28 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: raises $0.15 to $0.25
+juligan111: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.15) returned to AAAcostA
+AAAcostA collected $0.25 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) collected ($0.25)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222942999338:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:35:28 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($6.07 in chips) 
+Seat 2: supeR_Systm2 ($10.45 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($15.78 in chips) 
+Seat 6: ChileNaTuraL ($15.28 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: raises $0.10 to $0.20
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: calls $0.10
+*** FLOP *** [2d Qd Kc]
+ChileNaTuraL: checks 
+YarullinM: bets $0.30
+ChileNaTuraL: folds 
+Uncalled bet ($0.30) returned to YarullinM
+YarullinM collected $0.43 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2d Qd Kc]
+Seat 1: YarullinM collected ($0.43)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222943011142:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:36:01 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($6.30 in chips) 
+Seat 2: supeR_Systm2 ($10.45 in chips) 
+Seat 3: AAAcostA ($17.37 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($15.73 in chips) 
+Seat 6: ChileNaTuraL ($15.08 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: calls $0.30
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+*** FLOP *** [2d 9h Th]
+AAAcostA: checks 
+juligan111: bets $0.27
+AAAcostA: folds 
+Uncalled bet ($0.27) returned to juligan111
+juligan111 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2d 9h Th]
+Seat 1: YarullinM (big blind) folded before Flop
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded on the Flop
+Seat 4: juligan111 collected ($0.72)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943026709:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:36:45 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($6.20 in chips) 
+Seat 2: supeR_Systm2 ($10.45 in chips) 
+Seat 3: AAAcostA ($17.07 in chips) 
+Seat 4: juligan111 ($10.42 in chips) 
+Seat 5: KingPotNoodle ($15.73 in chips) 
+Seat 6: ChileNaTuraL ($15.03 in chips) 
+YarullinM: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: calls $0.10
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: checks 
+*** FLOP *** [3d 4h Kc]
+supeR_Systm2: checks 
+juligan111: bets $0.10
+supeR_Systm2: folds 
+Uncalled bet ($0.10) returned to juligan111
+juligan111 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3d 4h Kc]
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 2: supeR_Systm2 (big blind) folded on the Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 collected ($0.24)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943038173:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:37:19 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($6.15 in chips) 
+Seat 2: supeR_Systm2 ($10.35 in chips) 
+Seat 3: AAAcostA ($17.07 in chips) 
+Seat 4: juligan111 ($10.56 in chips) 
+Seat 5: KingPotNoodle ($15.73 in chips) 
+Seat 6: ChileNaTuraL ($15.03 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: raises $0.20 to $0.30
+AAAcostA: calls $0.20
+*** FLOP *** [6h 2h Kh]
+supeR_Systm2: checks 
+AAAcostA: bets $0.30
+supeR_Systm2: folds 
+Uncalled bet ($0.30) returned to AAAcostA
+AAAcostA collected $0.57 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6h 2h Kh]
+Seat 1: YarullinM (button) folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (small blind) folded on the Flop
+Seat 3: AAAcostA (big blind) collected ($0.57)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943051109:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:37:56 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($6.15 in chips) 
+Seat 2: supeR_Systm2 ($10.05 in chips) 
+Seat 3: AAAcostA ($17.34 in chips) 
+Seat 4: juligan111 ($10.56 in chips) 
+Seat 5: KingPotNoodle ($15.73 in chips) 
+Seat 6: ChileNaTuraL ($15.03 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: raises $0.10 to $0.20
+supeR_Systm2: raises $0.45 to $0.65
+AAAcostA: folds 
+juligan111: calls $0.55
+YarullinM: calls $0.45
+*** FLOP *** [Kd Qc 2s]
+juligan111: checks 
+YarullinM: checks 
+supeR_Systm2: bets $0.75
+juligan111: calls $0.75
+YarullinM: calls $0.75
+*** TURN *** [Kd Qc 2s] [9d]
+juligan111: checks 
+YarullinM: checks 
+supeR_Systm2: bets $1.50
+juligan111: folds 
+YarullinM: calls $1.50
+*** RIVER *** [Kd Qc 2s 9d] [Ks]
+YarullinM: checks 
+supeR_Systm2: bets $7.15 and is all-in
+YarullinM: folds 
+Uncalled bet ($7.15) returned to supeR_Systm2
+supeR_Systm2 collected $6.92 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.33 
+Board [Kd Qc 2s 9d Ks]
+Seat 1: YarullinM folded on the River
+Seat 2: supeR_Systm2 (button) collected ($6.92)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded on the Turn
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943085787:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:39:35 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($3.25 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($17.29 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($15.73 in chips) 
+Seat 6: ChileNaTuraL ($15.03 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+YarullinM: calls $0.30
+supeR_Systm2: folds 
+AAAcostA: calls $0.30
+juligan111: folds 
+KingPotNoodle: calls $0.20
+*** FLOP *** [5s 8h 8c]
+KingPotNoodle: checks 
+ChileNaTuraL: checks 
+YarullinM: checks 
+AAAcostA: checks 
+*** TURN *** [5s 8h 8c] [4h]
+KingPotNoodle: bets $0.60
+ChileNaTuraL: folds 
+YarullinM: folds 
+AAAcostA: folds 
+Uncalled bet ($0.60) returned to KingPotNoodle
+KingPotNoodle collected $1.19 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5s 8h 8c 4h]
+Seat 1: YarullinM folded on the Turn
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded on the Turn
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) collected ($1.19)
+Seat 6: ChileNaTuraL folded on the Turn
+
+
+
+PokerStars Hand #222943100997:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:40:19 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($2.95 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($16.99 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.62 in chips) 
+Seat 6: ChileNaTuraL ($14.73 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: raises $0.20 to $0.30
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: calls $0.30
+KingPotNoodle: folds 
+ChileNaTuraL: calls $0.20
+*** FLOP *** [Jh 9c 7h]
+ChileNaTuraL: checks 
+YarullinM: checks 
+juligan111: checks 
+*** TURN *** [Jh 9c 7h] [6d]
+ChileNaTuraL: checks 
+YarullinM: checks 
+juligan111: checks 
+*** RIVER *** [Jh 9c 7h 6d] [3d]
+ChileNaTuraL: checks 
+YarullinM: bets $0.30
+juligan111: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.30) returned to YarullinM
+YarullinM collected $0.91 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Jh 9c 7h 6d 3d]
+Seat 1: YarullinM collected ($0.91)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded on the River
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded on the River
+
+
+
+PokerStars Hand #222943121590:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:18 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($3.56 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($16.99 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.57 in chips) 
+Seat 6: ChileNaTuraL ($14.43 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+Uncalled bet ($0.20) returned to AAAcostA
+AAAcostA collected $0.25 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (big blind) folded before Flop
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA collected ($0.25)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943128890:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:39 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($3.46 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($17.14 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.57 in chips) 
+Seat 6: ChileNaTuraL ($14.38 in chips) 
+YarullinM: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: raises $0.15 to $0.25
+KingPotNoodle: raises $0.85 to $1.10
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+juligan111: folds 
+Uncalled bet ($0.85) returned to KingPotNoodle
+KingPotNoodle collected $0.65 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 2: supeR_Systm2 (big blind) folded before Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop
+Seat 5: KingPotNoodle collected ($0.65)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943134787:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:41:56 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($3.41 in chips) 
+Seat 2: supeR_Systm2 ($13.97 in chips) 
+Seat 3: AAAcostA ($17.14 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.38 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: raises $0.15 to $0.25
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+Uncalled bet ($0.15) returned to juligan111
+juligan111 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (button) folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded before Flop
+Seat 4: juligan111 collected ($0.25)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943143321:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:21 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($3.41 in chips) 
+Seat 2: supeR_Systm2 ($13.92 in chips) 
+Seat 3: AAAcostA ($17.04 in chips) 
+Seat 4: juligan111 ($10.15 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.38 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: calls $0.10
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: checks 
+*** FLOP *** [6h Ah 5h]
+juligan111: checks 
+YarullinM: checks 
+*** TURN *** [6h Ah 5h] [6s]
+juligan111: checks 
+YarullinM: bets $0.10
+juligan111: folds 
+Uncalled bet ($0.10) returned to YarullinM
+YarullinM collected $0.24 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6h Ah 5h 6s]
+Seat 1: YarullinM collected ($0.24)
+Seat 2: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded on the Turn
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943154141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:42:46 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($3.55 in chips) 
+Seat 2: supeR_Systm2 ($13.92 in chips) 
+Seat 3: AAAcostA ($16.99 in chips) 
+Seat 4: juligan111 ($10.05 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.38 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: raises $0.12 to $0.22
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.12) returned to supeR_Systm2
+supeR_Systm2 collected $0.25 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 collected ($0.25)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943163979:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:15 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($3.55 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($16.99 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.87 in chips) 
+Seat 6: ChileNaTuraL ($14.38 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.20 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) collected ($0.20)
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943171272:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:43:36 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($3.55 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($16.99 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.28 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: raises $0.30 to $0.60
+AAAcostA: calls $0.30
+*** FLOP *** [4c Qs 6c]
+YarullinM: bets $0.80
+AAAcostA: calls $0.80
+*** TURN *** [4c Qs 6c] [2h]
+YarullinM: bets $1.20
+AAAcostA: calls $1.20
+*** RIVER *** [4c Qs 6c 2h] [4s]
+YarullinM: bets $0.95 and is all-in
+AAAcostA: folds 
+Uncalled bet ($0.95) returned to YarullinM
+YarullinM collected $5.01 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.24 
+Board [4c Qs 6c 2h 4s]
+Seat 1: YarullinM (big blind) collected ($5.01)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded on the River
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943198119:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:54 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($5.96 in chips) 
+Seat 2: supeR_Systm2 ($14.07 in chips) 
+Seat 3: AAAcostA ($14.39 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.23 in chips) 
+YarullinM: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: raises $0.10 to $0.20
+supeR_Systm2: raises $0.40 to $0.60
+YarullinM: calls $0.40
+*** FLOP *** [4c 2d 2h]
+YarullinM: checks 
+supeR_Systm2: bets $0.55
+YarullinM: folds 
+Uncalled bet ($0.55) returned to supeR_Systm2
+supeR_Systm2 collected $1.15 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [4c 2d 2h]
+Seat 1: YarullinM (small blind) folded on the Flop
+Seat 2: supeR_Systm2 (big blind) collected ($1.15)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943217298:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:50 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($5.36 in chips) 
+Seat 2: supeR_Systm2 ($14.62 in chips) 
+Seat 3: AAAcostA ($14.39 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.23 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: calls $0.10
+supeR_Systm2: folds 
+AAAcostA: checks 
+*** FLOP *** [2s Ts 6d]
+AAAcostA: checks 
+YarullinM: checks 
+*** TURN *** [2s Ts 6d] [6s]
+AAAcostA: bets $0.18
+YarullinM: folds 
+Uncalled bet ($0.18) returned to AAAcostA
+AAAcostA collected $0.24 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s Ts 6d 6s]
+Seat 1: YarullinM (button) folded on the Turn
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) collected ($0.24)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943231441:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:22 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($5.26 in chips) 
+Seat 2: supeR_Systm2 ($14.57 in chips) 
+Seat 3: AAAcostA ($14.53 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.23 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: raises $0.12 to $0.22
+AAAcostA: folds 
+juligan111: calls $0.12
+*** FLOP *** [As 3d 8h]
+juligan111: checks 
+supeR_Systm2: checks 
+*** TURN *** [As 3d 8h] [3c]
+juligan111: bets $0.15
+supeR_Systm2: calls $0.15
+*** RIVER *** [As 3d 8h 3c] [Js]
+juligan111: checks 
+supeR_Systm2: checks 
+*** SHOW DOWN ***
+juligan111: shows [Qs Kd] (a pair of Threes)
+supeR_Systm2: shows [8s 4s] (two pair, Eights and Threes)
+supeR_Systm2 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.04 
+Board [As 3d 8h 3c Js]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (button) showed [8s 4s] and won ($0.75) with two pair, Eights and Threes
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) showed [Qs Kd] and lost with a pair of Threes
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943247647:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:09 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($5.26 in chips) 
+Seat 2: supeR_Systm2 ($14.95 in chips) 
+Seat 3: AAAcostA ($14.48 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.23 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: raises $0.15 to $0.25
+juligan111: folds 
+KingPotNoodle: folds 
+Uncalled bet ($0.15) returned to AAAcostA
+AAAcostA collected $0.25 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) collected ($0.25)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 5: KingPotNoodle (big blind) folded before Flop
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943256619:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:36 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($5.26 in chips) 
+Seat 2: supeR_Systm2 ($14.95 in chips) 
+Seat 3: AAAcostA ($14.63 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($16.87 in chips) 
+Seat 6: ChileNaTuraL ($14.23 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: raises $0.20 to $0.30
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.20) returned to juligan111
+juligan111 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) collected ($0.25)
+Seat 5: KingPotNoodle (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943261530:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:50 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 1: YarullinM ($5.26 in chips) 
+Seat 2: supeR_Systm2 ($14.95 in chips) 
+Seat 3: AAAcostA ($14.63 in chips) 
+Seat 4: juligan111 ($10.15 in chips) 
+Seat 5: KingPotNoodle ($16.82 in chips) 
+Seat 6: ChileNaTuraL ($14.13 in chips) 
+ChileNaTuraL: posts small blind $0.05
+YarullinM: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: folds 
+YarullinM: folds 
+Uncalled bet ($0.15) returned to KingPotNoodle
+KingPotNoodle collected $0.25 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: YarullinM (big blind) folded before Flop
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) collected ($0.25)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943271086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:18 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: YarullinM ($5.16 in chips) 
+Seat 2: supeR_Systm2 ($14.95 in chips) 
+Seat 3: AAAcostA ($14.63 in chips) 
+Seat 4: juligan111 ($10.15 in chips) 
+Seat 5: KingPotNoodle ($16.97 in chips) 
+Seat 6: ChileNaTuraL ($14.08 in chips) 
+YarullinM: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $0.15 to $0.25
+ChileNaTuraL: calls $0.25
+YarullinM: folds 
+supeR_Systm2: calls $0.15
+*** FLOP *** [Jc 6c 4h]
+supeR_Systm2: checks 
+KingPotNoodle: bets $0.76
+ChileNaTuraL: folds 
+supeR_Systm2: folds 
+Uncalled bet ($0.76) returned to KingPotNoodle
+KingPotNoodle collected $0.76 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Jc 6c 4h]
+Seat 1: YarullinM (small blind) folded before Flop
+Seat 2: supeR_Systm2 (big blind) folded on the Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle collected ($0.76)
+Seat 6: ChileNaTuraL (button) folded on the Flop
+
+
+
+PokerStars Hand #222943281320:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:48 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: YarullinM ($5.11 in chips) 
+Seat 2: supeR_Systm2 ($14.70 in chips) 
+Seat 3: AAAcostA ($14.63 in chips) 
+Seat 4: juligan111 ($10.15 in chips) 
+Seat 5: KingPotNoodle ($17.48 in chips) 
+Seat 6: ChileNaTuraL ($13.83 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: folds 
+YarullinM: calls $0.10
+supeR_Systm2: folds 
+AAAcostA: checks 
+*** FLOP *** [7d Ad 8d]
+AAAcostA: checks 
+YarullinM: bets $0.10
+AAAcostA: calls $0.10
+*** TURN *** [7d Ad 8d] [Jc]
+AAAcostA: checks 
+YarullinM: bets $0.10
+AAAcostA: raises $0.47 to $0.57
+YarullinM: calls $0.47
+*** RIVER *** [7d Ad 8d Jc] [5d]
+AAAcostA: checks 
+YarullinM: bets $0.90
+AAAcostA: folds 
+Uncalled bet ($0.90) returned to YarullinM
+YarullinM collected $1.52 from pot
+YarullinM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.07 
+Board [7d Ad 8d Jc 5d]
+Seat 1: YarullinM (button) collected ($1.52)
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded on the River
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943302194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:32 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: YarullinM ($5.86 in chips) 
+Seat 2: supeR_Systm2 ($14.65 in chips) 
+Seat 3: AAAcostA ($13.86 in chips) 
+Seat 4: juligan111 ($10.15 in chips) 
+Seat 5: KingPotNoodle ($17.48 in chips) 
+Seat 6: ChileNaTuraL ($13.83 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+KingPotNoodle: raises $0.80 to $0.90
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: calls $0.85
+juligan111: folds 
+*** FLOP *** [Ks 3h Kh]
+AAAcostA: checks 
+KingPotNoodle: checks 
+*** TURN *** [Ks 3h Kh] [Qs]
+AAAcostA: bets $0.54
+KingPotNoodle: calls $0.54
+*** RIVER *** [Ks 3h Kh Qs] [Ah]
+AAAcostA: bets $2.14
+KingPotNoodle: calls $2.14
+*** SHOW DOWN ***
+AAAcostA: shows [Qh Kd] (a full house, Kings full of Queens)
+KingPotNoodle: mucks hand 
+AAAcostA collected $6.93 from pot
+*** SUMMARY ***
+Total pot $7.26 | Rake $0.33 
+Board [Ks 3h Kh Qs Ah]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) showed [Qh Kd] and won ($6.93) with a full house, Kings full of Queens
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle mucked
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943321100:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:28 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: YarullinM ($5.86 in chips) 
+Seat 2: supeR_Systm2 ($14.65 in chips) 
+Seat 3: AAAcostA ($17.21 in chips) 
+Seat 4: juligan111 ($10.05 in chips) 
+Seat 5: KingPotNoodle ($13.90 in chips) 
+Seat 6: ChileNaTuraL ($13.83 in chips) 
+juligan111: posts small blind $0.05
+KingPotNoodle: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+YarullinM: folds 
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: raises $0.20 to $0.30
+KingPotNoodle: calls $0.20
+*** FLOP *** [6c 3c 5s]
+juligan111: bets $0.20
+KingPotNoodle: raises $0.78 to $0.98
+juligan111: folds 
+Uncalled bet ($0.78) returned to KingPotNoodle
+KingPotNoodle collected $0.96 from pot
+KingPotNoodle: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6c 3c 5s]
+Seat 1: YarullinM folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded on the Flop
+Seat 5: KingPotNoodle (big blind) collected ($0.96)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943330274:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:56 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: YarullinM ($5.86 in chips) 
+Seat 2: supeR_Systm2 ($14.65 in chips) 
+Seat 3: AAAcostA ($17.21 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($14.36 in chips) 
+Seat 6: ChileNaTuraL ($13.83 in chips) 
+KingPotNoodle: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+YarullinM: calls $0.10
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+KingPotNoodle: raises $1 to $1.10
+ChileNaTuraL: folds 
+YarullinM: calls $1
+*** FLOP *** [8h 9c Qh]
+KingPotNoodle: bets $2.20
+YarullinM: calls $2.20
+*** TURN *** [8h 9c Qh] [7d]
+KingPotNoodle: bets $11.06 and is all-in
+YarullinM: calls $2.56 and is all-in
+Uncalled bet ($8.50) returned to KingPotNoodle
+*** RIVER *** [8h 9c Qh 7d] [Jc]
+*** SHOW DOWN ***
+KingPotNoodle: shows [Qc Th] (a straight, Eight to Queen)
+YarullinM: shows [9d Kd] (a pair of Nines)
+KingPotNoodle collected $11.29 from pot
+*** SUMMARY ***
+Total pot $11.82 | Rake $0.53 
+Board [8h 9c Qh 7d Jc]
+Seat 1: YarullinM showed [9d Kd] and lost with a pair of Nines
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (small blind) showed [Qc Th] and won ($11.29) with a straight, Eight to Queen
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943355710:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:51 ET
+Table 'Ksora III' 6-max Seat #5 is the button
+Seat 2: supeR_Systm2 ($14.65 in chips) 
+Seat 3: AAAcostA ($17.21 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($19.79 in chips) 
+Seat 6: ChileNaTuraL ($13.73 in chips) 
+ChileNaTuraL: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+YarullinM leaves the table
+juligan111: folds 
+KingPotNoodle: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+supeR_Systm2: calls $0.20
+*** FLOP *** [Ts 9c Tc]
+ChileNaTuraL: bets $0.19
+supeR_Systm2: calls $0.19
+*** TURN *** [Ts 9c Tc] [As]
+ChileNaTuraL: checks 
+Nealy_Godz joins the table at seat #1 
+supeR_Systm2: checks 
+*** RIVER *** [Ts 9c Tc As] [5c]
+ChileNaTuraL: checks 
+supeR_Systm2: bets $1
+ChileNaTuraL: folds 
+Uncalled bet ($1) returned to supeR_Systm2
+supeR_Systm2 collected $0.94 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Ts 9c Tc As 5c]
+Seat 2: supeR_Systm2 (big blind) collected ($0.94)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded on the River
+
+
+
+PokerStars Hand #222943390105:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:33 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 2: supeR_Systm2 ($15.10 in chips) 
+Seat 3: AAAcostA ($17.21 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($19.79 in chips) 
+Seat 6: ChileNaTuraL ($13.24 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+KingPotNoodle: raises $0.20 to $0.30
+ChileNaTuraL: folds 
+supeR_Systm2: folds 
+AAAcostA: calls $0.20
+*** FLOP *** [3h Qc 2d]
+AAAcostA: checks 
+KingPotNoodle: checks 
+*** TURN *** [3h Qc 2d] [8s]
+AAAcostA: bets $0.47
+KingPotNoodle: folds 
+Uncalled bet ($0.47) returned to AAAcostA
+AAAcostA collected $0.62 from pot
+AAAcostA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3h Qc 2d 8s]
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) collected ($0.62)
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: KingPotNoodle folded on the Turn
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943401724:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:08 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 2: supeR_Systm2 ($15.05 in chips) 
+Seat 3: AAAcostA ($17.53 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: KingPotNoodle ($19.49 in chips) 
+Seat 6: ChileNaTuraL ($13.24 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+Nealy_Godz: sits out 
+*** HOLE CARDS ***
+KingPotNoodle: folds 
+KingPotNoodle leaves the table
+ChileNaTuraL: raises $0.20 to $0.30
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.25 from pot
+ChileNaTuraL: doesn't show hand 
+Nealy_Godz leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: KingPotNoodle folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL collected ($0.25)
+
+
+
+PokerStars Hand #222943407734:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:26 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 2: supeR_Systm2 ($15.05 in chips) 
+Seat 3: AAAcostA ($17.48 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 6: ChileNaTuraL ($13.39 in chips) 
+juligan111: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+44dad4444 joins the table at seat #5 
+supeR_Systm2: folds 
+AAAcostA: folds 
+Nealy_Godz joins the table at seat #1 
+juligan111: raises $0.20 to $0.30
+Nealy_Godz leaves the table
+ChileNaTuraL: calls $0.20
+*** FLOP *** [6c 7c 2d]
+juligan111: checks 
+ChileNaTuraL: bets $0.29
+Cabellera91 joins the table at seat #1 
+juligan111: folds 
+Uncalled bet ($0.29) returned to ChileNaTuraL
+ChileNaTuraL collected $0.57 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6c 7c 2d]
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded on the Flop
+Seat 6: ChileNaTuraL (big blind) collected ($0.57)
+
+
+
+PokerStars Hand #222943415937:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:50 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($15.05 in chips) 
+Seat 3: AAAcostA ($17.48 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 6: ChileNaTuraL ($13.66 in chips) 
+ChileNaTuraL: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+AAAcostA: raises $0.20 to $0.30
+juligan111: folds 
+ChileNaTuraL: folds 
+Cabellera91: folds 
+Uncalled bet ($0.20) returned to AAAcostA
+AAAcostA collected $0.25 from pot
+AAAcostA: doesn't show hand 
+44dad4444 is disconnected 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Cabellera91 (big blind) folded before Flop
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA collected ($0.25)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943422635:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:11 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($15.05 in chips) 
+Seat 3: AAAcostA ($17.63 in chips) 
+Seat 4: juligan111 ($10 in chips) 
+Seat 5: 44dad4444 ($4 in chips) 
+Seat 6: ChileNaTuraL ($13.61 in chips) 
+Cabellera91: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+44dad4444 is connected 
+44dad4444: posts big blind $0.10
+*** HOLE CARDS ***
+AAAcostA: folds 
+juligan111: raises $0.15 to $0.25
+44dad4444 is connected 
+44dad4444: calls $0.15
+ChileNaTuraL: folds 
+Cabellera91: folds 
+supeR_Systm2: calls $0.15
+*** FLOP *** [Qc 8h 6c]
+supeR_Systm2: checks 
+juligan111: bets $0.30
+44dad4444: calls $0.30
+supeR_Systm2: folds 
+*** TURN *** [Qc 8h 6c] [7c]
+juligan111: bets $0.51
+44dad4444: calls $0.51
+*** RIVER *** [Qc 8h 6c 7c] [Qd]
+juligan111: bets $0.90
+44dad4444: calls $0.90
+*** SHOW DOWN ***
+juligan111: shows [Jh Jc] (two pair, Queens and Jacks)
+44dad4444: mucks hand 
+juligan111 collected $4.03 from pot
+*** SUMMARY ***
+Total pot $4.22 | Rake $0.19 
+Board [Qc 8h 6c 7c Qd]
+Seat 1: Cabellera91 (small blind) folded before Flop
+Seat 2: supeR_Systm2 (big blind) folded on the Flop
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 showed [Jh Jc] and won ($4.03) with two pair, Queens and Jacks
+Seat 5: 44dad4444 mucked
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943445962:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:43 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($14.80 in chips) 
+Seat 3: AAAcostA ($17.63 in chips) 
+Seat 4: juligan111 ($12.07 in chips) 
+Seat 5: 44dad4444 ($2.04 in chips) 
+Seat 6: ChileNaTuraL ($13.61 in chips) 
+supeR_Systm2: posts small blind $0.05
+AAAcostA: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+44dad4444: calls $0.10
+ChileNaTuraL: folds 
+Cabellera91: folds 
+supeR_Systm2: folds 
+AAAcostA: checks 
+*** FLOP *** [Kd Jh Kc]
+AAAcostA: checks 
+44dad4444: bets $0.10
+AAAcostA: folds 
+Uncalled bet ($0.10) returned to 44dad4444
+44dad4444 collected $0.24 from pot
+44dad4444: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd Jh Kc]
+Seat 1: Cabellera91 (button) folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 3: AAAcostA (big blind) folded on the Flop
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 5: 44dad4444 collected ($0.24)
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943453950:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:14 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($14.75 in chips) 
+Seat 3: AAAcostA ($17.53 in chips) 
+Seat 4: juligan111 ($12.07 in chips) 
+Seat 5: 44dad4444 ($2.18 in chips) 
+Seat 6: ChileNaTuraL ($13.61 in chips) 
+AAAcostA: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+44dad4444: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+Cabellera91: folds 
+supeR_Systm2: calls $0.30
+AAAcostA: folds 
+juligan111: folds 
+*** FLOP *** [5s 3d 7s]
+ChileNaTuraL: bets $0.37
+supeR_Systm2: raises $1.05 to $1.42
+ChileNaTuraL: calls $1.05
+*** TURN *** [5s 3d 7s] [4c]
+ChileNaTuraL: checks 
+supeR_Systm2: bets $1.65
+ChileNaTuraL: calls $1.65
+*** RIVER *** [5s 3d 7s 4c] [2c]
+ChileNaTuraL: checks 
+supeR_Systm2: bets $2.90
+ChileNaTuraL: calls $2.90
+*** SHOW DOWN ***
+supeR_Systm2: shows [3h 5h] (two pair, Fives and Threes)
+ChileNaTuraL: mucks hand 
+supeR_Systm2 collected $12.12 from pot
+*** SUMMARY ***
+Total pot $12.69 | Rake $0.57 
+Board [5s 3d 7s 4c 2c]
+Seat 1: Cabellera91 folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (button) showed [3h 5h] and won ($12.12) with two pair, Fives and Threes
+Seat 3: AAAcostA (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 5: 44dad4444 folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL mucked
+
+
+
+PokerStars Hand #222943483849:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:11 ET
+Table 'Ksora III' 6-max Seat #3 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($20.60 in chips) 
+Seat 3: AAAcostA ($17.48 in chips) 
+Seat 4: juligan111 ($11.97 in chips) 
+Seat 5: 44dad4444 ($2.18 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+juligan111: posts small blind $0.05
+44dad4444: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+Cabellera91 has timed out
+Cabellera91: folds 
+supeR_Systm2: raises $0.12 to $0.22
+AAAcostA: folds 
+juligan111: calls $0.17
+44dad4444: calls $0.12
+*** FLOP *** [6s Th Jd]
+juligan111: checks 
+44dad4444: checks 
+supeR_Systm2: bets $0.30
+juligan111: calls $0.30
+44dad4444: calls $0.30
+*** TURN *** [6s Th Jd] [3s]
+juligan111: checks 
+44dad4444: checks 
+supeR_Systm2: bets $1.07
+juligan111: folds 
+44dad4444: calls $1.07
+*** RIVER *** [6s Th Jd 3s] [3h]
+44dad4444: checks 
+supeR_Systm2: bets $3.53
+44dad4444: calls $0.59 and is all-in
+Uncalled bet ($2.94) returned to supeR_Systm2
+*** SHOW DOWN ***
+supeR_Systm2: shows [Kc Jc] (two pair, Jacks and Threes)
+44dad4444: shows [Td Kh] (two pair, Tens and Threes)
+supeR_Systm2 collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.22 
+Board [6s Th Jd 3s 3h]
+Seat 1: Cabellera91 folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 showed [Kc Jc] and won ($4.66) with two pair, Jacks and Threes
+Seat 3: AAAcostA (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded on the Turn
+Seat 5: 44dad4444 (big blind) showed [Td Kh] and lost with two pair, Tens and Threes
+Seat 6: ChileNaTuraL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943506846:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:35 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($23.08 in chips) 
+Seat 3: AAAcostA ($17.48 in chips) 
+Seat 4: juligan111 ($11.45 in chips) 
+Seat 6: ChileNaTuraL ($10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+Cabellera91: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2: folds 
+AAAcostA: folds 
+juligan111: folds 
+ChileNaTuraL: raises $0.20 to $0.30
+Cabellera91: calls $0.20
+*** FLOP *** [As 2c 4h]
+44dad4444 leaves the table
+ChileNaTuraL: bets $0.19
+Cabellera91: calls $0.19
+*** TURN *** [As 2c 4h] [Jh]
+ChileNaTuraL: bets $0.73
+AAAcostA leaves the table
+Cabellera91: folds 
+Uncalled bet ($0.73) returned to ChileNaTuraL
+ChileNaTuraL collected $0.94 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [As 2c 4h Jh]
+Seat 1: Cabellera91 (big blind) folded on the Turn
+Seat 2: supeR_Systm2 folded before Flop (didn't bet)
+Seat 3: AAAcostA folded before Flop (didn't bet)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) collected ($0.94)
+
+
+
+PokerStars Hand #222943517086:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:08 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($23.08 in chips) 
+Seat 4: juligan111 ($11.45 in chips) 
+Seat 6: ChileNaTuraL ($10.45 in chips) 
+Cabellera91: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+ChileNaTuraL: folds 
+Cabellera91: raises $0.20 to $0.30
+supeR_Systm2: folds 
+Uncalled bet ($0.20) returned to Cabellera91
+Cabellera91 collected $0.20 from pot
+Cabellera91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Cabellera91 (small blind) collected ($0.20)
+Seat 2: supeR_Systm2 (big blind) folded before Flop
+Seat 4: juligan111 folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943523892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:29 ET
+Table 'Ksora III' 6-max Seat #1 is the button
+Seat 1: Cabellera91 ($10.10 in chips) 
+Seat 2: supeR_Systm2 ($22.98 in chips) 
+Seat 4: juligan111 ($11.45 in chips) 
+Seat 6: ChileNaTuraL ($10.45 in chips) 
+supeR_Systm2: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: raises $0.20 to $0.30
+Cabellera91: raises $0.65 to $0.95
+supeR_Systm2: folds 
+juligan111: folds 
+ChileNaTuraL: calls $0.65
+*** FLOP *** [9s Jh 3d]
+ChileNaTuraL: checks 
+Cabellera91: bets $0.65
+ChileNaTuraL: calls $0.65
+*** TURN *** [9s Jh 3d] [5s]
+ChileNaTuraL: checks 
+Cabellera91: checks 
+*** RIVER *** [9s Jh 3d 5s] [7h]
+ChileNaTuraL: bets $1.06
+Cabellera91: folds 
+Uncalled bet ($1.06) returned to ChileNaTuraL
+ChileNaTuraL collected $3.20 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [9s Jh 3d 5s 7h]
+Seat 1: Cabellera91 (button) folded on the River
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 6: ChileNaTuraL collected ($3.20)
+
+
+
+PokerStars Hand #222943544923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:35 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 1: Cabellera91 ($10 in chips) 
+Seat 2: supeR_Systm2 ($22.93 in chips) 
+Seat 4: juligan111 ($11.35 in chips) 
+Seat 6: ChileNaTuraL ($12.05 in chips) 
+juligan111: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+*** HOLE CARDS ***
+Cabellera91 has timed out
+Cabellera91: folds 
+supeR_Systm2: folds 
+juligan111: folds 
+Uncalled bet ($0.05) returned to ChileNaTuraL
+ChileNaTuraL collected $0.10 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Cabellera91 folded before Flop (didn't bet)
+Seat 2: supeR_Systm2 (button) folded before Flop (didn't bet)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943551276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:54 ET
+Table 'Ksora III' 6-max Seat #4 is the button
+Seat 2: supeR_Systm2 ($22.93 in chips) 
+Seat 4: juligan111 ($11.30 in chips) 
+Seat 6: ChileNaTuraL ($12.10 in chips) 
+ChileNaTuraL: posts small blind $0.05
+supeR_Systm2: posts big blind $0.10
+*** HOLE CARDS ***
+juligan111: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.05) returned to supeR_Systm2
+supeR_Systm2 collected $0.10 from pot
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: supeR_Systm2 (big blind) collected ($0.10)
+Seat 4: juligan111 (button) folded before Flop (didn't bet)
+Seat 6: ChileNaTuraL (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943553035:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:00 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 2: supeR_Systm2 ($22.98 in chips) 
+Seat 4: juligan111 ($11.30 in chips) 
+Seat 6: ChileNaTuraL ($12.05 in chips) 
+supeR_Systm2: posts small blind $0.05
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+supeR_Systm2: folds 
+Uncalled bet ($0.05) returned to juligan111
+juligan111 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: supeR_Systm2 (small blind) folded before Flop
+Seat 4: juligan111 (big blind) collected ($0.10)
+Seat 6: ChileNaTuraL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943556241:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:10 ET
+Table 'Ksora III' 6-max Seat #2 is the button
+Seat 2: supeR_Systm2 ($22.93 in chips) 
+Seat 4: juligan111 ($11.35 in chips) 
+Seat 6: ChileNaTuraL ($12.05 in chips) 
+juligan111: posts small blind $0.05
+ChileNaTuraL: posts big blind $0.10
+Cabellera91: sits out 
+*** HOLE CARDS ***
+supeR_Systm2: raises $0.12 to $0.22
+juligan111: folds 
+ChileNaTuraL: folds 
+Uncalled bet ($0.12) returned to supeR_Systm2
+supeR_Systm2 collected $0.25 from pot
+Cabellera91 leaves the table
+supeR_Systm2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: supeR_Systm2 (button) collected ($0.25)
+Seat 4: juligan111 (small blind) folded before Flop
+Seat 6: ChileNaTuraL (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943559720:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:21 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 4: juligan111 ($11.30 in chips) 
+Seat 6: ChileNaTuraL ($11.95 in chips) 
+ChileNaTuraL: posts small blind $0.05
+supeR_Systm2: is sitting out 
+juligan111: posts big blind $0.10
+*** HOLE CARDS ***
+supeR_Systm2 leaves the table
+schoki77 joins the table at seat #3 
+ChileNaTuraL: raises $0.20 to $0.30
+juligan111: folds 
+Uncalled bet ($0.20) returned to ChileNaTuraL
+ChileNaTuraL collected $0.20 from pot
+ChileNaTuraL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 4: juligan111 (big blind) folded before Flop
+Seat 6: ChileNaTuraL (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222943563271:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:32 ET
+Table 'Ksora III' 6-max Seat #6 is the button
+Seat 3: schoki77 ($5.60 in chips) 
+Seat 6: ChileNaTuraL ($12.05 in chips) 
+ChileNaTuraL: posts small blind $0.05
+juligan111 leaves the table
+schoki77: posts big blind $0.10
+*** HOLE CARDS ***
+ChileNaTuraL: folds 
+Uncalled bet ($0.05) returned to schoki77
+ChileNaTuraL leaves the table
+schoki77 collected $0.10 from pot
+schoki77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: schoki77 (big blind) collected ($0.10)
+Seat 6: ChileNaTuraL (button) (small blind) folded before Flop
+
+
+

@@ -1,0 +1,3708 @@
+ï»¿PokerStars Hand #222947086523:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:42:22 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: father here ($10 in chips) 
+Seat 2: DimaMyxin ($4.46 in chips) 
+Seat 3: xxxbohunxxx ($10.66 in chips) 
+Seat 4: PaoloGod ($4 in chips) 
+DimaMyxin: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+PaoloGod: calls $0.10
+father here: raises $0.35 to $0.45
+DimaMyxin: calls $0.40
+cao87 joins the table at seat #5 
+xxxbohunxxx: folds 
+i like gosu joins the table at seat #6 
+PaoloGod: folds 
+*** FLOP *** [5c Qh 3s]
+DimaMyxin: checks 
+father here: checks 
+*** TURN *** [5c Qh 3s] [6s]
+DimaMyxin: checks 
+father here: checks 
+*** RIVER *** [5c Qh 3s 6s] [Qc]
+DimaMyxin: checks 
+father here: checks 
+*** SHOW DOWN ***
+DimaMyxin: shows [Ts 4d] (a pair of Queens)
+father here: shows [Ac 8s] (a pair of Queens - Ace kicker)
+father here collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5c Qh 3s 6s Qc]
+Seat 1: father here (button) showed [Ac 8s] and won ($1.05) with a pair of Queens
+Seat 2: DimaMyxin (small blind) showed [Ts 4d] and lost with a pair of Queens
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: PaoloGod folded before Flop
+
+
+
+PokerStars Hand #222947095703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:43:02 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: father here ($10.60 in chips) 
+Seat 2: DimaMyxin ($4.01 in chips) 
+Seat 3: xxxbohunxxx ($10.56 in chips) 
+Seat 4: PaoloGod ($3.90 in chips) 
+xxxbohunxxx: posts small blind $0.05
+PaoloGod: posts big blind $0.10
+cao87: sits out 
+i like gosu: sits out 
+*** HOLE CARDS ***
+father here: raises $0.20 to $0.30
+DimaMyxin: calls $0.30
+xxxbohunxxx: folds 
+PaoloGod: calls $0.20
+*** FLOP *** [7s Qd 6s]
+PaoloGod: checks 
+father here: checks 
+DimaMyxin: checks 
+*** TURN *** [7s Qd 6s] [8d]
+PaoloGod: checks 
+father here: bets $0.91
+DimaMyxin: raises $2.80 to $3.71 and is all-in
+PaoloGod: folds 
+father here: calls $2.80
+*** RIVER *** [7s Qd 6s 8d] [Jc]
+*** SHOW DOWN ***
+father here: shows [8h 8c] (three of a kind, Eights)
+DimaMyxin: shows [3d 6d] (a pair of Sixes)
+father here cashed out the hand for $6.47 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $8.37 | Rake $0.38 
+Board [7s Qd 6s 8d Jc]
+Seat 1: father here showed [8h 8c] and won ($7.99) with three of a kind, Eights (pot not awarded as player cashed out)
+Seat 2: DimaMyxin (button) showed [3d 6d] and lost with a pair of Sixes
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: PaoloGod (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222947111225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:44:09 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: father here ($13.06 in chips) 
+Seat 3: xxxbohunxxx ($10.51 in chips) 
+Seat 4: PaoloGod ($3.60 in chips) 
+Seat 5: cao87 ($10 in chips) 
+PaoloGod: posts small blind $0.05
+cao87: posts big blind $0.10
+i like gosu: sits out 
+*** HOLE CARDS ***
+father here: folds 
+DimaMyxin is disconnected 
+xxxbohunxxx: folds 
+PaoloGod: raises $0.20 to $0.30
+cao87: folds 
+Uncalled bet ($0.20) returned to PaoloGod
+PaoloGod collected $0.20 from pot
+PaoloGod: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: father here folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: PaoloGod (small blind) collected ($0.20)
+Seat 5: cao87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947114356:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:44:23 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: father here ($13.06 in chips) 
+Seat 3: xxxbohunxxx ($10.51 in chips) 
+Seat 4: PaoloGod ($3.70 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+xxxbohunxxx: folds 
+PaoloGod: raises $0.10 to $0.20
+cao87: folds 
+i like gosu: raises $0.60 to $0.80
+PaoloGod: folds 
+Uncalled bet ($0.60) returned to i like gosu
+i like gosu collected $0.45 from pot
+i like gosu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: father here folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: PaoloGod (button) folded before Flop
+Seat 5: cao87 (small blind) folded before Flop
+Seat 6: i like gosu (big blind) collected ($0.45)
+
+
+
+PokerStars Hand #222947120146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:44:48 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: father here ($13.06 in chips) 
+Seat 3: xxxbohunxxx ($10.51 in chips) 
+Seat 4: PaoloGod ($3.50 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.25 in chips) 
+i like gosu: posts small blind $0.05
+father here: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+PaoloGod: calls $0.10
+cao87: folds 
+i like gosu: calls $0.05
+father here: raises $0.40 to $0.50
+PaoloGod: folds 
+i like gosu: folds 
+Uncalled bet ($0.40) returned to father here
+PaoloGod leaves the table
+father here collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: father here (big blind) collected ($0.30)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: PaoloGod folded before Flop
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947126782:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:45:16 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: father here ($13.26 in chips) 
+Seat 3: xxxbohunxxx ($10.51 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.15 in chips) 
+father here: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg joins the table at seat #4 
+cao87: folds 
+i like gosu: raises $0.19 to $0.29
+DimaMyxin leaves the table
+father here: raises $0.68 to $0.97
+xxxbohunxxx: folds 
+i like gosu: calls $0.68
+*** FLOP *** [Kd 4h 3d]
+father here: checks 
+egeberg joins the table at seat #2 
+i like gosu: checks 
+*** TURN *** [Kd 4h 3d] [7d]
+father here: checks 
+i like gosu: checks 
+*** RIVER *** [Kd 4h 3d 7d] [7c]
+father here: checks 
+i like gosu: checks 
+*** SHOW DOWN ***
+father here: shows [6c 8c] (a pair of Sevens)
+i like gosu: shows [Td Tc] (two pair, Tens and Sevens)
+i like gosu collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [Kd 4h 3d 7d 7c]
+Seat 1: father here (small blind) showed [6c 8c] and lost with a pair of Sevens
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) showed [Td Tc] and won ($1.95) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #222947141043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:46:17 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: father here ($12.29 in chips) 
+Seat 3: xxxbohunxxx ($10.41 in chips) 
+Seat 4: kubancheg ($10 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($11.13 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: folds 
+i like gosu: folds 
+father here: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($0.20) returned to father here
+father here collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: father here (button) collected ($0.25)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947145850:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:46:37 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: father here ($12.44 in chips) 
+Seat 2: egeberg ($8 in chips) 
+Seat 3: xxxbohunxxx ($10.36 in chips) 
+Seat 4: kubancheg ($9.90 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($11.13 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: folds 
+father here: folds 
+egeberg: checks 
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: checks 
+*** FLOP *** [Ac Jd 5h]
+cao87: checks 
+egeberg is disconnected 
+egeberg has timed out while disconnected
+egeberg: checks 
+*** TURN *** [Ac Jd 5h] [6s]
+cao87: bets $0.18
+egeberg is connected 
+egeberg has timed out
+egeberg: folds 
+Uncalled bet ($0.18) returned to cao87
+cao87 collected $0.24 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ac Jd 5h 6s]
+Seat 1: father here folded before Flop (didn't bet)
+Seat 2: egeberg folded on the Turn (didn't bet)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: cao87 (big blind) collected ($0.24)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947162966:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:47:50 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: father here ($12.44 in chips) 
+Seat 2: egeberg ($7.90 in chips) 
+Seat 3: xxxbohunxxx ($10.36 in chips) 
+Seat 4: kubancheg ($9.85 in chips) 
+Seat 5: cao87 ($10.14 in chips) 
+Seat 6: i like gosu ($11.13 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+egeberg: raises $0.10 to $0.20
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: raises $0.60 to $0.80
+i like gosu: folds 
+father here leaves the table
+egeberg: calls $0.60
+*** FLOP *** [Td 2h 3s]
+cao87: bets $0.81
+egeberg: calls $0.81
+*** TURN *** [Td 2h 3s] [7c]
+cao87: checks 
+egeberg: bets $1.58
+cao87: folds 
+Uncalled bet ($1.58) returned to egeberg
+egeberg collected $3.17 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.32 | Rake $0.15 
+Board [Td 2h 3s 7c]
+Seat 1: father here folded before Flop (didn't bet)
+Seat 2: egeberg collected ($3.17)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: cao87 (small blind) folded on the Turn
+Seat 6: i like gosu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947172539:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:48:31 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 2: egeberg ($9.46 in chips) 
+Seat 3: xxxbohunxxx ($10.36 in chips) 
+Seat 4: kubancheg ($9.85 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($11.03 in chips) 
+i like gosu: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: raises $0.20 to $0.30
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+egeberg: folds 
+Uncalled bet ($0.20) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: egeberg (big blind) folded before Flop
+Seat 3: xxxbohunxxx collected ($0.25)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947176487:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:48:47 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 2: egeberg ($9.36 in chips) 
+Seat 3: xxxbohunxxx ($10.51 in chips) 
+Seat 4: kubancheg ($9.85 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+egeberg: calls $0.05
+xxxbohunxxx: checks 
+*** FLOP *** [3s Js 5c]
+egeberg: checks 
+xxxbohunxxx: bets $0.11
+egeberg: calls $0.11
+*** TURN *** [3s Js 5c] [Td]
+egeberg: checks 
+xxxbohunxxx: checks 
+*** RIVER *** [3s Js 5c Td] [Qh]
+egeberg: checks 
+xxxbohunxxx: bets $0.30
+egeberg: folds 
+Uncalled bet ($0.30) returned to xxxbohunxxx
+xxxbohunxxx collected $0.40 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02 
+Board [3s Js 5c Td Qh]
+Seat 2: egeberg (small blind) folded on the River
+Seat 3: xxxbohunxxx (big blind) collected ($0.40)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947190489:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:49:47 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 2: egeberg ($9.15 in chips) 
+Seat 3: xxxbohunxxx ($10.70 in chips) 
+Seat 4: kubancheg ($9.85 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: folds 
+i like gosu: folds 
+egeberg: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.05) returned to kubancheg
+kubancheg collected $0.10 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: egeberg (button) folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) collected ($0.10)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947192715:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:49:56 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 2: egeberg ($9.15 in chips) 
+Seat 3: xxxbohunxxx ($10.65 in chips) 
+Seat 4: kubancheg ($9.90 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+*** HOLE CARDS ***
+allan197720 joins the table at seat #1 
+i like gosu: folds 
+egeberg: folds 
+xxxbohunxxx: raises $0.15 to $0.25
+kubancheg: folds 
+cao87: folds 
+Uncalled bet ($0.15) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) collected ($0.25)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: cao87 (big blind) folded before Flop
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947195764:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:50:10 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 2: egeberg ($9.15 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($9.85 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+allan197720: sits out 
+*** HOLE CARDS ***
+egeberg has timed out
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+Uncalled bet ($0.05) returned to i like gosu
+i like gosu collected $0.10 from pot
+i like gosu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: cao87 (small blind) folded before Flop
+Seat 6: i like gosu (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222947199820:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:50:27 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: allan197720 ($5.07 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($9.85 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($11.03 in chips) 
+i like gosu: posts small blind $0.05
+allan197720: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+Uncalled bet ($0.20) returned to kubancheg
+kubancheg collected $0.25 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 (big blind) folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg collected ($0.25)
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947202859:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:50:40 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: allan197720 ($4.97 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($10 in chips) 
+Seat 5: cao87 ($10 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+allan197720: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: raises $0.15 to $0.25
+i like gosu: folds 
+allan197720: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.15) returned to cao87
+cao87 collected $0.25 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 collected ($0.25)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947205187:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:50:50 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: allan197720 ($4.92 in chips) 
+Seat 3: xxxbohunxxx ($10.70 in chips) 
+Seat 4: kubancheg ($10 in chips) 
+Seat 5: cao87 ($10.15 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: raises $0.15 to $0.25
+i like gosu: folds 
+allan197720: folds 
+xxxbohunxxx: folds 
+kubancheg: calls $0.15
+*** FLOP *** [4h Th Qc]
+kubancheg: checks 
+cao87: bets $0.40
+kubancheg: calls $0.40
+*** TURN *** [4h Th Qc] [7s]
+kubancheg: checks 
+cao87: bets $0.65
+kubancheg: folds 
+Uncalled bet ($0.65) returned to cao87
+cao87 collected $1.29 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [4h Th Qc 7s]
+Seat 1: allan197720 (button) folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded on the Turn
+Seat 5: cao87 collected ($1.29)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947217027:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:21 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: allan197720 ($4.92 in chips) 
+Seat 3: xxxbohunxxx ($10.65 in chips) 
+Seat 4: kubancheg ($9.35 in chips) 
+Seat 5: cao87 ($10.79 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+egeberg: sits out 
+*** HOLE CARDS ***
+i like gosu: folds 
+allan197720: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($0.05) returned to cao87
+cao87 collected $0.10 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: cao87 (big blind) collected ($0.10)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947219381:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:31 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: allan197720 ($4.92 in chips) 
+Seat 3: xxxbohunxxx ($10.65 in chips) 
+Seat 4: kubancheg ($9.30 in chips) 
+Seat 5: cao87 ($10.84 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+egeberg: sits out 
+*** HOLE CARDS ***
+allan197720: folds 
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+cao87: folds 
+i like gosu: folds 
+Uncalled bet ($0.20) returned to kubancheg
+kubancheg collected $0.25 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) collected ($0.25)
+Seat 5: cao87 (small blind) folded before Flop
+Seat 6: i like gosu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947222940:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:46 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: allan197720 ($4.92 in chips) 
+Seat 3: xxxbohunxxx ($10.65 in chips) 
+Seat 4: kubancheg ($9.45 in chips) 
+Seat 5: cao87 ($10.79 in chips) 
+Seat 6: i like gosu ($10.88 in chips) 
+i like gosu: posts small blind $0.05
+allan197720: posts big blind $0.10
+egeberg: sits out 
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+i like gosu: raises $0.20 to $0.30
+allan197720: folds 
+Uncalled bet ($0.20) returned to i like gosu
+i like gosu collected $0.20 from pot
+i like gosu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: allan197720 (big blind) folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947225604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:51:58 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: allan197720 ($4.82 in chips) 
+Seat 2: egeberg ($9.15 in chips) 
+Seat 3: xxxbohunxxx ($10.65 in chips) 
+Seat 4: kubancheg ($9.45 in chips) 
+Seat 5: cao87 ($10.79 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+allan197720: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: raises $0.20 to $0.30
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+egeberg: folds 
+Uncalled bet ($0.20) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 (small blind) folded before Flop
+Seat 2: egeberg (big blind) folded before Flop
+Seat 3: xxxbohunxxx collected ($0.25)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947228646:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:52:11 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: allan197720 ($4.77 in chips) 
+Seat 2: egeberg ($9.05 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($9.45 in chips) 
+Seat 5: cao87 ($10.79 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+egeberg: folds 
+Uncalled bet ($0.05) returned to xxxbohunxxx
+xxxbohunxxx collected $0.10 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: allan197720 (button) folded before Flop (didn't bet)
+Seat 2: egeberg (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) collected ($0.10)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947231699:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:52:24 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: allan197720 ($4.77 in chips) 
+Seat 2: egeberg ($9 in chips) 
+Seat 3: xxxbohunxxx ($10.85 in chips) 
+Seat 4: kubancheg ($9.45 in chips) 
+Seat 5: cao87 ($10.79 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: checks 
+*** FLOP *** [Tc 8c Ah]
+kubancheg: checks 
+egeberg: checks 
+*** TURN *** [Tc 8c Ah] [Td]
+kubancheg: checks 
+egeberg: checks 
+*** RIVER *** [Tc 8c Ah Td] [Qd]
+kubancheg: checks 
+egeberg: checks 
+*** SHOW DOWN ***
+kubancheg: shows [Kh 4d] (a pair of Tens)
+egeberg: mucks hand 
+kubancheg collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc 8c Ah Td Qd]
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg (button) mucked
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) showed [Kh 4d] and won ($0.24) with a pair of Tens
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947240314:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:53:01 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: allan197720 ($4.77 in chips) 
+Seat 2: egeberg ($8.90 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($9.59 in chips) 
+Seat 5: cao87 ($10.79 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: folds 
+allan197720: calls $0.10
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: calls $0.05
+cao87: checks 
+*** FLOP *** [Qs 5c Jd]
+kubancheg: bets $0.14
+cao87: folds 
+allan197720: raises $0.14 to $0.28
+kubancheg: calls $0.14
+*** TURN *** [Qs 5c Jd] [2s]
+kubancheg: checks 
+allan197720: bets $0.41
+kubancheg: calls $0.41
+*** RIVER *** [Qs 5c Jd 2s] [4c]
+kubancheg: checks 
+allan197720: bets $0.80
+kubancheg: calls $0.80
+*** SHOW DOWN ***
+allan197720: shows [Jh Jc] (three of a kind, Jacks)
+kubancheg: mucks hand 
+allan197720 collected $3.13 from pot
+*** SUMMARY ***
+Total pot $3.28 | Rake $0.15 
+Board [Qs 5c Jd 2s 4c]
+Seat 1: allan197720 showed [Jh Jc] and won ($3.13) with three of a kind, Jacks
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) mucked
+Seat 5: cao87 (big blind) folded on the Flop
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947250387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:53:45 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: allan197720 ($6.31 in chips) 
+Seat 2: egeberg ($8.90 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($8 in chips) 
+Seat 5: cao87 ($10.69 in chips) 
+Seat 6: i like gosu ($10.98 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+allan197720: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: raises $0.40 to $0.50
+i like gosu: folds 
+egeberg: calls $0.40
+*** FLOP *** [Jd 7h 3d]
+cao87: bets $0.79
+egeberg: calls $0.79
+*** TURN *** [Jd 7h 3d] [5h]
+cao87: bets $1.92
+egeberg: folds 
+Uncalled bet ($1.92) returned to cao87
+cao87 collected $2.56 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.12 
+Board [Jd 7h 3d 5h]
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg folded on the Turn
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: cao87 (small blind) collected ($2.56)
+Seat 6: i like gosu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947259090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:54:22 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: allan197720 ($6.31 in chips) 
+Seat 2: egeberg ($7.61 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($8 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($10.88 in chips) 
+i like gosu: posts small blind $0.05
+allan197720: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: raises $0.20 to $0.30
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+Uncalled bet ($0.20) returned to egeberg
+egeberg collected $0.25 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 (big blind) folded before Flop
+Seat 2: egeberg collected ($0.25)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947261999:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:54:35 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: allan197720 ($6.21 in chips) 
+Seat 2: egeberg ($7.76 in chips) 
+Seat 3: xxxbohunxxx ($10.80 in chips) 
+Seat 4: kubancheg ($8 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($10.83 in chips) 
+allan197720: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: raises $0.20 to $0.30
+kubancheg: calls $0.30
+cao87: folds 
+i like gosu: calls $0.30
+allan197720: folds 
+egeberg: calls $0.20
+*** FLOP *** [2c 8h Tc]
+egeberg: checks 
+xxxbohunxxx: checks 
+kubancheg: checks 
+i like gosu: bets $1
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($1) returned to i like gosu
+i like gosu collected $1.19 from pot
+i like gosu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [2c 8h Tc]
+Seat 1: allan197720 (small blind) folded before Flop
+Seat 2: egeberg (big blind) folded on the Flop
+Seat 3: xxxbohunxxx folded on the Flop
+Seat 4: kubancheg folded on the Flop
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) collected ($1.19)
+
+
+
+PokerStars Hand #222947271705:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:55:18 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: allan197720 ($6.16 in chips) 
+Seat 2: egeberg ($7.46 in chips) 
+Seat 3: xxxbohunxxx ($10.50 in chips) 
+Seat 4: kubancheg ($7.70 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($11.72 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: folds 
+i like gosu: raises $0.19 to $0.29
+allan197720: raises $0.73 to $1.02
+egeberg: calls $0.97
+xxxbohunxxx: folds 
+i like gosu: raises $2.57 to $3.59
+allan197720: raises $2.57 to $6.16 and is all-in
+egeberg: calls $5.14
+i like gosu: raises $2.57 to $8.73
+egeberg: calls $1.30 and is all-in
+Uncalled bet ($1.27) returned to i like gosu
+*** FLOP *** [8s 3s Td]
+*** TURN *** [8s 3s Td] [6c]
+*** RIVER *** [8s 3s Td 6c] [2h]
+*** SHOW DOWN ***
+egeberg: shows [Ks Th] (a pair of Tens)
+i like gosu: shows [As Ac] (a pair of Aces)
+i like gosu collected $2.49 from side pot
+allan197720: shows [Jh Js] (a pair of Jacks)
+i like gosu collected $17.74 from main pot
+*** SUMMARY ***
+Total pot $21.18 Main pot $17.74. Side pot $2.49. | Rake $0.95 
+Board [8s 3s Td 6c 2h]
+Seat 1: allan197720 (button) showed [Jh Js] and lost with a pair of Jacks
+Seat 2: egeberg (small blind) showed [Ks Th] and lost with a pair of Tens
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu showed [As Ac] and won ($20.23) with a pair of Aces
+
+
+
+PokerStars Hand #222947282033:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:56:11 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.70 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($24.49 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($0.05) returned to cao87
+cao87 collected $0.10 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: cao87 (big blind) collected ($0.10)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947283467:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:56:18 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: allan197720 ($4 in chips) 
+Seat 2: egeberg ($10 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.65 in chips) 
+Seat 5: cao87 ($12.01 in chips) 
+Seat 6: i like gosu ($24.49 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+allan197720: folds 
+egeberg: raises $0.25 to $0.35
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+Uncalled bet ($0.25) returned to egeberg
+egeberg collected $0.25 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg collected ($0.25)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: cao87 (small blind) folded before Flop
+Seat 6: i like gosu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947286013:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:56:31 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: allan197720 ($4 in chips) 
+Seat 2: egeberg ($10.15 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.65 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($24.39 in chips) 
+i like gosu: posts small blind $0.05
+allan197720: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+i like gosu: raises $0.20 to $0.30
+allan197720: calls $0.20
+*** FLOP *** [3s 7s 7c]
+i like gosu: bets $0.11
+allan197720: raises $3.59 to $3.70 and is all-in
+i like gosu: folds 
+Uncalled bet ($3.59) returned to allan197720
+allan197720 collected $0.78 from pot
+allan197720: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [3s 7s 7c]
+Seat 1: allan197720 (big blind) collected ($0.78)
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222947291522:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:56:59 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: allan197720 ($4.37 in chips) 
+Seat 2: egeberg ($10.15 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.65 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($23.98 in chips) 
+allan197720: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+Uncalled bet ($0.05) returned to egeberg
+egeberg collected $0.10 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: allan197720 (small blind) folded before Flop
+Seat 2: egeberg (big blind) collected ($0.10)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947293232:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:57:07 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: allan197720 ($4.32 in chips) 
+Seat 2: egeberg ($10.20 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.65 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($23.98 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+egeberg: folds 
+Uncalled bet ($0.05) returned to xxxbohunxxx
+xxxbohunxxx collected $0.10 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: allan197720 (button) folded before Flop (didn't bet)
+Seat 2: egeberg (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) collected ($0.10)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947295965:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:57:22 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: allan197720 ($4.32 in chips) 
+Seat 2: egeberg ($10.15 in chips) 
+Seat 3: xxxbohunxxx ($10.45 in chips) 
+Seat 4: kubancheg ($7.65 in chips) 
+Seat 5: cao87 ($11.96 in chips) 
+Seat 6: i like gosu ($23.98 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: raises $0.15 to $0.25
+i like gosu: folds 
+allan197720: folds 
+egeberg: calls $0.25
+xxxbohunxxx: folds 
+kubancheg: folds 
+*** FLOP *** [2s 8d 5c]
+cao87: checks 
+egeberg: checks 
+*** TURN *** [2s 8d 5c] [Kd]
+cao87: bets $0.47
+egeberg: folds 
+Uncalled bet ($0.47) returned to cao87
+cao87 collected $0.62 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2s 8d 5c Kd]
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg (button) folded on the Turn
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: cao87 collected ($0.62)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947301199:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:57:48 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: allan197720 ($4.32 in chips) 
+Seat 2: egeberg ($9.90 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.55 in chips) 
+Seat 5: cao87 ($12.33 in chips) 
+Seat 6: i like gosu ($23.98 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: raises $0.19 to $0.29
+allan197720: folds 
+egeberg: calls $0.29
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+*** FLOP *** [2h 7s 7c]
+i like gosu: bets $0.23
+egeberg: calls $0.23
+*** TURN *** [2h 7s 7c] [Qc]
+i like gosu: checks 
+egeberg: checks 
+*** RIVER *** [2h 7s 7c Qc] [Qh]
+i like gosu: checks 
+egeberg: bets $0.57
+i like gosu: calls $0.57
+*** SHOW DOWN ***
+egeberg: shows [4d Ah] (two pair, Queens and Sevens)
+i like gosu: shows [Ad Kd] (two pair, Queens and Sevens)
+i like gosu collected $1.12 from pot
+egeberg collected $1.11 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.10 
+Board [2h 7s 7c Qc Qh]
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg showed [4d Ah] and won ($1.11) with two pair, Queens and Sevens
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: cao87 (big blind) folded before Flop
+Seat 6: i like gosu showed [Ad Kd] and won ($1.12) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #222947309754:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:58:31 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: allan197720 ($4.32 in chips) 
+Seat 2: egeberg ($9.92 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.50 in chips) 
+Seat 5: cao87 ($12.23 in chips) 
+Seat 6: i like gosu ($24.01 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+allan197720: calls $0.10
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: calls $0.10
+cao87: calls $0.05
+i like gosu: checks 
+*** FLOP *** [8c Td 8h]
+cao87: checks 
+i like gosu: checks 
+allan197720: checks 
+egeberg: checks 
+kubancheg: checks 
+*** TURN *** [8c Td 8h] [Th]
+cao87: bets $0.16
+i like gosu: folds 
+allan197720: folds 
+egeberg: folds 
+kubancheg: folds 
+Uncalled bet ($0.16) returned to cao87
+cao87 collected $0.48 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [8c Td 8h Th]
+Seat 1: allan197720 folded on the Turn
+Seat 2: egeberg folded on the Turn
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded on the Turn
+Seat 5: cao87 (small blind) collected ($0.48)
+Seat 6: i like gosu (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222947317259:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:59:09 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: allan197720 ($4.22 in chips) 
+Seat 2: egeberg ($9.82 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.40 in chips) 
+Seat 5: cao87 ($12.61 in chips) 
+Seat 6: i like gosu ($23.91 in chips) 
+i like gosu: posts small blind $0.05
+allan197720: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: raises $0.15 to $0.25
+i like gosu: folds 
+allan197720: folds 
+Uncalled bet ($0.15) returned to cao87
+cao87 collected $0.25 from pot
+cao87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 (big blind) folded before Flop
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 (button) collected ($0.25)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947320382:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 2:59:25 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: allan197720 ($4.12 in chips) 
+Seat 2: egeberg ($9.82 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($7.40 in chips) 
+Seat 5: cao87 ($12.76 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+allan197720: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+egeberg: calls $0.20
+*** FLOP *** [Ks 7c 9h]
+egeberg: checks 
+kubancheg: bets $0.31
+egeberg: calls $0.31
+*** TURN *** [Ks 7c 9h] [5c]
+egeberg: checks 
+kubancheg: checks 
+*** RIVER *** [Ks 7c 9h 5c] [Ah]
+egeberg: bets $0.70
+kubancheg: calls $0.70
+*** SHOW DOWN ***
+egeberg: shows [9c 7d] (two pair, Nines and Sevens)
+kubancheg: mucks hand 
+egeberg collected $2.55 from pot
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.12 
+Board [Ks 7c 9h 5c Ah]
+Seat 1: allan197720 (small blind) folded before Flop
+Seat 2: egeberg (big blind) showed [9c 7d] and won ($2.55) with two pair, Nines and Sevens
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg mucked
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947328614:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:00:08 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: allan197720 ($4.07 in chips) 
+Seat 2: egeberg ($11.06 in chips) 
+Seat 3: xxxbohunxxx ($10.40 in chips) 
+Seat 4: kubancheg ($6.09 in chips) 
+Seat 5: cao87 ($12.76 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: raises $0.20 to $0.30
+egeberg: folds 
+xxxbohunxxx: raises $0.70 to $1
+allan197720: raises $3.07 to $4.07 and is all-in
+xxxbohunxxx: calls $3.07
+*** FLOP *** [As 6h 5s]
+*** TURN *** [As 6h 5s] [Ac]
+*** RIVER *** [As 6h 5s Ac] [7d]
+*** SHOW DOWN ***
+xxxbohunxxx: shows [Tc Ts] (two pair, Aces and Tens)
+allan197720: shows [Qd Ah] (three of a kind, Aces)
+allan197720 collected $7.82 from pot
+*** SUMMARY ***
+Total pot $8.19 | Rake $0.37 
+Board [As 6h 5s Ac 7d]
+Seat 1: allan197720 (button) showed [Qd Ah] and won ($7.82) with three of a kind, Aces
+Seat 2: egeberg (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) showed [Tc Ts] and lost with two pair, Aces and Tens
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947337115:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:00:47 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: allan197720 ($7.82 in chips) 
+Seat 2: egeberg ($11.01 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($6.09 in chips) 
+Seat 5: cao87 ($12.76 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: raises $0.30 to $0.40
+egeberg: calls $0.30
+*** FLOP *** [Ts Kh 3c]
+kubancheg: bets $0.40
+egeberg: folds 
+Uncalled bet ($0.40) returned to kubancheg
+kubancheg collected $0.81 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Ts Kh 3c]
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg (button) folded on the Flop
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) collected ($0.81)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947342044:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:01:10 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: allan197720 ($7.82 in chips) 
+Seat 2: egeberg ($10.61 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($6.50 in chips) 
+Seat 5: cao87 ($12.76 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: raises $0.19 to $0.29
+allan197720: folds 
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+Uncalled bet ($0.19) returned to i like gosu
+i like gosu collected $0.25 from pot
+i like gosu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: cao87 (big blind) folded before Flop
+Seat 6: i like gosu collected ($0.25)
+
+
+
+PokerStars Hand #222947345297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:01:24 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: allan197720 ($7.82 in chips) 
+Seat 2: egeberg ($10.61 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($6.45 in chips) 
+Seat 5: cao87 ($12.66 in chips) 
+Seat 6: i like gosu ($24.01 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+allan197720: folds 
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+cao87: folds 
+i like gosu: folds 
+Uncalled bet ($0.20) returned to kubancheg
+kubancheg collected $0.25 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 folded before Flop (didn't bet)
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) collected ($0.25)
+Seat 5: cao87 (small blind) folded before Flop
+Seat 6: i like gosu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947348337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:01:38 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: allan197720 ($7.82 in chips) 
+Seat 2: egeberg ($10.61 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($6.60 in chips) 
+Seat 5: cao87 ($12.61 in chips) 
+Seat 6: i like gosu ($23.91 in chips) 
+i like gosu: posts small blind $0.05
+allan197720: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720: folds 
+Uncalled bet ($0.20) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: allan197720 (big blind) folded before Flop
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx collected ($0.25)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947350248:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:01:47 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: allan197720 ($7.72 in chips) 
+Seat 2: egeberg ($10.61 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($6.60 in chips) 
+Seat 5: cao87 ($12.61 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+allan197720: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+cao87: folds 
+i like gosu: folds 
+allan197720: raises $0.70 to $1
+egeberg: calls $0.90
+kubancheg: calls $0.70
+*** FLOP *** [2h Ah 8d]
+allan197720: checks 
+egeberg: checks 
+kubancheg: checks 
+*** TURN *** [2h Ah 8d] [6c]
+allan197720: checks 
+egeberg: checks 
+kubancheg: checks 
+*** RIVER *** [2h Ah 8d 6c] [5c]
+allan197720: bets $0.70
+egeberg: folds 
+kubancheg: folds 
+Uncalled bet ($0.70) returned to allan197720
+allan197720 collected $2.86 from pot
+allan197720: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [2h Ah 8d 6c 5c]
+Seat 1: allan197720 (small blind) collected ($2.86)
+Seat 2: egeberg (big blind) folded on the River
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the River
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947360319:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:02:31 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: allan197720 ($9.58 in chips) 
+Seat 2: egeberg ($9.61 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($5.60 in chips) 
+Seat 5: cao87 ($12.61 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+cao87: folds 
+i like gosu: folds 
+allan197720 has timed out
+allan197720: folds 
+egeberg: folds 
+Uncalled bet ($0.05) returned to xxxbohunxxx
+xxxbohunxxx collected $0.10 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: allan197720 (button) folded before Flop (didn't bet)
+Seat 2: egeberg (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) collected ($0.10)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947364371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:02:49 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 2: egeberg ($9.56 in chips) 
+Seat 3: xxxbohunxxx ($10.20 in chips) 
+Seat 4: kubancheg ($5.60 in chips) 
+Seat 5: cao87 ($12.61 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+cao87: folds 
+i like gosu: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+allan197720 leaves the table
+kubancheg: raises $0.30 to $0.40
+egeberg: calls $0.30
+*** FLOP *** [Qh Qc 4d]
+kubancheg: checks 
+egeberg: bets $0.40
+kubancheg: calls $0.40
+*** TURN *** [Qh Qc 4d] [Qs]
+Rebmucuc39 joins the table at seat #1 
+kubancheg: checks 
+egeberg: bets $0.79
+kubancheg: folds 
+Uncalled bet ($0.79) returned to egeberg
+egeberg collected $1.58 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [Qh Qc 4d Qs]
+Seat 2: egeberg (button) collected ($1.58)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded on the Turn
+Seat 5: cao87 folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947372921:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:03:25 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 2: egeberg ($10.34 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($4.80 in chips) 
+Seat 5: cao87 ($12.61 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+kubancheg: posts small blind $0.05
+cao87: posts big blind $0.10
+Rebmucuc39: sits out 
+*** HOLE CARDS ***
+i like gosu: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: calls $0.05
+cao87: checks 
+*** FLOP *** [8s Jd 6c]
+kubancheg: checks 
+cao87: checks 
+egeberg: bets $0.29
+kubancheg: folds 
+cao87: folds 
+Uncalled bet ($0.29) returned to egeberg
+egeberg collected $0.29 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8s Jd 6c]
+Seat 2: egeberg collected ($0.29)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded on the Flop
+Seat 5: cao87 (big blind) folded on the Flop
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947381517:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:02 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 2: egeberg ($10.53 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($4.70 in chips) 
+Seat 5: cao87 ($12.51 in chips) 
+Seat 6: i like gosu ($23.86 in chips) 
+cao87: posts small blind $0.05
+i like gosu: posts big blind $0.10
+Rebmucuc39: sits out 
+*** HOLE CARDS ***
+egeberg: raises $0.25 to $0.35
+xxxbohunxxx: folds 
+kubancheg: folds 
+cao87: folds 
+i like gosu: calls $0.25
+*** FLOP *** [8s Jh 7c]
+i like gosu: checks 
+egeberg: bets $0.36
+i like gosu: calls $0.36
+*** TURN *** [8s Jh 7c] [Ad]
+i like gosu: checks 
+egeberg: bets $0.70
+i like gosu: calls $0.70
+*** RIVER *** [8s Jh 7c Ad] [9c]
+i like gosu: checks 
+egeberg: checks 
+*** SHOW DOWN ***
+i like gosu: shows [Ac Qs] (a pair of Aces)
+egeberg: shows [Qh As] (a pair of Aces)
+i like gosu collected $1.37 from pot
+egeberg collected $1.37 from pot
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.13 
+Board [8s Jh 7c Ad 9c]
+Seat 2: egeberg showed [Qh As] and won ($1.37) with a pair of Aces
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: cao87 (small blind) folded before Flop
+Seat 6: i like gosu (big blind) showed [Ac Qs] and won ($1.37) with a pair of Aces
+
+
+
+PokerStars Hand #222947394112:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:04:56 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10 in chips) 
+Seat 2: egeberg ($10.49 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($4.70 in chips) 
+Seat 5: cao87 ($12.46 in chips) 
+Seat 6: i like gosu ($23.82 in chips) 
+i like gosu: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+cao87: folds 
+i like gosu: folds 
+Rebmucuc39: calls $0.20
+*** FLOP *** [3h 7c Qd]
+Rebmucuc39: checks 
+cao87 was removed from the table for failing to post
+cao87 leaves the table
+kubancheg: bets $0.31
+Rebmucuc39: calls $0.31
+*** TURN *** [3h 7c Qd] [5d]
+Rebmucuc39: checks 
+kubancheg: bets $0.60
+Rebmucuc39: raises $0.80 to $1.40
+kubancheg: folds 
+Uncalled bet ($0.80) returned to Rebmucuc39
+Rebmucuc39 collected $2.36 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [3h 7c Qd 5d]
+Seat 1: Rebmucuc39 (big blind) collected ($2.36)
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the Turn
+Seat 5: cao87 (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947405133:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:05:44 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($11.15 in chips) 
+Seat 2: egeberg ($10.49 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($3.49 in chips) 
+Seat 6: i like gosu ($23.77 in chips) 
+Rebmucuc39: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.10 to $0.20
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: calls $0.10
+*** FLOP *** [Th Jh 5h]
+egeberg: checks 
+kubancheg: checks 
+*** TURN *** [Th Jh 5h] [8h]
+egeberg: bets $0.21
+kubancheg: folds 
+Uncalled bet ($0.21) returned to egeberg
+egeberg collected $0.43 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Th Jh 5h 8h]
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: egeberg (big blind) collected ($0.43)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the Turn
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947408151:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:05:57 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($11.10 in chips) 
+Seat 2: egeberg ($10.72 in chips) 
+Seat 3: xxxbohunxxx ($10.15 in chips) 
+Seat 4: kubancheg ($3.29 in chips) 
+Seat 6: i like gosu ($23.77 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: raises $0.20 to $0.30
+i like gosu: folds 
+tokuch1_toua joins the table at seat #5 
+Rebmucuc39: folds 
+egeberg: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.20) returned to kubancheg
+kubancheg collected $0.25 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: egeberg (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: kubancheg collected ($0.25)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947410398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:06 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($11.10 in chips) 
+Seat 2: egeberg ($10.67 in chips) 
+Seat 3: xxxbohunxxx ($10.05 in chips) 
+Seat 4: kubancheg ($3.44 in chips) 
+Seat 6: i like gosu ($23.77 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+tokuch1_toua: sits out 
+*** HOLE CARDS ***
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.05) returned to kubancheg
+kubancheg collected $0.10 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg (button) folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) collected ($0.10)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947413078:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:18 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($11.10 in chips) 
+Seat 2: egeberg ($10.67 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($3.49 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($23.77 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: checks 
+*** FLOP *** [9d 9s 5c]
+tokuch1_toua: checks 
+egeberg: checks 
+*** TURN *** [9d 9s 5c] [6s]
+tokuch1_toua: bets $0.10
+egeberg: calls $0.10
+*** RIVER *** [9d 9s 5c 6s] [7s]
+tokuch1_toua: checks 
+egeberg: checks 
+*** SHOW DOWN ***
+tokuch1_toua: shows [Kh 6d] (two pair, Nines and Sixes)
+egeberg: mucks hand 
+tokuch1_toua collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9d 9s 5c 6s 7s]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg mucked
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: tokuch1_toua (big blind) showed [Kh 6d] and won ($0.43) with two pair, Nines and Sixes
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947421609:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:06:55 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($11.10 in chips) 
+Seat 2: egeberg ($10.47 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($3.44 in chips) 
+Seat 5: tokuch1_toua ($10.23 in chips) 
+Seat 6: i like gosu ($23.77 in chips) 
+tokuch1_toua: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+egeberg: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: raises $0.20 to $0.30
+i like gosu: raises $0.60 to $0.90
+tokuch1_toua: folds 
+Uncalled bet ($0.60) returned to i like gosu
+i like gosu collected $0.60 from pot
+i like gosu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (small blind) folded before Flop
+Seat 6: i like gosu (big blind) collected ($0.60)
+
+
+
+PokerStars Hand #222947425718:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:13 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($11.10 in chips) 
+Seat 2: egeberg ($10.47 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($3.44 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($24.07 in chips) 
+i like gosu: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+i like gosu: folds 
+Rebmucuc39: checks 
+*** FLOP *** [Kh 5h 7s]
+Rebmucuc39: checks 
+egeberg: bets $0.12
+Rebmucuc39: folds 
+Uncalled bet ($0.12) returned to egeberg
+egeberg collected $0.24 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh 5h 7s]
+Seat 1: Rebmucuc39 (big blind) folded on the Flop
+Seat 2: egeberg collected ($0.24)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947431648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:07:39 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($11 in chips) 
+Seat 2: egeberg ($10.61 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($3.44 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($24.02 in chips) 
+Rebmucuc39: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: calls $0.30
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: calls $0.20
+*** FLOP *** [4c 7s 4s]
+egeberg: checks 
+kubancheg: bets $0.65
+tokuch1_toua: folds 
+egeberg: calls $0.65
+*** TURN *** [4c 7s 4s] [5d]
+egeberg: checks 
+kubancheg: checks 
+*** RIVER *** [4c 7s 4s 5d] [Kd]
+egeberg: bets $1.07
+kubancheg: folds 
+Uncalled bet ($1.07) returned to egeberg
+egeberg collected $2.15 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4c 7s 4s 5d Kd]
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: egeberg (big blind) collected ($2.15)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the River
+Seat 5: tokuch1_toua folded on the Flop
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947437990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:06 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($10.95 in chips) 
+Seat 2: egeberg ($11.81 in chips) 
+Seat 3: xxxbohunxxx ($10 in chips) 
+Seat 4: kubancheg ($2.49 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($24.02 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+tokuch1_toua: folds 
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: calls $0.05
+xxxbohunxxx: checks 
+*** FLOP *** [6h 5h Ks]
+egeberg: checks 
+xxxbohunxxx: bets $0.14
+egeberg: folds 
+Uncalled bet ($0.14) returned to xxxbohunxxx
+xxxbohunxxx collected $0.19 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6h 5h Ks]
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: egeberg (small blind) folded on the Flop
+Seat 3: xxxbohunxxx (big blind) collected ($0.19)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947444447:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:33 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($10.95 in chips) 
+Seat 2: egeberg ($11.71 in chips) 
+Seat 3: xxxbohunxxx ($10.09 in chips) 
+Seat 4: kubancheg ($2.49 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($24.02 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+tokuch1_toua: folds 
+i like gosu: folds 
+Rebmucuc39 has timed out
+Rebmucuc39: folds 
+egeberg: raises $0.25 to $0.35
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($0.25) returned to egeberg
+egeberg collected $0.25 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg (button) collected ($0.25)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947449469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:55 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($10.95 in chips) 
+Seat 2: egeberg ($11.86 in chips) 
+Seat 3: xxxbohunxxx ($10.04 in chips) 
+Seat 4: kubancheg ($2.39 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($24.02 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: raises $0.25 to $0.35
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: raises $0.97 to $1.32
+egeberg: raises $2.69 to $4.01
+tokuch1_toua: folds 
+Uncalled bet ($2.69) returned to egeberg
+egeberg collected $2.69 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.69 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg collected ($2.69)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: tokuch1_toua (big blind) folded before Flop
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947455529:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:21 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.95 in chips) 
+Seat 2: egeberg ($13.23 in chips) 
+Seat 3: xxxbohunxxx ($10.04 in chips) 
+Seat 4: kubancheg ($2.34 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($24.02 in chips) 
+tokuch1_toua: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+egeberg: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: calls $0.10
+tokuch1_toua: folds 
+i like gosu: checks 
+*** FLOP *** [2d Jh 9h]
+i like gosu: checks 
+egeberg: bets $0.16
+kubancheg: calls $0.16
+i like gosu: folds 
+*** TURN *** [2d Jh 9h] [5h]
+egeberg: bets $0.32
+kubancheg: calls $0.32
+*** RIVER *** [2d Jh 9h 5h] [6d]
+egeberg: bets $1.25
+kubancheg: raises $0.51 to $1.76 and is all-in
+egeberg: calls $0.51
+*** SHOW DOWN ***
+kubancheg: shows [7h 8s] (a straight, Five to Nine)
+egeberg: shows [7d Jd] (a pair of Jacks)
+kubancheg collected $4.61 from pot
+*** SUMMARY ***
+Total pot $4.83 | Rake $0.22 
+Board [2d Jh 9h 5h 6d]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg showed [7d Jd] and lost with a pair of Jacks
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) showed [7h 8s] and won ($4.61) with a straight, Five to Nine
+Seat 5: tokuch1_toua (small blind) folded before Flop
+Seat 6: i like gosu (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222947462324:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:50 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10.95 in chips) 
+Seat 2: egeberg ($10.89 in chips) 
+Seat 3: xxxbohunxxx ($10.04 in chips) 
+Seat 4: kubancheg ($4.61 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($23.92 in chips) 
+i like gosu: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+egeberg: folds 
+xxxbohunxxx: raises $0.20 to $0.30
+kubancheg: folds 
+tokuch1_toua: calls $0.30
+i like gosu: folds 
+Rebmucuc39: folds 
+*** FLOP *** [Kc 7d 4s]
+xxxbohunxxx: bets $0.43
+tokuch1_toua: folds 
+Uncalled bet ($0.43) returned to xxxbohunxxx
+xxxbohunxxx collected $0.72 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kc 7d 4s]
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx collected ($0.72)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (button) folded on the Flop
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947467626:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:13 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($10.85 in chips) 
+Seat 2: egeberg ($10.89 in chips) 
+Seat 3: xxxbohunxxx ($10.46 in chips) 
+Seat 4: kubancheg ($4.61 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($23.87 in chips) 
+Rebmucuc39: posts small blind $0.05
+egeberg: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+i like gosu: folds 
+Rebmucuc39: folds 
+Uncalled bet ($0.05) returned to egeberg
+egeberg collected $0.10 from pot
+egeberg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: egeberg (big blind) collected ($0.10)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947470717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:26 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($10.80 in chips) 
+Seat 2: egeberg ($10.94 in chips) 
+Seat 3: xxxbohunxxx ($10.46 in chips) 
+Seat 4: kubancheg ($4.61 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($23.87 in chips) 
+egeberg: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+tokuch1_toua: folds 
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: calls $0.05
+xxxbohunxxx: raises $0.30 to $0.40
+egeberg: calls $0.30
+*** FLOP *** [4c 3s 3c]
+egeberg: checks 
+xxxbohunxxx: checks 
+*** TURN *** [4c 3s 3c] [2c]
+egeberg: checks 
+xxxbohunxxx: bets $0.46
+egeberg: folds 
+Uncalled bet ($0.46) returned to xxxbohunxxx
+xxxbohunxxx collected $0.76 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [4c 3s 3c 2c]
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: egeberg (small blind) folded on the Turn
+Seat 3: xxxbohunxxx (big blind) collected ($0.76)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947487219:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:37 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($10.80 in chips) 
+Seat 2: egeberg ($10.54 in chips) 
+Seat 3: xxxbohunxxx ($10.82 in chips) 
+Seat 4: kubancheg ($4.61 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: i like gosu ($23.87 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+tokuch1_toua: raises $0.20 to $0.30
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: calls $0.30
+xxxbohunxxx: folds 
+kubancheg: calls $0.20
+*** FLOP *** [Th 6h 9h]
+kubancheg: checks 
+tokuch1_toua: bets $0.41
+egeberg: folds 
+kubancheg: folds 
+Uncalled bet ($0.41) returned to tokuch1_toua
+tokuch1_toua collected $0.91 from pot
+tokuch1_toua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Th 6h 9h]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg (button) folded on the Flop
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded on the Flop
+Seat 5: tokuch1_toua collected ($0.91)
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947493817:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:05 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($10.80 in chips) 
+Seat 2: egeberg ($10.24 in chips) 
+Seat 3: xxxbohunxxx ($10.77 in chips) 
+Seat 4: kubancheg ($4.31 in chips) 
+Seat 5: tokuch1_toua ($10.61 in chips) 
+Seat 6: i like gosu ($23.87 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+*** HOLE CARDS ***
+i like gosu: folds 
+Rebmucuc39: folds 
+egeberg: folds 
+egeberg leaves the table
+xxxbohunxxx: raises $0.15 to $0.25
+kubancheg: folds 
+tokuch1_toua: folds 
+Uncalled bet ($0.15) returned to xxxbohunxxx
+xxxbohunxxx collected $0.25 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: egeberg folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) collected ($0.25)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: tokuch1_toua (big blind) folded before Flop
+Seat 6: i like gosu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947497368:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:20 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.80 in chips) 
+Seat 3: xxxbohunxxx ($10.92 in chips) 
+Seat 4: kubancheg ($4.26 in chips) 
+Seat 5: tokuch1_toua ($10.51 in chips) 
+Seat 6: i like gosu ($23.87 in chips) 
+tokuch1_toua: posts small blind $0.05
+i like gosu: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: folds 
+i like gosu: folds 
+Uncalled bet ($0.20) returned to kubancheg
+kubancheg collected $0.25 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) collected ($0.25)
+Seat 5: tokuch1_toua (small blind) folded before Flop
+Seat 6: i like gosu (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947500097:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:31 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10.80 in chips) 
+Seat 3: xxxbohunxxx ($10.92 in chips) 
+Seat 4: kubancheg ($4.41 in chips) 
+Seat 5: tokuch1_toua ($10.46 in chips) 
+Seat 6: i like gosu ($23.77 in chips) 
+i like gosu: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+fukuchan2631 joins the table at seat #2 
+xxxbohunxxx: folds 
+kubancheg: calls $0.10
+tokuch1_toua: folds 
+i like gosu: folds 
+Rebmucuc39: raises $0.40 to $0.50
+kubancheg: calls $0.40
+*** FLOP *** [7d 3c Tc]
+Rebmucuc39: bets $0.60
+kubancheg: folds 
+Uncalled bet ($0.60) returned to Rebmucuc39
+Rebmucuc39 collected $1 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [7d 3c Tc]
+Seat 1: Rebmucuc39 (big blind) collected ($1)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the Flop
+Seat 5: tokuch1_toua (button) folded before Flop (didn't bet)
+Seat 6: i like gosu (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947505653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:55 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($11.30 in chips) 
+Seat 2: fukuchan2631 ($4.40 in chips) 
+Seat 3: xxxbohunxxx ($10.92 in chips) 
+Seat 4: kubancheg ($3.91 in chips) 
+Seat 5: tokuch1_toua ($10.46 in chips) 
+Seat 6: i like gosu ($23.72 in chips) 
+Rebmucuc39: posts small blind $0.05
+fukuchan2631: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+i like gosu: raises $0.19 to $0.29
+Rebmucuc39: raises $0.71 to $1
+fukuchan2631: folds 
+i like gosu: calls $0.71
+*** FLOP *** [Qc 9h 2d]
+Rebmucuc39: bets $0.70
+i like gosu: calls $0.70
+*** TURN *** [Qc 9h 2d] [7s]
+Rebmucuc39: bets $2.30
+i like gosu: folds 
+Uncalled bet ($2.30) returned to Rebmucuc39
+Rebmucuc39 collected $3.34 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.16 
+Board [Qc 9h 2d 7s]
+Seat 1: Rebmucuc39 (small blind) collected ($3.34)
+Seat 2: fukuchan2631 (big blind) folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: i like gosu (button) folded on the Turn
+
+
+
+PokerStars Hand #222947518604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:49 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($12.94 in chips) 
+Seat 2: fukuchan2631 ($4.30 in chips) 
+Seat 3: xxxbohunxxx ($10.92 in chips) 
+Seat 4: kubancheg ($3.91 in chips) 
+Seat 5: tokuch1_toua ($10.46 in chips) 
+i like gosu leaves the table
+fukuchan2631: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+tokuch1_toua: folds 
+lucima10 joins the table at seat #6 
+Rebmucuc39: raises $0.20 to $0.30
+fukuchan2631: calls $0.25
+xxxbohunxxx: folds 
+*** FLOP *** [4h Qh Tc]
+fukuchan2631: checks 
+Rebmucuc39: checks 
+*** TURN *** [4h Qh Tc] [Ts]
+fukuchan2631: bets $0.30
+Rebmucuc39: calls $0.30
+*** RIVER *** [4h Qh Tc Ts] [Jd]
+fukuchan2631: checks 
+Rebmucuc39: checks 
+*** SHOW DOWN ***
+fukuchan2631: shows [Ks Qc] (two pair, Queens and Tens)
+Rebmucuc39: mucks hand 
+fukuchan2631 collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [4h Qh Tc Ts Jd]
+Seat 1: Rebmucuc39 (button) mucked
+Seat 2: fukuchan2631 (small blind) showed [Ks Qc] and won ($1.24) with two pair, Queens and Tens
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947527918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:14:28 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($12.34 in chips) 
+Seat 2: fukuchan2631 ($4.94 in chips) 
+Seat 3: xxxbohunxxx ($10.82 in chips) 
+Seat 4: kubancheg ($3.91 in chips) 
+Seat 5: tokuch1_toua ($10.46 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+lucima10: sits out 
+*** HOLE CARDS ***
+tokuch1_toua: folds 
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: raises $0.30 to $0.40
+fukuchan2631: calls $0.30
+*** FLOP *** [Qd Td 7d]
+kubancheg: bets $0.40
+fukuchan2631: folds 
+Uncalled bet ($0.40) returned to kubancheg
+kubancheg collected $0.81 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Qd Td 7d]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (button) folded on the Flop
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) collected ($0.81)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947532306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:14:47 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($12.34 in chips) 
+Seat 2: fukuchan2631 ($4.54 in chips) 
+Seat 3: xxxbohunxxx ($10.77 in chips) 
+Seat 4: kubancheg ($4.32 in chips) 
+Seat 5: tokuch1_toua ($10.46 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+lucima10: sits out 
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: folds 
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: calls $0.20
+*** FLOP *** [9h 8c 5c]
+kubancheg: bets $0.28
+tokuch1_toua: calls $0.28
+*** TURN *** [9h 8c 5c] [4c]
+kubancheg: checks 
+tokuch1_toua: bets $0.55
+kubancheg: folds 
+Uncalled bet ($0.55) returned to tokuch1_toua
+tokuch1_toua collected $1.11 from pot
+tokuch1_toua: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [9h 8c 5c 4c]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded on the Turn
+Seat 5: tokuch1_toua (big blind) collected ($1.11)
+
+
+
+PokerStars Hand #222947543053:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:32 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($12.34 in chips) 
+Seat 2: fukuchan2631 ($4.54 in chips) 
+Seat 3: xxxbohunxxx ($10.77 in chips) 
+Seat 4: kubancheg ($3.74 in chips) 
+Seat 5: tokuch1_toua ($10.99 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+tokuch1_toua: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: folds 
+xxxbohunxxx: folds 
+kubancheg: calls $0.10
+tokuch1_toua: folds 
+lucima10: checks 
+*** FLOP *** [9c 7s 8c]
+lucima10: checks 
+kubancheg: bets $0.24
+lucima10: folds 
+Uncalled bet ($0.24) returned to kubancheg
+kubancheg collected $0.24 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c 7s 8c]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) collected ($0.24)
+Seat 5: tokuch1_toua (small blind) folded before Flop
+Seat 6: lucima10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222947548855:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:15:56 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($12.34 in chips) 
+Seat 2: fukuchan2631 ($4.54 in chips) 
+Seat 3: xxxbohunxxx ($10.77 in chips) 
+Seat 4: kubancheg ($3.88 in chips) 
+Seat 5: tokuch1_toua ($10.94 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+lucima10: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+fukuchan2631: folds 
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: raises $0.60 to $0.90
+lucima10: folds 
+Rebmucuc39: folds 
+kubancheg: calls $0.60
+*** FLOP *** [5s As Jd]
+kubancheg: checks 
+tokuch1_toua: bets $0.63
+kubancheg: calls $0.63
+*** TURN *** [5s As Jd] [6s]
+kubancheg: checks 
+tokuch1_toua: bets $2.30
+kubancheg: raises $0.05 to $2.35 and is all-in
+tokuch1_toua: calls $0.05
+*** RIVER *** [5s As Jd 6s] [6h]
+*** SHOW DOWN ***
+kubancheg: shows [Ad Kh] (two pair, Aces and Sixes)
+tokuch1_toua: shows [Ah Qs] (two pair, Aces and Sixes - lower kicker)
+kubancheg collected $7.55 from pot
+*** SUMMARY ***
+Total pot $7.91 | Rake $0.36 
+Board [5s As Jd 6s 6h]
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 2: fukuchan2631 folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg showed [Ad Kh] and won ($7.55) with two pair, Aces and Sixes
+Seat 5: tokuch1_toua (button) showed [Ah Qs] and lost with two pair, Aces and Sixes
+Seat 6: lucima10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947556349:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:16:28 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($12.24 in chips) 
+Seat 2: fukuchan2631 ($4.54 in chips) 
+Seat 3: xxxbohunxxx ($10.77 in chips) 
+Seat 4: kubancheg ($7.55 in chips) 
+Seat 5: tokuch1_toua ($10 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+Rebmucuc39: posts small blind $0.05
+fukuchan2631: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: raises $0.60 to $0.90
+lucima10: folds 
+Rebmucuc39: folds 
+fukuchan2631: folds 
+kubancheg: calls $0.60
+*** FLOP *** [9s 9c Td]
+kubancheg: checks 
+tokuch1_toua: bets $0.63
+kubancheg: calls $0.63
+*** TURN *** [9s 9c Td] [7d]
+kubancheg: checks 
+tokuch1_toua: bets $1.55
+kubancheg: folds 
+Uncalled bet ($1.55) returned to tokuch1_toua
+tokuch1_toua collected $3.07 from pot
+tokuch1_toua: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.21 | Rake $0.14 
+Board [9s 9c Td 7d]
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: fukuchan2631 (big blind) folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the Turn
+Seat 5: tokuch1_toua collected ($3.07)
+Seat 6: lucima10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947565617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:07 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($12.19 in chips) 
+Seat 2: fukuchan2631 ($4.44 in chips) 
+Seat 3: xxxbohunxxx ($10.77 in chips) 
+Seat 4: kubancheg ($6.02 in chips) 
+Seat 5: tokuch1_toua ($11.54 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+fukuchan2631: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+tokuch1_toua: folds 
+lucima10: folds 
+Rebmucuc39: folds 
+fukuchan2631: raises $0.10 to $0.20
+xxxbohunxxx: folds 
+Uncalled bet ($0.10) returned to fukuchan2631
+fukuchan2631 collected $0.20 from pot
+fukuchan2631: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (small blind) collected ($0.20)
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: lucima10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947570161:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:26 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($12.19 in chips) 
+Seat 2: fukuchan2631 ($4.54 in chips) 
+Seat 3: xxxbohunxxx ($10.67 in chips) 
+Seat 4: kubancheg ($6.02 in chips) 
+Seat 5: tokuch1_toua ($11.54 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+tokuch1_toua: raises $0.20 to $0.30
+lucima10: raises $0.80 to $1.10
+Rebmucuc39: folds 
+fukuchan2631: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: raises $2.25 to $3.35
+lucima10: folds 
+Uncalled bet ($2.25) returned to tokuch1_toua
+tokuch1_toua collected $2.35 from pot
+tokuch1_toua: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (button) folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: tokuch1_toua collected ($2.35)
+Seat 6: lucima10 folded before Flop
+
+
+
+PokerStars Hand #222947577446:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:17:57 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($12.19 in chips) 
+Seat 2: fukuchan2631 ($4.54 in chips) 
+Seat 3: xxxbohunxxx ($10.62 in chips) 
+Seat 4: kubancheg ($5.92 in chips) 
+Seat 5: tokuch1_toua ($12.79 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Rebmucuc39: raises $0.20 to $0.30
+fukuchan2631: calls $0.30
+xxxbohunxxx: folds 
+kubancheg: calls $0.25
+tokuch1_toua: folds 
+*** FLOP *** [6h 2d 3h]
+kubancheg: checks 
+Rebmucuc39: bets $0.70
+fukuchan2631: raises $1.18 to $1.88
+kubancheg: folds 
+Rebmucuc39: calls $1.18
+*** TURN *** [6h 2d 3h] [5h]
+Rebmucuc39: checks 
+fukuchan2631: bets $2.36 and is all-in
+Rebmucuc39: folds 
+Uncalled bet ($2.36) returned to fukuchan2631
+fukuchan2631 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.76 | Rake $0.21 
+Board [6h 2d 3h 5h]
+Seat 1: Rebmucuc39 folded on the Turn
+Seat 2: fukuchan2631 collected ($4.55)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded on the Flop
+Seat 5: tokuch1_toua (big blind) folded before Flop
+Seat 6: lucima10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947593999:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:06 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.01 in chips) 
+Seat 2: fukuchan2631 ($6.91 in chips) 
+Seat 3: xxxbohunxxx ($10.62 in chips) 
+Seat 4: kubancheg ($5.62 in chips) 
+Seat 5: tokuch1_toua ($12.69 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+tokuch1_toua: posts small blind $0.05
+lucima10: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: raises $0.40 to $0.50
+lucima10: folds 
+fukuchan2631: calls $0.40
+*** FLOP *** [6c 7c 7s]
+tokuch1_toua: checks 
+fukuchan2631: checks 
+*** TURN *** [6c 7c 7s] [8h]
+tokuch1_toua: bets $0.47
+fukuchan2631: raises $0.47 to $0.94
+tokuch1_toua: folds 
+Uncalled bet ($0.47) returned to fukuchan2631
+fukuchan2631 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [6c 7c 7s 8h]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 collected ($1.95)
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (small blind) folded on the Turn
+Seat 6: lucima10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947600645:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:34 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10.01 in chips) 
+Seat 2: fukuchan2631 ($7.89 in chips) 
+Seat 3: xxxbohunxxx ($10.62 in chips) 
+Seat 4: kubancheg ($5.62 in chips) 
+Seat 5: tokuch1_toua ($11.72 in chips) 
+Seat 6: lucima10 ($10 in chips) 
+lucima10: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+fukuchan2631: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+lucima10: raises $0.50 to $0.60
+Rebmucuc39: folds 
+fukuchan2631: folds 
+Uncalled bet ($0.50) returned to lucima10
+lucima10 collected $0.30 from pot
+lucima10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 2: fukuchan2631 folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (button) folded before Flop (didn't bet)
+Seat 6: lucima10 (small blind) collected ($0.30)
+
+
+
+PokerStars Hand #222947605398:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:19:53 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($9.91 in chips) 
+Seat 2: fukuchan2631 ($7.79 in chips) 
+Seat 3: xxxbohunxxx ($10.62 in chips) 
+Seat 4: kubancheg ($5.62 in chips) 
+Seat 5: tokuch1_toua ($11.72 in chips) 
+Seat 6: lucima10 ($10.20 in chips) 
+Rebmucuc39: posts small blind $0.05
+fukuchan2631: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: raises $0.60 to $0.90
+lucima10: folds 
+Rebmucuc39: folds 
+fukuchan2631: folds 
+kubancheg: calls $0.60
+*** FLOP *** [3h 9h Jd]
+kubancheg: checks 
+tokuch1_toua: checks 
+*** TURN *** [3h 9h Jd] [Qc]
+kubancheg: bets $0.93
+tokuch1_toua: raises $9.89 to $10.82 and is all-in
+kubancheg: folds 
+Uncalled bet ($9.89) returned to tokuch1_toua
+tokuch1_toua collected $3.64 from pot
+tokuch1_toua: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.81 | Rake $0.17 
+Board [3h 9h Jd Qc]
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: fukuchan2631 (big blind) folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded on the Turn
+Seat 5: tokuch1_toua collected ($3.64)
+Seat 6: lucima10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947613208:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:25 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($9.86 in chips) 
+Seat 2: fukuchan2631 ($7.69 in chips) 
+Seat 3: xxxbohunxxx ($10.62 in chips) 
+Seat 4: kubancheg ($3.79 in chips) 
+Seat 5: tokuch1_toua ($13.53 in chips) 
+Seat 6: lucima10 ($10.20 in chips) 
+fukuchan2631: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+tokuch1_toua: folds 
+lucima10: folds 
+Rebmucuc39: raises $0.20 to $0.30
+fukuchan2631: folds 
+xxxbohunxxx: folds 
+Uncalled bet ($0.20) returned to Rebmucuc39
+Rebmucuc39 collected $0.25 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 (button) collected ($0.25)
+Seat 2: fukuchan2631 (small blind) folded before Flop
+Seat 3: xxxbohunxxx (big blind) folded before Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: lucima10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947616118:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:37 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($10.01 in chips) 
+Seat 2: fukuchan2631 ($7.64 in chips) 
+Seat 3: xxxbohunxxx ($10.52 in chips) 
+Seat 4: kubancheg ($3.79 in chips) 
+Seat 5: tokuch1_toua ($13.53 in chips) 
+Seat 6: lucima10 ($10.20 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+tokuch1_toua: folds 
+lucima10: folds 
+Rebmucuc39: folds 
+fukuchan2631: raises $0.10 to $0.20
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($0.10) returned to fukuchan2631
+fukuchan2631 collected $0.25 from pot
+fukuchan2631: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (button) collected ($0.25)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: lucima10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947619375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:20:51 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($10.01 in chips) 
+Seat 2: fukuchan2631 ($7.79 in chips) 
+Seat 3: xxxbohunxxx ($10.47 in chips) 
+Seat 4: kubancheg ($3.69 in chips) 
+Seat 5: tokuch1_toua ($13.53 in chips) 
+Seat 6: lucima10 ($10.20 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+*** HOLE CARDS ***
+lucima10: folds 
+Rebmucuc39: folds 
+fukuchan2631: raises $0.10 to $0.20
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+Uncalled bet ($0.10) returned to fukuchan2631
+fukuchan2631 collected $0.25 from pot
+fukuchan2631: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 collected ($0.25)
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: tokuch1_toua (big blind) folded before Flop
+Seat 6: lucima10 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947622414:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:21:04 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.01 in chips) 
+Seat 2: fukuchan2631 ($7.94 in chips) 
+Seat 3: xxxbohunxxx ($10.47 in chips) 
+Seat 4: kubancheg ($3.64 in chips) 
+Seat 5: tokuch1_toua ($13.43 in chips) 
+tokuch1_toua: posts small blind $0.05
+lucima10: is sitting out 
+lucima10 leaves the table
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+fukuchan2631: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+Rebmucuc39: raises $0.50 to $0.60
+fukuchan2631: folds 
+Uncalled bet ($0.50) returned to Rebmucuc39
+Rebmucuc39 collected $0.25 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 (big blind) collected ($0.25)
+Seat 2: fukuchan2631 folded before Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947625447:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:21:17 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10.16 in chips) 
+Seat 2: fukuchan2631 ($7.84 in chips) 
+Seat 3: xxxbohunxxx ($10.47 in chips) 
+Seat 4: kubancheg ($3.64 in chips) 
+Seat 5: tokuch1_toua ($13.38 in chips) 
+Rebmucuc39: posts small blind $0.05
+fukuchan2631: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: raises $0.20 to $0.30
+tokuch1_toua: folds 
+Rebmucuc39: folds 
+fukuchan2631: calls $0.20
+*** FLOP *** [4h 2c Js]
+fukuchan2631: checks 
+kubancheg: bets $0.31
+fukuchan2631: folds 
+Uncalled bet ($0.31) returned to kubancheg
+kubancheg collected $0.62 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4h 2c Js]
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: fukuchan2631 (big blind) folded on the Flop
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg collected ($0.62)
+Seat 5: tokuch1_toua (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947630892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:21:39 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($10.11 in chips) 
+Seat 2: fukuchan2631 ($7.54 in chips) 
+Seat 3: xxxbohunxxx ($10.47 in chips) 
+Seat 4: kubancheg ($3.96 in chips) 
+Seat 5: tokuch1_toua ($13.38 in chips) 
+fukuchan2631: posts small blind $0.05
+xxxbohunxxx: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+tokuch1_toua: folds 
+Rebmucuc39: folds 
+fukuchan2631: calls $0.05
+xxxbohunxxx: checks 
+*** FLOP *** [As 7s 7d]
+fukuchan2631: bets $0.10
+xxxbohunxxx: folds 
+Uncalled bet ($0.10) returned to fukuchan2631
+fukuchan2631 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [As 7s 7d]
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (small blind) collected ($0.19)
+Seat 3: xxxbohunxxx (big blind) folded on the Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947635907:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:00 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($10.11 in chips) 
+Seat 2: fukuchan2631 ($7.63 in chips) 
+Seat 3: xxxbohunxxx ($10.37 in chips) 
+Seat 4: kubancheg ($3.96 in chips) 
+Seat 5: tokuch1_toua ($13.38 in chips) 
+xxxbohunxxx: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+tokuch1_toua: folds 
+Rebmucuc39: raises $0.20 to $0.30
+fukuchan2631: folds 
+xxxbohunxxx: folds 
+kubancheg: folds 
+Uncalled bet ($0.20) returned to Rebmucuc39
+Rebmucuc39 collected $0.25 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 collected ($0.25)
+Seat 2: fukuchan2631 (button) folded before Flop (didn't bet)
+Seat 3: xxxbohunxxx (small blind) folded before Flop
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947639603:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:16 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($10.26 in chips) 
+Seat 2: fukuchan2631 ($7.63 in chips) 
+Seat 3: xxxbohunxxx ($10.32 in chips) 
+Seat 4: kubancheg ($3.86 in chips) 
+Seat 5: tokuch1_toua ($13.38 in chips) 
+kubancheg: posts small blind $0.05
+tokuch1_toua: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: raises $0.30 to $0.40
+tokuch1_toua: folds 
+fukuchan2631: calls $0.30
+*** FLOP *** [9c Ah 3h]
+kubancheg: bets $0.43
+fukuchan2631: folds 
+Uncalled bet ($0.43) returned to kubancheg
+kubancheg collected $0.86 from pot
+kubancheg: doesn't show hand 
+I´m Grinder joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [9c Ah 3h]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 folded on the Flop
+Seat 3: xxxbohunxxx (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) collected ($0.86)
+Seat 5: tokuch1_toua (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947645886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:22:42 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.26 in chips) 
+Seat 2: fukuchan2631 ($7.23 in chips) 
+Seat 3: xxxbohunxxx ($10.32 in chips) 
+Seat 4: kubancheg ($4.32 in chips) 
+Seat 5: tokuch1_toua ($13.28 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+tokuch1_toua: posts small blind $0.05
+I´m Grinder: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+xxxbohunxxx: raises $0.30 to $0.40
+kubancheg: folds 
+tokuch1_toua: folds 
+I´m Grinder: folds 
+fukuchan2631: calls $0.30
+*** FLOP *** [Ad 6d 9d]
+fukuchan2631: checks 
+xxxbohunxxx: bets $0.55
+fukuchan2631: folds 
+Uncalled bet ($0.55) returned to xxxbohunxxx
+xxxbohunxxx collected $0.91 from pot
+xxxbohunxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Ad 6d 9d]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 folded on the Flop
+Seat 3: xxxbohunxxx collected ($0.91)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (small blind) folded before Flop
+Seat 6: I´m Grinder (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947653052:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:23:12 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10.26 in chips) 
+Seat 2: fukuchan2631 ($6.83 in chips) 
+Seat 3: xxxbohunxxx ($10.83 in chips) 
+Seat 4: kubancheg ($4.32 in chips) 
+Seat 5: tokuch1_toua ($13.23 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+I´m Grinder: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+fukuchan2631: calls $0.10
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: raises $0.30 to $0.40
+I´m Grinder: folds 
+Rebmucuc39: folds 
+fukuchan2631: calls $0.30
+*** FLOP *** [7d Ac 2s]
+fukuchan2631: checks 
+tokuch1_toua: checks 
+*** TURN *** [7d Ac 2s] [Jd]
+fukuchan2631: checks 
+tokuch1_toua: bets $0.41
+fukuchan2631: calls $0.41
+*** RIVER *** [7d Ac 2s Jd] [4h]
+fukuchan2631: checks 
+tokuch1_toua: checks 
+*** SHOW DOWN ***
+fukuchan2631: shows [8h 2h] (a pair of Deuces)
+tokuch1_toua: mucks hand 
+fukuchan2631 collected $1.69 from pot
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.08 
+Board [7d Ac 2s Jd 4h]
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 2: fukuchan2631 showed [8h 2h] and won ($1.69) with a pair of Deuces
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua (button) mucked
+Seat 6: I´m Grinder (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947663163:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:23:55 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($10.16 in chips) 
+Seat 2: fukuchan2631 ($7.71 in chips) 
+Seat 3: xxxbohunxxx ($10.83 in chips) 
+Seat 4: kubancheg ($4.32 in chips) 
+Seat 5: tokuch1_toua ($12.42 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+Rebmucuc39: posts small blind $0.05
+fukuchan2631: posts big blind $0.10
+*** HOLE CARDS ***
+xxxbohunxxx: folds 
+kubancheg: folds 
+tokuch1_toua: folds 
+I´m Grinder: raises $0.20 to $0.30
+Rebmucuc39: folds 
+fukuchan2631: calls $0.20
+*** FLOP *** [Ad Kh 3d]
+fukuchan2631: checks 
+I´m Grinder: bets $0.20
+fukuchan2631: calls $0.20
+*** TURN *** [Ad Kh 3d] [8d]
+fukuchan2631: checks 
+I´m Grinder: checks 
+*** RIVER *** [Ad Kh 3d 8d] [2c]
+fukuchan2631: bets $0.40
+I´m Grinder: calls $0.40
+*** SHOW DOWN ***
+fukuchan2631: shows [4c 3c] (a pair of Threes)
+I´m Grinder: shows [Ks 9s] (a pair of Kings)
+I´m Grinder collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [Ad Kh 3d 8d 2c]
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: fukuchan2631 (big blind) showed [4c 3c] and lost with a pair of Threes
+Seat 3: xxxbohunxxx folded before Flop (didn't bet)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: I´m Grinder (button) showed [Ks 9s] and won ($1.77) with a pair of Kings
+
+
+
+PokerStars Hand #222947673312:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:24:36 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($10.11 in chips) 
+Seat 2: fukuchan2631 ($6.81 in chips) 
+Seat 4: kubancheg ($4.32 in chips) 
+Seat 5: tokuch1_toua ($12.42 in chips) 
+Seat 6: I´m Grinder ($10.87 in chips) 
+fukuchan2631: posts small blind $0.05
+xxxbohunxxx: is sitting out 
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+tokuch1_toua: folds 
+xxxbohunxxx leaves the table
+I´m Grinder: raises $0.20 to $0.30
+Rebmucuc39: folds 
+fukuchan2631: calls $0.25
+kubancheg: folds 
+*** FLOP *** [8s 9d Ks]
+tokuch1_toua leaves the table
+fukuchan2631: checks 
+I´m Grinder: bets $0.22
+Roskam962 joins the table at seat #3 
+fukuchan2631 is disconnected 
+fukuchan2631 is connected 
+fukuchan2631: calls $0.22
+*** TURN *** [8s 9d Ks] [8d]
+fukuchan2631: checks 
+I´m Grinder: checks 
+*** RIVER *** [8s 9d Ks 8d] [Jd]
+fukuchan2631: checks 
+I´m Grinder: checks 
+*** SHOW DOWN ***
+fukuchan2631: shows [Td 8c] (three of a kind, Eights)
+I´m Grinder: mucks hand 
+fukuchan2631 collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [8s 9d Ks 8d Jd]
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (small blind) showed [Td 8c] and won ($1.09) with three of a kind, Eights
+Seat 4: kubancheg (big blind) folded before Flop
+Seat 5: tokuch1_toua folded before Flop (didn't bet)
+Seat 6: I´m Grinder mucked
+
+
+
+PokerStars Hand #222947691327:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:25:52 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($10.11 in chips) 
+Seat 2: fukuchan2631 ($7.38 in chips) 
+Seat 4: kubancheg ($4.22 in chips) 
+Seat 6: I´m Grinder ($10.35 in chips) 
+kubancheg: posts small blind $0.05
+I´m Grinder: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+kubancheg: folds 
+I´m Grinder: checks 
+*** FLOP *** [9h 4s 2s]
+I´m Grinder: checks 
+fukuchan2631: checks 
+*** TURN *** [9h 4s 2s] [Kc]
+I´m Grinder: bets $0.16
+fukuchan2631: calls $0.16
+*** RIVER *** [9h 4s 2s Kc] [7s]
+I´m Grinder: checks 
+fukuchan2631: checks 
+*** SHOW DOWN ***
+I´m Grinder: shows [5s 2d] (a pair of Deuces)
+fukuchan2631: shows [6c Ks] (a pair of Kings)
+fukuchan2631 collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03 
+Board [9h 4s 2s Kc 7s]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (button) showed [6c Ks] and won ($0.54) with a pair of Kings
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 6: I´m Grinder (big blind) showed [5s 2d] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #222947698460:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:21 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.11 in chips) 
+Seat 2: fukuchan2631 ($7.66 in chips) 
+Seat 4: kubancheg ($4.17 in chips) 
+Seat 6: I´m Grinder ($10.09 in chips) 
+I´m Grinder: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+Roskam962: sits out 
+*** HOLE CARDS ***
+fukuchan2631: raises $0.10 to $0.20
+kubancheg: calls $0.20
+I´m Grinder: folds 
+Rebmucuc39: folds 
+*** FLOP *** [6c Td 6d]
+fukuchan2631: checks 
+kubancheg: checks 
+*** TURN *** [6c Td 6d] [Js]
+fukuchan2631: bets $0.10
+kubancheg: raises $0.37 to $0.47
+fukuchan2631: calls $0.37
+*** RIVER *** [6c Td 6d Js] [Ac]
+fukuchan2631: checks 
+kubancheg: bets $0.71
+fukuchan2631: calls $0.71
+*** SHOW DOWN ***
+kubancheg: shows [Ah 9h] (two pair, Aces and Sixes)
+fukuchan2631: shows [6h Qc] (three of a kind, Sixes)
+fukuchan2631 collected $2.78 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.13 
+Board [6c Td 6d Js Ac]
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 2: fukuchan2631 showed [6h Qc] and won ($2.78) with three of a kind, Sixes
+Seat 4: kubancheg (button) showed [Ah 9h] and lost with two pair, Aces and Sixes
+Seat 6: I´m Grinder (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947705480:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:26:50 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($10.01 in chips) 
+Seat 2: fukuchan2631 ($9.06 in chips) 
+Seat 4: kubancheg ($2.79 in chips) 
+Seat 6: I´m Grinder ($10.04 in chips) 
+Rebmucuc39: posts small blind $0.05
+fukuchan2631: posts big blind $0.10
+Roskam962: sits out 
+*** HOLE CARDS ***
+kubancheg: folds 
+I´m Grinder: folds 
+4ukoTulo joins the table at seat #5 
+Rebmucuc39: folds 
+Uncalled bet ($0.05) returned to fukuchan2631
+fukuchan2631 collected $0.10 from pot
+fukuchan2631: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 2: fukuchan2631 (big blind) collected ($0.10)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 6: I´m Grinder (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947708580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:03 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($9.96 in chips) 
+Seat 2: fukuchan2631 ($9.11 in chips) 
+Seat 3: Roskam962 ($10 in chips) 
+Seat 4: kubancheg ($2.79 in chips) 
+Seat 6: I´m Grinder ($10.04 in chips) 
+fukuchan2631: posts small blind $0.05
+Roskam962: posts big blind $0.10
+4ukoTulo: sits out 
+*** HOLE CARDS ***
+kubancheg: raises $0.20 to $0.30
+I´m Grinder: folds 
+Rebmucuc39: folds 
+fukuchan2631: calls $0.25
+Roskam962: folds 
+*** FLOP *** [3c 6d 5s]
+fukuchan2631: checks 
+kubancheg: checks 
+*** TURN *** [3c 6d 5s] [Ac]
+fukuchan2631: checks 
+kubancheg: bets $0.67
+fukuchan2631: calls $0.67
+*** RIVER *** [3c 6d 5s Ac] [2d]
+fukuchan2631: checks 
+kubancheg: checks 
+*** SHOW DOWN ***
+fukuchan2631: shows [Kc Ah] (a pair of Aces)
+kubancheg: mucks hand 
+fukuchan2631 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [3c 6d 5s Ac 2d]
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (small blind) showed [Kc Ah] and won ($1.95) with a pair of Aces
+Seat 3: Roskam962 (big blind) folded before Flop
+Seat 4: kubancheg mucked
+Seat 6: I´m Grinder folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947714949:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:29 ET
+Table 'Camelia II' 6-max Seat #2 is the button
+Seat 1: Rebmucuc39 ($9.96 in chips) 
+Seat 2: fukuchan2631 ($10.09 in chips) 
+Seat 3: Roskam962 ($10 in chips) 
+Seat 4: kubancheg ($1.82 in chips) 
+Seat 6: I´m Grinder ($10.04 in chips) 
+Roskam962: posts small blind $0.05
+kubancheg: posts big blind $0.10
+4ukoTulo: sits out 
+*** HOLE CARDS ***
+I´m Grinder: folds 
+Rebmucuc39: folds 
+fukuchan2631: raises $0.10 to $0.20
+Roskam962: folds 
+kubancheg: calls $0.10
+*** FLOP *** [As Ts 7d]
+kubancheg: checks 
+fukuchan2631: checks 
+*** TURN *** [As Ts 7d] [7c]
+kubancheg: checks 
+fukuchan2631: checks 
+*** RIVER *** [As Ts 7d 7c] [9c]
+kubancheg: bets $0.43
+fukuchan2631: calls $0.43
+*** SHOW DOWN ***
+kubancheg: shows [8c 6c] (a straight, Six to Ten)
+fukuchan2631: mucks hand 
+kubancheg collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.06 
+Board [As Ts 7d 7c 9c]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 (button) mucked
+Seat 3: Roskam962 (small blind) folded before Flop
+Seat 4: kubancheg (big blind) showed [8c 6c] and won ($1.25) with a straight, Six to Ten
+Seat 6: I´m Grinder folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947721937:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:27:58 ET
+Table 'Camelia II' 6-max Seat #3 is the button
+Seat 1: Rebmucuc39 ($9.96 in chips) 
+Seat 2: fukuchan2631 ($9.46 in chips) 
+Seat 3: Roskam962 ($10 in chips) 
+Seat 4: kubancheg ($4.62 in chips) 
+Seat 5: 4ukoTulo ($10 in chips) 
+Seat 6: I´m Grinder ($10.04 in chips) 
+kubancheg: posts small blind $0.05
+4ukoTulo: posts big blind $0.10
+*** HOLE CARDS ***
+I´m Grinder: folds 
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+Roskam962: folds 
+kubancheg: folds 
+4ukoTulo: checks 
+*** FLOP *** [7s 3c 7d]
+4ukoTulo: checks 
+fukuchan2631: bets $0.10
+4ukoTulo: folds 
+Uncalled bet ($0.10) returned to fukuchan2631
+fukuchan2631 collected $0.24 from pot
+fukuchan2631: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7s 3c 7d]
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 collected ($0.24)
+Seat 3: Roskam962 (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: 4ukoTulo (big blind) folded on the Flop
+Seat 6: I´m Grinder folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947728021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:28:23 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($9.96 in chips) 
+Seat 2: fukuchan2631 ($9.60 in chips) 
+Seat 3: Roskam962 ($10 in chips) 
+Seat 4: kubancheg ($4.57 in chips) 
+Seat 5: 4ukoTulo ($10 in chips) 
+Seat 6: I´m Grinder ($10.04 in chips) 
+4ukoTulo: posts small blind $0.05
+I´m Grinder: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+fukuchan2631: calls $0.10
+Roskam962: raises $0.35 to $0.45
+kubancheg: folds 
+4ukoTulo: raises $0.95 to $1.40
+I´m Grinder: folds 
+fukuchan2631: folds 
+Roskam962: folds 
+Uncalled bet ($0.95) returned to 4ukoTulo
+4ukoTulo collected $1.10 from pot
+4ukoTulo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 2: fukuchan2631 folded before Flop
+Seat 3: Roskam962 folded before Flop
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: 4ukoTulo (small blind) collected ($1.10)
+Seat 6: I´m Grinder (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947735187:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:28:53 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($9.96 in chips) 
+Seat 2: fukuchan2631 ($9.50 in chips) 
+Seat 3: Roskam962 ($10 in chips) 
+Seat 4: kubancheg ($4.57 in chips) 
+Seat 5: 4ukoTulo ($10.65 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+I´m Grinder: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+fukuchan2631: folds 
+fukuchan2631 leaves the table
+Roskam962: raises $0.20 to $0.30
+kubancheg: folds 
+4ukoTulo: folds 
+I´m Grinder: folds 
+Rebmucuc39: folds 
+Uncalled bet ($0.20) returned to Roskam962
+Roskam962 collected $0.25 from pot
+Roskam962: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 2: fukuchan2631 folded before Flop (didn't bet)
+Seat 3: Roskam962 collected ($0.25)
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: 4ukoTulo (button) folded before Flop (didn't bet)
+Seat 6: I´m Grinder (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947739498:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:29:11 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($9.86 in chips) 
+Seat 4: kubancheg ($4.57 in chips) 
+Seat 5: 4ukoTulo ($10.65 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+Rebmucuc39: posts small blind $0.05
+Roskam962: is sitting out 
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+4ukoTulo: folds 
+I´m Grinder: folds 
+Rebmucuc39: folds 
+Uncalled bet ($0.05) returned to kubancheg
+Roskam962 leaves the table
+kubancheg collected $0.10 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 4: kubancheg (big blind) collected ($0.10)
+Seat 5: 4ukoTulo folded before Flop (didn't bet)
+Seat 6: I´m Grinder (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947741449:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:29:19 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($9.81 in chips) 
+Seat 4: kubancheg ($4.62 in chips) 
+Seat 5: 4ukoTulo ($10.65 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+kubancheg: posts small blind $0.05
+4ukoTulo: posts big blind $0.10
+*** HOLE CARDS ***
+I´m Grinder: raises $0.20 to $0.30
+Rebmucuc39: raises $0.80 to $1.10
+kubancheg: folds 
+4ukoTulo: folds 
+I´m Grinder: folds 
+Uncalled bet ($0.80) returned to Rebmucuc39
+Rebmucuc39 collected $0.75 from pot
+Rebmucuc39: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Rebmucuc39 (button) collected ($0.75)
+Seat 4: kubancheg (small blind) folded before Flop
+Seat 5: 4ukoTulo (big blind) folded before Flop
+Seat 6: I´m Grinder folded before Flop
+
+
+
+PokerStars Hand #222947753210:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:29:38 ET
+Table 'Camelia II' 6-max Seat #4 is the button
+Seat 1: Rebmucuc39 ($10.26 in chips) 
+Seat 4: kubancheg ($4.57 in chips) 
+Seat 5: 4ukoTulo ($10.55 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+4ukoTulo: posts small blind $0.05
+I´m Grinder: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+kubancheg: folds 
+4ukoTulo: folds 
+Uncalled bet ($0.05) returned to I´m Grinder
+I´m Grinder collected $0.10 from pot
+I´m Grinder: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Rebmucuc39 folded before Flop (didn't bet)
+Seat 4: kubancheg (button) folded before Flop (didn't bet)
+Seat 5: 4ukoTulo (small blind) folded before Flop
+Seat 6: I´m Grinder (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222947755091:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:29:46 ET
+Table 'Camelia II' 6-max Seat #5 is the button
+Seat 1: Rebmucuc39 ($10.26 in chips) 
+Seat 4: kubancheg ($4.57 in chips) 
+Seat 5: 4ukoTulo ($10.50 in chips) 
+Seat 6: I´m Grinder ($10.05 in chips) 
+I´m Grinder: posts small blind $0.05
+Rebmucuc39: posts big blind $0.10
+*** HOLE CARDS ***
+kubancheg: folds 
+4ukoTulo: raises $0.20 to $0.30
+I´m Grinder: folds 
+Rebmucuc39: folds 
+Uncalled bet ($0.20) returned to 4ukoTulo
+4ukoTulo collected $0.25 from pot
+4ukoTulo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Rebmucuc39 (big blind) folded before Flop
+Seat 4: kubancheg folded before Flop (didn't bet)
+Seat 5: 4ukoTulo (button) collected ($0.25)
+Seat 6: I´m Grinder (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947757036:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:29:54 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 1: Rebmucuc39 ($10.16 in chips) 
+Seat 4: kubancheg ($4.57 in chips) 
+Seat 5: 4ukoTulo ($10.65 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+Rebmucuc39: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+4ukoTulo: folds 
+I´m Grinder: folds 
+4ukoTulo leaves the table
+Rebmucuc39: folds 
+Uncalled bet ($0.05) returned to kubancheg
+kubancheg collected $0.10 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Rebmucuc39 (small blind) folded before Flop
+Seat 4: kubancheg (big blind) collected ($0.10)
+Seat 5: 4ukoTulo folded before Flop (didn't bet)
+Seat 6: I´m Grinder (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947759196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:30:03 ET
+Table 'Camelia II' 6-max Seat #1 is the button
+Seat 1: Rebmucuc39 ($10.11 in chips) 
+Seat 4: kubancheg ($4.62 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+kubancheg: posts small blind $0.05
+I´m Grinder: posts big blind $0.10
+*** HOLE CARDS ***
+Rebmucuc39: folds 
+Rebmucuc39 leaves the table
+kubancheg: calls $0.05
+I´m Grinder: checks 
+*** FLOP *** [2h Jh 3c]
+kubancheg: checks 
+I´m Grinder: checks 
+*** TURN *** [2h Jh 3c] [8s]
+kubancheg: checks 
+I´m Grinder: checks 
+*** RIVER *** [2h Jh 3c 8s] [Qs]
+kubancheg: bets $0.10
+I´m Grinder: folds 
+Uncalled bet ($0.10) returned to kubancheg
+kubancheg collected $0.19 from pot
+kubancheg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2h Jh 3c 8s Qs]
+Seat 1: Rebmucuc39 (button) folded before Flop (didn't bet)
+Seat 4: kubancheg (small blind) collected ($0.19)
+Seat 6: I´m Grinder (big blind) folded on the River
+
+
+
+PokerStars Hand #222947766029:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:30:31 ET
+Table 'Camelia II' 6-max Seat #6 is the button
+Seat 4: kubancheg ($4.71 in chips) 
+Seat 6: I´m Grinder ($10 in chips) 
+I´m Grinder: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+I´m Grinder: raises $0.20 to $0.30
+kubancheg: calls $0.20
+*** FLOP *** [9s Kh Ad]
+kubancheg: checks 
+I´m Grinder: bets $0.19
+kubancheg: folds 
+Uncalled bet ($0.19) returned to I´m Grinder
+I´m Grinder collected $0.57 from pot
+I´m Grinder: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [9s Kh Ad]
+Seat 4: kubancheg (big blind) folded on the Flop
+Seat 6: I´m Grinder (button) (small blind) collected ($0.57)
+
+
+

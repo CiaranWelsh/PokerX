@@ -1,0 +1,561 @@
+﻿PokerStars Hand #222970385920:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:49:54 ET
+Table 'Clarissa' 6-max Seat #4 is the button
+Seat 1: Feryman78 ($8.17 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: mentoRisen ($22 in chips) 
+Seat 4: Luicho707 ($15.13 in chips) 
+Seat 5: Ochinev ($10 in chips) 
+Seat 6: Hollseg ($15.76 in chips) 
+Ochinev: posts small blind $0.05
+Hollseg: posts big blind $0.10
+*** HOLE CARDS ***
+Feryman78: calls $0.10
+svenikkk: folds 
+mentoRisen has timed out
+mentoRisen: folds 
+Luicho707: folds 
+Ochinev: folds 
+Hollseg: checks 
+*** FLOP *** [Th 6d Kh]
+Hollseg: bets $0.10
+Feryman78: calls $0.10
+*** TURN *** [Th 6d Kh] [2s]
+Hollseg: bets $0.29
+Feryman78: raises $0.29 to $0.58
+Hollseg: calls $0.29
+*** RIVER *** [Th 6d Kh 2s] [9d]
+Hollseg: checks 
+Feryman78: bets $1.54
+Hollseg: raises $13.44 to $14.98 and is all-in
+Feryman78: folds 
+Uncalled bet ($13.44) returned to Hollseg
+Hollseg collected $4.48 from pot
+Hollseg: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.69 | Rake $0.21 
+Board [Th 6d Kh 2s 9d]
+Seat 1: Feryman78 folded on the River
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: mentoRisen folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: Ochinev (small blind) folded before Flop
+Seat 6: Hollseg (big blind) collected ($4.48)
+
+
+
+PokerStars Hand #222970428805:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:46 ET
+Table 'Clarissa' 6-max Seat #5 is the button
+Seat 1: Feryman78 ($5.85 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: mentoRisen ($22 in chips) 
+Seat 4: Luicho707 ($15.13 in chips) 
+Seat 5: Ochinev ($10 in chips) 
+Seat 6: Hollseg ($17.92 in chips) 
+Hollseg: posts small blind $0.05
+Feryman78: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+mentoRisen: folds 
+Luicho707: folds 
+Ochinev: raises $0.20 to $0.30
+Hollseg: folds 
+Feryman78: calls $0.20
+*** FLOP *** [9s 9c As]
+Feryman78: checks 
+Ochinev: checks 
+*** TURN *** [9s 9c As] [2h]
+Feryman78: checks 
+Ochinev: checks 
+*** RIVER *** [9s 9c As 2h] [Kh]
+Feryman78: checks 
+Ochinev: bets $1.10
+Feryman78: folds 
+Uncalled bet ($1.10) returned to Ochinev
+Ochinev collected $0.62 from pot
+Ochinev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9s 9c As 2h Kh]
+Seat 1: Feryman78 (big blind) folded on the River
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: mentoRisen folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Ochinev (button) collected ($0.62)
+Seat 6: Hollseg (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970462211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:26 ET
+Table 'Clarissa' 6-max Seat #6 is the button
+Seat 1: Feryman78 ($5.55 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: mentoRisen ($22 in chips) 
+Seat 4: Luicho707 ($15.13 in chips) 
+Seat 5: Ochinev ($10.32 in chips) 
+Seat 6: Hollseg ($17.87 in chips) 
+Feryman78: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+mentoRisen: folds 
+Luicho707: folds 
+Ochinev: folds 
+Hollseg: raises $0.15 to $0.25
+Feryman78: calls $0.20
+svenikkk: folds 
+*** FLOP *** [3s 2c 4h]
+Feryman78: checks 
+Hollseg: checks 
+*** TURN *** [3s 2c 4h] [8h]
+Feryman78: checks 
+Hollseg: bets $0.38
+Feryman78: calls $0.38
+*** RIVER *** [3s 2c 4h 8h] [8d]
+Feryman78: bets $1.30
+Hollseg: raises $4 to $5.30
+Feryman78: folds 
+Uncalled bet ($4) returned to Hollseg
+Hollseg collected $3.78 from pot
+Hollseg: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.96 | Rake $0.18 
+Board [3s 2c 4h 8h 8d]
+Seat 1: Feryman78 (small blind) folded on the River
+Seat 2: svenikkk (big blind) folded before Flop
+Seat 3: mentoRisen folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Ochinev folded before Flop (didn't bet)
+Seat 6: Hollseg (button) collected ($3.78)
+
+
+
+PokerStars Hand #222970521603:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:52:36 ET
+Table 'Clarissa' 6-max Seat #1 is the button
+Seat 1: Feryman78 ($3.62 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: mentoRisen ($22 in chips) 
+Seat 4: Luicho707 ($15.13 in chips) 
+Seat 5: Ochinev ($10.32 in chips) 
+Seat 6: Hollseg ($19.72 in chips) 
+svenikkk: posts small blind $0.05
+mentoRisen: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Ochinev: folds 
+Hollseg: folds 
+Feryman78: raises $0.10 to $0.20
+svenikkk: folds 
+mentoRisen: calls $0.10
+*** FLOP *** [Td Ks 7s]
+mentoRisen: checks 
+Feryman78: bets $0.43
+mentoRisen: folds 
+Uncalled bet ($0.43) returned to Feryman78
+Feryman78 collected $0.43 from pot
+Feryman78: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td Ks 7s]
+Seat 1: Feryman78 (button) collected ($0.43)
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: mentoRisen (big blind) folded on the Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Ochinev folded before Flop (didn't bet)
+Seat 6: Hollseg folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970550297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:11 ET
+Table 'Clarissa' 6-max Seat #2 is the button
+Seat 1: Feryman78 ($3.85 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: mentoRisen ($21.80 in chips) 
+Seat 4: Luicho707 ($15.13 in chips) 
+Seat 5: Ochinev ($10.32 in chips) 
+Seat 6: Hollseg ($19.72 in chips) 
+mentoRisen: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+Ochinev: folds 
+Hollseg: folds 
+Feryman78: calls $0.10
+svenikkk: raises $0.35 to $0.45
+mentoRisen: folds 
+Luicho707: raises $1.05 to $1.50
+Feryman78: folds 
+svenikkk: folds 
+Uncalled bet ($1.05) returned to Luicho707
+Luicho707 collected $1.05 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0 
+Seat 1: Feryman78 folded before Flop
+Seat 2: svenikkk (button) folded before Flop
+Seat 3: mentoRisen (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) collected ($1.05)
+Seat 5: Ochinev folded before Flop (didn't bet)
+Seat 6: Hollseg folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970572817:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:38 ET
+Table 'Clarissa' 6-max Seat #3 is the button
+Seat 1: Feryman78 ($3.75 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: mentoRisen ($21.75 in chips) 
+Seat 4: Luicho707 ($15.73 in chips) 
+Seat 5: Ochinev ($10.32 in chips) 
+Seat 6: Hollseg ($19.72 in chips) 
+Luicho707: posts small blind $0.05
+Ochinev: posts big blind $0.10
+*** HOLE CARDS ***
+Hollseg: folds 
+Feryman78: calls $0.10
+svenikkk: raises $0.35 to $0.45
+mentoRisen: folds 
+Luicho707: raises $1.35 to $1.80
+Ochinev: folds 
+Feryman78: folds 
+svenikkk: raises $8.20 to $10 and is all-in
+Luicho707: calls $8.20
+*** FLOP *** [6h Qc 9c]
+*** TURN *** [6h Qc 9c] [Qh]
+*** RIVER *** [6h Qc 9c Qh] [8d]
+*** SHOW DOWN ***
+Luicho707: shows [Ac Kh] (a pair of Queens)
+svenikkk: shows [Qs Ah] (three of a kind, Queens)
+svenikkk collected $19.29 from pot
+*** SUMMARY ***
+Total pot $20.20 | Rake $0.91 
+Board [6h Qc 9c Qh 8d]
+Seat 1: Feryman78 folded before Flop
+Seat 2: svenikkk showed [Qs Ah] and won ($19.29) with three of a kind, Queens
+Seat 3: mentoRisen (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) showed [Ac Kh] and lost with a pair of Queens
+Seat 5: Ochinev (big blind) folded before Flop
+Seat 6: Hollseg folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970610491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:54:23 ET
+Table 'Clarissa' 6-max Seat #4 is the button
+Seat 1: Feryman78 ($3.65 in chips) 
+Seat 2: svenikkk ($19.29 in chips) 
+Seat 3: mentoRisen ($21.75 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: Ochinev ($10.22 in chips) 
+Seat 6: Hollseg ($19.72 in chips) 
+Ochinev: posts small blind $0.05
+Hollseg: posts big blind $0.10
+*** HOLE CARDS ***
+Feryman78: calls $0.10
+svenikkk: raises $0.20 to $0.30
+mentoRisen: calls $0.30
+Luicho707: calls $0.30
+Ochinev: folds 
+Hollseg: folds 
+Feryman78: calls $0.20
+*** FLOP *** [7h 2h Qh]
+Feryman78: checks 
+svenikkk: checks 
+mentoRisen: checks 
+Luicho707: bets $0.44
+Feryman78: calls $0.44
+svenikkk: folds 
+mentoRisen: calls $0.44
+*** TURN *** [7h 2h Qh] [Kh]
+svenikkk leaves the table
+Feryman78: bets $2.91 and is all-in
+mentoRisen: calls $2.91
+Foky82 joins the table at seat #2 
+Luicho707: raises $6.35 to $9.26 and is all-in
+mentoRisen: folds 
+Uncalled bet ($6.35) returned to Luicho707
+*** RIVER *** [7h 2h Qh Kh] [Jd]
+*** SHOW DOWN ***
+Feryman78: shows [5h Kc] (a flush, King high)
+Luicho707: shows [Qd Ah] (a flush, Ace high)
+Luicho707 collected $10.89 from pot
+*** SUMMARY ***
+Total pot $11.40 | Rake $0.51 
+Board [7h 2h Qh Kh Jd]
+Seat 1: Feryman78 showed [5h Kc] and lost with a flush, King high
+Seat 2: svenikkk folded on the Flop
+Seat 3: mentoRisen folded on the Turn
+Seat 4: Luicho707 (button) showed [Qd Ah] and won ($10.89) with a flush, Ace high
+Seat 5: Ochinev (small blind) folded before Flop
+Seat 6: Hollseg (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970669631:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:48 ET
+Table 'Clarissa' 6-max Seat #5 is the button
+Seat 2: Foky82 ($10 in chips) 
+Seat 3: mentoRisen ($18.10 in chips) 
+Seat 4: Luicho707 ($17.24 in chips) 
+Seat 5: Ochinev ($10.17 in chips) 
+Seat 6: Hollseg ($19.62 in chips) 
+Hollseg: posts small blind $0.05
+Foky82: posts big blind $0.10
+*** HOLE CARDS ***
+mentoRisen: raises $0.20 to $0.30
+Luicho707: folds 
+Ochinev: folds 
+Feryman78 leaves the table
+Hollseg: folds 
+Foky82: folds 
+Uncalled bet ($0.20) returned to mentoRisen
+mentoRisen collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Foky82 (big blind) folded before Flop
+Seat 3: mentoRisen collected ($0.25)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Ochinev (button) folded before Flop (didn't bet)
+Seat 6: Hollseg (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970681306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:59 ET
+Table 'Clarissa' 6-max Seat #6 is the button
+Seat 2: Foky82 ($10 in chips) 
+Seat 3: mentoRisen ($18.25 in chips) 
+Seat 4: Luicho707 ($17.24 in chips) 
+Seat 5: Ochinev ($10.17 in chips) 
+Seat 6: Hollseg ($19.57 in chips) 
+Foky82: posts small blind $0.05
+mentoRisen: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Ochinev: folds 
+Hollseg: folds 
+Foky82: folds 
+Uncalled bet ($0.05) returned to mentoRisen
+mentoRisen collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Foky82 (small blind) folded before Flop
+Seat 3: mentoRisen (big blind) collected ($0.10)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Ochinev folded before Flop (didn't bet)
+Seat 6: Hollseg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970685985:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:56:08 ET
+Table 'Clarissa' 6-max Seat #2 is the button
+Seat 2: Foky82 ($10 in chips) 
+Seat 3: mentoRisen ($18.30 in chips) 
+Seat 4: Luicho707 ($17.24 in chips) 
+Seat 5: Ochinev ($10.17 in chips) 
+Seat 6: Hollseg ($19.57 in chips) 
+mentoRisen: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+Ochinev: folds 
+Hollseg: raises $0.15 to $0.25
+Foky82: raises $0.65 to $0.90
+mentoRisen: raises $1.65 to $2.55
+Luicho707: folds 
+Hollseg: folds 
+Foky82: calls $1.65
+*** FLOP *** [9h Ac 4d]
+Poker_Axeman joins the table at seat #1 
+mentoRisen: checks 
+Ochinev was removed from the table for failing to post
+Ochinev leaves the table
+Skvorets22 joins the table at seat #5 
+Foky82: bets $1.72
+mentoRisen: folds 
+Uncalled bet ($1.72) returned to Foky82
+Foky82 collected $5.20 from pot
+Foky82: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.45 | Rake $0.25 
+Board [9h Ac 4d]
+Seat 2: Foky82 (button) collected ($5.20)
+Seat 3: mentoRisen (small blind) folded on the Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: Ochinev folded before Flop (didn't bet)
+Seat 6: Hollseg folded before Flop
+
+
+
+PokerStars Hand #222970710412:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:56:51 ET
+Table 'Clarissa' 6-max Seat #3 is the button
+Seat 2: Foky82 ($12.65 in chips) 
+Seat 3: mentoRisen ($15.75 in chips) 
+Seat 4: Luicho707 ($17.14 in chips) 
+Seat 5: Skvorets22 ($10 in chips) 
+Seat 6: Hollseg ($19.32 in chips) 
+Luicho707: posts small blind $0.05
+Skvorets22: posts big blind $0.10
+Poker_Axeman: sits out 
+*** HOLE CARDS ***
+Hollseg: folds 
+Foky82: raises $0.20 to $0.30
+mentoRisen: folds 
+Luicho707: calls $0.25
+Skvorets22: calls $0.20
+*** FLOP *** [Jd Ad 8h]
+Luicho707: checks 
+Skvorets22: checks 
+Foky82: checks 
+*** TURN *** [Jd Ad 8h] [Kd]
+Luicho707: checks 
+Skvorets22: bets $0.43
+Foky82: calls $0.43
+Luicho707: folds 
+*** RIVER *** [Jd Ad 8h Kd] [Ah]
+Skvorets22: checks 
+Foky82: checks 
+*** SHOW DOWN ***
+Skvorets22: shows [6c Js] (two pair, Aces and Jacks)
+Foky82: mucks hand 
+Skvorets22 collected $1.68 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [Jd Ad 8h Kd Ah]
+Seat 2: Foky82 mucked
+Seat 3: mentoRisen (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded on the Turn
+Seat 5: Skvorets22 (big blind) showed [6c Js] and won ($1.68) with two pair, Aces and Jacks
+Seat 6: Hollseg folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970736246:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:36 ET
+Table 'Clarissa' 6-max Seat #4 is the button
+Seat 2: Foky82 ($11.92 in chips) 
+Seat 3: mentoRisen ($15.75 in chips) 
+Seat 4: Luicho707 ($16.84 in chips) 
+Seat 5: Skvorets22 ($10.95 in chips) 
+Seat 6: Hollseg ($19.32 in chips) 
+Skvorets22: posts small blind $0.05
+Hollseg: posts big blind $0.10
+Poker_Axeman: sits out 
+*** HOLE CARDS ***
+Foky82: folds 
+mentoRisen: raises $0.20 to $0.30
+Luicho707: folds 
+Skvorets22: folds 
+Hollseg: folds 
+Uncalled bet ($0.20) returned to mentoRisen
+mentoRisen collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Foky82 folded before Flop (didn't bet)
+Seat 3: mentoRisen collected ($0.25)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: Skvorets22 (small blind) folded before Flop
+Seat 6: Hollseg (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970742612:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:48 ET
+Table 'Clarissa' 6-max Seat #5 is the button
+Seat 1: Poker_Axeman ($10 in chips) 
+Seat 2: Foky82 ($11.92 in chips) 
+Seat 3: mentoRisen ($15.90 in chips) 
+Seat 4: Luicho707 ($16.84 in chips) 
+Seat 5: Skvorets22 ($10.90 in chips) 
+Seat 6: Hollseg ($19.22 in chips) 
+Hollseg: posts small blind $0.05
+Poker_Axeman: posts big blind $0.10
+*** HOLE CARDS ***
+Foky82: raises $0.20 to $0.30
+mentoRisen: raises $0.60 to $0.90
+Luicho707: folds 
+Skvorets22: folds 
+Hollseg: folds 
+Poker_Axeman: folds 
+Foky82: folds 
+Uncalled bet ($0.60) returned to mentoRisen
+mentoRisen collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Poker_Axeman (big blind) folded before Flop
+Seat 2: Foky82 folded before Flop
+Seat 3: mentoRisen collected ($0.75)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Skvorets22 (button) folded before Flop (didn't bet)
+Seat 6: Hollseg (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970756384:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:58:12 ET
+Table 'Clarissa' 6-max Seat #6 is the button
+Seat 1: Poker_Axeman ($10 in chips) 
+Seat 2: Foky82 ($11.62 in chips) 
+Seat 3: mentoRisen ($16.35 in chips) 
+Seat 4: Luicho707 ($16.84 in chips) 
+Seat 5: Skvorets22 ($10.90 in chips) 
+Seat 6: Hollseg ($19.17 in chips) 
+Poker_Axeman: posts small blind $0.05
+Foky82: posts big blind $0.10
+*** HOLE CARDS ***
+mentoRisen: folds 
+Luicho707: folds 
+Skvorets22: calls $0.10
+Hollseg: folds 
+Poker_Axeman: folds 
+Foky82: checks 
+*** FLOP *** [6s Qc Jc]
+Foky82: checks 
+Skvorets22: bets $0.12
+Foky82: folds 
+Uncalled bet ($0.12) returned to Skvorets22
+Skvorets22 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6s Qc Jc]
+Seat 1: Poker_Axeman (small blind) folded before Flop
+Seat 2: Foky82 (big blind) folded on the Flop
+Seat 3: mentoRisen folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Skvorets22 collected ($0.24)
+Seat 6: Hollseg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970774993:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:58:44 ET
+Table 'Clarissa' 6-max Seat #1 is the button
+Seat 1: Poker_Axeman ($10 in chips) 
+Seat 2: Foky82 ($11.52 in chips) 
+Seat 3: mentoRisen ($16.35 in chips) 
+Seat 4: Luicho707 ($16.84 in chips) 
+Seat 5: Skvorets22 ($11.04 in chips) 
+Seat 6: Hollseg ($19.17 in chips) 
+Foky82: posts small blind $0.05
+mentoRisen: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: raises $0.20 to $0.30
+Skvorets22: folds 
+Hollseg: folds 
+Poker_Axeman: calls $0.30
+Foky82: folds 
+mentoRisen: raises $1.10 to $1.40
+Luicho707: calls $1.10
+Poker_Axeman: folds 
+*** FLOP *** [Jd 2d 3d]
+mentoRisen: checks 
+Luicho707: checks 
+*** TURN *** [Jd 2d 3d] [4s]
+mentoRisen: bets $0.95
+Luicho707: calls $0.95
+*** RIVER *** [Jd 2d 3d 4s] [Kd]
+mentoRisen: bets $3.21
+Luicho707: folds 
+Uncalled bet ($3.21) returned to mentoRisen
+mentoRisen collected $4.82 from pot
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.23 
+Board [Jd 2d 3d 4s Kd]
+Seat 1: Poker_Axeman (button) folded before Flop
+Seat 2: Foky82 (small blind) folded before Flop
+Seat 3: mentoRisen (big blind) collected ($4.82)
+Seat 4: Luicho707 folded on the River
+Seat 5: Skvorets22 folded before Flop (didn't bet)
+Seat 6: Hollseg folded before Flop (didn't bet)
+
+
+

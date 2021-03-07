@@ -1,0 +1,6138 @@
+﻿PokerStars Hand #222964956246:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:55:36 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10.15 in chips) 
+Seat 2: Il Caponi ($17.27 in chips) 
+Seat 3: leuu2 ($12.80 in chips) 
+Seat 4: eustw ($10.87 in chips) 
+Seat 5: Igw1199 ($13.98 in chips) 
+Seat 6: megawolt1234 ($13.43 in chips) 
+eustw: posts small blind $0.05
+Igw1199: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: raises $0.13 to $0.23
+Il Caponi: calls $0.23
+leuu2: folds 
+eustw: folds 
+Igw1199: calls $0.13
+*** FLOP *** [2h Ts 4c]
+Igw1199: checks 
+lastfox: bets $0.23
+Il Caponi: calls $0.23
+Igw1199: calls $0.23
+*** TURN *** [2h Ts 4c] [4d]
+Igw1199: checks 
+lastfox: checks 
+Il Caponi: checks 
+*** RIVER *** [2h Ts 4c 4d] [5c]
+Igw1199: bets $0.70
+lastfox: folds 
+Il Caponi: folds 
+Uncalled bet ($0.70) returned to Igw1199
+Igw1199 collected $1.37 from pot
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.06 
+Board [2h Ts 4c 4d 5c]
+Seat 1: lastfox folded on the River
+Seat 2: Il Caponi folded on the River
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: eustw (small blind) folded before Flop
+Seat 5: Igw1199 (big blind) collected ($1.37)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964986021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:56:38 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($16.81 in chips) 
+Seat 3: leuu2 ($12.80 in chips) 
+Seat 4: eustw ($10.82 in chips) 
+Seat 5: Igw1199 ($14.89 in chips) 
+Seat 6: megawolt1234 ($13.43 in chips) 
+Igw1199: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+Il Caponi: raises $0.10 to $0.20
+leuu2: folds 
+eustw: raises $0.50 to $0.70
+Igw1199: folds 
+megawolt1234: folds 
+Il Caponi: calls $0.50
+*** FLOP *** [2s Qc Th]
+Il Caponi: checks 
+eustw: checks 
+*** TURN *** [2s Qc Th] [Tc]
+Il Caponi: bets $1.48
+eustw: folds 
+Uncalled bet ($1.48) returned to Il Caponi
+Il Caponi collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [2s Qc Th Tc]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: Il Caponi collected ($1.48)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: eustw (button) folded on the Turn
+Seat 5: Igw1199 (small blind) folded before Flop
+Seat 6: megawolt1234 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222965007851:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:57:23 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($17.59 in chips) 
+Seat 3: leuu2 ($12.80 in chips) 
+Seat 4: eustw ($10.12 in chips) 
+Seat 5: Igw1199 ($14.84 in chips) 
+Seat 6: megawolt1234 ($13.33 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+Il Caponi: raises $0.10 to $0.20
+leuu2: folds 
+eustw: raises $0.60 to $0.80
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: calls $0.70
+Il Caponi: calls $0.60
+*** FLOP *** [Ad Kh 8d]
+lastfox: checks 
+Il Caponi: checks 
+eustw: checks 
+*** TURN *** [Ad Kh 8d] [6s]
+lastfox: bets $1.19
+Il Caponi: folds 
+eustw: calls $1.19
+*** RIVER *** [Ad Kh 8d 6s] [2d]
+lastfox: checks 
+eustw: bets $1.50
+lastfox: calls $1.50
+*** SHOW DOWN ***
+eustw: shows [Kd Ac] (two pair, Aces and Kings)
+lastfox: mucks hand 
+eustw collected $7.48 from pot
+*** SUMMARY ***
+Total pot $7.83 | Rake $0.35 
+Board [Ad Kh 8d 6s 2d]
+Seat 1: lastfox (big blind) mucked
+Seat 2: Il Caponi folded on the Turn
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: eustw showed [Kd Ac] and won ($7.48) with two pair, Aces and Kings
+Seat 5: Igw1199 (button) folded before Flop (didn't bet)
+Seat 6: megawolt1234 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222965041333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:58:31 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($16.79 in chips) 
+Seat 3: leuu2 ($12.80 in chips) 
+Seat 4: eustw ($14.11 in chips) 
+Seat 5: Igw1199 ($14.84 in chips) 
+Seat 6: megawolt1234 ($13.28 in chips) 
+lastfox: posts small blind $0.05
+Il Caponi: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+eustw: folds 
+Igw1199: raises $0.20 to $0.30
+megawolt1234: folds 
+lastfox: folds 
+Il Caponi: calls $0.20
+*** FLOP *** [Qs 8s 7d]
+Il Caponi: bets $0.30
+Igw1199: folds 
+Uncalled bet ($0.30) returned to Il Caponi
+Il Caponi collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qs 8s 7d]
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: Il Caponi (big blind) collected ($0.62)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: eustw folded before Flop (didn't bet)
+Seat 5: Igw1199 folded on the Flop
+Seat 6: megawolt1234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965050114:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:58:49 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($17.11 in chips) 
+Seat 3: leuu2 ($12.80 in chips) 
+Seat 4: eustw ($14.11 in chips) 
+Seat 5: Igw1199 ($14.54 in chips) 
+Seat 6: megawolt1234 ($13.28 in chips) 
+Il Caponi: posts small blind $0.05
+leuu2: posts big blind $0.10
+*** HOLE CARDS ***
+eustw: folds 
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: folds 
+Il Caponi: calls $0.05
+leuu2: raises $0.30 to $0.40
+Il Caponi: calls $0.30
+*** FLOP *** [5d 6h 8s]
+Il Caponi: checks 
+leuu2: checks 
+*** TURN *** [5d 6h 8s] [6c]
+Il Caponi: bets $0.38
+leuu2: calls $0.38
+*** RIVER *** [5d 6h 8s 6c] [6s]
+Il Caponi: checks 
+leuu2: checks 
+*** SHOW DOWN ***
+Il Caponi: shows [4h Qc] (three of a kind, Sixes)
+leuu2: shows [Kc Ah] (three of a kind, Sixes - Ace kicker)
+leuu2 collected $1.49 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [5d 6h 8s 6c 6s]
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: Il Caponi (small blind) showed [4h Qc] and lost with three of a kind, Sixes
+Seat 3: leuu2 (big blind) showed [Kc Ah] and won ($1.49) with three of a kind, Sixes
+Seat 4: eustw folded before Flop (didn't bet)
+Seat 5: Igw1199 folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965064715:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:59:19 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($16.33 in chips) 
+Seat 3: leuu2 ($13.51 in chips) 
+Seat 4: eustw ($14.11 in chips) 
+Seat 5: Igw1199 ($14.54 in chips) 
+Seat 6: megawolt1234 ($13.28 in chips) 
+leuu2: posts small blind $0.05
+eustw: posts big blind $0.10
+*** HOLE CARDS ***
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: folds 
+Il Caponi: raises $0.10 to $0.20
+leuu2: calls $0.15
+eustw: calls $0.10
+*** FLOP *** [3c 9h 7d]
+leuu2: checks 
+eustw: checks 
+Il Caponi: bets $0.29
+leuu2: calls $0.29
+eustw: raises $1.01 to $1.30
+Il Caponi: raises $1.01 to $2.31
+leuu2: folds 
+eustw: calls $1.01
+*** TURN *** [3c 9h 7d] [6d]
+eustw: checks 
+Il Caponi: bets $2.63
+eustw: calls $2.63
+*** RIVER *** [3c 9h 7d 6d] [5c]
+eustw: checks 
+Il Caponi: checks 
+*** SHOW DOWN ***
+eustw: shows [Ah 9d] (a pair of Nines)
+Il Caponi: shows [Qd Qc] (a pair of Queens)
+Il Caponi collected $10.29 from pot
+*** SUMMARY ***
+Total pot $10.77 | Rake $0.48 
+Board [3c 9h 7d 6d 5c]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: Il Caponi (button) showed [Qd Qc] and won ($10.29) with a pair of Queens
+Seat 3: leuu2 (small blind) folded on the Flop
+Seat 4: eustw (big blind) showed [Ah 9d] and lost with a pair of Nines
+Seat 5: Igw1199 folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965103774:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:00:34 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($21.48 in chips) 
+Seat 3: leuu2 ($13.02 in chips) 
+Seat 4: eustw ($10 in chips) 
+Seat 5: Igw1199 ($14.54 in chips) 
+Seat 6: megawolt1234 ($13.28 in chips) 
+eustw: posts small blind $0.05
+Igw1199: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: folds 
+Il Caponi: raises $0.10 to $0.20
+leuu2: folds 
+eustw: folds 
+Igw1199: calls $0.10
+*** FLOP *** [2d Th 4s]
+Igw1199: checks 
+Il Caponi: bets $0.20
+Igw1199: raises $0.20 to $0.40
+Il Caponi: raises $0.20 to $0.60
+Igw1199: raises $0.82 to $1.42
+Il Caponi: calls $0.82
+*** TURN *** [2d Th 4s] [7d]
+Igw1199: bets $1.57
+Il Caponi: raises $1.57 to $3.14
+Igw1199: raises $9.78 to $12.92 and is all-in
+Il Caponi: calls $9.78
+*** RIVER *** [2d Th 4s 7d] [8d]
+*** SHOW DOWN ***
+Igw1199: shows [Td 4d] (a flush, Ten high)
+Il Caponi: shows [7c Tc] (two pair, Tens and Sevens)
+Igw1199 cashed out the hand for $6.89 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $29.13 | Rake $1.31 
+Board [2d Th 4s 7d 8d]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: Il Caponi showed [7c Tc] and lost with two pair, Tens and Sevens
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: eustw (small blind) folded before Flop
+Seat 5: Igw1199 (big blind) showed [Td 4d] and won ($27.82) with a flush, Ten high (pot not awarded as player cashed out)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965150824:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:01:48 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: Il Caponi ($6.94 in chips) 
+Seat 3: leuu2 ($13.02 in chips) 
+Seat 4: eustw ($10 in chips) 
+Seat 5: Igw1199 ($6.89 in chips) 
+Seat 6: megawolt1234 ($13.28 in chips) 
+Igw1199: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+Il Caponi: raises $0.10 to $0.20
+leuu2: folds 
+eustw: folds 
+Igw1199: folds 
+megawolt1234: calls $0.10
+*** FLOP *** [5s 8c Jc]
+megawolt1234: checks 
+Il Caponi: checks 
+*** TURN *** [5s 8c Jc] [Qs]
+megawolt1234: bets $0.32
+Il Caponi: calls $0.32
+*** RIVER *** [5s 8c Jc Qs] [Ts]
+megawolt1234: bets $0.83
+Il Caponi: raises $5.59 to $6.42 and is all-in
+megawolt1234: calls $5.59
+*** SHOW DOWN ***
+Il Caponi: shows [9h Kc] (a straight, Nine to King)
+megawolt1234: shows [3s 9s] (a flush, Queen high)
+megawolt1234 collected $13.30 from pot
+*** SUMMARY ***
+Total pot $13.93 | Rake $0.63 
+Board [5s 8c Jc Qs Ts]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: Il Caponi showed [9h Kc] and lost with a straight, Nine to King
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: eustw (button) folded before Flop (didn't bet)
+Seat 5: Igw1199 (small blind) folded before Flop
+Seat 6: megawolt1234 (big blind) showed [3s 9s] and won ($13.30) with a flush, Queen high
+
+
+
+PokerStars Hand #222965198226:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:02:42 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 3: leuu2 ($13.02 in chips) 
+Seat 4: eustw ($10 in chips) 
+Seat 5: Igw1199 ($6.84 in chips) 
+Seat 6: megawolt1234 ($19.64 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+Il Caponi leaves the table
+leuu2: raises $0.20 to $0.30
+fish72o joins the table at seat #2 
+eustw: raises $0.70 to $1
+Igw1199: calls $1
+megawolt1234: folds 
+lastfox: folds 
+leuu2: folds 
+*** FLOP *** [3h Jh Ac]
+eustw: checks 
+Igw1199: bets $1.20
+eustw: folds 
+Uncalled bet ($1.20) returned to Igw1199
+Igw1199 collected $2.34 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [3h Jh Ac]
+Seat 1: lastfox (big blind) folded before Flop
+Seat 3: leuu2 folded before Flop
+Seat 4: eustw folded on the Flop
+Seat 5: Igw1199 (button) collected ($2.34)
+Seat 6: megawolt1234 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222965228588:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:03:21 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10 in chips) 
+Seat 3: leuu2 ($12.72 in chips) 
+Seat 4: eustw ($10 in chips) 
+Seat 5: Igw1199 ($8.18 in chips) 
+Seat 6: megawolt1234 ($19.59 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+eustw: folds 
+Igw1199: raises $0.10 to $0.20
+megawolt1234: folds 
+lastfox: folds 
+fish72o: calls $0.10
+*** FLOP *** [9d Jd 8c]
+fish72o: checks 
+Igw1199: checks 
+*** TURN *** [9d Jd 8c] [6s]
+fish72o: checks 
+Igw1199: checks 
+*** RIVER *** [9d Jd 8c 6s] [Ac]
+fish72o: bets $0.10
+Igw1199: raises $0.10 to $0.20
+fish72o: calls $0.10
+*** SHOW DOWN ***
+Igw1199: shows [3c Ad] (a pair of Aces)
+fish72o: shows [3d As] (a pair of Aces)
+fish72o collected $0.41 from pot
+Igw1199 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [9d Jd 8c 6s Ac]
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: fish72o (big blind) showed [3d As] and won ($0.41) with a pair of Aces
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: eustw folded before Flop (didn't bet)
+Seat 5: Igw1199 showed [3c Ad] and won ($0.40) with a pair of Aces
+Seat 6: megawolt1234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965255674:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:03:56 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.01 in chips) 
+Seat 3: leuu2 ($12.72 in chips) 
+Seat 4: eustw ($10 in chips) 
+Seat 5: Igw1199 ($8.18 in chips) 
+Seat 6: megawolt1234 ($19.59 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+*** HOLE CARDS ***
+eustw: folds 
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+Uncalled bet ($0.15) returned to fish72o
+fish72o collected $0.20 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) collected ($0.20)
+Seat 3: leuu2 (big blind) folded before Flop
+Seat 4: eustw folded before Flop (didn't bet)
+Seat 5: Igw1199 folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965268071:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:04:12 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.11 in chips) 
+Seat 3: leuu2 ($12.62 in chips) 
+Seat 5: Igw1199 ($8.18 in chips) 
+Seat 6: megawolt1234 ($19.59 in chips) 
+leuu2: posts small blind $0.05
+eustw: is sitting out 
+eustw leaves the table
+Igw1199: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+VODOMIR0001 joins the table at seat #4 
+leuu2: calls $0.20
+Igw1199: calls $0.15
+*** FLOP *** [5h 7h As]
+leuu2: checks 
+Igw1199: checks 
+fish72o: checks 
+*** TURN *** [5h 7h As] [7c]
+leuu2: bets $0.40
+Igw1199: folds 
+fish72o: folds 
+Uncalled bet ($0.40) returned to leuu2
+leuu2 collected $0.72 from pot
+leuu2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5h 7h As 7c]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o (button) folded on the Turn
+Seat 3: leuu2 (small blind) collected ($0.72)
+Seat 5: Igw1199 (big blind) folded on the Turn
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965290455:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:04:40 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10 in chips) 
+Seat 3: leuu2 ($13.09 in chips) 
+Seat 5: Igw1199 ($7.93 in chips) 
+Seat 6: megawolt1234 ($19.59 in chips) 
+Igw1199: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+fish72o: folds 
+leuu2: folds 
+Igw1199: folds 
+Uncalled bet ($0.05) returned to megawolt1234
+megawolt1234 collected $0.10 from pot
+megawolt1234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 5: Igw1199 (small blind) folded before Flop
+Seat 6: megawolt1234 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222965303480:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:04:57 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10 in chips) 
+Seat 3: leuu2 ($13.09 in chips) 
+Seat 4: VODOMIR0001 ($5.22 in chips) 
+Seat 5: Igw1199 ($7.88 in chips) 
+Seat 6: megawolt1234 ($19.64 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+VODOMIR0001: posts big blind $0.10
+*** HOLE CARDS ***
+fish72o: folds 
+leuu2: raises $0.20 to $0.30
+VODOMIR0001: calls $0.20
+Igw1199: folds 
+megawolt1234: calls $0.25
+lastfox: folds 
+*** FLOP *** [Ah 4c 8c]
+megawolt1234: bets $0.77
+leuu2: folds 
+VODOMIR0001: folds 
+Uncalled bet ($0.77) returned to megawolt1234
+megawolt1234 collected $0.96 from pot
+megawolt1234: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ah 4c 8c]
+Seat 1: lastfox (big blind) folded before Flop
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded on the Flop
+Seat 4: VODOMIR0001 folded on the Flop
+Seat 5: Igw1199 (button) folded before Flop (didn't bet)
+Seat 6: megawolt1234 (small blind) collected ($0.96)
+
+
+
+PokerStars Hand #222965321465:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:05:19 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10 in chips) 
+Seat 3: leuu2 ($12.79 in chips) 
+Seat 4: VODOMIR0001 ($4.92 in chips) 
+Seat 5: Igw1199 ($7.88 in chips) 
+Seat 6: megawolt1234 ($20.30 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+VODOMIR0001: calls $0.10
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: folds 
+fish72o: checks 
+*** FLOP *** [4d 6s 8h]
+fish72o: bets $0.16
+VODOMIR0001: calls $0.16
+*** TURN *** [4d 6s 8h] [8d]
+fish72o: checks 
+VODOMIR0001: checks 
+*** RIVER *** [4d 6s 8h 8d] [Kc]
+fish72o: bets $0.18
+VODOMIR0001: folds 
+Uncalled bet ($0.18) returned to fish72o
+fish72o collected $0.54 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03 
+Board [4d 6s 8h 8d Kc]
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: fish72o (big blind) collected ($0.54)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded on the River
+Seat 5: Igw1199 folded before Flop (didn't bet)
+Seat 6: megawolt1234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965341301:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:05:44 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.28 in chips) 
+Seat 3: leuu2 ($12.79 in chips) 
+Seat 4: VODOMIR0001 ($4.66 in chips) 
+Seat 5: Igw1199 ($7.88 in chips) 
+Seat 6: megawolt1234 ($20.30 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+*** HOLE CARDS ***
+VODOMIR0001: raises $0.10 to $0.20
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.50 to $0.70
+leuu2: folds 
+VODOMIR0001: calls $0.50
+*** FLOP *** [Ks Jd Qh]
+fish72o: bets $0.47
+VODOMIR0001: calls $0.47
+*** TURN *** [Ks Jd Qh] [As]
+fish72o: checks 
+VODOMIR0001: checks 
+*** RIVER *** [Ks Jd Qh As] [Kd]
+fish72o: bets $2.10
+VODOMIR0001: folds 
+Uncalled bet ($2.10) returned to fish72o
+fish72o collected $2.33 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.44 | Rake $0.11 
+Board [Ks Jd Qh As Kd]
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) collected ($2.33)
+Seat 3: leuu2 (big blind) folded before Flop
+Seat 4: VODOMIR0001 folded on the River
+Seat 5: Igw1199 folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965367010:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:06:17 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($11.44 in chips) 
+Seat 3: leuu2 ($12.69 in chips) 
+Seat 4: VODOMIR0001 ($3.49 in chips) 
+Seat 5: Igw1199 ($7.88 in chips) 
+Seat 6: megawolt1234 ($20.30 in chips) 
+leuu2: posts small blind $0.05
+VODOMIR0001: posts big blind $0.10
+*** HOLE CARDS ***
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: raises $0.13 to $0.36
+lastfox: calls $0.13
+*** FLOP *** [7d 6c 9s]
+VODOMIR0001: bets $0.30
+lastfox: calls $0.30
+*** TURN *** [7d 6c 9s] [3c]
+VODOMIR0001: bets $0.30
+lastfox: calls $0.30
+*** RIVER *** [7d 6c 9s 3c] [3s]
+VODOMIR0001: bets $0.50
+lastfox: folds 
+Uncalled bet ($0.50) returned to VODOMIR0001
+VODOMIR0001 collected $1.88 from pot
+VODOMIR0001: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.97 | Rake $0.09 
+Board [7d 6c 9s 3c 3s]
+Seat 1: lastfox folded on the River
+Seat 2: fish72o (button) folded before Flop (didn't bet)
+Seat 3: leuu2 (small blind) folded before Flop
+Seat 4: VODOMIR0001 (big blind) collected ($1.88)
+Seat 5: Igw1199 folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965407158:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:07:07 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($11.44 in chips) 
+Seat 3: leuu2 ($12.64 in chips) 
+Seat 4: VODOMIR0001 ($4.41 in chips) 
+Seat 5: Igw1199 ($7.88 in chips) 
+Seat 6: megawolt1234 ($20.30 in chips) 
+VODOMIR0001: posts small blind $0.05
+Igw1199: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+VODOMIR0001: folds 
+Igw1199: folds 
+Uncalled bet ($0.15) returned to fish72o
+fish72o collected $0.25 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o collected ($0.25)
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (small blind) folded before Flop
+Seat 5: Igw1199 (big blind) folded before Flop
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965422526:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:07:27 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($11.59 in chips) 
+Seat 3: leuu2 ($12.64 in chips) 
+Seat 4: VODOMIR0001 ($4.36 in chips) 
+Seat 5: Igw1199 ($7.78 in chips) 
+Seat 6: megawolt1234 ($20.30 in chips) 
+Igw1199: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+VODOMIR0001: folds 
+Igw1199: folds 
+megawolt1234: raises $0.45 to $0.70
+fish72o: calls $0.45
+*** FLOP *** [7s 3h Ts]
+megawolt1234: bets $1.04
+fish72o: calls $1.04
+*** TURN *** [7s 3h Ts] [2h]
+megawolt1234: bets $1.01
+fish72o: folds 
+Uncalled bet ($1.01) returned to megawolt1234
+megawolt1234 collected $3.37 from pot
+megawolt1234: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.53 | Rake $0.16 
+Board [7s 3h Ts 2h]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o folded on the Turn
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (button) folded before Flop (didn't bet)
+Seat 5: Igw1199 (small blind) folded before Flop
+Seat 6: megawolt1234 (big blind) collected ($3.37)
+
+
+
+PokerStars Hand #222965450809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:08:02 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10 in chips) 
+Seat 3: leuu2 ($12.64 in chips) 
+Seat 4: VODOMIR0001 ($4.36 in chips) 
+Seat 5: Igw1199 ($7.73 in chips) 
+Seat 6: megawolt1234 ($21.93 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+VODOMIR0001: calls $0.25
+Igw1199: folds 
+megawolt1234: folds 
+lastfox: folds 
+*** FLOP *** [7c 6h 7d]
+fish72o: bets $0.20
+VODOMIR0001: calls $0.20
+*** TURN *** [7c 6h 7d] [8s]
+fish72o: bets $0.80
+VODOMIR0001: folds 
+Uncalled bet ($0.80) returned to fish72o
+fish72o collected $1 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [7c 6h 7d 8s]
+Seat 1: lastfox (big blind) folded before Flop
+Seat 2: fish72o collected ($1)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded on the Turn
+Seat 5: Igw1199 (button) folded before Flop (didn't bet)
+Seat 6: megawolt1234 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222965466893:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:08:23 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.55 in chips) 
+Seat 3: leuu2 ($12.64 in chips) 
+Seat 4: VODOMIR0001 ($3.91 in chips) 
+Seat 5: Igw1199 ($7.73 in chips) 
+Seat 6: megawolt1234 ($21.88 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+VODOMIR0001: calls $0.10
+Igw1199: raises $0.20 to $0.30
+megawolt1234: raises $0.80 to $1.10
+lastfox: folds 
+fish72o: folds 
+VODOMIR0001: folds 
+Igw1199: calls $0.80
+*** FLOP *** [2d 6h 6c]
+Igw1199: checks 
+megawolt1234: bets $1.87
+Igw1199: calls $1.87
+*** TURN *** [2d 6h 6c] [Kd]
+Igw1199: checks 
+megawolt1234: bets $1.77
+Igw1199: raises $1.77 to $3.54
+megawolt1234: raises $1.77 to $5.31
+Igw1199: calls $1.22 and is all-in
+Uncalled bet ($0.55) returned to megawolt1234
+*** RIVER *** [2d 6h 6c Kd] [7c]
+*** SHOW DOWN ***
+Igw1199: shows [6s Ts] (three of a kind, Sixes)
+megawolt1234: shows [Kc Kh] (a full house, Kings full of Sixes)
+megawolt1234 collected $15 from pot
+*** SUMMARY ***
+Total pot $15.71 | Rake $0.71 
+Board [2d 6h 6c Kd 7c]
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: fish72o (big blind) folded before Flop
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded before Flop
+Seat 5: Igw1199 showed [6s Ts] and lost with three of a kind, Sixes
+Seat 6: megawolt1234 (button) showed [Kc Kh] and won ($15) with a full house, Kings full of Sixes
+
+
+
+PokerStars Hand #222965517002:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:09:25 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.45 in chips) 
+Seat 3: leuu2 ($12.64 in chips) 
+Seat 4: VODOMIR0001 ($3.81 in chips) 
+Seat 6: megawolt1234 ($29.15 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+*** HOLE CARDS ***
+VODOMIR0001: calls $0.10
+megawolt1234: folds 
+lastfox: folds 
+fish72o: folds 
+leuu2: raises $0.30 to $0.40
+maltsevig joins the table at seat #5 
+VODOMIR0001: calls $0.30
+*** FLOP *** [8s 2d 5d]
+leuu2: bets $0.60
+VODOMIR0001: calls $0.60
+*** TURN *** [8s 2d 5d] [Tc]
+leuu2: bets $1.20
+VODOMIR0001: folds 
+Uncalled bet ($1.20) returned to leuu2
+leuu2 collected $1.96 from pot
+leuu2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [8s 2d 5d Tc]
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) folded before Flop
+Seat 3: leuu2 (big blind) collected ($1.96)
+Seat 4: VODOMIR0001 folded on the Turn
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965551302:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:10:09 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.40 in chips) 
+Seat 3: leuu2 ($13.60 in chips) 
+Seat 4: VODOMIR0001 ($2.81 in chips) 
+Seat 6: megawolt1234 ($29.15 in chips) 
+leuu2: posts small blind $0.05
+VODOMIR0001: posts big blind $0.10
+maltsevig: sits out 
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: calls $0.13
+*** FLOP *** [Tc 4h Qc]
+VODOMIR0001: checks 
+lastfox: checks 
+*** TURN *** [Tc 4h Qc] [9d]
+VODOMIR0001: checks 
+lastfox: checks 
+*** RIVER *** [Tc 4h Qc 9d] [Jh]
+VODOMIR0001: bets $0.10
+lastfox: calls $0.10
+*** SHOW DOWN ***
+VODOMIR0001: shows [Ac 8d] (a straight, Eight to Queen)
+lastfox: mucks hand 
+VODOMIR0001 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03 
+Board [Tc 4h Qc 9d Jh]
+Seat 1: lastfox mucked
+Seat 2: fish72o (button) folded before Flop (didn't bet)
+Seat 3: leuu2 (small blind) folded before Flop
+Seat 4: VODOMIR0001 (big blind) showed [Ac 8d] and won ($0.68) with a straight, Eight to Queen
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965577448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:10:42 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.40 in chips) 
+Seat 3: leuu2 ($13.55 in chips) 
+Seat 4: VODOMIR0001 ($3.16 in chips) 
+Seat 5: maltsevig ($10 in chips) 
+Seat 6: megawolt1234 ($29.15 in chips) 
+VODOMIR0001: posts small blind $0.05
+maltsevig: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+VODOMIR0001: calls $0.20
+maltsevig: folds 
+*** FLOP *** [8h 2c As]
+VODOMIR0001: checks 
+fish72o: bets $0.11
+VODOMIR0001: calls $0.11
+*** TURN *** [8h 2c As] [Ks]
+VODOMIR0001: checks 
+fish72o: checks 
+*** RIVER *** [8h 2c As Ks] [4s]
+VODOMIR0001: checks 
+fish72o: checks 
+*** SHOW DOWN ***
+VODOMIR0001: shows [5c 6c] (high card Ace)
+fish72o: shows [Qh 9h] (high card Ace - King+Queen kicker)
+fish72o collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [8h 2c As Ks 4s]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o showed [Qh 9h] and won ($0.78) with high card Ace
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (small blind) showed [5c 6c] and lost with high card Ace
+Seat 5: maltsevig (big blind) folded before Flop
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965614808:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:11:30 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.82 in chips) 
+Seat 3: leuu2 ($13.55 in chips) 
+Seat 4: VODOMIR0001 ($2.80 in chips) 
+Seat 5: maltsevig ($10 in chips) 
+Seat 6: megawolt1234 ($29.15 in chips) 
+maltsevig: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+fish72o: folds 
+leuu2: raises $0.20 to $0.30
+VODOMIR0001: folds 
+maltsevig: raises $0.70 to $1
+megawolt1234: folds 
+leuu2: folds 
+Uncalled bet ($0.70) returned to maltsevig
+maltsevig collected $0.70 from pot
+maltsevig: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded before Flop
+Seat 4: VODOMIR0001 (button) folded before Flop (didn't bet)
+Seat 5: maltsevig (small blind) collected ($0.70)
+Seat 6: megawolt1234 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222965641387:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:12:03 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.82 in chips) 
+Seat 3: leuu2 ($13.25 in chips) 
+Seat 4: VODOMIR0001 ($2.80 in chips) 
+Seat 5: maltsevig ($10.40 in chips) 
+Seat 6: megawolt1234 ($29.05 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: folds 
+maltsevig: raises $0.10 to $0.20
+megawolt1234: calls $0.15
+lastfox: folds 
+*** FLOP *** [Qh 5s 5c]
+megawolt1234: bets $0.36
+maltsevig: calls $0.36
+*** TURN *** [Qh 5s 5c] [5h]
+megawolt1234: checks 
+maltsevig: bets $0.76
+megawolt1234: folds 
+Uncalled bet ($0.76) returned to maltsevig
+maltsevig collected $1.17 from pot
+maltsevig: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [Qh 5s 5c 5h]
+Seat 1: lastfox (big blind) folded before Flop
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded before Flop (didn't bet)
+Seat 5: maltsevig (button) collected ($1.17)
+Seat 6: megawolt1234 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222965671506:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:12:41 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.82 in chips) 
+Seat 3: leuu2 ($13.25 in chips) 
+Seat 4: VODOMIR0001 ($2.80 in chips) 
+Seat 6: megawolt1234 ($28.49 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+VODOMIR0001: calls $0.10
+maltsevig joins the table at seat #5 
+megawolt1234: raises $0.10 to $0.20
+lastfox: folds 
+fish72o: folds 
+VODOMIR0001: calls $0.10
+*** FLOP *** [2c Ah Qs]
+VODOMIR0001: checks 
+megawolt1234: bets $0.40
+VODOMIR0001: calls $0.40
+*** TURN *** [2c Ah Qs] [Ad]
+VODOMIR0001: checks 
+megawolt1234: checks 
+*** RIVER *** [2c Ah Qs Ad] [8d]
+VODOMIR0001: bets $0.30
+megawolt1234: folds 
+Uncalled bet ($0.30) returned to VODOMIR0001
+VODOMIR0001 collected $1.29 from pot
+VODOMIR0001: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [2c Ah Qs Ad 8d]
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: fish72o (big blind) folded before Flop
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 collected ($1.29)
+Seat 6: megawolt1234 (button) folded on the River
+
+
+
+PokerStars Hand #222965711080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:13:31 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.72 in chips) 
+Seat 3: leuu2 ($13.25 in chips) 
+Seat 4: VODOMIR0001 ($3.49 in chips) 
+Seat 6: megawolt1234 ($27.89 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+maltsevig: sits out 
+*** HOLE CARDS ***
+VODOMIR0001: folds 
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+Uncalled bet ($0.15) returned to fish72o
+fish72o collected $0.20 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) collected ($0.20)
+Seat 3: leuu2 (big blind) folded before Flop
+Seat 4: VODOMIR0001 folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965723334:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:13:47 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.82 in chips) 
+Seat 3: leuu2 ($13.15 in chips) 
+Seat 4: VODOMIR0001 ($3.49 in chips) 
+Seat 6: megawolt1234 ($27.89 in chips) 
+leuu2: posts small blind $0.05
+VODOMIR0001: posts big blind $0.10
+maltsevig: sits out 
+*** HOLE CARDS ***
+megawolt1234: raises $0.20 to $0.30
+lastfox: folds 
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: folds 
+Uncalled bet ($0.20) returned to megawolt1234
+megawolt1234 collected $0.25 from pot
+megawolt1234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o (button) folded before Flop (didn't bet)
+Seat 3: leuu2 (small blind) folded before Flop
+Seat 4: VODOMIR0001 (big blind) folded before Flop
+Seat 6: megawolt1234 collected ($0.25)
+
+
+
+PokerStars Hand #222965733579:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:14:00 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($10.82 in chips) 
+Seat 3: leuu2 ($13.10 in chips) 
+Seat 4: VODOMIR0001 ($3.39 in chips) 
+Seat 5: maltsevig ($11.01 in chips) 
+Seat 6: megawolt1234 ($28.04 in chips) 
+VODOMIR0001: posts small blind $0.05
+maltsevig: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: folds 
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+VODOMIR0001: calls $0.20
+maltsevig: folds 
+*** FLOP *** [6d 9d Jh]
+VODOMIR0001: checks 
+fish72o: checks 
+*** TURN *** [6d 9d Jh] [Kc]
+VODOMIR0001: bets $0.10
+fish72o: calls $0.10
+*** RIVER *** [6d 9d Jh Kc] [4d]
+VODOMIR0001: bets $0.10
+fish72o: calls $0.10
+*** SHOW DOWN ***
+VODOMIR0001: shows [2h Qh] (high card King)
+fish72o: shows [7h 9h] (a pair of Nines)
+fish72o collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6d 9d Jh Kc 4d]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o showed [7h 9h] and won ($0.96) with a pair of Nines
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (small blind) showed [2h Qh] and lost with high card King
+Seat 5: maltsevig (big blind) folded before Flop
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965767507:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:14:43 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($11.33 in chips) 
+Seat 3: leuu2 ($13.10 in chips) 
+Seat 4: VODOMIR0001 ($2.94 in chips) 
+Seat 5: maltsevig ($10.91 in chips) 
+Seat 6: megawolt1234 ($28.04 in chips) 
+maltsevig: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: calls $0.10
+maltsevig: folds 
+megawolt1234: checks 
+*** FLOP *** [Kd Qd Ks]
+megawolt1234: checks 
+VODOMIR0001: checks 
+*** TURN *** [Kd Qd Ks] [Qs]
+megawolt1234: bets $0.18
+VODOMIR0001: folds 
+Uncalled bet ($0.18) returned to megawolt1234
+megawolt1234 collected $0.24 from pot
+megawolt1234: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd Qd Ks Qs]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (button) folded on the Turn
+Seat 5: maltsevig (small blind) folded before Flop
+Seat 6: megawolt1234 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #222965792521:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:15:14 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($11.33 in chips) 
+Seat 3: leuu2 ($13.10 in chips) 
+Seat 4: VODOMIR0001 ($2.84 in chips) 
+Seat 5: maltsevig ($10.86 in chips) 
+Seat 6: megawolt1234 ($28.18 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: calls $0.10
+maltsevig: raises $0.30 to $0.40
+megawolt1234: folds 
+lastfox: folds 
+VODOMIR0001: calls $0.30
+*** FLOP *** [4c As 9d]
+VODOMIR0001: checks 
+maltsevig: bets $0.36
+VODOMIR0001: calls $0.36
+*** TURN *** [4c As 9d] [Ah]
+VODOMIR0001: checks 
+maltsevig: checks 
+*** RIVER *** [4c As 9d Ah] [2h]
+VODOMIR0001: bets $0.50
+maltsevig: calls $0.50
+*** SHOW DOWN ***
+VODOMIR0001: shows [9h 3h] (two pair, Aces and Nines)
+maltsevig: mucks hand 
+VODOMIR0001 collected $2.55 from pot
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.12 
+Board [4c As 9d Ah 2h]
+Seat 1: lastfox (big blind) folded before Flop
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 showed [9h 3h] and won ($2.55) with two pair, Aces and Nines
+Seat 5: maltsevig (button) mucked
+Seat 6: megawolt1234 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222965822454:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:15:52 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10 in chips) 
+Seat 2: fish72o ($11.33 in chips) 
+Seat 3: leuu2 ($13.10 in chips) 
+Seat 4: VODOMIR0001 ($4.13 in chips) 
+Seat 5: maltsevig ($10 in chips) 
+Seat 6: megawolt1234 ($28.13 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+VODOMIR0001: calls $0.10
+maltsevig: folds 
+megawolt1234 has timed out
+megawolt1234: folds 
+lastfox: raises $0.25 to $0.35
+fish72o: folds 
+VODOMIR0001: folds 
+Uncalled bet ($0.25) returned to lastfox
+lastfox collected $0.30 from pot
+lastfox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: lastfox (small blind) collected ($0.30)
+Seat 2: fish72o (big blind) folded before Flop
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded before Flop
+Seat 5: maltsevig folded before Flop (didn't bet)
+Seat 6: megawolt1234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965844445:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:16:17 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10.20 in chips) 
+Seat 2: fish72o ($11.23 in chips) 
+Seat 3: leuu2 ($13.10 in chips) 
+Seat 4: VODOMIR0001 ($4.03 in chips) 
+Seat 5: maltsevig ($10 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+*** HOLE CARDS ***
+VODOMIR0001: folds 
+maltsevig: folds 
+lastfox: folds 
+fish72o: folds 
+Uncalled bet ($0.05) returned to leuu2
+leuu2 collected $0.10 from pot
+leuu2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) folded before Flop
+Seat 3: leuu2 (big blind) collected ($0.10)
+Seat 4: VODOMIR0001 folded before Flop (didn't bet)
+Seat 5: maltsevig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965854418:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:16:30 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10.20 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($13.15 in chips) 
+Seat 4: VODOMIR0001 ($4.03 in chips) 
+Seat 5: maltsevig ($10 in chips) 
+leuu2: posts small blind $0.05
+VODOMIR0001: posts big blind $0.10
+*** HOLE CARDS ***
+maltsevig: folds 
+lastfox: folds 
+fish72o: folds 
+leuu2: raises $0.20 to $0.30
+VODOMIR0001: calls $0.20
+*** FLOP *** [Tc 5d Qd]
+leuu2: bets $0.19
+VODOMIR0001: calls $0.19
+*** TURN *** [Tc 5d Qd] [8h]
+leuu2: checks 
+VODOMIR0001: checks 
+*** RIVER *** [Tc 5d Qd 8h] [Kd]
+leuu2: checks 
+VODOMIR0001: bets $0.40
+leuu2: folds 
+Uncalled bet ($0.40) returned to VODOMIR0001
+VODOMIR0001 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Tc 5d Qd 8h Kd]
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o (button) folded before Flop (didn't bet)
+Seat 3: leuu2 (small blind) folded on the River
+Seat 4: VODOMIR0001 (big blind) collected ($0.94)
+Seat 5: maltsevig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965883905:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:17:07 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10.20 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.66 in chips) 
+Seat 4: VODOMIR0001 ($4.48 in chips) 
+Seat 5: maltsevig ($10 in chips) 
+VODOMIR0001: posts small blind $0.05
+maltsevig: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: folds 
+fish72o: folds 
+leuu2: raises $0.20 to $0.30
+VODOMIR0001: folds 
+maltsevig: raises $0.70 to $1
+leuu2: folds 
+Uncalled bet ($0.70) returned to maltsevig
+maltsevig collected $0.65 from pot
+maltsevig: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: lastfox folded before Flop (didn't bet)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 (button) folded before Flop
+Seat 4: VODOMIR0001 (small blind) folded before Flop
+Seat 5: maltsevig (big blind) collected ($0.65)
+
+
+
+PokerStars Hand #222965909655:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:17:39 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10.20 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.36 in chips) 
+Seat 4: VODOMIR0001 ($4.43 in chips) 
+Seat 5: maltsevig ($10.35 in chips) 
+maltsevig: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: calls $0.10
+maltsevig: folds 
+lastfox: checks 
+*** FLOP *** [3c 7c Qc]
+lastfox: checks 
+VODOMIR0001: checks 
+*** TURN *** [3c 7c Qc] [5h]
+lastfox: checks 
+VODOMIR0001: checks 
+*** RIVER *** [3c 7c Qc 5h] [Tc]
+lastfox: checks 
+VODOMIR0001: checks 
+*** SHOW DOWN ***
+lastfox: shows [6d Td] (a pair of Tens)
+VODOMIR0001: shows [Ad Ts] (a pair of Tens - Ace kicker)
+VODOMIR0001 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 7c Qc 5h Tc]
+Seat 1: lastfox (big blind) showed [6d Td] and lost with a pair of Tens
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (button) showed [Ad Ts] and won ($0.24) with a pair of Tens
+Seat 5: maltsevig (small blind) folded before Flop
+
+
+
+PokerStars Hand #222965934885:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:18:11 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10.10 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.36 in chips) 
+Seat 4: VODOMIR0001 ($4.57 in chips) 
+Seat 5: maltsevig ($10.30 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+VODOMIR0001: folds 
+maltsevig: folds 
+lastfox: folds 
+Uncalled bet ($0.05) returned to fish72o
+fish72o collected $0.10 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: fish72o (big blind) collected ($0.10)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded before Flop (didn't bet)
+Seat 5: maltsevig (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965946788:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:18:26 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10.05 in chips) 
+Seat 2: fish72o ($11.23 in chips) 
+Seat 3: leuu2 ($12.36 in chips) 
+Seat 4: VODOMIR0001 ($4.57 in chips) 
+Seat 5: maltsevig ($10.30 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+megawolt1234: sits out 
+*** HOLE CARDS ***
+VODOMIR0001: calls $0.10
+maltsevig: folds 
+lastfox: folds 
+fish72o: folds 
+leuu2: checks 
+*** FLOP *** [7c 8d Kd]
+leuu2: checks 
+VODOMIR0001: checks 
+*** TURN *** [7c 8d Kd] [Ks]
+leuu2: checks 
+VODOMIR0001: checks 
+*** RIVER *** [7c 8d Kd Ks] [Th]
+leuu2: checks 
+VODOMIR0001: bets $0.20
+leuu2: folds 
+Uncalled bet ($0.20) returned to VODOMIR0001
+VODOMIR0001 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7c 8d Kd Ks Th]
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) folded before Flop
+Seat 3: leuu2 (big blind) folded on the River
+Seat 4: VODOMIR0001 collected ($0.24)
+Seat 5: maltsevig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965983977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:19:13 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10.05 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.26 in chips) 
+Seat 4: VODOMIR0001 ($4.71 in chips) 
+Seat 5: maltsevig ($10.30 in chips) 
+leuu2: posts small blind $0.05
+VODOMIR0001: posts big blind $0.10
+megawolt1234: sits out 
+*** HOLE CARDS ***
+maltsevig: folds 
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: folds 
+Uncalled bet ($0.13) returned to lastfox
+lastfox collected $0.25 from pot
+lastfox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lastfox collected ($0.25)
+Seat 2: fish72o (button) folded before Flop (didn't bet)
+Seat 3: leuu2 (small blind) folded before Flop
+Seat 4: VODOMIR0001 (big blind) folded before Flop
+Seat 5: maltsevig folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966001767:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:19:36 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10.20 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.21 in chips) 
+Seat 4: VODOMIR0001 ($4.61 in chips) 
+Seat 5: maltsevig ($10.30 in chips) 
+VODOMIR0001: posts small blind $0.05
+maltsevig: posts big blind $0.10
+megawolt1234: sits out 
+*** HOLE CARDS ***
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: folds 
+maltsevig: folds 
+Uncalled bet ($0.13) returned to lastfox
+lastfox collected $0.25 from pot
+lastfox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lastfox collected ($0.25)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (small blind) folded before Flop
+Seat 5: maltsevig (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966013437:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:19:51 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: lastfox ($10.35 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.21 in chips) 
+Seat 4: VODOMIR0001 ($4.56 in chips) 
+Seat 5: maltsevig ($10.20 in chips) 
+Seat 6: megawolt1234 ($28.13 in chips) 
+maltsevig: posts small blind $0.05
+megawolt1234: posts big blind $0.10
+*** HOLE CARDS ***
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: raises $0.13 to $0.36
+maltsevig: folds 
+megawolt1234: folds 
+lastfox: calls $0.13
+*** FLOP *** [9s 3d Th]
+lastfox: checks 
+VODOMIR0001: checks 
+*** TURN *** [9s 3d Th] [9c]
+lastfox: bets $0.70
+VODOMIR0001: folds 
+Uncalled bet ($0.70) returned to lastfox
+lastfox collected $0.83 from pot
+lastfox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [9s 3d Th 9c]
+Seat 1: lastfox collected ($0.83)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (button) folded on the Turn
+Seat 5: maltsevig (small blind) folded before Flop
+Seat 6: megawolt1234 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966035526:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:20:19 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: lastfox ($10.82 in chips) 
+Seat 2: fish72o ($11.18 in chips) 
+Seat 3: leuu2 ($12.21 in chips) 
+Seat 4: VODOMIR0001 ($4.20 in chips) 
+Seat 5: maltsevig ($10.15 in chips) 
+Seat 6: megawolt1234 ($28.03 in chips) 
+megawolt1234: posts small blind $0.05
+lastfox: posts big blind $0.10
+*** HOLE CARDS ***
+fish72o: raises $0.15 to $0.25
+leuu2: folds 
+VODOMIR0001: calls $0.25
+maltsevig: folds 
+megawolt1234: folds 
+lastfox: folds 
+*** FLOP *** [3d 2s 7d]
+fish72o: bets $0.41
+VODOMIR0001: calls $0.41
+*** TURN *** [3d 2s 7d] [Ah]
+fish72o: bets $0.46
+VODOMIR0001: folds 
+Uncalled bet ($0.46) returned to fish72o
+fish72o collected $1.40 from pot
+fish72o: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.07 
+Board [3d 2s 7d Ah]
+Seat 1: lastfox (big blind) folded before Flop
+Seat 2: fish72o collected ($1.40)
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded on the Turn
+Seat 5: maltsevig (button) folded before Flop (didn't bet)
+Seat 6: megawolt1234 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222966060427:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:20:51 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: lastfox ($10.72 in chips) 
+Seat 2: fish72o ($11.92 in chips) 
+Seat 3: leuu2 ($12.21 in chips) 
+Seat 4: VODOMIR0001 ($3.54 in chips) 
+Seat 5: maltsevig ($10.15 in chips) 
+Seat 6: megawolt1234 ($27.98 in chips) 
+lastfox: posts small blind $0.05
+fish72o: posts big blind $0.10
+*** HOLE CARDS ***
+leuu2: folds 
+VODOMIR0001: calls $0.10
+maltsevig: raises $0.30 to $0.40
+megawolt1234: folds 
+lastfox: folds 
+fish72o: folds 
+VODOMIR0001: calls $0.30
+*** FLOP *** [Qd 5d Ad]
+VODOMIR0001: checks 
+maltsevig: bets $0.59
+VODOMIR0001: folds 
+Uncalled bet ($0.59) returned to maltsevig
+maltsevig collected $0.91 from pot
+maltsevig: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qd 5d Ad]
+Seat 1: lastfox (small blind) folded before Flop
+Seat 2: fish72o (big blind) folded before Flop
+Seat 3: leuu2 folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 folded on the Flop
+Seat 5: maltsevig collected ($0.91)
+Seat 6: megawolt1234 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966087972:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:21:22 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: lastfox ($10.67 in chips) 
+Seat 2: fish72o ($11.82 in chips) 
+Seat 3: leuu2 ($12.21 in chips) 
+Seat 4: VODOMIR0001 ($3.14 in chips) 
+Seat 5: maltsevig ($10.66 in chips) 
+Seat 6: megawolt1234 ($27.98 in chips) 
+fish72o: posts small blind $0.05
+leuu2: posts big blind $0.10
+*** HOLE CARDS ***
+VODOMIR0001: calls $0.10
+maltsevig: calls $0.10
+megawolt1234: folds 
+lastfox: folds 
+fish72o: folds 
+leuu2: checks 
+*** FLOP *** [3d 4c 6d]
+leuu2: checks 
+VODOMIR0001: checks 
+maltsevig: checks 
+*** TURN *** [3d 4c 6d] [Qh]
+leuu2: checks 
+VODOMIR0001: checks 
+maltsevig: checks 
+*** RIVER *** [3d 4c 6d Qh] [3s]
+leuu2: checks 
+VODOMIR0001: checks 
+maltsevig: checks 
+*** SHOW DOWN ***
+leuu2: shows [Tc 7s] (a pair of Threes)
+VODOMIR0001: shows [2c Ad] (a pair of Threes - Ace kicker)
+maltsevig: shows [4s As] (two pair, Fours and Threes)
+maltsevig collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [3d 4c 6d Qh 3s]
+Seat 1: lastfox (button) folded before Flop (didn't bet)
+Seat 2: fish72o (small blind) folded before Flop
+Seat 3: leuu2 (big blind) showed [Tc 7s] and lost with a pair of Threes
+Seat 4: VODOMIR0001 showed [2c Ad] and lost with a pair of Threes
+Seat 5: maltsevig showed [4s As] and won ($0.33) with two pair, Fours and Threes
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966119545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:22:02 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: lastfox ($10.67 in chips) 
+Seat 2: fish72o ($11.77 in chips) 
+Seat 3: leuu2 ($12.11 in chips) 
+Seat 4: VODOMIR0001 ($3.04 in chips) 
+Seat 5: maltsevig ($10.89 in chips) 
+Seat 6: megawolt1234 ($27.98 in chips) 
+leuu2: posts small blind $0.05
+VODOMIR0001: posts big blind $0.10
+*** HOLE CARDS ***
+maltsevig: folds 
+megawolt1234: folds 
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: calls $0.13
+*** FLOP *** [Js 9d 8d]
+VODOMIR0001: checks 
+lastfox: checks 
+*** TURN *** [Js 9d 8d] [Ah]
+VODOMIR0001: checks 
+lastfox: checks 
+*** RIVER *** [Js 9d 8d Ah] [2h]
+VODOMIR0001: bets $0.10
+lastfox: folds 
+Uncalled bet ($0.10) returned to VODOMIR0001
+VODOMIR0001 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Js 9d 8d Ah 2h]
+Seat 1: lastfox folded on the River
+Seat 2: fish72o (button) folded before Flop (didn't bet)
+Seat 3: leuu2 (small blind) folded before Flop
+Seat 4: VODOMIR0001 (big blind) collected ($0.49)
+Seat 5: maltsevig folded before Flop (didn't bet)
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966144919:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:22:35 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: lastfox ($10.44 in chips) 
+Seat 2: fish72o ($11.77 in chips) 
+Seat 3: leuu2 ($12.06 in chips) 
+Seat 4: VODOMIR0001 ($3.30 in chips) 
+Seat 5: maltsevig ($10.89 in chips) 
+Seat 6: megawolt1234 ($27.98 in chips) 
+VODOMIR0001: posts small blind $0.05
+maltsevig: posts big blind $0.10
+*** HOLE CARDS ***
+megawolt1234: folds 
+lastfox: raises $0.13 to $0.23
+fish72o: folds 
+leuu2: folds 
+VODOMIR0001: folds 
+maltsevig: folds 
+Uncalled bet ($0.13) returned to lastfox
+lastfox collected $0.25 from pot
+lastfox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: lastfox collected ($0.25)
+Seat 2: fish72o folded before Flop (didn't bet)
+Seat 3: leuu2 (button) folded before Flop (didn't bet)
+Seat 4: VODOMIR0001 (small blind) folded before Flop
+Seat 5: maltsevig (big blind) folded before Flop
+Seat 6: megawolt1234 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971828559:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:20:21 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($10.43 in chips) 
+Seat 2: Maarten0010 ($21.14 in chips) 
+Seat 3: $iganov1 ($10 in chips) 
+Seat 4: gameonfire ($20.82 in chips) 
+Seat 5: perespell ($18.06 in chips) 
+Seat 6: fernjobsur ($7.75 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.05
+toxa910212: raises $0.40 to $0.50
+fernjobsur: calls $0.40
+*** FLOP *** [3s 5d 9s]
+fernjobsur: checks 
+toxa910212: bets $0.34
+fernjobsur: calls $0.34
+*** TURN *** [3s 5d 9s] [Qd]
+fernjobsur: checks 
+toxa910212: bets $1.06
+fernjobsur: calls $1.06
+*** RIVER *** [3s 5d 9s Qd] [7d]
+fernjobsur: bets $0.20
+toxa910212: calls $0.20
+*** SHOW DOWN ***
+fernjobsur: shows [Qh Ac] (a pair of Queens)
+toxa910212: mucks hand 
+fernjobsur collected $4.01 from pot
+*** SUMMARY ***
+Total pot $4.20 | Rake $0.19 
+Board [3s 5d 9s Qd 7d]
+Seat 1: toxa910212 (big blind) mucked
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) showed [Qh Ac] and won ($4.01) with a pair of Queens
+
+
+
+PokerStars Hand #222971864943:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:21:03 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($10 in chips) 
+Seat 2: Maarten0010 ($21.14 in chips) 
+Seat 3: $iganov1 ($10 in chips) 
+Seat 4: gameonfire ($20.82 in chips) 
+Seat 5: perespell ($18.06 in chips) 
+Seat 6: fernjobsur ($9.66 in chips) 
+toxa910212: posts small blind $0.05
+Maarten0010: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: folds 
+Maarten0010: checks 
+*** FLOP *** [3c Ts 3h]
+Maarten0010: bets $0.24
+fernjobsur: folds 
+Uncalled bet ($0.24) returned to Maarten0010
+Maarten0010 collected $0.24 from pot
+Maarten0010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c Ts 3h]
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: Maarten0010 (big blind) collected ($0.24)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded on the Flop
+
+
+
+PokerStars Hand #222971883477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:21:25 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($10 in chips) 
+Seat 2: Maarten0010 ($21.28 in chips) 
+Seat 3: $iganov1 ($10 in chips) 
+Seat 4: gameonfire ($20.82 in chips) 
+Seat 5: perespell ($18.06 in chips) 
+Seat 6: fernjobsur ($9.56 in chips) 
+Maarten0010: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: raises $0.20 to $0.30
+$iganov1: calls $0.20
+gameonfire: calls $0.20
+*** FLOP *** [9c 3c 2d]
+Maarten0010: checks 
+$iganov1: checks 
+gameonfire: checks 
+*** TURN *** [9c 3c 2d] [Kc]
+Maarten0010: checks 
+$iganov1: checks 
+gameonfire: checks 
+*** RIVER *** [9c 3c 2d Kc] [6s]
+Maarten0010: checks 
+$iganov1: checks 
+gameonfire: checks 
+*** SHOW DOWN ***
+Maarten0010: shows [5s As] (high card Ace)
+$iganov1: shows [6d Ad] (a pair of Sixes)
+gameonfire: shows [9d 7d] (a pair of Nines)
+gameonfire collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [9c 3c 2d Kc 6s]
+Seat 1: toxa910212 (button) folded before Flop (didn't bet)
+Seat 2: Maarten0010 (small blind) showed [5s As] and lost with high card Ace
+Seat 3: $iganov1 (big blind) showed [6d Ad] and lost with a pair of Sixes
+Seat 4: gameonfire showed [9d 7d] and won ($0.86) with a pair of Nines
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971926520:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:22:15 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($10 in chips) 
+Seat 2: Maarten0010 ($20.98 in chips) 
+Seat 3: $iganov1 ($10 in chips) 
+Seat 4: gameonfire ($21.38 in chips) 
+Seat 5: perespell ($18.06 in chips) 
+Seat 6: fernjobsur ($9.56 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+toxa910212: raises $0.15 to $0.25
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.15
+*** FLOP *** [Tc Kd Ac]
+gameonfire: checks 
+toxa910212: bets $0.53
+gameonfire: calls $0.53
+*** TURN *** [Tc Kd Ac] [9s]
+gameonfire: checks 
+toxa910212: bets $1.02
+gameonfire: folds 
+Uncalled bet ($1.02) returned to toxa910212
+toxa910212 collected $1.54 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.07 
+Board [Tc Kd Ac 9s]
+Seat 1: toxa910212 collected ($1.54)
+Seat 2: Maarten0010 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded on the Turn
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971954361:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:22:48 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($10.76 in chips) 
+Seat 2: Maarten0010 ($20.98 in chips) 
+Seat 3: $iganov1 ($10 in chips) 
+Seat 4: gameonfire ($20.60 in chips) 
+Seat 5: perespell ($18.06 in chips) 
+Seat 6: fernjobsur ($9.56 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: calls $0.10
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: raises $0.35 to $0.45
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.35
+*** FLOP *** [Kd 5d 7s]
+fernjobsur: bets $0.10
+$iganov1: raises $0.65 to $0.75
+fernjobsur: folds 
+Uncalled bet ($0.65) returned to $iganov1
+$iganov1 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kd 5d 7s]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) collected ($1.19)
+Seat 4: gameonfire (small blind) folded before Flop
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: fernjobsur folded on the Flop
+
+
+
+PokerStars Hand #222971992200:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:23:24 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($10.76 in chips) 
+Seat 2: Maarten0010 ($20.98 in chips) 
+Seat 3: $iganov1 ($10.64 in chips) 
+Seat 4: gameonfire ($20.55 in chips) 
+Seat 5: perespell ($17.96 in chips) 
+Seat 6: fernjobsur ($9.01 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: raises $0.20 to $0.30
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.30
+perespell: folds 
+fernjobsur: calls $0.20
+*** FLOP *** [2c 9s Kc]
+fernjobsur: checks 
+toxa910212: bets $0.60
+gameonfire: folds 
+fernjobsur: calls $0.60
+*** TURN *** [2c 9s Kc] [9d]
+fernjobsur: checks 
+toxa910212: checks 
+*** RIVER *** [2c 9s Kc 9d] [2d]
+fernjobsur: bets $0.30
+toxa910212: calls $0.30
+*** SHOW DOWN ***
+fernjobsur: shows [3c 5c] (two pair, Nines and Deuces)
+toxa910212: shows [Ah Kh] (two pair, Kings and Nines)
+toxa910212 collected $2.63 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.12 
+Board [2c 9s Kc 9d 2d]
+Seat 1: toxa910212 showed [Ah Kh] and won ($2.63) with two pair, Kings and Nines
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded on the Flop
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) showed [3c 5c] and lost with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #222972024637:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:02 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($12.19 in chips) 
+Seat 2: Maarten0010 ($20.98 in chips) 
+Seat 3: $iganov1 ($10.64 in chips) 
+Seat 4: gameonfire ($20.25 in chips) 
+Seat 5: perespell ($17.91 in chips) 
+Seat 6: fernjobsur ($7.81 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.05
+toxa910212: checks 
+*** FLOP *** [3d Ad 9d]
+fernjobsur: bets $0.10
+toxa910212: folds 
+gameonfire: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.29 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3d Ad 9d]
+Seat 1: toxa910212 (big blind) folded on the Flop
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #222972041456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:21 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($12.09 in chips) 
+Seat 2: Maarten0010 ($20.98 in chips) 
+Seat 3: $iganov1 ($10.64 in chips) 
+Seat 4: gameonfire ($20.15 in chips) 
+Seat 5: perespell ($17.91 in chips) 
+Seat 6: fernjobsur ($8 in chips) 
+toxa910212: posts small blind $0.05
+Maarten0010: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+toxa910212: calls $0.05
+Maarten0010: raises $0.20 to $0.30
+gameonfire: calls $0.20
+toxa910212: folds 
+*** FLOP *** [9c 2c 3h]
+Maarten0010: checks 
+gameonfire: checks 
+*** TURN *** [9c 2c 3h] [Qd]
+Maarten0010: bets $0.50
+gameonfire: folds 
+Uncalled bet ($0.50) returned to Maarten0010
+Maarten0010 collected $0.67 from pot
+Maarten0010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [9c 2c 3h Qd]
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: Maarten0010 (big blind) collected ($0.67)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Turn
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972066358:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:24:51 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($11.99 in chips) 
+Seat 2: Maarten0010 ($21.35 in chips) 
+Seat 3: $iganov1 ($10.64 in chips) 
+Seat 4: gameonfire ($19.85 in chips) 
+Seat 5: perespell ($17.91 in chips) 
+Seat 6: fernjobsur ($8 in chips) 
+Maarten0010: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: raises $0.10 to $0.20
+Maarten0010: folds 
+$iganov1: folds 
+fernjobsur: calls $0.10
+*** FLOP *** [8c 8h 2c]
+fernjobsur: checks 
+toxa910212: checks 
+*** TURN *** [8c 8h 2c] [9s]
+fernjobsur: checks 
+toxa910212: checks 
+*** RIVER *** [8c 8h 2c 9s] [Tc]
+fernjobsur: checks 
+toxa910212: bets $0.35
+fernjobsur: calls $0.35
+*** SHOW DOWN ***
+toxa910212: shows [Jc Qh] (a straight, Eight to Queen)
+fernjobsur: mucks hand 
+toxa910212 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [8c 8h 2c 9s Tc]
+Seat 1: toxa910212 (button) showed [Jc Qh] and won ($1.19) with a straight, Eight to Queen
+Seat 2: Maarten0010 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) folded before Flop
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur mucked
+
+
+
+PokerStars Hand #222972107050:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:25:39 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($12.63 in chips) 
+Seat 2: Maarten0010 ($21.30 in chips) 
+Seat 3: $iganov1 ($10.54 in chips) 
+Seat 4: gameonfire ($19.85 in chips) 
+Seat 5: perespell ($17.91 in chips) 
+Seat 6: fernjobsur ($7.45 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: checks 
+*** FLOP *** [3h Jd 2s]
+gameonfire: checks 
+fernjobsur: checks 
+*** TURN *** [3h Jd 2s] [9s]
+gameonfire: checks 
+fernjobsur: checks 
+*** RIVER *** [3h Jd 2s 9s] [As]
+gameonfire: checks 
+fernjobsur: bets $0.24
+gameonfire: folds 
+Uncalled bet ($0.24) returned to fernjobsur
+fernjobsur collected $0.24 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h Jd 2s 9s As]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded on the River
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur collected ($0.24)
+
+
+
+PokerStars Hand #222972130347:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:26:06 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($12.63 in chips) 
+Seat 2: Maarten0010 ($21.30 in chips) 
+Seat 3: $iganov1 ($10.49 in chips) 
+Seat 4: gameonfire ($19.75 in chips) 
+Seat 5: perespell ($17.91 in chips) 
+Seat 6: fernjobsur ($7.59 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [Tc Qh Kh]
+gameonfire: checks 
+perespell: checks 
+*** TURN *** [Tc Qh Kh] [4h]
+gameonfire: bets $0.19
+perespell: folds 
+Uncalled bet ($0.19) returned to gameonfire
+gameonfire collected $0.19 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Tc Qh Kh 4h]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) collected ($0.19)
+Seat 5: perespell (big blind) folded on the Turn
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972148944:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:26:28 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($12.63 in chips) 
+Seat 2: Maarten0010 ($21.30 in chips) 
+Seat 3: $iganov1 ($10.49 in chips) 
+Seat 4: gameonfire ($19.84 in chips) 
+Seat 5: perespell ($17.81 in chips) 
+Seat 6: fernjobsur ($7.59 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: checks 
+*** FLOP *** [Js 7d Jh]
+fernjobsur: checks 
+gameonfire: checks 
+*** TURN *** [Js 7d Jh] [9h]
+fernjobsur: checks 
+gameonfire: bets $0.24
+fernjobsur: folds 
+Uncalled bet ($0.24) returned to gameonfire
+gameonfire collected $0.24 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Js 7d Jh 9h]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) collected ($0.24)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222972172916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:26:57 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($12.63 in chips) 
+Seat 2: Maarten0010 ($21.30 in chips) 
+Seat 3: $iganov1 ($10.49 in chips) 
+Seat 4: gameonfire ($19.98 in chips) 
+Seat 5: perespell ($17.76 in chips) 
+Seat 6: fernjobsur ($7.49 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+toxa910212: checks 
+*** FLOP *** [Ac 5c 6c]
+toxa910212: checks 
+gameonfire: checks 
+*** TURN *** [Ac 5c 6c] [8c]
+toxa910212: bets $0.16
+gameonfire: calls $0.16
+*** RIVER *** [Ac 5c 6c 8c] [Kd]
+toxa910212: bets $0.28
+gameonfire: calls $0.28
+*** SHOW DOWN ***
+toxa910212: shows [Th Qc] (a flush, Ace high)
+gameonfire: mucks hand 
+toxa910212 collected $1.08 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.05 
+Board [Ac 5c 6c 8c Kd]
+Seat 1: toxa910212 (big blind) showed [Th Qc] and won ($1.08) with a flush, Ace high
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire mucked
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972206926:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:27:36 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($13.17 in chips) 
+Seat 2: Maarten0010 ($21.30 in chips) 
+Seat 3: $iganov1 ($10.49 in chips) 
+Seat 4: gameonfire ($19.44 in chips) 
+Seat 5: perespell ($17.76 in chips) 
+Seat 6: fernjobsur ($7.44 in chips) 
+toxa910212: posts small blind $0.05
+Maarten0010: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: folds 
+perespell: raises $0.15 to $0.25
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: calls $0.15
+*** FLOP *** [Ks Ac 9h]
+Maarten0010: checks 
+perespell: checks 
+*** TURN *** [Ks Ac 9h] [3c]
+Maarten0010: bets $0.30
+perespell: calls $0.30
+*** RIVER *** [Ks Ac 9h 3c] [4c]
+Maarten0010: bets $0.90
+perespell: raises $16.31 to $17.21 and is all-in
+Maarten0010: folds 
+Uncalled bet ($16.31) returned to perespell
+perespell collected $2.82 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.95 | Rake $0.13 
+Board [Ks Ac 9h 3c 4c]
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: Maarten0010 (big blind) folded on the River
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell collected ($2.82)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972247933:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:28:25 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($13.12 in chips) 
+Seat 2: Maarten0010 ($19.85 in chips) 
+Seat 3: $iganov1 ($10.49 in chips) 
+Seat 4: gameonfire ($19.44 in chips) 
+Seat 5: perespell ($19.13 in chips) 
+Seat 6: fernjobsur ($7.44 in chips) 
+Maarten0010: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: raises $0.70 to $0.80
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.70
+fernjobsur: calls $0.70
+*** FLOP *** [7s 8c 5h]
+gameonfire: checks 
+fernjobsur: checks 
+toxa910212: bets $1.24
+gameonfire: folds 
+fernjobsur: folds 
+Uncalled bet ($1.24) returned to toxa910212
+toxa910212 collected $2.44 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [7s 8c 5h]
+Seat 1: toxa910212 (button) collected ($2.44)
+Seat 2: Maarten0010 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) folded before Flop
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded on the Flop
+
+
+
+PokerStars Hand #222972281120:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:04 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($14.76 in chips) 
+Seat 2: Maarten0010 ($19.80 in chips) 
+Seat 3: $iganov1 ($10.39 in chips) 
+Seat 4: gameonfire ($18.64 in chips) 
+Seat 5: perespell ($19.13 in chips) 
+Seat 6: fernjobsur ($6.64 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: folds 
+Maarten0010: raises $0.20 to $0.30
+$iganov1: folds 
+gameonfire: calls $0.20
+fernjobsur: calls $0.20
+*** FLOP *** [8h 5h 2h]
+gameonfire: checks 
+fernjobsur: checks 
+Maarten0010: bets $0.50
+gameonfire: folds 
+fernjobsur: folds 
+Uncalled bet ($0.50) returned to Maarten0010
+Maarten0010 collected $0.91 from pot
+Maarten0010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8h 5h 2h]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 (button) collected ($0.91)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded on the Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded on the Flop
+
+
+
+PokerStars Hand #222972309707:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:29:38 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($14.76 in chips) 
+Seat 2: Maarten0010 ($20.41 in chips) 
+Seat 3: $iganov1 ($10.34 in chips) 
+Seat 4: gameonfire ($18.34 in chips) 
+Seat 5: perespell ($19.13 in chips) 
+Seat 6: fernjobsur ($6.34 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+toxa910212: raises $0.20 to $0.30
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.25
+perespell: folds 
+*** FLOP *** [3h 2h 2c]
+gameonfire: checks 
+toxa910212: checks 
+*** TURN *** [3h 2h 2c] [7c]
+gameonfire: checks 
+toxa910212: checks 
+*** RIVER *** [3h 2h 2c 7c] [2s]
+gameonfire: checks 
+toxa910212: checks 
+*** SHOW DOWN ***
+gameonfire: shows [5s 6s] (three of a kind, Deuces)
+toxa910212: shows [Td Ad] (three of a kind, Deuces - Ace kicker)
+toxa910212 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3h 2h 2c 7c 2s]
+Seat 1: toxa910212 showed [Td Ad] and won ($0.67) with three of a kind, Deuces
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) showed [5s 6s] and lost with three of a kind, Deuces
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972336344:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:30:08 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($15.13 in chips) 
+Seat 2: Maarten0010 ($20.41 in chips) 
+Seat 3: $iganov1 ($10.34 in chips) 
+Seat 4: gameonfire ($18.04 in chips) 
+Seat 5: perespell ($19.03 in chips) 
+Seat 6: fernjobsur ($6.34 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: raises $0.13 to $0.23
+gameonfire: calls $0.23
+perespell: raises $0.72 to $0.95
+fernjobsur: folds 
+$iganov1: folds 
+gameonfire: calls $0.72
+*** FLOP *** [Ad 7d 2h]
+perespell: bets $0.80
+gameonfire: raises $4.23 to $5.03
+perespell: folds 
+Uncalled bet ($4.23) returned to gameonfire
+gameonfire collected $3.66 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.83 | Rake $0.17 
+Board [Ad 7d 2h]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop
+Seat 4: gameonfire (button) collected ($3.66)
+Seat 5: perespell (small blind) folded on the Flop
+Seat 6: fernjobsur (big blind) folded before Flop
+
+
+
+PokerStars Hand #222972373175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:30:52 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($15.13 in chips) 
+Seat 2: Maarten0010 ($20.41 in chips) 
+Seat 3: $iganov1 ($10.11 in chips) 
+Seat 4: gameonfire ($19.95 in chips) 
+Seat 5: perespell ($17.28 in chips) 
+Seat 6: fernjobsur ($6.24 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+Maarten0010: raises $0.10 to $0.20
+$iganov1: folds 
+gameonfire: calls $0.20
+perespell: folds 
+fernjobsur: calls $0.15
+toxa910212: raises $1.50 to $1.70
+Maarten0010: folds 
+gameonfire: folds 
+fernjobsur: folds 
+Uncalled bet ($1.50) returned to toxa910212
+toxa910212 collected $0.80 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0 
+Seat 1: toxa910212 (big blind) collected ($0.80)
+Seat 2: Maarten0010 folded before Flop
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972393930:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:31:12 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($15.73 in chips) 
+Seat 2: Maarten0010 ($20.21 in chips) 
+Seat 3: $iganov1 ($10.11 in chips) 
+Seat 4: gameonfire ($19.75 in chips) 
+Seat 5: perespell ($17.28 in chips) 
+Seat 6: fernjobsur ($6.04 in chips) 
+toxa910212: posts small blind $0.05
+Maarten0010: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: raises $0.13 to $0.23
+gameonfire: folds 
+perespell: calls $0.23
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: folds 
+*** FLOP *** [Ts 7c 9h]
+$iganov1: bets $0.39
+perespell: calls $0.39
+*** TURN *** [Ts 7c 9h] [Qd]
+$iganov1: checks 
+perespell: checks 
+*** RIVER *** [Ts 7c 9h Qd] [3h]
+$iganov1: bets $1
+perespell: calls $1
+*** SHOW DOWN ***
+$iganov1: shows [Ad Ac] (a pair of Aces)
+perespell: mucks hand 
+$iganov1 collected $3.24 from pot
+*** SUMMARY ***
+Total pot $3.39 | Rake $0.15 
+Board [Ts 7c 9h Qd 3h]
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: Maarten0010 (big blind) folded before Flop
+Seat 3: $iganov1 showed [Ad Ac] and won ($3.24) with a pair of Aces
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell mucked
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972420621:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:31:43 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($15.68 in chips) 
+Seat 2: Maarten0010 ($20.11 in chips) 
+Seat 3: $iganov1 ($11.73 in chips) 
+Seat 4: gameonfire ($19.75 in chips) 
+Seat 5: perespell ($15.66 in chips) 
+Seat 6: fernjobsur ($6.04 in chips) 
+Maarten0010: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: calls $0.05
+$iganov1: checks 
+*** FLOP *** [9s Ac Kc]
+Maarten0010: checks 
+$iganov1: checks 
+gameonfire: checks 
+*** TURN *** [9s Ac Kc] [3c]
+Maarten0010: bets $0.15
+$iganov1: raises $0.39 to $0.54
+gameonfire: folds 
+Maarten0010: calls $0.39
+*** RIVER *** [9s Ac Kc 3c] [6s]
+Maarten0010: checks 
+$iganov1: bets $0.99
+Maarten0010: calls $0.99
+*** SHOW DOWN ***
+$iganov1: shows [3d 3s] (three of a kind, Threes)
+Maarten0010: mucks hand 
+$iganov1 collected $3.21 from pot
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.15 
+Board [9s Ac Kc 3c 6s]
+Seat 1: toxa910212 (button) folded before Flop (didn't bet)
+Seat 2: Maarten0010 (small blind) mucked
+Seat 3: $iganov1 (big blind) showed [3d 3s] and won ($3.21) with three of a kind, Threes
+Seat 4: gameonfire folded on the Turn
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972456830:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:32:25 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($15.68 in chips) 
+Seat 2: Maarten0010 ($18.48 in chips) 
+Seat 3: $iganov1 ($13.31 in chips) 
+Seat 4: gameonfire ($19.65 in chips) 
+Seat 5: perespell ($15.66 in chips) 
+Seat 6: fernjobsur ($6.04 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: folds 
+Maarten0010: raises $0.20 to $0.30
+$iganov1: folds 
+gameonfire: folds 
+fernjobsur: calls $0.20
+*** FLOP *** [Ac 5c 3d]
+fernjobsur: checks 
+Maarten0010: bets $0.30
+fernjobsur: folds 
+Uncalled bet ($0.30) returned to Maarten0010
+Maarten0010 collected $0.72 from pot
+Maarten0010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ac 5c 3d]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 (button) collected ($0.72)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded on the Flop
+
+
+
+PokerStars Hand #222972479215:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:32:52 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($15.68 in chips) 
+Seat 2: Maarten0010 ($18.90 in chips) 
+Seat 3: $iganov1 ($13.26 in chips) 
+Seat 4: gameonfire ($19.55 in chips) 
+Seat 5: perespell ($15.66 in chips) 
+Seat 6: fernjobsur ($5.74 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: raises $0.13 to $0.23
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.13) returned to $iganov1
+$iganov1 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) collected ($0.25)
+Seat 4: gameonfire (small blind) folded before Flop
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972492969:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:33:08 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($15.68 in chips) 
+Seat 2: Maarten0010 ($18.90 in chips) 
+Seat 3: $iganov1 ($13.41 in chips) 
+Seat 4: gameonfire ($19.50 in chips) 
+Seat 5: perespell ($15.56 in chips) 
+Seat 6: fernjobsur ($5.74 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+Maarten0010: folds 
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: calls $0.05
+fernjobsur: checks 
+*** FLOP *** [6c Ks Tc]
+perespell: bets $0.15
+fernjobsur: folds 
+gameonfire: calls $0.15
+*** TURN *** [6c Ks Tc] [9d]
+perespell: bets $0.29
+gameonfire: calls $0.29
+*** RIVER *** [6c Ks Tc 9d] [2c]
+perespell: bets $0.58
+gameonfire: calls $0.58
+*** SHOW DOWN ***
+perespell: shows [Kd 9h] (two pair, Kings and Nines)
+gameonfire: mucks hand 
+perespell collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.34 | Rake $0.11 
+Board [6c Ks Tc 9d 2c]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: Maarten0010 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) mucked
+Seat 5: perespell (small blind) showed [Kd 9h] and won ($2.23) with two pair, Kings and Nines
+Seat 6: fernjobsur (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222972529445:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:33:52 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($15.68 in chips) 
+Seat 2: Maarten0010 ($18.90 in chips) 
+Seat 3: $iganov1 ($13.41 in chips) 
+Seat 4: gameonfire ($18.38 in chips) 
+Seat 5: perespell ($16.67 in chips) 
+Seat 6: fernjobsur ($5.64 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+Maarten0010: calls $0.10
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.05
+toxa910212: checks 
+*** FLOP *** [4d 3c 8s]
+fernjobsur: checks 
+toxa910212: checks 
+Maarten0010: bets $0.19
+gameonfire: calls $0.19
+fernjobsur: calls $0.19
+toxa910212: calls $0.19
+*** TURN *** [4d 3c 8s] [8h]
+fernjobsur: checks 
+toxa910212: checks 
+Maarten0010: bets $0.80
+gameonfire: folds 
+fernjobsur: folds 
+toxa910212: folds 
+Uncalled bet ($0.80) returned to Maarten0010
+Maarten0010 collected $1.11 from pot
+Maarten0010: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [4d 3c 8s 8h]
+Seat 1: toxa910212 (big blind) folded on the Turn
+Seat 2: Maarten0010 collected ($1.11)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Turn
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222972561737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:34:30 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($15.39 in chips) 
+Seat 2: Maarten0010 ($19.72 in chips) 
+Seat 3: $iganov1 ($13.41 in chips) 
+Seat 4: gameonfire ($18.09 in chips) 
+Seat 5: perespell ($16.67 in chips) 
+Seat 6: fernjobsur ($5.35 in chips) 
+toxa910212: posts small blind $0.05
+Maarten0010: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: raises $0.13 to $0.23
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+toxa910212: folds 
+Maarten0010: raises $0.37 to $0.60
+$iganov1: calls $0.37
+*** FLOP *** [7h 4h Qs]
+Maarten0010: bets $1.80
+$iganov1: folds 
+Uncalled bet ($1.80) returned to Maarten0010
+Maarten0010 collected $1.19 from pot
+Maarten0010: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [7h 4h Qs]
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: Maarten0010 (big blind) collected ($1.19)
+Seat 3: $iganov1 folded on the Flop
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972589642:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:35:03 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($15.34 in chips) 
+Seat 2: Maarten0010 ($20.31 in chips) 
+Seat 3: $iganov1 ($12.81 in chips) 
+Seat 4: gameonfire ($18.09 in chips) 
+Seat 5: perespell ($16.67 in chips) 
+Seat 6: fernjobsur ($5.35 in chips) 
+Maarten0010: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: raises $0.15 to $0.25
+fernjobsur: calls $0.25
+toxa910212: folds 
+Maarten0010: calls $0.20
+$iganov1: folds 
+*** FLOP *** [Ac Jh Ks]
+Maarten0010: checks 
+perespell: bets $0.41
+fernjobsur: calls $0.41
+Maarten0010: calls $0.41
+*** TURN *** [Ac Jh Ks] [Kc]
+Maarten0010: checks 
+perespell: checks 
+fernjobsur: bets $0.10
+Maarten0010: calls $0.10
+perespell: calls $0.10
+*** RIVER *** [Ac Jh Ks Kc] [4c]
+Maarten0010: checks 
+perespell: checks 
+fernjobsur: bets $2.27
+Maarten0010: raises $5.37 to $7.64
+perespell: folds 
+fernjobsur: calls $2.32 and is all-in
+Uncalled bet ($3.05) returned to Maarten0010
+*** SHOW DOWN ***
+Maarten0010: shows [8c Ah] (two pair, Aces and Kings)
+fernjobsur: shows [Th Kd] (three of a kind, Kings)
+fernjobsur collected $11.04 from pot
+*** SUMMARY ***
+Total pot $11.56 | Rake $0.52 
+Board [Ac Jh Ks Kc 4c]
+Seat 1: toxa910212 (button) folded before Flop (didn't bet)
+Seat 2: Maarten0010 (small blind) showed [8c Ah] and lost with two pair, Aces and Kings
+Seat 3: $iganov1 (big blind) folded before Flop
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded on the River
+Seat 6: fernjobsur showed [Th Kd] and won ($11.04) with three of a kind, Kings
+
+
+
+PokerStars Hand #222972641453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:05 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($15.34 in chips) 
+Seat 2: Maarten0010 ($14.96 in chips) 
+Seat 3: $iganov1 ($12.71 in chips) 
+Seat 4: gameonfire ($18.09 in chips) 
+Seat 5: perespell ($15.91 in chips) 
+Seat 6: fernjobsur ($11.04 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+toxa910212: raises $0.15 to $0.25
+Maarten0010: folds 
+Maarten0010 leaves the table
+and 07335 joins the table at seat #2 
+$iganov1: raises $0.70 to $0.95
+gameonfire: folds 
+toxa910212: folds 
+Uncalled bet ($0.70) returned to $iganov1
+$iganov1 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: toxa910212 folded before Flop
+Seat 2: Maarten0010 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) collected ($0.60)
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972657408:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:24 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($15.09 in chips) 
+Seat 3: $iganov1 ($13.06 in chips) 
+Seat 4: gameonfire ($17.99 in chips) 
+Seat 5: perespell ($15.91 in chips) 
+Seat 6: fernjobsur ($11.04 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+and 07335: sits out 
+*** HOLE CARDS ***
+fernjobsur: folds 
+toxa910212: folds 
+$iganov1: raises $0.13 to $0.23
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.13) returned to $iganov1
+$iganov1 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) collected ($0.25)
+Seat 4: gameonfire (small blind) folded before Flop
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972667200:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:36 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($15.09 in chips) 
+Seat 3: $iganov1 ($13.21 in chips) 
+Seat 4: gameonfire ($17.94 in chips) 
+Seat 5: perespell ($15.81 in chips) 
+Seat 6: fernjobsur ($11.04 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+and 07335: sits out 
+*** HOLE CARDS ***
+toxa910212: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.05) returned to fernjobsur
+fernjobsur collected $0.10 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222972673153:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:36:43 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($15.09 in chips) 
+Seat 3: $iganov1 ($13.21 in chips) 
+Seat 4: gameonfire ($17.94 in chips) 
+Seat 5: perespell ($15.76 in chips) 
+Seat 6: fernjobsur ($11.09 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+and 07335: sits out 
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.05
+toxa910212: raises $0.30 to $0.40
+fernjobsur: calls $0.30
+*** FLOP *** [Tc Qh Ad]
+fernjobsur: checks 
+toxa910212: bets $0.50
+fernjobsur: calls $0.50
+*** TURN *** [Tc Qh Ad] [9d]
+fernjobsur: checks 
+toxa910212: bets $1.14
+fernjobsur: folds 
+Uncalled bet ($1.14) returned to toxa910212
+toxa910212 collected $1.72 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Tc Qh Ad 9d]
+Seat 1: toxa910212 (big blind) collected ($1.72)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222972715522:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:37:34 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($15.91 in chips) 
+Seat 2: and 07335 ($10 in chips) 
+Seat 3: $iganov1 ($13.21 in chips) 
+Seat 4: gameonfire ($17.94 in chips) 
+Seat 5: perespell ($15.76 in chips) 
+Seat 6: fernjobsur ($10.19 in chips) 
+toxa910212: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: folds 
+and 07335: checks 
+*** FLOP *** [7d 6d 3d]
+and 07335: checks 
+gameonfire: bets $0.63
+fernjobsur: calls $0.63
+and 07335: folds 
+*** TURN *** [7d 6d 3d] [4c]
+gameonfire: bets $1.54
+fernjobsur: calls $1.54
+*** RIVER *** [7d 6d 3d 4c] [2c]
+gameonfire: bets $4.48
+fernjobsur: folds 
+Uncalled bet ($4.48) returned to gameonfire
+gameonfire collected $4.48 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.69 | Rake $0.21 
+Board [7d 6d 3d 4c 2c]
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) folded on the Flop
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire collected ($4.48)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded on the River
+
+
+
+PokerStars Hand #222972759326:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:38:26 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($15.86 in chips) 
+Seat 2: and 07335 ($10 in chips) 
+Seat 3: $iganov1 ($13.21 in chips) 
+Seat 4: gameonfire ($20.15 in chips) 
+Seat 5: perespell ($15.76 in chips) 
+Seat 6: fernjobsur ($7.92 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: raises $0.10 to $0.20
+and 07335: calls $0.15
+$iganov1: folds 
+fernjobsur: calls $0.10
+*** FLOP *** [8h 4c Ts]
+and 07335: checks 
+fernjobsur: checks 
+toxa910212: checks 
+*** TURN *** [8h 4c Ts] [7d]
+and 07335: checks 
+fernjobsur: checks 
+toxa910212: checks 
+*** RIVER *** [8h 4c Ts 7d] [As]
+and 07335: checks 
+fernjobsur: checks 
+toxa910212: checks 
+*** SHOW DOWN ***
+and 07335: shows [Qs Jd] (high card Ace)
+fernjobsur: shows [2c 2s] (a pair of Deuces)
+toxa910212: mucks hand 
+fernjobsur collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [8h 4c Ts 7d As]
+Seat 1: toxa910212 (button) mucked
+Seat 2: and 07335 (small blind) showed [Qs Jd] and lost with high card Ace
+Seat 3: $iganov1 (big blind) folded before Flop
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur showed [2c 2s] and won ($0.67) with a pair of Deuces
+
+
+
+PokerStars Hand #222972793008:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:07 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($15.66 in chips) 
+Seat 2: and 07335 ($10 in chips) 
+Seat 3: $iganov1 ($13.11 in chips) 
+Seat 4: gameonfire ($20.15 in chips) 
+Seat 5: perespell ($15.76 in chips) 
+Seat 6: fernjobsur ($8.39 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+toxa910212: folds 
+and 07335: raises $0.12 to $0.22
+$iganov1: folds 
+gameonfire: folds 
+Uncalled bet ($0.12) returned to and 07335
+and 07335 collected $0.25 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 (button) collected ($0.25)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972809756:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:39:27 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($15.66 in chips) 
+Seat 2: and 07335 ($10.15 in chips) 
+Seat 3: $iganov1 ($13.06 in chips) 
+Seat 4: gameonfire ($20.05 in chips) 
+Seat 5: perespell ($15.76 in chips) 
+Seat 6: fernjobsur ($8.39 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: calls $0.10
+toxa910212: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [6s Js Tc]
+gameonfire: checks 
+perespell: checks 
+fernjobsur: bets $0.10
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.29 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6s Js Tc]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) folded on the Flop
+Seat 5: perespell (big blind) folded on the Flop
+Seat 6: fernjobsur collected ($0.29)
+
+
+
+PokerStars Hand #222972850044:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:03 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($15.66 in chips) 
+Seat 2: and 07335 ($10.15 in chips) 
+Seat 3: $iganov1 ($13.06 in chips) 
+Seat 4: gameonfire ($19.95 in chips) 
+Seat 5: perespell ($15.66 in chips) 
+Seat 6: fernjobsur ($8.58 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.05) returned to fernjobsur
+fernjobsur collected $0.10 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222972860645:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:16 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($15.66 in chips) 
+Seat 2: and 07335 ($10.15 in chips) 
+Seat 3: $iganov1 ($13.06 in chips) 
+Seat 4: gameonfire ($19.95 in chips) 
+Seat 5: perespell ($15.61 in chips) 
+Seat 6: fernjobsur ($8.63 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+Uncalled bet ($0.05) returned to toxa910212
+toxa910212 collected $0.10 from pot
+toxa910212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: toxa910212 (big blind) collected ($0.10)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded before Flop
+
+
+
+PokerStars Hand #222972869192:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:27 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($15.71 in chips) 
+Seat 2: and 07335 ($10.15 in chips) 
+Seat 3: $iganov1 ($13.06 in chips) 
+Seat 4: gameonfire ($19.95 in chips) 
+Seat 5: perespell ($15.61 in chips) 
+Seat 6: fernjobsur ($8.58 in chips) 
+toxa910212: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+toxa910212: folds 
+Uncalled bet ($0.05) returned to and 07335
+and 07335 collected $0.10 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: toxa910212 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) collected ($0.10)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972876168:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:40:35 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($15.66 in chips) 
+Seat 2: and 07335 ($10.20 in chips) 
+Seat 3: $iganov1 ($13.06 in chips) 
+Seat 4: gameonfire ($19.95 in chips) 
+Seat 5: perespell ($15.61 in chips) 
+Seat 6: fernjobsur ($8.58 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+toxa910212: folds 
+and 07335: folds 
+$iganov1: checks 
+*** FLOP *** [5d 9d 7c]
+$iganov1: checks 
+gameonfire: checks 
+fernjobsur: checks 
+*** TURN *** [5d 9d 7c] [Qs]
+$iganov1: checks 
+gameonfire: bets $0.33
+fernjobsur: folds 
+$iganov1: folds 
+Uncalled bet ($0.33) returned to gameonfire
+gameonfire collected $0.33 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [5d 9d 7c Qs]
+Seat 1: toxa910212 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) folded on the Turn
+Seat 4: gameonfire collected ($0.33)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded on the Turn
+
+
+
+PokerStars Hand #222972913813:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:21 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($15.66 in chips) 
+Seat 2: and 07335 ($10.15 in chips) 
+Seat 3: $iganov1 ($12.96 in chips) 
+Seat 4: gameonfire ($20.18 in chips) 
+Seat 5: perespell ($15.61 in chips) 
+Seat 6: fernjobsur ($8.48 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: raises $0.15 to $0.25
+fernjobsur: folds 
+toxa910212: calls $0.25
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+*** FLOP *** [4d Tc Kd]
+perespell: checks 
+toxa910212: checks 
+*** TURN *** [4d Tc Kd] [5h]
+perespell: checks 
+toxa910212: checks 
+*** RIVER *** [4d Tc Kd 5h] [4h]
+perespell: checks 
+toxa910212: checks 
+*** SHOW DOWN ***
+perespell: shows [As 7s] (a pair of Fours)
+toxa910212: mucks hand 
+perespell collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4d Tc Kd 5h 4h]
+Seat 1: toxa910212 mucked
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell showed [As 7s] and won ($0.62) with a pair of Fours
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222972943450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:41:57 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($15.41 in chips) 
+Seat 2: and 07335 ($10.15 in chips) 
+Seat 3: $iganov1 ($12.91 in chips) 
+Seat 4: gameonfire ($20.08 in chips) 
+Seat 5: perespell ($15.98 in chips) 
+Seat 6: fernjobsur ($8.48 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+toxa910212: folds 
+and 07335: raises $0.15 to $0.25
+$iganov1: calls $0.25
+gameonfire: calls $0.20
+perespell: calls $0.15
+*** FLOP *** [Tc Jd 9c]
+gameonfire: checks 
+perespell: bets $0.49
+and 07335: calls $0.49
+$iganov1: folds 
+gameonfire: calls $0.49
+*** TURN *** [Tc Jd 9c] [9h]
+gameonfire: checks 
+perespell: bets $1.20
+and 07335: folds 
+gameonfire: raises $4.76 to $5.96
+perespell: folds 
+Uncalled bet ($4.76) returned to gameonfire
+gameonfire collected $4.65 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.87 | Rake $0.22 
+Board [Tc Jd 9c 9h]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 folded on the Turn
+Seat 3: $iganov1 (button) folded on the Flop
+Seat 4: gameonfire (small blind) collected ($4.65)
+Seat 5: perespell (big blind) folded on the Turn
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973001064:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:07 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($15.41 in chips) 
+Seat 2: and 07335 ($10 in chips) 
+Seat 3: $iganov1 ($12.66 in chips) 
+Seat 4: gameonfire ($22.79 in chips) 
+Seat 5: perespell ($14.04 in chips) 
+Seat 6: fernjobsur ($8.48 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.05) returned to fernjobsur
+fernjobsur collected $0.10 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222973006137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:43:13 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: toxa910212 ($15.41 in chips) 
+Seat 2: and 07335 ($10 in chips) 
+Seat 3: $iganov1 ($12.66 in chips) 
+Seat 4: gameonfire ($22.79 in chips) 
+Seat 5: perespell ($13.99 in chips) 
+Seat 6: fernjobsur ($8.53 in chips) 
+fernjobsur: posts small blind $0.05
+toxa910212: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.05
+toxa910212: checks 
+*** FLOP *** [6c Ad 8d]
+fernjobsur: checks 
+toxa910212: checks 
+gameonfire: checks 
+*** TURN *** [6c Ad 8d] [4c]
+fernjobsur: bets $0.10
+toxa910212: folds 
+gameonfire: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.29 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6c Ad 8d 4c]
+Seat 1: toxa910212 (big blind) folded on the Turn
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Turn
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #222973686040:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:35 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: toxa910212 ($17.80 in chips) 
+Seat 2: and 07335 ($11.31 in chips) 
+Seat 3: $iganov1 ($11.06 in chips) 
+Seat 4: gameonfire ($19.29 in chips) 
+Seat 5: perespell ($17.07 in chips) 
+Seat 6: fernjobsur ($5.87 in chips) 
+toxa910212: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+toxa910212: raises $0.10 to $0.20
+and 07335: calls $0.10
+*** FLOP *** [4d 4s 6d]
+toxa910212: checks 
+and 07335: bets $0.25
+toxa910212: folds 
+Uncalled bet ($0.25) returned to and 07335
+and 07335 collected $0.38 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [4d 4s 6d]
+Seat 1: toxa910212 (small blind) folded on the Flop
+Seat 2: and 07335 (big blind) collected ($0.38)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973703701:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:06 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: toxa910212 ($17.60 in chips) 
+Seat 2: and 07335 ($11.49 in chips) 
+Seat 3: $iganov1 ($11.06 in chips) 
+Seat 4: gameonfire ($19.29 in chips) 
+Seat 5: perespell ($17.07 in chips) 
+Seat 6: fernjobsur ($5.87 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+toxa910212: folds 
+and 07335: raises $0.15 to $0.25
+$iganov1: folds 
+Uncalled bet ($0.15) returned to and 07335
+and 07335 collected $0.20 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: toxa910212 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) collected ($0.20)
+Seat 3: $iganov1 (big blind) folded before Flop
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973713326:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:22 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: toxa910212 ($17.60 in chips) 
+Seat 2: and 07335 ($11.59 in chips) 
+Seat 3: $iganov1 ($10.96 in chips) 
+Seat 4: gameonfire ($19.29 in chips) 
+Seat 5: perespell ($17.07 in chips) 
+Seat 6: fernjobsur ($5.87 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: raises $0.15 to $0.25
+fernjobsur: calls $0.25
+toxa910212: calls $0.25
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+*** FLOP *** [Qc 9d Qh]
+perespell: checks 
+fernjobsur: checks 
+toxa910212: checks 
+*** TURN *** [Qc 9d Qh] [8c]
+perespell: checks 
+fernjobsur: checks 
+toxa910212: checks 
+*** RIVER *** [Qc 9d Qh 8c] [8d]
+perespell: checks 
+fernjobsur: bets $0.30
+toxa910212: folds 
+perespell: calls $0.30
+*** SHOW DOWN ***
+fernjobsur: shows [3h 3d] (two pair, Queens and Eights)
+perespell: shows [Kd As] (two pair, Queens and Eights - Ace kicker)
+perespell collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Qc 9d Qh 8c 8d]
+Seat 1: toxa910212 folded on the River
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell showed [Kd As] and won ($1.43) with two pair, Queens and Eights
+Seat 6: fernjobsur showed [3h 3d] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #222973746728:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:20 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: toxa910212 ($17.35 in chips) 
+Seat 2: and 07335 ($11.59 in chips) 
+Seat 3: $iganov1 ($10.91 in chips) 
+Seat 4: gameonfire ($19.19 in chips) 
+Seat 5: perespell ($17.95 in chips) 
+Seat 6: fernjobsur ($5.32 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+toxa910212: folds 
+and 07335: raises $0.15 to $0.25
+$iganov1: folds 
+gameonfire: calls $0.20
+perespell: calls $0.15
+*** FLOP *** [Jd Ah 8h]
+gameonfire: checks 
+perespell: checks 
+and 07335: bets $0.48
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.48) returned to and 07335
+and 07335 collected $0.72 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Jd Ah 8h]
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 collected ($0.72)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) folded on the Flop
+Seat 5: perespell (big blind) folded on the Flop
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973779585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:15 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: toxa910212 ($17.35 in chips) 
+Seat 2: and 07335 ($12.06 in chips) 
+Seat 3: $iganov1 ($10.91 in chips) 
+Seat 4: gameonfire ($18.94 in chips) 
+Seat 5: perespell ($17.70 in chips) 
+Seat 6: fernjobsur ($5.32 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+toxa910212: folds 
+toxa910212 leaves the table
+and 07335: raises $0.15 to $0.25
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+Uncalled bet ($0.15) returned to and 07335
+and 07335 collected $0.25 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: toxa910212 folded before Flop (didn't bet)
+Seat 2: and 07335 collected ($0.25)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973788494:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:29 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 2: and 07335 ($12.21 in chips) 
+Seat 3: $iganov1 ($10.91 in chips) 
+Seat 4: gameonfire ($18.94 in chips) 
+Seat 5: perespell ($17.65 in chips) 
+Seat 6: fernjobsur ($5.22 in chips) 
+fernjobsur: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: raises $0.30 to $0.40
+fernjobsur: folds 
+and 07335: folds 
+gameonfire: calls $0.30
+*** FLOP *** [9s 5s Qd]
+gameonfire: checks 
+perespell: bets $0.46
+gameonfire: folds 
+Uncalled bet ($0.46) returned to perespell
+perespell collected $0.91 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9s 5s Qd]
+Seat 2: and 07335 (big blind) folded before Flop
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell (button) collected ($0.91)
+Seat 6: fernjobsur (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973804653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:53 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 2: and 07335 ($12.11 in chips) 
+Seat 3: $iganov1 ($10.91 in chips) 
+Seat 4: gameonfire ($18.54 in chips) 
+Seat 5: perespell ($18.16 in chips) 
+Seat 6: fernjobsur ($5.17 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+matixwhitty joins the table at seat #1 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.10
+and 07335: folds 
+$iganov1: checks 
+*** FLOP *** [4h 8c 6s]
+$iganov1: checks 
+fernjobsur: checks 
+*** TURN *** [4h 8c 6s] [9c]
+$iganov1: checks 
+fernjobsur: checks 
+*** RIVER *** [4h 8c 6s 9c] [4c]
+$iganov1: checks 
+fernjobsur: checks 
+*** SHOW DOWN ***
+$iganov1: shows [2s Ad] (a pair of Fours)
+fernjobsur: mucks hand 
+$iganov1 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4h 8c 6s 9c 4c]
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) showed [2s Ad] and won ($0.24) with a pair of Fours
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) mucked
+
+
+
+PokerStars Hand #222973828383:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:25 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 2: and 07335 ($12.06 in chips) 
+Seat 3: $iganov1 ($11.05 in chips) 
+Seat 4: gameonfire ($18.54 in chips) 
+Seat 5: perespell ($18.16 in chips) 
+Seat 6: fernjobsur ($5.07 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+matixwhitty: sits out 
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: calls $0.10
+and 07335: folds 
+$iganov1: calls $0.05
+gameonfire: checks 
+*** FLOP *** [Ad 4s Td]
+$iganov1: checks 
+gameonfire: checks 
+fernjobsur: bets $0.10
+$iganov1: folds 
+gameonfire: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.29 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ad 4s Td]
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded on the Flop
+Seat 4: gameonfire (big blind) folded on the Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur collected ($0.29)
+
+
+
+PokerStars Hand #222973848816:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:51 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 2: and 07335 ($12.06 in chips) 
+Seat 3: $iganov1 ($10.95 in chips) 
+Seat 4: gameonfire ($18.44 in chips) 
+Seat 5: perespell ($18.16 in chips) 
+Seat 6: fernjobsur ($5.26 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+matixwhitty: sits out 
+*** HOLE CARDS ***
+fernjobsur: calls $0.10
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [Qc 8d 9s]
+gameonfire: checks 
+perespell: bets $0.15
+fernjobsur: calls $0.15
+gameonfire: calls $0.15
+*** TURN *** [Qc 8d 9s] [Tc]
+gameonfire: checks 
+perespell: checks 
+fernjobsur: bets $0.72
+gameonfire: calls $0.72
+perespell: folds 
+*** RIVER *** [Qc 8d 9s Tc] [3s]
+gameonfire: checks 
+fernjobsur: bets $2.09
+gameonfire: folds 
+Uncalled bet ($2.09) returned to fernjobsur
+fernjobsur collected $2.09 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.19 | Rake $0.10 
+Board [Qc 8d 9s Tc 3s]
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) folded on the River
+Seat 5: perespell (big blind) folded on the Turn
+Seat 6: fernjobsur collected ($2.09)
+
+
+
+PokerStars Hand #222973895871:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:02:48 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 2: and 07335 ($12.06 in chips) 
+Seat 3: $iganov1 ($10.95 in chips) 
+Seat 4: gameonfire ($17.47 in chips) 
+Seat 5: perespell ($17.91 in chips) 
+Seat 6: fernjobsur ($6.38 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+matixwhitty: sits out 
+*** HOLE CARDS ***
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: raises $0.15 to $0.25
+fernjobsur: folds 
+Uncalled bet ($0.15) returned to perespell
+perespell collected $0.20 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) collected ($0.20)
+Seat 6: fernjobsur (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973908369:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:03 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: matixwhitty ($10 in chips) 
+Seat 2: and 07335 ($12.06 in chips) 
+Seat 3: $iganov1 ($10.95 in chips) 
+Seat 4: gameonfire ($17.47 in chips) 
+Seat 5: perespell ($18.01 in chips) 
+Seat 6: fernjobsur ($6.28 in chips) 
+fernjobsur: posts small blind $0.05
+matixwhitty: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+$iganov1 has timed out
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: raises $0.30 to $0.40
+gameonfire: calls $0.30
+*** FLOP *** [7h Kc Td]
+matixwhitty: bets $0.60
+gameonfire: folds 
+Uncalled bet ($0.60) returned to matixwhitty
+matixwhitty collected $0.81 from pot
+matixwhitty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [7h Kc Td]
+Seat 1: matixwhitty (big blind) collected ($0.81)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973945847:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:48 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: matixwhitty ($10.41 in chips) 
+Seat 2: and 07335 ($12.06 in chips) 
+Seat 4: gameonfire ($17.07 in chips) 
+Seat 5: perespell ($18.01 in chips) 
+Seat 6: fernjobsur ($6.23 in chips) 
+matixwhitty: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: folds 
+and 07335: checks 
+*** FLOP *** [9h 8c 2d]
+and 07335: bets $0.20
+gameonfire: calls $0.20
+*** TURN *** [9h 8c 2d] [Jc]
+and 07335: bets $0.41
+gameonfire: folds 
+Uncalled bet ($0.41) returned to and 07335
+and 07335 collected $0.62 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9h 8c 2d Jc]
+Seat 1: matixwhitty (small blind) folded before Flop
+Seat 2: and 07335 (big blind) collected ($0.62)
+Seat 4: gameonfire folded on the Turn
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973977988:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:14 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: matixwhitty ($10.36 in chips) 
+Seat 2: and 07335 ($12.38 in chips) 
+Seat 3: $iganov1 ($10.95 in chips) 
+Seat 4: gameonfire ($16.77 in chips) 
+Seat 5: perespell ($18.01 in chips) 
+Seat 6: fernjobsur ($6.23 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: raises $0.20 to $0.30
+and 07335: folds 
+$iganov1: raises $0.70 to $1
+matixwhitty: folds 
+Uncalled bet ($0.70) returned to $iganov1
+$iganov1 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: matixwhitty (button) folded before Flop
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) collected ($0.65)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974005784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:35 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: matixwhitty ($10.06 in chips) 
+Seat 2: and 07335 ($12.33 in chips) 
+Seat 3: $iganov1 ($11.30 in chips) 
+Seat 4: gameonfire ($16.77 in chips) 
+Seat 5: perespell ($18.01 in chips) 
+Seat 6: fernjobsur ($6.23 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+Uncalled bet ($0.05) returned to gameonfire
+gameonfire collected $0.10 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) collected ($0.10)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974016438:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:48 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: matixwhitty ($10.06 in chips) 
+Seat 2: and 07335 ($12.33 in chips) 
+Seat 3: $iganov1 ($11.25 in chips) 
+Seat 4: gameonfire ($16.82 in chips) 
+Seat 5: perespell ($18.01 in chips) 
+Seat 6: fernjobsur ($6.23 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [Qh 6d 2c]
+gameonfire: checks 
+perespell: bets $0.10
+gameonfire: calls $0.10
+*** TURN *** [Qh 6d 2c] [Ts]
+gameonfire: checks 
+perespell: bets $0.19
+gameonfire: calls $0.19
+*** RIVER *** [Qh 6d 2c Ts] [Qc]
+gameonfire: bets $0.74
+perespell: folds 
+Uncalled bet ($0.74) returned to gameonfire
+gameonfire collected $0.74 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [Qh 6d 2c Ts Qc]
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) collected ($0.74)
+Seat 5: perespell (big blind) folded on the River
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974046489:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:24 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: matixwhitty ($10.06 in chips) 
+Seat 2: and 07335 ($12.33 in chips) 
+Seat 3: $iganov1 ($11.25 in chips) 
+Seat 4: gameonfire ($17.17 in chips) 
+Seat 5: perespell ($17.62 in chips) 
+Seat 6: fernjobsur ($6.23 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+matixwhitty: raises $0.10 to $0.20
+and 07335: calls $0.20
+$iganov1: folds 
+gameonfire: calls $0.20
+perespell: calls $0.15
+fernjobsur: calls $0.10
+*** FLOP *** [Qc 6d 2d]
+perespell: checks 
+fernjobsur: checks 
+matixwhitty: bets $0.50
+and 07335: calls $0.50
+gameonfire: folds 
+perespell: folds 
+fernjobsur: folds 
+*** TURN *** [Qc 6d 2d] [9c]
+matixwhitty: bets $0.96
+and 07335: calls $0.96
+*** RIVER *** [Qc 6d 2d 9c] [Tc]
+matixwhitty: bets $1.30
+and 07335: calls $1.30
+*** SHOW DOWN ***
+matixwhitty: shows [Td Jd] (a pair of Tens)
+and 07335: shows [Jh Qh] (a pair of Queens)
+and 07335 collected $6.23 from pot
+*** SUMMARY ***
+Total pot $6.52 | Rake $0.29 
+Board [Qc 6d 2d 9c Tc]
+Seat 1: matixwhitty showed [Td Jd] and lost with a pair of Tens
+Seat 2: and 07335 showed [Jh Qh] and won ($6.23) with a pair of Queens
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded on the Flop
+Seat 5: perespell (small blind) folded on the Flop
+Seat 6: fernjobsur (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222974103316:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:32 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: matixwhitty ($7.10 in chips) 
+Seat 2: and 07335 ($15.60 in chips) 
+Seat 3: $iganov1 ($11.25 in chips) 
+Seat 4: gameonfire ($16.97 in chips) 
+Seat 5: perespell ($17.42 in chips) 
+Seat 6: fernjobsur ($6.03 in chips) 
+fernjobsur: posts small blind $0.05
+matixwhitty: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: raises $0.30 to $0.40
+fernjobsur: folds 
+matixwhitty: folds 
+gameonfire: calls $0.30
+*** FLOP *** [5h 7c Kh]
+gameonfire: checks 
+perespell: bets $0.46
+gameonfire: folds 
+Uncalled bet ($0.46) returned to perespell
+perespell collected $0.91 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [5h 7c Kh]
+Seat 1: matixwhitty (big blind) folded before Flop
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell (button) collected ($0.91)
+Seat 6: fernjobsur (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974123546:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:56 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: matixwhitty ($7 in chips) 
+Seat 2: and 07335 ($15.60 in chips) 
+Seat 3: $iganov1 ($11.25 in chips) 
+Seat 4: gameonfire ($16.57 in chips) 
+Seat 5: perespell ($17.93 in chips) 
+Seat 6: fernjobsur ($5.98 in chips) 
+matixwhitty: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+matixwhitty: folds 
+and 07335: checks 
+*** FLOP *** [Ah 9d Ad]
+and 07335: checks 
+gameonfire: checks 
+fernjobsur: checks 
+*** TURN *** [Ah 9d Ad] [Kc]
+and 07335: checks 
+gameonfire: bets $0.33
+fernjobsur: calls $0.33
+and 07335: folds 
+*** RIVER *** [Ah 9d Ad Kc] [7d]
+gameonfire: bets $0.96
+fernjobsur: raises $4.59 to $5.55 and is all-in
+gameonfire: folds 
+Uncalled bet ($4.59) returned to fernjobsur
+fernjobsur collected $2.80 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.93 | Rake $0.13 
+Board [Ah 9d Ad Kc 7d]
+Seat 1: matixwhitty (small blind) folded before Flop
+Seat 2: and 07335 (big blind) folded on the Turn
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the River
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) collected ($2.80)
+
+
+
+PokerStars Hand #222974161452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:42 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: matixwhitty ($6.95 in chips) 
+Seat 2: and 07335 ($15.50 in chips) 
+Seat 3: $iganov1 ($11.25 in chips) 
+Seat 4: gameonfire ($15.18 in chips) 
+Seat 5: perespell ($17.93 in chips) 
+Seat 6: fernjobsur ($7.39 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+matixwhitty: raises $0.30 to $0.40
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.30
+fernjobsur: folds 
+*** FLOP *** [5d Ks 2s]
+gameonfire: checks 
+matixwhitty: checks 
+*** TURN *** [5d Ks 2s] [7d]
+gameonfire: checks 
+matixwhitty: bets $0.50
+gameonfire: calls $0.50
+*** RIVER *** [5d Ks 2s 7d] [Jd]
+gameonfire: checks 
+matixwhitty: checks 
+*** SHOW DOWN ***
+gameonfire: shows [6d 6c] (a pair of Sixes)
+matixwhitty: shows [7h Th] (a pair of Sevens)
+matixwhitty collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [5d Ks 2s 7d Jd]
+Seat 1: matixwhitty (button) showed [7h Th] and won ($1.96) with a pair of Sevens
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) folded before Flop
+Seat 4: gameonfire showed [6d 6c] and lost with a pair of Sixes
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop
+
+
+
+PokerStars Hand #222974200018:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:28 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: matixwhitty ($8.01 in chips) 
+Seat 2: and 07335 ($15.45 in chips) 
+Seat 3: $iganov1 ($11.15 in chips) 
+Seat 4: gameonfire ($14.28 in chips) 
+Seat 5: perespell ($17.93 in chips) 
+Seat 6: fernjobsur ($7.29 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+Uncalled bet ($0.05) returned to gameonfire
+gameonfire collected $0.10 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) collected ($0.10)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974207330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:37 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: matixwhitty ($8.01 in chips) 
+Seat 2: and 07335 ($15.45 in chips) 
+Seat 3: $iganov1 ($11.10 in chips) 
+Seat 4: gameonfire ($14.33 in chips) 
+Seat 5: perespell ($17.93 in chips) 
+Seat 6: fernjobsur ($7.29 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+matixwhitty: calls $0.10
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [2s 8s 9c]
+gameonfire: bets $0.29
+perespell: folds 
+matixwhitty: folds 
+Uncalled bet ($0.29) returned to gameonfire
+gameonfire collected $0.29 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2s 8s 9c]
+Seat 1: matixwhitty folded on the Flop
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) collected ($0.29)
+Seat 5: perespell (big blind) folded on the Flop
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974225213:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:58 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: matixwhitty ($7.91 in chips) 
+Seat 2: and 07335 ($15.45 in chips) 
+Seat 3: $iganov1 ($11.10 in chips) 
+Seat 4: gameonfire ($14.52 in chips) 
+Seat 5: perespell ($17.83 in chips) 
+Seat 6: fernjobsur ($7.29 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.05) returned to fernjobsur
+fernjobsur collected $0.10 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222974231560:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:09:06 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: matixwhitty ($7.91 in chips) 
+Seat 2: and 07335 ($15.45 in chips) 
+Seat 3: $iganov1 ($11.10 in chips) 
+Seat 4: gameonfire ($14.52 in chips) 
+Seat 5: perespell ($17.78 in chips) 
+Seat 6: fernjobsur ($7.34 in chips) 
+fernjobsur: posts small blind $0.05
+matixwhitty: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: raises $0.15 to $0.25
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.20
+matixwhitty: folds 
+*** FLOP *** [3h 6d 2h]
+fernjobsur: checks 
+and 07335: bets $0.30
+fernjobsur: folds 
+Uncalled bet ($0.30) returned to and 07335
+and 07335 collected $0.57 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3h 6d 2h]
+Seat 1: matixwhitty (big blind) folded before Flop
+Seat 2: and 07335 collected ($0.57)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222974249259:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:09:27 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: matixwhitty ($7.81 in chips) 
+Seat 2: and 07335 ($15.77 in chips) 
+Seat 3: $iganov1 ($11.10 in chips) 
+Seat 4: gameonfire ($14.52 in chips) 
+Seat 5: perespell ($17.78 in chips) 
+Seat 6: fernjobsur ($7.09 in chips) 
+matixwhitty: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: calls $0.05
+and 07335: checks 
+*** FLOP *** [Th Tc 4h]
+matixwhitty: checks 
+and 07335: checks 
+gameonfire: checks 
+*** TURN *** [Th Tc 4h] [5d]
+matixwhitty: checks 
+and 07335: checks 
+gameonfire: checks 
+*** RIVER *** [Th Tc 4h 5d] [As]
+matixwhitty: checks 
+and 07335: checks 
+gameonfire: bets $1.89
+matixwhitty: folds 
+and 07335: folds 
+Uncalled bet ($1.89) returned to gameonfire
+gameonfire collected $0.29 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Th Tc 4h 5d As]
+Seat 1: matixwhitty (small blind) folded on the River
+Seat 2: and 07335 (big blind) folded on the River
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire collected ($0.29)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974290544:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:10:17 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: matixwhitty ($7.71 in chips) 
+Seat 2: and 07335 ($15.67 in chips) 
+Seat 3: $iganov1 ($11.10 in chips) 
+Seat 4: gameonfire ($14.71 in chips) 
+Seat 5: perespell ($17.78 in chips) 
+Seat 6: fernjobsur ($7.09 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+matixwhitty: folds 
+and 07335: calls $0.05
+$iganov1: checks 
+*** FLOP *** [8s Ts 9d]
+and 07335: checks 
+$iganov1: checks 
+gameonfire: checks 
+fernjobsur: checks 
+*** TURN *** [8s Ts 9d] [4c]
+and 07335: checks 
+$iganov1: checks 
+gameonfire: bets $0.88
+fernjobsur: folds 
+and 07335: folds 
+$iganov1: calls $0.88
+*** RIVER *** [8s Ts 9d 4c] [Qc]
+$iganov1: checks 
+gameonfire: checks 
+*** SHOW DOWN ***
+$iganov1: shows [2s 6s] (high card Queen)
+gameonfire: shows [4s As] (a pair of Fours)
+gameonfire collected $2.06 from pot
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.10 
+Board [8s Ts 9d 4c Qc]
+Seat 1: matixwhitty (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded on the Turn
+Seat 3: $iganov1 (big blind) showed [2s 6s] and lost with high card Queen
+Seat 4: gameonfire showed [4s As] and won ($2.06) with a pair of Fours
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded on the Turn
+
+
+
+PokerStars Hand #222974338067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:11:14 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: matixwhitty ($7.71 in chips) 
+Seat 2: and 07335 ($15.57 in chips) 
+Seat 3: $iganov1 ($10.12 in chips) 
+Seat 4: gameonfire ($15.79 in chips) 
+Seat 5: perespell ($17.78 in chips) 
+Seat 6: fernjobsur ($6.99 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: raises $0.15 to $0.25
+fernjobsur: folds 
+matixwhitty: calls $0.25
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.15
+*** FLOP *** [4d Qc 6s]
+gameonfire: bets $0.10
+perespell: calls $0.10
+matixwhitty: calls $0.10
+*** TURN *** [4d Qc 6s] [Qs]
+gameonfire: checks 
+perespell: checks 
+matixwhitty: checks 
+*** RIVER *** [4d Qc 6s Qs] [2h]
+gameonfire: bets $0.52
+perespell: folds 
+matixwhitty: calls $0.52
+*** SHOW DOWN ***
+gameonfire: shows [6h Kh] (two pair, Queens and Sixes)
+matixwhitty: shows [6c Ac] (two pair, Queens and Sixes - Ace kicker)
+matixwhitty collected $2.04 from pot
+*** SUMMARY ***
+Total pot $2.14 | Rake $0.10 
+Board [4d Qc 6s Qs 2h]
+Seat 1: matixwhitty showed [6c Ac] and won ($2.04) with two pair, Queens and Sixes
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) showed [6h Kh] and lost with two pair, Queens and Sixes
+Seat 5: perespell folded on the River
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974389751:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:12:17 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: matixwhitty ($8.88 in chips) 
+Seat 2: and 07335 ($15.57 in chips) 
+Seat 3: $iganov1 ($10.07 in chips) 
+Seat 4: gameonfire ($14.92 in chips) 
+Seat 5: perespell ($17.43 in chips) 
+Seat 6: fernjobsur ($6.99 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: calls $0.10
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [7h 5c 9c]
+gameonfire: checks 
+perespell: bets $0.15
+fernjobsur: folds 
+gameonfire: calls $0.15
+*** TURN *** [7h 5c 9c] [Jc]
+gameonfire: checks 
+perespell: bets $0.43
+gameonfire: calls $0.43
+*** RIVER *** [7h 5c 9c Jc] [3d]
+gameonfire: checks 
+perespell: bets $0.71
+gameonfire: raises $3.39 to $4.10
+perespell: calls $3.39
+*** SHOW DOWN ***
+gameonfire: shows [Ac Qc] (a flush, Ace high)
+perespell: mucks hand 
+gameonfire collected $9.23 from pot
+*** SUMMARY ***
+Total pot $9.66 | Rake $0.43 
+Board [7h 5c 9c Jc 3d]
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) showed [Ac Qc] and won ($9.23) with a flush, Ace high
+Seat 5: perespell (big blind) mucked
+Seat 6: fernjobsur folded on the Flop
+
+
+
+PokerStars Hand #222974436588:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:13 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: matixwhitty ($8.88 in chips) 
+Seat 2: and 07335 ($15.57 in chips) 
+Seat 3: $iganov1 ($10.07 in chips) 
+Seat 4: gameonfire ($19.37 in chips) 
+Seat 5: perespell ($12.65 in chips) 
+Seat 6: fernjobsur ($6.89 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.05) returned to fernjobsur
+fernjobsur collected $0.10 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222974453784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:35 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: matixwhitty ($8.88 in chips) 
+Seat 2: and 07335 ($15.57 in chips) 
+Seat 3: $iganov1 ($10.07 in chips) 
+Seat 4: gameonfire ($19.37 in chips) 
+Seat 5: perespell ($12.60 in chips) 
+Seat 6: fernjobsur ($6.94 in chips) 
+fernjobsur: posts small blind $0.05
+matixwhitty: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: raises $0.15 to $0.25
+$iganov1: calls $0.25
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.20
+matixwhitty: folds 
+*** FLOP *** [Qs 8h 8s]
+fernjobsur: checks 
+and 07335: bets $0.55
+$iganov1: calls $0.55
+fernjobsur: folds 
+*** TURN *** [Qs 8h 8s] [2s]
+and 07335: bets $1.23
+$iganov1: calls $1.23
+*** RIVER *** [Qs 8h 8s 2s] [Ad]
+and 07335: checks 
+$iganov1: checks 
+*** SHOW DOWN ***
+and 07335: shows [Qc Kh] (two pair, Queens and Eights)
+$iganov1: shows [Ks Kc] (two pair, Kings and Eights)
+$iganov1 collected $4.21 from pot
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [Qs 8h 8s 2s Ad]
+Seat 1: matixwhitty (big blind) folded before Flop
+Seat 2: and 07335 showed [Qc Kh] and lost with two pair, Queens and Eights
+Seat 3: $iganov1 showed [Ks Kc] and won ($4.21) with two pair, Kings and Eights
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222974500640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:14:32 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: matixwhitty ($8.78 in chips) 
+Seat 2: and 07335 ($13.54 in chips) 
+Seat 3: $iganov1 ($12.25 in chips) 
+Seat 4: gameonfire ($19.37 in chips) 
+Seat 5: perespell ($12.60 in chips) 
+Seat 6: fernjobsur ($6.69 in chips) 
+matixwhitty: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+$iganov1: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: calls $0.10
+matixwhitty: folds 
+and 07335: checks 
+*** FLOP *** [3h Qh 2h]
+and 07335: checks 
+gameonfire: checks 
+fernjobsur: checks 
+*** TURN *** [3h Qh 2h] [Jc]
+and 07335: checks 
+gameonfire: checks 
+fernjobsur: bets $0.10
+and 07335: folds 
+gameonfire: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.33 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [3h Qh 2h Jc]
+Seat 1: matixwhitty (small blind) folded before Flop
+Seat 2: and 07335 (big blind) folded on the Turn
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire folded on the Turn
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) collected ($0.33)
+
+
+
+PokerStars Hand #222974526356:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:03 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: matixwhitty ($8.73 in chips) 
+Seat 2: and 07335 ($13.44 in chips) 
+Seat 3: $iganov1 ($12.25 in chips) 
+Seat 4: gameonfire ($19.27 in chips) 
+Seat 5: perespell ($12.60 in chips) 
+Seat 6: fernjobsur ($6.92 in chips) 
+and 07335: posts small blind $0.05
+$iganov1: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: folds 
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: checks 
+*** FLOP *** [Ks 8c Qs]
+$iganov1: checks 
+gameonfire: checks 
+*** TURN *** [Ks 8c Qs] [7s]
+$iganov1: bets $0.16
+gameonfire: calls $0.16
+*** RIVER *** [Ks 8c Qs 7s] [5c]
+$iganov1: bets $0.36
+gameonfire: calls $0.36
+*** SHOW DOWN ***
+$iganov1: shows [Kc 7h] (two pair, Kings and Sevens)
+gameonfire: mucks hand 
+$iganov1 collected $1.23 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.06 
+Board [Ks 8c Qs 7s 5c]
+Seat 1: matixwhitty (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: $iganov1 (big blind) showed [Kc 7h] and won ($1.23) with two pair, Kings and Sevens
+Seat 4: gameonfire mucked
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974555712:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:38 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: matixwhitty ($8.73 in chips) 
+Seat 2: and 07335 ($13.39 in chips) 
+Seat 3: $iganov1 ($12.86 in chips) 
+Seat 4: gameonfire ($18.65 in chips) 
+Seat 5: perespell ($12.60 in chips) 
+Seat 6: fernjobsur ($6.92 in chips) 
+$iganov1: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: calls $0.10
+matixwhitty: folds 
+and 07335: folds 
+$iganov1: folds 
+gameonfire: checks 
+*** FLOP *** [5s 6s Jd]
+gameonfire: checks 
+fernjobsur: checks 
+*** TURN *** [5s 6s Jd] [8d]
+gameonfire: checks 
+fernjobsur: checks 
+*** RIVER *** [5s 6s Jd 8d] [Td]
+gameonfire: checks 
+fernjobsur: bets $0.10
+gameonfire: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.24 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5s 6s Jd 8d Td]
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: $iganov1 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded on the River
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur collected ($0.24)
+
+
+
+PokerStars Hand #222974575868:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:03 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: matixwhitty ($8.73 in chips) 
+Seat 2: and 07335 ($13.39 in chips) 
+Seat 3: $iganov1 ($12.81 in chips) 
+Seat 4: gameonfire ($18.55 in chips) 
+Seat 5: perespell ($12.60 in chips) 
+Seat 6: fernjobsur ($7.06 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+matixwhitty: raises $0.20 to $0.30
+and 07335: folds 
+$iganov1: folds 
+gameonfire: calls $0.25
+perespell: folds 
+*** FLOP *** [3c 8c Ah]
+gameonfire: checks 
+matixwhitty: bets $0.34
+gameonfire: folds 
+Uncalled bet ($0.34) returned to matixwhitty
+matixwhitty collected $0.67 from pot
+matixwhitty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3c 8c Ah]
+Seat 1: matixwhitty collected ($0.67)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: $iganov1 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) folded on the Flop
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974601225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:34 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: matixwhitty ($9.10 in chips) 
+Seat 2: and 07335 ($13.39 in chips) 
+Seat 3: $iganov1 ($12.81 in chips) 
+Seat 4: gameonfire ($18.25 in chips) 
+Seat 5: perespell ($12.50 in chips) 
+Seat 6: fernjobsur ($7.06 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+*** HOLE CARDS ***
+matixwhitty: folds 
+and 07335: raises $0.15 to $0.25
+$iganov1: folds 
+gameonfire: calls $0.25
+perespell: folds 
+fernjobsur: folds 
+*** FLOP *** [4h 8h 2c]
+and 07335: bets $0.31
+matixwhitty leaves the table
+gameonfire: folds 
+Uncalled bet ($0.31) returned to and 07335
+and 07335 collected $0.62 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [4h 8h 2c]
+Seat 1: matixwhitty folded before Flop (didn't bet)
+Seat 2: and 07335 collected ($0.62)
+Seat 3: $iganov1 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded on the Flop
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974626704:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:05 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 2: and 07335 ($13.76 in chips) 
+Seat 4: gameonfire ($18 in chips) 
+Seat 5: perespell ($12.45 in chips) 
+Seat 6: fernjobsur ($6.96 in chips) 
+fernjobsur: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+marcin116 joins the table at seat #1 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.05
+and 07335: checks 
+*** FLOP *** [Qc 4h Kh]
+fernjobsur: checks 
+and 07335: checks 
+*** TURN *** [Qc 4h Kh] [Ad]
+fernjobsur: checks 
+and 07335: checks 
+*** RIVER *** [Qc 4h Kh Ad] [6d]
+fernjobsur: checks 
+and 07335: checks 
+*** SHOW DOWN ***
+fernjobsur: shows [Th 2c] (high card Ace)
+and 07335: shows [6c Js] (a pair of Sixes)
+and 07335 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qc 4h Kh Ad 6d]
+Seat 2: and 07335 (big blind) showed [6c Js] and won ($0.19) with a pair of Sixes
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) showed [Th 2c] and lost with high card Ace
+
+
+
+PokerStars Hand #222974656710:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:41 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 2: and 07335 ($13.85 in chips) 
+Seat 4: gameonfire ($18 in chips) 
+Seat 5: perespell ($12.45 in chips) 
+Seat 6: fernjobsur ($6.86 in chips) 
+and 07335: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+and 07335: raises $0.12 to $0.22
+gameonfire: folds 
+Uncalled bet ($0.12) returned to and 07335
+and 07335 collected $0.20 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: and 07335 (small blind) collected ($0.20)
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974669031:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:56 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 2: and 07335 ($13.95 in chips) 
+Seat 4: gameonfire ($17.90 in chips) 
+Seat 5: perespell ($12.45 in chips) 
+Seat 6: fernjobsur ($6.86 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+marcin116: sits out 
+*** HOLE CARDS ***
+fernjobsur: calls $0.10
+and 07335: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [5s Th 8d]
+gameonfire: checks 
+perespell: bets $0.15
+fernjobsur: calls $0.15
+gameonfire: calls $0.15
+*** TURN *** [5s Th 8d] [2c]
+gameonfire: checks 
+perespell: checks 
+fernjobsur: checks 
+*** RIVER *** [5s Th 8d 2c] [4h]
+gameonfire: checks 
+perespell: checks 
+fernjobsur: bets $0.10
+gameonfire: raises $0.92 to $1.02
+perespell: folds 
+fernjobsur: folds 
+Uncalled bet ($0.92) returned to gameonfire
+gameonfire collected $0.91 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [5s Th 8d 2c 4h]
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) collected ($0.91)
+Seat 5: perespell (big blind) folded on the River
+Seat 6: fernjobsur folded on the River
+
+
+
+PokerStars Hand #222974706926:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:18:42 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 2: and 07335 ($13.95 in chips) 
+Seat 4: gameonfire ($18.46 in chips) 
+Seat 5: perespell ($12.20 in chips) 
+Seat 6: fernjobsur ($6.51 in chips) 
+perespell: posts small blind $0.05
+fernjobsur: posts big blind $0.10
+marcin116: sits out 
+*** HOLE CARDS ***
+and 07335: folds 
+gameonfire: calls $0.10
+perespell: folds 
+fernjobsur: checks 
+*** FLOP *** [8c 8d 9d]
+fernjobsur: checks 
+gameonfire: checks 
+*** TURN *** [8c 8d 9d] [Tc]
+fernjobsur: checks 
+gameonfire: checks 
+*** RIVER *** [8c 8d 9d Tc] [Ks]
+fernjobsur: bets $0.10
+gameonfire: calls $0.10
+*** SHOW DOWN ***
+fernjobsur: shows [Kh 5h] (two pair, Kings and Eights)
+gameonfire: shows [2d Kd] (two pair, Kings and Eights)
+fernjobsur collected $0.22 from pot
+gameonfire collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8c 8d 9d Tc Ks]
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) showed [2d Kd] and won ($0.21) with two pair, Kings and Eights
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: fernjobsur (big blind) showed [Kh 5h] and won ($0.22) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #222974732428:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:13 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($10 in chips) 
+Seat 2: and 07335 ($13.95 in chips) 
+Seat 4: gameonfire ($18.47 in chips) 
+Seat 5: perespell ($12.15 in chips) 
+Seat 6: fernjobsur ($6.53 in chips) 
+fernjobsur: posts small blind $0.05
+marcin116: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.05
+marcin116: checks 
+*** FLOP *** [Th 3c 8h]
+fernjobsur: checks 
+marcin116: bets $0.20
+fernjobsur: calls $0.20
+*** TURN *** [Th 3c 8h] [Qs]
+fernjobsur: checks 
+marcin116: bets $0.50
+fernjobsur: calls $0.50
+*** RIVER *** [Th 3c 8h Qs] [5s]
+fernjobsur: bets $1.53
+marcin116: calls $1.53
+*** SHOW DOWN ***
+fernjobsur: shows [Js 9d] (a straight, Eight to Queen)
+marcin116: mucks hand 
+fernjobsur collected $4.45 from pot
+*** SUMMARY ***
+Total pot $4.66 | Rake $0.21 
+Board [Th 3c 8h Qs 5s]
+Seat 1: marcin116 (big blind) mucked
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: fernjobsur (small blind) showed [Js 9d] and won ($4.45) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #222974760459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:48 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($10 in chips) 
+Seat 2: and 07335 ($13.95 in chips) 
+Seat 4: gameonfire ($18.47 in chips) 
+Seat 5: perespell ($12.15 in chips) 
+Seat 6: fernjobsur ($8.65 in chips) 
+marcin116: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: folds 
+fernjobsur: calls $0.10
+marcin116: folds 
+and 07335: checks 
+*** FLOP *** [Jh 9d Kc]
+and 07335: checks 
+fernjobsur: checks 
+*** TURN *** [Jh 9d Kc] [Td]
+and 07335: checks 
+fernjobsur: bets $0.10
+and 07335: folds 
+Uncalled bet ($0.10) returned to fernjobsur
+fernjobsur collected $0.24 from pot
+fernjobsur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jh 9d Kc Td]
+Seat 1: marcin116 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) folded on the Turn
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur (button) collected ($0.24)
+
+
+
+PokerStars Hand #222974791821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:26 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($10 in chips) 
+Seat 2: and 07335 ($13.85 in chips) 
+Seat 4: gameonfire ($18.47 in chips) 
+Seat 5: perespell ($12.15 in chips) 
+Seat 6: fernjobsur ($8.79 in chips) 
+and 07335: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+fernjobsur: folds 
+marcin116: raises $0.25 to $0.35
+and 07335: folds 
+gameonfire: folds 
+Uncalled bet ($0.25) returned to marcin116
+marcin116 collected $0.25 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 (button) collected ($0.25)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974808330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:46 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: marcin116 ($10.15 in chips) 
+Seat 2: and 07335 ($13.80 in chips) 
+Seat 4: gameonfire ($18.37 in chips) 
+Seat 5: perespell ($12.15 in chips) 
+Seat 6: fernjobsur ($8.79 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+fernjobsur: folds 
+marcin116: folds 
+fernjobsur leaves the table
+and 07335: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [Kh 2c Qd]
+gameonfire: checks 
+perespell: checks 
+*** TURN *** [Kh 2c Qd] [7c]
+gameonfire: checks 
+perespell: bets $0.10
+Corpit joins the table at seat #6 
+gameonfire: calls $0.10
+*** RIVER *** [Kh 2c Qd 7c] [Ks]
+gameonfire: checks 
+perespell: checks 
+*** SHOW DOWN ***
+gameonfire: shows [5s Ac] (a pair of Kings)
+perespell: shows [5d Qs] (two pair, Kings and Queens)
+perespell collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kh 2c Qd 7c Ks]
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) showed [5s Ac] and lost with a pair of Kings
+Seat 5: perespell (big blind) showed [5d Qs] and won ($0.38) with two pair, Kings and Queens
+Seat 6: fernjobsur folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974837291:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:22 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: marcin116 ($10.15 in chips) 
+Seat 2: and 07335 ($13.80 in chips) 
+Seat 4: gameonfire ($18.17 in chips) 
+Seat 5: perespell ($12.33 in chips) 
+Seat 6: Corpit ($10 in chips) 
+perespell: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+marcin116: raises $0.25 to $0.35
+and 07335: folds 
+gameonfire: calls $0.35
+perespell: folds 
+Corpit: folds 
+*** FLOP *** [Qd Qh 6c]
+marcin116: bets $0.61
+gameonfire: folds 
+Uncalled bet ($0.61) returned to marcin116
+marcin116 collected $0.81 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Qd Qh 6c]
+Seat 1: marcin116 collected ($0.81)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded on the Flop
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: Corpit (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974848280:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:36 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($10.61 in chips) 
+Seat 2: and 07335 ($13.80 in chips) 
+Seat 4: gameonfire ($17.82 in chips) 
+Seat 5: perespell ($12.28 in chips) 
+Seat 6: Corpit ($10 in chips) 
+Corpit: posts small blind $0.05
+marcin116: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+gameonfire: folds 
+perespell: folds 
+Corpit: raises $0.20 to $0.30
+marcin116: calls $0.20
+*** FLOP *** [3s Qc 3c]
+Corpit: checks 
+marcin116: checks 
+*** TURN *** [3s Qc 3c] [Ad]
+Corpit: checks 
+marcin116: bets $0.40
+Corpit: folds 
+Uncalled bet ($0.40) returned to marcin116
+marcin116 collected $0.57 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3s Qc 3c Ad]
+Seat 1: marcin116 (big blind) collected ($0.57)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: Corpit (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222974883003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:18 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($10.88 in chips) 
+Seat 2: and 07335 ($13.80 in chips) 
+Seat 4: gameonfire ($17.82 in chips) 
+Seat 5: perespell ($12.28 in chips) 
+Seat 6: Corpit ($10 in chips) 
+marcin116: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+Corpit: folds 
+marcin116: folds 
+and 07335: checks 
+*** FLOP *** [9d 3h Qc]
+and 07335: checks 
+gameonfire: checks 
+*** TURN *** [9d 3h Qc] [2h]
+and 07335: checks 
+gameonfire: checks 
+*** RIVER *** [9d 3h Qc 2h] [5h]
+and 07335: checks 
+gameonfire: checks 
+*** SHOW DOWN ***
+and 07335: shows [Kh 3c] (a pair of Threes)
+gameonfire: mucks hand 
+and 07335 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9d 3h Qc 2h 5h]
+Seat 1: marcin116 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) showed [Kh 3c] and won ($0.24) with a pair of Threes
+Seat 4: gameonfire mucked
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974911279:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:53 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($10.83 in chips) 
+Seat 2: and 07335 ($13.94 in chips) 
+Seat 4: gameonfire ($17.72 in chips) 
+Seat 5: perespell ($12.28 in chips) 
+Seat 6: Corpit ($10 in chips) 
+and 07335: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: raises $0.15 to $0.25
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+gameonfire: calls $0.15
+*** FLOP *** [8c 5c 3s]
+gameonfire: checks 
+perespell: bets $0.27
+gameonfire: folds 
+Uncalled bet ($0.27) returned to perespell
+perespell collected $0.53 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8c 5c 3s]
+Seat 1: marcin116 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded on the Flop
+Seat 5: perespell collected ($0.53)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974932196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:19 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: marcin116 ($10.83 in chips) 
+Seat 2: and 07335 ($13.89 in chips) 
+Seat 4: gameonfire ($17.47 in chips) 
+Seat 5: perespell ($12.56 in chips) 
+Seat 6: Corpit ($10 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: folds 
+marcin116: folds 
+and 07335: raises $0.12 to $0.22
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.12) returned to and 07335
+and 07335 collected $0.25 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 (button) collected ($0.25)
+Seat 4: gameonfire (small blind) folded before Flop
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974947102:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:37 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: marcin116 ($10.83 in chips) 
+Seat 2: and 07335 ($14.04 in chips) 
+Seat 4: gameonfire ($17.42 in chips) 
+Seat 5: perespell ($12.46 in chips) 
+Seat 6: Corpit ($10 in chips) 
+perespell: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+marcin116: folds 
+and 07335: folds 
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.05) returned to Corpit
+Corpit collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: Corpit (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222974955367:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:47 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($10.83 in chips) 
+Seat 2: and 07335 ($14.04 in chips) 
+Seat 4: gameonfire ($17.42 in chips) 
+Seat 5: perespell ($12.41 in chips) 
+Seat 6: Corpit ($10.05 in chips) 
+Corpit: posts small blind $0.05
+marcin116: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+gameonfire: calls $0.10
+perespell: folds 
+Corpit: raises $0.50 to $0.60
+marcin116: folds 
+gameonfire: calls $0.50
+*** FLOP *** [Jd 9c Ac]
+Corpit: bets $0.41
+gameonfire: calls $0.41
+*** TURN *** [Jd 9c Ac] [Jc]
+Corpit: checks 
+gameonfire: bets $2.72
+Corpit: folds 
+Uncalled bet ($2.72) returned to gameonfire
+gameonfire collected $2.02 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.12 | Rake $0.10 
+Board [Jd 9c Ac Jc]
+Seat 1: marcin116 (big blind) folded before Flop
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire collected ($2.02)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: Corpit (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222974979430:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:17 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($10.73 in chips) 
+Seat 2: and 07335 ($14.04 in chips) 
+Seat 4: gameonfire ($18.43 in chips) 
+Seat 5: perespell ($12.41 in chips) 
+Seat 6: Corpit ($10 in chips) 
+marcin116: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+Corpit: folds 
+marcin116: folds 
+and 07335: checks 
+*** FLOP *** [9s Ks Tc]
+and 07335: checks 
+gameonfire: checks 
+*** TURN *** [9s Ks Tc] [Ac]
+and 07335: checks 
+gameonfire: checks 
+*** RIVER *** [9s Ks Tc Ac] [5s]
+and 07335: checks 
+gameonfire: checks 
+*** SHOW DOWN ***
+and 07335: shows [8d 8h] (a pair of Eights)
+gameonfire: mucks hand 
+and 07335 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s Ks Tc Ac 5s]
+Seat 1: marcin116 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) showed [8d 8h] and won ($0.24) with a pair of Eights
+Seat 4: gameonfire mucked
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975000054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:43 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($10.68 in chips) 
+Seat 2: and 07335 ($14.18 in chips) 
+Seat 4: gameonfire ($18.33 in chips) 
+Seat 5: perespell ($12.41 in chips) 
+Seat 6: Corpit ($10 in chips) 
+and 07335: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+Corpit: raises $0.20 to $0.30
+marcin116: folds 
+and 07335: folds 
+gameonfire: folds 
+Uncalled bet ($0.20) returned to Corpit
+Corpit collected $0.25 from pot
+$iganov1 was removed from the table for failing to post
+$iganov1 leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit collected ($0.25)
+
+
+
+PokerStars Hand #222975008556:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:53 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: marcin116 ($10.68 in chips) 
+Seat 2: and 07335 ($14.13 in chips) 
+Seat 4: gameonfire ($18.23 in chips) 
+Seat 5: perespell ($12.41 in chips) 
+Seat 6: Corpit ($10.15 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+electrobox joins the table at seat #3 
+Corpit: folds 
+electrobox leaves the table
+marcin116: folds 
+and 07335: raises $0.12 to $0.22
+gameonfire: calls $0.17
+perespell: calls $0.12
+*** FLOP *** [Ac 2s 6s]
+gameonfire: checks 
+perespell: checks 
+and 07335: bets $0.42
+gameonfire: folds 
+perespell: folds 
+Uncalled bet ($0.42) returned to and 07335
+and 07335 collected $0.63 from pot
+and 07335: doesn't show hand 
+Juanchopb79 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.03 
+Board [Ac 2s 6s]
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 (button) collected ($0.63)
+Seat 4: gameonfire (small blind) folded on the Flop
+Seat 5: perespell (big blind) folded on the Flop
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975034981:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:26 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: marcin116 ($10.68 in chips) 
+Seat 2: and 07335 ($14.54 in chips) 
+Seat 4: gameonfire ($18.01 in chips) 
+Seat 5: perespell ($12.19 in chips) 
+Seat 6: Corpit ($10.15 in chips) 
+perespell: posts small blind $0.05
+Corpit: posts big blind $0.10
+Juanchopb79: sits out 
+*** HOLE CARDS ***
+marcin116: folds 
+and 07335: folds 
+gameonfire: calls $0.10
+perespell: calls $0.05
+Corpit: checks 
+*** FLOP *** [Kd Qs 4s]
+perespell: checks 
+Corpit: checks 
+gameonfire: checks 
+*** TURN *** [Kd Qs 4s] [Qh]
+perespell: checks 
+Juanchopb79 leaves the table
+Marco7OK7 joins the table at seat #3 
+Corpit: checks 
+gameonfire: checks 
+*** RIVER *** [Kd Qs 4s Qh] [Ks]
+perespell: checks 
+Corpit: checks 
+gameonfire: checks 
+*** SHOW DOWN ***
+perespell: shows [7d 6d] (two pair, Kings and Queens)
+Corpit: shows [Ah 8s] (two pair, Kings and Queens - Ace kicker)
+gameonfire: mucks hand 
+Corpit collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kd Qs 4s Qh Ks]
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) mucked
+Seat 5: perespell (small blind) showed [7d 6d] and lost with two pair, Kings and Queens
+Seat 6: Corpit (big blind) showed [Ah 8s] and won ($0.29) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #222975063433:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:26:02 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($10.68 in chips) 
+Seat 2: and 07335 ($14.54 in chips) 
+Seat 3: Marco7OK7 ($10 in chips) 
+Seat 4: gameonfire ($17.91 in chips) 
+Seat 5: perespell ($12.09 in chips) 
+Seat 6: Corpit ($10.34 in chips) 
+Corpit: posts small blind $0.05
+marcin116: posts big blind $0.10
+Marco7OK7: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+Marco7OK7: checks 
+gameonfire: folds 
+perespell: folds 
+Corpit: calls $0.05
+marcin116: checks 
+*** FLOP *** [Ts Jc 4s]
+Corpit: checks 
+marcin116: bets $0.22
+Marco7OK7: calls $0.22
+Corpit: folds 
+*** TURN *** [Ts Jc 4s] [5d]
+marcin116: checks 
+Marco7OK7: bets $0.70
+marcin116: calls $0.70
+*** RIVER *** [Ts Jc 4s 5d] [Jh]
+marcin116: checks 
+Marco7OK7: bets $1.10
+marcin116: calls $1.10
+*** SHOW DOWN ***
+Marco7OK7: shows [Th 8d] (two pair, Jacks and Tens)
+marcin116: shows [3s Jd] (three of a kind, Jacks)
+marcin116 collected $4.14 from pot
+*** SUMMARY ***
+Total pot $4.34 | Rake $0.20 
+Board [Ts Jc 4s 5d Jh]
+Seat 1: marcin116 (big blind) showed [3s Jd] and won ($4.14) with three of a kind, Jacks
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: Marco7OK7 showed [Th 8d] and lost with two pair, Jacks and Tens
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: Corpit (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222975114723:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:05 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($12.70 in chips) 
+Seat 2: and 07335 ($14.54 in chips) 
+Seat 3: Marco7OK7 ($7.88 in chips) 
+Seat 4: gameonfire ($17.91 in chips) 
+Seat 5: perespell ($12.09 in chips) 
+Seat 6: Corpit ($10.24 in chips) 
+marcin116: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+Marco7OK7: raises $0.20 to $0.30
+gameonfire: calls $0.30
+perespell: raises $0.50 to $0.80
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+Marco7OK7: calls $0.50
+gameonfire: calls $0.50
+*** FLOP *** [2c 2d 3s]
+Marco7OK7: checks 
+gameonfire: bets $2.44
+perespell: folds 
+Marco7OK7: folds 
+Uncalled bet ($2.44) returned to gameonfire
+gameonfire collected $2.44 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [2c 2d 3s]
+Seat 1: marcin116 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) folded before Flop
+Seat 3: Marco7OK7 folded on the Flop
+Seat 4: gameonfire collected ($2.44)
+Seat 5: perespell folded on the Flop
+Seat 6: Corpit (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975164127:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:04 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($12.65 in chips) 
+Seat 2: and 07335 ($14.44 in chips) 
+Seat 3: Marco7OK7 ($7.08 in chips) 
+Seat 4: gameonfire ($19.55 in chips) 
+Seat 5: perespell ($11.29 in chips) 
+Seat 6: Corpit ($10.24 in chips) 
+and 07335: posts small blind $0.05
+Marco7OK7: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: raises $0.30 to $0.40
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+Marco7OK7: folds 
+gameonfire: calls $0.30
+*** FLOP *** [8h 9d 6h]
+gameonfire: checks 
+perespell: bets $0.46
+gameonfire: folds 
+Uncalled bet ($0.46) returned to perespell
+perespell collected $0.91 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8h 9d 6h]
+Seat 1: marcin116 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: Marco7OK7 (big blind) folded before Flop
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell collected ($0.91)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975200118:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:49 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: marcin116 ($12.65 in chips) 
+Seat 2: and 07335 ($14.39 in chips) 
+Seat 3: Marco7OK7 ($6.98 in chips) 
+Seat 4: gameonfire ($19.15 in chips) 
+Seat 5: perespell ($11.80 in chips) 
+Seat 6: Corpit ($10.24 in chips) 
+Marco7OK7: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+Corpit: folds 
+marcin116: folds 
+and 07335: raises $0.12 to $0.22
+Marco7OK7: calls $0.17
+gameonfire: folds 
+*** FLOP *** [Jc Js 3s]
+Marco7OK7: checks 
+and 07335: bets $0.34
+Marco7OK7: calls $0.34
+*** TURN *** [Jc Js 3s] [Th]
+Marco7OK7: bets $0.60
+and 07335: folds 
+Uncalled bet ($0.60) returned to Marco7OK7
+Marco7OK7 collected $1.17 from pot
+Marco7OK7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [Jc Js 3s Th]
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 (button) folded on the Turn
+Seat 3: Marco7OK7 (small blind) collected ($1.17)
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975237093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:29:36 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: marcin116 ($12.65 in chips) 
+Seat 2: and 07335 ($13.83 in chips) 
+Seat 3: Marco7OK7 ($7.59 in chips) 
+Seat 4: gameonfire ($19.05 in chips) 
+Seat 5: perespell ($11.80 in chips) 
+Seat 6: Corpit ($10.24 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: folds 
+marcin116: raises $0.25 to $0.35
+and 07335: folds 
+Marco7OK7: calls $0.35
+gameonfire: folds 
+perespell: folds 
+*** FLOP *** [Ah 7s 3c]
+marcin116: bets $0.61
+Marco7OK7: calls $0.61
+*** TURN *** [Ah 7s 3c] [6h]
+marcin116: checks 
+Marco7OK7: bets $1
+marcin116: calls $1
+*** RIVER *** [Ah 7s 3c 6h] [Tc]
+marcin116: checks 
+Marco7OK7: bets $1.90
+marcin116: raises $8.79 to $10.69 and is all-in
+Marco7OK7: folds 
+Uncalled bet ($8.79) returned to marcin116
+marcin116 collected $7.52 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.87 | Rake $0.35 
+Board [Ah 7s 3c 6h Tc]
+Seat 1: marcin116 collected ($7.52)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: Marco7OK7 (button) folded on the River
+Seat 4: gameonfire (small blind) folded before Flop
+Seat 5: perespell (big blind) folded before Flop
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975285611:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:37 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: marcin116 ($16.31 in chips) 
+Seat 2: and 07335 ($13.83 in chips) 
+Seat 3: Marco7OK7 ($3.73 in chips) 
+Seat 4: gameonfire ($19 in chips) 
+Seat 5: perespell ($11.70 in chips) 
+Seat 6: Corpit ($10.24 in chips) 
+perespell: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+marcin116: folds 
+and 07335: folds 
+Marco7OK7: raises $0.20 to $0.30
+gameonfire: folds 
+perespell: folds 
+Corpit: folds 
+Uncalled bet ($0.20) returned to Marco7OK7
+Marco7OK7 collected $0.25 from pot
+Marco7OK7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: Marco7OK7 collected ($0.25)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: Corpit (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975299754:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:55 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($16.31 in chips) 
+Seat 2: and 07335 ($13.83 in chips) 
+Seat 3: Marco7OK7 ($3.88 in chips) 
+Seat 4: gameonfire ($19 in chips) 
+Seat 5: perespell ($11.65 in chips) 
+Seat 6: Corpit ($10.14 in chips) 
+Corpit: posts small blind $0.05
+marcin116: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+Marco7OK7: raises $0.20 to $0.30
+gameonfire: folds 
+perespell: folds 
+Corpit: folds 
+marcin116: calls $0.20
+*** FLOP *** [Qc 3h 4d]
+marcin116: checks 
+Marco7OK7: bets $0.60
+marcin116: folds 
+Uncalled bet ($0.60) returned to Marco7OK7
+Marco7OK7 collected $0.62 from pot
+Marco7OK7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qc 3h 4d]
+Seat 1: marcin116 (big blind) folded on the Flop
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: Marco7OK7 collected ($0.62)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: Corpit (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975328871:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:31:31 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($16.01 in chips) 
+Seat 2: and 07335 ($13.83 in chips) 
+Seat 3: Marco7OK7 ($4.20 in chips) 
+Seat 4: gameonfire ($19 in chips) 
+Seat 5: perespell ($11.65 in chips) 
+Seat 6: Corpit ($10.09 in chips) 
+marcin116: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+Marco7OK7: raises $0.10 to $0.20
+gameonfire: calls $0.20
+perespell: calls $0.20
+Corpit: calls $0.20
+marcin116: calls $0.15
+and 07335: calls $0.10
+*** FLOP *** [8s Qd 2d]
+marcin116: checks 
+and 07335: checks 
+Marco7OK7: bets $0.60
+gameonfire: calls $0.60
+perespell: folds 
+Corpit: raises $2.21 to $2.81
+marcin116: folds 
+and 07335: folds 
+Marco7OK7: raises $1.19 to $4 and is all-in
+gameonfire: folds 
+Corpit: calls $1.19
+*** TURN *** [8s Qd 2d] [Jc]
+*** RIVER *** [8s Qd 2d Jc] [Jh]
+*** SHOW DOWN ***
+Marco7OK7: shows [Kd 6d] (a pair of Jacks)
+Corpit: shows [2c Qc] (two pair, Queens and Jacks)
+Corpit collected $9.36 from pot
+*** SUMMARY ***
+Total pot $9.80 | Rake $0.44 
+Board [8s Qd 2d Jc Jh]
+Seat 1: marcin116 (small blind) folded on the Flop
+Seat 2: and 07335 (big blind) folded on the Flop
+Seat 3: Marco7OK7 showed [Kd 6d] and lost with a pair of Jacks
+Seat 4: gameonfire folded on the Flop
+Seat 5: perespell folded on the Flop
+Seat 6: Corpit (button) showed [2c Qc] and won ($9.36) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222975374088:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:29 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($15.81 in chips) 
+Seat 2: and 07335 ($13.63 in chips) 
+Seat 4: gameonfire ($18.20 in chips) 
+Seat 5: perespell ($11.45 in chips) 
+Seat 6: Corpit ($15.25 in chips) 
+and 07335: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+Marco7OK7 leaves the table
+Corpit: raises $0.20 to $0.30
+marcin116: folds 
+and 07335: folds 
+gameonfire: folds 
+Uncalled bet ($0.20) returned to Corpit
+Corpit collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 4: gameonfire (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit collected ($0.25)
+
+
+
+PokerStars Hand #222975386965:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:45 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: marcin116 ($15.81 in chips) 
+Seat 2: and 07335 ($13.58 in chips) 
+Seat 4: gameonfire ($18.10 in chips) 
+Seat 5: perespell ($11.45 in chips) 
+Seat 6: Corpit ($15.40 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: folds 
+marcin116: folds 
+CelioRocha joins the table at seat #3 
+and 07335: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [9c Qc 9s]
+gameonfire: checks 
+perespell: checks 
+*** TURN *** [9c Qc 9s] [3h]
+gameonfire: checks 
+perespell: checks 
+*** RIVER *** [9c Qc 9s 3h] [8s]
+gameonfire: checks 
+perespell: bets $0.10
+gameonfire: folds 
+Uncalled bet ($0.10) returned to perespell
+perespell collected $0.19 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9c Qc 9s 3h 8s]
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) folded on the River
+Seat 5: perespell (big blind) collected ($0.19)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975409291:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:33:14 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: marcin116 ($15.81 in chips) 
+Seat 2: and 07335 ($13.58 in chips) 
+Seat 4: gameonfire ($18 in chips) 
+Seat 5: perespell ($11.54 in chips) 
+Seat 6: Corpit ($15.40 in chips) 
+perespell: posts small blind $0.05
+Corpit: posts big blind $0.10
+CelioRocha: sits out 
+*** HOLE CARDS ***
+marcin116: raises $0.25 to $0.35
+and 07335: folds 
+gameonfire: calls $0.35
+perespell: folds 
+Corpit: folds 
+*** FLOP *** [Qh 6h 4d]
+marcin116: bets $0.61
+gameonfire: folds 
+Uncalled bet ($0.61) returned to marcin116
+marcin116 collected $0.81 from pot
+marcin116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Qh 6h 4d]
+Seat 1: marcin116 collected ($0.81)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire (button) folded on the Flop
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: Corpit (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975426011:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:33:35 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($16.27 in chips) 
+Seat 2: and 07335 ($13.58 in chips) 
+Seat 4: gameonfire ($17.65 in chips) 
+Seat 5: perespell ($11.49 in chips) 
+Seat 6: Corpit ($15.30 in chips) 
+Corpit: posts small blind $0.05
+marcin116: posts big blind $0.10
+CelioRocha: sits out 
+*** HOLE CARDS ***
+and 07335: folds 
+gameonfire: folds 
+perespell: raises $0.15 to $0.25
+Corpit: folds 
+marcin116: folds 
+Uncalled bet ($0.15) returned to perespell
+perespell collected $0.25 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 (big blind) folded before Flop
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) collected ($0.25)
+Seat 6: Corpit (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975452970:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:34:09 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($16.17 in chips) 
+Seat 2: and 07335 ($13.58 in chips) 
+Seat 4: gameonfire ($17.65 in chips) 
+Seat 5: perespell ($11.64 in chips) 
+Seat 6: Corpit ($15.25 in chips) 
+marcin116: posts small blind $0.05
+and 07335: posts big blind $0.10
+CelioRocha: sits out 
+*** HOLE CARDS ***
+gameonfire: folds 
+perespell: raises $0.15 to $0.25
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+Uncalled bet ($0.15) returned to perespell
+perespell collected $0.25 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 (small blind) folded before Flop
+Seat 2: and 07335 (big blind) folded before Flop
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell collected ($0.25)
+Seat 6: Corpit (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975463991:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:34:23 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($16.12 in chips) 
+Seat 2: and 07335 ($13.48 in chips) 
+Seat 3: CelioRocha ($10 in chips) 
+Seat 4: gameonfire ($17.65 in chips) 
+Seat 5: perespell ($11.79 in chips) 
+Seat 6: Corpit ($15.25 in chips) 
+and 07335: posts small blind $0.05
+CelioRocha: posts big blind $0.10
+*** HOLE CARDS ***
+gameonfire: calls $0.10
+perespell: folds 
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+CelioRocha: checks 
+*** FLOP *** [Jc 5d Td]
+CelioRocha: checks 
+gameonfire: checks 
+*** TURN *** [Jc 5d Td] [7s]
+CelioRocha: bets $0.12
+gameonfire: calls $0.12
+*** RIVER *** [Jc 5d Td 7s] [8d]
+CelioRocha: checks 
+gameonfire: checks 
+*** SHOW DOWN ***
+CelioRocha: shows [7c Kc] (a pair of Sevens)
+gameonfire: mucks hand 
+CelioRocha collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Jc 5d Td 7s 8d]
+Seat 1: marcin116 (button) folded before Flop (didn't bet)
+Seat 2: and 07335 (small blind) folded before Flop
+Seat 3: CelioRocha (big blind) showed [7c Kc] and won ($0.47) with a pair of Sevens
+Seat 4: gameonfire mucked
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975488408:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:34:55 ET
+Table 'Hungaria III' 6-max Seat #2 is the button
+Seat 1: marcin116 ($16.12 in chips) 
+Seat 2: and 07335 ($13.43 in chips) 
+Seat 3: CelioRocha ($10.25 in chips) 
+Seat 4: gameonfire ($17.43 in chips) 
+Seat 5: perespell ($11.79 in chips) 
+Seat 6: Corpit ($15.25 in chips) 
+CelioRocha: posts small blind $0.05
+gameonfire: posts big blind $0.10
+*** HOLE CARDS ***
+perespell: folds 
+Corpit: folds 
+marcin116: raises $0.25 to $0.35
+and 07335: folds 
+CelioRocha: folds 
+gameonfire: calls $0.25
+*** FLOP *** [2c 6h 8h]
+gameonfire: checks 
+marcin116: checks 
+*** TURN *** [2c 6h 8h] [6d]
+gameonfire: bets $0.72
+marcin116: folds 
+Uncalled bet ($0.72) returned to gameonfire
+gameonfire collected $0.72 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2c 6h 8h 6d]
+Seat 1: marcin116 folded on the Turn
+Seat 2: and 07335 (button) folded before Flop (didn't bet)
+Seat 3: CelioRocha (small blind) folded before Flop
+Seat 4: gameonfire (big blind) collected ($0.72)
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975520335:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:35:23 ET
+Table 'Hungaria III' 6-max Seat #3 is the button
+Seat 1: marcin116 ($15.77 in chips) 
+Seat 2: and 07335 ($13.43 in chips) 
+Seat 3: CelioRocha ($10.20 in chips) 
+Seat 4: gameonfire ($17.80 in chips) 
+Seat 5: perespell ($11.79 in chips) 
+Seat 6: Corpit ($15.25 in chips) 
+gameonfire: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+CelioRocha: folds 
+gameonfire: calls $0.05
+perespell: checks 
+*** FLOP *** [Qh 9h 7d]
+gameonfire: bets $0.10
+perespell: folds 
+Uncalled bet ($0.10) returned to gameonfire
+gameonfire collected $0.19 from pot
+gameonfire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qh 9h 7d]
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: CelioRocha (button) folded before Flop (didn't bet)
+Seat 4: gameonfire (small blind) collected ($0.19)
+Seat 5: perespell (big blind) folded on the Flop
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975550695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:36:02 ET
+Table 'Hungaria III' 6-max Seat #4 is the button
+Seat 1: marcin116 ($15.77 in chips) 
+Seat 2: and 07335 ($13.43 in chips) 
+Seat 3: CelioRocha ($10.20 in chips) 
+Seat 4: gameonfire ($17.89 in chips) 
+Seat 5: perespell ($11.69 in chips) 
+Seat 6: Corpit ($15.25 in chips) 
+perespell: posts small blind $0.05
+Corpit: posts big blind $0.10
+*** HOLE CARDS ***
+marcin116: folds 
+and 07335: folds 
+CelioRocha: raises $0.20 to $0.30
+gameonfire: folds 
+perespell: folds 
+Corpit: folds 
+Uncalled bet ($0.20) returned to CelioRocha
+CelioRocha collected $0.25 from pot
+CelioRocha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 folded before Flop (didn't bet)
+Seat 2: and 07335 folded before Flop (didn't bet)
+Seat 3: CelioRocha collected ($0.25)
+Seat 4: gameonfire (button) folded before Flop (didn't bet)
+Seat 5: perespell (small blind) folded before Flop
+Seat 6: Corpit (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975566492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:36:22 ET
+Table 'Hungaria III' 6-max Seat #5 is the button
+Seat 1: marcin116 ($15.77 in chips) 
+Seat 2: and 07335 ($13.43 in chips) 
+Seat 3: CelioRocha ($10.35 in chips) 
+Seat 4: gameonfire ($17.89 in chips) 
+Seat 5: perespell ($11.64 in chips) 
+Seat 6: Corpit ($15.15 in chips) 
+Corpit: posts small blind $0.05
+marcin116: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: raises $0.15 to $0.25
+CelioRocha: calls $0.25
+gameonfire: folds 
+gameonfire leaves the table
+perespell: folds 
+Corpit: calls $0.20
+marcin116: calls $0.15
+*** FLOP *** [Js 6h Qh]
+Corpit: checks 
+marcin116: checks 
+and 07335: checks 
+CelioRocha: bets $0.50
+Corpit: folds 
+marcin116: folds 
+and 07335: folds 
+Uncalled bet ($0.50) returned to CelioRocha
+CelioRocha collected $0.96 from pot
+CelioRocha: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Js 6h Qh]
+Seat 1: marcin116 (big blind) folded on the Flop
+Seat 2: and 07335 folded on the Flop
+Seat 3: CelioRocha collected ($0.96)
+Seat 4: gameonfire folded before Flop (didn't bet)
+Seat 5: perespell (button) folded before Flop (didn't bet)
+Seat 6: Corpit (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222975598583:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:37:04 ET
+Table 'Hungaria III' 6-max Seat #6 is the button
+Seat 1: marcin116 ($15.52 in chips) 
+Seat 3: CelioRocha ($11.06 in chips) 
+Seat 5: perespell ($11.64 in chips) 
+Seat 6: Corpit ($14.90 in chips) 
+marcin116: posts small blind $0.05
+and 07335: is sitting out 
+CelioRocha: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335 leaves the table
+perespell: folds 
+Corpit: raises $0.20 to $0.30
+marcin116: folds 
+CelioRocha: folds 
+Uncalled bet ($0.20) returned to Corpit
+Corpit collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: marcin116 (small blind) folded before Flop
+Seat 3: CelioRocha (big blind) folded before Flop
+Seat 5: perespell folded before Flop (didn't bet)
+Seat 6: Corpit (button) collected ($0.25)
+
+
+
+PokerStars Hand #222975609688:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:37:19 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: marcin116 ($15.47 in chips) 
+Seat 3: CelioRocha ($10.96 in chips) 
+Seat 5: perespell ($11.64 in chips) 
+Seat 6: Corpit ($15.05 in chips) 
+CelioRocha: posts small blind $0.05
+perespell: posts big blind $0.10
+*** HOLE CARDS ***
+Corpit: folds 
+marcin116: folds 
+Corpit leaves the table
+CelioRocha: folds 
+Uncalled bet ($0.05) returned to perespell
+perespell collected $0.10 from pot
+perespell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: marcin116 (button) folded before Flop (didn't bet)
+Seat 3: CelioRocha (small blind) folded before Flop
+Seat 5: perespell (big blind) collected ($0.10)
+Seat 6: Corpit folded before Flop (didn't bet)
+
+
+

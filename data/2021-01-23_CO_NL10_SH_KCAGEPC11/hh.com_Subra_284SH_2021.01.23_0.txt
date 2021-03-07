@@ -1,0 +1,363 @@
+﻿PokerStars Hand #222981196756:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:14:58 ET
+Table 'Subra II' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€15.10 in chips) 
+Seat 2: X el Pasaje2020 (€16.58 in chips) 
+Seat 3: Monterrey S (€11.99 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€8.59 in chips) 
+antonio_dpmk: posts small blind €0.05
+X el Pasaje2020: posts big blind €0.10
+*** HOLE CARDS ***
+Monterrey S: raises €0.15 to €0.25
+sportivu13: folds 
+lepropoker02: folds 
+antonio_dpmk: folds 
+X el Pasaje2020: folds 
+Uncalled bet (€0.15) returned to Monterrey S
+Monterrey S collected €0.25 from pot
+Monterrey S: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 2: X el Pasaje2020 (big blind) folded before Flop
+Seat 3: Monterrey S collected (€0.25)
+Seat 4: sportivu13 folded before Flop (didn't bet)
+Seat 6: lepropoker02 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981205112:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:15:16 ET
+Table 'Subra II' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€15.05 in chips) 
+Seat 2: X el Pasaje2020 (€16.48 in chips) 
+Seat 3: Monterrey S (€12.14 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€8.59 in chips) 
+X el Pasaje2020: posts small blind €0.05
+Monterrey S: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+lepropoker02: folds 
+antonio_dpmk: raises €0.15 to €0.25
+X el Pasaje2020: folds 
+Monterrey S: folds 
+Uncalled bet (€0.15) returned to antonio_dpmk
+antonio_dpmk collected €0.25 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (button) collected (€0.25)
+Seat 2: X el Pasaje2020 (small blind) folded before Flop
+Seat 3: Monterrey S (big blind) folded before Flop
+Seat 4: sportivu13 folded before Flop (didn't bet)
+Seat 6: lepropoker02 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981217190:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:15:44 ET
+Table 'Subra II' 6-max Seat #2 is the button
+Seat 1: antonio_dpmk (€15.20 in chips) 
+Seat 2: X el Pasaje2020 (€16.43 in chips) 
+Seat 3: Monterrey S (€12.04 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€8.59 in chips) 
+Monterrey S: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+lepropoker02: raises €0.10 to €0.20
+antonio_dpmk: folds 
+X el Pasaje2020: calls €0.20
+Monterrey S: folds 
+sportivu13: folds 
+*** FLOP *** [5h 4s 4d]
+lepropoker02: checks 
+X el Pasaje2020: bets €0.27
+lepropoker02: calls €0.27
+*** TURN *** [5h 4s 4d] [8c]
+lepropoker02: checks 
+X el Pasaje2020: bets €0.52
+lepropoker02: calls €0.52
+*** RIVER *** [5h 4s 4d 8c] [2s]
+lepropoker02: checks 
+X el Pasaje2020: checks 
+*** SHOW DOWN ***
+lepropoker02: shows [8h Ah] (two pair, Eights and Fours)
+X el Pasaje2020: mucks hand 
+lepropoker02 collected €2.03 from pot
+*** SUMMARY ***
+Total pot €2.13 | Rake €0.10 
+Board [5h 4s 4d 8c 2s]
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 2: X el Pasaje2020 (button) mucked
+Seat 3: Monterrey S (small blind) folded before Flop
+Seat 4: sportivu13 (big blind) folded before Flop
+Seat 6: lepropoker02 showed [8h Ah] and won (€2.03) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #222981230083:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:16:13 ET
+Table 'Subra II' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€15.20 in chips) 
+Seat 2: X el Pasaje2020 (€15.44 in chips) 
+Seat 3: Monterrey S (€11.99 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€9.63 in chips) 
+sportivu13: posts small blind €0.05
+lepropoker02: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+X el Pasaje2020: raises €0.20 to €0.30
+Monterrey S: folds 
+sportivu13: folds 
+lepropoker02: folds 
+Uncalled bet (€0.20) returned to X el Pasaje2020
+X el Pasaje2020 collected €0.25 from pot
+X el Pasaje2020: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 2: X el Pasaje2020 collected (€0.25)
+Seat 3: Monterrey S (button) folded before Flop (didn't bet)
+Seat 4: sportivu13 (small blind) folded before Flop
+Seat 6: lepropoker02 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222981234459:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:16:23 ET
+Table 'Subra II' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€15.20 in chips) 
+Seat 2: X el Pasaje2020 (€15.59 in chips) 
+Seat 3: Monterrey S (€11.99 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€9.53 in chips) 
+lepropoker02: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+X el Pasaje2020: folds 
+Monterrey S: raises €0.15 to €0.25
+sportivu13: folds 
+lepropoker02: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.15) returned to Monterrey S
+Monterrey S collected €0.25 from pot
+Monterrey S: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 2: X el Pasaje2020 folded before Flop (didn't bet)
+Seat 3: Monterrey S collected (€0.25)
+Seat 4: sportivu13 (button) folded before Flop (didn't bet)
+Seat 6: lepropoker02 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981241932:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:16:39 ET
+Table 'Subra II' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€15.10 in chips) 
+Seat 2: X el Pasaje2020 (€15.59 in chips) 
+Seat 3: Monterrey S (€12.14 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€9.48 in chips) 
+antonio_dpmk: posts small blind €0.05
+X el Pasaje2020: posts big blind €0.10
+*** HOLE CARDS ***
+Monterrey S: folds 
+sportivu13: raises €0.19 to €0.29
+lepropoker02: calls €0.29
+antonio_dpmk: folds 
+X el Pasaje2020: folds 
+*** FLOP *** [9c 8c 4d]
+sportivu13: bets €0.37
+lepropoker02: calls €0.37
+*** TURN *** [9c 8c 4d] [Ac]
+sportivu13: checks 
+lepropoker02: checks 
+*** RIVER *** [9c 8c 4d Ac] [3c]
+sportivu13: checks 
+lepropoker02: bets €1.12
+sportivu13: folds 
+Uncalled bet (€1.12) returned to lepropoker02
+lepropoker02 collected €1.40 from pot
+lepropoker02: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.47 | Rake €0.07 
+Board [9c 8c 4d Ac 3c]
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 2: X el Pasaje2020 (big blind) folded before Flop
+Seat 3: Monterrey S folded before Flop (didn't bet)
+Seat 4: sportivu13 folded on the River
+Seat 6: lepropoker02 (button) collected (€1.40)
+
+
+
+PokerStars Hand #222981259585:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:17:19 ET
+Table 'Subra II' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€15.05 in chips) 
+Seat 2: X el Pasaje2020 (€15.49 in chips) 
+Seat 3: Monterrey S (€12.14 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€10.22 in chips) 
+X el Pasaje2020: posts small blind €0.05
+Monterrey S: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+lepropoker02: raises €0.10 to €0.20
+antonio_dpmk: folds 
+X el Pasaje2020: calls €0.15
+Monterrey S: folds 
+*** FLOP *** [7h 5d Ks]
+X el Pasaje2020: checks 
+lepropoker02: checks 
+*** TURN *** [7h 5d Ks] [2d]
+X el Pasaje2020: checks 
+lepropoker02: checks 
+*** RIVER *** [7h 5d Ks 2d] [Tc]
+X el Pasaje2020: checks 
+lepropoker02: checks 
+*** SHOW DOWN ***
+X el Pasaje2020: shows [8h 8s] (a pair of Eights)
+lepropoker02: mucks hand 
+X el Pasaje2020 collected €0.48 from pot
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02 
+Board [7h 5d Ks 2d Tc]
+Seat 1: antonio_dpmk (button) folded before Flop (didn't bet)
+Seat 2: X el Pasaje2020 (small blind) showed [8h 8s] and won (€0.48) with a pair of Eights
+Seat 3: Monterrey S (big blind) folded before Flop
+Seat 4: sportivu13 folded before Flop (didn't bet)
+Seat 6: lepropoker02 mucked
+
+
+
+PokerStars Hand #222981275910:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:17:56 ET
+Table 'Subra II' 6-max Seat #2 is the button
+Seat 1: antonio_dpmk (€15.05 in chips) 
+Seat 2: X el Pasaje2020 (€15.77 in chips) 
+Seat 3: Monterrey S (€12.04 in chips) 
+Seat 4: sportivu13 (€10 in chips) 
+Seat 6: lepropoker02 (€10.02 in chips) 
+Monterrey S: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+lepropoker02: folds 
+lepropoker02 leaves the table
+antonio_dpmk: folds 
+X el Pasaje2020: raises €0.18 to €0.28
+Monterrey S: folds 
+sportivu13: folds 
+Uncalled bet (€0.18) returned to X el Pasaje2020
+X el Pasaje2020 collected €0.25 from pot
+X el Pasaje2020: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 2: X el Pasaje2020 (button) collected (€0.25)
+Seat 3: Monterrey S (small blind) folded before Flop
+Seat 4: sportivu13 (big blind) folded before Flop
+Seat 6: lepropoker02 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981283352:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:18:13 ET
+Table 'Subra II' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€15.05 in chips) 
+Seat 2: X el Pasaje2020 (€15.92 in chips) 
+Seat 3: Monterrey S (€11.99 in chips) 
+Seat 4: sportivu13 (€9.90 in chips) 
+sportivu13: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+X el Pasaje2020: raises €0.18 to €0.28
+Monterrey S: raises €0.56 to €0.84
+sportivu13: folds 
+antonio_dpmk: folds 
+X el Pasaje2020: folds 
+Uncalled bet (€0.56) returned to Monterrey S
+Monterrey S collected €0.71 from pot
+Monterrey S: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.71 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 2: X el Pasaje2020 folded before Flop
+Seat 3: Monterrey S (button) collected (€0.71)
+Seat 4: sportivu13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981289158:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:18:26 ET
+Table 'Subra II' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€14.95 in chips) 
+Seat 2: X el Pasaje2020 (€15.64 in chips) 
+Seat 3: Monterrey S (€12.42 in chips) 
+Seat 4: sportivu13 (€9.85 in chips) 
+antonio_dpmk: posts small blind €0.05
+X el Pasaje2020: posts big blind €0.10
+*** HOLE CARDS ***
+Monterrey S: folds 
+sportivu13: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.05) returned to X el Pasaje2020
+X el Pasaje2020 collected €0.10 from pot
+X el Pasaje2020: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 2: X el Pasaje2020 (big blind) collected (€0.10)
+Seat 3: Monterrey S folded before Flop (didn't bet)
+Seat 4: sportivu13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981296084:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:18:42 ET
+Table 'Subra II' 6-max Seat #2 is the button
+Seat 1: antonio_dpmk (€14.90 in chips) 
+Seat 2: X el Pasaje2020 (€15.69 in chips) 
+X el Pasaje2020: posts small blind €0.05
+Monterrey S: is sitting out 
+sportivu13: is sitting out 
+sportivu13 leaves the table
+Monterrey S leaves the table
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+X el Pasaje2020: folds 
+Uncalled bet (€0.05) returned to antonio_dpmk
+antonio_dpmk collected €0.10 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (big blind) collected (€0.10)
+Seat 2: X el Pasaje2020 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981298572:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 20:18:48 ET
+Table 'Subra II' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€14.95 in chips) 
+Seat 2: X el Pasaje2020 (€15.64 in chips) 
+antonio_dpmk: posts small blind €0.05
+X el Pasaje2020: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.15 to €0.25
+X el Pasaje2020: calls €0.15
+*** FLOP *** [8h 4c Kc]
+X el Pasaje2020: checks 
+antonio_dpmk: bets €0.24
+X el Pasaje2020: calls €0.24
+*** TURN *** [8h 4c Kc] [Ad]
+X el Pasaje2020: checks 
+antonio_dpmk: checks 
+*** RIVER *** [8h 4c Kc Ad] [2c]
+X el Pasaje2020: checks 
+antonio_dpmk: bets €0.94
+X el Pasaje2020: folds 
+Uncalled bet (€0.94) returned to antonio_dpmk
+antonio_dpmk collected €0.94 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.04 
+Board [8h 4c Kc Ad 2c]
+Seat 1: antonio_dpmk (button) (small blind) collected (€0.94)
+Seat 2: X el Pasaje2020 (big blind) folded on the River
+
+
+

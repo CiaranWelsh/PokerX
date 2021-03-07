@@ -1,0 +1,2666 @@
+﻿PokerStars Hand #222952412337:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:43:53 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: XUPUMXAH ($7.77 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 3: emisek2509 ($6.31 in chips) 
+Seat 5: 1920kbps ($10.10 in chips) 
+Seat 6: Vaha379 ($10 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: calls $0.10
+Lord_Antoan: folds 
+emisek2509: folds 
+1920kbps: folds 
+Vaha379: checks 
+*** FLOP *** [4d 5s 6d]
+Vaha379: checks 
+XUPUMXAH: checks 
+*** TURN *** [4d 5s 6d] [Ah]
+Vaha379: checks 
+XUPUMXAH: bets $0.24
+Vaha379: folds 
+Uncalled bet ($0.24) returned to XUPUMXAH
+XUPUMXAH collected $0.24 from pot
+XUPUMXAH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d 5s 6d Ah]
+Seat 1: XUPUMXAH collected ($0.24)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222952731805:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:58:11 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.47 in chips) 
+Seat 3: emisek2509 ($5.65 in chips) 
+Seat 4: balisstica ($10.37 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($16.87 in chips) 
+emisek2509: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: raises $0.20 to $0.30
+emisek2509: folds 
+balisstica: folds 
+Uncalled bet ($0.20) returned to Lord_Antoan
+Lord_Antoan collected $0.25 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (button) collected ($0.25)
+Seat 3: emisek2509 (small blind) folded before Flop
+Seat 4: balisstica (big blind) folded before Flop
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952735620:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:58:23 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.62 in chips) 
+Seat 3: emisek2509 ($5.60 in chips) 
+Seat 4: balisstica ($10.27 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($16.87 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: raises $0.20 to $0.30
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: calls $0.30
+balisstica: folds 
+1920kbps: folds 
+*** FLOP *** [7s Qc 2s]
+Vaha379: bets $0.26
+emisek2509: calls $0.26
+*** TURN *** [7s Qc 2s] [Th]
+Vaha379: bets $0.70
+emisek2509: folds 
+Uncalled bet ($0.70) returned to Vaha379
+Vaha379 collected $1.21 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [7s Qc 2s Th]
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 (button) folded on the Turn
+Seat 4: balisstica (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) folded before Flop
+Seat 6: Vaha379 collected ($1.21)
+
+
+
+PokerStars Hand #222952746466:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:58:56 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.62 in chips) 
+Seat 3: emisek2509 ($5.04 in chips) 
+Seat 4: balisstica ($10.22 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.52 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: folds 
+balisstica: folds 
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 folded before Flop (didn't bet)
+Seat 4: balisstica (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) collected ($0.20)
+Seat 6: Vaha379 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952749566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:59:06 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.62 in chips) 
+Seat 3: emisek2509 ($5.04 in chips) 
+Seat 4: balisstica ($10.22 in chips) 
+Seat 5: 1920kbps ($10.10 in chips) 
+Seat 6: Vaha379 ($17.42 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+emisek2509: folds 
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+Uncalled bet ($0.05) returned to XUPUMXAH
+XUPUMXAH collected $0.10 from pot
+XUPUMXAH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: XUPUMXAH (big blind) collected ($0.10)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 folded before Flop (didn't bet)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) folded before Flop (didn't bet)
+Seat 6: Vaha379 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952753456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:59:18 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($5.09 in chips) 
+Seat 2: Lord_Antoan ($10.62 in chips) 
+Seat 3: emisek2509 ($5.04 in chips) 
+Seat 4: balisstica ($10.22 in chips) 
+Seat 5: 1920kbps ($10.10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+emisek2509: raises $0.20 to $0.30
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.20) returned to emisek2509
+emisek2509 collected $0.25 from pot
+emisek2509: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (small blind) folded before Flop
+Seat 2: Lord_Antoan (big blind) folded before Flop
+Seat 3: emisek2509 collected ($0.25)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952757293:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 7:59:29 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.52 in chips) 
+Seat 3: emisek2509 ($5.19 in chips) 
+Seat 4: balisstica ($10.22 in chips) 
+Seat 5: 1920kbps ($10.10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+Lord_Antoan: posts small blind $0.05
+emisek2509: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: raises $0.20 to $0.30
+1920kbps: calls $0.30
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: folds 
+*** FLOP *** [9h Td Js]
+balisstica: bets $0.24
+1920kbps: folds 
+Uncalled bet ($0.24) returned to balisstica
+balisstica collected $0.72 from pot
+balisstica: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9h Td Js]
+Seat 1: XUPUMXAH (button) folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (small blind) folded before Flop
+Seat 3: emisek2509 (big blind) folded before Flop
+Seat 4: balisstica collected ($0.72)
+Seat 5: 1920kbps folded on the Flop
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952768912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:05 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.47 in chips) 
+Seat 3: emisek2509 ($5.09 in chips) 
+Seat 4: balisstica ($10.64 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+emisek2509: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: folds 
+Uncalled bet ($0.05) returned to balisstica
+balisstica collected $0.10 from pot
+balisstica: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (button) folded before Flop (didn't bet)
+Seat 3: emisek2509 (small blind) folded before Flop
+Seat 4: balisstica (big blind) collected ($0.10)
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952771865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:13 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.47 in chips) 
+Seat 3: emisek2509 ($5.04 in chips) 
+Seat 4: balisstica ($10.69 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: raises $0.20 to $0.30
+balisstica: raises $0.60 to $0.90
+1920kbps: folds 
+emisek2509: folds 
+Uncalled bet ($0.60) returned to balisstica
+balisstica collected $0.70 from pot
+balisstica: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 (button) folded before Flop
+Seat 4: balisstica (small blind) collected ($0.70)
+Seat 5: 1920kbps (big blind) folded before Flop
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952777151:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:00:29 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($10.47 in chips) 
+Seat 3: emisek2509 ($4.74 in chips) 
+Seat 4: balisstica ($11.09 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: folds 
+Lord_Antoan: raises $0.20 to $0.30
+emisek2509: calls $0.30
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+*** FLOP *** [6c 8h Td]
+Lord_Antoan: checks 
+emisek2509: bets $0.50
+Lord_Antoan: calls $0.50
+*** TURN *** [6c 8h Td] [Qs]
+Lord_Antoan: checks 
+emisek2509: checks 
+*** RIVER *** [6c 8h Td Qs] [Jh]
+Lord_Antoan: bets $0.92
+emisek2509: folds 
+Uncalled bet ($0.92) returned to Lord_Antoan
+Lord_Antoan collected $1.67 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [6c 8h Td Qs Jh]
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan collected ($1.67)
+Seat 3: emisek2509 folded on the River
+Seat 4: balisstica (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952799918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:31 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($5.04 in chips) 
+Seat 2: Lord_Antoan ($11.34 in chips) 
+Seat 3: emisek2509 ($3.94 in chips) 
+Seat 4: balisstica ($11.09 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.27 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+emisek2509: folds 
+balisstica: folds 
+1920kbps: folds 
+Vaha379: raises $0.20 to $0.30
+XUPUMXAH: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.20 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: XUPUMXAH (big blind) folded before Flop
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 folded before Flop (didn't bet)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) folded before Flop (didn't bet)
+Seat 6: Vaha379 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222952806250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:01:48 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($4.94 in chips) 
+Seat 2: Lord_Antoan ($11.34 in chips) 
+Seat 3: emisek2509 ($3.94 in chips) 
+Seat 4: balisstica ($11.09 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+emisek2509: calls $0.10
+balisstica: raises $0.20 to $0.30
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: calls $0.20
+*** FLOP *** [8c Tc 9s]
+emisek2509: checks 
+balisstica: checks 
+*** TURN *** [8c Tc 9s] [9h]
+emisek2509: checks 
+balisstica: checks 
+*** RIVER *** [8c Tc 9s 9h] [Qc]
+emisek2509: checks 
+balisstica: checks 
+*** SHOW DOWN ***
+emisek2509: shows [Ac 3s] (a pair of Nines)
+balisstica: shows [2h 2d] (two pair, Nines and Deuces)
+balisstica collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8c Tc 9s 9h Qc]
+Seat 1: XUPUMXAH (small blind) folded before Flop
+Seat 2: Lord_Antoan (big blind) folded before Flop
+Seat 3: emisek2509 showed [Ac 3s] and lost with a pair of Nines
+Seat 4: balisstica showed [2h 2d] and won ($0.72) with two pair, Nines and Deuces
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952824426:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:22 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($4.89 in chips) 
+Seat 2: Lord_Antoan ($11.24 in chips) 
+Seat 3: emisek2509 ($3.64 in chips) 
+Seat 4: balisstica ($11.51 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+Lord_Antoan: posts small blind $0.05
+emisek2509: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (button) folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (small blind) folded before Flop
+Seat 3: emisek2509 (big blind) folded before Flop
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps collected ($0.25)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952828064:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:32 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($4.89 in chips) 
+Seat 2: Lord_Antoan ($11.19 in chips) 
+Seat 3: emisek2509 ($3.54 in chips) 
+Seat 4: balisstica ($11.51 in chips) 
+Seat 5: 1920kbps ($10.15 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+emisek2509: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: raises $0.20 to $0.30
+balisstica: folds 
+Uncalled bet ($0.20) returned to emisek2509
+emisek2509 collected $0.20 from pot
+emisek2509: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (button) folded before Flop (didn't bet)
+Seat 3: emisek2509 (small blind) collected ($0.20)
+Seat 4: balisstica (big blind) folded before Flop
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952832841:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:02:44 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: XUPUMXAH ($4.89 in chips) 
+Seat 2: Lord_Antoan ($11.19 in chips) 
+Seat 3: emisek2509 ($3.64 in chips) 
+Seat 4: balisstica ($11.41 in chips) 
+Seat 5: 1920kbps ($10.15 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: raises $0.20 to $0.30
+balisstica: folds 
+1920kbps: folds 
+Uncalled bet ($0.20) returned to emisek2509
+emisek2509 collected $0.25 from pot
+emisek2509: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 (button) collected ($0.25)
+Seat 4: balisstica (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) folded before Flop
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952841904:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:03:07 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($4.89 in chips) 
+Seat 2: Lord_Antoan ($11.19 in chips) 
+Seat 3: emisek2509 ($3.79 in chips) 
+Seat 4: balisstica ($11.36 in chips) 
+Seat 5: 1920kbps ($10.05 in chips) 
+Seat 6: Vaha379 ($17.37 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+emisek2509: folds 
+balisstica: raises $0.15 to $0.25
+1920kbps: folds 
+Vaha379: calls $0.15
+*** FLOP *** [Ac 2s 7d]
+Vaha379: checks 
+balisstica: checks 
+*** TURN *** [Ac 2s 7d] [4h]
+Vaha379: checks 
+balisstica: checks 
+*** RIVER *** [Ac 2s 7d 4h] [9d]
+Vaha379: checks 
+balisstica: checks 
+*** SHOW DOWN ***
+Vaha379: shows [6c Qc] (high card Ace)
+balisstica: shows [Jc Kh] (high card Ace - King kicker)
+balisstica collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ac 2s 7d 4h 9d]
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 folded before Flop (didn't bet)
+Seat 4: balisstica (button) showed [Jc Kh] and won ($0.53) with high card Ace
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) showed [6c Qc] and lost with high card Ace
+
+
+
+PokerStars Hand #222952853585:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:03:36 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($4.89 in chips) 
+Seat 2: Lord_Antoan ($11.19 in chips) 
+Seat 3: emisek2509 ($3.79 in chips) 
+Seat 4: balisstica ($11.64 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.12 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+emisek2509: raises $0.25 to $0.35
+balisstica: folds 
+1920kbps: calls $0.35
+Vaha379: folds 
+XUPUMXAH: folds 
+*** FLOP *** [7s 4h Ac]
+emisek2509: bets $0.40
+1920kbps: folds 
+Uncalled bet ($0.40) returned to emisek2509
+emisek2509 collected $0.81 from pot
+emisek2509: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [7s 4h Ac]
+Seat 1: XUPUMXAH (big blind) folded before Flop
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 3: emisek2509 collected ($0.81)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) folded on the Flop
+Seat 6: Vaha379 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952872034:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:22 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($4.79 in chips) 
+Seat 2: Lord_Antoan ($11.19 in chips) 
+Seat 3: emisek2509 ($4.25 in chips) 
+Seat 4: balisstica ($11.64 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.07 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+emisek2509: raises $0.20 to $0.30
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.20) returned to emisek2509
+emisek2509 collected $0.25 from pot
+emisek2509: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (small blind) folded before Flop
+Seat 2: Lord_Antoan (big blind) folded before Flop
+Seat 3: emisek2509 collected ($0.25)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952878186:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:38 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($4.74 in chips) 
+Seat 2: Lord_Antoan ($11.09 in chips) 
+Seat 4: balisstica ($11.64 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.07 in chips) 
+Lord_Antoan: posts small blind $0.05
+emisek2509: is sitting out 
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Vaha379: raises $0.15 to $0.25
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+balisstica: folds 
+Uncalled bet ($0.15) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (button) folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (small blind) folded before Flop
+Seat 4: balisstica (big blind) folded before Flop
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 collected ($0.25)
+
+
+
+PokerStars Hand #222952886502:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:04:58 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($4.74 in chips) 
+Seat 2: Lord_Antoan ($11.04 in chips) 
+Seat 4: balisstica ($11.54 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.22 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+XUPUMXAH: calls $0.10
+Lord_Antoan: raises $0.30 to $0.40
+balisstica: folds 
+1920kbps: folds 
+XUPUMXAH: calls $0.30
+*** FLOP *** [5s Tc 7c]
+XUPUMXAH: checks 
+Lord_Antoan: bets $0.50
+XUPUMXAH: calls $0.50
+*** TURN *** [5s Tc 7c] [6h]
+XUPUMXAH: checks 
+Lord_Antoan: bets $0.65
+XUPUMXAH: calls $0.65
+*** RIVER *** [5s Tc 7c 6h] [8s]
+XUPUMXAH: checks 
+Lord_Antoan: checks 
+*** SHOW DOWN ***
+XUPUMXAH: shows [6s 6c] (three of a kind, Sixes)
+Lord_Antoan: mucks hand 
+XUPUMXAH collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [5s Tc 7c 6h 8s]
+Seat 1: XUPUMXAH showed [6s 6c] and won ($3.10) with three of a kind, Sixes
+Seat 2: Lord_Antoan (button) mucked
+Seat 4: balisstica (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) folded before Flop
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952902898:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:05:39 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($6.29 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($11.49 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.22 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: folds 
+Lord_Antoan: raises $0.20 to $0.30
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+Uncalled bet ($0.20) returned to Lord_Antoan
+Lord_Antoan collected $0.25 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan collected ($0.25)
+Seat 4: balisstica (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222952908249:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:05:52 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($6.29 in chips) 
+Seat 2: Lord_Antoan ($10.15 in chips) 
+Seat 4: balisstica ($11.49 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.12 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: raises $0.20 to $0.30
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: calls $0.20
+*** FLOP *** [Td 2h 7d]
+XUPUMXAH: checks 
+Lord_Antoan: bets $0.34
+XUPUMXAH: folds 
+Uncalled bet ($0.34) returned to Lord_Antoan
+Lord_Antoan collected $0.62 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Td 2h 7d]
+Seat 1: XUPUMXAH (big blind) folded on the Flop
+Seat 2: Lord_Antoan collected ($0.62)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) folded before Flop (didn't bet)
+Seat 6: Vaha379 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952920281:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:06:22 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($5.99 in chips) 
+Seat 2: Lord_Antoan ($10.47 in chips) 
+Seat 4: balisstica ($11.49 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.07 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica has timed out
+balisstica: folds 
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+XUPUMXAH: calls $0.25
+Lord_Antoan: folds 
+*** FLOP *** [Kh Jd Kc]
+XUPUMXAH: checks 
+1920kbps: checks 
+*** TURN *** [Kh Jd Kc] [5h]
+XUPUMXAH: checks 
+1920kbps: checks 
+*** RIVER *** [Kh Jd Kc 5h] [7c]
+XUPUMXAH: bets $0.67
+1920kbps: calls $0.67
+*** SHOW DOWN ***
+XUPUMXAH: shows [Ks Ts] (three of a kind, Kings)
+1920kbps: mucks hand 
+XUPUMXAH collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [Kh Jd Kc 5h 7c]
+Seat 1: XUPUMXAH (small blind) showed [Ks Ts] and won ($1.95) with three of a kind, Kings
+Seat 2: Lord_Antoan (big blind) folded before Flop
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps mucked
+Seat 6: Vaha379 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952944797:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:07:23 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($6.97 in chips) 
+Seat 2: Lord_Antoan ($10.37 in chips) 
+Seat 4: balisstica ($11.49 in chips) 
+Seat 5: 1920kbps ($10 in chips) 
+Seat 6: Vaha379 ($17.07 in chips) 
+Lord_Antoan: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: calls $0.25
+balisstica: folds 
+*** FLOP *** [8s 3h Js]
+Lord_Antoan: checks 
+1920kbps: bets $0.44
+Lord_Antoan: calls $0.44
+*** TURN *** [8s 3h Js] [3c]
+Lord_Antoan: checks 
+1920kbps: bets $2.10
+Lord_Antoan: folds 
+Uncalled bet ($2.10) returned to 1920kbps
+1920kbps collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.07 
+Board [8s 3h Js 3c]
+Seat 1: XUPUMXAH (button) folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (small blind) folded on the Turn
+Seat 4: balisstica (big blind) folded before Flop
+Seat 5: 1920kbps collected ($1.51)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952967691:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:08:19 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($6.97 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($11.39 in chips) 
+Seat 5: 1920kbps ($10.77 in chips) 
+Seat 6: Vaha379 ($17.07 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: raises $0.20 to $0.30
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+balisstica: folds 
+1920kbps: folds 
+Uncalled bet ($0.20) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (button) folded before Flop (didn't bet)
+Seat 4: balisstica (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) folded before Flop
+Seat 6: Vaha379 collected ($0.25)
+
+
+
+PokerStars Hand #222952976809:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:08:41 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($6.97 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($11.34 in chips) 
+Seat 5: 1920kbps ($10.67 in chips) 
+Seat 6: Vaha379 ($17.22 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+balisstica: raises $0.15 to $0.25
+1920kbps: folds 
+Vaha379: calls $0.15
+*** FLOP *** [Ts As 7h]
+Vaha379: checks 
+balisstica: bets $0.17
+Vaha379: calls $0.17
+*** TURN *** [Ts As 7h] [6h]
+Vaha379: checks 
+balisstica: checks 
+*** RIVER *** [Ts As 7h 6h] [Qs]
+Vaha379: checks 
+balisstica: checks 
+*** SHOW DOWN ***
+Vaha379: shows [9h Kd] (high card Ace)
+balisstica: shows [3c Ac] (a pair of Aces)
+balisstica collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [Ts As 7h 6h Qs]
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 4: balisstica (button) showed [3c Ac] and won ($0.85) with a pair of Aces
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) showed [9h Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #222952991255:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:09:17 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($6.97 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($11.77 in chips) 
+Seat 5: 1920kbps ($10.62 in chips) 
+Seat 6: Vaha379 ($16.80 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+balisstica: folds 
+1920kbps: raises $0.15 to $0.25
+Vaha379: folds 
+XUPUMXAH: folds 
+Uncalled bet ($0.15) returned to 1920kbps
+1920kbps collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (big blind) folded before Flop
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) collected ($0.25)
+Seat 6: Vaha379 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222952995194:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:09:26 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($6.87 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($11.77 in chips) 
+Seat 5: 1920kbps ($10.77 in chips) 
+Seat 6: Vaha379 ($16.75 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (small blind) folded before Flop
+Seat 2: Lord_Antoan (big blind) folded before Flop
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps collected ($0.25)
+Seat 6: Vaha379 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222952999842:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:09:38 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($6.82 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($11.77 in chips) 
+Seat 5: 1920kbps ($10.92 in chips) 
+Seat 6: Vaha379 ($16.75 in chips) 
+Lord_Antoan: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Vaha379: raises $0.20 to $0.30
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+balisstica: raises $0.90 to $1.20
+Vaha379: calls $0.90
+*** FLOP *** [5d 7h Kc]
+balisstica: bets $0.77
+Vaha379: calls $0.77
+*** TURN *** [5d 7h Kc] [Kh]
+balisstica: checks 
+Vaha379: bets $2.30
+balisstica: folds 
+Uncalled bet ($2.30) returned to Vaha379
+Vaha379 collected $3.81 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.99 | Rake $0.18 
+Board [5d 7h Kc Kh]
+Seat 1: XUPUMXAH (button) folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (small blind) folded before Flop
+Seat 4: balisstica (big blind) folded on the Turn
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 collected ($3.81)
+
+
+
+PokerStars Hand #222953015453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:10:16 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: XUPUMXAH ($6.82 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($10 in chips) 
+Seat 5: 1920kbps ($10.92 in chips) 
+Seat 6: Vaha379 ($18.59 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+balisstica: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan (button) folded before Flop (didn't bet)
+Seat 4: balisstica (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) collected ($0.10)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953022353:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:10:33 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($6.82 in chips) 
+Seat 2: Lord_Antoan ($10 in chips) 
+Seat 4: balisstica ($10 in chips) 
+Seat 5: 1920kbps ($10.97 in chips) 
+Seat 6: Vaha379 ($18.59 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+emisek2509 leaves the table
+XUPUMXAH: folds 
+Lord_Antoan: raises $0.20 to $0.30
+SANTO1719 joins the table at seat #3 
+balisstica: folds 
+1920kbps: folds 
+Vaha379: folds 
+Uncalled bet ($0.20) returned to Lord_Antoan
+Lord_Antoan collected $0.25 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 2: Lord_Antoan collected ($0.25)
+Seat 4: balisstica (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953027008:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:10:44 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($6.82 in chips) 
+Seat 2: Lord_Antoan ($10.15 in chips) 
+Seat 4: balisstica ($10 in chips) 
+Seat 5: 1920kbps ($10.92 in chips) 
+Seat 6: Vaha379 ($18.49 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+SANTO1719: sits out 
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+balisstica: folds 
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+XUPUMXAH: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (big blind) folded before Flop
+Seat 2: Lord_Antoan folded before Flop (didn't bet)
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) collected ($0.25)
+Seat 6: Vaha379 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953036967:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:11:09 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($6.72 in chips) 
+Seat 3: SANTO1719 ($10 in chips) 
+Seat 4: balisstica ($10 in chips) 
+Seat 5: 1920kbps ($11.07 in chips) 
+Seat 6: Vaha379 ($18.44 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: is sitting out 
+SANTO1719: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: raises $0.20 to $0.30
+1920kbps: folds 
+Vaha379: folds 
+XUPUMXAH: folds 
+SANTO1719: folds 
+Uncalled bet ($0.20) returned to balisstica
+balisstica collected $0.25 from pot
+balisstica: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (small blind) folded before Flop
+Seat 3: SANTO1719 (big blind) folded before Flop
+Seat 4: balisstica collected ($0.25)
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953042066:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:11:22 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($6.67 in chips) 
+Seat 3: SANTO1719 ($9.90 in chips) 
+Seat 4: balisstica ($10.15 in chips) 
+Seat 5: 1920kbps ($11.07 in chips) 
+Seat 6: Vaha379 ($18.44 in chips) 
+SANTO1719: posts small blind $0.05
+balisstica: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: folds 
+Vaha379: raises $0.20 to $0.30
+XUPUMXAH: folds 
+SANTO1719: folds 
+balisstica: raises $0.90 to $1.20
+Vaha379: calls $0.90
+*** FLOP *** [Ad 4h 5s]
+balisstica: bets $0.77
+Vaha379: calls $0.77
+*** TURN *** [Ad 4h 5s] [7d]
+balisstica: bets $1.26
+Vaha379: folds 
+Uncalled bet ($1.26) returned to balisstica
+balisstica collected $3.81 from pot
+balisstica: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.99 | Rake $0.18 
+Board [Ad 4h 5s 7d]
+Seat 1: XUPUMXAH (button) folded before Flop (didn't bet)
+Seat 3: SANTO1719 (small blind) folded before Flop
+Seat 4: balisstica (big blind) collected ($3.81)
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 folded on the Turn
+
+
+
+PokerStars Hand #222953064687:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:12:17 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: XUPUMXAH ($6.67 in chips) 
+Seat 3: SANTO1719 ($9.85 in chips) 
+Seat 4: balisstica ($11.99 in chips) 
+Seat 5: 1920kbps ($11.07 in chips) 
+Seat 6: Vaha379 ($16.47 in chips) 
+balisstica: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+XUPUMXAH: folds 
+SANTO1719: calls $0.10
+balisstica: folds 
+1920kbps: checks 
+*** FLOP *** [Kh 7h Jd]
+1920kbps: checks 
+SANTO1719: bets $0.30
+1920kbps: calls $0.30
+*** TURN *** [Kh 7h Jd] [6h]
+1920kbps: checks 
+SANTO1719: bets $0.30
+1920kbps: calls $0.30
+*** RIVER *** [Kh 7h Jd 6h] [6s]
+1920kbps: checks 
+SANTO1719: bets $0.30
+1920kbps: calls $0.30
+*** SHOW DOWN ***
+SANTO1719: shows [Jh 9s] (two pair, Jacks and Sixes)
+1920kbps: shows [Ts Ks] (two pair, Kings and Sixes)
+1920kbps collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [Kh 7h Jd 6h 6s]
+Seat 1: XUPUMXAH folded before Flop (didn't bet)
+Seat 3: SANTO1719 (button) showed [Jh 9s] and lost with two pair, Jacks and Sixes
+Seat 4: balisstica (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) showed [Ts Ks] and won ($1.96) with two pair, Kings and Sixes
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953092892:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:13:25 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: XUPUMXAH ($6.67 in chips) 
+Seat 3: SANTO1719 ($8.85 in chips) 
+Seat 4: balisstica ($11.94 in chips) 
+Seat 5: 1920kbps ($12.03 in chips) 
+Seat 6: Vaha379 ($16.47 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+XUPUMXAH: raises $0.25 to $0.35
+SANTO1719: folds 
+balisstica: folds 
+1920kbps: calls $0.30
+Vaha379: calls $0.25
+*** FLOP *** [7s 3h Th]
+SANTO1719 leaves the table
+1920kbps: checks 
+Vaha379: checks 
+XUPUMXAH: checks 
+*** TURN *** [7s 3h Th] [3d]
+1920kbps: checks 
+Vaha379: bets $0.60
+XUPUMXAH: folds 
+1920kbps: raises $1.43 to $2.03
+Vaha379: folds 
+Uncalled bet ($1.43) returned to 1920kbps
+1920kbps collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [7s 3h Th 3d]
+Seat 1: XUPUMXAH folded on the Turn
+Seat 3: SANTO1719 folded before Flop (didn't bet)
+Seat 4: balisstica (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) collected ($2.15)
+Seat 6: Vaha379 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222953118414:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:14:27 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: XUPUMXAH ($6.32 in chips) 
+Seat 4: balisstica ($11.94 in chips) 
+Seat 5: 1920kbps ($13.23 in chips) 
+Seat 6: Vaha379 ($15.52 in chips) 
+Vaha379: posts small blind $0.05
+XUPUMXAH: posts big blind $0.10
+Lord_Antoan: sits out 
+*** HOLE CARDS ***
+balisstica: folds 
+1920kbps: folds 
+Vaha379: raises $0.20 to $0.30
+XUPUMXAH: calls $0.20
+*** FLOP *** [Jh 6d Ah]
+Vaha379: checks 
+XUPUMXAH: bets $0.57
+Vaha379: calls $0.57
+*** TURN *** [Jh 6d Ah] [Td]
+Vaha379: checks 
+XUPUMXAH: bets $1.66
+MKalms joins the table at seat #3 
+Vaha379: raises $12.99 to $14.65 and is all-in
+XUPUMXAH: folds 
+Uncalled bet ($12.99) returned to Vaha379
+Vaha379 collected $4.83 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.06 | Rake $0.23 
+Board [Jh 6d Ah Td]
+Seat 1: XUPUMXAH (big blind) folded on the Turn
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps (button) folded before Flop (didn't bet)
+Seat 6: Vaha379 (small blind) collected ($4.83)
+
+
+
+PokerStars Hand #222953130559:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:14:57 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: XUPUMXAH ($3.79 in chips) 
+Seat 2: Lord_Antoan ($10.15 in chips) 
+Seat 4: balisstica ($11.94 in chips) 
+Seat 5: 1920kbps ($13.23 in chips) 
+Seat 6: Vaha379 ($17.82 in chips) 
+XUPUMXAH: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+MKalms: sits out 
+*** HOLE CARDS ***
+balisstica: folds 
+1920kbps: folds 
+Vaha379: raises $0.12 to $0.22
+XUPUMXAH: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.12) returned to Vaha379
+Vaha379 collected $0.25 from pot
+Vaha379: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: XUPUMXAH (small blind) folded before Flop
+Seat 2: Lord_Antoan (big blind) folded before Flop
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps folded before Flop (didn't bet)
+Seat 6: Vaha379 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222953137944:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:15:15 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: XUPUMXAH ($3.74 in chips) 
+Seat 2: Lord_Antoan ($10.05 in chips) 
+Seat 3: MKalms ($8 in chips) 
+Seat 4: balisstica ($11.94 in chips) 
+Seat 5: 1920kbps ($13.23 in chips) 
+Seat 6: Vaha379 ($17.97 in chips) 
+Lord_Antoan: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+balisstica: folds 
+1920kbps: raises $0.20 to $0.30
+Vaha379: folds 
+XUPUMXAH: calls $0.30
+Lord_Antoan: raises $1.30 to $1.60
+MKalms: folds 
+1920kbps: folds 
+XUPUMXAH: raises $2.14 to $3.74 and is all-in
+Lord_Antoan: calls $2.14
+*** FLOP *** [Ad 7s 6s]
+*** TURN *** [Ad 7s 6s] [Td]
+*** RIVER *** [Ad 7s 6s Td] [9c]
+*** SHOW DOWN ***
+Lord_Antoan: shows [Qs Ah] (a pair of Aces)
+XUPUMXAH: shows [6d Kd] (a pair of Sixes)
+Lord_Antoan collected $7.53 from pot
+*** SUMMARY ***
+Total pot $7.88 | Rake $0.35 
+Board [Ad 7s 6s Td 9c]
+Seat 1: XUPUMXAH (button) showed [6d Kd] and lost with a pair of Sixes
+Seat 2: Lord_Antoan (small blind) showed [Qs Ah] and won ($7.53) with a pair of Aces
+Seat 3: MKalms (big blind) folded before Flop
+Seat 4: balisstica folded before Flop (didn't bet)
+Seat 5: 1920kbps folded before Flop
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953157617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:02 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 2: Lord_Antoan ($13.84 in chips) 
+Seat 3: MKalms ($7.90 in chips) 
+Seat 5: 1920kbps ($12.93 in chips) 
+Seat 6: Vaha379 ($17.97 in chips) 
+MKalms: posts small blind $0.05
+balisstica: is sitting out 
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Vaha379: folds 
+Lord_Antoan: folds 
+MKalms: folds 
+Uncalled bet ($0.05) returned to 1920kbps
+XUPUMXAH leaves the table
+1920kbps collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Lord_Antoan (button) folded before Flop (didn't bet)
+Seat 3: MKalms (small blind) folded before Flop
+Seat 5: 1920kbps (big blind) collected ($0.10)
+Seat 6: Vaha379 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953161107:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:11 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 2: Lord_Antoan ($13.84 in chips) 
+Seat 3: MKalms ($7.85 in chips) 
+Seat 5: 1920kbps ($12.98 in chips) 
+Seat 6: Vaha379 ($17.97 in chips) 
+1920kbps: posts small blind $0.05
+Vaha379: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: raises $0.20 to $0.30
+balisstica leaves the table
+MKalms: folds 
+1920kbps: folds 
+Vaha379: folds 
+Uncalled bet ($0.20) returned to Lord_Antoan
+Vaha379 leaves the table
+Lord_Antoan collected $0.25 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Lord_Antoan collected ($0.25)
+Seat 3: MKalms (button) folded before Flop (didn't bet)
+Seat 5: 1920kbps (small blind) folded before Flop
+Seat 6: Vaha379 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953167200:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:26 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 2: Lord_Antoan ($13.99 in chips) 
+Seat 3: MKalms ($7.85 in chips) 
+Seat 5: 1920kbps ($12.93 in chips) 
+Lord_Antoan: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+1920kbps: raises $0.20 to $0.30
+Lord_Antoan: folds 
+MKalms: folds 
+Uncalled bet ($0.20) returned to 1920kbps
+1920kbps collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Lord_Antoan (small blind) folded before Flop
+Seat 3: MKalms (big blind) folded before Flop
+Seat 5: 1920kbps (button) collected ($0.25)
+
+
+
+PokerStars Hand #222953177108:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:16:49 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 2: Lord_Antoan ($13.94 in chips) 
+Seat 3: MKalms ($7.75 in chips) 
+Seat 5: 1920kbps ($13.08 in chips) 
+MKalms: posts small blind $0.05
+1920kbps: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan has timed out
+Lord_Antoan: folds 
+MKalms: raises $0.20 to $0.30
+1920kbps: calls $0.20
+*** FLOP *** [Tc 4s Td]
+MKalms: checks 
+1920kbps: checks 
+*** TURN *** [Tc 4s Td] [3s]
+MKalms: checks 
+1920kbps: checks 
+*** RIVER *** [Tc 4s Td 3s] [2s]
+MKalms: checks 
+1920kbps: checks 
+*** SHOW DOWN ***
+MKalms: shows [7c 5h] (a pair of Tens)
+1920kbps: shows [6s Ac] (a pair of Tens - Ace kicker)
+1920kbps collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc 4s Td 3s 2s]
+Seat 2: Lord_Antoan (button) folded before Flop (didn't bet)
+Seat 3: MKalms (small blind) showed [7c 5h] and lost with a pair of Tens
+Seat 5: 1920kbps (big blind) showed [6s Ac] and won ($0.57) with a pair of Tens
+
+
+
+PokerStars Hand #222953193106:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:28 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 3: MKalms ($7.45 in chips) 
+Seat 5: 1920kbps ($13.35 in chips) 
+1920kbps: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+densamara_63 joins the table at seat #4 
+1920kbps: folds 
+Uncalled bet ($0.05) returned to MKalms
+MKalms collected $0.10 from pot
+MKalms: doesn't show hand 
+1920kbps leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: MKalms (big blind) collected ($0.10)
+Seat 5: 1920kbps (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953195437:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:33 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 3: MKalms ($7.50 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+*** HOLE CARDS ***
+MKalms: folds 
+Uncalled bet ($0.05) returned to densamara_63
+densamara_63 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: MKalms (button) (small blind) folded before Flop
+Seat 4: densamara_63 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222953197280:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:38 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 3: MKalms ($7.45 in chips) 
+Seat 4: densamara_63 ($10.05 in chips) 
+densamara_63: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+MRN888 joins the table at seat #1 
+densamara_63: folds 
+Uncalled bet ($0.05) returned to MKalms
+MKalms collected $0.10 from pot
+MKalms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: MKalms (big blind) collected ($0.10)
+Seat 4: densamara_63 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953199134:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:42 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: MRN888 ($7 in chips) 
+Seat 3: MKalms ($7.50 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+densamara_63: posts small blind $0.05
+DevonVDT joins the table at seat #5 
+MRN888: posts big blind $0.10
+*** HOLE CARDS ***
+MKalms: folds 
+densamara_63: folds 
+Uncalled bet ($0.05) returned to MRN888
+MRN888 collected $0.10 from pot
+MRN888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: MRN888 (big blind) collected ($0.10)
+Seat 3: MKalms (button) folded before Flop (didn't bet)
+Seat 4: densamara_63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953201697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:17:48 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: MRN888 ($7.05 in chips) 
+Seat 3: MKalms ($7.50 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+MRN888: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+arissanel joins the table at seat #6 
+densamara_63: folds 
+MRN888: calls $0.05
+MKalms: checks 
+*** FLOP *** [6h Qc Jd]
+MRN888: checks 
+MKalms: bets $0.19
+MRN888: calls $0.19
+*** TURN *** [6h Qc Jd] [Qd]
+MRN888: checks 
+MKalms: bets $0.45
+MRN888: raises $0.45 to $0.90
+MKalms: calls $0.45
+*** RIVER *** [6h Qc Jd Qd] [3d]
+MRN888: checks 
+MKalms: bets $1.03
+MRN888: raises $4.33 to $5.36
+MKalms: calls $4.33
+*** SHOW DOWN ***
+MRN888: shows [Qh Td] (three of a kind, Queens)
+MKalms: mucks hand 
+MRN888 collected $12.51 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.59 
+Board [6h Qc Jd Qd 3d]
+Seat 1: MRN888 (small blind) showed [Qh Td] and won ($12.51) with three of a kind, Queens
+Seat 3: MKalms (big blind) mucked
+Seat 4: densamara_63 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953222786:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:18:38 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: MRN888 ($13.01 in chips) 
+Seat 3: MKalms ($0.95 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+Seat 5: DevonVDT ($8 in chips) 
+Seat 6: arissanel ($10 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+DevonVDT: posts big blind $0.10
+arissanel: posts big blind $0.10
+*** HOLE CARDS ***
+DevonVDT: checks 
+arissanel: checks 
+MRN888: calls $0.10
+MKalms: raises $0.85 to $0.95 and is all-in
+densamara_63: folds 
+DevonVDT: calls $0.85
+arissanel: folds 
+MRN888: folds 
+*** FLOP *** [3s 7h As]
+*** TURN *** [3s 7h As] [Kd]
+*** RIVER *** [3s 7h As Kd] [Ts]
+*** SHOW DOWN ***
+MKalms: shows [8d 8h] (a pair of Eights)
+DevonVDT: shows [5s Js] (a flush, Ace high)
+DevonVDT cashed out the hand for $0.68 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.10 
+Board [3s 7h As Kd Ts]
+Seat 1: MRN888 (button) folded before Flop
+Seat 3: MKalms (small blind) showed [8d 8h] and lost with a pair of Eights
+Seat 4: densamara_63 (big blind) folded before Flop
+Seat 5: DevonVDT showed [5s Js] and won ($2.10) with a flush, Ace high (pot not awarded as player cashed out)
+Seat 6: arissanel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953239329:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:19:18 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: MRN888 ($12.91 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+Seat 5: DevonVDT ($7.73 in chips) 
+Seat 6: arissanel ($10 in chips) 
+DevonVDT: posts small blind $0.05
+arissanel: posts big blind $0.10
+*** HOLE CARDS ***
+MRN888: calls $0.10
+densamara_63: folds 
+DevonVDT: calls $0.05
+arissanel: checks 
+*** FLOP *** [Jd Ah 6s]
+DevonVDT: checks 
+arissanel: checks 
+MRN888: checks 
+*** TURN *** [Jd Ah 6s] [Jc]
+DevonVDT: checks 
+Lord_Antoan leaves the table
+arissanel: checks 
+Alexwes_604 joins the table at seat #2 
+MRN888: checks 
+*** RIVER *** [Jd Ah 6s Jc] [8c]
+DevonVDT: folds 
+arissanel: checks 
+MRN888: bets $0.29
+arissanel: folds 
+Uncalled bet ($0.29) returned to MRN888
+MRN888 collected $0.29 from pot
+MRN888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jd Ah 6s Jc 8c]
+Seat 1: MRN888 collected ($0.29)
+Seat 4: densamara_63 (button) folded before Flop (didn't bet)
+Seat 5: DevonVDT (small blind) folded on the River
+Seat 6: arissanel (big blind) folded on the River
+
+
+
+PokerStars Hand #222953256353:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:19:58 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: MRN888 ($13.10 in chips) 
+Seat 2: Alexwes_604 ($10 in chips) 
+Seat 3: MKalms ($10 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+Seat 5: DevonVDT ($7.63 in chips) 
+Seat 6: arissanel ($10 in chips) 
+arissanel: posts small blind $0.05
+MRN888: posts big blind $0.10
+Alexwes_604: posts big blind $0.10
+*** HOLE CARDS ***
+Alexwes_604: raises $0.10 to $0.20
+MKalms: folds 
+densamara_63: folds 
+DevonVDT: calls $0.20
+arissanel: folds 
+MRN888: calls $0.10
+*** FLOP *** [6c 2s Jc]
+MRN888: checks 
+Alexwes_604: bets $0.10
+DevonVDT: calls $0.10
+MRN888: calls $0.10
+*** TURN *** [6c 2s Jc] [Qd]
+MRN888: checks 
+Alexwes_604: bets $0.20
+DevonVDT: calls $0.20
+MRN888: folds 
+*** RIVER *** [6c 2s Jc Qd] [7h]
+Alexwes_604: checks 
+DevonVDT: checks 
+*** SHOW DOWN ***
+Alexwes_604: shows [Js Ad] (a pair of Jacks)
+DevonVDT: mucks hand 
+Alexwes_604 collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [6c 2s Jc Qd 7h]
+Seat 1: MRN888 (big blind) folded on the Turn
+Seat 2: Alexwes_604 showed [Js Ad] and won ($1.29) with a pair of Jacks
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: DevonVDT (button) mucked
+Seat 6: arissanel (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953275454:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:20:42 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: MRN888 ($12.80 in chips) 
+Seat 2: Alexwes_604 ($10.79 in chips) 
+Seat 3: MKalms ($10 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+Seat 5: DevonVDT ($7.13 in chips) 
+Seat 6: arissanel ($10 in chips) 
+MRN888: posts small blind $0.05
+Alexwes_604: posts big blind $0.10
+*** HOLE CARDS ***
+MKalms: folds 
+densamara_63: folds 
+DevonVDT: calls $0.10
+arissanel: raises $0.30 to $0.40
+MRN888: calls $0.35
+Alexwes_604: calls $0.30
+DevonVDT: folds 
+*** FLOP *** [2s Tc 8h]
+MRN888: checks 
+Alexwes_604: checks 
+arissanel: checks 
+*** TURN *** [2s Tc 8h] [Th]
+MRN888: checks 
+Alexwes_604: checks 
+arissanel: checks 
+*** RIVER *** [2s Tc 8h Th] [7c]
+MRN888: bets $1.24
+Alexwes_604: folds 
+arissanel: folds 
+Uncalled bet ($1.24) returned to MRN888
+MRN888 collected $1.24 from pot
+MRN888: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [2s Tc 8h Th 7c]
+Seat 1: MRN888 (small blind) collected ($1.24)
+Seat 2: Alexwes_604 (big blind) folded on the River
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: DevonVDT folded before Flop
+Seat 6: arissanel (button) folded on the River
+
+
+
+PokerStars Hand #222953293478:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:21:24 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: MRN888 ($13.64 in chips) 
+Seat 2: Alexwes_604 ($10.39 in chips) 
+Seat 3: MKalms ($10 in chips) 
+Seat 4: densamara_63 ($10 in chips) 
+Seat 5: DevonVDT ($7.03 in chips) 
+Seat 6: arissanel ($10 in chips) 
+Alexwes_604: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+densamara_63: folds 
+DevonVDT: calls $0.10
+arissanel: raises $0.40 to $0.50
+MRN888: calls $0.50
+Alexwes_604: folds 
+MKalms: folds 
+DevonVDT: calls $0.40
+*** FLOP *** [Tc 6h Kd]
+DevonVDT: checks 
+arissanel: checks 
+MRN888: bets $0.10
+DevonVDT: calls $0.10
+arissanel: raises $0.30 to $0.40
+MRN888: calls $0.30
+DevonVDT: folds 
+*** TURN *** [Tc 6h Kd] [Kh]
+arissanel: bets $0.81
+MRN888: calls $0.81
+*** RIVER *** [Tc 6h Kd Kh] [4d]
+arissanel: bets $1.40
+MRN888: folds 
+Uncalled bet ($1.40) returned to arissanel
+arissanel collected $3.98 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.19 
+Board [Tc 6h Kd Kh 4d]
+Seat 1: MRN888 (button) folded on the River
+Seat 2: Alexwes_604 (small blind) folded before Flop
+Seat 3: MKalms (big blind) folded before Flop
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: DevonVDT folded on the Flop
+Seat 6: arissanel collected ($3.98)
+
+
+
+PokerStars Hand #222953391957:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:25:12 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 2: Alexwes_604 ($8.04 in chips) 
+Seat 3: MKalms ($9.85 in chips) 
+Seat 4: densamara_63 ($13.99 in chips) 
+Seat 5: DevonVDT ($5.86 in chips) 
+Seat 6: arissanel ($11.77 in chips) 
+Alexwes_604: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+densamara_63: folds 
+DevonVDT: calls $0.10
+arissanel: folds 
+Alexwes_604: calls $0.05
+MKalms: checks 
+*** FLOP *** [Ac 7s 5d]
+Alexwes_604: checks 
+MKalms: checks 
+DevonVDT: checks 
+*** TURN *** [Ac 7s 5d] [Ks]
+Alexwes_604: checks 
+MKalms: checks 
+DevonVDT: checks 
+*** RIVER *** [Ac 7s 5d Ks] [Qd]
+Alexwes_604: checks 
+MKalms: checks 
+DevonVDT: checks 
+*** SHOW DOWN ***
+Alexwes_604: shows [4d 4s] (a pair of Fours)
+MKalms: mucks hand 
+DevonVDT: mucks hand 
+Alexwes_604 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ac 7s 5d Ks Qd]
+Seat 2: Alexwes_604 (small blind) showed [4d 4s] and won ($0.29) with a pair of Fours
+Seat 3: MKalms (big blind) mucked
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: DevonVDT mucked
+Seat 6: arissanel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953416653:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:26:10 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 2: Alexwes_604 ($8.23 in chips) 
+Seat 3: MKalms ($9.75 in chips) 
+Seat 4: densamara_63 ($13.99 in chips) 
+Seat 5: DevonVDT ($5.76 in chips) 
+Seat 6: arissanel ($11.77 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+anastasio973: sits out 
+*** HOLE CARDS ***
+DevonVDT: calls $0.10
+arissanel: folds 
+Alexwes_604: calls $0.10
+MKalms: calls $0.05
+densamara_63: checks 
+*** FLOP *** [Ac 9s 7s]
+MKalms: checks 
+densamara_63: checks 
+DevonVDT: checks 
+Alexwes_604: checks 
+*** TURN *** [Ac 9s 7s] [6h]
+MKalms: bets $0.48
+densamara_63: calls $0.48
+DevonVDT: folds 
+Alexwes_604: folds 
+*** RIVER *** [Ac 9s 7s 6h] [8c]
+MKalms: bets $1.60
+densamara_63: calls $1.60
+*** SHOW DOWN ***
+MKalms: shows [Th Ah] (a straight, Six to Ten)
+densamara_63: mucks hand 
+MKalms collected $4.35 from pot
+*** SUMMARY ***
+Total pot $4.56 | Rake $0.21 
+Board [Ac 9s 7s 6h 8c]
+Seat 2: Alexwes_604 (button) folded on the Turn
+Seat 3: MKalms (small blind) showed [Th Ah] and won ($4.35) with a straight, Six to Ten
+Seat 4: densamara_63 (big blind) mucked
+Seat 5: DevonVDT folded on the Turn
+Seat 6: arissanel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953443488:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:27:12 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: anastasio973 ($10 in chips) 
+Seat 2: Alexwes_604 ($8.13 in chips) 
+Seat 3: MKalms ($11.92 in chips) 
+Seat 4: densamara_63 ($11.81 in chips) 
+Seat 5: DevonVDT ($5.66 in chips) 
+Seat 6: arissanel ($11.77 in chips) 
+densamara_63: posts small blind $0.05
+DevonVDT: posts big blind $0.10
+anastasio973: posts big blind $0.10
+*** HOLE CARDS ***
+arissanel: folds 
+anastasio973: checks 
+Alexwes_604: calls $0.10
+MKalms: calls $0.10
+densamara_63: folds 
+DevonVDT: raises $0.10 to $0.20
+anastasio973: calls $0.10
+Alexwes_604: calls $0.10
+MKalms: calls $0.10
+*** FLOP *** [Qd 8c 8d]
+DevonVDT: bets $0.30
+anastasio973: folds 
+Alexwes_604: calls $0.30
+MKalms: folds 
+*** TURN *** [Qd 8c 8d] [3c]
+DevonVDT: bets $0.50
+Alexwes_604: folds 
+Uncalled bet ($0.50) returned to DevonVDT
+DevonVDT collected $1.38 from pot
+DevonVDT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [Qd 8c 8d 3c]
+Seat 1: anastasio973 folded on the Flop
+Seat 2: Alexwes_604 folded on the Turn
+Seat 3: MKalms (button) folded on the Flop
+Seat 4: densamara_63 (small blind) folded before Flop
+Seat 5: DevonVDT (big blind) collected ($1.38)
+Seat 6: arissanel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953466676:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:28:05 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: anastasio973 ($9.80 in chips) 
+Seat 2: Alexwes_604 ($7.63 in chips) 
+Seat 3: MKalms ($11.72 in chips) 
+Seat 4: densamara_63 ($11.76 in chips) 
+Seat 5: DevonVDT ($6.54 in chips) 
+Seat 6: arissanel ($11.77 in chips) 
+DevonVDT: posts small blind $0.05
+arissanel: posts big blind $0.10
+*** HOLE CARDS ***
+anastasio973: calls $0.10
+Alexwes_604: folds 
+MKalms: folds 
+densamara_63 has timed out
+densamara_63: folds 
+DevonVDT: raises $0.10 to $0.20
+arissanel: folds 
+anastasio973: calls $0.10
+*** FLOP *** [3d 5h Js]
+DevonVDT: bets $0.30
+anastasio973: folds 
+Uncalled bet ($0.30) returned to DevonVDT
+DevonVDT collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3d 5h Js]
+Seat 1: anastasio973 folded on the Flop
+Seat 2: Alexwes_604 folded before Flop (didn't bet)
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 (button) folded before Flop (didn't bet)
+Seat 5: DevonVDT (small blind) collected ($0.48)
+Seat 6: arissanel (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953483109:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:28:43 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: anastasio973 ($9.60 in chips) 
+Seat 2: Alexwes_604 ($7.63 in chips) 
+Seat 3: MKalms ($11.72 in chips) 
+Seat 4: densamara_63 ($11.76 in chips) 
+Seat 5: DevonVDT ($6.82 in chips) 
+Seat 6: arissanel ($11.67 in chips) 
+arissanel: posts small blind $0.05
+anastasio973: posts big blind $0.10
+*** HOLE CARDS ***
+Alexwes_604: folds 
+MKalms: raises $0.10 to $0.20
+densamara_63: calls $0.20
+DevonVDT: calls $0.20
+arissanel: folds 
+anastasio973: calls $0.10
+*** FLOP *** [8h 5d 6h]
+anastasio973: checks 
+MKalms: bets $0.50
+densamara_63: folds 
+DevonVDT: folds 
+anastasio973: folds 
+Uncalled bet ($0.50) returned to MKalms
+MKalms collected $0.81 from pot
+MKalms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [8h 5d 6h]
+Seat 1: anastasio973 (big blind) folded on the Flop
+Seat 2: Alexwes_604 folded before Flop (didn't bet)
+Seat 3: MKalms collected ($0.81)
+Seat 4: densamara_63 folded on the Flop
+Seat 5: DevonVDT (button) folded on the Flop
+Seat 6: arissanel (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953502773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:29:28 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: anastasio973 ($9.40 in chips) 
+Seat 2: Alexwes_604 ($7.63 in chips) 
+Seat 3: MKalms ($12.33 in chips) 
+Seat 4: densamara_63 ($11.56 in chips) 
+Seat 5: DevonVDT ($6.62 in chips) 
+Seat 6: arissanel ($11.62 in chips) 
+anastasio973: posts small blind $0.05
+Alexwes_604: posts big blind $0.10
+*** HOLE CARDS ***
+MKalms: folds 
+densamara_63: folds 
+DevonVDT: calls $0.10
+arissanel: raises $0.29 to $0.39
+anastasio973: raises $0.29 to $0.68
+Alexwes_604: folds 
+DevonVDT: calls $0.58
+arissanel: raises $2.14 to $2.82
+anastasio973: calls $2.14
+DevonVDT: folds 
+*** FLOP *** [Th 3d 9c]
+anastasio973: bets $1.70
+arissanel: raises $7.10 to $8.80 and is all-in
+anastasio973: calls $4.88 and is all-in
+Uncalled bet ($2.22) returned to arissanel
+*** TURN *** [Th 3d 9c] [Jh]
+*** RIVER *** [Th 3d 9c Jh] [Qh]
+*** SHOW DOWN ***
+anastasio973: shows [Td Ks] (a straight, Nine to King)
+arissanel: shows [Jd Ac] (a pair of Jacks)
+anastasio973 collected $18.70 from pot
+*** SUMMARY ***
+Total pot $19.58 | Rake $0.88 
+Board [Th 3d 9c Jh Qh]
+Seat 1: anastasio973 (small blind) showed [Td Ks] and won ($18.70) with a straight, Nine to King
+Seat 2: Alexwes_604 (big blind) folded before Flop
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: DevonVDT folded before Flop
+Seat 6: arissanel (button) showed [Jd Ac] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #222953528003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:30:25 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: anastasio973 ($18.70 in chips) 
+Seat 2: Alexwes_604 ($7.53 in chips) 
+Seat 3: MKalms ($12.33 in chips) 
+Seat 4: densamara_63 ($11.56 in chips) 
+Seat 5: DevonVDT ($5.94 in chips) 
+Seat 6: arissanel ($10 in chips) 
+Alexwes_604: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+densamara_63: folds 
+DevonVDT: calls $0.10
+arissanel: folds 
+arissanel leaves the table
+anastasio973: calls $0.10
+Alexwes_604: calls $0.05
+Goer34 joins the table at seat #6 
+MKalms: checks 
+*** FLOP *** [Kc 2s Qd]
+Alexwes_604: checks 
+MKalms: checks 
+DevonVDT: checks 
+anastasio973: checks 
+*** TURN *** [Kc 2s Qd] [9h]
+Alexwes_604: checks 
+MKalms: checks 
+DevonVDT: checks 
+anastasio973: checks 
+*** RIVER *** [Kc 2s Qd 9h] [5c]
+Alexwes_604: checks 
+MKalms: checks 
+DevonVDT is disconnected 
+DevonVDT has timed out while disconnected
+DevonVDT: checks 
+anastasio973: checks 
+*** SHOW DOWN ***
+Alexwes_604: shows [8c 5s] (a pair of Fives)
+MKalms: mucks hand 
+DevonVDT: shows [3d 5d] (a pair of Fives)
+anastasio973: mucks hand 
+Alexwes_604 collected $0.19 from pot
+DevonVDT collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Kc 2s Qd 9h 5c]
+Seat 1: anastasio973 (button) mucked
+Seat 2: Alexwes_604 (small blind) showed [8c 5s] and won ($0.19) with a pair of Fives
+Seat 3: MKalms (big blind) mucked
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: DevonVDT showed [3d 5d] and won ($0.19) with a pair of Fives
+Seat 6: arissanel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953552942:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:31:21 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 2: Alexwes_604 ($7.62 in chips) 
+Seat 3: MKalms ($12.23 in chips) 
+Seat 4: densamara_63 ($11.56 in chips) 
+Seat 5: DevonVDT ($6.03 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+Goer34: sits out 
+*** HOLE CARDS ***
+anastasio973 leaves the table
+DevonVDT: calls $0.10
+Alexwes_604: calls $0.10
+l KAAK l joins the table at seat #1 
+MKalms has timed out
+MKalms: folds 
+densamara_63: checks 
+*** FLOP *** [9h 3s Kd]
+densamara_63: checks 
+MKalms is disconnected 
+DevonVDT is disconnected 
+DevonVDT has timed out while disconnected
+DevonVDT: checks 
+Alexwes_604: checks 
+*** TURN *** [9h 3s Kd] [Td]
+densamara_63: bets $0.10
+DevonVDT has timed out while disconnected
+DevonVDT: folds 
+Alexwes_604: raises $0.10 to $0.20
+densamara_63: calls $0.10
+*** RIVER *** [9h 3s Kd Td] [3d]
+densamara_63: bets $1.10
+Alexwes_604: folds 
+Uncalled bet ($1.10) returned to densamara_63
+densamara_63 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9h 3s Kd Td 3d]
+Seat 2: Alexwes_604 (button) folded on the River
+Seat 3: MKalms (small blind) folded before Flop
+Seat 4: densamara_63 (big blind) collected ($0.72)
+Seat 5: DevonVDT folded on the Turn
+
+
+
+PokerStars Hand #222953596723:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:33:00 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 2: Alexwes_604 ($7.32 in chips) 
+Seat 3: MKalms ($12.18 in chips) 
+Seat 4: densamara_63 ($11.98 in chips) 
+Seat 6: Goer34 ($10 in chips) 
+densamara_63: posts small blind $0.05
+Goer34: posts big blind $0.10
+l KAAK l: sits out 
+*** HOLE CARDS ***
+Alexwes_604: calls $0.10
+MKalms: raises $0.35 to $0.45
+densamara_63: folds 
+Goer34: folds 
+Alexwes_604: calls $0.35
+*** FLOP *** [2d 6d 4d]
+Alexwes_604: bets $0.50
+MKalms: calls $0.50
+*** TURN *** [2d 6d 4d] [3h]
+Alexwes_604: checks 
+MKalms: checks 
+*** RIVER *** [2d 6d 4d 3h] [Jc]
+Alexwes_604: bets $0.98
+MKalms: folds 
+Uncalled bet ($0.98) returned to Alexwes_604
+Alexwes_604 collected $1.96 from pot
+Alexwes_604: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [2d 6d 4d 3h Jc]
+Seat 2: Alexwes_604 collected ($1.96)
+Seat 3: MKalms (button) folded on the River
+Seat 4: densamara_63 (small blind) folded before Flop
+Seat 6: Goer34 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953613904:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:33:38 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($8.33 in chips) 
+Seat 3: MKalms ($11.23 in chips) 
+Seat 4: densamara_63 ($11.93 in chips) 
+Seat 6: Goer34 ($10 in chips) 
+Goer34: posts small blind $0.05
+l KAAK l: posts big blind $0.10
+*** HOLE CARDS ***
+Alexwes_604: calls $0.10
+MKalms: folds 
+densamara_63: raises $0.30 to $0.40
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: calls $0.30
+*** FLOP *** [Qh 9d Jd]
+Alexwes_604: checks 
+densamara_63: checks 
+*** TURN *** [Qh 9d Jd] [Jc]
+Alexwes_604: checks 
+densamara_63: bets $0.76
+Alexwes_604: folds 
+Uncalled bet ($0.76) returned to densamara_63
+densamara_63 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qh 9d Jd Jc]
+Seat 1: l KAAK l (big blind) folded before Flop
+Seat 2: Alexwes_604 folded on the Turn
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 (button) collected ($0.91)
+Seat 6: Goer34 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953625525:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:34:04 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.93 in chips) 
+Seat 3: MKalms ($11.23 in chips) 
+Seat 4: densamara_63 ($12.44 in chips) 
+Seat 6: Goer34 ($10 in chips) 
+l KAAK l: posts small blind $0.05
+Alexwes_604: posts big blind $0.10
+*** HOLE CARDS ***
+MKalms: raises $0.20 to $0.30
+densamara_63: folds 
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: calls $0.20
+*** FLOP *** [2h Jd Kh]
+Alexwes_604: checks 
+MKalms: checks 
+*** TURN *** [2h Jd Kh] [6d]
+Alexwes_604: checks 
+MKalms: bets $0.52
+Alexwes_604: folds 
+Uncalled bet ($0.52) returned to MKalms
+MKalms collected $0.62 from pot
+MKalms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2h Jd Kh 6d]
+Seat 1: l KAAK l (small blind) folded before Flop
+Seat 2: Alexwes_604 (big blind) folded on the Turn
+Seat 3: MKalms collected ($0.62)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 6: Goer34 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953640773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:34:38 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.63 in chips) 
+Seat 3: MKalms ($11.55 in chips) 
+Seat 4: densamara_63 ($12.44 in chips) 
+Seat 6: Goer34 ($10 in chips) 
+Alexwes_604: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+densamara_63: folds 
+Goer34: raises $0.15 to $0.25
+l KAAK l: folds 
+Alexwes_604: folds 
+MKalms: calls $0.15
+*** FLOP *** [Jc 6h 9d]
+MKalms: checks 
+Goer34: bets $0.35
+MKalms: calls $0.35
+*** TURN *** [Jc 6h 9d] [4c]
+MKalms: checks 
+Goer34: checks 
+*** RIVER *** [Jc 6h 9d 4c] [Qs]
+MKalms: bets $0.59
+Goer34: calls $0.59
+*** SHOW DOWN ***
+MKalms: shows [Tc Qc] (a pair of Queens)
+Goer34: shows [Qh Jh] (two pair, Queens and Jacks)
+Goer34 collected $2.32 from pot
+*** SUMMARY ***
+Total pot $2.43 | Rake $0.11 
+Board [Jc 6h 9d 4c Qs]
+Seat 1: l KAAK l (button) folded before Flop (didn't bet)
+Seat 2: Alexwes_604 (small blind) folded before Flop
+Seat 3: MKalms (big blind) showed [Tc Qc] and lost with a pair of Queens
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 6: Goer34 showed [Qh Jh] and won ($2.32) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #222953659148:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:35:19 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.58 in chips) 
+Seat 3: MKalms ($10.36 in chips) 
+Seat 4: densamara_63 ($12.44 in chips) 
+Seat 6: Goer34 ($11.13 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+*** HOLE CARDS ***
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: folds 
+MKalms: raises $0.10 to $0.20
+densamara_63: folds 
+Uncalled bet ($0.10) returned to MKalms
+MKalms collected $0.20 from pot
+MKalms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: l KAAK l folded before Flop (didn't bet)
+Seat 2: Alexwes_604 (button) folded before Flop (didn't bet)
+Seat 3: MKalms (small blind) collected ($0.20)
+Seat 4: densamara_63 (big blind) folded before Flop
+Seat 6: Goer34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953665511:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:35:34 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.58 in chips) 
+Seat 3: MKalms ($10.46 in chips) 
+Seat 4: densamara_63 ($12.34 in chips) 
+Seat 6: Goer34 ($11.13 in chips) 
+densamara_63: posts small blind $0.05
+Goer34: posts big blind $0.10
+*** HOLE CARDS ***
+l KAAK l: raises $0.17 to $0.27
+Alexwes_604: raises $0.23 to $0.50
+MKalms: folds 
+densamara_63: folds 
+DevonVDT leaves the table
+Goer34: folds 
+l KAAK l: calls $0.23
+*** FLOP *** [4d Kh 7d]
+l KAAK l: checks 
+Alexwes_604: bets $0.55
+l KAAK l: folds 
+Uncalled bet ($0.55) returned to Alexwes_604
+Alexwes_604 collected $1.10 from pot
+Alexwes_604: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [4d Kh 7d]
+Seat 1: l KAAK l folded on the Flop
+Seat 2: Alexwes_604 collected ($1.10)
+Seat 3: MKalms (button) folded before Flop (didn't bet)
+Seat 4: densamara_63 (small blind) folded before Flop
+Seat 6: Goer34 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222953682812:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:36:13 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($8.18 in chips) 
+Seat 3: MKalms ($10.46 in chips) 
+Seat 4: densamara_63 ($12.29 in chips) 
+Seat 6: Goer34 ($11.03 in chips) 
+Goer34: posts small blind $0.05
+l KAAK l: posts big blind $0.10
+*** HOLE CARDS ***
+Alexwes_604: folds 
+Jesus Ololo joins the table at seat #5 
+MKalms has timed out
+MKalms: folds 
+densamara_63: folds 
+Goer34: raises $0.20 to $0.30
+l KAAK l: folds 
+Uncalled bet ($0.20) returned to Goer34
+Goer34 collected $0.20 from pot
+Goer34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: l KAAK l (big blind) folded before Flop
+Seat 2: Alexwes_604 folded before Flop (didn't bet)
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 (button) folded before Flop (didn't bet)
+Seat 6: Goer34 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222953694584:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:36:39 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($8.18 in chips) 
+Seat 4: densamara_63 ($12.29 in chips) 
+Seat 6: Goer34 ($11.13 in chips) 
+l KAAK l: posts small blind $0.05
+Alexwes_604: posts big blind $0.10
+Jesus Ololo: sits out 
+*** HOLE CARDS ***
+densamara_63: folds 
+Goer34: raises $0.15 to $0.25
+l KAAK l: folds 
+Alexwes_604: calls $0.15
+*** FLOP *** [As 5h 8h]
+Alexwes_604: checks 
+Goer34: checks 
+*** TURN *** [As 5h 8h] [6h]
+Alexwes_604: checks 
+Goer34: checks 
+*** RIVER *** [As 5h 8h 6h] [Ac]
+Alexwes_604: checks 
+Goer34: checks 
+*** SHOW DOWN ***
+Alexwes_604: shows [Qh Kd] (a pair of Aces)
+Goer34: shows [Qc Qd] (two pair, Aces and Queens)
+Goer34 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [As 5h 8h 6h Ac]
+Seat 1: l KAAK l (small blind) folded before Flop
+Seat 2: Alexwes_604 (big blind) showed [Qh Kd] and lost with a pair of Aces
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 6: Goer34 (button) showed [Qc Qd] and won ($0.53) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #222953712596:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:37:20 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.93 in chips) 
+Seat 3: MKalms ($10.46 in chips) 
+Seat 4: densamara_63 ($12.29 in chips) 
+Seat 6: Goer34 ($11.41 in chips) 
+Alexwes_604: posts small blind $0.05
+MKalms: posts big blind $0.10
+Jesus Ololo: sits out 
+*** HOLE CARDS ***
+densamara_63: folds 
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: calls $0.05
+MKalms: checks 
+*** FLOP *** [4c Qd As]
+Alexwes_604: checks 
+MKalms: checks 
+*** TURN *** [4c Qd As] [Kd]
+Alexwes_604: checks 
+MKalms: checks 
+*** RIVER *** [4c Qd As Kd] [8s]
+Alexwes_604: bets $0.20
+MKalms: calls $0.20
+*** SHOW DOWN ***
+Alexwes_604: shows [Tc 8h] (a pair of Eights)
+MKalms: shows [3d Qs] (a pair of Queens)
+MKalms collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4c Qd As Kd 8s]
+Seat 1: l KAAK l (button) folded before Flop (didn't bet)
+Seat 2: Alexwes_604 (small blind) showed [Tc 8h] and lost with a pair of Eights
+Seat 3: MKalms (big blind) showed [3d Qs] and won ($0.57) with a pair of Queens
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 6: Goer34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953726420:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:37:51 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.63 in chips) 
+Seat 3: MKalms ($10.73 in chips) 
+Seat 4: densamara_63 ($12.29 in chips) 
+Seat 6: Goer34 ($11.41 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+Jesus Ololo: sits out 
+*** HOLE CARDS ***
+Goer34: raises $0.15 to $0.25
+l KAAK l: folds 
+Alexwes_604: folds 
+MKalms: folds 
+densamara_63: folds 
+Uncalled bet ($0.15) returned to Goer34
+Goer34 collected $0.25 from pot
+Goer34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: l KAAK l folded before Flop (didn't bet)
+Seat 2: Alexwes_604 (button) folded before Flop (didn't bet)
+Seat 3: MKalms (small blind) folded before Flop
+Seat 4: densamara_63 (big blind) folded before Flop
+Seat 6: Goer34 collected ($0.25)
+
+
+
+PokerStars Hand #222953738002:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:38:17 ET
+Table 'Tomyris III' 6-max Seat #3 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.63 in chips) 
+Seat 3: MKalms ($10.68 in chips) 
+Seat 4: densamara_63 ($12.19 in chips) 
+Seat 5: Jesus Ololo ($10 in chips) 
+Seat 6: Goer34 ($11.56 in chips) 
+densamara_63: posts small blind $0.05
+Jesus Ololo: posts big blind $0.10
+*** HOLE CARDS ***
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: calls $0.10
+MKalms: folds 
+densamara_63: folds 
+Jesus Ololo: checks 
+*** FLOP *** [2c 8s Qd]
+Jesus Ololo: checks 
+Alexwes_604: bets $0.30
+Jesus Ololo: folds 
+Uncalled bet ($0.30) returned to Alexwes_604
+Alexwes_604 collected $0.24 from pot
+Alexwes_604: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 8s Qd]
+Seat 1: l KAAK l folded before Flop (didn't bet)
+Seat 2: Alexwes_604 collected ($0.24)
+Seat 3: MKalms (button) folded before Flop (didn't bet)
+Seat 4: densamara_63 (small blind) folded before Flop
+Seat 5: Jesus Ololo (big blind) folded on the Flop
+Seat 6: Goer34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953752208:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:38:49 ET
+Table 'Tomyris III' 6-max Seat #4 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.77 in chips) 
+Seat 3: MKalms ($10.68 in chips) 
+Seat 4: densamara_63 ($12.14 in chips) 
+Seat 5: Jesus Ololo ($10 in chips) 
+Seat 6: Goer34 ($11.56 in chips) 
+Jesus Ololo: posts small blind $0.05
+Goer34: posts big blind $0.10
+*** HOLE CARDS ***
+l KAAK l: folds 
+Alexwes_604: calls $0.10
+MKalms: folds 
+densamara_63: folds 
+Jesus Ololo: folds 
+Goer34: checks 
+*** FLOP *** [4c 9s 3s]
+Goer34: checks 
+Alexwes_604: checks 
+*** TURN *** [4c 9s 3s] [7h]
+Goer34: bets $0.16
+Alexwes_604: calls $0.16
+*** RIVER *** [4c 9s 3s 7h] [Ts]
+Goer34: bets $0.36
+Alexwes_604: calls $0.36
+*** SHOW DOWN ***
+Goer34: shows [Js 5s] (a flush, Jack high)
+Alexwes_604: mucks hand 
+Goer34 collected $1.23 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.06 
+Board [4c 9s 3s 7h Ts]
+Seat 1: l KAAK l folded before Flop (didn't bet)
+Seat 2: Alexwes_604 mucked
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 (button) folded before Flop (didn't bet)
+Seat 5: Jesus Ololo (small blind) folded before Flop
+Seat 6: Goer34 (big blind) showed [Js 5s] and won ($1.23) with a flush, Jack high
+
+
+
+PokerStars Hand #222953773088:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:39:36 ET
+Table 'Tomyris III' 6-max Seat #5 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.15 in chips) 
+Seat 3: MKalms ($10.68 in chips) 
+Seat 4: densamara_63 ($12.14 in chips) 
+Seat 5: Jesus Ololo ($10 in chips) 
+Seat 6: Goer34 ($12.17 in chips) 
+Goer34: posts small blind $0.05
+l KAAK l: posts big blind $0.10
+*** HOLE CARDS ***
+Alexwes_604: folds 
+MKalms: raises $0.20 to $0.30
+densamara_63: folds 
+Jesus Ololo: folds 
+Goer34: folds 
+l KAAK l: folds 
+Uncalled bet ($0.20) returned to MKalms
+MKalms collected $0.25 from pot
+MKalms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: l KAAK l (big blind) folded before Flop
+Seat 2: Alexwes_604 folded before Flop (didn't bet)
+Seat 3: MKalms collected ($0.25)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: Jesus Ololo (button) folded before Flop (didn't bet)
+Seat 6: Goer34 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222953780929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:39:53 ET
+Table 'Tomyris III' 6-max Seat #6 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.15 in chips) 
+Seat 3: MKalms ($10.83 in chips) 
+Seat 4: densamara_63 ($12.14 in chips) 
+Seat 5: Jesus Ololo ($10 in chips) 
+Seat 6: Goer34 ($12.12 in chips) 
+l KAAK l: posts small blind $0.05
+Alexwes_604: posts big blind $0.10
+*** HOLE CARDS ***
+MKalms: folds 
+densamara_63: folds 
+Jesus Ololo: folds 
+Goer34: raises $0.15 to $0.25
+l KAAK l: folds 
+Alexwes_604: calls $0.15
+*** FLOP *** [Ks Qs 4h]
+Alexwes_604: bets $0.27
+Goer34: folds 
+Uncalled bet ($0.27) returned to Alexwes_604
+Alexwes_604 collected $0.53 from pot
+Alexwes_604: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ks Qs 4h]
+Seat 1: l KAAK l (small blind) folded before Flop
+Seat 2: Alexwes_604 (big blind) collected ($0.53)
+Seat 3: MKalms folded before Flop (didn't bet)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: Jesus Ololo folded before Flop (didn't bet)
+Seat 6: Goer34 (button) folded on the Flop
+
+
+
+PokerStars Hand #222953792976:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:40:20 ET
+Table 'Tomyris III' 6-max Seat #1 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.43 in chips) 
+Seat 3: MKalms ($10.83 in chips) 
+Seat 4: densamara_63 ($12.14 in chips) 
+Seat 5: Jesus Ololo ($10 in chips) 
+Seat 6: Goer34 ($11.87 in chips) 
+Alexwes_604: posts small blind $0.05
+MKalms: posts big blind $0.10
+*** HOLE CARDS ***
+densamara_63: folds 
+Jesus Ololo: folds 
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: calls $0.05
+MKalms: raises $0.20 to $0.30
+Alexwes_604: calls $0.20
+*** FLOP *** [8s Ks 2c]
+Alexwes_604: checks 
+MKalms: bets $0.47
+Alexwes_604: folds 
+Uncalled bet ($0.47) returned to MKalms
+MKalms collected $0.57 from pot
+MKalms: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8s Ks 2c]
+Seat 1: l KAAK l (button) folded before Flop (didn't bet)
+Seat 2: Alexwes_604 (small blind) folded on the Flop
+Seat 3: MKalms (big blind) collected ($0.57)
+Seat 4: densamara_63 folded before Flop (didn't bet)
+Seat 5: Jesus Ololo folded before Flop (didn't bet)
+Seat 6: Goer34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222953804807:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 8:40:46 ET
+Table 'Tomyris III' 6-max Seat #2 is the button
+Seat 1: l KAAK l ($10 in chips) 
+Seat 2: Alexwes_604 ($7.13 in chips) 
+Seat 3: MKalms ($11.10 in chips) 
+Seat 4: densamara_63 ($12.14 in chips) 
+Seat 5: Jesus Ololo ($10 in chips) 
+Seat 6: Goer34 ($11.87 in chips) 
+MKalms: posts small blind $0.05
+densamara_63: posts big blind $0.10
+*** HOLE CARDS ***
+Jesus Ololo: folds 
+Goer34: folds 
+l KAAK l: folds 
+Alexwes_604: calls $0.10
+MKalms: calls $0.05
+densamara_63: checks 
+*** FLOP *** [6s Jh 5d]
+MKalms: checks 
+densamara_63: bets $0.24
+Alexwes_604: folds 
+MKalms: folds 
+Uncalled bet ($0.24) returned to densamara_63
+densamara_63 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6s Jh 5d]
+Seat 1: l KAAK l folded before Flop (didn't bet)
+Seat 2: Alexwes_604 (button) folded on the Flop
+Seat 3: MKalms (small blind) folded on the Flop
+Seat 4: densamara_63 (big blind) collected ($0.29)
+Seat 5: Jesus Ololo folded before Flop (didn't bet)
+Seat 6: Goer34 folded before Flop (didn't bet)
+
+
+

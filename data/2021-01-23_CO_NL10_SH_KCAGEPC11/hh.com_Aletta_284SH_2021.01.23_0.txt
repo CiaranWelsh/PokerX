@@ -1,0 +1,5051 @@
+﻿PokerStars Hand #222943180246:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:44:02 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: Patchtree ($10.07 in chips) 
+Seat 2: JimSON.34 ($31.77 in chips) 
+Seat 3: larson090 ($10.10 in chips) 
+Seat 4: sunrise8668 ($28.24 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.41 in chips) 
+sunrise8668: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+Patchtree: calls $0.10
+JimSON.34: calls $0.10
+larson090: raises $0.20 to $0.30
+sunrise8668: folds 
+MaverickLexx: folds 
+Patchtree: calls $0.20
+JimSON.34: calls $0.20
+*** FLOP *** [3h Qc 7c]
+Patchtree: checks 
+JimSON.34: checks 
+larson090: bets $0.50
+Patchtree: calls $0.50
+JimSON.34: calls $0.50
+*** TURN *** [3h Qc 7c] [Jh]
+Patchtree: checks 
+JimSON.34: checks 
+larson090: checks 
+*** RIVER *** [3h Qc 7c Jh] [4c]
+Patchtree: bets $2.70
+JimSON.34: folds 
+larson090: folds 
+Uncalled bet ($2.70) returned to Patchtree
+Patchtree collected $2.44 from pot
+Patchtree: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [3h Qc 7c Jh 4c]
+Seat 1: Patchtree collected ($2.44)
+Seat 2: JimSON.34 folded on the River
+Seat 3: larson090 (button) folded on the River
+Seat 4: sunrise8668 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943212280:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:45:35 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: Patchtree ($11.71 in chips) 
+Seat 2: JimSON.34 ($30.97 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($28.19 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: is sitting out 
+Patchtree: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+larson090: folds 
+sunrise8668: folds 
+MaverickLexx: raises $0.20 to $0.30
+Patchtree: calls $0.20
+*** FLOP *** [Ad 2h Ah]
+MaverickLexx: checks 
+Patchtree: checks 
+*** TURN *** [Ad 2h Ah] [2d]
+MaverickLexx: bets $0.38
+Patchtree: folds 
+Uncalled bet ($0.38) returned to MaverickLexx
+MaverickLexx collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ad 2h Ah 2d]
+Seat 1: Patchtree (big blind) folded on the Turn
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: larson090 folded before Flop (didn't bet)
+Seat 4: sunrise8668 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #222943221370:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:02 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: Patchtree ($11.41 in chips) 
+Seat 2: JimSON.34 ($30.97 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($28.19 in chips) 
+Seat 5: MaverickLexx ($10.27 in chips) 
+Patchtree: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+larson090: folds 
+sunrise8668: folds 
+MaverickLexx: raises $0.20 to $0.30
+Patchtree: folds 
+JimSON.34: folds 
+Uncalled bet ($0.20) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Patchtree (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded before Flop
+Seat 3: larson090 folded before Flop (didn't bet)
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) collected ($0.25)
+
+
+
+PokerStars Hand #222943225440:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:14 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: Patchtree ($11.36 in chips) 
+Seat 2: JimSON.34 ($30.87 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($28.19 in chips) 
+Seat 5: MaverickLexx ($10.42 in chips) 
+JimSON.34: posts small blind $0.05
+larson090: posts big blind $0.10
+*** HOLE CARDS ***
+sunrise8668: folds 
+MaverickLexx: raises $0.14 to $0.24
+Patchtree: folds 
+JimSON.34: folds 
+larson090: folds 
+Uncalled bet ($0.14) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Patchtree (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: larson090 (big blind) folded before Flop
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx collected ($0.25)
+
+
+
+PokerStars Hand #222943233001:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:46:27 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: Patchtree ($11.36 in chips) 
+Seat 2: JimSON.34 ($30.82 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($28.19 in chips) 
+Seat 5: MaverickLexx ($10.57 in chips) 
+larson090: posts small blind $0.05
+sunrise8668: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+Patchtree: raises $0.10 to $0.20
+JimSON.34: folds 
+larson090: calls $0.15
+sunrise8668: raises $0.50 to $0.70
+Patchtree: calls $0.50
+larson090: folds 
+*** FLOP *** [4s Tc 5d]
+sunrise8668: checks 
+Patchtree: checks 
+*** TURN *** [4s Tc 5d] [6s]
+sunrise8668: bets $0.50
+Patchtree: calls $0.50
+*** RIVER *** [4s Tc 5d 6s] [3c]
+sunrise8668: bets $0.10
+Patchtree: calls $0.10
+*** SHOW DOWN ***
+sunrise8668: shows [Ad Qc] (high card Ace)
+Patchtree: mucks hand 
+sunrise8668 collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.80 | Rake $0.13 
+Board [4s Tc 5d 6s 3c]
+Seat 1: Patchtree mucked
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: larson090 (small blind) folded before Flop
+Seat 4: sunrise8668 (big blind) showed [Ad Qc] and won ($2.67) with high card Ace
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944419708:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:47:20 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($18.71 in chips) 
+Seat 2: Nasser51450 ($4.05 in chips) 
+Seat 3: bone60 ($5.60 in chips) 
+Seat 4: kisicita ($5.17 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.43 in chips) 
+Nasser51450: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+kisicita: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Nasser51450: folds 
+bone60: checks 
+*** FLOP *** [2d 6s 7h]
+bone60: bets $0.24
+kisicita: folds 
+Uncalled bet ($0.24) returned to bone60
+bone60 collected $0.24 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2d 6s 7h]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: Nasser51450 (small blind) folded before Flop
+Seat 3: bone60 (big blind) collected ($0.24)
+Seat 4: kisicita folded on the Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944434076:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:48:09 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($18.71 in chips) 
+Seat 2: Nasser51450 ($4 in chips) 
+Seat 3: bone60 ($5.74 in chips) 
+Seat 4: kisicita ($5.07 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.43 in chips) 
+bone60: posts small blind $0.05
+kisicita: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: raises $18.41 to $18.71 and is all-in
+Nasser51450: folds 
+bone60: folds 
+kisicita: folds 
+MaverickLexx: folds 
+Uncalled bet ($18.41) returned to fuzinger
+fuzinger collected $0.75 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: fuzinger collected ($0.75)
+Seat 2: Nasser51450 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) folded before Flop
+Seat 4: kisicita (big blind) folded before Flop
+Seat 5: MaverickLexx folded before Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944445323:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:48:47 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($19.16 in chips) 
+Seat 2: Nasser51450 ($4 in chips) 
+Seat 3: bone60 ($5.69 in chips) 
+Seat 4: kisicita ($4.97 in chips) 
+Seat 5: MaverickLexx ($18.18 in chips) 
+Seat 6: SchuhaRt71 ($19.43 in chips) 
+kisicita: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+Nasser51450: calls $0.10
+bone60: folds 
+kisicita: calls $0.05
+MaverickLexx: checks 
+*** FLOP *** [Qs 3h 9c]
+kisicita: checks 
+MaverickLexx: checks 
+Nasser51450: checks 
+*** TURN *** [Qs 3h 9c] [Ts]
+kisicita: checks 
+MaverickLexx: checks 
+Nasser51450: checks 
+*** RIVER *** [Qs 3h 9c Ts] [2d]
+kisicita: checks 
+MaverickLexx: checks 
+Nasser51450: bets $0.10
+kisicita: calls $0.10
+MaverickLexx: calls $0.10
+*** SHOW DOWN ***
+Nasser51450: shows [6d Kd] (high card King)
+kisicita: shows [Ac 4d] (high card Ace)
+MaverickLexx: shows [3c Ks] (a pair of Threes)
+MaverickLexx collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qs 3h 9c Ts 2d]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: Nasser51450 showed [6d Kd] and lost with high card King
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: kisicita (small blind) showed [Ac 4d] and lost with high card Ace
+Seat 5: MaverickLexx (big blind) showed [3c Ks] and won ($0.57) with a pair of Threes
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944466026:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:49:57 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($19.16 in chips) 
+Seat 2: Nasser51450 ($3.80 in chips) 
+Seat 3: bone60 ($5.69 in chips) 
+Seat 4: kisicita ($4.77 in chips) 
+Seat 5: MaverickLexx ($18.55 in chips) 
+Seat 6: SchuhaRt71 ($19.43 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: calls $0.10
+Nasser51450: calls $0.10
+bone60: folds 
+kisicita: calls $0.10
+MaverickLexx: calls $0.05
+SchuhaRt71: checks 
+*** FLOP *** [8s Ac 2c]
+MaverickLexx: checks 
+SchuhaRt71: checks 
+fuzinger: checks 
+Nasser51450: bets $0.10
+kisicita: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: calls $0.10
+*** TURN *** [8s Ac 2c] [2s]
+fuzinger: checks 
+Nasser51450: bets $0.10
+kisicita: calls $0.10
+fuzinger: raises $0.30 to $0.40
+Nasser51450: calls $0.30
+kisicita: calls $0.30
+*** RIVER *** [8s Ac 2c 2s] [3h]
+fuzinger: bets $0.96
+Nasser51450: calls $0.96
+kisicita: calls $0.96
+*** SHOW DOWN ***
+fuzinger: shows [As 3s] (two pair, Aces and Threes)
+Nasser51450: mucks hand 
+kisicita: mucks hand 
+fuzinger collected $4.66 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.22 
+Board [8s Ac 2c 2s 3h]
+Seat 1: fuzinger showed [As 3s] and won ($4.66) with two pair, Aces and Threes
+Seat 2: Nasser51450 mucked
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita (button) mucked
+Seat 5: MaverickLexx (small blind) folded on the Flop
+Seat 6: SchuhaRt71 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222944491967:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:51:26 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($22.26 in chips) 
+Seat 2: Nasser51450 ($2.24 in chips) 
+Seat 3: bone60 ($5.69 in chips) 
+Seat 4: kisicita ($3.21 in chips) 
+Seat 5: MaverickLexx ($18.45 in chips) 
+Seat 6: SchuhaRt71 ($19.33 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+Nasser51450 has timed out
+Nasser51450: folds 
+bone60: folds 
+kisicita: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: checks 
+*** FLOP *** [Tc 4d Kh]
+fuzinger: checks 
+kisicita: checks 
+*** TURN *** [Tc 4d Kh] [4h]
+fuzinger: checks 
+kisicita: checks 
+*** RIVER *** [Tc 4d Kh 4h] [2d]
+fuzinger: checks 
+kisicita: checks 
+*** SHOW DOWN ***
+fuzinger: shows [7c 9s] (a pair of Fours)
+kisicita: shows [2s 3c] (two pair, Fours and Deuces)
+kisicita collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc 4d Kh 4h 2d]
+Seat 1: fuzinger (big blind) showed [7c 9s] and lost with a pair of Fours
+Seat 2: Nasser51450 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita showed [2s 3c] and won ($0.24) with two pair, Fours and Deuces
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944503944:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:07 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($22.16 in chips) 
+Seat 3: bone60 ($5.69 in chips) 
+Seat 4: kisicita ($3.35 in chips) 
+Seat 5: MaverickLexx ($18.45 in chips) 
+Seat 6: SchuhaRt71 ($19.28 in chips) 
+fuzinger: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+kisicita: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $0.15 to $0.25
+fuzinger: calls $0.20
+bone60: folds 
+*** FLOP *** [Ad 5h 2d]
+fuzinger: checks 
+SchuhaRt71: checks 
+*** TURN *** [Ad 5h 2d] [6h]
+fuzinger: checks 
+SchuhaRt71: checks 
+*** RIVER *** [Ad 5h 2d 6h] [Ts]
+kisicita leaves the table
+fuzinger: checks 
+SchuhaRt71: checks 
+*** SHOW DOWN ***
+fuzinger: shows [4h 4c] (a pair of Fours)
+SchuhaRt71: shows [Kc Th] (a pair of Tens)
+SchuhaRt71 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ad 5h 2d 6h Ts]
+Seat 1: fuzinger (small blind) showed [4h 4c] and lost with a pair of Fours
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: kisicita folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) showed [Kc Th] and won ($0.57) with a pair of Tens
+
+
+
+PokerStars Hand #222944514913:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:52:44 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($21.91 in chips) 
+Seat 3: bone60 ($5.59 in chips) 
+Seat 5: MaverickLexx ($18.45 in chips) 
+Seat 6: SchuhaRt71 ($19.60 in chips) 
+bone60: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.20 to $0.30
+fuzinger: folds 
+bone60: calls $0.25
+i3lorca joins the table at seat #4 
+MaverickLexx: folds 
+*** FLOP *** [3d 7d 6s]
+bone60: checks 
+SchuhaRt71: bets $0.34
+bone60: calls $0.34
+*** TURN *** [3d 7d 6s] [5d]
+bone60: checks 
+SchuhaRt71: checks 
+*** RIVER *** [3d 7d 6s 5d] [8h]
+bone60: bets $0.66
+SchuhaRt71: folds 
+Uncalled bet ($0.66) returned to bone60
+bone60 collected $1.32 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.06 
+Board [3d 7d 6s 5d 8h]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) collected ($1.32)
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded on the River
+
+
+
+PokerStars Hand #222944529029:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:33 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($21.91 in chips) 
+Seat 2: Nasser51450 ($2.24 in chips) 
+Seat 3: bone60 ($6.27 in chips) 
+Seat 5: MaverickLexx ($18.35 in chips) 
+Seat 6: SchuhaRt71 ($18.96 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+Nasser51450: posts small & big blinds $0.15
+*** HOLE CARDS ***
+fuzinger: raises $0.10 to $0.20
+Nasser51450: folds 
+bone60: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.10) returned to fuzinger
+fuzinger collected $0.40 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: fuzinger collected ($0.40)
+Seat 2: Nasser51450 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944533546:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:53:49 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($22.21 in chips) 
+Seat 2: Nasser51450 ($2.09 in chips) 
+Seat 3: bone60 ($6.27 in chips) 
+Seat 4: i3lorca ($10 in chips) 
+Seat 5: MaverickLexx ($18.30 in chips) 
+Seat 6: SchuhaRt71 ($18.86 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+i3lorca: posts big blind $0.10
+*** HOLE CARDS ***
+Nasser51450: folds 
+bone60: folds 
+i3lorca: checks 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+i3lorca: calls $0.25
+*** FLOP *** [Kc 4d 4h]
+fuzinger: bets $0.36
+i3lorca: folds 
+Uncalled bet ($0.36) returned to fuzinger
+fuzinger collected $0.72 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kc 4d 4h]
+Seat 1: fuzinger (big blind) collected ($0.72)
+Seat 2: Nasser51450 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: i3lorca folded on the Flop
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944542863:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:54:21 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($22.58 in chips) 
+Seat 2: Nasser51450 ($2.09 in chips) 
+Seat 3: bone60 ($6.27 in chips) 
+Seat 4: i3lorca ($9.65 in chips) 
+Seat 5: MaverickLexx ($18.30 in chips) 
+Seat 6: SchuhaRt71 ($18.81 in chips) 
+fuzinger: posts small blind $0.05
+Nasser51450: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+i3lorca: calls $0.10
+MaverickLexx: calls $0.10
+SchuhaRt71: folds 
+fuzinger: folds 
+Nasser51450: checks 
+*** FLOP *** [Js 7c Qc]
+Nasser51450: checks 
+i3lorca: checks 
+MaverickLexx: checks 
+*** TURN *** [Js 7c Qc] [3s]
+Nasser51450: bets $0.10
+i3lorca: calls $0.10
+MaverickLexx: calls $0.10
+*** RIVER *** [Js 7c Qc 3s] [3h]
+Nasser51450: bets $0.20
+i3lorca: calls $0.20
+MaverickLexx: folds 
+*** SHOW DOWN ***
+Nasser51450: shows [Jd Qd] (two pair, Queens and Jacks)
+i3lorca: mucks hand 
+Nasser51450 collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Js 7c Qc 3s 3h]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: Nasser51450 (big blind) showed [Jd Qd] and won ($1) with two pair, Queens and Jacks
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: i3lorca mucked
+Seat 5: MaverickLexx folded on the River
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944561002:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:13 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($22.53 in chips) 
+Seat 2: Nasser51450 ($2.69 in chips) 
+Seat 3: bone60 ($6.27 in chips) 
+Seat 4: i3lorca ($9.25 in chips) 
+Seat 5: MaverickLexx ($18.10 in chips) 
+Seat 6: SchuhaRt71 ($18.81 in chips) 
+Nasser51450: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+i3lorca: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Nasser51450: calls $0.05
+bone60: checks 
+*** FLOP *** [7h 4h Js]
+Nasser51450: checks 
+bone60: checks 
+i3lorca: checks 
+*** TURN *** [7h 4h Js] [3c]
+Nasser51450: checks 
+bone60: bets $0.29
+i3lorca: folds 
+Nasser51450: folds 
+Uncalled bet ($0.29) returned to bone60
+bone60 collected $0.29 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7h 4h Js 3c]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: Nasser51450 (small blind) folded on the Turn
+Seat 3: bone60 (big blind) collected ($0.29)
+Seat 4: i3lorca folded on the Turn
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944568425:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:55:47 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($22.53 in chips) 
+Seat 2: Nasser51450 ($2.59 in chips) 
+Seat 3: bone60 ($6.46 in chips) 
+Seat 4: i3lorca ($9.15 in chips) 
+Seat 5: MaverickLexx ($18.10 in chips) 
+Seat 6: SchuhaRt71 ($18.81 in chips) 
+bone60: posts small blind $0.05
+i3lorca: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: raises $0.30 to $0.40
+fuzinger: folds 
+Nasser51450: calls $0.40
+bone60: folds 
+i3lorca: folds 
+*** FLOP *** [Ks Qc 3h]
+SchuhaRt71: bets $0.61
+Nasser51450: folds 
+Uncalled bet ($0.61) returned to SchuhaRt71
+SchuhaRt71 collected $0.91 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Ks Qc 3h]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: Nasser51450 (button) folded on the Flop
+Seat 3: bone60 (small blind) folded before Flop
+Seat 4: i3lorca (big blind) folded before Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 collected ($0.91)
+
+
+
+PokerStars Hand #222944576257:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:56:23 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($22.53 in chips) 
+Seat 2: Nasser51450 ($2.19 in chips) 
+Seat 3: bone60 ($6.41 in chips) 
+Seat 4: i3lorca ($9.05 in chips) 
+Seat 5: MaverickLexx ($18.10 in chips) 
+Seat 6: SchuhaRt71 ($19.32 in chips) 
+i3lorca: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.10 to $0.20
+fuzinger: folds 
+Nasser51450: calls $0.20
+bone60: folds 
+i3lorca: calls $0.15
+MaverickLexx: folds 
+*** FLOP *** [8h 9s Qc]
+i3lorca: checks 
+SchuhaRt71: checks 
+Nasser51450: bets $0.30
+i3lorca: calls $0.30
+SchuhaRt71: folds 
+*** TURN *** [8h 9s Qc] [3d]
+i3lorca: checks 
+Nasser51450: bets $0.60
+i3lorca: calls $0.60
+*** RIVER *** [8h 9s Qc 3d] [9d]
+i3lorca: checks 
+Nasser51450: checks 
+*** SHOW DOWN ***
+i3lorca: shows [5c Jh] (a pair of Nines)
+Nasser51450: shows [As 3h] (two pair, Nines and Threes)
+Nasser51450 collected $2.39 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11 
+Board [8h 9s Qc 3d 9d]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: Nasser51450 showed [As 3h] and won ($2.39) with two pair, Nines and Threes
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: i3lorca (small blind) showed [5c Jh] and lost with a pair of Nines
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded on the Flop
+
+
+
+PokerStars Hand #222944587575:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:57:15 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($22.53 in chips) 
+Seat 2: Nasser51450 ($3.48 in chips) 
+Seat 3: bone60 ($6.41 in chips) 
+Seat 4: i3lorca ($7.95 in chips) 
+Seat 5: MaverickLexx ($18 in chips) 
+Seat 6: SchuhaRt71 ($19.12 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+Nasser51450: folds 
+bone60: folds 
+i3lorca: folds 
+i3lorca leaves the table
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger collected ($0.25)
+Seat 2: Nasser51450 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: i3lorca (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944590773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:57:30 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 2: Nasser51450 ($3.48 in chips) 
+Seat 3: bone60 ($6.41 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($19.02 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: is sitting out 
+Nasser51450: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: raises $0.20 to $0.30
+i3lorca joins the table at seat #4 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Nasser51450: calls $0.20
+*** FLOP *** [Qh 7s Ad]
+Nasser51450: checks 
+bone60: checks 
+*** TURN *** [Qh 7s Ad] [Jd]
+Nasser51450: checks 
+bone60: checks 
+*** RIVER *** [Qh 7s Ad Jd] [4s]
+Nasser51450: checks 
+bone60: checks 
+*** SHOW DOWN ***
+Nasser51450: shows [8h 4h] (a pair of Fours)
+bone60: mucks hand 
+Nasser51450 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qh 7s Ad Jd 4s]
+Seat 2: Nasser51450 (big blind) showed [8h 4h] and won ($0.62) with a pair of Fours
+Seat 3: bone60 mucked
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944605965:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:58:40 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 2: Nasser51450 ($3.80 in chips) 
+Seat 3: bone60 ($6.11 in chips) 
+Seat 4: i3lorca ($10 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($18.97 in chips) 
+Nasser51450: posts small blind $0.05
+bone60: posts big blind $0.10
+i3lorca: posts big blind $0.10
+*** HOLE CARDS ***
+i3lorca: checks 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Nasser51450: calls $0.05
+bone60: checks 
+*** FLOP *** [Td Ac 2s]
+Nasser51450: checks 
+bone60: checks 
+i3lorca: bets $0.10
+Nasser51450: folds 
+bone60: calls $0.10
+*** TURN *** [Td Ac 2s] [Jd]
+bone60: checks 
+i3lorca: bets $0.10
+bone60: calls $0.10
+*** RIVER *** [Td Ac 2s Jd] [Kc]
+fuzinger leaves the table
+bone60: checks 
+arabella 33 joins the table at seat #1 
+i3lorca: checks 
+*** SHOW DOWN ***
+bone60: shows [3d 5h] (high card Ace)
+i3lorca: shows [Jc Th] (two pair, Jacks and Tens)
+i3lorca collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Td Ac 2s Jd Kc]
+Seat 2: Nasser51450 (small blind) folded on the Flop
+Seat 3: bone60 (big blind) showed [3d 5h] and lost with high card Ace
+Seat 4: i3lorca showed [Jc Th] and won ($0.67) with two pair, Jacks and Tens
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944620214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:59:46 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 2: Nasser51450 ($3.70 in chips) 
+Seat 3: bone60 ($5.81 in chips) 
+Seat 4: i3lorca ($10.37 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($18.97 in chips) 
+bone60: posts small blind $0.05
+i3lorca: posts big blind $0.10
+arabella 33: sits out 
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Nasser51450: calls $0.10
+bone60: calls $0.05
+i3lorca: checks 
+*** FLOP *** [3c Qs 4h]
+bone60: checks 
+i3lorca: bets $0.10
+Nasser51450 has timed out
+Nasser51450: folds 
+bone60: folds 
+Uncalled bet ($0.10) returned to i3lorca
+i3lorca collected $0.29 from pot
+i3lorca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3c Qs 4h]
+Seat 2: Nasser51450 (button) folded on the Flop
+Seat 3: bone60 (small blind) folded on the Flop
+Seat 4: i3lorca (big blind) collected ($0.29)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943250149:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:17 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: Patchtree ($10.06 in chips) 
+Seat 2: JimSON.34 ($30.82 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($29.56 in chips) 
+Seat 5: MaverickLexx ($10.57 in chips) 
+sunrise8668: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+SchuhaRt71: sits out 
+*** HOLE CARDS ***
+Patchtree: folds 
+JimSON.34: folds 
+larson090: folds 
+sunrise8668: calls $0.05
+MaverickLexx: checks 
+*** FLOP *** [As Kc 5h]
+sunrise8668: checks 
+MaverickLexx: bets $0.13
+sunrise8668: folds 
+Uncalled bet ($0.13) returned to MaverickLexx
+MaverickLexx collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [As Kc 5h]
+Seat 1: Patchtree folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: larson090 (button) folded before Flop (didn't bet)
+Seat 4: sunrise8668 (small blind) folded on the Flop
+Seat 5: MaverickLexx (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222943262612:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:47:53 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: Patchtree ($10.06 in chips) 
+Seat 2: JimSON.34 ($30.82 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($29.46 in chips) 
+Seat 5: MaverickLexx ($10.66 in chips) 
+Seat 6: SchuhaRt71 ($26.41 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+Patchtree: raises $0.25 to $0.35
+JimSON.34: folds 
+larson090: folds 
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: calls $0.25
+*** FLOP *** [Jd 9d 3c]
+SchuhaRt71: checks 
+Patchtree: checks 
+*** TURN *** [Jd 9d 3c] [7h]
+SchuhaRt71: bets $0.35
+Patchtree: calls $0.35
+*** RIVER *** [Jd 9d 3c 7h] [9h]
+SchuhaRt71: checks 
+Patchtree: checks 
+*** SHOW DOWN ***
+SchuhaRt71: shows [Th As] (a pair of Nines)
+Patchtree: shows [7d Kd] (two pair, Nines and Sevens)
+Patchtree collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [Jd 9d 3c 7h 9h]
+Seat 1: Patchtree showed [7d Kd] and won ($1.38) with two pair, Nines and Sevens
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: larson090 folded before Flop (didn't bet)
+Seat 4: sunrise8668 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) showed [Th As] and lost with a pair of Nines
+
+
+
+PokerStars Hand #222943278170:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:48:39 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: Patchtree ($10.74 in chips) 
+Seat 2: JimSON.34 ($30.82 in chips) 
+Seat 3: larson090 ($10 in chips) 
+Seat 4: sunrise8668 ($29.46 in chips) 
+Seat 5: MaverickLexx ($10.61 in chips) 
+Seat 6: SchuhaRt71 ($25.71 in chips) 
+SchuhaRt71: posts small blind $0.05
+Patchtree: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+larson090: raises $0.35 to $0.45
+sunrise8668: calls $0.45
+MaverickLexx: calls $0.45
+SchuhaRt71: calls $0.40
+Patchtree: folds 
+JimSON.34: calls $0.35
+*** FLOP *** [Kh 5h 5c]
+SchuhaRt71: checks 
+JimSON.34: checks 
+larson090: bets $1
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+JimSON.34: folds 
+Uncalled bet ($1) returned to larson090
+larson090 collected $2.24 from pot
+larson090: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [Kh 5h 5c]
+Seat 1: Patchtree (big blind) folded before Flop
+Seat 2: JimSON.34 folded on the Flop
+Seat 3: larson090 collected ($2.24)
+Seat 4: sunrise8668 folded on the Flop
+Seat 5: MaverickLexx (button) folded on the Flop
+Seat 6: SchuhaRt71 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222943299224:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:23 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: Patchtree ($10.64 in chips) 
+Seat 2: JimSON.34 ($30.37 in chips) 
+Seat 3: larson090 ($11.79 in chips) 
+Seat 4: sunrise8668 ($29.01 in chips) 
+Seat 5: MaverickLexx ($10.16 in chips) 
+Seat 6: SchuhaRt71 ($25.26 in chips) 
+Patchtree: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+larson090: folds 
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Patchtree: calls $0.05
+JimSON.34: checks 
+*** FLOP *** [9h Th 5h]
+Patchtree: bets $1.10
+JimSON.34: folds 
+Uncalled bet ($1.10) returned to Patchtree
+Patchtree collected $0.19 from pot
+Patchtree: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9h Th 5h]
+Seat 1: Patchtree (small blind) collected ($0.19)
+Seat 2: JimSON.34 (big blind) folded on the Flop
+Seat 3: larson090 folded before Flop (didn't bet)
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943310436:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:49:57 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: Patchtree ($10.73 in chips) 
+Seat 2: JimSON.34 ($30.27 in chips) 
+Seat 3: larson090 ($11.79 in chips) 
+Seat 4: sunrise8668 ($29.01 in chips) 
+Seat 5: MaverickLexx ($10.16 in chips) 
+Seat 6: SchuhaRt71 ($25.26 in chips) 
+JimSON.34: posts small blind $0.05
+larson090: posts big blind $0.10
+*** HOLE CARDS ***
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Patchtree: raises $2.80 to $2.90
+JimSON.34: raises $27.37 to $30.27 and is all-in
+larson090: folds 
+Patchtree: calls $7.83 and is all-in
+Uncalled bet ($19.54) returned to JimSON.34
+*** FLOP *** [Qd 3s 8s]
+*** TURN *** [Qd 3s 8s] [Ks]
+*** RIVER *** [Qd 3s 8s Ks] [2s]
+*** SHOW DOWN ***
+JimSON.34: shows [Th Ts] (a flush, King high)
+Patchtree: shows [Jh Jc] (a pair of Jacks)
+JimSON.34 collected $20.59 from pot
+*** SUMMARY ***
+Total pot $21.56 | Rake $0.97 
+Board [Qd 3s 8s Ks 2s]
+Seat 1: Patchtree (button) showed [Jh Jc] and lost with a pair of Jacks
+Seat 2: JimSON.34 (small blind) showed [Th Ts] and won ($20.59) with a flush, King high
+Seat 3: larson090 (big blind) folded before Flop
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943322726:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:33 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 2: JimSON.34 ($40.13 in chips) 
+Seat 3: larson090 ($11.69 in chips) 
+Seat 4: sunrise8668 ($29.01 in chips) 
+Seat 5: MaverickLexx ($10.16 in chips) 
+Seat 6: SchuhaRt71 ($25.26 in chips) 
+larson090: posts small blind $0.05
+sunrise8668: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+JimSON.34: folds 
+Patchtree leaves the table
+larson090: raises $0.19 to $0.29
+sunrise8668: folds 
+Uncalled bet ($0.19) returned to larson090
+larson090 collected $0.20 from pot
+larson090: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: larson090 (small blind) collected ($0.20)
+Seat 4: sunrise8668 (big blind) folded before Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943329628:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:50:54 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 2: JimSON.34 ($40.13 in chips) 
+Seat 3: larson090 ($11.79 in chips) 
+Seat 4: sunrise8668 ($28.91 in chips) 
+Seat 5: MaverickLexx ($10.16 in chips) 
+Seat 6: SchuhaRt71 ($25.26 in chips) 
+sunrise8668: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+JimSON.34: calls $0.10
+larson090: folds 
+sunrise8668: calls $0.05
+MaverickLexx: checks 
+*** FLOP *** [Kc 7c 7s]
+sunrise8668: checks 
+MaverickLexx: checks 
+JimSON.34: checks 
+*** TURN *** [Kc 7c 7s] [4d]
+fuzinger joins the table at seat #1 
+sunrise8668: checks 
+MaverickLexx: checks 
+JimSON.34: bets $0.29
+sunrise8668: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.29) returned to JimSON.34
+JimSON.34 collected $0.29 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kc 7c 7s 4d]
+Seat 2: JimSON.34 collected ($0.29)
+Seat 3: larson090 (button) folded before Flop (didn't bet)
+Seat 4: sunrise8668 (small blind) folded on the Turn
+Seat 5: MaverickLexx (big blind) folded on the Turn
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943356313:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:51:52 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 2: JimSON.34 ($40.32 in chips) 
+Seat 3: larson090 ($11.79 in chips) 
+Seat 4: sunrise8668 ($28.81 in chips) 
+Seat 5: MaverickLexx ($10.06 in chips) 
+Seat 6: SchuhaRt71 ($25.26 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+fuzinger: sits out 
+*** HOLE CARDS ***
+JimSON.34: folds 
+larson090: folds 
+sunrise8668: raises $0.15 to $0.25
+MaverickLexx: raises $0.85 to $1.10
+SchuhaRt71: folds 
+sunrise8668: folds 
+Uncalled bet ($0.85) returned to MaverickLexx
+MaverickLexx collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: larson090 folded before Flop (didn't bet)
+Seat 4: sunrise8668 (button) folded before Flop
+Seat 5: MaverickLexx (small blind) collected ($0.60)
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943372586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:52:41 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($40.32 in chips) 
+Seat 3: larson090 ($11.79 in chips) 
+Seat 4: sunrise8668 ($28.56 in chips) 
+Seat 5: MaverickLexx ($10.41 in chips) 
+Seat 6: SchuhaRt71 ($25.16 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+larson090: folds 
+sunrise8668: folds 
+MaverickLexx: raises $0.14 to $0.24
+SchuhaRt71: raises $0.66 to $0.90
+fuzinger: folds 
+MaverickLexx: calls $0.66
+*** FLOP *** [4d 2h Kc]
+SchuhaRt71: bets $1.15
+MaverickLexx: folds 
+Uncalled bet ($1.15) returned to SchuhaRt71
+SchuhaRt71 collected $1.81 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.09 
+Board [4d 2h Kc]
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: larson090 folded before Flop (didn't bet)
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded on the Flop
+Seat 6: SchuhaRt71 (small blind) collected ($1.81)
+
+
+
+PokerStars Hand #222943388210:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:53:27 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($40.32 in chips) 
+Seat 3: larson090 ($11.79 in chips) 
+Seat 4: sunrise8668 ($28.56 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.07 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+larson090: raises $0.19 to $0.29
+sunrise8668: calls $0.29
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.19
+*** FLOP *** [8c 6s Ad]
+JimSON.34: checks 
+larson090: bets $0.45
+sunrise8668: folds 
+JimSON.34: folds 
+Uncalled bet ($0.45) returned to larson090
+larson090 collected $0.88 from pot
+larson090: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.04 
+Board [8c 6s Ad]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded on the Flop
+Seat 3: larson090 collected ($0.88)
+Seat 4: sunrise8668 folded on the Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943404457:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:16 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($40.03 in chips) 
+Seat 4: sunrise8668 ($28.27 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.07 in chips) 
+JimSON.34: posts small blind $0.05
+larson090: is sitting out 
+sunrise8668: posts big blind $0.10
+*** HOLE CARDS ***
+larson090 leaves the table
+MaverickLexx: folds 
+SchuhaRt71: raises $0.20 to $0.30
+fuzinger: folds 
+JimSON.34: folds 
+sloom44 joins the table at seat #3 
+sunrise8668: folds 
+Uncalled bet ($0.20) returned to SchuhaRt71
+SchuhaRt71 collected $0.25 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 4: sunrise8668 (big blind) folded before Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 collected ($0.25)
+
+
+
+PokerStars Hand #222943411524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:37 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($39.98 in chips) 
+Seat 4: sunrise8668 ($28.17 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.22 in chips) 
+sunrise8668: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.10 to $0.20
+fuzinger: folds 
+JimSON.34: folds 
+sunrise8668: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.10) returned to SchuhaRt71
+SchuhaRt71 collected $0.25 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 4: sunrise8668 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 collected ($0.25)
+
+
+
+PokerStars Hand #222943417350:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:54:54 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($39.98 in chips) 
+Seat 4: sunrise8668 ($28.12 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+sloom44: sits out 
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: folds 
+sunrise8668: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 4: sunrise8668 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943423472:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:14 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($39.98 in chips) 
+Seat 4: sunrise8668 ($28.12 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.42 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+sloom44: sits out 
+*** HOLE CARDS ***
+JimSON.34: raises $0.20 to $0.30
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.20) returned to JimSON.34
+JimSON.34 collected $0.25 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 collected ($0.25)
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943428250:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:55:33 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($40.13 in chips) 
+Seat 4: sunrise8668 ($28.12 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+sloom44: sits out 
+*** HOLE CARDS ***
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.20 to $0.30
+JimSON.34: calls $0.20
+*** FLOP *** [Tc 8c 9h]
+fuzinger: bets $0.29
+JimSON.34: folds 
+Uncalled bet ($0.29) returned to fuzinger
+fuzinger collected $0.57 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc 8c 9h]
+Seat 1: fuzinger (small blind) collected ($0.57)
+Seat 2: JimSON.34 (big blind) folded on the Flop
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943435433:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:02 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($10.27 in chips) 
+Seat 2: JimSON.34 ($39.83 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($28.12 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+JimSON.34: posts small blind $0.05
+sloom44: posts big blind $0.10
+*** HOLE CARDS ***
+sunrise8668: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: folds 
+sloom44: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (button) collected ($0.25)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: sloom44 (big blind) folded before Flop
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943438691:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:14 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($10.42 in chips) 
+Seat 2: JimSON.34 ($39.78 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($28.12 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+sloom44: posts small blind $0.05
+sunrise8668: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+sloom44: folds 
+sunrise8668: folds 
+Uncalled bet ($0.20) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: sloom44 (small blind) folded before Flop
+Seat 4: sunrise8668 (big blind) folded before Flop
+Seat 5: MaverickLexx collected ($0.25)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943443364:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:56:33 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($10.42 in chips) 
+Seat 2: JimSON.34 ($39.78 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($28.02 in chips) 
+Seat 5: MaverickLexx ($10.15 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+sunrise8668: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: folds 
+sloom44: calls $0.35
+sunrise8668: calls $0.30
+MaverickLexx: folds 
+*** FLOP *** [8s Qs Ts]
+sunrise8668: checks 
+fuzinger: checks 
+sloom44: checks 
+*** TURN *** [8s Qs Ts] [Tc]
+sunrise8668: bets $0.55
+fuzinger: folds 
+sloom44: calls $0.55
+*** RIVER *** [8s Qs Ts Tc] [2d]
+sunrise8668: checks 
+sloom44: checks 
+*** SHOW DOWN ***
+sunrise8668: shows [Ks 9s] (a flush, King high)
+sloom44: mucks hand 
+sunrise8668 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8s Qs Ts Tc 2d]
+Seat 1: fuzinger folded on the Turn
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: sloom44 (button) mucked
+Seat 4: sunrise8668 (small blind) showed [Ks 9s] and won ($2.15) with a flush, King high
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943456132:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:23 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($10.07 in chips) 
+Seat 2: JimSON.34 ($39.78 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($29.27 in chips) 
+Seat 5: MaverickLexx ($10.05 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: folds 
+sloom44: folds 
+sunrise8668: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: sunrise8668 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222943461138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:57:42 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($10.07 in chips) 
+Seat 2: JimSON.34 ($39.78 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($29.27 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.42 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+sloom44: folds 
+sunrise8668: folds 
+MaverickLexx: calls $0.10
+SchuhaRt71: folds 
+fuzinger: checks 
+*** FLOP *** [Js Jc Qh]
+fuzinger: checks 
+JimSON.34: checks 
+MaverickLexx: bets $0.70
+fuzinger: folds 
+JimSON.34: calls $0.70
+*** TURN *** [Js Jc Qh] [4s]
+JimSON.34: checks 
+MaverickLexx: bets $0.30
+JimSON.34: raises $2.27 to $2.57
+MaverickLexx: calls $2.27
+*** RIVER *** [Js Jc Qh 4s] [2s]
+JimSON.34: bets $36.41 and is all-in
+MaverickLexx: calls $6.63 and is all-in
+Uncalled bet ($29.78) returned to JimSON.34
+*** SHOW DOWN ***
+JimSON.34: shows [Jh Kd] (three of a kind, Jacks)
+MaverickLexx: shows [Jd 9d] (three of a kind, Jacks - lower kicker)
+JimSON.34 collected $19.24 from pot
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [Js Jc Qh 4s 2s]
+Seat 1: fuzinger (big blind) folded on the Flop
+Seat 2: JimSON.34 showed [Jh Kd] and won ($19.24) with three of a kind, Jacks
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) showed [Jd 9d] and lost with three of a kind, Jacks
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943479836:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:58:55 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($49.02 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($29.27 in chips) 
+Seat 5: MaverickLexx ($10 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: folds 
+sunrise8668: folds 
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.20) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded before Flop
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx collected ($0.25)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943484022:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:12 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($48.92 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: sunrise8668 ($29.27 in chips) 
+Seat 5: MaverickLexx ($10.15 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+JimSON.34: posts small blind $0.05
+sloom44: posts big blind $0.10
+*** HOLE CARDS ***
+sunrise8668: folds 
+sunrise8668 leaves the table
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: folds 
+sloom44: calls $0.25
+*** FLOP *** [9c Kd Tc]
+sloom44: checks 
+fuzinger: bets $0.36
+sloom44: folds 
+Uncalled bet ($0.36) returned to fuzinger
+fuzinger collected $0.72 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9c Kd Tc]
+Seat 1: fuzinger (button) collected ($0.72)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: sloom44 (big blind) folded on the Flop
+Seat 4: sunrise8668 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943491860:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 22:59:43 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($10.37 in chips) 
+Seat 2: JimSON.34 ($48.87 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 5: MaverickLexx ($10.15 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+sloom44: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.10 to $0.20
+AMateuR955 joins the table at seat #4 
+sloom44: calls $0.15
+MaverickLexx: raises $0.80 to $1
+JimSON.34: calls $0.80
+sloom44: folds 
+*** FLOP *** [Jd Ah 6d]
+MaverickLexx: bets $1.40
+JimSON.34: raises $46.47 to $47.87 and is all-in
+MaverickLexx: calls $7.75 and is all-in
+Uncalled bet ($38.72) returned to JimSON.34
+*** TURN *** [Jd Ah 6d] [4h]
+*** RIVER *** [Jd Ah 6d 4h] [3s]
+*** SHOW DOWN ***
+MaverickLexx: shows [Jh Ad] (two pair, Aces and Jacks)
+JimSON.34: shows [Js Kc] (a pair of Jacks)
+MaverickLexx collected $19.58 from pot
+JimSON.34 cashed out the hand for $0.35
+*** SUMMARY ***
+Total pot $20.50 | Rake $0.92 
+Board [Jd Ah 6d 4h 3s]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) showed [Js Kc] and lost with a pair of Jacks (cashed out).
+Seat 3: sloom44 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) showed [Jh Ad] and won ($19.58) with two pair, Aces and Jacks
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943501886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:19 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($10.37 in chips) 
+Seat 2: JimSON.34 ($39.07 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 5: MaverickLexx ($19.58 in chips) 
+Seat 6: SchuhaRt71 ($26.37 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+JimSON.34: folds 
+sloom44: raises $0.75 to $1.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: calls $0.75
+*** FLOP *** [9h 5s Tc]
+fuzinger: checks 
+sloom44: bets $1.68
+fuzinger: folds 
+Uncalled bet ($1.68) returned to sloom44
+sloom44 collected $2.24 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [9h 5s Tc]
+Seat 1: fuzinger folded on the Flop
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: sloom44 (button) collected ($2.24)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943510615:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:00:47 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($39.07 in chips) 
+Seat 3: sloom44 ($11.14 in chips) 
+Seat 5: MaverickLexx ($19.53 in chips) 
+Seat 6: SchuhaRt71 ($26.27 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+AMateuR955: sits out 
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+sloom44: raises $0.40 to $0.50
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.40
+*** FLOP *** [9s Qs Ah]
+JimSON.34: checks 
+sloom44: bets $0.73
+JimSON.34: folds 
+Uncalled bet ($0.73) returned to sloom44
+sloom44 collected $1.10 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [9s Qs Ah]
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 folded on the Flop
+Seat 3: sloom44 collected ($1.10)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943521977:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:01:23 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($38.57 in chips) 
+Seat 3: sloom44 ($11.74 in chips) 
+Seat 5: MaverickLexx ($19.53 in chips) 
+Seat 6: SchuhaRt71 ($26.22 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+AMateuR955: sits out 
+*** HOLE CARDS ***
+sloom44: raises $0.30 to $0.40
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.30
+*** FLOP *** [9d Tc 2c]
+JimSON.34: bets $0.81
+sloom44: calls $0.81
+*** TURN *** [9d Tc 2c] [Td]
+JimSON.34: bets $2.36
+sloom44: folds 
+Uncalled bet ($2.36) returned to JimSON.34
+JimSON.34 collected $2.36 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [9d Tc 2c Td]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) collected ($2.36)
+Seat 3: sloom44 folded on the Turn
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943533779:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:00 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($10 in chips) 
+Seat 2: JimSON.34 ($39.72 in chips) 
+Seat 3: sloom44 ($10.53 in chips) 
+Seat 5: MaverickLexx ($19.53 in chips) 
+Seat 6: SchuhaRt71 ($26.22 in chips) 
+JimSON.34: posts small blind $0.05
+sloom44: posts big blind $0.10
+AMateuR955: sits out 
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: folds 
+sloom44: calls $0.25
+*** FLOP *** [5c Jh Td]
+sloom44: checks 
+fuzinger: bets $0.48
+sloom44: folds 
+Uncalled bet ($0.48) returned to fuzinger
+fuzinger collected $0.72 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5c Jh Td]
+Seat 1: fuzinger (button) collected ($0.72)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: sloom44 (big blind) folded on the Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943541128:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:02:23 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($10.37 in chips) 
+Seat 2: JimSON.34 ($39.67 in chips) 
+Seat 3: sloom44 ($10.18 in chips) 
+Seat 4: AMateuR955 ($10 in chips) 
+Seat 5: MaverickLexx ($19.53 in chips) 
+Seat 6: SchuhaRt71 ($26.22 in chips) 
+sloom44: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: calls $0.35
+sloom44: calls $0.30
+AMateuR955: calls $0.25
+*** FLOP *** [Td 9d 2s]
+sloom44: bets $0.89
+AMateuR955: folds 
+fuzinger: calls $0.89
+JimSON.34: calls $0.89
+*** TURN *** [Td 9d 2s] [Ad]
+sloom44: checks 
+fuzinger: bets $2.59
+JimSON.34: folds 
+sloom44: folds 
+Uncalled bet ($2.59) returned to fuzinger
+fuzinger collected $3.89 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.07 | Rake $0.18 
+Board [Td 9d 2s Ad]
+Seat 1: fuzinger collected ($3.89)
+Seat 2: JimSON.34 (button) folded on the Turn
+Seat 3: sloom44 (small blind) folded on the Turn
+Seat 4: AMateuR955 (big blind) folded on the Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943554406:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:04 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($13.02 in chips) 
+Seat 2: JimSON.34 ($38.43 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10 in chips) 
+Seat 5: MaverickLexx ($19.53 in chips) 
+Seat 6: SchuhaRt71 ($26.22 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+sloom44: folds 
+AMateuR955: raises $0.20 to $0.30
+MaverickLexx: calls $0.20
+*** FLOP *** [As Kc 5c]
+AMateuR955: checks 
+MaverickLexx: checks 
+*** TURN *** [As Kc 5c] [Js]
+AMateuR955: bets $0.29
+MaverickLexx: calls $0.29
+*** RIVER *** [As Kc 5c Js] [Ts]
+AMateuR955: bets $0.57
+MaverickLexx: folds 
+Uncalled bet ($0.57) returned to AMateuR955
+AMateuR955 collected $1.13 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [As Kc 5c Js Ts]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: sloom44 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) collected ($1.13)
+Seat 5: MaverickLexx (big blind) folded on the River
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943566832:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:03:43 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($13.02 in chips) 
+Seat 2: JimSON.34 ($38.43 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10.54 in chips) 
+Seat 5: MaverickLexx ($18.94 in chips) 
+Seat 6: SchuhaRt71 ($26.22 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+JimSON.34: calls $0.35
+sloom44: calls $0.35
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $1.45 to $1.80
+fuzinger: calls $1.45
+JimSON.34: folds 
+sloom44: folds 
+*** FLOP *** [4h Jc 6d]
+SchuhaRt71: bets $1.85
+fuzinger: calls $1.85
+*** TURN *** [4h Jc 6d] [8s]
+SchuhaRt71: checks 
+fuzinger: bets $1
+SchuhaRt71: calls $1
+*** RIVER *** [4h Jc 6d 8s] [6s]
+SchuhaRt71: checks 
+fuzinger: checks 
+*** SHOW DOWN ***
+SchuhaRt71: shows [As Kc] (a pair of Sixes)
+fuzinger: shows [9c 9h] (two pair, Nines and Sixes)
+fuzinger collected $9.60 from pot
+*** SUMMARY ***
+Total pot $10.05 | Rake $0.45 
+Board [4h Jc 6d 8s 6s]
+Seat 1: fuzinger showed [9c 9h] and won ($9.60) with two pair, Nines and Sixes
+Seat 2: JimSON.34 folded before Flop
+Seat 3: sloom44 folded before Flop
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) showed [As Kc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #222943593037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:03 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.97 in chips) 
+Seat 2: JimSON.34 ($38.08 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10.54 in chips) 
+Seat 5: MaverickLexx ($18.89 in chips) 
+Seat 6: SchuhaRt71 ($21.57 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+sloom44: folds 
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (big blind) collected ($0.10)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: sloom44 folded before Flop (didn't bet)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943601868:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:21 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($18.02 in chips) 
+Seat 2: JimSON.34 ($38.08 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10.54 in chips) 
+Seat 5: MaverickLexx ($18.89 in chips) 
+Seat 6: SchuhaRt71 ($21.52 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: raises $0.40 to $0.50
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.40) returned to sloom44
+sloom44 collected $0.25 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded before Flop
+Seat 3: sloom44 collected ($0.25)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943611952:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:05:52 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.97 in chips) 
+Seat 2: JimSON.34 ($37.98 in chips) 
+Seat 3: sloom44 ($10.15 in chips) 
+Seat 4: AMateuR955 ($10.54 in chips) 
+Seat 5: MaverickLexx ($18.89 in chips) 
+Seat 6: SchuhaRt71 ($21.52 in chips) 
+JimSON.34: posts small blind $0.05
+sloom44: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: folds 
+MaverickLexx was removed from the table for failing to post
+MaverickLexx leaves the table
+SchuhaRt71: folds 
+fuzinger: folds 
+MaverickLexx joins the table at seat #5 
+JimSON.34: folds 
+Uncalled bet ($0.05) returned to sloom44
+sloom44 collected $0.10 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: sloom44 (big blind) collected ($0.10)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943616727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:07 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.97 in chips) 
+Seat 2: JimSON.34 ($37.93 in chips) 
+Seat 3: sloom44 ($10.20 in chips) 
+Seat 4: AMateuR955 ($10.54 in chips) 
+Seat 6: SchuhaRt71 ($21.52 in chips) 
+sloom44: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+MaverickLexx: sits out 
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.10
+sloom44: raises $0.40 to $0.50
+AMateuR955: folds 
+JimSON.34: calls $0.40
+*** FLOP *** [9h Ks 8s]
+sloom44: checks 
+JimSON.34: checks 
+*** TURN *** [9h Ks 8s] [Qc]
+sloom44: checks 
+JimSON.34: bets $1.05
+sloom44: folds 
+Uncalled bet ($1.05) returned to JimSON.34
+JimSON.34 collected $1.05 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9h Ks 8s Qc]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) collected ($1.05)
+Seat 3: sloom44 (small blind) folded on the Turn
+Seat 4: AMateuR955 (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943627484:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:06:41 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($17.97 in chips) 
+Seat 2: JimSON.34 ($38.48 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10.44 in chips) 
+Seat 5: MaverickLexx ($18.89 in chips) 
+Seat 6: SchuhaRt71 ($21.52 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.10 to $0.20
+sloom44: folds 
+AMateuR955: folds 
+MaverickLexx: calls $0.10
+*** FLOP *** [5s 9c 9h]
+MaverickLexx: checks 
+JimSON.34: bets $0.43
+MaverickLexx: folds 
+Uncalled bet ($0.43) returned to JimSON.34
+JimSON.34 collected $0.43 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [5s 9c 9h]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 collected ($0.43)
+Seat 3: sloom44 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded on the Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943637351:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:11 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.97 in chips) 
+Seat 2: JimSON.34 ($38.71 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10.39 in chips) 
+Seat 5: MaverickLexx ($18.69 in chips) 
+Seat 6: SchuhaRt71 ($21.52 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: folds 
+sloom44: raises $0.20 to $0.30
+AMateuR955: folds 
+MaverickLexx: raises $0.85 to $1.15
+SchuhaRt71: folds 
+sloom44: calls $0.85
+*** FLOP *** [Ks Qh Ah]
+MaverickLexx: bets $1.15
+sloom44: folds 
+Uncalled bet ($1.15) returned to MaverickLexx
+MaverickLexx collected $2.29 from pot
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.11 
+Board [Ks Qh Ah]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: sloom44 folded on the Flop
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) collected ($2.29)
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943644054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:07:32 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.97 in chips) 
+Seat 2: JimSON.34 ($38.71 in chips) 
+Seat 3: sloom44 ($10 in chips) 
+Seat 4: AMateuR955 ($10.39 in chips) 
+Seat 5: MaverickLexx ($19.83 in chips) 
+Seat 6: SchuhaRt71 ($21.42 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+sloom44: raises $0.30 to $0.40
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.30
+*** FLOP *** [7h 3h 6c]
+JimSON.34: checks 
+sloom44: checks 
+*** TURN *** [7h 3h 6c] [2s]
+JimSON.34: checks 
+sloom44: checks 
+*** RIVER *** [7h 3h 6c 2s] [5d]
+JimSON.34: bets $0.20
+sloom44: raises $1.24 to $1.44
+JimSON.34: folds 
+Uncalled bet ($1.24) returned to sloom44
+sloom44 collected $1.29 from pot
+sloom44: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [7h 3h 6c 2s 5d]
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 folded on the River
+Seat 3: sloom44 collected ($1.29)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943659317:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:19 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($17.87 in chips) 
+Seat 2: JimSON.34 ($38.11 in chips) 
+Seat 3: sloom44 ($10.69 in chips) 
+Seat 4: AMateuR955 ($10.39 in chips) 
+Seat 5: MaverickLexx ($19.83 in chips) 
+Seat 6: SchuhaRt71 ($21.37 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44: raises $0.30 to $0.40
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.30
+*** FLOP *** [As Td Ad]
+JimSON.34: checks 
+sloom44: checks 
+*** TURN *** [As Td Ad] [Th]
+JimSON.34: bets $0.20
+sloom44: folds 
+Uncalled bet ($0.20) returned to JimSON.34
+JimSON.34 collected $0.81 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [As Td Ad Th]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) collected ($0.81)
+Seat 3: sloom44 folded on the Turn
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943667455:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:08:44 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.82 in chips) 
+Seat 2: JimSON.34 ($38.52 in chips) 
+Seat 4: AMateuR955 ($10.39 in chips) 
+Seat 5: MaverickLexx ($19.83 in chips) 
+Seat 6: SchuhaRt71 ($21.37 in chips) 
+JimSON.34: posts small blind $0.05
+sloom44: is sitting out 
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+sloom44 leaves the table
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.20 to $0.30
+AMateuR955: folds 
+Uncalled bet ($0.20) returned to JimSON.34
+JimSON.34 collected $0.20 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) collected ($0.20)
+Seat 4: AMateuR955 (big blind) folded before Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943673200:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:02 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.82 in chips) 
+Seat 2: JimSON.34 ($38.62 in chips) 
+Seat 4: AMateuR955 ($10.29 in chips) 
+Seat 5: MaverickLexx ($19.83 in chips) 
+Seat 6: SchuhaRt71 ($21.37 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.20 to $0.30
+fuzinger: folds 
+JimSON.34: folds 
+AMateuR955: folds 
+MaverickLexx: raises $0.90 to $1.20
+SchuhaRt71: calls $0.90
+*** FLOP *** [8d Qh 7h]
+MaverickLexx: bets $0.70
+SchuhaRt71: calls $0.70
+*** TURN *** [8d Qh 7h] [Qs]
+MaverickLexx: bets $2.45
+SchuhaRt71: folds 
+Uncalled bet ($2.45) returned to MaverickLexx
+MaverickLexx collected $3.68 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.17 
+Board [8d Qh 7h Qs]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) collected ($3.68)
+Seat 6: SchuhaRt71 folded on the Turn
+
+
+
+PokerStars Hand #222943689293:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:09:52 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.82 in chips) 
+Seat 2: JimSON.34 ($38.62 in chips) 
+Seat 4: AMateuR955 ($10.24 in chips) 
+Seat 5: MaverickLexx ($21.61 in chips) 
+Seat 6: SchuhaRt71 ($19.47 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: calls $0.10
+AMateuR955: folds 
+MaverickLexx: raises $0.40 to $0.50
+SchuhaRt71: folds 
+JimSON.34: calls $0.40
+*** FLOP *** [Td Kd Qh]
+MaverickLexx: bets $0.53
+bone60 joins the table at seat #3 
+JimSON.34: raises $0.53 to $1.06
+MaverickLexx: calls $0.53
+*** TURN *** [Td Kd Qh] [9d]
+MaverickLexx: checks 
+JimSON.34: bets $3.08
+MaverickLexx: calls $3.08
+*** RIVER *** [Td Kd Qh 9d] [8s]
+MaverickLexx: checks 
+JimSON.34: checks 
+*** SHOW DOWN ***
+MaverickLexx: shows [Qd Ac] (a pair of Queens)
+JimSON.34: shows [Kc 8c] (two pair, Kings and Eights)
+JimSON.34 collected $8.96 from pot
+*** SUMMARY ***
+Total pot $9.38 | Rake $0.42 
+Board [Td Kd Qh 9d 8s]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 showed [Kc 8c] and won ($8.96) with two pair, Kings and Eights
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) showed [Qd Ac] and lost with a pair of Queens
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943707830:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:10:47 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.82 in chips) 
+Seat 2: JimSON.34 ($42.94 in chips) 
+Seat 4: AMateuR955 ($10.24 in chips) 
+Seat 5: MaverickLexx ($16.97 in chips) 
+Seat 6: SchuhaRt71 ($19.37 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+bone60: sits out 
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: checks 
+*** FLOP *** [Ah Jd 4s]
+fuzinger: checks 
+JimSON.34: bets $0.24
+fuzinger: folds 
+Uncalled bet ($0.24) returned to JimSON.34
+JimSON.34 collected $0.24 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah Jd 4s]
+Seat 1: fuzinger (big blind) folded on the Flop
+Seat 2: JimSON.34 collected ($0.24)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943713967:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:07 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($17.72 in chips) 
+Seat 2: JimSON.34 ($43.08 in chips) 
+Seat 4: AMateuR955 ($10.24 in chips) 
+Seat 5: MaverickLexx ($16.97 in chips) 
+Seat 6: SchuhaRt71 ($19.32 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+bone60: sits out 
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to JimSON.34
+JimSON.34 collected $0.10 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) collected ($0.10)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943717053:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:16 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.67 in chips) 
+Seat 2: JimSON.34 ($43.13 in chips) 
+Seat 3: bone60 ($8 in chips) 
+Seat 4: AMateuR955 ($10.24 in chips) 
+Seat 5: MaverickLexx ($16.97 in chips) 
+Seat 6: SchuhaRt71 ($19.32 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.05) returned to bone60
+bone60 collected $0.10 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: bone60 (big blind) collected ($0.10)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943722253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:11:32 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.67 in chips) 
+Seat 2: JimSON.34 ($43.08 in chips) 
+Seat 3: bone60 ($8.05 in chips) 
+Seat 4: AMateuR955 ($10.24 in chips) 
+Seat 5: MaverickLexx ($16.97 in chips) 
+Seat 6: SchuhaRt71 ($19.32 in chips) 
+bone60: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.10
+bone60: calls $0.05
+AMateuR955: checks 
+*** FLOP *** [Ts 6s 4c]
+bone60: checks 
+AMateuR955: checks 
+JimSON.34: bets $0.20
+bone60: folds 
+AMateuR955: folds 
+Uncalled bet ($0.20) returned to JimSON.34
+JimSON.34 collected $0.29 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ts 6s 4c]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) collected ($0.29)
+Seat 3: bone60 (small blind) folded on the Flop
+Seat 4: AMateuR955 (big blind) folded on the Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943734990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:00 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($17.67 in chips) 
+Seat 2: JimSON.34 ($43.27 in chips) 
+Seat 3: bone60 ($7.95 in chips) 
+Seat 4: AMateuR955 ($10.14 in chips) 
+Seat 5: MaverickLexx ($16.97 in chips) 
+Seat 6: SchuhaRt71 ($19.32 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.10 to $0.20
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: calls $0.10
+*** FLOP *** [7h 4s Ac]
+MaverickLexx: checks 
+JimSON.34: bets $0.43
+MaverickLexx: calls $0.43
+*** TURN *** [7h 4s Ac] [Ts]
+MaverickLexx: checks 
+JimSON.34: checks 
+*** RIVER *** [7h 4s Ac Ts] [Qh]
+MaverickLexx: checks 
+JimSON.34: bets $4.80
+MaverickLexx: folds 
+Uncalled bet ($4.80) returned to JimSON.34
+JimSON.34 collected $1.25 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.06 
+Board [7h 4s Ac Ts Qh]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 collected ($1.25)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded on the River
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943751420:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:12:51 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.67 in chips) 
+Seat 2: JimSON.34 ($43.89 in chips) 
+Seat 3: bone60 ($7.95 in chips) 
+Seat 4: AMateuR955 ($10.09 in chips) 
+Seat 5: MaverickLexx ($16.34 in chips) 
+Seat 6: SchuhaRt71 ($19.32 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: calls $0.10
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $0.55 to $0.65
+JimSON.34: folds 
+Uncalled bet ($0.55) returned to SchuhaRt71
+SchuhaRt71 collected $0.25 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.25)
+
+
+
+PokerStars Hand #222943759538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:13:17 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.67 in chips) 
+Seat 2: JimSON.34 ($43.79 in chips) 
+Seat 3: bone60 ($7.95 in chips) 
+Seat 4: AMateuR955 ($10.09 in chips) 
+Seat 5: MaverickLexx ($16.29 in chips) 
+Seat 6: SchuhaRt71 ($19.47 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+bone60: calls $0.10
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: checks 
+*** FLOP *** [5h 3h 6c]
+fuzinger: bets $0.33
+JimSON.34: calls $0.33
+bone60: folds 
+*** TURN *** [5h 3h 6c] [Jh]
+fuzinger: bets $0.20
+JimSON.34: calls $0.20
+*** RIVER *** [5h 3h 6c Jh] [7d]
+fuzinger: bets $0.20
+JimSON.34: calls $0.20
+*** SHOW DOWN ***
+fuzinger: shows [3c 6h] (two pair, Sixes and Threes)
+JimSON.34: mucks hand 
+fuzinger collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.81 | Rake $0.08 
+Board [5h 3h 6c Jh 7d]
+Seat 1: fuzinger (big blind) showed [3c 6h] and won ($1.73) with two pair, Sixes and Threes
+Seat 2: JimSON.34 mucked
+Seat 3: bone60 folded on the Flop
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943775452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:06 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($18.57 in chips) 
+Seat 2: JimSON.34 ($42.96 in chips) 
+Seat 3: bone60 ($7.85 in chips) 
+Seat 4: AMateuR955 ($10.09 in chips) 
+Seat 5: MaverickLexx ($16.29 in chips) 
+Seat 6: SchuhaRt71 ($19.42 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: calls $0.25
+JimSON.34: calls $0.20
+*** FLOP *** [8s Kd Th]
+fuzinger: checks 
+JimSON.34: checks 
+MaverickLexx: bets $0.57
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.57) returned to MaverickLexx
+MaverickLexx collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [8s Kd Th]
+Seat 1: fuzinger (small blind) folded on the Flop
+Seat 2: JimSON.34 (big blind) folded on the Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx collected ($0.86)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943785782:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:14:38 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($18.27 in chips) 
+Seat 2: JimSON.34 ($42.66 in chips) 
+Seat 3: bone60 ($7.85 in chips) 
+Seat 4: AMateuR955 ($10.09 in chips) 
+Seat 5: MaverickLexx ($16.85 in chips) 
+Seat 6: SchuhaRt71 ($19.42 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: calls $0.30
+fuzinger: folds 
+JimSON.34: raises $0.20 to $0.50
+bone60: folds 
+MaverickLexx: calls $0.20
+SchuhaRt71: calls $0.20
+*** FLOP *** [Kd 7c 8s]
+JimSON.34: bets $1.53
+MaverickLexx: folds 
+SchuhaRt71: calls $1.53
+*** TURN *** [Kd 7c 8s] [Jc]
+JimSON.34: bets $4.45
+SchuhaRt71: folds 
+Uncalled bet ($4.45) returned to JimSON.34
+JimSON.34 collected $4.45 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.66 | Rake $0.21 
+Board [Kd 7c 8s Jc]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) collected ($4.45)
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded on the Flop
+Seat 6: SchuhaRt71 folded on the Turn
+
+
+
+PokerStars Hand #222943815264:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:10 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($18.27 in chips) 
+Seat 2: JimSON.34 ($45.08 in chips) 
+Seat 3: bone60 ($7.75 in chips) 
+Seat 4: AMateuR955 ($10.09 in chips) 
+Seat 5: MaverickLexx ($16.35 in chips) 
+Seat 6: SchuhaRt71 ($17.39 in chips) 
+bone60: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+bone60: calls $0.05
+AMateuR955: checks 
+*** FLOP *** [2h 3s Kd]
+bone60: checks 
+AMateuR955: checks 
+*** TURN *** [2h 3s Kd] [Qs]
+bone60: checks 
+AMateuR955: checks 
+*** RIVER *** [2h 3s Kd Qs] [5s]
+bone60: checks 
+AMateuR955: checks 
+*** SHOW DOWN ***
+bone60: shows [2d Ac] (a pair of Deuces)
+AMateuR955: mucks hand 
+bone60 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2h 3s Kd Qs 5s]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) showed [2d Ac] and won ($0.19) with a pair of Deuces
+Seat 4: AMateuR955 (big blind) mucked
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943827111:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:16:47 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($18.27 in chips) 
+Seat 2: JimSON.34 ($45.08 in chips) 
+Seat 3: bone60 ($7.84 in chips) 
+Seat 4: AMateuR955 ($10 in chips) 
+Seat 5: MaverickLexx ($16.35 in chips) 
+Seat 6: SchuhaRt71 ($17.39 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.15 to $0.25
+fuzinger: folds 
+JimSON.34: folds 
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: calls $0.15
+*** FLOP *** [4c Th Jh]
+MaverickLexx: checks 
+SchuhaRt71: bets $0.40
+MaverickLexx: calls $0.40
+*** TURN *** [4c Th Jh] [Qh]
+MaverickLexx: checks 
+SchuhaRt71: bets $0.86
+MaverickLexx: folds 
+Uncalled bet ($0.86) returned to SchuhaRt71
+SchuhaRt71 collected $1.29 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [4c Th Jh Qh]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded on the Turn
+Seat 6: SchuhaRt71 collected ($1.29)
+
+
+
+PokerStars Hand #222943851082:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:17:35 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($18.27 in chips) 
+Seat 2: JimSON.34 ($45.08 in chips) 
+Seat 3: bone60 ($7.84 in chips) 
+Seat 4: AMateuR955 ($10 in chips) 
+Seat 5: MaverickLexx ($15.70 in chips) 
+Seat 6: SchuhaRt71 ($18.03 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: calls $0.10
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $0.30 to $0.40
+JimSON.34: raises $44.68 to $45.08 and is all-in
+SchuhaRt71: folds 
+Uncalled bet ($44.68) returned to JimSON.34
+JimSON.34 collected $0.85 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 collected ($0.85)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943860734:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:05 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($18.27 in chips) 
+Seat 2: JimSON.34 ($45.53 in chips) 
+Seat 3: bone60 ($7.84 in chips) 
+Seat 4: AMateuR955 ($10 in chips) 
+Seat 5: MaverickLexx ($15.65 in chips) 
+Seat 6: SchuhaRt71 ($17.63 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (big blind) collected ($0.10)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943873556:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:18:23 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($18.32 in chips) 
+Seat 2: JimSON.34 ($45.53 in chips) 
+Seat 3: bone60 ($7.84 in chips) 
+Seat 4: AMateuR955 ($10 in chips) 
+Seat 5: MaverickLexx ($15.65 in chips) 
+Seat 6: SchuhaRt71 ($17.58 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+AMateuR955: raises $0.20 to $0.30
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: calls $0.25
+JimSON.34: folds 
+*** FLOP *** [9h 8s Kc]
+fuzinger: checks 
+AMateuR955: checks 
+*** TURN *** [9h 8s Kc] [6s]
+fuzinger: checks 
+AMateuR955: checks 
+*** RIVER *** [9h 8s Kc 6s] [5h]
+fuzinger: checks 
+AMateuR955: checks 
+*** SHOW DOWN ***
+fuzinger: shows [Jc Qh] (high card King)
+AMateuR955: shows [2c 2h] (a pair of Deuces)
+AMateuR955 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [9h 8s Kc 6s 5h]
+Seat 1: fuzinger (small blind) showed [Jc Qh] and lost with high card King
+Seat 2: JimSON.34 (big blind) folded before Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 showed [2c 2h] and won ($0.67) with a pair of Deuces
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943887342:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:06 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($18.02 in chips) 
+Seat 2: JimSON.34 ($45.43 in chips) 
+Seat 3: bone60 ($7.84 in chips) 
+Seat 4: AMateuR955 ($10.37 in chips) 
+Seat 5: MaverickLexx ($15.65 in chips) 
+Seat 6: SchuhaRt71 ($17.58 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: calls $0.30
+bone60: folds 
+*** FLOP *** [8c As 4h]
+JimSON.34: checks 
+fuzinger: bets $0.38
+JimSON.34: calls $0.38
+*** TURN *** [8c As 4h] [3d]
+JimSON.34: checks 
+fuzinger: checks 
+*** RIVER *** [8c As 4h 3d] [Jd]
+JimSON.34: bets $1.49
+fuzinger: folds 
+Uncalled bet ($1.49) returned to JimSON.34
+JimSON.34 collected $1.49 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.07 
+Board [8c As 4h 3d Jd]
+Seat 1: fuzinger (button) folded on the River
+Seat 2: JimSON.34 (small blind) collected ($1.49)
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943900784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:19:48 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.29 in chips) 
+Seat 2: JimSON.34 ($46.19 in chips) 
+Seat 3: bone60 ($7.74 in chips) 
+Seat 4: AMateuR955 ($10.37 in chips) 
+Seat 5: MaverickLexx ($15.65 in chips) 
+Seat 6: SchuhaRt71 ($17.58 in chips) 
+bone60: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.10
+bone60: calls $0.05
+AMateuR955: checks 
+*** FLOP *** [Jd 4h Qh]
+bone60: checks 
+AMateuR955: checks 
+JimSON.34: bets $0.29
+bone60: folds 
+AMateuR955: folds 
+Uncalled bet ($0.29) returned to JimSON.34
+JimSON.34 collected $0.29 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Jd 4h Qh]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) collected ($0.29)
+Seat 3: bone60 (small blind) folded on the Flop
+Seat 4: AMateuR955 (big blind) folded on the Flop
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943910373:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:19 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($17.29 in chips) 
+Seat 2: JimSON.34 ($46.38 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.27 in chips) 
+Seat 5: MaverickLexx ($15.65 in chips) 
+Seat 6: SchuhaRt71 ($17.58 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.30 to $0.40
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: calls $0.30
+*** FLOP *** [Ts 7h 4s]
+MaverickLexx: checks 
+JimSON.34: bets $0.81
+MaverickLexx: calls $0.81
+*** TURN *** [Ts 7h 4s] [As]
+MaverickLexx: checks 
+JimSON.34: bets $2.36
+MaverickLexx: folds 
+Uncalled bet ($2.36) returned to JimSON.34
+JimSON.34 collected $2.36 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [Ts 7h 4s As]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 collected ($2.36)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded on the Turn
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943921945:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:20:55 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.29 in chips) 
+Seat 2: JimSON.34 ($47.53 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.22 in chips) 
+Seat 5: MaverickLexx ($14.44 in chips) 
+Seat 6: SchuhaRt71 ($17.58 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: calls $0.10
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: raises $0.24 to $0.34
+SchuhaRt71: folds 
+JimSON.34: calls $0.24
+*** FLOP *** [7h Qh 3c]
+MaverickLexx: bets $0.22
+JimSON.34: calls $0.22
+*** TURN *** [7h Qh 3c] [8d]
+MaverickLexx: checks 
+JimSON.34: bets $1.17
+MaverickLexx: calls $1.17
+*** RIVER *** [7h Qh 3c 8d] [6c]
+MaverickLexx: checks 
+JimSON.34: checks 
+*** SHOW DOWN ***
+MaverickLexx: shows [9d Qd] (a pair of Queens)
+JimSON.34: mucks hand 
+MaverickLexx collected $3.40 from pot
+*** SUMMARY ***
+Total pot $3.56 | Rake $0.16 
+Board [7h Qh 3c 8d 6c]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 mucked
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) showed [9d Qd] and won ($3.40) with a pair of Queens
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222943931537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:25 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.29 in chips) 
+Seat 2: JimSON.34 ($45.80 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.22 in chips) 
+Seat 5: MaverickLexx ($16.11 in chips) 
+Seat 6: SchuhaRt71 ($17.48 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+bone60: folds 
+AMateuR955: raises $0.20 to $0.30
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.20) returned to AMateuR955
+AMateuR955 collected $0.25 from pot
+AMateuR955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 collected ($0.25)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222943938027:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:21:45 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($17.19 in chips) 
+Seat 2: JimSON.34 ($45.80 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.37 in chips) 
+Seat 5: MaverickLexx ($16.11 in chips) 
+Seat 6: SchuhaRt71 ($17.43 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: raises $0.14 to $0.24
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.14 to $0.38
+MaverickLexx: calls $0.14
+*** FLOP *** [6d Tc 9d]
+JimSON.34: checks 
+MaverickLexx: bets $0.51
+JimSON.34: raises $0.51 to $1.02
+MaverickLexx: calls $0.51
+*** TURN *** [6d Tc 9d] [6h]
+JimSON.34: checks 
+MaverickLexx: checks 
+*** RIVER *** [6d Tc 9d 6h] [8h]
+JimSON.34: bets $44.40 and is all-in
+MaverickLexx: folds 
+Uncalled bet ($44.40) returned to JimSON.34
+JimSON.34 collected $2.72 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.13 
+Board [6d Tc 9d 6h 8h]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) collected ($2.72)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded on the River
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943953911:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:22:35 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.14 in chips) 
+Seat 2: JimSON.34 ($47.12 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.37 in chips) 
+Seat 5: MaverickLexx ($14.71 in chips) 
+Seat 6: SchuhaRt71 ($17.43 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.05) returned to bone60
+bone60 collected $0.10 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: bone60 (big blind) collected ($0.10)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943966697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:23:15 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.14 in chips) 
+Seat 2: JimSON.34 ($47.07 in chips) 
+Seat 3: bone60 ($7.69 in chips) 
+Seat 4: AMateuR955 ($10.37 in chips) 
+Seat 5: MaverickLexx ($14.71 in chips) 
+Seat 6: SchuhaRt71 ($17.43 in chips) 
+bone60: posts small blind $0.05
+AMateuR955: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: calls $0.30
+JimSON.34: folds 
+bone60: folds 
+AMateuR955: folds 
+*** FLOP *** [Js Kh 8d]
+MaverickLexx: checks 
+fuzinger: checks 
+*** TURN *** [Js Kh 8d] [4d]
+MaverickLexx: bets $0.48
+fuzinger: raises $0.48 to $0.96
+MaverickLexx: calls $0.48
+*** RIVER *** [Js Kh 8d 4d] [2d]
+MaverickLexx: checks 
+fuzinger: checks 
+*** SHOW DOWN ***
+MaverickLexx: shows [7d 5d] (a flush, Eight high)
+fuzinger: mucks hand 
+MaverickLexx collected $2.55 from pot
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.12 
+Board [Js Kh 8d 4d 2d]
+Seat 1: fuzinger mucked
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) folded before Flop
+Seat 4: AMateuR955 (big blind) folded before Flop
+Seat 5: MaverickLexx showed [7d 5d] and won ($2.55) with a flush, Eight high
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222943981564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:02 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($15.88 in chips) 
+Seat 2: JimSON.34 ($47.07 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.27 in chips) 
+Seat 5: MaverickLexx ($16 in chips) 
+Seat 6: SchuhaRt71 ($17.43 in chips) 
+AMateuR955: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.30 to $0.40
+fuzinger: folds 
+JimSON.34: folds 
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.30) returned to SchuhaRt71
+SchuhaRt71 collected $0.25 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: AMateuR955 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 collected ($0.25)
+
+
+
+PokerStars Hand #222943989620:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:24:27 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($15.88 in chips) 
+Seat 2: JimSON.34 ($47.07 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.22 in chips) 
+Seat 5: MaverickLexx ($15.90 in chips) 
+Seat 6: SchuhaRt71 ($17.58 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: raises $0.25 to $0.35
+JimSON.34: calls $0.35
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: calls $0.30
+SchuhaRt71: calls $0.25
+*** FLOP *** [6c 9c 3h]
+MaverickLexx: checks 
+SchuhaRt71: checks 
+fuzinger: bets $0.67
+JimSON.34: calls $0.67
+MaverickLexx: folds 
+SchuhaRt71: folds 
+*** TURN *** [6c 9c 3h] [Ad]
+fuzinger: bets $1.31
+JimSON.34: folds 
+Uncalled bet ($1.31) returned to fuzinger
+fuzinger collected $2.62 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.74 | Rake $0.12 
+Board [6c 9c 3h Ad]
+Seat 1: fuzinger collected ($2.62)
+Seat 2: JimSON.34 folded on the Turn
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded on the Flop
+Seat 6: SchuhaRt71 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222944003143:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:10 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.48 in chips) 
+Seat 2: JimSON.34 ($46.05 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.22 in chips) 
+Seat 5: MaverickLexx ($15.55 in chips) 
+Seat 6: SchuhaRt71 ($17.23 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: calls $0.10
+SchuhaRt71: calls $0.05
+fuzinger: checks 
+*** FLOP *** [3h Ah 9d]
+SchuhaRt71: checks 
+fuzinger: checks 
+JimSON.34: bets $0.20
+MaverickLexx: calls $0.20
+SchuhaRt71: folds 
+fuzinger: folds 
+*** TURN *** [3h Ah 9d] [6h]
+JimSON.34: bets $0.20
+MaverickLexx: raises $0.87 to $1.07
+JimSON.34: folds 
+Uncalled bet ($0.87) returned to MaverickLexx
+MaverickLexx collected $1.15 from pot
+MaverickLexx: shows [Jd 3d] (a pair of Threes)
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [3h Ah 9d 6h]
+Seat 1: fuzinger (big blind) folded on the Flop
+Seat 2: JimSON.34 folded on the Turn
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) collected ($1.15)
+Seat 6: SchuhaRt71 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222944015438:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:25:49 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($17.38 in chips) 
+Seat 2: JimSON.34 ($45.55 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.22 in chips) 
+Seat 5: MaverickLexx ($16.20 in chips) 
+Seat 6: SchuhaRt71 ($17.13 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+AMateuR955: folds 
+MaverickLexx: raises $0.14 to $0.24
+SchuhaRt71: calls $0.24
+fuzinger: folds 
+JimSON.34: calls $0.14
+*** FLOP *** [8d Kh Ac]
+JimSON.34: checks 
+MaverickLexx: checks 
+SchuhaRt71: checks 
+*** TURN *** [8d Kh Ac] [Qc]
+JimSON.34: checks 
+MaverickLexx: bets $0.10
+SchuhaRt71: folds 
+JimSON.34: folds 
+Uncalled bet ($0.10) returned to MaverickLexx
+MaverickLexx collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [8d Kh Ac Qc]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded on the Turn
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx collected ($0.74)
+Seat 6: SchuhaRt71 (button) folded on the Turn
+
+
+
+PokerStars Hand #222944032284:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:26:42 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.33 in chips) 
+Seat 2: JimSON.34 ($45.31 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: AMateuR955 ($10.22 in chips) 
+Seat 5: MaverickLexx ($16.70 in chips) 
+Seat 6: SchuhaRt71 ($16.89 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+AMateuR955: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $0.20 to $0.30
+fuzinger: folds 
+JimSON.34: calls $0.25
+bone60: folds 
+*** FLOP *** [7d Ad Jc]
+JimSON.34: checks 
+SchuhaRt71: bets $0.60
+JimSON.34: folds 
+Uncalled bet ($0.60) returned to SchuhaRt71
+SchuhaRt71 collected $0.67 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7d Ad Jc]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded on the Flop
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: AMateuR955 folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 collected ($0.67)
+
+
+
+PokerStars Hand #222944043989:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:19 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.33 in chips) 
+Seat 2: JimSON.34 ($45.01 in chips) 
+Seat 3: bone60 ($7.54 in chips) 
+Seat 5: MaverickLexx ($16.70 in chips) 
+Seat 6: SchuhaRt71 ($17.26 in chips) 
+bone60: posts small blind $0.05
+AMateuR955: is sitting out 
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+AMateuR955 leaves the table
+fuzinger: folds 
+JimSON.34: folds 
+bone60: raises $0.20 to $0.30
+MaverickLexx: folds 
+Uncalled bet ($0.20) returned to bone60
+bone60 collected $0.20 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) collected ($0.20)
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944048731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:35 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($17.33 in chips) 
+Seat 2: JimSON.34 ($45.01 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 5: MaverickLexx ($16.60 in chips) 
+Seat 6: SchuhaRt71 ($17.26 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: folds 
+bone60: folds 
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+Uncalled bet ($0.20) returned to MaverickLexx
+MaverickLexx collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) collected ($0.20)
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944052594:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:27:47 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.33 in chips) 
+Seat 2: JimSON.34 ($45.01 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 5: MaverickLexx ($16.70 in chips) 
+Seat 6: SchuhaRt71 ($17.16 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+Tony Zhukov joins the table at seat #4 
+bone60: folds 
+MaverickLexx: raises $0.40 to $0.50
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.40
+*** FLOP *** [Kh 4s 9c]
+JimSON.34: checks 
+MaverickLexx: checks 
+*** TURN *** [Kh 4s 9c] [8s]
+JimSON.34: checks 
+MaverickLexx: checks 
+*** RIVER *** [Kh 4s 9c 8s] [5c]
+JimSON.34: checks 
+MaverickLexx: checks 
+*** SHOW DOWN ***
+JimSON.34: shows [Ad Tc] (high card Ace)
+MaverickLexx: shows [Jh As] (high card Ace - King+Jack kicker)
+MaverickLexx collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Kh 4s 9c 8s 5c]
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 showed [Ad Tc] and lost with high card Ace
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) showed [Jh As] and won ($1.10) with high card Ace
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944063953:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:28:24 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($17.23 in chips) 
+Seat 2: JimSON.34 ($44.51 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 5: MaverickLexx ($17.30 in chips) 
+Seat 6: SchuhaRt71 ($17.11 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+Tony Zhukov: sits out 
+*** HOLE CARDS ***
+bone60: folds 
+MaverickLexx: raises $0.14 to $0.24
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.14
+*** FLOP *** [As 7h Jh]
+JimSON.34: checks 
+MaverickLexx: bets $0.26
+JimSON.34: calls $0.26
+*** TURN *** [As 7h Jh] [8d]
+JimSON.34: checks 
+MaverickLexx: bets $0.67
+JimSON.34: raises $0.67 to $1.34
+MaverickLexx: raises $2.68 to $4.02
+JimSON.34: folds 
+Uncalled bet ($2.68) returned to MaverickLexx
+MaverickLexx collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.73 | Rake $0.17 
+Board [As 7h Jh 8d]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded on the Turn
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 5: MaverickLexx collected ($3.56)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944080404:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:17 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.18 in chips) 
+Seat 2: JimSON.34 ($42.67 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+Seat 6: SchuhaRt71 ($17.11 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+Tony Zhukov: sits out 
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.05) returned to bone60
+bone60 collected $0.10 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: bone60 (big blind) collected ($0.10)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944083458:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:29:27 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.18 in chips) 
+Seat 2: JimSON.34 ($42.62 in chips) 
+Seat 3: bone60 ($7.69 in chips) 
+Seat 4: Tony Zhukov ($10 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+Seat 6: SchuhaRt71 ($17.11 in chips) 
+bone60: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: raises $0.40 to $0.50
+bone60: folds 
+Tony Zhukov: calls $0.40
+*** FLOP *** [6h 9s Qh]
+Tony Zhukov: checks 
+JimSON.34: checks 
+*** TURN *** [6h 9s Qh] [3d]
+Tony Zhukov: bets $0.85
+JimSON.34: calls $0.85
+*** RIVER *** [6h 9s Qh 3d] [As]
+Tony Zhukov: bets $2.20
+JimSON.34: raises $39.07 to $41.27 and is all-in
+Tony Zhukov: calls $6.45 and is all-in
+Uncalled bet ($32.62) returned to JimSON.34
+*** SHOW DOWN ***
+JimSON.34: shows [Ah Jh] (a pair of Aces)
+Tony Zhukov: shows [9c 9d] (three of a kind, Nines)
+Tony Zhukov collected $19.15 from pot
+*** SUMMARY ***
+Total pot $20.05 | Rake $0.90 
+Board [6h 9s Qh 3d As]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) showed [Ah Jh] and lost with a pair of Aces
+Seat 3: bone60 (small blind) folded before Flop
+Seat 4: Tony Zhukov (big blind) showed [9c 9d] and won ($19.15) with three of a kind, Nines
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944103412:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:30:31 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($17.18 in chips) 
+Seat 2: JimSON.34 ($32.62 in chips) 
+Seat 3: bone60 ($7.64 in chips) 
+Seat 4: Tony Zhukov ($19.15 in chips) 
+Seat 6: SchuhaRt71 ($17.11 in chips) 
+Tony Zhukov: posts small blind $0.05
+MaverickLexx: is sitting out 
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: calls $0.10
+bone60: calls $0.10
+Tony Zhukov: raises $0.35 to $0.45
+SchuhaRt71: calls $0.35
+JimSON.34: calls $0.35
+bone60: calls $0.35
+*** FLOP *** [3c Ks Jd]
+Tony Zhukov: checks 
+SchuhaRt71: checks 
+JimSON.34: checks 
+bone60: checks 
+*** TURN *** [3c Ks Jd] [9c]
+Tony Zhukov: checks 
+SchuhaRt71: bets $0.80
+JimSON.34: folds 
+bone60: folds 
+Tony Zhukov: folds 
+Uncalled bet ($0.80) returned to SchuhaRt71
+SchuhaRt71 collected $1.72 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [3c Ks Jd 9c]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded on the Turn
+Seat 3: bone60 (button) folded on the Turn
+Seat 4: Tony Zhukov (small blind) folded on the Turn
+Seat 6: SchuhaRt71 (big blind) collected ($1.72)
+
+
+
+PokerStars Hand #222944123215:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:31:28 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.18 in chips) 
+Seat 2: JimSON.34 ($32.17 in chips) 
+Seat 3: bone60 ($7.19 in chips) 
+Seat 4: Tony Zhukov ($18.70 in chips) 
+Seat 6: SchuhaRt71 ($18.38 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+bone60: folds 
+Tony Zhukov: folds 
+SchuhaRt71: calls $0.05
+fuzinger: checks 
+*** FLOP *** [8h Qd Ts]
+SchuhaRt71: checks 
+fuzinger: checks 
+JimSON.34: bets $0.29
+SchuhaRt71: calls $0.29
+fuzinger: folds 
+*** TURN *** [8h Qd Ts] [7s]
+SchuhaRt71: bets $0.40
+JimSON.34: calls $0.40
+*** RIVER *** [8h Qd Ts 7s] [2h]
+SchuhaRt71: checks 
+JimSON.34: checks 
+*** SHOW DOWN ***
+SchuhaRt71: shows [As Th] (a pair of Tens)
+JimSON.34: mucks hand 
+SchuhaRt71 collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.08 
+Board [8h Qd Ts 7s 2h]
+Seat 1: fuzinger (big blind) folded on the Flop
+Seat 2: JimSON.34 mucked
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) showed [As Th] and won ($1.60) with a pair of Tens
+
+
+
+PokerStars Hand #222944136477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:11 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($17.08 in chips) 
+Seat 2: JimSON.34 ($31.38 in chips) 
+Seat 3: bone60 ($7.19 in chips) 
+Seat 4: Tony Zhukov ($18.70 in chips) 
+Seat 6: SchuhaRt71 ($19.19 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+Tony Zhukov: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+Uncalled bet ($0.20) returned to Tony Zhukov
+Tony Zhukov collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded before Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov collected ($0.25)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944140750:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:32:25 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.03 in chips) 
+Seat 2: JimSON.34 ($31.28 in chips) 
+Seat 3: bone60 ($7.19 in chips) 
+Seat 4: Tony Zhukov ($18.85 in chips) 
+Seat 6: SchuhaRt71 ($19.19 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: calls $0.05
+bone60: checks 
+*** FLOP *** [9d 6h Js]
+JimSON.34: checks 
+bone60: bets $0.10
+JimSON.34: calls $0.10
+*** TURN *** [9d 6h Js] [Jh]
+JimSON.34: checks 
+bone60: checks 
+*** RIVER *** [9d 6h Js Jh] [7s]
+JimSON.34: bets $0.38
+bone60: folds 
+Uncalled bet ($0.38) returned to JimSON.34
+JimSON.34 collected $0.38 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [9d 6h Js Jh 7s]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) collected ($0.38)
+Seat 3: bone60 (big blind) folded on the River
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944151206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:00 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.03 in chips) 
+Seat 2: JimSON.34 ($31.46 in chips) 
+Seat 4: Tony Zhukov ($18.85 in chips) 
+Seat 6: SchuhaRt71 ($19.19 in chips) 
+Tony Zhukov: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: calls $0.10
+Tony Zhukov: raises $0.30 to $0.40
+SchuhaRt71: folds 
+JimSON.34: folds 
+Uncalled bet ($0.30) returned to Tony Zhukov
+Tony Zhukov collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop
+Seat 4: Tony Zhukov (small blind) collected ($0.30)
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944155327:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:13 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.03 in chips) 
+Seat 2: JimSON.34 ($31.36 in chips) 
+Seat 4: Tony Zhukov ($19.05 in chips) 
+Seat 6: SchuhaRt71 ($19.09 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+Tony Zhukov: folds 
+SchuhaRt71: raises $0.20 to $0.30
+fuzinger: folds 
+Uncalled bet ($0.20) returned to SchuhaRt71
+SchuhaRt71 collected $0.20 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944158478:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:23 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($16.93 in chips) 
+Seat 2: JimSON.34 ($31.36 in chips) 
+Seat 4: Tony Zhukov ($19.05 in chips) 
+Seat 6: SchuhaRt71 ($19.19 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to JimSON.34
+JimSON.34 collected $0.10 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) collected ($0.10)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944162554:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:37 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($16.88 in chips) 
+Seat 2: JimSON.34 ($31.41 in chips) 
+Seat 4: Tony Zhukov ($19.05 in chips) 
+Seat 6: SchuhaRt71 ($19.19 in chips) 
+JimSON.34: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.20 to $0.30
+fuzinger: folds 
+JimSON.34: folds 
+Tony Zhukov: folds 
+Uncalled bet ($0.20) returned to SchuhaRt71
+SchuhaRt71 collected $0.25 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 4: Tony Zhukov (big blind) folded before Flop
+Seat 6: SchuhaRt71 collected ($0.25)
+
+
+
+PokerStars Hand #222944164750:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:44 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($16.88 in chips) 
+Seat 2: JimSON.34 ($31.36 in chips) 
+Seat 4: Tony Zhukov ($18.95 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+Tony Zhukov: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+JimSON.34: folds 
+Tony Zhukov: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944166357:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:33:49 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($16.88 in chips) 
+Seat 2: JimSON.34 ($31.36 in chips) 
+Seat 4: Tony Zhukov ($18.90 in chips) 
+Seat 6: SchuhaRt71 ($19.39 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: folds 
+Tony Zhukov: raises $0.15 to $0.25
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.15) returned to Tony Zhukov
+Tony Zhukov collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) collected ($0.25)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944172032:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:07 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($16.78 in chips) 
+Seat 2: JimSON.34 ($31.36 in chips) 
+Seat 4: Tony Zhukov ($19.05 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+bone60: sits out 
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to JimSON.34
+JimSON.34 collected $0.10 from pot
+JimSON.34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) collected ($0.10)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944174949:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:17 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($16.73 in chips) 
+Seat 2: JimSON.34 ($31.41 in chips) 
+Seat 3: bone60 ($6.99 in chips) 
+Seat 4: Tony Zhukov ($19.05 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: calls $0.30
+bone60: folds 
+*** FLOP *** [6c 9h Jh]
+JimSON.34: checks 
+fuzinger: bets $0.38
+JimSON.34: folds 
+Uncalled bet ($0.38) returned to fuzinger
+fuzinger collected $0.76 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [6c 9h Jh]
+Seat 1: fuzinger (button) collected ($0.76)
+Seat 2: JimSON.34 (small blind) folded on the Flop
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944182778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:34:43 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($17.14 in chips) 
+Seat 2: JimSON.34 ($31.06 in chips) 
+Seat 3: bone60 ($6.89 in chips) 
+Seat 4: Tony Zhukov ($19.05 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+bone60: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+MaverickLexx: sits out 
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+bone60: calls $0.05
+Tony Zhukov: checks 
+*** FLOP *** [4c Ad Kh]
+bone60: checks 
+Tony Zhukov: checks 
+*** TURN *** [4c Ad Kh] [4s]
+bone60: checks 
+Tony Zhukov: checks 
+*** RIVER *** [4c Ad Kh 4s] [9h]
+bone60: checks 
+Tony Zhukov: checks 
+*** SHOW DOWN ***
+bone60: shows [5d 9d] (two pair, Nines and Fours)
+Tony Zhukov: mucks hand 
+bone60 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c Ad Kh 4s 9h]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) showed [5d 9d] and won ($0.19) with two pair, Nines and Fours
+Seat 4: Tony Zhukov (big blind) mucked
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944195187:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:13 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($17.14 in chips) 
+Seat 2: JimSON.34 ($31.06 in chips) 
+Seat 3: bone60 ($6.98 in chips) 
+Seat 4: Tony Zhukov ($18.95 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+Tony Zhukov: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+JimSON.34: folds 
+bone60: folds 
+Tony Zhukov: folds 
+Uncalled bet ($0.05) returned to MaverickLexx
+MaverickLexx collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: JimSON.34 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) collected ($0.10)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944198925:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:35:26 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($17.14 in chips) 
+Seat 2: JimSON.34 ($31.06 in chips) 
+Seat 3: bone60 ($6.98 in chips) 
+Seat 4: Tony Zhukov ($18.90 in chips) 
+Seat 5: MaverickLexx ($19.07 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: is sitting out 
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+JimSON.34: calls $0.10
+bone60 has timed out
+bone60: folds 
+Tony Zhukov: raises $0.30 to $0.40
+MaverickLexx: folds 
+fuzinger: calls $0.30
+JimSON.34: calls $0.30
+*** FLOP *** [9h 3h Kd]
+fuzinger: checks 
+JimSON.34: checks 
+Tony Zhukov: checks 
+*** TURN *** [9h 3h Kd] [8d]
+fuzinger: bets $1.19
+JimSON.34: folds 
+Tony Zhukov: folds 
+Uncalled bet ($1.19) returned to fuzinger
+fuzinger collected $1.19 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9h 3h Kd 8d]
+Seat 1: fuzinger (big blind) collected ($1.19)
+Seat 2: JimSON.34 folded on the Turn
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded on the Turn
+Seat 5: MaverickLexx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944213985:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:15 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($17.93 in chips) 
+Seat 2: JimSON.34 ($30.66 in chips) 
+Seat 3: bone60 ($6.98 in chips) 
+Seat 4: Tony Zhukov ($18.50 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+fuzinger: posts small blind $0.05
+JimSON.34: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: raises $0.20 to $0.30
+Tony Zhukov: folds 
+MaverickLexx: folds 
+fuzinger: folds 
+JimSON.34: calls $0.20
+*** FLOP *** [Qh 3h Ac]
+JimSON.34: checks 
+bone60: bets $0.40
+JimSON.34: folds 
+Uncalled bet ($0.40) returned to bone60
+bone60 collected $0.62 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qh 3h Ac]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: JimSON.34 (big blind) folded on the Flop
+Seat 3: bone60 collected ($0.62)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944221199:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:39 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($17.88 in chips) 
+Seat 2: JimSON.34 ($30.36 in chips) 
+Seat 3: bone60 ($7.30 in chips) 
+Seat 4: Tony Zhukov ($18.50 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+JimSON.34: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+MaverickLexx: folds 
+fuzinger: raises $0.25 to $0.35
+JimSON.34: folds 
+bone60: folds 
+Uncalled bet ($0.25) returned to fuzinger
+JimSON.34 leaves the table
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (button) collected ($0.25)
+Seat 2: JimSON.34 (small blind) folded before Flop
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944226404:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:36:57 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($18.03 in chips) 
+Seat 3: bone60 ($7.20 in chips) 
+Seat 4: Tony Zhukov ($18.50 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+Tony Zhukov: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+bone60: raises $0.20 to $0.30
+Tony Zhukov: folds 
+cgurl72 joins the table at seat #2 
+MaverickLexx: folds 
+Uncalled bet ($0.20) returned to bone60
+bone60 collected $0.25 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 3: bone60 (button) collected ($0.25)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944233471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:20 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($18.03 in chips) 
+Seat 3: bone60 ($7.35 in chips) 
+Seat 4: Tony Zhukov ($18.45 in chips) 
+Seat 5: MaverickLexx ($18.92 in chips) 
+MaverickLexx: posts small blind $0.05
+fuzinger: posts big blind $0.10
+cgurl72: sits out 
+*** HOLE CARDS ***
+bone60: folds 
+Tony Zhukov: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (big blind) collected ($0.10)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944238239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:36 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($18.08 in chips) 
+Seat 2: cgurl72 ($10 in chips) 
+Seat 3: bone60 ($7.35 in chips) 
+Seat 4: Tony Zhukov ($18.45 in chips) 
+Seat 5: MaverickLexx ($18.87 in chips) 
+fuzinger: posts small blind $0.05
+cgurl72: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+Tony Zhukov: folds 
+MaverickLexx: raises $0.14 to $0.24
+fuzinger: folds 
+cgurl72: folds 
+Uncalled bet ($0.14) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: cgurl72 (big blind) folded before Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) collected ($0.25)
+
+
+
+PokerStars Hand #222944242956:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:37:52 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($18.03 in chips) 
+Seat 2: cgurl72 ($9.90 in chips) 
+Seat 3: bone60 ($7.35 in chips) 
+Seat 4: Tony Zhukov ($18.45 in chips) 
+Seat 5: MaverickLexx ($19.02 in chips) 
+cgurl72: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+MaverickLexx: raises $0.14 to $0.24
+fuzinger: folds 
+cgurl72: folds 
+Tony Zhukov leaves the table
+bone60: folds 
+Uncalled bet ($0.14) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: cgurl72 (small blind) folded before Flop
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: MaverickLexx collected ($0.25)
+
+
+
+PokerStars Hand #222944248180:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:09 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($18.03 in chips) 
+Seat 2: cgurl72 ($9.85 in chips) 
+Seat 3: bone60 ($7.25 in chips) 
+Seat 5: MaverickLexx ($19.17 in chips) 
+bone60: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+cgurl72: folds 
+bone60: calls $0.05
+MaverickLexx: checks 
+*** FLOP *** [Ts Qh 3h]
+kisicita joins the table at seat #4 
+bone60: checks 
+MaverickLexx: bets $0.14
+bone60: calls $0.14
+*** TURN *** [Ts Qh 3h] [5c]
+bone60: checks 
+MaverickLexx: bets $0.31
+bone60: calls $0.31
+*** RIVER *** [Ts Qh 3h 5c] [4d]
+bone60: checks 
+MaverickLexx: bets $0.70
+bone60: calls $0.70
+*** SHOW DOWN ***
+MaverickLexx: shows [5h 4h] (two pair, Fives and Fours)
+bone60: mucks hand 
+MaverickLexx collected $2.39 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11 
+Board [Ts Qh 3h 5c 4d]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: cgurl72 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) mucked
+Seat 5: MaverickLexx (big blind) showed [5h 4h] and won ($2.39) with two pair, Fives and Fours
+
+
+
+PokerStars Hand #222944260182:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:38:49 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($18.03 in chips) 
+Seat 2: cgurl72 ($9.85 in chips) 
+Seat 3: bone60 ($6 in chips) 
+Seat 5: MaverickLexx ($20.31 in chips) 
+MaverickLexx: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+cgurl72: raises $0.10 to $0.20
+bone60: folds 
+MaverickLexx: folds 
+fuzinger: calls $0.10
+*** FLOP *** [Jc Ah Td]
+fuzinger: checks 
+cgurl72: bets $0.20
+fuzinger: calls $0.20
+*** TURN *** [Jc Ah Td] [6c]
+fuzinger: checks 
+cgurl72: bets $0.20
+fuzinger: raises $0.40 to $0.60
+cgurl72: calls $0.40
+*** RIVER *** [Jc Ah Td 6c] [7h]
+fuzinger: bets $0.98
+cgurl72: calls $0.98
+*** SHOW DOWN ***
+fuzinger: shows [Th Jd] (two pair, Jacks and Tens)
+cgurl72: mucks hand 
+fuzinger collected $3.83 from pot
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.18 
+Board [Jc Ah Td 6c 7h]
+Seat 1: fuzinger (big blind) showed [Th Jd] and won ($3.83) with two pair, Jacks and Tens
+Seat 2: cgurl72 mucked
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944272884:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:39:31 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($19.88 in chips) 
+Seat 2: cgurl72 ($7.87 in chips) 
+Seat 3: bone60 ($6 in chips) 
+Seat 4: kisicita ($4 in chips) 
+Seat 5: MaverickLexx ($20.26 in chips) 
+fuzinger: posts small blind $0.05
+cgurl72: posts big blind $0.10
+kisicita: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+kisicita: checks 
+MaverickLexx: folds 
+fuzinger: folds 
+cgurl72: checks 
+*** FLOP *** [8s Th Jc]
+cgurl72: checks 
+kisicita: checks 
+*** TURN *** [8s Th Jc] [2s]
+cgurl72: bets $0.10
+kisicita: calls $0.10
+*** RIVER *** [8s Th Jc 2s] [9h]
+cgurl72: bets $0.10
+kisicita: folds 
+Uncalled bet ($0.10) returned to cgurl72
+cgurl72 collected $0.43 from pot
+cgurl72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8s Th Jc 2s 9h]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: cgurl72 (big blind) collected ($0.43)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita folded on the River
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944283340:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:40:05 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($19.83 in chips) 
+Seat 2: cgurl72 ($8.10 in chips) 
+Seat 3: bone60 ($6 in chips) 
+Seat 4: kisicita ($3.80 in chips) 
+Seat 5: MaverickLexx ($20.26 in chips) 
+cgurl72: posts small blind $0.05
+bone60: posts big blind $0.10
+SchuhaRt71: sits out 
+*** HOLE CARDS ***
+kisicita: folds 
+MaverickLexx: raises $0.14 to $0.24
+fuzinger: folds 
+cgurl72: raises $0.26 to $0.50
+bone60: folds 
+MaverickLexx: calls $0.26
+*** FLOP *** [7s 8c Jh]
+cgurl72: bets $7.60 and is all-in
+MaverickLexx: folds 
+Uncalled bet ($7.60) returned to cgurl72
+cgurl72 collected $1.05 from pot
+cgurl72: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [7s 8c Jh]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: cgurl72 (small blind) collected ($1.05)
+Seat 3: bone60 (big blind) folded before Flop
+Seat 4: kisicita folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded on the Flop
+
+
+
+PokerStars Hand #222944290519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:40:29 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($19.83 in chips) 
+Seat 2: cgurl72 ($8.65 in chips) 
+Seat 3: bone60 ($5.90 in chips) 
+Seat 4: kisicita ($3.80 in chips) 
+Seat 5: MaverickLexx ($19.76 in chips) 
+bone60: posts small blind $0.05
+kisicita: posts big blind $0.10
+SchuhaRt71: sits out 
+*** HOLE CARDS ***
+MaverickLexx: folds 
+fuzinger: folds 
+cgurl72: raises $0.10 to $0.20
+bone60: folds 
+kisicita: calls $0.10
+*** FLOP *** [Js Qd 7h]
+kisicita: checks 
+cgurl72: bets $0.10
+kisicita: calls $0.10
+*** TURN *** [Js Qd 7h] [Qs]
+kisicita: checks 
+cgurl72: bets $0.10
+kisicita: calls $0.10
+*** RIVER *** [Js Qd 7h Qs] [Ks]
+kisicita: bets $3.40 and is all-in
+cgurl72: calls $3.40
+*** SHOW DOWN ***
+kisicita: shows [6s Jc] (two pair, Queens and Jacks)
+cgurl72: shows [Ad Th] (a straight, Ten to Ace)
+cgurl72 collected $7.31 from pot
+*** SUMMARY ***
+Total pot $7.65 | Rake $0.34 
+Board [Js Qd 7h Qs Ks]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: cgurl72 (button) showed [Ad Th] and won ($7.31) with a straight, Ten to Ace
+Seat 3: bone60 (small blind) folded before Flop
+Seat 4: kisicita (big blind) showed [6s Jc] and lost with two pair, Queens and Jacks
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944308981:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:09 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($19.83 in chips) 
+Seat 2: cgurl72 ($12.16 in chips) 
+Seat 3: bone60 ($5.85 in chips) 
+Seat 5: MaverickLexx ($19.76 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+cgurl72: folds 
+bone60: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: cgurl72 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944311915:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:19 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($19.83 in chips) 
+Seat 2: cgurl72 ($12.16 in chips) 
+Seat 3: bone60 ($5.85 in chips) 
+Seat 5: MaverickLexx ($19.71 in chips) 
+Seat 6: SchuhaRt71 ($19.39 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+kisicita: sits out 
+*** HOLE CARDS ***
+cgurl72: folds 
+bone60: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $0.15 to $0.25
+fuzinger: folds 
+Uncalled bet ($0.15) returned to SchuhaRt71
+SchuhaRt71 collected $0.20 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fuzinger (big blind) folded before Flop
+Seat 2: cgurl72 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944315089:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:29 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($19.73 in chips) 
+Seat 2: cgurl72 ($12.16 in chips) 
+Seat 3: bone60 ($5.85 in chips) 
+Seat 4: kisicita ($4.21 in chips) 
+Seat 5: MaverickLexx ($19.71 in chips) 
+Seat 6: SchuhaRt71 ($19.49 in chips) 
+fuzinger: posts small blind $0.05
+cgurl72: posts big blind $0.10
+kisicita: posts small blind $0.05
+*** HOLE CARDS ***
+bone60: folds 
+kisicita: folds 
+MaverickLexx: raises $0.30 to $0.40
+SchuhaRt71: folds 
+fuzinger: folds 
+cgurl72: calls $0.30
+*** FLOP *** [6c Kh 6s]
+cgurl72: bets $0.40
+MaverickLexx: folds 
+Uncalled bet ($0.40) returned to cgurl72
+cgurl72 collected $0.86 from pot
+cgurl72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [6c Kh 6s]
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: cgurl72 (big blind) collected ($0.86)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded on the Flop
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944323589:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:41:57 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 2: cgurl72 ($12.62 in chips) 
+Seat 3: bone60 ($5.85 in chips) 
+Seat 4: kisicita ($4.16 in chips) 
+Seat 5: MaverickLexx ($19.31 in chips) 
+Seat 6: SchuhaRt71 ($19.49 in chips) 
+cgurl72: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+kisicita: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+cgurl72: calls $0.05
+bone60: checks 
+*** FLOP *** [4h Kc 8h]
+cgurl72: bets $0.10
+bone60: folds 
+kisicita: calls $0.10
+*** TURN *** [4h Kc 8h] [Qd]
+cgurl72: bets $0.10
+kisicita: calls $0.10
+*** RIVER *** [4h Kc 8h Qd] [4s]
+cgurl72: bets $0.10
+kisicita: folds 
+Uncalled bet ($0.10) returned to cgurl72
+cgurl72 collected $0.67 from pot
+cgurl72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [4h Kc 8h Qd 4s]
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: cgurl72 (small blind) collected ($0.67)
+Seat 3: bone60 (big blind) folded on the Flop
+Seat 4: kisicita folded on the River
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944335703:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:42:38 ET
+Table 'Aletta III' 6-max Seat #2 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 2: cgurl72 ($12.99 in chips) 
+Seat 3: bone60 ($5.75 in chips) 
+Seat 4: kisicita ($3.86 in chips) 
+Seat 5: MaverickLexx ($19.31 in chips) 
+Seat 6: SchuhaRt71 ($19.49 in chips) 
+bone60: posts small blind $0.05
+kisicita: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+cgurl72: folds 
+bone60: folds 
+Uncalled bet ($0.05) returned to kisicita
+kisicita collected $0.10 from pot
+kisicita: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: cgurl72 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) folded before Flop
+Seat 4: kisicita (big blind) collected ($0.10)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944341622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:42:58 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 2: cgurl72 ($12.99 in chips) 
+Seat 3: bone60 ($5.70 in chips) 
+Seat 4: kisicita ($3.91 in chips) 
+Seat 5: MaverickLexx ($19.31 in chips) 
+Seat 6: SchuhaRt71 ($19.49 in chips) 
+kisicita: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: folds 
+cgurl72: folds 
+bone60: folds 
+kisicita: calls $0.05
+MaverickLexx: checks 
+*** FLOP *** [2c Jc 9h]
+kisicita: checks 
+MaverickLexx: checks 
+*** TURN *** [2c Jc 9h] [9s]
+kisicita: checks 
+MaverickLexx: bets $0.13
+kisicita: calls $0.13
+*** RIVER *** [2c Jc 9h 9s] [8h]
+kisicita: checks 
+MaverickLexx: bets $0.20
+kisicita: calls $0.20
+*** SHOW DOWN ***
+MaverickLexx: shows [7c 3h] (a pair of Nines)
+kisicita: shows [Jh 5h] (two pair, Jacks and Nines)
+kisicita collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.04 
+Board [2c Jc 9h 9s 8h]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: cgurl72 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: kisicita (small blind) showed [Jh 5h] and won ($0.82) with two pair, Jacks and Nines
+Seat 5: MaverickLexx (big blind) showed [7c 3h] and lost with a pair of Nines
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944354819:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:43:42 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 2: cgurl72 ($12.99 in chips) 
+Seat 3: bone60 ($5.70 in chips) 
+Seat 4: kisicita ($4.30 in chips) 
+Seat 5: MaverickLexx ($18.88 in chips) 
+Seat 6: SchuhaRt71 ($19.49 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+fuzinger: folds 
+cgurl72: calls $0.10
+bone60: folds 
+kisicita: folds 
+MaverickLexx: calls $0.05
+SchuhaRt71: checks 
+*** FLOP *** [8h 3h Ad]
+MaverickLexx: checks 
+SchuhaRt71: checks 
+cgurl72: bets $0.10
+MaverickLexx: calls $0.10
+SchuhaRt71: folds 
+*** TURN *** [8h 3h Ad] [8c]
+MaverickLexx: checks 
+cgurl72: bets $0.10
+MaverickLexx: calls $0.10
+*** RIVER *** [8h 3h Ad 8c] [5c]
+MaverickLexx: checks 
+cgurl72: bets $0.10
+MaverickLexx: calls $0.10
+*** SHOW DOWN ***
+cgurl72: shows [2h Ac] (two pair, Aces and Eights)
+MaverickLexx: mucks hand 
+cgurl72 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [8h 3h Ad 8c 5c]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 2: cgurl72 showed [2h Ac] and won ($0.86) with two pair, Aces and Eights
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) mucked
+Seat 6: SchuhaRt71 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222944367372:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:24 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 2: cgurl72 ($13.45 in chips) 
+Seat 3: bone60 ($5.70 in chips) 
+Seat 4: kisicita ($4.30 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.39 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+*** HOLE CARDS ***
+cgurl72: folds 
+bone60: folds 
+kisicita: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+Uncalled bet ($0.05) returned to fuzinger
+fuzinger collected $0.10 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (big blind) collected ($0.10)
+Seat 2: cgurl72 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944370923:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:36 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($19.73 in chips) 
+Seat 2: cgurl72 ($13.45 in chips) 
+Seat 3: bone60 ($5.70 in chips) 
+Seat 4: kisicita ($4.30 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+fuzinger: posts small blind $0.05
+cgurl72: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+kisicita has timed out
+kisicita: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to cgurl72
+cgurl72 collected $0.10 from pot
+cgurl72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: cgurl72 (big blind) collected ($0.10)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944376813:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:44:56 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 2: cgurl72 ($13.50 in chips) 
+Seat 3: bone60 ($5.70 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+cgurl72: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: raises $0.20 to $0.30
+SchuhaRt71: folds 
+fuzinger: folds 
+cgurl72: folds 
+bone60: folds 
+Uncalled bet ($0.20) returned to MaverickLexx
+MaverickLexx collected $0.25 from pot
+cgurl72 leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger (button) folded before Flop (didn't bet)
+Seat 2: cgurl72 (small blind) folded before Flop
+Seat 3: bone60 (big blind) folded before Flop
+Seat 5: MaverickLexx collected ($0.25)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944380652:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:08 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: fuzinger ($19.68 in chips) 
+Seat 3: bone60 ($5.60 in chips) 
+Seat 4: kisicita ($4.30 in chips) 
+Seat 5: MaverickLexx ($18.63 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+kisicita: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+Nasser51450 joins the table at seat #2 
+bone60: folds 
+kisicita: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.25) returned to fuzinger
+fuzinger collected $0.25 from pot
+fuzinger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: fuzinger collected ($0.25)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 4: kisicita (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944386358:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:45:27 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 1: fuzinger ($19.83 in chips) 
+Seat 3: bone60 ($5.60 in chips) 
+Seat 4: kisicita ($4.25 in chips) 
+Seat 5: MaverickLexx ($18.53 in chips) 
+Seat 6: SchuhaRt71 ($19.34 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+Nasser51450: sits out 
+*** HOLE CARDS ***
+fuzinger: folds 
+bone60: folds 
+Nasser51450 is disconnected 
+kisicita: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: checks 
+*** FLOP *** [2d Kh Ac]
+SchuhaRt71: checks 
+kisicita: checks 
+*** TURN *** [2d Kh Ac] [Th]
+SchuhaRt71: bets $0.18
+kisicita: folds 
+Uncalled bet ($0.18) returned to SchuhaRt71
+SchuhaRt71 collected $0.24 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2d Kh Ac Th]
+Seat 1: fuzinger folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita (button) folded on the Turn
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #222944399224:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:46:11 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: fuzinger ($19.83 in chips) 
+Seat 3: bone60 ($5.60 in chips) 
+Seat 4: kisicita ($4.15 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.48 in chips) 
+SchuhaRt71: posts small blind $0.05
+fuzinger: posts big blind $0.10
+Nasser51450: sits out 
+*** HOLE CARDS ***
+bone60: folds 
+kisicita: calls $0.10
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: raises $0.25 to $0.35
+kisicita: calls $0.25
+*** FLOP *** [2c 6d 4h]
+fuzinger: bets $0.72
+kisicita: raises $3.08 to $3.80 and is all-in
+fuzinger: folds 
+Uncalled bet ($3.08) returned to kisicita
+kisicita collected $2.09 from pot
+kisicita: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.19 | Rake $0.10 
+Board [2c 6d 4h]
+Seat 1: fuzinger (big blind) folded on the Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita collected ($2.09)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222944411685:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 23:46:53 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: fuzinger ($18.76 in chips) 
+Seat 2: Nasser51450 ($4 in chips) 
+Seat 3: bone60 ($5.60 in chips) 
+Seat 4: kisicita ($5.17 in chips) 
+Seat 5: MaverickLexx ($18.48 in chips) 
+Seat 6: SchuhaRt71 ($19.43 in chips) 
+fuzinger: posts small blind $0.05
+Nasser51450: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+kisicita has timed out
+kisicita: folds 
+MaverickLexx: folds 
+SchuhaRt71: folds 
+fuzinger: folds 
+Uncalled bet ($0.05) returned to Nasser51450
+Nasser51450 collected $0.10 from pot
+Nasser51450: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: fuzinger (small blind) folded before Flop
+Seat 2: Nasser51450 (big blind) collected ($0.10)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: kisicita folded before Flop (didn't bet)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944629413:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:00:25 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 3: bone60 ($5.71 in chips) 
+Seat 4: i3lorca ($10.56 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($18.97 in chips) 
+i3lorca: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+arabella 33: sits out 
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.20 to $0.30
+bone60: calls $0.30
+i3lorca: calls $0.25
+MaverickLexx: folds 
+*** FLOP *** [6h 2c Kc]
+i3lorca: checks 
+SchuhaRt71: bets $0.72
+bone60: folds 
+i3lorca: folds 
+Uncalled bet ($0.72) returned to SchuhaRt71
+SchuhaRt71 collected $0.96 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6h 2c Kc]
+Seat 3: bone60 (button) folded on the Flop
+Seat 4: i3lorca (small blind) folded on the Flop
+Seat 5: MaverickLexx (big blind) folded before Flop
+Seat 6: SchuhaRt71 collected ($0.96)
+
+
+
+PokerStars Hand #222944647737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:00:58 ET
+Table 'Aletta III' 6-max Seat #4 is the button
+Seat 2: Nasser51450 ($3.60 in chips) 
+Seat 3: bone60 ($5.41 in chips) 
+Seat 4: i3lorca ($10.26 in chips) 
+Seat 5: MaverickLexx ($17.85 in chips) 
+Seat 6: SchuhaRt71 ($19.63 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+arabella 33: sits out 
+*** HOLE CARDS ***
+Nasser51450: folds 
+Nasser51450 leaves the table
+bone60: folds 
+i3lorca: folds 
+MaverickLexx: raises $0.20 to $0.30
+i3lorca leaves the table
+SchuhaRt71: folds 
+Uncalled bet ($0.20) returned to MaverickLexx
+MaverickLexx collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Nasser51450 folded before Flop (didn't bet)
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 4: i3lorca (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) collected ($0.20)
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222944654575:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:23 ET
+Table 'Aletta III' 6-max Seat #5 is the button
+Seat 1: arabella 33 ($10 in chips) 
+Seat 3: bone60 ($5.41 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($19.53 in chips) 
+SchuhaRt71: posts small blind $0.05
+arabella 33: posts big blind $0.10
+*** HOLE CARDS ***
+bone60: folds 
+MaverickLexx: folds 
+SchuhaRt71: raises $0.20 to $0.30
+arabella 33: folds 
+Uncalled bet ($0.20) returned to SchuhaRt71
+SchuhaRt71 collected $0.20 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: arabella 33 (big blind) folded before Flop
+Seat 3: bone60 folded before Flop (didn't bet)
+Seat 5: MaverickLexx (button) folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222944657419:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:33 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: arabella 33 ($10 in chips) 
+Seat 3: bone60 ($5.41 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($19.63 in chips) 
+arabella 33: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+MaverickLexx: folds 
+SchuhaRt71: folds 
+arabella 33: folds 
+Uncalled bet ($0.05) returned to bone60
+bone60 collected $0.10 from pot
+bone60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: arabella 33 (small blind) folded before Flop
+Seat 3: bone60 (big blind) collected ($0.10)
+Seat 5: MaverickLexx folded before Flop (didn't bet)
+Seat 6: SchuhaRt71 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944660925:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:46 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: arabella 33 ($10 in chips) 
+Seat 3: bone60 ($5.46 in chips) 
+Seat 5: MaverickLexx ($17.95 in chips) 
+Seat 6: SchuhaRt71 ($19.63 in chips) 
+bone60: posts small blind $0.05
+MaverickLexx: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: folds 
+arabella 33: folds 
+bone60: folds 
+Uncalled bet ($0.05) returned to MaverickLexx
+MaverickLexx collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: arabella 33 (button) folded before Flop (didn't bet)
+Seat 3: bone60 (small blind) folded before Flop
+Seat 5: MaverickLexx (big blind) collected ($0.10)
+Seat 6: SchuhaRt71 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222944663815:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:01:57 ET
+Table 'Aletta III' 6-max Seat #3 is the button
+Seat 1: arabella 33 ($10 in chips) 
+Seat 3: bone60 ($5.41 in chips) 
+Seat 5: MaverickLexx ($18 in chips) 
+Seat 6: SchuhaRt71 ($19.63 in chips) 
+MaverickLexx: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+bone60: folds 
+MaverickLexx: folds 
+Uncalled bet ($0.05) returned to SchuhaRt71
+SchuhaRt71 collected $0.10 from pot
+SchuhaRt71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: arabella 33 folded before Flop (didn't bet)
+Seat 3: bone60 (button) folded before Flop (didn't bet)
+Seat 5: MaverickLexx (small blind) folded before Flop
+Seat 6: SchuhaRt71 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222944666298:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:02:06 ET
+Table 'Aletta III' 6-max Seat #6 is the button
+Seat 1: arabella 33 ($10 in chips) 
+Seat 3: bone60 ($5.41 in chips) 
+Seat 6: SchuhaRt71 ($19.68 in chips) 
+MaverickLexx leaves the table
+arabella 33: posts small blind $0.05
+bone60: posts big blind $0.10
+*** HOLE CARDS ***
+SchuhaRt71: raises $0.15 to $0.25
+arabella 33: raises $0.60 to $0.85
+bone60: folds 
+SchuhaRt71: calls $0.60
+*** FLOP *** [Td 4c 2s]
+bone60 leaves the table
+arabella 33: bets $0.86
+SchuhaRt71: raises $0.99 to $1.85
+arabella 33: calls $0.99
+*** TURN *** [Td 4c 2s] [Ks]
+arabella 33: bets $2.63
+SchuhaRt71: folds 
+Uncalled bet ($2.63) returned to arabella 33
+arabella 33 collected $5.25 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [Td 4c 2s Ks]
+Seat 1: arabella 33 (small blind) collected ($5.25)
+Seat 3: bone60 (big blind) folded before Flop
+Seat 6: SchuhaRt71 (button) folded on the Turn
+
+
+
+PokerStars Hand #222944678116:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 0:02:48 ET
+Table 'Aletta III' 6-max Seat #1 is the button
+Seat 1: arabella 33 ($12.55 in chips) 
+Seat 6: SchuhaRt71 ($16.98 in chips) 
+arabella 33: posts small blind $0.05
+SchuhaRt71: posts big blind $0.10
+*** HOLE CARDS ***
+arabella 33: raises $0.10 to $0.20
+SchuhaRt71: folds 
+Uncalled bet ($0.10) returned to arabella 33
+arabella 33 collected $0.20 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: arabella 33 (button) (small blind) collected ($0.20)
+Seat 6: SchuhaRt71 (big blind) folded before Flop
+
+
+

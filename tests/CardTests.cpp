@@ -90,9 +90,33 @@ TEST_F(CardTests, StreamTest){
     ASSERT_STREQ(os.str().c_str(), expected.c_str());
 }
 
+class CardFactoryTests : public ::testing::Test {
+public:
+    CardFactoryTests() = default;
+
+    void checkCorrectCardIsCreated(std::string input, int rank, std::string suit){
+        ICard* card = CardFactory(input);
+        ASSERT_EQ(rank, card->getRank());
+        ASSERT_STREQ(suit.c_str(), card->getSuit().c_str());
+    }
+};
+
+TEST_F(CardFactoryTests, CheckAceSpadeUpper){
+    checkCorrectCardIsCreated("AS", 14, "S");
+}
+
+TEST_F(CardFactoryTests, CheckAceSpadelower){
+    checkCorrectCardIsCreated("As", 14, "S");
+}
 
 
+TEST_F(CardFactoryTests, Check4DiamondUpper){
+    checkCorrectCardIsCreated("4D", 4, "D");
+}
 
+TEST_F(CardFactoryTests, Check4DiamondLower){
+    checkCorrectCardIsCreated("4d", 4, "D");
+}
 
 
 

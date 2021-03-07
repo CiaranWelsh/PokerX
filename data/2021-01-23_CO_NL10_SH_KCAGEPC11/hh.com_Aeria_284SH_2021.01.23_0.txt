@@ -1,0 +1,4487 @@
+﻿PokerStars Hand #222978248985:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:41:25 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€24.27 in chips) 
+Seat 4: Tony Zhukov (€10.77 in chips) 
+Seat 5: amraith (€15.10 in chips) 
+Tony Zhukov: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: calls €0.10
+Tony Zhukov: folds 
+amraith: checks 
+*** FLOP *** [9d 2d Kc]
+amraith: checks 
+MR.PATJEW: checks 
+*** TURN *** [9d 2d Kc] [Ac]
+amraith: checks 
+MR.PATJEW: checks 
+*** RIVER *** [9d 2d Kc Ac] [3h]
+amraith: checks 
+MR.PATJEW: bets €0.10
+amraith: folds 
+Uncalled bet (€0.10) returned to MR.PATJEW
+MR.PATJEW collected €0.24 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [9d 2d Kc Ac 3h]
+Seat 3: MR.PATJEW (button) collected (€0.24)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: amraith (big blind) folded on the River
+
+
+
+PokerStars Hand #222978284003:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:42:06 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€24.41 in chips) 
+Seat 4: Tony Zhukov (€10.72 in chips) 
+Seat 5: amraith (€15 in chips) 
+amraith: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+amraith: raises €0.15 to €0.25
+MR.PATJEW: folds 
+Uncalled bet (€0.15) returned to amraith
+amraith collected €0.20 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) collected (€0.20)
+
+
+
+PokerStars Hand #222978290717:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:42:16 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 3: MR.PATJEW (€24.31 in chips) 
+Seat 4: Tony Zhukov (€10.72 in chips) 
+Seat 5: amraith (€15.10 in chips) 
+MR.PATJEW: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+electrobox leaves the table
+MR.PATJEW: calls €0.05
+Tony Zhukov: checks 
+*** FLOP *** [Ks Qc 2c]
+MR.PATJEW: checks 
+Tony Zhukov: checks 
+*** TURN *** [Ks Qc 2c] [Kd]
+MR.PATJEW: checks 
+Tony Zhukov: bets €0.38
+MR.PATJEW: calls €0.38
+*** RIVER *** [Ks Qc 2c Kd] [5c]
+MR.PATJEW: checks 
+Tony Zhukov: checks 
+*** SHOW DOWN ***
+MR.PATJEW: shows [6s Ac] (a pair of Kings)
+Tony Zhukov: shows [9h Qd] (two pair, Kings and Queens)
+Tony Zhukov collected €0.92 from pot
+*** SUMMARY ***
+Total pot €0.96 | Rake €0.04 
+Board [Ks Qc 2c Kd 5c]
+Seat 3: MR.PATJEW (small blind) showed [6s Ac] and lost with a pair of Kings
+Seat 4: Tony Zhukov (big blind) showed [9h Qd] and won (€0.92) with two pair, Kings and Queens
+Seat 5: amraith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978327741:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:43:15 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€23.83 in chips) 
+Seat 4: Tony Zhukov (€11.16 in chips) 
+Seat 5: amraith (€15.10 in chips) 
+Tony Zhukov: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+Tony Zhukov: folds 
+Uncalled bet (€0.05) returned to amraith
+amraith collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: amraith (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222978330917:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:43:21 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€23.83 in chips) 
+Seat 4: Tony Zhukov (€11.11 in chips) 
+Seat 5: amraith (€15.15 in chips) 
+amraith: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov: raises €0.15 to €0.25
+amraith: calls €0.20
+MR.PATJEW: raises €0.75 to €1
+Hundrendret joins the table at seat #6 
+Tony Zhukov: folds 
+amraith: folds 
+Uncalled bet (€0.75) returned to MR.PATJEW
+MR.PATJEW collected €0.75 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.75)
+Seat 4: Tony Zhukov (button) folded before Flop
+Seat 5: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978341749:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:43:38 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 3: MR.PATJEW (€24.33 in chips) 
+Seat 4: Tony Zhukov (€10.86 in chips) 
+Seat 5: amraith (€14.90 in chips) 
+MR.PATJEW: posts small blind €0.05
+Tony Zhukov: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: raises €0.15 to €0.25
+MR.PATJEW: calls €0.20
+Tony Zhukov: folds 
+*** FLOP *** [6d 9d 8s]
+MR.PATJEW: checks 
+amraith: bets €0.30
+MR.PATJEW: calls €0.30
+*** TURN *** [6d 9d 8s] [2s]
+MR.PATJEW: checks 
+amraith: bets €0.70
+MR.PATJEW: calls €0.70
+*** RIVER *** [6d 9d 8s 2s] [Tc]
+MR.PATJEW: checks 
+amraith: bets €2.10
+MR.PATJEW: folds 
+Uncalled bet (€2.10) returned to amraith
+amraith collected €2.48 from pot
+*** SUMMARY ***
+Total pot €2.60 | Rake €0.12 
+Board [6d 9d 8s 2s Tc]
+Seat 3: MR.PATJEW (small blind) folded on the River
+Seat 4: Tony Zhukov (big blind) folded before Flop
+Seat 5: amraith (button) collected (€2.48)
+
+
+
+PokerStars Hand #222978369467:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:44:22 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€23.08 in chips) 
+Seat 4: Tony Zhukov (€10.76 in chips) 
+Seat 5: amraith (€16.13 in chips) 
+Tony Zhukov: posts small blind €0.05
+amraith: posts big blind €0.10
+Hundrendret: sits out 
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+Tony Zhukov: folds 
+Uncalled bet (€0.05) returned to amraith
+amraith collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: amraith (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222978374935:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:44:30 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€23.08 in chips) 
+Seat 4: Tony Zhukov (€10.71 in chips) 
+Seat 5: amraith (€16.18 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+amraith: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW has timed out
+MR.PATJEW: folds 
+Tony Zhukov: folds 
+amraith: raises €0.15 to €0.25
+Hundrendret: folds 
+Uncalled bet (€0.15) returned to amraith
+amraith collected €0.20 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) collected (€0.20)
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978388376:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:44:52 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 5: amraith (€16.28 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+Tony Zhukov: is sitting out 
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+Tony Zhukov leaves the table
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to amraith
+amraith collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 5: amraith (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978391170:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:44:56 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 5: amraith (€16.33 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+amraith: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+Uncalled bet (€0.05) returned to Hundrendret
+Hundrendret collected €0.10 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 5: amraith (button) (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222978401614:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:45:13 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€23.08 in chips) 
+Seat 6: Hundrendret (€10.05 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978404605:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:45:17 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€23.13 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.10 to €0.20
+0nix770 joins the table at seat #4 
+Hundrendret: folds 
+Uncalled bet (€0.10) returned to MR.PATJEW
+MR.PATJEW collected €0.20 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (button) (small blind) collected (€0.20)
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978411575:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:45:28 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€23.23 in chips) 
+Seat 4: 0nix770 (€10 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: calls €0.05
+0nix770: raises €0.40 to €0.50
+MR.PATJEW: calls €0.40
+*** FLOP *** [7s Qd 5h]
+MR.PATJEW: checks 
+0nix770: bets €0.37
+MR.PATJEW: calls €0.37
+*** TURN *** [7s Qd 5h] [Ts]
+MR.PATJEW: bets €1.70
+0nix770: calls €1.70
+*** RIVER *** [7s Qd 5h Ts] [4c]
+MR.PATJEW: checks 
+0nix770: bets €1.59
+MR.PATJEW: folds 
+Uncalled bet (€1.59) returned to 0nix770
+0nix770 collected €4.91 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €5.14 | Rake €0.23 
+Board [7s Qd 5h Ts 4c]
+Seat 3: MR.PATJEW (small blind) folded on the River
+Seat 4: 0nix770 (big blind) collected (€4.91)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978442108:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:46:17 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.66 in chips) 
+Seat 4: 0nix770 (€12.34 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.25 to €0.35
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.25) returned to MR.PATJEW
+MR.PATJEW collected €0.25 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (button) collected (€0.25)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978447437:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:46:26 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€20.81 in chips) 
+Seat 4: 0nix770 (€12.29 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: calls €0.20
+*** FLOP *** [8h Jc 7c]
+Hundrendret: bets €0.30
+MR.PATJEW: calls €0.30
+*** TURN *** [8h Jc 7c] [9c]
+Hundrendret: bets €0.50
+MR.PATJEW: folds 
+Uncalled bet (€0.50) returned to Hundrendret
+Hundrendret collected €1.15 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.20 | Rake €0.05 
+Board [8h Jc 7c 9c]
+Seat 3: MR.PATJEW (big blind) folded on the Turn
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) collected (€1.15)
+
+
+
+PokerStars Hand #222978461054:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:46:48 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€20.21 in chips) 
+Seat 4: 0nix770 (€12.29 in chips) 
+Seat 6: Hundrendret (€10.55 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978466188:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:46:56 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.16 in chips) 
+Seat 4: 0nix770 (€12.34 in chips) 
+Seat 6: Hundrendret (€10.55 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.20) returned to MR.PATJEW
+MR.PATJEW collected €0.25 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (button) collected (€0.25)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978473868:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:47:08 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€20.31 in chips) 
+Seat 4: 0nix770 (€12.29 in chips) 
+Seat 6: Hundrendret (€10.45 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+Hundrendret: folds 
+MR.PATJEW: raises €0.13 to €0.36
+0nix770: calls €0.13
+*** FLOP *** [6h 7d 7c]
+MR.PATJEW: bets €0.60
+0nix770: folds 
+Uncalled bet (€0.60) returned to MR.PATJEW
+MR.PATJEW collected €0.74 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.77 | Rake €0.03 
+Board [6h 7d 7c]
+Seat 3: MR.PATJEW (big blind) collected (€0.74)
+Seat 4: 0nix770 (button) folded on the Flop
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978487577:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:47:30 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€20.69 in chips) 
+Seat 4: 0nix770 (€11.93 in chips) 
+Seat 6: Hundrendret (€10.40 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: calls €0.05
+0nix770: checks 
+*** FLOP *** [7s 8h 8c]
+MR.PATJEW: bets €0.20
+0nix770: folds 
+Uncalled bet (€0.20) returned to MR.PATJEW
+MR.PATJEW collected €0.19 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [7s 8h 8c]
+Seat 3: MR.PATJEW (small blind) collected (€0.19)
+Seat 4: 0nix770 (big blind) folded on the Flop
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978499365:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:47:49 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.78 in chips) 
+Seat 4: 0nix770 (€11.83 in chips) 
+Seat 6: Hundrendret (€10.40 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.05) returned to Hundrendret
+Hundrendret collected €0.10 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222978504957:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:47:58 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€20.78 in chips) 
+Seat 4: 0nix770 (€11.78 in chips) 
+Seat 6: Hundrendret (€10.45 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.13) returned to 0nix770
+0nix770 collected €0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 (button) collected (€0.25)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978509034:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:48:05 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€20.68 in chips) 
+Seat 4: 0nix770 (€11.93 in chips) 
+Seat 6: Hundrendret (€10.40 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978515688:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:48:15 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.63 in chips) 
+Seat 4: 0nix770 (€11.98 in chips) 
+Seat 6: Hundrendret (€10.40 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.25 to €0.35
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.25) returned to MR.PATJEW
+MR.PATJEW collected €0.25 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (button) collected (€0.25)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978523331:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:48:28 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€20.78 in chips) 
+Seat 4: 0nix770 (€11.93 in chips) 
+Seat 6: Hundrendret (€10.30 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: calls €0.20
+*** FLOP *** [8d Kc Th]
+Hundrendret: checks 
+MR.PATJEW: bets €0.30
+Hundrendret: folds 
+Uncalled bet (€0.30) returned to MR.PATJEW
+MR.PATJEW collected €0.57 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [8d Kc Th]
+Seat 3: MR.PATJEW (big blind) collected (€0.57)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222978534293:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:48:41 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€21.05 in chips) 
+Seat 4: 0nix770 (€11.93 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: calls €0.05
+0nix770: raises €0.30 to €0.40
+MR.PATJEW: calls €0.30
+*** FLOP *** [As Ah Kc]
+MR.PATJEW: checks 
+0nix770: bets €0.22
+MR.PATJEW: calls €0.22
+*** TURN *** [As Ah Kc] [8s]
+MR.PATJEW: checks 
+0nix770: checks 
+*** RIVER *** [As Ah Kc 8s] [6c]
+MR.PATJEW: bets €1.20
+0nix770: folds 
+Uncalled bet (€1.20) returned to MR.PATJEW
+MR.PATJEW collected €1.18 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.24 | Rake €0.06 
+Board [As Ah Kc 8s 6c]
+Seat 3: MR.PATJEW (small blind) collected (€1.18)
+Seat 4: 0nix770 (big blind) folded on the River
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978559797:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:49:23 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€21.61 in chips) 
+Seat 4: 0nix770 (€11.31 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: raises €0.20 to €0.30
+Hundrendret: folds 
+Uncalled bet (€0.20) returned to 0nix770
+0nix770 collected €0.20 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) collected (€0.20)
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978566605:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:49:34 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€21.61 in chips) 
+Seat 4: 0nix770 (€11.41 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978569607:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:49:38 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€21.66 in chips) 
+Seat 4: 0nix770 (€11.41 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978572940:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:49:44 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€21.61 in chips) 
+Seat 4: 0nix770 (€11.46 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.05) returned to Hundrendret
+Hundrendret collected €0.10 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222978577355:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:49:51 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€21.61 in chips) 
+Seat 4: 0nix770 (€11.41 in chips) 
+Seat 6: Hundrendret (€10.05 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+Hundrendret: folds 
+MR.PATJEW: raises €0.43 to €0.66
+0nix770: calls €0.43
+*** FLOP *** [Jd 5h Ac]
+MR.PATJEW: checks 
+0nix770: bets €0.61
+MR.PATJEW: calls €0.61
+*** TURN *** [Jd 5h Ac] [7s]
+MR.PATJEW: checks 
+0nix770: bets €1.54
+MR.PATJEW: folds 
+Uncalled bet (€1.54) returned to 0nix770
+0nix770 collected €2.47 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.59 | Rake €0.12 
+Board [Jd 5h Ac 7s]
+Seat 3: MR.PATJEW (big blind) folded on the Turn
+Seat 4: 0nix770 (button) collected (€2.47)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978600623:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:50:29 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€20.34 in chips) 
+Seat 4: 0nix770 (€12.61 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: calls €0.05
+0nix770: checks 
+*** FLOP *** [2c Td Ts]
+MR.PATJEW: bets €0.20
+0nix770: calls €0.20
+*** TURN *** [2c Td Ts] [Ah]
+MR.PATJEW: checks 
+0nix770: checks 
+*** RIVER *** [2c Td Ts Ah] [7s]
+MR.PATJEW: checks 
+0nix770: checks 
+*** SHOW DOWN ***
+MR.PATJEW: shows [6h 6s] (two pair, Tens and Sixes)
+0nix770: mucks hand 
+MR.PATJEW collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [2c Td Ts Ah 7s]
+Seat 3: MR.PATJEW (small blind) showed [6h 6s] and won (€0.57) with two pair, Tens and Sixes
+Seat 4: 0nix770 (big blind) mucked
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978635140:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:51:26 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.61 in chips) 
+Seat 4: 0nix770 (€12.31 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW has timed out
+MR.PATJEW: folds 
+0nix770: raises €0.20 to €0.30
+Hundrendret: folds 
+Uncalled bet (€0.20) returned to 0nix770
+0nix770 collected €0.20 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) collected (€0.20)
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978644993:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:51:42 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 4: 0nix770 (€12.41 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978651212:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:51:53 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€20.61 in chips) 
+Seat 4: 0nix770 (€12.46 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.13) returned to 0nix770
+0nix770 collected €0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 (button) collected (€0.25)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978655774:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:52:00 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€20.51 in chips) 
+Seat 4: 0nix770 (€12.61 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: calls €0.05
+0nix770: checks 
+*** FLOP *** [4d Ts 4c]
+MR.PATJEW: checks 
+0nix770: bets €0.10
+MR.PATJEW: calls €0.10
+*** TURN *** [4d Ts 4c] [2s]
+MR.PATJEW: checks 
+0nix770: bets €0.17
+MR.PATJEW: calls €0.17
+*** RIVER *** [4d Ts 4c 2s] [2c]
+MR.PATJEW: checks 
+0nix770: bets €0.54
+MR.PATJEW: folds 
+Uncalled bet (€0.54) returned to 0nix770
+0nix770 collected €0.71 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.74 | Rake €0.03 
+Board [4d Ts 4c 2s 2c]
+Seat 3: MR.PATJEW (small blind) folded on the River
+Seat 4: 0nix770 (big blind) collected (€0.71)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978694778:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:53:05 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.14 in chips) 
+Seat 4: 0nix770 (€12.95 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: folds 
+Hundrendret: calls €0.20
+*** FLOP *** [8s 6c 9d]
+Hundrendret: checks 
+MR.PATJEW: checks 
+*** TURN *** [8s 6c 9d] [Ah]
+Hundrendret: bets €0.50
+MR.PATJEW: folds 
+Uncalled bet (€0.50) returned to Hundrendret
+Hundrendret collected €0.62 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [8s 6c 9d Ah]
+Seat 3: MR.PATJEW (button) folded on the Turn
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) collected (€0.62)
+
+
+
+PokerStars Hand #222978709906:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:53:30 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€19.84 in chips) 
+Seat 4: 0nix770 (€12.90 in chips) 
+Seat 6: Hundrendret (€10.32 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+Hundrendret: folds 
+MR.PATJEW: raises €0.13 to €0.36
+0nix770: calls €0.13
+*** FLOP *** [6h Ks 5d]
+MR.PATJEW: bets €0.70
+0nix770: folds 
+Uncalled bet (€0.70) returned to MR.PATJEW
+MR.PATJEW collected €0.74 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.77 | Rake €0.03 
+Board [6h Ks 5d]
+Seat 3: MR.PATJEW (big blind) collected (€0.74)
+Seat 4: 0nix770 (button) folded on the Flop
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978723921:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:53:54 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€20.22 in chips) 
+Seat 4: 0nix770 (€12.54 in chips) 
+Seat 6: Hundrendret (€10.27 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978726473:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:53:58 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€20.17 in chips) 
+Seat 4: 0nix770 (€12.59 in chips) 
+Seat 6: Hundrendret (€10.27 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: folds 
+Hundrendret: calls €0.20
+*** FLOP *** [7d 7c 4c]
+Hundrendret: checks 
+MR.PATJEW: checks 
+*** TURN *** [7d 7c 4c] [9s]
+Hundrendret: checks 
+MR.PATJEW: checks 
+*** RIVER *** [7d 7c 4c 9s] [Ah]
+Hundrendret: checks 
+MR.PATJEW: checks 
+*** SHOW DOWN ***
+Hundrendret: shows [3c Kc] (a pair of Sevens)
+MR.PATJEW: mucks hand 
+Hundrendret collected €0.62 from pot
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [7d 7c 4c 9s Ah]
+Seat 3: MR.PATJEW (button) mucked
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) showed [3c Kc] and won (€0.62) with a pair of Sevens
+
+
+
+PokerStars Hand #222978750284:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:54:38 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€19.87 in chips) 
+Seat 4: 0nix770 (€12.54 in chips) 
+Seat 6: Hundrendret (€10.59 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978753019:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:54:42 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€19.92 in chips) 
+Seat 4: 0nix770 (€12.54 in chips) 
+Seat 6: Hundrendret (€10.54 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978756416:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:54:48 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€19.87 in chips) 
+Seat 4: 0nix770 (€12.59 in chips) 
+Seat 6: Hundrendret (€10.54 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.05) returned to Hundrendret
+Hundrendret collected €0.10 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222978761269:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:54:56 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€19.87 in chips) 
+Seat 4: 0nix770 (€12.54 in chips) 
+Seat 6: Hundrendret (€10.59 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: folds 
+Uncalled bet (€0.20) returned to Hundrendret
+Hundrendret collected €0.20 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) collected (€0.20)
+
+
+
+PokerStars Hand #222978765046:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:55:03 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€19.77 in chips) 
+Seat 4: 0nix770 (€12.54 in chips) 
+Seat 6: Hundrendret (€10.69 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978767867:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:55:07 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€19.72 in chips) 
+Seat 4: 0nix770 (€12.59 in chips) 
+Seat 6: Hundrendret (€10.69 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: calls €0.25
+Hundrendret: calls €0.20
+*** FLOP *** [Kd 2c Ts]
+0nix770: checks 
+Hundrendret: checks 
+MR.PATJEW: bets €0.40
+0nix770: calls €0.40
+Hundrendret: folds 
+*** TURN *** [Kd 2c Ts] [8s]
+0nix770: checks 
+MR.PATJEW: checks 
+*** RIVER *** [Kd 2c Ts 8s] [4d]
+0nix770: bets €0.54
+MR.PATJEW: calls €0.54
+*** SHOW DOWN ***
+0nix770: shows [Tc Js] (a pair of Tens)
+MR.PATJEW: mucks hand 
+0nix770 collected €2.65 from pot
+*** SUMMARY ***
+Total pot €2.78 | Rake €0.13 
+Board [Kd 2c Ts 8s 4d]
+Seat 3: MR.PATJEW (button) mucked
+Seat 4: 0nix770 (small blind) showed [Tc Js] and won (€2.65) with a pair of Tens
+Seat 6: Hundrendret (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978788961:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:55:54 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€18.48 in chips) 
+Seat 4: 0nix770 (€14 in chips) 
+Seat 6: Hundrendret (€10.39 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+Hundrendret: calls €0.18
+MR.PATJEW: folds 
+*** FLOP *** [Ts 6d Ac]
+Hundrendret: checks 
+0nix770: bets €0.21
+Hundrendret: raises €0.39 to €0.60
+0nix770: folds 
+Uncalled bet (€0.39) returned to Hundrendret
+Hundrendret collected €0.94 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.04 
+Board [Ts 6d Ac]
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 (button) folded on the Flop
+Seat 6: Hundrendret (small blind) collected (€0.94)
+
+
+
+PokerStars Hand #222978800363:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:56:20 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€18.38 in chips) 
+Seat 4: 0nix770 (€13.56 in chips) 
+Seat 6: Hundrendret (€10.89 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.20) returned to Hundrendret
+Hundrendret collected €0.25 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 6: Hundrendret (button) collected (€0.25)
+
+
+
+PokerStars Hand #222978803329:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:56:26 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€18.33 in chips) 
+Seat 4: 0nix770 (€13.46 in chips) 
+Seat 6: Hundrendret (€11.04 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: raises €0.20 to €0.30
+Hundrendret: folds 
+Uncalled bet (€0.20) returned to 0nix770
+0nix770 collected €0.20 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) collected (€0.20)
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978809153:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:56:39 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€18.33 in chips) 
+Seat 4: 0nix770 (€13.56 in chips) 
+Seat 6: Hundrendret (€10.94 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: calls €0.20
+*** FLOP *** [Kh Ah 5c]
+Hundrendret: bets €0.30
+MR.PATJEW: raises €1.20 to €1.50
+Hundrendret: folds 
+Uncalled bet (€1.20) returned to MR.PATJEW
+MR.PATJEW collected €1.15 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.20 | Rake €0.05 
+Board [Kh Ah 5c]
+Seat 3: MR.PATJEW (big blind) collected (€1.15)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222978821432:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:57:07 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€18.88 in chips) 
+Seat 4: 0nix770 (€13.56 in chips) 
+Seat 6: Hundrendret (€10.34 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978823437:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:57:12 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€18.83 in chips) 
+Seat 4: 0nix770 (€13.61 in chips) 
+Seat 6: Hundrendret (€10.34 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: calls €0.10
+0nix770: raises €0.40 to €0.50
+Hundrendret: calls €0.40
+MR.PATJEW: calls €0.40
+*** FLOP *** [5c As 7c]
+0nix770: bets €0.78
+Hundrendret: folds 
+MR.PATJEW: calls €0.78
+*** TURN *** [5c As 7c] [Qc]
+0nix770: checks 
+MR.PATJEW: checks 
+*** RIVER *** [5c As 7c Qc] [6h]
+0nix770: checks 
+MR.PATJEW: checks 
+*** SHOW DOWN ***
+0nix770: shows [9c Ah] (a pair of Aces)
+MR.PATJEW: mucks hand 
+0nix770 collected €2.92 from pot
+*** SUMMARY ***
+Total pot €3.06 | Rake €0.14 
+Board [5c As 7c Qc 6h]
+Seat 3: MR.PATJEW (button) mucked
+Seat 4: 0nix770 (small blind) showed [9c Ah] and won (€2.92) with a pair of Aces
+Seat 6: Hundrendret (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978840065:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:57:49 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€17.55 in chips) 
+Seat 4: 0nix770 (€15.25 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978842505:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:57:55 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€17.60 in chips) 
+Seat 4: 0nix770 (€15.25 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978845133:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:58:01 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€17.55 in chips) 
+Seat 4: 0nix770 (€15.30 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: calls €0.10
+0nix770: folds 
+Hundrendret: checks 
+*** FLOP *** [Kd Ks 4d]
+Hundrendret: checks 
+MR.PATJEW: bets €0.20
+Hundrendret: folds 
+Uncalled bet (€0.20) returned to MR.PATJEW
+MR.PATJEW collected €0.24 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [Kd Ks 4d]
+Seat 3: MR.PATJEW (button) collected (€0.24)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978850869:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:58:14 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€17.69 in chips) 
+Seat 4: 0nix770 (€15.25 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: folds 
+Uncalled bet (€0.20) returned to Hundrendret
+Hundrendret collected €0.20 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) collected (€0.20)
+
+
+
+PokerStars Hand #222978854352:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:58:21 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€17.59 in chips) 
+Seat 4: 0nix770 (€15.25 in chips) 
+Seat 6: Hundrendret (€10.10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+MR.PATJEW: calls €0.05
+0nix770: checks 
+*** FLOP *** [3s 8d 3h]
+MR.PATJEW: checks 
+0nix770: bets €0.10
+MR.PATJEW: folds 
+Uncalled bet (€0.10) returned to 0nix770
+0nix770 collected €0.19 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [3s 8d 3h]
+Seat 3: MR.PATJEW (small blind) folded on the Flop
+Seat 4: 0nix770 (big blind) collected (€0.19)
+Seat 6: Hundrendret (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978861947:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:58:39 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€17.49 in chips) 
+Seat 4: 0nix770 (€15.34 in chips) 
+Seat 6: Hundrendret (€10.10 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.20) returned to MR.PATJEW
+MR.PATJEW collected €0.25 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (button) collected (€0.25)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: Hundrendret (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978865710:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:58:47 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€17.64 in chips) 
+Seat 4: 0nix770 (€15.29 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978871514:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:59:00 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€17.69 in chips) 
+Seat 4: 0nix770 (€15.29 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.20) returned to Hundrendret
+Hundrendret collected €0.25 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 6: Hundrendret (button) collected (€0.25)
+
+
+
+PokerStars Hand #222978878750:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:59:16 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€17.64 in chips) 
+Seat 4: 0nix770 (€15.19 in chips) 
+Seat 6: Hundrendret (€10.15 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: raises €0.20 to €0.30
+Hundrendret: calls €0.20
+*** FLOP *** [Kd 8d Ts]
+0nix770: checks 
+Hundrendret: bets €0.20
+0nix770: calls €0.20
+*** TURN *** [Kd 8d Ts] [6c]
+0nix770: checks 
+Hundrendret: checks 
+*** RIVER *** [Kd 8d Ts 6c] [5c]
+0nix770: bets €0.31
+Hundrendret: folds 
+Uncalled bet (€0.31) returned to 0nix770
+0nix770 collected €0.96 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €1 | Rake €0.04 
+Board [Kd 8d Ts 6c 5c]
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) collected (€0.96)
+Seat 6: Hundrendret (big blind) folded on the River
+
+
+
+PokerStars Hand #222978893031:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:59:48 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€17.64 in chips) 
+Seat 4: 0nix770 (€15.65 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+Hundrendret: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Hundrendret: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 6: Hundrendret (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978894882:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 18:59:52 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 3: MR.PATJEW (€17.69 in chips) 
+Seat 4: 0nix770 (€15.65 in chips) 
+Seat 6: Hundrendret (€10 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: raises €0.20 to €0.30
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.20) returned to Hundrendret
+Hundrendret collected €0.25 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 6: Hundrendret (button) collected (€0.25)
+
+
+
+PokerStars Hand #222978899885:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:00:03 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€17.64 in chips) 
+Seat 4: 0nix770 (€15.55 in chips) 
+0nix770: posts small blind €0.05
+Hundrendret: is sitting out 
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+Uncalled bet (€0.05) returned to MR.PATJEW
+MR.PATJEW collected €0.10 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: MR.PATJEW (big blind) collected (€0.10)
+Seat 4: 0nix770 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978901498:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:00:07 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€17.69 in chips) 
+Seat 4: 0nix770 (€15.50 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: calls €0.05
+0nix770: checks 
+*** FLOP *** [Kc 5s Jd]
+0nix770: checks 
+MR.PATJEW: checks 
+*** TURN *** [Kc 5s Jd] [3s]
+0nix770: checks 
+MR.PATJEW: checks 
+*** RIVER *** [Kc 5s Jd 3s] [Qs]
+0nix770: bets €0.12
+MR.PATJEW: calls €0.12
+*** SHOW DOWN ***
+0nix770: shows [9h 8s] (high card King)
+MR.PATJEW: shows [8h Jc] (a pair of Jacks)
+MR.PATJEW collected €0.42 from pot
+*** SUMMARY ***
+Total pot €0.44 | Rake €0.02 
+Board [Kc 5s Jd 3s Qs]
+Seat 3: MR.PATJEW (button) (small blind) showed [8h Jc] and won (€0.42) with a pair of Jacks
+Seat 4: 0nix770 (big blind) showed [9h 8s] and lost with high card King
+
+
+
+PokerStars Hand #222978917122:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:00:38 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€17.89 in chips) 
+Seat 4: 0nix770 (€15.28 in chips) 
+0nix770: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+MR.PATJEW: raises €0.13 to €0.36
+amraith joins the table at seat #5 
+0nix770: calls €0.13
+*** FLOP *** [Kc Ac 2s]
+MR.PATJEW: bets €0.70
+Hundrendret leaves the table
+0nix770: folds 
+Uncalled bet (€0.70) returned to MR.PATJEW
+MR.PATJEW collected €0.69 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.72 | Rake €0.03 
+Board [Kc Ac 2s]
+Seat 3: MR.PATJEW (big blind) collected (€0.69)
+Seat 4: 0nix770 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222978923838:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:00:52 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€18.22 in chips) 
+Seat 4: 0nix770 (€14.92 in chips) 
+Seat 5: amraith (€16.28 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: folds 
+amraith: calls €0.20
+*** FLOP *** [8c 6c 6h]
+amraith: checks 
+MR.PATJEW: bets €0.60
+amraith: folds 
+Uncalled bet (€0.60) returned to MR.PATJEW
+MR.PATJEW collected €0.62 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [8c 6c 6h]
+Seat 3: MR.PATJEW (button) collected (€0.62)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978935632:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:01:14 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 3: MR.PATJEW (€18.54 in chips) 
+Seat 4: 0nix770 (€14.87 in chips) 
+Seat 5: amraith (€15.98 in chips) 
+amraith: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.13 to €0.23
+amraith: raises €0.77 to €1
+MR.PATJEW: calls €0.90
+0nix770: raises €2 to €3
+amraith: folds 
+MR.PATJEW: calls €2
+*** FLOP *** [Kc 5h Tc]
+MR.PATJEW: checks 
+0nix770: bets €2
+MR.PATJEW: folds 
+Uncalled bet (€2) returned to 0nix770
+0nix770 collected €6.68 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €7 | Rake €0.32 
+Board [Kc 5h Tc]
+Seat 3: MR.PATJEW (big blind) folded on the Flop
+Seat 4: 0nix770 (button) collected (€6.68)
+Seat 5: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978952756:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:01:44 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 3: MR.PATJEW (€15.54 in chips) 
+Seat 4: 0nix770 (€18.55 in chips) 
+Seat 5: amraith (€14.98 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: raises €0.15 to €0.25
+MR.PATJEW: folds 
+0nix770: calls €0.15
+*** FLOP *** [3c 9d Kd]
+0nix770: checks 
+amraith: bets €0.30
+0nix770: calls €0.30
+*** TURN *** [3c 9d Kd] [As]
+0nix770: checks 
+G.Sandr0 joins the table at seat #1 
+amraith: checks 
+*** RIVER *** [3c 9d Kd As] [Ks]
+0nix770: bets €0.31
+amraith: folds 
+Uncalled bet (€0.31) returned to 0nix770
+0nix770 collected €1.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.15 | Rake €0.05 
+Board [3c 9d Kd As Ks]
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€1.10)
+Seat 5: amraith (button) folded on the River
+
+
+
+PokerStars Hand #222978976421:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:02:25 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 3: MR.PATJEW (€15.49 in chips) 
+Seat 4: 0nix770 (€19.10 in chips) 
+Seat 5: amraith (€14.43 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+G.Sandr0: sits out 
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: calls €0.25
+amraith: folds 
+*** FLOP *** [3s 2h 7d]
+0nix770: checks 
+MR.PATJEW: checks 
+*** TURN *** [3s 2h 7d] [9d]
+0nix770: bets €0.42
+Wagner GT joins the table at seat #6 
+MR.PATJEW: folds 
+Uncalled bet (€0.42) returned to 0nix770
+0nix770 collected €0.67 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.03 
+Board [3s 2h 7d 9d]
+Seat 3: MR.PATJEW (button) folded on the Turn
+Seat 4: 0nix770 (small blind) collected (€0.67)
+Seat 5: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978994567:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:02:56 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€4 in chips) 
+Seat 3: MR.PATJEW (€15.19 in chips) 
+Seat 4: 0nix770 (€19.47 in chips) 
+Seat 5: amraith (€14.33 in chips) 
+amraith: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: raises €0.13 to €0.23
+amraith: calls €0.18
+G.Sandr0: calls €0.13
+*** FLOP *** [9c 7d 4c]
+amraith: checks 
+G.Sandr0: bets €0.20
+0nix770: calls €0.20
+amraith: calls €0.20
+*** TURN *** [9c 7d 4c] [2s]
+amraith: checks 
+G.Sandr0: bets €0.40
+0nix770: folds 
+Wagner GT leaves the table
+amraith: calls €0.40
+*** RIVER *** [9c 7d 4c 2s] [Qs]
+amraith: checks 
+G.Sandr0: bets €1
+amraith: raises €3 to €4
+G.Sandr0: calls €2.17 and is all-in
+Uncalled bet (€0.83) returned to amraith
+*** SHOW DOWN ***
+amraith: shows [Qd 9d] (two pair, Queens and Nines)
+G.Sandr0: shows [4h 4s] (three of a kind, Fours)
+G.Sandr0 collected €8.05 from pot
+*** SUMMARY ***
+Total pot €8.43 | Rake €0.38 
+Board [9c 7d 4c 2s Qs]
+Seat 1: G.Sandr0 (big blind) showed [4h 4s] and won (€8.05) with three of a kind, Fours
+Seat 3: MR.PATJEW folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded on the Turn
+Seat 5: amraith (small blind) showed [Qd 9d] and lost with two pair, Queens and Nines
+
+
+
+PokerStars Hand #222979048181:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:04:29 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€8.05 in chips) 
+Seat 3: MR.PATJEW (€15.19 in chips) 
+Seat 4: 0nix770 (€19.04 in chips) 
+Seat 5: amraith (€10.33 in chips) 
+G.Sandr0: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amraith: folds 
+G.Sandr0: calls €0.05
+MR.PATJEW: checks 
+*** FLOP *** [Jh Th 8s]
+sportivu13 joins the table at seat #2 
+G.Sandr0: checks 
+MR.PATJEW: checks 
+*** TURN *** [Jh Th 8s] [6h]
+G.Sandr0: checks 
+MR.PATJEW: checks 
+*** RIVER *** [Jh Th 8s 6h] [9h]
+G.Sandr0: checks 
+MR.PATJEW: bets €0.20
+G.Sandr0: calls €0.20
+*** SHOW DOWN ***
+MR.PATJEW: shows [2c 7d] (a straight, Seven to Jack)
+G.Sandr0: shows [Qs 5c] (a straight, Eight to Queen)
+G.Sandr0 collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [Jh Th 8s 6h 9h]
+Seat 1: G.Sandr0 (small blind) showed [Qs 5c] and won (€0.57) with a straight, Eight to Queen
+Seat 3: MR.PATJEW (big blind) showed [2c 7d] and lost with a straight, Seven to Jack
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979073844:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:05:01 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: G.Sandr0 (€8.32 in chips) 
+Seat 3: MR.PATJEW (€14.89 in chips) 
+Seat 4: 0nix770 (€19.04 in chips) 
+Seat 5: amraith (€10.33 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+G.Sandr0: raises €0.40 to €0.50
+MR.PATJEW: folds 
+0nix770: folds 
+Uncalled bet (€0.40) returned to G.Sandr0
+G.Sandr0 collected €0.25 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: G.Sandr0 (button) collected (€0.25)
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 5: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979081073:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:05:13 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: G.Sandr0 (€8.47 in chips) 
+Seat 3: MR.PATJEW (€14.84 in chips) 
+Seat 4: 0nix770 (€18.94 in chips) 
+Seat 5: amraith (€10.33 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+sportivu13: sits out 
+*** HOLE CARDS ***
+G.Sandr0: calls €0.10
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: folds 
+amraith: calls €0.20
+G.Sandr0: folds 
+*** FLOP *** [Qd Td 2h]
+amraith: checks 
+MR.PATJEW: bets €0.70
+amraith: folds 
+Uncalled bet (€0.70) returned to MR.PATJEW
+MR.PATJEW collected €0.72 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [Qd Td 2h]
+Seat 1: G.Sandr0 folded before Flop
+Seat 3: MR.PATJEW (button) collected (€0.72)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222979101401:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:05:48 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€8.37 in chips) 
+Seat 3: MR.PATJEW (€15.26 in chips) 
+Seat 4: 0nix770 (€18.89 in chips) 
+Seat 5: amraith (€10.03 in chips) 
+amraith: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+sportivu13: sits out 
+*** HOLE CARDS ***
+MR.PATJEW: calls €0.10
+0nix770: folds 
+amraith: calls €0.05
+G.Sandr0: checks 
+*** FLOP *** [6d Jc 3s]
+amenakoy joins the table at seat #6 
+amraith: checks 
+G.Sandr0: checks 
+MR.PATJEW: checks 
+*** TURN *** [6d Jc 3s] [Ad]
+amraith: checks 
+G.Sandr0: checks 
+MR.PATJEW: checks 
+*** RIVER *** [6d Jc 3s Ad] [3h]
+amraith: checks 
+G.Sandr0: checks 
+MR.PATJEW: checks 
+*** SHOW DOWN ***
+amraith: shows [Ts 9h] (a pair of Threes)
+G.Sandr0: shows [5h Qd] (a pair of Threes - Ace+Queen kicker)
+MR.PATJEW: shows [Kd 5d] (a pair of Threes - Ace+King kicker)
+MR.PATJEW collected €0.29 from pot
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.01 
+Board [6d Jc 3s Ad 3h]
+Seat 1: G.Sandr0 (big blind) showed [5h Qd] and lost with a pair of Threes
+Seat 3: MR.PATJEW showed [Kd 5d] and won (€0.29) with a pair of Threes
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) showed [Ts 9h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #222979127765:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:06:33 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€8.27 in chips) 
+Seat 2: sportivu13 (€10 in chips) 
+Seat 3: MR.PATJEW (€15.45 in chips) 
+Seat 4: 0nix770 (€18.89 in chips) 
+Seat 5: amraith (€10 in chips) 
+G.Sandr0: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: raises €0.30 to €0.40
+0nix770: folds 
+amraith: folds 
+G.Sandr0: calls €0.35
+sportivu13: folds 
+*** FLOP *** [4h Kd 7h]
+G.Sandr0: bets €0.10
+MR.PATJEW: raises €0.50 to €0.60
+G.Sandr0: folds 
+Uncalled bet (€0.50) returned to MR.PATJEW
+MR.PATJEW collected €1.05 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.10 | Rake €0.05 
+Board [4h Kd 7h]
+Seat 1: G.Sandr0 (small blind) folded on the Flop
+Seat 2: sportivu13 (big blind) folded before Flop
+Seat 3: MR.PATJEW collected (€1.05)
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979143309:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:07:00 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: G.Sandr0 (€7.77 in chips) 
+Seat 2: sportivu13 (€10 in chips) 
+Seat 3: MR.PATJEW (€16 in chips) 
+Seat 4: 0nix770 (€18.89 in chips) 
+Seat 5: amraith (€10 in chips) 
+Seat 6: amenakoy (€10 in chips) 
+sportivu13: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.20 to €0.30
+amraith: folds 
+amenakoy: calls €0.20
+G.Sandr0: folds 
+sportivu13: folds 
+MR.PATJEW: folds 
+*** FLOP *** [4h 9h 7c]
+0nix770: checks 
+amenakoy: bets €0.30
+0nix770: calls €0.30
+*** TURN *** [4h 9h 7c] [8d]
+0nix770: checks 
+amenakoy: bets €0.50
+0nix770: folds 
+Uncalled bet (€0.50) returned to amenakoy
+amenakoy collected €1.29 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.35 | Rake €0.06 
+Board [4h 9h 7c 8d]
+Seat 1: G.Sandr0 (button) folded before Flop (didn't bet)
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 folded on the Turn
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy collected (€1.29)
+
+
+
+PokerStars Hand #222979175969:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:07:41 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: G.Sandr0 (€7.77 in chips) 
+Seat 2: sportivu13 (€10 in chips) 
+Seat 3: MR.PATJEW (€15.90 in chips) 
+Seat 4: 0nix770 (€18.29 in chips) 
+Seat 5: amraith (€10 in chips) 
+Seat 6: amenakoy (€10.69 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+amenakoy: folds 
+G.Sandr0: calls €0.10
+sportivu13: folds 
+MR.PATJEW: calls €0.05
+0nix770: checks 
+*** FLOP *** [7c 3h 4s]
+MR.PATJEW: checks 
+0nix770: checks 
+G.Sandr0: checks 
+*** TURN *** [7c 3h 4s] [9c]
+MR.PATJEW: bets €0.10
+0nix770: folds 
+G.Sandr0: folds 
+Uncalled bet (€0.10) returned to MR.PATJEW
+MR.PATJEW collected €0.29 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.01 
+Board [7c 3h 4s 9c]
+Seat 1: G.Sandr0 folded on the Turn
+Seat 2: sportivu13 (button) folded before Flop (didn't bet)
+Seat 3: MR.PATJEW (small blind) collected (€0.29)
+Seat 4: 0nix770 (big blind) folded on the Turn
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979197326:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:08:19 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: G.Sandr0 (€7.67 in chips) 
+Seat 2: sportivu13 (€10 in chips) 
+Seat 3: MR.PATJEW (€16.09 in chips) 
+Seat 4: 0nix770 (€18.19 in chips) 
+Seat 5: amraith (€10 in chips) 
+Seat 6: amenakoy (€10.69 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: raises €0.10 to €0.20
+G.Sandr0: folds 
+sportivu13: raises €1 to €1.20
+MR.PATJEW: calls €1.20
+0nix770: folds 
+amraith: folds 
+amenakoy: calls €1
+*** FLOP *** [5s 7d Ah]
+amenakoy: bets €1.10
+sportivu13: calls €1.10
+MR.PATJEW: folds 
+*** TURN *** [5s 7d Ah] [9d]
+amenakoy: checks 
+sportivu13: bets €1.87
+amenakoy: folds 
+Uncalled bet (€1.87) returned to sportivu13
+sportivu13 collected €5.68 from pot
+*** SUMMARY ***
+Total pot €5.95 | Rake €0.27 
+Board [5s 7d Ah 9d]
+Seat 1: G.Sandr0 folded before Flop (didn't bet)
+Seat 2: sportivu13 collected (€5.68)
+Seat 3: MR.PATJEW (button) folded on the Flop
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) folded before Flop
+Seat 6: amenakoy folded on the Turn
+
+
+
+PokerStars Hand #222979224362:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:09:07 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€7.67 in chips) 
+Seat 2: sportivu13 (€13.38 in chips) 
+Seat 3: MR.PATJEW (€14.89 in chips) 
+Seat 4: 0nix770 (€18.14 in chips) 
+Seat 5: amraith (€10 in chips) 
+Seat 6: amenakoy (€8.39 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+G.Sandr0: folds 
+sportivu13: folds 
+MR.PATJEW: raises €0.25 to €0.35
+0nix770: folds 
+amraith: folds 
+amenakoy: folds 
+Uncalled bet (€0.25) returned to MR.PATJEW
+MR.PATJEW collected €0.25 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: G.Sandr0 folded before Flop (didn't bet)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW collected (€0.25)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded before Flop
+Seat 6: amenakoy (big blind) folded before Flop
+
+
+
+PokerStars Hand #222979235961:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:09:27 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€7.67 in chips) 
+Seat 2: sportivu13 (€13.38 in chips) 
+Seat 3: MR.PATJEW (€15.04 in chips) 
+Seat 4: 0nix770 (€18.14 in chips) 
+Seat 5: amraith (€10 in chips) 
+Seat 6: amenakoy (€8.29 in chips) 
+amenakoy: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+MR.PATJEW: folds 
+0nix770: folds 
+amraith: raises €0.15 to €0.25
+amenakoy: calls €0.20
+G.Sandr0: calls €0.15
+*** FLOP *** [4s 6h 4c]
+amenakoy: checks 
+G.Sandr0: checks 
+amraith: bets €0.40
+amenakoy: calls €0.40
+G.Sandr0: calls €0.40
+*** TURN *** [4s 6h 4c] [5c]
+amenakoy: checks 
+G.Sandr0: bets €1
+amraith: calls €1
+amenakoy: raises €2 to €3
+G.Sandr0: raises €4.02 to €7.02 and is all-in
+amraith: calls €6.02
+amenakoy: calls €4.02
+*** RIVER *** [4s 6h 4c 5c] [2c]
+amenakoy: checks 
+amraith: bets €2.33 and is all-in
+amenakoy: calls €0.62 and is all-in
+Uncalled bet (€1.71) returned to amraith
+*** SHOW DOWN ***
+amraith: shows [6c 6s] (a full house, Sixes full of Fours)
+amenakoy: shows [8c 7c] (a flush, Eight high)
+amraith collected €1.19 from side pot
+G.Sandr0: shows [Qd 4h] (three of a kind, Fours)
+amraith collected €21.97 from main pot
+*** SUMMARY ***
+Total pot €24.25 Main pot €21.97. Side pot €1.19. | Rake €1.09 
+Board [4s 6h 4c 5c 2c]
+Seat 1: G.Sandr0 (big blind) showed [Qd 4h] and lost with three of a kind, Fours
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW folded before Flop (didn't bet)
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) showed [6c 6s] and won (€23.16) with a full house, Sixes full of Fours
+Seat 6: amenakoy (small blind) showed [8c 7c] and lost with a flush, Eight high
+
+
+
+PokerStars Hand #222979297236:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:11:16 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 2: sportivu13 (€13.38 in chips) 
+Seat 3: MR.PATJEW (€15.04 in chips) 
+Seat 4: 0nix770 (€18.14 in chips) 
+Seat 5: amraith (€24.87 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+sportivu13: raises €0.19 to €0.29
+MR.PATJEW: calls €0.24
+0nix770: folds 
+*** FLOP *** [8c 6s 2h]
+MR.PATJEW: checks 
+sportivu13: bets €0.34
+MR.PATJEW: raises €0.34 to €0.68
+sportivu13: folds 
+Uncalled bet (€0.34) returned to MR.PATJEW
+MR.PATJEW collected €1.30 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.36 | Rake €0.06 
+Board [8c 6s 2h]
+Seat 2: sportivu13 (button) folded on the Flop
+Seat 3: MR.PATJEW (small blind) collected (€1.30)
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 5: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979314813:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:11:48 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: G.Sandr0 (€4 in chips) 
+Seat 2: sportivu13 (€12.75 in chips) 
+Seat 3: MR.PATJEW (€15.71 in chips) 
+Seat 4: 0nix770 (€18.04 in chips) 
+Seat 5: amraith (€24.87 in chips) 
+Seat 6: amenakoy (€10 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: raises €0.10 to €0.20
+G.Sandr0: calls €0.20
+sportivu13: folds 
+MR.PATJEW: calls €0.20
+0nix770: calls €0.15
+amraith: calls €0.10
+*** FLOP *** [Qs 5d 9h]
+0nix770: checks 
+amraith: checks 
+amenakoy: bets €0.30
+G.Sandr0: folds 
+MR.PATJEW: folds 
+0nix770: calls €0.30
+amraith: calls €0.30
+*** TURN *** [Qs 5d 9h] [Qh]
+0nix770: checks 
+amraith: checks 
+amenakoy: bets €0.50
+0nix770: folds 
+amraith: calls €0.50
+*** RIVER *** [Qs 5d 9h Qh] [2h]
+amraith: checks 
+amenakoy: checks 
+*** SHOW DOWN ***
+amraith: shows [Th Qc] (three of a kind, Queens)
+amenakoy: mucks hand 
+amraith collected €2.77 from pot
+*** SUMMARY ***
+Total pot €2.90 | Rake €0.13 
+Board [Qs 5d 9h Qh 2h]
+Seat 1: G.Sandr0 folded on the Flop
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW (button) folded on the Flop
+Seat 4: 0nix770 (small blind) folded on the Turn
+Seat 5: amraith (big blind) showed [Th Qc] and won (€2.77) with three of a kind, Queens
+Seat 6: amenakoy mucked
+
+
+
+PokerStars Hand #222979354399:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:12:59 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€3.80 in chips) 
+Seat 2: sportivu13 (€12.75 in chips) 
+Seat 3: MR.PATJEW (€15.51 in chips) 
+Seat 4: 0nix770 (€17.54 in chips) 
+Seat 5: amraith (€26.64 in chips) 
+Seat 6: amenakoy (€9 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+G.Sandr0: calls €0.10
+sportivu13: folds 
+MR.PATJEW: calls €0.10
+0nix770: folds 
+amraith: folds 
+amenakoy: checks 
+*** FLOP *** [5s Kd 9s]
+amenakoy: checks 
+G.Sandr0: checks 
+MR.PATJEW: bets €0.30
+amenakoy: calls €0.30
+G.Sandr0: folds 
+*** TURN *** [5s Kd 9s] [5h]
+amenakoy: checks 
+MR.PATJEW: bets €0.90
+amenakoy: calls €0.90
+*** RIVER *** [5s Kd 9s 5h] [Qs]
+amenakoy: checks 
+MR.PATJEW: checks 
+*** SHOW DOWN ***
+amenakoy: shows [8c Ks] (two pair, Kings and Fives)
+MR.PATJEW: shows [5d 3d] (three of a kind, Fives)
+MR.PATJEW collected €2.63 from pot
+*** SUMMARY ***
+Total pot €2.75 | Rake €0.12 
+Board [5s Kd 9s 5h Qs]
+Seat 1: G.Sandr0 folded on the Flop
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW showed [5d 3d] and won (€2.63) with three of a kind, Fives
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded before Flop
+Seat 6: amenakoy (big blind) showed [8c Ks] and lost with two pair, Kings and Fives
+
+
+
+PokerStars Hand #222979383373:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:13:51 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€3.70 in chips) 
+Seat 2: sportivu13 (€12.75 in chips) 
+Seat 3: MR.PATJEW (€16.84 in chips) 
+Seat 4: 0nix770 (€17.54 in chips) 
+Seat 5: amraith (€26.59 in chips) 
+Seat 6: amenakoy (€7.70 in chips) 
+amenakoy: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+MR.PATJEW: raises €0.20 to €0.30
+0nix770: calls €0.30
+amraith: folds 
+amenakoy: calls €0.25
+G.Sandr0: folds 
+*** FLOP *** [3h 7d Jc]
+amenakoy: checks 
+MR.PATJEW: checks 
+0nix770: checks 
+*** TURN *** [3h 7d Jc] [Ts]
+amenakoy: checks 
+MR.PATJEW: bets €1
+0nix770: folds 
+amenakoy: folds 
+Uncalled bet (€1) returned to MR.PATJEW
+MR.PATJEW collected €0.96 from pot
+MR.PATJEW: doesn't show hand 
+*** SUMMARY ***
+Total pot €1 | Rake €0.04 
+Board [3h 7d Jc Ts]
+Seat 1: G.Sandr0 (big blind) folded before Flop
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW collected (€0.96)
+Seat 4: 0nix770 folded on the Turn
+Seat 5: amraith (button) folded before Flop (didn't bet)
+Seat 6: amenakoy (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222979399775:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:14:21 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: G.Sandr0 (€3.60 in chips) 
+Seat 2: sportivu13 (€12.75 in chips) 
+Seat 3: MR.PATJEW (€17.50 in chips) 
+Seat 4: 0nix770 (€17.24 in chips) 
+Seat 5: amraith (€26.59 in chips) 
+Seat 6: amenakoy (€7.40 in chips) 
+G.Sandr0: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+MR.PATJEW: folds 
+0nix770: raises €0.20 to €0.30
+amraith: folds 
+amenakoy: folds 
+G.Sandr0: calls €0.25
+sportivu13: folds 
+*** FLOP *** [3h 6d 9s]
+G.Sandr0: bets €0.70
+0nix770: folds 
+Uncalled bet (€0.70) returned to G.Sandr0
+G.Sandr0 collected €0.67 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.03 
+Board [3h 6d 9s]
+Seat 1: G.Sandr0 (small blind) collected (€0.67)
+Seat 2: sportivu13 (big blind) folded before Flop
+Seat 3: MR.PATJEW folded before Flop (didn't bet)
+Seat 4: 0nix770 folded on the Flop
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979419131:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:14:56 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: G.Sandr0 (€3.97 in chips) 
+Seat 2: sportivu13 (€12.65 in chips) 
+Seat 3: MR.PATJEW (€17.50 in chips) 
+Seat 4: 0nix770 (€16.94 in chips) 
+Seat 5: amraith (€26.59 in chips) 
+Seat 6: amenakoy (€7.40 in chips) 
+sportivu13: posts small blind €0.05
+MR.PATJEW: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amraith: folds 
+amenakoy: folds 
+G.Sandr0: raises €0.20 to €0.30
+sportivu13: folds 
+MR.PATJEW: folds 
+Uncalled bet (€0.20) returned to G.Sandr0
+G.Sandr0 collected €0.25 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: G.Sandr0 (button) collected (€0.25)
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 3: MR.PATJEW (big blind) folded before Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979425131:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:15:07 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: G.Sandr0 (€4.12 in chips) 
+Seat 2: sportivu13 (€12.60 in chips) 
+Seat 3: MR.PATJEW (€17.40 in chips) 
+Seat 4: 0nix770 (€16.94 in chips) 
+Seat 5: amraith (€26.59 in chips) 
+Seat 6: amenakoy (€7.40 in chips) 
+MR.PATJEW: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+amenakoy: calls €0.10
+G.Sandr0: raises €0.40 to €0.50
+sportivu13: folds 
+MR.PATJEW: folds 
+0nix770: folds 
+amenakoy: calls €0.40
+*** FLOP *** [Jc 5s 6c]
+amenakoy: checks 
+G.Sandr0: bets €0.80
+amenakoy: folds 
+Uncalled bet (€0.80) returned to G.Sandr0
+G.Sandr0 collected €1.10 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.15 | Rake €0.05 
+Board [Jc 5s 6c]
+Seat 1: G.Sandr0 collected (€1.10)
+Seat 2: sportivu13 (button) folded before Flop (didn't bet)
+Seat 3: MR.PATJEW (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy folded on the Flop
+
+
+
+PokerStars Hand #222979450623:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:15:53 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: G.Sandr0 (€4.72 in chips) 
+Seat 2: sportivu13 (€12.60 in chips) 
+Seat 3: MR.PATJEW (€17.35 in chips) 
+Seat 4: 0nix770 (€16.84 in chips) 
+Seat 5: amraith (€26.59 in chips) 
+Seat 6: amenakoy (€6.90 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: raises €0.10 to €0.20
+G.Sandr0: folds 
+sportivu13: folds 
+MR.PATJEW: folds 
+0nix770: calls €0.15
+amraith: folds 
+*** FLOP *** [8d Kh 4d]
+MR.PATJEW is disconnected 
+0nix770: checks 
+amenakoy: checks 
+*** TURN *** [8d Kh 4d] [9d]
+0nix770: bets €0.26
+amenakoy: folds 
+Uncalled bet (€0.26) returned to 0nix770
+0nix770 collected €0.48 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.02 
+Board [8d Kh 4d 9d]
+Seat 1: G.Sandr0 folded before Flop (didn't bet)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) collected (€0.48)
+Seat 5: amraith (big blind) folded before Flop
+Seat 6: amenakoy folded on the Turn
+
+
+
+PokerStars Hand #222979475458:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:16:38 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€4.72 in chips) 
+Seat 2: sportivu13 (€12.60 in chips) 
+Seat 3: MR.PATJEW (€17.35 in chips) 
+Seat 4: 0nix770 (€17.12 in chips) 
+Seat 5: amraith (€26.49 in chips) 
+Seat 6: amenakoy (€6.70 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+G.Sandr0: folds 
+sportivu13: folds 
+MR.PATJEW has timed out while disconnected
+MR.PATJEW: folds 
+0nix770: folds 
+amraith: calls €0.05
+amenakoy: checks 
+*** FLOP *** [9d Jd Jc]
+amraith: checks 
+amenakoy: checks 
+*** TURN *** [9d Jd Jc] [8c]
+amraith: bets €0.10
+amenakoy: calls €0.10
+*** RIVER *** [9d Jd Jc 8c] [4d]
+amraith: checks 
+amenakoy: bets €0.38
+amraith: folds 
+Uncalled bet (€0.38) returned to amenakoy
+amenakoy collected €0.38 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.40 | Rake €0.02 
+Board [9d Jd Jc 8c 4d]
+Seat 1: G.Sandr0 folded before Flop (didn't bet)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: MR.PATJEW folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded on the River
+Seat 6: amenakoy (big blind) collected (€0.38)
+
+
+
+PokerStars Hand #222979499699:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:17:23 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€4.72 in chips) 
+Seat 2: sportivu13 (€12.60 in chips) 
+Seat 4: 0nix770 (€17.12 in chips) 
+Seat 5: amraith (€26.29 in chips) 
+Seat 6: amenakoy (€6.88 in chips) 
+amenakoy: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+0nix770: raises €0.15 to €0.25
+amraith: folds 
+amenakoy: folds 
+G.Sandr0: folds 
+Uncalled bet (€0.15) returned to 0nix770
+0nix770 collected €0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: G.Sandr0 (big blind) folded before Flop
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 collected (€0.25)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+Seat 6: amenakoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979504970:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:17:32 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: G.Sandr0 (€4.62 in chips) 
+Seat 2: sportivu13 (€12.60 in chips) 
+Seat 4: 0nix770 (€17.27 in chips) 
+Seat 5: amraith (€26.29 in chips) 
+Seat 6: amenakoy (€6.83 in chips) 
+G.Sandr0: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.20 to €0.30
+amraith: calls €0.30
+amenakoy: calls €0.30
+G.Sandr0: folds 
+sportivu13: folds 
+*** FLOP *** [2c Qh 3c]
+0nix770: checks 
+amraith: checks 
+amenakoy: checks 
+*** TURN *** [2c Qh 3c] [2d]
+0nix770: checks 
+amraith: bets €0.65
+amenakoy: folds 
+0nix770: folds 
+Uncalled bet (€0.65) returned to amraith
+amraith collected €1 from pot
+*** SUMMARY ***
+Total pot €1.05 | Rake €0.05 
+Board [2c Qh 3c 2d]
+Seat 1: G.Sandr0 (small blind) folded before Flop
+Seat 2: sportivu13 (big blind) folded before Flop
+Seat 4: 0nix770 folded on the Turn
+Seat 5: amraith collected (€1)
+Seat 6: amenakoy (button) folded on the Turn
+
+
+
+PokerStars Hand #222979530199:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:18:19 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: G.Sandr0 (€4.57 in chips) 
+Seat 2: sportivu13 (€12.50 in chips) 
+Seat 4: 0nix770 (€16.97 in chips) 
+Seat 5: amraith (€26.99 in chips) 
+Seat 6: amenakoy (€6.53 in chips) 
+sportivu13: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: raises €0.15 to €0.25
+amenakoy: calls €0.25
+G.Sandr0: calls €0.25
+sportivu13: folds 
+0nix770: calls €0.15
+*** FLOP *** [9d 2s Kd]
+0nix770: checks 
+amraith: bets €0.60
+amenakoy: calls €0.60
+G.Sandr0: folds 
+0nix770: calls €0.60
+*** TURN *** [9d 2s Kd] [7d]
+0nix770: checks 
+amraith: checks 
+amenakoy: checks 
+*** RIVER *** [9d 2s Kd 7d] [Jd]
+0nix770: checks 
+amraith: checks 
+amenakoy: checks 
+*** SHOW DOWN ***
+0nix770: shows [Qh 9h] (a pair of Nines)
+amraith: shows [Kh Jh] (two pair, Kings and Jacks)
+amenakoy: mucks hand 
+amraith collected €2.72 from pot
+*** SUMMARY ***
+Total pot €2.85 | Rake €0.13 
+Board [9d 2s Kd 7d Jd]
+Seat 1: G.Sandr0 (button) folded on the Flop
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) showed [Qh 9h] and lost with a pair of Nines
+Seat 5: amraith showed [Kh Jh] and won (€2.72) with two pair, Kings and Jacks
+Seat 6: amenakoy mucked
+
+
+
+PokerStars Hand #222979574326:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:19:41 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: G.Sandr0 (€4.32 in chips) 
+Seat 2: sportivu13 (€12.45 in chips) 
+Seat 4: 0nix770 (€16.12 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€5.68 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: folds 
+G.Sandr0: folds 
+sportivu13: folds 
+0nix770: folds 
+Uncalled bet (€0.05) returned to amraith
+amraith collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: G.Sandr0 folded before Flop (didn't bet)
+Seat 2: sportivu13 (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) collected (€0.10)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979590472:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:20:11 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€4.32 in chips) 
+Seat 2: sportivu13 (€12.45 in chips) 
+Seat 4: 0nix770 (€16.07 in chips) 
+Seat 5: amraith (€28.91 in chips) 
+Seat 6: amenakoy (€5.68 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+G.Sandr0: calls €0.10
+sportivu13: folds 
+0nix770: folds 
+amraith: folds 
+amenakoy: checks 
+*** FLOP *** [6c 7s 7d]
+amenakoy: checks 
+G.Sandr0: checks 
+*** TURN *** [6c 7s 7d] [Td]
+amenakoy: checks 
+G.Sandr0: bets €0.10
+amenakoy: calls €0.10
+*** RIVER *** [6c 7s 7d Td] [6s]
+amenakoy: checks 
+G.Sandr0: bets €0.10
+amenakoy: calls €0.10
+*** SHOW DOWN ***
+G.Sandr0: shows [Ac 2s] (two pair, Sevens and Sixes)
+amenakoy: mucks hand 
+G.Sandr0 collected €0.62 from pot
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [6c 7s 7d Td 6s]
+Seat 1: G.Sandr0 showed [Ac 2s] and won (€0.62) with two pair, Sevens and Sixes
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded before Flop
+Seat 6: amenakoy (big blind) mucked
+
+
+
+PokerStars Hand #222979607745:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:20:43 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€4.64 in chips) 
+Seat 2: sportivu13 (€12.45 in chips) 
+Seat 4: 0nix770 (€16.07 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€5.38 in chips) 
+amenakoy: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+0nix770: folds 
+amraith: folds 
+amenakoy: calls €0.05
+G.Sandr0: raises €0.10 to €0.20
+amenakoy: folds 
+Uncalled bet (€0.10) returned to G.Sandr0
+G.Sandr0 collected €0.20 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: G.Sandr0 (big blind) collected (€0.20)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+Seat 6: amenakoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979614813:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:20:57 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: G.Sandr0 (€4.74 in chips) 
+Seat 2: sportivu13 (€12.45 in chips) 
+Seat 4: 0nix770 (€16.07 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€5.28 in chips) 
+G.Sandr0: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amraith: folds 
+amenakoy: calls €0.10
+G.Sandr0: folds 
+sportivu13: checks 
+*** FLOP *** [5c Kd 8s]
+sportivu13: checks 
+amenakoy: bets €0.30
+sportivu13: calls €0.30
+*** TURN *** [5c Kd 8s] [Ad]
+sportivu13: checks 
+amenakoy: bets €0.70
+sportivu13: folds 
+Uncalled bet (€0.70) returned to amenakoy
+amenakoy collected €0.81 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.85 | Rake €0.04 
+Board [5c Kd 8s Ad]
+Seat 1: G.Sandr0 (small blind) folded before Flop
+Seat 2: sportivu13 (big blind) folded on the Turn
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy (button) collected (€0.81)
+
+
+
+PokerStars Hand #222979630956:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:21:26 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: G.Sandr0 (€4.69 in chips) 
+Seat 2: sportivu13 (€12.05 in chips) 
+Seat 4: 0nix770 (€16.07 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€5.69 in chips) 
+sportivu13: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+amenakoy: calls €0.10
+G.Sandr0: calls €0.10
+sportivu13: folds 
+0nix770: checks 
+*** FLOP *** [Ah 7h 4c]
+0nix770: bets €0.18
+amenakoy: folds 
+G.Sandr0: folds 
+Uncalled bet (€0.18) returned to 0nix770
+0nix770 collected €0.33 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02 
+Board [Ah 7h 4c]
+Seat 1: G.Sandr0 (button) folded on the Flop
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.33)
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy folded on the Flop
+
+
+
+PokerStars Hand #222979640368:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:21:44 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: G.Sandr0 (€4.59 in chips) 
+Seat 2: sportivu13 (€12 in chips) 
+Seat 4: 0nix770 (€16.30 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€5.59 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: folds 
+G.Sandr0: calls €0.10
+sportivu13: raises €0.32 to €0.42
+0nix770: raises €0.98 to €1.40
+amraith: folds 
+G.Sandr0: folds 
+sportivu13: calls €0.98
+*** FLOP *** [Ac Kc 9c]
+0nix770: bets €1.22
+sportivu13: folds 
+Uncalled bet (€1.22) returned to 0nix770
+0nix770 collected €2.86 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €3 | Rake €0.14 
+Board [Ac Kc 9c]
+Seat 1: G.Sandr0 folded before Flop
+Seat 2: sportivu13 (button) folded on the Flop
+Seat 4: 0nix770 (small blind) collected (€2.86)
+Seat 5: amraith (big blind) folded before Flop
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979659064:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:22:19 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: G.Sandr0 (€4.49 in chips) 
+Seat 2: sportivu13 (€10.60 in chips) 
+Seat 4: 0nix770 (€17.76 in chips) 
+Seat 5: amraith (€28.76 in chips) 
+Seat 6: amenakoy (€5.59 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+G.Sandr0: folds 
+sportivu13: folds 
+0nix770: folds 
+amraith: raises €0.15 to €0.25
+amenakoy: calls €0.15
+*** FLOP *** [2c 9h Qd]
+amraith: checks 
+amenakoy: bets €0.25
+amraith: calls €0.25
+*** TURN *** [2c 9h Qd] [3d]
+amraith: checks 
+amenakoy: bets €0.25
+amraith: calls €0.25
+*** RIVER *** [2c 9h Qd 3d] [7d]
+amraith: checks 
+amenakoy: bets €0.70
+amraith: calls €0.70
+*** SHOW DOWN ***
+amenakoy: shows [2h Ac] (a pair of Deuces)
+amraith: shows [6c Qc] (a pair of Queens)
+amraith collected €2.77 from pot
+*** SUMMARY ***
+Total pot €2.90 | Rake €0.13 
+Board [2c 9h Qd 3d 7d]
+Seat 1: G.Sandr0 folded before Flop (didn't bet)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) showed [6c Qc] and won (€2.77) with a pair of Queens
+Seat 6: amenakoy (big blind) showed [2h Ac] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #222979682489:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:23:03 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: G.Sandr0 (€4.49 in chips) 
+Seat 2: sportivu13 (€10.60 in chips) 
+Seat 4: 0nix770 (€17.76 in chips) 
+Seat 5: amraith (€30.08 in chips) 
+Seat 6: amenakoy (€4.14 in chips) 
+amenakoy: posts small blind €0.05
+G.Sandr0: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+0nix770: raises €0.15 to €0.25
+amraith: calls €0.25
+amenakoy: folds 
+G.Sandr0: calls €0.15
+*** FLOP *** [Jh 7d 8c]
+G.Sandr0: checks 
+0nix770: bets €0.32
+amraith: raises €0.78 to €1.10
+G.Sandr0: folds 
+0nix770: folds 
+Uncalled bet (€0.78) returned to amraith
+amraith collected €1.38 from pot
+*** SUMMARY ***
+Total pot €1.44 | Rake €0.06 
+Board [Jh 7d 8c]
+Seat 1: G.Sandr0 (big blind) folded on the Flop
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 folded on the Flop
+Seat 5: amraith (button) collected (€1.38)
+Seat 6: amenakoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979702819:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:23:41 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: G.Sandr0 (€4.24 in chips) 
+Seat 2: sportivu13 (€10.60 in chips) 
+Seat 4: 0nix770 (€17.19 in chips) 
+Seat 5: amraith (€30.89 in chips) 
+Seat 6: amenakoy (€4.09 in chips) 
+G.Sandr0: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amraith: raises €0.15 to €0.25
+amenakoy: folds 
+G.Sandr0: calls €0.20
+sportivu13: calls €0.15
+*** FLOP *** [5c Ks 9c]
+G.Sandr0: bets €0.40
+sportivu13: folds 
+amraith: folds 
+Uncalled bet (€0.40) returned to G.Sandr0
+G.Sandr0 collected €0.72 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [5c Ks 9c]
+Seat 1: G.Sandr0 (small blind) collected (€0.72)
+Seat 2: sportivu13 (big blind) folded on the Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith folded on the Flop
+Seat 6: amenakoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979723771:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:24:21 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: G.Sandr0 (€4.71 in chips) 
+Seat 2: sportivu13 (€10.35 in chips) 
+Seat 4: 0nix770 (€17.19 in chips) 
+Seat 5: amraith (€30.64 in chips) 
+Seat 6: amenakoy (€4.09 in chips) 
+sportivu13: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: raises €0.15 to €0.25
+amenakoy: folds 
+G.Sandr0: calls €0.25
+sportivu13: folds 
+0nix770: folds 
+*** FLOP *** [Jd 2h 8s]
+amraith: bets €0.35
+G.Sandr0: calls €0.35
+*** TURN *** [Jd 2h 8s] [Kd]
+amraith: bets €0.75
+G.Sandr0: raises €1.55 to €2.30
+amraith: folds 
+Uncalled bet (€1.55) returned to G.Sandr0
+G.Sandr0 collected €2.72 from pot
+G.Sandr0: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.85 | Rake €0.13 
+Board [Jd 2h 8s Kd]
+Seat 1: G.Sandr0 (button) collected (€2.72)
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 5: amraith folded on the Turn
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979742343:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:24:56 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: G.Sandr0 (€6.08 in chips) 
+Seat 2: sportivu13 (€10.30 in chips) 
+Seat 4: 0nix770 (€17.09 in chips) 
+Seat 5: amraith (€29.29 in chips) 
+Seat 6: amenakoy (€4.09 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: raises €0.15 to €0.25
+G.Sandr0: raises €0.25 to €0.50
+sportivu13: raises €9.80 to €10.30 and is all-in
+0nix770: folds 
+amraith: folds 
+amenakoy: folds 
+G.Sandr0: calls €5.58 and is all-in
+Uncalled bet (€4.22) returned to sportivu13
+*** FLOP *** [Kh 8h Ad]
+*** TURN *** [Kh 8h Ad] [2c]
+*** RIVER *** [Kh 8h Ad 2c] [Jd]
+*** SHOW DOWN ***
+G.Sandr0: shows [Kc Qh] (a pair of Kings)
+sportivu13: shows [Ah Qd] (a pair of Aces)
+sportivu13 collected €11.99 from pot
+*** SUMMARY ***
+Total pot €12.56 | Rake €0.57 
+Board [Kh 8h Ad 2c Jd]
+Seat 1: G.Sandr0 showed [Kc Qh] and lost with a pair of Kings
+Seat 2: sportivu13 (button) showed [Ah Qd] and won (€11.99) with a pair of Aces
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) folded before Flop
+Seat 6: amenakoy folded before Flop
+
+
+
+PokerStars Hand #222979764463:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:25:38 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 2: sportivu13 (€16.21 in chips) 
+Seat 4: 0nix770 (€17.04 in chips) 
+Seat 5: amraith (€29.19 in chips) 
+Seat 6: amenakoy (€3.84 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: raises €0.19 to €0.29
+0nix770: folds 
+amraith: folds 
+amenakoy: calls €0.19
+*** FLOP *** [5c Jh 4c]
+amenakoy: checks 
+G.Sandr0 leaves the table
+sportivu13: checks 
+*** TURN *** [5c Jh 4c] [Kh]
+antonio_dpmk joins the table at seat #1 
+amenakoy: bets €0.30
+sportivu13: folds 
+Uncalled bet (€0.30) returned to amenakoy
+amenakoy collected €0.60 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.63 | Rake €0.03 
+Board [5c Jh 4c Kh]
+Seat 2: sportivu13 folded on the Turn
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded before Flop
+Seat 6: amenakoy (big blind) collected (€0.60)
+
+
+
+PokerStars Hand #222979774657:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:25:58 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: antonio_dpmk (€10 in chips) 
+Seat 2: sportivu13 (€15.92 in chips) 
+Seat 4: 0nix770 (€17.04 in chips) 
+Seat 5: amraith (€29.14 in chips) 
+Seat 6: amenakoy (€4.15 in chips) 
+amenakoy: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+0nix770: folds 
+amraith: folds 
+amenakoy: folds 
+Uncalled bet (€0.05) returned to antonio_dpmk
+antonio_dpmk collected €0.10 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (big blind) collected (€0.10)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+Seat 6: amenakoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979778707:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:26:05 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€10.05 in chips) 
+Seat 2: sportivu13 (€15.92 in chips) 
+Seat 4: 0nix770 (€17.04 in chips) 
+Seat 5: amraith (€29.14 in chips) 
+Seat 6: amenakoy (€4.10 in chips) 
+antonio_dpmk: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+MR.PATJEW was removed from the table for failing to post
+MR.PATJEW leaves the table
+amraith: raises €0.15 to €0.25
+amenakoy: calls €0.25
+antonio_dpmk: calls €0.20
+sportivu13: folds 
+*** FLOP *** [6s Ac 7c]
+antonio_dpmk: checks 
+amraith: bets €0.45
+amenakoy: calls €0.45
+antonio_dpmk: calls €0.45
+*** TURN *** [6s Ac 7c] [Ts]
+antonio_dpmk: checks 
+amraith: checks 
+amenakoy: checks 
+*** RIVER *** [6s Ac 7c Ts] [3s]
+antonio_dpmk: checks 
+amraith: checks 
+amenakoy: bets €1.05
+antonio_dpmk: calls €1.05
+amraith: folds 
+*** SHOW DOWN ***
+amenakoy: shows [5c 2c] (high card Ace)
+antonio_dpmk: shows [Td Ah] (two pair, Aces and Tens)
+antonio_dpmk collected €4.11 from pot
+*** SUMMARY ***
+Total pot €4.30 | Rake €0.19 
+Board [6s Ac 7c Ts 3s]
+Seat 1: antonio_dpmk (small blind) showed [Td Ah] and won (€4.11) with two pair, Aces and Tens
+Seat 2: sportivu13 (big blind) folded before Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith folded on the River
+Seat 6: amenakoy (button) showed [5c 2c] and lost with high card Ace
+
+
+
+PokerStars Hand #222979811103:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:27:02 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€12.41 in chips) 
+Seat 2: sportivu13 (€15.82 in chips) 
+Seat 4: 0nix770 (€17.04 in chips) 
+Seat 5: amraith (€28.44 in chips) 
+Seat 6: amenakoy (€2.35 in chips) 
+sportivu13: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+amenakoy: folds 
+antonio_dpmk: folds 
+sportivu13: folds 
+Uncalled bet (€0.05) returned to 0nix770
+0nix770 collected €0.10 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (button) folded before Flop (didn't bet)
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) collected (€0.10)
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979815726:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:27:11 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: antonio_dpmk (€12.41 in chips) 
+Seat 2: sportivu13 (€15.77 in chips) 
+Seat 4: 0nix770 (€17.09 in chips) 
+Seat 5: amraith (€28.44 in chips) 
+Seat 6: amenakoy (€2.35 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: folds 
+antonio_dpmk: folds 
+sportivu13: folds 
+0nix770: raises €0.20 to €0.30
+amraith: calls €0.20
+*** FLOP *** [Js 8c 8d]
+0nix770: bets €0.22
+amraith: calls €0.22
+*** TURN *** [Js 8c 8d] [3d]
+0nix770: checks 
+amraith: bets €0.65
+0nix770: folds 
+Uncalled bet (€0.65) returned to amraith
+amraith collected €0.99 from pot
+*** SUMMARY ***
+Total pot €1.04 | Rake €0.05 
+Board [Js 8c 8d 3d]
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 2: sportivu13 (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded on the Turn
+Seat 5: amraith (big blind) collected (€0.99)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979843477:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:28:03 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€12.41 in chips) 
+Seat 2: sportivu13 (€15.77 in chips) 
+Seat 4: 0nix770 (€16.57 in chips) 
+Seat 5: amraith (€28.91 in chips) 
+Seat 6: amenakoy (€2.35 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+sportivu13: folds 
+0nix770: folds 
+amraith: folds 
+Uncalled bet (€0.05) returned to amenakoy
+amenakoy collected €0.10 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded before Flop
+Seat 6: amenakoy (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222979849333:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:28:15 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: antonio_dpmk (€12.41 in chips) 
+Seat 2: sportivu13 (€15.77 in chips) 
+Seat 4: 0nix770 (€16.57 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€2.40 in chips) 
+amenakoy: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: raises €0.19 to €0.29
+0nix770: folds 
+amraith: folds 
+amenakoy: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.19) returned to sportivu13
+sportivu13 collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 2: sportivu13 collected (€0.25)
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+Seat 6: amenakoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222979858140:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:28:31 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€12.31 in chips) 
+Seat 4: 0nix770 (€16.57 in chips) 
+Seat 5: amraith (€28.86 in chips) 
+Seat 6: amenakoy (€2.35 in chips) 
+antonio_dpmk: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: raises €0.15 to €0.25
+amenakoy: folds 
+antonio_dpmk: folds 
+0nix770: folds 
+Uncalled bet (€0.15) returned to amraith
+amraith collected €0.25 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 5: amraith collected (€0.25)
+Seat 6: amenakoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979864431:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:28:44 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€12.26 in chips) 
+Seat 4: 0nix770 (€16.47 in chips) 
+Seat 5: amraith (€29.01 in chips) 
+Seat 6: amenakoy (€2.35 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: folds 
+antonio_dpmk: folds 
+0nix770: folds 
+Uncalled bet (€0.05) returned to amraith
+amraith collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) collected (€0.10)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979868155:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:28:51 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€12.26 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€29.06 in chips) 
+Seat 6: amenakoy (€2.35 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+0nix770: folds 
+amraith: calls €0.05
+amenakoy: checks 
+*** FLOP *** [9h As Kc]
+amraith: checks 
+amenakoy: checks 
+*** TURN *** [9h As Kc] [4h]
+amraith: checks 
+amenakoy: checks 
+*** RIVER *** [9h As Kc 4h] [7s]
+amraith: checks 
+amenakoy: checks 
+*** SHOW DOWN ***
+amraith: shows [Ts 7h] (a pair of Sevens)
+amenakoy: mucks hand 
+amraith collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [9h As Kc 4h 7s]
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) showed [Ts 7h] and won (€0.19) with a pair of Sevens
+Seat 6: amenakoy (big blind) mucked
+
+
+
+PokerStars Hand #222979881160:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:29:16 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: antonio_dpmk (€12.26 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€29.15 in chips) 
+Seat 6: amenakoy (€2.25 in chips) 
+amenakoy: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amraith: raises €0.15 to €0.25
+amenakoy: calls €0.20
+antonio_dpmk: folds 
+*** FLOP *** [5s Ac 3c]
+amenakoy: bets €2 and is all-in
+TheHank111 joins the table at seat #3 
+amraith: folds 
+Uncalled bet (€2) returned to amenakoy
+amenakoy collected €0.57 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [5s Ac 3c]
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded on the Flop
+Seat 6: amenakoy (small blind) collected (€0.57)
+
+
+
+PokerStars Hand #222979896274:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:29:45 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€12.16 in chips) 
+Seat 3: TheHank111 (€10 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€28.90 in chips) 
+Seat 6: amenakoy (€2.57 in chips) 
+antonio_dpmk: posts small blind €0.05
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: raises €0.20 to €0.30
+amraith: folds 
+amenakoy: folds 
+antonio_dpmk: folds 
+TheHank111: folds 
+Uncalled bet (€0.20) returned to 0nix770
+0nix770 collected €0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 3: TheHank111 (big blind) folded before Flop
+Seat 4: 0nix770 collected (€0.25)
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979902374:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:29:56 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€12.11 in chips) 
+Seat 3: TheHank111 (€9.90 in chips) 
+Seat 4: 0nix770 (€16.57 in chips) 
+Seat 5: amraith (€28.90 in chips) 
+Seat 6: amenakoy (€2.57 in chips) 
+TheHank111: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+amenakoy: folds 
+antonio_dpmk: raises €0.15 to €0.25
+TheHank111: calls €0.20
+0nix770: folds 
+*** FLOP *** [7d 3d 6h]
+TheHank111: checks 
+antonio_dpmk: checks 
+*** TURN *** [7d 3d 6h] [Qh]
+TheHank111: checks 
+antonio_dpmk: checks 
+*** RIVER *** [7d 3d 6h Qh] [Ts]
+TheHank111: checks 
+antonio_dpmk: checks 
+*** SHOW DOWN ***
+TheHank111: shows [2h 2s] (a pair of Deuces)
+antonio_dpmk: mucks hand 
+TheHank111 collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [7d 3d 6h Qh Ts]
+Seat 1: antonio_dpmk (button) mucked
+Seat 3: TheHank111 (small blind) showed [2h 2s] and won (€0.57) with a pair of Deuces
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222979918369:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:30:27 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€11.86 in chips) 
+Seat 3: TheHank111 (€10.22 in chips) 
+Seat 4: 0nix770 (€16.47 in chips) 
+Seat 5: amraith (€28.90 in chips) 
+Seat 6: amenakoy (€2.57 in chips) 
+0nix770: posts small blind €0.05
+amraith: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: raises €0.10 to €0.20
+antonio_dpmk: folds 
+TheHank111: raises €0.80 to €1
+0nix770: folds 
+amraith: calls €0.90
+amenakoy: raises €1.57 to €2.57 and is all-in
+TheHank111: calls €1.57
+amraith: calls €1.57
+*** FLOP *** [7s 6d 4d]
+amraith: checks 
+TheHank111: checks 
+*** TURN *** [7s 6d 4d] [8d]
+amraith: checks 
+TheHank111: checks 
+*** RIVER *** [7s 6d 4d 8d] [8c]
+amraith: checks 
+TheHank111: checks 
+*** SHOW DOWN ***
+amraith: shows [Ad Ks] (a pair of Eights)
+amenakoy: shows [Jc Jh] (two pair, Jacks and Eights)
+TheHank111: mucks hand 
+amenakoy collected €7.41 from pot
+*** SUMMARY ***
+Total pot €7.76 | Rake €0.35 
+Board [7s 6d 4d 8d 8c]
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 3: TheHank111 (button) mucked
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: amraith (big blind) showed [Ad Ks] and lost with a pair of Eights
+Seat 6: amenakoy showed [Jc Jh] and won (€7.41) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #222979952677:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:31:33 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€11.86 in chips) 
+Seat 3: TheHank111 (€7.65 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€26.33 in chips) 
+Seat 6: amenakoy (€7.41 in chips) 
+amraith: posts small blind €0.05
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.20 to €0.30
+TheHank111: folds 
+0nix770: folds 
+amraith: folds 
+amenakoy: calls €0.20
+*** FLOP *** [7c Jd Jh]
+amenakoy: checks 
+antonio_dpmk: bets €0.20
+amenakoy: calls €0.20
+*** TURN *** [7c Jd Jh] [9d]
+amenakoy: checks 
+antonio_dpmk: checks 
+*** RIVER *** [7c Jd Jh 9d] [Ts]
+amenakoy: checks 
+antonio_dpmk: checks 
+*** SHOW DOWN ***
+amenakoy: shows [6h 6s] (two pair, Jacks and Sixes)
+antonio_dpmk: mucks hand 
+amenakoy collected €1 from pot
+*** SUMMARY ***
+Total pot €1.05 | Rake €0.05 
+Board [7c Jd Jh 9d Ts]
+Seat 1: antonio_dpmk mucked
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) folded before Flop (didn't bet)
+Seat 5: amraith (small blind) folded before Flop
+Seat 6: amenakoy (big blind) showed [6h 6s] and won (€1) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #222979971657:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:32:10 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: antonio_dpmk (€11.36 in chips) 
+Seat 3: TheHank111 (€7.65 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€26.28 in chips) 
+Seat 6: amenakoy (€7.91 in chips) 
+amenakoy: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+TheHank111: raises €0.20 to €0.30
+0nix770: folds 
+amraith: folds 
+amenakoy: calls €0.25
+antonio_dpmk: raises €0.70 to €1
+TheHank111: calls €0.70
+amenakoy: calls €0.70
+*** FLOP *** [Jc Js Tc]
+amenakoy: checks 
+antonio_dpmk: checks 
+TheHank111: checks 
+*** TURN *** [Jc Js Tc] [As]
+amenakoy: checks 
+antonio_dpmk: bets €1.43
+TheHank111: calls €1.43
+amenakoy: folds 
+*** RIVER *** [Jc Js Tc As] [3s]
+antonio_dpmk: bets €8.93 and is all-in
+TheHank111: calls €5.22 and is all-in
+Uncalled bet (€3.71) returned to antonio_dpmk
+*** SHOW DOWN ***
+antonio_dpmk: shows [Ks Qs] (a flush, Ace high)
+TheHank111: shows [Jh Ts] (a full house, Jacks full of Tens)
+TheHank111 collected €15.57 from pot
+*** SUMMARY ***
+Total pot €16.30 | Rake €0.73 
+Board [Jc Js Tc As 3s]
+Seat 1: antonio_dpmk (big blind) showed [Ks Qs] and lost with a flush, Ace high
+Seat 3: TheHank111 showed [Jh Ts] and won (€15.57) with a full house, Jacks full of Tens
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith (button) folded before Flop (didn't bet)
+Seat 6: amenakoy (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222980014868:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:33:19 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€10 in chips) 
+Seat 3: TheHank111 (€15.57 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€26.28 in chips) 
+Seat 6: amenakoy (€6.91 in chips) 
+antonio_dpmk: posts small blind €0.05
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amraith: raises €0.15 to €0.25
+amenakoy: folds 
+antonio_dpmk: raises €0.75 to €1
+TheHank111: folds 
+amraith: folds 
+Uncalled bet (€0.75) returned to antonio_dpmk
+antonio_dpmk collected €0.60 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: antonio_dpmk (small blind) collected (€0.60)
+Seat 3: TheHank111 (big blind) folded before Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 5: amraith folded before Flop
+Seat 6: amenakoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980027062:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:33:43 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€10.35 in chips) 
+Seat 3: TheHank111 (€15.47 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 5: amraith (€26.03 in chips) 
+Seat 6: amenakoy (€6.91 in chips) 
+TheHank111: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amraith: folds 
+amenakoy: calls €0.10
+antonio_dpmk: folds 
+TheHank111: folds 
+0nix770: checks 
+*** FLOP *** [Td Qd 7d]
+0nix770: checks 
+amenakoy: checks 
+*** TURN *** [Td Qd 7d] [8h]
+0nix770: checks 
+amenakoy: checks 
+*** RIVER *** [Td Qd 7d 8h] [3h]
+0nix770: checks 
+amenakoy: checks 
+*** SHOW DOWN ***
+0nix770: shows [Ks 2c] (high card King)
+amenakoy: shows [2d Ah] (high card Ace)
+amenakoy collected €0.24 from pot
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [Td Qd 7d 8h 3h]
+Seat 1: antonio_dpmk (button) folded before Flop (didn't bet)
+Seat 3: TheHank111 (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) showed [Ks 2c] and lost with high card King
+Seat 5: amraith folded before Flop (didn't bet)
+Seat 6: amenakoy showed [2d Ah] and won (€0.24) with high card Ace
+
+
+
+PokerStars Hand #222980044509:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:34:17 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€10.35 in chips) 
+Seat 3: TheHank111 (€15.42 in chips) 
+Seat 4: 0nix770 (€16.32 in chips) 
+Seat 6: amenakoy (€7.05 in chips) 
+0nix770: posts small blind €0.05
+amraith: is sitting out 
+amenakoy: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.20 to €0.30
+amraith leaves the table
+TheHank111: calls €0.30
+0nix770: folds 
+amenakoy: calls €0.20
+*** FLOP *** [7d Ad Jc]
+amenakoy: checks 
+antonio_dpmk: bets €0.30
+TheHank111: calls €0.30
+amenakoy: folds 
+*** TURN *** [7d Ad Jc] [9d]
+antonio_dpmk: bets €0.49
+TheHank111: calls €0.49
+*** RIVER *** [7d Ad Jc 9d] [4d]
+antonio_dpmk: checks 
+TheHank111: bets €0.80
+antonio_dpmk: calls €0.80
+*** SHOW DOWN ***
+TheHank111: shows [Td 9s] (a flush, Ace high)
+antonio_dpmk: shows [Jh Jd] (a flush, Ace high - Jack higher)
+antonio_dpmk collected €3.94 from pot
+*** SUMMARY ***
+Total pot €4.13 | Rake €0.19 
+Board [7d Ad Jc 9d 4d]
+Seat 1: antonio_dpmk showed [Jh Jd] and won (€3.94) with a flush, Ace high
+Seat 3: TheHank111 (button) showed [Td 9s] and lost with a flush, Ace high
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: amenakoy (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222980064354:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:34:57 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€12.40 in chips) 
+Seat 3: TheHank111 (€13.53 in chips) 
+Seat 4: 0nix770 (€16.27 in chips) 
+Seat 6: amenakoy (€6.75 in chips) 
+amenakoy: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+TheHank111: folds 
+0nix770: raises €0.13 to €0.23
+amenakoy: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.13) returned to 0nix770
+0nix770 collected €0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) collected (€0.25)
+Seat 6: amenakoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980072815:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:35:14 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€12.30 in chips) 
+Seat 3: TheHank111 (€13.53 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 6: amenakoy (€6.70 in chips) 
+antonio_dpmk: posts small blind €0.05
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amenakoy: calls €0.10
+antonio_dpmk: raises €0.20 to €0.30
+TheHank111: folds 
+amenakoy: calls €0.20
+*** FLOP *** [2h 6d 5c]
+antonio_dpmk: checks 
+amenakoy: checks 
+*** TURN *** [2h 6d 5c] [Ah]
+antonio_dpmk: bets €0.22
+amenakoy: calls €0.22
+*** RIVER *** [2h 6d 5c Ah] [7c]
+antonio_dpmk: bets €0.55
+amenakoy: calls €0.55
+*** SHOW DOWN ***
+antonio_dpmk: shows [Kd 8s] (high card Ace)
+amenakoy: shows [Ad 9c] (a pair of Aces)
+amenakoy collected €2.14 from pot
+*** SUMMARY ***
+Total pot €2.24 | Rake €0.10 
+Board [2h 6d 5c Ah 7c]
+Seat 1: antonio_dpmk (small blind) showed [Kd 8s] and lost with high card Ace
+Seat 3: TheHank111 (big blind) folded before Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 6: amenakoy (button) showed [Ad 9c] and won (€2.14) with a pair of Aces
+
+
+
+PokerStars Hand #222980089272:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:35:46 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€11.23 in chips) 
+Seat 3: TheHank111 (€13.43 in chips) 
+Seat 4: 0nix770 (€16.42 in chips) 
+Seat 6: amenakoy (€7.77 in chips) 
+TheHank111: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: calls €0.10
+antonio_dpmk: raises €0.50 to €0.60
+TheHank111: folds 
+0nix770: folds 
+amenakoy: calls €0.50
+*** FLOP *** [Js 6d 5c]
+amenakoy: checks 
+antonio_dpmk: bets €0.65
+amenakoy: calls €0.65
+*** TURN *** [Js 6d 5c] [3s]
+amenakoy: checks 
+antonio_dpmk: bets €9.98 and is all-in
+amenakoy: folds 
+Uncalled bet (€9.98) returned to antonio_dpmk
+antonio_dpmk collected €2.53 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.65 | Rake €0.12 
+Board [Js 6d 5c 3s]
+Seat 1: antonio_dpmk (button) collected (€2.53)
+Seat 3: TheHank111 (small blind) folded before Flop
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 6: amenakoy folded on the Turn
+
+
+
+PokerStars Hand #222980103566:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:36:14 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€12.51 in chips) 
+Seat 3: TheHank111 (€13.38 in chips) 
+Seat 4: 0nix770 (€16.32 in chips) 
+Seat 6: amenakoy (€6.52 in chips) 
+0nix770: posts small blind €0.05
+amenakoy: posts big blind €0.10
+sportivu13: sits out 
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+TheHank111 is disconnected 
+TheHank111 is connected 
+TheHank111 has timed out
+TheHank111: folds 
+0nix770: folds 
+Uncalled bet (€0.05) returned to amenakoy
+amenakoy collected €0.10 from pot
+amenakoy: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 3: TheHank111 (button) folded before Flop (didn't bet)
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 6: amenakoy (big blind) collected (€0.10)
+
+
+
+PokerStars Hand #222980116710:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:36:40 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€12.51 in chips) 
+Seat 3: TheHank111 (€13.38 in chips) 
+Seat 4: 0nix770 (€16.27 in chips) 
+Seat 6: amenakoy (€6.57 in chips) 
+amenakoy: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+sportivu13: sits out 
+*** HOLE CARDS ***
+TheHank111: folds 
+0nix770: raises €0.13 to €0.23
+amenakoy: calls €0.18
+antonio_dpmk: calls €0.13
+*** FLOP *** [5s Kc 2s]
+amenakoy: checks 
+antonio_dpmk: checks 
+0nix770: bets €0.27
+amenakoy: calls €0.27
+antonio_dpmk: folds 
+*** TURN *** [5s Kc 2s] [3h]
+amenakoy: checks 
+0nix770: checks 
+*** RIVER *** [5s Kc 2s 3h] [3c]
+amenakoy: checks 
+0nix770: checks 
+*** SHOW DOWN ***
+amenakoy: shows [Tc Kh] (two pair, Kings and Threes)
+0nix770: mucks hand 
+amenakoy collected €1.17 from pot
+*** SUMMARY ***
+Total pot €1.23 | Rake €0.06 
+Board [5s Kc 2s 3h 3c]
+Seat 1: antonio_dpmk (big blind) folded on the Flop
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) mucked
+Seat 6: amenakoy (small blind) showed [Tc Kh] and won (€1.17) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #222980140348:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:37:27 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€12.28 in chips) 
+Seat 2: sportivu13 (€15.92 in chips) 
+Seat 3: TheHank111 (€13.38 in chips) 
+Seat 4: 0nix770 (€15.77 in chips) 
+Seat 6: amenakoy (€7.24 in chips) 
+antonio_dpmk: posts small blind €0.05
+sportivu13: posts big blind €0.10
+*** HOLE CARDS ***
+TheHank111: folds 
+0nix770: folds 
+amenakoy: calls €0.10
+antonio_dpmk: raises €0.10 to €0.20
+sportivu13: folds 
+amenakoy: raises €0.30 to €0.50
+antonio_dpmk: calls €0.30
+*** FLOP *** [6c Ks As]
+antonio_dpmk: checks 
+amenakoy: bets €0.53
+antonio_dpmk: calls €0.53
+*** TURN *** [6c Ks As] [2c]
+antonio_dpmk: checks 
+amenakoy: bets €0.60
+antonio_dpmk: calls €0.60
+*** RIVER *** [6c Ks As 2c] [4d]
+antonio_dpmk: checks 
+amenakoy: checks 
+*** SHOW DOWN ***
+antonio_dpmk: shows [2s 8s] (a pair of Deuces)
+amenakoy: shows [Jh Jd] (a pair of Jacks)
+amenakoy collected €3.21 from pot
+*** SUMMARY ***
+Total pot €3.36 | Rake €0.15 
+Board [6c Ks As 2c 4d]
+Seat 1: antonio_dpmk (small blind) showed [2s 8s] and lost with a pair of Deuces
+Seat 2: sportivu13 (big blind) folded before Flop
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 6: amenakoy (button) showed [Jh Jd] and won (€3.21) with a pair of Jacks
+
+
+
+PokerStars Hand #222980160557:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:38:07 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€10.65 in chips) 
+Seat 2: sportivu13 (€15.82 in chips) 
+Seat 3: TheHank111 (€13.38 in chips) 
+Seat 4: 0nix770 (€15.77 in chips) 
+Seat 6: amenakoy (€8.82 in chips) 
+sportivu13: posts small blind €0.05
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+0nix770: folds 
+amenakoy: calls €0.10
+antonio_dpmk: raises €0.20 to €0.30
+sportivu13: folds 
+TheHank111: folds 
+amenakoy: calls €0.20
+*** FLOP *** [4h 7c 9c]
+amenakoy: checks 
+antonio_dpmk: bets €0.40
+amenakoy: folds 
+Uncalled bet (€0.40) returned to antonio_dpmk
+antonio_dpmk collected €0.72 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.03 
+Board [4h 7c 9c]
+Seat 1: antonio_dpmk (button) collected (€0.72)
+Seat 2: sportivu13 (small blind) folded before Flop
+Seat 3: TheHank111 (big blind) folded before Flop
+Seat 4: 0nix770 folded before Flop (didn't bet)
+Seat 6: amenakoy folded on the Flop
+
+
+
+PokerStars Hand #222980172473:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:38:31 ET
+Table 'Aeria III' 6-max Seat #2 is the button
+Seat 1: antonio_dpmk (€11.07 in chips) 
+Seat 2: sportivu13 (€15.77 in chips) 
+Seat 3: TheHank111 (€13.28 in chips) 
+Seat 4: 0nix770 (€15.77 in chips) 
+Seat 6: amenakoy (€8.52 in chips) 
+TheHank111: posts small blind €0.05
+0nix770: posts big blind €0.10
+*** HOLE CARDS ***
+amenakoy: calls €0.10
+antonio_dpmk: raises €0.15 to €0.25
+sportivu13: folds 
+TheHank111: raises €0.85 to €1.10
+0nix770: folds 
+amenakoy: calls €1
+antonio_dpmk: folds 
+*** FLOP *** [As Qd 3d]
+TheHank111: checks 
+amenakoy: checks 
+*** TURN *** [As Qd 3d] [Th]
+TheHank111: bets €0.90
+amenakoy: calls €0.90
+*** RIVER *** [As Qd 3d Th] [7c]
+arabella 33 joins the table at seat #5 
+TheHank111: bets €1.80
+amenakoy: raises €4.72 to €6.52 and is all-in
+TheHank111: calls €4.72
+*** SHOW DOWN ***
+amenakoy: shows [Kd Tc] (a pair of Tens)
+TheHank111: shows [Ad Qc] (two pair, Aces and Queens)
+TheHank111 collected €16.61 from pot
+*** SUMMARY ***
+Total pot €17.39 | Rake €0.78 
+Board [As Qd 3d Th 7c]
+Seat 1: antonio_dpmk folded before Flop
+Seat 2: sportivu13 (button) folded before Flop (didn't bet)
+Seat 3: TheHank111 (small blind) showed [Ad Qc] and won (€16.61) with two pair, Aces and Queens
+Seat 4: 0nix770 (big blind) folded before Flop
+Seat 6: amenakoy showed [Kd Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #222980210246:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:39:47 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€10.82 in chips) 
+Seat 2: sportivu13 (€15.77 in chips) 
+Seat 3: TheHank111 (€21.37 in chips) 
+Seat 4: 0nix770 (€15.67 in chips) 
+Seat 5: arabella 33 (€10 in chips) 
+0nix770: posts small blind €0.05
+arabella 33: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+sportivu13: raises €0.19 to €0.29
+TheHank111: calls €0.29
+amenakoy leaves the table
+0nix770: folds 
+arabella 33: calls €0.19
+*** FLOP *** [5c 4d Ts]
+arabella 33: checks 
+sportivu13: bets €0.60
+TheHank111: folds 
+arabella 33: folds 
+Uncalled bet (€0.60) returned to sportivu13
+sportivu13 collected €0.88 from pot
+*** SUMMARY ***
+Total pot €0.92 | Rake €0.04 
+Board [5c 4d Ts]
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 2: sportivu13 collected (€0.88)
+Seat 3: TheHank111 (button) folded on the Flop
+Seat 4: 0nix770 (small blind) folded before Flop
+Seat 5: arabella 33 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222980225962:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:40:18 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€10.82 in chips) 
+Seat 2: sportivu13 (€16.36 in chips) 
+Seat 3: TheHank111 (€21.08 in chips) 
+Seat 4: 0nix770 (€15.62 in chips) 
+Seat 5: arabella 33 (€10 in chips) 
+arabella 33: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13: folds 
+TheHank111: folds 
+0nix770: raises €0.13 to €0.23
+arabella 33: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.13) returned to 0nix770
+0nix770 collected €0.25 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 2: sportivu13 folded before Flop (didn't bet)
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: 0nix770 (button) collected (€0.25)
+Seat 5: arabella 33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980232929:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:40:32 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: antonio_dpmk (€10.72 in chips) 
+Seat 3: TheHank111 (€21.08 in chips) 
+Seat 4: 0nix770 (€15.77 in chips) 
+Seat 5: arabella 33 (€10 in chips) 
+antonio_dpmk: posts small blind €0.05
+sportivu13: is sitting out 
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+sportivu13 leaves the table
+0nix770: raises €0.15 to €0.25
+arabella 33: calls €0.25
+antonio_dpmk: folds 
+TheHank111: calls €0.15
+*** FLOP *** [Kc 7s 7h]
+TheHank111: checks 
+0nix770: bets €0.27
+arabella 33: folds 
+TheHank111: folds 
+Uncalled bet (€0.27) returned to 0nix770
+0nix770 collected €0.76 from pot
+0nix770: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.80 | Rake €0.04 
+Board [Kc 7s 7h]
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 3: TheHank111 (big blind) folded on the Flop
+Seat 4: 0nix770 collected (€0.76)
+Seat 5: arabella 33 (button) folded on the Flop
+
+
+
+PokerStars Hand #222980249019:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:41:05 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€10.67 in chips) 
+Seat 3: TheHank111 (€20.83 in chips) 
+Seat 5: arabella 33 (€10 in chips) 
+TheHank111: posts small blind €0.05
+0nix770: is sitting out 
+0nix770 leaves the table
+arabella 33: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.15 to €0.25
+Hundrendret joins the table at seat #4 
+TheHank111: calls €0.20
+arabella 33: folds 
+*** FLOP *** [Qs Jd Th]
+TheHank111: checks 
+antonio_dpmk: bets €0.30
+sean4432 joins the table at seat #6 
+TheHank111 is disconnected 
+TheHank111 is connected 
+TheHank111: folds 
+Uncalled bet (€0.30) returned to antonio_dpmk
+antonio_dpmk collected €0.57 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [Qs Jd Th]
+Seat 1: antonio_dpmk (button) collected (€0.57)
+Seat 3: TheHank111 (small blind) folded on the Flop
+Seat 5: arabella 33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980269228:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:41:45 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€10.99 in chips) 
+Seat 3: TheHank111 (€20.58 in chips) 
+Seat 5: arabella 33 (€10 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+arabella 33: posts small blind €0.05
+sean4432: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+TheHank111: folds 
+arabella 33: raises €0.20 to €0.30
+sean4432: folds 
+Uncalled bet (€0.20) returned to arabella 33
+arabella 33 collected €0.20 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 3: TheHank111 (button) folded before Flop (didn't bet)
+Seat 5: arabella 33 (small blind) collected (€0.20)
+Seat 6: sean4432 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980273737:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:41:55 ET
+Table 'Aeria III' 6-max Seat #5 is the button
+Seat 1: antonio_dpmk (€10.99 in chips) 
+Seat 3: TheHank111 (€20.58 in chips) 
+Seat 5: arabella 33 (€10.10 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+sean4432: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+Hundrendret: sits out 
+*** HOLE CARDS ***
+TheHank111: raises €0.20 to €0.30
+arabella 33: raises €0.75 to €1.05
+sean4432: folds 
+antonio_dpmk: folds 
+TheHank111: calls €0.75
+*** FLOP *** [8s 7c 9s]
+Marauder777 joins the table at seat #2 
+TheHank111: bets €0.80
+arabella 33: calls €0.80
+*** TURN *** [8s 7c 9s] [Ah]
+TheHank111: checks 
+arabella 33: bets €2
+TheHank111: folds 
+Uncalled bet (€2) returned to arabella 33
+arabella 33 collected €3.68 from pot
+arabella 33: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.85 | Rake €0.17 
+Board [8s 7c 9s Ah]
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 3: TheHank111 folded on the Turn
+Seat 5: arabella 33 (button) collected (€3.68)
+Seat 6: sean4432 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980303882:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:42:56 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€10.89 in chips) 
+Seat 3: TheHank111 (€18.73 in chips) 
+Seat 5: arabella 33 (€11.93 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+antonio_dpmk: posts small blind €0.05
+TheHank111: posts big blind €0.10
+Hundrendret: sits out 
+*** HOLE CARDS ***
+arabella 33: folds 
+sean4432: raises €0.10 to €0.20
+antonio_dpmk: calls €0.15
+TheHank111: calls €0.10
+*** FLOP *** [5d Ah Ts]
+antonio_dpmk: checks 
+TheHank111: checks 
+sean4432: checks 
+*** TURN *** [5d Ah Ts] [2s]
+antonio_dpmk: checks 
+TheHank111: checks 
+sean4432: checks 
+*** RIVER *** [5d Ah Ts 2s] [8s]
+antonio_dpmk: checks 
+TheHank111: checks 
+sean4432: checks 
+*** SHOW DOWN ***
+antonio_dpmk: shows [Tc Qd] (a pair of Tens)
+TheHank111: mucks hand 
+sean4432: mucks hand 
+antonio_dpmk collected €0.57 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.03 
+Board [5d Ah Ts 2s 8s]
+Seat 1: antonio_dpmk (small blind) showed [Tc Qd] and won (€0.57) with a pair of Tens
+Seat 3: TheHank111 (big blind) mucked
+Seat 5: arabella 33 folded before Flop (didn't bet)
+Seat 6: sean4432 (button) mucked
+
+
+
+PokerStars Hand #222980319206:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:43:27 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€11.26 in chips) 
+Seat 3: TheHank111 (€18.53 in chips) 
+Seat 4: Hundrendret (€10.15 in chips) 
+Seat 5: arabella 33 (€11.93 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+TheHank111: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+arabella 33: folds 
+sean4432: folds 
+antonio_dpmk: folds 
+TheHank111: folds 
+Uncalled bet (€0.05) returned to Hundrendret
+Hundrendret collected €0.10 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (button) folded before Flop (didn't bet)
+Seat 3: TheHank111 (small blind) folded before Flop
+Seat 4: Hundrendret (big blind) collected (€0.10)
+Seat 5: arabella 33 folded before Flop (didn't bet)
+Seat 6: sean4432 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980325030:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:43:39 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€11.26 in chips) 
+Seat 3: TheHank111 (€18.48 in chips) 
+Seat 4: Hundrendret (€10.20 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+Hundrendret: posts small blind €0.05
+arabella 33: is sitting out 
+sean4432: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: folds 
+arabella 33 leaves the table
+TheHank111: raises €0.20 to €0.30
+Hundrendret: folds 
+sean4432: folds 
+Uncalled bet (€0.20) returned to TheHank111
+TheHank111 collected €0.25 from pot
+TheHank111: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk folded before Flop (didn't bet)
+Seat 3: TheHank111 (button) collected (€0.25)
+Seat 4: Hundrendret (small blind) folded before Flop
+Seat 6: sean4432 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980333688:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:43:57 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€11.26 in chips) 
+Seat 3: TheHank111 (€18.63 in chips) 
+Seat 4: Hundrendret (€10.15 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+sean4432: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+TheHank111: folds 
+Hundrendret: folds 
+sean4432: raises €0.10 to €0.20
+antonio_dpmk: folds 
+Uncalled bet (€0.10) returned to sean4432
+sean4432 collected €0.20 from pot
+sean4432: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: Hundrendret (button) folded before Flop (didn't bet)
+Seat 6: sean4432 (small blind) collected (€0.20)
+
+
+
+PokerStars Hand #222980338001:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:44:05 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€11.16 in chips) 
+Seat 3: TheHank111 (€18.63 in chips) 
+Seat 4: Hundrendret (€10.15 in chips) 
+Seat 6: sean4432 (€10.10 in chips) 
+antonio_dpmk: posts small blind €0.05
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+sean4432: raises €0.10 to €0.20
+antonio_dpmk: calls €0.15
+TheHank111: raises €1.20 to €1.40
+sean4432: folds 
+antonio_dpmk: folds 
+Uncalled bet (€1.20) returned to TheHank111
+Marauder777 leaves the table
+TheHank111 collected €0.60 from pot
+TheHank111: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: antonio_dpmk (small blind) folded before Flop
+Seat 3: TheHank111 (big blind) collected (€0.60)
+Seat 4: Hundrendret folded before Flop (didn't bet)
+Seat 6: sean4432 (button) folded before Flop
+
+
+
+PokerStars Hand #222980352646:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:44:35 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€10.96 in chips) 
+Seat 3: TheHank111 (€19.03 in chips) 
+Seat 4: Hundrendret (€10.15 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+TheHank111: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+sean4432: raises €0.15 to €0.25
+antonio_dpmk: folds 
+TheHank111: folds 
+Hundrendret: folds 
+Uncalled bet (€0.15) returned to sean4432
+sean4432 collected €0.25 from pot
+sean4432: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk (button) folded before Flop (didn't bet)
+Seat 3: TheHank111 (small blind) folded before Flop
+Seat 4: Hundrendret (big blind) folded before Flop
+Seat 6: sean4432 collected (€0.25)
+
+
+
+PokerStars Hand #222980357947:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:44:46 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€10.96 in chips) 
+Seat 3: TheHank111 (€18.98 in chips) 
+Seat 4: Hundrendret (€10.05 in chips) 
+Seat 6: sean4432 (€10.15 in chips) 
+Hundrendret: posts small blind €0.05
+sean4432: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.20 to €0.30
+TheHank111: calls €0.30
+Hundrendret: calls €0.25
+sean4432: folds 
+*** FLOP *** [4h 8d 9c]
+Hundrendret: checks 
+antonio_dpmk: checks 
+TheHank111: bets €0.60
+Hundrendret: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.60) returned to TheHank111
+TheHank111 collected €0.96 from pot
+TheHank111: doesn't show hand 
+*** SUMMARY ***
+Total pot €1 | Rake €0.04 
+Board [4h 8d 9c]
+Seat 1: antonio_dpmk folded on the Flop
+Seat 3: TheHank111 (button) collected (€0.96)
+Seat 4: Hundrendret (small blind) folded on the Flop
+Seat 6: sean4432 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980376684:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:45:25 ET
+Table 'Aeria III' 6-max Seat #4 is the button
+Seat 1: antonio_dpmk (€10.66 in chips) 
+Seat 3: TheHank111 (€19.64 in chips) 
+Seat 4: Hundrendret (€10 in chips) 
+Seat 6: sean4432 (€10.05 in chips) 
+sean4432: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+TheHank111: folds 
+Hundrendret: folds 
+sean4432: folds 
+Uncalled bet (€0.05) returned to antonio_dpmk
+antonio_dpmk collected €0.10 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: antonio_dpmk (big blind) collected (€0.10)
+Seat 3: TheHank111 folded before Flop (didn't bet)
+Seat 4: Hundrendret (button) folded before Flop (didn't bet)
+Seat 6: sean4432 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222980383442:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:45:38 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€10.71 in chips) 
+Seat 3: TheHank111 (€19.64 in chips) 
+Seat 4: Hundrendret (€10 in chips) 
+Seat 6: sean4432 (€10 in chips) 
+antonio_dpmk: posts small blind €0.05
+TheHank111: posts big blind €0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+sean4432: raises €0.10 to €0.20
+antonio_dpmk: calls €0.15
+TheHank111: calls €0.10
+*** FLOP *** [Ah 7s 5s]
+antonio_dpmk: checks 
+TheHank111: checks 
+sean4432: bets €0.43
+antonio_dpmk: folds 
+TheHank111: calls €0.43
+*** TURN *** [Ah 7s 5s] [4s]
+TheHank111: bets €0.40
+sean4432: calls €0.40
+*** RIVER *** [Ah 7s 5s 4s] [As]
+TheHank111 is disconnected 
+TheHank111 is connected 
+TheHank111: bets €1.10
+sean4432: raises €7.87 to €8.97 and is all-in
+TheHank111: calls €7.87
+*** SHOW DOWN ***
+sean4432: shows [Ad 5c] (a full house, Aces full of Fives)
+TheHank111: shows [Qs 8s] (a flush, Ace high)
+sean4432 collected €19.45 from pot
+*** SUMMARY ***
+Total pot €20.20 | Rake €0.75 
+Board [Ah 7s 5s 4s As]
+Seat 1: antonio_dpmk (small blind) folded on the Flop
+Seat 3: TheHank111 (big blind) showed [Qs 8s] and lost with a flush, Ace high
+Seat 4: Hundrendret folded before Flop (didn't bet)
+Seat 6: sean4432 (button) showed [Ad 5c] and won (€19.45) with a full house, Aces full of Fives
+
+
+
+PokerStars Hand #222980421722:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:46:57 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€10.51 in chips) 
+Seat 3: TheHank111 (€9.64 in chips) 
+Seat 4: Hundrendret (€10 in chips) 
+Seat 6: sean4432 (€19.45 in chips) 
+TheHank111: posts small blind €0.05
+Hundrendret: posts big blind €0.10
+*** HOLE CARDS ***
+sean4432: folds 
+antonio_dpmk: raises €0.15 to €0.25
+TheHank111: raises €0.85 to €1.10
+Hundrendret: folds 
+antonio_dpmk: folds 
+Uncalled bet (€0.85) returned to TheHank111
+TheHank111 collected €0.60 from pot
+TheHank111: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: antonio_dpmk (button) folded before Flop
+Seat 3: TheHank111 (small blind) collected (€0.60)
+Seat 4: Hundrendret (big blind) folded before Flop
+Seat 6: sean4432 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222980440698:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:47:13 ET
+Table 'Aeria III' 6-max Seat #3 is the button
+Seat 1: antonio_dpmk (€10.26 in chips) 
+Seat 3: TheHank111 (€9.99 in chips) 
+Seat 4: Hundrendret (€10 in chips) 
+Seat 6: sean4432 (€19.45 in chips) 
+Hundrendret: posts small blind €0.05
+sean4432: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.20 to €0.30
+TheHank111: folds 
+Hundrendret: folds 
+sean4432: folds 
+Uncalled bet (€0.20) returned to antonio_dpmk
+antonio_dpmk collected €0.25 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: antonio_dpmk collected (€0.25)
+Seat 3: TheHank111 (button) folded before Flop (didn't bet)
+Seat 4: Hundrendret (small blind) folded before Flop
+Seat 6: sean4432 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980548923:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:50:59 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€11.79 in chips) 
+Seat 6: sean4432 (€18.97 in chips) 
+sean4432: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+sean4432: raises €0.10 to €0.20
+antonio_dpmk: folds 
+Uncalled bet (€0.10) returned to sean4432
+sean4432 collected €0.20 from pot
+sean4432: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: antonio_dpmk (big blind) folded before Flop
+Seat 6: sean4432 (button) (small blind) collected (€0.20)
+
+
+
+PokerStars Hand #222980561499:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:51:25 ET
+Table 'Aeria III' 6-max Seat #1 is the button
+Seat 1: antonio_dpmk (€11.69 in chips) 
+Seat 6: sean4432 (€19.07 in chips) 
+antonio_dpmk: posts small blind €0.05
+sean4432: posts big blind €0.10
+*** HOLE CARDS ***
+antonio_dpmk: raises €0.10 to €0.20
+sean4432: folds 
+Uncalled bet (€0.10) returned to antonio_dpmk
+antonio_dpmk collected €0.20 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: antonio_dpmk (button) (small blind) collected (€0.20)
+Seat 6: sean4432 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222980566565:  Hold'em No Limit (€0.05/€0.10 EUR) - 2021/01/23 19:51:36 ET
+Table 'Aeria III' 6-max Seat #6 is the button
+Seat 1: antonio_dpmk (€11.79 in chips) 
+Seat 6: sean4432 (€18.97 in chips) 
+sean4432: posts small blind €0.05
+antonio_dpmk: posts big blind €0.10
+*** HOLE CARDS ***
+sean4432: raises €0.10 to €0.20
+antonio_dpmk: raises €0.80 to €1
+sean4432: folds 
+Uncalled bet (€0.80) returned to antonio_dpmk
+antonio_dpmk collected €0.40 from pot
+antonio_dpmk: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.40 | Rake €0 
+Seat 1: antonio_dpmk (big blind) collected (€0.40)
+Seat 6: sean4432 (button) (small blind) folded before Flop
+
+
+

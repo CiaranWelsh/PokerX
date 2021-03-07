@@ -1,0 +1,3365 @@
+﻿PokerStars Hand #222963596887:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:26:04 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: LuckyTatia ($11.01 in chips) 
+Seat 3: mentoRisen ($10.15 in chips) 
+Seat 5: mastiko1996 ($10 in chips) 
+Seat 6: Polo&Co83 ($6.32 in chips) 
+mastiko1996: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: raises $0.20 to $0.30
+mentoRisen: folds 
+mastiko1996: raises $0.85 to $1.15
+Polo&Co83: folds 
+LuckyTatia: folds 
+Uncalled bet ($0.85) returned to mastiko1996
+mastiko1996 collected $0.70 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: LuckyTatia folded before Flop
+Seat 3: mentoRisen (button) folded before Flop (didn't bet)
+Seat 5: mastiko1996 (small blind) collected ($0.70)
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963615003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:26:28 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: LuckyTatia ($10.71 in chips) 
+Seat 3: mentoRisen ($10.15 in chips) 
+Seat 5: mastiko1996 ($10.40 in chips) 
+Seat 6: Polo&Co83 ($6.22 in chips) 
+Polo&Co83: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+mentoRisen: folds 
+mastiko1996: raises $0.20 to $0.30
+Polo&Co83: folds 
+LuckyTatia: folds 
+Uncalled bet ($0.20) returned to mastiko1996
+mastiko1996 collected $0.25 from pot
+mastiko1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: LuckyTatia (big blind) folded before Flop
+Seat 3: mentoRisen folded before Flop (didn't bet)
+Seat 5: mastiko1996 (button) collected ($0.25)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963630201:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:26:48 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: LuckyTatia ($10.61 in chips) 
+Seat 3: mentoRisen ($10.15 in chips) 
+Seat 5: mastiko1996 ($10.55 in chips) 
+Seat 6: Polo&Co83 ($6.17 in chips) 
+LuckyTatia: posts small blind $0.05
+mentoRisen: posts big blind $0.10
+*** HOLE CARDS ***
+mastiko1996: folds 
+Polo&Co83: raises $0.25 to $0.35
+LuckyTatia: folds 
+mentoRisen: folds 
+Uncalled bet ($0.25) returned to Polo&Co83
+Polo&Co83 collected $0.25 from pot
+Polo&Co83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: LuckyTatia (small blind) folded before Flop
+Seat 3: mentoRisen (big blind) folded before Flop
+Seat 5: mastiko1996 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222963645679:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:27:09 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: LuckyTatia ($10.56 in chips) 
+Seat 3: mentoRisen ($10.05 in chips) 
+Seat 6: Polo&Co83 ($6.32 in chips) 
+mentoRisen: posts small blind $0.05
+mastiko1996: is sitting out 
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: raises $0.20 to $0.30
+mentoRisen: folds 
+Polo&Co83: folds 
+Uncalled bet ($0.20) returned to LuckyTatia
+mastiko1996 leaves the table
+LuckyTatia collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: LuckyTatia (button) collected ($0.25)
+Seat 3: mentoRisen (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963652021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:27:17 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: LuckyTatia ($10.71 in chips) 
+Seat 3: mentoRisen ($10 in chips) 
+Seat 6: Polo&Co83 ($6.22 in chips) 
+Polo&Co83: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+mentoRisen: raises $0.20 to $0.30
+Polo&Co83: folds 
+LuckyTatia: folds 
+Uncalled bet ($0.20) returned to mentoRisen
+mentoRisen collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: LuckyTatia (big blind) folded before Flop
+Seat 3: mentoRisen (button) collected ($0.25)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963662315:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:27:31 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: LuckyTatia ($10.61 in chips) 
+Seat 3: mentoRisen ($10.15 in chips) 
+Seat 6: Polo&Co83 ($6.17 in chips) 
+LuckyTatia: posts small blind $0.05
+mentoRisen: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+LuckyTatia: raises $0.20 to $0.30
+mentoRisen: folds 
+Uncalled bet ($0.20) returned to LuckyTatia
+LuckyTatia collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: LuckyTatia (small blind) collected ($0.20)
+Seat 3: mentoRisen (big blind) folded before Flop
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963675080:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:27:47 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: LuckyTatia ($10.71 in chips) 
+Seat 3: mentoRisen ($10.05 in chips) 
+Seat 6: Polo&Co83 ($6.17 in chips) 
+mentoRisen: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+mentoRisen: folds 
+Uncalled bet ($0.05) returned to Polo&Co83
+LuckyTatia leaves the table
+Polo&Co83 collected $0.10 from pot
+Polo&Co83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: LuckyTatia (button) folded before Flop (didn't bet)
+Seat 3: mentoRisen (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222963702490:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:28:24 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10 in chips) 
+Seat 6: Polo&Co83 ($6.22 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+Uncalled bet ($0.05) returned to andrew_yar
+andrew_yar collected $0.10 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (big blind) collected ($0.10)
+Seat 6: Polo&Co83 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963705510:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:28:28 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.05 in chips) 
+Seat 6: Polo&Co83 ($6.17 in chips) 
+andrew_yar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: raises $0.15 to $0.25
+Polo&Co83: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.20 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: andrew_yar (button) (small blind) collected ($0.20)
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963710587:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:28:35 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10.15 in chips) 
+Seat 6: Polo&Co83 ($6.07 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+Uncalled bet ($0.05) returned to andrew_yar
+andrew_yar collected $0.10 from pot
+andrew_yar: doesn't show hand 
+sorekar joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (big blind) collected ($0.10)
+Seat 6: Polo&Co83 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963714257:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:28:39 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10.20 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+andrew_yar: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: raises $0.15 to $0.25
+SrPan89 joins the table at seat #3 
+sorekar: calls $0.15
+*** FLOP *** [Jh 9h 2h]
+andrew_yar: checks 
+sorekar: bets $0.26
+andrew_yar: calls $0.26
+*** TURN *** [Jh 9h 2h] [Th]
+andrew_yar: checks 
+sorekar: checks 
+*** RIVER *** [Jh 9h 2h Th] [2d]
+andrew_yar: bets $0.32
+sorekar: calls $0.32
+*** SHOW DOWN ***
+andrew_yar: shows [8h Ad] (a flush, Jack high)
+sorekar: mucks hand 
+andrew_yar collected $1.59 from pot
+*** SUMMARY ***
+Total pot $1.66 | Rake $0.07 
+Board [Jh 9h 2h Th 2d]
+Seat 1: andrew_yar (small blind) showed [8h Ad] and won ($1.59) with a flush, Jack high
+Seat 5: sorekar (big blind) mucked
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963737722:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:10 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+sorekar: folds 
+Uncalled bet ($0.05) returned to Polo&Co83
+Polo&Co83 collected $0.10 from pot
+Polo&Co83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (button) folded before Flop (didn't bet)
+Seat 5: sorekar (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222963741257:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:15 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($6.07 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+SrPan89: sits out 
+*** HOLE CARDS ***
+Luicho707 joins the table at seat #4 
+sorekar: folds 
+Polo&Co83: folds 
+Uncalled bet ($0.05) returned to andrew_yar
+andrew_yar collected $0.10 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (big blind) collected ($0.10)
+Seat 5: sorekar (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963745580:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:21 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($11.01 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+andrew_yar: posts small blind $0.05
+SrPan89: posts big blind $0.10
+Luicho707: sits out 
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.05) returned to SrPan89
+SrPan89 collected $0.10 from pot
+Adrian Gonz was removed from the table for failing to post
+Adrian Gonz leaves the table
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) collected ($0.10)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963750137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:27 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 3: SrPan89 ($10.05 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+andrew_yar: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.25 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar collected ($0.25)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963762686:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:44 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.15 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.05) returned to sorekar
+sorekar collected $0.10 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: sorekar (big blind) collected ($0.10)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963767679:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:50 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.20 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.20 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: sorekar (small blind) collected ($0.20)
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963773916:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:29:59 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.30 in chips) 
+Seat 6: Polo&Co83 ($5.92 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.15) returned to SrPan89
+SrPan89 collected $0.25 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (big blind) folded before Flop
+Seat 3: SrPan89 collected ($0.25)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963779860:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:30:06 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10.86 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.30 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+andrew_yar: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+AV8TER60 joins the table at seat #2 
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.05) returned to SrPan89
+SrPan89 collected $0.10 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) collected ($0.10)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963792321:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:30:22 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.81 in chips) 
+Seat 3: SrPan89 ($10.20 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.30 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: raises $0.15 to $0.25
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.25 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (button) collected ($0.25)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963805470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:30:39 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($10 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.30 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+AV8TER60: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: checks 
+SrPan89: folds 
+Luicho707: calls $0.05
+sorekar: checks 
+*** FLOP *** [2s Js Qd]
+Luicho707: checks 
+sorekar: checks 
+AV8TER60: checks 
+*** TURN *** [2s Js Qd] [4d]
+Luicho707: checks 
+sorekar: bets $0.20
+AV8TER60: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.29 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2s Js Qd 4d]
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded on the Turn (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded on the Turn
+Seat 5: sorekar (big blind) collected ($0.29)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963840211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:31:24 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.49 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.20 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: sorekar (small blind) collected ($0.20)
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963849889:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:31:36 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.59 in chips) 
+Seat 6: Polo&Co83 ($5.77 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.25 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (big blind) folded before Flop
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar (button) collected ($0.25)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222963866759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:31:58 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10.86 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.74 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+andrew_yar: posts small blind $0.05
+AV8TER60: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.05) returned to AV8TER60
+AV8TER60 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 2: AV8TER60 (big blind) collected ($0.10)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963878099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:32:12 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.81 in chips) 
+Seat 2: AV8TER60 ($9.95 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.74 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+AV8TER60: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.25 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (button) folded before Flop (didn't bet)
+Seat 2: AV8TER60 (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar collected ($0.25)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963889625:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:32:27 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: andrew_yar ($10.81 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10.05 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.89 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: raises $0.15 to $0.25
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.25 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar collected ($0.25)
+Seat 2: AV8TER60 (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963902818:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:32:44 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.89 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.05) returned to sorekar
+sorekar collected $0.10 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: sorekar (big blind) collected ($0.10)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963913586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:32:58 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.94 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+AV8TER60: raises $0.20 to $0.30
+SrPan89: folds 
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+Uncalled bet ($0.20) returned to AV8TER60
+AV8TER60 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 collected ($0.25)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: sorekar (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222963927452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:33:15 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($10.05 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.89 in chips) 
+Seat 6: Polo&Co83 ($5.62 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: raises $0.70 to $1
+andrew_yar: folds 
+sorekar: folds 
+Uncalled bet ($0.70) returned to Polo&Co83
+Polo&Co83 collected $0.70 from pot
+Polo&Co83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: andrew_yar (big blind) folded before Flop
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar (button) folded before Flop
+Seat 6: Polo&Co83 (small blind) collected ($0.70)
+
+
+
+PokerStars Hand #222963940835:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:33:33 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10.86 in chips) 
+Seat 2: AV8TER60 ($10.05 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.59 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+andrew_yar: posts small blind $0.05
+AV8TER60: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+Uncalled bet ($0.15) returned to SrPan89
+SrPan89 collected $0.25 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 2: AV8TER60 (big blind) folded before Flop
+Seat 3: SrPan89 collected ($0.25)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963956046:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:33:52 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.81 in chips) 
+Seat 2: AV8TER60 ($9.95 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.59 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+AV8TER60: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: raises $0.15 to $0.25
+AV8TER60: folds 
+SrPan89: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.25 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (button) collected ($0.25)
+Seat 2: AV8TER60 (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963976396:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:34:18 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($9.90 in chips) 
+Seat 3: SrPan89 ($10.05 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.59 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: raises $0.20 to $0.30
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to AV8TER60
+AV8TER60 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 (button) collected ($0.25)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222963987887:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:34:33 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($10.05 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10.59 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: raises $0.20 to $0.30
+sorekar: folds 
+Uncalled bet ($0.20) returned to Luicho707
+Luicho707 collected $0.20 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) collected ($0.20)
+Seat 5: sorekar (big blind) folded before Flop
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964001870:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:34:51 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($10.05 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10.10 in chips) 
+Seat 5: sorekar ($10.49 in chips) 
+Seat 6: Polo&Co83 ($6.02 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: raises $0.15 to $0.25
+sorekar: folds 
+Polo&Co83: folds 
+Uncalled bet ($0.15) returned to Luicho707
+Luicho707 collected $0.25 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) collected ($0.25)
+Seat 5: sorekar (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222964014786:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:35:08 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($10.96 in chips) 
+Seat 2: AV8TER60 ($10.05 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10.25 in chips) 
+Seat 5: sorekar ($10.44 in chips) 
+Seat 6: Polo&Co83 ($5.92 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+AV8TER60: raises $0.20 to $0.30
+SrPan89: folds 
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: calls $0.20
+*** FLOP *** [6c 2s 9h]
+andrew_yar: checks 
+AV8TER60: bets $0.31
+andrew_yar: calls $0.31
+*** TURN *** [6c 2s 9h] [5d]
+andrew_yar: checks 
+AV8TER60: checks 
+*** RIVER *** [6c 2s 9h 5d] [Kd]
+andrew_yar: checks 
+AV8TER60: checks 
+*** SHOW DOWN ***
+andrew_yar: shows [Ac 8c] (high card Ace)
+AV8TER60: mucks hand 
+andrew_yar collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [6c 2s 9h 5d Kd]
+Seat 1: andrew_yar (big blind) showed [Ac 8c] and won ($1.21) with high card Ace
+Seat 2: AV8TER60 mucked
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222964057276:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:36:02 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($11.56 in chips) 
+Seat 2: AV8TER60 ($9.44 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10.25 in chips) 
+Seat 5: sorekar ($10.44 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+andrew_yar: posts small blind $0.05
+AV8TER60: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+Uncalled bet ($0.15) returned to SrPan89
+SrPan89 collected $0.25 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 2: AV8TER60 (big blind) folded before Flop
+Seat 3: SrPan89 collected ($0.25)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964064936:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:36:12 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($9.34 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.25 in chips) 
+Seat 5: sorekar ($10.44 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+AV8TER60: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: calls $0.25
+SrPan89: folds 
+*** FLOP *** [6s Ac As]
+AV8TER60: checks 
+sorekar: bets $0.22
+AV8TER60: raises $0.56 to $0.78
+sorekar: folds 
+Uncalled bet ($0.56) returned to AV8TER60
+AV8TER60 collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05 
+Board [6s Ac As]
+Seat 1: andrew_yar (button) folded before Flop (didn't bet)
+Seat 2: AV8TER60 (small blind) collected ($1.09)
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded on the Flop
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964087203:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:36:41 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($9.91 in chips) 
+Seat 3: SrPan89 ($10.05 in chips) 
+Seat 4: Luicho707 ($10.25 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: raises $0.15 to $0.25
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.25 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar collected ($0.25)
+Seat 2: AV8TER60 (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964108045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:37:08 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($11.66 in chips) 
+Seat 2: AV8TER60 ($9.91 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10.15 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+sorekar: folds 
+Uncalled bet ($0.15) returned to SrPan89
+SrPan89 collected $0.25 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) collected ($0.25)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: sorekar (big blind) folded before Flop
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964121165:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:37:25 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: andrew_yar ($11.66 in chips) 
+Seat 2: AV8TER60 ($9.91 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.10 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.87 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: raises $0.15 to $0.25
+sorekar: folds 
+Polo&Co83: folds 
+Uncalled bet ($0.15) returned to Luicho707
+Luicho707 collected $0.25 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) collected ($0.25)
+Seat 5: sorekar (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222964134881:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:37:43 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($11.66 in chips) 
+Seat 2: AV8TER60 ($9.91 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.25 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.77 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: raises $0.20 to $0.30
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.20) returned to Luicho707
+Luicho707 collected $0.25 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (big blind) folded before Flop
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 collected ($0.25)
+Seat 5: sorekar (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222964145761:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:37:57 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($11.56 in chips) 
+Seat 2: AV8TER60 ($9.91 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.40 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+andrew_yar: posts small blind $0.05
+AV8TER60: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+Uncalled bet ($0.05) returned to AV8TER60
+AV8TER60 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 2: AV8TER60 (big blind) collected ($0.10)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964152680:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:38:05 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($9.96 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.40 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+AV8TER60: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: raises $0.20 to $0.30
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: calls $0.25
+SrPan89: folds 
+*** FLOP *** [3h As Ah]
+AV8TER60: checks 
+Luicho707: bets $0.20
+AV8TER60: calls $0.20
+*** TURN *** [3h As Ah] [2d]
+AV8TER60: checks 
+Luicho707: bets $0.36
+AV8TER60: calls $0.36
+*** RIVER *** [3h As Ah 2d] [Th]
+AV8TER60: checks 
+Luicho707: checks 
+*** SHOW DOWN ***
+AV8TER60: shows [Qd Qh] (two pair, Aces and Queens)
+Luicho707: mucks hand 
+AV8TER60 collected $1.74 from pot
+*** SUMMARY ***
+Total pot $1.82 | Rake $0.08 
+Board [3h As Ah 2d Th]
+Seat 1: andrew_yar (button) folded before Flop (didn't bet)
+Seat 2: AV8TER60 (small blind) showed [Qd Qh] and won ($1.74) with two pair, Aces and Queens
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 mucked
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964187375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:38:50 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($10.84 in chips) 
+Seat 3: SrPan89 ($10.05 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: raises $0.20 to $0.30
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to AV8TER60
+AV8TER60 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 (button) collected ($0.25)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964195341:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:39:01 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($10.99 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+sorekar: folds 
+Uncalled bet ($0.15) returned to SrPan89
+SrPan89 collected $0.25 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) collected ($0.25)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: sorekar (big blind) folded before Flop
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964205821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:39:14 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($10.99 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.72 in chips) 
+sorekar: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar has timed out
+andrew_yar: folds 
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: raises $0.15 to $0.25
+sorekar: folds 
+Polo&Co83: calls $0.15
+*** FLOP *** [6h 9h Qd]
+Polo&Co83: bets $0.26
+Luicho707: raises $0.74 to $1
+Polo&Co83: folds 
+Uncalled bet ($0.74) returned to Luicho707
+Luicho707 collected $1.02 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.05 
+Board [6h 9h Qd]
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) collected ($1.02)
+Seat 5: sorekar (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222964242591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:40:02 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: andrew_yar ($11.51 in chips) 
+Seat 2: AV8TER60 ($10.99 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.51 in chips) 
+Seat 5: sorekar ($10 in chips) 
+Seat 6: Polo&Co83 ($5.21 in chips) 
+Polo&Co83: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+AV8TER60: folds 
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+andrew_yar: calls $0.20
+*** FLOP *** [Qs 7d 9s]
+andrew_yar: checks 
+sorekar: bets $0.33
+andrew_yar: calls $0.33
+*** TURN *** [Qs 7d 9s] [7c]
+andrew_yar: checks 
+sorekar: bets $0.60
+andrew_yar: folds 
+Uncalled bet ($0.60) returned to sorekar
+sorekar collected $1.25 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.06 
+Board [Qs 7d 9s 7c]
+Seat 1: andrew_yar (big blind) folded on the Turn
+Seat 2: AV8TER60 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar (button) collected ($1.25)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222964297405:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:41:12 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: andrew_yar ($10.88 in chips) 
+Seat 2: AV8TER60 ($10.99 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.51 in chips) 
+Seat 5: sorekar ($10.62 in chips) 
+Seat 6: Polo&Co83 ($5.16 in chips) 
+andrew_yar: posts small blind $0.05
+AV8TER60: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.20 to $0.30
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: folds 
+Uncalled bet ($0.20) returned to sorekar
+sorekar collected $0.25 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (small blind) folded before Flop
+Seat 2: AV8TER60 (big blind) folded before Flop
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar collected ($0.25)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964306537:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:41:24 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: andrew_yar ($10.83 in chips) 
+Seat 2: AV8TER60 ($10.89 in chips) 
+Seat 3: SrPan89 ($10.15 in chips) 
+Seat 4: Luicho707 ($10.51 in chips) 
+Seat 5: sorekar ($10.77 in chips) 
+Seat 6: Polo&Co83 ($5.16 in chips) 
+AV8TER60: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: raises $0.15 to $0.25
+AV8TER60: folds 
+SrPan89: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.25 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar (button) collected ($0.25)
+Seat 2: AV8TER60 (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964315350:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:41:36 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: andrew_yar ($10.98 in chips) 
+Seat 2: AV8TER60 ($10.84 in chips) 
+Seat 3: SrPan89 ($10.05 in chips) 
+Seat 4: Luicho707 ($10.51 in chips) 
+Seat 5: sorekar ($10.77 in chips) 
+Seat 6: Polo&Co83 ($5.16 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+sorekar: folds 
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: raises $0.20 to $0.30
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to AV8TER60
+AV8TER60 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 (button) collected ($0.25)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: sorekar folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222964326093:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 13:41:49 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: andrew_yar ($10.98 in chips) 
+Seat 2: AV8TER60 ($10.99 in chips) 
+Seat 3: SrPan89 ($10 in chips) 
+Seat 4: Luicho707 ($10.41 in chips) 
+Seat 5: sorekar ($10.77 in chips) 
+Seat 6: Polo&Co83 ($5.16 in chips) 
+Luicho707: posts small blind $0.05
+sorekar: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+andrew_yar: folds 
+AV8TER60: raises $0.20 to $0.30
+SrPan89: folds 
+Luicho707: folds 
+sorekar: raises $0.80 to $1.10
+AV8TER60: folds 
+Uncalled bet ($0.80) returned to sorekar
+sorekar collected $0.65 from pot
+sorekar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: andrew_yar folded before Flop (didn't bet)
+Seat 2: AV8TER60 folded before Flop
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: sorekar (big blind) collected ($0.65)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965906231:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:17:35 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: keytom2017 ($7.76 in chips) 
+Seat 2: saddur ($8.30 in chips) 
+Seat 3: SrPan89 ($18.02 in chips) 
+Seat 4: Luicho707 ($10.86 in chips) 
+Seat 5: Psarn97 ($12.16 in chips) 
+Seat 6: Polo&Co83 ($12.46 in chips) 
+Polo&Co83: posts small blind $0.05
+keytom2017: posts big blind $0.10
+*** HOLE CARDS ***
+saddur: calls $0.10
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+keytom2017: calls $0.15
+saddur: calls $0.15
+*** FLOP *** [6s 7s Tc]
+keytom2017: checks 
+saddur: checks 
+SrPan89: checks 
+*** TURN *** [6s 7s Tc] [5h]
+keytom2017: bets $1
+saddur: folds 
+SrPan89: calls $1
+*** RIVER *** [6s 7s Tc 5h] [Qd]
+keytom2017: bets $6.51 and is all-in
+SrPan89: folds 
+Uncalled bet ($6.51) returned to keytom2017
+keytom2017 collected $2.67 from pot
+keytom2017: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.80 | Rake $0.13 
+Board [6s 7s Tc 5h Qd]
+Seat 1: keytom2017 (big blind) collected ($2.67)
+Seat 2: saddur folded on the Turn
+Seat 3: SrPan89 folded on the River
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222965941483:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:18:20 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: keytom2017 ($9.18 in chips) 
+Seat 2: saddur ($8.05 in chips) 
+Seat 3: SrPan89 ($16.77 in chips) 
+Seat 4: Luicho707 ($10.86 in chips) 
+Seat 5: Psarn97 ($12.16 in chips) 
+Seat 6: Polo&Co83 ($12.41 in chips) 
+keytom2017: posts small blind $0.05
+saddur: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+keytom2017: calls $0.20
+saddur: calls $0.15
+*** FLOP *** [5c Qh 3h]
+keytom2017: checks 
+saddur: checks 
+SrPan89: checks 
+*** TURN *** [5c Qh 3h] [9h]
+keytom2017: checks 
+saddur: bets $0.36
+SrPan89: folds 
+keytom2017: folds 
+Uncalled bet ($0.36) returned to saddur
+saddur collected $0.72 from pot
+saddur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [5c Qh 3h 9h]
+Seat 1: keytom2017 (small blind) folded on the Turn
+Seat 2: saddur (big blind) collected ($0.72)
+Seat 3: SrPan89 folded on the Turn
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965970616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:18:56 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: keytom2017 ($8.93 in chips) 
+Seat 2: saddur ($8.52 in chips) 
+Seat 3: SrPan89 ($16.52 in chips) 
+Seat 4: Luicho707 ($10.86 in chips) 
+Seat 5: Psarn97 ($12.16 in chips) 
+Seat 6: Polo&Co83 ($12.41 in chips) 
+saddur: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Psarn97: calls $0.10
+Polo&Co83: folds 
+keytom2017: folds 
+saddur: folds 
+SrPan89: raises $0.30 to $0.40
+Psarn97: calls $0.30
+*** FLOP *** [3c 8h 6c]
+keytom2017 leaves the table
+SrPan89: bets $0.41
+VMS.68zoom joins the table at seat #1 
+Psarn97: folds 
+Uncalled bet ($0.41) returned to SrPan89
+SrPan89 collected $0.81 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [3c 8h 6c]
+Seat 1: keytom2017 (button) folded before Flop (didn't bet)
+Seat 2: saddur (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) collected ($0.81)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded on the Flop
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222965995523:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:19:28 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 2: saddur ($8.47 in chips) 
+Seat 3: SrPan89 ($16.93 in chips) 
+Seat 4: Luicho707 ($10.86 in chips) 
+Seat 5: Psarn97 ($11.76 in chips) 
+Seat 6: Polo&Co83 ($12.41 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+VMS.68zoom: sits out 
+*** HOLE CARDS ***
+Psarn97: folds 
+Polo&Co83: folds 
+saddur: raises $0.10 to $0.20
+SrPan89: folds 
+Luicho707: raises $0.90 to $1.10
+saddur: calls $0.90
+*** FLOP *** [4d 5s 8d]
+Luicho707: checks 
+saddur: checks 
+*** TURN *** [4d 5s 8d] [Kh]
+Luicho707: bets $1.61
+saddur: folds 
+Uncalled bet ($1.61) returned to Luicho707
+Luicho707 collected $2.15 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4d 5s 8d Kh]
+Seat 2: saddur (button) folded on the Turn
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) collected ($2.15)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966024477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:20:05 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 2: saddur ($7.37 in chips) 
+Seat 3: SrPan89 ($16.88 in chips) 
+Seat 4: Luicho707 ($11.91 in chips) 
+Seat 5: Psarn97 ($11.76 in chips) 
+Seat 6: Polo&Co83 ($12.41 in chips) 
+Luicho707: posts small blind $0.05
+Psarn97: posts big blind $0.10
+VMS.68zoom: sits out 
+*** HOLE CARDS ***
+Polo&Co83: folds 
+saddur: raises $0.10 to $0.20
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: calls $0.10
+*** FLOP *** [3s 2h 5d]
+Psarn97: checks 
+saddur: checks 
+*** TURN *** [3s 2h 5d] [As]
+Psarn97: bets $0.30
+saddur: calls $0.30
+*** RIVER *** [3s 2h 5d As] [5s]
+Psarn97: checks 
+saddur: bets $0.50
+Psarn97: folds 
+Uncalled bet ($0.50) returned to saddur
+saddur collected $1 from pot
+saddur: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [3s 2h 5d As 5s]
+Seat 2: saddur collected ($1)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: Psarn97 (big blind) folded on the River
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966062372:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:20:53 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 2: saddur ($7.87 in chips) 
+Seat 3: SrPan89 ($16.88 in chips) 
+Seat 4: Luicho707 ($11.86 in chips) 
+Seat 5: Psarn97 ($11.26 in chips) 
+Seat 6: Polo&Co83 ($12.41 in chips) 
+Psarn97: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+VMS.68zoom: sits out 
+*** HOLE CARDS ***
+saddur: raises $0.10 to $0.20
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+Uncalled bet ($0.10) returned to saddur
+saddur collected $0.25 from pot
+saddur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: saddur collected ($0.25)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966072810:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:21:07 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($10 in chips) 
+Seat 2: saddur ($8.02 in chips) 
+Seat 3: SrPan89 ($16.88 in chips) 
+Seat 4: Luicho707 ($11.86 in chips) 
+Seat 5: Psarn97 ($11.21 in chips) 
+Seat 6: Polo&Co83 ($12.31 in chips) 
+Polo&Co83: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+saddur: folds 
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: raises $0.60 to $0.85
+VMS.68zoom: folds 
+SrPan89: calls $0.60
+*** FLOP *** [Kc 7d Ts]
+Polo&Co83: bets $1.72
+SrPan89: calls $1.72
+*** TURN *** [Kc 7d Ts] [6c]
+Polo&Co83: checks 
+SrPan89: bets $5
+Polo&Co83: raises $4.74 to $9.74 and is all-in
+SrPan89: calls $4.74
+*** RIVER *** [Kc 7d Ts 6c] [Jc]
+*** SHOW DOWN ***
+Polo&Co83: shows [Ah Kd] (a pair of Kings)
+SrPan89: shows [Ks Ad] (a pair of Kings)
+Polo&Co83 collected $11.81 from pot
+SrPan89 collected $11.80 from pot
+*** SUMMARY ***
+Total pot $24.72 | Rake $1.11 
+Board [Kc 7d Ts 6c Jc]
+Seat 1: VMS.68zoom (big blind) folded before Flop
+Seat 2: saddur folded before Flop (didn't bet)
+Seat 3: SrPan89 showed [Ks Ad] and won ($11.80) with a pair of Kings
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) showed [Ah Kd] and won ($11.81) with a pair of Kings
+
+
+
+PokerStars Hand #222966114524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:21:56 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: VMS.68zoom ($9.90 in chips) 
+Seat 2: saddur ($8.02 in chips) 
+Seat 3: SrPan89 ($16.37 in chips) 
+Seat 4: Luicho707 ($11.86 in chips) 
+Seat 5: Psarn97 ($11.21 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+VMS.68zoom: posts small blind $0.05
+saddur: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: raises $0.20 to $0.30
+Polo&Co83: folds 
+VMS.68zoom: folds 
+saddur: folds 
+Uncalled bet ($0.20) returned to Psarn97
+Psarn97 collected $0.25 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: saddur (big blind) folded before Flop
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 collected ($0.25)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966136195:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:22:24 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($9.85 in chips) 
+Seat 2: saddur ($7.92 in chips) 
+Seat 3: SrPan89 ($16.37 in chips) 
+Seat 4: Luicho707 ($11.86 in chips) 
+Seat 5: Psarn97 ($11.36 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+saddur: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+VMS.68zoom: folds 
+saddur: calls $0.05
+SrPan89: checks 
+*** FLOP *** [Qc 5d 5c]
+saddur: checks 
+SrPan89: bets $0.14
+saddur: folds 
+Uncalled bet ($0.14) returned to SrPan89
+SrPan89 collected $0.19 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qc 5d 5c]
+Seat 1: VMS.68zoom (button) folded before Flop (didn't bet)
+Seat 2: saddur (small blind) folded on the Flop
+Seat 3: SrPan89 (big blind) collected ($0.19)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966153115:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:22:45 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($9.85 in chips) 
+Seat 2: saddur ($7.82 in chips) 
+Seat 3: SrPan89 ($16.46 in chips) 
+Seat 4: Luicho707 ($11.86 in chips) 
+Seat 5: Psarn97 ($11.36 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+Psarn97: folds 
+Polo&Co83: folds 
+VMS.68zoom: folds 
+saddur: folds 
+SrPan89: raises $0.20 to $0.30
+Luicho707: calls $0.20
+*** FLOP *** [Ad 8s 8c]
+SrPan89: bets $0.20
+Luicho707: calls $0.20
+*** TURN *** [Ad 8s 8c] [5c]
+SrPan89: checks 
+Luicho707: checks 
+*** RIVER *** [Ad 8s 8c 5c] [Kh]
+SrPan89: checks 
+Luicho707: bets $0.33
+SrPan89: folds 
+Uncalled bet ($0.33) returned to Luicho707
+Luicho707 collected $0.96 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [Ad 8s 8c 5c Kh]
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: saddur (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded on the River
+Seat 4: Luicho707 (big blind) collected ($0.96)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966192254:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:23:35 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($9.85 in chips) 
+Seat 2: saddur ($7.82 in chips) 
+Seat 3: SrPan89 ($15.96 in chips) 
+Seat 4: Luicho707 ($12.32 in chips) 
+Seat 5: Psarn97 ($11.36 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Luicho707: posts small blind $0.05
+Psarn97: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+VMS.68zoom: folds 
+saddur: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.05) returned to Psarn97
+Psarn97 collected $0.10 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: saddur folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded before Flop
+Seat 5: Psarn97 (big blind) collected ($0.10)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966202828:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:23:49 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: VMS.68zoom ($9.85 in chips) 
+Seat 2: saddur ($7.82 in chips) 
+Seat 3: SrPan89 ($15.96 in chips) 
+Seat 4: Luicho707 ($12.27 in chips) 
+Seat 5: Psarn97 ($11.41 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Psarn97: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: folds 
+saddur: folds 
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: raises $0.50 to $0.60
+Polo&Co83: folds 
+Uncalled bet ($0.50) returned to Psarn97
+Psarn97 collected $0.20 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: saddur folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) collected ($0.20)
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966217577:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:24:07 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($9.85 in chips) 
+Seat 2: saddur ($7.82 in chips) 
+Seat 3: SrPan89 ($15.96 in chips) 
+Seat 4: Luicho707 ($12.27 in chips) 
+Seat 5: Psarn97 ($11.51 in chips) 
+Seat 6: Polo&Co83 ($11.71 in chips) 
+Polo&Co83: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+saddur: folds 
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: calls $0.10
+Polo&Co83: folds 
+VMS.68zoom: checks 
+*** FLOP *** [Td 3s Qs]
+VMS.68zoom: checks 
+Psarn97: bets $0.10
+VMS.68zoom: folds 
+Uncalled bet ($0.10) returned to Psarn97
+Psarn97 collected $0.24 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Td 3s Qs]
+Seat 1: VMS.68zoom (big blind) folded on the Flop
+Seat 2: saddur folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) collected ($0.24)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222966243294:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:24:40 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: VMS.68zoom ($9.75 in chips) 
+Seat 2: saddur ($7.82 in chips) 
+Seat 3: SrPan89 ($15.96 in chips) 
+Seat 4: Luicho707 ($12.27 in chips) 
+Seat 5: Psarn97 ($11.65 in chips) 
+Seat 6: Polo&Co83 ($11.66 in chips) 
+VMS.68zoom: posts small blind $0.05
+saddur: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+VMS.68zoom: folds 
+saddur: calls $0.15
+*** FLOP *** [Tc 4h 9h]
+saddur: checks 
+SrPan89: bets $0.27
+saddur: calls $0.27
+*** TURN *** [Tc 4h 9h] [Ks]
+saddur: checks 
+SrPan89: bets $0.52
+saddur: calls $0.52
+*** RIVER *** [Tc 4h 9h Ks] [Td]
+saddur: checks 
+SrPan89: checks 
+*** SHOW DOWN ***
+saddur: shows [3h Qh] (a pair of Tens)
+SrPan89: shows [Ac As] (two pair, Aces and Tens)
+SrPan89 collected $2.03 from pot
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.10 
+Board [Tc 4h 9h Ks Td]
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: saddur (big blind) showed [3h Qh] and lost with a pair of Tens
+Seat 3: SrPan89 showed [Ac As] and won ($2.03) with two pair, Aces and Tens
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966277017:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:25:23 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($9.70 in chips) 
+Seat 2: saddur ($6.78 in chips) 
+Seat 3: SrPan89 ($16.95 in chips) 
+Seat 4: Luicho707 ($12.27 in chips) 
+Seat 5: Psarn97 ($11.65 in chips) 
+Seat 6: Polo&Co83 ($11.66 in chips) 
+saddur: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+VMS.68zoom: raises $0.10 to $0.20
+saddur: raises $0.10 to $0.30
+SrPan89: folds 
+VMS.68zoom: calls $0.10
+*** FLOP *** [4c 2d 7d]
+saddur: bets $0.33
+VMS.68zoom: calls $0.33
+*** TURN *** [4c 2d 7d] [3c]
+saddur: bets $0.65
+VMS.68zoom: calls $0.65
+*** RIVER *** [4c 2d 7d 3c] [6h]
+saddur: checks 
+VMS.68zoom: bets $1.69
+saddur: calls $1.69
+*** SHOW DOWN ***
+VMS.68zoom: shows [5h 5d] (a straight, Three to Seven)
+saddur: mucks hand 
+VMS.68zoom collected $5.77 from pot
+*** SUMMARY ***
+Total pot $6.04 | Rake $0.27 
+Board [4c 2d 7d 3c 6h]
+Seat 1: VMS.68zoom (button) showed [5h 5d] and won ($5.77) with a straight, Three to Seven
+Seat 2: saddur (small blind) mucked
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966312374:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:26:09 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 2: saddur ($3.81 in chips) 
+Seat 3: SrPan89 ($16.85 in chips) 
+Seat 4: Luicho707 ($12.27 in chips) 
+Seat 5: Psarn97 ($11.65 in chips) 
+Seat 6: Polo&Co83 ($11.66 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+Psarn97: folds 
+Polo&Co83: raises $0.20 to $0.30
+VMS.68zoom: folds 
+saddur: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to Polo&Co83
+Polo&Co83 collected $0.25 from pot
+Polo&Co83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: saddur (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 collected ($0.25)
+
+
+
+PokerStars Hand #222966320778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:26:20 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 2: saddur ($3.81 in chips) 
+Seat 3: SrPan89 ($16.80 in chips) 
+Seat 4: Luicho707 ($12.17 in chips) 
+Seat 5: Psarn97 ($11.65 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Luicho707: posts small blind $0.05
+Psarn97: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+VMS.68zoom: folds 
+saddur: folds 
+saddur leaves the table
+SrPan89: folds 
+Luicho707: raises $0.20 to $0.30
+Psarn97: calls $0.20
+*** FLOP *** [Ah 9d 3h]
+Luicho707: checks 
+Psarn97: bets $0.30
+Luicho707: folds 
+Uncalled bet ($0.30) returned to Psarn97
+Psarn97 collected $0.57 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ah 9d 3h]
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: saddur folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) folded on the Flop
+Seat 5: Psarn97 (big blind) collected ($0.57)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966338229:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:26:43 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 3: SrPan89 ($16.80 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($11.92 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Psarn97: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: folds 
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: folds 
+Uncalled bet ($0.05) returned to Polo&Co83
+Polo&Co83 collected $0.10 from pot
+Polo&Co83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) folded before Flop
+Seat 6: Polo&Co83 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222966344982:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:26:51 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 3: SrPan89 ($16.80 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($11.87 in chips) 
+Seat 6: Polo&Co83 ($11.86 in chips) 
+Polo&Co83: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: folds 
+Gormax89 joins the table at seat #2 
+Polo&Co83: folds 
+Uncalled bet ($0.05) returned to VMS.68zoom
+VMS.68zoom collected $0.10 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (big blind) collected ($0.10)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222966353378:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:27:02 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: VMS.68zoom ($12.55 in chips) 
+Seat 2: Gormax89 ($8 in chips) 
+Seat 3: SrPan89 ($16.80 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($11.87 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+VMS.68zoom: posts small blind $0.05
+Gormax89: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: folds 
+VMS.68zoom: folds 
+Uncalled bet ($0.05) returned to Gormax89
+Gormax89 collected $0.10 from pot
+Gormax89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: Gormax89 (big blind) collected ($0.10)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966362801:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:27:14 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 2: Gormax89 ($8.05 in chips) 
+Seat 3: SrPan89 ($16.80 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($11.87 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Gormax89: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Psarn97: raises $0.10 to $0.20
+Polo&Co83: folds 
+VMS.68zoom: folds 
+Gormax89: calls $0.15
+SrPan89: folds 
+*** FLOP *** [2s 7h Qh]
+Gormax89: checks 
+Psarn97: bets $0.20
+Gormax89: calls $0.20
+*** TURN *** [2s 7h Qh] [5d]
+Gormax89: checks 
+Psarn97: checks 
+*** RIVER *** [2s 7h Qh 5d] [Jh]
+Gormax89: checks 
+Psarn97: bets $0.30
+Gormax89: folds 
+Uncalled bet ($0.30) returned to Psarn97
+Psarn97 collected $0.86 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [2s 7h Qh 5d Jh]
+Seat 1: VMS.68zoom (button) folded before Flop (didn't bet)
+Seat 2: Gormax89 (small blind) folded on the River
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 collected ($0.86)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966423067:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:28:25 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 2: Gormax89 ($7.65 in chips) 
+Seat 3: SrPan89 ($16.70 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($12.33 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: posts big blind $0.10
+*** HOLE CARDS ***
+Psarn97: raises $0.20 to $0.30
+Polo&Co83: folds 
+VMS.68zoom: folds 
+Gormax89: folds 
+SrPan89: folds 
+Luicho707: folds 
+Uncalled bet ($0.20) returned to Psarn97
+Psarn97 collected $0.25 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: Luicho707 (big blind) folded before Flop
+Seat 5: Psarn97 collected ($0.25)
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966443710:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:28:52 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 2: Gormax89 ($7.65 in chips) 
+Seat 3: SrPan89 ($16.65 in chips) 
+Seat 4: Luicho707 ($11.77 in chips) 
+Seat 5: Psarn97 ($12.48 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Luicho707: posts small blind $0.05
+Psarn97: posts big blind $0.10
+*** HOLE CARDS ***
+Polo&Co83: folds 
+VMS.68zoom: folds 
+Gormax89: folds 
+SrPan89: folds 
+Luicho707: raises $0.20 to $0.30
+Psarn97: folds 
+Uncalled bet ($0.20) returned to Luicho707
+Luicho707 collected $0.20 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: Luicho707 (small blind) collected ($0.20)
+Seat 5: Psarn97 (big blind) folded before Flop
+Seat 6: Polo&Co83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966456886:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:29:09 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: VMS.68zoom ($12.50 in chips) 
+Seat 2: Gormax89 ($7.65 in chips) 
+Seat 3: SrPan89 ($16.65 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($12.38 in chips) 
+Seat 6: Polo&Co83 ($11.81 in chips) 
+Psarn97: posts small blind $0.05
+Polo&Co83: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: raises $0.20 to $0.30
+Gormax89: calls $0.30
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: calls $0.25
+Polo&Co83: folds 
+*** FLOP *** [9h 4h 3d]
+Psarn97: bets $0.20
+VMS.68zoom: calls $0.20
+Gormax89: calls $0.20
+*** TURN *** [9h 4h 3d] [3c]
+Psarn97: checks 
+VMS.68zoom: checks 
+Gormax89: checks 
+*** RIVER *** [9h 4h 3d 3c] [8s]
+Psarn97: bets $0.80
+VMS.68zoom: folds 
+Gormax89: folds 
+Uncalled bet ($0.80) returned to Psarn97
+Psarn97 collected $1.53 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [9h 4h 3d 3c 8s]
+Seat 1: VMS.68zoom folded on the River
+Seat 2: Gormax89 folded on the River
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) collected ($1.53)
+Seat 6: Polo&Co83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966506429:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:30:02 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($12 in chips) 
+Seat 2: Gormax89 ($7.15 in chips) 
+Seat 3: SrPan89 ($16.65 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($13.41 in chips) 
+Seat 6: Polo&Co83 ($11.71 in chips) 
+Polo&Co83: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+Gormax89: folds 
+SrPan89: folds 
+Luicho707: folds 
+Psarn97: folds 
+Polo&Co83: raises $0.20 to $0.30
+VMS.68zoom: calls $0.20
+*** FLOP *** [9h 8d 7c]
+Polo&Co83: bets $0.28
+VMS.68zoom: calls $0.28
+*** TURN *** [9h 8d 7c] [Tc]
+Polo&Co83: checks 
+VMS.68zoom: checks 
+*** RIVER *** [9h 8d 7c Tc] [Qd]
+Polo&Co83: checks 
+VMS.68zoom: checks 
+*** SHOW DOWN ***
+Polo&Co83: shows [Ad Qs] (a pair of Queens)
+VMS.68zoom: mucks hand 
+Polo&Co83 collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.16 | Rake $0.05 
+Board [9h 8d 7c Tc Qd]
+Seat 1: VMS.68zoom (big blind) mucked
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (small blind) showed [Ad Qs] and won ($1.11) with a pair of Queens
+
+
+
+PokerStars Hand #222966535050:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:30:38 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: VMS.68zoom ($11.42 in chips) 
+Seat 2: Gormax89 ($7.15 in chips) 
+Seat 3: SrPan89 ($16.65 in chips) 
+Seat 4: Luicho707 ($11.87 in chips) 
+Seat 5: Psarn97 ($13.41 in chips) 
+Seat 6: Polo&Co83 ($12.24 in chips) 
+VMS.68zoom: posts small blind $0.05
+Gormax89: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Luicho707: raises $0.20 to $0.30
+Psarn97: folds 
+Polo&Co83: folds 
+VMS.68zoom: raises $0.90 to $1.20
+Gormax89: folds 
+Luicho707: calls $0.90
+*** FLOP *** [6d 2s 3s]
+VMS.68zoom: bets $1
+Luicho707: calls $1
+*** TURN *** [6d 2s 3s] [Ts]
+VMS.68zoom: checks 
+Luicho707: bets $1.90
+VMS.68zoom: calls $1.90
+*** RIVER *** [6d 2s 3s Ts] [4d]
+VMS.68zoom: checks 
+Luicho707: bets $7.77 and is all-in
+VMS.68zoom: folds 
+Uncalled bet ($7.77) returned to Luicho707
+Luicho707 collected $7.93 from pot
+Luicho707: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.30 | Rake $0.37 
+Board [6d 2s 3s Ts 4d]
+Seat 1: VMS.68zoom (small blind) folded on the River
+Seat 2: Gormax89 (big blind) folded before Flop
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: Luicho707 collected ($7.93)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: Polo&Co83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966618735:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:32:24 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($7.32 in chips) 
+Seat 2: Gormax89 ($7.05 in chips) 
+Seat 3: SrPan89 ($16.65 in chips) 
+Seat 4: Luicho707 ($15.70 in chips) 
+Seat 5: Psarn97 ($13.41 in chips) 
+Gormax89: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+Luicho707: folds 
+Psarn97: folds 
+VMS.68zoom: folds 
+Gormax89: calls $0.05
+SrPan89: checks 
+*** FLOP *** [6s 6h Ad]
+Gormax89: checks 
+SrPan89: checks 
+*** TURN *** [6s 6h Ad] [7s]
+Gormax89: checks 
+SrPan89: bets $0.14
+Gormax89: folds 
+Uncalled bet ($0.14) returned to SrPan89
+SrPan89 collected $0.19 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6s 6h Ad 7s]
+Seat 1: VMS.68zoom (button) folded before Flop (didn't bet)
+Seat 2: Gormax89 (small blind) folded on the Turn
+Seat 3: SrPan89 (big blind) collected ($0.19)
+Seat 4: Luicho707 folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966652743:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:33:08 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($10 in chips) 
+Seat 2: Gormax89 ($6.95 in chips) 
+Seat 3: SrPan89 ($16.74 in chips) 
+Seat 5: Psarn97 ($13.41 in chips) 
+SrPan89: posts small blind $0.05
+Luicho707: is sitting out 
+Psarn97: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: folds 
+Gormax89: raises $0.30 to $0.40
+Luicho707 leaves the table
+SrPan89: folds 
+Psarn97: folds 
+Uncalled bet ($0.30) returned to Gormax89
+Gormax89 collected $0.25 from pot
+Gormax89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 (button) collected ($0.25)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 5: Psarn97 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966661636:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:33:19 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($10 in chips) 
+Seat 2: Gormax89 ($7.10 in chips) 
+Seat 3: SrPan89 ($16.69 in chips) 
+Seat 5: Psarn97 ($13.31 in chips) 
+Psarn97: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+Gormax89: raises $0.10 to $0.20
+andrew_yar joins the table at seat #4 
+SrPan89: folds 
+Psarn97: calls $0.15
+VMS.68zoom: calls $0.10
+*** FLOP *** [Th Ah Tc]
+Psarn97: checks 
+VMS.68zoom: checks 
+Gormax89: checks 
+*** TURN *** [Th Ah Tc] [2c]
+Psarn97: bets $0.30
+VMS.68zoom: calls $0.30
+Gormax89: calls $0.30
+*** RIVER *** [Th Ah Tc 2c] [Ad]
+Psarn97: bets $1.43
+VMS.68zoom: folds 
+Gormax89: calls $1.43
+*** SHOW DOWN ***
+Psarn97: shows [5h Ac] (a full house, Aces full of Tens)
+Gormax89: mucks hand 
+Psarn97 collected $4.16 from pot
+*** SUMMARY ***
+Total pot $4.36 | Rake $0.20 
+Board [Th Ah Tc 2c Ad]
+Seat 1: VMS.68zoom (big blind) folded on the River
+Seat 2: Gormax89 mucked
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) showed [5h Ac] and won ($4.16) with a full house, Aces full of Tens
+
+
+
+PokerStars Hand #222966693566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:34:00 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($9.50 in chips) 
+Seat 2: Gormax89 ($5.17 in chips) 
+Seat 3: SrPan89 ($16.69 in chips) 
+Seat 5: Psarn97 ($15.54 in chips) 
+VMS.68zoom: posts small blind $0.05
+Gormax89: posts big blind $0.10
+andrew_yar: sits out 
+*** HOLE CARDS ***
+SrPan89: folds 
+Psarn97: folds 
+VMS.68zoom: folds 
+Uncalled bet ($0.05) returned to Gormax89
+Gormax89 collected $0.10 from pot
+Gormax89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: Gormax89 (big blind) collected ($0.10)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966698713:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:34:06 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($9.45 in chips) 
+Seat 2: Gormax89 ($5.22 in chips) 
+Seat 3: SrPan89 ($16.69 in chips) 
+Seat 5: Psarn97 ($15.54 in chips) 
+Gormax89: posts small blind $0.05
+SrPan89: posts big blind $0.10
+andrew_yar: sits out 
+*** HOLE CARDS ***
+Psarn97: folds 
+VMS.68zoom: raises $0.10 to $0.20
+Gormax89: folds 
+SrPan89: folds 
+Uncalled bet ($0.10) returned to VMS.68zoom
+VMS.68zoom collected $0.25 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom (button) collected ($0.25)
+Seat 2: Gormax89 (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 5: Psarn97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966710542:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:34:22 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($9.60 in chips) 
+Seat 2: Gormax89 ($5.17 in chips) 
+Seat 3: SrPan89 ($16.59 in chips) 
+Seat 4: andrew_yar ($10.58 in chips) 
+Seat 5: Psarn97 ($15.54 in chips) 
+SrPan89: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+Psarn97: folds 
+VMS.68zoom: folds 
+Gormax89: folds 
+SrPan89: raises $0.20 to $0.30
+andrew_yar: raises $0.70 to $1
+SrPan89: calls $0.70
+*** FLOP *** [5c 6s As]
+SrPan89: checks 
+andrew_yar: bets $0.96
+SrPan89: folds 
+Uncalled bet ($0.96) returned to andrew_yar
+andrew_yar collected $1.91 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.09 
+Board [5c 6s As]
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded on the Flop
+Seat 4: andrew_yar (big blind) collected ($1.91)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966741069:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:35:01 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($9.60 in chips) 
+Seat 2: Gormax89 ($5.17 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($11.49 in chips) 
+Seat 5: Psarn97 ($15.54 in chips) 
+andrew_yar: posts small blind $0.05
+Psarn97: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: raises $0.20 to $0.30
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: calls $0.20
+*** FLOP *** [9h Js 9c]
+Psarn97: bets $0.20
+VMS.68zoom: calls $0.20
+*** TURN *** [9h Js 9c] [9d]
+Psarn97: bets $1
+VMS.68zoom: calls $1
+*** RIVER *** [9h Js 9c 9d] [Ad]
+Psarn97: checks 
+VMS.68zoom: checks 
+*** SHOW DOWN ***
+Psarn97: shows [Jc Kc] (a full house, Nines full of Jacks)
+VMS.68zoom: shows [Tc Jh] (a full house, Nines full of Jacks)
+Psarn97 collected $1.46 from pot
+VMS.68zoom collected $1.45 from pot
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.14 
+Board [9h Js 9c 9d Ad]
+Seat 1: VMS.68zoom showed [Tc Jh] and won ($1.45) with a full house, Nines full of Jacks
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: andrew_yar (small blind) folded before Flop
+Seat 5: Psarn97 (big blind) showed [Jc Kc] and won ($1.46) with a full house, Nines full of Jacks
+
+
+
+PokerStars Hand #222966776058:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:35:45 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: VMS.68zoom ($9.55 in chips) 
+Seat 2: Gormax89 ($5.17 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($11.44 in chips) 
+Seat 5: Psarn97 ($15.50 in chips) 
+Psarn97: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: calls $0.05
+VMS.68zoom: checks 
+*** FLOP *** [7c Qc Jd]
+Psarn97: checks 
+VMS.68zoom: checks 
+*** TURN *** [7c Qc Jd] [As]
+Psarn97: checks 
+VMS.68zoom: checks 
+*** RIVER *** [7c Qc Jd As] [6c]
+Psarn97: checks 
+VMS.68zoom: checks 
+*** SHOW DOWN ***
+Psarn97: shows [9s 8d] (high card Ace)
+VMS.68zoom: mucks hand 
+Psarn97 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7c Qc Jd As 6c]
+Seat 1: VMS.68zoom (big blind) mucked
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) showed [9s 8d] and won ($0.19) with high card Ace
+
+
+
+PokerStars Hand #222966804185:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:36:21 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($9.45 in chips) 
+Seat 2: Gormax89 ($5.17 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($11.44 in chips) 
+Seat 5: Psarn97 ($15.59 in chips) 
+VMS.68zoom: posts small blind $0.05
+Gormax89: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+andrew_yar: raises $0.15 to $0.25
+Psarn97: folds 
+VMS.68zoom: folds 
+Gormax89: raises $0.35 to $0.60
+andrew_yar: calls $0.35
+*** FLOP *** [Jd Qs Jc]
+Gormax89: bets $4.57 and is all-in
+andrew_yar: folds 
+Uncalled bet ($4.57) returned to Gormax89
+Gormax89 collected $1.19 from pot
+Gormax89: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jd Qs Jc]
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: Gormax89 (big blind) collected ($1.19)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar folded on the Flop
+Seat 5: Psarn97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966818737:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:36:39 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($9.40 in chips) 
+Seat 2: Gormax89 ($5.76 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($10.84 in chips) 
+Seat 5: Psarn97 ($15.59 in chips) 
+Gormax89: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+Psarn97: folds 
+VMS.68zoom: folds 
+Gormax89: folds 
+Uncalled bet ($0.05) returned to SrPan89
+SrPan89 collected $0.10 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (button) folded before Flop (didn't bet)
+Seat 2: Gormax89 (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) collected ($0.10)
+Seat 4: andrew_yar folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966828731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:36:52 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($9.40 in chips) 
+Seat 2: Gormax89 ($5.71 in chips) 
+Seat 3: SrPan89 ($15.64 in chips) 
+Seat 4: andrew_yar ($10.84 in chips) 
+Seat 5: Psarn97 ($15.59 in chips) 
+SrPan89: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+Psarn97: folds 
+Polo&Co83 leaves the table
+VMS.68zoom: folds 
+Gormax89: folds 
+MMrbe joins the table at seat #6 
+SrPan89: raises $0.20 to $0.30
+andrew_yar: folds 
+Uncalled bet ($0.20) returned to SrPan89
+SrPan89 collected $0.20 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) collected ($0.20)
+Seat 4: andrew_yar (big blind) folded before Flop
+Seat 5: Psarn97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966842990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:37:10 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($9.40 in chips) 
+Seat 2: Gormax89 ($5.71 in chips) 
+Seat 3: SrPan89 ($15.74 in chips) 
+Seat 4: andrew_yar ($10.74 in chips) 
+Seat 5: Psarn97 ($15.59 in chips) 
+Seat 6: MMrbe ($10 in chips) 
+andrew_yar: posts small blind $0.05
+Psarn97: posts big blind $0.10
+MMrbe: posts big blind $0.10
+*** HOLE CARDS ***
+MMrbe: checks 
+VMS.68zoom: folds 
+Gormax89: calls $0.10
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: checks 
+*** FLOP *** [4h 4c 2s]
+Psarn97: checks 
+MMrbe: bets $0.40
+Gormax89: calls $0.40
+Psarn97: folds 
+*** TURN *** [4h 4c 2s] [6c]
+MMrbe: checks 
+Gormax89: checks 
+*** RIVER *** [4h 4c 2s 6c] [Ts]
+MMrbe: bets $2.50
+Gormax89: folds 
+Uncalled bet ($2.50) returned to MMrbe
+MMrbe collected $1.10 from pot
+MMrbe: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [4h 4c 2s 6c Ts]
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 folded on the River
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: andrew_yar (small blind) folded before Flop
+Seat 5: Psarn97 (big blind) folded on the Flop
+Seat 6: MMrbe collected ($1.10)
+
+
+
+PokerStars Hand #222966891448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:38:12 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: VMS.68zoom ($9.40 in chips) 
+Seat 2: Gormax89 ($5.21 in chips) 
+Seat 3: SrPan89 ($15.74 in chips) 
+Seat 4: andrew_yar ($10.69 in chips) 
+Seat 5: Psarn97 ($15.49 in chips) 
+Seat 6: MMrbe ($10.60 in chips) 
+Psarn97: posts small blind $0.05
+MMrbe: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: folds 
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: raises $0.15 to $0.25
+Psarn97: folds 
+MMrbe: folds 
+Uncalled bet ($0.15) returned to andrew_yar
+andrew_yar collected $0.25 from pot
+andrew_yar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar (button) collected ($0.25)
+Seat 5: Psarn97 (small blind) folded before Flop
+Seat 6: MMrbe (big blind) folded before Flop
+
+
+
+PokerStars Hand #222966903455:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:38:27 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($9.40 in chips) 
+Seat 2: Gormax89 ($5.21 in chips) 
+Seat 3: SrPan89 ($15.74 in chips) 
+Seat 4: andrew_yar ($10.84 in chips) 
+Seat 5: Psarn97 ($15.44 in chips) 
+Seat 6: MMrbe ($10.50 in chips) 
+MMrbe: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: calls $0.10
+MMrbe: calls $0.05
+VMS.68zoom: checks 
+*** FLOP *** [2c Ac Qc]
+MMrbe: bets $1
+VMS.68zoom: folds 
+Psarn97: calls $1
+*** TURN *** [2c Ac Qc] [3s]
+MMrbe: bets $0.10
+Psarn97: raises $2.40 to $2.50
+MMrbe: calls $2.40
+*** RIVER *** [2c Ac Qc 3s] [Js]
+MMrbe: checks 
+Psarn97: checks 
+*** SHOW DOWN ***
+MMrbe: shows [5c 7c] (a flush, Ace high)
+Psarn97: shows [4c 8c] (a flush, Ace high - Eight higher)
+Psarn97 collected $6.97 from pot
+*** SUMMARY ***
+Total pot $7.30 | Rake $0.33 
+Board [2c Ac Qc 3s Js]
+Seat 1: VMS.68zoom (big blind) folded on the Flop
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) showed [4c 8c] and won ($6.97) with a flush, Ace high
+Seat 6: MMrbe (small blind) showed [5c 7c] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #222966934453:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:39:07 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: VMS.68zoom ($9.30 in chips) 
+Seat 2: Gormax89 ($5.21 in chips) 
+Seat 3: SrPan89 ($15.74 in chips) 
+Seat 4: andrew_yar ($10.84 in chips) 
+Seat 5: Psarn97 ($18.81 in chips) 
+Seat 6: MMrbe ($6.90 in chips) 
+VMS.68zoom: posts small blind $0.05
+Gormax89: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: raises $0.10 to $0.20
+MMrbe: calls $0.20
+VMS.68zoom: raises $0.80 to $1
+Gormax89: folds 
+Psarn97: folds 
+MMrbe: folds 
+Uncalled bet ($0.80) returned to VMS.68zoom
+VMS.68zoom collected $0.70 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: VMS.68zoom (small blind) collected ($0.70)
+Seat 2: Gormax89 (big blind) folded before Flop
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop
+Seat 6: MMrbe (button) folded before Flop
+
+
+
+PokerStars Hand #222966952281:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:39:30 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($9.80 in chips) 
+Seat 2: Gormax89 ($5.11 in chips) 
+Seat 3: SrPan89 ($15.74 in chips) 
+Seat 4: andrew_yar ($10.84 in chips) 
+Seat 5: Psarn97 ($18.61 in chips) 
+Seat 6: MMrbe ($6.70 in chips) 
+Gormax89: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+andrew_yar: folds 
+Psarn97: folds 
+MMrbe: folds 
+VMS.68zoom: raises $0.10 to $0.20
+Gormax89: calls $0.15
+SrPan89: folds 
+*** FLOP *** [4d 8c 9c]
+Gormax89: checks 
+VMS.68zoom: bets $0.24
+Gormax89: calls $0.24
+*** TURN *** [4d 8c 9c] [5h]
+Gormax89: checks 
+VMS.68zoom: checks 
+*** RIVER *** [4d 8c 9c 5h] [3c]
+Gormax89: checks 
+VMS.68zoom: checks 
+*** SHOW DOWN ***
+Gormax89: shows [6h 4h] (a pair of Fours)
+VMS.68zoom: mucks hand 
+Gormax89 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [4d 8c 9c 5h 3c]
+Seat 1: VMS.68zoom (button) mucked
+Seat 2: Gormax89 (small blind) showed [6h 4h] and won ($0.94) with a pair of Fours
+Seat 3: SrPan89 (big blind) folded before Flop
+Seat 4: andrew_yar folded before Flop (didn't bet)
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: MMrbe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222966983608:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:40:10 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($9.36 in chips) 
+Seat 2: Gormax89 ($5.61 in chips) 
+Seat 3: SrPan89 ($15.64 in chips) 
+Seat 4: andrew_yar ($10.84 in chips) 
+Seat 5: Psarn97 ($18.61 in chips) 
+Seat 6: MMrbe ($6.70 in chips) 
+SrPan89: posts small blind $0.05
+andrew_yar: posts big blind $0.10
+*** HOLE CARDS ***
+Psarn97: folds 
+MMrbe: raises $0.10 to $0.20
+VMS.68zoom: folds 
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: calls $0.10
+*** FLOP *** [Kh 8c 5h]
+andrew_yar: checks 
+MMrbe: bets $0.40
+andrew_yar: folds 
+Uncalled bet ($0.40) returned to MMrbe
+MMrbe collected $0.43 from pot
+MMrbe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Kh 8c 5h]
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 (button) folded before Flop (didn't bet)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 4: andrew_yar (big blind) folded on the Flop
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: MMrbe collected ($0.43)
+
+
+
+PokerStars Hand #222967002036:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:40:34 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($9.36 in chips) 
+Seat 2: Gormax89 ($5.61 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($10.64 in chips) 
+Seat 5: Psarn97 ($18.61 in chips) 
+Seat 6: MMrbe ($6.93 in chips) 
+andrew_yar: posts small blind $0.05
+Psarn97: posts big blind $0.10
+*** HOLE CARDS ***
+MMrbe: calls $0.10
+VMS.68zoom: folds 
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: calls $0.05
+Psarn97: checks 
+*** FLOP *** [Jh Qc 5h]
+andrew_yar: bets $0.19
+Psarn97: calls $0.19
+MMrbe: folds 
+*** TURN *** [Jh Qc 5h] [Qh]
+andrew_yar: bets $0.33
+Psarn97: calls $0.33
+*** RIVER *** [Jh Qc 5h Qh] [6s]
+andrew_yar: checks 
+Psarn97: bets $1.30
+andrew_yar: calls $1.30
+*** SHOW DOWN ***
+Psarn97: shows [9h Ts] (a pair of Queens)
+andrew_yar: shows [Kh 4h] (a flush, King high)
+andrew_yar collected $3.76 from pot
+*** SUMMARY ***
+Total pot $3.94 | Rake $0.18 
+Board [Jh Qc 5h Qh 6s]
+Seat 1: VMS.68zoom folded before Flop (didn't bet)
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+Seat 4: andrew_yar (small blind) showed [Kh 4h] and won ($3.76) with a flush, King high
+Seat 5: Psarn97 (big blind) showed [9h Ts] and lost with a pair of Queens
+Seat 6: MMrbe folded on the Flop
+
+
+
+PokerStars Hand #222967056844:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:41:44 ET
+Table 'Sagitta IV' 6-max Seat #4 is the button
+Seat 1: VMS.68zoom ($9.36 in chips) 
+Seat 2: Gormax89 ($5.61 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($12.48 in chips) 
+Seat 5: Psarn97 ($16.69 in chips) 
+Seat 6: MMrbe ($6.83 in chips) 
+Psarn97: posts small blind $0.05
+MMrbe: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: raises $0.20 to $0.30
+Gormax89: folds 
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: raises $0.30 to $0.60
+MMrbe: folds 
+VMS.68zoom: calls $0.30
+*** FLOP *** [4s Jd 5h]
+Psarn97: bets $2
+VMS.68zoom: folds 
+Uncalled bet ($2) returned to Psarn97
+Psarn97 collected $1.24 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [4s Jd 5h]
+Seat 1: VMS.68zoom folded on the Flop
+Seat 2: Gormax89 folded before Flop (didn't bet)
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar (button) folded before Flop (didn't bet)
+Seat 5: Psarn97 (small blind) collected ($1.24)
+Seat 6: MMrbe (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967079695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:13 ET
+Table 'Sagitta IV' 6-max Seat #5 is the button
+Seat 1: VMS.68zoom ($8.76 in chips) 
+Seat 2: Gormax89 ($5.61 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($12.48 in chips) 
+Seat 5: Psarn97 ($17.33 in chips) 
+Seat 6: MMrbe ($6.73 in chips) 
+MMrbe: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+Gormax89: calls $0.10
+SrPan89: folds 
+andrew_yar: folds 
+Psarn97: raises $0.20 to $0.30
+MMrbe: folds 
+VMS.68zoom: folds 
+Gormax89: calls $0.20
+*** FLOP *** [Tc 2h Ac]
+Gormax89: checks 
+Psarn97: bets $0.72
+Gormax89: folds 
+Uncalled bet ($0.72) returned to Psarn97
+Psarn97 collected $0.72 from pot
+Psarn97: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Tc 2h Ac]
+Seat 1: VMS.68zoom (big blind) folded before Flop
+Seat 2: Gormax89 folded on the Flop
+Seat 3: SrPan89 folded before Flop (didn't bet)
+Seat 4: andrew_yar folded before Flop (didn't bet)
+Seat 5: Psarn97 (button) collected ($0.72)
+Seat 6: MMrbe (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967096157:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:42:34 ET
+Table 'Sagitta IV' 6-max Seat #6 is the button
+Seat 1: VMS.68zoom ($8.66 in chips) 
+Seat 2: Gormax89 ($5.31 in chips) 
+Seat 3: SrPan89 ($15.59 in chips) 
+Seat 4: andrew_yar ($12.48 in chips) 
+Seat 5: Psarn97 ($17.75 in chips) 
+Seat 6: MMrbe ($6.68 in chips) 
+VMS.68zoom: posts small blind $0.05
+Gormax89: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+andrew_yar: calls $0.25
+Psarn97: folds 
+MMrbe: calls $0.25
+Psarn97 leaves the table
+VMS.68zoom: folds 
+Gormax89: raises $0.45 to $0.70
+SrPan89: folds 
+andrew_yar: calls $0.45
+MMrbe: calls $0.45
+*** FLOP *** [2s Ks Ah]
+Gormax89: bets $0.50
+andrew_yar: folds 
+MMrbe: calls $0.50
+*** TURN *** [2s Ks Ah] [Td]
+Gormax89: bets $1.10
+MMrbe: calls $1.10
+*** RIVER *** [2s Ks Ah Td] [Ac]
+Gormax89: bets $1.20
+MMrbe: raises $3.18 to $4.38 and is all-in
+Gormax89: calls $1.81 and is all-in
+Uncalled bet ($1.37) returned to MMrbe
+*** SHOW DOWN ***
+MMrbe: shows [Jh As] (three of a kind, Aces)
+Gormax89: shows [9h Th] (two pair, Aces and Tens)
+MMrbe collected $11.10 from pot
+*** SUMMARY ***
+Total pot $11.62 | Rake $0.52 
+Board [2s Ks Ah Td Ac]
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: Gormax89 (big blind) showed [9h Th] and lost with two pair, Aces and Tens
+Seat 3: SrPan89 folded before Flop
+Seat 4: andrew_yar folded on the Flop
+Seat 5: Psarn97 folded before Flop (didn't bet)
+Seat 6: MMrbe (button) showed [Jh As] and won ($11.10) with three of a kind, Aces
+
+
+
+PokerStars Hand #222967136910:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:43:26 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($8.61 in chips) 
+Seat 3: SrPan89 ($15.34 in chips) 
+Seat 6: MMrbe ($12.47 in chips) 
+SrPan89: posts small blind $0.05
+andrew_yar: is sitting out 
+andrew_yar leaves the table
+MMrbe: posts big blind $0.10
+*** HOLE CARDS ***
+Gormax89 leaves the table
+VMS.68zoom: raises $0.25 to $0.35
+SrPan89: folds 
+MMrbe: folds 
+Uncalled bet ($0.25) returned to VMS.68zoom
+VMS.68zoom collected $0.25 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom (button) collected ($0.25)
+Seat 3: SrPan89 (small blind) folded before Flop
+Seat 6: MMrbe (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967145814:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:43:38 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($8.76 in chips) 
+Seat 3: SrPan89 ($15.29 in chips) 
+Seat 6: MMrbe ($12.37 in chips) 
+MMrbe: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: raises $0.15 to $0.25
+MMrbe: folds 
+VMS.68zoom: folds 
+Uncalled bet ($0.15) returned to SrPan89
+MMrbe leaves the table
+SrPan89 collected $0.25 from pot
+SrPan89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom (big blind) folded before Flop
+Seat 3: SrPan89 (button) collected ($0.25)
+Seat 6: MMrbe (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967151623:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:43:45 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($8.66 in chips) 
+Seat 3: SrPan89 ($15.44 in chips) 
+VMS.68zoom: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: raises $0.10 to $0.20
+SrPan89: calls $0.10
+*** FLOP *** [Qs 7d 3h]
+SrPan89: checks 
+Catito7 joins the table at seat #2 
+VMS.68zoom: bets $0.19
+SrPan89: folds 
+Uncalled bet ($0.19) returned to VMS.68zoom
+VMS.68zoom collected $0.38 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Qs 7d 3h]
+Seat 1: VMS.68zoom (button) (small blind) collected ($0.38)
+Seat 3: SrPan89 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222967163576:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:44:00 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($8.84 in chips) 
+Seat 2: Catito7 ($4.57 in chips) 
+Seat 3: SrPan89 ($15.24 in chips) 
+VMS.68zoom: posts small blind $0.05
+Catito7: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+VMS.68zoom: folds 
+Uncalled bet ($0.05) returned to Catito7
+Catito7 collected $0.10 from pot
+Catito7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (small blind) folded before Flop
+Seat 2: Catito7 (big blind) collected ($0.10)
+Seat 3: SrPan89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222967168508:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:44:07 ET
+Table 'Sagitta IV' 6-max Seat #2 is the button
+Seat 1: VMS.68zoom ($8.79 in chips) 
+Seat 2: Catito7 ($4.62 in chips) 
+Catito7: posts small blind $0.05
+SrPan89: is sitting out 
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+Catito7: folds 
+Uncalled bet ($0.05) returned to VMS.68zoom
+VMS.68zoom collected $0.10 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (big blind) collected ($0.10)
+Seat 2: Catito7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222967174296:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:44:14 ET
+Table 'Sagitta IV' 6-max Seat #1 is the button
+Seat 1: VMS.68zoom ($8.84 in chips) 
+Seat 2: Catito7 ($4.57 in chips) 
+Seat 3: SrPan89 ($15.24 in chips) 
+Catito7: posts small blind $0.05
+SrPan89: posts big blind $0.10
+*** HOLE CARDS ***
+VMS.68zoom: raises $0.10 to $0.20
+Catito7: folds 
+SrPan89: folds 
+Uncalled bet ($0.10) returned to VMS.68zoom
+Catito7 leaves the table
+VMS.68zoom collected $0.25 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VMS.68zoom (button) collected ($0.25)
+Seat 2: Catito7 (small blind) folded before Flop
+Seat 3: SrPan89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222967180196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 14:44:21 ET
+Table 'Sagitta IV' 6-max Seat #3 is the button
+Seat 1: VMS.68zoom ($8.99 in chips) 
+Seat 3: SrPan89 ($15.14 in chips) 
+SrPan89: posts small blind $0.05
+VMS.68zoom: posts big blind $0.10
+*** HOLE CARDS ***
+SrPan89: folds 
+Uncalled bet ($0.05) returned to VMS.68zoom
+VMS.68zoom collected $0.10 from pot
+VMS.68zoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VMS.68zoom (big blind) collected ($0.10)
+Seat 3: SrPan89 (button) (small blind) folded before Flop
+
+
+

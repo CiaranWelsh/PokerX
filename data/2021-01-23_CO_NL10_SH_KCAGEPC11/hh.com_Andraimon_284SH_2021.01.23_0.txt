@@ -1,0 +1,2308 @@
+﻿PokerStars Hand #222949572135:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:25 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($10.53 in chips) 
+Seat 2: brightsunfun ($10.10 in chips) 
+Seat 3: Pupsic ($10.10 in chips) 
+Seat 4: comanche1979 ($9.85 in chips) 
+Seat 6: Marsel_ej ($9.61 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster joins the table at seat #5 
+Pupsic: folds 
+comanche1979: folds 
+Marsel_ej: raises $0.20 to $0.30
+Marocki: raises $0.60 to $0.90
+brightsunfun: folds 
+Marsel_ej: folds 
+Uncalled bet ($0.60) returned to Marocki
+Marocki collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Marocki (small blind) collected ($0.70)
+Seat 2: brightsunfun (big blind) folded before Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) folded before Flop
+
+
+
+PokerStars Hand #222949581225:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:23:55 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($10.93 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10.10 in chips) 
+Seat 4: comanche1979 ($9.85 in chips) 
+Seat 6: Marsel_ej ($9.31 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+xulfster: sits out 
+*** HOLE CARDS ***
+comanche1979: folds 
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: raises $0.23 to $0.33
+Pupsic: folds 
+Uncalled bet ($0.23) returned to brightsunfun
+brightsunfun collected $0.20 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: brightsunfun (small blind) collected ($0.20)
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 4: comanche1979 folded before Flop (didn't bet)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949585472:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:24:09 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($10.93 in chips) 
+Seat 2: brightsunfun ($10.10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.85 in chips) 
+Seat 6: Marsel_ej ($9.31 in chips) 
+Pupsic: posts small blind $0.05
+comanche1979: posts big blind $0.10
+xulfster: sits out 
+*** HOLE CARDS ***
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+Uncalled bet ($0.05) returned to comanche1979
+comanche1979 collected $0.10 from pot
+comanche1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: comanche1979 (big blind) collected ($0.10)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949588054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:24:17 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($10.93 in chips) 
+Seat 2: brightsunfun ($10.10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.90 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.31 in chips) 
+comanche1979: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: raises $0.15 to $0.25
+Pupsic: folds 
+comanche1979: folds 
+xulfster: folds 
+Uncalled bet ($0.15) returned to brightsunfun
+brightsunfun collected $0.25 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun collected ($0.25)
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: comanche1979 (small blind) folded before Flop
+Seat 5: xulfster (big blind) folded before Flop
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949592550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:24:32 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($10.93 in chips) 
+Seat 2: brightsunfun ($10.25 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.85 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.31 in chips) 
+xulfster: posts small blind $0.05
+Marsel_ej: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+xulfster: raises $0.20 to $0.30
+Marsel_ej: folds 
+Uncalled bet ($0.20) returned to xulfster
+xulfster collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 (button) folded before Flop (didn't bet)
+Seat 5: xulfster (small blind) collected ($0.20)
+Seat 6: Marsel_ej (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949597536:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:24:48 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.93 in chips) 
+Seat 2: brightsunfun ($10.25 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.85 in chips) 
+Seat 5: xulfster ($10.10 in chips) 
+Seat 6: Marsel_ej ($9.21 in chips) 
+Marsel_ej: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: raises $0.20 to $0.30
+comanche1979: calls $0.30
+xulfster has timed out
+xulfster: folds 
+Marsel_ej: folds 
+Marocki: calls $0.20
+*** FLOP *** [3c 9h Tc]
+Marocki: checks 
+Pupsic: checks 
+comanche1979: bets $0.50
+Marocki: calls $0.50
+Pupsic: calls $0.50
+*** TURN *** [3c 9h Tc] [Ks]
+Marocki: checks 
+Pupsic: checks 
+comanche1979: checks 
+*** RIVER *** [3c 9h Tc Ks] [2c]
+Marocki: bets $2.34
+Pupsic: folds 
+comanche1979: folds 
+Uncalled bet ($2.34) returned to Marocki
+Marocki collected $2.34 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [3c 9h Tc Ks 2c]
+Seat 1: Marocki (big blind) collected ($2.34)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded on the River
+Seat 4: comanche1979 folded on the River
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+Seat 6: Marsel_ej (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949622071:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:09 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($12.47 in chips) 
+Seat 2: brightsunfun ($10.25 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.05 in chips) 
+Seat 5: xulfster ($10.10 in chips) 
+Seat 6: Marsel_ej ($9.16 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Pupsic: folds 
+comanche1979: folds 
+xulfster: folds 
+Marsel_ej: folds 
+Marocki: calls $0.05
+brightsunfun: checks 
+*** FLOP *** [Qc 9s 3c]
+Marocki: bets $0.19
+brightsunfun: folds 
+Uncalled bet ($0.19) returned to Marocki
+Marocki collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qc 9s 3c]
+Seat 1: Marocki (small blind) collected ($0.19)
+Seat 2: brightsunfun (big blind) folded on the Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 folded before Flop (didn't bet)
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949632683:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:26:44 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($12.56 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.05 in chips) 
+Seat 5: xulfster ($10.10 in chips) 
+Seat 6: Marsel_ej ($9.16 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+*** HOLE CARDS ***
+comanche1979: raises $0.10 to $0.20
+xulfster: folds 
+Marsel_ej: calls $0.20
+Marocki: raises $1 to $1.20
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+Marsel_ej: folds 
+Uncalled bet ($1) returned to Marocki
+Marocki collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Marocki (button) collected ($0.75)
+Seat 2: brightsunfun (small blind) folded before Flop
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 4: comanche1979 folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej folded before Flop
+
+
+
+PokerStars Hand #222949643964:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:27:21 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($13.11 in chips) 
+Seat 2: brightsunfun ($10.10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($8.85 in chips) 
+Seat 5: xulfster ($10.10 in chips) 
+Seat 6: Marsel_ej ($8.96 in chips) 
+Pupsic: posts small blind $0.05
+comanche1979: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Marsel_ej: raises $0.20 to $0.30
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+Uncalled bet ($0.20) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: comanche1979 (big blind) folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej collected ($0.25)
+
+
+
+PokerStars Hand #222949647644:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:27:33 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($13.11 in chips) 
+Seat 2: brightsunfun ($10.10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($8.75 in chips) 
+Seat 5: xulfster ($10.10 in chips) 
+Seat 6: Marsel_ej ($9.11 in chips) 
+comanche1979: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: folds 
+Marocki: raises $0.10 to $0.20
+brightsunfun: calls $0.20
+Pupsic: folds 
+comanche1979: calls $0.15
+xulfster: calls $0.10
+*** FLOP *** [Ks 4s 9s]
+comanche1979: checks 
+xulfster: checks 
+Marocki: bets $0.34
+brightsunfun: folds 
+comanche1979: folds 
+xulfster: folds 
+Uncalled bet ($0.34) returned to Marocki
+Marocki collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Ks 4s 9s]
+Seat 1: Marocki collected ($0.76)
+Seat 2: brightsunfun folded on the Flop
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: comanche1979 (small blind) folded on the Flop
+Seat 5: xulfster (big blind) folded on the Flop
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949665253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:28:31 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($13.67 in chips) 
+Seat 2: brightsunfun ($9.90 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($8.55 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.11 in chips) 
+xulfster: posts small blind $0.05
+Marsel_ej: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: raises $0.10 to $0.20
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+xulfster: calls $0.15
+Marsel_ej: folds 
+*** FLOP *** [8s Ks 5c]
+xulfster: checks 
+Marocki: bets $0.24
+xulfster: calls $0.24
+*** TURN *** [8s Ks 5c] [Ad]
+xulfster: checks 
+Marocki: bets $0.50
+xulfster: folds 
+Uncalled bet ($0.50) returned to Marocki
+Marocki collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [8s Ks 5c Ad]
+Seat 1: Marocki collected ($0.94)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 (button) folded before Flop (didn't bet)
+Seat 5: xulfster (small blind) folded on the Turn
+Seat 6: Marsel_ej (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949681391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:29:24 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($14.17 in chips) 
+Seat 2: brightsunfun ($9.90 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($8.55 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.01 in chips) 
+Marsel_ej: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: raises $0.10 to $0.20
+xulfster has timed out
+xulfster: folds 
+Marsel_ej: folds 
+Marocki: calls $0.10
+*** FLOP *** [3d 4h 6h]
+Marocki: checks 
+comanche1979: bets $0.22
+Marocki: calls $0.22
+*** TURN *** [3d 4h 6h] [8s]
+Marocki: checks 
+comanche1979: bets $0.43
+Marocki: calls $0.43
+*** RIVER *** [3d 4h 6h 8s] [9s]
+Marocki: bets $0.80
+comanche1979: calls $0.80
+*** SHOW DOWN ***
+Marocki: shows [5s Ks] (high card King)
+comanche1979: shows [7h 9h] (a pair of Nines)
+comanche1979 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [3d 4h 6h 8s 9s]
+Seat 1: Marocki (big blind) showed [5s Ks] and lost with high card King
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 showed [7h 9h] and won ($3.20) with a pair of Nines
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+Seat 6: Marsel_ej (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949704432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:30:39 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($12.52 in chips) 
+Seat 2: brightsunfun ($9.90 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($10.10 in chips) 
+Seat 6: Marsel_ej ($8.96 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Pupsic: folds 
+comanche1979: folds 
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Uncalled bet ($0.15) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: brightsunfun (big blind) folded before Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949710869:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:31:00 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($12.47 in chips) 
+Seat 2: brightsunfun ($9.80 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($10.10 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.11 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+*** HOLE CARDS ***
+comanche1979: calls $0.10
+xulfster: folds 
+Marsel_ej: raises $0.30 to $0.40
+Marocki: folds 
+brightsunfun: calls $0.35
+Pupsic: folds 
+comanche1979: folds 
+*** FLOP *** [4h 8s 9h]
+brightsunfun: checks 
+Marsel_ej: bets $0.40
+brightsunfun: folds 
+Uncalled bet ($0.40) returned to Marsel_ej
+Marsel_ej collected $0.96 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [4h 8s 9h]
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: brightsunfun (small blind) folded on the Flop
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 4: comanche1979 folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej collected ($0.96)
+
+
+
+PokerStars Hand #222949724900:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:31:46 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($12.47 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($10 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.67 in chips) 
+Pupsic: posts small blind $0.05
+comanche1979: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+Uncalled bet ($0.15) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: comanche1979 (big blind) folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej collected ($0.25)
+
+
+
+PokerStars Hand #222949729643:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:01 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($12.47 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.90 in chips) 
+Seat 5: xulfster ($10 in chips) 
+Seat 6: Marsel_ej ($9.82 in chips) 
+comanche1979: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: raises $0.15 to $0.25
+Pupsic: folds 
+comanche1979: folds 
+xulfster: raises $0.85 to $1.10
+brightsunfun: folds 
+Uncalled bet ($0.85) returned to xulfster
+xulfster collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: comanche1979 (small blind) folded before Flop
+Seat 5: xulfster (big blind) collected ($0.55)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949734553:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:32:17 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($12.47 in chips) 
+Seat 2: brightsunfun ($9.75 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.85 in chips) 
+Seat 5: xulfster ($10.30 in chips) 
+Seat 6: Marsel_ej ($9.82 in chips) 
+xulfster: posts small blind $0.05
+Marsel_ej: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: raises $0.15 to $0.25
+xulfster: folds 
+Marsel_ej: calls $0.15
+*** FLOP *** [8c 6h Kc]
+Marsel_ej: checks 
+comanche1979: checks 
+*** TURN *** [8c 6h Kc] [7s]
+Marsel_ej: checks 
+comanche1979: checks 
+*** RIVER *** [8c 6h Kc 7s] [9d]
+Marsel_ej: checks 
+comanche1979: checks 
+*** SHOW DOWN ***
+Marsel_ej: shows [Tc Ad] (a straight, Six to Ten)
+comanche1979: mucks hand 
+Marsel_ej collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [8c 6h Kc 7s 9d]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 (button) mucked
+Seat 5: xulfster (small blind) folded before Flop
+Seat 6: Marsel_ej (big blind) showed [Tc Ad] and won ($0.53) with a straight, Six to Ten
+
+
+
+PokerStars Hand #222949755246:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:24 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($12.47 in chips) 
+Seat 2: brightsunfun ($9.75 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.60 in chips) 
+Seat 5: xulfster ($10.25 in chips) 
+Seat 6: Marsel_ej ($10.10 in chips) 
+Marsel_ej: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+xulfster: folds 
+Marsel_ej: folds 
+Uncalled bet ($0.05) returned to Marocki
+Marocki collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki (big blind) collected ($0.10)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 folded before Flop (didn't bet)
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+Seat 6: Marsel_ej (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949759994:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:33:39 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($12.52 in chips) 
+Seat 2: brightsunfun ($9.75 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.60 in chips) 
+Seat 5: xulfster ($10.25 in chips) 
+Seat 6: Marsel_ej ($10.05 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Pupsic: folds 
+comanche1979: folds 
+xulfster: folds 
+Marsel_ej: raises $0.20 to $0.30
+Marocki: raises $0.70 to $1
+brightsunfun: folds 
+Marsel_ej: folds 
+Uncalled bet ($0.70) returned to Marocki
+Marocki collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Marocki (small blind) collected ($0.70)
+Seat 2: brightsunfun (big blind) folded before Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: comanche1979 folded before Flop (didn't bet)
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) folded before Flop
+
+
+
+PokerStars Hand #222949768239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:06 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($12.92 in chips) 
+Seat 2: brightsunfun ($9.65 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.60 in chips) 
+Seat 5: xulfster ($10.25 in chips) 
+Seat 6: Marsel_ej ($9.75 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+*** HOLE CARDS ***
+comanche1979: raises $0.15 to $0.25
+xulfster: folds 
+Marsel_ej: folds 
+Marocki: raises $0.95 to $1.20
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+Uncalled bet ($0.95) returned to Marocki
+Marocki collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Marocki (button) collected ($0.65)
+Seat 2: brightsunfun (small blind) folded before Flop
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 4: comanche1979 folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949775616:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:34:29 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($13.32 in chips) 
+Seat 2: brightsunfun ($9.60 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($9.35 in chips) 
+Seat 5: xulfster ($10.25 in chips) 
+Seat 6: Marsel_ej ($9.75 in chips) 
+Pupsic: posts small blind $0.05
+comanche1979: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: raises $0.18 to $0.28
+Pupsic: folds 
+comanche1979: calls $0.18
+*** FLOP *** [6s 7h Ad]
+comanche1979: checks 
+brightsunfun: bets $0.48
+comanche1979: calls $0.48
+*** TURN *** [6s 7h Ad] [Jc]
+comanche1979: checks 
+brightsunfun: bets $1.37
+comanche1979: calls $1.37
+*** RIVER *** [6s 7h Ad Jc] [2h]
+comanche1979: checks 
+brightsunfun: bets $3.36
+comanche1979: calls $3.36
+*** SHOW DOWN ***
+brightsunfun: shows [5h 8h] (high card Ace)
+comanche1979: shows [Ts Ac] (a pair of Aces)
+comanche1979 collected $10.53 from pot
+*** SUMMARY ***
+Total pot $11.03 | Rake $0.50 
+Board [6s 7h Ad Jc 2h]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) showed [5h 8h] and lost with high card Ace
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: comanche1979 (big blind) showed [Ts Ac] and won ($10.53) with a pair of Aces
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949807854:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:36:12 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($13.32 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: comanche1979 ($14.39 in chips) 
+Seat 5: xulfster ($10.25 in chips) 
+Seat 6: Marsel_ej ($9.75 in chips) 
+comanche1979: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+comanche1979: folds 
+xulfster: folds 
+Uncalled bet ($0.15) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: comanche1979 (small blind) folded before Flop
+Seat 5: xulfster (big blind) folded before Flop
+Seat 6: Marsel_ej collected ($0.25)
+
+
+
+PokerStars Hand #222949813432:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:36:30 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($13.32 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 5: xulfster ($10.15 in chips) 
+Seat 6: Marsel_ej ($9.90 in chips) 
+Marsel_ej: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: folds 
+xulfster: folds 
+comanche1979 leaves the table
+Marsel_ej: folds 
+Uncalled bet ($0.05) returned to Marocki
+Marocki collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki (big blind) collected ($0.10)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+Seat 6: Marsel_ej (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949818231:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:36:45 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($13.37 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 5: xulfster ($10.15 in chips) 
+Seat 6: Marsel_ej ($9.85 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Pupsic: folds 
+xulfster: folds 
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Uncalled bet ($0.15) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: brightsunfun (big blind) folded before Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949824402:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:05 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($13.32 in chips) 
+Seat 2: brightsunfun ($9.90 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 5: xulfster ($10.15 in chips) 
+Seat 6: Marsel_ej ($10 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster has timed out
+xulfster: folds 
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: raises $0.23 to $0.33
+Pupsic: folds 
+Uncalled bet ($0.23) returned to brightsunfun
+brightsunfun collected $0.20 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: brightsunfun (small blind) collected ($0.20)
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949831015:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:26 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($13.32 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 6: Marsel_ej ($10 in chips) 
+Pupsic: posts small blind $0.05
+xulfster: is sitting out 
+Marsel_ej: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+brightsunfun: raises $0.18 to $0.28
+Pupsic: folds 
+Marsel_ej: folds 
+Uncalled bet ($0.18) returned to brightsunfun
+brightsunfun collected $0.25 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) collected ($0.25)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 6: Marsel_ej (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949836021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:42 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($13.32 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 6: Marsel_ej ($9.90 in chips) 
+Marsel_ej: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Sheva26Rus joins the table at seat #4 
+Pupsic: folds 
+Marsel_ej: raises $0.20 to $0.30
+Marocki: folds 
+Uncalled bet ($0.20) returned to Marsel_ej
+Marsel_ej collected $0.20 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 6: Marsel_ej (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222949840762:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:37:57 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($13.22 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 6: Marsel_ej ($10 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+Sheva26Rus: sits out 
+*** HOLE CARDS ***
+Pupsic: folds 
+Marsel_ej: folds 
+Marocki: folds 
+Uncalled bet ($0.05) returned to brightsunfun
+brightsunfun collected $0.10 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: brightsunfun (big blind) collected ($0.10)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949842969:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:38:04 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($13.17 in chips) 
+Seat 2: brightsunfun ($10.20 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 6: Marsel_ej ($10 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+Sheva26Rus: sits out 
+*** HOLE CARDS ***
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+Uncalled bet ($0.15) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: brightsunfun (small blind) folded before Flop
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 6: Marsel_ej collected ($0.25)
+
+
+
+PokerStars Hand #222949847090:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:38:17 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($13.17 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 6: Marsel_ej ($10.15 in chips) 
+Pupsic: posts small blind $0.05
+Sheva26Rus: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: raises $0.15 to $0.25
+Marocki: calls $0.25
+brightsunfun: folds 
+Pupsic: folds 
+Sheva26Rus: folds 
+*** FLOP *** [Qs 7h Jh]
+Marsel_ej: bets $0.30
+Marocki: calls $0.30
+*** TURN *** [Qs 7h Jh] [2s]
+Marsel_ej: bets $0.70
+Marocki: calls $0.70
+*** RIVER *** [Qs 7h Jh 2s] [3d]
+Marsel_ej: checks 
+Marocki: checks 
+*** SHOW DOWN ***
+Marsel_ej: shows [Ac 7d] (a pair of Sevens)
+Marocki: mucks hand 
+Marsel_ej collected $2.53 from pot
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [Qs 7h Jh 2s 3d]
+Seat 1: Marocki mucked
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: Sheva26Rus (big blind) folded before Flop
+Seat 6: Marsel_ej showed [Ac 7d] and won ($2.53) with a pair of Sevens
+
+
+
+PokerStars Hand #222949873868:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:39:42 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($11.92 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 6: Marsel_ej ($11.43 in chips) 
+Sheva26Rus: posts small blind $0.05
+Marsel_ej: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+Sheva26Rus: raises $0.20 to $0.30
+Marsel_ej: calls $0.20
+*** FLOP *** [Ks Qc 5d]
+Sheva26Rus: checks 
+Marsel_ej: checks 
+*** TURN *** [Ks Qc 5d] [Qh]
+Sheva26Rus: checks 
+Marsel_ej: checks 
+*** RIVER *** [Ks Qc 5d Qh] [Kd]
+Sheva26Rus: checks 
+Marsel_ej: checks 
+*** SHOW DOWN ***
+Sheva26Rus: shows [4h 3h] (two pair, Kings and Queens)
+Marsel_ej: shows [9s Ah] (two pair, Kings and Queens - Ace kicker)
+Marsel_ej collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ks Qc 5d Qh Kd]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: Sheva26Rus (small blind) showed [4h 3h] and lost with two pair, Kings and Queens
+Seat 6: Marsel_ej (big blind) showed [9s Ah] and won ($0.57) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #222949883548:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:40:13 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($11.92 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 6: Marsel_ej ($11.70 in chips) 
+Marsel_ej: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: raises $0.20 to $0.30
+Sheva26Rus: folds 
+Marsel_ej: folds 
+Marocki: folds 
+Uncalled bet ($0.20) returned to Pupsic
+Pupsic collected $0.25 from pot
+Pupsic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic collected ($0.25)
+Seat 4: Sheva26Rus (button) folded before Flop (didn't bet)
+Seat 6: Marsel_ej (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949889353:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:40:32 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($11.82 in chips) 
+Seat 2: brightsunfun ($10.15 in chips) 
+Seat 3: Pupsic ($10.15 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 6: Marsel_ej ($11.65 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Pupsic: folds 
+Sheva26Rus: folds 
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Uncalled bet ($0.15) returned to Marsel_ej
+Marsel_ej collected $0.25 from pot
+Marsel_ej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: brightsunfun (big blind) folded before Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: Sheva26Rus folded before Flop (didn't bet)
+Seat 6: Marsel_ej (button) collected ($0.25)
+
+
+
+PokerStars Hand #222949895844:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:40:52 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($11.77 in chips) 
+Seat 2: brightsunfun ($10.05 in chips) 
+Seat 3: Pupsic ($10.15 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 6: Marsel_ej ($11.80 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+*** HOLE CARDS ***
+Sheva26Rus: folds 
+Marsel_ej: folds 
+Marocki: raises $0.15 to $0.25
+brightsunfun: folds 
+Pupsic: folds 
+Uncalled bet ($0.15) returned to Marocki
+Marocki collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (button) collected ($0.25)
+Seat 2: brightsunfun (small blind) folded before Flop
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 4: Sheva26Rus folded before Flop (didn't bet)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949900306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:41:07 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($11.92 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10.05 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 6: Marsel_ej ($11.80 in chips) 
+Pupsic: posts small blind $0.05
+Sheva26Rus: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: raises $0.15 to $0.25
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+Sheva26Rus: raises $0.85 to $1.10
+Marsel_ej: folds 
+Uncalled bet ($0.85) returned to Sheva26Rus
+Sheva26Rus collected $0.55 from pot
+Sheva26Rus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: Sheva26Rus (big blind) collected ($0.55)
+Seat 6: Marsel_ej folded before Flop
+
+
+
+PokerStars Hand #222949911759:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:41:44 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($11.92 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($10.30 in chips) 
+Seat 5: xulfster ($10.15 in chips) 
+Seat 6: Marsel_ej ($11.55 in chips) 
+Sheva26Rus: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marsel_ej: folds 
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+Sheva26Rus: raises $0.20 to $0.30
+xulfster: calls $0.20
+*** FLOP *** [Ac 5d 3s]
+Sheva26Rus: bets $0.37
+xulfster: calls $0.37
+*** TURN *** [Ac 5d 3s] [As]
+Sheva26Rus: checks 
+xulfster: bets $0.42
+Sheva26Rus: folds 
+Uncalled bet ($0.42) returned to xulfster
+xulfster collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.06 
+Board [Ac 5d 3s As]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: Sheva26Rus (small blind) folded on the Turn
+Seat 5: xulfster (big blind) collected ($1.28)
+Seat 6: Marsel_ej folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949923446:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:42:21 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($11.92 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($10 in chips) 
+Seat 5: xulfster ($10.76 in chips) 
+xulfster: posts small blind $0.05
+Marsel_ej has timed out
+Marsel_ej: is sitting out 
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: folds 
+Sheva26Rus: raises $0.15 to $0.25
+Marsel_ej is disconnected 
+xulfster: folds 
+Marocki: calls $0.15
+*** FLOP *** [Th 6d 8h]
+Marocki: checks 
+Sheva26Rus: bets $0.35
+Marocki: calls $0.35
+*** TURN *** [Th 6d 8h] [Jc]
+Marocki: checks 
+Sheva26Rus: bets $0.77
+Marocki: calls $0.77
+*** RIVER *** [Th 6d 8h Jc] [Ts]
+Marocki: checks 
+Sheva26Rus: checks 
+*** SHOW DOWN ***
+Marocki: shows [9c Kh] (a pair of Tens)
+Sheva26Rus: shows [Jh 7h] (two pair, Jacks and Tens)
+Sheva26Rus collected $2.66 from pot
+*** SUMMARY ***
+Total pot $2.79 | Rake $0.13 
+Board [Th 6d 8h Jc Ts]
+Seat 1: Marocki (big blind) showed [9c Kh] and lost with a pair of Tens
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: Sheva26Rus (button) showed [Jh 7h] and won ($2.66) with two pair, Jacks and Tens
+Seat 5: xulfster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949936545:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:43:03 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.55 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($11.29 in chips) 
+Seat 5: xulfster ($10.71 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+*** HOLE CARDS ***
+Pupsic: folds 
+Sheva26Rus: folds 
+xulfster: folds 
+Marocki: calls $0.05
+brightsunfun: checks 
+*** FLOP *** [Ac 6h Ah]
+Marocki: bets $0.10
+brightsunfun: folds 
+Uncalled bet ($0.10) returned to Marocki
+Marocki collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ac 6h Ah]
+Seat 1: Marocki (small blind) collected ($0.19)
+Seat 2: brightsunfun (big blind) folded on the Flop
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: Sheva26Rus folded before Flop (didn't bet)
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949943650:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:43:26 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($10.64 in chips) 
+Seat 2: brightsunfun ($9.90 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 4: Sheva26Rus ($11.29 in chips) 
+Seat 5: xulfster ($10.71 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+*** HOLE CARDS ***
+Sheva26Rus: folds 
+xulfster: folds 
+Marocki: folds 
+brightsunfun: raises $0.23 to $0.33
+Pupsic: folds 
+Uncalled bet ($0.23) returned to brightsunfun
+brightsunfun collected $0.20 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: brightsunfun (small blind) collected ($0.20)
+Seat 3: Pupsic (big blind) folded before Flop
+Seat 4: Sheva26Rus folded before Flop (didn't bet)
+Seat 5: xulfster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949948595:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:43:41 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($10.64 in chips) 
+Seat 2: brightsunfun ($10 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 5: xulfster ($10.71 in chips) 
+Pupsic: posts small blind $0.05
+Sheva26Rus: is sitting out 
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: raises $0.15 to $0.25
+brightsunfun: calls $0.25
+Pupsic: folds 
+xulfster: folds 
+*** FLOP *** [2c 4c 8h]
+Marocki: checks 
+Sheva26Rus leaves the table
+brightsunfun: checks 
+*** TURN *** [2c 4c 8h] [Ah]
+Marocki: checks 
+JoeHop14 joins the table at seat #4 
+brightsunfun: checks 
+*** RIVER *** [2c 4c 8h Ah] [Tc]
+Marocki: bets $0.50
+brightsunfun: folds 
+Uncalled bet ($0.50) returned to Marocki
+Marocki collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2c 4c 8h Ah Tc]
+Seat 1: Marocki collected ($0.62)
+Seat 2: brightsunfun (button) folded on the River
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 5: xulfster (big blind) folded before Flop
+
+
+
+PokerStars Hand #222949959628:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:44:17 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($11.01 in chips) 
+Seat 2: brightsunfun ($9.75 in chips) 
+Seat 3: Pupsic ($10 in chips) 
+Seat 5: xulfster ($10.61 in chips) 
+xulfster: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: raises $0.15 to $0.25
+Pupsic: raises $0.65 to $0.90
+xulfster: folds 
+Marocki: folds 
+brightsunfun: folds 
+Uncalled bet ($0.65) returned to Pupsic
+Pupsic collected $0.65 from pot
+Pupsic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: brightsunfun folded before Flop
+Seat 3: Pupsic (button) collected ($0.65)
+Seat 5: xulfster (small blind) folded before Flop
+
+
+
+PokerStars Hand #222949966469:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:44:38 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.91 in chips) 
+Seat 2: brightsunfun ($9.50 in chips) 
+Seat 3: Pupsic ($10.40 in chips) 
+Seat 5: xulfster ($10.56 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+JoeHop14: sits out 
+*** HOLE CARDS ***
+Pupsic: folds 
+xulfster: folds 
+Marocki: folds 
+Uncalled bet ($0.05) returned to brightsunfun
+brightsunfun collected $0.10 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: brightsunfun (big blind) collected ($0.10)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949969566:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:44:48 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($10.86 in chips) 
+Seat 2: brightsunfun ($9.55 in chips) 
+Seat 3: Pupsic ($10.40 in chips) 
+Seat 5: xulfster ($10.56 in chips) 
+brightsunfun: posts small blind $0.05
+Pupsic: posts big blind $0.10
+JoeHop14: sits out 
+*** HOLE CARDS ***
+xulfster: folds 
+Marocki: raises $0.10 to $0.20
+brightsunfun: folds 
+Pupsic: calls $0.10
+*** FLOP *** [6h 9c Tc]
+Pupsic: checks 
+Marocki: bets $0.22
+Pupsic: folds 
+Uncalled bet ($0.22) returned to Marocki
+Marocki collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [6h 9c Tc]
+Seat 1: Marocki (button) collected ($0.43)
+Seat 2: brightsunfun (small blind) folded before Flop
+Seat 3: Pupsic (big blind) folded on the Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949978987:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:45:18 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($11.09 in chips) 
+Seat 2: brightsunfun ($9.50 in chips) 
+Seat 3: Pupsic ($10.20 in chips) 
+Seat 4: JoeHop14 ($10 in chips) 
+Seat 5: xulfster ($10.56 in chips) 
+Pupsic: posts small blind $0.05
+JoeHop14: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+Uncalled bet ($0.05) returned to JoeHop14
+JoeHop14 collected $0.10 from pot
+JoeHop14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: Pupsic (small blind) folded before Flop
+Seat 4: JoeHop14 (big blind) collected ($0.10)
+Seat 5: xulfster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222949982179:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:45:28 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($11.09 in chips) 
+Seat 2: brightsunfun ($9.50 in chips) 
+Seat 3: Pupsic ($10.15 in chips) 
+Seat 4: JoeHop14 ($10.05 in chips) 
+Seat 5: xulfster ($10.56 in chips) 
+JoeHop14: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+brightsunfun: folds 
+Pupsic: folds 
+JoeHop14: calls $0.05
+xulfster: checks 
+*** FLOP *** [7s 7c 5h]
+JoeHop14: checks 
+xulfster: bets $0.10
+JoeHop14: folds 
+Uncalled bet ($0.10) returned to xulfster
+xulfster collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7s 7c 5h]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic (button) folded before Flop (didn't bet)
+Seat 4: JoeHop14 (small blind) folded on the Flop
+Seat 5: xulfster (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222949996117:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:46:12 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($11.09 in chips) 
+Seat 2: brightsunfun ($9.50 in chips) 
+Seat 3: Pupsic ($10.15 in chips) 
+Seat 4: JoeHop14 ($9.95 in chips) 
+Seat 5: xulfster ($10.65 in chips) 
+xulfster: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+Pupsic: folds 
+JoeHop14: calls $0.10
+xulfster: raises $0.50 to $0.60
+Marocki: folds 
+JoeHop14: calls $0.50
+*** FLOP *** [4h 2d Qc]
+Pupsic was removed from the table for failing to post
+Pupsic leaves the table
+xulfster: bets $0.62
+JoeHop14: folds 
+Uncalled bet ($0.62) returned to xulfster
+xulfster collected $1.24 from pot
+tmoneyhpp joins the table at seat #3 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [4h 2d Qc]
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: Pupsic folded before Flop (didn't bet)
+Seat 4: JoeHop14 (button) folded on the Flop
+Seat 5: xulfster (small blind) collected ($1.24)
+
+
+
+PokerStars Hand #222950006285:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:46:44 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.99 in chips) 
+Seat 2: brightsunfun ($9.50 in chips) 
+Seat 4: JoeHop14 ($9.35 in chips) 
+Seat 5: xulfster ($11.29 in chips) 
+Marocki: posts small blind $0.05
+brightsunfun: posts big blind $0.10
+tmoneyhpp: sits out 
+*** HOLE CARDS ***
+JoeHop14: folds 
+xulfster: folds 
+Marocki: calls $0.05
+brightsunfun: raises $0.35 to $0.45
+Marocki: folds 
+Uncalled bet ($0.35) returned to brightsunfun
+brightsunfun collected $0.20 from pot
+brightsunfun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: brightsunfun (big blind) collected ($0.20)
+Seat 4: JoeHop14 folded before Flop (didn't bet)
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950013221:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:47:06 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($10.89 in chips) 
+Seat 2: brightsunfun ($9.60 in chips) 
+Seat 3: tmoneyhpp ($8 in chips) 
+Seat 4: JoeHop14 ($9.35 in chips) 
+Seat 5: xulfster ($11.29 in chips) 
+brightsunfun: posts small blind $0.05
+tmoneyhpp: posts big blind $0.10
+*** HOLE CARDS ***
+JoeHop14: calls $0.10
+xulfster: folds 
+Marocki: folds 
+brightsunfun: folds 
+tmoneyhpp: checks 
+*** FLOP *** [Th 9c Js]
+tmoneyhpp: bets $0.10
+JoeHop14: folds 
+Uncalled bet ($0.10) returned to tmoneyhpp
+tmoneyhpp collected $0.24 from pot
+tmoneyhpp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Th 9c Js]
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: brightsunfun (small blind) folded before Flop
+Seat 3: tmoneyhpp (big blind) collected ($0.24)
+Seat 4: JoeHop14 folded on the Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950019574:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:47:26 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($10.89 in chips) 
+Seat 2: brightsunfun ($9.55 in chips) 
+Seat 3: tmoneyhpp ($8.14 in chips) 
+Seat 4: JoeHop14 ($9.25 in chips) 
+Seat 5: xulfster ($11.29 in chips) 
+tmoneyhpp: posts small blind $0.05
+JoeHop14: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Marocki: folds 
+brightsunfun: folds 
+tmoneyhpp: calls $0.05
+JoeHop14: checks 
+*** FLOP *** [3s 2d Kd]
+tmoneyhpp: bets $0.10
+JoeHop14: calls $0.10
+*** TURN *** [3s 2d Kd] [6h]
+tmoneyhpp: checks 
+JoeHop14: bets $1.10
+tmoneyhpp: folds 
+Uncalled bet ($1.10) returned to JoeHop14
+JoeHop14 collected $0.38 from pot
+JoeHop14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [3s 2d Kd 6h]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun (button) folded before Flop (didn't bet)
+Seat 3: tmoneyhpp (small blind) folded on the Turn
+Seat 4: JoeHop14 (big blind) collected ($0.38)
+Seat 5: xulfster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950031591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:48:04 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($10.89 in chips) 
+Seat 2: brightsunfun ($9.55 in chips) 
+Seat 3: tmoneyhpp ($7.94 in chips) 
+Seat 4: JoeHop14 ($9.43 in chips) 
+Seat 5: xulfster ($11.29 in chips) 
+JoeHop14: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+brightsunfun: folds 
+tmoneyhpp: calls $0.10
+JoeHop14: calls $0.05
+xulfster: checks 
+*** FLOP *** [7d Jc Qs]
+JoeHop14: checks 
+xulfster: bets $0.20
+tmoneyhpp: calls $0.20
+JoeHop14: folds 
+*** TURN *** [7d Jc Qs] [6s]
+xulfster: checks 
+tmoneyhpp: checks 
+*** RIVER *** [7d Jc Qs 6s] [4c]
+xulfster: bets $0.30
+tmoneyhpp: folds 
+Uncalled bet ($0.30) returned to xulfster
+xulfster collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7d Jc Qs 6s 4c]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: tmoneyhpp (button) folded on the River
+Seat 4: JoeHop14 (small blind) folded on the Flop
+Seat 5: xulfster (big blind) collected ($0.67)
+
+
+
+PokerStars Hand #222950047969:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:48:56 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($10.89 in chips) 
+Seat 2: brightsunfun ($9.55 in chips) 
+Seat 3: tmoneyhpp ($7.64 in chips) 
+Seat 4: JoeHop14 ($9.33 in chips) 
+Seat 5: xulfster ($11.66 in chips) 
+xulfster: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+brightsunfun: folds 
+tmoneyhpp: folds 
+JoeHop14: calls $0.10
+brightsunfun leaves the table
+xulfster: raises $0.50 to $0.60
+Marocki: folds 
+JoeHop14: calls $0.50
+*** FLOP *** [2s Tc Ts]
+xulfster: bets $0.41
+JoeHop14: calls $0.41
+*** TURN *** [2s Tc Ts] [5h]
+tmoneyhpp is disconnected 
+xulfster: checks 
+JoeHop14: checks 
+*** RIVER *** [2s Tc Ts 5h] [9s]
+xulfster: bets $1.01
+JoeHop14: folds 
+Uncalled bet ($1.01) returned to xulfster
+xulfster collected $2.02 from pot
+Marsel_ej was removed from the table for failing to post
+Marsel_ej leaves the table
+*** SUMMARY ***
+Total pot $2.12 | Rake $0.10 
+Board [2s Tc Ts 5h 9s]
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: brightsunfun folded before Flop (didn't bet)
+Seat 3: tmoneyhpp folded before Flop (didn't bet)
+Seat 4: JoeHop14 (button) folded on the River
+Seat 5: xulfster (small blind) collected ($2.02)
+
+
+
+PokerStars Hand #222950066570:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:49:54 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.79 in chips) 
+Seat 4: JoeHop14 ($8.32 in chips) 
+Seat 5: xulfster ($12.67 in chips) 
+Marocki: posts small blind $0.05
+tmoneyhpp has timed out while disconnected
+tmoneyhpp: is sitting out 
+JoeHop14: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: raises $0.15 to $0.25
+Marocki: calls $0.20
+JoeHop14: folds 
+*** FLOP *** [Jd 6h Qc]
+Artemka0055 joins the table at seat #6 
+Marocki: bets $0.29
+xulfster: folds 
+Uncalled bet ($0.29) returned to Marocki
+Marocki collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Jd 6h Qc]
+Seat 1: Marocki (small blind) collected ($0.57)
+Seat 4: JoeHop14 (big blind) folded before Flop
+Seat 5: xulfster (button) folded on the Flop
+
+
+
+PokerStars Hand #222950082544:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:50:45 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($11.11 in chips) 
+Seat 4: JoeHop14 ($8.22 in chips) 
+Seat 5: xulfster ($12.42 in chips) 
+JoeHop14: posts small blind $0.05
+xulfster: posts big blind $0.10
+Artemka0055: sits out 
+*** HOLE CARDS ***
+Marocki: raises $0.15 to $0.25
+JoeHop14: calls $0.20
+xulfster: calls $0.15
+*** FLOP *** [Ac Ad Th]
+Tony Zhukov joins the table at seat #2 
+JoeHop14: bets $0.10
+xulfster: calls $0.10
+Marocki: calls $0.10
+*** TURN *** [Ac Ad Th] [7h]
+JoeHop14: bets $0.10
+xulfster: raises $0.60 to $0.70
+Marocki: folds 
+JoeHop14: raises $0.60 to $1.30
+xulfster: calls $0.60
+*** RIVER *** [Ac Ad Th 7h] [2s]
+JoeHop14: bets $0.70
+xulfster: calls $0.70
+*** SHOW DOWN ***
+JoeHop14: shows [Qd 8c] (a pair of Aces)
+xulfster: shows [6h Ah] (three of a kind, Aces)
+xulfster collected $4.82 from pot
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.23 
+Board [Ac Ad Th 7h 2s]
+Seat 1: Marocki (button) folded on the Turn
+Seat 4: JoeHop14 (small blind) showed [Qd 8c] and lost with a pair of Aces
+Seat 5: xulfster (big blind) showed [6h Ah] and won ($4.82) with three of a kind, Aces
+
+
+
+PokerStars Hand #222950112202:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:52:19 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($10.76 in chips) 
+Seat 4: JoeHop14 ($5.87 in chips) 
+Seat 5: xulfster ($14.89 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+xulfster: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+Tony Zhukov: sits out 
+*** HOLE CARDS ***
+Marocki: folds 
+JoeHop14: folds 
+xulfster: raises $0.20 to $0.30
+Artemka0055: folds 
+Uncalled bet ($0.20) returned to xulfster
+xulfster collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 4: JoeHop14 (button) folded before Flop (didn't bet)
+Seat 5: xulfster (small blind) collected ($0.20)
+Seat 6: Artemka0055 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222950116972:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:52:34 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.76 in chips) 
+Seat 4: JoeHop14 ($5.87 in chips) 
+Seat 5: xulfster ($14.99 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Artemka0055: posts small blind $0.05
+Marocki: posts big blind $0.10
+Tony Zhukov: sits out 
+*** HOLE CARDS ***
+JoeHop14: raises $0.60 to $0.70
+xulfster: folds 
+Artemka0055: folds 
+Marocki: folds 
+Uncalled bet ($0.60) returned to JoeHop14
+JoeHop14 collected $0.25 from pot
+JoeHop14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (big blind) folded before Flop
+Seat 4: JoeHop14 collected ($0.25)
+Seat 5: xulfster (button) folded before Flop (didn't bet)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950122561:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:52:52 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($10.66 in chips) 
+Seat 2: Tony Zhukov ($10 in chips) 
+Seat 4: JoeHop14 ($6.02 in chips) 
+Seat 5: xulfster ($14.99 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Marocki: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+*** HOLE CARDS ***
+JoeHop14: calls $0.10
+xulfster: folds 
+Artemka0055: folds 
+Marocki: calls $0.05
+Tony Zhukov: raises $0.35 to $0.45
+JoeHop14: calls $0.35
+Marocki: calls $0.35
+*** FLOP *** [4d Ks 9d]
+Marocki: checks 
+Tony Zhukov: bets $0.86
+JoeHop14: folds 
+Marocki: folds 
+Uncalled bet ($0.86) returned to Tony Zhukov
+Tony Zhukov collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [4d Ks 9d]
+Seat 1: Marocki (small blind) folded on the Flop
+Seat 2: Tony Zhukov (big blind) collected ($1.29)
+Seat 4: JoeHop14 folded on the Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950140847:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:53:50 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($10.21 in chips) 
+Seat 2: Tony Zhukov ($10.84 in chips) 
+Seat 4: JoeHop14 ($5.57 in chips) 
+Seat 5: xulfster ($14.99 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Tony Zhukov: posts small blind $0.05
+JoeHop14: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: raises $0.15 to $0.25
+Artemka0055: folds 
+Marocki: folds 
+Tony Zhukov: folds 
+JoeHop14: folds 
+Uncalled bet ($0.15) returned to xulfster
+xulfster collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (small blind) folded before Flop
+Seat 4: JoeHop14 (big blind) folded before Flop
+Seat 5: xulfster collected ($0.25)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950144558:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:54:02 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($10.21 in chips) 
+Seat 2: Tony Zhukov ($10.79 in chips) 
+Seat 4: JoeHop14 ($5.47 in chips) 
+Seat 5: xulfster ($15.14 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+JoeHop14: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+Marocki: folds 
+Tony Zhukov: raises $0.15 to $0.25
+JoeHop14: calls $0.20
+xulfster: folds 
+*** FLOP *** [3d 9c Tc]
+JoeHop14: checks 
+Tony Zhukov: checks 
+*** TURN *** [3d 9c Tc] [9d]
+JoeHop14: checks 
+Tony Zhukov: checks 
+*** RIVER *** [3d 9c Tc 9d] [Jd]
+JoeHop14: checks 
+Tony Zhukov: checks 
+*** SHOW DOWN ***
+JoeHop14: shows [Qd 2h] (a pair of Nines)
+Tony Zhukov: shows [Ah 7h] (a pair of Nines - Ace kicker)
+Tony Zhukov collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3d 9c Tc 9d Jd]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (button) showed [Ah 7h] and won ($0.57) with a pair of Nines
+Seat 4: JoeHop14 (small blind) showed [Qd 2h] and lost with a pair of Nines
+Seat 5: xulfster (big blind) folded before Flop
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950162874:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:55:00 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($10.21 in chips) 
+Seat 2: Tony Zhukov ($11.11 in chips) 
+Seat 4: JoeHop14 ($5.22 in chips) 
+Seat 5: xulfster ($15.04 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+xulfster: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+Tony Zhukov: folds 
+JoeHop14: calls $0.10
+xulfster: calls $0.05
+Artemka0055: checks 
+*** FLOP *** [Js 9h Jd]
+xulfster: checks 
+Artemka0055: checks 
+JoeHop14: checks 
+*** TURN *** [Js 9h Jd] [7c]
+xulfster: checks 
+Artemka0055: checks 
+JoeHop14: checks 
+*** RIVER *** [Js 9h Jd 7c] [Ts]
+xulfster: checks 
+Artemka0055: checks 
+JoeHop14: checks 
+*** SHOW DOWN ***
+xulfster: shows [4c 9c] (two pair, Jacks and Nines)
+Artemka0055: mucks hand 
+JoeHop14: mucks hand 
+xulfster collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Js 9h Jd 7c Ts]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 4: JoeHop14 (button) mucked
+Seat 5: xulfster (small blind) showed [4c 9c] and won ($0.29) with two pair, Jacks and Nines
+Seat 6: Artemka0055 (big blind) mucked
+
+
+
+PokerStars Hand #222950175694:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:55:45 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($10.21 in chips) 
+Seat 2: Tony Zhukov ($11.11 in chips) 
+Seat 4: JoeHop14 ($5.12 in chips) 
+Seat 5: xulfster ($15.23 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Artemka0055: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+JoeHop14: folds 
+xulfster: raises $0.15 to $0.25
+Artemka0055: folds 
+Marocki: folds 
+Uncalled bet ($0.15) returned to xulfster
+xulfster collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 4: JoeHop14 folded before Flop (didn't bet)
+Seat 5: xulfster (button) collected ($0.25)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950185670:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:56:22 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($10.11 in chips) 
+Seat 2: Tony Zhukov ($11.11 in chips) 
+Seat 4: JoeHop14 ($5.12 in chips) 
+Seat 5: xulfster ($15.38 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Marocki: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+*** HOLE CARDS ***
+JoeHop14: calls $0.10
+xulfster: folds 
+Artemka0055: folds 
+Marocki: raises $0.40 to $0.50
+Tony Zhukov: folds 
+JoeHop14: calls $0.40
+*** FLOP *** [Ac Qs 6d]
+Marocki: bets $0.40
+JoeHop14: raises $0.40 to $0.80
+Marocki: calls $0.40
+*** TURN *** [Ac Qs 6d] [Qc]
+Marocki: checks 
+JoeHop14: checks 
+*** RIVER *** [Ac Qs 6d Qc] [7c]
+Marocki: checks 
+JoeHop14: checks 
+*** SHOW DOWN ***
+Marocki: shows [As 9c] (two pair, Aces and Queens)
+JoeHop14: mucks hand 
+Marocki collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.12 
+Board [Ac Qs 6d Qc 7c]
+Seat 1: Marocki (small blind) showed [As 9c] and won ($2.58) with two pair, Aces and Queens
+Seat 2: Tony Zhukov (big blind) folded before Flop
+Seat 4: JoeHop14 mucked
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950206136:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:57:36 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($11.39 in chips) 
+Seat 2: Tony Zhukov ($11.01 in chips) 
+Seat 4: JoeHop14 ($5.09 in chips) 
+Seat 5: xulfster ($15.38 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+Tony Zhukov: posts small blind $0.05
+JoeHop14: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Artemka0055: folds 
+Marocki: folds 
+Tony Zhukov: raises $0.15 to $0.25
+JoeHop14: calls $0.15
+*** FLOP *** [2c Kc 8s]
+Tony Zhukov: checks 
+JoeHop14: bets $0.10
+Tony Zhukov: calls $0.10
+*** TURN *** [2c Kc 8s] [5s]
+Tony Zhukov: checks 
+JoeHop14: bets $1
+Tony Zhukov: folds 
+Uncalled bet ($1) returned to JoeHop14
+JoeHop14 collected $0.67 from pot
+JoeHop14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [2c Kc 8s 5s]
+Seat 1: Marocki (button) folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (small blind) folded on the Turn
+Seat 4: JoeHop14 (big blind) collected ($0.67)
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950217392:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:58:17 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($11.39 in chips) 
+Seat 2: Tony Zhukov ($10.66 in chips) 
+Seat 4: JoeHop14 ($5.41 in chips) 
+Seat 5: xulfster ($15.38 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+JoeHop14: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+Marocki: folds 
+Tony Zhukov: folds 
+JoeHop14: calls $0.05
+xulfster: checks 
+*** FLOP *** [6s 5h Th]
+JoeHop14: checks 
+xulfster: bets $0.20
+JoeHop14: folds 
+Uncalled bet ($0.20) returned to xulfster
+xulfster collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6s 5h Th]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 4: JoeHop14 (small blind) folded on the Flop
+Seat 5: xulfster (big blind) collected ($0.19)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950225823:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:58:47 ET
+Table 'Andraimon III' 6-max Seat #4 is the button
+Seat 1: Marocki ($11.39 in chips) 
+Seat 2: Tony Zhukov ($10.66 in chips) 
+Seat 4: JoeHop14 ($5.31 in chips) 
+Seat 5: xulfster ($15.47 in chips) 
+Seat 6: Artemka0055 ($10 in chips) 
+xulfster: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+Tony Zhukov: folds 
+JoeHop14: calls $0.10
+xulfster: folds 
+Artemka0055: checks 
+*** FLOP *** [7s Kc Ac]
+Artemka0055: bets $0.10
+JoeHop14: raises $0.50 to $0.60
+Artemka0055: calls $0.50
+*** TURN *** [7s Kc Ac] [8s]
+Artemka0055: checks 
+JoeHop14: bets $0.10
+Artemka0055: calls $0.10
+*** RIVER *** [7s Kc Ac 8s] [9h]
+Artemka0055: checks 
+JoeHop14: checks 
+*** SHOW DOWN ***
+Artemka0055: shows [3c Ah] (a pair of Aces)
+JoeHop14: mucks hand 
+Artemka0055 collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [7s Kc Ac 8s 9h]
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 4: JoeHop14 (button) mucked
+Seat 5: xulfster (small blind) folded before Flop
+Seat 6: Artemka0055 (big blind) showed [3c Ah] and won ($1.58) with a pair of Aces
+
+
+
+PokerStars Hand #222950237548:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 5:59:29 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 1: Marocki ($11.39 in chips) 
+Seat 2: Tony Zhukov ($10.66 in chips) 
+Seat 4: JoeHop14 ($4.51 in chips) 
+Seat 5: xulfster ($15.42 in chips) 
+Seat 6: Artemka0055 ($10.78 in chips) 
+Artemka0055: posts small blind $0.05
+Marocki: posts big blind $0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+JoeHop14: calls $0.10
+xulfster: raises $0.30 to $0.40
+tmoneyhpp was removed from the table for failing to post
+tmoneyhpp leaves the table
+Artemka0055: folds 
+Marocki: folds 
+JoeHop14: calls $0.30
+*** FLOP *** [9c 6s 4c]
+JoeHop14: checks 
+xulfster: bets $0.46
+1.Richmond joins the table at seat #3 
+JoeHop14: folds 
+Uncalled bet ($0.46) returned to xulfster
+xulfster collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9c 6s 4c]
+Seat 1: Marocki (big blind) folded before Flop
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 4: JoeHop14 folded on the Flop
+Seat 5: xulfster (button) collected ($0.91)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950248807:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:00:10 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 1: Marocki ($11.29 in chips) 
+Seat 2: Tony Zhukov ($10.66 in chips) 
+Seat 4: JoeHop14 ($4.11 in chips) 
+Seat 5: xulfster ($15.93 in chips) 
+Seat 6: Artemka0055 ($10.73 in chips) 
+Marocki: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+1.Richmond: sits out 
+*** HOLE CARDS ***
+JoeHop14: calls $0.10
+xulfster: raises $0.30 to $0.40
+Artemka0055: folds 
+Marocki: folds 
+Tony Zhukov: raises $1.10 to $1.50
+JoeHop14: calls $1.40
+xulfster: folds 
+*** FLOP *** [Tc 4h Kd]
+Tony Zhukov: bets $1.09
+JoeHop14: calls $1.09
+*** TURN *** [Tc 4h Kd] [7h]
+Tony Zhukov: bets $2.96
+JoeHop14: calls $1.52 and is all-in
+Uncalled bet ($1.44) returned to Tony Zhukov
+*** RIVER *** [Tc 4h Kd 7h] [Qc]
+*** SHOW DOWN ***
+Tony Zhukov: shows [Ad Kh] (a pair of Kings)
+JoeHop14: shows [Ts Ac] (a pair of Tens)
+Tony Zhukov cashed out the hand for $7.83 | Cash Out Fee $0.08
+*** SUMMARY ***
+Total pot $8.67 | Rake $0.39 
+Board [Tc 4h Kd 7h Qc]
+Seat 1: Marocki (small blind) folded before Flop
+Seat 2: Tony Zhukov (big blind) showed [Ad Kh] and won ($8.28) with a pair of Kings (pot not awarded as player cashed out)
+Seat 4: JoeHop14 showed [Ts Ac] and lost with a pair of Tens
+Seat 5: xulfster folded before Flop
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950265552:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:01:06 ET
+Table 'Andraimon III' 6-max Seat #1 is the button
+Seat 1: Marocki ($11.24 in chips) 
+Seat 2: Tony Zhukov ($14.38 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 5: xulfster ($15.53 in chips) 
+Seat 6: Artemka0055 ($10.73 in chips) 
+Tony Zhukov: posts small blind $0.05
+1.Richmond: posts big blind $0.10
+*** HOLE CARDS ***
+xulfster: folds 
+Artemka0055: folds 
+Marocki: raises $0.15 to $0.25
+Tony Zhukov: folds 
+1.Richmond: folds 
+Uncalled bet ($0.15) returned to Marocki
+Marocki collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Marocki (button) collected ($0.25)
+Seat 2: Tony Zhukov (small blind) folded before Flop
+Seat 3: 1.Richmond (big blind) folded before Flop
+Seat 5: xulfster folded before Flop (didn't bet)
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950270099:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:01:20 ET
+Table 'Andraimon III' 6-max Seat #2 is the button
+Seat 1: Marocki ($11.39 in chips) 
+Seat 2: Tony Zhukov ($14.33 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 5: xulfster ($15.53 in chips) 
+Seat 6: Artemka0055 ($10.73 in chips) 
+1.Richmond: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+Marocki: raises $0.15 to $0.25
+Tony Zhukov: calls $0.25
+1.Richmond: folds 
+xulfster: folds 
+*** FLOP *** [As 4s 9h]
+Marocki: bets $0.30
+Tony Zhukov: folds 
+Uncalled bet ($0.30) returned to Marocki
+Marocki collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [As 4s 9h]
+Seat 1: Marocki collected ($0.62)
+Seat 2: Tony Zhukov (button) folded on the Flop
+Seat 3: 1.Richmond (small blind) folded before Flop
+Seat 5: xulfster (big blind) folded before Flop
+Seat 6: Artemka0055 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222950279661:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:01:49 ET
+Table 'Andraimon III' 6-max Seat #3 is the button
+Seat 1: Marocki ($11.76 in chips) 
+Seat 2: Tony Zhukov ($14.08 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 5: xulfster ($15.43 in chips) 
+Seat 6: Artemka0055 ($10.73 in chips) 
+xulfster: posts small blind $0.05
+Artemka0055: posts big blind $0.10
+*** HOLE CARDS ***
+Marocki: folds 
+Tony Zhukov: folds 
+Marocki leaves the table
+1.Richmond: folds 
+xulfster: folds 
+Uncalled bet ($0.05) returned to Artemka0055
+Artemka0055 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Marocki folded before Flop (didn't bet)
+Seat 2: Tony Zhukov folded before Flop (didn't bet)
+Seat 3: 1.Richmond (button) folded before Flop (didn't bet)
+Seat 5: xulfster (small blind) folded before Flop
+Seat 6: Artemka0055 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222950282450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:01:58 ET
+Table 'Andraimon III' 6-max Seat #5 is the button
+Seat 2: Tony Zhukov ($14.08 in chips) 
+Seat 3: 1.Richmond ($10 in chips) 
+Seat 5: xulfster ($15.38 in chips) 
+Seat 6: Artemka0055 ($10.78 in chips) 
+Artemka0055: posts small blind $0.05
+Tony Zhukov: posts big blind $0.10
+*** HOLE CARDS ***
+1.Richmond: folds 
+JoeHop14 leaves the table
+1.Richmond leaves the table
+xulfster: raises $0.15 to $0.25
+Artemka0055: folds 
+Tony Zhukov: folds 
+Uncalled bet ($0.15) returned to xulfster
+xulfster collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Tony Zhukov (big blind) folded before Flop
+Seat 3: 1.Richmond folded before Flop (didn't bet)
+Seat 5: xulfster (button) collected ($0.25)
+Seat 6: Artemka0055 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222950290983:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 6:02:25 ET
+Table 'Andraimon III' 6-max Seat #6 is the button
+Seat 2: Tony Zhukov ($13.98 in chips) 
+Seat 5: xulfster ($15.53 in chips) 
+Seat 6: Artemka0055 ($10.73 in chips) 
+Tony Zhukov: posts small blind $0.05
+xulfster: posts big blind $0.10
+*** HOLE CARDS ***
+Artemka0055: folds 
+Tony Zhukov: raises $0.15 to $0.25
+xulfster: calls $0.15
+*** FLOP *** [Ks 8s Js]
+Tony Zhukov: checks 
+xulfster: bets $0.30
+Tony Zhukov: folds 
+Uncalled bet ($0.30) returned to xulfster
+xulfster collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Ks 8s Js]
+Seat 2: Tony Zhukov (small blind) folded on the Flop
+Seat 5: xulfster (big blind) collected ($0.48)
+Seat 6: Artemka0055 (button) folded before Flop (didn't bet)
+
+
+

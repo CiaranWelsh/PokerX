@@ -1,0 +1,3852 @@
+﻿PokerStars Hand #222976034807:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:46:36 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($6.33 in chips) 
+Seat 2: HuntingWerner ($9.60 in chips) 
+Seat 3: Michael_Kss ($11.98 in chips) 
+Seat 4: shavarun ($21.63 in chips) 
+Seat 5: football442 ($10.48 in chips) 
+Seat 6: amraith ($19.97 in chips) 
+shavarun: posts small blind $0.05
+football442: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: calls $0.30
+Michael_Kss: folds 
+shavarun: calls $0.25
+football442: raises $1.20 to $1.50
+arxontas21: calls $1.20
+HuntingWerner: folds 
+shavarun: folds 
+*** FLOP *** [3d Tc 6d]
+football442: checks 
+arxontas21: bets $1
+football442: raises $7.98 to $8.98 and is all-in
+arxontas21: folds 
+Uncalled bet ($7.98) returned to football442
+football442 collected $5.35 from pot
+football442: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [3d Tc 6d]
+Seat 1: arxontas21 folded on the Flop
+Seat 2: HuntingWerner folded before Flop
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: football442 (big blind) collected ($5.35)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976078909:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:47:35 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($3.83 in chips) 
+Seat 2: HuntingWerner ($9.30 in chips) 
+Seat 3: Michael_Kss ($11.98 in chips) 
+Seat 4: shavarun ($21.33 in chips) 
+Seat 5: football442 ($13.33 in chips) 
+Seat 6: amraith ($19.97 in chips) 
+football442: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: folds 
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: folds 
+shavarun: raises $0.67 to $0.97
+football442: folds 
+amraith: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.67) returned to shavarun
+shavarun collected $0.75 from pot
+shavarun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) collected ($0.75)
+Seat 5: football442 (small blind) folded before Flop
+Seat 6: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222976106038:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:48:12 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($3.83 in chips) 
+Seat 2: HuntingWerner ($9 in chips) 
+Seat 3: Michael_Kss ($11.98 in chips) 
+Seat 4: shavarun ($21.78 in chips) 
+Seat 5: football442 ($13.28 in chips) 
+Seat 6: amraith ($19.87 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: calls $0.30
+shavarun: calls $0.30
+football442: folds 
+amraith: folds 
+arxontas21: calls $0.20
+*** FLOP *** [6s 3c 8s]
+arxontas21: bets $1.19
+HuntingWerner: folds 
+Michael_Kss: calls $1.19
+shavarun: folds 
+*** TURN *** [6s 3c 8s] [3h]
+arxontas21: checks 
+Michael_Kss: checks 
+*** RIVER *** [6s 3c 8s 3h] [Th]
+arxontas21: checks 
+Michael_Kss: bets $0.85
+arxontas21: folds 
+Uncalled bet ($0.85) returned to Michael_Kss
+Michael_Kss collected $3.47 from pot
+*** SUMMARY ***
+Total pot $3.63 | Rake $0.16 
+Board [6s 3c 8s 3h Th]
+Seat 1: arxontas21 (big blind) folded on the River
+Seat 2: HuntingWerner folded on the Flop
+Seat 3: Michael_Kss collected ($3.47)
+Seat 4: shavarun folded on the Flop
+Seat 5: football442 (button) folded before Flop (didn't bet)
+Seat 6: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222976152780:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:49:15 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($2.34 in chips) 
+Seat 2: HuntingWerner ($8.70 in chips) 
+Seat 3: Michael_Kss ($13.96 in chips) 
+Seat 4: shavarun ($21.48 in chips) 
+Seat 5: football442 ($13.28 in chips) 
+Seat 6: amraith ($19.82 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $0.10
+amraith: raises $0.20 to $0.30
+arxontas21: calls $0.25
+HuntingWerner: calls $0.20
+football442: calls $0.20
+*** FLOP *** [Kh Qc 8s]
+arxontas21: bets $1.15
+HuntingWerner: folds 
+football442: folds 
+amraith: folds 
+Uncalled bet ($1.15) returned to arxontas21
+arxontas21 collected $1.15 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Kh Qc 8s]
+Seat 1: arxontas21 (small blind) collected ($1.15)
+Seat 2: HuntingWerner (big blind) folded on the Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 folded on the Flop
+Seat 6: amraith (button) folded on the Flop
+
+
+
+PokerStars Hand #222976179421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:49:51 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($3.19 in chips) 
+Seat 2: HuntingWerner ($8.40 in chips) 
+Seat 3: Michael_Kss ($13.96 in chips) 
+Seat 4: shavarun ($21.48 in chips) 
+Seat 5: football442 ($12.98 in chips) 
+Seat 6: amraith ($19.52 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: raises $0.20 to $0.30
+football442: folds 
+amraith: folds 
+arxontas21: calls $0.30
+HuntingWerner: raises $1.10 to $1.40
+Michael_Kss: folds 
+shavarun: folds 
+arxontas21: calls $1.10
+*** FLOP *** [Kc 8h 4h]
+HuntingWerner: bets $2.10
+arxontas21: folds 
+Uncalled bet ($2.10) returned to HuntingWerner
+HuntingWerner collected $3.06 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.20 | Rake $0.14 
+Board [Kc 8h 4h]
+Seat 1: arxontas21 (button) folded on the Flop
+Seat 2: HuntingWerner (small blind) collected ($3.06)
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun folded before Flop
+Seat 5: football442 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976211659:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:50:35 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($1.79 in chips) 
+Seat 2: HuntingWerner ($10.06 in chips) 
+Seat 3: Michael_Kss ($13.86 in chips) 
+Seat 4: shavarun ($21.18 in chips) 
+Seat 5: football442 ($12.98 in chips) 
+Seat 6: amraith ($19.52 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+football442: calls $0.10
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: raises $0.70 to $1
+arxontas21: raises $0.79 to $1.79 and is all-in
+football442: calls $0.79
+*** FLOP *** [4h 6s Qh]
+*** TURN *** [4h 6s Qh] [Jd]
+*** RIVER *** [4h 6s Qh Jd] [6h]
+*** SHOW DOWN ***
+football442: shows [Ac Kd] (a pair of Sixes)
+arxontas21: shows [Jc Tc] (two pair, Jacks and Sixes)
+arxontas21 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.73 | Rake $0.17 
+Board [4h 6s Qh Jd 6h]
+Seat 1: arxontas21 showed [Jc Tc] and won ($3.56) with two pair, Jacks and Sixes
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: shavarun (big blind) folded before Flop
+Seat 5: football442 showed [Ac Kd] and lost with a pair of Sixes
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976245877:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:51:22 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($3.56 in chips) 
+Seat 2: HuntingWerner ($10.06 in chips) 
+Seat 3: Michael_Kss ($13.81 in chips) 
+Seat 4: shavarun ($21.08 in chips) 
+Seat 5: football442 ($11.19 in chips) 
+Seat 6: amraith ($19.52 in chips) 
+shavarun: posts small blind $0.05
+football442: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: raises $0.15 to $0.25
+arxontas21: calls $0.25
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $0.15
+*** FLOP *** [Ad 4d 3h]
+football442: checks 
+amraith: checks 
+arxontas21: bets $0.76
+football442: folds 
+amraith: folds 
+Uncalled bet ($0.76) returned to arxontas21
+arxontas21 collected $0.76 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [Ad 4d 3h]
+Seat 1: arxontas21 collected ($0.76)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: football442 (big blind) folded on the Flop
+Seat 6: amraith folded on the Flop
+
+
+
+PokerStars Hand #222976273047:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:51:59 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($4.07 in chips) 
+Seat 2: HuntingWerner ($10.06 in chips) 
+Seat 3: Michael_Kss ($13.81 in chips) 
+Seat 4: shavarun ($21.03 in chips) 
+Seat 5: football442 ($10.94 in chips) 
+Seat 6: amraith ($19.27 in chips) 
+football442: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $0.25
+amraith: folds 
+*** FLOP *** [Ks Jd 7s]
+football442: checks 
+arxontas21: bets $0.67
+football442: calls $0.67
+*** TURN *** [Ks Jd 7s] [Qh]
+football442: checks 
+arxontas21: bets $0.98
+football442: folds 
+Uncalled bet ($0.98) returned to arxontas21
+arxontas21 collected $1.95 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [Ks Jd 7s Qh]
+Seat 1: arxontas21 collected ($1.95)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) folded before Flop (didn't bet)
+Seat 5: football442 (small blind) folded on the Turn
+Seat 6: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222976293269:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:52:27 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($5.05 in chips) 
+Seat 2: HuntingWerner ($10.06 in chips) 
+Seat 3: Michael_Kss ($13.81 in chips) 
+Seat 4: shavarun ($21.03 in chips) 
+Seat 5: football442 ($9.97 in chips) 
+Seat 6: amraith ($19.17 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.15 to $0.25
+football442: calls $0.25
+amraith: calls $0.20
+arxontas21: raises $0.75 to $1
+shavarun: raises $2.50 to $3.50
+football442: folds 
+amraith: folds 
+arxontas21: raises $1.55 to $5.05 and is all-in
+shavarun: calls $1.55
+*** FLOP *** [7c 3c Jh]
+*** TURN *** [7c 3c Jh] [5s]
+*** RIVER *** [7c 3c Jh 5s] [Js]
+*** SHOW DOWN ***
+arxontas21: shows [Ac Ah] (two pair, Aces and Jacks)
+shavarun: shows [Tc Ts] (two pair, Jacks and Tens)
+arxontas21 collected $10.12 from pot
+*** SUMMARY ***
+Total pot $10.60 | Rake $0.48 
+Board [7c 3c Jh 5s Js]
+Seat 1: arxontas21 (big blind) showed [Ac Ah] and won ($10.12) with two pair, Aces and Jacks
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun showed [Tc Ts] and lost with two pair, Jacks and Tens
+Seat 5: football442 (button) folded before Flop
+Seat 6: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222976328705:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:53:16 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($10.12 in chips) 
+Seat 2: HuntingWerner ($10.06 in chips) 
+Seat 3: Michael_Kss ($13.81 in chips) 
+Seat 4: shavarun ($15.98 in chips) 
+Seat 5: football442 ($9.72 in chips) 
+Seat 6: amraith ($18.92 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: raises $0.15 to $0.25
+football442: calls $0.25
+amraith: calls $0.25
+arxontas21: calls $0.20
+HuntingWerner: calls $0.15
+*** FLOP *** [Ks 3c 2c]
+arxontas21: checks 
+HuntingWerner: checks 
+shavarun: checks 
+football442: checks 
+amraith: checks 
+*** TURN *** [Ks 3c 2c] [Js]
+arxontas21: checks 
+HuntingWerner: checks 
+shavarun: checks 
+football442: checks 
+amraith: checks 
+*** RIVER *** [Ks 3c 2c Js] [7s]
+arxontas21: bets $0.60
+HuntingWerner: folds 
+shavarun: folds 
+football442: folds 
+amraith: raises $1.20 to $1.80
+arxontas21: folds 
+Uncalled bet ($1.20) returned to amraith
+amraith collected $2.34 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [Ks 3c 2c Js 7s]
+Seat 1: arxontas21 (small blind) folded on the River
+Seat 2: HuntingWerner (big blind) folded on the River
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded on the River
+Seat 5: football442 folded on the River
+Seat 6: amraith (button) collected ($2.34)
+
+
+
+PokerStars Hand #222976397504:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:54:51 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($9.27 in chips) 
+Seat 2: HuntingWerner ($9.81 in chips) 
+Seat 3: Michael_Kss ($13.81 in chips) 
+Seat 4: shavarun ($15.73 in chips) 
+Seat 5: football442 ($9.47 in chips) 
+Seat 6: amraith ($20.41 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: raises $0.20 to $0.30
+football442: folds 
+amraith: folds 
+arxontas21: calls $0.30
+HuntingWerner: calls $0.25
+Michael_Kss: folds 
+*** FLOP *** [4s 8d 2d]
+HuntingWerner: checks 
+shavarun: checks 
+arxontas21: bets $0.96
+HuntingWerner: folds 
+shavarun: folds 
+Uncalled bet ($0.96) returned to arxontas21
+arxontas21 collected $0.96 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [4s 8d 2d]
+Seat 1: arxontas21 (button) collected ($0.96)
+Seat 2: HuntingWerner (small blind) folded on the Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun folded on the Flop
+Seat 5: football442 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976424530:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:55:35 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($9.93 in chips) 
+Seat 2: HuntingWerner ($9.51 in chips) 
+Seat 3: Michael_Kss ($13.71 in chips) 
+Seat 4: shavarun ($15.43 in chips) 
+Seat 5: football442 ($9.47 in chips) 
+Seat 6: amraith ($20.41 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+football442: calls $0.10
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: calls $0.30
+Michael_Kss: calls $0.25
+shavarun: calls $0.20
+football442: calls $0.20
+*** FLOP *** [5s Ah 4s]
+Michael_Kss: checks 
+shavarun: checks 
+football442: bets $0.71
+arxontas21: calls $0.71
+HuntingWerner: raises $1.59 to $2.30
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $1.59
+arxontas21: folds 
+*** TURN *** [5s Ah 4s] [9s]
+football442: checks 
+HuntingWerner: checks 
+*** RIVER *** [5s Ah 4s 9s] [3d]
+football442: bets $3.25
+HuntingWerner: calls $3.25
+*** SHOW DOWN ***
+football442: shows [5h 4h] (two pair, Fives and Fours)
+HuntingWerner: shows [Ad 4d] (two pair, Aces and Fours)
+HuntingWerner collected $12.71 from pot
+*** SUMMARY ***
+Total pot $13.31 | Rake $0.60 
+Board [5s Ah 4s 9s 3d]
+Seat 1: arxontas21 folded on the Flop
+Seat 2: HuntingWerner (button) showed [Ad 4d] and won ($12.71) with two pair, Aces and Fours
+Seat 3: Michael_Kss (small blind) folded on the Flop
+Seat 4: shavarun (big blind) folded on the Flop
+Seat 5: football442 showed [5h 4h] and lost with two pair, Fives and Fours
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976461272:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:56:45 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($8.92 in chips) 
+Seat 2: HuntingWerner ($16.37 in chips) 
+Seat 3: Michael_Kss ($13.41 in chips) 
+Seat 4: shavarun ($15.13 in chips) 
+Seat 5: football442 ($3.62 in chips) 
+Seat 6: amraith ($20.41 in chips) 
+shavarun: posts small blind $0.05
+football442: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.80 to $1.10
+football442: calls $1
+arxontas21: calls $0.80
+*** FLOP *** [Jh 7d 9d]
+shavarun: bets $1.89
+football442: raises $0.63 to $2.52 and is all-in
+arxontas21: folds 
+shavarun: calls $0.63
+*** TURN *** [Jh 7d 9d] [9c]
+*** RIVER *** [Jh 7d 9d 9c] [Jd]
+*** SHOW DOWN ***
+shavarun: shows [Ks Kc] (two pair, Kings and Jacks)
+football442: shows [Kd Td] (a flush, King high)
+football442 collected $7.96 from pot
+*** SUMMARY ***
+Total pot $8.34 | Rake $0.38 
+Board [Jh 7d 9d 9c Jd]
+Seat 1: arxontas21 folded on the Flop
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) showed [Ks Kc] and lost with two pair, Kings and Jacks
+Seat 5: football442 (big blind) showed [Kd Td] and won ($7.96) with a flush, King high
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976478790:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:57:18 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($7.82 in chips) 
+Seat 2: HuntingWerner ($16.37 in chips) 
+Seat 3: Michael_Kss ($13.41 in chips) 
+Seat 4: shavarun ($11.51 in chips) 
+Seat 5: football442 ($7.96 in chips) 
+Seat 6: amraith ($20.41 in chips) 
+football442: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: raises $0.20 to $0.30
+HuntingWerner has timed out
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: folds 
+amraith: folds 
+Uncalled bet ($0.20) returned to arxontas21
+arxontas21 collected $0.25 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 collected ($0.25)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) folded before Flop (didn't bet)
+Seat 5: football442 (small blind) folded before Flop
+Seat 6: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222976493138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:57:45 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($7.97 in chips) 
+Seat 3: Michael_Kss ($13.41 in chips) 
+Seat 4: shavarun ($11.51 in chips) 
+Seat 5: football442 ($7.91 in chips) 
+Seat 6: amraith ($20.31 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: folds 
+football442: raises $0.10 to $0.20
+amraith: calls $0.15
+arxontas21: calls $0.10
+*** FLOP *** [Kh 4h 8c]
+amraith: checks 
+arxontas21: bets $0.57
+football442: raises $0.57 to $1.14
+amraith: folds 
+arxontas21: calls $0.57
+*** TURN *** [Kh 4h 8c] [5h]
+arxontas21: checks 
+football442: bets $2.75
+arxontas21: folds 
+Uncalled bet ($2.75) returned to football442
+football442 collected $2.75 from pot
+football442: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.88 | Rake $0.13 
+Board [Kh 4h 8c 5h]
+Seat 1: arxontas21 (big blind) folded on the Turn
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 (button) collected ($2.75)
+Seat 6: amraith (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222976514773:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:58:26 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($6.63 in chips) 
+Seat 2: HuntingWerner ($16.37 in chips) 
+Seat 3: Michael_Kss ($13.41 in chips) 
+Seat 4: shavarun ($11.51 in chips) 
+Seat 5: football442 ($9.32 in chips) 
+Seat 6: amraith ($20.11 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: raises $0.20 to $0.30
+shavarun: calls $0.30
+football442: folds 
+amraith: folds 
+arxontas21: calls $0.25
+HuntingWerner: folds 
+*** FLOP *** [Tc 4c Ah]
+arxontas21: bets $0.48
+Michael_Kss: folds 
+shavarun: calls $0.48
+*** TURN *** [Tc 4c Ah] [4d]
+arxontas21: bets $0.94
+shavarun: folds 
+Uncalled bet ($0.94) returned to arxontas21
+arxontas21 collected $1.87 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [Tc 4c Ah 4d]
+Seat 1: arxontas21 (small blind) collected ($1.87)
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 3: Michael_Kss folded on the Flop
+Seat 4: shavarun folded on the Turn
+Seat 5: football442 folded before Flop (didn't bet)
+Seat 6: amraith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976530833:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:58:56 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($7.72 in chips) 
+Seat 2: HuntingWerner ($16.27 in chips) 
+Seat 3: Michael_Kss ($13.11 in chips) 
+Seat 4: shavarun ($10.73 in chips) 
+Seat 5: football442 ($9.32 in chips) 
+Seat 6: amraith ($20.11 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: folds 
+football442: folds 
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to arxontas21
+arxontas21 collected $0.25 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 (button) collected ($0.25)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976536711:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:59:07 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($7.87 in chips) 
+Seat 2: HuntingWerner ($16.22 in chips) 
+Seat 3: Michael_Kss ($13.01 in chips) 
+Seat 4: shavarun ($10.73 in chips) 
+Seat 5: football442 ($9.32 in chips) 
+Seat 6: amraith ($20.11 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+football442: calls $0.10
+amraith: raises $0.35 to $0.45
+arxontas21: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $0.35
+*** FLOP *** [Kc 4d Ts]
+football442: checks 
+amraith: bets $0.45
+football442: folds 
+Uncalled bet ($0.45) returned to amraith
+amraith collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Kc 4d Ts]
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: shavarun (big blind) folded before Flop
+Seat 5: football442 folded on the Flop
+Seat 6: amraith collected ($1)
+
+
+
+PokerStars Hand #222976557222:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:59:37 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($7.87 in chips) 
+Seat 2: HuntingWerner ($16.22 in chips) 
+Seat 3: Michael_Kss ($12.96 in chips) 
+Seat 4: shavarun ($10.63 in chips) 
+Seat 5: football442 ($8.87 in chips) 
+Seat 6: amraith ($20.66 in chips) 
+shavarun: posts small blind $0.05
+football442: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.77 to $1.07
+football442: folds 
+arxontas21: calls $0.77
+*** FLOP *** [6h Kh 7h]
+shavarun: bets $9.56 and is all-in
+arxontas21: folds 
+Uncalled bet ($9.56) returned to shavarun
+shavarun collected $2.14 from pot
+shavarun: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.24 | Rake $0.10 
+Board [6h Kh 7h]
+Seat 1: arxontas21 folded on the Flop
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) collected ($2.14)
+Seat 5: football442 (big blind) folded before Flop
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976576384:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:00:12 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($6.80 in chips) 
+Seat 2: HuntingWerner ($16.22 in chips) 
+Seat 3: Michael_Kss ($12.96 in chips) 
+Seat 4: shavarun ($11.70 in chips) 
+Seat 5: football442 ($8.77 in chips) 
+Seat 6: amraith ($20.66 in chips) 
+football442: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: raises $0.30 to $0.40
+amraith: folds 
+Uncalled bet ($0.30) returned to football442
+football442 collected $0.20 from pot
+football442: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) folded before Flop (didn't bet)
+Seat 5: football442 (small blind) collected ($0.20)
+Seat 6: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222976584471:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:00:26 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($6.80 in chips) 
+Seat 2: HuntingWerner ($16.22 in chips) 
+Seat 3: Michael_Kss ($12.96 in chips) 
+Seat 4: shavarun ($11.70 in chips) 
+Seat 5: football442 ($8.87 in chips) 
+Seat 6: amraith ($20.56 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: raises $0.20 to $0.30
+shavarun: folds 
+football442: folds 
+amraith: calls $0.25
+arxontas21: calls $0.20
+*** FLOP *** [Kd 2s Kc]
+amraith: checks 
+arxontas21: bets $0.86
+Michael_Kss: calls $0.86
+amraith: folds 
+*** TURN *** [Kd 2s Kc] [6c]
+arxontas21: bets $1.25
+Michael_Kss: calls $1.25
+*** RIVER *** [Kd 2s Kc 6c] [Ad]
+arxontas21: checks 
+Michael_Kss: checks 
+*** SHOW DOWN ***
+arxontas21: shows [Tc 9c] (a pair of Kings)
+Michael_Kss: shows [4d 4c] (two pair, Kings and Fours)
+Michael_Kss collected $4.89 from pot
+*** SUMMARY ***
+Total pot $5.12 | Rake $0.23 
+Board [Kd 2s Kc 6c Ad]
+Seat 1: arxontas21 (big blind) showed [Tc 9c] and lost with a pair of Kings
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss showed [4d 4c] and won ($4.89) with two pair, Kings and Fours
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 (button) folded before Flop (didn't bet)
+Seat 6: amraith (small blind) folded on the Flop
+
+
+
+PokerStars Hand #222976616044:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:01:17 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($4.39 in chips) 
+Seat 2: HuntingWerner ($16.22 in chips) 
+Seat 3: Michael_Kss ($15.44 in chips) 
+Seat 4: shavarun ($11.70 in chips) 
+Seat 5: football442 ($8.87 in chips) 
+Seat 6: amraith ($20.26 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: folds 
+football442: raises $0.10 to $0.20
+amraith: folds 
+arxontas21: raises $4.19 to $4.39 and is all-in
+HuntingWerner: folds 
+football442: calls $4.19
+*** FLOP *** [4d Ac 9s]
+*** TURN *** [4d Ac 9s] [Kc]
+*** RIVER *** [4d Ac 9s Kc] [7h]
+*** SHOW DOWN ***
+arxontas21: shows [Ah Jh] (a pair of Aces)
+football442: shows [3c As] (a pair of Aces - lower kicker)
+arxontas21 collected $8.48 from pot
+football442 cashed out the hand for $2.22 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $8.88 | Rake $0.40 
+Board [4d Ac 9s Kc 7h]
+Seat 1: arxontas21 (small blind) showed [Ah Jh] and won ($8.48) with a pair of Aces
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 showed [3c As] and lost with a pair of Aces (cashed out).
+Seat 6: amraith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976635496:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:01:46 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($8.48 in chips) 
+Seat 2: HuntingWerner ($16.12 in chips) 
+Seat 3: Michael_Kss ($15.44 in chips) 
+Seat 4: shavarun ($11.70 in chips) 
+Seat 5: football442 ($6.70 in chips) 
+Seat 6: amraith ($20.26 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: raises $0.20 to $0.30
+football442: calls $0.30
+amraith: folds 
+arxontas21: calls $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+*** FLOP *** [2d 3c Kc]
+shavarun: bets $0.33
+football442: folds 
+arxontas21: calls $0.33
+*** TURN *** [2d 3c Kc] [Th]
+shavarun: checks 
+arxontas21: checks 
+*** RIVER *** [2d 3c Kc Th] [As]
+shavarun: checks 
+arxontas21: bets $1.63
+shavarun: folds 
+Uncalled bet ($1.63) returned to arxontas21
+arxontas21 collected $1.63 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.08 
+Board [2d 3c Kc Th As]
+Seat 1: arxontas21 (button) collected ($1.63)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun folded on the River
+Seat 5: football442 folded on the Flop
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976662908:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:02:28 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($9.48 in chips) 
+Seat 2: HuntingWerner ($16.07 in chips) 
+Seat 3: Michael_Kss ($15.34 in chips) 
+Seat 4: shavarun ($11.07 in chips) 
+Seat 5: football442 ($6.40 in chips) 
+Seat 6: amraith ($20.26 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+football442: folds 
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: raises $0.95 to $1.25
+shavarun: folds 
+arxontas21: calls $0.95
+*** FLOP *** [Qs 8h Ks]
+Michael_Kss: checks 
+arxontas21: bets $1.24
+Michael_Kss: folds 
+Uncalled bet ($1.24) returned to arxontas21
+arxontas21 collected $2.48 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.12 
+Board [Qs 8h Ks]
+Seat 1: arxontas21 collected ($2.48)
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded on the Flop
+Seat 4: shavarun (big blind) folded before Flop
+Seat 5: football442 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976690170:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:03:06 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($10.71 in chips) 
+Seat 2: HuntingWerner ($16.07 in chips) 
+Seat 3: Michael_Kss ($14.09 in chips) 
+Seat 4: shavarun ($10.97 in chips) 
+Seat 5: football442 ($6.40 in chips) 
+Seat 6: amraith ($20.26 in chips) 
+shavarun: posts small blind $0.05
+football442: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: raises $0.40 to $0.70
+arxontas21: calls $0.40
+*** FLOP *** [4c 8s 8c]
+football442: checks 
+arxontas21: checks 
+*** TURN *** [4c 8s 8c] [Ad]
+football442: bets $0.69
+arxontas21: folds 
+Uncalled bet ($0.69) returned to football442
+football442 collected $1.38 from pot
+football442: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [4c 8s 8c Ad]
+Seat 1: arxontas21 folded on the Turn
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: football442 (big blind) collected ($1.38)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976718234:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:03:46 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($10.01 in chips) 
+Seat 2: HuntingWerner ($16.07 in chips) 
+Seat 3: Michael_Kss ($14.09 in chips) 
+Seat 4: shavarun ($10.92 in chips) 
+Seat 5: football442 ($7.08 in chips) 
+Seat 6: amraith ($20.26 in chips) 
+football442: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $0.25
+amraith: calls $0.20
+*** FLOP *** [Qd Jc Kc]
+football442: checks 
+amraith: checks 
+arxontas21: bets $0.86
+football442: folds 
+amraith: folds 
+Uncalled bet ($0.86) returned to arxontas21
+arxontas21 collected $0.86 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Qd Jc Kc]
+Seat 1: arxontas21 collected ($0.86)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) folded before Flop (didn't bet)
+Seat 5: football442 (small blind) folded on the Flop
+Seat 6: amraith (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222976737452:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:04:13 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($10.57 in chips) 
+Seat 2: HuntingWerner ($16.07 in chips) 
+Seat 3: Michael_Kss ($14.09 in chips) 
+Seat 4: shavarun ($10.92 in chips) 
+Seat 5: football442 ($6.78 in chips) 
+Seat 6: amraith ($19.96 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: folds 
+shavarun: folds 
+football442: calls $0.30
+amraith: folds 
+arxontas21: calls $0.20
+*** FLOP *** [Ad Ah 5s]
+arxontas21: checks 
+HuntingWerner: checks 
+football442: checks 
+*** TURN *** [Ad Ah 5s] [Qd]
+arxontas21: bets $0.46
+HuntingWerner: calls $0.46
+football442: calls $0.46
+*** RIVER *** [Ad Ah 5s Qd] [7h]
+arxontas21: checks 
+HuntingWerner: checks 
+football442: bets $0.50
+arxontas21: folds 
+HuntingWerner: calls $0.50
+*** SHOW DOWN ***
+football442: shows [Jc Qc] (two pair, Aces and Queens)
+HuntingWerner: shows [Kd Qs] (two pair, Aces and Queens - King kicker)
+HuntingWerner collected $3.18 from pot
+*** SUMMARY ***
+Total pot $3.33 | Rake $0.15 
+Board [Ad Ah 5s Qd 7h]
+Seat 1: arxontas21 (big blind) folded on the River
+Seat 2: HuntingWerner showed [Kd Qs] and won ($3.18) with two pair, Aces and Queens
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 (button) showed [Jc Qc] and lost with two pair, Aces and Queens
+Seat 6: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222976781985:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:05:15 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($9.81 in chips) 
+Seat 2: HuntingWerner ($17.99 in chips) 
+Seat 3: Michael_Kss ($14.09 in chips) 
+Seat 4: shavarun ($10.92 in chips) 
+Seat 5: football442 ($5.52 in chips) 
+Seat 6: amraith ($19.91 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: raises $0.20 to $0.30
+shavarun: folds 
+football442: calls $0.30
+amraith: calls $0.30
+arxontas21: calls $0.25
+HuntingWerner: calls $0.20
+*** FLOP *** [As 2d 5c]
+arxontas21: bets $1.43
+HuntingWerner: calls $1.43
+Michael_Kss: folds 
+football442: folds 
+amraith: folds 
+*** TURN *** [As 2d 5c] [9d]
+arxontas21: bets $2.08
+football442 leaves the table
+HuntingWerner: calls $2.08
+*** RIVER *** [As 2d 5c 9d] [Qh]
+arxontas21: checks 
+HuntingWerner: bets $14.18 and is all-in
+311420212216613 joins the table at seat #5 
+arxontas21: folds 
+Uncalled bet ($14.18) returned to HuntingWerner
+HuntingWerner collected $8.14 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.52 | Rake $0.38 
+Board [As 2d 5c 9d Qh]
+Seat 1: arxontas21 (small blind) folded on the River
+Seat 2: HuntingWerner (big blind) collected ($8.14)
+Seat 3: Michael_Kss folded on the Flop
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: football442 folded on the Flop
+Seat 6: amraith (button) folded on the Flop
+
+
+
+PokerStars Hand #222976828214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:06:20 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($6 in chips) 
+Seat 2: HuntingWerner ($22.32 in chips) 
+Seat 3: Michael_Kss ($13.79 in chips) 
+Seat 4: shavarun ($10.92 in chips) 
+Seat 6: amraith ($19.61 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+311420212216613: sits out 
+*** HOLE CARDS ***
+shavarun: folds 
+amraith: raises $0.15 to $0.25
+arxontas21: calls $0.25
+HuntingWerner: folds 
+Michael_Kss: calls $0.15
+*** FLOP *** [6c Ac As]
+Michael_Kss: checks 
+amraith: checks 
+arxontas21: bets $0.76
+Michael_Kss: folds 
+amraith: folds 
+Uncalled bet ($0.76) returned to arxontas21
+arxontas21 collected $0.76 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [6c Ac As]
+Seat 1: arxontas21 (button) collected ($0.76)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded on the Flop
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 6: amraith folded on the Flop
+
+
+
+PokerStars Hand #222976852455:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:06:55 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($6.51 in chips) 
+Seat 2: HuntingWerner ($22.27 in chips) 
+Seat 3: Michael_Kss ($13.54 in chips) 
+Seat 4: shavarun ($10.92 in chips) 
+Seat 6: amraith ($19.36 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+311420212216613: sits out 
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: calls $0.20
+*** FLOP *** [7c Jd 9s]
+shavarun: checks 
+arxontas21: bets $0.62
+shavarun: folds 
+Uncalled bet ($0.62) returned to arxontas21
+arxontas21 collected $0.62 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7c Jd 9s]
+Seat 1: arxontas21 collected ($0.62)
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: shavarun (big blind) folded on the Flop
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976867037:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:07:16 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($6.83 in chips) 
+Seat 2: HuntingWerner ($22.27 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($10.62 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($19.36 in chips) 
+shavarun: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: raises $0.70 to $1
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: folds 
+arxontas21: calls $0.70
+*** FLOP *** [4h 6c 5d]
+arxontas21: checks 
+HuntingWerner: bets $1.90
+arxontas21: calls $1.90
+*** TURN *** [4h 6c 5d] [8d]
+arxontas21: checks 
+HuntingWerner: bets $4.26
+arxontas21: calls $3.93 and is all-in
+Uncalled bet ($0.33) returned to HuntingWerner
+*** RIVER *** [4h 6c 5d 8d] [Qc]
+*** SHOW DOWN ***
+arxontas21: shows [8c Tc] (a pair of Eights)
+HuntingWerner: shows [Jh Js] (a pair of Jacks)
+HuntingWerner collected $13.19 from pot
+arxontas21 cashed out the hand for $2.08 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $13.81 | Rake $0.62 
+Board [4h 6c 5d 8d Qc]
+Seat 1: arxontas21 showed [8c Tc] and lost with a pair of Eights (cashed out).
+Seat 2: HuntingWerner showed [Jh Js] and won ($13.19) with a pair of Jacks
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) folded before Flop
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222976900927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:08:04 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($2.08 in chips) 
+Seat 2: HuntingWerner ($28.63 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($10.57 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($19.36 in chips) 
+311420212216613: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.77 to $1.07
+311420212216613: folds 
+amraith: folds 
+arxontas21: folds 
+Uncalled bet ($0.77) returned to shavarun
+shavarun collected $0.75 from pot
+shavarun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: arxontas21 folded before Flop
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) collected ($0.75)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222976914801:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:08:24 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($1.78 in chips) 
+Seat 2: HuntingWerner ($28.63 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($11.02 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($19.26 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.15 to $0.25
+311420212216613: folds 
+amraith: folds 
+arxontas21: calls $0.15
+*** FLOP *** [2d 3c 6c]
+arxontas21: checks 
+shavarun: checks 
+*** TURN *** [2d 3c 6c] [Ac]
+arxontas21: checks 
+shavarun: checks 
+*** RIVER *** [2d 3c 6c Ac] [7c]
+arxontas21: checks 
+shavarun: bets $0.37
+arxontas21: folds 
+Uncalled bet ($0.37) returned to shavarun
+shavarun collected $0.53 from pot
+shavarun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2d 3c 6c Ac 7c]
+Seat 1: arxontas21 (big blind) folded on the River
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun collected ($0.53)
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222976949124:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:09:13 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($1.53 in chips) 
+Seat 2: HuntingWerner ($28.63 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($11.30 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($19.21 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: raises $0.15 to $0.25
+amraith: calls $0.25
+arxontas21: calls $0.20
+HuntingWerner: calls $0.15
+*** FLOP *** [6h 8s 9d]
+arxontas21: checks 
+HuntingWerner: checks 
+311420212216613: bets $0.52
+amraith: folds 
+arxontas21: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.52) returned to 311420212216613
+311420212216613 collected $0.96 from pot
+311420212216613: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6h 8s 9d]
+Seat 1: arxontas21 (small blind) folded on the Flop
+Seat 2: HuntingWerner (big blind) folded on the Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: 311420212216613 collected ($0.96)
+Seat 6: amraith (button) folded on the Flop
+
+
+
+PokerStars Hand #222976999005:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:10:08 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($1.28 in chips) 
+Seat 2: HuntingWerner ($28.38 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($11.30 in chips) 
+Seat 5: 311420212216613 ($10.71 in chips) 
+Seat 6: amraith ($18.96 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: folds 
+311420212216613: folds 
+amraith: raises $0.15 to $0.25
+arxontas21: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.15) returned to amraith
+amraith collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith collected ($0.25)
+
+
+
+PokerStars Hand #222977011375:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:10:26 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($1.28 in chips) 
+Seat 2: HuntingWerner ($28.33 in chips) 
+Seat 3: Michael_Kss ($13.39 in chips) 
+Seat 4: shavarun ($11.30 in chips) 
+Seat 5: 311420212216613 ($10.71 in chips) 
+Seat 6: amraith ($19.11 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+Uncalled bet ($0.20) returned to arxontas21
+arxontas21 collected $0.25 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 collected ($0.25)
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: shavarun (big blind) folded before Flop
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977024764:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:10:45 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($1.43 in chips) 
+Seat 2: HuntingWerner ($28.33 in chips) 
+Seat 3: Michael_Kss ($13.34 in chips) 
+Seat 4: shavarun ($11.20 in chips) 
+Seat 5: 311420212216613 ($10.71 in chips) 
+Seat 6: amraith ($19.11 in chips) 
+shavarun: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: raises $0.20 to $0.30
+HuntingWerner: raises $0.70 to $1
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: folds 
+arxontas21: raises $0.43 to $1.43 and is all-in
+HuntingWerner: calls $0.43
+*** FLOP *** [8h 9h 2h]
+*** TURN *** [8h 9h 2h] [4d]
+*** RIVER *** [8h 9h 2h 4d] [Qc]
+*** SHOW DOWN ***
+arxontas21: shows [7h 4h] (a flush, Nine high)
+HuntingWerner: shows [Tc Ac] (high card Ace)
+arxontas21 collected $2.87 from pot
+*** SUMMARY ***
+Total pot $3.01 | Rake $0.14 
+Board [8h 9h 2h 4d Qc]
+Seat 1: arxontas21 showed [7h 4h] and won ($2.87) with a flush, Nine high
+Seat 2: HuntingWerner showed [Tc Ac] and lost with high card Ace
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) folded before Flop
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977050211:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:11:22 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($2.87 in chips) 
+Seat 2: HuntingWerner ($26.90 in chips) 
+Seat 3: Michael_Kss ($13.34 in chips) 
+Seat 4: shavarun ($11.15 in chips) 
+Seat 5: 311420212216613 ($10.61 in chips) 
+Seat 6: amraith ($19.11 in chips) 
+311420212216613: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21: folds 
+HuntingWerner: folds 
+Michael_Kss: raises $0.20 to $0.30
+shavarun: folds 
+311420212216613: folds 
+amraith: folds 
+Uncalled bet ($0.20) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss collected ($0.25)
+Seat 4: shavarun (button) folded before Flop (didn't bet)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: amraith (big blind) folded before Flop
+
+
+
+PokerStars Hand #222977060963:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:11:38 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($2.87 in chips) 
+Seat 2: HuntingWerner ($26.90 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($11.15 in chips) 
+Seat 5: 311420212216613 ($10.56 in chips) 
+Seat 6: amraith ($19.01 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: folds 
+amraith: calls $0.05
+arxontas21: raises $0.40 to $0.50
+amraith: folds 
+Uncalled bet ($0.40) returned to arxontas21
+arxontas21 collected $0.20 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: arxontas21 (big blind) collected ($0.20)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: amraith (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977077382:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:12:02 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($2.97 in chips) 
+Seat 2: HuntingWerner ($26.90 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($11.15 in chips) 
+Seat 5: 311420212216613 ($10.56 in chips) 
+Seat 6: amraith ($18.91 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: raises $0.15 to $0.25
+amraith: calls $0.25
+arxontas21: calls $0.20
+HuntingWerner: calls $0.15
+*** FLOP *** [7s 9h Kd]
+arxontas21: bets $0.48
+HuntingWerner: folds 
+311420212216613: folds 
+amraith: calls $0.48
+*** TURN *** [7s 9h Kd] [6d]
+arxontas21: checks 
+amraith: bets $1.25
+arxontas21: folds 
+Uncalled bet ($1.25) returned to amraith
+amraith collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [7s 9h Kd 6d]
+Seat 1: arxontas21 (small blind) folded on the Turn
+Seat 2: HuntingWerner (big blind) folded on the Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded on the Flop
+Seat 6: amraith (button) collected ($1.87)
+
+
+
+PokerStars Hand #222977118538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:13:02 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($2.24 in chips) 
+Seat 2: HuntingWerner ($26.65 in chips) 
+Seat 3: Michael_Kss ($13.49 in chips) 
+Seat 4: shavarun ($11.15 in chips) 
+Seat 5: 311420212216613 ($10.31 in chips) 
+Seat 6: amraith ($20.05 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: folds 
+311420212216613: folds 
+amraith: calls $0.10
+arxontas21: raises $0.50 to $0.60
+HuntingWerner: folds 
+Michael_Kss: folds 
+amraith: folds 
+Uncalled bet ($0.50) returned to arxontas21
+arxontas21 collected $0.35 from pot
+arxontas21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: arxontas21 (button) collected ($0.35)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop
+
+
+
+PokerStars Hand #222977141628:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:13:35 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($2.49 in chips) 
+Seat 2: HuntingWerner ($26.60 in chips) 
+Seat 3: Michael_Kss ($13.39 in chips) 
+Seat 4: shavarun ($11.15 in chips) 
+Seat 5: 311420212216613 ($10.31 in chips) 
+Seat 6: amraith ($19.95 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+amraith: folds 
+arxontas21: folds 
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: folds 
+shavarun: folds 
+Uncalled bet ($0.20) returned to HuntingWerner
+HuntingWerner collected $0.25 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner (button) collected ($0.25)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: shavarun (big blind) folded before Flop
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977151636:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:13:50 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: arxontas21 ($2.49 in chips) 
+Seat 2: HuntingWerner ($26.75 in chips) 
+Seat 3: Michael_Kss ($13.34 in chips) 
+Seat 4: shavarun ($11.05 in chips) 
+Seat 5: 311420212216613 ($10.31 in chips) 
+Seat 6: amraith ($19.95 in chips) 
+shavarun: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21: folds 
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: calls $0.20
+*** FLOP *** [3s Kc 7d]
+311420212216613: checks 
+HuntingWerner: checks 
+*** TURN *** [3s Kc 7d] [Ad]
+311420212216613: checks 
+HuntingWerner: bets $0.40
+311420212216613: folds 
+Uncalled bet ($0.40) returned to HuntingWerner
+HuntingWerner collected $0.62 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3s Kc 7d Ad]
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner collected ($0.62)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) folded on the Turn
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977172429:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:14:20 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: arxontas21 ($2.49 in chips) 
+Seat 2: HuntingWerner ($27.07 in chips) 
+Seat 3: Michael_Kss ($13.34 in chips) 
+Seat 4: shavarun ($11 in chips) 
+Seat 5: 311420212216613 ($10.01 in chips) 
+Seat 6: amraith ($19.95 in chips) 
+311420212216613: posts small blind $0.05
+amraith: posts big blind $0.10
+*** HOLE CARDS ***
+arxontas21 has timed out
+arxontas21: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.17 to $0.27
+311420212216613: folds 
+amraith: calls $0.17
+*** FLOP *** [6d 3s Ts]
+amraith: checks 
+shavarun: checks 
+*** TURN *** [6d 3s Ts] [As]
+amraith: checks 
+shavarun: checks 
+*** RIVER *** [6d 3s Ts As] [3h]
+amraith: bets $0.35
+shavarun: folds 
+Uncalled bet ($0.35) returned to amraith
+amraith collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.03 
+Board [6d 3s Ts As 3h]
+Seat 1: arxontas21 folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) folded on the River
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: amraith (big blind) collected ($0.56)
+
+
+
+PokerStars Hand #222977206850:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:15:10 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: arxontas21 ($2.49 in chips) 
+Seat 2: HuntingWerner ($27.07 in chips) 
+Seat 3: Michael_Kss ($13.34 in chips) 
+Seat 4: shavarun ($10.73 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($20.24 in chips) 
+amraith: posts small blind $0.05
+arxontas21: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: raises $0.15 to $0.25
+311420212216613: folds 
+amraith: calls $0.20
+arxontas21: calls $0.15
+*** FLOP *** [2h Jd 9s]
+amraith: checks 
+arxontas21: bets $0.72
+shavarun: folds 
+amraith: calls $0.72
+*** TURN *** [2h Jd 9s] [4c]
+amraith: checks 
+arxontas21: bets $1.52 and is all-in
+amraith: calls $1.52
+*** RIVER *** [2h Jd 9s 4c] [Ks]
+*** SHOW DOWN ***
+amraith: shows [Jh Qd] (a pair of Jacks)
+arxontas21: shows [9h 7h] (a pair of Nines)
+amraith collected $4.99 from pot
+arxontas21 cashed out the hand for $0.55 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $5.23 | Rake $0.24 
+Board [2h Jd 9s 4c Ks]
+Seat 1: arxontas21 (big blind) showed [9h 7h] and lost with a pair of Nines (cashed out).
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun folded on the Flop
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: amraith (small blind) showed [Jh Qd] and won ($4.99) with a pair of Jacks
+
+
+
+PokerStars Hand #222977245868:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:16:08 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: arxontas21 ($0.55 in chips) 
+Seat 2: HuntingWerner ($27.07 in chips) 
+Seat 3: Michael_Kss ($13.34 in chips) 
+Seat 4: shavarun ($10.48 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($22.74 in chips) 
+arxontas21: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: raises $0.20 to $0.30
+shavarun: folds 
+311420212216613: folds 
+amraith: folds 
+arxontas21: folds 
+HuntingWerner: calls $0.20
+*** FLOP *** [4c 2d Ks]
+HuntingWerner: checks 
+Michael_Kss: bets $0.20
+HuntingWerner: raises $0.30 to $0.50
+Michael_Kss: calls $0.30
+*** TURN *** [4c 2d Ks] [4d]
+HuntingWerner: bets $0.70
+Michael_Kss: calls $0.70
+*** RIVER *** [4c 2d Ks 4d] [2c]
+HuntingWerner: checks 
+Michael_Kss: checks 
+*** SHOW DOWN ***
+HuntingWerner: shows [3h Ah] (two pair, Fours and Deuces)
+Michael_Kss: shows [Qh Ac] (two pair, Fours and Deuces)
+HuntingWerner collected $1.46 from pot
+Michael_Kss collected $1.45 from pot
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.14 
+Board [4c 2d Ks 4d 2c]
+Seat 1: arxontas21 (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) showed [3h Ah] and won ($1.46) with two pair, Fours and Deuces
+Seat 3: Michael_Kss showed [Qh Ac] and won ($1.45) with two pair, Fours and Deuces
+Seat 4: shavarun folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977282299:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:17:02 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: arxontas21 ($0.50 in chips) 
+Seat 2: HuntingWerner ($27.03 in chips) 
+Seat 3: Michael_Kss ($13.29 in chips) 
+Seat 4: shavarun ($10.48 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($22.74 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: raises $0.20 to $0.30
+311420212216613: folds 
+amraith: folds 
+arxontas21: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to shavarun
+shavarun collected $0.25 from pot
+shavarun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: arxontas21 (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: shavarun collected ($0.25)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977294586:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:17:20 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: arxontas21 ($0.50 in chips) 
+Seat 2: HuntingWerner ($26.98 in chips) 
+Seat 3: Michael_Kss ($13.19 in chips) 
+Seat 4: shavarun ($10.63 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($22.74 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+amraith: raises $0.15 to $0.25
+arxontas21: raises $0.25 to $0.50 and is all-in
+HuntingWerner: folds 
+Michael_Kss: folds 
+shavarun: folds 
+amraith: calls $0.25
+*** FLOP *** [4d 6d Kd]
+*** TURN *** [4d 6d Kd] [7s]
+*** RIVER *** [4d 6d Kd 7s] [Ad]
+*** SHOW DOWN ***
+amraith: shows [As Kh] (two pair, Aces and Kings)
+arxontas21: shows [Qs Tc] (high card Ace)
+amraith collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [4d 6d Kd 7s Ad]
+Seat 1: arxontas21 showed [Qs Tc] and lost with high card Ace
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: shavarun (big blind) folded before Flop
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: amraith showed [As Kh] and won ($1.10) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #222977319015:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:17:56 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 2: HuntingWerner ($26.98 in chips) 
+Seat 3: Michael_Kss ($13.14 in chips) 
+Seat 4: shavarun ($10.53 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: amraith ($23.34 in chips) 
+shavarun: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+amraith: folds 
+arxontas21 leaves the table
+HuntingWerner: folds 
+Michael_Kss: raises $0.15 to $0.25
+shavarun: folds 
+311420212216613: raises $0.75 to $1
+Michael_Kss: folds 
+Uncalled bet ($0.75) returned to 311420212216613
+311420212216613 collected $0.55 from pot
+311420212216613: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop
+Seat 4: shavarun (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) collected ($0.55)
+Seat 6: amraith folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977337252:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:18:23 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 2: HuntingWerner ($26.98 in chips) 
+Seat 3: Michael_Kss ($12.89 in chips) 
+Seat 4: shavarun ($10.48 in chips) 
+Seat 5: 311420212216613 ($10.30 in chips) 
+311420212216613: posts small blind $0.05
+amraith: is sitting out 
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+shavarun: folds 
+311420212216613: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: shavarun (button) folded before Flop (didn't bet)
+Seat 5: 311420212216613 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977343292:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:18:32 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 2: HuntingWerner ($27.03 in chips) 
+Seat 3: Michael_Kss ($12.89 in chips) 
+Seat 4: shavarun ($10.48 in chips) 
+Seat 5: 311420212216613 ($10.25 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+shavarun: calls $0.10
+311420212216613: folds 
+HuntingWerner: folds 
+Michael_Kss: checks 
+*** FLOP *** [Ks Ad 3h]
+amraith leaves the table
+Michael_Kss: checks 
+shavarun: checks 
+*** TURN *** [Ks Ad 3h] [9h]
+Michael_Kss: checks 
+shavarun: checks 
+*** RIVER *** [Ks Ad 3h 9h] [Kh]
+Michael_Kss: checks 
+shavarun: checks 
+*** SHOW DOWN ***
+Michael_Kss: shows [Tc 3d] (two pair, Kings and Threes)
+shavarun: mucks hand 
+Michael_Kss collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ks Ad 3h 9h Kh]
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) showed [Tc 3d] and won ($0.24) with two pair, Kings and Threes
+Seat 4: shavarun mucked
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977366626:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:19:07 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($26.98 in chips) 
+Seat 3: Michael_Kss ($13.03 in chips) 
+Seat 5: 311420212216613 ($10.25 in chips) 
+Michael_Kss: posts small blind $0.05
+shavarun: is sitting out 
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.15 to $0.25
+Michael_Kss: folds 
+311420212216613: raises $0.75 to $1
+HuntingWerner: folds 
+Uncalled bet ($0.75) returned to 311420212216613
+311420212216613 collected $0.55 from pot
+311420212216613: doesn't show hand 
+Rukestaa joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 2: HuntingWerner (button) folded before Flop
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) collected ($0.55)
+
+
+
+PokerStars Hand #222977378329:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:19:24 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 2: HuntingWerner ($26.73 in chips) 
+Seat 3: Michael_Kss ($12.98 in chips) 
+Seat 5: 311420212216613 ($10.55 in chips) 
+Seat 6: Rukestaa ($10 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+shavarun leaves the table
+Michael_Kss: raises $0.15 to $0.25
+311420212216613: folds 
+Rukestaa: folds 
+Uncalled bet ($0.15) returned to Michael_Kss
+Michael_Kss collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) collected ($0.25)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #222977386853:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:19:37 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 3: Michael_Kss ($13.13 in chips) 
+Seat 5: 311420212216613 ($10.50 in chips) 
+Seat 6: Rukestaa ($9.90 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: is sitting out 
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: folds 
+Uncalled bet ($0.05) returned to Michael_Kss
+o.cubicus joins the table at seat #1 
+Michael_Kss collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Michael_Kss (big blind) collected ($0.10)
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977392441:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:19:45 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 3: Michael_Kss ($13.18 in chips) 
+Seat 5: 311420212216613 ($10.50 in chips) 
+Seat 6: Rukestaa ($9.85 in chips) 
+Michael_Kss: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+Normalnie joins the table at seat #4 
+Michael_Kss: raises $0.15 to $0.25
+311420212216613: folds 
+Uncalled bet ($0.15) returned to Michael_Kss
+Michael_Kss collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Michael_Kss (small blind) collected ($0.20)
+Seat 5: 311420212216613 (big blind) folded before Flop
+Seat 6: Rukestaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977408334:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:20:09 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 5: 311420212216613 ($10.40 in chips) 
+Seat 6: Rukestaa ($9.85 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+o.cubicus: sits out 
+HuntingWerner: sits out 
+*** HOLE CARDS ***
+Michael_Kss: folds 
+311420212216613: raises $0.20 to $0.30
+Rukestaa: calls $0.20
+*** FLOP *** [Kd 3s 6s]
+311420212216613: checks 
+Rukestaa: bets $0.29
+311420212216613: raises $0.86 to $1.15
+Rukestaa: folds 
+Uncalled bet ($0.86) returned to 311420212216613
+311420212216613 collected $1.13 from pot
+311420212216613: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [Kd 3s 6s]
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 5: 311420212216613 (small blind) collected ($1.13)
+Seat 6: Rukestaa (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222977427978:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:20:38 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: o.cubicus ($6.07 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 5: 311420212216613 ($10.94 in chips) 
+Seat 6: Rukestaa ($9.26 in chips) 
+Rukestaa: posts small blind $0.05
+o.cubicus: posts big blind $0.10
+HuntingWerner: sits out 
+Normalnie: sits out 
+*** HOLE CARDS ***
+Michael_Kss: folds 
+311420212216613: folds 
+Rukestaa: folds 
+Uncalled bet ($0.05) returned to o.cubicus
+o.cubicus collected $0.10 from pot
+o.cubicus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus (big blind) collected ($0.10)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977432540:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:20:45 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: o.cubicus ($6.12 in chips) 
+Seat 2: HuntingWerner ($26.73 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 5: 311420212216613 ($10.94 in chips) 
+Seat 6: Rukestaa ($9.21 in chips) 
+o.cubicus: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+Normalnie: sits out 
+*** HOLE CARDS ***
+Michael_Kss: folds 
+311420212216613: folds 
+Rukestaa: folds 
+o.cubicus: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977440878:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:20:58 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: o.cubicus ($6.07 in chips) 
+Seat 2: HuntingWerner ($26.78 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 5: 311420212216613 ($10.94 in chips) 
+Seat 6: Rukestaa ($9.21 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+Normalnie: sits out 
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: folds 
+o.cubicus: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.05) returned to Michael_Kss
+Michael_Kss collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) collected ($0.10)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977450333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:21:12 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: o.cubicus ($6.07 in chips) 
+Seat 2: HuntingWerner ($26.73 in chips) 
+Seat 3: Michael_Kss ($13.33 in chips) 
+Seat 4: Normalnie ($8 in chips) 
+Seat 5: 311420212216613 ($10.94 in chips) 
+Seat 6: Rukestaa ($9.21 in chips) 
+Michael_Kss: posts small blind $0.05
+Normalnie: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: raises $0.20 to $0.30
+o.cubicus: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.25 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: o.cubicus folded before Flop (didn't bet)
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: Normalnie (big blind) folded before Flop
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa collected ($0.25)
+
+
+
+PokerStars Hand #222977460665:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:21:28 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: o.cubicus ($6.07 in chips) 
+Seat 2: HuntingWerner ($26.73 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 4: Normalnie ($7.90 in chips) 
+Seat 5: 311420212216613 ($10.94 in chips) 
+Seat 6: Rukestaa ($9.36 in chips) 
+Normalnie: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+o.cubicus: raises $0.20 to $0.30
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: calls $0.20
+*** FLOP *** [Ah 3c Jc]
+311420212216613: checks 
+o.cubicus: bets $0.30
+311420212216613: folds 
+Uncalled bet ($0.30) returned to o.cubicus
+o.cubicus collected $0.62 from pot
+o.cubicus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ah 3c Jc]
+Seat 1: o.cubicus collected ($0.62)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: Normalnie (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) folded on the Flop
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977481675:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:21:59 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: o.cubicus ($6.39 in chips) 
+Seat 2: HuntingWerner ($26.73 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 4: Normalnie ($7.85 in chips) 
+Seat 5: 311420212216613 ($10.64 in chips) 
+Seat 6: Rukestaa ($9.36 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+o.cubicus: folds 
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: folds 
+Normalnie: raises $0.30 to $0.60
+311420212216613: folds 
+Rukestaa: folds 
+HuntingWerner: calls $0.30
+*** FLOP *** [4c Js Qc]
+HuntingWerner: checks 
+Normalnie: checks 
+*** TURN *** [4c Js Qc] [Kd]
+HuntingWerner: checks 
+Normalnie: bets $0.70
+HuntingWerner: calls $0.70
+*** RIVER *** [4c Js Qc Kd] [5s]
+HuntingWerner: checks 
+Normalnie: bets $2.63
+HuntingWerner: folds 
+Uncalled bet ($2.63) returned to Normalnie
+Normalnie collected $2.63 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.12 
+Board [4c Js Qc Kd 5s]
+Seat 1: o.cubicus folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded on the River
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie (button) collected ($2.63)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #222977542701:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:23:19 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: o.cubicus ($6.39 in chips) 
+Seat 2: HuntingWerner ($25.43 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 4: Normalnie ($9.18 in chips) 
+Seat 5: 311420212216613 ($10.59 in chips) 
+Seat 6: Rukestaa ($9.26 in chips) 
+Rukestaa: posts small blind $0.05
+o.cubicus: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie has timed out
+Normalnie: folds 
+311420212216613: folds 
+Rukestaa: folds 
+Uncalled bet ($0.05) returned to o.cubicus
+o.cubicus collected $0.10 from pot
+o.cubicus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus (big blind) collected ($0.10)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977557243:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:23:41 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: o.cubicus ($6.44 in chips) 
+Seat 2: HuntingWerner ($25.43 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 4: Normalnie ($9.18 in chips) 
+Seat 5: 311420212216613 ($10.59 in chips) 
+Seat 6: Rukestaa ($9.21 in chips) 
+o.cubicus: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: folds 
+Rukestaa: folds 
+o.cubicus: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977565603:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:23:54 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: o.cubicus ($6.39 in chips) 
+Seat 2: HuntingWerner ($25.48 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 4: Normalnie ($9.18 in chips) 
+Seat 5: 311420212216613 ($10.59 in chips) 
+Seat 6: Rukestaa ($9.21 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Normalnie: folds 
+311420212216613: folds 
+Rukestaa: folds 
+o.cubicus: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.05) returned to Michael_Kss
+Michael_Kss collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) collected ($0.10)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977579097:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:24:15 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: o.cubicus ($6.39 in chips) 
+Seat 2: HuntingWerner ($25.43 in chips) 
+Seat 3: Michael_Kss ($13.33 in chips) 
+Seat 4: Normalnie ($9.18 in chips) 
+Seat 5: 311420212216613 ($10.59 in chips) 
+Seat 6: Rukestaa ($9.21 in chips) 
+Michael_Kss: posts small blind $0.05
+Normalnie: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: raises $0.20 to $0.30
+o.cubicus: calls $0.30
+HuntingWerner: calls $0.30
+Michael_Kss: folds 
+Normalnie: calls $0.20
+*** FLOP *** [Kc Jd 3c]
+Normalnie: checks 
+Rukestaa: checks 
+o.cubicus: checks 
+HuntingWerner: bets $0.70
+Normalnie: folds 
+Rukestaa: calls $0.70
+o.cubicus: folds 
+*** TURN *** [Kc Jd 3c] [2d]
+Rukestaa: checks 
+HuntingWerner: bets $1.20
+Rukestaa: folds 
+Uncalled bet ($1.20) returned to HuntingWerner
+HuntingWerner collected $2.53 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [Kc Jd 3c 2d]
+Seat 1: o.cubicus folded on the Flop
+Seat 2: HuntingWerner (button) collected ($2.53)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: Normalnie (big blind) folded on the Flop
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded on the Turn
+
+
+
+PokerStars Hand #222977629354:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:25:31 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: o.cubicus ($6.09 in chips) 
+Seat 2: HuntingWerner ($26.96 in chips) 
+Seat 3: Michael_Kss ($13.28 in chips) 
+Seat 4: Normalnie ($8.88 in chips) 
+Seat 5: 311420212216613 ($10.59 in chips) 
+Seat 6: Rukestaa ($8.21 in chips) 
+Normalnie: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+o.cubicus: folds 
+HuntingWerner: folds 
+Michael_Kss: raises $0.15 to $0.25
+Normalnie: folds 
+311420212216613: calls $0.15
+*** FLOP *** [8h 3s Td]
+311420212216613: checks 
+Michael_Kss: bets $0.20
+311420212216613: raises $0.50 to $0.70
+Michael_Kss: calls $0.50
+*** TURN *** [8h 3s Td] [4d]
+311420212216613: bets $0.61
+Michael_Kss: folds 
+Uncalled bet ($0.61) returned to 311420212216613
+311420212216613 collected $1.86 from pot
+311420212216613: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [8h 3s Td 4d]
+Seat 1: o.cubicus folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded on the Turn
+Seat 4: Normalnie (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) collected ($1.86)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977665311:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:26:26 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: o.cubicus ($6.09 in chips) 
+Seat 2: HuntingWerner ($26.96 in chips) 
+Seat 3: Michael_Kss ($12.33 in chips) 
+Seat 4: Normalnie ($8.83 in chips) 
+Seat 5: 311420212216613 ($11.50 in chips) 
+Seat 6: Rukestaa ($10 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+o.cubicus: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: folds 
+Uncalled bet ($0.05) returned to Rukestaa
+Rukestaa collected $0.10 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: o.cubicus folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie (button) folded before Flop (didn't bet)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222977674903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:26:41 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: o.cubicus ($6.09 in chips) 
+Seat 2: HuntingWerner ($26.96 in chips) 
+Seat 3: Michael_Kss ($12.33 in chips) 
+Seat 4: Normalnie ($8.83 in chips) 
+Seat 5: 311420212216613 ($11.45 in chips) 
+Seat 6: Rukestaa ($10.05 in chips) 
+Rukestaa: posts small blind $0.05
+o.cubicus: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: raises $0.15 to $0.25
+Rukestaa: raises $0.55 to $0.80
+o.cubicus: folds 
+311420212216613: folds 
+Uncalled bet ($0.55) returned to Rukestaa
+Rukestaa collected $0.60 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: o.cubicus (big blind) folded before Flop
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 (button) folded before Flop
+Seat 6: Rukestaa (small blind) collected ($0.60)
+
+
+
+PokerStars Hand #222977688760:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:27:02 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: o.cubicus ($5.99 in chips) 
+Seat 2: HuntingWerner ($26.96 in chips) 
+Seat 3: Michael_Kss ($12.33 in chips) 
+Seat 4: Normalnie ($8.83 in chips) 
+Seat 5: 311420212216613 ($11.20 in chips) 
+Seat 6: Rukestaa ($10.40 in chips) 
+o.cubicus: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: folds 
+Rukestaa: raises $0.20 to $0.30
+o.cubicus: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.25 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: o.cubicus (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa (button) collected ($0.25)
+
+
+
+PokerStars Hand #222977699929:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:27:19 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: o.cubicus ($5.94 in chips) 
+Seat 2: HuntingWerner ($26.86 in chips) 
+Seat 3: Michael_Kss ($12.33 in chips) 
+Seat 4: Normalnie ($8.83 in chips) 
+Seat 5: 311420212216613 ($11.20 in chips) 
+Seat 6: Rukestaa ($10.55 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Normalnie: raises $0.20 to $0.30
+311420212216613: folds 
+Rukestaa: folds 
+o.cubicus: folds 
+o.cubicus leaves the table
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.20) returned to Normalnie
+dulus1996 joins the table at seat #1 
+Normalnie collected $0.25 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: o.cubicus (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 4: Normalnie collected ($0.25)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977709721:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:27:34 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($26.81 in chips) 
+Seat 3: Michael_Kss ($12.23 in chips) 
+Seat 4: Normalnie ($8.98 in chips) 
+Seat 5: 311420212216613 ($11.20 in chips) 
+Seat 6: Rukestaa ($10.55 in chips) 
+Michael_Kss: posts small blind $0.05
+Normalnie: posts big blind $0.10
+dulus1996: sits out 
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.05) returned to Normalnie
+Normalnie collected $0.10 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: Normalnie (big blind) collected ($0.10)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977716414:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:27:44 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 2: HuntingWerner ($26.81 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($9.03 in chips) 
+Seat 5: 311420212216613 ($11.20 in chips) 
+Seat 6: Rukestaa ($10.55 in chips) 
+Normalnie: posts small blind $0.05
+311420212216613: posts big blind $0.10
+dulus1996: sits out 
+*** HOLE CARDS ***
+Rukestaa: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: raises $0.10 to $0.20
+311420212216613: folds 
+Uncalled bet ($0.10) returned to Normalnie
+Normalnie collected $0.20 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: Normalnie (small blind) collected ($0.20)
+Seat 5: 311420212216613 (big blind) folded before Flop
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977731023:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:28:07 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 2: HuntingWerner ($26.81 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($9.13 in chips) 
+Seat 5: 311420212216613 ($11.10 in chips) 
+Seat 6: Rukestaa ($10.55 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+dulus1996: sits out 
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: raises $0.20 to $0.30
+311420212216613: folds 
+Rukestaa: calls $0.20
+*** FLOP *** [5d Ad 7s]
+Rukestaa: checks 
+Normalnie: checks 
+*** TURN *** [5d Ad 7s] [3s]
+Rukestaa: bets $0.31
+Normalnie: calls $0.31
+*** RIVER *** [5d Ad 7s 3s] [4h]
+Rukestaa: checks 
+Normalnie: bets $0.70
+Rukestaa: folds 
+Uncalled bet ($0.70) returned to Normalnie
+Normalnie collected $1.21 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [5d Ad 7s 3s 4h]
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie (button) collected ($1.21)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) folded on the River
+
+
+
+PokerStars Hand #222977755903:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:28:45 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($26.81 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($9.73 in chips) 
+Seat 5: 311420212216613 ($11.05 in chips) 
+Seat 6: Rukestaa ($9.94 in chips) 
+Rukestaa: posts small blind $0.05
+dulus1996: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: raises $0.20 to $0.30
+311420212216613: raises $0.60 to $0.90
+Rukestaa: calls $0.85
+dulus1996: folds 
+Normalnie: raises $0.80 to $1.70
+311420212216613: calls $0.80
+Rukestaa: calls $0.80
+*** FLOP *** [Qs Ac Ah]
+Rukestaa: checks 
+Normalnie: checks 
+311420212216613: checks 
+*** TURN *** [Qs Ac Ah] [4c]
+Rukestaa: checks 
+Normalnie: bets $3
+311420212216613: folds 
+Rukestaa: calls $3
+*** RIVER *** [Qs Ac Ah 4c] [9c]
+Rukestaa: checks 
+Normalnie: checks 
+*** SHOW DOWN ***
+Rukestaa: shows [As Qd] (a full house, Aces full of Queens)
+Normalnie: mucks hand 
+Rukestaa collected $10.70 from pot
+*** SUMMARY ***
+Total pot $11.20 | Rake $0.50 
+Board [Qs Ac Ah 4c 9c]
+Seat 1: dulus1996 (big blind) folded before Flop
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie mucked
+Seat 5: 311420212216613 (button) folded on the Turn
+Seat 6: Rukestaa (small blind) showed [As Qd] and won ($10.70) with a full house, Aces full of Queens
+
+
+
+PokerStars Hand #222977819814:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:30:23 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($26.81 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($5.03 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($15.94 in chips) 
+dulus1996: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: folds 
+Rukestaa: raises $0.20 to $0.30
+dulus1996: folds 
+HuntingWerner: raises $0.70 to $1
+Rukestaa: calls $0.70
+*** FLOP *** [Qc 5h Jh]
+HuntingWerner: bets $1.10
+Rukestaa: folds 
+Uncalled bet ($1.10) returned to HuntingWerner
+HuntingWerner collected $1.96 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [Qc 5h Jh]
+Seat 1: dulus1996 (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) collected ($1.96)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa (button) folded on the Flop
+
+
+
+PokerStars Hand #222977852209:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:31:13 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.77 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($5.03 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($14.94 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+Normalnie: folds 
+311420212216613: folds 
+Rukestaa: folds 
+dulus1996: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.05) returned to Michael_Kss
+Michael_Kss collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: dulus1996 (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) collected ($0.10)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977858863:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:31:23 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.72 in chips) 
+Seat 3: Michael_Kss ($12.23 in chips) 
+Seat 4: Normalnie ($5.03 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($14.94 in chips) 
+Michael_Kss: posts small blind $0.05
+Normalnie: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: folds 
+dulus1996: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.05) returned to Normalnie
+Normalnie collected $0.10 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: dulus1996 folded before Flop (didn't bet)
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 4: Normalnie (big blind) collected ($0.10)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977867731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:31:36 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.72 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($5.08 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($14.94 in chips) 
+Normalnie: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+dulus1996: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: folds 
+Uncalled bet ($0.05) returned to 311420212216613
+311420212216613 collected $0.10 from pot
+311420212216613: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: dulus1996 folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 4: Normalnie (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) collected ($0.10)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977874727:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:31:47 ET
+Table 'Golia III' 6-max Seat #4 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.72 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($5.03 in chips) 
+Seat 5: 311420212216613 ($10.05 in chips) 
+Seat 6: Rukestaa ($14.94 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+dulus1996: folds 
+HuntingWerner: raises $0.20 to $0.30
+Michael_Kss: folds 
+Normalnie: calls $0.30
+311420212216613: folds 
+Rukestaa: calls $0.20
+*** FLOP *** [3s Th Kd]
+Rukestaa: checks 
+HuntingWerner: checks 
+Normalnie: checks 
+*** TURN *** [3s Th Kd] [7s]
+Rukestaa: checks 
+HuntingWerner: checks 
+Normalnie: bets $0.91
+Rukestaa: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.91) returned to Normalnie
+Normalnie collected $0.91 from pot
+Normalnie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [3s Th Kd 7s]
+Seat 1: dulus1996 folded before Flop (didn't bet)
+Seat 2: HuntingWerner folded on the Turn
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie (button) collected ($0.91)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222977913228:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:32:46 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.42 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($5.64 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($14.64 in chips) 
+Rukestaa: posts small blind $0.05
+dulus1996: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Michael_Kss: folds 
+Normalnie: calls $0.10
+311420212216613: folds 
+Rukestaa: raises $0.20 to $0.30
+dulus1996: calls $0.20
+Normalnie: calls $0.20
+*** FLOP *** [6c 6h Jc]
+Rukestaa: checks 
+dulus1996: checks 
+Normalnie: checks 
+*** TURN *** [6c 6h Jc] [Ah]
+Rukestaa: bets $0.30
+dulus1996: calls $0.30
+Normalnie: calls $0.30
+*** RIVER *** [6c 6h Jc Ah] [Ac]
+Rukestaa: bets $0.50
+dulus1996: folds 
+Normalnie: raises $1.40 to $1.90
+Rukestaa: calls $1.40
+*** SHOW DOWN ***
+Normalnie: shows [As 2c] (a full house, Aces full of Sixes)
+Rukestaa: mucks hand 
+Normalnie collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [6c 6h Jc Ah Ac]
+Seat 1: dulus1996 (big blind) folded on the River
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie showed [As 2c] and won ($5.35) with a full house, Aces full of Sixes
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) mucked
+
+
+
+PokerStars Hand #222977975967:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:34:21 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.42 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 4: Normalnie ($8.49 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($12.14 in chips) 
+dulus1996: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Michael_Kss: folds 
+Normalnie: folds 
+311420212216613: folds 
+Normalnie leaves the table
+Rukestaa: raises $0.20 to $0.30
+dulus1996: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.25 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: dulus1996 (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 3: Michael_Kss folded before Flop (didn't bet)
+Seat 4: Normalnie folded before Flop (didn't bet)
+Seat 5: 311420212216613 folded before Flop (didn't bet)
+Seat 6: Rukestaa (button) collected ($0.25)
+
+
+
+PokerStars Hand #222977984434:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:34:34 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.32 in chips) 
+Seat 3: Michael_Kss ($12.18 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($12.29 in chips) 
+HuntingWerner: posts small blind $0.05
+Michael_Kss: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: raises $0.12 to $0.22
+Rukestaa: folds 
+dulus1996: folds 
+HuntingWerner: folds 
+Michael_Kss: folds 
+Uncalled bet ($0.12) returned to 311420212216613
+311420212216613 collected $0.25 from pot
+311420212216613: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: dulus1996 (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 3: Michael_Kss (big blind) folded before Flop
+Seat 5: 311420212216613 collected ($0.25)
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977995105:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:34:51 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.27 in chips) 
+Seat 3: Michael_Kss ($12.08 in chips) 
+Seat 5: 311420212216613 ($10.15 in chips) 
+Seat 6: Rukestaa ($12.29 in chips) 
+Michael_Kss: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+dulus1996: folds 
+HuntingWerner: raises $0.15 to $0.25
+Michael_Kss: folds 
+311420212216613: folds 
+Uncalled bet ($0.15) returned to HuntingWerner
+HuntingWerner collected $0.25 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: dulus1996 folded before Flop (didn't bet)
+Seat 2: HuntingWerner (button) collected ($0.25)
+Seat 3: Michael_Kss (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) folded before Flop
+Seat 6: Rukestaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978005922:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:35:07 ET
+Table 'Golia III' 6-max Seat #3 is the button
+Seat 1: dulus1996 ($10 in chips) 
+Seat 2: HuntingWerner ($27.42 in chips) 
+Seat 3: Michael_Kss ($12.03 in chips) 
+Seat 5: 311420212216613 ($10.05 in chips) 
+Seat 6: Rukestaa ($12.29 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+dulus1996: raises $0.15 to $0.25
+HuntingWerner: folds 
+Michael_Kss has timed out
+Michael_Kss: folds 
+311420212216613: folds 
+Rukestaa: folds 
+Uncalled bet ($0.15) returned to dulus1996
+dulus1996 collected $0.25 from pot
+dulus1996: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: dulus1996 collected ($0.25)
+Seat 2: HuntingWerner folded before Flop (didn't bet)
+Seat 3: Michael_Kss (button) folded before Flop (didn't bet)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978023697:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:35:34 ET
+Table 'Golia III' 6-max Seat #5 is the button
+Seat 2: HuntingWerner ($27.42 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($12.19 in chips) 
+Rukestaa: posts small blind $0.05
+dulus1996: is sitting out 
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+311420212216613: folds 
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 5: 311420212216613 (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978030695:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:35:45 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($27.32 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($12.29 in chips) 
+HuntingWerner: posts small blind $0.05
+311420212216613: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+311420212216613: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.25 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 5: 311420212216613 (big blind) folded before Flop
+Seat 6: Rukestaa (button) collected ($0.25)
+
+
+
+PokerStars Hand #222978036423:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:35:54 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($27.27 in chips) 
+Seat 5: 311420212216613 ($10 in chips) 
+Seat 6: Rukestaa ($12.44 in chips) 
+311420212216613: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+311420212216613: folds 
+Uncalled bet ($0.05) returned to Rukestaa
+311420212216613 leaves the table
+Rukestaa collected $0.10 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 5: 311420212216613 (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222978041817:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:36:02 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($27.27 in chips) 
+Seat 6: Rukestaa ($12.49 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978047287:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:36:11 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($27.17 in chips) 
+Seat 6: Rukestaa ($12.59 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.15 to $0.25
+Rukestaa: folds 
+Uncalled bet ($0.15) returned to HuntingWerner
+Michael_Kss leaves the table
+HuntingWerner collected $0.20 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (button) (small blind) collected ($0.20)
+Seat 6: Rukestaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978058005:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:36:27 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($27.27 in chips) 
+Seat 6: Rukestaa ($12.49 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: raises $0.70 to $1
+dulus1996 leaves the table
+Rukestaa: folds 
+Uncalled bet ($0.70) returned to HuntingWerner
+HuntingWerner collected $0.60 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: HuntingWerner (big blind) collected ($0.60)
+Seat 6: Rukestaa (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978068622:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:36:44 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($27.57 in chips) 
+Seat 6: Rukestaa ($12.19 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.15 to $0.25
+Rukestaa: calls $0.15
+*** FLOP *** [Ad 6h 4d]
+Rukestaa: checks 
+HuntingWerner: bets $0.30
+Rukestaa: raises $0.50 to $0.80
+HuntingWerner: calls $0.50
+*** TURN *** [Ad 6h 4d] [4h]
+Rukestaa: bets $1.20
+HuntingWerner: calls $1.20
+*** RIVER *** [Ad 6h 4d 4h] [Qh]
+Rukestaa: bets $2.15
+HuntingWerner: calls $2.15
+*** SHOW DOWN ***
+Rukestaa: shows [Qc 8h] (two pair, Queens and Fours)
+HuntingWerner: shows [Ah 9c] (two pair, Aces and Fours)
+HuntingWerner collected $8.40 from pot
+*** SUMMARY ***
+Total pot $8.80 | Rake $0.40 
+Board [Ad 6h 4d 4h Qh]
+Seat 2: HuntingWerner (button) (small blind) showed [Ah 9c] and won ($8.40) with two pair, Aces and Fours
+Seat 6: Rukestaa (big blind) showed [Qc 8h] and lost with two pair, Queens and Fours
+
+
+
+PokerStars Hand #222978101769:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:37:35 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($31.57 in chips) 
+Seat 6: Rukestaa ($7.79 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978112538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:37:52 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($31.47 in chips) 
+Seat 6: Rukestaa ($7.89 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.15 to $0.25
+Rukestaa: calls $0.15
+*** FLOP *** [2h 7c Ah]
+Rukestaa: checks 
+HuntingWerner: bets $0.20
+Rukestaa: folds 
+Uncalled bet ($0.20) returned to HuntingWerner
+HuntingWerner collected $0.48 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2h 7c Ah]
+Seat 2: HuntingWerner (button) (small blind) collected ($0.48)
+Seat 6: Rukestaa (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978126524:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:38:14 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($31.70 in chips) 
+Seat 6: Rukestaa ($7.64 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978136040:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:38:28 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($31.60 in chips) 
+Seat 6: Rukestaa ($7.74 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: calls $0.10
+*** FLOP *** [6h As 2c]
+Rukestaa: checks 
+HuntingWerner: bets $0.20
+Rukestaa: raises $0.40 to $0.60
+HuntingWerner: folds 
+Uncalled bet ($0.40) returned to Rukestaa
+Rukestaa collected $0.76 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [6h As 2c]
+Seat 2: HuntingWerner (button) (small blind) folded on the Flop
+Seat 6: Rukestaa (big blind) collected ($0.76)
+
+
+
+PokerStars Hand #222978156933:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:39:01 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($31.20 in chips) 
+Seat 6: Rukestaa ($8.10 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.10 to $0.20
+HuntingWerner: folds 
+Uncalled bet ($0.10) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978163302:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:39:11 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($31.10 in chips) 
+Seat 6: Rukestaa ($8.20 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: calls $0.10
+*** FLOP *** [3d 6s Qs]
+Rukestaa: checks 
+HuntingWerner: checks 
+*** TURN *** [3d 6s Qs] [9h]
+Rukestaa: bets $0.19
+HuntingWerner: calls $0.19
+*** RIVER *** [3d 6s Qs 9h] [6h]
+Rukestaa: bets $0.40
+HuntingWerner: folds 
+Uncalled bet ($0.40) returned to Rukestaa
+Rukestaa collected $0.74 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04 
+Board [3d 6s Qs 9h 6h]
+Seat 2: HuntingWerner (button) (small blind) folded on the River
+Seat 6: Rukestaa (big blind) collected ($0.74)
+
+
+
+PokerStars Hand #222978186499:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:39:48 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($30.71 in chips) 
+Seat 6: Rukestaa ($8.55 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: calls $0.20
+*** FLOP *** [2d Jd 9c]
+HuntingWerner: checks 
+Rukestaa: bets $0.29
+HuntingWerner: raises $0.61 to $0.90
+Rukestaa: calls $0.61
+*** TURN *** [2d Jd 9c] [7h]
+HuntingWerner: bets $1.50
+Rukestaa: folds 
+Uncalled bet ($1.50) returned to HuntingWerner
+HuntingWerner collected $2.29 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.11 
+Board [2d Jd 9c 7h]
+Seat 2: HuntingWerner (big blind) collected ($2.29)
+Seat 6: Rukestaa (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222978208698:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:40:22 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($31.80 in chips) 
+Seat 6: Rukestaa ($7.35 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: folds 
+Uncalled bet ($0.10) returned to HuntingWerner
+HuntingWerner collected $0.20 from pot
+HuntingWerner: doesn't show hand 
+Vecherov joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (button) (small blind) collected ($0.20)
+Seat 6: Rukestaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978213636:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:40:30 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: Vecherov ($10 in chips) 
+Seat 2: HuntingWerner ($31.90 in chips) 
+Seat 6: Rukestaa ($9.90 in chips) 
+Rukestaa: posts small blind $0.05
+Vecherov: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Rukestaa: raises $0.20 to $0.30
+Vecherov: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Vecherov (big blind) folded before Flop
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978221259:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:40:42 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: Vecherov ($10 in chips) 
+Seat 2: HuntingWerner ($31.90 in chips) 
+Seat 6: Rukestaa ($10 in chips) 
+Vecherov: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+Vecherov: folds 
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.25 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Vecherov (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) collected ($0.25)
+
+
+
+PokerStars Hand #222978228880:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:40:54 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: Vecherov ($10 in chips) 
+Seat 2: HuntingWerner ($31.80 in chips) 
+Seat 6: Rukestaa ($10.15 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+Vecherov: folds 
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: raises $0.60 to $0.80
+HuntingWerner: folds 
+Uncalled bet ($0.60) returned to Rukestaa
+Rukestaa collected $0.40 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: Vecherov (button) folded before Flop (didn't bet)
+Seat 2: HuntingWerner (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) collected ($0.40)
+
+
+
+PokerStars Hand #222978245157:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:41:19 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 1: Vecherov ($10 in chips) 
+Seat 2: HuntingWerner ($31.60 in chips) 
+Seat 6: Rukestaa ($10.35 in chips) 
+Rukestaa: posts small blind $0.05
+Vecherov: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: folds 
+Rukestaa: raises $0.20 to $0.30
+Vecherov: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Vecherov (big blind) folded before Flop
+Seat 2: HuntingWerner (button) folded before Flop (didn't bet)
+Seat 6: Rukestaa (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978251352:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:41:29 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 1: Vecherov ($10 in chips) 
+Seat 2: HuntingWerner ($31.60 in chips) 
+Seat 6: Rukestaa ($10.45 in chips) 
+Vecherov: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+Vecherov: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Vecherov (small blind) folded before Flop
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 6: Rukestaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978255747:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:41:36 ET
+Table 'Golia III' 6-max Seat #1 is the button
+Seat 1: Vecherov ($10 in chips) 
+Seat 2: HuntingWerner ($31.65 in chips) 
+Seat 6: Rukestaa ($10.45 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+Vecherov: raises $0.15 to $0.25
+HuntingWerner: calls $0.20
+Rukestaa: calls $0.15
+*** FLOP *** [Kh 9c Ad]
+HuntingWerner: checks 
+Rukestaa: checks 
+Vecherov: bets $0.25
+HuntingWerner: folds 
+Rukestaa: folds 
+Uncalled bet ($0.25) returned to Vecherov
+Vecherov collected $0.72 from pot
+Vecherov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Kh 9c Ad]
+Seat 1: Vecherov (button) collected ($0.72)
+Seat 2: HuntingWerner (small blind) folded on the Flop
+Seat 6: Rukestaa (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978281230:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:42:01 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($31.40 in chips) 
+Seat 6: Rukestaa ($10.20 in chips) 
+Rukestaa: posts small blind $0.05
+Vecherov: is sitting out 
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+Vecherov leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 6: Rukestaa (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978284041:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:42:06 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($31.45 in chips) 
+Seat 6: Rukestaa ($10.15 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: calls $0.10
+*** FLOP *** [6c 9d 5c]
+Rukestaa: checks 
+HuntingWerner: bets $0.20
+Rukestaa: calls $0.20
+*** TURN *** [6c 9d 5c] [As]
+Rukestaa: checks 
+HuntingWerner: checks 
+*** RIVER *** [6c 9d 5c As] [Jc]
+Rukestaa: bets $0.50
+HuntingWerner: calls $0.50
+*** SHOW DOWN ***
+Rukestaa: shows [8h Ad] (a pair of Aces)
+HuntingWerner: mucks hand 
+Rukestaa collected $1.72 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [6c 9d 5c As Jc]
+Seat 2: HuntingWerner (button) (small blind) mucked
+Seat 6: Rukestaa (big blind) showed [8h Ad] and won ($1.72) with a pair of Aces
+
+
+
+PokerStars Hand #222978306603:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:42:42 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($30.55 in chips) 
+Seat 6: Rukestaa ($10.97 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978310792:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:42:49 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($30.45 in chips) 
+Seat 6: Rukestaa ($11.07 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: raises $0.60 to $0.80
+HuntingWerner: folds 
+Uncalled bet ($0.60) returned to Rukestaa
+Rukestaa collected $0.40 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 2: HuntingWerner (button) (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) collected ($0.40)
+
+
+
+PokerStars Hand #222978317299:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:42:59 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($30.25 in chips) 
+Seat 6: Rukestaa ($11.27 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: calls $0.20
+*** FLOP *** [Qd 3h Th]
+HuntingWerner: checks 
+Rukestaa: bets $0.29
+HuntingWerner: calls $0.29
+*** TURN *** [Qd 3h Th] [4h]
+HuntingWerner: checks 
+Rukestaa: bets $0.57
+HuntingWerner: calls $0.57
+*** RIVER *** [Qd 3h Th 4h] [Ah]
+HuntingWerner: checks 
+Rukestaa: checks 
+*** SHOW DOWN ***
+HuntingWerner: shows [Qc Jd] (a pair of Queens)
+Rukestaa: shows [Kc Ac] (a pair of Aces)
+Rukestaa collected $2.22 from pot
+*** SUMMARY ***
+Total pot $2.32 | Rake $0.10 
+Board [Qd 3h Th 4h Ah]
+Seat 2: HuntingWerner (big blind) showed [Qc Jd] and lost with a pair of Queens
+Seat 6: Rukestaa (button) (small blind) showed [Kc Ac] and won ($2.22) with a pair of Aces
+
+
+
+PokerStars Hand #222978340987:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:43:37 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($29.09 in chips) 
+Seat 6: Rukestaa ($12.33 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: calls $0.10
+*** FLOP *** [2s 5h 3h]
+Rukestaa: checks 
+HuntingWerner: bets $0.20
+Rukestaa: folds 
+Uncalled bet ($0.20) returned to HuntingWerner
+HuntingWerner collected $0.38 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [2s 5h 3h]
+Seat 2: HuntingWerner (button) (small blind) collected ($0.38)
+Seat 6: Rukestaa (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978350918:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:43:52 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($29.27 in chips) 
+Seat 6: Rukestaa ($12.13 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 6: Rukestaa (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978355391:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:43:59 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($29.32 in chips) 
+Seat 6: Rukestaa ($12.08 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: calls $0.10
+*** FLOP *** [5h 4c Tc]
+Rukestaa: checks 
+HuntingWerner: bets $0.20
+Rukestaa: calls $0.20
+*** TURN *** [5h 4c Tc] [Js]
+Rukestaa: checks 
+HuntingWerner: bets $0.30
+Rukestaa: calls $0.30
+*** RIVER *** [5h 4c Tc Js] [Jd]
+Rukestaa: checks 
+HuntingWerner: bets $0.50
+Rukestaa: folds 
+Uncalled bet ($0.50) returned to HuntingWerner
+HuntingWerner collected $1.34 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [5h 4c Tc Js Jd]
+Seat 2: HuntingWerner (button) (small blind) collected ($1.34)
+Seat 6: Rukestaa (big blind) folded on the River
+
+
+
+PokerStars Hand #222978387666:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:44:50 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($29.96 in chips) 
+Seat 6: Rukestaa ($11.38 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978393784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:45:00 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($29.86 in chips) 
+Seat 6: Rukestaa ($11.48 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: calls $0.10
+*** FLOP *** [Kh Ts 4h]
+Rukestaa: checks 
+HuntingWerner: bets $0.20
+Rukestaa: calls $0.20
+*** TURN *** [Kh Ts 4h] [3s]
+Rukestaa: checks 
+HuntingWerner: bets $0.30
+Rukestaa: calls $0.30
+*** RIVER *** [Kh Ts 4h 3s] [5d]
+Rukestaa: checks 
+HuntingWerner: checks 
+*** SHOW DOWN ***
+Rukestaa: shows [Jc Qc] (high card King)
+HuntingWerner: shows [8c 3d] (a pair of Threes)
+HuntingWerner collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [Kh Ts 4h 3s 5d]
+Seat 2: HuntingWerner (button) (small blind) showed [8c 3d] and won ($1.34) with a pair of Threes
+Seat 6: Rukestaa (big blind) showed [Jc Qc] and lost with high card King
+
+
+
+PokerStars Hand #222978416851:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:45:37 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($30.50 in chips) 
+Seat 6: Rukestaa ($10.78 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: folds 
+Uncalled bet ($0.05) returned to HuntingWerner
+HuntingWerner collected $0.10 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: HuntingWerner (big blind) collected ($0.10)
+Seat 6: Rukestaa (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978419753:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:45:42 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($30.55 in chips) 
+Seat 6: Rukestaa ($10.73 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: raises $0.60 to $0.80
+HuntingWerner: folds 
+Uncalled bet ($0.60) returned to Rukestaa
+Rukestaa collected $0.40 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 2: HuntingWerner (button) (small blind) folded before Flop
+Seat 6: Rukestaa (big blind) collected ($0.40)
+
+
+
+PokerStars Hand #222978431310:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:46:00 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($30.35 in chips) 
+Seat 6: Rukestaa ($10.93 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: folds 
+Uncalled bet ($0.20) returned to Rukestaa
+Rukestaa collected $0.20 from pot
+Rukestaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (big blind) folded before Flop
+Seat 6: Rukestaa (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222978437728:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:46:11 ET
+Table 'Golia III' 6-max Seat #2 is the button
+Seat 2: HuntingWerner ($30.25 in chips) 
+Seat 6: Rukestaa ($11.03 in chips) 
+HuntingWerner: posts small blind $0.05
+Rukestaa: posts big blind $0.10
+*** HOLE CARDS ***
+HuntingWerner: raises $0.10 to $0.20
+Rukestaa: folds 
+Uncalled bet ($0.10) returned to HuntingWerner
+HuntingWerner collected $0.20 from pot
+HuntingWerner: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: HuntingWerner (button) (small blind) collected ($0.20)
+Seat 6: Rukestaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #222978442873:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 18:46:19 ET
+Table 'Golia III' 6-max Seat #6 is the button
+Seat 2: HuntingWerner ($30.35 in chips) 
+Seat 6: Rukestaa ($10.93 in chips) 
+Rukestaa: posts small blind $0.05
+HuntingWerner: posts big blind $0.10
+*** HOLE CARDS ***
+Rukestaa: raises $0.20 to $0.30
+HuntingWerner: raises $0.60 to $0.90
+Rukestaa: calls $0.60
+*** FLOP *** [6d 4s 2h]
+HuntingWerner: bets $1
+Rukestaa: calls $1
+*** TURN *** [6d 4s 2h] [2s]
+HuntingWerner: checks 
+Rukestaa: checks 
+*** RIVER *** [6d 4s 2h 2s] [5c]
+HuntingWerner: checks 
+Rukestaa: checks 
+*** SHOW DOWN ***
+HuntingWerner: shows [Kc 6c] (two pair, Sixes and Deuces)
+Rukestaa: shows [8h 8d] (two pair, Eights and Deuces)
+Rukestaa collected $3.63 from pot
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.17 
+Board [6d 4s 2h 2s 5c]
+Seat 2: HuntingWerner (big blind) showed [Kc 6c] and lost with two pair, Sixes and Deuces
+Seat 6: Rukestaa (button) (small blind) showed [8h 8d] and won ($3.63) with two pair, Eights and Deuces
+
+
+

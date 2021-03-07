@@ -1,0 +1,201 @@
+ï»¿PokerStars Hand #222959824569:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 11:49:52 ET
+Table 'Thuringia II' 6-max Seat #2 is the button
+Seat 2: irieill (£14.44 in chips) 
+Seat 3: Lehi423 (£10 in chips) 
+Seat 6: Matbrown27 (£11.27 in chips) 
+Lehi423: posts small blind £0.05
+Matbrown27: posts big blind £0.10
+*** HOLE CARDS ***
+irieill: folds 
+Lehi423: raises £0.20 to £0.30
+Matbrown27: calls £0.20
+*** FLOP *** [8c Th Qs]
+Lehi423: checks 
+Matbrown27: bets £0.34
+Lehi423: calls £0.34
+*** TURN *** [8c Th Qs] [7d]
+Lehi423: checks 
+Matbrown27: bets £0.73
+Lehi423: calls £0.73
+*** RIVER *** [8c Th Qs 7d] [6h]
+Lehi423: bets £1.75
+Matbrown27: calls £1.75
+*** SHOW DOWN ***
+Lehi423: shows [As 9d] (a straight, Six to Ten)
+Matbrown27: mucks hand 
+Lehi423 collected £5.96 from pot
+*** SUMMARY ***
+Total pot £6.24 | Rake £0.28 
+Board [8c Th Qs 7d 6h]
+Seat 2: irieill (button) folded before Flop (didn't bet)
+Seat 3: Lehi423 (small blind) showed [As 9d] and won (£5.96) with a straight, Six to Ten
+Seat 6: Matbrown27 (big blind) mucked
+
+
+
+PokerStars Hand #222959857172:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 11:50:45 ET
+Table 'Thuringia II' 6-max Seat #3 is the button
+Seat 2: irieill (£14.44 in chips) 
+Seat 3: Lehi423 (£12.84 in chips) 
+Seat 6: Matbrown27 (£8.15 in chips) 
+Matbrown27: posts small blind £0.05
+irieill: posts big blind £0.10
+*** HOLE CARDS ***
+Lehi423: folds 
+Matbrown27: raises £0.15 to £0.25
+irieill: folds 
+Uncalled bet (£0.15) returned to Matbrown27
+Matbrown27 collected £0.20 from pot
+Matbrown27: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 2: irieill (big blind) folded before Flop
+Seat 3: Lehi423 (button) folded before Flop (didn't bet)
+Seat 6: Matbrown27 (small blind) collected (£0.20)
+
+
+
+PokerStars Hand #222959864108:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 11:50:56 ET
+Table 'Thuringia II' 6-max Seat #6 is the button
+Seat 2: irieill (£14.34 in chips) 
+Seat 3: Lehi423 (£12.84 in chips) 
+Seat 6: Matbrown27 (£8.25 in chips) 
+irieill: posts small blind £0.05
+Lehi423: posts big blind £0.10
+densamara_63: sits out 
+*** HOLE CARDS ***
+Matbrown27: folds 
+irieill: raises £0.20 to £0.30
+Lehi423: folds 
+Uncalled bet (£0.20) returned to irieill
+irieill collected £0.20 from pot
+irieill: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 2: irieill (small blind) collected (£0.20)
+Seat 3: Lehi423 (big blind) folded before Flop
+Seat 6: Matbrown27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959871131:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 11:51:07 ET
+Table 'Thuringia II' 6-max Seat #2 is the button
+Seat 2: irieill (£14.44 in chips) 
+Seat 3: Lehi423 (£12.74 in chips) 
+Seat 5: densamara_63 (£10 in chips) 
+Seat 6: Matbrown27 (£8.25 in chips) 
+Lehi423: posts small blind £0.05
+densamara_63: posts big blind £0.10
+*** HOLE CARDS ***
+Matbrown27: raises £0.15 to £0.25
+irieill: folds 
+Lehi423: folds 
+densamara_63: folds 
+Uncalled bet (£0.15) returned to Matbrown27
+Matbrown27 collected £0.25 from pot
+Matbrown27: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0 
+Seat 2: irieill (button) folded before Flop (didn't bet)
+Seat 3: Lehi423 (small blind) folded before Flop
+Seat 5: densamara_63 (big blind) folded before Flop
+Seat 6: Matbrown27 collected (£0.25)
+
+
+
+PokerStars Hand #222959878110:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 11:51:19 ET
+Table 'Thuringia II' 6-max Seat #3 is the button
+Seat 2: irieill (£14.44 in chips) 
+Seat 3: Lehi423 (£12.69 in chips) 
+Seat 5: densamara_63 (£10 in chips) 
+densamara_63: posts small blind £0.05
+Matbrown27: is sitting out 
+irieill: posts big blind £0.10
+*** HOLE CARDS ***
+Matbrown27 leaves the table
+Lehi423: folds 
+densamara_63: folds 
+Uncalled bet (£0.05) returned to irieill
+irieill collected £0.10 from pot
+irieill: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.10 | Rake £0 
+Seat 2: irieill (big blind) collected (£0.10)
+Seat 3: Lehi423 (button) folded before Flop (didn't bet)
+Seat 5: densamara_63 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222959882800:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 11:51:26 ET
+Table 'Thuringia II' 6-max Seat #2 is the button
+Seat 2: irieill (£14.49 in chips) 
+Seat 5: densamara_63 (£10 in chips) 
+irieill: posts small blind £0.05
+Lehi423: is sitting out 
+densamara_63: posts big blind £0.10
+*** HOLE CARDS ***
+Lehi423 leaves the table
+irieill: raises £0.15 to £0.25
+densamara_63: folds 
+Uncalled bet (£0.15) returned to irieill
+irieill collected £0.20 from pot
+irieill: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 2: irieill (button) (small blind) collected (£0.20)
+Seat 5: densamara_63 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222960535067:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 12:09:55 ET
+Table 'Thuringia II' 6-max Seat #1 is the button
+Seat 1: BodyaRoyal (£10 in chips) 
+Seat 2: evansr96 (£8 in chips) 
+BodyaRoyal: posts small blind £0.05
+evansr96: posts big blind £0.10
+*** HOLE CARDS ***
+BodyaRoyal: calls £0.05
+evansr96: checks 
+*** FLOP *** [5s Jd 9s]
+evansr96: checks 
+BodyaRoyal: bets £0.10
+evansr96: calls £0.10
+*** TURN *** [5s Jd 9s] [Ad]
+evansr96: checks 
+BodyaRoyal: checks 
+*** RIVER *** [5s Jd 9s Ad] [9d]
+evansr96: checks 
+BodyaRoyal: bets £0.52
+evansr96: folds 
+Uncalled bet (£0.52) returned to BodyaRoyal
+BodyaRoyal collected £0.38 from pot
+*** SUMMARY ***
+Total pot £0.40 | Rake £0.02 
+Board [5s Jd 9s Ad 9d]
+Seat 1: BodyaRoyal (button) (small blind) collected (£0.38)
+Seat 2: evansr96 (big blind) folded on the River
+
+
+
+PokerStars Hand #222960579788:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 12:11:06 ET
+Table 'Thuringia II' 6-max Seat #2 is the button
+Seat 1: BodyaRoyal (£10.18 in chips) 
+Seat 2: evansr96 (£7.80 in chips) 
+evansr96: posts small blind £0.05
+BodyaRoyal: posts big blind £0.10
+*** HOLE CARDS ***
+evansr96: calls £0.05
+BodyaRoyal: checks 
+*** FLOP *** [3h 6s 4h]
+BodyaRoyal: bets £0.10
+evansr96: folds 
+Uncalled bet (£0.10) returned to BodyaRoyal
+BodyaRoyal collected £0.19 from pot
+*** SUMMARY ***
+Total pot £0.20 | Rake £0.01 
+Board [3h 6s 4h]
+Seat 1: BodyaRoyal (big blind) collected (£0.19)
+Seat 2: evansr96 (button) (small blind) folded on the Flop
+
+
+

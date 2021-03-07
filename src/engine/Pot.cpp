@@ -1,8 +1,6 @@
 #include "PokerX/engine/Pot.h"
 #include "PokerX/Error.h"
 
-Pot::Pot(int value) : value_(static_cast<float>(value)) {};
-
 Pot::Pot(float value) : value_(value) {}
 
 Pot &Pot::operator+(const Pot &other) {

@@ -1,0 +1,3069 @@
+﻿PokerStars Hand #222981826419:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:38:40 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($11.14 in chips) 
+Seat 2: donnydoog ($6.90 in chips) 
+Seat 3: father here ($10.25 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+romanskiy1: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+father here: raises $0.20 to $0.30
+handbrake333: folds 
+romanskiy1: folds 
+FacuLarrocca: calls $0.20
+*** FLOP *** [5h Ah Ac]
+FacuLarrocca: checks 
+father here: bets $0.40
+FacuLarrocca: folds 
+Uncalled bet ($0.40) returned to father here
+father here collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5h Ah Ac]
+Seat 1: FacuLarrocca (big blind) folded on the Flop
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here collected ($0.62)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981841392:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:39:09 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($10.84 in chips) 
+Seat 2: donnydoog ($6.90 in chips) 
+Seat 3: father here ($10.57 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+FacuLarrocca: folds 
+donnydoog: calls $0.20
+*** FLOP *** [9h 6s 8h]
+donnydoog: checks 
+romanskiy1: bets $0.41
+donnydoog: folds 
+Uncalled bet ($0.41) returned to romanskiy1
+romanskiy1 collected $0.62 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9h 6s 8h]
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded on the Flop
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) collected ($0.62)
+
+
+
+PokerStars Hand #222981857283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:39:46 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($10.79 in chips) 
+Seat 2: donnydoog ($6.60 in chips) 
+Seat 3: father here ($10.57 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.32 in chips) 
+donnydoog: posts small blind $0.05
+father here: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+FacuLarrocca: folds 
+donnydoog: folds 
+father here: raises $0.70 to $1
+romanskiy1: folds 
+Uncalled bet ($0.70) returned to father here
+father here collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: father here (big blind) collected ($0.65)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop
+
+
+
+PokerStars Hand #222981873321:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:40:25 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($10.79 in chips) 
+Seat 2: donnydoog ($6.55 in chips) 
+Seat 3: father here ($10.92 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.02 in chips) 
+father here: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pbrosseau joins the table at seat #6 
+father here: raises $0.10 to $0.20
+handbrake333: calls $0.10
+*** FLOP *** [Qs 8s 8c]
+father here: checks 
+handbrake333: bets $0.25
+father here: folds 
+Uncalled bet ($0.25) returned to handbrake333
+handbrake333 collected $0.38 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Qs 8s 8c]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded before Flop (didn't bet)
+Seat 3: father here (small blind) folded on the Flop
+Seat 4: handbrake333 (big blind) collected ($0.38)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981894360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:41:14 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($10.79 in chips) 
+Seat 2: donnydoog ($6.55 in chips) 
+Seat 3: father here ($10.72 in chips) 
+Seat 4: handbrake333 ($10.18 in chips) 
+Seat 5: romanskiy1 ($10.02 in chips) 
+Seat 6: pbrosseau ($5 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+pbrosseau: posts big blind $0.10
+*** HOLE CARDS ***
+pbrosseau: checks 
+FacuLarrocca: folds 
+donnydoog: folds 
+father here: folds 
+handbrake333: calls $0.05
+romanskiy1: checks 
+*** FLOP *** [5c 7c 6d]
+handbrake333: checks 
+romanskiy1: checks 
+pbrosseau: bets $0.20
+handbrake333: folds 
+romanskiy1: folds 
+Uncalled bet ($0.20) returned to pbrosseau
+pbrosseau collected $0.29 from pot
+pbrosseau: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5c 7c 6d]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded on the Flop
+Seat 5: romanskiy1 (big blind) folded on the Flop
+Seat 6: pbrosseau collected ($0.29)
+
+
+
+PokerStars Hand #222981910450:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:41:53 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($10.79 in chips) 
+Seat 2: donnydoog ($6.55 in chips) 
+Seat 3: father here ($10.72 in chips) 
+Seat 4: handbrake333 ($10.08 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: pbrosseau ($5.19 in chips) 
+romanskiy1: posts small blind $0.05
+pbrosseau: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+father here: folds 
+handbrake333: folds 
+romanskiy1: folds 
+pbrosseau: checks 
+*** FLOP *** [3d Ad 8d]
+pbrosseau: checks 
+donnydoog: bets $0.10
+pbrosseau: folds 
+Uncalled bet ($0.10) returned to donnydoog
+donnydoog collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3d Ad 8d]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog collected ($0.24)
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: pbrosseau (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222981919604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:42:14 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($10.79 in chips) 
+Seat 2: donnydoog ($6.69 in chips) 
+Seat 3: father here ($10.72 in chips) 
+Seat 4: handbrake333 ($10.08 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: pbrosseau ($5.09 in chips) 
+pbrosseau: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: calls $0.10
+father here: raises $0.30 to $0.40
+handbrake333: folds 
+romanskiy1: folds 
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.30
+*** FLOP *** [9h 6s 7h]
+donnydoog: checks 
+father here: bets $0.50
+donnydoog: raises $0.50 to $1
+father here: folds 
+Uncalled bet ($0.50) returned to donnydoog
+donnydoog collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [9h 6s 7h]
+Seat 1: FacuLarrocca (big blind) folded before Flop
+Seat 2: donnydoog collected ($1.86)
+Seat 3: father here folded on the Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: pbrosseau (small blind) folded before Flop
+
+
+
+PokerStars Hand #222981939675:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:43:02 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($10.69 in chips) 
+Seat 2: donnydoog ($7.65 in chips) 
+Seat 3: father here ($10 in chips) 
+Seat 4: handbrake333 ($10.08 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: pbrosseau ($5.04 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+handbrake333: folds 
+romanskiy1: folds 
+pbrosseau: folds 
+FacuLarrocca: raises $0.20 to $0.30
+donnydoog: calls $0.20
+*** FLOP *** [2s 9c Ts]
+FacuLarrocca: checks 
+donnydoog: bets $0.29
+FacuLarrocca: folds 
+Uncalled bet ($0.29) returned to donnydoog
+donnydoog collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [2s 9c Ts]
+Seat 1: FacuLarrocca (small blind) folded on the Flop
+Seat 2: donnydoog (big blind) collected ($0.57)
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: pbrosseau (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981960015:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:43:32 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($10.39 in chips) 
+Seat 2: donnydoog ($7.92 in chips) 
+Seat 3: father here ($10 in chips) 
+Seat 4: handbrake333 ($10.08 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: pbrosseau ($5.04 in chips) 
+donnydoog: posts small blind $0.05
+father here: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: raises $0.20 to $0.30
+romanskiy1: folds 
+pbrosseau: calls $0.30
+FacuLarrocca: folds 
+donnydoog: calls $0.25
+father here: folds 
+*** FLOP *** [4c 6s 2d]
+donnydoog: checks 
+handbrake333: checks 
+pbrosseau: bets $0.30
+donnydoog: calls $0.30
+handbrake333: calls $0.30
+*** TURN *** [4c 6s 2d] [4s]
+donnydoog: bets $0.10
+handbrake333: folds 
+pbrosseau: calls $0.10
+*** RIVER *** [4c 6s 2d 4s] [3h]
+donnydoog: checks 
+pbrosseau: checks 
+*** SHOW DOWN ***
+donnydoog: shows [Ah 4h] (three of a kind, Fours)
+pbrosseau: mucks hand 
+donnydoog collected $2.01 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [4c 6s 2d 4s 3h]
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) showed [Ah 4h] and won ($2.01) with three of a kind, Fours
+Seat 3: father here (big blind) folded before Flop
+Seat 4: handbrake333 folded on the Turn
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: pbrosseau mucked
+
+
+
+PokerStars Hand #222981984685:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:44:22 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($10.39 in chips) 
+Seat 2: donnydoog ($9.23 in chips) 
+Seat 3: father here ($10 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: pbrosseau ($4.34 in chips) 
+father here: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+father here: calls $0.05
+handbrake333: checks 
+*** FLOP *** [Qs Kc 4d]
+father here: bets $0.20
+handbrake333: folds 
+donnydoog: folds 
+Uncalled bet ($0.20) returned to father here
+father here collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Qs Kc 4d]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded on the Flop
+Seat 3: father here (small blind) collected ($0.29)
+Seat 4: handbrake333 (big blind) folded on the Flop
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: pbrosseau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222981999934:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:44:58 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($10.39 in chips) 
+Seat 2: donnydoog ($9.13 in chips) 
+Seat 3: father here ($10.19 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: pbrosseau ($4.34 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+father here: folds 
+handbrake333: folds 
+Uncalled bet ($0.05) returned to romanskiy1
+romanskiy1 collected $0.10 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.10)
+Seat 6: pbrosseau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982010309:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:45:24 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($10.39 in chips) 
+Seat 2: donnydoog ($9.13 in chips) 
+Seat 3: father here ($10.19 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.05 in chips) 
+Seat 6: pbrosseau ($4.34 in chips) 
+romanskiy1: posts small blind $0.05
+pbrosseau: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+father here: folds 
+handbrake333: folds 
+romanskiy1: raises $0.30 to $0.40
+pbrosseau: folds 
+donnydoog: calls $0.30
+*** FLOP *** [5d 7h Jd]
+romanskiy1: checks 
+donnydoog: bets $0.43
+romanskiy1: raises $0.86 to $1.29
+donnydoog: folds 
+Uncalled bet ($0.86) returned to romanskiy1
+romanskiy1 collected $1.68 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [5d 7h Jd]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded on the Flop
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) collected ($1.68)
+Seat 6: pbrosseau (big blind) folded before Flop
+
+
+
+PokerStars Hand #222982024333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:45:58 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($10.39 in chips) 
+Seat 2: donnydoog ($8.30 in chips) 
+Seat 3: father here ($10.19 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.90 in chips) 
+Seat 6: pbrosseau ($4.24 in chips) 
+pbrosseau: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+father here: folds 
+handbrake333: folds 
+romanskiy1: folds 
+pbrosseau: calls $0.05
+FacuLarrocca: checks 
+*** FLOP *** [7d 2s 9d]
+pbrosseau: checks 
+FacuLarrocca: checks 
+*** TURN *** [7d 2s 9d] [3h]
+pbrosseau: checks 
+FacuLarrocca: checks 
+*** RIVER *** [7d 2s 9d 3h] [4d]
+pbrosseau: checks 
+FacuLarrocca: checks 
+*** SHOW DOWN ***
+pbrosseau: shows [Js Ts] (high card Jack)
+FacuLarrocca: shows [5h 7c] (a pair of Sevens)
+FacuLarrocca collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7d 2s 9d 3h 4d]
+Seat 1: FacuLarrocca (big blind) showed [5h 7c] and won ($0.19) with a pair of Sevens
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: pbrosseau (small blind) showed [Js Ts] and lost with high card Jack
+
+
+
+PokerStars Hand #222982033925:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:46:21 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($10.48 in chips) 
+Seat 2: donnydoog ($8.30 in chips) 
+Seat 3: father here ($10.19 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.90 in chips) 
+Seat 6: pbrosseau ($4.14 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: calls $0.30
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+*** FLOP *** [Ad Kd 3h]
+handbrake333: checks 
+romanskiy1: bets $0.48
+handbrake333: folds 
+Uncalled bet ($0.48) returned to romanskiy1
+romanskiy1 collected $0.72 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ad Kd 3h]
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded before Flop
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 folded on the Flop
+Seat 5: romanskiy1 collected ($0.72)
+Seat 6: pbrosseau (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982047550:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:46:54 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($10.43 in chips) 
+Seat 2: donnydoog ($8.20 in chips) 
+Seat 3: father here ($10.19 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.32 in chips) 
+Seat 6: pbrosseau ($4.14 in chips) 
+donnydoog: posts small blind $0.05
+father here: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.05) returned to father here
+father here collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: father here (big blind) collected ($0.10)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: pbrosseau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982052577:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:47:06 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($10.43 in chips) 
+Seat 2: donnydoog ($8.15 in chips) 
+Seat 3: father here ($10.24 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.32 in chips) 
+Seat 6: pbrosseau ($4.14 in chips) 
+father here: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+father here: raises $0.10 to $0.20
+handbrake333: calls $0.10
+*** FLOP *** [7d 4d Th]
+father here: checks 
+handbrake333: checks 
+*** TURN *** [7d 4d Th] [Kc]
+father here: checks 
+handbrake333: bets $0.29
+father here: calls $0.29
+*** RIVER *** [7d 4d Th Kc] [7s]
+father here: checks 
+handbrake333: checks 
+*** SHOW DOWN ***
+father here: shows [Ts 8s] (two pair, Tens and Sevens)
+handbrake333: mucks hand 
+father here collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [7d 4d Th Kc 7s]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded before Flop (didn't bet)
+Seat 3: father here (small blind) showed [Ts 8s] and won ($0.94) with two pair, Tens and Sevens
+Seat 4: handbrake333 (big blind) mucked
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: pbrosseau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982069690:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:47:48 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($10.43 in chips) 
+Seat 2: donnydoog ($8.15 in chips) 
+Seat 3: father here ($10.69 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.32 in chips) 
+Seat 6: pbrosseau ($4.14 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+pbrosseau: calls $0.10
+FacuLarrocca: folds 
+donnydoog: folds 
+father here: folds 
+handbrake333: folds 
+romanskiy1: raises $0.30 to $0.40
+pbrosseau: folds 
+Uncalled bet ($0.30) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.25)
+Seat 6: pbrosseau folded before Flop
+
+
+
+PokerStars Hand #222982080054:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:48:13 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($10.43 in chips) 
+Seat 2: donnydoog ($8.15 in chips) 
+Seat 3: father here ($10.69 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.47 in chips) 
+Seat 6: pbrosseau ($4.04 in chips) 
+romanskiy1: posts small blind $0.05
+pbrosseau: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: folds 
+father here: folds 
+handbrake333: folds 
+romanskiy1: folds 
+Uncalled bet ($0.05) returned to pbrosseau
+pbrosseau collected $0.10 from pot
+pbrosseau: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: pbrosseau (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222982085783:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:48:27 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($10.43 in chips) 
+Seat 2: donnydoog ($8.15 in chips) 
+Seat 3: father here ($10.69 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.42 in chips) 
+Seat 6: pbrosseau ($4.09 in chips) 
+pbrosseau: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+father here: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+pbrosseau: calls $0.25
+FacuLarrocca: raises $0.80 to $1.10
+romanskiy1: folds 
+pbrosseau: folds 
+Uncalled bet ($0.80) returned to FacuLarrocca
+FacuLarrocca collected $0.90 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 1: FacuLarrocca (big blind) collected ($0.90)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop
+Seat 6: pbrosseau (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982095206:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:48:50 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($11.03 in chips) 
+Seat 2: donnydoog ($8.15 in chips) 
+Seat 3: father here ($10.69 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.12 in chips) 
+Seat 6: pbrosseau ($3.79 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+pbrosseau: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded before Flop
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 collected ($0.25)
+Seat 6: pbrosseau (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982099325:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:49:00 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($10.98 in chips) 
+Seat 3: father here ($10.69 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.27 in chips) 
+Seat 6: pbrosseau ($3.79 in chips) 
+father here: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+pbrosseau: calls $0.10
+FacuLarrocca: folds 
+father here: folds 
+handbrake333: checks 
+*** FLOP *** [4d 8c Th]
+handbrake333: checks 
+pbrosseau: checks 
+*** TURN *** [4d 8c Th] [4c]
+handbrake333: checks 
+pbrosseau: checks 
+*** RIVER *** [4d 8c Th 4c] [Kd]
+handbrake333: checks 
+pbrosseau: checks 
+*** SHOW DOWN ***
+handbrake333: shows [7c 5h] (a pair of Fours)
+pbrosseau: shows [Ah Qd] (a pair of Fours - Ace kicker)
+pbrosseau collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4d 8c Th 4c Kd]
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 3: father here (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) showed [7c 5h] and lost with a pair of Fours
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: pbrosseau showed [Ah Qd] and won ($0.24) with a pair of Fours
+
+
+
+PokerStars Hand #222982114179:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:49:36 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($10.98 in chips) 
+Seat 3: father here ($10.64 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.27 in chips) 
+Seat 6: pbrosseau ($3.93 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+pbrosseau: folds 
+FacuLarrocca: folds 
+pbrosseau leaves the table
+father here: folds 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: calls $0.20
+*** FLOP *** [3d 5s Kc]
+handbrake333: checks 
+romanskiy1: bets $0.38
+handbrake333: folds 
+Uncalled bet ($0.38) returned to romanskiy1
+romanskiy1 collected $0.57 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [3d 5s Kc]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 3: father here (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded on the Flop
+Seat 5: romanskiy1 (big blind) collected ($0.57)
+Seat 6: pbrosseau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982128399:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:50:11 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($10.98 in chips) 
+Seat 3: father here ($10.64 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($11.54 in chips) 
+romanskiy1: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+donnydoog: sits out 
+*** HOLE CARDS ***
+omarcho9300 joins the table at seat #6 
+father here: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+FacuLarrocca: calls $0.20
+*** FLOP *** [8d Kh 7c]
+romanskiy1: checks 
+FacuLarrocca: bets $0.19
+romanskiy1: calls $0.19
+*** TURN *** [8d Kh 7c] [5d]
+romanskiy1: checks 
+FacuLarrocca: checks 
+*** RIVER *** [8d Kh 7c 5d] [6d]
+romanskiy1: bets $0.63
+FacuLarrocca: raises $1.65 to $2.28
+romanskiy1: folds 
+Uncalled bet ($1.65) returned to FacuLarrocca
+FacuLarrocca collected $2.14 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.24 | Rake $0.10 
+Board [8d Kh 7c 5d 6d]
+Seat 1: FacuLarrocca (big blind) collected ($2.14)
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded on the River
+
+
+
+PokerStars Hand #222982163386:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:51:37 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($12 in chips) 
+Seat 2: donnydoog ($8.05 in chips) 
+Seat 3: father here ($10.64 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.42 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+father here: folds 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.20
+*** FLOP *** [3c Tc Ad]
+donnydoog: checks 
+handbrake333: bets $0.47
+donnydoog: folds 
+Uncalled bet ($0.47) returned to handbrake333
+handbrake333 collected $0.62 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3c Tc Ad]
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded on the Flop
+Seat 3: father here folded before Flop (didn't bet)
+Seat 4: handbrake333 collected ($0.62)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982179148:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:52:15 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($11.95 in chips) 
+Seat 2: donnydoog ($7.75 in chips) 
+Seat 4: handbrake333 ($10.32 in chips) 
+Seat 5: romanskiy1 ($10.42 in chips) 
+donnydoog: posts small blind $0.05
+father here: is sitting out 
+handbrake333: posts big blind $0.10
+omarcho9300: sits out 
+*** HOLE CARDS ***
+romanskiy1: folds 
+FacuLarrocca: raises $0.15 to $0.25
+donnydoog: folds 
+handbrake333: folds 
+Uncalled bet ($0.15) returned to FacuLarrocca
+FacuLarrocca collected $0.25 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (button) collected ($0.25)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982184171:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:52:27 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($12.10 in chips) 
+Seat 2: donnydoog ($7.70 in chips) 
+Seat 4: handbrake333 ($10.22 in chips) 
+Seat 5: romanskiy1 ($10.42 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+omarcho9300: sits out 
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+handbrake333: folds 
+romanskiy1: checks 
+*** FLOP *** [Th As 5d]
+romanskiy1: checks 
+donnydoog: checks 
+*** TURN *** [Th As 5d] [7c]
+romanskiy1: checks 
+donnydoog: bets $0.24
+romanskiy1: calls $0.24
+*** RIVER *** [Th As 5d 7c] [Kc]
+romanskiy1: checks 
+donnydoog: bets $0.70
+romanskiy1: folds 
+Uncalled bet ($0.70) returned to donnydoog
+donnydoog collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Th As 5d 7c Kc]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) collected ($0.70)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) folded on the River
+
+
+
+PokerStars Hand #222982199306:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:53:05 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($12.10 in chips) 
+Seat 2: donnydoog ($8.06 in chips) 
+Seat 4: handbrake333 ($10.17 in chips) 
+Seat 5: romanskiy1 ($10.08 in chips) 
+Seat 6: omarcho9300 ($10 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.40 to $0.50
+donnydoog: calls $0.40
+*** FLOP *** [8d 6c Ts]
+father here leaves the table
+omarcho9300: checks 
+donnydoog: checks 
+*** TURN *** [8d 6c Ts] [8s]
+omarcho9300: bets $0.33
+donnydoog: folds 
+Uncalled bet ($0.33) returned to omarcho9300
+omarcho9300 collected $1 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [8d 6c Ts 8s]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded on the Turn
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) collected ($1)
+
+
+
+PokerStars Hand #222982222036:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:54:01 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($12.10 in chips) 
+Seat 4: handbrake333 ($10.17 in chips) 
+Seat 5: romanskiy1 ($10.03 in chips) 
+Seat 6: omarcho9300 ($10.50 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+Vlad Keks 77 joins the table at seat #3 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: calls $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+*** FLOP *** [Ts Qc 7h]
+handbrake333: checks 
+romanskiy1: bets $0.48
+handbrake333: folds 
+Uncalled bet ($0.48) returned to romanskiy1
+romanskiy1 collected $0.72 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ts Qc 7h]
+Seat 1: FacuLarrocca (big blind) folded before Flop
+Seat 4: handbrake333 folded on the Flop
+Seat 5: romanskiy1 (button) collected ($0.72)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982231463:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:54:24 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($12 in chips) 
+Seat 3: Vlad Keks 77 ($4.49 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.45 in chips) 
+Seat 6: omarcho9300 ($10.45 in chips) 
+FacuLarrocca: posts small blind $0.05
+Vlad Keks 77: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.15 to $0.25
+FacuLarrocca: folds 
+Vlad Keks 77: calls $0.15
+*** FLOP *** [6s Jc 4c]
+Vlad Keks 77: bets $0.20
+omarcho9300: raises $0.70 to $0.90
+Vlad Keks 77: folds 
+Uncalled bet ($0.70) returned to omarcho9300
+omarcho9300 collected $0.91 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6s Jc 4c]
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 3: Vlad Keks 77 (big blind) folded on the Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) collected ($0.91)
+
+
+
+PokerStars Hand #222982243551:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:54:55 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($11.95 in chips) 
+Seat 3: Vlad Keks 77 ($4.04 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.45 in chips) 
+Seat 6: omarcho9300 ($10.91 in chips) 
+Vlad Keks 77: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+Vlad Keks 77: folds 
+handbrake333: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 collected ($0.25)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982247519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:55:04 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($11.95 in chips) 
+Seat 3: Vlad Keks 77 ($3.99 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.60 in chips) 
+Seat 6: omarcho9300 ($10.91 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+Vlad Keks 77: folds 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: folds 
+Uncalled bet ($0.20) returned to handbrake333
+handbrake333 collected $0.20 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) collected ($0.20)
+Seat 5: romanskiy1 (big blind) folded before Flop
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982252386:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:55:18 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($11.95 in chips) 
+Seat 3: Vlad Keks 77 ($3.99 in chips) 
+Seat 4: handbrake333 ($10.10 in chips) 
+Seat 5: romanskiy1 ($10.50 in chips) 
+Seat 6: omarcho9300 ($10.91 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+Vlad Keks 77: raises $0.10 to $0.20
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: calls $0.10
+*** FLOP *** [Jd 3d 4s]
+omarcho9300: checks 
+Vlad Keks 77: checks 
+*** TURN *** [Jd 3d 4s] [Qc]
+omarcho9300: bets $0.40
+Vlad Keks 77: calls $0.40
+*** RIVER *** [Jd 3d 4s Qc] [7d]
+omarcho9300: bets $1.79
+Vlad Keks 77: folds 
+Uncalled bet ($1.79) returned to omarcho9300
+omarcho9300 collected $1.19 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jd 3d 4s Qc 7d]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 folded on the River
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) collected ($1.19)
+
+
+
+PokerStars Hand #222982267710:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:56:07 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($11.95 in chips) 
+Seat 3: Vlad Keks 77 ($3.39 in chips) 
+Seat 4: handbrake333 ($10.10 in chips) 
+Seat 5: romanskiy1 ($10.45 in chips) 
+Seat 6: omarcho9300 ($11.50 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (big blind) folded before Flop
+Seat 3: Vlad Keks 77 folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) collected ($0.25)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982274861:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:56:23 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($11.85 in chips) 
+Seat 3: Vlad Keks 77 ($3.39 in chips) 
+Seat 4: handbrake333 ($10.10 in chips) 
+Seat 5: romanskiy1 ($10.60 in chips) 
+Seat 6: omarcho9300 ($11.45 in chips) 
+FacuLarrocca: posts small blind $0.05
+Vlad Keks 77: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.15 to $0.25
+FacuLarrocca: raises $0.65 to $0.90
+Vlad Keks 77: folds 
+omarcho9300: folds 
+Uncalled bet ($0.65) returned to FacuLarrocca
+FacuLarrocca collected $0.60 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: FacuLarrocca (small blind) collected ($0.60)
+Seat 3: Vlad Keks 77 (big blind) folded before Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) folded before Flop
+
+
+
+PokerStars Hand #222982281680:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:56:45 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($12.20 in chips) 
+Seat 3: Vlad Keks 77 ($3.29 in chips) 
+Seat 4: handbrake333 ($10.10 in chips) 
+Seat 5: romanskiy1 ($10.60 in chips) 
+Seat 6: omarcho9300 ($11.20 in chips) 
+Vlad Keks 77: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+Vlad Keks 77: calls $0.05
+handbrake333: checks 
+*** FLOP *** [Td Ad 7c]
+Vlad Keks 77: checks 
+handbrake333: checks 
+*** TURN *** [Td Ad 7c] [Ts]
+Vlad Keks 77: checks 
+handbrake333: checks 
+*** RIVER *** [Td Ad 7c Ts] [2d]
+Vlad Keks 77: checks 
+handbrake333: checks 
+*** SHOW DOWN ***
+Vlad Keks 77: shows [5s Qs] (a pair of Tens)
+handbrake333: mucks hand 
+Vlad Keks 77 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Td Ad 7c Ts 2d]
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (small blind) showed [5s Qs] and won ($0.19) with a pair of Tens
+Seat 4: handbrake333 (big blind) mucked
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982293981:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:57:24 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($12.20 in chips) 
+Seat 3: Vlad Keks 77 ($3.38 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.60 in chips) 
+Seat 6: omarcho9300 ($11.20 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+Vlad Keks 77: calls $0.10
+handbrake333: folds 
+romanskiy1: raises $0.30 to $0.40
+Vlad Keks 77: folds 
+Uncalled bet ($0.30) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (button) folded before Flop
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.25)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982300330:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:57:44 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($12.20 in chips) 
+Seat 3: Vlad Keks 77 ($3.28 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.75 in chips) 
+Seat 6: omarcho9300 ($11.20 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+Vlad Keks 77: calls $0.10
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: checks 
+*** FLOP *** [3c 4h 2d]
+omarcho9300: checks 
+Vlad Keks 77: bets $0.10
+omarcho9300: calls $0.10
+*** TURN *** [3c 4h 2d] [2h]
+omarcho9300: checks 
+Vlad Keks 77: checks 
+*** RIVER *** [3c 4h 2d 2h] [6s]
+omarcho9300: bets $0.65
+Vlad Keks 77: folds 
+Uncalled bet ($0.65) returned to omarcho9300
+omarcho9300 collected $0.43 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [3c 4h 2d 2h 6s]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 folded on the River
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) collected ($0.43)
+
+
+
+PokerStars Hand #222982318678:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:58:42 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($12.20 in chips) 
+Seat 3: Vlad Keks 77 ($3.08 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.70 in chips) 
+Seat 6: omarcho9300 ($11.43 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+Vlad Keks 77: calls $0.10
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: calls $0.20
+Vlad Keks 77: calls $0.20
+*** FLOP *** [Tc Qs Ac]
+FacuLarrocca: checks 
+Vlad Keks 77: checks 
+romanskiy1: checks 
+*** TURN *** [Tc Qs Ac] [9d]
+FacuLarrocca: checks 
+Vlad Keks 77: bets $0.30
+romanskiy1: folds 
+FacuLarrocca: folds 
+Uncalled bet ($0.30) returned to Vlad Keks 77
+Vlad Keks 77 collected $0.91 from pot
+Vlad Keks 77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Tc Qs Ac 9d]
+Seat 1: FacuLarrocca (big blind) folded on the Turn
+Seat 3: Vlad Keks 77 collected ($0.91)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded on the Turn
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982333374:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:59:29 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($11.90 in chips) 
+Seat 3: Vlad Keks 77 ($3.69 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.40 in chips) 
+Seat 6: omarcho9300 ($11.38 in chips) 
+FacuLarrocca: posts small blind $0.05
+Vlad Keks 77: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: raises $0.20 to $0.30
+Vlad Keks 77: folds 
+Uncalled bet ($0.20) returned to FacuLarrocca
+FacuLarrocca collected $0.20 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: FacuLarrocca (small blind) collected ($0.20)
+Seat 3: Vlad Keks 77 (big blind) folded before Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982337821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 20:59:43 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($12 in chips) 
+Seat 3: Vlad Keks 77 ($3.59 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.40 in chips) 
+Seat 6: omarcho9300 ($11.38 in chips) 
+Vlad Keks 77: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: raises $0.15 to $0.25
+Vlad Keks 77: folds 
+handbrake333: folds 
+Uncalled bet ($0.15) returned to FacuLarrocca
+FacuLarrocca collected $0.25 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (button) collected ($0.25)
+Seat 3: Vlad Keks 77 (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982344147:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:00:02 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($12.15 in chips) 
+Seat 2: donnydoog ($7.56 in chips) 
+Seat 3: Vlad Keks 77 ($3.54 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10.40 in chips) 
+Seat 6: omarcho9300 ($11.38 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+donnydoog: posts small & big blinds $0.15
+*** HOLE CARDS ***
+omarcho9300: raises $0.40 to $0.50
+FacuLarrocca: folds 
+donnydoog: folds 
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: calls $0.40
+*** FLOP *** [Ac Jc 8c]
+romanskiy1: checks 
+omarcho9300: checks 
+*** TURN *** [Ac Jc 8c] [As]
+romanskiy1: checks 
+omarcho9300: checks 
+*** RIVER *** [Ac Jc 8c As] [7d]
+romanskiy1: checks 
+omarcho9300: checks 
+*** SHOW DOWN ***
+romanskiy1: shows [6d 6s] (two pair, Aces and Sixes)
+omarcho9300: shows [Jh Qd] (two pair, Aces and Jacks)
+omarcho9300 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Ac Jc 8c As 7d]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) showed [6d 6s] and lost with two pair, Aces and Sixes
+Seat 6: omarcho9300 showed [Jh Qd] and won ($1.15) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #222982373278:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:01:07 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($12.15 in chips) 
+Seat 2: donnydoog ($7.41 in chips) 
+Seat 3: Vlad Keks 77 ($3.54 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($12.03 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: folds 
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: calls $0.20
+*** FLOP *** [9d Th Ac]
+romanskiy1: bets $0.38
+omarcho9300: raises $1 to $1.38
+romanskiy1: calls $1
+*** TURN *** [9d Th Ac] [7c]
+romanskiy1: checks 
+omarcho9300: bets $2.80
+romanskiy1: calls $2.80
+*** RIVER *** [9d Th Ac 7c] [Jc]
+romanskiy1: checks 
+omarcho9300: checks 
+*** SHOW DOWN ***
+romanskiy1: shows [Ts Tc] (three of a kind, Tens)
+omarcho9300: shows [8h Jh] (a straight, Seven to Jack)
+omarcho9300 collected $8.56 from pot
+*** SUMMARY ***
+Total pot $8.96 | Rake $0.40 
+Board [9d Th Ac 7c Jc]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) showed [Ts Tc] and lost with three of a kind, Tens
+Seat 6: omarcho9300 (big blind) showed [8h Jh] and won ($8.56) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #222982431667:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:03:08 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($12.15 in chips) 
+Seat 2: donnydoog ($7.41 in chips) 
+Seat 3: Vlad Keks 77 ($3.54 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.11 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: calls $0.10
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: checks 
+*** FLOP *** [3c Ts 8d]
+FacuLarrocca: checks 
+donnydoog: checks 
+*** TURN *** [3c Ts 8d] [5d]
+FacuLarrocca: bets $0.18
+donnydoog: calls $0.18
+*** RIVER *** [3c Ts 8d 5d] [2s]
+FacuLarrocca: checks 
+donnydoog: checks 
+*** SHOW DOWN ***
+FacuLarrocca: shows [Jh 3s] (a pair of Threes)
+donnydoog: mucks hand 
+FacuLarrocca collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.03 
+Board [3c Ts 8d 5d 2s]
+Seat 1: FacuLarrocca (big blind) showed [Jh 3s] and won ($0.58) with a pair of Threes
+Seat 2: donnydoog mucked
+Seat 3: Vlad Keks 77 folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982449671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:03:51 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($12.45 in chips) 
+Seat 2: donnydoog ($7.13 in chips) 
+Seat 3: Vlad Keks 77 ($3.54 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.06 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+Vlad Keks 77: calls $0.10
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.40 to $0.50
+FacuLarrocca: folds 
+donnydoog: folds 
+Vlad Keks 77: folds 
+Uncalled bet ($0.40) returned to omarcho9300
+omarcho9300 collected $0.35 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded before Flop
+Seat 3: Vlad Keks 77 folded before Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) collected ($0.35)
+
+
+
+PokerStars Hand #222982457486:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:04:10 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($12.40 in chips) 
+Seat 2: donnydoog ($7.03 in chips) 
+Seat 3: Vlad Keks 77 ($3.44 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.31 in chips) 
+donnydoog: posts small blind $0.05
+Vlad Keks 77: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: raises $0.15 to $0.25
+donnydoog: calls $0.20
+Vlad Keks 77: folds 
+*** FLOP *** [Qc Jd 3h]
+donnydoog: checks 
+FacuLarrocca: bets $0.19
+donnydoog: folds 
+Uncalled bet ($0.19) returned to FacuLarrocca
+FacuLarrocca collected $0.57 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qc Jd 3h]
+Seat 1: FacuLarrocca (button) collected ($0.57)
+Seat 2: donnydoog (small blind) folded on the Flop
+Seat 3: Vlad Keks 77 (big blind) folded before Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982471175:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:04:43 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($12.72 in chips) 
+Seat 2: donnydoog ($6.78 in chips) 
+Seat 3: Vlad Keks 77 ($3.34 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.31 in chips) 
+Vlad Keks 77: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.30
+Vlad Keks 77: folds 
+handbrake333: folds 
+*** FLOP *** [Tc 6c 6h]
+romanskiy1: checks 
+donnydoog: checks 
+*** TURN *** [Tc 6c 6h] [3s]
+romanskiy1: checks 
+donnydoog: checks 
+*** RIVER *** [Tc 6c 6h 3s] [4s]
+romanskiy1: checks 
+donnydoog: checks 
+*** SHOW DOWN ***
+romanskiy1: shows [Qd Kd] (a pair of Sixes)
+donnydoog: shows [Ac 8d] (a pair of Sixes - Ace kicker)
+donnydoog collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Tc 6c 6h 3s 4s]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) showed [Ac 8d] and won ($0.72) with a pair of Sixes
+Seat 3: Vlad Keks 77 (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 showed [Qd Kd] and lost with a pair of Sixes
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982483689:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:05:13 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($12.72 in chips) 
+Seat 2: donnydoog ($7.20 in chips) 
+Seat 3: Vlad Keks 77 ($3.29 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.31 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: raises $0.20 to $0.30
+FacuLarrocca: folds 
+donnydoog: folds 
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: folds 
+Uncalled bet ($0.20) returned to omarcho9300
+omarcho9300 collected $0.25 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) folded before Flop
+Seat 6: omarcho9300 collected ($0.25)
+
+
+
+PokerStars Hand #222982491831:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:05:32 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($12.72 in chips) 
+Seat 2: donnydoog ($7.20 in chips) 
+Seat 3: Vlad Keks 77 ($3.29 in chips) 
+Seat 4: handbrake333 ($10 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.46 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+Vlad Keks 77: calls $0.10
+handbrake333: raises $0.30 to $0.40
+romanskiy1: folds 
+omarcho9300: folds 
+donnydoog: calls $0.30
+Vlad Keks 77: calls $0.30
+*** FLOP *** [9s 6s 5d]
+donnydoog: checks 
+Vlad Keks 77: checks 
+handbrake333: checks 
+*** TURN *** [9s 6s 5d] [2c]
+donnydoog: checks 
+Vlad Keks 77: checks 
+handbrake333: checks 
+*** RIVER *** [9s 6s 5d 2c] [Jc]
+donnydoog: checks 
+Vlad Keks 77: checks 
+handbrake333: checks 
+*** SHOW DOWN ***
+donnydoog: shows [Ks Qc] (high card King)
+Vlad Keks 77: mucks hand 
+handbrake333: shows [Kh As] (high card Ace)
+handbrake333 collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [9s 6s 5d 2c Jc]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog showed [Ks Qc] and lost with high card King
+Seat 3: Vlad Keks 77 mucked
+Seat 4: handbrake333 (button) showed [Kh As] and won ($1.29) with high card Ace
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222982513873:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:06:26 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($12.72 in chips) 
+Seat 2: donnydoog ($6.80 in chips) 
+Seat 3: Vlad Keks 77 ($2.89 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.36 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: calls $0.20
+*** FLOP *** [7d Qd 8h]
+FacuLarrocca: checks 
+romanskiy1: bets $0.31
+FacuLarrocca: calls $0.31
+*** TURN *** [7d Qd 8h] [2s]
+FacuLarrocca: checks 
+romanskiy1: checks 
+*** RIVER *** [7d Qd 8h 2s] [6s]
+FacuLarrocca: checks 
+romanskiy1: checks 
+*** SHOW DOWN ***
+FacuLarrocca: shows [5d 9d] (a straight, Five to Nine)
+romanskiy1: mucks hand 
+FacuLarrocca collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [7d Qd 8h 2s 6s]
+Seat 1: FacuLarrocca (big blind) showed [5d 9d] and won ($1.21) with a straight, Five to Nine
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) mucked
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982533012:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:07:12 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($13.32 in chips) 
+Seat 2: donnydoog ($6.80 in chips) 
+Seat 3: Vlad Keks 77 ($2.89 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($16.31 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+Vlad Keks 77: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded before Flop
+Seat 3: Vlad Keks 77 folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 collected ($0.25)
+Seat 6: omarcho9300 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982541694:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:07:32 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($13.27 in chips) 
+Seat 2: donnydoog ($6.70 in chips) 
+Seat 3: Vlad Keks 77 ($2.89 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+Seat 6: omarcho9300 ($16.31 in chips) 
+donnydoog: posts small blind $0.05
+Vlad Keks 77: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.20 to $0.30
+FacuLarrocca: raises $0.60 to $0.90
+donnydoog: folds 
+Vlad Keks 77: folds 
+omarcho9300: calls $0.60
+*** FLOP *** [3h Qh 4d]
+omarcho9300: checks 
+FacuLarrocca: bets $0.93
+omarcho9300: folds 
+Uncalled bet ($0.93) returned to FacuLarrocca
+FacuLarrocca collected $1.86 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [3h Qh 4d]
+Seat 1: FacuLarrocca (button) collected ($1.86)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: Vlad Keks 77 (big blind) folded before Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded on the Flop
+
+
+
+PokerStars Hand #222982559564:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:08:15 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($14.23 in chips) 
+Seat 2: donnydoog ($6.65 in chips) 
+Seat 3: Vlad Keks 77 ($2.79 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+Seat 6: omarcho9300 ($15.41 in chips) 
+Vlad Keks 77: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: raises $0.20 to $0.30
+FacuLarrocca: folds 
+donnydoog: folds 
+Vlad Keks 77: folds 
+handbrake333: folds 
+Uncalled bet ($0.20) returned to omarcho9300
+omarcho9300 collected $0.25 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 collected ($0.25)
+
+
+
+PokerStars Hand #222982564955:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:08:29 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($14.23 in chips) 
+Seat 2: donnydoog ($6.65 in chips) 
+Seat 3: Vlad Keks 77 ($2.74 in chips) 
+Seat 4: handbrake333 ($10.79 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+Seat 6: omarcho9300 ($15.56 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: raises $0.20 to $0.30
+FacuLarrocca: folds 
+donnydoog: folds 
+Vlad Keks 77: calls $0.30
+handbrake333: folds 
+romanskiy1: folds 
+*** FLOP *** [Qc 8c 6c]
+omarcho9300: checks 
+Vlad Keks 77: bets $0.46
+omarcho9300: calls $0.46
+*** TURN *** [Qc 8c 6c] [9s]
+omarcho9300: checks 
+Vlad Keks 77: bets $1.98 and is all-in
+omarcho9300: calls $1.98
+*** RIVER *** [Qc 8c 6c 9s] [8h]
+*** SHOW DOWN ***
+omarcho9300: shows [Ac 2c] (a flush, Ace high)
+Vlad Keks 77: shows [Qs Tc] (two pair, Queens and Eights)
+omarcho9300 collected $5.38 from pot
+*** SUMMARY ***
+Total pot $5.63 | Rake $0.25 
+Board [Qc 8c 6c 9s 8h]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: Vlad Keks 77 (button) showed [Qs Tc] and lost with two pair, Queens and Eights
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) folded before Flop
+Seat 6: omarcho9300 showed [Ac 2c] and won ($5.38) with a flush, Ace high
+
+
+
+PokerStars Hand #222982589140:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:09:28 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($14.23 in chips) 
+Seat 2: donnydoog ($6.65 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($10.05 in chips) 
+Seat 6: omarcho9300 ($18.20 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+Vlad Keks 77 leaves the table
+donnydoog: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.20 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) collected ($0.20)
+Seat 6: omarcho9300 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222982595458:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:09:43 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($14.23 in chips) 
+Seat 2: donnydoog ($6.65 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+Seat 6: omarcho9300 ($18.10 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+Uncalled bet ($0.20) returned to handbrake333
+handbrake333 collected $0.25 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (big blind) folded before Flop
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 4: handbrake333 collected ($0.25)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982600613:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:09:55 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($14.13 in chips) 
+Seat 2: donnydoog ($6.65 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+Seat 6: omarcho9300 ($18.05 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.15 to $0.25
+FacuLarrocca: folds 
+donnydoog: calls $0.15
+*** FLOP *** [2d Qs 4d]
+donnydoog: bets $0.10
+omarcho9300: folds 
+Uncalled bet ($0.10) returned to donnydoog
+donnydoog collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2d Qs 4d]
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) collected ($0.53)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) folded on the Flop
+
+
+
+PokerStars Hand #222982608946:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:10:15 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.93 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+Seat 6: omarcho9300 ($17.80 in chips) 
+donnydoog: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+handbrake333: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 collected ($0.25)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982613184:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:10:25 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.88 in chips) 
+Seat 4: handbrake333 ($10.79 in chips) 
+Seat 5: romanskiy1 ($10.30 in chips) 
+Seat 6: omarcho9300 ($17.80 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+handbrake333: raises $0.40 to $0.50
+romanskiy1: folds 
+donnydoog: calls $0.40
+*** FLOP *** [7d 3s Jc]
+handbrake333: checks 
+pezao sp joins the table at seat #3 
+donnydoog: checks 
+*** TURN *** [7d 3s Jc] [As]
+handbrake333: bets $1.05
+donnydoog: folds 
+Uncalled bet ($1.05) returned to handbrake333
+handbrake333 collected $1.05 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [7d 3s Jc As]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded on the Turn
+Seat 4: handbrake333 (small blind) collected ($1.05)
+Seat 5: romanskiy1 (big blind) folded before Flop
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982628017:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:11:01 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.38 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.20 in chips) 
+Seat 6: omarcho9300 ($17.80 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+pezao sp: sits out 
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.20 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) collected ($0.20)
+Seat 6: omarcho9300 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222982635413:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:11:19 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.38 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.30 in chips) 
+Seat 6: omarcho9300 ($17.70 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+pezao sp: sits out 
+*** HOLE CARDS ***
+donnydoog: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+Uncalled bet ($0.05) returned to FacuLarrocca
+FacuLarrocca collected $0.10 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca (big blind) collected ($0.10)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982639907:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:11:30 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($14.13 in chips) 
+Seat 2: donnydoog ($6.38 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.30 in chips) 
+Seat 6: omarcho9300 ($17.65 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+pezao sp: sits out 
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.15 to $0.25
+FacuLarrocca: folds 
+donnydoog: calls $0.15
+*** FLOP *** [Qd 7c 4d]
+donnydoog: checks 
+omarcho9300: bets $0.17
+donnydoog: folds 
+Uncalled bet ($0.17) returned to omarcho9300
+omarcho9300 collected $0.53 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Qd 7c 4d]
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded on the Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) collected ($0.53)
+
+
+
+PokerStars Hand #222982653145:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:12:02 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.13 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.30 in chips) 
+Seat 6: omarcho9300 ($17.93 in chips) 
+donnydoog: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.05) returned to pezao sp
+pezao sp collected $0.10 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: pezao sp (big blind) collected ($0.10)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982669708:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:12:32 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.08 in chips) 
+Seat 3: pezao sp ($10.05 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.30 in chips) 
+Seat 6: omarcho9300 ($17.93 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pezao sp: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded before Flop (didn't bet)
+Seat 3: pezao sp (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) collected ($0.10)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982676320:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:12:48 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($6.08 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.39 in chips) 
+Seat 5: romanskiy1 ($10.30 in chips) 
+Seat 6: omarcho9300 ($17.93 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: checks 
+*** FLOP *** [3s 3d Qs]
+romanskiy1: checks 
+donnydoog: checks 
+*** TURN *** [3s 3d Qs] [Kc]
+romanskiy1: bets $0.24
+donnydoog: folds 
+Uncalled bet ($0.24) returned to romanskiy1
+romanskiy1 collected $0.24 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3s 3d Qs Kc]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded on the Turn
+Seat 3: pezao sp (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.24)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982692591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:13:27 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($5.98 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.44 in chips) 
+Seat 6: omarcho9300 ($17.93 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog has timed out
+donnydoog: folds 
+pezao sp: raises $0.15 to $0.25
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.65 to $0.90
+pezao sp: calls $0.65
+*** FLOP *** [Jc 8s 6c]
+omarcho9300: bets $0.71
+pezao sp: calls $0.71
+*** TURN *** [Jc 8s 6c] [3h]
+omarcho9300: checks 
+pezao sp: bets $2
+omarcho9300: calls $2
+*** RIVER *** [Jc 8s 6c 3h] [3c]
+omarcho9300: checks 
+pezao sp: checks 
+*** SHOW DOWN ***
+omarcho9300: shows [Jh Qh] (two pair, Jacks and Threes)
+pezao sp: mucks hand 
+omarcho9300 collected $6.94 from pot
+*** SUMMARY ***
+Total pot $7.27 | Rake $0.33 
+Board [Jc 8s 6c 3h 3c]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: pezao sp mucked
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) showed [Jh Qh] and won ($6.94) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #222982732504:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:15:05 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($14.08 in chips) 
+Seat 2: donnydoog ($5.98 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.34 in chips) 
+Seat 5: romanskiy1 ($10.39 in chips) 
+Seat 6: omarcho9300 ($21.26 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+pezao sp: folds 
+handbrake333: raises $0.20 to $0.30
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+Uncalled bet ($0.20) returned to handbrake333
+handbrake333 collected $0.25 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (big blind) folded before Flop
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 collected ($0.25)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982741900:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:15:28 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($13.98 in chips) 
+Seat 2: donnydoog ($5.98 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.49 in chips) 
+Seat 5: romanskiy1 ($10.39 in chips) 
+Seat 6: omarcho9300 ($21.21 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.15 to $0.25
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.15) returned to omarcho9300
+omarcho9300 collected $0.25 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded before Flop
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222982750442:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:15:49 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($13.93 in chips) 
+Seat 2: donnydoog ($5.88 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.49 in chips) 
+Seat 5: romanskiy1 ($10.39 in chips) 
+Seat 6: omarcho9300 ($21.36 in chips) 
+donnydoog: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: raises $0.20 to $0.30
+romanskiy1: raises $0.60 to $0.90
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pezao sp: folds 
+handbrake333: folds 
+Uncalled bet ($0.60) returned to romanskiy1
+romanskiy1 collected $0.75 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: pezao sp (big blind) folded before Flop
+Seat 4: handbrake333 folded before Flop
+Seat 5: romanskiy1 collected ($0.75)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982762277:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:16:18 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($13.93 in chips) 
+Seat 2: donnydoog ($5.83 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.19 in chips) 
+Seat 5: romanskiy1 ($10.84 in chips) 
+Seat 6: omarcho9300 ($21.36 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pezao sp: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded before Flop (didn't bet)
+Seat 3: pezao sp (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) collected ($0.10)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982768539:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:16:33 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($13.93 in chips) 
+Seat 2: donnydoog ($5.83 in chips) 
+Seat 3: pezao sp ($10 in chips) 
+Seat 4: handbrake333 ($11.24 in chips) 
+Seat 5: romanskiy1 ($10.84 in chips) 
+Seat 6: omarcho9300 ($21.36 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pezao sp: raises $0.15 to $0.25
+handbrake333: folds 
+romanskiy1: folds 
+Uncalled bet ($0.15) returned to pezao sp
+pezao sp collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: pezao sp (button) collected ($0.25)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) folded before Flop
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982777766:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:16:56 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($13.93 in chips) 
+Seat 2: donnydoog ($5.83 in chips) 
+Seat 3: pezao sp ($10.15 in chips) 
+Seat 4: handbrake333 ($11.19 in chips) 
+Seat 5: romanskiy1 ($10.74 in chips) 
+Seat 6: omarcho9300 ($21.36 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: raises $0.20 to $0.30
+donnydoog: calls $0.30
+pezao sp: calls $0.30
+handbrake333: calls $0.30
+romanskiy1: folds 
+omarcho9300: calls $0.20
+*** FLOP *** [8c 5c 7c]
+omarcho9300: checks 
+FacuLarrocca: checks 
+donnydoog: checks 
+pezao sp: checks 
+handbrake333: checks 
+*** TURN *** [8c 5c 7c] [3d]
+omarcho9300: checks 
+FacuLarrocca: checks 
+donnydoog: checks 
+pezao sp: checks 
+handbrake333: checks 
+*** RIVER *** [8c 5c 7c 3d] [9c]
+omarcho9300: checks 
+FacuLarrocca: checks 
+donnydoog: checks 
+pezao sp: bets $2.22
+handbrake333: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($2.22) returned to pezao sp
+pezao sp collected $1.48 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [8c 5c 7c 3d 9c]
+Seat 1: FacuLarrocca folded on the River
+Seat 2: donnydoog folded on the River
+Seat 3: pezao sp collected ($1.48)
+Seat 4: handbrake333 (button) folded on the River
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) folded on the River
+
+
+
+PokerStars Hand #222982814216:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:18:17 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($13.63 in chips) 
+Seat 2: donnydoog ($5.53 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10.69 in chips) 
+Seat 6: omarcho9300 ($21.06 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: raises $0.80 to $1.10
+romanskiy1: calls $0.80
+*** FLOP *** [9d 2c 7h]
+FacuLarrocca: bets $1.08
+romanskiy1: calls $1.08
+*** TURN *** [9d 2c 7h] [5c]
+FacuLarrocca: bets $3.16
+romanskiy1: folds 
+Uncalled bet ($3.16) returned to FacuLarrocca
+FacuLarrocca collected $4.21 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.41 | Rake $0.20 
+Board [9d 2c 7h 5c]
+Seat 1: FacuLarrocca (big blind) collected ($4.21)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded on the Turn
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982830442:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:18:56 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($15.66 in chips) 
+Seat 2: donnydoog ($5.53 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($21.01 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.15 to $0.25
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.15) returned to omarcho9300
+omarcho9300 collected $0.25 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (small blind) folded before Flop
+Seat 2: donnydoog (big blind) folded before Flop
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222982833927:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:19:05 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($15.61 in chips) 
+Seat 2: donnydoog ($5.43 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($21.16 in chips) 
+donnydoog: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+Uncalled bet ($0.05) returned to pezao sp
+pezao sp collected $0.10 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop (didn't bet)
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: pezao sp (big blind) collected ($0.10)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982837896:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:19:15 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($15.61 in chips) 
+Seat 2: donnydoog ($5.38 in chips) 
+Seat 3: pezao sp ($11.38 in chips) 
+Seat 4: handbrake333 ($10.89 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($21.16 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: raises $0.20 to $0.30
+donnydoog: calls $0.30
+pezao sp: folds 
+handbrake333: folds 
+*** FLOP *** [9d Qh Kd]
+FacuLarrocca: checks 
+donnydoog: bets $0.10
+FacuLarrocca: raises $0.60 to $0.70
+donnydoog: calls $0.60
+*** TURN *** [9d Qh Kd] [4s]
+FacuLarrocca: bets $2
+donnydoog: folds 
+Uncalled bet ($2) returned to FacuLarrocca
+FacuLarrocca collected $2.05 from pot
+FacuLarrocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [9d Qh Kd 4s]
+Seat 1: FacuLarrocca collected ($2.05)
+Seat 2: donnydoog (button) folded on the Turn
+Seat 3: pezao sp (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982856591:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:20:01 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($16.66 in chips) 
+Seat 2: donnydoog ($4.38 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.79 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: omarcho9300 ($21.16 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: checks 
+*** FLOP *** [As 2h 7d]
+romanskiy1: checks 
+donnydoog: bets $0.12
+romanskiy1: calls $0.12
+*** TURN *** [As 2h 7d] [4c]
+romanskiy1: checks 
+donnydoog: bets $0.47
+romanskiy1: calls $0.47
+*** RIVER *** [As 2h 7d 4c] [7c]
+romanskiy1: bets $1.37
+donnydoog: calls $1.37
+*** SHOW DOWN ***
+romanskiy1: shows [5d 7s] (three of a kind, Sevens)
+donnydoog: mucks hand 
+romanskiy1 collected $3.98 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.19 
+Board [As 2h 7d 4c 7c]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog mucked
+Seat 3: pezao sp (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) showed [5d 7s] and won ($3.98) with three of a kind, Sevens
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982872716:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:20:41 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($16.66 in chips) 
+Seat 2: donnydoog ($2.32 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($11.92 in chips) 
+Seat 6: omarcho9300 ($21.16 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: raises $0.10 to $0.20
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: calls $0.10
+*** FLOP *** [2d 7c 5h]
+omarcho9300: checks 
+donnydoog: bets $0.43
+omarcho9300: folds 
+Uncalled bet ($0.43) returned to donnydoog
+donnydoog collected $0.43 from pot
+donnydoog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2d 7c 5h]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog collected ($0.43)
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222982883191:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:21:07 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 1: FacuLarrocca ($16.66 in chips) 
+Seat 2: donnydoog ($2.55 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($11.87 in chips) 
+Seat 6: omarcho9300 ($20.96 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: posts big blind $0.10
+*** HOLE CARDS ***
+donnydoog: folds 
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: raises $0.20 to $0.30
+omarcho9300: folds 
+FacuLarrocca: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: FacuLarrocca (big blind) folded before Flop
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) collected ($0.25)
+Seat 6: omarcho9300 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222982890448:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:21:25 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 1: FacuLarrocca ($16.56 in chips) 
+Seat 2: donnydoog ($2.55 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($12.02 in chips) 
+Seat 6: omarcho9300 ($20.91 in chips) 
+FacuLarrocca: posts small blind $0.05
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: raises $0.20 to $0.30
+donnydoog: calls $0.20
+*** FLOP *** [8c 8h Qs]
+FacuLarrocca: checks 
+donnydoog: checks 
+*** TURN *** [8c 8h Qs] [5c]
+FacuLarrocca: checks 
+donnydoog: checks 
+*** RIVER *** [8c 8h Qs 5c] [8s]
+FacuLarrocca: checks 
+donnydoog: checks 
+*** SHOW DOWN ***
+FacuLarrocca: shows [Td 7d] (three of a kind, Eights)
+donnydoog: mucks hand 
+FacuLarrocca collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8c 8h Qs 5c 8s]
+Seat 1: FacuLarrocca (small blind) showed [Td 7d] and won ($0.57) with three of a kind, Eights
+Seat 2: donnydoog (big blind) mucked
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982901804:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:21:54 ET
+Table 'Hansa' 6-max Seat #1 is the button
+Seat 1: FacuLarrocca ($16.83 in chips) 
+Seat 2: donnydoog ($2.25 in chips) 
+Seat 3: pezao sp ($11.33 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($12.02 in chips) 
+Seat 6: omarcho9300 ($20.91 in chips) 
+donnydoog: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.20 to $0.30
+FacuLarrocca: raises $0.60 to $0.90
+donnydoog: folds 
+pezao sp: folds 
+omarcho9300: raises $1.60 to $2.50
+FacuLarrocca: folds 
+Uncalled bet ($1.60) returned to omarcho9300
+omarcho9300 collected $1.95 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: FacuLarrocca (button) folded before Flop
+Seat 2: donnydoog (small blind) folded before Flop
+Seat 3: pezao sp (big blind) folded before Flop
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 collected ($1.95)
+
+
+
+PokerStars Hand #222982917019:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:22:32 ET
+Table 'Hansa' 6-max Seat #2 is the button
+Seat 1: FacuLarrocca ($15.93 in chips) 
+Seat 2: donnydoog ($2.20 in chips) 
+Seat 3: pezao sp ($11.23 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($12.02 in chips) 
+Seat 6: omarcho9300 ($21.96 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pezao sp: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog (button) folded before Flop (didn't bet)
+Seat 3: pezao sp (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) collected ($0.10)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982921862:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:22:44 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 1: FacuLarrocca ($15.93 in chips) 
+Seat 2: donnydoog ($2.20 in chips) 
+Seat 3: pezao sp ($11.18 in chips) 
+Seat 4: handbrake333 ($10.79 in chips) 
+Seat 5: romanskiy1 ($12.02 in chips) 
+Seat 6: omarcho9300 ($21.96 in chips) 
+handbrake333: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+FacuLarrocca: folds 
+donnydoog: folds 
+pezao sp: folds 
+handbrake333: folds 
+Uncalled bet ($0.05) returned to romanskiy1
+romanskiy1 collected $0.10 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded before Flop (didn't bet)
+Seat 3: pezao sp (button) folded before Flop (didn't bet)
+Seat 4: handbrake333 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.10)
+Seat 6: omarcho9300 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982927222:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:22:58 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 1: FacuLarrocca ($15.93 in chips) 
+Seat 2: donnydoog ($2.20 in chips) 
+Seat 3: pezao sp ($11.18 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($12.07 in chips) 
+Seat 6: omarcho9300 ($21.96 in chips) 
+romanskiy1: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+FacuLarrocca: folds 
+donnydoog: calls $0.10
+pezao sp: folds 
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: checks 
+*** FLOP *** [Jc 2s 9h]
+omarcho9300: checks 
+donnydoog: checks 
+*** TURN *** [Jc 2s 9h] [3d]
+omarcho9300: bets $0.18
+donnydoog: folds 
+Uncalled bet ($0.18) returned to omarcho9300
+omarcho9300 collected $0.24 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jc 2s 9h 3d]
+Seat 1: FacuLarrocca folded before Flop (didn't bet)
+Seat 2: donnydoog folded on the Turn
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+Seat 6: omarcho9300 (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #222982945746:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:23:27 ET
+Table 'Hansa' 6-max Seat #5 is the button
+Seat 2: donnydoog ($2.10 in chips) 
+Seat 3: pezao sp ($11.18 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($12.02 in chips) 
+Seat 6: omarcho9300 ($22.10 in chips) 
+omarcho9300: posts small blind $0.05
+FacuLarrocca: is sitting out 
+donnydoog: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+FacuLarrocca leaves the table
+handbrake333: folds 
+romanskiy1: folds 
+omarcho9300: raises $0.20 to $0.30
+donnydoog: calls $0.20
+*** FLOP *** [5s 8c 4c]
+omarcho9300: checks 
+donnydoog: bets $0.10
+omarcho9300: raises $0.20 to $0.30
+donnydoog: calls $0.20
+*** TURN *** [5s 8c 4c] [Qh]
+omarcho9300: bets $1.50
+donnydoog: calls $1.50 and is all-in
+*** RIVER *** [5s 8c 4c Qh] [2h]
+*** SHOW DOWN ***
+omarcho9300: shows [Ks Kd] (a pair of Kings)
+donnydoog: shows [Js Tc] (high card Queen)
+omarcho9300 collected $4.01 from pot
+*** SUMMARY ***
+Total pot $4.20 | Rake $0.19 
+Board [5s 8c 4c Qh 2h]
+Seat 2: donnydoog (big blind) showed [Js Tc] and lost with high card Queen
+Seat 3: pezao sp folded before Flop (didn't bet)
+Seat 4: handbrake333 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop (didn't bet)
+Seat 6: omarcho9300 (small blind) showed [Ks Kd] and won ($4.01) with a pair of Kings
+
+
+
+PokerStars Hand #222982974077:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:24:20 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 3: pezao sp ($11.18 in chips) 
+Seat 4: handbrake333 ($10.74 in chips) 
+Seat 5: romanskiy1 ($12.02 in chips) 
+Seat 6: omarcho9300 ($24.01 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+omarcho9300: folds 
+donnydoog leaves the table
+romanskiy1 leaves the table
+pezao sp: raises $0.20 to $0.30
+handbrake333: folds 
+Uncalled bet ($0.20) returned to pezao sp
+pezao sp collected $0.20 from pot
+pezao sp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: pezao sp (small blind) collected ($0.20)
+Seat 4: handbrake333 (big blind) folded before Flop
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+Seat 6: omarcho9300 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222982980284:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:24:35 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 3: pezao sp ($11.28 in chips) 
+Seat 4: handbrake333 ($10.64 in chips) 
+Seat 6: omarcho9300 ($24.01 in chips) 
+handbrake333: posts small blind $0.05
+omarcho9300: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: raises $0.15 to $0.25
+handbrake333: calls $0.20
+omarcho9300: calls $0.15
+*** FLOP *** [Th 8c Qc]
+handbrake333: checks 
+omarcho9300: checks 
+pezao sp: bets $0.40
+handbrake333: calls $0.40
+omarcho9300: folds 
+*** TURN *** [Th 8c Qc] [3h]
+handbrake333: checks 
+pezao sp: checks 
+*** RIVER *** [Th 8c Qc 3h] [6d]
+handbrake333: checks 
+pezao sp: bets $1.10
+handbrake333: calls $1.10
+*** SHOW DOWN ***
+pezao sp: shows [Ks Qs] (a pair of Queens)
+handbrake333: shows [Kh Qd] (a pair of Queens)
+handbrake333 collected $1.79 from pot
+pezao sp collected $1.79 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.17 
+Board [Th 8c Qc 3h 6d]
+Seat 3: pezao sp (button) showed [Ks Qs] and won ($1.79) with a pair of Queens
+Seat 4: handbrake333 (small blind) showed [Kh Qd] and won ($1.79) with a pair of Queens
+Seat 6: omarcho9300 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222983011768:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:25:55 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 3: pezao sp ($11.32 in chips) 
+Seat 4: handbrake333 ($10.68 in chips) 
+Seat 6: omarcho9300 ($23.76 in chips) 
+omarcho9300: posts small blind $0.05
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+omarcho9300: raises $0.20 to $0.30
+pezao sp: folds 
+Uncalled bet ($0.20) returned to omarcho9300
+omarcho9300 collected $0.20 from pot
+omarcho9300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: pezao sp (big blind) folded before Flop
+Seat 4: handbrake333 (button) folded before Flop (didn't bet)
+Seat 6: omarcho9300 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222983017239:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:26:09 ET
+Table 'Hansa' 6-max Seat #6 is the button
+Seat 3: pezao sp ($11.22 in chips) 
+Seat 4: handbrake333 ($10.68 in chips) 
+Seat 6: omarcho9300 ($23.86 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300: folds 
+pezao sp: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: pezao sp (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) collected ($0.10)
+Seat 6: omarcho9300 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222983022583:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:26:22 ET
+Table 'Hansa' 6-max Seat #4 is the button
+Seat 3: pezao sp ($11.17 in chips) 
+Seat 4: handbrake333 ($10.73 in chips) 
+handbrake333: posts small blind $0.05
+omarcho9300: is sitting out 
+pezao sp: posts big blind $0.10
+*** HOLE CARDS ***
+omarcho9300 leaves the table
+handbrake333: raises $0.20 to $0.30
+pezao sp: folds 
+Uncalled bet ($0.20) returned to handbrake333
+handbrake333 collected $0.20 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: pezao sp (big blind) folded before Flop
+Seat 4: handbrake333 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222983027659:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:26:35 ET
+Table 'Hansa' 6-max Seat #3 is the button
+Seat 3: pezao sp ($11.07 in chips) 
+Seat 4: handbrake333 ($10.83 in chips) 
+pezao sp: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+pezao sp: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: pezao sp (button) (small blind) folded before Flop
+Seat 4: handbrake333 (big blind) collected ($0.10)
+
+
+

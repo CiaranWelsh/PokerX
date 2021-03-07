@@ -79,6 +79,12 @@ namespace pokerx {
 
         virtual void setSeed(unsigned long long seed) = 0;
 
+        virtual void injectCommunityCards(const std::vector<ICard *>& cards) = 0;
+
+        virtual void injectCommunityCards(const std::initializer_list<ICard *> &cards) = 0;
+
+        [[nodiscard]] virtual const std::vector<ICard *> &getInjectedCommunityCards() const = 0;
+
     protected:
 
         /**
@@ -149,6 +155,16 @@ namespace pokerx {
          * Default to dollar.
          */
         std::string currencySymbol_ = "$";
+
+        /**
+         * @brief control the community cards by prividing them here.
+         * The first three, fourth then fifth will be used as the flop,
+         * turn and river respectively. This is used in testing and
+         * to reproduce games. Partial games are not supported right now
+         * so users should provide all 5 community cares. Later implementations
+         * could make it so that we could inject only the turn or river for example.
+         */
+        std::vector<ICard*> injectedCommunityCards_;
 
     };
 

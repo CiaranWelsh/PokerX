@@ -1,0 +1,242 @@
+﻿PokerStars Hand #222973673008:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:13 ET
+Table 'Gretia III' 6-max Seat #4 is the button
+Seat 1: Guslalala ($13.41 in chips) 
+Seat 2: Foddy12 ($24.29 in chips) 
+Seat 3: kubancheg ($5.28 in chips) 
+Seat 4: SKV_1985 ($12.62 in chips) 
+Seat 5: zacoz ($10.31 in chips) 
+Seat 6: and 07335 ($10 in chips) 
+zacoz: posts small blind $0.05
+and 07335: posts big blind $0.10
+kubancheg: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Guslalala: folds 
+Foddy12: raises $0.10 to $0.20
+kubancheg: calls $0.10
+SKV_1985: folds 
+zacoz: calls $0.15
+and 07335: folds 
+*** FLOP *** [Jh 2d Th]
+zacoz: bets $0.60
+Foddy12: calls $0.60
+kubancheg: calls $0.60
+*** TURN *** [Jh 2d Th] [3s]
+zacoz: bets $1.60
+Foddy12: calls $1.60
+kubancheg: folds 
+*** RIVER *** [Jh 2d Th 3s] [Kc]
+zacoz: bets $2.70
+Foddy12: raises $4.70 to $7.40
+zacoz: folds 
+Uncalled bet ($4.70) returned to Foddy12
+Foddy12 collected $10.65 from pot
+Foddy12: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.15 | Rake $0.50 
+Board [Jh 2d Th 3s Kc]
+Seat 1: Guslalala folded before Flop (didn't bet)
+Seat 2: Foddy12 collected ($10.65)
+Seat 3: kubancheg folded on the Turn
+Seat 4: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 5: zacoz (small blind) folded on the River
+Seat 6: and 07335 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973716618:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:28 ET
+Table 'Gretia III' 6-max Seat #5 is the button
+Seat 1: Guslalala ($13.41 in chips) 
+Seat 2: Foddy12 ($29.84 in chips) 
+Seat 3: kubancheg ($4.43 in chips) 
+Seat 4: SKV_1985 ($12.62 in chips) 
+Seat 5: zacoz ($10 in chips) 
+Seat 6: and 07335 ($10 in chips) 
+and 07335: posts small blind $0.05
+Guslalala: posts big blind $0.10
+*** HOLE CARDS ***
+Foddy12: raises $0.20 to $0.30
+kubancheg: folds 
+SKV_1985: folds 
+zacoz: calls $0.30
+and 07335: calls $0.25
+Guslalala: calls $0.20
+*** FLOP *** [2h 4d 5s]
+and 07335: checks 
+Guslalala: checks 
+Foddy12: checks 
+zacoz: checks 
+*** TURN *** [2h 4d 5s] [5h]
+and 07335: bets $0.76
+Guslalala: calls $0.76
+Foddy12: folds 
+zacoz: calls $0.76
+*** RIVER *** [2h 4d 5s 5h] [Jc]
+Foddy12 leaves the table
+and 07335: checks 
+Guslalala: checks 
+zacoz: checks 
+*** SHOW DOWN ***
+and 07335: shows [8c 8d] (two pair, Eights and Fives)
+Guslalala: mucks hand 
+zacoz: mucks hand 
+and 07335 collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.48 | Rake $0.16 
+Board [2h 4d 5s 5h Jc]
+Seat 1: Guslalala (big blind) mucked
+Seat 2: Foddy12 folded on the Turn
+Seat 3: kubancheg folded before Flop (didn't bet)
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: zacoz (button) mucked
+Seat 6: and 07335 (small blind) showed [8c 8d] and won ($3.32) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #222973749127:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:24 ET
+Table 'Gretia III' 6-max Seat #6 is the button
+Seat 1: Guslalala ($12.35 in chips) 
+Seat 3: kubancheg ($4.43 in chips) 
+Seat 4: SKV_1985 ($12.62 in chips) 
+Seat 5: zacoz ($10 in chips) 
+Seat 6: and 07335 ($12.26 in chips) 
+Guslalala: posts small blind $0.05
+kubancheg: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+zacoz: raises $0.30 to $0.40
+and 07335: folds 
+Guslalala: folds 
+kubancheg: folds 
+Uncalled bet ($0.30) returned to zacoz
+zacoz collected $0.25 from pot
+zacoz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Guslalala (small blind) folded before Flop
+Seat 3: kubancheg (big blind) folded before Flop
+Seat 4: SKV_1985 folded before Flop (didn't bet)
+Seat 5: zacoz collected ($0.25)
+Seat 6: and 07335 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973755898:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:35 ET
+Table 'Gretia III' 6-max Seat #1 is the button
+Seat 1: Guslalala ($12.30 in chips) 
+Seat 4: SKV_1985 ($12.62 in chips) 
+Seat 5: zacoz ($10.15 in chips) 
+Seat 6: and 07335 ($12.26 in chips) 
+SKV_1985: posts small blind $0.05
+zacoz: posts big blind $0.10
+*** HOLE CARDS ***
+rioma10 joins the table at seat #2 
+and 07335: folds 
+Guslalala: raises $0.14 to $0.24
+SKV_1985: folds 
+zacoz: folds 
+Uncalled bet ($0.14) returned to Guslalala
+Guslalala collected $0.25 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Guslalala (button) collected ($0.25)
+Seat 4: SKV_1985 (small blind) folded before Flop
+Seat 5: zacoz (big blind) folded before Flop
+Seat 6: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973763597:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:49 ET
+Table 'Gretia III' 6-max Seat #4 is the button
+Seat 1: Guslalala ($12.45 in chips) 
+Seat 4: SKV_1985 ($12.57 in chips) 
+Seat 5: zacoz ($10.05 in chips) 
+zacoz: posts small blind $0.05
+and 07335: is sitting out 
+Guslalala: posts big blind $0.10
+rioma10: sits out 
+*** HOLE CARDS ***
+SKV_1985: raises $0.20 to $0.30
+zacoz: folds 
+Guslalala: folds 
+Uncalled bet ($0.20) returned to SKV_1985
+SKV_1985 collected $0.25 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Guslalala (big blind) folded before Flop
+Seat 4: SKV_1985 (button) collected ($0.25)
+Seat 5: zacoz (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973768675:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:57 ET
+Table 'Gretia III' 6-max Seat #5 is the button
+Seat 1: Guslalala ($12.35 in chips) 
+Seat 2: rioma10 ($10 in chips) 
+Seat 4: SKV_1985 ($12.72 in chips) 
+Seat 5: zacoz ($10 in chips) 
+Guslalala: posts small blind $0.05
+rioma10: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: raises $0.20 to $0.30
+and 07335 leaves the table
+zacoz: folds 
+Guslalala: folds 
+rioma10: folds 
+Uncalled bet ($0.20) returned to SKV_1985
+SKV_1985 collected $0.25 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Guslalala (small blind) folded before Flop
+Seat 2: rioma10 (big blind) folded before Flop
+Seat 4: SKV_1985 collected ($0.25)
+Seat 5: zacoz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973775693:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:09 ET
+Table 'Gretia III' 6-max Seat #1 is the button
+Seat 1: Guslalala ($12.30 in chips) 
+Seat 2: rioma10 ($9.90 in chips) 
+Seat 5: zacoz ($10 in chips) 
+rioma10: posts small blind $0.05
+SKV_1985: is sitting out 
+zacoz: posts big blind $0.10
+*** HOLE CARDS ***
+Guslalala: raises $0.14 to $0.24
+SKV_1985 leaves the table
+rioma10: folds 
+zacoz: folds 
+Uncalled bet ($0.14) returned to Guslalala
+Guslalala collected $0.25 from pot
+Guslalala: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Guslalala (button) collected ($0.25)
+Seat 2: rioma10 (small blind) folded before Flop
+Seat 5: zacoz (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973782336:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:19 ET
+Table 'Gretia III' 6-max Seat #5 is the button
+Seat 2: rioma10 ($9.85 in chips) 
+Seat 5: zacoz ($10 in chips) 
+zacoz: posts small blind $0.05
+Guslalala: is sitting out 
+rioma10: posts big blind $0.10
+*** HOLE CARDS ***
+Guslalala leaves the table
+zacoz: folds 
+Uncalled bet ($0.05) returned to rioma10
+rioma10 collected $0.10 from pot
+rioma10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: rioma10 (big blind) collected ($0.10)
+Seat 5: zacoz (button) (small blind) folded before Flop
+
+
+

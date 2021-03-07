@@ -1,0 +1,3832 @@
+﻿PokerStars Hand #222969028496:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:23:40 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: w4lk3rad ($6.77 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.63 in chips) 
+Seat 5: nettasha ($13.13 in chips) 
+Seat 6: sampforeve ($14.16 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+w4lk3rad: folds 
+Yahan588: folds 
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: checks 
+*** FLOP *** [5d 8s 6h]
+sampforeve: checks 
+007hojoe: checks 
+*** TURN *** [5d 8s 6h] [6s]
+sampforeve: bets $0.16
+007hojoe: calls $0.16
+*** RIVER *** [5d 8s 6h 6s] [9h]
+sampforeve: checks 
+007hojoe: bets $0.10
+sampforeve: calls $0.10
+*** SHOW DOWN ***
+007hojoe: shows [9s 4s] (two pair, Nines and Sixes)
+sampforeve: mucks hand 
+007hojoe collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [5d 8s 6h 6s 9h]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: w4lk3rad folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) showed [9s 4s] and won ($0.74) with two pair, Nines and Sixes
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) mucked
+
+
+
+PokerStars Hand #222969078985:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:24:39 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: w4lk3rad ($6.77 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.01 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.80 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+w4lk3rad: folds 
+Yahan588: folds 
+007hojoe: calls $0.10
+w4lk3rad leaves the table
+nettasha: folds 
+sampforeve: folds 
+208joe: checks 
+*** FLOP *** [Kd 4s Qh]
+208joe: checks 
+007hojoe: checks 
+*** TURN *** [Kd 4s Qh] [9h]
+208joe: checks 
+kilativ7 joins the table at seat #2 
+007hojoe: checks 
+*** RIVER *** [Kd 4s Qh 9h] [Qs]
+208joe: checks 
+007hojoe: bets $0.30
+208joe: folds 
+Uncalled bet ($0.30) returned to 007hojoe
+007hojoe collected $0.24 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd 4s Qh 9h Qs]
+Seat 1: 208joe (big blind) folded on the River
+Seat 2: w4lk3rad folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe collected ($0.24)
+Seat 5: nettasha (button) folded before Flop (didn't bet)
+Seat 6: sampforeve (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969131059:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:25:40 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.15 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.75 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: folds 
+nettasha: raises $0.15 to $0.25
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Uncalled bet ($0.15) returned to nettasha
+nettasha collected $0.25 from pot
+nettasha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) folded before Flop
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha collected ($0.25)
+Seat 6: sampforeve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969142705:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:25:53 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.15 in chips) 
+Seat 5: nettasha ($13.23 in chips) 
+Seat 6: sampforeve ($13.75 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: calls $0.05
+Yahan588: checks 
+*** FLOP *** [Kd 7h 5s]
+kilativ7: checks 
+Yahan588: checks 
+007hojoe: bets $0.20
+kilativ7: folds 
+Yahan588: folds 
+Uncalled bet ($0.20) returned to 007hojoe
+007hojoe collected $0.29 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kd 7h 5s]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) folded on the Flop
+Seat 3: Yahan588 (big blind) folded on the Flop
+Seat 4: 007hojoe collected ($0.29)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969172671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:26:28 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.34 in chips) 
+Seat 5: nettasha ($13.23 in chips) 
+Seat 6: sampforeve ($13.75 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+nettasha: folds 
+sampforeve: folds 
+208joe: raises $0.20 to $0.30
+kilativ7: raises $0.60 to $0.90
+Yahan588: folds 
+007hojoe: folds 
+208joe: folds 
+Uncalled bet ($0.60) returned to kilativ7
+kilativ7 collected $0.75 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: 208joe folded before Flop
+Seat 2: kilativ7 (button) collected ($0.75)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969192123:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:26:51 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.45 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.24 in chips) 
+Seat 5: nettasha ($13.23 in chips) 
+Seat 6: sampforeve ($13.75 in chips) 
+007hojoe: posts small blind $0.05
+nettasha: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: folds 
+208joe: calls $0.10
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.05
+nettasha: checks 
+*** FLOP *** [As 8s 6h]
+007hojoe: checks 
+nettasha: checks 
+208joe: checks 
+*** TURN *** [As 8s 6h] [Jh]
+007hojoe: checks 
+nettasha: checks 
+208joe: checks 
+*** RIVER *** [As 8s 6h Jh] [6s]
+007hojoe: checks 
+nettasha: checks 
+208joe: bets $0.30
+007hojoe: folds 
+nettasha: folds 
+Uncalled bet ($0.30) returned to 208joe
+208joe collected $0.29 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [As 8s 6h Jh 6s]
+Seat 1: 208joe collected ($0.29)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded on the River
+Seat 5: nettasha (big blind) folded on the River
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969242132:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:27:50 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10.19 in chips) 
+Seat 2: kilativ7 ($10.45 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.14 in chips) 
+Seat 5: nettasha ($13.13 in chips) 
+Seat 6: sampforeve ($13.75 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: raises $0.20 to $0.30
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.30
+nettasha: folds 
+sampforeve: calls $0.20
+*** FLOP *** [Qs 6d 8h]
+sampforeve: checks 
+208joe: checks 
+007hojoe: bets $0.40
+sampforeve: folds 
+208joe: folds 
+Uncalled bet ($0.40) returned to 007hojoe
+007hojoe collected $0.91 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qs 6d 8h]
+Seat 1: 208joe folded on the Flop
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) collected ($0.91)
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222969265081:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:28:17 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.45 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.75 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.45 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: checks 
+*** FLOP *** [7c 2h Jd]
+208joe: bets $0.12
+007hojoe: folds 
+Uncalled bet ($0.12) returned to 208joe
+208joe collected $0.24 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7c 2h Jd]
+Seat 1: 208joe (big blind) collected ($0.24)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded on the Flop
+Seat 5: nettasha (button) folded before Flop (didn't bet)
+Seat 6: sampforeve (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969289112:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:28:45 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10.14 in chips) 
+Seat 2: kilativ7 ($10.45 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.65 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.40 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: checks 
+*** FLOP *** [8c 4s 6s]
+kilativ7: checks 
+007hojoe: checks 
+*** TURN *** [8c 4s 6s] [Ts]
+kilativ7: checks 
+007hojoe: bets $0.10
+kilativ7: calls $0.10
+*** RIVER *** [8c 4s 6s Ts] [Ah]
+kilativ7: checks 
+007hojoe: bets $0.10
+kilativ7: folds 
+Uncalled bet ($0.10) returned to 007hojoe
+007hojoe collected $0.43 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8c 4s 6s Ts Ah]
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) folded on the River
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe collected ($0.43)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969327362:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:29:29 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10.09 in chips) 
+Seat 2: kilativ7 ($10.25 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.88 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.40 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: folds 
+nettasha: folds 
+sampforeve: raises $0.15 to $0.25
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+Uncalled bet ($0.15) returned to sampforeve
+sampforeve collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) folded before Flop
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve collected ($0.25)
+
+
+
+PokerStars Hand #222969335917:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:29:39 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10.09 in chips) 
+Seat 2: kilativ7 ($10.20 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.88 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.55 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+Uncalled bet ($0.05) returned to 007hojoe
+007hojoe collected $0.10 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) collected ($0.10)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969346638:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:29:51 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10.09 in chips) 
+Seat 2: kilativ7 ($10.20 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.93 in chips) 
+Seat 5: nettasha ($13.08 in chips) 
+Seat 6: sampforeve ($13.55 in chips) 
+007hojoe: posts small blind $0.05
+nettasha: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: folds 
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+Uncalled bet ($0.15) returned to kilativ7
+kilativ7 collected $0.25 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 collected ($0.25)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: nettasha (big blind) folded before Flop
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969357322:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:30:03 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10.09 in chips) 
+Seat 2: kilativ7 ($10.35 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.88 in chips) 
+Seat 5: nettasha ($12.98 in chips) 
+Seat 6: sampforeve ($13.55 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: folds 
+Yahan588: raises $0.20 to $0.30
+007hojoe: calls $0.30
+nettasha: folds 
+sampforeve: calls $0.20
+*** FLOP *** [4s 9s Ts]
+sampforeve: checks 
+Yahan588: checks 
+007hojoe: checks 
+*** TURN *** [4s 9s Ts] [3h]
+sampforeve: checks 
+Yahan588: bets $0.48
+007hojoe: folds 
+sampforeve: folds 
+Uncalled bet ($0.48) returned to Yahan588
+Yahan588 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [4s 9s Ts 3h]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 collected ($0.91)
+Seat 4: 007hojoe (button) folded on the Turn
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222969393736:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:30:46 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10.09 in chips) 
+Seat 2: kilativ7 ($10.35 in chips) 
+Seat 3: Yahan588 ($10.61 in chips) 
+Seat 4: 007hojoe ($7.58 in chips) 
+Seat 5: nettasha ($12.93 in chips) 
+Seat 6: sampforeve ($13.25 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+sampforeve: raises $0.15 to $0.25
+208joe: folds 
+Uncalled bet ($0.15) returned to sampforeve
+sampforeve collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: 208joe (big blind) folded before Flop
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha (button) folded before Flop (didn't bet)
+Seat 6: sampforeve (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222969403675:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:30:57 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.35 in chips) 
+Seat 3: Yahan588 ($10.61 in chips) 
+Seat 4: 007hojoe ($7.58 in chips) 
+Seat 5: nettasha ($12.93 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: raises $0.20 to $0.30
+007hojoe: calls $0.30
+nettasha: folds 
+sampforeve: folds 
+208joe: calls $0.25
+kilativ7: folds 
+*** FLOP *** [2c Qc 5h]
+208joe: checks 
+Yahan588: bets $0.51
+007hojoe: calls $0.51
+208joe: raises $1.29 to $1.80
+Yahan588: folds 
+007hojoe: folds 
+Uncalled bet ($1.29) returned to 208joe
+208joe collected $2.42 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.11 
+Board [2c Qc 5h]
+Seat 1: 208joe (small blind) collected ($2.42)
+Seat 2: kilativ7 (big blind) folded before Flop
+Seat 3: Yahan588 folded on the Flop
+Seat 4: 007hojoe folded on the Flop
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969458943:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:31:48 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($11.61 in chips) 
+Seat 2: kilativ7 ($10.25 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.77 in chips) 
+Seat 5: nettasha ($12.93 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: calls $0.05
+Yahan588: checks 
+*** FLOP *** [Qd Kh 4s]
+kilativ7: bets $0.16
+Yahan588: folds 
+007hojoe: folds 
+Uncalled bet ($0.16) returned to kilativ7
+kilativ7 collected $0.29 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Qd Kh 4s]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) collected ($0.29)
+Seat 3: Yahan588 (big blind) folded on the Flop
+Seat 4: 007hojoe folded on the Flop
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969479660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:32:12 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($11.61 in chips) 
+Seat 2: kilativ7 ($10.44 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.67 in chips) 
+Seat 5: nettasha ($12.93 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+nettasha: folds 
+sampforeve: folds 
+208joe: raises $0.20 to $0.30
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+Uncalled bet ($0.20) returned to 208joe
+208joe collected $0.25 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe collected ($0.25)
+Seat 2: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969499236:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:32:35 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($11.76 in chips) 
+Seat 2: kilativ7 ($10.44 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.57 in chips) 
+Seat 5: nettasha ($12.93 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+007hojoe: posts small blind $0.05
+nettasha: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: folds 
+208joe: raises $0.20 to $0.30
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.25
+nettasha: calls $0.20
+*** FLOP *** [3s 5h 3c]
+007hojoe: checks 
+nettasha: checks 
+208joe: checks 
+*** TURN *** [3s 5h 3c] [6s]
+007hojoe: checks 
+nettasha: checks 
+208joe: checks 
+*** RIVER *** [3s 5h 3c 6s] [8c]
+007hojoe: checks 
+nettasha: checks 
+208joe: checks 
+*** SHOW DOWN ***
+007hojoe: shows [2d Ad] (a pair of Threes)
+nettasha: shows [Ac 2c] (a pair of Threes)
+208joe: mucks hand 
+007hojoe collected $0.43 from pot
+nettasha collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [3s 5h 3c 6s 8c]
+Seat 1: 208joe mucked
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) showed [2d Ad] and won ($0.43) with a pair of Threes
+Seat 5: nettasha (big blind) showed [Ac 2c] and won ($0.43) with a pair of Threes
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969545013:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:33:28 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($11.46 in chips) 
+Seat 2: kilativ7 ($10.44 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.70 in chips) 
+Seat 5: nettasha ($13.06 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+Uncalled bet ($0.05) returned to sampforeve
+sampforeve collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222969551434:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:33:35 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($11.46 in chips) 
+Seat 2: kilativ7 ($10.44 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.70 in chips) 
+Seat 5: nettasha ($13.01 in chips) 
+Seat 6: sampforeve ($13.40 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: checks 
+*** FLOP *** [Jh 9c 4c]
+208joe: checks 
+007hojoe: bets $0.10
+208joe: folds 
+Uncalled bet ($0.10) returned to 007hojoe
+007hojoe collected $0.24 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jh 9c 4c]
+Seat 1: 208joe (big blind) folded on the Flop
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe collected ($0.24)
+Seat 5: nettasha (button) folded before Flop (didn't bet)
+Seat 6: sampforeve (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969572498:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:34:00 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($11.36 in chips) 
+Seat 2: kilativ7 ($10.44 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.84 in chips) 
+Seat 5: nettasha ($13.01 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+sampforeve: folds 
+208joe: raises $0.20 to $0.30
+kilativ7: raises $0.60 to $0.90
+208joe: calls $0.60
+*** FLOP *** [Ks Qh 2d]
+208joe: checks 
+kilativ7: bets $0.65
+208joe: calls $0.65
+*** TURN *** [Ks Qh 2d] [3h]
+208joe: checks 
+kilativ7: bets $2.22
+208joe: folds 
+Uncalled bet ($2.22) returned to kilativ7
+kilativ7 collected $2.96 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.14 
+Board [Ks Qh 2d 3h]
+Seat 1: 208joe (small blind) folded on the Turn
+Seat 2: kilativ7 (big blind) collected ($2.96)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969609865:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:34:43 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.85 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($6.84 in chips) 
+Seat 5: nettasha ($13.01 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Yahan588: checks 
+*** FLOP *** [5d Ad Jh]
+Yahan588: bets $0.10
+007hojoe: calls $0.10
+*** TURN *** [5d Ad Jh] [3s]
+Yahan588: bets $0.10
+007hojoe: raises $0.10 to $0.20
+Yahan588: calls $0.10
+*** RIVER *** [5d Ad Jh 3s] [Jc]
+Yahan588: checks 
+007hojoe: bets $0.30
+Yahan588: calls $0.30
+*** SHOW DOWN ***
+007hojoe: shows [Jd Td] (three of a kind, Jacks)
+Yahan588: mucks hand 
+007hojoe collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [5d Ad Jh 3s Jc]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) mucked
+Seat 4: 007hojoe showed [Jd Td] and won ($1.38) with three of a kind, Jacks
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969666361:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:35:48 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.80 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.52 in chips) 
+Seat 5: nettasha ($13.01 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: folds 
+007hojoe: calls $0.15
+*** FLOP *** [7c 2d Kd]
+007hojoe: checks 
+kilativ7: checks 
+*** TURN *** [7c 2d Kd] [5h]
+007hojoe: checks 
+kilativ7: checks 
+*** RIVER *** [7c 2d Kd 5h] [Qh]
+007hojoe: checks 
+kilativ7: checks 
+*** SHOW DOWN ***
+007hojoe: shows [5c Ah] (a pair of Fives)
+kilativ7: mucks hand 
+007hojoe collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [7c 2d Kd 5h Qh]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 (button) mucked
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) showed [5c Ah] and won ($0.53) with a pair of Fives
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969704163:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:36:32 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.55 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.80 in chips) 
+Seat 5: nettasha ($13.01 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+007hojoe: posts small blind $0.05
+nettasha: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.05
+nettasha: checks 
+*** FLOP *** [Kd 8h 7c]
+007hojoe: bets $0.10
+nettasha: folds 
+Uncalled bet ($0.10) returned to 007hojoe
+007hojoe collected $0.19 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kd 8h 7c]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) collected ($0.19)
+Seat 5: nettasha (big blind) folded on the Flop
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969719845:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:36:50 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.55 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.89 in chips) 
+Seat 5: nettasha ($12.91 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+Uncalled bet ($0.05) returned to sampforeve
+sampforeve collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222969730434:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:37:03 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.55 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.89 in chips) 
+Seat 5: nettasha ($12.86 in chips) 
+Seat 6: sampforeve ($13.40 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: raises $0.20 to $0.30
+007hojoe: folds 
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+Uncalled bet ($0.20) returned to Yahan588
+Yahan588 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe (big blind) folded before Flop
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 collected ($0.25)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha (button) folded before Flop (didn't bet)
+Seat 6: sampforeve (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969744226:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:37:19 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.55 in chips) 
+Seat 3: Yahan588 ($10.15 in chips) 
+Seat 4: 007hojoe ($7.89 in chips) 
+Seat 5: nettasha ($12.86 in chips) 
+Seat 6: sampforeve ($13.35 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+nettasha: raises $0.30 to $0.40
+sampforeve: calls $0.40
+208joe: folds 
+kilativ7: folds 
+007hojoe: calls $0.30
+*** FLOP *** [7h 2d Qh]
+007hojoe: checks 
+nettasha: checks 
+sampforeve: checks 
+*** TURN *** [7h 2d Qh] [3h]
+007hojoe: checks 
+nettasha: checks 
+sampforeve: checks 
+*** RIVER *** [7h 2d Qh 3h] [9s]
+007hojoe: checks 
+nettasha: checks 
+sampforeve: checks 
+*** SHOW DOWN ***
+007hojoe: shows [Kc 6c] (high card King)
+nettasha: shows [Ad 6d] (high card Ace)
+sampforeve: shows [7c 8c] (a pair of Sevens)
+sampforeve collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [7h 2d Qh 3h 9s]
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) folded before Flop
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe showed [Kc 6c] and lost with high card King
+Seat 5: nettasha showed [Ad 6d] and lost with high card Ace
+Seat 6: sampforeve (button) showed [7c 8c] and won ($1.29) with a pair of Sevens
+
+
+
+PokerStars Hand #222969796161:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:38:20 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.45 in chips) 
+Seat 3: Yahan588 ($10.15 in chips) 
+Seat 4: 007hojoe ($7.49 in chips) 
+Seat 5: nettasha ($12.46 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Yahan588: checks 
+*** FLOP *** [3c Ac Kd]
+Yahan588: checks 
+007hojoe: checks 
+*** TURN *** [3c Ac Kd] [5h]
+Yahan588: checks 
+007hojoe: checks 
+*** RIVER *** [3c Ac Kd 5h] [7s]
+Yahan588: checks 
+007hojoe: checks 
+*** SHOW DOWN ***
+Yahan588: shows [Jd 9c] (high card Ace)
+007hojoe: shows [Qc 7d] (a pair of Sevens)
+007hojoe collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c Ac Kd 5h 7s]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) showed [Jd 9c] and lost with high card Ace
+Seat 4: 007hojoe showed [Qc 7d] and won ($0.24) with a pair of Sevens
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969847899:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:39:13 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.40 in chips) 
+Seat 3: Yahan588 ($10.05 in chips) 
+Seat 4: 007hojoe ($7.63 in chips) 
+Seat 5: nettasha ($12.46 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+nettasha: folds 
+sampforeve: folds 
+208joe: raises $0.20 to $0.30
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+Uncalled bet ($0.20) returned to 208joe
+208joe collected $0.25 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe collected ($0.25)
+Seat 2: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969868027:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:39:36 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10.15 in chips) 
+Seat 2: kilativ7 ($11.40 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.53 in chips) 
+Seat 5: nettasha ($12.46 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+007hojoe: posts small blind $0.05
+nettasha: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: raises $0.20 to $0.30
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+Uncalled bet ($0.20) returned to sampforeve
+sampforeve collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: nettasha (big blind) folded before Flop
+Seat 6: sampforeve collected ($0.25)
+
+
+
+PokerStars Hand #222969876660:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:39:47 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10.15 in chips) 
+Seat 2: kilativ7 ($11.40 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.48 in chips) 
+Seat 5: nettasha ($12.36 in chips) 
+Seat 6: sampforeve ($14.39 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: raises $0.20 to $0.30
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+sampforeve: folds 
+Uncalled bet ($0.20) returned to kilativ7
+kilativ7 collected $0.25 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 collected ($0.25)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) folded before Flop
+
+
+
+PokerStars Hand #222969888251:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:40:00 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10.15 in chips) 
+Seat 2: kilativ7 ($11.55 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.48 in chips) 
+Seat 5: nettasha ($12.31 in chips) 
+Seat 6: sampforeve ($14.29 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: raises $0.20 to $0.30
+Yahan588: folds 
+007hojoe: folds 
+nettasha: calls $0.30
+sampforeve: folds 
+208joe: calls $0.20
+*** FLOP *** [Td 8h Kd]
+208joe: checks 
+kilativ7: bets $0.68
+nettasha: calls $0.68
+208joe: folds 
+*** TURN *** [Td 8h Kd] [3s]
+kilativ7: bets $1.75
+nettasha: folds 
+Uncalled bet ($1.75) returned to kilativ7
+kilativ7 collected $2.21 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.31 | Rake $0.10 
+Board [Td 8h Kd 3s]
+Seat 1: 208joe (big blind) folded on the Flop
+Seat 2: kilativ7 collected ($2.21)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha (button) folded on the Turn
+Seat 6: sampforeve (small blind) folded before Flop
+
+
+
+PokerStars Hand #222969918043:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:40:36 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($12.78 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.48 in chips) 
+Seat 5: nettasha ($11.33 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: folds 
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+Uncalled bet ($0.05) returned to kilativ7
+kilativ7 collected $0.10 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) collected ($0.10)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969927237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:40:47 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($12.83 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.48 in chips) 
+Seat 5: nettasha ($11.33 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: folds 
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: calls $0.15
+*** FLOP *** [4h 2s 9d]
+kilativ7: bets $0.26
+Yahan588: folds 
+Uncalled bet ($0.26) returned to kilativ7
+kilativ7 collected $0.48 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4h 2s 9d]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) collected ($0.48)
+Seat 3: Yahan588 (big blind) folded on the Flop
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969956911:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:41:22 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($13.06 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.48 in chips) 
+Seat 5: nettasha ($11.33 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: folds 
+007hojoe: calls $0.15
+*** FLOP *** [As 9s 4s]
+007hojoe: bets $0.10
+kilativ7: raises $0.40 to $0.50
+007hojoe: folds 
+Uncalled bet ($0.40) returned to kilativ7
+kilativ7 collected $0.72 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [As 9s 4s]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 (button) collected ($0.72)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded on the Flop
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222969982640:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:41:53 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($13.43 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.13 in chips) 
+Seat 5: nettasha ($11.33 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+007hojoe: posts small blind $0.05
+nettasha: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: raises $0.10 to $0.20
+nettasha: calls $0.10
+*** FLOP *** [9d 7c 3s]
+007hojoe: bets $0.40
+nettasha: folds 
+Uncalled bet ($0.40) returned to 007hojoe
+007hojoe collected $0.38 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [9d 7c 3s]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) collected ($0.38)
+Seat 5: nettasha (big blind) folded on the Flop
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970007763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:23 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($13.43 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.31 in chips) 
+Seat 5: nettasha ($11.13 in chips) 
+Seat 6: sampforeve ($14.24 in chips) 
+nettasha: posts small blind $0.05
+sampforeve: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: raises $0.20 to $0.30
+Yahan588: raises $0.60 to $0.90
+007hojoe: folds 
+nettasha: folds 
+sampforeve: folds 
+kilativ7: folds 
+Uncalled bet ($0.60) returned to Yahan588
+Yahan588 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded before Flop
+Seat 3: Yahan588 collected ($0.75)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: nettasha (small blind) folded before Flop
+Seat 6: sampforeve (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970024045:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:42 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($13.13 in chips) 
+Seat 3: Yahan588 ($10.45 in chips) 
+Seat 5: nettasha ($11.08 in chips) 
+Seat 6: sampforeve ($14.14 in chips) 
+sampforeve: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: raises $0.20 to $0.30
+nettasha: folds 
+sampforeve: folds 
+208joe: folds 
+Uncalled bet ($0.20) returned to Yahan588
+Yahan588 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe (big blind) folded before Flop
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 collected ($0.25)
+Seat 5: nettasha (button) folded before Flop (didn't bet)
+Seat 6: sampforeve (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970034858:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:42:54 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($13.13 in chips) 
+Seat 3: Yahan588 ($10.60 in chips) 
+Seat 5: nettasha ($11.08 in chips) 
+Seat 6: sampforeve ($14.09 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+nettasha: folds 
+sampforeve: raises $0.15 to $0.25
+208joe: folds 
+kilativ7: calls $0.15
+*** FLOP *** [Th 8s 3d]
+kilativ7: checks 
+sampforeve: bets $0.17
+kilativ7: calls $0.17
+*** TURN *** [Th 8s 3d] [Td]
+kilativ7: bets $0.47
+sampforeve: calls $0.47
+*** RIVER *** [Th 8s 3d Td] [4d]
+kilativ7: bets $1.31
+sampforeve: raises $2.40 to $3.71
+kilativ7: folds 
+Uncalled bet ($2.40) returned to sampforeve
+sampforeve collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.45 | Rake $0.20 
+Board [Th 8s 3d Td 4d]
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) folded on the River
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 5: nettasha folded before Flop (didn't bet)
+Seat 6: sampforeve (button) collected ($4.25)
+
+
+
+PokerStars Hand #222970064571:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:43:30 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.93 in chips) 
+Seat 3: Yahan588 ($10.60 in chips) 
+Seat 6: sampforeve ($16.14 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve: folds 
+208joe: folds 
+kilativ7: folds 
+Uncalled bet ($0.05) returned to Yahan588
+Yahan588 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) collected ($0.10)
+Seat 6: sampforeve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970069176:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:43:35 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.88 in chips) 
+Seat 3: Yahan588 ($10.65 in chips) 
+Yahan588: posts small blind $0.05
+sampforeve: is sitting out 
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+sampforeve leaves the table
+kilativ7: folds 
+handbrake333 joins the table at seat #6 
+Yahan588: raises $0.20 to $0.30
+208joe: folds 
+Uncalled bet ($0.20) returned to Yahan588
+Yahan588 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: 208joe (big blind) folded before Flop
+Seat 2: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222970077492:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:43:45 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($10.75 in chips) 
+208joe: posts small blind $0.05
+kilativ7: is sitting out 
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+Uncalled bet ($0.05) returned to Yahan588
+Yahan588 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe (button) (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222970082619:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:43:51 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($10.80 in chips) 
+Seat 4: 007hojoe ($7.31 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+handbrake333: sits out 
+*** HOLE CARDS ***
+208joe: raises $0.20 to $0.30
+Yahan588: calls $0.25
+007hojoe: folds 
+*** FLOP *** [9s 7s 8d]
+Yahan588: checks 
+208joe: checks 
+*** TURN *** [9s 7s 8d] [4c]
+Yahan588: bets $0.49
+208joe: folds 
+Uncalled bet ($0.49) returned to Yahan588
+Yahan588 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [9s 7s 8d 4c]
+Seat 1: 208joe (button) folded on the Turn
+Seat 3: Yahan588 (small blind) collected ($0.67)
+Seat 4: 007hojoe (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970103784:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:44:16 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($11.17 in chips) 
+Seat 4: 007hojoe ($7.21 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+handbrake333: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+208joe: folds 
+Yahan588: folds 
+007hojoe: calls $0.05
+handbrake333: checks 
+*** FLOP *** [2c Js Kh]
+007hojoe: checks 
+handbrake333: bets $0.14
+007hojoe: folds 
+Uncalled bet ($0.14) returned to handbrake333
+handbrake333 collected $0.19 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c Js Kh]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded on the Flop
+Seat 6: handbrake333 (big blind) collected ($0.19)
+
+
+
+PokerStars Hand #222970121753:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:44:38 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($11.17 in chips) 
+Seat 4: 007hojoe ($7.11 in chips) 
+Seat 6: handbrake333 ($10.09 in chips) 
+handbrake333: posts small blind $0.05
+208joe: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+Yahan588: raises $0.20 to $0.30
+007hojoe: raises $0.20 to $0.50
+handbrake333: folds 
+208joe: folds 
+Yahan588: raises $1.30 to $1.80
+007hojoe: calls $1.30
+*** FLOP *** [2d 4s 6d]
+Yahan588: bets $5.40
+007hojoe: calls $5.31 and is all-in
+Uncalled bet ($0.09) returned to Yahan588
+*** TURN *** [2d 4s 6d] [3h]
+*** RIVER *** [2d 4s 6d 3h] [9h]
+*** SHOW DOWN ***
+Yahan588: shows [Kc As] (high card Ace)
+007hojoe: shows [Qh Qc] (a pair of Queens)
+007hojoe collected $13.72 from pot
+*** SUMMARY ***
+Total pot $14.37 | Rake $0.65 
+Board [2d 4s 6d 3h 9h]
+Seat 1: 208joe (big blind) folded before Flop
+Seat 3: Yahan588 showed [Kc As] and lost with high card Ace
+Seat 4: 007hojoe (button) showed [Qh Qc] and won ($13.72) with a pair of Queens
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970166097:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:45:30 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.88 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.72 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: raises $0.20 to $0.30
+007hojoe: folds 
+handbrake333: folds 
+208joe: folds 
+kilativ7: folds 
+Uncalled bet ($0.20) returned to Yahan588
+Yahan588 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) folded before Flop
+Seat 3: Yahan588 collected ($0.25)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970179136:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:45:46 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.78 in chips) 
+Seat 3: Yahan588 ($10.15 in chips) 
+Seat 4: 007hojoe ($13.72 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: folds 
+handbrake333: folds 
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: folds 
+Uncalled bet ($0.15) returned to kilativ7
+kilativ7 collected $0.20 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) collected ($0.20)
+Seat 3: Yahan588 (big blind) folded before Flop
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970193676:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:46:03 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.88 in chips) 
+Seat 3: Yahan588 ($10.05 in chips) 
+Seat 4: 007hojoe ($13.72 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+208joe: folds 
+kilativ7: folds 
+Yahan588: raises $0.20 to $0.30
+007hojoe: calls $0.20
+*** FLOP *** [8c 6h 9s]
+Yahan588: checks 
+007hojoe: checks 
+*** TURN *** [8c 6h 9s] [2s]
+Yahan588: checks 
+007hojoe: checks 
+*** RIVER *** [8c 6h 9s 2s] [Th]
+Yahan588: checks 
+007hojoe: bets $0.50
+Yahan588: folds 
+Uncalled bet ($0.50) returned to 007hojoe
+007hojoe collected $0.57 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8c 6h 9s 2s Th]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) folded on the River
+Seat 4: 007hojoe (big blind) collected ($0.57)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970228283:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:46:45 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($10.88 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.99 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+007hojoe: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: folds 
+007hojoe: calls $0.20
+handbrake333: calls $0.15
+*** FLOP *** [3d 8h 3h]
+007hojoe: checks 
+handbrake333: checks 
+kilativ7: checks 
+*** TURN *** [3d 8h 3h] [As]
+007hojoe: checks 
+handbrake333: bets $0.54
+kilativ7: calls $0.54
+007hojoe: folds 
+*** RIVER *** [3d 8h 3h As] [2s]
+handbrake333: checks 
+kilativ7: checks 
+*** SHOW DOWN ***
+handbrake333: shows [9s Qc] (a pair of Threes)
+kilativ7: shows [Th Ad] (two pair, Aces and Threes)
+kilativ7 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.08 
+Board [3d 8h 3h As 2s]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 showed [Th Ad] and won ($1.75) with two pair, Aces and Threes
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded on the Turn
+Seat 6: handbrake333 (big blind) showed [9s Qc] and lost with a pair of Threes
+
+
+
+PokerStars Hand #222970271249:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:47:36 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.84 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.74 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+handbrake333: folds 
+Uncalled bet ($0.05) returned to 208joe
+208joe collected $0.10 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe (big blind) collected ($0.10)
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970282019:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:47:49 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10.05 in chips) 
+Seat 2: kilativ7 ($11.84 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.74 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+208joe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+handbrake333: folds 
+208joe: folds 
+kilativ7: checks 
+*** FLOP *** [9s Ks Ac]
+kilativ7: checks 
+007hojoe: checks 
+*** TURN *** [9s Ks Ac] [8h]
+kilativ7: checks 
+007hojoe: checks 
+*** RIVER *** [9s Ks Ac 8h] [8d]
+kilativ7: checks 
+007hojoe: checks 
+*** SHOW DOWN ***
+kilativ7: shows [Jc 5s] (a pair of Eights)
+007hojoe: mucks hand 
+kilativ7 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9s Ks Ac 8h 8d]
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: kilativ7 (big blind) showed [Jc 5s] and won ($0.24) with a pair of Eights
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe mucked
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970310632:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:48:23 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.98 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.64 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: folds 
+handbrake333: folds 
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: calls $0.15
+*** FLOP *** [Th Ac As]
+kilativ7: bets $0.26
+Yahan588: folds 
+Uncalled bet ($0.26) returned to kilativ7
+kilativ7 collected $0.48 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Th Ac As]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: kilativ7 (small blind) collected ($0.48)
+Seat 3: Yahan588 (big blind) folded on the Flop
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970332157:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:48:49 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($12.21 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.64 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: raises $0.20 to $0.30
+208joe: folds 
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: folds 
+Uncalled bet ($0.20) returned to handbrake333
+handbrake333 collected $0.25 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 6: handbrake333 collected ($0.25)
+
+
+
+PokerStars Hand #222970340601:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:48:59 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($12.21 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.54 in chips) 
+Seat 6: handbrake333 ($10.15 in chips) 
+007hojoe: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+kilativ7: raises $0.15 to $0.25
+Yahan588: folds 
+007hojoe: calls $0.20
+handbrake333: calls $0.15
+*** FLOP *** [7c 8c 5s]
+007hojoe: checks 
+handbrake333: checks 
+kilativ7: checks 
+*** TURN *** [7c 8c 5s] [9c]
+007hojoe: bets $0.40
+handbrake333: folds 
+kilativ7: folds 
+Uncalled bet ($0.40) returned to 007hojoe
+007hojoe collected $0.72 from pot
+nettasha was removed from the table for failing to post
+nettasha leaves the table
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [7c 8c 5s 9c]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: kilativ7 folded on the Turn
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) collected ($0.72)
+Seat 6: handbrake333 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222970377421:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:49:44 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: kilativ7 ($11.96 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($14.01 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+Yahan588: folds 
+007hojoe: calls $0.10
+handbrake333: folds 
+kilativ7 leaves the table
+kilativ7 joins the table at seat #5 
+208joe: checks 
+*** FLOP *** [Jd 4s 5s]
+208joe: bets $0.12
+007hojoe: calls $0.12
+*** TURN *** [Jd 4s 5s] [9d]
+208joe: bets $0.24
+007hojoe: calls $0.24
+*** RIVER *** [Jd 4s 5s 9d] [Qs]
+208joe: checks 
+007hojoe: checks 
+*** SHOW DOWN ***
+208joe: shows [Td 5d] (a pair of Fives)
+007hojoe: shows [Ts Tc] (a pair of Tens)
+007hojoe collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [Jd 4s 5s 9d Qs]
+Seat 1: 208joe (big blind) showed [Td 5d] and lost with a pair of Fives
+Seat 2: kilativ7 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) showed [Ts Tc] and won ($0.93) with a pair of Tens
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970406083:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:18 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($14.48 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+208joe: posts small blind $0.05
+Yahan588: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+handbrake333: folds 
+208joe: folds 
+Yahan588: checks 
+*** FLOP *** [2c 5h 5d]
+Yahan588: checks 
+007hojoe: checks 
+*** TURN *** [2c 5h 5d] [Qs]
+Yahan588: checks 
+007hojoe: checks 
+*** RIVER *** [2c 5h 5d Qs] [3s]
+Yahan588: checks 
+007hojoe: checks 
+*** SHOW DOWN ***
+Yahan588: shows [7s Js] (a pair of Fives)
+007hojoe: mucks hand 
+Yahan588 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 5h 5d Qs 3s]
+Seat 1: 208joe (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) showed [7s Js] and won ($0.24) with a pair of Fives
+Seat 4: 007hojoe mucked
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970428800:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:46 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($10.14 in chips) 
+Seat 4: 007hojoe ($14.38 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+kilativ7: sits out 
+*** HOLE CARDS ***
+handbrake333: folds 
+208joe: folds 
+Yahan588: folds 
+Uncalled bet ($0.05) returned to 007hojoe
+007hojoe collected $0.10 from pot
+007hojoe: doesn't show hand 
+miroslav625 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) collected ($0.10)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970434500:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:50:52 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($10.09 in chips) 
+Seat 4: 007hojoe ($14.43 in chips) 
+Seat 5: kilativ7 ($11.96 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+miroslav625 is connected 
+miroslav625: sits out 
+*** HOLE CARDS ***
+handbrake333: folds 
+208joe: folds 
+Yahan588: folds 
+007hojoe: calls $0.05
+kilativ7: checks 
+*** FLOP *** [Ac 3d 3h]
+007hojoe: bets $0.10
+kilativ7: folds 
+Uncalled bet ($0.10) returned to 007hojoe
+007hojoe collected $0.19 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ac 3d 3h]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) collected ($0.19)
+Seat 5: kilativ7 (big blind) folded on the Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970447617:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:08 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 3: Yahan588 ($10.09 in chips) 
+Seat 4: 007hojoe ($14.52 in chips) 
+Seat 5: kilativ7 ($11.86 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+miroslav625: sits out 
+*** HOLE CARDS ***
+208joe: folds 
+Yahan588: raises $0.20 to $0.30
+007hojoe: calls $0.30
+kilativ7: raises $0.90 to $1.20
+handbrake333: folds 
+Yahan588: calls $0.90
+007hojoe: folds 
+*** FLOP *** [Qc 4d 7h]
+kilativ7: bets $0.93
+Yahan588: folds 
+Uncalled bet ($0.93) returned to kilativ7
+kilativ7 collected $2.67 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.80 | Rake $0.13 
+Board [Qc 4d 7h]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 3: Yahan588 folded on the Flop
+Seat 4: 007hojoe (button) folded before Flop
+Seat 5: kilativ7 (small blind) collected ($2.67)
+Seat 6: handbrake333 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970480853:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:51:48 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10 in chips) 
+Seat 2: miroslav625 ($4.17 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($14.22 in chips) 
+Seat 5: kilativ7 ($13.33 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+208joe: posts big blind $0.10
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+miroslav625: checks 
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+208joe: checks 
+*** FLOP *** [8h Kc 4s]
+208joe: checks 
+miroslav625: checks 
+007hojoe: bets $0.10
+208joe: calls $0.10
+miroslav625: folds 
+*** TURN *** [8h Kc 4s] [9h]
+208joe: checks 
+007hojoe: bets $0.10
+208joe: calls $0.10
+*** RIVER *** [8h Kc 4s 9h] [Ks]
+208joe: checks 
+007hojoe: bets $0.10
+208joe: calls $0.10
+*** SHOW DOWN ***
+007hojoe: shows [7d 8s] (two pair, Kings and Eights)
+208joe: shows [Ts 8d] (two pair, Kings and Eights - Ten kicker)
+208joe collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [8h Kc 4s 9h Ks]
+Seat 1: 208joe (big blind) showed [Ts 8d] and won ($0.91) with two pair, Kings and Eights
+Seat 2: miroslav625 folded on the Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe showed [7d 8s] and lost with two pair, Kings and Eights
+Seat 5: kilativ7 (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970506146:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:52:18 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10.51 in chips) 
+Seat 2: miroslav625 ($4.07 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.82 in chips) 
+Seat 5: kilativ7 ($13.33 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+208joe: posts small blind $0.05
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+208joe: folds 
+miroslav625: checks 
+*** FLOP *** [5s Kd Ac]
+miroslav625: checks 
+007hojoe: checks 
+*** TURN *** [5s Kd Ac] [3c]
+miroslav625: bets $0.20
+007hojoe: calls $0.20
+*** RIVER *** [5s Kd Ac 3c] [4h]
+miroslav625: bets $0.40
+007hojoe: folds 
+Uncalled bet ($0.40) returned to miroslav625
+miroslav625 collected $0.62 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5s Kd Ac 3c 4h]
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: miroslav625 (big blind) collected ($0.62)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded on the River
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970535055:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:52:52 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.39 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.52 in chips) 
+Seat 5: kilativ7 ($13.33 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: raises $0.10 to $0.20
+kilativ7: raises $0.60 to $0.80
+handbrake333: folds 
+208joe: folds 
+miroslav625: folds 
+Yahan588: folds 
+007hojoe: calls $0.60
+*** FLOP *** [5s Ad 6s]
+007hojoe: checks 
+kilativ7: bets $0.58
+007hojoe: calls $0.58
+*** TURN *** [5s Ad 6s] [Kd]
+007hojoe: bets $0.70
+kilativ7: calls $0.70
+*** RIVER *** [5s Ad 6s Kd] [Jc]
+007hojoe: bets $0.60
+kilativ7: calls $0.60
+*** SHOW DOWN ***
+007hojoe: shows [Qs Js] (a pair of Jacks)
+kilativ7: shows [Qd Qc] (a pair of Queens)
+kilativ7 collected $5.26 from pot
+*** SUMMARY ***
+Total pot $5.51 | Rake $0.25 
+Board [5s Ad 6s Kd Jc]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) folded before Flop
+Seat 4: 007hojoe showed [Qs Js] and lost with a pair of Jacks
+Seat 5: kilativ7 showed [Qd Qc] and won ($5.26) with a pair of Queens
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970578767:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:53:45 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.34 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($10.84 in chips) 
+Seat 5: kilativ7 ($15.91 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333 has timed out
+handbrake333: folds 
+208joe: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.40 to $0.50
+007hojoe: calls $0.40
+miroslav625: calls $0.40
+*** FLOP *** [4s As 3c]
+Yahan588: checks 
+007hojoe: bets $1.10
+miroslav625: folds 
+Yahan588: folds 
+Uncalled bet ($1.10) returned to 007hojoe
+007hojoe collected $1.43 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [4s As 3c]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: miroslav625 (button) folded on the Flop
+Seat 3: Yahan588 (small blind) folded on the Flop
+Seat 4: 007hojoe (big blind) collected ($1.43)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970634396:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:54:52 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($3.84 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.77 in chips) 
+Seat 5: kilativ7 ($15.91 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+208joe: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.30 to $0.40
+007hojoe: folds 
+kilativ7: folds 
+miroslav625: raises $3.44 to $3.84 and is all-in
+Yahan588: folds 
+Uncalled bet ($3.44) returned to miroslav625
+miroslav625 collected $0.95 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: miroslav625 collected ($0.95)
+Seat 3: Yahan588 (button) folded before Flop
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: kilativ7 (big blind) folded before Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970650169:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:12 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.39 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.72 in chips) 
+Seat 5: kilativ7 ($15.81 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: folds 
+kilativ7: calls $0.05
+handbrake333: checks 
+*** FLOP *** [6s Kh Td]
+kilativ7: checks 
+handbrake333: bets $0.22
+miroslav625: folds 
+kilativ7: folds 
+Uncalled bet ($0.22) returned to handbrake333
+handbrake333 collected $0.29 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6s Kh Td]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: miroslav625 folded on the Flop
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: kilativ7 (small blind) folded on the Flop
+Seat 6: handbrake333 (big blind) collected ($0.29)
+
+
+
+PokerStars Hand #222970663382:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:36 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.29 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.72 in chips) 
+Seat 5: kilativ7 ($15.71 in chips) 
+Seat 6: handbrake333 ($10.19 in chips) 
+handbrake333: posts small blind $0.05
+208joe: posts big blind $0.10
+*** HOLE CARDS ***
+miroslav625: folds 
+Yahan588: folds 
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: folds 
+Uncalled bet ($0.05) returned to 208joe
+208joe collected $0.10 from pot
+208joe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 208joe (big blind) collected ($0.10)
+Seat 2: miroslav625 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970673834:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:55:55 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: 208joe ($10.51 in chips) 
+Seat 2: miroslav625 ($4.29 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.72 in chips) 
+Seat 5: kilativ7 ($15.71 in chips) 
+Seat 6: handbrake333 ($10.14 in chips) 
+208joe: posts small blind $0.05
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: raises $0.20 to $0.30
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: folds 
+208joe: folds 
+miroslav625: folds 
+Uncalled bet ($0.20) returned to Yahan588
+Yahan588 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: 208joe (small blind) folded before Flop
+Seat 2: miroslav625 (big blind) folded before Flop
+Seat 3: Yahan588 collected ($0.25)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970687224:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:56:10 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.19 in chips) 
+Seat 3: Yahan588 ($10.15 in chips) 
+Seat 4: 007hojoe ($11.72 in chips) 
+Seat 5: kilativ7 ($15.71 in chips) 
+Seat 6: handbrake333 ($10.14 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: calls $0.10
+208joe: folds 
+miroslav625: calls $0.05
+Yahan588: checks 
+*** FLOP *** [2s Kc Ts]
+miroslav625: checks 
+Yahan588: checks 
+007hojoe: checks 
+handbrake333: checks 
+*** TURN *** [2s Kc Ts] [Kh]
+miroslav625: checks 
+Yahan588: checks 
+007hojoe: checks 
+handbrake333: checks 
+*** RIVER *** [2s Kc Ts Kh] [5h]
+miroslav625: checks 
+Yahan588: checks 
+007hojoe: bets $0.50
+handbrake333: folds 
+miroslav625: folds 
+Yahan588: folds 
+Uncalled bet ($0.50) returned to 007hojoe
+007hojoe collected $0.38 from pot
+007hojoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [2s Kc Ts Kh 5h]
+Seat 1: 208joe (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) folded on the River
+Seat 3: Yahan588 (big blind) folded on the River
+Seat 4: 007hojoe collected ($0.38)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded on the River
+
+
+
+PokerStars Hand #222970714656:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:56:58 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.09 in chips) 
+Seat 3: Yahan588 ($10.05 in chips) 
+Seat 4: 007hojoe ($12 in chips) 
+Seat 5: kilativ7 ($15.71 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+208joe: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: checks 
+*** FLOP *** [4c 5c Td]
+007hojoe: checks 
+miroslav625: bets $0.20
+007hojoe: folds 
+Uncalled bet ($0.20) returned to miroslav625
+miroslav625 collected $0.24 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4c 5c Td]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: miroslav625 (button) collected ($0.24)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded on the Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970727196:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:57:20 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.23 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.90 in chips) 
+Seat 5: kilativ7 ($15.71 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+208joe: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: raises $0.10 to $0.20
+kilativ7: folds 
+miroslav625: calls $0.10
+*** FLOP *** [Th 9d 7s]
+007hojoe: bets $0.30
+miroslav625: calls $0.30
+*** TURN *** [Th 9d 7s] [Jh]
+007hojoe: bets $0.30
+miroslav625: calls $0.30
+*** RIVER *** [Th 9d 7s Jh] [8c]
+007hojoe: bets $0.30
+miroslav625: calls $0.30
+*** SHOW DOWN ***
+007hojoe: shows [Kc Kd] (a straight, Seven to Jack)
+miroslav625: shows [Ts Ad] (a straight, Seven to Jack)
+007hojoe collected $1.10 from pot
+miroslav625 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $2.30 | Rake $0.10 
+Board [Th 9d 7s Jh 8c]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: miroslav625 showed [Ts Ad] and won ($1.10) with a straight, Seven to Jack
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) showed [Kc Kd] and won ($1.10) with a straight, Seven to Jack
+Seat 5: kilativ7 (big blind) folded before Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970755141:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:58:10 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: 208joe ($10.46 in chips) 
+Seat 2: miroslav625 ($4.23 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.90 in chips) 
+Seat 5: kilativ7 ($15.61 in chips) 
+Seat 6: handbrake333 ($10.04 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+208joe: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: checks 
+*** FLOP *** [Qh Kd 6d]
+handbrake333: checks 
+miroslav625: bets $0.10
+handbrake333: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.24 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh Kd 6d]
+Seat 1: 208joe folded before Flop (didn't bet)
+Seat 2: miroslav625 collected ($0.24)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: kilativ7 (small blind) folded before Flop
+Seat 6: handbrake333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222970772491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:58:40 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 2: miroslav625 ($4.37 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($11.90 in chips) 
+Seat 5: kilativ7 ($15.56 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+208joe: is sitting out 
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: raises $0.30 to $0.40
+208joe leaves the table
+miroslav625: calls $0.30
+Csaki112 joins the table at seat #1 
+007hojoe: calls $0.30
+*** FLOP *** [5s Qc Ac]
+handbrake333: checks 
+miroslav625: bets $0.10
+007hojoe: raises $0.10 to $0.20
+handbrake333: calls $0.20
+miroslav625: calls $0.10
+*** TURN *** [5s Qc Ac] [3s]
+handbrake333: checks 
+miroslav625: bets $0.10
+007hojoe: raises $0.10 to $0.20
+handbrake333: folds 
+miroslav625: calls $0.10
+*** RIVER *** [5s Qc Ac 3s] [3h]
+miroslav625: bets $0.10
+007hojoe: raises $0.10 to $0.20
+miroslav625: calls $0.10
+*** SHOW DOWN ***
+007hojoe: shows [Qs 2s] (two pair, Queens and Threes)
+miroslav625: mucks hand 
+007hojoe collected $2.48 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.12 
+Board [5s Qc Ac 3s 3h]
+Seat 2: miroslav625 (big blind) mucked
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe showed [Qs 2s] and won ($2.48) with two pair, Queens and Threes
+Seat 5: kilativ7 (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222970805468:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 15:59:38 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 2: miroslav625 ($3.37 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($13.38 in chips) 
+Seat 5: kilativ7 ($15.56 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: raises $0.15 to $0.25
+miroslav625: calls $0.20
+Yahan588: calls $0.15
+*** FLOP *** [4c Ts 4s]
+miroslav625: checks 
+Yahan588: checks 
+handbrake333: checks 
+*** TURN *** [4c Ts 4s] [5d]
+miroslav625: checks 
+Yahan588: bets $0.53
+handbrake333: folds 
+miroslav625: folds 
+Uncalled bet ($0.53) returned to Yahan588
+Yahan588 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [4c Ts 4s 5d]
+Seat 2: miroslav625 (small blind) folded on the Turn
+Seat 3: Yahan588 (big blind) collected ($0.72)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded on the Turn
+
+
+
+PokerStars Hand #222970836674:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:00:30 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 2: miroslav625 ($3.12 in chips) 
+Seat 3: Yahan588 ($10.47 in chips) 
+Seat 4: 007hojoe ($13.38 in chips) 
+Seat 5: kilativ7 ($15.56 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+Csaki112: sits out 
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.40 to $0.50
+007hojoe: calls $0.40
+miroslav625: calls $0.40
+*** FLOP *** [8s Qd Qs]
+Yahan588: checks 
+007hojoe: bets $0.70
+miroslav625: calls $0.70
+Yahan588: folds 
+*** TURN *** [8s Qd Qs] [5d]
+007hojoe: checks 
+miroslav625: bets $0.50
+007hojoe: calls $0.50
+*** RIVER *** [8s Qd Qs 5d] [Kh]
+007hojoe: bets $1
+miroslav625: calls $1
+*** SHOW DOWN ***
+007hojoe: shows [5c Jc] (two pair, Queens and Fives)
+miroslav625: shows [8d 7d] (two pair, Queens and Eights)
+miroslav625 collected $5.63 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.27 
+Board [8s Qd Qs 5d Kh]
+Seat 2: miroslav625 (button) showed [8d 7d] and won ($5.63) with two pair, Queens and Eights
+Seat 3: Yahan588 (small blind) folded on the Flop
+Seat 4: 007hojoe (big blind) showed [5c Jc] and lost with two pair, Queens and Fives
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970887138:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:01:45 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 2: miroslav625 ($6.05 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($10.68 in chips) 
+Seat 5: kilativ7 ($15.56 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+Csaki112: sits out 
+*** HOLE CARDS ***
+handbrake333: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: calls $0.05
+kilativ7: raises $0.50 to $0.60
+miroslav625: calls $0.50
+007hojoe: folds 
+*** FLOP *** [2c 9c 4h]
+kilativ7: bets $0.68
+miroslav625: calls $0.68
+*** TURN *** [2c 9c 4h] [6h]
+kilativ7: checks 
+miroslav625: checks 
+*** RIVER *** [2c 9c 4h 6h] [Ad]
+kilativ7: bets $1.40
+miroslav625: calls $1.40
+*** SHOW DOWN ***
+kilativ7: shows [Kd Jc] (high card Ace)
+miroslav625: shows [8h 8c] (a pair of Eights)
+miroslav625 collected $5.21 from pot
+*** SUMMARY ***
+Total pot $5.46 | Rake $0.25 
+Board [2c 9c 4h 6h Ad]
+Seat 2: miroslav625 showed [8h 8c] and won ($5.21) with a pair of Eights
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: kilativ7 (big blind) showed [Kd Jc] and lost with high card Ace
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222970911472:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:02:17 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 2: miroslav625 ($8.58 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($10.58 in chips) 
+Seat 5: kilativ7 ($12.88 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+Csaki112: sits out 
+*** HOLE CARDS ***
+miroslav625: calls $0.10
+Yahan588: raises $0.30 to $0.40
+007hojoe: calls $0.40
+kilativ7: folds 
+handbrake333: folds 
+miroslav625: calls $0.30
+*** FLOP *** [Kc Jh 2s]
+miroslav625: checks 
+Yahan588: checks 
+007hojoe: checks 
+*** TURN *** [Kc Jh 2s] [Js]
+miroslav625: bets $0.10
+Yahan588: calls $0.10
+007hojoe: calls $0.10
+*** RIVER *** [Kc Jh 2s Js] [Jc]
+miroslav625: bets $0.20
+Yahan588: folds 
+007hojoe: folds 
+Uncalled bet ($0.20) returned to miroslav625
+miroslav625 collected $1.58 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [Kc Jh 2s Js Jc]
+Seat 2: miroslav625 collected ($1.58)
+Seat 3: Yahan588 folded on the River
+Seat 4: 007hojoe (button) folded on the River
+Seat 5: kilativ7 (small blind) folded before Flop
+Seat 6: handbrake333 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222970948459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:03:02 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: Csaki112 ($10 in chips) 
+Seat 2: miroslav625 ($9.66 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($10.08 in chips) 
+Seat 5: kilativ7 ($12.83 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+Csaki112: posts big blind $0.10
+*** HOLE CARDS ***
+miroslav625: calls $0.10
+Yahan588: raises $0.30 to $0.40
+007hojoe: calls $0.40
+kilativ7: folds 
+handbrake333: calls $0.35
+Csaki112: raises $1.30 to $1.70
+miroslav625: folds 
+Yahan588: folds 
+007hojoe: folds 
+handbrake333: folds 
+Uncalled bet ($1.30) returned to Csaki112
+Csaki112 collected $1.70 from pot
+Csaki112: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.70 | Rake $0 
+Seat 1: Csaki112 (big blind) collected ($1.70)
+Seat 2: miroslav625 folded before Flop
+Seat 3: Yahan588 folded before Flop
+Seat 4: 007hojoe folded before Flop
+Seat 5: kilativ7 (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222970979787:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:03:41 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: Csaki112 ($11.30 in chips) 
+Seat 2: miroslav625 ($9.56 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($9.68 in chips) 
+Seat 5: kilativ7 ($12.83 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Csaki112: posts small blind $0.05
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: raises $0.20 to $0.30
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.20
+*** FLOP *** [8s 6s Ts]
+miroslav625: checks 
+Yahan588: checks 
+*** TURN *** [8s 6s Ts] [As]
+miroslav625: bets $0.10
+Yahan588: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.62 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8s 6s Ts As]
+Seat 1: Csaki112 (small blind) folded before Flop
+Seat 2: miroslav625 (big blind) collected ($0.62)
+Seat 3: Yahan588 folded on the Turn
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971004806:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:04:11 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: Csaki112 ($11.25 in chips) 
+Seat 2: miroslav625 ($9.88 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($9.68 in chips) 
+Seat 5: kilativ7 ($12.83 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.05
+Yahan588: checks 
+*** FLOP *** [4c Tc 6s]
+miroslav625: bets $0.10
+Yahan588: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.19 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c Tc 6s]
+Seat 1: Csaki112 (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) collected ($0.19)
+Seat 3: Yahan588 (big blind) folded on the Flop
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971023234:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:04:33 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: Csaki112 ($11.25 in chips) 
+Seat 2: miroslav625 ($9.97 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($9.68 in chips) 
+Seat 5: kilativ7 ($12.83 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: raises $0.20 to $0.30
+miroslav625: calls $0.30
+Yahan588: folds 
+007hojoe: folds 
+*** FLOP *** [6c 7s 6h]
+Csaki112: checks 
+miroslav625: checks 
+*** TURN *** [6c 7s 6h] [Jh]
+Csaki112: checks 
+miroslav625: checks 
+*** RIVER *** [6c 7s 6h Jh] [6s]
+Csaki112: bets $0.24
+miroslav625: folds 
+Uncalled bet ($0.24) returned to Csaki112
+Csaki112 collected $0.72 from pot
+Csaki112: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [6c 7s 6h Jh 6s]
+Seat 1: Csaki112 collected ($0.72)
+Seat 2: miroslav625 (button) folded on the River
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971082699:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:05:44 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: Csaki112 ($11.67 in chips) 
+Seat 2: miroslav625 ($9.67 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($9.58 in chips) 
+Seat 5: kilativ7 ($12.83 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+Csaki112: raises $0.20 to $0.30
+miroslav625: calls $0.30
+Yahan588: calls $0.30
+007hojoe: folds 
+kilativ7: calls $0.20
+*** FLOP *** [Kd 8d Qh]
+kilativ7: checks 
+Csaki112: bets $0.62
+miroslav625: folds 
+Yahan588: folds 
+kilativ7: folds 
+Uncalled bet ($0.62) returned to Csaki112
+Csaki112 collected $1.19 from pot
+Csaki112: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kd 8d Qh]
+Seat 1: Csaki112 collected ($1.19)
+Seat 2: miroslav625 folded on the Flop
+Seat 3: Yahan588 (button) folded on the Flop
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: kilativ7 (big blind) folded on the Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971116123:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:06:24 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: Csaki112 ($12.56 in chips) 
+Seat 2: miroslav625 ($9.37 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($9.53 in chips) 
+Seat 5: kilativ7 ($12.53 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: checks 
+*** FLOP *** [Jh Jd 2h]
+handbrake333: checks 
+miroslav625: bets $0.10
+handbrake333: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.24 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jh Jd 2h]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 collected ($0.24)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: kilativ7 (small blind) folded before Flop
+Seat 6: handbrake333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222971134771:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:06:47 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: Csaki112 ($12.56 in chips) 
+Seat 2: miroslav625 ($9.51 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($9.53 in chips) 
+Seat 5: kilativ7 ($12.48 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+Csaki112: posts big blind $0.10
+*** HOLE CARDS ***
+miroslav625: folds 
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: raises $0.30 to $0.40
+007hojoe: calls $0.30
+*** FLOP *** [Qd 9d 2s]
+Csaki112: bets $0.27
+007hojoe: calls $0.27
+*** TURN *** [Qd 9d 2s] [As]
+Csaki112: bets $0.44
+007hojoe: calls $0.44
+*** RIVER *** [Qd 9d 2s As] [3h]
+Csaki112: checks 
+007hojoe: checks 
+*** SHOW DOWN ***
+Csaki112: shows [Jh Ah] (a pair of Aces)
+007hojoe: mucks hand 
+Csaki112 collected $2.17 from pot
+*** SUMMARY ***
+Total pot $2.27 | Rake $0.10 
+Board [Qd 9d 2s As 3h]
+Seat 1: Csaki112 (big blind) showed [Jh Ah] and won ($2.17) with a pair of Aces
+Seat 2: miroslav625 folded before Flop (didn't bet)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe mucked
+Seat 5: kilativ7 (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971171021:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:07:30 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: Csaki112 ($13.62 in chips) 
+Seat 2: miroslav625 ($9.51 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($8.42 in chips) 
+Seat 5: kilativ7 ($12.48 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Csaki112: posts small blind $0.05
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: calls $0.05
+miroslav625: checks 
+*** FLOP *** [2d Tc 4s]
+Csaki112: checks 
+miroslav625: checks 
+007hojoe: checks 
+*** TURN *** [2d Tc 4s] [8c]
+Csaki112: bets $0.15
+miroslav625: folds 
+007hojoe: folds 
+Uncalled bet ($0.15) returned to Csaki112
+Csaki112 collected $0.29 from pot
+Csaki112: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2d Tc 4s 8c]
+Seat 1: Csaki112 (small blind) collected ($0.29)
+Seat 2: miroslav625 (big blind) folded on the Turn
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded on the Turn
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971197975:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:08:03 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: Csaki112 ($13.81 in chips) 
+Seat 2: miroslav625 ($9.41 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($8.32 in chips) 
+Seat 5: kilativ7 ($12.48 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+kilativ7: raises $0.30 to $0.40
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: folds 
+Yahan588: folds 
+007hojoe: calls $0.30
+*** FLOP *** [Qh 9c 9s]
+007hojoe: checks 
+kilativ7: bets $0.50
+007hojoe: folds 
+Uncalled bet ($0.50) returned to kilativ7
+kilativ7 collected $0.91 from pot
+kilativ7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qh 9c 9s]
+Seat 1: Csaki112 (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) folded before Flop
+Seat 3: Yahan588 (big blind) folded before Flop
+Seat 4: 007hojoe folded on the Flop
+Seat 5: kilativ7 collected ($0.91)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971230207:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:08:42 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: Csaki112 ($13.81 in chips) 
+Seat 2: miroslav625 ($9.36 in chips) 
+Seat 3: Yahan588 ($10 in chips) 
+Seat 4: 007hojoe ($7.92 in chips) 
+Seat 5: kilativ7 ($12.99 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: folds 
+Yahan588: raises $0.20 to $0.30
+007hojoe: folds 
+Uncalled bet ($0.20) returned to Yahan588
+Yahan588 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 (button) folded before Flop (didn't bet)
+Seat 3: Yahan588 (small blind) collected ($0.20)
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971240563:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:08:54 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: Csaki112 ($13.81 in chips) 
+Seat 2: miroslav625 ($9.36 in chips) 
+Seat 3: Yahan588 ($10.10 in chips) 
+Seat 4: 007hojoe ($7.82 in chips) 
+Seat 5: kilativ7 ($12.99 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: folds 
+kilativ7: checks 
+*** FLOP *** [Qc 4d 9c]
+kilativ7: checks 
+miroslav625: bets $0.10
+kilativ7: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.24 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc 4d 9c]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 collected ($0.24)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: kilativ7 (big blind) folded on the Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971252873:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:09:09 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: Csaki112 ($13.81 in chips) 
+Seat 2: miroslav625 ($9.50 in chips) 
+Seat 3: Yahan588 ($10.10 in chips) 
+Seat 4: 007hojoe ($7.77 in chips) 
+Seat 5: kilativ7 ($12.89 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.30 to $0.40
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: folds 
+miroslav625: calls $0.30
+*** FLOP *** [8h 4c 2h]
+miroslav625: bets $0.10
+Yahan588: raises $0.59 to $0.69
+miroslav625: calls $0.59
+*** TURN *** [8h 4c 2h] [Td]
+miroslav625: checks 
+Yahan588: bets $1.18
+miroslav625: folds 
+Uncalled bet ($1.18) returned to Yahan588
+Yahan588 collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.10 
+Board [8h 4c 2h Td]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 folded on the Turn
+Seat 3: Yahan588 collected ($2.23)
+Seat 4: 007hojoe (button) folded before Flop (didn't bet)
+Seat 5: kilativ7 (small blind) folded before Flop
+Seat 6: handbrake333 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222971315638:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:10:24 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: Csaki112 ($13.81 in chips) 
+Seat 2: miroslav625 ($8.41 in chips) 
+Seat 3: Yahan588 ($11.24 in chips) 
+Seat 4: 007hojoe ($7.77 in chips) 
+Seat 5: kilativ7 ($12.84 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+Csaki112: posts big blind $0.10
+*** HOLE CARDS ***
+miroslav625: calls $0.10
+Yahan588: raises $0.30 to $0.40
+007hojoe: folds 
+kilativ7: calls $0.40
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.30
+*** FLOP *** [Ad 2s Qd]
+miroslav625: checks 
+Yahan588: bets $0.94
+kilativ7: folds 
+miroslav625: folds 
+Uncalled bet ($0.94) returned to Yahan588
+Yahan588 collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [Ad 2s Qd]
+Seat 1: Csaki112 (big blind) folded before Flop
+Seat 2: miroslav625 folded on the Flop
+Seat 3: Yahan588 collected ($1.29)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 (button) folded on the Flop
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971339582:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:10:52 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: Csaki112 ($13.71 in chips) 
+Seat 2: miroslav625 ($8.01 in chips) 
+Seat 3: Yahan588 ($12.13 in chips) 
+Seat 4: 007hojoe ($7.77 in chips) 
+Seat 5: kilativ7 ($12.44 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Csaki112: posts small blind $0.05
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: checks 
+*** FLOP *** [Td 8c 9h]
+miroslav625: bets $0.10
+007hojoe: calls $0.10
+*** TURN *** [Td 8c 9h] [5h]
+miroslav625: checks 
+007hojoe: checks 
+*** RIVER *** [Td 8c 9h 5h] [2s]
+miroslav625: bets $0.20
+007hojoe: folds 
+Uncalled bet ($0.20) returned to miroslav625
+miroslav625 collected $0.43 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td 8c 9h 5h 2s]
+Seat 1: Csaki112 (small blind) folded before Flop
+Seat 2: miroslav625 (big blind) collected ($0.43)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded on the River
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971365530:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:11:24 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($8.24 in chips) 
+Seat 3: Yahan588 ($12.13 in chips) 
+Seat 4: 007hojoe ($7.57 in chips) 
+Seat 5: kilativ7 ($12.44 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.05
+Yahan588: checks 
+*** FLOP *** [7s As Ah]
+miroslav625: checks 
+Yahan588: checks 
+007hojoe: checks 
+*** TURN *** [7s As Ah] [Kh]
+miroslav625: bets $0.10
+Yahan588: folds 
+007hojoe: calls $0.10
+*** RIVER *** [7s As Ah Kh] [4c]
+miroslav625: bets $0.30
+007hojoe: calls $0.30
+*** SHOW DOWN ***
+miroslav625: shows [Ts 2s] (a pair of Aces)
+007hojoe: shows [3h 3s] (two pair, Aces and Threes)
+007hojoe collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [7s As Ah Kh 4c]
+Seat 1: Csaki112 (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) showed [Ts 2s] and lost with a pair of Aces
+Seat 3: Yahan588 (big blind) folded on the Turn
+Seat 4: 007hojoe showed [3h 3s] and won ($1.05) with two pair, Aces and Threes
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971390814:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:11:54 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($7.74 in chips) 
+Seat 3: Yahan588 ($12.03 in chips) 
+Seat 4: 007hojoe ($8.12 in chips) 
+Seat 5: kilativ7 ($12.44 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.40 to $0.50
+007hojoe: calls $0.40
+miroslav625: calls $0.40
+*** FLOP *** [8s 6s 2d]
+Yahan588: checks 
+007hojoe: checks 
+miroslav625: checks 
+*** TURN *** [8s 6s 2d] [6h]
+Yahan588: bets $1.04
+007hojoe: folds 
+miroslav625: folds 
+Uncalled bet ($1.04) returned to Yahan588
+Yahan588 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [8s 6s 2d 6h]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 (button) folded on the Turn
+Seat 3: Yahan588 (small blind) collected ($1.43)
+Seat 4: 007hojoe (big blind) folded on the Turn
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971422778:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:12:33 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($7.24 in chips) 
+Seat 3: Yahan588 ($12.96 in chips) 
+Seat 4: 007hojoe ($7.62 in chips) 
+Seat 5: kilativ7 ($12.44 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+007hojoe: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.30 to $0.40
+007hojoe: folds 
+kilativ7: folds 
+miroslav625: raises $1.80 to $2.20
+Yahan588: folds 
+Uncalled bet ($1.80) returned to miroslav625
+miroslav625 collected $0.95 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 collected ($0.95)
+Seat 3: Yahan588 (button) folded before Flop
+Seat 4: 007hojoe (small blind) folded before Flop
+Seat 5: kilativ7 (big blind) folded before Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971438873:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:12:53 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($7.79 in chips) 
+Seat 3: Yahan588 ($12.56 in chips) 
+Seat 4: 007hojoe ($7.57 in chips) 
+Seat 5: kilativ7 ($12.34 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: calls $0.05
+handbrake333: checks 
+*** FLOP *** [Kh 3d 9d]
+kilativ7: bets $0.21
+handbrake333: folds 
+miroslav625: calls $0.21
+007hojoe: calls $0.21
+*** TURN *** [Kh 3d 9d] [Ad]
+kilativ7: checks 
+miroslav625: bets $0.20
+007hojoe: calls $0.20
+kilativ7: folds 
+*** RIVER *** [Kh 3d 9d Ad] [5s]
+miroslav625: bets $0.20
+007hojoe: folds 
+Uncalled bet ($0.20) returned to miroslav625
+miroslav625 collected $1.37 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.06 
+Board [Kh 3d 9d Ad 5s]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 collected ($1.37)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe (button) folded on the River
+Seat 5: kilativ7 (small blind) folded on the Turn
+Seat 6: handbrake333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222971480821:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:13:34 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($8.65 in chips) 
+Seat 3: Yahan588 ($12.56 in chips) 
+Seat 4: 007hojoe ($7.06 in chips) 
+Seat 5: kilativ7 ($12.03 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+handbrake333: posts small blind $0.05
+Csaki112: posts big blind $0.10
+*** HOLE CARDS ***
+miroslav625: calls $0.10
+Yahan588: folds 
+007hojoe: calls $0.10
+kilativ7: calls $0.10
+handbrake333: folds 
+Csaki112: checks 
+*** FLOP *** [8h Qs 8d]
+Csaki112: checks 
+miroslav625: checks 
+007hojoe: checks 
+kilativ7: checks 
+*** TURN *** [8h Qs 8d] [Th]
+Csaki112: bets $0.14
+miroslav625: calls $0.14
+007hojoe: calls $0.14
+kilativ7: folds 
+*** RIVER *** [8h Qs 8d Th] [6s]
+Csaki112: bets $0.50
+miroslav625: folds 
+007hojoe: folds 
+Uncalled bet ($0.50) returned to Csaki112
+Csaki112 collected $0.83 from pot
+Csaki112: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [8h Qs 8d Th 6s]
+Seat 1: Csaki112 (big blind) collected ($0.83)
+Seat 2: miroslav625 folded on the River
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded on the River
+Seat 5: kilativ7 (button) folded on the Turn
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971519230:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:14:21 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: Csaki112 ($14.25 in chips) 
+Seat 2: miroslav625 ($8.41 in chips) 
+Seat 3: Yahan588 ($12.56 in chips) 
+Seat 4: 007hojoe ($6.82 in chips) 
+Seat 5: kilativ7 ($11.93 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Csaki112: posts small blind $0.05
+miroslav625: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+007hojoe: folds 
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: raises $0.20 to $0.30
+miroslav625: calls $0.20
+*** FLOP *** [3c 2d 9h]
+Csaki112: bets $0.19
+miroslav625: calls $0.19
+*** TURN *** [3c 2d 9h] [6s]
+Csaki112: checks 
+miroslav625: bets $0.10
+Csaki112: calls $0.10
+*** RIVER *** [3c 2d 9h 6s] [Ah]
+Csaki112: checks 
+miroslav625: bets $0.20
+Csaki112: folds 
+Uncalled bet ($0.20) returned to miroslav625
+miroslav625 collected $1.13 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [3c 2d 9h 6s Ah]
+Seat 1: Csaki112 (small blind) folded on the River
+Seat 2: miroslav625 (big blind) collected ($1.13)
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: 007hojoe folded before Flop (didn't bet)
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971551834:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:15:00 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($8.95 in chips) 
+Seat 3: Yahan588 ($12.56 in chips) 
+Seat 4: 007hojoe ($6.82 in chips) 
+Seat 5: kilativ7 ($11.93 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+*** HOLE CARDS ***
+007hojoe: calls $0.10
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.05
+Yahan588: checks 
+*** FLOP *** [5c 3d 2s]
+miroslav625: checks 
+Yahan588: bets $0.10
+007hojoe: calls $0.10
+miroslav625: calls $0.10
+*** TURN *** [5c 3d 2s] [9s]
+miroslav625: checks 
+Yahan588: bets $0.10
+007hojoe: raises $0.10 to $0.20
+miroslav625: calls $0.20
+Yahan588: calls $0.10
+*** RIVER *** [5c 3d 2s 9s] [6h]
+miroslav625: checks 
+Yahan588: bets $0.84
+007hojoe: calls $0.84
+miroslav625: folds 
+*** SHOW DOWN ***
+Yahan588: shows [Kc 4c] (a straight, Deuce to Six)
+007hojoe: mucks hand 
+Yahan588 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.88 | Rake $0.13 
+Board [5c 3d 2s 9s 6h]
+Seat 1: Csaki112 (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) folded on the River
+Seat 3: Yahan588 (big blind) showed [Kc 4c] and won ($2.75) with a straight, Deuce to Six
+Seat 4: 007hojoe mucked
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971597639:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:15:54 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($8.55 in chips) 
+Seat 3: Yahan588 ($14.07 in chips) 
+Seat 4: 007hojoe ($5.58 in chips) 
+Seat 5: kilativ7 ($11.93 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Yahan588: posts small blind $0.05
+007hojoe: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: raises $0.40 to $0.50
+007hojoe: folds 
+miroslav625: calls $0.40
+*** FLOP *** [As 9d 9h]
+007hojoe leaves the table
+iqpower joins the table at seat #4 
+Yahan588: bets $0.56
+miroslav625: folds 
+Uncalled bet ($0.56) returned to Yahan588
+Yahan588 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [As 9d 9h]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 (button) folded on the Flop
+Seat 3: Yahan588 (small blind) collected ($1.05)
+Seat 4: 007hojoe (big blind) folded before Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971621631:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:16:21 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($8.05 in chips) 
+Seat 3: Yahan588 ($14.62 in chips) 
+Seat 5: kilativ7 ($11.93 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+kilativ7: posts small blind $0.05
+handbrake333: posts big blind $0.10
+*** HOLE CARDS ***
+Csaki112: folds 
+miroslav625: folds 
+Yahan588: folds 
+kilativ7: folds 
+Uncalled bet ($0.05) returned to handbrake333
+handbrake333 collected $0.10 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 folded before Flop (didn't bet)
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 5: kilativ7 (small blind) folded before Flop
+Seat 6: handbrake333 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222971627100:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:16:28 ET
+Table 'Sphinx II' 6-max Seat #5 is the button
+Seat 1: Csaki112 ($13.66 in chips) 
+Seat 2: miroslav625 ($8.05 in chips) 
+Seat 3: Yahan588 ($14.62 in chips) 
+Seat 5: kilativ7 ($11.88 in chips) 
+Seat 6: handbrake333 ($10.05 in chips) 
+handbrake333: posts small blind $0.05
+Csaki112: posts big blind $0.10
+iqpower: sits out 
+*** HOLE CARDS ***
+miroslav625: calls $0.10
+Yahan588: folds 
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: checks 
+*** FLOP *** [6s Kd Qd]
+Csaki112: checks 
+miroslav625: checks 
+*** TURN *** [6s Kd Qd] [Qh]
+Csaki112: bets $0.12
+miroslav625: calls $0.12
+*** RIVER *** [6s Kd Qd Qh] [Kc]
+Csaki112: bets $0.16
+miroslav625: calls $0.16
+*** SHOW DOWN ***
+Csaki112: shows [4s Ah] (two pair, Kings and Queens)
+miroslav625: mucks hand 
+Csaki112 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04 
+Board [6s Kd Qd Qh Kc]
+Seat 1: Csaki112 (big blind) showed [4s Ah] and won ($0.77) with two pair, Kings and Queens
+Seat 2: miroslav625 mucked
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 5: kilativ7 (button) folded before Flop (didn't bet)
+Seat 6: handbrake333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222971657122:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:17:03 ET
+Table 'Sphinx II' 6-max Seat #6 is the button
+Seat 1: Csaki112 ($14.05 in chips) 
+Seat 2: miroslav625 ($7.67 in chips) 
+Seat 3: Yahan588 ($14.62 in chips) 
+Seat 5: kilativ7 ($11.88 in chips) 
+Seat 6: handbrake333 ($10 in chips) 
+Csaki112: posts small blind $0.05
+miroslav625: posts big blind $0.10
+iqpower: sits out 
+*** HOLE CARDS ***
+Yahan588: raises $0.20 to $0.30
+kilativ7: folds 
+handbrake333: raises $0.70 to $1
+Csaki112: folds 
+miroslav625: folds 
+Yahan588: folds 
+Uncalled bet ($0.70) returned to handbrake333
+handbrake333 collected $0.75 from pot
+handbrake333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Csaki112 (small blind) folded before Flop
+Seat 2: miroslav625 (big blind) folded before Flop
+Seat 3: Yahan588 folded before Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 (button) collected ($0.75)
+
+
+
+PokerStars Hand #222971678786:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:17:28 ET
+Table 'Sphinx II' 6-max Seat #1 is the button
+Seat 1: Csaki112 ($14 in chips) 
+Seat 2: miroslav625 ($7.57 in chips) 
+Seat 3: Yahan588 ($14.32 in chips) 
+Seat 5: kilativ7 ($11.88 in chips) 
+Seat 6: handbrake333 ($10.45 in chips) 
+miroslav625: posts small blind $0.05
+Yahan588: posts big blind $0.10
+iqpower: sits out 
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: raises $0.10 to $0.20
+Yahan588: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.20 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Csaki112 (button) folded before Flop (didn't bet)
+Seat 2: miroslav625 (small blind) collected ($0.20)
+Seat 3: Yahan588 (big blind) folded before Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971692912:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:17:44 ET
+Table 'Sphinx II' 6-max Seat #2 is the button
+Seat 1: Csaki112 ($14 in chips) 
+Seat 2: miroslav625 ($7.67 in chips) 
+Seat 3: Yahan588 ($14.22 in chips) 
+Seat 4: iqpower ($10 in chips) 
+Seat 5: kilativ7 ($11.88 in chips) 
+Seat 6: handbrake333 ($10.45 in chips) 
+Yahan588: posts small blind $0.05
+iqpower: posts big blind $0.10
+*** HOLE CARDS ***
+kilativ7: folds 
+handbrake333: folds 
+Csaki112: folds 
+miroslav625: calls $0.10
+Yahan588: folds 
+iqpower: checks 
+*** FLOP *** [3s Qh 3h]
+iqpower: checks 
+miroslav625: bets $0.10
+iqpower: folds 
+Uncalled bet ($0.10) returned to miroslav625
+miroslav625 collected $0.24 from pot
+miroslav625: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3s Qh 3h]
+Seat 1: Csaki112 folded before Flop (didn't bet)
+Seat 2: miroslav625 (button) collected ($0.24)
+Seat 3: Yahan588 (small blind) folded before Flop
+Seat 4: iqpower (big blind) folded on the Flop
+Seat 5: kilativ7 folded before Flop (didn't bet)
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971713144:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:18:07 ET
+Table 'Sphinx II' 6-max Seat #3 is the button
+Seat 1: Csaki112 ($14 in chips) 
+Seat 2: miroslav625 ($7.81 in chips) 
+Seat 3: Yahan588 ($14.17 in chips) 
+Seat 4: iqpower ($10 in chips) 
+Seat 5: kilativ7 ($11.88 in chips) 
+Seat 6: handbrake333 ($10.45 in chips) 
+iqpower: posts small blind $0.05
+kilativ7: posts big blind $0.10
+*** HOLE CARDS ***
+handbrake333: folds 
+Csaki112: raises $0.20 to $0.30
+miroslav625: calls $0.30
+Yahan588: folds 
+iqpower: calls $0.25
+kilativ7: folds 
+*** FLOP *** [Jc 3h Kh]
+iqpower: checks 
+Csaki112: bets $0.32
+miroslav625: folds 
+miroslav625 leaves the table
+iqpower: calls $0.32
+*** TURN *** [Jc 3h Kh] [9h]
+iqpower: checks 
+Csaki112: bets $0.52
+iqpower: calls $0.52
+*** RIVER *** [Jc 3h Kh 9h] [Th]
+handbrake333 leaves the table
+iqpower: checks 
+Csaki112: bets $1.10
+iqpower: folds 
+Uncalled bet ($1.10) returned to Csaki112
+Csaki112 collected $2.56 from pot
+Csaki112: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.12 
+Board [Jc 3h Kh 9h Th]
+Seat 1: Csaki112 collected ($2.56)
+Seat 2: miroslav625 folded on the Flop
+Seat 3: Yahan588 (button) folded before Flop (didn't bet)
+Seat 4: iqpower (small blind) folded on the River
+Seat 5: kilativ7 (big blind) folded before Flop
+Seat 6: handbrake333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222971768316:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:19:11 ET
+Table 'Sphinx II' 6-max Seat #4 is the button
+Seat 1: Csaki112 ($15.42 in chips) 
+Seat 3: Yahan588 ($14.17 in chips) 
+Seat 4: iqpower ($10 in chips) 
+Seat 5: kilativ7 ($11.78 in chips) 
+kilativ7: posts small blind $0.05
+Csaki112: posts big blind $0.10
+*** HOLE CARDS ***
+Yahan588: folds 
+iqpower: folds 
+kilativ7: raises $0.15 to $0.25
+Csaki112: calls $0.15
+*** FLOP *** [9h 5c 6c]
+kilativ7: checks 
+Csaki112: checks 
+*** TURN *** [9h 5c 6c] [6d]
+kilativ7: checks 
+Csaki112: bets $0.16
+kilativ7: calls $0.16
+*** RIVER *** [9h 5c 6c 6d] [8s]
+kilativ7: checks 
+Csaki112: checks 
+*** SHOW DOWN ***
+kilativ7: shows [As Jc] (a pair of Sixes)
+Csaki112: shows [Qh 8h] (two pair, Eights and Sixes)
+Csaki112 collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04 
+Board [9h 5c 6c 6d 8s]
+Seat 1: Csaki112 (big blind) showed [Qh 8h] and won ($0.78) with two pair, Eights and Sixes
+Seat 3: Yahan588 folded before Flop (didn't bet)
+Seat 4: iqpower (button) folded before Flop (didn't bet)
+Seat 5: kilativ7 (small blind) showed [As Jc] and lost with a pair of Sixes
+
+
+

@@ -1,0 +1,1406 @@
+ï»¿PokerStars Hand #222977459377:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:21:26 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£10.15 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Hundrendret: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: raises £0.15 to £0.25
+electrobox: calls £0.15
+*** FLOP *** [7c Tc 2d]
+electrobox: checks 
+Hundrendret: checks 
+*** TURN *** [7c Tc 2d] [4s]
+electrobox: bets £0.30
+Hundrendret: folds 
+Uncalled bet (£0.30) returned to electrobox
+electrobox collected £0.48 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.50 | Rake £0.02 
+Board [7c Tc 2d 4s]
+Seat 1: electrobox (big blind) collected (£0.48)
+Seat 2: Hundrendret (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222977477141:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:21:53 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£10.38 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 5: millwall92 (£8.12 in chips) 
+Hundrendret: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+electrobox: folds 
+Hundrendret: folds 
+Uncalled bet (£0.05) returned to millwall92
+millwall92 collected £0.10 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.10 | Rake £0 
+Seat 1: electrobox (button) folded before Flop (didn't bet)
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 5: millwall92 (big blind) collected (£0.10)
+
+
+
+PokerStars Hand #222977480294:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:21:57 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£10.38 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 5: millwall92 (£8.17 in chips) 
+millwall92: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: raises £0.20 to £0.30
+millwall92: folds 
+electrobox: folds 
+Uncalled bet (£0.20) returned to Hundrendret
+Hundrendret collected £0.25 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0 
+Seat 1: electrobox (big blind) folded before Flop
+Seat 2: Hundrendret (button) collected (£0.25)
+Seat 5: millwall92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977486611:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:22:07 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£10.28 in chips) 
+Seat 2: Hundrendret (£10.15 in chips) 
+Seat 5: millwall92 (£8.12 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: folds 
+electrobox: raises £0.20 to £0.30
+Hundrendret: folds 
+Uncalled bet (£0.20) returned to electrobox
+electrobox collected £0.20 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 1: electrobox (small blind) collected (£0.20)
+Seat 2: Hundrendret (big blind) folded before Flop
+Seat 5: millwall92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977490902:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:22:13 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£10.38 in chips) 
+Seat 2: Hundrendret (£10.05 in chips) 
+Seat 5: millwall92 (£8.12 in chips) 
+Hundrendret: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov joins the table at seat #4 
+electrobox: raises £0.20 to £0.30
+Hundrendret: folds 
+millwall92: folds 
+Uncalled bet (£0.20) returned to electrobox
+electrobox collected £0.25 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0 
+Seat 1: electrobox (button) collected (£0.25)
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 5: millwall92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222977496349:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:22:22 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£10.53 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 5: millwall92 (£8.02 in chips) 
+millwall92: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+millwall92: calls £0.05
+electrobox: raises £0.40 to £0.50
+millwall92: folds 
+Uncalled bet (£0.40) returned to electrobox
+electrobox collected £0.20 from pot
+Millwall2004 was removed from the table for failing to post
+Millwall2004 leaves the table
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 1: electrobox (big blind) collected (£0.20)
+Seat 2: Hundrendret (button) folded before Flop (didn't bet)
+Seat 5: millwall92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977505173:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:22:35 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£10.63 in chips) 
+Seat 4: Tony Zhukov (£24.24 in chips) 
+Seat 5: millwall92 (£7.92 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: is sitting out 
+Tony Zhukov: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: folds 
+electrobox: raises £0.20 to £0.30
+Tony Zhukov: calls £0.20
+*** FLOP *** [9c Ks 6d]
+Millwall2004 joins the table at seat #6 
+electrobox: bets £0.19
+Tony Zhukov: calls £0.19
+*** TURN *** [9c Ks 6d] [Ts]
+electrobox: bets £1.20
+Tony Zhukov: folds 
+Uncalled bet (£1.20) returned to electrobox
+electrobox collected £0.94 from pot
+Roope-SetÃ¤ was removed from the table for failing to post
+Roope-SetÃ¤ leaves the table
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.98 | Rake £0.04 
+Board [9c Ks 6d Ts]
+Seat 1: electrobox (small blind) collected (£0.94)
+Seat 4: Tony Zhukov (big blind) folded on the Turn
+Seat 5: millwall92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977528342:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:22:57 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£11.08 in chips) 
+Seat 4: Tony Zhukov (£23.75 in chips) 
+Seat 5: millwall92 (£7.92 in chips) 
+Seat 6: Millwall2004 (£10.27 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+Millwall2004: posts big blind £0.10
+*** HOLE CARDS ***
+Millwall2004: checks 
+Roope-SetÃ¤ joins the table at seat #3 
+electrobox: folds 
+Tony Zhukov: folds 
+millwall92: checks 
+*** FLOP *** [5d 5c 6d]
+millwall92: checks 
+Millwall2004: checks 
+*** TURN *** [5d 5c 6d] [As]
+millwall92: checks 
+Millwall2004: checks 
+*** RIVER *** [5d 5c 6d As] [8h]
+millwall92: checks 
+Millwall2004: bets £1
+millwall92: folds 
+Uncalled bet (£1) returned to Millwall2004
+Millwall2004 collected £0.24 from pot
+Millwall2004: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0.01 
+Board [5d 5c 6d As 8h]
+Seat 1: electrobox (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: millwall92 (big blind) folded on the River
+Seat 6: Millwall2004 collected (£0.24)
+
+
+
+PokerStars Hand #222977556416:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:23:40 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 1: electrobox (£11.08 in chips) 
+Seat 4: Tony Zhukov (£23.70 in chips) 
+Seat 5: millwall92 (£7.82 in chips) 
+Seat 6: Millwall2004 (£10.41 in chips) 
+millwall92: posts small blind £0.05
+Millwall2004: posts big blind £0.10
+Roope-SetÃ¤: sits out 
+*** HOLE CARDS ***
+electrobox: folds 
+Tony Zhukov: raises £0.20 to £0.30
+millwall92: folds 
+Millwall2004: calls £0.20
+*** FLOP *** [Kc Ad 4s]
+Millwall2004: checks 
+Tony Zhukov: checks 
+*** TURN *** [Kc Ad 4s] [6s]
+Millwall2004: bets £0.20
+Tony Zhukov: folds 
+Uncalled bet (£0.20) returned to Millwall2004
+Millwall2004 collected £0.62 from pot
+Millwall2004: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.65 | Rake £0.03 
+Board [Kc Ad 4s 6s]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded on the Turn
+Seat 5: millwall92 (small blind) folded before Flop
+Seat 6: Millwall2004 (big blind) collected (£0.62)
+
+
+
+PokerStars Hand #222977570056:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:24:01 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£11.08 in chips) 
+Seat 4: Tony Zhukov (£23.40 in chips) 
+Seat 5: millwall92 (£7.77 in chips) 
+Seat 6: Millwall2004 (£10.73 in chips) 
+Millwall2004: posts small blind £0.05
+electrobox: posts big blind £0.10
+Roope-SetÃ¤: sits out 
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+millwall92: folds 
+Millwall2004: calls £0.05
+electrobox: raises £0.40 to £0.50
+Millwall2004: calls £0.40
+*** FLOP *** [Tc Qd Js]
+Millwall2004: checks 
+electrobox: bets £0.50
+Millwall2004: calls £0.50
+*** TURN *** [Tc Qd Js] [2s]
+Millwall2004: checks 
+electrobox: checks 
+*** RIVER *** [Tc Qd Js 2s] [9s]
+Millwall2004: checks 
+electrobox: bets £0.80
+Millwall2004: calls £0.80
+*** SHOW DOWN ***
+electrobox: shows [7d 8h] (a straight, Eight to Queen)
+Millwall2004: mucks hand 
+electrobox collected £3.44 from pot
+*** SUMMARY ***
+Total pot £3.60 | Rake £0.16 
+Board [Tc Qd Js 2s 9s]
+Seat 1: electrobox (big blind) showed [7d 8h] and won (£3.44) with a straight, Eight to Queen
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 (button) folded before Flop (didn't bet)
+Seat 6: Millwall2004 (small blind) mucked
+
+
+
+PokerStars Hand #222977605752:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:24:55 ET
+Table 'Sthenelos IV' 6-max Seat #6 is the button
+Seat 1: electrobox (£12.72 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£23.40 in chips) 
+Seat 5: millwall92 (£7.77 in chips) 
+Seat 6: Millwall2004 (£8.93 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+Roope-SetÃ¤: sits out 
+*** HOLE CARDS ***
+Tony Zhukov: raises £0.15 to £0.25
+millwall92: calls £0.25
+Millwall2004: folds 
+electrobox: folds 
+Hundrendret: folds 
+*** FLOP *** [3h Ts Ks]
+Tony Zhukov: checks 
+millwall92: checks 
+*** TURN *** [3h Ts Ks] [6h]
+Tony Zhukov: bets £0.20
+millwall92: folds 
+Uncalled bet (£0.20) returned to Tony Zhukov
+Tony Zhukov collected £0.62 from pot
+*** SUMMARY ***
+Total pot £0.65 | Rake £0.03 
+Board [3h Ts Ks 6h]
+Seat 1: electrobox (small blind) folded before Flop
+Seat 2: Hundrendret (big blind) folded before Flop
+Seat 4: Tony Zhukov collected (£0.62)
+Seat 5: millwall92 folded on the Turn
+Seat 6: Millwall2004 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977619534:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:25:16 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£12.67 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£10.40 in chips) 
+Seat 4: Tony Zhukov (£23.77 in chips) 
+Seat 5: millwall92 (£7.52 in chips) 
+Seat 6: Millwall2004 (£8.93 in chips) 
+Hundrendret: posts small blind £0.05
+Roope-SetÃ¤: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+millwall92: folds 
+Millwall2004: folds 
+electrobox: folds 
+Hundrendret: raises £0.20 to £0.30
+Roope-SetÃ¤: folds 
+Uncalled bet (£0.20) returned to Hundrendret
+Hundrendret collected £0.20 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 1: electrobox (button) folded before Flop (didn't bet)
+Seat 2: Hundrendret (small blind) collected (£0.20)
+Seat 3: Roope-SetÃ¤ (big blind) folded before Flop
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 folded before Flop (didn't bet)
+Seat 6: Millwall2004 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977631632:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:25:35 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£12.67 in chips) 
+Seat 2: Hundrendret (£10.10 in chips) 
+Seat 3: Roope-SetÃ¤ (£10.30 in chips) 
+Seat 4: Tony Zhukov (£23.77 in chips) 
+Seat 5: millwall92 (£7.52 in chips) 
+Seat 6: Millwall2004 (£8.93 in chips) 
+Roope-SetÃ¤: posts small blind £0.05
+Tony Zhukov: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: folds 
+Millwall2004: calls £0.10
+electrobox: folds 
+Hundrendret: folds 
+Roope-SetÃ¤: raises £0.40 to £0.50
+Tony Zhukov: folds 
+Millwall2004: calls £0.40
+*** FLOP *** [3s 8c Kh]
+Roope-SetÃ¤: checks 
+Millwall2004: checks 
+*** TURN *** [3s 8c Kh] [Th]
+Roope-SetÃ¤: checks 
+Millwall2004: bets £0.50
+Roope-SetÃ¤: calls £0.50
+*** RIVER *** [3s 8c Kh Th] [Jh]
+Roope-SetÃ¤: bets £1.20
+Millwall2004: calls £1.20
+*** SHOW DOWN ***
+Roope-SetÃ¤: shows [9h Ah] (a flush, Ace high)
+Millwall2004: mucks hand 
+Roope-SetÃ¤ collected £4.30 from pot
+*** SUMMARY ***
+Total pot £4.50 | Rake £0.20 
+Board [3s 8c Kh Th Jh]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret (button) folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ (small blind) showed [9h Ah] and won (£4.30) with a flush, Ace high
+Seat 4: Tony Zhukov (big blind) folded before Flop
+Seat 5: millwall92 folded before Flop (didn't bet)
+Seat 6: Millwall2004 mucked
+
+
+
+PokerStars Hand #222977665071:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:26:26 ET
+Table 'Sthenelos IV' 6-max Seat #3 is the button
+Seat 1: electrobox (£12.67 in chips) 
+Seat 2: Hundrendret (£10.10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.40 in chips) 
+Seat 4: Tony Zhukov (£23.67 in chips) 
+Seat 5: millwall92 (£7.52 in chips) 
+Seat 6: Millwall2004 (£6.73 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+Millwall2004: folds 
+electrobox: raises £0.20 to £0.30
+Hundrendret: folds 
+Roope-SetÃ¤: calls £0.30
+Tony Zhukov: folds 
+millwall92: calls £0.20
+*** FLOP *** [Ad Jc 5s]
+millwall92: checks 
+electrobox: bets £0.40
+Roope-SetÃ¤: folds 
+millwall92: calls £0.40
+*** TURN *** [Ad Jc 5s] [6s]
+millwall92: checks 
+electrobox: checks 
+*** RIVER *** [Ad Jc 5s 6s] [As]
+millwall92: checks 
+electrobox: bets £0.50
+millwall92: raises £0.50 to £1
+electrobox: folds 
+Uncalled bet (£0.50) returned to millwall92
+millwall92 collected £2.63 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £2.75 | Rake £0.12 
+Board [Ad Jc 5s 6s As]
+Seat 1: electrobox folded on the River
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ (button) folded on the Flop
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: millwall92 (big blind) collected (£2.63)
+Seat 6: Millwall2004 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977737107:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:28:16 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 1: electrobox (£11.47 in chips) 
+Seat 2: Hundrendret (£10.10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.10 in chips) 
+Seat 4: Tony Zhukov (£23.62 in chips) 
+Seat 5: millwall92 (£8.95 in chips) 
+Seat 6: Millwall2004 (£6.73 in chips) 
+millwall92: posts small blind £0.05
+Millwall2004: posts big blind £0.10
+*** HOLE CARDS ***
+electrobox: folds 
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: raises £0.20 to £0.30
+millwall92: folds 
+Millwall2004: calls £0.20
+*** FLOP *** [3c 5c 7c]
+Millwall2004: checks 
+Tony Zhukov: bets £0.34
+Millwall2004: calls £0.34
+*** TURN *** [3c 5c 7c] [3s]
+Millwall2004: checks 
+Tony Zhukov: bets £0.85
+Millwall2004: calls £0.85
+*** RIVER *** [3c 5c 7c 3s] [Ts]
+Millwall2004: bets £2.89
+Tony Zhukov: folds 
+Uncalled bet (£2.89) returned to Millwall2004
+Millwall2004 collected £2.89 from pot
+Millwall2004: doesn't show hand 
+*** SUMMARY ***
+Total pot £3.03 | Rake £0.14 
+Board [3c 5c 7c 3s Ts]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded on the River
+Seat 5: millwall92 (small blind) folded before Flop
+Seat 6: Millwall2004 (big blind) collected (£2.89)
+
+
+
+PokerStars Hand #222977770795:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:29:08 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£11.47 in chips) 
+Seat 2: Hundrendret (£10.10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.10 in chips) 
+Seat 4: Tony Zhukov (£22.13 in chips) 
+Seat 5: millwall92 (£8.90 in chips) 
+Seat 6: Millwall2004 (£8.13 in chips) 
+Millwall2004: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: raises £0.15 to £0.25
+millwall92: folds 
+Millwall2004: calls £0.20
+electrobox: folds 
+*** FLOP *** [6h Jc 6d]
+Millwall2004: checks 
+Tony Zhukov: checks 
+*** TURN *** [6h Jc 6d] [7h]
+Millwall2004: checks 
+Tony Zhukov: bets £0.19
+Millwall2004: folds 
+Uncalled bet (£0.19) returned to Tony Zhukov
+Tony Zhukov collected £0.57 from pot
+*** SUMMARY ***
+Total pot £0.60 | Rake £0.03 
+Board [6h Jc 6d 7h]
+Seat 1: electrobox (big blind) folded before Flop
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ folded before Flop (didn't bet)
+Seat 4: Tony Zhukov collected (£0.57)
+Seat 5: millwall92 (button) folded before Flop (didn't bet)
+Seat 6: Millwall2004 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222977794358:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:29:44 ET
+Table 'Sthenelos IV' 6-max Seat #6 is the button
+Seat 1: electrobox (£11.37 in chips) 
+Seat 2: Hundrendret (£10.10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.10 in chips) 
+Seat 4: Tony Zhukov (£22.45 in chips) 
+Seat 5: millwall92 (£8.90 in chips) 
+Seat 6: Millwall2004 (£7.88 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Roope-SetÃ¤: raises £0.20 to £0.30
+Tony Zhukov: calls £0.30
+millwall92: folds 
+Millwall2004: folds 
+electrobox: calls £0.25
+Hundrendret: folds 
+*** FLOP *** [4d 3h 8d]
+electrobox: checks 
+Roope-SetÃ¤: bets £0.70
+Tony Zhukov: folds 
+electrobox: folds 
+Uncalled bet (£0.70) returned to Roope-SetÃ¤
+Roope-SetÃ¤ collected £0.96 from pot
+Roope-SetÃ¤: doesn't show hand 
+*** SUMMARY ***
+Total pot £1 | Rake £0.04 
+Board [4d 3h 8d]
+Seat 1: electrobox (small blind) folded on the Flop
+Seat 2: Hundrendret (big blind) folded before Flop
+Seat 3: Roope-SetÃ¤ collected (£0.96)
+Seat 4: Tony Zhukov folded on the Flop
+Seat 5: millwall92 folded before Flop (didn't bet)
+Seat 6: Millwall2004 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977821996:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:30:26 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£11.07 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.76 in chips) 
+Seat 4: Tony Zhukov (£22.15 in chips) 
+Seat 5: millwall92 (£8.90 in chips) 
+Seat 6: Millwall2004 (£7.88 in chips) 
+Hundrendret: posts small blind £0.05
+Roope-SetÃ¤: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+millwall92: folds 
+Millwall2004: calls £0.10
+electrobox: folds 
+Hundrendret: folds 
+Roope-SetÃ¤: raises £0.30 to £0.40
+Millwall2004: folds 
+Uncalled bet (£0.30) returned to Roope-SetÃ¤
+Roope-SetÃ¤ collected £0.25 from pot
+Roope-SetÃ¤: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0 
+Seat 1: electrobox (button) folded before Flop (didn't bet)
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 3: Roope-SetÃ¤ (big blind) collected (£0.25)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 folded before Flop (didn't bet)
+Seat 6: Millwall2004 folded before Flop
+
+
+
+PokerStars Hand #222977832975:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:30:43 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£11.07 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.91 in chips) 
+Seat 4: Tony Zhukov (£22.15 in chips) 
+Seat 5: millwall92 (£8.90 in chips) 
+Seat 6: Millwall2004 (£7.78 in chips) 
+Roope-SetÃ¤: posts small blind £0.05
+Tony Zhukov: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: calls £0.10
+Millwall2004: folds 
+electrobox: folds 
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: checks 
+*** FLOP *** [2s 9h 3h]
+Tony Zhukov: checks 
+millwall92: checks 
+*** TURN *** [2s 9h 3h] [8s]
+Tony Zhukov: checks 
+millwall92: bets £0.10
+Tony Zhukov: folds 
+Uncalled bet (£0.10) returned to millwall92
+millwall92 collected £0.24 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0.01 
+Board [2s 9h 3h 8s]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret (button) folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ (small blind) folded before Flop
+Seat 4: Tony Zhukov (big blind) folded on the Turn
+Seat 5: millwall92 collected (£0.24)
+Seat 6: Millwall2004 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977848081:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:31:06 ET
+Table 'Sthenelos IV' 6-max Seat #3 is the button
+Seat 1: electrobox (£11.07 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£22.05 in chips) 
+Seat 5: millwall92 (£9.04 in chips) 
+Seat 6: Millwall2004 (£7.78 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+Millwall2004: calls £0.10
+electrobox: raises £0.50 to £0.60
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: folds 
+millwall92: folds 
+Millwall2004: calls £0.50
+*** FLOP *** [Ts 9c 2d]
+Millwall2004: checks 
+electrobox: bets £0.70
+Millwall2004: calls £0.70
+*** TURN *** [Ts 9c 2d] [Ac]
+Millwall2004: checks 
+electrobox: bets £1.20
+Millwall2004: calls £1.20
+*** RIVER *** [Ts 9c 2d Ac] [3h]
+Millwall2004: bets £5.28 and is all-in
+electrobox: calls £5.28
+*** SHOW DOWN ***
+Millwall2004: shows [Jh Kd] (high card Ace)
+electrobox: shows [Tc Kc] (a pair of Tens)
+electrobox collected £15 from pot
+*** SUMMARY ***
+Total pot £15.71 | Rake £0.71 
+Board [Ts 9c 2d Ac 3h]
+Seat 1: electrobox showed [Tc Kc] and won (£15) with a pair of Tens
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: millwall92 (big blind) folded before Flop
+Seat 6: Millwall2004 showed [Jh Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #222977886827:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:32:05 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 1: electrobox (£18.29 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£22 in chips) 
+Seat 5: millwall92 (£8.94 in chips) 
+millwall92: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: folds 
+millwall92: folds 
+Uncalled bet (£0.05) returned to electrobox
+electrobox collected £0.10 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.10 | Rake £0 
+Seat 1: electrobox (big blind) collected (£0.10)
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: millwall92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222977903864:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:32:31 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£18.34 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£22 in chips) 
+Seat 5: millwall92 (£8.89 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Roope-SetÃ¤: folds 
+Tony Zhukov: folds 
+millwall92: folds 
+Millwall2004 leaves the table
+electrobox: folds 
+Uncalled bet (£0.05) returned to Hundrendret
+Hundrendret collected £0.10 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.10 | Rake £0 
+Seat 1: electrobox (small blind) folded before Flop
+Seat 2: Hundrendret (big blind) collected (£0.10)
+Seat 3: Roope-SetÃ¤ folded before Flop (didn't bet)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977912607:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:32:45 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£18.29 in chips) 
+Seat 2: Hundrendret (£10.05 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£22 in chips) 
+Seat 5: millwall92 (£8.89 in chips) 
+Hundrendret: posts small blind £0.05
+Roope-SetÃ¤: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: raises £0.20 to £0.30
+millwall92: folds 
+electrobox: raises £1 to £1.30
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: calls £1
+*** FLOP *** [Qh 8d Ad]
+Tony Zhukov: checks 
+electrobox: bets £1
+Tony Zhukov: folds 
+Uncalled bet (£1) returned to electrobox
+electrobox collected £2.63 from pot
+electrobox: doesn't show hand 
+*** SUMMARY ***
+Total pot £2.75 | Rake £0.12 
+Board [Qh 8d Ad]
+Seat 1: electrobox (button) collected (£2.63)
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 3: Roope-SetÃ¤ (big blind) folded before Flop
+Seat 4: Tony Zhukov folded on the Flop
+Seat 5: millwall92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977953236:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:33:47 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£19.62 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.76 in chips) 
+Seat 4: Tony Zhukov (£20.70 in chips) 
+Seat 5: millwall92 (£8.89 in chips) 
+Roope-SetÃ¤: posts small blind £0.05
+Tony Zhukov: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: folds 
+electrobox: folds 
+Hundrendret: folds 
+Roope-SetÃ¤: raises £0.20 to £0.30
+Tony Zhukov: folds 
+Uncalled bet (£0.20) returned to Roope-SetÃ¤
+Roope-SetÃ¤ collected £0.20 from pot
+Roope-SetÃ¤: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret (button) folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ (small blind) collected (£0.20)
+Seat 4: Tony Zhukov (big blind) folded before Flop
+Seat 5: millwall92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222977961855:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:34:00 ET
+Table 'Sthenelos IV' 6-max Seat #3 is the button
+Seat 1: electrobox (£19.62 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£20.60 in chips) 
+Seat 5: millwall92 (£8.89 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+electrobox: raises £0.20 to £0.30
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: calls £0.25
+millwall92: calls £0.20
+*** FLOP *** [Td 9h 6c]
+Tony Zhukov: checks 
+millwall92: checks 
+electrobox: bets £0.50
+Tony Zhukov: folds 
+millwall92: calls £0.50
+*** TURN *** [Td 9h 6c] [7s]
+millwall92: checks 
+electrobox: checks 
+*** RIVER *** [Td 9h 6c 7s] [5s]
+millwall92: checks 
+electrobox: checks 
+*** SHOW DOWN ***
+millwall92: shows [Qd Js] (high card Queen)
+electrobox: shows [Jc Tc] (a pair of Tens)
+electrobox collected £1.81 from pot
+*** SUMMARY ***
+Total pot £1.90 | Rake £0.09 
+Board [Td 9h 6c 7s 5s]
+Seat 1: electrobox showed [Jc Tc] and won (£1.81) with a pair of Tens
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded on the Flop
+Seat 5: millwall92 (big blind) showed [Qd Js] and lost with high card Queen
+
+
+
+PokerStars Hand #222978001477:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:35:00 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 1: electrobox (£20.63 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£20.30 in chips) 
+Seat 5: millwall92 (£8.09 in chips) 
+millwall92: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Roope-SetÃ¤: folds 
+Tony Zhukov: raises £0.20 to £0.30
+millwall92: folds 
+electrobox: calls £0.20
+*** FLOP *** [2s 4c 8d]
+electrobox: checks 
+Tony Zhukov: bets £0.20
+electrobox: calls £0.20
+*** TURN *** [2s 4c 8d] [7c]
+electrobox: checks 
+Tony Zhukov: checks 
+*** RIVER *** [2s 4c 8d 7c] [Qc]
+electrobox: checks 
+Tony Zhukov: bets £0.75
+electrobox: calls £0.75
+*** SHOW DOWN ***
+Tony Zhukov: shows [Ad Qs] (a pair of Queens)
+electrobox: mucks hand 
+Tony Zhukov collected £2.44 from pot
+*** SUMMARY ***
+Total pot £2.55 | Rake £0.11 
+Board [2s 4c 8d 7c Qc]
+Seat 1: electrobox (big blind) mucked
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 3: Roope-SetÃ¤ folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) showed [Ad Qs] and won (£2.44) with a pair of Queens
+Seat 5: millwall92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978033062:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:35:49 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£19.38 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 3: Roope-SetÃ¤ (£12.86 in chips) 
+Seat 4: Tony Zhukov (£21.49 in chips) 
+Seat 5: millwall92 (£8.04 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Roope-SetÃ¤: folds 
+Tony Zhukov: folds 
+millwall92: calls £0.10
+electrobox: folds 
+Hundrendret: checks 
+*** FLOP *** [Ks 6h Jd]
+Roope-SetÃ¤ leaves the table
+Hundrendret: checks 
+millwall92: checks 
+*** TURN *** [Ks 6h Jd] [7h]
+Hundrendret: checks 
+millwall92: bets £0.10
+Hundrendret: folds 
+Uncalled bet (£0.10) returned to millwall92
+millwall92 collected £0.24 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0.01 
+Board [Ks 6h Jd 7h]
+Seat 1: electrobox (small blind) folded before Flop
+Seat 2: Hundrendret (big blind) folded on the Turn
+Seat 3: Roope-SetÃ¤ folded before Flop (didn't bet)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 (button) collected (£0.24)
+
+
+
+PokerStars Hand #222978052380:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:36:18 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£19.33 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£21.49 in chips) 
+Seat 5: millwall92 (£8.18 in chips) 
+Hundrendret: posts small blind £0.05
+Tony Zhukov: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: folds 
+electrobox: raises £0.20 to £0.30
+Hundrendret: folds 
+Tony Zhukov: calls £0.20
+*** FLOP *** [9c 8h 9h]
+Tony Zhukov: checks 
+electrobox: bets £0.60
+Tony Zhukov: raises £1 to £1.60
+electrobox: calls £1
+*** TURN *** [9c 8h 9h] [5d]
+Tony Zhukov: bets £2.60
+electrobox: calls £2.60
+*** RIVER *** [9c 8h 9h 5d] [6s]
+Roope-SetÃ¤ joins the table at seat #6 
+Tony Zhukov: bets £6.48
+electrobox: calls £6.48
+*** SHOW DOWN ***
+Tony Zhukov: shows [9s 7s] (a straight, Five to Nine)
+electrobox: mucks hand 
+Tony Zhukov collected £21.41 from pot
+*** SUMMARY ***
+Total pot £22.01 | Rake £0.60 
+Board [9c 8h 9h 5d 6s]
+Seat 1: electrobox (button) mucked
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 4: Tony Zhukov (big blind) showed [9s 7s] and won (£21.41) with a straight, Five to Nine
+Seat 5: millwall92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978084264:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:37:08 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£10 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£31.92 in chips) 
+Seat 5: millwall92 (£8.18 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+Roope-SetÃ¤: sits out 
+*** HOLE CARDS ***
+electrobox: folds 
+Hundrendret: folds 
+Tony Zhukov: folds 
+Uncalled bet (£0.05) returned to millwall92
+millwall92 collected £0.10 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.10 | Rake £0 
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: millwall92 (big blind) collected (£0.10)
+
+
+
+PokerStars Hand #222978088819:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:37:15 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 1: electrobox (£10 in chips) 
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£31.87 in chips) 
+Seat 5: millwall92 (£8.23 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.86 in chips) 
+millwall92: posts small blind £0.05
+Roope-SetÃ¤: posts big blind £0.10
+*** HOLE CARDS ***
+electrobox: folds 
+Hundrendret: raises £0.20 to £0.30
+Tony Zhukov: folds 
+millwall92: folds 
+Roope-SetÃ¤: calls £0.20
+*** FLOP *** [3h 6s 5s]
+Roope-SetÃ¤: checks 
+Hundrendret: bets £0.30
+Roope-SetÃ¤: folds 
+Uncalled bet (£0.30) returned to Hundrendret
+Hundrendret collected £0.62 from pot
+Hundrendret: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.65 | Rake £0.03 
+Board [3h 6s 5s]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret collected (£0.62)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: millwall92 (small blind) folded before Flop
+Seat 6: Roope-SetÃ¤ (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222978111648:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:37:50 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£10 in chips) 
+Seat 2: Hundrendret (£10.32 in chips) 
+Seat 4: Tony Zhukov (£31.87 in chips) 
+Seat 5: millwall92 (£8.18 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.56 in chips) 
+Roope-SetÃ¤: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Tony Zhukov: folds 
+millwall92: calls £0.10
+Roope-SetÃ¤: folds 
+electrobox: checks 
+*** FLOP *** [Th 9h Jh]
+electrobox: bets £0.30
+millwall92: calls £0.30
+*** TURN *** [Th 9h Jh] [2h]
+electrobox: checks 
+millwall92: bets £0.50
+electrobox: calls £0.50
+*** RIVER *** [Th 9h Jh 2h] [Qs]
+electrobox: checks 
+millwall92: checks 
+*** SHOW DOWN ***
+electrobox: shows [Jd 5h] (a flush, Jack high)
+millwall92: mucks hand 
+electrobox collected £1.77 from pot
+*** SUMMARY ***
+Total pot £1.85 | Rake £0.08 
+Board [Th 9h Jh 2h Qs]
+Seat 1: electrobox (big blind) showed [Jd 5h] and won (£1.77) with a flush, Jack high
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 (button) mucked
+Seat 6: Roope-SetÃ¤ (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978135255:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:38:27 ET
+Table 'Sthenelos IV' 6-max Seat #6 is the button
+Seat 1: electrobox (£10.87 in chips) 
+Seat 2: Hundrendret (£10.32 in chips) 
+Seat 4: Tony Zhukov (£31.87 in chips) 
+Seat 5: millwall92 (£7.28 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.51 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+millwall92: calls £0.10
+Roope-SetÃ¤: folds 
+electrobox: folds 
+Hundrendret: checks 
+*** FLOP *** [Qh Th 4d]
+Hundrendret: checks 
+millwall92: checks 
+*** TURN *** [Qh Th 4d] [5d]
+Hundrendret: checks 
+millwall92: bets £0.10
+Hundrendret: folds 
+Uncalled bet (£0.10) returned to millwall92
+millwall92 collected £0.24 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0.01 
+Board [Qh Th 4d 5d]
+Seat 1: electrobox (small blind) folded before Flop
+Seat 2: Hundrendret (big blind) folded on the Turn
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 collected (£0.24)
+Seat 6: Roope-SetÃ¤ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978149191:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:38:49 ET
+Table 'Sthenelos IV' 6-max Seat #1 is the button
+Seat 1: electrobox (£10.82 in chips) 
+Seat 2: Hundrendret (£10.22 in chips) 
+Seat 4: Tony Zhukov (£31.87 in chips) 
+Seat 5: millwall92 (£7.42 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.51 in chips) 
+Hundrendret: posts small blind £0.05
+Tony Zhukov: posts big blind £0.10
+*** HOLE CARDS ***
+millwall92: calls £0.10
+Roope-SetÃ¤: raises £0.30 to £0.40
+electrobox: folds 
+Hundrendret: folds 
+Tony Zhukov: calls £0.30
+millwall92: calls £0.30
+*** FLOP *** [8c Jh Kh]
+Tony Zhukov: checks 
+millwall92: checks 
+Roope-SetÃ¤: checks 
+*** TURN *** [8c Jh Kh] [Qd]
+Tony Zhukov: checks 
+millwall92: bets £0.50
+Roope-SetÃ¤: folds 
+Tony Zhukov: folds 
+Uncalled bet (£0.50) returned to millwall92
+millwall92 collected £1.19 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £1.25 | Rake £0.06 
+Board [8c Jh Kh Qd]
+Seat 1: electrobox (button) folded before Flop (didn't bet)
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 4: Tony Zhukov (big blind) folded on the Turn
+Seat 5: millwall92 collected (£1.19)
+Seat 6: Roope-SetÃ¤ folded on the Turn
+
+
+
+PokerStars Hand #222978178651:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:39:35 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 1: electrobox (£10.82 in chips) 
+Seat 2: Hundrendret (£10.17 in chips) 
+Seat 4: Tony Zhukov (£31.47 in chips) 
+Seat 5: millwall92 (£8.21 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.11 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+Roope-SetÃ¤: raises £0.20 to £0.30
+electrobox: folds 
+Hundrendret: folds 
+Tony Zhukov: folds 
+millwall92: calls £0.20
+*** FLOP *** [2h Kd 4s]
+millwall92: checks 
+Roope-SetÃ¤: bets £0.50
+millwall92: folds 
+Uncalled bet (£0.50) returned to Roope-SetÃ¤
+Roope-SetÃ¤ collected £0.62 from pot
+Roope-SetÃ¤: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.65 | Rake £0.03 
+Board [2h Kd 4s]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret (button) folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: millwall92 (big blind) folded on the Flop
+Seat 6: Roope-SetÃ¤ collected (£0.62)
+
+
+
+PokerStars Hand #222978192727:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:39:57 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 1: electrobox (£10.82 in chips) 
+Seat 2: Hundrendret (£10.17 in chips) 
+Seat 4: Tony Zhukov (£31.42 in chips) 
+Seat 5: millwall92 (£7.91 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.43 in chips) 
+millwall92: posts small blind £0.05
+Roope-SetÃ¤: posts big blind £0.10
+*** HOLE CARDS ***
+electrobox: folds 
+Hundrendret: folds 
+Tony Zhukov: folds 
+millwall92: calls £0.05
+Roope-SetÃ¤: raises £0.20 to £0.30
+millwall92: calls £0.20
+*** FLOP *** [Jc 7s Jh]
+millwall92: checks 
+Roope-SetÃ¤: bets £0.34
+millwall92: folds 
+Uncalled bet (£0.34) returned to Roope-SetÃ¤
+Roope-SetÃ¤ collected £0.57 from pot
+Roope-SetÃ¤: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.60 | Rake £0.03 
+Board [Jc 7s Jh]
+Seat 1: electrobox folded before Flop (didn't bet)
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: millwall92 (small blind) folded on the Flop
+Seat 6: Roope-SetÃ¤ (big blind) collected (£0.57)
+
+
+
+PokerStars Hand #222978223039:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:40:44 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 1: electrobox (£10.82 in chips) 
+Seat 2: Hundrendret (£10.17 in chips) 
+Seat 4: Tony Zhukov (£31.42 in chips) 
+Seat 5: millwall92 (£7.61 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.70 in chips) 
+Roope-SetÃ¤: posts small blind £0.05
+electrobox: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Tony Zhukov: folds 
+millwall92: calls £0.10
+Roope-SetÃ¤: folds 
+electrobox: raises £0.40 to £0.50
+millwall92: calls £0.40
+*** FLOP *** [Qc Ah 9c]
+electrobox: bets £1
+millwall92: calls £1
+*** TURN *** [Qc Ah 9c] [4h]
+electrobox: bets £8.40
+millwall92: calls £6.11 and is all-in
+Uncalled bet (£2.29) returned to electrobox
+*** RIVER *** [Qc Ah 9c 4h] [8s]
+*** SHOW DOWN ***
+electrobox: shows [Jd As] (a pair of Aces)
+millwall92: shows [Jh Ad] (a pair of Aces)
+electrobox collected £7.29 from pot
+millwall92 collected £7.29 from pot
+*** SUMMARY ***
+Total pot £15.27 | Rake £0.69 
+Board [Qc Ah 9c 4h 8s]
+Seat 1: electrobox (big blind) showed [Jd As] and won (£7.29) with a pair of Aces
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 (button) showed [Jh Ad] and won (£7.29) with a pair of Aces
+Seat 6: Roope-SetÃ¤ (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978248962:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:41:25 ET
+Table 'Sthenelos IV' 6-max Seat #6 is the button
+Seat 1: electrobox (£10.50 in chips) 
+Seat 2: Hundrendret (£10.17 in chips) 
+Seat 4: Tony Zhukov (£31.42 in chips) 
+Seat 5: millwall92 (£7.29 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.65 in chips) 
+electrobox: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+millwall92: calls £0.10
+Roope-SetÃ¤: folds 
+electrobox: raises £0.40 to £0.50
+Hundrendret: folds 
+millwall92: calls £0.40
+*** FLOP *** [7h Ks Td]
+electrobox: bets £0.60
+millwall92: calls £0.60
+*** TURN *** [7h Ks Td] [5d]
+electrobox: bets £1.47
+millwall92: raises £1.47 to £2.94
+electrobox: calls £1.47
+*** RIVER *** [7h Ks Td 5d] [4s]
+electrobox: checks 
+millwall92: bets £3.25 and is all-in
+electrobox: folds 
+Uncalled bet (£3.25) returned to millwall92
+millwall92 collected £7.81 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £8.18 | Rake £0.37 
+Board [7h Ks Td 5d 4s]
+Seat 1: electrobox (small blind) folded on the River
+Seat 2: Hundrendret (big blind) folded before Flop
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 collected (£7.81)
+Seat 6: Roope-SetÃ¤ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978294958:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:42:23 ET
+Table 'Sthenelos IV' 6-max Seat #2 is the button
+Seat 2: Hundrendret (£10.07 in chips) 
+Seat 4: Tony Zhukov (£31.42 in chips) 
+Seat 5: millwall92 (£11.06 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.65 in chips) 
+Tony Zhukov: posts small blind £0.05
+millwall92: posts big blind £0.10
+*** HOLE CARDS ***
+electrobox leaves the table
+Roope-SetÃ¤: folds 
+Hundrendret: raises £0.20 to £0.30
+Tony Zhukov: folds 
+millwall92: calls £0.20
+*** FLOP *** [Jh 3h Ah]
+millwall92: checks 
+Hundrendret: checks 
+*** TURN *** [Jh 3h Ah] [5h]
+millwall92: bets £0.10
+Hundrendret: folds 
+Uncalled bet (£0.10) returned to millwall92
+millwall92 collected £0.62 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.65 | Rake £0.03 
+Board [Jh 3h Ah 5h]
+Seat 2: Hundrendret (button) folded on the Turn
+Seat 4: Tony Zhukov (small blind) folded before Flop
+Seat 5: millwall92 (big blind) collected (£0.62)
+Seat 6: Roope-SetÃ¤ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222978311786:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:42:50 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£31.37 in chips) 
+Seat 5: millwall92 (£11.38 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.65 in chips) 
+millwall92: posts small blind £0.05
+Roope-SetÃ¤: posts big blind £0.10
+*** HOLE CARDS ***
+Hundrendret: folds 
+Tony Zhukov: folds 
+millwall92: calls £0.05
+Roope-SetÃ¤: checks 
+*** FLOP *** [Qs Ad 5h]
+millwall92: checks 
+Roope-SetÃ¤: checks 
+*** TURN *** [Qs Ad 5h] [5d]
+millwall92: bets £0.10
+Roope-SetÃ¤: folds 
+Uncalled bet (£0.10) returned to millwall92
+millwall92 collected £0.19 from pot
+millwall92: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.20 | Rake £0.01 
+Board [Qs Ad 5h 5d]
+Seat 2: Hundrendret folded before Flop (didn't bet)
+Seat 4: Tony Zhukov (button) folded before Flop (didn't bet)
+Seat 5: millwall92 (small blind) collected (£0.19)
+Seat 6: Roope-SetÃ¤ (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222978334318:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:43:26 ET
+Table 'Sthenelos IV' 6-max Seat #5 is the button
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£31.37 in chips) 
+Seat 5: millwall92 (£11.47 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.55 in chips) 
+Roope-SetÃ¤: posts small blind £0.05
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+OllieMac86 joins the table at seat #3 
+millwall92: folds 
+Roope-SetÃ¤: folds 
+Uncalled bet (£0.05) returned to Hundrendret
+Hundrendret collected £0.10 from pot
+Hundrendret: doesn't show hand 
+millwall92 leaves the table
+*** SUMMARY ***
+Total pot £0.10 | Rake £0 
+Seat 2: Hundrendret (big blind) collected (£0.10)
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 5: millwall92 (button) folded before Flop (didn't bet)
+Seat 6: Roope-SetÃ¤ (small blind) folded before Flop
+
+
+
+PokerStars Hand #222978344127:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:43:42 ET
+Table 'Sthenelos IV' 6-max Seat #6 is the button
+Seat 2: Hundrendret (£10.05 in chips) 
+Seat 3: OllieMac86 (£10 in chips) 
+Seat 4: Tony Zhukov (£31.37 in chips) 
+Seat 6: Roope-SetÃ¤ (£12.50 in chips) 
+Hundrendret: posts small blind £0.05
+OllieMac86: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: folds 
+Roope-SetÃ¤: raises £0.20 to £0.30
+Hundrendret: folds 
+OllieMac86 is disconnected 
+OllieMac86 has timed out while disconnected
+OllieMac86: folds 
+Uncalled bet (£0.20) returned to Roope-SetÃ¤
+Roope-SetÃ¤ collected £0.25 from pot
+Roope-SetÃ¤: doesn't show hand 
+*** SUMMARY ***
+Total pot £0.25 | Rake £0 
+Seat 2: Hundrendret (small blind) folded before Flop
+Seat 3: OllieMac86 (big blind) folded before Flop
+Seat 4: Tony Zhukov folded before Flop (didn't bet)
+Seat 6: Roope-SetÃ¤ (button) collected (£0.25)
+
+
+
+PokerStars Hand #222978375534:  Hold'em No Limit (£0.05/£0.10 GBP) - 2021/01/23 18:44:31 ET
+Table 'Sthenelos IV' 6-max Seat #4 is the button
+Seat 2: Hundrendret (£10 in chips) 
+Seat 4: Tony Zhukov (£31.37 in chips) 
+Tony Zhukov: posts small blind £0.05
+Roope-SetÃ¤: is sitting out 
+Hundrendret: posts big blind £0.10
+*** HOLE CARDS ***
+Tony Zhukov: raises £0.20 to £0.30
+Hundrendret: folds 
+Uncalled bet (£0.20) returned to Tony Zhukov
+Tony Zhukov collected £0.20 from pot
+*** SUMMARY ***
+Total pot £0.20 | Rake £0 
+Seat 2: Hundrendret (big blind) folded before Flop
+Seat 4: Tony Zhukov (button) (small blind) collected (£0.20)
+
+
+

@@ -1,0 +1,897 @@
+﻿PokerStars Hand #222958623602:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:17:27 ET
+Table 'Nehalennia III' 6-max Seat #6 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: MrBearJew ($20.10 in chips) 
+Seat 5: DiskoDancer ($10 in chips) 
+Seat 6: ProkterTerri ($16.10 in chips) 
+uterkrm.ua: posts small blind $0.05
+MrBearJew: posts big blind $0.10
+AJAJ8787: sits out 
+*** HOLE CARDS ***
+DiskoDancer: folds 
+ProkterTerri: folds 
+uterkrm.ua: folds 
+Uncalled bet ($0.05) returned to MrBearJew
+MrBearJew collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: uterkrm.ua (small blind) folded before Flop
+Seat 2: MrBearJew (big blind) collected ($0.10)
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: ProkterTerri (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958629477:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:17:37 ET
+Table 'Nehalennia III' 6-max Seat #1 is the button
+Seat 1: uterkrm.ua ($10 in chips) 
+Seat 2: MrBearJew ($20.15 in chips) 
+Seat 3: AJAJ8787 ($8 in chips) 
+Seat 5: DiskoDancer ($10 in chips) 
+Seat 6: ProkterTerri ($16.10 in chips) 
+MrBearJew: posts small blind $0.05
+AJAJ8787: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer: folds 
+ProkterTerri: folds 
+uterkrm.ua: raises $0.10 to $0.20
+MrBearJew: folds 
+AJAJ8787: folds 
+Uncalled bet ($0.10) returned to uterkrm.ua
+uterkrm.ua collected $0.25 from pot
+uterkrm.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: uterkrm.ua (button) collected ($0.25)
+Seat 2: MrBearJew (small blind) folded before Flop
+Seat 3: AJAJ8787 (big blind) folded before Flop
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: ProkterTerri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958637567:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:17:51 ET
+Table 'Nehalennia III' 6-max Seat #2 is the button
+Seat 1: uterkrm.ua ($10.15 in chips) 
+Seat 2: MrBearJew ($20.10 in chips) 
+Seat 3: AJAJ8787 ($7.90 in chips) 
+Seat 5: DiskoDancer ($10 in chips) 
+Seat 6: ProkterTerri ($16.10 in chips) 
+AJAJ8787: posts small blind $0.05
+DiskoDancer: posts big blind $0.10
+*** HOLE CARDS ***
+ProkterTerri: folds 
+uterkrm.ua: folds 
+MrBearJew: calls $0.10
+AJAJ8787: calls $0.05
+DiskoDancer: checks 
+*** FLOP *** [3c Ah 2d]
+ProkterTerri leaves the table
+AJAJ8787: checks 
+Ruman_One joins the table at seat #6 
+DiskoDancer: bets $0.22
+MrBearJew: calls $0.22
+AJAJ8787: folds 
+*** TURN *** [3c Ah 2d] [Kd]
+DiskoDancer: bets $0.61
+MrBearJew: calls $0.61
+*** RIVER *** [3c Ah 2d Kd] [Qh]
+DiskoDancer: bets $1.76
+MrBearJew: calls $1.76
+*** SHOW DOWN ***
+DiskoDancer: shows [5d 4h] (a straight, Ace to Five)
+MrBearJew: mucks hand 
+DiskoDancer collected $5.23 from pot
+*** SUMMARY ***
+Total pot $5.48 | Rake $0.25 
+Board [3c Ah 2d Kd Qh]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MrBearJew (button) mucked
+Seat 3: AJAJ8787 (small blind) folded on the Flop
+Seat 5: DiskoDancer (big blind) showed [5d 4h] and won ($5.23) with a straight, Ace to Five
+Seat 6: ProkterTerri folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958666197:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:18:38 ET
+Table 'Nehalennia III' 6-max Seat #3 is the button
+Seat 1: uterkrm.ua ($10.15 in chips) 
+Seat 2: MrBearJew ($17.41 in chips) 
+Seat 3: AJAJ8787 ($7.80 in chips) 
+Seat 5: DiskoDancer ($12.54 in chips) 
+Seat 6: Ruman_One ($10 in chips) 
+DiskoDancer: posts small blind $0.05
+Ruman_One: posts big blind $0.10
+*** HOLE CARDS ***
+uterkrm.ua: folds 
+MrBearJew: calls $0.10
+AJAJ8787: calls $0.10
+DiskoDancer: folds 
+szCsaba79 leaves the table
+uterkrm.ua leaves the table
+Ruman_One: checks 
+*** FLOP *** [Td 5s Qh]
+Ruman_One: checks 
+MrBearJew: checks 
+AJAJ8787: checks 
+*** TURN *** [Td 5s Qh] [Qc]
+Ruman_One: checks 
+sttanlley joins the table at seat #4 
+MrBearJew: checks 
+AJAJ8787: checks 
+*** RIVER *** [Td 5s Qh Qc] [Qd]
+Anudrmdrfkr joins the table at seat #1 
+Ruman_One: checks 
+MrBearJew: bets $0.20
+AJAJ8787: calls $0.20
+Ruman_One: folds 
+*** SHOW DOWN ***
+MrBearJew: shows [4s 2s] (three of a kind, Queens)
+AJAJ8787: shows [2h 2c] (a full house, Queens full of Deuces)
+AJAJ8787 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Td 5s Qh Qc Qd]
+Seat 1: uterkrm.ua folded before Flop (didn't bet)
+Seat 2: MrBearJew showed [4s 2s] and lost with three of a kind, Queens
+Seat 3: AJAJ8787 (button) showed [2h 2c] and won ($0.72) with a full house, Queens full of Deuces
+Seat 5: DiskoDancer (small blind) folded before Flop
+Seat 6: Ruman_One (big blind) folded on the River
+
+
+
+PokerStars Hand #222958698449:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:19:31 ET
+Table 'Nehalennia III' 6-max Seat #5 is the button
+Seat 1: Anudrmdrfkr ($10 in chips) 
+Seat 2: MrBearJew ($17.11 in chips) 
+Seat 3: AJAJ8787 ($8.22 in chips) 
+Seat 5: DiskoDancer ($12.49 in chips) 
+Seat 6: Ruman_One ($9.90 in chips) 
+Ruman_One: posts small blind $0.05
+Anudrmdrfkr: posts big blind $0.10
+sttanlley: sits out 
+*** HOLE CARDS ***
+MrBearJew: folds 
+AJAJ8787: calls $0.10
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: checks 
+*** FLOP *** [9c Kc Ks]
+Anudrmdrfkr: checks 
+AJAJ8787: checks 
+*** TURN *** [9c Kc Ks] [2d]
+Anudrmdrfkr: bets $0.24
+AJAJ8787: folds 
+Uncalled bet ($0.24) returned to Anudrmdrfkr
+Anudrmdrfkr collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c Kc Ks 2d]
+Seat 1: Anudrmdrfkr (big blind) collected ($0.24)
+Seat 2: MrBearJew folded before Flop (didn't bet)
+Seat 3: AJAJ8787 folded on the Turn
+Seat 5: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 6: Ruman_One (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958715263:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:19:59 ET
+Table 'Nehalennia III' 6-max Seat #6 is the button
+Seat 1: Anudrmdrfkr ($10.14 in chips) 
+Seat 2: MrBearJew ($17.11 in chips) 
+Seat 3: AJAJ8787 ($8.12 in chips) 
+Seat 5: DiskoDancer ($12.49 in chips) 
+Seat 6: Ruman_One ($9.85 in chips) 
+Anudrmdrfkr: posts small blind $0.05
+MrBearJew: posts big blind $0.10
+sttanlley: sits out 
+*** HOLE CARDS ***
+AJAJ8787: folds 
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: raises $0.17 to $0.27
+MrBearJew: calls $0.17
+*** FLOP *** [6c 2c 6s]
+Anudrmdrfkr: bets $0.35
+MrBearJew: calls $0.35
+*** TURN *** [6c 2c 6s] [Ah]
+Anudrmdrfkr: bets $0.79
+MrBearJew: folds 
+Uncalled bet ($0.79) returned to Anudrmdrfkr
+Anudrmdrfkr collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.06 
+Board [6c 2c 6s Ah]
+Seat 1: Anudrmdrfkr (small blind) collected ($1.18)
+Seat 2: MrBearJew (big blind) folded on the Turn
+Seat 3: AJAJ8787 folded before Flop (didn't bet)
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: Ruman_One (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958729481:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:20:23 ET
+Table 'Nehalennia III' 6-max Seat #1 is the button
+Seat 1: Anudrmdrfkr ($10.70 in chips) 
+Seat 2: MrBearJew ($16.49 in chips) 
+Seat 3: AJAJ8787 ($8.12 in chips) 
+Seat 5: DiskoDancer ($12.49 in chips) 
+Seat 6: Ruman_One ($9.85 in chips) 
+MrBearJew: posts small blind $0.05
+AJAJ8787: posts big blind $0.10
+sttanlley: sits out 
+*** HOLE CARDS ***
+DiskoDancer: raises $0.15 to $0.25
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+MrBearJew: folds 
+AJAJ8787: folds 
+Uncalled bet ($0.15) returned to DiskoDancer
+DiskoDancer collected $0.25 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Anudrmdrfkr (button) folded before Flop (didn't bet)
+Seat 2: MrBearJew (small blind) folded before Flop
+Seat 3: AJAJ8787 (big blind) folded before Flop
+Seat 5: DiskoDancer collected ($0.25)
+Seat 6: Ruman_One folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958736588:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:20:34 ET
+Table 'Nehalennia III' 6-max Seat #2 is the button
+Seat 1: Anudrmdrfkr ($10.70 in chips) 
+Seat 2: MrBearJew ($16.44 in chips) 
+Seat 3: AJAJ8787 ($8.02 in chips) 
+Seat 4: sttanlley ($10 in chips) 
+Seat 5: DiskoDancer ($12.64 in chips) 
+Seat 6: Ruman_One ($9.85 in chips) 
+AJAJ8787: posts small blind $0.05
+sttanlley: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+MrBearJew: calls $0.10
+AJAJ8787: calls $0.05
+sttanlley: checks 
+*** FLOP *** [7s 8d 8c]
+AJAJ8787: checks 
+sttanlley: bets $0.20
+MrBearJew: calls $0.20
+AJAJ8787: folds 
+*** TURN *** [7s 8d 8c] [4c]
+sttanlley: bets $0.40
+MrBearJew: calls $0.40
+*** RIVER *** [7s 8d 8c 4c] [4h]
+sttanlley: checks 
+MrBearJew: checks 
+*** SHOW DOWN ***
+sttanlley: shows [7d 3c] (two pair, Eights and Sevens)
+MrBearJew: mucks hand 
+sttanlley collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [7s 8d 8c 4c 4h]
+Seat 1: Anudrmdrfkr folded before Flop (didn't bet)
+Seat 2: MrBearJew (button) mucked
+Seat 3: AJAJ8787 (small blind) folded on the Flop
+Seat 4: sttanlley (big blind) showed [7d 3c] and won ($1.43) with two pair, Eights and Sevens
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: Ruman_One folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958764515:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:21:20 ET
+Table 'Nehalennia III' 6-max Seat #3 is the button
+Seat 1: Anudrmdrfkr ($10.70 in chips) 
+Seat 2: MrBearJew ($15.74 in chips) 
+Seat 3: AJAJ8787 ($7.92 in chips) 
+Seat 4: sttanlley ($10.73 in chips) 
+Seat 5: DiskoDancer ($12.64 in chips) 
+Seat 6: Ruman_One ($9.85 in chips) 
+sttanlley: posts small blind $0.05
+DiskoDancer: posts big blind $0.10
+*** HOLE CARDS ***
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+MrBearJew: folds 
+AJAJ8787: folds 
+sttanlley: folds 
+Uncalled bet ($0.05) returned to DiskoDancer
+DiskoDancer collected $0.10 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Anudrmdrfkr folded before Flop (didn't bet)
+Seat 2: MrBearJew folded before Flop (didn't bet)
+Seat 3: AJAJ8787 (button) folded before Flop (didn't bet)
+Seat 4: sttanlley (small blind) folded before Flop
+Seat 5: DiskoDancer (big blind) collected ($0.10)
+Seat 6: Ruman_One folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958773568:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:21:35 ET
+Table 'Nehalennia III' 6-max Seat #4 is the button
+Seat 1: Anudrmdrfkr ($10.70 in chips) 
+Seat 2: MrBearJew ($15.74 in chips) 
+Seat 3: AJAJ8787 ($7.92 in chips) 
+Seat 4: sttanlley ($10.68 in chips) 
+Seat 5: DiskoDancer ($12.69 in chips) 
+Seat 6: Ruman_One ($9.85 in chips) 
+DiskoDancer: posts small blind $0.05
+Ruman_One: posts big blind $0.10
+*** HOLE CARDS ***
+Anudrmdrfkr: raises $0.17 to $0.27
+MrBearJew: folds 
+AJAJ8787: folds 
+sttanlley: folds 
+DiskoDancer: folds 
+Ruman_One: folds 
+Uncalled bet ($0.17) returned to Anudrmdrfkr
+Anudrmdrfkr collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Anudrmdrfkr collected ($0.25)
+Seat 2: MrBearJew folded before Flop (didn't bet)
+Seat 3: AJAJ8787 folded before Flop (didn't bet)
+Seat 4: sttanlley (button) folded before Flop (didn't bet)
+Seat 5: DiskoDancer (small blind) folded before Flop
+Seat 6: Ruman_One (big blind) folded before Flop
+
+
+
+PokerStars Hand #222958786726:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:21:57 ET
+Table 'Nehalennia III' 6-max Seat #5 is the button
+Seat 1: Anudrmdrfkr ($10.85 in chips) 
+Seat 2: MrBearJew ($15.74 in chips) 
+Seat 3: AJAJ8787 ($7.92 in chips) 
+Seat 4: sttanlley ($10.68 in chips) 
+Seat 5: DiskoDancer ($12.64 in chips) 
+Seat 6: Ruman_One ($9.75 in chips) 
+Ruman_One: posts small blind $0.05
+Anudrmdrfkr: posts big blind $0.10
+*** HOLE CARDS ***
+MrBearJew: folds 
+AJAJ8787: calls $0.10
+sttanlley: folds 
+DiskoDancer: raises $0.30 to $0.40
+Ruman_One: folds 
+Anudrmdrfkr: calls $0.30
+AJAJ8787: calls $0.30
+*** FLOP *** [6s 2s 9d]
+Anudrmdrfkr: bets $0.80
+AJAJ8787: folds 
+DiskoDancer: calls $0.80
+*** TURN *** [6s 2s 9d] [2c]
+Anudrmdrfkr: bets $1.81
+DiskoDancer: folds 
+Uncalled bet ($1.81) returned to Anudrmdrfkr
+Anudrmdrfkr collected $2.72 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.13 
+Board [6s 2s 9d 2c]
+Seat 1: Anudrmdrfkr (big blind) collected ($2.72)
+Seat 2: MrBearJew folded before Flop (didn't bet)
+Seat 3: AJAJ8787 folded on the Flop
+Seat 4: sttanlley folded before Flop (didn't bet)
+Seat 5: DiskoDancer (button) folded on the Turn
+Seat 6: Ruman_One (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958823501:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:22:57 ET
+Table 'Nehalennia III' 6-max Seat #6 is the button
+Seat 1: Anudrmdrfkr ($12.37 in chips) 
+Seat 2: MrBearJew ($15.74 in chips) 
+Seat 3: AJAJ8787 ($7.52 in chips) 
+Seat 4: sttanlley ($10.68 in chips) 
+Seat 5: DiskoDancer ($11.44 in chips) 
+Seat 6: Ruman_One ($9.70 in chips) 
+Anudrmdrfkr: posts small blind $0.05
+MrBearJew: posts big blind $0.10
+*** HOLE CARDS ***
+AJAJ8787: calls $0.10
+sttanlley: folds 
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+MrBearJew: checks 
+*** FLOP *** [7c 8d Ah]
+MrBearJew: bets $0.24
+AJAJ8787: folds 
+Uncalled bet ($0.24) returned to MrBearJew
+MrBearJew collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7c 8d Ah]
+Seat 1: Anudrmdrfkr (small blind) folded before Flop
+Seat 2: MrBearJew (big blind) collected ($0.24)
+Seat 3: AJAJ8787 folded on the Flop
+Seat 4: sttanlley folded before Flop (didn't bet)
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: Ruman_One (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222958953507:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:26:32 ET
+Table 'Nehalennia III' 6-max Seat #5 is the button
+Seat 1: Anudrmdrfkr ($12.32 in chips) 
+Seat 2: MrBearJew ($15.85 in chips) 
+Seat 3: AJAJ8787 ($2.68 in chips) 
+Seat 4: sttanlley ($10.48 in chips) 
+Seat 5: DiskoDancer ($11.29 in chips) 
+Seat 6: Ruman_One ($14.33 in chips) 
+Ruman_One: posts small blind $0.05
+Anudrmdrfkr: posts big blind $0.10
+*** HOLE CARDS ***
+MrBearJew: raises $0.10 to $0.20
+AJAJ8787: calls $0.20
+sttanlley: calls $0.20
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: calls $0.10
+*** FLOP *** [Qs Qh Qc]
+Anudrmdrfkr: checks 
+MrBearJew: checks 
+AJAJ8787: checks 
+sttanlley: checks 
+*** TURN *** [Qs Qh Qc] [3c]
+Anudrmdrfkr: checks 
+MrBearJew: checks 
+AJAJ8787: checks 
+sttanlley: checks 
+*** RIVER *** [Qs Qh Qc 3c] [3d]
+Anudrmdrfkr: checks 
+MrBearJew: checks 
+AJAJ8787: checks 
+sttanlley: checks 
+*** SHOW DOWN ***
+Anudrmdrfkr: shows [6h Ac] (a full house, Queens full of Threes)
+MrBearJew: shows [Td 5d] (a full house, Queens full of Threes)
+AJAJ8787: shows [6s 5c] (a full house, Queens full of Threes)
+sttanlley: shows [8h Ah] (a full house, Queens full of Threes)
+Anudrmdrfkr collected $0.21 from pot
+MrBearJew collected $0.20 from pot
+AJAJ8787 collected $0.20 from pot
+sttanlley collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [Qs Qh Qc 3c 3d]
+Seat 1: Anudrmdrfkr (big blind) showed [6h Ac] and won ($0.21) with a full house, Queens full of Threes
+Seat 2: MrBearJew showed [Td 5d] and won ($0.20) with a full house, Queens full of Threes
+Seat 3: AJAJ8787 showed [6s 5c] and won ($0.20) with a full house, Queens full of Threes
+Seat 4: sttanlley showed [8h Ah] and won ($0.20) with a full house, Queens full of Threes
+Seat 5: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 6: Ruman_One (small blind) folded before Flop
+
+
+
+PokerStars Hand #222958978137:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:27:07 ET
+Table 'Nehalennia III' 6-max Seat #6 is the button
+Seat 1: Anudrmdrfkr ($12.33 in chips) 
+Seat 3: AJAJ8787 ($2.68 in chips) 
+Seat 4: sttanlley ($10.48 in chips) 
+Seat 5: DiskoDancer ($11.29 in chips) 
+Seat 6: Ruman_One ($14.28 in chips) 
+Anudrmdrfkr: posts small blind $0.05
+MrBearJew: is sitting out 
+AJAJ8787: posts big blind $0.10
+*** HOLE CARDS ***
+sttanlley: folds 
+MrBearJew leaves the table
+DiskoDancer: raises $0.10 to $0.20
+Ruman_One: folds 
+Anudrmdrfkr: calls $0.15
+AJAJ8787: calls $0.10
+*** FLOP *** [5s 4c Ad]
+Anudrmdrfkr: checks 
+AJAJ8787: checks 
+DiskoDancer: checks 
+*** TURN *** [5s 4c Ad] [3d]
+Anudrmdrfkr: checks 
+AJAJ8787: checks 
+DiskoDancer: bets $0.36
+Anudrmdrfkr: folds 
+AJAJ8787: folds 
+Uncalled bet ($0.36) returned to DiskoDancer
+DiskoDancer collected $0.57 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [5s 4c Ad 3d]
+Seat 1: Anudrmdrfkr (small blind) folded on the Turn
+Seat 3: AJAJ8787 (big blind) folded on the Turn
+Seat 4: sttanlley folded before Flop (didn't bet)
+Seat 5: DiskoDancer collected ($0.57)
+Seat 6: Ruman_One (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959006649:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:27:54 ET
+Table 'Nehalennia III' 6-max Seat #1 is the button
+Seat 1: Anudrmdrfkr ($12.13 in chips) 
+Seat 3: AJAJ8787 ($2.48 in chips) 
+Seat 4: sttanlley ($10.48 in chips) 
+Seat 5: DiskoDancer ($11.66 in chips) 
+Seat 6: Ruman_One ($14.28 in chips) 
+AJAJ8787: posts small blind $0.05
+sttanlley: posts big blind $0.10
+*** HOLE CARDS ***
+Jesus Ololo joins the table at seat #2 
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: raises $0.17 to $0.27
+AJAJ8787: folds 
+sttanlley: folds 
+Uncalled bet ($0.17) returned to Anudrmdrfkr
+Anudrmdrfkr collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Anudrmdrfkr (button) collected ($0.25)
+Seat 3: AJAJ8787 (small blind) folded before Flop
+Seat 4: sttanlley (big blind) folded before Flop
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: Ruman_One folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959017479:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:28:11 ET
+Table 'Nehalennia III' 6-max Seat #3 is the button
+Seat 1: Anudrmdrfkr ($12.28 in chips) 
+Seat 3: AJAJ8787 ($2.43 in chips) 
+Seat 4: sttanlley ($10.38 in chips) 
+Seat 5: DiskoDancer ($11.66 in chips) 
+Seat 6: Ruman_One ($14.28 in chips) 
+sttanlley: posts small blind $0.05
+DiskoDancer: posts big blind $0.10
+Jesus Ololo: sits out 
+*** HOLE CARDS ***
+Ruman_One: raises $0.15 to $0.25
+Anudrmdrfkr: folds 
+AJAJ8787: folds 
+sttanlley: folds 
+DiskoDancer: calls $0.15
+*** FLOP *** [7d Ac 4c]
+DiskoDancer: checks 
+Ruman_One: checks 
+*** TURN *** [7d Ac 4c] [5d]
+DiskoDancer: bets $0.31
+Ruman_One: folds 
+Uncalled bet ($0.31) returned to DiskoDancer
+DiskoDancer collected $0.53 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [7d Ac 4c 5d]
+Seat 1: Anudrmdrfkr folded before Flop (didn't bet)
+Seat 3: AJAJ8787 (button) folded before Flop (didn't bet)
+Seat 4: sttanlley (small blind) folded before Flop
+Seat 5: DiskoDancer (big blind) collected ($0.53)
+Seat 6: Ruman_One folded on the Turn
+
+
+
+PokerStars Hand #222959048030:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:29:02 ET
+Table 'Nehalennia III' 6-max Seat #4 is the button
+Seat 1: Anudrmdrfkr ($12.28 in chips) 
+Seat 3: AJAJ8787 ($2.43 in chips) 
+Seat 4: sttanlley ($10.33 in chips) 
+Seat 5: DiskoDancer ($11.94 in chips) 
+Seat 6: Ruman_One ($14.03 in chips) 
+DiskoDancer: posts small blind $0.05
+Ruman_One: posts big blind $0.10
+Jesus Ololo: sits out 
+*** HOLE CARDS ***
+Anudrmdrfkr: folds 
+AJAJ8787: calls $0.10
+sttanlley: folds 
+DiskoDancer: folds 
+Ruman_One: checks 
+*** FLOP *** [7h 7d 3h]
+Ruman_One: checks 
+AJAJ8787: bets $0.10
+Ruman_One: folds 
+Uncalled bet ($0.10) returned to AJAJ8787
+AJAJ8787 collected $0.24 from pot
+AJAJ8787: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7h 7d 3h]
+Seat 1: Anudrmdrfkr folded before Flop (didn't bet)
+Seat 3: AJAJ8787 collected ($0.24)
+Seat 4: sttanlley (button) folded before Flop (didn't bet)
+Seat 5: DiskoDancer (small blind) folded before Flop
+Seat 6: Ruman_One (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222959077520:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:29:48 ET
+Table 'Nehalennia III' 6-max Seat #5 is the button
+Seat 1: Anudrmdrfkr ($12.28 in chips) 
+Seat 3: AJAJ8787 ($2.57 in chips) 
+Seat 4: sttanlley ($10.33 in chips) 
+Seat 5: DiskoDancer ($11.89 in chips) 
+Seat 6: Ruman_One ($13.93 in chips) 
+Ruman_One: posts small blind $0.05
+Anudrmdrfkr: posts big blind $0.10
+Jesus Ololo: sits out 
+*** HOLE CARDS ***
+AJAJ8787: folds 
+sttanlley: raises $0.20 to $0.30
+DiskoDancer: folds 
+Jesus Ololo leaves the table
+Ruman_One: raises $0.60 to $0.90
+Anudrmdrfkr: folds 
+sttanlley: calls $0.60
+*** FLOP *** [Kc 5h As]
+Ruman_One: checks 
+sttanlley: checks 
+*** TURN *** [Kc 5h As] [8h]
+Ruman_One: checks 
+sttanlley: checks 
+*** RIVER *** [Kc 5h As 8h] [Qh]
+Ruman_One: checks 
+sttanlley: checks 
+*** SHOW DOWN ***
+Ruman_One: shows [9h 9s] (a pair of Nines)
+sttanlley: shows [Tc Ts] (a pair of Tens)
+sttanlley collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.09 
+Board [Kc 5h As 8h Qh]
+Seat 1: Anudrmdrfkr (big blind) folded before Flop
+Seat 3: AJAJ8787 folded before Flop (didn't bet)
+Seat 4: sttanlley showed [Tc Ts] and won ($1.81) with a pair of Tens
+Seat 5: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 6: Ruman_One (small blind) showed [9h 9s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #222959108072:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:30:37 ET
+Table 'Nehalennia III' 6-max Seat #6 is the button
+Seat 1: Anudrmdrfkr ($12.18 in chips) 
+Seat 3: AJAJ8787 ($2.57 in chips) 
+Seat 4: sttanlley ($11.24 in chips) 
+Seat 5: DiskoDancer ($11.89 in chips) 
+Seat 6: Ruman_One ($13.03 in chips) 
+Anudrmdrfkr: posts small blind $0.05
+AJAJ8787: posts big blind $0.10
+*** HOLE CARDS ***
+sttanlley: folds 
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+Uncalled bet ($0.05) returned to AJAJ8787
+AJAJ8787 collected $0.10 from pot
+AJAJ8787: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Anudrmdrfkr (small blind) folded before Flop
+Seat 3: AJAJ8787 (big blind) collected ($0.10)
+Seat 4: sttanlley folded before Flop (didn't bet)
+Seat 5: DiskoDancer folded before Flop (didn't bet)
+Seat 6: Ruman_One (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959113241:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:30:46 ET
+Table 'Nehalennia III' 6-max Seat #1 is the button
+Seat 1: Anudrmdrfkr ($12.13 in chips) 
+Seat 3: AJAJ8787 ($2.62 in chips) 
+Seat 5: DiskoDancer ($11.89 in chips) 
+Seat 6: Ruman_One ($13.03 in chips) 
+AJAJ8787: posts small blind $0.05
+sttanlley: is sitting out 
+DiskoDancer: posts big blind $0.10
+*** HOLE CARDS ***
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+AJAJ8787: calls $0.05
+DiskoDancer: raises $0.30 to $0.40
+AJAJ8787: calls $0.30
+*** FLOP *** [7s 9d 3c]
+AJAJ8787: checks 
+DiskoDancer: checks 
+*** TURN *** [7s 9d 3c] [9h]
+Strocub1 joins the table at seat #2 
+AJAJ8787: checks 
+DiskoDancer: checks 
+*** RIVER *** [7s 9d 3c 9h] [Qh]
+AJAJ8787: bets $0.90
+DiskoDancer: folds 
+Uncalled bet ($0.90) returned to AJAJ8787
+AJAJ8787 collected $0.76 from pot
+AJAJ8787: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [7s 9d 3c 9h Qh]
+Seat 1: Anudrmdrfkr (button) folded before Flop (didn't bet)
+Seat 3: AJAJ8787 (small blind) collected ($0.76)
+Seat 5: DiskoDancer (big blind) folded on the River
+Seat 6: Ruman_One folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959150933:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:31:47 ET
+Table 'Nehalennia III' 6-max Seat #3 is the button
+Seat 1: Anudrmdrfkr ($12.13 in chips) 
+Seat 3: AJAJ8787 ($2.98 in chips) 
+Seat 5: DiskoDancer ($11.49 in chips) 
+Seat 6: Ruman_One ($13.03 in chips) 
+DiskoDancer: posts small blind $0.05
+Ruman_One: posts big blind $0.10
+Strocub1: sits out 
+*** HOLE CARDS ***
+Anudrmdrfkr: raises $0.17 to $0.27
+AJAJ8787: folds 
+DiskoDancer: folds 
+Ruman_One: calls $0.17
+*** FLOP *** [6c Kh 4h]
+Ruman_One: checks 
+Anudrmdrfkr: checks 
+*** TURN *** [6c Kh 4h] [7s]
+Ruman_One: bets $0.22
+Anudrmdrfkr: raises $0.67 to $0.89
+Ruman_One: folds 
+Uncalled bet ($0.67) returned to Anudrmdrfkr
+Anudrmdrfkr collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.05 
+Board [6c Kh 4h 7s]
+Seat 1: Anudrmdrfkr collected ($0.98)
+Seat 3: AJAJ8787 (button) folded before Flop (didn't bet)
+Seat 5: DiskoDancer (small blind) folded before Flop
+Seat 6: Ruman_One (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222959177729:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:32:31 ET
+Table 'Nehalennia III' 6-max Seat #5 is the button
+Seat 1: Anudrmdrfkr ($12.62 in chips) 
+Seat 3: AJAJ8787 ($2.98 in chips) 
+Seat 5: DiskoDancer ($11.44 in chips) 
+Seat 6: Ruman_One ($12.54 in chips) 
+Ruman_One: posts small blind $0.05
+Anudrmdrfkr: posts big blind $0.10
+Strocub1: sits out 
+*** HOLE CARDS ***
+AJAJ8787: calls $0.10
+DiskoDancer: folds 
+Ruman_One: folds 
+Anudrmdrfkr: checks 
+*** FLOP *** [7d Kh 7h]
+Anudrmdrfkr: checks 
+AJAJ8787: checks 
+*** TURN *** [7d Kh 7h] [Ac]
+Anudrmdrfkr: checks 
+AJAJ8787: bets $0.10
+Anudrmdrfkr: calls $0.10
+*** RIVER *** [7d Kh 7h Ac] [2c]
+Anudrmdrfkr: checks 
+AJAJ8787: bets $0.60
+Anudrmdrfkr: folds 
+Uncalled bet ($0.60) returned to AJAJ8787
+AJAJ8787 collected $0.43 from pot
+AJAJ8787: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7d Kh 7h Ac 2c]
+Seat 1: Anudrmdrfkr (big blind) folded on the River
+Seat 3: AJAJ8787 collected ($0.43)
+Seat 5: DiskoDancer (button) folded before Flop (didn't bet)
+Seat 6: Ruman_One (small blind) folded before Flop
+
+
+
+PokerStars Hand #222959196060:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:33:00 ET
+Table 'Nehalennia III' 6-max Seat #6 is the button
+Seat 1: Anudrmdrfkr ($12.42 in chips) 
+Seat 2: Strocub1 ($8 in chips) 
+Seat 3: AJAJ8787 ($3.21 in chips) 
+Seat 5: DiskoDancer ($11.44 in chips) 
+Seat 6: Ruman_One ($12.49 in chips) 
+Anudrmdrfkr: posts small blind $0.05
+Strocub1: posts big blind $0.10
+*** HOLE CARDS ***
+AJAJ8787: calls $0.10
+DiskoDancer: raises $0.30 to $0.40
+Ruman_One: folds 
+Anudrmdrfkr: folds 
+Strocub1: folds 
+AJAJ8787: calls $0.30
+*** FLOP *** [6d 2s 9h]
+AJAJ8787: checks 
+DiskoDancer: bets $0.57
+AJAJ8787: calls $0.57
+*** TURN *** [6d 2s 9h] [2c]
+AJAJ8787: checks 
+DiskoDancer: bets $1.14
+AJAJ8787: calls $1.14
+*** RIVER *** [6d 2s 9h 2c] [9s]
+AJAJ8787: checks 
+DiskoDancer: bets $1.38
+AJAJ8787: calls $1.10 and is all-in
+Uncalled bet ($0.28) returned to DiskoDancer
+*** SHOW DOWN ***
+DiskoDancer: shows [Qd Qh] (two pair, Queens and Nines)
+AJAJ8787: shows [Jd Jc] (two pair, Jacks and Nines)
+Strocub1 leaves the table
+DiskoDancer collected $6.27 from pot
+*** SUMMARY ***
+Total pot $6.57 | Rake $0.30 
+Board [6d 2s 9h 2c 9s]
+Seat 1: Anudrmdrfkr (small blind) folded before Flop
+Seat 2: Strocub1 (big blind) folded before Flop
+Seat 3: AJAJ8787 showed [Jd Jc] and lost with two pair, Jacks and Nines
+Seat 5: DiskoDancer showed [Qd Qh] and won ($6.27) with two pair, Queens and Nines
+Seat 6: Ruman_One (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959227590:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:33:51 ET
+Table 'Nehalennia III' 6-max Seat #1 is the button
+Seat 1: Anudrmdrfkr ($12.37 in chips) 
+Seat 5: DiskoDancer ($14.50 in chips) 
+Seat 6: Ruman_One ($12.49 in chips) 
+DiskoDancer: posts small blind $0.05
+Ruman_One: posts big blind $0.10
+*** HOLE CARDS ***
+Anudrmdrfkr: folds 
+bgftr joins the table at seat #2 
+DiskoDancer: raises $0.20 to $0.30
+AJAJ8787 leaves the table
+Ruman_One: folds 
+Uncalled bet ($0.20) returned to DiskoDancer
+Ruman_One leaves the table
+DiskoDancer collected $0.20 from pot
+DiskoDancer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Anudrmdrfkr (button) folded before Flop (didn't bet)
+Seat 5: DiskoDancer (small blind) collected ($0.20)
+Seat 6: Ruman_One (big blind) folded before Flop
+
+
+
+PokerStars Hand #222959236495:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:34:06 ET
+Table 'Nehalennia III' 6-max Seat #5 is the button
+Seat 1: Anudrmdrfkr ($12.37 in chips) 
+Seat 2: bgftr ($10 in chips) 
+Seat 5: DiskoDancer ($14.60 in chips) 
+Anudrmdrfkr: posts small blind $0.05
+bgftr: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer: folds 
+Anudrmdrfkr: folds 
+Uncalled bet ($0.05) returned to bgftr
+bgftr collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Anudrmdrfkr (small blind) folded before Flop
+Seat 2: bgftr (big blind) collected ($0.10)
+Seat 5: DiskoDancer (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222959241074:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 11:34:13 ET
+Table 'Nehalennia III' 6-max Seat #2 is the button
+Seat 1: Anudrmdrfkr ($12.32 in chips) 
+Seat 2: bgftr ($10.05 in chips) 
+bgftr: posts small blind $0.05
+DiskoDancer: is sitting out 
+Anudrmdrfkr: posts big blind $0.10
+*** HOLE CARDS ***
+DiskoDancer leaves the table
+bgftr: folds 
+Uncalled bet ($0.05) returned to Anudrmdrfkr
+Anudrmdrfkr collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Anudrmdrfkr (big blind) collected ($0.10)
+Seat 2: bgftr (button) (small blind) folded before Flop
+
+
+

@@ -1,0 +1,520 @@
+﻿PokerStars Hand #222947437297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:03 ET
+Table 'Aaryn II' 6-max Seat #5 is the button
+Seat 1: DrLevty ($10.40 in chips) 
+Seat 2: Ohhh Jeee ($4.60 in chips) 
+Seat 3: gokudousan ($8.51 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($4.07 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+Lord_Antoan: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: calls $0.10
+gokudousan: folds 
+aka_Kranv1ch: folds 
+Malyar-88: folds 
+Lord_Antoan: folds 
+DrLevty: checks 
+*** FLOP *** [Td Jd 2h]
+DrLevty: checks 
+Ohhh Jeee: bets $0.24
+DrLevty: calls $0.24
+*** TURN *** [Td Jd 2h] [7c]
+DrLevty: checks 
+Ohhh Jeee: bets $0.70
+DrLevty: folds 
+Uncalled bet ($0.70) returned to Ohhh Jeee
+Ohhh Jeee collected $0.70 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Td Jd 2h 7c]
+Seat 1: DrLevty (big blind) folded on the Turn
+Seat 2: Ohhh Jeee collected ($0.70)
+Seat 3: gokudousan folded before Flop (didn't bet)
+Seat 4: aka_Kranv1ch folded before Flop (didn't bet)
+Seat 5: Malyar-88 (button) folded before Flop (didn't bet)
+Seat 6: Lord_Antoan (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947445783:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:39 ET
+Table 'Aaryn II' 6-max Seat #6 is the button
+Seat 1: DrLevty ($10.06 in chips) 
+Seat 2: Ohhh Jeee ($4.96 in chips) 
+Seat 3: gokudousan ($8.51 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($4.07 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+DrLevty: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+aka_Kranv1ch: folds 
+Malyar-88: calls $0.10
+Lord_Antoan: raises $0.30 to $0.40
+DrLevty: folds 
+Ohhh Jeee: folds 
+Malyar-88: folds 
+Uncalled bet ($0.30) returned to Lord_Antoan
+Lord_Antoan collected $0.35 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: DrLevty (small blind) folded before Flop
+Seat 2: Ohhh Jeee (big blind) folded before Flop
+Seat 3: gokudousan folded before Flop (didn't bet)
+Seat 4: aka_Kranv1ch folded before Flop (didn't bet)
+Seat 5: Malyar-88 folded before Flop
+Seat 6: Lord_Antoan (button) collected ($0.35)
+
+
+
+PokerStars Hand #222947450188:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:58 ET
+Table 'Aaryn II' 6-max Seat #1 is the button
+Seat 1: DrLevty ($10.01 in chips) 
+Seat 2: Ohhh Jeee ($4.86 in chips) 
+Seat 3: gokudousan ($8.51 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($3.97 in chips) 
+Seat 6: Lord_Antoan ($10.25 in chips) 
+Ohhh Jeee: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+aka_Kranv1ch: folds 
+Malyar-88: raises $0.20 to $0.30
+Lord_Antoan: folds 
+DrLevty: raises $0.60 to $0.90
+Ohhh Jeee: folds 
+gokudousan: folds 
+Malyar-88: raises $3.07 to $3.97 and is all-in
+DrLevty: calls $3.07
+*** FLOP *** [Kh 5h Td]
+*** TURN *** [Kh 5h Td] [Qc]
+*** RIVER *** [Kh 5h Td Qc] [5s]
+*** SHOW DOWN ***
+Malyar-88: shows [As Qh] (two pair, Queens and Fives)
+DrLevty: shows [Ks Ad] (two pair, Kings and Fives)
+DrLevty cashed out the hand for $5.65 | Cash Out Fee $0.06
+Malyar-88 cashed out the hand for $2 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $8.09 | Rake $0.36 
+Board [Kh 5h Td Qc 5s]
+Seat 1: DrLevty (button) showed [Ks Ad] and won ($7.73) with two pair, Kings and Fives (pot not awarded as player cashed out)
+Seat 2: Ohhh Jeee (small blind) folded before Flop
+Seat 3: gokudousan (big blind) folded before Flop
+Seat 4: aka_Kranv1ch folded before Flop (didn't bet)
+Seat 5: Malyar-88 showed [As Qh] and lost with two pair, Queens and Fives (cashed out).
+Seat 6: Lord_Antoan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947458003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:32 ET
+Table 'Aaryn II' 6-max Seat #2 is the button
+Seat 1: DrLevty ($11.69 in chips) 
+Seat 2: Ohhh Jeee ($4.81 in chips) 
+Seat 3: gokudousan ($8.41 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($2 in chips) 
+Seat 6: Lord_Antoan ($10.25 in chips) 
+gokudousan: posts small blind $0.05
+aka_Kranv1ch: posts big blind $0.10
+*** HOLE CARDS ***
+Malyar-88: calls $0.10
+Lord_Antoan: folds 
+DrLevty: folds 
+Ohhh Jeee: folds 
+gokudousan: raises $0.30 to $0.40
+aka_Kranv1ch: folds 
+Malyar-88: calls $0.30
+*** FLOP *** [4s Ah 7d]
+gokudousan: bets $0.40
+Malyar-88: raises $1.20 to $1.60 and is all-in
+gokudousan: calls $1.20
+*** TURN *** [4s Ah 7d] [Jd]
+*** RIVER *** [4s Ah 7d Jd] [Tc]
+*** SHOW DOWN ***
+gokudousan: shows [As Ts] (two pair, Aces and Tens)
+Malyar-88: shows [6s 7s] (a pair of Sevens)
+gokudousan cashed out the hand for $3.05 | Cash Out Fee $0.03
+Malyar-88 cashed out the hand for $0.83 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.18 
+Board [4s Ah 7d Jd Tc]
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 3: gokudousan (small blind) showed [As Ts] and won ($3.92) with two pair, Aces and Tens (pot not awarded as player cashed out)
+Seat 4: aka_Kranv1ch (big blind) folded before Flop
+Seat 5: Malyar-88 showed [6s 7s] and lost with a pair of Sevens (cashed out).
+Seat 6: Lord_Antoan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947470164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:24 ET
+Table 'Aaryn II' 6-max Seat #3 is the button
+Seat 1: DrLevty ($11.69 in chips) 
+Seat 2: Ohhh Jeee ($4.81 in chips) 
+Seat 3: gokudousan ($9.46 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($0.83 in chips) 
+Seat 6: Lord_Antoan ($10.25 in chips) 
+aka_Kranv1ch: posts small blind $0.05
+Malyar-88: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+DrLevty: folds 
+Ohhh Jeee: folds 
+gokudousan: raises $0.20 to $0.30
+aka_Kranv1ch: folds 
+Malyar-88: folds 
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.25 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: Ohhh Jeee folded before Flop (didn't bet)
+Seat 3: gokudousan (button) collected ($0.25)
+Seat 4: aka_Kranv1ch (small blind) folded before Flop
+Seat 5: Malyar-88 (big blind) folded before Flop
+Seat 6: Lord_Antoan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947475214:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:45 ET
+Table 'Aaryn II' 6-max Seat #4 is the button
+Seat 1: DrLevty ($11.69 in chips) 
+Seat 2: Ohhh Jeee ($4.81 in chips) 
+Seat 3: gokudousan ($9.61 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($0.73 in chips) 
+Seat 6: Lord_Antoan ($10.25 in chips) 
+Malyar-88: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+DrLevty: folds 
+Ohhh Jeee: raises $0.10 to $0.20
+gokudousan: folds 
+aka_Kranv1ch: folds 
+Malyar-88: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.10) returned to Ohhh Jeee
+Ohhh Jeee collected $0.25 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: Ohhh Jeee collected ($0.25)
+Seat 3: gokudousan folded before Flop (didn't bet)
+Seat 4: aka_Kranv1ch (button) folded before Flop (didn't bet)
+Seat 5: Malyar-88 (small blind) folded before Flop
+Seat 6: Lord_Antoan (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947477320:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:54 ET
+Table 'Aaryn II' 6-max Seat #5 is the button
+Seat 1: DrLevty ($11.69 in chips) 
+Seat 2: Ohhh Jeee ($4.96 in chips) 
+Seat 3: gokudousan ($9.61 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 5: Malyar-88 ($0.68 in chips) 
+Seat 6: Lord_Antoan ($10.15 in chips) 
+Lord_Antoan: posts small blind $0.05
+DrLevty: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+gokudousan: folds 
+aka_Kranv1ch: folds 
+Malyar-88: raises $0.58 to $0.68 and is all-in
+Lord_Antoan: folds 
+DrLevty: calls $0.58
+*** FLOP *** [Qs 7h Tc]
+*** TURN *** [Qs 7h Tc] [Jh]
+*** RIVER *** [Qs 7h Tc Jh] [Jd]
+*** SHOW DOWN ***
+DrLevty: shows [Ts Ah] (two pair, Jacks and Tens)
+Malyar-88: shows [9d As] (a pair of Jacks)
+DrLevty collected $1.35 from pot
+*** SUMMARY ***
+Total pot $1.41 | Rake $0.06 
+Board [Qs 7h Tc Jh Jd]
+Seat 1: DrLevty (big blind) showed [Ts Ah] and won ($1.35) with two pair, Jacks and Tens
+Seat 2: Ohhh Jeee folded before Flop (didn't bet)
+Seat 3: gokudousan folded before Flop (didn't bet)
+Seat 4: aka_Kranv1ch folded before Flop (didn't bet)
+Seat 5: Malyar-88 (button) showed [9d As] and lost with a pair of Jacks
+Seat 6: Lord_Antoan (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947484736:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:26 ET
+Table 'Aaryn II' 6-max Seat #6 is the button
+Seat 1: DrLevty ($12.36 in chips) 
+Seat 2: Ohhh Jeee ($4.96 in chips) 
+Seat 3: gokudousan ($9.61 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10.10 in chips) 
+DrLevty: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: raises $0.20 to $0.30
+aka_Kranv1ch: folds 
+Malyar-88 leaves the table
+Lord_Antoan: folds 
+DrLevty: folds 
+Ohhh Jeee: folds 
+Uncalled bet ($0.20) returned to gokudousan
+DrLevty leaves the table
+gokudousan collected $0.25 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: DrLevty (small blind) folded before Flop
+Seat 2: Ohhh Jeee (big blind) folded before Flop
+Seat 3: gokudousan collected ($0.25)
+Seat 4: aka_Kranv1ch folded before Flop (didn't bet)
+Seat 6: Lord_Antoan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947488504:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:42 ET
+Table 'Aaryn II' 6-max Seat #2 is the button
+Seat 2: Ohhh Jeee ($4.86 in chips) 
+Seat 3: gokudousan ($9.76 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10.10 in chips) 
+gokudousan: posts small blind $0.05
+aka_Kranv1ch: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+Ohhh Jeee: folds 
+gokudousan: folds 
+Uncalled bet ($0.05) returned to aka_Kranv1ch
+aka_Kranv1ch collected $0.10 from pot
+aka_Kranv1ch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 3: gokudousan (small blind) folded before Flop
+Seat 4: aka_Kranv1ch (big blind) collected ($0.10)
+Seat 6: Lord_Antoan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947491073:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:11:53 ET
+Table 'Aaryn II' 6-max Seat #3 is the button
+Seat 2: Ohhh Jeee ($4.86 in chips) 
+Seat 3: gokudousan ($9.71 in chips) 
+Seat 4: aka_Kranv1ch ($10.05 in chips) 
+Seat 6: Lord_Antoan ($10.10 in chips) 
+aka_Kranv1ch: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+gokudousan: raises $0.20 to $0.30
+aka_Kranv1ch: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.25 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Ohhh Jeee folded before Flop (didn't bet)
+Seat 3: gokudousan (button) collected ($0.25)
+Seat 4: aka_Kranv1ch (small blind) folded before Flop
+Seat 6: Lord_Antoan (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947494534:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:08 ET
+Table 'Aaryn II' 6-max Seat #4 is the button
+Seat 2: Ohhh Jeee ($4.86 in chips) 
+Seat 3: gokudousan ($9.86 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+Lord_Antoan: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+aka_Kranv1ch: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.05) returned to Ohhh Jeee
+Ohhh Jeee collected $0.10 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Ohhh Jeee (big blind) collected ($0.10)
+Seat 3: gokudousan folded before Flop (didn't bet)
+Seat 4: aka_Kranv1ch (button) folded before Flop (didn't bet)
+Seat 6: Lord_Antoan (small blind) folded before Flop
+
+
+
+PokerStars Hand #222947496357:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:15 ET
+Table 'Aaryn II' 6-max Seat #6 is the button
+Seat 2: Ohhh Jeee ($4.91 in chips) 
+Seat 3: gokudousan ($9.86 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+Ohhh Jeee: posts small blind $0.05
+gokudousan: posts big blind $0.10
+*** HOLE CARDS ***
+aka_Kranv1ch: raises $0.20 to $0.30
+Lord_Antoan: folds 
+Ohhh Jeee: raises $0.40 to $0.70
+gokudousan: folds 
+aka_Kranv1ch: folds 
+Uncalled bet ($0.40) returned to Ohhh Jeee
+Ohhh Jeee collected $0.70 from pot
+Ohhh Jeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 2: Ohhh Jeee (small blind) collected ($0.70)
+Seat 3: gokudousan (big blind) folded before Flop
+Seat 4: aka_Kranv1ch folded before Flop
+Seat 6: Lord_Antoan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947500536:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:33 ET
+Table 'Aaryn II' 6-max Seat #2 is the button
+Seat 2: Ohhh Jeee ($5.31 in chips) 
+Seat 3: gokudousan ($9.76 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+gokudousan: posts small blind $0.05
+aka_Kranv1ch: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+Ohhh Jeee: folds 
+gokudousan: raises $0.20 to $0.30
+aka_Kranv1ch: folds 
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.20 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Ohhh Jeee (button) folded before Flop (didn't bet)
+Seat 3: gokudousan (small blind) collected ($0.20)
+Seat 4: aka_Kranv1ch (big blind) folded before Flop
+Seat 6: Lord_Antoan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947503253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:12:44 ET
+Table 'Aaryn II' 6-max Seat #3 is the button
+Seat 2: Ohhh Jeee ($5.31 in chips) 
+Seat 3: gokudousan ($9.86 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+aka_Kranv1ch: posts small blind $0.05
+Lord_Antoan: posts big blind $0.10
+*** HOLE CARDS ***
+Ohhh Jeee: folds 
+gokudousan: raises $0.20 to $0.30
+aka_Kranv1ch: folds 
+Lord_Antoan: folds 
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.25 from pot
+gokudousan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Ohhh Jeee folded before Flop (didn't bet)
+Seat 3: gokudousan (button) collected ($0.25)
+Seat 4: aka_Kranv1ch (small blind) folded before Flop
+Seat 6: Lord_Antoan (big blind) folded before Flop
+
+
+
+PokerStars Hand #222947507006:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:00 ET
+Table 'Aaryn II' 6-max Seat #4 is the button
+Seat 2: Ohhh Jeee ($5.31 in chips) 
+Seat 3: gokudousan ($10.01 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10 in chips) 
+Lord_Antoan: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+gokudousan: folds 
+gokudousan leaves the table
+aka_Kranv1ch: folds 
+Lord_Antoan: raises $0.20 to $0.30
+Ohhh Jeee: folds 
+Uncalled bet ($0.20) returned to Lord_Antoan
+Lord_Antoan collected $0.20 from pot
+Lord_Antoan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Ohhh Jeee (big blind) folded before Flop
+Seat 3: gokudousan folded before Flop (didn't bet)
+Seat 4: aka_Kranv1ch (button) folded before Flop (didn't bet)
+Seat 6: Lord_Antoan (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222947512459:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:23 ET
+Table 'Aaryn II' 6-max Seat #6 is the button
+Seat 2: Ohhh Jeee ($5.21 in chips) 
+Seat 4: aka_Kranv1ch ($10 in chips) 
+Seat 6: Lord_Antoan ($10.10 in chips) 
+Ohhh Jeee: posts small blind $0.05
+aka_Kranv1ch: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds 
+Lord_Antoan leaves the table
+Ohhh Jeee: folds 
+Uncalled bet ($0.05) returned to aka_Kranv1ch
+aka_Kranv1ch collected $0.10 from pot
+aka_Kranv1ch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Ohhh Jeee (small blind) folded before Flop
+Seat 4: aka_Kranv1ch (big blind) collected ($0.10)
+Seat 6: Lord_Antoan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222947513995:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:30 ET
+Table 'Aaryn II' 6-max Seat #4 is the button
+Seat 2: Ohhh Jeee ($5.16 in chips) 
+Seat 4: aka_Kranv1ch ($10.05 in chips) 
+aka_Kranv1ch: posts small blind $0.05
+Ohhh Jeee: posts big blind $0.10
+*** HOLE CARDS ***
+aka_Kranv1ch: raises $0.20 to $0.30
+Ohhh Jeee: calls $0.20
+*** FLOP *** [9s 9d 8s]
+Ohhh Jeee: checks 
+aka_Kranv1ch: bets $0.23
+Ohhh Jeee: folds 
+Uncalled bet ($0.23) returned to aka_Kranv1ch
+Ohhh Jeee leaves the table
+sv-x-as joins the table at seat #3 
+aka_Kranv1ch collected $0.57 from pot
+aka_Kranv1ch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [9s 9d 8s]
+Seat 2: Ohhh Jeee (big blind) folded on the Flop
+Seat 4: aka_Kranv1ch (button) (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #222947520719:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:13:58 ET
+Table 'Aaryn II' 6-max Seat #4 is the button
+Seat 3: sv-x-as ($10 in chips) 
+Seat 4: aka_Kranv1ch ($10.32 in chips) 
+aka_Kranv1ch: posts small blind $0.05
+sv-x-as: posts big blind $0.10
+*** HOLE CARDS ***
+aka_Kranv1ch: folds 
+Uncalled bet ($0.05) returned to sv-x-as
+sv-x-as collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: sv-x-as (big blind) collected ($0.10)
+Seat 4: aka_Kranv1ch (button) (small blind) folded before Flop
+
+
+

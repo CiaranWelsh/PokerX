@@ -115,11 +115,21 @@ TEST_F(GameScenarioTests, TestRaiserAfterCall) {
  */
 TEST_F(GameScenarioTests, TestRealGame1) {
 
+    //       PokerStars Hand #222947437297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:08:03 ET
+    //       Table 'Aaryn II' 6-max Seat #5 is the button
     GameVariables gameVariables;
     gameVariables.setN(1);
     gameVariables.setSmallBlind(0.05);
     gameVariables.setBigBlind(0.10);
 
+    //       Seat 1: DrLevty ($10.40 in chips)
+    //       Seat 2: Ohhh Jeee ($4.60 in chips)
+    //       Seat 3: gokudousan ($8.51 in chips)
+    //       Seat 4: aka_Kranv1ch ($10 in chips)
+    //       Seat 5: Malyar-88 ($4.07 in chips)
+    //       Seat 6: Lord_Antoan ($10 in chips)
+    //       Lord_Antoan: posts small blind $0.05
+    //       DrLevty: posts big blind $0.10
     PolicyPlayer DrLevty("DrLevty", 10.40, {CHECK, CHECK, CALL, CHECK, FOLD});
     PolicyPlayer OhJee("Ohhh Jeee", 4.60, {CALL, RAISE, RAISE}, {0.24, 0.70});
     PolicyPlayer goku("gokudousan", 8.51, {FOLD});
@@ -140,21 +150,58 @@ TEST_F(GameScenarioTests, TestRealGame1) {
     ASSERT_STREQ(players.getButton()->getName().c_str(), "Malyar-88");
     PokerEngine engine(&players, &gameVariables);
 
-    // skip past big blind action
-    // next player and button moves are two different things!
-    // current player idx points to who's turn it is
-    // button is always player 0, but the table rotates when game starts
-    // so current player index should always start at 1 for the sb.
-//    ASSERT_EQ(1, players.getCurrentPlayerIdx());
-//    while(engine.getState()->getType() != TURN_STATE ){
-//        engine.action();
-//    }
+    // check button
+    ASSERT_STREQ("Malyar-88", engine.getPlayers()->getButton()->getName().c_str());
 
-    // next player needs to ignore folded or sitting out individuals
-    while (!gameVariables.isDone()) {
-        engine.action();
-    }
+    engine.action();
 
+    // check blinds
+    float sbOriginalAmount = 10;
+    ASSERT_STREQ("Lord_Antoan",engine.getPlayers()->getSmallBlind()->getName().c_str());
+    ASSERT_EQ(sbOriginalAmount - engine.getGameVariables()->getSmallBlind(),
+              engine.getPlayers()->getSmallBlind()->getStack());
+
+    ASSERT_NEAR(engine.getPlayers()->getSmallBlind()->getAmountContrib(), 0.05, 0.001);
+
+    float bbOriginalAmount = 10.4;
+    ASSERT_STREQ("DrLevty",engine.getPlayers()->getBigBlind()->getName().c_str());
+    ASSERT_EQ(bbOriginalAmount - engine.getGameVariables()->getBigBlind(),
+              engine.getPlayers()->getBigBlind()->getStack());
+    ASSERT_NEAR(engine.getPlayers()->getBigBlind()->getAmountContrib(), 0.1, 0.001);
+
+
+    //       *** HOLE CARDS ***
+    ASSERT_STREQ("Ohhh Jeee",engine.getPlayers()->getCurrentPlayer()->getName().c_str());
+    //       Ohhh Jeee: calls $0.10
+    engine.action();
+    ASSERT_EQ(0.1, engine.getPlayers()->getCurrentPlayer()->getAmountContrib());
+    ASSERT_EQ(4.50, engine.getPlayers()->getCurrentPlayer()->getStack());
+    //       gokudousan: folds
+    //       aka_Kranv1ch: folds
+    //       Malyar-88: folds
+    //       Lord_Antoan: folds
+    //       DrLevty: checks
+    //       *** FLOP *** [Td Jd 2h]
+    //          DrLevty: checks
+    //       Ohhh Jeee: bets $0.24
+    //       DrLevty: calls $0.24
+    //       *** TURN *** [Td Jd 2h] [7c]
+    //       DrLevty: checks
+    //       Ohhh Jeee: bets $0.70
+    //       DrLevty: folds
+    //       Uncalled bet ($0.70) returned to Ohhh Jeee
+    //       Ohhh Jeee collected $0.70 from pot
+    //       Ohhh Jeee: doesn't show hand
+    //       *** SUMMARY ***
+    //       Total pot $0.73 | Rake $0.03
+    //       Board [Td Jd 2h 7c]
+    //       Seat 1: DrLevty (big blind) folded on the Turn
+    //       Seat 2: Ohhh Jeee collected ($0.70)
+    //       Seat 3: gokudousan folded before Flop (didn't bet)
+    //       Seat 4: aka_Kranv1ch folded before Flop (didn't bet)
+    //       Seat 5: Malyar-88 (button) folded before Flop (didn't bet)
+    //       Seat 6: Lord_Antoan (small blind) folded before Flop
+    //
 
 }
 
@@ -208,6 +255,16 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     gameVariables.setSmallBlind(0.05);
     gameVariables.setBigBlind(0.10);
     gameVariables.setSeed(4);
+    // [Td Jc 2c Qs] [3h]
+    std::vector<ICard *> cards;
+    for (auto &s: {"10d", "Jc", "2c", "Qs", "3h"}) {
+        ICard *card = CardFactory(s);
+        cards.push_back(card);
+    }
+    CardCollection c(cards);
+    std::cout << c << std::endl;
+    // now that we've copied the cards in to the vector we can delete, right???
+    gameVariables.injectCommunityCards(cards);
 
 
     PlayerManager players(
@@ -353,6 +410,8 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 
     //  *** SHOW DOWN ***
     engine.action();
+
+    // how to inject cards into the game to reproduce game without seed which is implementation defined.
 
     //  Wade 204481: shows [Ad 9h] (high card Ace)
     //  Janxxx82: shows [Kc Kh] (a pair of Kings)

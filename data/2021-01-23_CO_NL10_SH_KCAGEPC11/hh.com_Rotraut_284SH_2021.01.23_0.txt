@@ -1,0 +1,459 @@
+﻿PokerStars Hand #222941805689:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:42:59 ET
+Table 'Rotraut II' 6-max Seat #2 is the button
+Seat 1: SeregaDanger ($32.16 in chips) 
+Seat 2: Veinar Dina ($21.25 in chips) 
+Seat 3: Tallion72 ($8.71 in chips) 
+Seat 4: *labdip*GB ($14.94 in chips) 
+Seat 5: MrMsry ($10.23 in chips) 
+Seat 6: Deniels7 ($4.90 in chips) 
+Tallion72: posts small blind $0.05
+*labdip*GB: posts big blind $0.10
+*** HOLE CARDS ***
+MrMsry: folds 
+Deniels7: raises $0.20 to $0.30
+SeregaDanger: folds 
+Veinar Dina: calls $0.30
+Tallion72: folds 
+*labdip*GB: folds 
+*** FLOP *** [2c 3c Td]
+Deniels7: checks 
+Veinar Dina: bets $0.54
+Deniels7: folds 
+Uncalled bet ($0.54) returned to Veinar Dina
+Veinar Dina collected $0.72 from pot
+Veinar Dina: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2c 3c Td]
+Seat 1: SeregaDanger folded before Flop (didn't bet)
+Seat 2: Veinar Dina (button) collected ($0.72)
+Seat 3: Tallion72 (small blind) folded before Flop
+Seat 4: *labdip*GB (big blind) folded before Flop
+Seat 5: MrMsry folded before Flop (didn't bet)
+Seat 6: Deniels7 folded on the Flop
+
+
+
+PokerStars Hand #222941816059:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:43:25 ET
+Table 'Rotraut II' 6-max Seat #3 is the button
+Seat 1: SeregaDanger ($32.16 in chips) 
+Seat 2: Veinar Dina ($21.67 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 4: *labdip*GB ($14.84 in chips) 
+Seat 5: MrMsry ($10.23 in chips) 
+Seat 6: Deniels7 ($4.60 in chips) 
+*labdip*GB: posts small blind $0.05
+MrMsry: posts big blind $0.10
+*** HOLE CARDS ***
+Deniels7: folds 
+SeregaDanger: folds 
+Veinar Dina: folds 
+Tallion72: folds 
+*labdip*GB: folds 
+Uncalled bet ($0.05) returned to MrMsry
+MrMsry collected $0.10 from pot
+MrMsry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SeregaDanger folded before Flop (didn't bet)
+Seat 2: Veinar Dina folded before Flop (didn't bet)
+Seat 3: Tallion72 (button) folded before Flop (didn't bet)
+Seat 4: *labdip*GB (small blind) folded before Flop
+Seat 5: MrMsry (big blind) collected ($0.10)
+Seat 6: Deniels7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941823057:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:43:43 ET
+Table 'Rotraut II' 6-max Seat #4 is the button
+Seat 1: SeregaDanger ($32.16 in chips) 
+Seat 2: Veinar Dina ($21.67 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 4: *labdip*GB ($14.79 in chips) 
+Seat 5: MrMsry ($10.28 in chips) 
+Seat 6: Deniels7 ($4.60 in chips) 
+MrMsry: posts small blind $0.05
+Deniels7: posts big blind $0.10
+*** HOLE CARDS ***
+SeregaDanger: folds 
+Veinar Dina: folds 
+Tallion72: folds 
+*labdip*GB: raises $0.20 to $0.30
+MrMsry: folds 
+Deniels7: folds 
+Uncalled bet ($0.20) returned to *labdip*GB
+*labdip*GB collected $0.25 from pot
+*labdip*GB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SeregaDanger folded before Flop (didn't bet)
+Seat 2: Veinar Dina folded before Flop (didn't bet)
+Seat 3: Tallion72 folded before Flop (didn't bet)
+Seat 4: *labdip*GB (button) collected ($0.25)
+Seat 5: MrMsry (small blind) folded before Flop
+Seat 6: Deniels7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222941830555:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:44:02 ET
+Table 'Rotraut II' 6-max Seat #5 is the button
+Seat 1: SeregaDanger ($32.16 in chips) 
+Seat 2: Veinar Dina ($21.67 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 4: *labdip*GB ($14.94 in chips) 
+Seat 5: MrMsry ($10.23 in chips) 
+Seat 6: Deniels7 ($4.50 in chips) 
+Deniels7: posts small blind $0.05
+SeregaDanger: posts big blind $0.10
+*** HOLE CARDS ***
+Veinar Dina: folds 
+Tallion72: folds 
+*labdip*GB: folds 
+MrMsry: raises $0.21 to $0.31
+Deniels7: raises $0.21 to $0.52
+SeregaDanger: folds 
+MrMsry: raises $1.13 to $1.65
+Deniels7: raises $2.85 to $4.50 and is all-in
+MrMsry: calls $2.85
+*** FLOP *** [Ts 2d 9s]
+*** TURN *** [Ts 2d 9s] [9h]
+*** RIVER *** [Ts 2d 9s 9h] [6s]
+*** SHOW DOWN ***
+Deniels7: shows [Kd Qd] (a pair of Nines)
+MrMsry: shows [Kc Kh] (two pair, Kings and Nines)
+MrMsry cashed out the hand for $7.41 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.41 
+Board [Ts 2d 9s 9h 6s]
+Seat 1: SeregaDanger (big blind) folded before Flop
+Seat 2: Veinar Dina folded before Flop (didn't bet)
+Seat 3: Tallion72 folded before Flop (didn't bet)
+Seat 4: *labdip*GB folded before Flop (didn't bet)
+Seat 5: MrMsry (button) showed [Kc Kh] and won ($8.69) with two pair, Kings and Nines (pot not awarded as player cashed out)
+Seat 6: Deniels7 (small blind) showed [Kd Qd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #222941848359:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:44:48 ET
+Table 'Rotraut II' 6-max Seat #1 is the button
+Seat 1: SeregaDanger ($32.06 in chips) 
+Seat 2: Veinar Dina ($21.67 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 4: *labdip*GB ($14.94 in chips) 
+Seat 5: MrMsry ($13.14 in chips) 
+Veinar Dina: posts small blind $0.05
+Tallion72: posts big blind $0.10
+*** HOLE CARDS ***
+*labdip*GB has timed out
+*labdip*GB: folds 
+MrMsry: folds 
+SeregaDanger: folds 
+Veinar Dina: folds 
+Uncalled bet ($0.05) returned to Tallion72
+Tallion72 collected $0.10 from pot
+Tallion72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SeregaDanger (button) folded before Flop (didn't bet)
+Seat 2: Veinar Dina (small blind) folded before Flop
+Seat 3: Tallion72 (big blind) collected ($0.10)
+Seat 4: *labdip*GB folded before Flop (didn't bet)
+Seat 5: MrMsry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941855075:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:05 ET
+Table 'Rotraut II' 6-max Seat #2 is the button
+Seat 1: SeregaDanger ($32.06 in chips) 
+Seat 2: Veinar Dina ($21.62 in chips) 
+Seat 3: Tallion72 ($8.71 in chips) 
+Seat 5: MrMsry ($13.14 in chips) 
+Tallion72: posts small blind $0.05
+MrMsry: posts big blind $0.10
+*** HOLE CARDS ***
+SeregaDanger: folds 
+Veinar Dina: folds 
+Tallion72: folds 
+Uncalled bet ($0.05) returned to MrMsry
+MrMsry collected $0.10 from pot
+MrMsry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SeregaDanger folded before Flop (didn't bet)
+Seat 2: Veinar Dina (button) folded before Flop (didn't bet)
+Seat 3: Tallion72 (small blind) folded before Flop
+Seat 5: MrMsry (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222941857538:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:11 ET
+Table 'Rotraut II' 6-max Seat #3 is the button
+Seat 1: SeregaDanger ($32.06 in chips) 
+Seat 2: Veinar Dina ($21.62 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 5: MrMsry ($13.19 in chips) 
+MrMsry: posts small blind $0.05
+SeregaDanger: posts big blind $0.10
+*** HOLE CARDS ***
+Veinar Dina: folds 
+Tallion72: folds 
+MrMsry: folds 
+Uncalled bet ($0.05) returned to SeregaDanger
+SeregaDanger collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SeregaDanger (big blind) collected ($0.10)
+Seat 2: Veinar Dina folded before Flop (didn't bet)
+Seat 3: Tallion72 (button) folded before Flop (didn't bet)
+Seat 5: MrMsry (small blind) folded before Flop
+
+
+
+PokerStars Hand #222941860983:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:20 ET
+Table 'Rotraut II' 6-max Seat #5 is the button
+Seat 1: SeregaDanger ($32.11 in chips) 
+Seat 2: Veinar Dina ($21.62 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 5: MrMsry ($13.14 in chips) 
+SeregaDanger: posts small blind $0.05
+Veinar Dina: posts big blind $0.10
+*labdip*GB: sits out 
+*** HOLE CARDS ***
+Tallion72: folds 
+MrMsry: raises $0.21 to $0.31
+SeregaDanger: folds 
+Deniels7 leaves the table
+Veinar Dina: calls $0.21
+*** FLOP *** [Ad 4h 2h]
+Veinar Dina: checks 
+MrMsry: bets $0.25
+Veinar Dina: folds 
+Uncalled bet ($0.25) returned to MrMsry
+MrMsry collected $0.64 from pot
+MrMsry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [Ad 4h 2h]
+Seat 1: SeregaDanger (small blind) folded before Flop
+Seat 2: Veinar Dina (big blind) folded on the Flop
+Seat 3: Tallion72 folded before Flop (didn't bet)
+Seat 5: MrMsry (button) collected ($0.64)
+
+
+
+PokerStars Hand #222941870263:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:44 ET
+Table 'Rotraut II' 6-max Seat #1 is the button
+Seat 1: SeregaDanger ($32.06 in chips) 
+Seat 2: Veinar Dina ($21.31 in chips) 
+Seat 3: Tallion72 ($8.66 in chips) 
+Seat 5: MrMsry ($13.47 in chips) 
+Veinar Dina: posts small blind $0.05
+Tallion72: posts big blind $0.10
+*labdip*GB: sits out 
+*** HOLE CARDS ***
+MrMsry: raises $0.21 to $0.31
+SeregaDanger: folds 
+Veinar Dina: folds 
+Tallion72: folds 
+Uncalled bet ($0.21) returned to MrMsry
+MrMsry collected $0.25 from pot
+MrMsry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SeregaDanger (button) folded before Flop (didn't bet)
+Seat 2: Veinar Dina (small blind) folded before Flop
+Seat 3: Tallion72 (big blind) folded before Flop
+Seat 5: MrMsry collected ($0.25)
+
+
+
+PokerStars Hand #222941874256:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:45:54 ET
+Table 'Rotraut II' 6-max Seat #2 is the button
+Seat 1: SeregaDanger ($32.06 in chips) 
+Seat 2: Veinar Dina ($21.26 in chips) 
+Seat 3: Tallion72 ($8.56 in chips) 
+Seat 4: *labdip*GB ($14.94 in chips) 
+Seat 5: MrMsry ($13.62 in chips) 
+Tallion72: posts small blind $0.05
+*labdip*GB: posts big blind $0.10
+*** HOLE CARDS ***
+MrMsry: folds 
+SeregaDanger: folds 
+Veinar Dina: folds 
+Tallion72: folds 
+Uncalled bet ($0.05) returned to *labdip*GB
+*labdip*GB collected $0.10 from pot
+*labdip*GB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SeregaDanger folded before Flop (didn't bet)
+Seat 2: Veinar Dina (button) folded before Flop (didn't bet)
+Seat 3: Tallion72 (small blind) folded before Flop
+Seat 4: *labdip*GB (big blind) collected ($0.10)
+Seat 5: MrMsry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941877763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:03 ET
+Table 'Rotraut II' 6-max Seat #3 is the button
+Seat 1: SeregaDanger ($32.06 in chips) 
+Seat 2: Veinar Dina ($21.26 in chips) 
+Seat 3: Tallion72 ($8.51 in chips) 
+Seat 4: *labdip*GB ($14.99 in chips) 
+Seat 5: MrMsry ($13.62 in chips) 
+*labdip*GB: posts small blind $0.05
+MrMsry: posts big blind $0.10
+*** HOLE CARDS ***
+SeregaDanger: folds 
+Veinar Dina: raises $0.20 to $0.30
+Tallion72: folds 
+*labdip*GB: folds 
+MrMsry: folds 
+Uncalled bet ($0.20) returned to Veinar Dina
+Veinar Dina collected $0.25 from pot
+Veinar Dina: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SeregaDanger folded before Flop (didn't bet)
+Seat 2: Veinar Dina collected ($0.25)
+Seat 3: Tallion72 (button) folded before Flop (didn't bet)
+Seat 4: *labdip*GB (small blind) folded before Flop
+Seat 5: MrMsry (big blind) folded before Flop
+
+
+
+PokerStars Hand #222941882491:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:46:15 ET
+Table 'Rotraut II' 6-max Seat #4 is the button
+Seat 2: Veinar Dina ($21.41 in chips) 
+Seat 3: Tallion72 ($8.51 in chips) 
+Seat 4: *labdip*GB ($14.94 in chips) 
+Seat 5: MrMsry ($13.52 in chips) 
+MrMsry: posts small blind $0.05
+SeregaDanger: is sitting out 
+Veinar Dina: posts big blind $0.10
+*** HOLE CARDS ***
+heguan111 joins the table at seat #6 
+Tallion72: raises $0.15 to $0.25
+*labdip*GB: calls $0.25
+MrMsry: folds 
+Veinar Dina: folds 
+*** FLOP *** [9d 2h Js]
+Tallion72: checks 
+*labdip*GB: bets $0.40
+Tallion72: calls $0.40
+*** TURN *** [9d 2h Js] [4s]
+Tallion72: checks 
+*labdip*GB: checks 
+*** RIVER *** [9d 2h Js 4s] [Jd]
+Tallion72: bets $0.69
+heguan111 leaves the table
+*labdip*GB: folds 
+Uncalled bet ($0.69) returned to Tallion72
+Tallion72 collected $1.38 from pot
+Tallion72: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [9d 2h Js 4s Jd]
+Seat 2: Veinar Dina (big blind) folded before Flop
+Seat 3: Tallion72 collected ($1.38)
+Seat 4: *labdip*GB (button) folded on the River
+Seat 5: MrMsry (small blind) folded before Flop
+
+
+
+PokerStars Hand #222941908233:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:47:22 ET
+Table 'Rotraut II' 6-max Seat #5 is the button
+Seat 2: Veinar Dina ($21.31 in chips) 
+Seat 3: Tallion72 ($9.24 in chips) 
+Seat 4: *labdip*GB ($14.29 in chips) 
+Seat 5: MrMsry ($13.47 in chips) 
+Veinar Dina: posts small blind $0.05
+Tallion72: posts big blind $0.10
+*** HOLE CARDS ***
+*labdip*GB: folds 
+MrMsry: folds 
+Veinar Dina: raises $0.20 to $0.30
+Tallion72: folds 
+Uncalled bet ($0.20) returned to Veinar Dina
+Veinar Dina collected $0.20 from pot
+Veinar Dina: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Veinar Dina (small blind) collected ($0.20)
+Seat 3: Tallion72 (big blind) folded before Flop
+Seat 4: *labdip*GB folded before Flop (didn't bet)
+Seat 5: MrMsry (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222941914047:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:47:37 ET
+Table 'Rotraut II' 6-max Seat #2 is the button
+Seat 2: Veinar Dina ($21.41 in chips) 
+Seat 3: Tallion72 ($9.14 in chips) 
+Seat 4: *labdip*GB ($14.29 in chips) 
+Seat 5: MrMsry ($13.47 in chips) 
+Tallion72: posts small blind $0.05
+*labdip*GB: posts big blind $0.10
+*** HOLE CARDS ***
+MrMsry: raises $0.21 to $0.31
+Veinar Dina: folds 
+Tallion72: folds 
+SeregaDanger leaves the table
+*labdip*GB: folds 
+Uncalled bet ($0.21) returned to MrMsry
+MrMsry collected $0.25 from pot
+MrMsry: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Veinar Dina (button) folded before Flop (didn't bet)
+Seat 3: Tallion72 (small blind) folded before Flop
+Seat 4: *labdip*GB (big blind) folded before Flop
+Seat 5: MrMsry collected ($0.25)
+
+
+
+PokerStars Hand #222941922894:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:00 ET
+Table 'Rotraut II' 6-max Seat #3 is the button
+Seat 2: Veinar Dina ($21.41 in chips) 
+Seat 3: Tallion72 ($9.09 in chips) 
+Seat 4: *labdip*GB ($14.19 in chips) 
+*labdip*GB: posts small blind $0.05
+MrMsry: is sitting out 
+Veinar Dina: posts big blind $0.10
+*** HOLE CARDS ***
+Tallion72: raises $0.15 to $0.25
+MrMsry leaves the table
+*labdip*GB: folds 
+Veinar Dina: folds 
+Uncalled bet ($0.15) returned to Tallion72
+Tallion72 collected $0.25 from pot
+Tallion72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Veinar Dina (big blind) folded before Flop
+Seat 3: Tallion72 (button) collected ($0.25)
+Seat 4: *labdip*GB (small blind) folded before Flop
+
+
+
+PokerStars Hand #222941927845:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 21:48:13 ET
+Table 'Rotraut II' 6-max Seat #4 is the button
+Seat 2: Veinar Dina ($21.31 in chips) 
+Seat 3: Tallion72 ($9.24 in chips) 
+Seat 4: *labdip*GB ($14.14 in chips) 
+Veinar Dina: posts small blind $0.05
+Tallion72: posts big blind $0.10
+*** HOLE CARDS ***
+*labdip*GB: folds 
+Veinar Dina: folds 
+Uncalled bet ($0.05) returned to Tallion72
+Tallion72 collected $0.10 from pot
+Tallion72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Veinar Dina (small blind) folded before Flop
+Seat 3: Tallion72 (big blind) collected ($0.10)
+Seat 4: *labdip*GB (button) folded before Flop (didn't bet)
+
+
+

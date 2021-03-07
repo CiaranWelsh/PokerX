@@ -1,0 +1,2492 @@
+﻿PokerStars Hand #222973997353:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:04:26 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($13.09 in chips) 
+Seat 2: RAIM2020 ($14.17 in chips) 
+Seat 3: Lucky HoBBiT ($14.25 in chips) 
+Seat 4: SRJ18 ($5.08 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.47 in chips) 
+SRJ18: posts small blind $0.05
+playazhate: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: calls $0.10
+Lucky HoBBiT: raises $0.80 to $0.90
+SRJ18: folds 
+playazhate: folds 
+RAIM2020: calls $0.80
+*** FLOP *** [Kd 6d 3d]
+RAIM2020: checks 
+Lucky HoBBiT: bets $1.86
+RAIM2020: folds 
+Uncalled bet ($1.86) returned to Lucky HoBBiT
+Lucky HoBBiT collected $1.86 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Kd 6d 3d]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 folded on the Flop
+Seat 3: Lucky HoBBiT (button) collected ($1.86)
+Seat 4: SRJ18 (small blind) folded before Flop
+Seat 5: playazhate (big blind) folded before Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974030720:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:05 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($13.09 in chips) 
+Seat 2: RAIM2020 ($13.27 in chips) 
+Seat 3: Lucky HoBBiT ($15.21 in chips) 
+Seat 4: SRJ18 ($5.03 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.47 in chips) 
+playazhate: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: raises $0.10 to $0.20
+Lucky HoBBiT: folds 
+SRJ18: calls $0.20
+playazhate: folds 
+LuckyTatia: folds 
+*** FLOP *** [8d 9s Td]
+RAIM2020: bets $0.53
+SRJ18: calls $0.53
+*** TURN *** [8d 9s Td] [Jh]
+RAIM2020: bets $1.54
+SRJ18: calls $1.54
+*** RIVER *** [8d 9s Td Jh] [Th]
+RAIM2020: bets $4.48
+SRJ18: folds 
+Uncalled bet ($4.48) returned to RAIM2020
+RAIM2020 collected $4.48 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.69 | Rake $0.21 
+Board [8d 9s Td Jh Th]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 collected ($4.48)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) folded on the River
+Seat 5: playazhate (small blind) folded before Flop
+Seat 6: LuckyTatia (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974063178:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:05:44 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($13.09 in chips) 
+Seat 2: RAIM2020 ($15.48 in chips) 
+Seat 3: Lucky HoBBiT ($15.21 in chips) 
+Seat 4: SRJ18 ($2.76 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.37 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: calls $0.10
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: checks 
+*** FLOP *** [Jc Ah 5c]
+SKV_1985: checks 
+SRJ18: bets $0.10
+SKV_1985: folds 
+Uncalled bet ($0.10) returned to SRJ18
+SRJ18 collected $0.24 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jc Ah 5c]
+Seat 1: SKV_1985 (big blind) folded on the Flop
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 collected ($0.24)
+Seat 5: playazhate (button) folded before Flop (didn't bet)
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974083938:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:09 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($12.99 in chips) 
+Seat 2: RAIM2020 ($15.48 in chips) 
+Seat 3: Lucky HoBBiT ($15.21 in chips) 
+Seat 4: SRJ18 ($2.90 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.32 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: raises $0.20 to $0.30
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: calls $0.20
+*** FLOP *** [8d 6c 3h]
+RAIM2020: checks 
+SRJ18: bets $0.40
+RAIM2020: calls $0.40
+*** TURN *** [8d 6c 3h] [5d]
+RAIM2020: bets $1.38
+SRJ18: folds 
+Uncalled bet ($1.38) returned to RAIM2020
+RAIM2020 collected $1.38 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.07 
+Board [8d 6c 3h 5d]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) collected ($1.38)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 folded on the Turn
+Seat 5: playazhate folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974119235:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:06:51 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($12.94 in chips) 
+Seat 2: RAIM2020 ($16.16 in chips) 
+Seat 3: Lucky HoBBiT ($15.21 in chips) 
+Seat 4: SRJ18 ($2.20 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.32 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: calls $0.10
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: checks 
+*** FLOP *** [Qc 8h 2d]
+Lucky HoBBiT: checks 
+SRJ18: checks 
+*** TURN *** [Qc 8h 2d] [8d]
+Lucky HoBBiT: checks 
+SRJ18: checks 
+*** RIVER *** [Qc 8h 2d 8d] [Ac]
+Lucky HoBBiT: checks 
+SRJ18: bets $0.24
+Lucky HoBBiT: folds 
+Uncalled bet ($0.24) returned to SRJ18
+SRJ18 collected $0.24 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc 8h 2d 8d Ac]
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) folded on the River
+Seat 4: SRJ18 collected ($0.24)
+Seat 5: playazhate folded before Flop (didn't bet)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974149761:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:28 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($12.94 in chips) 
+Seat 2: RAIM2020 ($16.11 in chips) 
+Seat 3: Lucky HoBBiT ($15.11 in chips) 
+Seat 4: SRJ18 ($2.34 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.32 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.40 to $0.50
+Lucky HoBBiT: folds 
+SRJ18: folds 
+Uncalled bet ($0.40) returned to RAIM2020
+RAIM2020 collected $0.25 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) collected ($0.25)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) folded before Flop
+Seat 5: playazhate folded before Flop (didn't bet)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974162465:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:07:43 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($12.94 in chips) 
+Seat 2: RAIM2020 ($16.26 in chips) 
+Seat 3: Lucky HoBBiT ($15.06 in chips) 
+Seat 4: SRJ18 ($2.24 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.32 in chips) 
+SRJ18: posts small blind $0.05
+playazhate: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: raises $0.20 to $0.30
+RAIM2020: raises $0.30 to $0.60
+Lucky HoBBiT: folds 
+SRJ18: calls $0.55
+playazhate: calls $0.50
+SKV_1985: calls $0.30
+*** FLOP *** [7s 7d Th]
+SRJ18: checks 
+playazhate: checks 
+SKV_1985: checks 
+RAIM2020: bets $2.29
+SRJ18: calls $1.64 and is all-in
+playazhate: folds 
+SKV_1985: folds 
+Uncalled bet ($0.65) returned to RAIM2020
+*** TURN *** [7s 7d Th] [Jc]
+*** RIVER *** [7s 7d Th Jc] [4d]
+*** SHOW DOWN ***
+SRJ18: shows [8d 7h] (three of a kind, Sevens)
+RAIM2020: shows [Qh Ac] (a pair of Sevens)
+SRJ18 collected $5.42 from pot
+*** SUMMARY ***
+Total pot $5.68 | Rake $0.26 
+Board [7s 7d Th Jc 4d]
+Seat 1: SKV_1985 folded on the Flop
+Seat 2: RAIM2020 showed [Qh Ac] and lost with a pair of Sevens
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) showed [8d 7h] and won ($5.42) with three of a kind, Sevens
+Seat 5: playazhate (big blind) folded on the Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974211731:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:08:42 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($12.34 in chips) 
+Seat 2: RAIM2020 ($14.02 in chips) 
+Seat 3: Lucky HoBBiT ($15.06 in chips) 
+Seat 4: SRJ18 ($5.42 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.32 in chips) 
+playazhate: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+SRJ18: calls $0.10
+playazhate: folds 
+LuckyTatia: checks 
+*** FLOP *** [6c 8c 2c]
+LuckyTatia: checks 
+RAIM2020: checks 
+SRJ18: checks 
+*** TURN *** [6c 8c 2c] [Jh]
+LuckyTatia: checks 
+RAIM2020: checks 
+SRJ18: checks 
+*** RIVER *** [6c 8c 2c Jh] [Kc]
+LuckyTatia: checks 
+RAIM2020: checks 
+SRJ18: checks 
+*** SHOW DOWN ***
+LuckyTatia: shows [8s Ts] (a pair of Eights)
+RAIM2020: mucks hand 
+SRJ18: mucks hand 
+LuckyTatia collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [6c 8c 2c Jh Kc]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 mucked
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) mucked
+Seat 5: playazhate (small blind) folded before Flop
+Seat 6: LuckyTatia (big blind) showed [8s Ts] and won ($0.33) with a pair of Eights
+
+
+
+PokerStars Hand #222974256519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:09:36 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($12.34 in chips) 
+Seat 2: RAIM2020 ($13.92 in chips) 
+Seat 3: Lucky HoBBiT ($15.06 in chips) 
+Seat 4: SRJ18 ($5.32 in chips) 
+Seat 5: playazhate ($10 in chips) 
+Seat 6: LuckyTatia ($12.55 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+SRJ18: folds 
+playazhate: raises $0.60 to $0.90
+LuckyTatia: folds 
+SKV_1985: folds 
+Lucky HoBBiT: calls $0.60
+*** FLOP *** [4d 8c Qs]
+Lucky HoBBiT: checks 
+playazhate: checks 
+*** TURN *** [4d 8c Qs] [Ah]
+Lucky HoBBiT: checks 
+playazhate: checks 
+*** RIVER *** [4d 8c Qs Ah] [2c]
+Lucky HoBBiT: checks 
+playazhate: checks 
+*** SHOW DOWN ***
+Lucky HoBBiT: shows [Qh Kc] (a pair of Queens)
+playazhate: shows [5c Ac] (a pair of Aces)
+playazhate collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [4d 8c Qs Ah 2c]
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT showed [Qh Kc] and lost with a pair of Queens
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: playazhate (button) showed [5c Ac] and won ($1.86) with a pair of Aces
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974311840:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:10:43 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($12.24 in chips) 
+Seat 2: RAIM2020 ($13.92 in chips) 
+Seat 3: Lucky HoBBiT ($14.16 in chips) 
+Seat 4: SRJ18 ($5.32 in chips) 
+Seat 5: playazhate ($10.96 in chips) 
+Seat 6: LuckyTatia ($12.50 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: calls $0.10
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: checks 
+*** FLOP *** [Qc Ah 8h]
+RAIM2020: bets $0.24
+SRJ18: folds 
+Uncalled bet ($0.24) returned to RAIM2020
+RAIM2020 collected $0.24 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc Ah 8h]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) collected ($0.24)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 folded on the Flop
+Seat 5: playazhate folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974344174:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:11:22 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($12.19 in chips) 
+Seat 2: RAIM2020 ($14.06 in chips) 
+Seat 3: Lucky HoBBiT ($14.16 in chips) 
+Seat 4: SRJ18 ($5.22 in chips) 
+Seat 5: playazhate ($10.96 in chips) 
+Seat 6: LuckyTatia ($12.50 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: folds 
+playazhate has timed out
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: raises $0.20 to $0.30
+RAIM2020: calls $0.25
+Lucky HoBBiT: folds 
+*** FLOP *** [7c Ad Th]
+RAIM2020: bets $0.40
+SKV_1985: folds 
+Uncalled bet ($0.40) returned to RAIM2020
+RAIM2020 collected $0.67 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [7c Ad Th]
+Seat 1: SKV_1985 (button) folded on the Flop
+Seat 2: RAIM2020 (small blind) collected ($0.67)
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: playazhate folded before Flop (didn't bet)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974371415:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:11:54 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($11.89 in chips) 
+Seat 2: RAIM2020 ($14.43 in chips) 
+Seat 3: Lucky HoBBiT ($14.06 in chips) 
+Seat 4: SRJ18 ($5.22 in chips) 
+Seat 5: playazhate ($10.96 in chips) 
+Seat 6: LuckyTatia ($12.50 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+playazhate: raises $0.10 to $0.20
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.10 to $0.30
+Lucky HoBBiT: calls $0.25
+SRJ18: calls $0.20
+playazhate: calls $0.10
+*** FLOP *** [7c Qs Ad]
+Lucky HoBBiT: checks 
+SRJ18: checks 
+playazhate: checks 
+RAIM2020: bets $1.15
+Lucky HoBBiT: folds 
+SRJ18: calls $1.15
+playazhate: folds 
+*** TURN *** [7c Qs Ad] [9d]
+SRJ18: checks 
+RAIM2020: checks 
+*** RIVER *** [7c Qs Ad 9d] [7s]
+SRJ18: bets $1.70
+RAIM2020: folds 
+Uncalled bet ($1.70) returned to SRJ18
+SRJ18 collected $3.34 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.16 
+Board [7c Qs Ad 9d 7s]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) folded on the River
+Seat 3: Lucky HoBBiT (small blind) folded on the Flop
+Seat 4: SRJ18 (big blind) collected ($3.34)
+Seat 5: playazhate folded on the Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974443987:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:13:22 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($11.89 in chips) 
+Seat 2: RAIM2020 ($12.98 in chips) 
+Seat 3: Lucky HoBBiT ($13.76 in chips) 
+Seat 4: SRJ18 ($7.11 in chips) 
+Seat 5: playazhate ($10.66 in chips) 
+Seat 6: LuckyTatia ($12.50 in chips) 
+SRJ18: posts small blind $0.05
+playazhate: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: calls $0.05
+playazhate: checks 
+*** FLOP *** [6c Td Qc]
+SRJ18: checks 
+playazhate: checks 
+*** TURN *** [6c Td Qc] [9d]
+SRJ18: checks 
+playazhate: bets $0.10
+SRJ18: calls $0.10
+*** RIVER *** [6c Td Qc 9d] [Kd]
+SRJ18: checks 
+playazhate: bets $0.30
+SRJ18: folds 
+Uncalled bet ($0.30) returned to playazhate
+playazhate collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [6c Td Qc 9d Kd]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) folded on the River
+Seat 5: playazhate (big blind) collected ($0.38)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974485105:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:14:13 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($11.89 in chips) 
+Seat 2: RAIM2020 ($12.98 in chips) 
+Seat 3: Lucky HoBBiT ($13.76 in chips) 
+Seat 4: SRJ18 ($6.91 in chips) 
+Seat 5: playazhate ($10.84 in chips) 
+Seat 6: LuckyTatia ($12.50 in chips) 
+playazhate: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: calls $0.10
+Lucky HoBBiT: raises $0.35 to $0.45
+SRJ18: folds 
+playazhate: folds 
+LuckyTatia: folds 
+RAIM2020: calls $0.35
+*** FLOP *** [Ks As Jc]
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** TURN *** [Ks As Jc] [7s]
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** RIVER *** [Ks As Jc 7s] [7d]
+RAIM2020: bets $1
+Lucky HoBBiT: folds 
+Uncalled bet ($1) returned to RAIM2020
+RAIM2020 collected $1 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Ks As Jc 7s 7d]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 collected ($1)
+Seat 3: Lucky HoBBiT folded on the River
+Seat 4: SRJ18 (button) folded before Flop (didn't bet)
+Seat 5: playazhate (small blind) folded before Flop
+Seat 6: LuckyTatia (big blind) folded before Flop
+
+
+
+PokerStars Hand #222974528068:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:05 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($11.89 in chips) 
+Seat 2: RAIM2020 ($13.53 in chips) 
+Seat 3: Lucky HoBBiT ($13.31 in chips) 
+Seat 4: SRJ18 ($6.91 in chips) 
+Seat 5: playazhate ($10.79 in chips) 
+Seat 6: LuckyTatia ($12.40 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: raises $0.20 to $0.30
+Lucky HoBBiT: calls $0.30
+SRJ18: calls $0.30
+playazhate: folds 
+LuckyTatia: raises $1.10 to $1.40
+SKV_1985: folds 
+RAIM2020: calls $1.10
+Lucky HoBBiT: calls $1.10
+SRJ18: calls $1.10
+*** FLOP *** [3s 9c 2h]
+LuckyTatia: bets $1.80
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: folds 
+Uncalled bet ($1.80) returned to LuckyTatia
+LuckyTatia collected $5.44 from pot
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.26 
+Board [3s 9c 2h]
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 2: RAIM2020 folded on the Flop
+Seat 3: Lucky HoBBiT folded on the Flop
+Seat 4: SRJ18 folded on the Flop
+Seat 5: playazhate (button) folded before Flop (didn't bet)
+Seat 6: LuckyTatia (small blind) collected ($5.44)
+
+
+
+PokerStars Hand #222974563304:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:15:48 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($11.79 in chips) 
+Seat 2: RAIM2020 ($12.13 in chips) 
+Seat 3: Lucky HoBBiT ($11.91 in chips) 
+Seat 4: SRJ18 ($5.51 in chips) 
+Seat 5: playazhate ($10.79 in chips) 
+Seat 6: LuckyTatia ($16.44 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: calls $0.10
+playazhate: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: checks 
+*** FLOP *** [Th 7d 8d]
+RAIM2020: bets $0.24
+SRJ18: calls $0.24
+*** TURN *** [Th 7d 8d] [6h]
+RAIM2020: checks 
+SRJ18: bets $0.35
+RAIM2020: calls $0.35
+*** RIVER *** [Th 7d 8d 6h] [Ad]
+playazhate leaves the table
+RAIM2020: checks 
+and 07335 joins the table at seat #5 
+SRJ18: checks 
+*** SHOW DOWN ***
+RAIM2020: shows [8s Ks] (a pair of Eights)
+SRJ18: shows [6s 8c] (two pair, Eights and Sixes)
+SRJ18 collected $1.37 from pot
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.06 
+Board [Th 7d 8d 6h Ad]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) showed [8s Ks] and lost with a pair of Eights
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 showed [6s 8c] and won ($1.37) with two pair, Eights and Sixes
+Seat 5: playazhate folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974598672:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:31 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($11.74 in chips) 
+Seat 2: RAIM2020 ($11.44 in chips) 
+Seat 3: Lucky HoBBiT ($11.91 in chips) 
+Seat 4: SRJ18 ($6.19 in chips) 
+Seat 6: LuckyTatia ($16.44 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+and 07335: sits out 
+*** HOLE CARDS ***
+SRJ18: calls $0.10
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.70 to $0.80
+Lucky HoBBiT: folds 
+SRJ18: folds 
+Uncalled bet ($0.70) returned to RAIM2020
+RAIM2020 collected $0.30 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) collected ($0.30)
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: SRJ18 folded before Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974616943:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:16:53 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($11.74 in chips) 
+Seat 2: RAIM2020 ($11.64 in chips) 
+Seat 3: Lucky HoBBiT ($11.81 in chips) 
+Seat 4: SRJ18 ($6.09 in chips) 
+Seat 6: LuckyTatia ($16.44 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+and 07335: sits out 
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+SRJ18: raises $0.30 to $0.40
+RAIM2020: calls $0.30
+*** FLOP *** [9c 8c 7s]
+SRJ18: bets $0.70
+RAIM2020: raises $0.70 to $1.40
+SRJ18: calls $0.70
+*** TURN *** [9c 8c 7s] [3s]
+SRJ18: checks 
+RAIM2020: checks 
+*** RIVER *** [9c 8c 7s 3s] [3d]
+SRJ18: checks 
+RAIM2020: bets $3.49
+SRJ18: folds 
+Uncalled bet ($3.49) returned to RAIM2020
+RAIM2020 collected $3.49 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.16 
+Board [9c 8c 7s 3s 3d]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) collected ($3.49)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) folded on the River
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974653818:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:38 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($11.74 in chips) 
+Seat 2: RAIM2020 ($13.33 in chips) 
+Seat 3: Lucky HoBBiT ($11.76 in chips) 
+Seat 4: SRJ18 ($4.29 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+Seat 6: LuckyTatia ($16.44 in chips) 
+SRJ18: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: folds 
+Uncalled bet ($0.05) returned to and 07335
+and 07335 collected $0.10 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) folded before Flop
+Seat 5: and 07335 (big blind) collected ($0.10)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974661303:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:17:46 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($11.74 in chips) 
+Seat 2: RAIM2020 ($13.33 in chips) 
+Seat 3: Lucky HoBBiT ($11.76 in chips) 
+Seat 4: SRJ18 ($4.24 in chips) 
+Seat 5: and 07335 ($10.05 in chips) 
+and 07335: posts small blind $0.05
+LuckyTatia: is sitting out 
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+SRJ18: raises $0.65 to $0.90
+and 07335: folds 
+SKV_1985: folds 
+Lucky HoBBiT: calls $0.65
+*** FLOP *** [7s 2s 9h]
+Lucky HoBBiT: checks 
+SRJ18: bets $1
+Lucky HoBBiT: folds 
+Uncalled bet ($1) returned to SRJ18
+SRJ18 collected $1.86 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [7s 2s 9h]
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT folded on the Flop
+Seat 4: SRJ18 (button) collected ($1.86)
+Seat 5: and 07335 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974688671:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:18:20 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($11.64 in chips) 
+Seat 2: RAIM2020 ($13.33 in chips) 
+Seat 3: Lucky HoBBiT ($10.86 in chips) 
+Seat 4: SRJ18 ($5.20 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: folds 
+and 07335: folds 
+SKV_1985: folds 
+Uncalled bet ($0.05) returned to RAIM2020
+RAIM2020 collected $0.10 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) collected ($0.10)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: and 07335 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974696237:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:18:29 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($11.59 in chips) 
+Seat 2: RAIM2020 ($13.38 in chips) 
+Seat 3: Lucky HoBBiT ($10.86 in chips) 
+Seat 4: SRJ18 ($5.20 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: folds 
+and 07335: raises $0.15 to $0.25
+SKV_1985: folds 
+RAIM2020: raises $0.25 to $0.50
+Lucky HoBBiT: folds 
+and 07335: calls $0.25
+*** FLOP *** [9d 2c Ts]
+RAIM2020: bets $1.05
+and 07335: folds 
+Uncalled bet ($1.05) returned to RAIM2020
+RAIM2020 collected $1.05 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9d 2c Ts]
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) collected ($1.05)
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: and 07335 folded on the Flop
+
+
+
+PokerStars Hand #222974726371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:06 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($11.59 in chips) 
+Seat 2: RAIM2020 ($13.93 in chips) 
+Seat 3: Lucky HoBBiT ($10.76 in chips) 
+Seat 4: SRJ18 ($5.20 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.05) returned to SRJ18
+SRJ18 collected $0.10 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) collected ($0.10)
+Seat 5: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974732362:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:19:13 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($11.59 in chips) 
+Seat 2: RAIM2020 ($13.93 in chips) 
+Seat 3: Lucky HoBBiT ($10.71 in chips) 
+Seat 4: SRJ18 ($5.25 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SRJ18: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020 has timed out
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: calls $0.05
+and 07335: raises $0.30 to $0.40
+SRJ18: calls $0.30
+*** FLOP *** [8s 8d 3h]
+SRJ18: checks 
+and 07335: bets $0.50
+SRJ18: calls $0.50
+*** TURN *** [8s 8d 3h] [Jd]
+SRJ18: checks 
+and 07335: checks 
+*** RIVER *** [8s 8d 3h Jd] [Qc]
+SRJ18: checks 
+and 07335: checks 
+*** SHOW DOWN ***
+SRJ18: shows [4h 4c] (two pair, Eights and Fours)
+and 07335: mucks hand 
+SRJ18 collected $1.72 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [8s 8d 3h Jd Qc]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) showed [4h 4c] and won ($1.72) with two pair, Eights and Fours
+Seat 5: and 07335 (big blind) mucked
+
+
+
+PokerStars Hand #222974779317:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:11 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($11.59 in chips) 
+Seat 2: RAIM2020 ($13.93 in chips) 
+Seat 3: Lucky HoBBiT ($10.71 in chips) 
+Seat 4: SRJ18 ($6.07 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+and 07335: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+SRJ18: folds 
+and 07335: folds 
+SKV_1985: checks 
+*** FLOP *** [2c 6s 9h]
+SKV_1985: checks 
+RAIM2020: bets $0.24
+SKV_1985: folds 
+Uncalled bet ($0.24) returned to RAIM2020
+RAIM2020 collected $0.24 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 6s 9h]
+Seat 1: SKV_1985 (big blind) folded on the Flop
+Seat 2: RAIM2020 collected ($0.24)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) folded before Flop (didn't bet)
+Seat 5: and 07335 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974798563:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:20:34 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($11.49 in chips) 
+Seat 2: RAIM2020 ($14.07 in chips) 
+Seat 3: Lucky HoBBiT ($10.71 in chips) 
+Seat 4: SRJ18 ($6.07 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: calls $0.10
+and 07335: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.20 to $0.30
+SRJ18: calls $0.20
+*** FLOP *** [4d 2s 6s]
+RAIM2020: bets $0.62
+SRJ18: calls $0.62
+*** TURN *** [4d 2s 6s] [2h]
+RAIM2020: checks 
+SRJ18: bets $1.10
+RAIM2020: calls $1.10
+*** RIVER *** [4d 2s 6s 2h] [8d]
+RAIM2020: checks 
+SRJ18: checks 
+*** SHOW DOWN ***
+RAIM2020: shows [Ks As] (a pair of Deuces)
+SRJ18: shows [Ts 4s] (two pair, Fours and Deuces)
+SRJ18 collected $3.91 from pot
+*** SUMMARY ***
+Total pot $4.09 | Rake $0.18 
+Board [4d 2s 6s 2h 8d]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) showed [Ks As] and lost with a pair of Deuces
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 showed [Ts 4s] and won ($3.91) with two pair, Fours and Deuces
+Seat 5: and 07335 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974834456:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:19 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($11.44 in chips) 
+Seat 2: RAIM2020 ($12.05 in chips) 
+Seat 3: Lucky HoBBiT ($10.71 in chips) 
+Seat 4: SRJ18 ($7.96 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: folds 
+and 07335: folds 
+SKV_1985: raises $0.20 to $0.30
+RAIM2020: folds 
+Lucky HoBBiT: calls $0.20
+*** FLOP *** [Qs Jc 9h]
+Lucky HoBBiT: checks 
+SKV_1985: checks 
+*** TURN *** [Qs Jc 9h] [As]
+Lucky HoBBiT: bets $0.25
+SKV_1985: folds 
+Uncalled bet ($0.25) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.62 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Qs Jc 9h As]
+Seat 1: SKV_1985 (button) folded on the Turn
+Seat 2: RAIM2020 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) collected ($0.62)
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974856845:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:21:46 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($11.14 in chips) 
+Seat 2: RAIM2020 ($12 in chips) 
+Seat 3: Lucky HoBBiT ($11.03 in chips) 
+Seat 4: SRJ18 ($7.96 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+SRJ18: calls $0.20
+*** FLOP *** [6c 7h 8c]
+Lucky HoBBiT: checks 
+SRJ18: bets $0.40
+Lucky HoBBiT: folds 
+Uncalled bet ($0.40) returned to SRJ18
+SRJ18 collected $0.57 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [6c 7h 8c]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (small blind) folded on the Flop
+Seat 4: SRJ18 (big blind) collected ($0.57)
+Seat 5: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974875085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:22:09 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($11.14 in chips) 
+Seat 2: RAIM2020 ($12 in chips) 
+Seat 3: Lucky HoBBiT ($10.73 in chips) 
+Seat 4: SRJ18 ($8.23 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SRJ18: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+SRJ18: calls $0.05
+and 07335: checks 
+*** FLOP *** [9c 3h 4s]
+SRJ18: checks 
+and 07335: checks 
+RAIM2020: checks 
+*** TURN *** [9c 3h 4s] [Ks]
+SRJ18: checks 
+and 07335: checks 
+RAIM2020: bets $0.29
+SRJ18: folds 
+and 07335: folds 
+Uncalled bet ($0.29) returned to RAIM2020
+RAIM2020 collected $0.29 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [9c 3h 4s Ks]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 collected ($0.29)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) folded on the Turn
+Seat 5: and 07335 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #222974917604:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:01 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($11.14 in chips) 
+Seat 2: RAIM2020 ($12.19 in chips) 
+Seat 3: Lucky HoBBiT ($10.73 in chips) 
+Seat 4: SRJ18 ($8.13 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+and 07335: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+SRJ18: folds 
+and 07335: folds 
+SKV_1985: checks 
+*** FLOP *** [Tc 5h 8s]
+SKV_1985: checks 
+RAIM2020: bets $0.24
+SKV_1985: folds 
+Uncalled bet ($0.24) returned to RAIM2020
+RAIM2020 collected $0.24 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc 5h 8s]
+Seat 1: SKV_1985 (big blind) folded on the Flop
+Seat 2: RAIM2020 collected ($0.24)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) folded before Flop (didn't bet)
+Seat 5: and 07335 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222974935875:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:23 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($11.04 in chips) 
+Seat 2: RAIM2020 ($12.33 in chips) 
+Seat 3: Lucky HoBBiT ($10.73 in chips) 
+Seat 4: SRJ18 ($8.13 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: raises $0.20 to $0.30
+SRJ18: calls $0.30
+and 07335: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+*** FLOP *** [Tc As Ac]
+Lucky HoBBiT: bets $0.25
+SRJ18: calls $0.25
+*** TURN *** [Tc As Ac] [8d]
+Lucky HoBBiT: checks 
+SRJ18: checks 
+*** RIVER *** [Tc As Ac 8d] [7s]
+Lucky HoBBiT: checks 
+SRJ18: checks 
+*** SHOW DOWN ***
+Lucky HoBBiT: shows [Jh Kd] (a pair of Aces)
+SRJ18: shows [Th Jc] (two pair, Aces and Tens)
+SRJ18 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Tc As Ac 8d 7s]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) folded before Flop
+Seat 3: Lucky HoBBiT showed [Jh Kd] and lost with a pair of Aces
+Seat 4: SRJ18 showed [Th Jc] and won ($1.19) with two pair, Aces and Tens
+Seat 5: and 07335 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974963223:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:23:57 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.99 in chips) 
+Seat 2: RAIM2020 ($12.23 in chips) 
+Seat 3: Lucky HoBBiT ($10.18 in chips) 
+Seat 4: SRJ18 ($8.77 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: folds 
+and 07335: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Uncalled bet ($0.05) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.10 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) collected ($0.10)
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974971209:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:07 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.99 in chips) 
+Seat 2: RAIM2020 ($12.18 in chips) 
+Seat 3: Lucky HoBBiT ($10.23 in chips) 
+Seat 4: SRJ18 ($8.77 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.10 to $0.20
+Lucky HoBBiT: calls $0.15
+SRJ18: calls $0.10
+*** FLOP *** [Th 2d 7s]
+Lucky HoBBiT: bets $0.57
+SRJ18: folds 
+RAIM2020: folds 
+Uncalled bet ($0.57) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.57 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Th 2d 7s]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) folded on the Flop
+Seat 3: Lucky HoBBiT (small blind) collected ($0.57)
+Seat 4: SRJ18 (big blind) folded on the Flop
+Seat 5: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222974989297:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:24:29 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.99 in chips) 
+Seat 2: RAIM2020 ($11.98 in chips) 
+Seat 3: Lucky HoBBiT ($10.60 in chips) 
+Seat 4: SRJ18 ($8.57 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SRJ18: posts small blind $0.05
+and 07335: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: raises $0.20 to $0.30
+RAIM2020: folds 
+Lucky HoBBiT: calls $0.30
+SRJ18: folds 
+and 07335: folds 
+*** FLOP *** [Kc 9c 7c]
+SKV_1985: bets $0.47
+Lucky HoBBiT: raises $1.13 to $1.60
+SKV_1985: calls $1.13
+*** TURN *** [Kc 9c 7c] [3d]
+SKV_1985: checks 
+Lucky HoBBiT: checks 
+*** RIVER *** [Kc 9c 7c 3d] [Th]
+SKV_1985: checks 
+Lucky HoBBiT: bets $2.56
+SKV_1985: folds 
+Uncalled bet ($2.56) returned to Lucky HoBBiT
+Lucky HoBBiT collected $3.77 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.95 | Rake $0.18 
+Board [Kc 9c 7c 3d Th]
+Seat 1: SKV_1985 folded on the River
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) collected ($3.77)
+Seat 4: SRJ18 (small blind) folded before Flop
+Seat 5: and 07335 (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975048213:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:25:43 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10 in chips) 
+Seat 2: RAIM2020 ($11.98 in chips) 
+Seat 3: Lucky HoBBiT ($12.47 in chips) 
+Seat 4: SRJ18 ($8.52 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+and 07335: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: raises $0.20 to $0.30
+and 07335: calls $0.25
+SKV_1985: calls $0.20
+*** FLOP *** [7h 3h 8d]
+and 07335: bets $0.57
+SKV_1985: folds 
+SRJ18: calls $0.57
+*** TURN *** [7h 3h 8d] [Ah]
+and 07335: checks 
+SRJ18: bets $1
+and 07335: folds 
+Uncalled bet ($1) returned to SRJ18
+SRJ18 collected $1.95 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [7h 3h 8d Ah]
+Seat 1: SKV_1985 (big blind) folded on the Flop
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) collected ($1.95)
+Seat 5: and 07335 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #222975091253:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:26:37 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10 in chips) 
+Seat 2: RAIM2020 ($11.98 in chips) 
+Seat 3: Lucky HoBBiT ($12.47 in chips) 
+Seat 4: SRJ18 ($9.60 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: folds 
+and 07335: raises $0.12 to $0.22
+SKV_1985: folds 
+RAIM2020: calls $0.12
+*** FLOP *** [5s Jd 9s]
+RAIM2020: checks 
+and 07335: bets $0.31
+RAIM2020: calls $0.31
+*** TURN *** [5s Jd 9s] [3c]
+RAIM2020: checks 
+and 07335: checks 
+*** RIVER *** [5s Jd 9s 3c] [6c]
+RAIM2020: bets $1.06
+and 07335: folds 
+Uncalled bet ($1.06) returned to RAIM2020
+RAIM2020 collected $1.06 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05 
+Board [5s Jd 9s 3c 6c]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) collected ($1.06)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: and 07335 (button) folded on the River
+
+
+
+PokerStars Hand #222975123156:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:16 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10 in chips) 
+Seat 2: RAIM2020 ($12.51 in chips) 
+Seat 3: Lucky HoBBiT ($12.47 in chips) 
+Seat 4: SRJ18 ($9.60 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+LuckyTatia: sits out 
+*** HOLE CARDS ***
+SRJ18: calls $0.10
+and 07335: folds 
+SKV_1985: raises $0.30 to $0.40
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: calls $0.30
+*** FLOP *** [Qc 7c Jc]
+SRJ18: checks 
+SKV_1985: bets $0.59
+SRJ18: folds 
+Uncalled bet ($0.59) returned to SKV_1985
+SKV_1985 collected $0.91 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Qc 7c Jc]
+Seat 1: SKV_1985 (button) collected ($0.91)
+Seat 2: RAIM2020 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: SRJ18 folded on the Flop
+Seat 5: and 07335 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975158371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:27:57 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 2: RAIM2020 ($12.46 in chips) 
+Seat 3: Lucky HoBBiT ($12.37 in chips) 
+Seat 4: SRJ18 ($9.20 in chips) 
+Seat 5: and 07335 ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+LuckyTatia: sits out 
+*** HOLE CARDS ***
+and 07335: raises $0.15 to $0.25
+SKV_1985: folds 
+RAIM2020: raises $0.15 to $0.40
+Lucky HoBBiT: folds 
+SRJ18: folds 
+and 07335: calls $0.15
+*** FLOP *** [6s 5c Jc]
+and 07335: checks 
+RAIM2020: checks 
+*** TURN *** [6s 5c Jc] [Ts]
+and 07335: checks 
+RAIM2020: checks 
+*** RIVER *** [6s 5c Jc Ts] [2h]
+and 07335: checks 
+RAIM2020: checks 
+*** SHOW DOWN ***
+and 07335: shows [Qs Ad] (high card Ace)
+RAIM2020: mucks hand 
+and 07335 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6s 5c Jc Ts 2h]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) mucked
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) folded before Flop
+Seat 5: and 07335 showed [Qs Ad] and won ($0.91) with high card Ace
+
+
+
+PokerStars Hand #222975177990:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:21 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 2: RAIM2020 ($12.06 in chips) 
+Seat 3: Lucky HoBBiT ($12.32 in chips) 
+Seat 4: SRJ18 ($9.10 in chips) 
+Seat 5: and 07335 ($10.51 in chips) 
+SRJ18: posts small blind $0.05
+and 07335: posts big blind $0.10
+LuckyTatia: sits out 
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+SRJ18: calls $0.05
+and 07335: checks 
+*** FLOP *** [8s Td Qh]
+SRJ18: bets $0.20
+and 07335: calls $0.20
+RAIM2020: folds 
+*** TURN *** [8s Td Qh] [9c]
+SRJ18: checks 
+and 07335: checks 
+*** RIVER *** [8s Td Qh 9c] [Jd]
+SRJ18: checks 
+and 07335: checks 
+*** SHOW DOWN ***
+SRJ18: shows [Jh Qs] (a straight, Eight to Queen)
+and 07335: shows [9d 7h] (a straight, Eight to Queen)
+SRJ18 collected $0.34 from pot
+and 07335 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [8s Td Qh 9c Jd]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 folded on the Flop
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) showed [Jh Qs] and won ($0.34) with a straight, Eight to Queen
+Seat 5: and 07335 (big blind) showed [9d 7h] and won ($0.33) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #222975207482:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:28:58 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 2: RAIM2020 ($11.96 in chips) 
+Seat 3: Lucky HoBBiT ($12.32 in chips) 
+Seat 4: SRJ18 ($9.14 in chips) 
+Seat 5: and 07335 ($10.54 in chips) 
+Seat 6: LuckyTatia ($16.44 in chips) 
+and 07335: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: raises $0.20 to $0.30
+and 07335: folds 
+LuckyTatia: folds 
+Uncalled bet ($0.20) returned to SRJ18
+SRJ18 collected $0.25 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) collected ($0.25)
+Seat 5: and 07335 (small blind) folded before Flop
+Seat 6: LuckyTatia (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975221648:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:29:16 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 2: RAIM2020 ($11.96 in chips) 
+Seat 3: Lucky HoBBiT ($12.32 in chips) 
+Seat 4: SRJ18 ($9.29 in chips) 
+Seat 5: and 07335 ($10.49 in chips) 
+Seat 6: LuckyTatia ($16.34 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+SRJ18: calls $0.10
+and 07335: raises $0.30 to $0.40
+RAIM2020 leaves the table
+LuckyTatia: folds 
+SKV_1985: calls $0.30
+SRJ18: calls $0.30
+*** FLOP *** [6c 9s Ah]
+SKV_1985: checks 
+SRJ18: checks 
+and 07335: bets $0.79
+SKV_1985: folds 
+SRJ18: folds 
+Uncalled bet ($0.79) returned to and 07335
+and 07335 collected $1.19 from pot
+and 07335: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [6c 9s Ah]
+Seat 1: SKV_1985 (big blind) folded on the Flop
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 folded on the Flop
+Seat 5: and 07335 (button) collected ($1.19)
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975261390:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:06 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($10.11 in chips) 
+Seat 3: Lucky HoBBiT ($12.32 in chips) 
+Seat 4: SRJ18 ($8.89 in chips) 
+Seat 5: and 07335 ($11.28 in chips) 
+Seat 6: LuckyTatia ($16.29 in chips) 
+SKV_1985: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: folds 
+and 07335: folds 
+LuckyTatia: folds 
+SKV_1985: raises $0.20 to $0.30
+Lucky HoBBiT: folds 
+Uncalled bet ($0.20) returned to SKV_1985
+SKV_1985 collected $0.20 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 (small blind) collected ($0.20)
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: and 07335 folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975270360:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:17 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.21 in chips) 
+Seat 3: Lucky HoBBiT ($12.22 in chips) 
+Seat 4: SRJ18 ($8.89 in chips) 
+Seat 5: and 07335 ($11.28 in chips) 
+Seat 6: LuckyTatia ($16.29 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+and 07335: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+and 07335 leaves the table
+SRJ18: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.20 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (small blind) collected ($0.20)
+Seat 4: SRJ18 (big blind) folded before Flop
+Seat 5: and 07335 folded before Flop (didn't bet)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975280084:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:30 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.21 in chips) 
+Seat 3: Lucky HoBBiT ($12.32 in chips) 
+Seat 4: SRJ18 ($8.79 in chips) 
+Seat 6: LuckyTatia ($16.29 in chips) 
+SRJ18: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+Lucky HoBBiT: folds 
+SRJ18: raises $0.20 to $0.30
+LuckyTatia: folds 
+Uncalled bet ($0.20) returned to SRJ18
+SRJ18 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) collected ($0.20)
+Seat 6: LuckyTatia (big blind) folded before Flop
+
+
+
+PokerStars Hand #222975289064:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:41 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.21 in chips) 
+Seat 3: Lucky HoBBiT ($12.32 in chips) 
+Seat 4: SRJ18 ($8.89 in chips) 
+Seat 6: LuckyTatia ($16.19 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: raises $0.15 to $0.25
+SRJ18: folds 
+romanskiy1 joins the table at seat #5 
+LuckyTatia: folds 
+SKV_1985: folds 
+Uncalled bet ($0.15) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.25 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 3: Lucky HoBBiT collected ($0.25)
+Seat 4: SRJ18 (button) folded before Flop (didn't bet)
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975301757:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:30:57 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($10.11 in chips) 
+Seat 3: Lucky HoBBiT ($12.47 in chips) 
+Seat 4: SRJ18 ($8.89 in chips) 
+Seat 6: LuckyTatia ($16.14 in chips) 
+SKV_1985: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+romanskiy1: sits out 
+*** HOLE CARDS ***
+SRJ18: raises $0.20 to $0.30
+LuckyTatia: folds 
+SKV_1985: folds 
+Lucky HoBBiT: calls $0.20
+*** FLOP *** [3h 6s 6d]
+Lucky HoBBiT: checks 
+SRJ18: checks 
+*** TURN *** [3h 6s 6d] [Qs]
+Lucky HoBBiT: checks 
+SRJ18: bets $0.40
+Lucky HoBBiT: folds 
+Uncalled bet ($0.40) returned to SRJ18
+SRJ18 collected $0.62 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3h 6s 6d Qs]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) folded on the Turn
+Seat 4: SRJ18 collected ($0.62)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975319128:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:31:19 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.06 in chips) 
+Seat 3: Lucky HoBBiT ($12.17 in chips) 
+Seat 4: SRJ18 ($9.21 in chips) 
+Seat 6: LuckyTatia ($16.14 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+romanskiy1: sits out 
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: raises $0.20 to $0.30
+Lucky HoBBiT: folds 
+SRJ18: folds 
+Uncalled bet ($0.20) returned to SKV_1985
+SKV_1985 collected $0.25 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (button) collected ($0.25)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) folded before Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975329402:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:31:32 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.21 in chips) 
+Seat 3: Lucky HoBBiT ($12.12 in chips) 
+Seat 4: SRJ18 ($9.11 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Seat 6: LuckyTatia ($16.14 in chips) 
+SRJ18: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: raises $0.20 to $0.30
+SKV_1985: folds 
+Lucky HoBBiT: folds 
+SRJ18: calls $0.25
+romanskiy1: folds 
+*** FLOP *** [4d Ks 2c]
+SRJ18: checks 
+LuckyTatia: bets $0.34
+SRJ18: folds 
+Uncalled bet ($0.34) returned to LuckyTatia
+LuckyTatia collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [4d Ks 2c]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) folded on the Flop
+Seat 5: romanskiy1 (big blind) folded before Flop
+Seat 6: LuckyTatia collected ($0.67)
+
+
+
+PokerStars Hand #222975352631:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:02 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.21 in chips) 
+Seat 3: Lucky HoBBiT ($12.12 in chips) 
+Seat 4: SRJ18 ($8.81 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+romanskiy1: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: raises $0.15 to $0.25
+SRJ18: folds 
+romanskiy1: folds 
+SKV_1985: folds 
+Uncalled bet ($0.15) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.25 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 3: Lucky HoBBiT collected ($0.25)
+Seat 4: SRJ18 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975365633:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:18 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.11 in chips) 
+Seat 3: Lucky HoBBiT ($12.27 in chips) 
+Seat 4: SRJ18 ($8.81 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+SKV_1985: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+SRJ18: folds 
+romanskiy1: raises $0.20 to $0.30
+SKV_1985: raises $0.90 to $1.20
+Lucky HoBBiT: folds 
+romanskiy1: folds 
+Uncalled bet ($0.90) returned to SKV_1985
+SKV_1985 collected $0.70 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: SKV_1985 (small blind) collected ($0.70)
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: SRJ18 folded before Flop (didn't bet)
+Seat 5: romanskiy1 (button) folded before Flop
+
+
+
+PokerStars Hand #222975380411:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:37 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 3: Lucky HoBBiT ($12.17 in chips) 
+Seat 4: SRJ18 ($8.81 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: folds 
+SKV_1985: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.05) returned to SRJ18
+SRJ18 collected $0.10 from pot
+SRJ18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) collected ($0.10)
+Seat 5: romanskiy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222975387470:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:46 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 3: Lucky HoBBiT ($12.12 in chips) 
+Seat 4: SRJ18 ($8.86 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+SRJ18: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+Lucky HoBBiT: folds 
+SRJ18: folds 
+Uncalled bet ($0.05) returned to romanskiy1
+romanskiy1 collected $0.10 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222975395333:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:32:56 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 3: Lucky HoBBiT ($12.12 in chips) 
+Seat 4: SRJ18 ($8.81 in chips) 
+Seat 5: romanskiy1 ($10.05 in chips) 
+romanskiy1: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+SRJ18: folds 
+romanskiy1: folds 
+Uncalled bet ($0.05) returned to SKV_1985
+SKV_1985 collected $0.10 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (big blind) collected ($0.10)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: SRJ18 (button) folded before Flop (didn't bet)
+Seat 5: romanskiy1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #222975402435:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:33:05 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.56 in chips) 
+Seat 4: SRJ18 ($8.81 in chips) 
+Seat 5: romanskiy1 ($10 in chips) 
+SKV_1985: posts small blind $0.05
+Lucky HoBBiT: is sitting out 
+SRJ18: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: raises $0.20 to $0.30
+Lucky HoBBiT leaves the table
+SKV_1985: folds 
+SRJ18: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.25 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 4: SRJ18 (big blind) folded before Flop
+Seat 5: romanskiy1 (button) collected ($0.25)
+
+
+
+PokerStars Hand #222975409763:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:33:14 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 4: SRJ18 ($8.71 in chips) 
+Seat 5: romanskiy1 ($10.15 in chips) 
+SRJ18: posts small blind $0.05
+romanskiy1: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+SRJ18: folds 
+Uncalled bet ($0.05) returned to romanskiy1
+SRJ18 leaves the table
+romanskiy1 collected $0.10 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 4: SRJ18 (small blind) folded before Flop
+Seat 5: romanskiy1 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #222975416715:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:33:23 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10.51 in chips) 
+Seat 5: romanskiy1 ($10.20 in chips) 
+romanskiy1: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+romanskiy1: raises $0.20 to $0.30
+SKV_1985: folds 
+Uncalled bet ($0.20) returned to romanskiy1
+romanskiy1 collected $0.20 from pot
+romanskiy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 5: romanskiy1 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #222973695717:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:57:52 ET
+Table 'Silesia IV' 6-max Seat #5 is the button
+Seat 1: SKV_1985 ($10 in chips) 
+Seat 2: RAIM2020 ($21.49 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.09 in chips) 
+Seat 5: ziosilvio34 ($9.45 in chips) 
+Seat 6: LuckyTatia ($10.05 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: calls $0.10
+Lucky HoBBiT: folds 
+ignaciospc: folds 
+ziosilvio34: calls $0.10
+LuckyTatia: calls $0.05
+SKV_1985: raises $0.50 to $0.60
+RAIM2020: calls $0.50
+ziosilvio34: raises $0.50 to $1.10
+LuckyTatia: folds 
+SKV_1985: calls $0.50
+RAIM2020: calls $0.50
+*** FLOP *** [3h 6c Js]
+SKV_1985: checks 
+RAIM2020: checks 
+ziosilvio34: checks 
+*** TURN *** [3h 6c Js] [8d]
+SKV_1985: bets $2.11
+RAIM2020: folds 
+ziosilvio34: folds 
+Uncalled bet ($2.11) returned to SKV_1985
+SKV_1985 collected $3.25 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.40 | Rake $0.15 
+Board [3h 6c Js 8d]
+Seat 1: SKV_1985 (big blind) collected ($3.25)
+Seat 2: RAIM2020 folded on the Turn
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: ignaciospc folded before Flop (didn't bet)
+Seat 5: ziosilvio34 (button) folded on the Turn
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973722518:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:38 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($12.15 in chips) 
+Seat 2: RAIM2020 ($20.39 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.09 in chips) 
+Seat 5: ziosilvio34 ($8.35 in chips) 
+Seat 6: LuckyTatia ($10 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+ignaciospc: raises $0.20 to $0.30
+ziosilvio34: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Uncalled bet ($0.20) returned to ignaciospc
+ignaciospc collected $0.25 from pot
+ignaciospc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) folded before Flop
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: ignaciospc collected ($0.25)
+Seat 5: ziosilvio34 folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973730030:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:58:51 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($12.10 in chips) 
+Seat 2: RAIM2020 ($20.29 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.24 in chips) 
+Seat 5: ziosilvio34 ($8.35 in chips) 
+Seat 6: LuckyTatia ($10 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+ignaciospc: folds 
+ziosilvio34: raises $0.10 to $0.20
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.10) returned to ziosilvio34
+ziosilvio34 collected $0.25 from pot
+ziosilvio34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) folded before Flop
+Seat 4: ignaciospc folded before Flop (didn't bet)
+Seat 5: ziosilvio34 collected ($0.25)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973740350:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:09 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($12.10 in chips) 
+Seat 2: RAIM2020 ($20.24 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.24 in chips) 
+Seat 5: ziosilvio34 ($8.50 in chips) 
+Seat 6: LuckyTatia ($10 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+ignaciospc: posts big blind $0.10
+*** HOLE CARDS ***
+ziosilvio34: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: folds 
+Lucky HoBBiT: raises $0.20 to $0.30
+ignaciospc: folds 
+Uncalled bet ($0.20) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.20 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (small blind) collected ($0.20)
+Seat 4: ignaciospc (big blind) folded before Flop
+Seat 5: ziosilvio34 folded before Flop (didn't bet)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973749531:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:25 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($12.10 in chips) 
+Seat 2: RAIM2020 ($20.24 in chips) 
+Seat 3: Lucky HoBBiT ($10.10 in chips) 
+Seat 4: ignaciospc ($11.14 in chips) 
+Seat 5: ziosilvio34 ($8.50 in chips) 
+Seat 6: LuckyTatia ($10 in chips) 
+ignaciospc: posts small blind $0.05
+ziosilvio34: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.30 to $0.40
+Lucky HoBBiT: calls $0.40
+ignaciospc: folds 
+ziosilvio34: folds 
+*** FLOP *** [7d 7h 8c]
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** TURN *** [7d 7h 8c] [5s]
+ziosilvio34 leaves the table
+RAIM2020: bets $0.91
+Lucky HoBBiT: folds 
+Uncalled bet ($0.91) returned to RAIM2020
+RAIM2020 collected $0.91 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [7d 7h 8c 5s]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 collected ($0.91)
+Seat 3: Lucky HoBBiT (button) folded on the Turn
+Seat 4: ignaciospc (small blind) folded before Flop
+Seat 5: ziosilvio34 (big blind) folded before Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973764066:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 16:59:49 ET
+Table 'Silesia IV' 6-max Seat #4 is the button
+Seat 1: SKV_1985 ($12.10 in chips) 
+Seat 2: RAIM2020 ($20.75 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.09 in chips) 
+Seat 6: LuckyTatia ($10 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+ignaciospc: folds 
+LuckyTatia: raises $0.10 to $0.20
+SKV_1985: raises $0.60 to $0.80
+LuckyTatia: folds 
+Uncalled bet ($0.60) returned to SKV_1985
+SKV_1985 collected $0.40 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: SKV_1985 (big blind) collected ($0.40)
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: ignaciospc (button) folded before Flop (didn't bet)
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973772201:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:03 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($12.30 in chips) 
+Seat 2: RAIM2020 ($20.75 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.09 in chips) 
+Seat 6: LuckyTatia ($10 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+ignaciospc: folds 
+LuckyTatia: raises $0.10 to $0.20
+SKV_1985: folds 
+RAIM2020: raises $0.10 to $0.30
+LuckyTatia: calls $0.10
+*** FLOP *** [4d 7h 2c]
+RAIM2020: checks 
+LuckyTatia: bets $0.41
+RAIM2020: calls $0.41
+*** TURN *** [4d 7h 2c] [4s]
+RAIM2020: bets $0.70
+LuckyTatia: calls $0.70
+*** RIVER *** [4d 7h 2c 4s] [3h]
+RAIM2020: checks 
+LuckyTatia: checks 
+*** SHOW DOWN ***
+RAIM2020: shows [Th Qh] (a pair of Fours)
+LuckyTatia: shows [7c As] (two pair, Sevens and Fours)
+LuckyTatia collected $2.74 from pot
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.13 
+Board [4d 7h 2c 4s 3h]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) showed [Th Qh] and lost with a pair of Fours
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 4: ignaciospc folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) showed [7c As] and won ($2.74) with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #222973797279:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:42 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($12.25 in chips) 
+Seat 2: RAIM2020 ($19.34 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 4: ignaciospc ($11.09 in chips) 
+Seat 6: LuckyTatia ($11.33 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+ignaciospc: folds 
+LuckyTatia: folds 
+ignaciospc leaves the table
+SKV_1985: folds 
+RAIM2020: folds 
+Uncalled bet ($0.05) returned to Lucky HoBBiT
+Lucky HoBBiT collected $0.10 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) folded before Flop
+Seat 3: Lucky HoBBiT (big blind) collected ($0.10)
+Seat 4: ignaciospc folded before Flop (didn't bet)
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973801512:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:00:48 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($12.25 in chips) 
+Seat 2: RAIM2020 ($19.29 in chips) 
+Seat 3: Lucky HoBBiT ($10.05 in chips) 
+Seat 6: LuckyTatia ($11.33 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: folds 
+RAIM2020: raises $0.30 to $0.40
+Lucky HoBBiT: folds 
+LuckyTatia: calls $0.30
+*** FLOP *** [8d 2d Qh]
+LuckyTatia: checks 
+RAIM2020: bets $0.81
+LuckyTatia: folds 
+Uncalled bet ($0.81) returned to RAIM2020
+RAIM2020 collected $0.81 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [8d 2d Qh]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) collected ($0.81)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: LuckyTatia (big blind) folded on the Flop
+
+
+
+PokerStars Hand #222973813482:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:06 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($12.25 in chips) 
+Seat 2: RAIM2020 ($19.70 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 6: LuckyTatia ($10.93 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: folds 
+Lucky HoBBiT: raises $0.15 to $0.25
+LuckyTatia: raises $0.60 to $0.85
+SKV_1985: folds 
+Lucky HoBBiT: calls $0.60
+*** FLOP *** [8h Th 3d]
+LuckyTatia: bets $0.90
+Lucky HoBBiT: calls $0.90
+*** TURN *** [8h Th 3d] [Ks]
+LuckyTatia: bets $1.72
+Lucky HoBBiT: folds 
+Uncalled bet ($1.72) returned to LuckyTatia
+LuckyTatia collected $3.44 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [8h Th 3d Ks]
+Seat 1: SKV_1985 (big blind) folded before Flop
+Seat 2: RAIM2020 folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (button) folded on the Turn
+Seat 6: LuckyTatia (small blind) collected ($3.44)
+
+
+
+PokerStars Hand #222973831371:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:28 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($12.15 in chips) 
+Seat 2: RAIM2020 ($19.70 in chips) 
+Seat 3: Lucky HoBBiT ($10 in chips) 
+Seat 6: LuckyTatia ($12.62 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+*** HOLE CARDS ***
+Lucky HoBBiT: raises $0.15 to $0.25
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: calls $0.15
+*** FLOP *** [3s 9c Tc]
+RAIM2020: checks 
+Lucky HoBBiT: bets $0.36
+RAIM2020: calls $0.36
+*** TURN *** [3s 9c Tc] [Js]
+RAIM2020: bets $1.21
+Lucky HoBBiT: calls $1.21
+*** RIVER *** [3s 9c Tc Js] [3d]
+RAIM2020: checks 
+Lucky HoBBiT: bets $2.39
+RAIM2020: folds 
+Uncalled bet ($2.39) returned to Lucky HoBBiT
+Lucky HoBBiT collected $3.52 from pot
+Lucky HoBBiT: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.69 | Rake $0.17 
+Board [3s 9c Tc Js 3d]
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) folded on the River
+Seat 3: Lucky HoBBiT collected ($3.52)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973853017:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:01:56 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($12.10 in chips) 
+Seat 2: RAIM2020 ($17.88 in chips) 
+Seat 3: Lucky HoBBiT ($11.70 in chips) 
+Seat 6: LuckyTatia ($12.62 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: calls $0.05
+Lucky HoBBiT: checks 
+*** FLOP *** [Ts 7s 5d]
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** TURN *** [Ts 7s 5d] [Jc]
+RAIM2020: checks 
+Lucky HoBBiT: bets $0.13
+RAIM2020: calls $0.13
+*** RIVER *** [Ts 7s 5d Jc] [3h]
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** SHOW DOWN ***
+RAIM2020: shows [9c 2c] (high card Jack)
+Lucky HoBBiT: shows [6s 9s] (high card Jack - Ten+Nine+Seven+Six kicker)
+Lucky HoBBiT collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Ts 7s 5d Jc 3h]
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) showed [9c 2c] and lost with high card Jack
+Seat 3: Lucky HoBBiT (big blind) showed [6s 9s] and won ($0.44) with high card Jack
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973874085:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:02:22 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($12.10 in chips) 
+Seat 2: RAIM2020 ($17.65 in chips) 
+Seat 3: Lucky HoBBiT ($11.91 in chips) 
+Seat 6: LuckyTatia ($12.62 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+LuckyTatia: posts big blind $0.10
+*** HOLE CARDS ***
+SKV_1985: raises $0.20 to $0.30
+RAIM2020: folds 
+Lucky HoBBiT: folds 
+LuckyTatia: folds 
+Uncalled bet ($0.20) returned to SKV_1985
+SKV_1985 collected $0.25 from pot
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: SKV_1985 collected ($0.25)
+Seat 2: RAIM2020 (button) folded before Flop (didn't bet)
+Seat 3: Lucky HoBBiT (small blind) folded before Flop
+Seat 6: LuckyTatia (big blind) folded before Flop
+
+
+
+PokerStars Hand #222973884323:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:02:34 ET
+Table 'Silesia IV' 6-max Seat #3 is the button
+Seat 1: SKV_1985 ($12.25 in chips) 
+Seat 2: RAIM2020 ($17.65 in chips) 
+Seat 3: Lucky HoBBiT ($11.86 in chips) 
+Seat 6: LuckyTatia ($12.52 in chips) 
+LuckyTatia: posts small blind $0.05
+SKV_1985: posts big blind $0.10
+*** HOLE CARDS ***
+RAIM2020: calls $0.10
+Lucky HoBBiT: raises $0.35 to $0.45
+LuckyTatia: folds 
+SKV_1985: calls $0.35
+RAIM2020: calls $0.35
+*** FLOP *** [Ah 3s 9h]
+SKV_1985: checks 
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** TURN *** [Ah 3s 9h] [8d]
+SKV_1985: bets $0.87
+RAIM2020: folds 
+SRJ18 joins the table at seat #4 
+Lucky HoBBiT: folds 
+Uncalled bet ($0.87) returned to SKV_1985
+SKV_1985 collected $1.34 from pot
+playazhate joins the table at seat #5 
+SKV_1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [Ah 3s 9h 8d]
+Seat 1: SKV_1985 (big blind) collected ($1.34)
+Seat 2: RAIM2020 folded on the Turn
+Seat 3: Lucky HoBBiT (button) folded on the Turn
+Seat 6: LuckyTatia (small blind) folded before Flop
+
+
+
+PokerStars Hand #222973911833:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:08 ET
+Table 'Silesia IV' 6-max Seat #6 is the button
+Seat 1: SKV_1985 ($13.14 in chips) 
+Seat 2: RAIM2020 ($17.20 in chips) 
+Seat 3: Lucky HoBBiT ($11.41 in chips) 
+Seat 6: LuckyTatia ($12.47 in chips) 
+SKV_1985: posts small blind $0.05
+RAIM2020: posts big blind $0.10
+SRJ18: sits out 
+playazhate: sits out 
+*** HOLE CARDS ***
+Lucky HoBBiT: folds 
+LuckyTatia: folds 
+SKV_1985: folds 
+Uncalled bet ($0.05) returned to RAIM2020
+RAIM2020 collected $0.10 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: SKV_1985 (small blind) folded before Flop
+Seat 2: RAIM2020 (big blind) collected ($0.10)
+Seat 3: Lucky HoBBiT folded before Flop (didn't bet)
+Seat 6: LuckyTatia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973922384:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:20 ET
+Table 'Silesia IV' 6-max Seat #1 is the button
+Seat 1: SKV_1985 ($13.09 in chips) 
+Seat 2: RAIM2020 ($17.25 in chips) 
+Seat 3: Lucky HoBBiT ($11.41 in chips) 
+Seat 6: LuckyTatia ($12.47 in chips) 
+RAIM2020: posts small blind $0.05
+Lucky HoBBiT: posts big blind $0.10
+SRJ18: sits out 
+playazhate: sits out 
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.20 to $0.30
+Lucky HoBBiT: calls $0.20
+*** FLOP *** [Qh 5c 2h]
+RAIM2020: checks 
+Lucky HoBBiT: checks 
+*** TURN *** [Qh 5c 2h] [7c]
+RAIM2020: bets $0.57
+Lucky HoBBiT: folds 
+Uncalled bet ($0.57) returned to RAIM2020
+RAIM2020 collected $0.57 from pot
+RAIM2020: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qh 5c 2h 7c]
+Seat 1: SKV_1985 (button) folded before Flop (didn't bet)
+Seat 2: RAIM2020 (small blind) collected ($0.57)
+Seat 3: Lucky HoBBiT (big blind) folded on the Turn
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #222973948519:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 17:03:51 ET
+Table 'Silesia IV' 6-max Seat #2 is the button
+Seat 1: SKV_1985 ($13.09 in chips) 
+Seat 2: RAIM2020 ($17.52 in chips) 
+Seat 3: Lucky HoBBiT ($11.11 in chips) 
+Seat 4: SRJ18 ($5.18 in chips) 
+Seat 6: LuckyTatia ($12.47 in chips) 
+Lucky HoBBiT: posts small blind $0.05
+SRJ18: posts big blind $0.10
+playazhate: sits out 
+*** HOLE CARDS ***
+LuckyTatia: folds 
+SKV_1985: folds 
+RAIM2020: raises $0.25 to $0.35
+Lucky HoBBiT: raises $0.77 to $1.12
+SRJ18: folds 
+RAIM2020: calls $0.77
+*** FLOP *** [Tc 7s 4h]
+Lucky HoBBiT: checks 
+RAIM2020: checks 
+*** TURN *** [Tc 7s 4h] [Kh]
+Lucky HoBBiT: checks 
+RAIM2020: bets $2.23
+Lucky HoBBiT: calls $2.23
+*** RIVER *** [Tc 7s 4h Kh] [8s]
+Lucky HoBBiT: checks 
+RAIM2020: checks 
+*** SHOW DOWN ***
+Lucky HoBBiT: shows [Qh Jh] (high card King)
+RAIM2020: mucks hand 
+Lucky HoBBiT collected $6.49 from pot
+*** SUMMARY ***
+Total pot $6.80 | Rake $0.31 
+Board [Tc 7s 4h Kh 8s]
+Seat 1: SKV_1985 folded before Flop (didn't bet)
+Seat 2: RAIM2020 (button) mucked
+Seat 3: Lucky HoBBiT (small blind) showed [Qh Jh] and won ($6.49) with high card King
+Seat 4: SRJ18 (big blind) folded before Flop
+Seat 6: LuckyTatia folded before Flop (didn't bet)
+
+
+
