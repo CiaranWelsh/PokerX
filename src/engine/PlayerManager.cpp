@@ -10,7 +10,7 @@
 
 namespace pokerx {
 
-    void PlayerManager::add(const SharedPlayerPtr player) {
+    void PlayerManager::add(const SharedIPlayerPtr player) {
         contents_.push_back(player);
     }
 
@@ -60,9 +60,9 @@ namespace pokerx {
         os << "[";
         for (int i = 0; i < players.size(); i++) {
             if (i == players.size() - 1)
-                os << *players[i] << "]";
+                os << *dynamic_cast<Player*>(players[i].get()) << "]"; // cast down to player for printing
             else
-                os << *players[i] << ", ";
+                os << *dynamic_cast<Player*>(players[i].get()) << ", ";
         }
         os << "]";
         return os;
@@ -88,7 +88,7 @@ namespace pokerx {
         }
     }
 
-    SharedPlayerPtr PlayerManager::getCurrentPlayer() const {
+    SharedIPlayerPtr PlayerManager::getCurrentPlayer() const {
         return contents_[getCurrentPlayerIdx()];
     }
 

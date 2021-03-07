@@ -11,13 +11,13 @@
 #include <algorithm>
 
 namespace pokerx {
-    class IPlayerManager : public RotatoryContainer<SharedPlayerPtr> {
+    class IPlayerManager : public RotatoryContainer<SharedIPlayerPtr> {
     public:
-        using RotatoryContainer<SharedPlayerPtr>::RotatoryContainer;
+        using RotatoryContainer<SharedIPlayerPtr>::RotatoryContainer;
 
         [[nodiscard]] virtual bool allPlayersEqual() = 0;
 
-        [[nodiscard]] virtual SharedPlayerPtr getCurrentPlayer() const = 0;
+        [[nodiscard]] virtual SharedIPlayerPtr getCurrentPlayer() const = 0;
 
         virtual void watch(IGameVariables *variables) = 0;
 

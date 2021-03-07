@@ -19,7 +19,7 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
         
         // get reference to currently active player
-        SharedPlayerPtr player = engine->getPlayers()->getCurrentPlayer();
+        SharedIPlayerPtr player = engine->getPlayers()->getCurrentPlayer();
         
         // select action using whatever strategy Player types define
         Action action = player->selectAction(machine);

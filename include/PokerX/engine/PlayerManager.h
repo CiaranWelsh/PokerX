@@ -40,11 +40,11 @@ namespace pokerx {
          */
         void updateObservers(IGameVariables &source, const std::string &data_field);
 
-        void add(SharedPlayerPtr player) override;
+        void add(SharedIPlayerPtr player) override;
 
         [[nodiscard]] bool allPlayersEqual() override;
 
-        [[nodiscard]] SharedPlayerPtr getCurrentPlayer() const override;
+        [[nodiscard]] SharedIPlayerPtr getCurrentPlayer() const override;
 
         template<class T>
         static PlayerManager populate(unsigned int n, float stack) {

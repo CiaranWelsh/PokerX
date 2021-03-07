@@ -20,7 +20,7 @@ public:
     MockPlayerManager() = default;
     ~MockPlayerManager() = default;
     MOCK_METHOD(bool, allPlayersEqual, (), (override));
-    MOCK_METHOD(SharedPlayerPtr, getCurrentPlayer, (), (const, override));
+    MOCK_METHOD(SharedIPlayerPtr, getCurrentPlayer, (), (const, override));
     MOCK_METHOD(void, watch, (IGameVariables * variables), (override));
     MOCK_METHOD(void, moveButton, (), (override));
     MOCK_METHOD(void, nextPlayer, (), (override));
