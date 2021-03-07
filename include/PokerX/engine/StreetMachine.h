@@ -10,12 +10,13 @@
 namespace pokerx {
 
 
-    class StreetMachine : public StateMachine {
-        void setState(State &state) override {};
+    // @Deprecated. Do not use.
+    class [[maybe_unused]] StreetMachine : public StateMachine {
+        void setState(State *state) override {};
 
-        void action() override{};
+        void action() override {};
 
-        void reset() override{};
+        void reset() override {};
 
     };
 
