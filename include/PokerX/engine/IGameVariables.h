@@ -83,6 +83,8 @@ namespace pokerx {
 
         virtual void injectCommunityCards(const std::initializer_list<ICard *> &cards) = 0;
 
+        virtual void injectCommunityCards(const std::vector<std::string> &cards) = 0;
+
         [[nodiscard]] virtual const std::vector<ICard *> &getInjectedCommunityCards() const = 0;
 
     protected:

@@ -77,7 +77,9 @@ namespace pokerx {
 
         void injectCommunityCards(const std::initializer_list<ICard *> &cards) override;
 
-        const std::vector<ICard *> &getInjectedCommunityCards() const override;
+        void injectCommunityCards(const std::vector<std::string> &cards) override;
+
+        [[nodiscard]] const std::vector<ICard *> &getInjectedCommunityCards() const override;
     };
 }
 

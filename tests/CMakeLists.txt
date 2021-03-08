@@ -1,6 +1,9 @@
 add_subdirectory(googletest)
 
 add_subdirectory(Mockups)
+file(GLOB MOCK_SOURCE_FILES Mockups/*.h)
+
+set(TEST_ROOT "${CMAKE_CURRENT_SOURCE_DIR}")
 
 # BINARY: Name of the binary for the test unit you are adding
 # LINK_WITH_GOOGLETEST: ON or OFF.
@@ -21,7 +24,11 @@ function(add_test_executable BINARY LINK_WITH_GOOGLETEST LINK_WITH_POKERX_BINARY
             XML_OUTPUT_DIR "${CMAKE_BINARY_DIR}/GTestXMLOutput"
             )
 
-    target_include_directories(${BINARY} PRIVATE "${POKERX_INCLUDE_DIR}" "${CMAKE_CURRENT_SOURCE_DIR}")
+    target_include_directories(${BINARY} PRIVATE
+            "${POKERX_INCLUDE_DIR}"
+            "${CMAKE_CURRENT_SOURCE_DIR}"
+            "${TEST_ROOT}"
+            )
 
     add_dependencies(${BINARY} PokerX gtest gtest_main gmock gmock_main)
 
@@ -164,15 +171,12 @@ add_test_executable(RoyalFlushTests ON ON TestExecutables hands/RoyalFlushTests.
 add_test_executable(HandTests ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(EvaluatorTests ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
-add_executable(PokerXConsoleGame AConsoleGame.cpp Mockups/MockDeck.h)
+add_executable(PokerXConsoleGame AConsoleGame.cpp Mockups/MockDeck.h PokerEngineUnitTests/PokerEngineTests.h PokerEngineUnitTests/BettingTests.cpp)
 target_link_libraries(PokerXConsoleGame PRIVATE PokerX)
 
 
 # unit tests for game stages
-add_test_executable(PreflopTests ON ON TestExecutables PreflopTests.cpp Mockups/MockCard.h)
-#SwitchStreetTests
-#BettingTests
-#ShowdownTests
+add_subdirectory(PokerEngineUnitTests)
 
 
 

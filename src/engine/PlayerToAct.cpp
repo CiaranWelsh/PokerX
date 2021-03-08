@@ -28,10 +28,6 @@ namespace pokerx {
             LOGIC_ERROR << "Cannot chooses NONE action when its a players turn to act" << std::endl;
         }
 
-        /**
-         * We could remove several of the states by implement the
-         * logic of actions here, instead of their own state. Try that
-         */
         switch (action) {
             case CHECK : {
                 // check *is available when you are big blind and

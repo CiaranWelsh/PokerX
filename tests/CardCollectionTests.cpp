@@ -421,6 +421,71 @@ TEST_F(CardCollectionTests, TestIsUniqueWhenFalse) {
 }
 
 
+TEST_F(CardCollectionTests, TestInsertACardAtBegining) {
+    Card card1(6, "D");
+    Card card2(2, "H");
+    Card card3(2, "H");
+    Card card4(8, "C");
+
+    std::vector<ICard *> cards1({&card1, &card2, &card3});
+    CardCollection cc1(cards1);
+
+    cc1.insert(cc1.begin(), &card4);
+    ASSERT_EQ(cc1[0]->getRank(), 8);
+    ASSERT_EQ(cc1[0]->getSuit(), "C");
+
+}
+
+
+
+TEST_F(CardCollectionTests, CheckThatWeCanFindACard) {
+    Card card1(6, "D");
+    Card card2(2, "H");
+    Card card3(2, "H");
+
+    std::vector<ICard *> cards1({&card1, &card2, &card3});
+    CardCollection cc1(cards1);
+
+    bool found = false;
+    for (auto & card: cc1){
+        if (std::find(cc1.begin(), cc1.end(), card) != cc1.end()){
+            found = true;
+        }
+    }
+    ASSERT_TRUE(found);
+}
+
+TEST_F(CardCollectionTests, CheckThatWeCanFindACardDifferentPointer) {
+    Card card1(6, "D");
+    Card card2(2, "H");
+
+    Card card4(2, "H"); // == card3
+    ASSERT_TRUE(card2 == card4);
+
+    std::vector<ICard *> cards1({&card1, &card2});
+    CardCollection cc1(cards1);
+
+    int idx = cc1.findCard(&card4);
+
+    ASSERT_EQ(idx, 0); // remember cardcollection is auto sorted.
+}
+
+TEST_F(CardCollectionTests, CheckThatWeCanFindACardAceOfSpades) {
+    Card card1(6, "D");
+    Card card2(14, "S");
+
+    Card card4(14, "S"); // == card2
+    ASSERT_TRUE(card2 == card4);
+
+    std::vector<ICard *> cards({&card1, &card2});
+    CardCollection cc(cards);
+
+    int idx = cc.findCard(&card4);
+
+    ASSERT_EQ(idx, 1); // remember cardcollection is auto sorted.
+}
+
+
 
 
 

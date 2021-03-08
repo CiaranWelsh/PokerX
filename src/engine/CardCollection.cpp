@@ -365,6 +365,22 @@ namespace pokerx {
         }
     }
 
+    void CardCollection::insert(std::vector<ICard *>::const_iterator position, ICard *card) {
+        cards_.insert(position, card);
+    }
+
+    int CardCollection::findCard(ICard *card) {
+        const std::string& suit = card->getSuit();
+        const int& rank = card->getRank();
+        for (int i=0; i<size(); i++){
+            ICard* thisCard = cards_[i];
+            if (thisCard->getSuit() == suit && thisCard->getRank() == rank){
+                return i;
+            }
+        }
+        return -1;
+    }
+
 }
 
 

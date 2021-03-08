@@ -65,7 +65,7 @@ TEST_F(PlayerTests, TestCheckPlayersStackUnchanged) {
 TEST_F(PlayerTests, TestCallReducesPlayerStack) {
     EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
     EXPECT_CALL(gameVariables, getPot).Times(1).WillRepeatedly(ReturnRef(pot));
-    FakePlayer player("p1", 100);
+    FakePlayer player("btn", 100);
     player.watch(&gameVariables);
     player.call();
     ASSERT_EQ(player.getStack(), 90.0);
@@ -75,7 +75,7 @@ TEST_F(PlayerTests, TestAmountContributedIncrementsWhenCall) {
     // not yet implemented
 //    EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
 //    EXPECT_CALL(gameVariables, getPot).Times(1).WillRepeatedly(ReturnRef(pot));
-//    FakePlayer player("p1", 100);
+//    FakePlayer player("btn", 100);
 //    player.watch(&gameVariables);
 //    player.call();
 //    ASSERT_EQ(player.getStack(), 90.0);
@@ -83,7 +83,7 @@ TEST_F(PlayerTests, TestAmountContributedIncrementsWhenCall) {
 
 
 TEST_F(PlayerTests, TestRaiseWhenAmountIsGreaterThanCallAmount) {
-    FakePlayer player("p1", 100.0);
+    FakePlayer player("btn", 100.0);
     player.watch(&gameVariables);
 
     // set amount to call to 10

@@ -1,87 +1,17 @@
-#include <utility>
+#include <PokerX/engine/ButtonMoves.h>
 #include <PokerX/engine/SmallBlind.h>
 #include <PokerX/engine/BigBlind.h>
 #include <PokerX/engine/DealHoleCards.h>
-#include <PokerX/engine/Deck.h>
-#include <PokerX/engine/HoleCards.h>
-
 #include "gtest/gtest.h"
-#include "Mockups/MockGameVariables.h"
-#include "Mockups/MockPlayerManager.h"
-#include "Mockups/MockPlayer.h"
+#include "gmock/gmock.h"
+
+#include "PokerEngineTests.h"
 #include "PokerX/engine/PokerEngine.h"
-#include "PokerX/engine/Pot.h" // not mocked. Too simple.
-
-// state includes
-#include "PokerX/engine/Reset.h"
-#include "PokerX/engine/ButtonMoves.h"
-
-/**
- * This set of tests focuses on
- * testing the poker engine up to preflop
- * stage of the game. We use mocked versions
- * of the GameVariables, PlayerManager and Player
- * types but the real version of poker engine States.
- * I.e. the States are considered a part of this test
- * as they need to be doing the right thing
- */
 
 
-class PreflopTests : public ::testing::Test {
+class PreflopTests : public PokerEngineTests {
 public:
-    MockGameVariables gameVariables;
-    MockPlayerManager playerManager;
-    std::shared_ptr<MockPlayer> p1;
-    std::shared_ptr<MockPlayer> p2;
-    std::shared_ptr<MockPlayer> p3;
-    std::shared_ptr<MockPlayer> p4;
-    std::shared_ptr<MockPlayer> p5;
-    std::shared_ptr<MockPlayer> p6;
-
-    PreflopTests() {
-        p1 = makePlayer("DrLevty", 10.01);
-        p2 = makePlayer("OhhhJeee", 4.86);
-        p3 = makePlayer("gokudousan", 5.81);
-        p4 = makePlayer("aka_Kranv1ch", 10);
-        p5 = makePlayer("Malyar-88", 3.97);
-        p6 = makePlayer("Lorn_Antoan", 10.25);
-
-        // set the button
-        ON_CALL(playerManager, getButton)
-                .WillByDefault(Return(p1));
-        ON_CALL(playerManager, getSmallBlind)
-                .WillByDefault(Return(p2));
-        ON_CALL(playerManager, getBigBlind)
-                .WillByDefault(Return(p3));
-
-        // define what playerManager returns when call to getPlayer
-        ON_CALL(playerManager, getPlayer(1))
-            .WillByDefault(Return(p1));
-        ON_CALL(playerManager, getPlayer(2))
-            .WillByDefault(Return(p2));
-        ON_CALL(playerManager, getPlayer(3))
-            .WillByDefault(Return(p3));
-        ON_CALL(playerManager, getPlayer(4))
-            .WillByDefault(Return(p4));
-        ON_CALL(playerManager, getPlayer(5))
-            .WillByDefault(Return(p5));
-        ON_CALL(playerManager, getPlayer(6))
-            .WillByDefault(Return(p6));
-
-        EXPECT_CALL(playerManager, watch)
-                .Times(1); // always gets called once
-        EXPECT_CALL(playerManager, nextPlayer)
-            .Times(AnyNumber());
-    };
-
-    std::shared_ptr<MockPlayer> makePlayer(const std::string &name, float stack) {
-        std::shared_ptr<MockPlayer> p = std::make_shared<MockPlayer>();
-        ON_CALL(*p, getName)
-                .WillByDefault(ReturnRef(name));
-        ON_CALL(*p, getStack)
-                .WillByDefault(Return(stack));
-        return p;
-    }
+    using PokerEngineTests::PokerEngineTests;
 };
 
 /**
@@ -102,7 +32,6 @@ TEST_F(PreflopTests, CheckEngineCallsReset) {
     // and gets the next player ready.
     EXPECT_CALL(gameVariables, reset).Times(1);
     EXPECT_CALL(playerManager, reset).Times(1);
-    EXPECT_CALL(playerManager, watch).Times(1);
     // (remember that reset is tested in the units for
     // gamevariables and playerManager separetly, they are
     // not under test here so assume they work correctly)
@@ -129,11 +58,11 @@ TEST_F(PreflopTests, CheckEngineCallsReset) {
  */
 TEST_F(PreflopTests, CheckEngineCallsButtonMovesFirstTime) {
     Deck deck;
-    ON_CALL(playerManager, getCurrentPlayer)
-            .WillByDefault(Return(p1));
+    EXPECT_CALL(playerManager, getCurrentPlayer)
+            .WillRepeatedly(Return(btn));
 
-    ON_CALL(gameVariables, numGamesPlayed)
-            .WillByDefault(Return(0));
+    EXPECT_CALL(gameVariables, numGamesPlayed)
+            .WillRepeatedly(Return(0));
 
     PokerEngine engine(&playerManager, &gameVariables);
     engine.setState(ButtonMoves::getInstance());
@@ -148,7 +77,7 @@ TEST_F(PreflopTests, CheckEngineCallsButtonMovesFirstTime) {
 
 TEST_F(PreflopTests, CheckEngineCallsButtonMovesSecondTime) {
     ON_CALL(playerManager, getCurrentPlayer)
-            .WillByDefault(Return(p1));
+            .WillByDefault(Return(btn));
 
     ON_CALL(gameVariables, numGamesPlayed)
             .WillByDefault(Return(1));
@@ -167,9 +96,9 @@ TEST_F(PreflopTests, CheckEngineCallsButtonMovesSecondTime) {
 
 TEST_F(PreflopTests, CheckEngineCallsSmallBlind) {
     EXPECT_CALL(playerManager, getCurrentPlayer)
-            .WillRepeatedly(Return(p2));
+            .WillRepeatedly(Return(sb));
 
-    EXPECT_CALL(*p2, postSmallBlind)
+    EXPECT_CALL(*sb, postSmallBlind)
             .Times(1);
 
     EXPECT_CALL(gameVariables, getSmallBlind)
@@ -191,9 +120,9 @@ TEST_F(PreflopTests, CheckEngineCallsSmallBlind) {
 
 TEST_F(PreflopTests, CheckEngineCallsBigBlind) {
     EXPECT_CALL(playerManager, getCurrentPlayer)
-            .WillRepeatedly(Return(p3));
+            .WillRepeatedly(Return(bb));
 
-    EXPECT_CALL(*p3, postBigBlind)
+    EXPECT_CALL(*bb, postBigBlind)
             .Times(1);
 
     EXPECT_CALL(gameVariables, getBigBlind)
@@ -214,7 +143,7 @@ TEST_F(PreflopTests, CheckEngineCallsBigBlind) {
 
 TEST_F(PreflopTests, CheckDealHoleCards) {
     EXPECT_CALL(playerManager, getCurrentPlayer)
-            .WillRepeatedly(Return(p4)); // UTG player
+            .WillRepeatedly(Return(utg)); // UTG player
 
     Deck deck;
     EXPECT_CALL(gameVariables, getDeck)
@@ -222,22 +151,22 @@ TEST_F(PreflopTests, CheckDealHoleCards) {
         .WillRepeatedly(ReturnRef(deck));
 
     HoleCards hc1;
-    EXPECT_CALL(*p1, getHoleCards)
+    EXPECT_CALL(*btn, getHoleCards)
         .WillRepeatedly(ReturnRef(hc1));
     HoleCards hc2;
-    EXPECT_CALL(*p2, getHoleCards)
+    EXPECT_CALL(*sb, getHoleCards)
         .WillRepeatedly(ReturnRef(hc2));
     HoleCards hc3;
-    EXPECT_CALL(*p3, getHoleCards)
+    EXPECT_CALL(*bb, getHoleCards)
         .WillRepeatedly(ReturnRef(hc3));
     HoleCards hc4;
-    EXPECT_CALL(*p4, getHoleCards)
+    EXPECT_CALL(*utg, getHoleCards)
         .WillRepeatedly(ReturnRef(hc4));
     HoleCards hc5;
-    EXPECT_CALL(*p5, getHoleCards)
+    EXPECT_CALL(*hj, getHoleCards)
         .WillRepeatedly(ReturnRef(hc5));
     HoleCards hc6;
-    EXPECT_CALL(*p6, getHoleCards)
+    EXPECT_CALL(*co, getHoleCards)
         .WillRepeatedly(ReturnRef(hc6));
 
     PokerEngine engine(&playerManager, &gameVariables);

@@ -78,6 +78,10 @@ namespace pokerx {
 
         ICard *pop_back();
 
+        void insert(std::vector<ICard*>::const_iterator position, ICard* card);
+
+        int findCard(ICard* card);
+
         [[nodiscard]] bool empty() const;
 
         CardCollection *shuffle();

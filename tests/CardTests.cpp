@@ -2,6 +2,8 @@
 // Created by CiaranWelsh on 08/12/2019.
 //
 
+#include <utility>
+
 #include "gtest/gtest.h"
 #include "PokerX/engine/Card.h"
 #include "PokerX/engine/Deck.h"
@@ -94,8 +96,8 @@ class CardFactoryTests : public ::testing::Test {
 public:
     CardFactoryTests() = default;
 
-    void checkCorrectCardIsCreated(std::string input, int rank, std::string suit){
-        ICard* card = CardFactory(input);
+    void checkCorrectCardIsCreated(std::string input, int rank, const std::string& suit){
+        auto card = CardFactory(std::move(input));
         ASSERT_EQ(rank, card->getRank());
         ASSERT_STREQ(suit.c_str(), card->getSuit().c_str());
     }

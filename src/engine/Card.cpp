@@ -52,7 +52,7 @@ namespace pokerx {
         return suit_;
     }
 
-    Card *CardFactory(std::string cardString) {
+    ICard* CardFactory(std::string cardString) {
         char c = cardString[cardString.size()-1];
         std::string suit = {static_cast<char>(std::toupper((int)(c)))};
         cardString.pop_back();
@@ -74,8 +74,7 @@ namespace pokerx {
                 rank = 10;
             }
         }
-        Card* card = new Card(rank, suit);
-        return card;
+        return new Card(rank, suit);
     }
 
 }

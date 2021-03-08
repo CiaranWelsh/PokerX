@@ -44,10 +44,6 @@ TEST_F(GameScenarioTests, TestRaiserAfterCall) {
     playerManager.add(std::make_shared<CallStationPlayer>(callStationPlayer));
     playerManager.add(std::make_shared<RaiserPlayer>(raiserPlayer));
     playerManager.setStackSizeTo(100);
-    playerManager.setCurrentPlayerByName("Raiser");
-    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
-
-    // so when does current player go back to call station?
 
     const auto &caller = playerManager.getPlayerByName("Caller");
     const auto &raiser = playerManager.getPlayerByName("Raiser");
@@ -60,7 +56,14 @@ TEST_F(GameScenarioTests, TestRaiserAfterCall) {
     gameVariables.getPot() += 10;
 
     PokerEngine engine(&playerManager, &gameVariables);
+    // why does setState change the current_player_idx to 0?
+    // because reset::exit always gets called.
     engine.setState(PlayerToAct::getInstance());
+
+    // should set current player after we've set the state
+    playerManager.setCurrentPlayerByName("Raiser");
+    ASSERT_EQ(playerManager.getCurrentPlayerIdx(), 1);
+
     // raiser should raise by to 20
     engine.action();
     ASSERT_EQ(raiser->getAmountContrib(), 20);
@@ -173,9 +176,12 @@ TEST_F(GameScenarioTests, TestRealGame1) {
     //       *** HOLE CARDS ***
     ASSERT_STREQ("Ohhh Jeee",engine.getPlayers()->getCurrentPlayer()->getName().c_str());
     //       Ohhh Jeee: calls $0.10
-    engine.action();
-    ASSERT_EQ(0.1, engine.getPlayers()->getCurrentPlayer()->getAmountContrib());
-    ASSERT_EQ(4.50, engine.getPlayers()->getCurrentPlayer()->getStack());
+    engine.action(); // changes us to next player
+    ASSERT_NEAR(0.1, engine.getPlayers()->getPlayerByName("Ohhh Jeee")->getAmountContrib(), 0.00001);
+    ASSERT_NEAR(4.5, engine.getPlayers()->getPlayerByName("Ohhh Jeee")->getStack(), 0.00001);
+
+    engine.getGameVariables()->injectCommunityCards({"TD", "JD", "2H", "7C" });
+
     //       gokudousan: folds
     //       aka_Kranv1ch: folds
     //       Malyar-88: folds
@@ -256,15 +262,15 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     gameVariables.setBigBlind(0.10);
     gameVariables.setSeed(4);
     // [Td Jc 2c Qs] [3h]
-    std::vector<ICard *> cards;
-    for (auto &s: {"10d", "Jc", "2c", "Qs", "3h"}) {
-        ICard *card = CardFactory(s);
-        cards.push_back(card);
-    }
-    CardCollection c(cards);
-    std::cout << c << std::endl;
-    // now that we've copied the cards in to the vector we can delete, right???
-    gameVariables.injectCommunityCards(cards);
+    std::vector<ICardPtr> cards;
+//    for (auto &s: {"10d", "Jc", "2c", "Qs", "3h"}) {
+//        ICard* card = CardFactory(s);
+//        cards.push_back(card);
+//    }
+//    CardCollection c(cards);
+//    std::cout << c << std::endl;
+//    // now that we've copied the cards in to the vector we can delete, right???
+//    gameVariables.injectCommunityCards(cards);
 
 
     PlayerManager players(

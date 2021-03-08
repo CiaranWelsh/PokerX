@@ -130,9 +130,12 @@ namespace pokerx {
         injectedCommunityCards_ = std::vector<ICard*>(cards.begin(), cards.end());
     }
 
+    void GameVariables::injectCommunityCards(const std::vector<std::string> &cards) {
+        injectedCommunityCards_ = std::vector<ICard*>(cards.begin(), cards.end());
+    }
+
     const std::vector<ICard *> &GameVariables::getInjectedCommunityCards() const {
         return injectedCommunityCards_;
     }
-
 
 }
