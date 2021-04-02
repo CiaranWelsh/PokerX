@@ -33,6 +33,11 @@ namespace pokerx {
 
         virtual ~ICard() = default;
 
+        ICard(const ICard& iCard);
+        ICard( ICard&& iCard) noexcept;
+        ICard& operator=(const ICard& iCard);
+        ICard& operator=(ICard&& icard) noexcept;
+
         virtual void setRank(int rank) = 0;
 
         virtual void setSuit(const std::string &suit) = 0;
@@ -61,6 +66,8 @@ namespace pokerx {
 
         using ICard::ICard;
 
+        using ICard::operator=;
+
         void setRank(int rank) override;
 
         void setSuit(const std::string &suit) override;
@@ -70,10 +77,10 @@ namespace pokerx {
         [[nodiscard]] std::string getSuit() const override;
     };
 
-    ICard* CardFactory(std::string cardString);
 
     using ICardPtr = std::unique_ptr<ICard>;
 
+    ICardPtr CardFactory(std::string cardString);
 
     class Cards {
     public:

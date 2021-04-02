@@ -73,13 +73,13 @@ namespace pokerx {
 
         void setSeed(unsigned long long seed) override;
 
-        void injectCommunityCards(const std::vector<ICard *> &cards) override;
+        void injectCommunityCards(const std::vector<ICardPtr > &cards) override;
 
-        void injectCommunityCards(const std::initializer_list<ICard *> &cards) override;
+        void injectCommunityCards(const std::initializer_list<ICardPtr > &cards) override;
 
         void injectCommunityCards(const std::vector<std::string> &cards) override;
 
-        [[nodiscard]] const std::vector<ICard *> &getInjectedCommunityCards() const override;
+        [[nodiscard]] const std::vector<ICardPtr > &getInjectedCommunityCards() const override;
     };
 }
 

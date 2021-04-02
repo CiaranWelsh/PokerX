@@ -112,19 +112,20 @@ namespace pokerx {
             for (int i = 1; i < number_of_players + 1; i++) {
                 int idx = i % number_of_players;
                 const auto &player = getPlayers()->getPlayer(idx);
-                player->getHoleCards().add(deck.pop());
+                auto card = deck.pop();
+                player->getHoleCards().add(card);
             }
         }
 
     }
 
     CardCollection PokerEngine::dealFlop() {
-        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        std::vector<ICardPtr> injCards = gameVariables_->getInjectedCommunityCards();
         // if we are reproducing some game then we just take the fist three cards for injected cards
         if (!injCards.empty()){
             // use copy constructor to slice the vector
-            std::vector<ICard*> flop = std::vector<ICard*>(injCards.begin(), injCards.begin()+3);
-            return CardCollection(flop);
+            ICardPtr f1 = std::move(injCards.at(0));
+            return CardCollection(f1);
         }
         // otherwise its a random selection
 
@@ -141,11 +142,12 @@ namespace pokerx {
 
     }
 
-    ICard *PokerEngine::dealTurn() const {
-        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+    ICardPtr PokerEngine::dealTurn() const {
+        const std::vector<ICardPtr>& injCards = gameVariables_->getInjectedCommunityCards();
         // if we are reproducing some game then we just take the fist three cards for injected cards
         if (!injCards.empty()){
-            return injCards[3];
+            ICardPtr ptr = std::move(injCards[3]);
+            return ptr;
         }
         Deck &deck = getGameVariables()->getDeck();
         // discard top card
@@ -155,8 +157,8 @@ namespace pokerx {
 
     }
 
-    ICard *PokerEngine::dealRiver() const {
-        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+    ICardPtr PokerEngine::dealRiver() const {
+        const std::vector<ICardPtr>& injCards = gameVariables_->getInjectedCommunityCards();
         // if we are reproducing some game then we just take the fist three cards for injected cards
         if (!injCards.empty()){
             return injCards[4];
@@ -177,7 +179,6 @@ namespace pokerx {
     }
 
 }
-
 
 
 

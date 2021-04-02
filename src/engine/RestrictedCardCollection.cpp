@@ -7,14 +7,14 @@
 
 namespace pokerx {
 
-    RestrictedCardCollection::RestrictedCardCollection(std::vector<ICard *> cards)
+    RestrictedCardCollection::RestrictedCardCollection(std::vector<ICardPtr> cards)
         : CardCollection(std::move(cards)), max_cards_(cards_.size()){
         if (size() > max_cards_) {
             LOGIC_ERROR << err_msg_ << std::endl;
         }
     }
 
-    RestrictedCardCollection::RestrictedCardCollection(const std::vector<ICard *>& cards, unsigned int max_num_cards)
+    RestrictedCardCollection::RestrictedCardCollection(const std::vector<ICardPtr>& cards, unsigned int max_num_cards)
         : CardCollection(cards), max_cards_(max_num_cards) {
         if (size() > max_cards_) {
             LOGIC_ERROR << err_msg_ << std::endl;
@@ -27,14 +27,14 @@ namespace pokerx {
         }
     }
 
-    void RestrictedCardCollection::add(const std::vector<ICard *> &cards) {
+    void RestrictedCardCollection::add(const std::vector<ICardPtr> &cards) {
         if (size() + cards.size() > max_cards_){
             LOGIC_ERROR << err_msg_ << std::endl;
         }
         CardCollection::add(cards);
     }
 
-    void RestrictedCardCollection::add(ICard *card) {
+    void RestrictedCardCollection::add(ICardPtrcard) {
         if (size() == max_cards_){
             LOGIC_ERROR << err_msg_ << std::endl;
         }

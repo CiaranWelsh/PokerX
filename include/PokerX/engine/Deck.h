@@ -42,14 +42,9 @@ namespace pokerx {
     private:
 
         /**
-         * @brief deletes the resources allocated for storing cards
-         */
-        void deleteCards();
-
-        /**
          * Create a deck
          */
-        std::vector<ICard*> buildDeck();
+        std::vector<ICardPtr > buildDeck();
     };
 
 }

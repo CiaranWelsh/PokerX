@@ -18,11 +18,11 @@ namespace pokerx {
 
         ~RestrictedCardCollection() override = default;
 
-        void add(const std::vector<ICard *> &cards) override;
+        void add( std::vector<ICardPtr > &cards) override;
 
-        void add(ICard *card) override;
+        void add(ICardPtr& card) override;
 
-        void add(const CardCollection &cardCollection) override;
+        void add( CardCollection &cardCollection) override;
 
     protected:
 
@@ -31,14 +31,14 @@ namespace pokerx {
          * can use this constructor to automatically set the max_cards_
          * variable to the size of the input vector.
          */
-        explicit RestrictedCardCollection(std::vector<ICard*> cards);
+        explicit RestrictedCardCollection(std::vector<ICardPtr > cards);
 
         /**
          * @brief Types which derive from RestrictedCardCollection
          * can use this constructor to automatically set the max_cards_
          * variable to value of @param max_num_cards.
          */
-         RestrictedCardCollection(const std::vector<ICard*>& cards, unsigned int max_num_cards);
+         RestrictedCardCollection(const std::vector<ICardPtr >& cards, unsigned int max_num_cards);
 
          explicit RestrictedCardCollection(unsigned int max_num_cards);
 

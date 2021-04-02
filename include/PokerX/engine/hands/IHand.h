@@ -15,7 +15,7 @@ namespace pokerx {
 
     public:
 
-        explicit IHand(const std::vector<ICard *> &cards) : RestrictedCardCollection(cards, 7) {};
+        explicit IHand(const std::vector<ICardPtr > &cards) : RestrictedCardCollection(cards, 7) {};
 
         explicit IHand(Hand const &other) : RestrictedCardCollection(other.getCards(), 7) {};
 

@@ -17,13 +17,13 @@ namespace pokerx {
 
         ~CommunityCards() override = default;
 
-        explicit CommunityCards(std::vector<ICard*> &cards);
-
-        CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3);
-
-        CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn);
-
-        CommunityCards(ICard*flop1, ICard*flop2, ICard*flop3, ICard*turn, ICard*river);
+//        explicit CommunityCards(std::vector<ICardPtr > &cards);
+//
+//        CommunityCards(ICardPtr flop1, ICardPtr flop2, ICardPtr flop3);
+//
+//        CommunityCards(ICardPtr flop1, ICardPtr flop2, ICardPtr flop3, ICardPtr turn);
+//
+//        CommunityCards(ICardPtr flop1, ICardPtr flop2, ICardPtr flop3, ICardPtr turn, ICardPtr river);
 
 
     };

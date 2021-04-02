@@ -9,7 +9,8 @@ using namespace std;
 namespace pokerx {
 
 
-    HoleCards::HoleCards(ICard* card1, ICard* card2)
-        : RestrictedCardCollection({card1, card2}, 2){
-    }
+//    HoleCards::HoleCards(ICardPtr card1, ICardPtr card2)
+//        : RestrictedCardCollection({std::move(card1), std::move(card2)}, 2){
+//    }
 }
+

@@ -27,35 +27,27 @@ namespace pokerx {
         }
     }
 
-    std::vector<ICard*> Deck::buildDeck() {
-        std::vector<ICard*> cards;
+    std::vector<ICardPtr> Deck::buildDeck() {
+        std::vector<ICardPtr> cards;
         for (int r : pokerx::getRanks()) {
             for (const auto &s : pokerx::getSuits()) {
-                ICard *iCard = new Card(r, s);
-                cards.push_back(iCard);
+                ICardPtr card = std::make_unique<Card>(r, s);
+                cards.push_back(std::move(card));
             }
         }
         return cards;
     }
 
-    Deck::~Deck() {
-        deleteCards();
-    }
+    Deck::~Deck() = default;
 
-    void Deck::deleteCards(){
-        for (auto &it: cards_) {
-            delete it;
-        }
-    }
 
     void Deck::reset(){
-        deleteCards();
         cards_ = buildDeck();
     }
 
     Deck::Deck(const Deck &deck) {
         for (auto &it: deck) {
-            ICard *card = new Card();
+            ICardPtr card = std::make_unique<Card>();
             card->setSuit(it->getSuit());
             card->setRank(it->getRank());
             cards_.push_back(card);
@@ -65,14 +57,13 @@ namespace pokerx {
     Deck::Deck(Deck &&deck) noexcept {
         for (auto &it: deck) {
             cards_.push_back(it);
-            delete it;
         }
     }
 
     Deck &Deck::operator=(const Deck &deck) {
         if (this != &deck) {
             for (auto &it: deck) {
-                ICard *card = new Card();
+                ICardPtr card = std::make_unique<Card>();
                 card->setSuit(it->getSuit());
                 card->setRank(it->getRank());
                 cards_.push_back(card);
@@ -85,7 +76,6 @@ namespace pokerx {
         if (this != &deck) {
             for (auto &it: deck) {
                 cards_.push_back(it);
-                delete it;
             }
         }
         return *this;

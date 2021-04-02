@@ -16,13 +16,13 @@ protected:
     HandTests() = default;
 
     static HighCard createHand(
-            ICard *hc1,
-            ICard *hc2,
-            ICard *flop1,
-            ICard *flop2,
-            ICard *flop3,
-            ICard *turn,
-            ICard *river
+            ICardPtr hc1,
+            ICardPtr hc2,
+            ICardPtr flop1,
+            ICardPtr flop2,
+            ICardPtr flop3,
+            ICardPtr turn,
+            ICardPtr river
     ) {
         HoleCards hc(hc1, hc2);
         CommunityCards cc(flop1, flop2, flop3, turn, river);

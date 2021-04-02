@@ -63,9 +63,9 @@ namespace pokerx {
 
         CardCollection dealFlop();
 
-        ICard* dealTurn() const;
+        ICardPtr  dealTurn() const;
 
-        ICard* dealRiver() const;
+        ICardPtr  dealRiver() const;
 
         /**
          * @brief evaluate all hands of players in the game

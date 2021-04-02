@@ -14,7 +14,7 @@ class MockDeck : public RestrictedCardCollection {
 public:
     MockDeck() = default;
     ~MockDeck() override = default;
-    MOCK_METHOD(std::vector<ICard*>, buildDeck, (), ());
+    MOCK_METHOD(std::vector<ICardPtr >, buildDeck, (), ());
     MOCK_METHOD(CardCollection, shuffle, (), ());
 };
 

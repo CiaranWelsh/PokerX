@@ -79,13 +79,13 @@ namespace pokerx {
 
         virtual void setSeed(unsigned long long seed) = 0;
 
-        virtual void injectCommunityCards(const std::vector<ICard *>& cards) = 0;
+        virtual void injectCommunityCards(const std::vector<ICardPtr >& cards) = 0;
 
-        virtual void injectCommunityCards(const std::initializer_list<ICard *> &cards) = 0;
+        virtual void injectCommunityCards(const std::initializer_list<ICardPtr > &cards) = 0;
 
         virtual void injectCommunityCards(const std::vector<std::string> &cards) = 0;
 
-        [[nodiscard]] virtual const std::vector<ICard *> &getInjectedCommunityCards() const = 0;
+        [[nodiscard]] virtual const std::vector<ICardPtr > &getInjectedCommunityCards() const = 0;
 
     protected:
 
@@ -166,7 +166,7 @@ namespace pokerx {
          * so users should provide all 5 community cares. Later implementations
          * could make it so that we could inject only the turn or river for example.
          */
-        std::vector<ICard*> injectedCommunityCards_;
+        std::vector<ICardPtr > injectedCommunityCards_;
 
     };
 

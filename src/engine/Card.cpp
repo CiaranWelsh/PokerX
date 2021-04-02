@@ -7,6 +7,36 @@
 
 namespace pokerx {
 
+    ICard::ICard(const ICard &iCard) {
+        rank_ = iCard.rank_;
+        suit_ = iCard.suit_;
+    }
+
+    ICard::ICard(ICard &&iCard) noexcept {
+        rank_ = std::move(iCard.rank_);
+        suit_ = std::move(iCard.suit_);
+    }
+
+    ICard &ICard::operator=(const ICard &iCard) {
+        if (*this != iCard){
+            rank_ = iCard.rank_;
+            suit_ = iCard.suit_;
+        }
+        return *this;
+    }
+
+    ICard &ICard::operator=(ICard &&icard) noexcept {
+        if (*this != icard){
+            rank_ = std::move(icard.rank_);
+            suit_ = std::move(icard.suit_);
+        }
+        return *this;
+    }
+
+    void Card::setRank(int rank) {
+        rank_ = rank;
+    }
+
     std::ostream &operator<<(std::ostream &out, const ICard &c) {
         out << "Card(" << c.rank_ << c.suit_ << ")";
         return out;
@@ -36,10 +66,6 @@ namespace pokerx {
         return !(operator==(other));
     }
 
-    void Card::setRank(int rank) {
-        rank_ = rank;
-    }
-
     void Card::setSuit(const std::string &suit) {
         suit_ = suit;
     }
@@ -52,7 +78,7 @@ namespace pokerx {
         return suit_;
     }
 
-    ICard* CardFactory(std::string cardString) {
+    ICardPtr CardFactory(std::string cardString) {
         char c = cardString[cardString.size()-1];
         std::string suit = {static_cast<char>(std::toupper((int)(c)))};
         cardString.pop_back();
@@ -74,7 +100,8 @@ namespace pokerx {
                 rank = 10;
             }
         }
-        return new Card(rank, suit);
+        auto card = std::make_unique<Card>(rank, suit);
+        return card;
     }
 
 }

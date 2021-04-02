@@ -39,7 +39,7 @@ public:
 
     using RestrictedCardCollection::add;
 
-    explicit TwoCards(const std::vector<ICard*>& cards)
+    explicit TwoCards(const std::vector<ICardPtr >& cards)
         : RestrictedCardCollection(cards, 2){}
 };
 TEST_F(RestrictedCardCollectionTests, TestContainerCanHoldTwoCards) {

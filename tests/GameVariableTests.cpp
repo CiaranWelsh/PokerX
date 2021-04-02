@@ -31,7 +31,7 @@ TEST_F(GameVariablesTests, CheckWeCanInjectCards) {
     Card c4(11, "S");
     //Card c5(3, "C");
 
-    std::vector<ICard *> cards({&c1, &c2, &c3, &c4});//, &c5});
+    std::vector<ICardPtr > cards({&c1, &c2, &c3, &c4});//, &c5});
 
     variables.injectCommunityCards(cards);
 

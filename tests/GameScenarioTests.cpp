@@ -264,7 +264,7 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     // [Td Jc 2c Qs] [3h]
     std::vector<ICardPtr> cards;
 //    for (auto &s: {"10d", "Jc", "2c", "Qs", "3h"}) {
-//        ICard* card = CardFactory(s);
+//        ICardPtr  card = CardFactory(s);
 //        cards.push_back(card);
 //    }
 //    CardCollection c(cards);

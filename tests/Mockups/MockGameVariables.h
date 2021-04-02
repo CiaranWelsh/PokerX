@@ -69,11 +69,11 @@ public:
 
     MOCK_METHOD(void, setSeed, (unsigned long long seed), (override));
 
-    MOCK_METHOD(void, injectCommunityCards, (const std::vector<ICard *>& cards), (override));
+    MOCK_METHOD(void, injectCommunityCards, (const std::vector<ICardPtr >& cards), (override));
 
-    MOCK_METHOD(void, injectCommunityCards, (const std::initializer_list<ICard *> &cards), (override));
+    MOCK_METHOD(void, injectCommunityCards, (const std::initializer_list<ICardPtr > &cards), (override));
 
-    MOCK_METHOD(const std::vector<ICard *>&, getInjectedCommunityCards, (), (const, override));
+    MOCK_METHOD(const std::vector<ICardPtr >&, getInjectedCommunityCards, (), (const, override));
 
 
 };
