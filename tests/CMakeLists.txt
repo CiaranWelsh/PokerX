@@ -171,8 +171,8 @@ add_test_executable(RoyalFlushTests ON ON TestExecutables hands/RoyalFlushTests.
 add_test_executable(HandTests ON ON TestExecutables HandTests.cpp Mockups/MockCard.h hands/TestHands.h)
 add_test_executable(EvaluatorTests ON ON TestExecutables EvaluatorTests.cpp Mockups/MockCard.h hands/TestHands.h)
 
-add_executable(PokerXConsoleGame AConsoleGame.cpp Mockups/MockDeck.h PokerEngineUnitTests/PokerEngineTests.h PokerEngineUnitTests/BettingTests.cpp)
-target_link_libraries(PokerXConsoleGame PRIVATE PokerX)
+#add_executable(PokerXConsoleGame AConsoleGame.cpp Mockups/MockDeck.h PokerEngineUnitTests/PokerEngineTests.h PokerEngineUnitTests/BettingTests.cpp)
+#target_link_libraries(PokerXConsoleGame PRIVATE PokerX)
 
 
 # unit tests for game stages
