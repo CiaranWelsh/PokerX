@@ -9,11 +9,14 @@
 namespace pokerx {
 
 
-    HoleCards::HoleCards(ICardPtr card1, ICardPtr card2)
+    HoleCards::HoleCards(const ICardPtr& card1, const ICardPtr& card2)
             : RestrictedCardCollection({card1, card2}, 2) {
     }
 
-    HoleCards::HoleCards(std::string  card1, std::string  card2)
-        : RestrictedCardCollection({card1, card2}, 2){};
+    HoleCards::HoleCards(const std::string&  card1, const std::string&  card2)
+        : RestrictedCardCollection({card1, card2}, 2){}
+
+    HoleCards::HoleCards()
+        : RestrictedCardCollection(std::vector<ICardPtr>() , 2){};
 
 }

@@ -97,8 +97,6 @@ namespace pokerx {
 
     void PokerEngine::dealHoleCards() const {
 
-        // todo inject way of controlling the cards for reproducing games
-
         // get a reference to the deck
         Deck &deck = getGameVariables()->getDeck();
 
@@ -112,10 +110,16 @@ namespace pokerx {
             for (int i = 1; i < number_of_players + 1; i++) {
                 int idx = i % number_of_players;
                 const auto &player = getPlayers()->getPlayer(idx);
-                player->getHoleCards().add(deck.pop());
+
+                if (!player->getInjectedHoleCards().empty()) {
+                    player->getHoleCards().add(player->getInjectedHoleCards()[card_number]);
+                    player->getInjectedHoleCards().erase(card_number);
+                    // otherwise normal game is dealt
+                } else {
+                    player->getHoleCards().add(deck.pop());
+                }
             }
         }
-
     }
 
     CardCollection PokerEngine::dealFlop() {
@@ -168,13 +172,6 @@ namespace pokerx {
         deck.pop();
 
         return deck.pop();
-
-    }
-
-    void PokerEngine::determineWinner() {
-        Evaluator eval;
-        auto[winnerIdx, hand] = eval.evaluate(players_->getPlayerHands());
-        std::cout << "winner is " << winnerIdx << " with " << hand << std::endl;
 
     }
 

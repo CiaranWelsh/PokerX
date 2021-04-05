@@ -207,6 +207,16 @@ namespace pokerx {
         return hands;
     }
 
+    std::unordered_map<std::string, Hand> PlayerManager::getRemainingPlayerHands() {
+        std::unordered_map<std::string, Hand> hands;
+        for (const auto &player: contents_) {
+            if (!player->hasFolded()) {
+                hands[player->getName()] = Hand(player->getHand());
+            }
+        }
+        return hands;
+    }
+
     void PlayerManager::reset() {
         for (const auto &player: contents_) {
             player->reset();

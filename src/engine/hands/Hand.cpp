@@ -210,7 +210,7 @@ namespace pokerx {
                     return RoyalFlush(cards_).getValue() < RoyalFlush(other).getValue();
             }
         }
-        return thisType == theirType;
+        return thisType < theirType;
     }
 
     bool Hand::operator>(const Hand &other) const {
@@ -242,7 +242,7 @@ namespace pokerx {
                     return RoyalFlush(cards_).getValue() > RoyalFlush(other).getValue();
             }
         }
-        return thisType == theirType;
+        return thisType > theirType;
     }
 
 

@@ -29,9 +29,13 @@ public:
 
     Hand highCardAceKing = createHand("2C", "4S", "9D", "10D", "8C", "KH", "AH");
 
+    Hand highCardAceQueen = createHand("2C", "3H", "9H", "10D", "11C", "12S", "14D");
+
     Hand pair2sAceHigh = createHand("2C", "2D", "6H", "7C", "10D", "AC", "8C");
 
     Hand pair10s8high = createHand("2C", "4D", "6H", "7C", "10D", "10C", "8C");
+
+    Hand pairKings = createHand("2C", "3H", "10D", "11C", "12S", "13C", "13H");
 
     Hand two_pair1 = createHand("2C", "2D", "6H", "6C", "10D", "AC", "8C");
 

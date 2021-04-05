@@ -45,7 +45,7 @@ public:
     MOCK_METHOD(SharedIPlayerPtr, getBigBlind, (), (override));
     MOCK_METHOD(bool, allPlayersTakenAtLeastOneTurn, (), (override));
     MOCK_METHOD(int, getNumPlayersStillInPot, (), (override));
-
+    MOCK_METHOD((std::unordered_map<std::string, Hand>), getRemainingPlayerHands, (), (override));
 };
 
 #endif //POKERX_MOCKPLAYERMANAGER_H

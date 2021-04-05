@@ -193,7 +193,10 @@ public:
         ASSERT_NEAR(engine->getGameVariables()->getPot().getValue(), potTotal, 0.001);
     }
 
-    void assertPlayerRaises(PokerEngine* engine, const std::string& playerName, float amount){
+    void
+    assertPlayerRaises(PokerEngine *engine, const std::string &playerName, float amount, bool checkPlayerStack = true,
+                       bool checkAmountContrib = true,
+                       bool checkPot = true) {
         assertCurrentState(engine, PLAYER_TO_ACT_STATE);
         assertCurrentPlayer(engine, playerName);
 
@@ -211,12 +214,19 @@ public:
         float amountContribAfter = currentPlayer->getAmountContrib();
         float potAfter = engine->getGameVariables()->getPot().getValue();
 
-        ASSERT_NEAR(playerStackBefore - amountToRaiseTo, playerStackAfter, 0.001);
-        ASSERT_NEAR(amountContribAfter, amountContribBefore + amountToRaiseTo, 0.001);
-        ASSERT_NEAR(potAfter, potBefore + amountToRaiseTo, 0.001);
+        if (checkPlayerStack)
+            ASSERT_NEAR(playerStackBefore - amountToRaiseTo, playerStackAfter, 0.001);
+
+        if (checkAmountContrib)
+            ASSERT_NEAR(amountContribAfter, amountContribBefore + amountToRaiseTo, 0.001);
+
+        if (checkPot)
+            ASSERT_NEAR(potAfter, potBefore + amountToRaiseTo, 0.001);
     }
 
-    void assertPlayerCalls(PokerEngine* engine, const std::string& playerName){
+    void assertPlayerCalls(PokerEngine *engine, const std::string &playerName, bool checkPlayerStack = true,
+                           bool checkAmountContrib = true,
+                           bool checkPot = true) {
         assertCurrentState(engine, PLAYER_TO_ACT_STATE);
         assertCurrentPlayer(engine, playerName);
 
@@ -227,22 +237,29 @@ public:
         float effectiveAmountToCall = amountToCall - amountAlreadyInPot;
 
         float playerStackBefore = engine->getPlayers()->getPlayerByName(playerName)->getStack();
-        // float amountContribBefore = engine->getPlayers()->getPlayerByName(playerName)->getAmountContrib();
+        float amountContribBefore = engine->getPlayers()->getPlayerByName(playerName)->getAmountContrib();
         float potBefore = engine->getGameVariables()->getPot().getValue();
 
         engine->action();
 
         float playerStackAfter = engine->getPlayers()->getPlayerByName(playerName)->getStack();
-        // float amountContribAfter = engine->getPlayers()->getPlayerByName(playerName)->getAmountContrib();
+        float amountContribAfter = engine->getPlayers()->getPlayerByName(playerName)->getAmountContrib();
         float potAfter = engine->getGameVariables()->getPot().getValue();
 
-        ASSERT_NEAR(playerStackBefore - effectiveAmountToCall, playerStackAfter, 0.001);
-        // we can't chek amount contrib here, since we're turned to new street and amount contrib has reset!
-        // ASSERT_NEAR(amountContribAfter, amountContribBefore + a, 0.001);
-        ASSERT_NEAR(potAfter, potBefore + effectiveAmountToCall, 0.001);
+        if (checkPlayerStack)
+            ASSERT_NEAR(playerStackBefore - effectiveAmountToCall, playerStackAfter, 0.001);
+
+        if (checkAmountContrib)
+            ASSERT_NEAR(amountContribAfter, amountContribBefore + amountToCall, 0.001);
+
+        if (checkPot)
+            ASSERT_NEAR(potAfter, potBefore + effectiveAmountToCall, 0.001);
     }
 
-    void assertPlayerChecks(PokerEngine* engine, const std::string& playerName){
+    void assertPlayerChecks(PokerEngine *engine, const std::string &playerName,
+                            bool checkPlayerStack = true,
+                            bool checkAmountContrib = true,
+                            bool checkPot = true) {
         assertCurrentState(engine, PLAYER_TO_ACT_STATE);
         assertCurrentPlayer(engine, playerName);
 
@@ -257,12 +274,17 @@ public:
         float amountContribAfter = currentPlayer->getAmountContrib();
         float potAfter = engine->getGameVariables()->getPot().getValue();
 
-        ASSERT_EQ(playerStackBefore, playerStackAfter);
-        ASSERT_EQ(amountContribAfter, amountContribBefore);
-        ASSERT_EQ(potAfter, potBefore);
+        if (checkPlayerStack)
+            ASSERT_EQ(playerStackBefore, playerStackAfter);
+        if (checkAmountContrib)
+            ASSERT_EQ(amountContribAfter, amountContribBefore);
+        if (checkPot)
+            ASSERT_EQ(potAfter, potBefore);
     }
 
-    void assertPlayerFolds(PokerEngine* engine, const std::string& playerName){
+    void assertPlayerFolds(PokerEngine *engine, const std::string &playerName, bool checkPlayerStack = true,
+                           bool checkAmountContrib = true,
+                           bool checkPot = true) {
         assertCurrentState(engine, PLAYER_TO_ACT_STATE);
         assertCurrentPlayer(engine, playerName);
 
@@ -277,13 +299,17 @@ public:
         float amountContribAfter = currentPlayer->getAmountContrib();
         float potAfter = engine->getGameVariables()->getPot().getValue();
 
-        ASSERT_EQ(playerStackBefore, playerStackAfter);
-        ASSERT_EQ(amountContribAfter, amountContribBefore);
-        ASSERT_EQ(potAfter, potBefore);
         ASSERT_TRUE(engine->getPlayers()->getPlayerByName(playerName)->hasFolded());
+
+        if (checkPlayerStack)
+            ASSERT_EQ(playerStackBefore, playerStackAfter);
+        if (checkAmountContrib)
+            ASSERT_EQ(amountContribAfter, amountContribBefore);
+        if (checkPot)
+            ASSERT_EQ(potAfter, potBefore);
     }
 
-    void assertPlayersHaveHoleCards(PokerEngine* engine){
+    void assertPlayersHaveHoleCards(PokerEngine *engine) {
         for (const auto &player : *engine->getPlayers()) {
             ASSERT_EQ(2, player->getHoleCards().size());
         }
@@ -663,14 +689,11 @@ TEST_F(GameScenarioTests, TestRealGame2) {
      * YuYuYu777: posts big blind $0.10
      */
 
-    PolicyPlayer YuYuYu777("YuYuYu777", 10.0,{FOLD}, {});
+    PolicyPlayer YuYuYu777("YuYuYu777", 10.0, {FOLD}, {});
     PolicyPlayer Wade("Wade", 5.66, {RAISE, CALL, CHECK, CALL, RAISE, CHECK}, {0.2, 0.45});
-    PolicyPlayer Janxxx82("Janxxx82", 9.6, { RAISE, RAISE, CALL, CHECK }   , { 0.3, 0.1 });
-    PolicyPlayer pernth("pernth",7.95,  {FOLD}, {});
-    PolicyPlayer xxxbohunxxx("xxxbohunxxx",10.0, {FOLD}, {});
-
-    Wade.injectHoleCards(std::vector<std::string>({"Ad", "9h"}));
-    Janxxx82.injectHoleCards(std::vector<std::string>({"Kc", "Kh"}));
+    PolicyPlayer Janxxx82("Janxxx82", 9.6, {RAISE, RAISE, CALL, CHECK}, {0.3, 0.1});
+    PolicyPlayer pernth("pernth", 7.95, {FOLD}, {});
+    PolicyPlayer xxxbohunxxx("xxxbohunxxx", 10.0, {FOLD}, {});
 
     PlayerManager players({
                                   std::make_shared<PolicyPlayer>(YuYuYu777),
@@ -685,8 +708,15 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 
     PokerEngine engine(&players, &gameVariables);
 
-    engine.action();
+    engine.getPlayers()->getPlayerByName("Wade")->injectHoleCards(std::vector<std::string>({"Ad", "9h"}));
+    ASSERT_EQ(engine.getPlayers()->getPlayerByName("Wade")->getInjectedHoleCards(),
+              std::vector<std::string>({"Ad", "9h"}));
 
+    engine.getPlayers()->getPlayerByName("Janxxx82")->injectHoleCards(std::vector<std::string>({"Kc", "Kh"}));
+    ASSERT_EQ(engine.getPlayers()->getPlayerByName("Janxxx82")->getInjectedHoleCards(),
+              std::vector<std::string>({"KC", "KH"}));
+
+    engine.action();
 
     // blinds
     float potTotal = 0.05 + 0.10;
@@ -718,8 +748,10 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 
     // Wade 204481: calls 0.1
     potTotal += 0.1;
-    assertPlayerCalls(&engine, "Wade");
+    // this call to action() takes us to next street whereby amountContrib is reset - so we turn off this check.
+    assertPlayerCalls(&engine, "Wade", true, false, true);
     assertPotTotal(&engine, potTotal);
+
     /************************************************
      * FLOP
      */
@@ -736,7 +768,7 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 
     // Wade 204481: calls $0.10
     potTotal += 0.1;
-    assertPlayerCalls(&engine, "Wade");
+    assertPlayerCalls(&engine, "Wade", true, false, true);
     assertPotTotal(&engine, potTotal);
     /********************************************************
      * Turn
@@ -749,7 +781,9 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 
     // Janxxx82: calls $0.45
     potTotal += 0.45;
-    assertPlayerCalls(&engine, "Janxxx82");
+    // check brings us to next street, so we turn off amount contrib check
+    assertPlayerCalls(&engine, "Janxxx82", true, false, true);
+    assertPotTotal(&engine, potTotal);
 
     /********************************************************
      * River
@@ -760,11 +794,13 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     assertPlayerChecks(&engine, "Wade");
 
     // Janxxx82: checks
-    assertPlayerChecks(&engine, "Janxxx82");
+    assertPlayerChecks(&engine, "Janxxx82", false, false, true);
 
-    // *** SHOW DOWN ***
-    // Wade 204481: shows [Ad 9h] (high card Ace)
-    // Janxxx82: shows [Kc Kh] (a pair of Kings)
+//    // *** SHOW DOWN ***
+//    // Wade 204481: shows [Ad 9h] (high card Ace)
+//    // Janxxx82: shows [Kc Kh] (a pair of Kings)
+//
+//    std::cout << engine.getPlayers()->getPlayerByName("Janxxx82")->getHoleCards() << std::endl;
 
 
 

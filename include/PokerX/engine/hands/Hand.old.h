@@ -110,7 +110,7 @@ namespace pokerx {
 //                }
 //            }
 //            // cater for special case when we have three pairs
-//            // when we have 3 pairs, sort in ascending order and remove first element
+//            // when we have 3 pairs, sort in ascending order and erase first element
 //            if (x == 2 && ranks.size() == 3) {
 //                std::sort(ranks.begin(), ranks.end());
 //                ranks.erase(ranks.begin());

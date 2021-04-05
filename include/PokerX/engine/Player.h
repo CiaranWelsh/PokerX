@@ -86,6 +86,7 @@ namespace pokerx {
 
         void injectHoleCards(std::vector<std::string> cards) override;
 
+        [[nodiscard]] HoleCards getInjectedHoleCards() const override ;
 
     protected:
 

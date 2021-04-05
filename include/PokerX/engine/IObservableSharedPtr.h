@@ -48,7 +48,7 @@ namespace pokerx {
 
 
         /**
-         * @brief remove a observer from the list of observers
+         * @brief erase a observer from the list of observers
          */
         void removeObserver(SharedObserverPtr observer) {
             for (int i = 0; i < observers_.size(); i++) {

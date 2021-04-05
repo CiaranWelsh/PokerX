@@ -53,6 +53,8 @@ namespace pokerx {
 
         virtual std::vector<Hand> getPlayerHands() = 0;
 
+        virtual std::unordered_map<std::string, Hand> getRemainingPlayerHands() = 0;
+
         virtual void reset() = 0;
 
         virtual SharedIPlayerPtr getSmallBlind() = 0;

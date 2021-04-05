@@ -421,6 +421,19 @@ namespace pokerx {
         cards_.insert(position, CardFactory(card));
     }
 
+    void CardCollection::erase(const ICardPtr& card){
+        int cardIdx = findCard(card);
+        if (cardIdx < 0){
+            return;
+        } else {
+            erase(cardIdx);
+        }
+    }
+
+    void CardCollection::erase(const std::string& card){
+        erase(CardFactory(card));
+    }
+
     int CardCollection::findCard(ICardPtr card) {
         const std::string &suit = card->getSuit();
         const int &rank = card->getRank();
@@ -433,16 +446,9 @@ namespace pokerx {
         return -1;
     }
 
-    int CardCollection::findCard(std::string card) {
-        for (int i = 0; i < size(); i++) {
-            ICardPtr thisCard = cards_[i];
-            if (*thisCard == card) {
-                return i;
-            }
-        }
-        return -1;
+    int CardCollection::findCard(const std::string& card) {
+        return findCard(CardFactory(card));
     }
-
 
 
 }

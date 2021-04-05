@@ -56,5 +56,12 @@ namespace pokerx {
         CardCollection::add(cardCollection);
     }
 
+    void RestrictedCardCollection::pushBack(ICardPtr card) {
+        if (size() == max_cards_) {
+            LOGIC_ERROR << err_msg_ << std::endl;
+        }
+        CardCollection::pushBack(card);
+    }
+
 
 }

@@ -72,7 +72,7 @@ namespace pokerx {
 
         std::vector<std::string> getSuits();
 
-        void pushBack(ICardPtr  card);
+        virtual void pushBack(ICardPtr  card);
 
         [[nodiscard]] int size() const;
 
@@ -90,9 +90,13 @@ namespace pokerx {
 
         void insert(std::vector<ICardPtr>::const_iterator position, std::string card) ;
 
+        void erase(const ICardPtr& card);
+
+        void erase(const std::string& card);
+
         int findCard(ICardPtr  card);
 
-        int findCard(std::string card);
+        int findCard(const std::string& card);
 
         [[nodiscard]] bool empty() const;
 
@@ -159,7 +163,7 @@ namespace pokerx {
             }
             std::sort(ranks.begin(), ranks.end());
             // cater for special case when we have three pairs
-            // when we have 3 pairs, sort in ascending order and remove first element
+            // when we have 3 pairs, sort in ascending order and erase first element
             if (x == 2 && ranks.size() == 3) {
                 ranks.erase(ranks.begin());
             }

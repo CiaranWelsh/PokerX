@@ -513,7 +513,7 @@ TEST_F(PokerEngineStatesTest, TestAllPlayersEqualWhenTheyAreEqual) {
 
     // all players have to have played at least once this round
     // before we can move on to next street
-    for (auto player : *engine->getPlayers()){
+    for (const auto& player : *engine->getPlayers()){
         player->setNumActionsThisStreet(1);
     }
 

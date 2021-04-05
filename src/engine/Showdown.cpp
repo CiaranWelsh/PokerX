@@ -40,16 +40,20 @@ namespace pokerx {
         }
 
         // stack stuff taken care of by this method too
-        Evaluator eval;
-        auto[winnerIdx, hand] = eval.evaluate(engine->getPlayers()->getPlayerHands());
-        std::cout << engine->getPlayers()->getPlayer(winnerIdx)->getName() << " wins "
+        auto remainingPlayerHands = engine->getPlayers()->getRemainingPlayerHands();
+        std::cout << "Showdown. Comparing the following hands: " << std::endl;
+        for (auto hand: remainingPlayerHands) {
+            std::cout << "\t" << hand.first << ": " << hand.second << std::endl;
+        }
+
+        auto[winningPlayerName, hand] = Evaluator::evaluate(remainingPlayerHands);
+        std::cout << winningPlayerName << " wins "
                   << engine->getGameVariables()->getCurrencySymbol()
                   << engine->getGameVariables()->getPot().getValue() << " with "
                   << Hand::getHandTypeStr(hand.getType())
                   << ": " << hand << std::endl;
-        auto winner = (*engine->getPlayers())[winnerIdx];
+        auto winner = engine->getPlayers()->getPlayerByName(winningPlayerName);
         winner->setStack(winner->getStack() + engine->getGameVariables()->getPot().getValue());
-
 
         engine->setState(Reset::getInstance());
 
@@ -65,7 +69,8 @@ namespace pokerx {
     void Showdown::exit(StateMachine *machine) {
     }
 
-    Showdown &Showdown::getInstance() {
+    Showdown &Showdown::
+    getInstance() {
         static Showdown singleton;
         return singleton;
     }

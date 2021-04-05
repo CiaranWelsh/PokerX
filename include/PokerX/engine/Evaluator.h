@@ -20,9 +20,7 @@ namespace pokerx {
     public:
         Evaluator() = default;
 
-        std::pair<int, Hand> evaluate(std::initializer_list<Hand> hands);
-
-        std::pair<int, Hand> evaluate(std::vector<Hand> hands);
+        static std::pair<std::string, Hand> evaluate(std::unordered_map<std::string, Hand> hands);
 
     private:
         std::vector<Hand> hands_;

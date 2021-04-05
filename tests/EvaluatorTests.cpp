@@ -17,23 +17,27 @@ public:
     HandTests() = default;
 };
 
-
-/**
- * I want something that I can pass to std::max. How to go about implementing this?
- */
-
 TEST_F(HandTests, TestTwoHighCards) {
-    hands.highCardAceTen > hands.highCardAceKing;
-//    Evaluator evaluator;
-//    std::vector<Hand> h(
-//            {
-//                    hands.highCardAceTen,
-//                    hands.highCardAceKing,
-//            });
-//    std::max(h);
-//    Hand hc1 = hands.highCardAceTen;
-//    Hand hc2 = hands.highCardAceKing;
+    std::unordered_map<std::string, Hand> hc{
+            {"AceTen", hands.highCardAceTen},
+            {"AceKing", hands.highCardAceKing}
+    };
+    auto [name, hand] = Evaluator::evaluate(hc);
 
+    ASSERT_STREQ(name.c_str(), "AceKing");
+    ASSERT_EQ(*hand.bestFiveCards(), std::vector<std::string>({"8C", "9D", "10D", "13H", "14H"}));
+}
+
+TEST_F(HandTests, TestHighCardVsPair) {
+
+    std::unordered_map<std::string, Hand> hc{
+            {"highCardAceQueen", hands.highCardAceQueen},
+            {"pairKings", hands.pairKings}
+    };
+    auto [name, hand] = Evaluator::evaluate(hc);
+
+    ASSERT_STREQ(name.c_str(), "pairKings");
+    ASSERT_EQ(*hand.bestFiveCards(), std::vector<std::string>({"10D", "11C", "12S", "13C", "13H"}));
 }
 
 

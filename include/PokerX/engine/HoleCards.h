@@ -13,13 +13,15 @@ namespace pokerx {
     public:
         using RestrictedCardCollection::add;
 
-        HoleCards() = default;
+        using RestrictedCardCollection::operator[];
+
+        HoleCards();
 
         ~HoleCards() override = default;
 
-        HoleCards(ICardPtr  card1, ICardPtr  card2);
+        HoleCards(const ICardPtr&  card1, const ICardPtr&  card2);
 
-        HoleCards(std::string  card1, std::string  card2);
+        HoleCards(const std::string&  card1, const std::string&  card2);
 
     };
 }

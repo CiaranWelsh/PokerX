@@ -63,16 +63,10 @@ namespace pokerx {
 
         CardCollection dealFlop();
 
-        ICardPtr  dealTurn() const;
+        [[nodiscard]] ICardPtr  dealTurn() const;
 
-        ICardPtr  dealRiver() const;
+        [[nodiscard]] ICardPtr  dealRiver() const;
 
-        /**
-         * @brief evaluate all hands of players in the game
-         * and determine who has won. The winning players stack
-         * is increased by the pot amount.
-         */
-        void determineWinner();
 
     private:
         /**

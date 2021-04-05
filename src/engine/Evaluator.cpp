@@ -7,17 +7,27 @@
 
 namespace pokerx {
 
-    std::pair<int, Hand> Evaluator::evaluate(std::initializer_list<Hand> hands) {
-        // how to pass this into std::max?
-        std::vector<Hand> v(hands.begin(), hands.end());
-        return evaluate(v);
-    }
-
-    std::pair<int, Hand> Evaluator::evaluate(std::vector<Hand> hands) {
-        auto pos = std::max_element(hands.begin(), hands.end());
-        int idx = std::distance(hands.begin(), pos);
-        std::pair<int, Hand> ret(idx, hands[idx]);
-        return ret;
+    std::pair<std::string, Hand> Evaluator::evaluate(std::unordered_map<std::string, Hand> hands) {
+        using pair = std::pair<std::string, Hand>;
+        return *std::max_element(hands.begin(), hands.end(), [] (const pair& a, const pair& b)->bool{ return a.second < b.second; } );
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

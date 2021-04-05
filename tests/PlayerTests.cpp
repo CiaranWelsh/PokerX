@@ -97,6 +97,16 @@ TEST_F(PlayerTests, TestRaise) {
 }
 
 
+TEST_F(PlayerTests, TestInjectHoleCards) {
+    FakePlayer player("p1", 100.0);
+    player.watch(&gameVariables);
+
+    player.injectHoleCards(std::vector<std::string>({"4H", "6D"}));
+
+    ASSERT_EQ(player.getHoleCards(),std::vector<std::string>({"4H", "6D"}));
+}
+
+
 
 
 

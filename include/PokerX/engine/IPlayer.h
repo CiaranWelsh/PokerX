@@ -181,6 +181,8 @@ namespace pokerx {
 
         virtual void injectHoleCards(std::vector<std::string> cards) = 0;
 
+        [[nodiscard]] virtual HoleCards getInjectedHoleCards() const = 0;
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
@@ -200,7 +202,9 @@ namespace pokerx {
 
         std::string name_;
 
-        HoleCards holeCards_{};
+        HoleCards holeCards_;
+
+        HoleCards injectedHoleCards_;
 
         /**
          * @brief Stack pointer to a GameVariables object.

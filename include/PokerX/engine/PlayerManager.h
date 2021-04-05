@@ -119,6 +119,8 @@ namespace pokerx {
 
         std::vector<Hand> getPlayerHands() override;
 
+        std::unordered_map<std::string, Hand> getRemainingPlayerHands() override;
+
         void reset() override;
 
 
