@@ -23,7 +23,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static DealRiver& getInstance();
+        static DealRiver &getInstance();
 
     private:
         DealRiver() = default;
@@ -31,7 +31,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_DealRiver_H

@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static BigBlind& getInstance();
+        static BigBlind &getInstance();
 
     private:
         BigBlind() = default;

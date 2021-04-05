@@ -5,7 +5,8 @@
 #include <PokerX/engine/hands/Straight.h>
 #include "PokerX/engine/hands/StraightFlush.h"
 #include "PokerX/engine/hands/Flush.h"
-namespace pokerx{
+
+namespace pokerx {
 
     bool StraightFlush::isA() const {
         bool straight = Straight(cards_).isA();
@@ -31,7 +32,7 @@ namespace pokerx{
 
     int StraightFlush::getValue() {
         auto cc = getBestFive();
-        value_ = (*cc)[cc->size()-1]->getRank();
+        value_ = (*cc)[cc->size() - 1]->getRank();
         return value_;
     }
 }

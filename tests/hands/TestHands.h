@@ -11,9 +11,11 @@
 class TestHands {
 public:
     Cards cards;
+
     TestHands() = default;
 
-    static Hand createHand(ICard* hc1, ICard* hc2, ICard* flop1, ICard* flop2, ICard* flop3, ICard* turn, ICard* river ){
+    static Hand
+    createHand(ICard *hc1, ICard *hc2, ICard *flop1, ICard *flop2, ICard *flop3, ICard *turn, ICard *river) {
         return Hand({hc1, hc2, flop1, flop2, flop3, turn, river});
     }
 

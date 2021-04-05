@@ -19,7 +19,7 @@ namespace pokerx {
         IPlayerManager *manager = engine->getPlayers();
         std::cout << manager->getCurrentPlayer()->getName() <<
                   ": posts big blind " << engine->getGameVariables()->getCurrencySymbol()
-                  << engine->getGameVariables()->getBigBlind()  << std::endl;
+                  << engine->getGameVariables()->getBigBlind() << std::endl;
         manager->getCurrentPlayer()->postBigBlind();
         machine->setState(DealHoleCards::getInstance());
     }

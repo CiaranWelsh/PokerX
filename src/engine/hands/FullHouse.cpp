@@ -18,36 +18,36 @@ namespace pokerx {
         return pair.isA() && three_of_a_kind.isA();
     }
 
-std::shared_ptr<CardCollection> FullHouse::getBestFive() const {
-    CardCollection cc(cards_);
-    Counter<int> count(cc.getRanks());
-    int theThree = 0, theTwo = 0;
-    for (auto[rank, count]: count.count()) {
-        if (count == 2)
-            theTwo = rank;
-        else if (count == 3)
-            theThree = rank;
+    std::shared_ptr<CardCollection> FullHouse::getBestFive() const {
+        CardCollection cc(cards_);
+        Counter<int> count(cc.getRanks());
+        int theThree = 0, theTwo = 0;
+        for (auto[rank, count]: count.count()) {
+            if (count == 2)
+                theTwo = rank;
+            else if (count == 3)
+                theThree = rank;
+        }
+        CardCollection best5;
+        for (auto i : cards_) {
+            if (i->getRank() == theTwo || i->getRank() == theThree)
+                best5.add(i);
+        }
+        if (best5.size() != 5)
+            LOGIC_ERROR << "The best 5 cards do not have 5 cards in the "
+                           "CardCollection" << std::endl;
+
+        return std::make_shared<CardCollection>(best5);
+
     }
-    CardCollection best5;
-    for (auto i : cards_) {
-        if (i->getRank() == theTwo || i->getRank() == theThree)
-            best5.add(i);
+
+    HandType FullHouse::getHandType() const {
+        return FULL_HOUSE;
     }
-    if (best5.size() != 5)
-        LOGIC_ERROR << "The best 5 cards do not have 5 cards in the "
-                       "CardCollection" << std::endl;
 
-    return std::make_shared<CardCollection>(best5);
-
-}
-
-HandType FullHouse::getHandType() const {
-    return FULL_HOUSE;
-}
-
-int FullHouse::getValue() {
-    value_ = getValueOfXOfAKind(3);
-    return value_;
-}
+    int FullHouse::getValue() {
+        value_ = getValueOfXOfAKind(3);
+        return value_;
+    }
 
 }

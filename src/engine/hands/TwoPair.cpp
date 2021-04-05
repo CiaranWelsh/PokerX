@@ -3,7 +3,8 @@
 //
 
 #include "PokerX/engine/hands/TwoPair.h"
-namespace pokerx{
+
+namespace pokerx {
 
     bool TwoPair::isA() const {
         return xOfAKindIsA(2, 2);

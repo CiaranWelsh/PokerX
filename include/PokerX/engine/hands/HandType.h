@@ -20,5 +20,4 @@ enum HandType {
 };
 
 
-
 #endif //POKERX_HANDTYPE_H

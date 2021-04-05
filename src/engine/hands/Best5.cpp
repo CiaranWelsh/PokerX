@@ -7,7 +7,7 @@
 
 namespace pokerx {
 
-    Best5::Best5(const std::vector<ICard *>& cards)
-        : RestrictedCardCollection(cards, 5){}
+    Best5::Best5(const std::vector<ICardPtr> &cards)
+            : RestrictedCardCollection(cards, 5) {}
 
 }

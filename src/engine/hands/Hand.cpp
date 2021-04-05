@@ -49,7 +49,7 @@ namespace pokerx {
         }
     }
 
-    std::string Hand::getHandTypeStr(HandType type){
+    std::string Hand::getHandTypeStr(HandType type) {
         std::string handTypeStrings[11] = {
                 "No Hand",
                 "High Card",
@@ -145,7 +145,7 @@ namespace pokerx {
     }
 
 
-    bool Hand::operator==(const Hand& other) const {
+    bool Hand::operator==(const Hand &other) const {
         HandType thisType = getType();
         HandType theirType = other.getType();
         if (thisType == theirType) {

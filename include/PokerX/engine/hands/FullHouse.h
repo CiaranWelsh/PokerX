@@ -21,11 +21,11 @@ namespace pokerx {
         [[nodiscard]] std::shared_ptr<CardCollection> getBestFive() const override;
 
         [[nodiscard]] HandType getHandType() const override;
+
         int getValue() override;
 
     };
 }
-
 
 
 #endif //POKERX_FULLHOUSE_H

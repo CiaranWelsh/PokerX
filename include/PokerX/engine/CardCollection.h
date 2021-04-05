@@ -18,21 +18,23 @@ namespace pokerx {
 
         CardCollection() = default;
 
-        CardCollection(std::initializer_list<ICard*> init);
+        CardCollection(std::initializer_list<ICardPtr > init);
 
-        CardCollection(std::initializer_list<std::string> init);
+        CardCollection(std::initializer_list<std::string> cards);
+
+        CardCollection(std::vector<std::string> vector);
 
         virtual ~CardCollection() = default;
 
-        explicit CardCollection(std::vector<ICard *> cards);
+        explicit CardCollection(std::vector<ICardPtr > cards);
 
         friend std::ostream &operator<<(std::ostream &os, const CardCollection &c);
 
-        ICard *operator[](unsigned int index);
+        ICardPtr  operator[](unsigned int index);
 
-        virtual void add(ICard *card);
+        virtual void add(ICardPtr  card);
 
-        virtual void add(const std::vector<ICard *> &cards);
+        virtual void add(const std::vector<ICardPtr > &cards);
 
         virtual void add(const CardCollection &cards);
 
@@ -42,7 +44,7 @@ namespace pokerx {
 
         CardCollection &operator+=(CardCollection &other);
 
-        CardCollection &operator=(const std::vector<ICard *> &c);
+        CardCollection &operator=(const std::vector<ICardPtr > &c);
 
         CardCollection &operator=(const CardCollection &c);
 
@@ -56,21 +58,21 @@ namespace pokerx {
 
         void erase(int index);
 
-        [[nodiscard]] std::vector<ICard *>::const_iterator end() const;
+        [[nodiscard]] std::vector<ICardPtr >::const_iterator end() const;
 
-        [[nodiscard]] std::vector<ICard *>::const_iterator begin() const;
+        [[nodiscard]] std::vector<ICardPtr >::const_iterator begin() const;
 
-        std::reverse_iterator<std::vector<ICard *>::iterator> rbegin();
+        std::reverse_iterator<std::vector<ICardPtr >::iterator> rbegin();
 
-        std::reverse_iterator<std::vector<ICard *>::iterator> rend();
+        std::reverse_iterator<std::vector<ICardPtr >::iterator> rend();
 
-        [[nodiscard]] std::vector<ICard *> getCards() const;
+        [[nodiscard]] std::vector<ICardPtr > getCards() const;
 
         [[nodiscard]] std::vector<int> getRanks() const;
 
         std::vector<std::string> getSuits();
 
-        void pushBack(ICard *card);
+        void pushBack(ICardPtr  card);
 
         [[nodiscard]] int size() const;
 
@@ -80,13 +82,17 @@ namespace pokerx {
 
         CardCollection pop(int n);
 
-        ICard *pop();
+        ICardPtr  pop();
 
-        ICard *pop_back();
+        ICardPtr  pop_back();
 
-        void insert(std::vector<ICard*>::const_iterator position, ICard* card);
+        void insert(std::vector<ICardPtr >::const_iterator position, ICardPtr  card);
 
-        int findCard(ICard* card);
+        void insert(std::vector<ICardPtr>::const_iterator position, std::string card) ;
+
+        int findCard(ICardPtr  card);
+
+        int findCard(std::string card);
 
         [[nodiscard]] bool empty() const;
 
@@ -96,13 +102,15 @@ namespace pokerx {
 
         std::set<std::string> getUniqueSuits();
 
-        bool contains(ICard *card);
+        bool contains(std::string  card);
+
+        bool contains(ICardPtr card);
 
         bool containsRank(int rank);
 
         bool containsSuit(const std::string &suit);
 
-        ICard *findByRank(int i);
+        ICardPtr  findByRank(int i);
 
         void clear();
 
@@ -134,7 +142,7 @@ namespace pokerx {
          */
         template<typename HandType>
         [[nodiscard]] CardCollection xOfAKindBest5(int x) const {
-            CardCollection cards( getCards());
+            CardCollection cards(getCards());
             HandType handType(cards_);
             if (!handType.isA())
                 //  if not isa HandType, return empty CardCollection.
@@ -144,7 +152,7 @@ namespace pokerx {
             std::unordered_map<int, int> count = counter.count();
             // get the rank of the card which has a pair/two pair etc.
             std::vector<int> ranks;
-            for (auto [rank, count] : counter.count()) {
+            for (auto[rank, count] : counter.count()) {
                 if (count == x) {
                     ranks.push_back(rank);
                 }
@@ -159,7 +167,7 @@ namespace pokerx {
             for (int rank : ranks) {
                 for (int j = 0; j < cards.size(); j++) {
                     if (getCards()[j]->getRank() == rank) {
-                        ICard* card = cards[j];
+                        ICardPtr  card = cards[j];
                         best5.add(card);
                         idx_for_delete.push_back(j);
                     }
@@ -175,7 +183,7 @@ namespace pokerx {
 
 
     protected:
-        std::vector<ICard *> cards_;
+        std::vector<ICardPtr > cards_;
 
         int getValueOfXOfAKind(int x);
     };

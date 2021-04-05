@@ -17,7 +17,7 @@ namespace pokerx {
 
         ~HoleCards() override = default;
 
-        HoleCards(ICard *card1, ICard *card2);
+        HoleCards(ICardPtr  card1, ICardPtr  card2);
 
     };
 }

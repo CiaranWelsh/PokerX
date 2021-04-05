@@ -7,20 +7,20 @@
 
 using namespace pokerx;
 
-class FakePlayer: public Player {
+class FakePlayer : public Player {
 public:
 
     FakePlayer() = default;
 
     FakePlayer(std::string name, float stack)
-        : Player(std::move(name), stack){};
+            : Player(std::move(name), stack) {};
 
-    pokerx::Action selectAction(StateMachine *engine) override{
+    pokerx::Action selectAction(StateMachine *engine) override {
         return CALL;
     }
 
-    float raise() override{
-        float raiseAmount = getGameVariables()->getAmountToCall()*2;
+    float raise() override {
+        float raiseAmount = getGameVariables()->getAmountToCall() * 2;
         float callAmount = getGameVariables()->getAmountToCall();
         stack_ -= (raiseAmount + callAmount);
         getGameVariables()->getPot() += (raiseAmount + callAmount);
@@ -29,7 +29,6 @@ public:
 
 
 };
-
 
 
 #endif //POKERX_FAKEPLAYER_H

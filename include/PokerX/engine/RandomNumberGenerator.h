@@ -21,7 +21,7 @@ namespace pokerx {
 
     public:
 
-        static RandomNumberGenerator& getInstance();
+        static RandomNumberGenerator &getInstance();
 
         [[nodiscard]] unsigned long long int getSeed() const;
 
@@ -45,7 +45,8 @@ namespace pokerx {
 
     private:
 
-        explicit RandomNumberGenerator(unsigned long long seed = std::chrono::high_resolution_clock::now().time_since_epoch().count());
+        explicit RandomNumberGenerator(
+                unsigned long long seed = std::chrono::high_resolution_clock::now().time_since_epoch().count());
 
         /**
          * @brief seed defaults to the current time

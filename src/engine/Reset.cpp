@@ -7,9 +7,9 @@
 #include "PokerX/engine/Reset.h"
 #include "PokerX/engine/ButtonMoves.h"
 
-namespace pokerx{
+namespace pokerx {
 
-    Reset& Reset::getInstance() {
+    Reset &Reset::getInstance() {
         static Reset singleton;
         return singleton;
     }

@@ -13,18 +13,12 @@ using namespace pokerx;
 class MockDeck : public RestrictedCardCollection {
 public:
     MockDeck() = default;
+
     ~MockDeck() override = default;
-    MOCK_METHOD(std::vector<ICard*>, buildDeck, (), ());
+
+    MOCK_METHOD(std::vector<ICard *>, buildDeck, (), ());
     MOCK_METHOD(CardCollection, shuffle, (), ());
 };
-
-
-
-
-
-
-
-
 
 
 #endif //POKERX_MOCKDECK_H

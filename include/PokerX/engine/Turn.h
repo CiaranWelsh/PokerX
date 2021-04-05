@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static Turn& getInstance();
+        static Turn &getInstance();
 
     private:
         Turn() = default;

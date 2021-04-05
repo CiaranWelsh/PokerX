@@ -85,9 +85,10 @@ namespace pokerx {
         [[nodiscard]] std::string getSuit() const override;
     };
 
-    std::unique_ptr<ICard> CardFactory(std::string cardString);
+    using ICardPtr  = std::shared_ptr<ICard>;
 
-    using ICardPtr = std::unique_ptr<ICard>;
+
+    ICardPtr  CardFactory(const std::string &cardString);
 
 
     class Cards {

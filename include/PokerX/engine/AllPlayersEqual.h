@@ -25,7 +25,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static AllPlayersEqual& getInstance();
+        static AllPlayersEqual &getInstance();
 
     private:
         AllPlayersEqual() = default;

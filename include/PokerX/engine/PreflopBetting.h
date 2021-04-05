@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static PreflopBetting& getInstance();
+        static PreflopBetting &getInstance();
 
     private:
         PreflopBetting() = default;

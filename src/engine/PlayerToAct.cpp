@@ -17,10 +17,10 @@ namespace pokerx {
 
         // downcast to the poker engine
         auto *engine = dynamic_cast<PokerEngine *>(machine);
-        
+
         // get reference to currently active player
         SharedIPlayerPtr player = engine->getPlayers()->getCurrentPlayer();
-        
+
         // select action using whatever strategy Player types define
         Action action = player->selectAction(machine);
 
@@ -35,7 +35,7 @@ namespace pokerx {
                 std::cout << player->getName() << ": checks" << std::endl;
                 break;
             }
-            
+
             case FOLD : {
                 player->fold();
                 std::cout << player->getName() << ": folds" << std::endl;
@@ -44,9 +44,9 @@ namespace pokerx {
 
             case CALL : {
                 std::cout << player->getName() << ": calls "
-                    << player->getGameVariables()->getCurrencySymbol()
-                    << player->getGameVariables()->getAmountToCall()
-                        - player->getAmountContrib() << std::endl;
+                          << player->getGameVariables()->getCurrencySymbol()
+                          << player->getGameVariables()->getAmountToCall()
+                             - player->getAmountContrib() << std::endl;
                 player->call();
                 engine->getGameVariables()->setBetPlaced(true);
                 break;

@@ -95,9 +95,9 @@ namespace pokerx {
         checkGameVariablesNotNull();
         // amount to call is alwas the amount already contributed minus
         const float &amount = gameVariables_->getAmountToCall() - amountContrib_;
-        if (amount > stack_){
+        if (amount > stack_) {
             RUNTIME_ERROR << "Amount to call is greater than your stack" << std::endl;
-        } else if(amount == stack_)
+        } else if (amount == stack_)
             setIsAllIn(true);
         amountContrib_ += amount;
         stack_ -= amount;
@@ -155,27 +155,27 @@ namespace pokerx {
     }
 
     Hand Player::getHand() {
-        const CardCollection & comm = getGameVariables()->getCommunityCards();
+        const CardCollection &comm = getGameVariables()->getCommunityCards();
         Hand hand;
         hand.add(comm);
         hand.add(getHoleCards().getCards());
         return hand;
     }
 
-    void Player::reset(){
+    void Player::reset() {
         setNumActionsThisStreet(0);
         holeCards_ = HoleCards();
         setHasFolded(false);
         setIsAllIn(false);
-        if (stack_ == 0){
+        if (stack_ == 0) {
             setSittingOut(true);
-        } else{
+        } else {
             setSittingOut(false);
         }
     }
 
 
-    [[nodiscard]] Policy * Player::getPolicy()  {
+    [[nodiscard]] Policy *Player::getPolicy() {
         return &policy_;
     }
 
@@ -192,7 +192,7 @@ namespace pokerx {
     }
 
     void Player::injectHoleCards(std::vector<std::string> cards) {
-        if (cards.size() > 2){
+        if (cards.size() > 2) {
             LOGIC_ERROR << "Cannot inject more than 2 cards into a players hand" << std::endl;
         }
         /**
@@ -201,8 +201,8 @@ namespace pokerx {
          * Maybe just add custom destructor?
          * But then would I be mixing stack and heap pointers? bad.
          */
-        for (auto &it: cards){
-            auto [rank, suit] = ICard::parseString(it);
+        for (auto &it: cards) {
+            auto[rank, suit] = ICard::parseString(it);
             holeCards_;
         }
     }

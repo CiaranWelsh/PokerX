@@ -17,16 +17,15 @@ public:
 
     MockPokerEngine() = default;
 
-    explicit MockPokerEngine(State& state)
-        :StateMachine(&state){};
+    explicit MockPokerEngine(State &state)
+            : StateMachine(&state) {};
 
-    MOCK_METHOD(void, setState, (State &), ());
+    MOCK_METHOD(void, setState, (State & ), ());
     MOCK_METHOD(State*, getState, (), (const));
-    MOCK_METHOD(void, action, (), () );
-    MOCK_METHOD(void, reset, (), () );
+    MOCK_METHOD(void, action, (), ());
+    MOCK_METHOD(void, reset, (), ());
 
 };
-
 
 
 #endif //POKERSIMULATIONSINCPP_MOCKENGINE_H

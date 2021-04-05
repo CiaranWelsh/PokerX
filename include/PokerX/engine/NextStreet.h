@@ -6,7 +6,6 @@
 #define POKERX_NEXTPLAYER_H
 
 
-
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -25,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static NextStreet& getInstance();
+        static NextStreet &getInstance();
 
     private:
         NextStreet() = default;
@@ -33,7 +32,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_NEXTPLAYER_H

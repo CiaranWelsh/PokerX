@@ -16,15 +16,28 @@
 #include "pokerx_export.h"
 
 
-
 namespace pokerx {
 
-    CardCollection::CardCollection(std::initializer_list<ICard *> init)
+
+    CardCollection::CardCollection(std::initializer_list<ICardPtr> init)
             : cards_(init) {
         sort();
     }
 
-    CardCollection::CardCollection(std::vector<ICard *> cards) :
+    CardCollection::CardCollection(std::initializer_list<std::string> cards)
+        : CardCollection(std::vector<std::string>(cards.begin(), cards.end())){
+        sort();
+    };
+
+
+    CardCollection::CardCollection(std::vector<std::string> cards) {
+        for (const auto &c: cards) {
+            cards_.push_back(CardFactory(c));
+        }
+        sort();
+    }
+
+    CardCollection::CardCollection(std::vector<ICardPtr> cards) :
             cards_(std::move(cards)) {
         sort();
     }
@@ -50,18 +63,18 @@ namespace pokerx {
         return os;
     }
 
-    ICard *CardCollection::operator[](unsigned int index) {
+    ICardPtr CardCollection::operator[](unsigned int index) {
         return cards_[index];
     }
 
 
-    void CardCollection::add(ICard *card) {
-        if (empty()){
+    void CardCollection::add(ICardPtr card) {
+        if (empty()) {
             cards_.push_back(card);
             return;
         }
         // insert into right spot to maintain ordered vector
-        auto first_index_smaller_than_card = std::find_if(cards_.begin(), cards_.end(), [card](ICard *s) {
+        auto first_index_smaller_than_card = std::find_if(cards_.begin(), cards_.end(), [card](ICardPtr s) {
             return s->getRank() > card->getRank();
         });
         if (first_index_smaller_than_card == cards_.end()) // element not found
@@ -70,7 +83,7 @@ namespace pokerx {
             cards_.insert(first_index_smaller_than_card, card);
     }
 
-    void CardCollection::add(const std::vector<ICard *> &cards) {
+    void CardCollection::add(const std::vector<ICardPtr> &cards) {
         for (auto &c : cards) {
             add(c);
         }
@@ -82,11 +95,11 @@ namespace pokerx {
         }
     }
 
-    std::vector<ICard *>::const_iterator CardCollection::end() const {
+    std::vector<ICardPtr>::const_iterator CardCollection::end() const {
         return cards_.end();
     }
 
-    std::vector<ICard *>::const_iterator CardCollection::begin() const {
+    std::vector<ICardPtr>::const_iterator CardCollection::begin() const {
         return cards_.begin();
     }
 
@@ -104,13 +117,13 @@ namespace pokerx {
 
 
     bool CardCollection::operator==(const std::vector<std::string> &other) const {
-        if (cards_.size() != other.size()){
+        if (cards_.size() != other.size()) {
             return false;
         }
-        for (int i=0; i<size(); i++){
-            ICard* c = cards_[i];
-            const std::string& otherCard = other[i];
-            if (*c != otherCard){
+        for (int i = 0; i < size(); i++) {
+            ICardPtr c = cards_[i];
+            const std::string &otherCard = other[i];
+            if (*c != otherCard) {
                 return false;
             }
         }
@@ -126,18 +139,18 @@ namespace pokerx {
         return cards_.size();
     }
 
-    std::vector<ICard *> CardCollection::getCards() const {
+    std::vector<ICardPtr> CardCollection::getCards() const {
         return cards_;
     }
 
-    void CardCollection::pushBack(ICard *card) {
+    void CardCollection::pushBack(ICardPtr card) {
         cards_.push_back(card);
 
     }
 
     CardCollection &CardCollection::operator=(const CardCollection &c) = default;
 
-    CardCollection &CardCollection::operator=(const std::vector<ICard *> &c) {
+    CardCollection &CardCollection::operator=(const std::vector<ICardPtr> &c) {
         cards_ = c;
         return *this;
     }
@@ -149,7 +162,7 @@ namespace pokerx {
     /**
      * Private, hidden, used for sorting function
      */
-    bool compareCardPtrs(ICard *a, ICard *b) {
+    bool compareCardPtrs(ICardPtr a, ICardPtr b) {
         std::unordered_map<std::string, int> suit_values;
         suit_values["C"] = 1;
         suit_values["D"] = 2;
@@ -166,8 +179,8 @@ namespace pokerx {
     }
 
     CardCollection CardCollection::pop_back(int n) {
-        if (n > size()){
-            const int& s = size();
+        if (n > size()) {
+            const int &s = size();
             LOGIC_ERROR << "Can't pop more than " << s << " cards." << std::endl;
         }
         CardCollection cc;
@@ -179,35 +192,35 @@ namespace pokerx {
     }
 
     CardCollection CardCollection::pop(int n) {
-        if (n > size()){
-            const int& s = size();
+        if (n > size()) {
+            const int &s = size();
             LOGIC_ERROR << "Can't pop more than " << s << " cards." << std::endl;
         }
         CardCollection cc;
         // add cards to collection
         int count = 0;
-        while (count != n){
+        while (count != n) {
             cc.add(pop());
             count++;
         }
         return cc;
     }
 
-    ICard *CardCollection::pop() {
-        ICard *card = cards_[size() - 1];
-        cards_.erase(cards_.end()-1 );
+    ICardPtr CardCollection::pop() {
+        ICardPtr card = cards_[size() - 1];
+        cards_.erase(cards_.end() - 1);
         return card;
     }
 
-    ICard *CardCollection::pop_back() {
-        ICard *card = cards_[0];
+    ICardPtr CardCollection::pop_back() {
+        ICardPtr card = cards_[0];
         cards_.erase(cards_.begin());
         return card;
     }
 
     CardCollection &CardCollection::operator+(CardCollection &other) {
-        for (const ICard *card : other.cards_)
-            cards_.push_back(const_cast<ICard *&&>(card));
+        for (const ICardPtr card : other.cards_)
+            cards_.push_back(const_cast<ICardPtr &&>(card));
         return *this;
     }
 
@@ -225,13 +238,13 @@ namespace pokerx {
     }
 
     CardCollection CardCollection::operator()(unsigned int start, unsigned int end) {
-        std::vector<ICard *> sliced = std::vector<ICard *>(cards_.begin() + start, cards_.begin() + end);
+        std::vector<ICardPtr> sliced = std::vector<ICardPtr>(cards_.begin() + start, cards_.begin() + end);
         return CardCollection(sliced);
     }
 
     std::vector<int> CardCollection::getRanks() const {
         std::vector<int> ranks;
-        for (const ICard *card: cards_) {
+        for (const ICardPtr card: cards_) {
             int r = card->getRank();
             ranks.push_back(r);
         }
@@ -240,7 +253,7 @@ namespace pokerx {
 
     std::vector<std::string> CardCollection::getSuits() {
         std::vector<std::string> suits;
-        for (const ICard *card: cards_) {
+        for (const ICardPtr card: cards_) {
             suits.push_back(card->getSuit());
         }
         return suits;
@@ -264,18 +277,26 @@ namespace pokerx {
         cards_.erase(cards_.begin() + index);
     }
 
-    std::reverse_iterator<std::vector<ICard *>::iterator> CardCollection::rend() {
+    std::reverse_iterator<std::vector<ICardPtr>::iterator> CardCollection::rend() {
         return cards_.rend();
     }
 
-    std::reverse_iterator<std::vector<ICard *>::iterator> CardCollection::rbegin() {
+    std::reverse_iterator<std::vector<ICardPtr>::iterator> CardCollection::rbegin() {
         return cards_.rbegin();
     }
 
 
-    bool CardCollection::contains(ICard *card) {
-        for (ICard *i : cards_) {
-            if (i == card)
+    bool CardCollection::contains(std::string card) {
+        for (auto i : cards_) {
+            if (*i == card)
+                return true;
+        }
+        return false;
+    }
+
+    bool CardCollection::contains(ICardPtr card) {
+        for (auto i : cards_) {
+            if (*i == *card)
                 return true;
         }
         return false;
@@ -297,8 +318,8 @@ namespace pokerx {
         return false;
     }
 
-    POKERX_DEPRECATED ICard *CardCollection::findByRank(int rank) {
-        ICard *ptr = nullptr;
+    POKERX_DEPRECATED ICardPtr CardCollection::findByRank(int rank) {
+        ICardPtr ptr = nullptr;
         for (auto card : cards_) {
             if (card->getRank() == rank) {
                 ptr = card;
@@ -314,7 +335,7 @@ namespace pokerx {
 
     CardCollection CardCollection::setDifference(CardCollection &other) const {
         other.sort();
-        std::vector<ICard *> diff;
+        std::vector<ICardPtr> diff;
         std::set_difference(cards_.begin(), cards_.end(), other.begin(), other.end(),
                             std::inserter(diff, diff.begin()), compareCardPtrs);
 
@@ -323,7 +344,7 @@ namespace pokerx {
 
     CardCollection CardCollection::setIntersection(CardCollection &other) const {
         other.sort();
-        std::vector<ICard *> intersect;
+        std::vector<ICardPtr> intersect;
         std::set_intersection(begin(), end(), other.begin(), other.end(),
                               std::inserter(intersect, intersect.begin()), compareCardPtrs);
         return CardCollection(intersect);
@@ -392,21 +413,36 @@ namespace pokerx {
         }
     }
 
-    void CardCollection::insert(std::vector<ICard *>::const_iterator position, ICard *card) {
+    void CardCollection::insert(std::vector<ICardPtr>::const_iterator position, ICardPtr card) {
         cards_.insert(position, card);
     }
 
-    int CardCollection::findCard(ICard *card) {
-        const std::string& suit = card->getSuit();
-        const int& rank = card->getRank();
-        for (int i=0; i<size(); i++){
-            ICard* thisCard = cards_[i];
-            if (thisCard->getSuit() == suit && thisCard->getRank() == rank){
+    void CardCollection::insert(std::vector<ICardPtr>::const_iterator position, std::string card) {
+        cards_.insert(position, CardFactory(card));
+    }
+
+    int CardCollection::findCard(ICardPtr card) {
+        const std::string &suit = card->getSuit();
+        const int &rank = card->getRank();
+        for (int i = 0; i < size(); i++) {
+            ICardPtr thisCard = cards_[i];
+            if (thisCard->getSuit() == suit && thisCard->getRank() == rank) {
                 return i;
             }
         }
         return -1;
     }
+
+    int CardCollection::findCard(std::string card) {
+        for (int i = 0; i < size(); i++) {
+            ICardPtr thisCard = cards_[i];
+            if (*thisCard == card) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
 
 
 }

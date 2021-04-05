@@ -23,13 +23,12 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static ButtonMoves& getInstance();
+        static ButtonMoves &getInstance();
 
     private:
         ButtonMoves() = default;
 
     };
-
 
 
 }

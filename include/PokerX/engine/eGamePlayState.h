@@ -7,7 +7,7 @@
 
 namespace pokerx {
     enum eGamePlayState {
-        RESET_STATE  = 0,
+        RESET_STATE = 0,
         BUTTON_MOVES_STATE = 1,
         SMALL_BLIND_STATE = 2,
         BIG_BLIND_STATE = 3,

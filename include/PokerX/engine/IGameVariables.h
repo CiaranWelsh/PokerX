@@ -51,7 +51,7 @@ namespace pokerx {
 
         [[nodiscard]] virtual unsigned int getN() const = 0;
 
-        virtual void setN(unsigned int n)= 0;
+        virtual void setN(unsigned int n) = 0;
 
         [[nodiscard]] virtual unsigned int numGamesPlayed() const = 0;
 
@@ -67,15 +67,15 @@ namespace pokerx {
 
         [[nodiscard]] virtual bool isDone() const = 0;
 
-        virtual void setDone(bool done) = 0 ;
+        virtual void setDone(bool done) = 0;
 
         [[nodiscard]] virtual bool hasBetBeenPlaced() const = 0;
 
-        virtual void setBetPlaced(bool done) = 0 ;
+        virtual void setBetPlaced(bool done) = 0;
 
         [[nodiscard]] virtual std::string getCurrencySymbol() const = 0;
 
-        virtual void setCurrencySymbol(const std::string& symbol) = 0 ;
+        virtual void setCurrencySymbol(const std::string &symbol) = 0;
 
         virtual void setSeed(unsigned long long seed) = 0;
 
@@ -162,7 +162,7 @@ namespace pokerx {
          * so users should provide all 5 community cares. Later implementations
          * could make it so that we could inject only the turn or river for example.
          */
-        std::vector<std::unique_ptr<ICard>> injectedCommunityCards_;
+        std::vector<ICardPtr> injectedCommunityCards_;
 
     };
 

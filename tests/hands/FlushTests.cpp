@@ -15,15 +15,16 @@ class FlushTests : public ::testing::Test {
 public:
     TestHands hands;
     Cards cards;
+
     FlushTests() = default;
 };
 
-TEST_F(FlushTests, TestFlush){
+TEST_F(FlushTests, TestFlush) {
     pokerx::Flush flush(hands.flushKingHigh);
     ASSERT_TRUE(flush.isA());
 }
 
-TEST_F(FlushTests, TestFlushBestFive){
+TEST_F(FlushTests, TestFlushBestFive) {
     pokerx::Flush flush(hands.flushKingHigh);
     CardCollection cc({
                               &cards.twoOfClubs,

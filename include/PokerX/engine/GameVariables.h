@@ -75,12 +75,9 @@ namespace pokerx {
 
         void injectCommunityCards(const std::vector<std::string> &cards) override;
 
-        [[nodiscard]] const std::vector<ICardPtr> &getInjectedCommunityCards() const override;
+        [[nodiscard]] const std::vector<ICardPtr > &getInjectedCommunityCards() const override;
     };
 }
-
-
-
 
 
 #endif //POKERX_GAMEVARIABLES_H

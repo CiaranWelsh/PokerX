@@ -76,7 +76,7 @@ namespace pokerx {
 
         void doRaise(float amountToRaiseTo) override;
 
-        [[nodiscard]] Policy * getPolicy() override;
+        [[nodiscard]] Policy *getPolicy() override;
 
         void setPolicy(const Policy &policy) override;
 

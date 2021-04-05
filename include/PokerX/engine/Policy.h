@@ -81,7 +81,7 @@ namespace pokerx {
 
         explicit Policy(std::vector<Action> actions);
 
-        explicit Policy(std::vector<Action>  actions, std::vector<float>  raiseAmounts);
+        explicit Policy(std::vector<Action> actions, std::vector<float> raiseAmounts);
 
         [[nodiscard]] const std::vector<Action> &getActions() const;
 

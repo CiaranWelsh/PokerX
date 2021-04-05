@@ -31,6 +31,7 @@ Pot &Pot::operator-(const float &amount) {
     value_ -= amount;
     return *this;
 }
+
 Pot &Pot::operator+=(const float &amount) {
     value_ += amount;
     return *this;
@@ -41,7 +42,7 @@ Pot &Pot::operator-=(const float &amount) {
     return *this;
 }
 
-bool Pot::operator==(const float& amount) const {
+bool Pot::operator==(const float &amount) const {
     return value_ == amount;
 }
 

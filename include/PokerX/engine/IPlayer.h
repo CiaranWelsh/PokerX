@@ -21,7 +21,7 @@ namespace pokerx {
 
     class IGameVariables;
 
-    class IPlayer : public IObserver<IGameVariables>{
+    class IPlayer : public IObserver<IGameVariables> {
     public:
         explicit IPlayer() = default;
 
@@ -30,11 +30,11 @@ namespace pokerx {
 
         ~IPlayer() override = default;
 
-        IPlayer(std::string  name, float stack, std::vector<Action> actionPolicy)
-            : name_(std::move(name)), stack_(stack), policy_(Policy(actionPolicy)){};
+        IPlayer(std::string name, float stack, std::vector<Action> actionPolicy)
+                : name_(std::move(name)), stack_(stack), policy_(Policy(actionPolicy)) {};
 
-        IPlayer(std::string  name, float stack, std::vector<Action> actionPolicy, std::vector<float> raisePolicy)
-            : name_(std::move(name)), stack_(stack), policy_(Policy(actionPolicy, raisePolicy)){};
+        IPlayer(std::string name, float stack, std::vector<Action> actionPolicy, std::vector<float> raisePolicy)
+                : name_(std::move(name)), stack_(stack), policy_(Policy(actionPolicy, raisePolicy)) {};
 
         /**
          * @brief implement the update method from the IObserver<IGameVariables>
@@ -65,7 +65,7 @@ namespace pokerx {
 
         virtual void setName(const std::string &name) = 0;
 
-        std::ostream &print(std::ostream& os) const {
+        std::ostream &print(std::ostream &os) const {
             os << getName() << "(stack=" << getStack() << ")";
             return os;
         }
@@ -171,7 +171,7 @@ namespace pokerx {
 
         virtual void doRaise(float amountToRaiseTo) = 0;
 
-        [[nodiscard]] virtual Policy * getPolicy() = 0;
+        [[nodiscard]] virtual Policy *getPolicy() = 0;
 
         virtual void setPolicy(const Policy &policy) = 0;
 
@@ -218,7 +218,7 @@ namespace pokerx {
          * taken an action this round of betting. Count
          * resets to 0 at the start of each street.
          */
-         unsigned int numActionsThisStreet_;
+        unsigned int numActionsThisStreet_;
 
     };
 

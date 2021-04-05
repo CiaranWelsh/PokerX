@@ -39,13 +39,13 @@ namespace pokerx {
          */
         static std::string getHandTypeStr(HandType type);
 
-        bool operator==(const Hand& other)  const;
+        bool operator==(const Hand &other) const;
 
         bool operator!=(const Hand &other) const;
 
-        bool operator<(const Hand& other) const;
+        bool operator<(const Hand &other) const;
 
-        bool operator>(const Hand& other) const;
+        bool operator>(const Hand &other) const;
 
 
     private:

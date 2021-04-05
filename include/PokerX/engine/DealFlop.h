@@ -23,7 +23,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static DealFlop& getInstance();
+        static DealFlop &getInstance();
 
     private:
         DealFlop() = default;
@@ -31,7 +31,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_DealFlop_H

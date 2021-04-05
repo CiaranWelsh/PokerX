@@ -19,7 +19,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static Reset& getInstance();
+        static Reset &getInstance();
 
     private:
         Reset() = default;

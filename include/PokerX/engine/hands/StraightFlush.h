@@ -4,6 +4,7 @@
 
 #ifndef POKERX_STRAIGHTFLUSH_H
 #define POKERX_STRAIGHTFLUSH_H
+
 #include "PokerX/engine/hands/IHand.h"
 #include "PokerX/engine/hands/Best5.h"
 
@@ -20,11 +21,11 @@ namespace pokerx {
         [[nodiscard]] std::shared_ptr<CardCollection> getBestFive() const override;
 
         [[nodiscard]] HandType getHandType() const override;
+
         int getValue() override;
 
     };
 }
-
 
 
 #endif //POKERX_STRAIGHTFLUSH_H

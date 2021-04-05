@@ -9,7 +9,7 @@
 
 namespace pokerx {
 
-    Pot & GameVariables::getPot() {
+    Pot &GameVariables::getPot() {
         return pot_;
     }
 
@@ -84,7 +84,7 @@ namespace pokerx {
         gamesPlayed_ = gamesPlayed;
     }
 
-    void GameVariables::reset(){
+    void GameVariables::reset() {
         getPot() = Pot();
         communityCards_ = CardCollection();
         setAmountToCall(0);
@@ -114,7 +114,7 @@ namespace pokerx {
         return currencySymbol_;
     }
 
-    void GameVariables::setCurrencySymbol(const std::string& symbol) {
+    void GameVariables::setCurrencySymbol(const std::string &symbol) {
         currencySymbol_ = symbol;
     }
 
@@ -124,7 +124,7 @@ namespace pokerx {
 
 
     void GameVariables::injectCommunityCards(const std::vector<std::string> &cards) {
-        for (const auto& it: cards){
+        for (const auto &it: cards) {
             injectedCommunityCards_.push_back(std::move(CardFactory(it)));
         }
     }

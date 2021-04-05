@@ -21,75 +21,28 @@ using namespace std;
 
 namespace pokerx {
 
-    Deck::Deck() : RestrictedCardCollection(buildDeck(), 52){
+    Deck::Deck() : RestrictedCardCollection(buildDeck(), 52) {
         if (!isUniqueSet()) {
             LOGIC_ERROR << "Non unique elements found in Deck. A deck must be unique" << std::endl;
         }
     }
 
-    std::vector<ICard*> Deck::buildDeck() {
-        std::vector<ICard*> cards;
+    std::vector<ICardPtr> Deck::buildDeck() {
+        std::vector<ICardPtr> cards;
         for (int r : pokerx::getRanks()) {
             for (const auto &s : pokerx::getSuits()) {
-                ICard *iCard = new Card(r, s);
-                cards.push_back(iCard);
+                cards.push_back(std::make_shared<Card>(r, s));
             }
         }
         return cards;
     }
 
-    Deck::~Deck() {
-        deleteCards();
-    }
+    Deck::~Deck() = default;
 
-    void Deck::deleteCards(){
-        for (auto &it: cards_) {
-            delete it;
-        }
-    }
-
-    void Deck::reset(){
-        deleteCards();
+    void Deck::reset() {
         cards_ = buildDeck();
     }
 
-    Deck::Deck(const Deck &deck) {
-        for (auto &it: deck) {
-            ICard *card = new Card();
-            card->setSuit(it->getSuit());
-            card->setRank(it->getRank());
-            cards_.push_back(card);
-        }
-    }
-
-    Deck::Deck(Deck &&deck) noexcept {
-        for (auto &it: deck) {
-            cards_.push_back(it);
-            delete it;
-        }
-    }
-
-    Deck &Deck::operator=(const Deck &deck) {
-        if (this != &deck) {
-            for (auto &it: deck) {
-                ICard *card = new Card();
-                card->setSuit(it->getSuit());
-                card->setRank(it->getRank());
-                cards_.push_back(card);
-            }
-        }
-        return *this;
-    }
-
-    Deck &Deck::operator=(Deck &&deck) noexcept {
-        if (this != &deck) {
-            for (auto &it: deck) {
-                cards_.push_back(it);
-                delete it;
-            }
-        }
-        return *this;
-    }
 
 }
 

@@ -6,7 +6,6 @@
 #define POKERX_STREETSTART_H
 
 
-
 #include "PokerX/engine/State.h"
 #include "PokerX/engine/eGamePlayState.h"
 
@@ -25,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static StreetStart& getInstance();
+        static StreetStart &getInstance();
 
     private:
         StreetStart() = default;
@@ -33,7 +32,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_STREETSTART_H

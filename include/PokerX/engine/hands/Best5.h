@@ -11,10 +11,10 @@ namespace pokerx {
 
     class RestrictedCardCollection;
 
-    class Best5 : public RestrictedCardCollection{
+    class Best5 : public RestrictedCardCollection {
 
     public:
-        explicit Best5(const std::vector<ICard*>& cards);
+        explicit Best5(const std::vector<ICardPtr  > &cards);
 
     };
 

@@ -17,13 +17,13 @@ namespace pokerx {
 
     void SmallBlind::action(StateMachine *machine) {
         CHECK_NULLPTR(machine, "StateMachine");
-        auto* engine = dynamic_cast<PokerEngine*>(machine);
+        auto *engine = dynamic_cast<PokerEngine *>(machine);
         CHECK_NULLPTR(engine, "engine");
-        IPlayerManager* manager = engine->getPlayers();
+        IPlayerManager *manager = engine->getPlayers();
         CHECK_NULLPTR(manager->getCurrentPlayer(), "playerManager::getCurrentPlayer");
         std::cout << manager->getCurrentPlayer()->getName() <<
-            ": posts small blind " << engine->getGameVariables()->getCurrencySymbol()
-            << engine->getGameVariables()->getSmallBlind()  << std::endl;
+                  ": posts small blind " << engine->getGameVariables()->getCurrencySymbol()
+                  << engine->getGameVariables()->getSmallBlind() << std::endl;
         manager->getCurrentPlayer()->postSmallBlind();
         machine->setState(BigBlind::getInstance());
 

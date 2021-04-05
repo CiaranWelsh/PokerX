@@ -15,14 +15,14 @@ namespace eval {
         // collect hand subclass objects in a map
         typedef std::map<int, HandPtr> HandMap;
         HandMap hand_types;
-        for (int i=0; i < hands.size(); i++){
+        for (int i = 0; i < hands.size(); i++) {
             hand_types[i] = hands[i]->evaluate();
         }
 
         // collect the best5 objcets into a map
         typedef std::map<int, CardCollection> CardCollectionMap;
         CardCollectionMap best5map;
-        for (int i=0; i < hands.size(); i++){
+        for (int i = 0; i < hands.size(); i++) {
             best5map[i] = hand_types[i]->best5();
         }
 
@@ -69,9 +69,9 @@ namespace eval {
 
             // work out whether players with same poker hand have the same best5
             CardCollectionMap potential_winners;
-            for (auto i : best5map){
+            for (auto i : best5map) {
                 // if i in max_hand.second
-                if(std::find(max_hand.second.begin(), max_hand.second.end(), i.first) != max_hand.second.end()){
+                if (std::find(max_hand.second.begin(), max_hand.second.end(), i.first) != max_hand.second.end()) {
                     potential_winners[i.first] = i.second;
                 }
             }
@@ -91,8 +91,8 @@ namespace eval {
                 HandType &winning_hand_type = max_hand.first;
                 int maximum_value = 0;
                 int idx_of_maximum_value = 0; // initialised doesn't exist
-                for (auto i : hand_types){
-                    if (i.second->getValue() > maximum_value){
+                for (auto i : hand_types) {
+                    if (i.second->getValue() > maximum_value) {
                         maximum_value = i.second->getValue();
                         idx_of_maximum_value = i.first;
                     }

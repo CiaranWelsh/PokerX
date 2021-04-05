@@ -16,10 +16,10 @@ namespace pokerx {
         auto *engine = dynamic_cast<PokerEngine *>(machine);
 
         // we reset the number of actions for each player still in the game
-        for (const auto& player: *engine->getPlayers()){
+        for (const auto &player: *engine->getPlayers()) {
             // this logic is hard to visualise - so storing it in a variable helps for looking with debugger
             bool truth = !player->hasFolded() && !player->isSittingOut();
-            if (truth){
+            if (truth) {
                 player->setNumActionsThisStreet(0);
                 engine->getGameVariables()->setBetPlaced(false);
                 //player->setAmountContrib(0);
@@ -27,7 +27,7 @@ namespace pokerx {
         }
         // set the amount to call variable to 0 for start of all streets
         // except for PREFLOP when it is equa to big blind
-        if (engine->getGameVariables()->getStreet() == PREFLOP_STREET){
+        if (engine->getGameVariables()->getStreet() == PREFLOP_STREET) {
             engine->getGameVariables()->setAmountToCall(
                     engine->getGameVariables()->getBigBlind()
             );

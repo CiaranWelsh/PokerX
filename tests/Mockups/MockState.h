@@ -15,13 +15,23 @@ public:
 
     MockState() = default;
 
-    MOCK_METHOD(void, enter, (StateMachine*), ());
-    MOCK_METHOD(void, action, (StateMachine*), ());
-    MOCK_METHOD(void, exit, (StateMachine*), () );
-    MOCK_METHOD(unsigned int, getType, (), (const) );
+    MOCK_METHOD(void, enter,(StateMachine *),
+
+    ());
+
+    MOCK_METHOD(void, action,(StateMachine *),
+
+    ());
+
+    MOCK_METHOD(void, exit,(StateMachine *),
+
+    ());
+
+    MOCK_METHOD(unsigned int, getType,(),
+
+    (const));
 
 };
-
 
 
 #endif //POKERX_MOCKSTATE_H

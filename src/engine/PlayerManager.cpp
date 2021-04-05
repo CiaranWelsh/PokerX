@@ -60,9 +60,9 @@ namespace pokerx {
         os << "[";
         for (int i = 0; i < players.size(); i++) {
             if (i == players.size() - 1)
-                os << *dynamic_cast<Player*>(players[i].get()) << "]"; // cast down to player for printing
+                os << *dynamic_cast<Player *>(players[i].get()) << "]"; // cast down to player for printing
             else
-                os << *dynamic_cast<Player*>(players[i].get()) << ", ";
+                os << *dynamic_cast<Player *>(players[i].get()) << ", ";
         }
         os << "]";
         return os;
@@ -224,13 +224,13 @@ namespace pokerx {
         return getPlayer(2);
     }
 
-    int PlayerManager::getNumPlayersStillInPot(){
+    int PlayerManager::getNumPlayersStillInPot() {
         int count = 0;
-        for (auto& player: contents_){
-            if (player->isSittingOut()){
+        for (auto &player: contents_) {
+            if (player->isSittingOut()) {
                 continue;
             }
-            if (player->hasFolded()){
+            if (player->hasFolded()) {
                 continue;
             }
             count += 1;

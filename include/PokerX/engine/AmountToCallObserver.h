@@ -10,9 +10,11 @@
 
 namespace pokerx {
 
-    class AmountToCallObserver() : public IObserver {
+    class AmountToCallObserver()
 
-    }
+    : public IObserver {
+
+}
 
 }
 #endif //POKERX_AMOUNTTOCALLOBSERVER_H

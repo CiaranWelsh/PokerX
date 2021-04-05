@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static Showdown& getInstance();
+        static Showdown &getInstance();
 
     private:
         Showdown() = default;

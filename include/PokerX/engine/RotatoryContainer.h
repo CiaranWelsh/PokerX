@@ -50,7 +50,6 @@ namespace pokerx {
         using Container<T>::contents_;
 
 
-
     };
 
 }

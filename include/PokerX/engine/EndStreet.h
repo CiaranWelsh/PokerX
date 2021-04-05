@@ -23,7 +23,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static EndStreet& getInstance();
+        static EndStreet &getInstance();
 
     private:
         EndStreet() = default;
@@ -31,7 +31,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_ENDSTREET_H

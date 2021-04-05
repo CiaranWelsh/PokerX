@@ -17,7 +17,7 @@ namespace pokerx {
 //    }
 
     float pokerx::SequencePlayer::raise() {
-        float amount = gameVariables_->getAmountToCall()*2;
+        float amount = gameVariables_->getAmountToCall() * 2;
 
         doRaise(amount);
         return amount;

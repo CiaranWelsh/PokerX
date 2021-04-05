@@ -47,6 +47,6 @@ namespace pokerx {
     int Flush::getValue() {
         SharedCardCollection cc = getBestFive();
         cc->sort();
-        return (*cc)[cc->size()-1]->getRank();
+        return (*cc)[cc->size() - 1]->getRank();
     }
 }

@@ -34,6 +34,7 @@ public:
     void reset();
 
     [[nodiscard]] float getValue() const;
+
 private:
     float value_ = 0.0;
 };

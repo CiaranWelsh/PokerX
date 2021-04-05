@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static Flop& getInstance();
+        static Flop &getInstance();
 
     private:
         Flop() = default;

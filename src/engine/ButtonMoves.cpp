@@ -34,7 +34,7 @@ namespace pokerx {
         }
 
         std::cout << engine->getPlayers()->getButton()->getName()
-            << " is the button" << std::endl;
+                  << " is the button" << std::endl;
 
         // we cannot change the state and then call nextPlayer
         // in the exit method as it will actually be the exit

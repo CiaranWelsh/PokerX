@@ -23,7 +23,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static DealTurn& getInstance();
+        static DealTurn &getInstance();
 
     private:
         DealTurn() = default;
@@ -31,7 +31,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_DealTurn_H

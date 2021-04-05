@@ -15,7 +15,7 @@ namespace pokerx {
 
     public:
 
-        explicit IHand(const std::vector<ICard *> &cards) : RestrictedCardCollection(cards, 7) {};
+        explicit IHand(const std::vector<ICardPtr  > &cards) : RestrictedCardCollection(cards, 7) {};
 
         explicit IHand(Hand const &other) : RestrictedCardCollection(other.getCards(), 7) {};
 
@@ -23,7 +23,7 @@ namespace pokerx {
 
         [[nodiscard]] virtual std::shared_ptr<CardCollection> getBestFive() const = 0;
 
-        bool operator==(const IHand& hand);
+        bool operator==(const IHand &hand);
 
         bool operator!=(const IHand &hand);
 
@@ -37,6 +37,7 @@ namespace pokerx {
 
     protected:
         int value_;
+
         virtual void setValue(int value);
 
     };

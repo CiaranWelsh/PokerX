@@ -24,14 +24,6 @@ namespace pokerx {
 
         ~Deck() override;
 
-        Deck(const Deck& deck);
-
-        Deck(Deck&& deck) noexcept ;
-
-        Deck& operator=(const Deck& deck);
-
-        Deck& operator=(Deck&& deck) noexcept;
-
         /**
          * @brief deletes the current deck and
          * restarts with a fresh one
@@ -42,14 +34,9 @@ namespace pokerx {
     private:
 
         /**
-         * @brief deletes the resources allocated for storing cards
-         */
-        void deleteCards();
-
-        /**
          * Create a deck
          */
-        std::vector<ICard*> buildDeck();
+        std::vector<ICardPtr  > buildDeck();
     };
 
 }

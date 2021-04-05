@@ -6,7 +6,7 @@
 #include "PokerX/engine/Counter.h"
 #include <memory>
 
-namespace pokerx{
+namespace pokerx {
 
     bool Pair::isA() const {
         return xOfAKindIsA(2, 1);

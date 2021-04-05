@@ -71,7 +71,7 @@ public:
 
     MOCK_METHOD(void, injectCommunityCards, (const std::vector<std::string> &cards), (override));
 
-    MOCK_METHOD(std::vector<ICardPtr> &, getInjectedCommunityCards, (),  (const, override));
+    MOCK_METHOD(std::vector<ICardPtr> &, getInjectedCommunityCards, (), (const, override));
 
 
 };

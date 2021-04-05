@@ -4,6 +4,7 @@
 
 #ifndef POKERX_FOUROFAKIND_H
 #define POKERX_FOUROFAKIND_H
+
 #include "PokerX/engine/hands/IHand.h"
 #include "PokerX/engine/hands/Best5.h"
 
@@ -20,6 +21,7 @@ namespace pokerx {
         [[nodiscard]] std::shared_ptr<CardCollection> getBestFive() const override;
 
         [[nodiscard]] HandType getHandType() const override;
+
         int getValue() override;
 
     };

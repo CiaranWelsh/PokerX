@@ -23,7 +23,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static DealHoleCards& getInstance();
+        static DealHoleCards &getInstance();
 
     private:
         DealHoleCards() = default;
@@ -31,7 +31,6 @@ namespace pokerx {
     };
 
 }
-
 
 
 #endif //POKERX_DealHoleCards_H

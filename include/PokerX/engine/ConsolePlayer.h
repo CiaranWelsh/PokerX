@@ -6,7 +6,6 @@
 #define POKERSIMULATIONSINCPP_CONSOLEPLAYER_H
 
 
-
 #include "Player.h"
 #include "Action.h"
 #include "PokerEngine.h"

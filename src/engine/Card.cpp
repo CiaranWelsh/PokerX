@@ -30,22 +30,22 @@ namespace pokerx {
     }
 
     bool ICard::operator<(const std::string &other) const {
-        auto [rank, suit] = parseString(other);
+        auto[rank, suit] = parseString(other);
         return this->rank_ < rank;
     }
 
     bool ICard::operator<=(const std::string &other) const {
-        auto [rank, suit] = parseString(other);
+        auto[rank, suit] = parseString(other);
         return rank_ <= rank;
     }
 
     bool ICard::operator>(const std::string &other) const {
-        auto [rank, suit] = parseString(other);
+        auto[rank, suit] = parseString(other);
         return this->rank_ > rank;
     }
 
     bool ICard::operator>=(const std::string &other) const {
-        auto [rank, suit] = parseString(other);
+        auto[rank, suit] = parseString(other);
         return rank_ >= rank;
     }
 
@@ -53,8 +53,8 @@ namespace pokerx {
         return (this->rank_ == other.rank_) && (this->suit_ == other.suit_);
     }
 
-    bool ICard::operator==( const std::string& cardString) const {
-        auto [rank, suit] = parseString(cardString);
+    bool ICard::operator==(const std::string &cardString) const {
+        auto[rank, suit] = parseString(cardString);
         return (this->rank_ == rank) && (suit_ == suit);
     }
 
@@ -62,14 +62,14 @@ namespace pokerx {
         return !(operator==(other));
     }
 
-    bool ICard::operator!=(const std::string& other) const {
+    bool ICard::operator!=(const std::string &other) const {
         return !(operator==(other));
     }
 
     std::pair<int, std::string> ICard::parseString(std::string cardString) {
 
-        char c = cardString[cardString.size()-1];
-        std::string suit = {static_cast<char>(std::toupper((int)(c)))};
+        char c = cardString[cardString.size() - 1];
+        std::string suit = {static_cast<char>(std::toupper((int) (c)))};
         cardString.pop_back();
         int rank;
         try {
@@ -108,9 +108,9 @@ namespace pokerx {
         return suit_;
     }
 
-    std::unique_ptr<ICard> CardFactory(std::string cardString) {
-        auto [rank, suit] = ICard::parseString(cardString);
-        return std::make_unique<Card>(rank, suit);
+    ICardPtr CardFactory(const std::string &cardString) {
+        auto[rank, suit] = ICard::parseString(cardString);
+        return std::make_shared<Card>(rank, suit);
     }
 
 }

@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static PlayerToAct& getInstance();
+        static PlayerToAct &getInstance();
 
     private:
         PlayerToAct() = default;

@@ -24,7 +24,7 @@ namespace pokerx {
 
         [[nodiscard]] unsigned int getType() const override;
 
-        static River& getInstance();
+        static River &getInstance();
 
     private:
         River() = default;

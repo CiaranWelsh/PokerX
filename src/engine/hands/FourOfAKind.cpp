@@ -3,7 +3,8 @@
 //
 
 #include "PokerX/engine/hands/FourOfAKind.h"
-namespace pokerx{
+
+namespace pokerx {
     bool FourOfAKind::isA() const {
         return xOfAKindIsA(4, 1);
     }

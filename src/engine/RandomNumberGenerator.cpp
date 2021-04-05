@@ -44,7 +44,7 @@ namespace pokerx {
 
     std::vector<double> RandomNumberGenerator::uniformReal(double lb, double ub, int size) {
         std::vector<double> r;
-        for (int i=0; i<size; i++){
+        for (int i = 0; i < size; i++) {
             r.push_back(uniformReal(lb, ub));
         }
         return r;
@@ -57,7 +57,7 @@ namespace pokerx {
 
     std::vector<double> RandomNumberGenerator::uniformInt(int lb, int ub, int size) {
         std::vector<double> r;
-        for (int i=0; i<size; i++){
+        for (int i = 0; i < size; i++) {
             r.push_back(uniformInt(lb, ub));
         }
         return r;
@@ -71,7 +71,7 @@ namespace pokerx {
 
     std::vector<double> RandomNumberGenerator::normal(double mu, double sigma, int size) {
         std::vector<double> r;
-        for (int i=0; i<size; i++){
+        for (int i = 0; i < size; i++) {
             r.push_back(normal(mu, sigma));
         }
         return r;

@@ -75,12 +75,12 @@ namespace pokerx {
         } else if (best5.size() != 5 && best5_ace_low.size() == 5)
             return std::make_shared<CardCollection>(best5_ace_low);
         else if (best5.size() == 5 && best5_ace_low.size() == 5) {
-            return std::make_shared<CardCollection>(best5); // every other type of straight will beat an Ace low straight
+            return std::make_shared<CardCollection>(
+                    best5); // every other type of straight will beat an Ace low straight
         } else {
             LOGIC_ERROR << "You did a bad" << std::endl;
         }
     }
-
 
 
     HandType Straight::getHandType() const {

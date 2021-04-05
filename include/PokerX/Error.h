@@ -57,6 +57,4 @@ void checkForNullptr(T var, const std::string &name) {
 #define CHECK_NULLPTR(VAR, NAME)    (checkForNullptr(VAR, NAME))
 
 
-
-
 #endif //POKERSIMULATIONSINCPP_ERROR_H

@@ -42,14 +42,14 @@ namespace pokerx {
          * A shared pointer is created from the raw input pointer.
          * @param observer A shared pointer to an Observer<T>
          */
-        void registerObserver(IObserver<T>* observer) {
+        void registerObserver(IObserver <T> *observer) {
             observers_.push_back(observer);
         }
 
         /**
          * @brief remove a observer from the list of observers
          */
-        void removeObserver(IObserver<T>* observer) {
+        void removeObserver(IObserver <T> *observer) {
             for (int i = 0; i < observers_.size(); i++) {
                 if (observers_[i] == observer) {
                     observers_.erase(i);
@@ -58,7 +58,7 @@ namespace pokerx {
         }
 
     private:
-        std::vector<IObserver<T>*> observers_{};
+        std::vector<IObserver < T>*> observers_{};
 
         //todo add mutex lock to enable thread safety
     };

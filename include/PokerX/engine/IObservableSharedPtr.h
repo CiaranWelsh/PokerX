@@ -18,7 +18,7 @@ namespace pokerx {
      */
     template<class T>
     class [[maybe_unused]] IObservableSharedPtr {
-        using SharedObserverPtr = std::shared_ptr<IObserver<T>>;
+        using SharedObserverPtr = std::shared_ptr<IObserver < T>>;
 
     public:
 
