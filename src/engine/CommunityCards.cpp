@@ -9,15 +9,19 @@ namespace pokerx {
 
 
     CommunityCards::CommunityCards(ICardPtr flop1, ICardPtr flop2, ICardPtr flop3)
-            : RestrictedCardCollection({flop1, flop2, flop3}, 5) {};
+            : RestrictedCardCollection({std::move(flop1), std::move(flop2), std::move(flop3)}, 5) {};
 
     CommunityCards::CommunityCards(ICardPtr flop1, ICardPtr flop2, ICardPtr flop3, ICardPtr turn)
-            : RestrictedCardCollection({flop1, flop2, flop3, turn}, 5) {}
+            : RestrictedCardCollection({std::move(flop1), std::move(flop2), std::move(flop3), std::move(turn)}, 5) {}
 
     CommunityCards::CommunityCards(ICardPtr flop1, ICardPtr flop2, ICardPtr flop3, ICardPtr turn, ICardPtr river)
-            : RestrictedCardCollection({flop1, flop2, flop3, turn}, 5) {}
+            : RestrictedCardCollection({std::move(flop1), std::move(flop2), std::move(flop3), std::move(turn), std::move(river)}, 5) {}
 
     CommunityCards::CommunityCards(std::vector<ICardPtr> &cards) : RestrictedCardCollection(cards, 5) {}
+
+    CommunityCards::CommunityCards(std::vector<std::string> &cards) : RestrictedCardCollection(cards, 5) {}
+
+    CommunityCards::CommunityCards(std::initializer_list<std::string> cards) : RestrictedCardCollection(cards, 5) {}
 
 
 }

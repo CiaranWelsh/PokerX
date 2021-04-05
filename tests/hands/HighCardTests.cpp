@@ -27,13 +27,7 @@ TEST_F(HighCardTests, TestHighCard1IsA) {
 
 TEST_F(HighCardTests, TestHighCard1BestFive) {
     pokerx::HighCard highCard(hands.highCardAceTen);
-    CardCollection expected({
-                                    &cards.sixOfHearts,
-                                    &cards.sevenOfClubs,
-                                    &cards.eightOfClubs,
-                                    &cards.tenOfDiamonds,
-                                    &cards.aceOfClubs,
-                            });
+    CardCollection expected({"6H", "7C", "8C", "10D", "AC"});
     auto best5 = highCard.getBestFive();
     ASSERT_TRUE(expected == *best5);
 }
@@ -47,13 +41,7 @@ TEST_F(HighCardTests, TestHighCard2IsA) {
 
 TEST_F(HighCardTests, TestHighCard2BestFive) {
     pokerx::HighCard highCard(hands.highCardAceKing);
-    CardCollection expected({
-                                    &cards.eightOfClubs,
-                                    &cards.nineOfDiamonds,
-                                    &cards.tenOfDiamonds,
-                                    &cards.kingOfHearts,
-                                    &cards.aceOfHearts
-                            });
+    CardCollection expected({"8C", "9D", "10D", "KH", "AH"});
     auto best5 = highCard.getBestFive();
     ASSERT_TRUE(expected == *best5);
 }

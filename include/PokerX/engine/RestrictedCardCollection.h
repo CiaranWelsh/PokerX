@@ -40,6 +40,8 @@ namespace pokerx {
          */
         RestrictedCardCollection(const std::vector<ICardPtr  > &cards, unsigned int max_num_cards);
 
+        RestrictedCardCollection(const std::vector<std::string> &cards, unsigned int max_num_cards);
+
         explicit RestrictedCardCollection(unsigned int max_num_cards);
 
     private:

@@ -26,13 +26,7 @@ TEST_F(FlushTests, TestFlush) {
 
 TEST_F(FlushTests, TestFlushBestFive) {
     pokerx::Flush flush(hands.flushKingHigh);
-    CardCollection cc({
-                              &cards.twoOfClubs,
-                              &cards.fiveOfClubs,
-                              &cards.sevenOfClubs,
-                              &cards.nineOfClubs,
-                              &cards.kingOfClubs
-                      });
+    CardCollection cc({"2C", "5C", "7C", "9C", "KC"});
     ASSERT_EQ(cc, *flush.getBestFive());
 }
 

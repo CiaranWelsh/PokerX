@@ -19,6 +19,8 @@ namespace pokerx {
 
         HoleCards(ICardPtr  card1, ICardPtr  card2);
 
+        HoleCards(std::string  card1, std::string  card2);
+
     };
 }
 #endif //POKERSIMULATIONSINCPP_HOLECARDS_H

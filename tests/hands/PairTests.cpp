@@ -40,26 +40,14 @@ TEST_F(PairTests, TestPairIsWhenItIsNot) {
 TEST_F(PairTests, TestPairIsWhenItISAPairBest5) {
     pokerx::Pair pair(hands.pair2sAceHigh);
     auto bestFive = pair.getBestFive();
-    CardCollection cc({
-                              &cards.twoOfClubs,
-                              &cards.twoOfDiamonds,
-                              &cards.eightOfClubs,
-                              &cards.tenOfDiamonds,
-                              &cards.aceOfClubs,
-                      });
+    CardCollection cc({"2C", "2D", "8C", "10D", "AC"});
     ASSERT_TRUE(*bestFive == cc);
 }
 
 TEST_F(PairTests, TestPairIsWhenItISAPairBest5Pair2) {
     pokerx::Pair pair(hands.pair10s8high);
     auto bestFive = pair.getBestFive();
-    CardCollection cc({
-                              &cards.sixOfHearts,
-                              &cards.sevenOfClubs,
-                              &cards.eightOfClubs,
-                              &cards.tenOfDiamonds,
-                              &cards.tenOfClubs,
-                      });
+    CardCollection cc({"6H", "7C", "8C", "10D", "10C"});
     ASSERT_EQ(*bestFive, cc);
 }
 

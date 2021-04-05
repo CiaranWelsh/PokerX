@@ -133,7 +133,7 @@ namespace pokerx {
          */
         bool allPlayersTakenAtLeastOneTurn() override;
 
-        int getNumPlayersStillInPot();
+        int getNumPlayersStillInPot() override;
     };
 }
 

@@ -669,8 +669,8 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     PolicyPlayer pernth("pernth",7.95,  {FOLD}, {});
     PolicyPlayer xxxbohunxxx("xxxbohunxxx",10.0, {FOLD}, {});
 
-    Wade.injectHoleCards(std::vector<std::string>({"Ad", "9h"});
-    Janxxx82.injectHoleCards(std::vector<std::string>({"Kc", "Kh"});
+    Wade.injectHoleCards(std::vector<std::string>({"Ad", "9h"}));
+    Janxxx82.injectHoleCards(std::vector<std::string>({"Kc", "Kh"}));
 
     PlayerManager players({
                                   std::make_shared<PolicyPlayer>(YuYuYu777),

@@ -33,45 +33,21 @@ TEST_F(StraightFlushTests, TestStraightFlush2) {
 
 TEST_F(StraightFlushTests, TestStraightFlush1BestFive) {
     StraightFlush sflush(hands.straightFlushSixHigh);
-    CardCollection cc(
-            {
-                    &cards.twoOfClubs,
-                    &cards.threeOfClubs,
-                    &cards.fourOfClubs,
-                    &cards.fiveOfClubs,
-                    &cards.sixOfClubs,
-            }
-    );
+    CardCollection cc({"2C", "3C", "4C", "5C", "6C"});
     ASSERT_EQ(cc, *sflush.getBestFive());
 }
 
 
 TEST_F(StraightFlushTests, TestStraightFlush2BestFive) {
     StraightFlush sflush(hands.straightFlushTenHigh);
-    CardCollection cc(
-            {
-                    &cards.sixOfClubs,
-                    &cards.sevenOfClubs,
-                    &cards.eightOfClubs,
-                    &cards.nineOfClubs,
-                    &cards.tenOfClubs
-            }
-    );
+    CardCollection cc({"6C", "7C", "8C", "9C", "10C"});
     ASSERT_EQ(cc, *sflush.getBestFive());
 }
 
 
 TEST_F(StraightFlushTests, TestStraightFlush3BestFive) {
     StraightFlush sflush(hands.straight_flush3);
-    CardCollection cc(
-            {
-                    &cards.threeOfClubs,
-                    &cards.fourOfClubs,
-                    &cards.fiveOfClubs,
-                    &cards.sixOfClubs,
-                    &cards.sevenOfClubs,
-            }
-    );
+    CardCollection cc({"3C", "4C", "5C", "6C", "7C"});
     ASSERT_EQ(cc, *sflush.getBestFive());
 }
 

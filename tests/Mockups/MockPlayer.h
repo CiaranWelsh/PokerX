@@ -72,6 +72,7 @@ public:
     MOCK_METHOD(void, setPolicy, (const Policy &), (override));
     MOCK_METHOD(unsigned int, getNumActionsThisStreet, (), (const, override));
     MOCK_METHOD(void, setNumActionsThisStreet, (unsigned int), (override));
+    MOCK_METHOD(void, injectHoleCards, (std::vector<std::string> cards), (override));
 
 };
 

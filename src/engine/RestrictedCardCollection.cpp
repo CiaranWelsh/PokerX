@@ -21,6 +21,13 @@ namespace pokerx {
         }
     }
 
+    RestrictedCardCollection::RestrictedCardCollection(const std::vector<std::string> &cards, unsigned int max_num_cards)
+            : CardCollection(cards), max_cards_(max_num_cards) {
+        if (size() > max_cards_) {
+            LOGIC_ERROR << err_msg_ << std::endl;
+        }
+    }
+
     RestrictedCardCollection::RestrictedCardCollection(unsigned int max_num_cards)
             : CardCollection(), max_cards_(max_num_cards) {
         if (max_cards_ == 0) {

@@ -17,12 +17,9 @@ public:
 };
 
 TEST_F(CommunityCardTests, EnsureCorrectRepresentationOfCardsInCollection) {
-    CommunityCards comm = CommunityCards(&mockCards.sixOfDiamonds, &mockCards.fiveOfDiamonds, &mockCards.fourOfHearts);
-    EXPECT_CALL(mockCards.fourOfHearts, getRank()).WillRepeatedly(Return(4));
-    EXPECT_CALL(mockCards.fourOfHearts, getSuit()).WillRepeatedly(Return("H"));
+    CommunityCards comm = CommunityCards({"6D", "5D", "4H"});
 
-    ASSERT_EQ(comm[0]->getRank(), 4);
-    ASSERT_EQ(comm[0]->getSuit(), "H");
+    ASSERT_EQ(*comm[0], "4H");
 }
 
 

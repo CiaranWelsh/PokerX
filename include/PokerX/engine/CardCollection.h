@@ -157,12 +157,15 @@ namespace pokerx {
                     ranks.push_back(rank);
                 }
             }
+            std::sort(ranks.begin(), ranks.end());
             // cater for special case when we have three pairs
             // when we have 3 pairs, sort in ascending order and remove first element
             if (x == 2 && ranks.size() == 3) {
-                std::sort(ranks.begin(), ranks.end());
                 ranks.erase(ranks.begin());
             }
+
+            // note: ordering is very important for this to work.
+            // but CardCollections are always maintained in order anyway.
             std::vector<int> idx_for_delete;
             for (int rank : ranks) {
                 for (int j = 0; j < cards.size(); j++) {
@@ -176,7 +179,6 @@ namespace pokerx {
             for (auto it = idx_for_delete.rbegin(); it != idx_for_delete.rend(); ++it) {
                 cards.erase(*it);
             }
-            cards.sort();
             best5.add(cards(2, cards.size()));
             return best5;
         }

@@ -16,16 +16,12 @@ public:
 };
 
 TEST_F(HoleCardTests, HoleCardTestGetRank) {
-    HoleCards h(&cards.fourOfSpades, &cards.twoOfDiamonds);
+    HoleCards h({"4S", "2D"});
     ASSERT_TRUE(h[0]->getRank() == 2);
 }
 
 TEST_F(HoleCardTests, TestHoleCardFailsWithMoreThanTwoCards) {
-    MockCard card1(4, "S");
-    MockCard card2(4, "D");
-    MockCard card3(6, "D");
-
-    HoleCards h(&card1, &card2);
-    ASSERT_THROW(h.add(&card3), std::logic_error);
+    HoleCards h({"4S", "4D"});
+    ASSERT_THROW(h.add({"6H"}), std::logic_error);
 }
 

@@ -26,13 +26,7 @@ TEST_F(RoyalFlushTests, TestIsA) {
 
 TEST_F(RoyalFlushTests, TestBest5) {
     RoyalFlush royalFlush(hands.royalFlushClubs);
-    CardCollection cc({
-                              &cards.tenOfClubs,
-                              &cards.jackOfClubs,
-                              &cards.queenOfClubs,
-                              &cards.kingOfClubs,
-                              &cards.aceOfClubs,
-                      });
+    CardCollection cc({"10C", "JC", "QC", "KC", "AC"});
     ASSERT_EQ(cc, *royalFlush.getBestFive());
 }
 

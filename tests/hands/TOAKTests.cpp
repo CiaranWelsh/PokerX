@@ -27,15 +27,7 @@ TEST_F(ThreeOfAKindTests, TestThreeOfAKindIsWhenItISAThreeOfAKind) {
 
 TEST_F(ThreeOfAKindTests, TestThreeOfAKindBestFive) {
     pokerx::ThreeOfAKind threeOfAKind(hands.threeOfAKindThrees);
-    CardCollection cc(
-            {
-                    &cards.twoOfClubs,
-                    &cards.twoOfDiamonds,
-                    &cards.twoOfHearts,
-                    &cards.kingOfClubs,
-                    &cards.aceOfDiamonds,
-            }
-    );
+    CardCollection cc({"2C", "2D", "2H", "KC", "AD"});
     ASSERT_EQ(cc, *threeOfAKind.getBestFive());
 }
 

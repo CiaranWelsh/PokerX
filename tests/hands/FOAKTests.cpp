@@ -27,13 +27,7 @@ TEST_F(FourOfAKindTests, TestFourOfAKindIsWhenItISAFourOfAKind) {
 
 TEST_F(FourOfAKindTests, TestFourOfAKindBest5) {
     pokerx::FourOfAKind FourOfAKind(hands.fourOfAKindTwos);
-    CardCollection cc({
-                              &cards.twoOfClubs,
-                              &cards.twoOfDiamonds,
-                              &cards.twoOfHearts,
-                              &cards.twoOfSpades,
-                              &cards.aceOfDiamonds,
-                      });
+    CardCollection cc({"2C", "2D", "2H", "2S", "AD"});
     ASSERT_EQ(cc, *FourOfAKind.getBestFive());
 
 }

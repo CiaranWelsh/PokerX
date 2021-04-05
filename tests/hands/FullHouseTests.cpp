@@ -32,30 +32,14 @@ TEST_F(FlushTests, TestFullHouse) {
 
 TEST_F(FlushTests, TestFullhouse1BestFive) {
     pokerx::FullHouse fullHouse(hands.fullHouseTwosfullOfThrees);
-    CardCollection cc(
-            {
-                    &cards.twoOfClubs,
-                    &cards.twoOfDiamonds,
-                    &cards.twoOfHearts,
-                    &cards.queenOfClubs,
-                    &cards.queenOfDiamonds,
-            }
-    );
+    CardCollection cc({"2C", "2D", "2H", "QC", "QD"});
     ASSERT_EQ(cc, *fullHouse.getBestFive());
 }
 
 
 TEST_F(FlushTests, TestFullHouseBestFive) {
     pokerx::FullHouse fullHouse(hands.fullHouseEightsFullOfQueens);
-    CardCollection cc(
-            {
-                    &cards.eightOfClubs,
-                    &cards.eightOfDiamonds,
-                    &cards.eightOfHearts,
-                    &cards.queenOfClubs,
-                    &cards.queenOfDiamonds,
-            }
-    );
+    CardCollection cc({"8C", "8D", "8H", "QC", "QD"});
     ASSERT_EQ(cc, *fullHouse.getBestFive());
 }
 

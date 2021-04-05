@@ -37,26 +37,28 @@ class TwoCards : public RestrictedCardCollection {
 
 public:
 
+    using RestrictedCardCollection::RestrictedCardCollection;
+
     using RestrictedCardCollection::add;
 
-    explicit TwoCards(const std::vector<ICard*>& cards)
-        : RestrictedCardCollection(cards, 2){}
+    explicit TwoCards(const std::vector<ICardPtr> &cards)
+            : RestrictedCardCollection(cards, 2) {}
 };
+
 TEST_F(RestrictedCardCollectionTests, TestContainerCanHoldTwoCards) {
-    TwoCards cards({&twoOfClubs, &fiveOfDiamonds});
+    TwoCards cards({"2C", "5D"});
     ASSERT_EQ(2, cards.size());
 }
 
 TEST_F(RestrictedCardCollectionTests, CheckErrorWhenTryToAddMoreThan2Cards) {
-    TwoCards cards({&twoOfClubs, &fiveOfDiamonds});
-    ASSERT_THROW(cards.add(&sixOfDiamonds), std::logic_error);
+    TwoCards cards({"2C", "5D"});
+    ASSERT_THROW(cards.add({"6D"}), std::logic_error);
 }
-
 
 
 TEST_F(RestrictedCardCollectionTests, CheckErrorWhenTryToInitializeWithMoreThan2Cards) {
     ASSERT_THROW(
-            TwoCards cards({&twoOfClubs, &fiveOfDiamonds, &sixOfDiamonds}),
+            TwoCards cards({"2C", "5D", "6D"}),
             std::logic_error
     );
 }
