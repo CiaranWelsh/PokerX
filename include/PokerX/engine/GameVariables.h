@@ -76,6 +76,19 @@ namespace pokerx {
         void injectCommunityCards(const std::vector<std::string> &cards) override;
 
         [[nodiscard]] const std::vector<ICardPtr > &getInjectedCommunityCards() const override;
+
+        std::string lastWinner() override;
+
+        Hand lastWinningHand() override;
+
+        float lastPot() override;
+
+        void setLastWinner(std::string name) override;
+
+        void setLastWinningHand(Hand winner) override;
+
+        void setLastPot(float  amount) override;
+
     };
 }
 

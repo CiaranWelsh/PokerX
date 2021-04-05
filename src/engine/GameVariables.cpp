@@ -133,4 +133,28 @@ namespace pokerx {
         return injectedCommunityCards_;
     }
 
+    std::string GameVariables::lastWinner() {
+        return lastWinner_;
+    }
+
+    Hand GameVariables::lastWinningHand() {
+        return lastWinningHand_;
+    }
+
+    float GameVariables::lastPot() {
+        return lastPotAmount;
+    }
+
+    void GameVariables::setLastWinner(std::string name) {
+        lastWinner_ = name;
+    }
+
+    void GameVariables::setLastWinningHand(Hand winner) {
+        lastWinningHand_ = winner;
+    }
+
+    void GameVariables::setLastPot(float amount) {
+        lastPotAmount = amount;
+    }
+
 }

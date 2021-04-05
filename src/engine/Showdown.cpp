@@ -47,6 +47,9 @@ namespace pokerx {
         }
 
         auto[winningPlayerName, hand] = Evaluator::evaluate(remainingPlayerHands);
+        engine->getGameVariables()->setLastWinner(winningPlayerName);
+        engine->getGameVariables()->setLastWinningHand(hand);
+        engine->getGameVariables()->setLastPot(engine->getGameVariables()->getPot().getValue());
         std::cout << winningPlayerName << " wins "
                   << engine->getGameVariables()->getCurrencySymbol()
                   << engine->getGameVariables()->getPot().getValue() << " with "

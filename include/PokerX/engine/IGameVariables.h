@@ -83,7 +83,34 @@ namespace pokerx {
 
         [[nodiscard]] virtual const std::vector<ICardPtr> &getInjectedCommunityCards() const = 0;
 
+        virtual std::string lastWinner() = 0;
+
+        virtual Hand lastWinningHand() = 0;
+
+        virtual float lastPot() = 0;
+
+        virtual void setLastWinner(std::string name) = 0;
+
+        virtual void setLastWinningHand(Hand winner) = 0;
+
+        virtual void setLastPot(float  amount) = 0;
+
     protected:
+
+        /**
+         * Name of player who won last
+         */
+        std::string lastWinner_;
+
+        /**
+         * Hand that won the last game
+         */
+        Hand lastWinningHand_;
+
+        /**
+         * Amount won in last game
+         */
+        float lastPotAmount;
 
         /**
          * Number of games to play

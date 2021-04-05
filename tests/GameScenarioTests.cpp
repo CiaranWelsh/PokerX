@@ -802,6 +802,9 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 //
 //    std::cout << engine.getPlayers()->getPlayerByName("Janxxx82")->getHoleCards() << std::endl;
 
+    ASSERT_STREQ(engine.getGameVariables()->lastWinner().c_str(), "Janxxx82");
+    ASSERT_EQ(*engine.getGameVariables()->lastWinningHand().bestFiveCards(), std::vector<std::string>({"10d", "11c", "12s", "13c", "13h"}));
+    ASSERT_NEAR(engine.getGameVariables()->lastPot(), 1.85, 0.001);
 
 
 
