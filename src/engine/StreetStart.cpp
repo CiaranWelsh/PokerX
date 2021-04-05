@@ -34,6 +34,7 @@ namespace pokerx {
         } else {
             engine->getGameVariables()->setAmountToCall(0);
         }
+
         engine->setState(PlayerToAct::getInstance());
     }
 

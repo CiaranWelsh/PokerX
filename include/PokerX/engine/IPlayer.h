@@ -179,6 +179,8 @@ namespace pokerx {
 
         virtual void setNumActionsThisStreet(unsigned int numActionsThisStreet) = 0;
 
+        virtual void injectHoleCards(std::vector<std::string> cards) = 0;
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;

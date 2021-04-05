@@ -40,7 +40,7 @@ TEST_F(PlayerTests, TestPlayerStartingStack) {
 TEST_F(PlayerTests, CheckPlayersIsInPlayFlagTurnedOffWhenFold) {
     FakePlayer player;
     player.fold();
-    ASSERT_FALSE(player.hasFolded());
+    ASSERT_TRUE(player.hasFolded());
 }
 
 
@@ -56,7 +56,6 @@ TEST_F(PlayerTests, TestCheckErrorsWhenCheckNotAvailable) {
 TEST_F(PlayerTests, TestCheckPlayersStackUnchanged) {
     FakePlayer player;
     player.watch(&gameVariables);
-    EXPECT_CALL(gameVariables, hasBetBeenPlaced).Times(1).WillRepeatedly(Return(true));
     player.check();
     ASSERT_EQ(player.getStack(), 1000.0);
 }
@@ -82,19 +81,19 @@ TEST_F(PlayerTests, TestAmountContributedIncrementsWhenCall) {
 }
 
 
-TEST_F(PlayerTests, TestRaiseWhenAmountIsGreaterThanCallAmount) {
+TEST_F(PlayerTests, TestRaise) {
     FakePlayer player("p1", 100.0);
     player.watch(&gameVariables);
 
     // set amount to call to 10
-    EXPECT_CALL(gameVariables, getAmountToCall).Times(1).WillRepeatedly(Return(10.0));
+    EXPECT_CALL(gameVariables, getAmountToCall).WillRepeatedly(Return(10.0));
     EXPECT_CALL(gameVariables, getPot).Times(1).WillRepeatedly(ReturnRef(pot));
 
-    // player raises to 20
+    // player raises 20 to 30
     player.raise();
 
     // This particular players raising strategy is to double the call amount (see definition)
-    ASSERT_EQ(player.getStack(), 80.0);
+    ASSERT_EQ(player.getStack(), 70.0);
 }
 
 

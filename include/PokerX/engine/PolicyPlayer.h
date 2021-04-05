@@ -23,7 +23,6 @@ namespace pokerx {
 
         float raise() override;
 
-
     };
 
 }

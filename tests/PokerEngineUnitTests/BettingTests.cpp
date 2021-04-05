@@ -24,7 +24,7 @@ public:
     void setPreflopUTGExpectations (){}
 };
 
-TEST_F(BettingTests, CheckPreflopUTGCanCall) {
+TEST_F(PreflopUTGBettingTests, CheckPreflopUTGCanCall) {
     // set street to preflop
     ON_CALL(gameVariables, getStreet)
         .WillByDefault(Return(PREFLOP_STREET));
@@ -58,7 +58,7 @@ TEST_F(BettingTests, CheckPreflopUTGCanCall) {
     ASSERT_EQ(ALL_PLAYERS_EQUAL_STATE, engine.getState()->getType());
 }
 
-TEST_F(BettingTests, CheckPreflopUTGCanCHECK) {
+TEST_F(PreflopUTGBettingTests, CheckPreflopUTGCanCHECK) {
     // set street to preflop
     ON_CALL(gameVariables, getStreet)
         .WillByDefault(Return(PREFLOP_STREET));
@@ -88,7 +88,7 @@ TEST_F(BettingTests, CheckPreflopUTGCanCHECK) {
     ASSERT_EQ(ALL_PLAYERS_EQUAL_STATE, engine.getState()->getType());
 }
 
-TEST_F(BettingTests, CheckPreflopUTGCanFold) {
+TEST_F(PreflopUTGBettingTests, CheckPreflopUTGCanFold) {
     // set street to preflop
     ON_CALL(gameVariables, getStreet)
         .WillByDefault(Return(PREFLOP_STREET));
@@ -118,7 +118,7 @@ TEST_F(BettingTests, CheckPreflopUTGCanFold) {
     ASSERT_EQ(ALL_PLAYERS_EQUAL_STATE, engine.getState()->getType());
 }
 
-TEST_F(BettingTests, CheckPreflopUTGCanRaise) {
+TEST_F(PreflopUTGBettingTests, CheckPreflopUTGCanRaise) {
     // set street to preflop
     ON_CALL(gameVariables, getStreet)
         .WillByDefault(Return(PREFLOP_STREET));
@@ -165,43 +165,55 @@ TEST_F(BettingTests, CheckPreflopUTGCanRaise) {
     ASSERT_EQ(ALL_PLAYERS_EQUAL_STATE, engine.getState()->getType());
 }
 
+class StreetTransitionTests : public BettingTests{};
 
-TEST_F(BettingTests, CheckErrorIfCheckAfterCall){
-    // set street to preflop
-    ON_CALL(gameVariables, getStreet)
-            .WillByDefault(Return(PREFLOP_STREET));
-    // UTG has called the BB
-    Pot pot(0.05 + 0.1 + 0.1);
-    ON_CALL(gameVariables, getPot)
-        .WillByDefault(ReturnRef(pot));
+/**
+ * Checks the determining of whether to move to next street
+ * based on equality between players amounts in play
+ */
+TEST_F(StreetTransitionTests, TransitionWhenAllPlayersAreEqual) {
+
+    // everyone has called
+    ON_CALL(playerManager, allPlayersEqual)
+        .WillByDefault(Return(true));
+
     ON_CALL(gameVariables, getAmountToCall)
         .WillByDefault(Return(0.1));
-    ON_CALL(gameVariables, isDone)
-        .WillByDefault(Return(false));
-    ON_CALL(gameVariables, hasBetBeenPlaced)
+
+    Pot pot(0.1*6);
+    ON_CALL(gameVariables, getPot)
+        .WillByDefault(ReturnRef(pot));
+
+    // who's turn to act? Person after big blind is first to act
+    // in Flop. BB is last to act in preflop
+    // so big blind checks
+    ON_CALL(playerManager, getCurrentPlayer)
+        .WillByDefault(Return(bb));
+
+    ON_CALL(*bb, selectAction)
+        .WillByDefault(Return(CHECK));
+
+    ON_CALL(playerManager, allPlayersTakenAtLeastOneTurn)
         .WillByDefault(Return(true));
-    ON_CALL(playerManager, getNumPlayersStillInPot)
-        .WillByDefault(Return(6));
-    EXPECT_CALL(playerManager, getCurrentPlayer)
-            .WillRepeatedly(Return(hj));
 
     PokerEngine engine(&playerManager, &gameVariables);
     engine.setState(PlayerToAct::getInstance());
-    ASSERT_EQ(engine.getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    EXPECT_CALL(*hj, selectAction)
-        .WillRepeatedly(Return(CHECK));
-
-    EXPECT_CALL(*hj, check)
-        .Times(1);
     engine.action(1);
 
-    //ASSERT_THROW(engine.action(1), std::logic_error);
+    // We've turned state into AllPlayersEqual
+    ASSERT_EQ(engine.getState()->getType(), ALL_PLAYERS_EQUAL_STATE);
 
+    // another action switches to next street
+    engine.action(1);
 
+    // now were in the next street state.
+    ASSERT_EQ(engine.getState()->getType(), NEXT_STREET_STATE);
+
+    // The next action actual performs the switch to FLOP. But we cannot test it
+    // here because gameVariables is mocked object (and so call to getStreet not fully
+    // operational).
 }
-
-
 
 
 #endif //POKERX_BETTINGTESTS_CPP

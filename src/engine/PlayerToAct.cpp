@@ -58,7 +58,6 @@ namespace pokerx {
                 // if no one has bet yet is "bets", if someone already bet then its raises
                 if (engine->getGameVariables()->hasBetBeenPlaced()) {
                     std::cout << player->getName() << ": raises "
-                              << player->getGameVariables()->getAmountToCall() << " to "
                               << amountToRaiseTo << std::endl;
                 } else {
                     std::cout << player->getName() << ": bets "

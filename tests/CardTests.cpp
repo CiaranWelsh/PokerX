@@ -46,6 +46,32 @@ TEST_F(CardTests, EqualsOperator) {
     ASSERT_TRUE(fourOfHearts1 == fourOfHearts2);
 }
 
+TEST_F(CardTests, EqualsOperatorStrLower) {
+    Card fourOfHearts1 = Card(4, "H");
+    ASSERT_TRUE(fourOfHearts1 == "4h");
+}
+
+TEST_F(CardTests, EqualsOperatorStrUpper) {
+    Card fourOfHearts1 = Card(4, "H");
+    ASSERT_TRUE(fourOfHearts1 == "4H");
+}
+
+TEST_F(CardTests, EqualsOperatorAce) {
+    Card fourOfHearts1 = Card(14, "H");
+    Card fourOfHearts2 = Card(14, "H");
+    ASSERT_TRUE(fourOfHearts1 == fourOfHearts2);
+}
+
+TEST_F(CardTests, EqualsOperatorStrLowerAce) {
+    Card fourOfHearts1 = Card(14, "H");
+    ASSERT_TRUE(fourOfHearts1 == "Ah");
+}
+
+TEST_F(CardTests, EqualsOperatorStrUpperAce) {
+    Card fourOfHearts1 = Card(14, "H");
+    ASSERT_TRUE(fourOfHearts1 == "AH");
+}
+
 TEST_F(CardTests, NotEqualsOperator) {
     Card fourOfHearts = Card(4, "H");
     Card twoOfDiamonds = Card(2, "D");
@@ -56,6 +82,11 @@ TEST_F(CardTests, GreaterThan) {
     Card fourOfHearts = Card(4, "H");
     Card fiveOfHearts = Card(5, "H");
     ASSERT_TRUE(fiveOfHearts > fourOfHearts);
+}
+
+TEST_F(CardTests, LessThanStr) {
+    Card fourOfHearts = Card(4, "H");
+    ASSERT_TRUE( fourOfHearts < "5h");
 }
 
 TEST_F(CardTests, LessThan) {

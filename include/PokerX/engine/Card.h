@@ -53,7 +53,22 @@ namespace pokerx {
 
         bool operator==(const ICard &other) const;
 
+        bool operator==(const std::string &other) const;
+
+        bool operator!=(const std::string &other) const;
+
         bool operator!=(const ICard &other) const;
+
+        bool operator<(const std::string &other) const;
+
+        bool operator<=(const std::string &other) const;
+
+        bool operator>(const std::string &other) const;
+
+        bool operator>=(const std::string &other) const;
+
+
+        static std::pair<int, std::string> parseString(std::string cardString);
     };
 
     class Card : public ICard {
@@ -70,7 +85,7 @@ namespace pokerx {
         [[nodiscard]] std::string getSuit() const override;
     };
 
-    ICard* CardFactory(std::string cardString);
+    std::unique_ptr<ICard> CardFactory(std::string cardString);
 
     using ICardPtr = std::unique_ptr<ICard>;
 

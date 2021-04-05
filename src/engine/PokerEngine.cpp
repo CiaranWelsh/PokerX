@@ -119,12 +119,14 @@ namespace pokerx {
     }
 
     CardCollection PokerEngine::dealFlop() {
-        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        const std::vector<ICardPtr>& injCards = gameVariables_->getInjectedCommunityCards();
         // if we are reproducing some game then we just take the fist three cards for injected cards
-        if (!injCards.empty()){
-            // use copy constructor to slice the vector
-            std::vector<ICard*> flop = std::vector<ICard*>(injCards.begin(), injCards.begin()+3);
-            return CardCollection(flop);
+        if (injCards.size() >= 3){
+            CardCollection flop;
+            flop.add(injCards[0].get());
+            flop.add(injCards[1].get());
+            flop.add(injCards[2].get());
+            return flop;
         }
         // otherwise its a random selection
 
@@ -142,10 +144,10 @@ namespace pokerx {
     }
 
     ICard *PokerEngine::dealTurn() const {
-        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        const std::vector<ICardPtr>& injCards = gameVariables_->getInjectedCommunityCards();
         // if we are reproducing some game then we just take the fist three cards for injected cards
-        if (!injCards.empty()){
-            return injCards[3];
+        if (injCards.size() >= 4){
+            return injCards[3].get();
         }
         Deck &deck = getGameVariables()->getDeck();
         // discard top card
@@ -156,10 +158,10 @@ namespace pokerx {
     }
 
     ICard *PokerEngine::dealRiver() const {
-        const std::vector<ICard*>& injCards = gameVariables_->getInjectedCommunityCards();
+        const std::vector<ICardPtr>& injCards = gameVariables_->getInjectedCommunityCards();
         // if we are reproducing some game then we just take the fist three cards for injected cards
-        if (!injCards.empty()){
-            return injCards[4];
+        if (injCards.size() == 5){
+            return injCards[4].get();
         }
         Deck &deck = getGameVariables()->getDeck();
         // discard top card

@@ -98,6 +98,17 @@ TEST_F(CardCollectionTests, TestEqualityOperatorWorks) {
     ASSERT_TRUE(c1 == c2);
 }
 
+TEST_F(CardCollectionTests, TestEqualityOperatorWorksStr) {
+    CardCollection c1;
+    c1.add(&cards.fiveOfHearts);
+    c1.add(&cards.sixOfDiamonds);
+    c1.add(&cards.aceOfHearts);
+
+    std::vector<std::string> exp({"5h", "6d", "AH"});
+
+    ASSERT_TRUE(c1==  exp);
+}
+
 TEST_F(CardCollectionTests, TestPopRemovesTopCardFromCollection) {
     MockCard card1(6, "C");
     EXPECT_CALL(card1, getRank()).WillRepeatedly(Return(6));

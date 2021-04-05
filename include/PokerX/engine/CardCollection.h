@@ -20,6 +20,8 @@ namespace pokerx {
 
         CardCollection(std::initializer_list<ICard*> init);
 
+        CardCollection(std::initializer_list<std::string> init);
+
         virtual ~CardCollection() = default;
 
         explicit CardCollection(std::vector<ICard *> cards);
@@ -47,6 +49,10 @@ namespace pokerx {
         bool operator==(const CardCollection &other) const;
 
         bool operator!=(const CardCollection &other) const;
+
+        bool operator==(const std::vector<std::string> &other) const;
+
+        bool operator!=(const std::vector<std::string> &other) const;
 
         void erase(int index);
 

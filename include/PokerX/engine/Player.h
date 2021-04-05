@@ -84,6 +84,9 @@ namespace pokerx {
 
         void setNumActionsThisStreet(unsigned int numActionsThisStreet) override;
 
+        void injectHoleCards(std::vector<std::string> cards) override;
+
+
     protected:
 
         void checkGameVariablesNotNull() const override;

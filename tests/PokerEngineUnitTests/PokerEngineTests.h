@@ -27,13 +27,20 @@ public:
     std::shared_ptr<MockPlayer> hj; // hijack
     std::shared_ptr<MockPlayer> co;
 
+    std::string btn_name = "DrLevty";
+    std::string sb_name = "OhhhJeee";
+    std::string bb_name = "gokudousan";
+    std::string utg_name = "aka_Kranv1ch";
+    std::string hj_name = "Malyar-88";
+    std::string co_name = "Lorn_Antoan";
+
     PokerEngineTests() {
-        btn = makePlayer("DrLevty", 10.01);
-        sb = makePlayer("OhhhJeee", 4.86);
-        bb = makePlayer("gokudousan", 5.81);
-        utg = makePlayer("aka_Kranv1ch", 10);
-        hj = makePlayer("Malyar-88", 3.97);
-        co = makePlayer("Lorn_Antoan", 10.25);
+        btn = makePlayer(btn_name, 10.01);
+        sb = makePlayer(sb_name, 4.86);
+        bb = makePlayer(bb_name, 5.81);
+        utg = makePlayer(utg_name, 10);
+        hj = makePlayer(hj_name, 3.97);
+        co = makePlayer(co_name, 10.25);
 
         // set the button
         ON_CALL(playerManager, getButton)
@@ -66,7 +73,7 @@ public:
             .WillByDefault(Return("$"));
     };
 
-    std::shared_ptr<MockPlayer> makePlayer(const std::string &name, float stack) {
+    std::shared_ptr<MockPlayer> makePlayer(std::string& name, float stack) {
         std::shared_ptr<MockPlayer> p = std::make_shared<MockPlayer>();
         ON_CALL(*p, getName)
                 .WillByDefault(ReturnRef(name));

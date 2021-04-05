@@ -29,6 +29,14 @@ namespace pokerx {
         sort();
     }
 
+//    CardCollection::CardCollection(std::initializer_list<std::string> init) {
+//        for (const auto& it: init){
+//            auto [rank, suit] = ICard::parseString(it);
+//
+//        }
+//
+//    }
+
     std::ostream &operator<<(std::ostream &os, const CardCollection &cards) {
         if (cards.empty())
             return os << "";
@@ -87,13 +95,32 @@ namespace pokerx {
         if (this->cards_.size() != other.cards_.size()) {
             return false;
         }
-        bool equal = true;
         for (int i = 0; i < other.cards_.size(); i++) {
             if (*cards_[i] != *other.cards_[i])
-                equal = false;
+                return false;
         }
-        return equal;
+        return true;
     }
+
+
+    bool CardCollection::operator==(const std::vector<std::string> &other) const {
+        if (cards_.size() != other.size()){
+            return false;
+        }
+        for (int i=0; i<size(); i++){
+            ICard* c = cards_[i];
+            const std::string& otherCard = other[i];
+            if (*c != otherCard){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    bool CardCollection::operator!=(const std::vector<std::string> &other) const {
+        return !(*this == other);
+    }
+
 
     int CardCollection::size() const {
         return cards_.size();
@@ -380,6 +407,7 @@ namespace pokerx {
         }
         return -1;
     }
+
 
 }
 

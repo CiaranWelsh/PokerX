@@ -191,6 +191,22 @@ namespace pokerx {
         numActionsThisStreet_ = numActionsThisStreet;
     }
 
+    void Player::injectHoleCards(std::vector<std::string> cards) {
+        if (cards.size() > 2){
+            LOGIC_ERROR << "Cannot inject more than 2 cards into a players hand" << std::endl;
+        }
+        /**
+         * In the process of creating injection mechanism for hole cards.
+         * And really I need a better mechanism for managing menory.
+         * Maybe just add custom destructor?
+         * But then would I be mixing stack and heap pointers? bad.
+         */
+        for (auto &it: cards){
+            auto [rank, suit] = ICard::parseString(it);
+            holeCards_;
+        }
+    }
+
 }
 
 

@@ -29,8 +29,10 @@ namespace pokerx {
                 // in this situation, only 1 player is still in the pot
                 // so we look for them and call winner
                 if (!player->hasFolded()) {
-                    // todo do we also need to return amount contrib to winning player here?
+                    // we do not need to take care of "amount contrib" here
                     player->setStack(player->getStack() + engine->getGameVariables()->getPot().getValue());
+                    // make sure to turn pot to 0, so we do not create any new money
+                    engine->getGameVariables()->getPot().reset();
                     engine->setState(Reset::getInstance());
                     return;
                 }
