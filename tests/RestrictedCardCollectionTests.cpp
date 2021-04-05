@@ -37,11 +37,12 @@ class TwoCards : public RestrictedCardCollection {
 
 public:
 
-    using RestrictedCardCollection::RestrictedCardCollection;
-
     using RestrictedCardCollection::add;
 
     explicit TwoCards(const std::vector<ICardPtr> &cards)
+            : RestrictedCardCollection(cards, 2) {}
+
+    explicit TwoCards(const std::vector<std::string> &cards)
             : RestrictedCardCollection(cards, 2) {}
 };
 

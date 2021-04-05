@@ -66,26 +66,6 @@ TEST_F(PokerEngineStatesTest, MakeSureTheDefaultStartingStateIsReset) {
     checkPokerEngineIsInCorrectState(0, RESET_STATE);
 }
 
-TEST_F(PokerEngineStatesTest, CheckThatResetStateWorks) {
-    PokerEngine engine(&playerManager, &gameVariables);
-    while (true) {
-        engine.action();
-    }
-
-}
-
-/**
- * make sure that when the button moves, that players correctly get rotated.
- */
-TEST_F(PokerEngineStatesTest, CheckThatNextPlayerIsButtonAfterButtonMovesIsCalled) {
-    PokerEngine pokerEngine(&playerManager, &gameVariables);
-    pokerEngine.setState(ButtonMoves::getInstance());
-    const std::string &current_button = playerManager.getButton()->getName();
-    pokerEngine.action();
-    const std::string &next_button = playerManager.getButton()->getName();
-    ASSERT_STRNE(current_button.c_str(), next_button.c_str());
-
-}
 
 /**
  * Check the small blind correctly entered into the pot
@@ -97,7 +77,7 @@ TEST_F(PokerEngineStatesTest, CheckSmallBlind) {
     pokerEngine.setState(SmallBlind::getInstance());
     float potBefore = gameVariables.getPot().getValue();
     ASSERT_EQ(potBefore, 0.0);
-    pokerEngine.action();
+    pokerEngine.action(1);
     float potAfter = gameVariables.getPot().getValue();
     ASSERT_EQ(potAfter, 5.0);
     ASSERT_EQ(95.0, playerManager.getSmallBlind()->getStack());
@@ -121,21 +101,6 @@ TEST_F(PokerEngineStatesTest, CheckBigBlind) {
     float potAfter = gameVariables.getPot().getValue();
     ASSERT_EQ(potAfter, 10.0);
     ASSERT_EQ(90.0, playerManager.getBigBlind()->getStack());
-}
-
-/**
- * Test that the big blind is the first amount to call
- */
-TEST_F(PokerEngineStatesTest, CheckBigBlindIsTheAmountToCallForPlayer3) {
-    gameVariables.setBigBlind(10);
-    playerManager.setStackSizeTo(100);
-
-    // we bypass the small blind
-    playerManager.nextPlayer();
-
-    PokerEngine pokerEngine(&playerManager, &gameVariables);
-    pokerEngine.setState(BigBlind::getInstance());
-    ASSERT_EQ(gameVariables.getBigBlind(), gameVariables.getAmountToCall());
 }
 
 /**
@@ -333,9 +298,9 @@ TEST_F(PokerEngineStatesTest, CheckPlayerFoldsPlayerHasFolded) {
     // will always be true if setState works
     ASSERT_EQ(engine->getState()->getType(), PLAYER_TO_ACT_STATE);
 
-    engine->action();
+    engine->action(1);
 
-    ASSERT_TRUE(engine->getPlayers()->getPlayer(3)->hasFolded());
+    ASSERT_TRUE(engine->getPlayers()->getPlayerByName("Folder")->hasFolded());
 }
 
 
@@ -546,14 +511,18 @@ TEST_F(PokerEngineStatesTest, TestAllPlayersEqualWhenTheyAreEqual) {
     engine->getPlayers()->getPlayer(4)->setAmountContrib(20);
     engine->getPlayers()->getPlayer(5)->setAmountContrib(20);
 
-    // add 60 to the pot
-    engine->getGameVariables()->getPot() += 100;
+    // all players have to have played at least once this round
+    // before we can move on to next street
+    for (auto player : *engine->getPlayers()){
+        player->setNumActionsThisStreet(1);
+    }
+
+    engine->getGameVariables()->getPot() += 120;
 
     //  players left to act
-    engine->action();
+    engine->action(1);
 
-
-    ASSERT_EQ(engine->getState()->getType(), END_STREET_STATE);
+    ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
 
 }
 
@@ -614,7 +583,7 @@ TEST_F(PokerEngineStatesTest, TestNextStreetRiverToShowdown) {
     ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
 
     // default street is preflop
-    engine->action(); // change to FLOP
+    engine->action(1); // change to FLOP
     ASSERT_EQ(engine->getGameVariables()->getStreet(), SHOWDOWN_STREET);
 
 }
