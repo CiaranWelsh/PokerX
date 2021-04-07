@@ -248,5 +248,13 @@ namespace pokerx {
         return count;
     }
 
-
+    int PlayerManager::numPlayersAllIn() {
+        int count = 0;
+        for (auto &player: contents_) {
+            if (player->isAllIn()) {
+                count += 1;
+            }
+        }
+        return count;
+    };
 }

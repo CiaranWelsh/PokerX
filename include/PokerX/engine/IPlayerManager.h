@@ -65,6 +65,8 @@ namespace pokerx {
 
         virtual int getNumPlayersStillInPot() = 0;
 
+        virtual int numPlayersAllIn() = 0;
+
     protected:
         int current_player_idx = 0;
 

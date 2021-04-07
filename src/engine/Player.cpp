@@ -110,6 +110,7 @@ namespace pokerx {
         float amount = stack_; // copy
         stack_ = 0;
         amountContrib_ += amount;
+        gameVariables_->setAmountToCall(amount);
         getGameVariables()->getPot() += amount;
         numActionsThisStreet_ += 1;
     }
@@ -118,9 +119,16 @@ namespace pokerx {
     // doRaise. Its up to the subclass to determine the strategy
 
     void Player::doRaise(float amountToRaiseTo) {
-        amountContrib_ += amountToRaiseTo;
-        gameVariables_->getPot() += amountToRaiseTo;
-        stack_ -= amountToRaiseTo;
+        gameVariables_->setAmountToCall(amountToRaiseTo);
+        float amountAlreadyInPot = getAmountContrib();
+        float effectiveRaiseAmount = amountToRaiseTo - amountAlreadyInPot;
+        if (effectiveRaiseAmount > stack_){
+            RUNTIME_ERROR << "Raise amount " << effectiveRaiseAmount << " is greater than player \""
+                << name_ << "\" stack " << stack_ << std::endl;
+        }
+        gameVariables_->getPot() += effectiveRaiseAmount;
+        stack_ -= effectiveRaiseAmount;
+        amountContrib_ += effectiveRaiseAmount;
         numActionsThisStreet_ += 1;
     }
 

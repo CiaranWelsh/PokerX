@@ -29,7 +29,7 @@ namespace pokerx {
         bool all_players_equal = playerManager->allPlayersEqual();
         bool allPlayersPlayedAtLeastOneActionThisRound = playerManager->allPlayersTakenAtLeastOneTurn();
 
-        if (all_players_equal && allPlayersPlayedAtLeastOneActionThisRound) {
+        if ( (all_players_equal && allPlayersPlayedAtLeastOneActionThisRound) ) {
             // if all players are equal
             // and everyone has played an action (including check) then we move on to next street
             engine->setState(NextStreet::getInstance());

@@ -46,13 +46,23 @@ namespace pokerx {
     }
 
     void PokerEngine::action() {
+
+        // when all players or all but 1 players are all in, then play
+        // continues to showdown with players automatically checking their turns.
+        // if > 1 player still in the game then something more complicated must happen
+        // with split pot etc. (not yet implemented)
+//        if (players_->numPlayersAllIn() == (players_->getNumPlayersStillInPot() - 1) ||
+//            players_->numPlayersAllIn() == players_->getNumPlayersStillInPot()) {
+//            while (state_->getType() != SHOWDOWN_STATE){
+//                state_->action(this);
+//            }
+//        }
         // when its time to take player input we just call action, since we
         // only want to take one action set. Also at showdown we also only want to execute
         // showdown action
         if (state_->getType() == PLAYER_TO_ACT_STATE | state_->getType() == SHOWDOWN_STATE) {
             state_->action(this);
         }
-
         // otherwise we keep turning the wheel until its a players turn to act
         // so that users only see the player action states
         while ((state_->getType() != PLAYER_TO_ACT_STATE) && !gameVariables_->isDone()) {

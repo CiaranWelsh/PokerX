@@ -97,6 +97,8 @@ namespace pokerx {
 
     protected:
 
+
+
         /**
          * Name of player who won last
          */

@@ -24,6 +24,23 @@ namespace pokerx {
         // select action using whatever strategy Player types define
         Action action = player->selectAction(machine);
 
+        // when all players are all in or all but one player are all in,
+        // then all actions automatically become "check".
+        // BUT implementing this way also ignores final CALL that needs to happen
+//        if (engine->getPlayers()->numPlayersAllIn() == (engine->getPlayers()->getNumPlayersStillInPot() - 1) ||
+//            engine->getPlayers()->numPlayersAllIn() == engine->getPlayers()->getNumPlayersStillInPot()) {
+//            action = CHECK;
+//        }
+
+/*
+ * Hold on this is the wrong strategy. When a player is all in there are lots of scenarios that
+ * can occur:
+ *  - all players are all in
+ *  - all but 1 players are all in
+ *  - going to have to look up the rules for all in and pot splitting.
+ *  - might be a good idea to do a different test and come back to all in once the
+ *    simulator is more robust in the rest of the game
+ */
         if (action == NONE) {
             LOGIC_ERROR << "Cannot chooses NONE action when its a players turn to act" << std::endl;
         }
@@ -70,19 +87,19 @@ namespace pokerx {
             }
 
             case ALL_IN : {
+                float raiseAmount = player->getStack();
+                float callAmount = engine->getGameVariables()->getAmountToCall();
                 player->allIn();
 
                 if (engine->getGameVariables()->hasBetBeenPlaced()) {
                     std::cout << player->getName() << ": raises "
-                              << player->getGameVariables()->getAmountToCall() << " to "
-                              << player->getStack() << std::endl;
+                              << callAmount  << " to "
+                              << raiseAmount << " and is all in" << std::endl;
                 } else {
                     std::cout << player->getName() << ": bets "
-                              << player->getStack() << std::endl;
+                              << raiseAmount << " and is all in" << std::endl;
+                    engine->getGameVariables()->setBetPlaced(true);
                 }
-
-                engine->getGameVariables()->setBetPlaced(true);
-                std::cout << player->getName() << ": raises " << std::endl; // and is all-in
                 break;
             }
             default:

@@ -8,6 +8,7 @@
 
 #include "PokerX/PokerX.h"
 
+#define ASSERT_POT_TOTAL assertPotTotal(&engine, potTotal)
 
 using namespace pokerx;
 
@@ -215,13 +216,13 @@ public:
         float potAfter = engine->getGameVariables()->getPot().getValue();
 
         if (checkPlayerStack)
-            ASSERT_NEAR(playerStackBefore - amountToRaiseTo, playerStackAfter, 0.001);
+            ASSERT_NEAR(playerStackBefore - (amountToRaiseTo - amountContribBefore), playerStackAfter, 0.001);
 
         if (checkAmountContrib)
-            ASSERT_NEAR(amountContribAfter, amountContribBefore + amountToRaiseTo, 0.001);
+            ASSERT_NEAR(amountContribAfter,  amountToRaiseTo , 0.001);
 
         if (checkPot)
-            ASSERT_NEAR(potAfter, potBefore + amountToRaiseTo, 0.001);
+            ASSERT_NEAR(potAfter, potBefore + (amountToRaiseTo - amountContribBefore) , 0.001);
     }
 
     void assertPlayerCalls(PokerEngine *engine, const std::string &playerName, bool checkPlayerStack = true,
@@ -314,6 +315,11 @@ public:
             ASSERT_EQ(2, player->getHoleCards().size());
         }
     }
+
+    void assertStreet(PokerEngine* engine, Street street){
+        ASSERT_EQ(engine->getGameVariables()->getStreet(), street);
+    };
+
 
 };
 
@@ -796,106 +802,166 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     // Janxxx82: checks
     assertPlayerChecks(&engine, "Janxxx82", false, false, true);
 
-//    // *** SHOW DOWN ***
-//    // Wade 204481: shows [Ad 9h] (high card Ace)
-//    // Janxxx82: shows [Kc Kh] (a pair of Kings)
-//
-//    std::cout << engine.getPlayers()->getPlayerByName("Janxxx82")->getHoleCards() << std::endl;
+    // *** SHOW DOWN ***
+    // Wade 204481: shows [Ad 9h] (high card Ace)
+    // Janxxx82: shows [Kc Kh] (a pair of Kings)
+
 
     ASSERT_STREQ(engine.getGameVariables()->lastWinner().c_str(), "Janxxx82");
-    ASSERT_EQ(*engine.getGameVariables()->lastWinningHand().bestFiveCards(), std::vector<std::string>({"10d", "11c", "12s", "13c", "13h"}));
+    ASSERT_EQ(*engine.getGameVariables()->lastWinningHand().bestFiveCards(),
+              std::vector<std::string>({"10d", "11c", "12s", "13c", "13h"}));
     ASSERT_NEAR(engine.getGameVariables()->lastPot(), 1.85, 0.001);
-
-
-
-
-
-
-
-
-
-
-
-    //    ASSERT_STREQ("Wade", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//    ASSERT_NEAR(5.36, engine.getPlayers()->getPlayerByName("Wade")->getStack(), 0.001);
-//
-//    // we've now had the flop, started a new street and set amountContrib to 0
-//    ASSERT_NEAR(0.0, engine.getPlayers()->getPlayerByName("Wade")->getAmountContrib(), 0.001);
-//
-//    ASSERT_NEAR(0.75, gameVariables.getPot().getValue(), 0.001);
-//    ASSERT_FALSE(gameVariables.hasBetBeenPlaced());
-//
-//    // *** FLOP ***
-//
-//    //Wade 204481: checks
-//    ASSERT_STREQ("Wade", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//    ASSERT_NEAR(5.36, engine.getPlayers()->getPlayerByName("Wade")->getStack(), 0.001);
-//    ASSERT_NEAR(0.0, engine.getPlayers()->getPlayerByName("Wade")->getAmountContrib(), 0.001);
-//    ASSERT_NEAR(0.75, gameVariables.getPot().getValue(), 0.001);
-//    ASSERT_FALSE(gameVariables.hasBetBeenPlaced());
-//
-//    // Janxxx82: bets $0.10
-//    ASSERT_STREQ("Janxxx82", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//    ASSERT_NEAR(9.2, engine.getPlayers()->getPlayerByName("Janxxx82")->getStack(), 0.001);
-//    ASSERT_NEAR(0.1, engine.getPlayers()->getPlayerByName("Janxxx82")->getAmountContrib(), 0.001);
-//    ASSERT_NEAR(0.85, gameVariables.getPot().getValue(), 0.001);
-//    ASSERT_TRUE(gameVariables.hasBetBeenPlaced());
-//
-//    // Wade 204481: calls $0.10
-//    ASSERT_STREQ("Wade", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//    ASSERT_NEAR(5.26, engine.getPlayers()->getPlayerByName("Wade")->getStack(), 0.001);
-//
-//    // ** turn **
-//    // amount contrib restarts
-//    ASSERT_NEAR(0.0, engine.getPlayers()->getPlayerByName("Wade")->getAmountContrib(), 0.001);
-//    ASSERT_NEAR(0.95, gameVariables.getPot().getValue(), 0.001);
-//    ASSERT_FALSE(gameVariables.hasBetBeenPlaced());
-//
-//    //  Wade 204481: bets $0.45
-//    ASSERT_STREQ("Wade", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//    ASSERT_NEAR(4.81, engine.getPlayers()->getPlayerByName("Wade")->getStack(), 0.001);
-//    ASSERT_NEAR(0.45, engine.getPlayers()->getPlayerByName("Wade")->getAmountContrib(), 0.001);
-//    ASSERT_NEAR(1.4, gameVariables.getPot().getValue(), 0.001);
-//    ASSERT_TRUE(gameVariables.hasBetBeenPlaced());
-//
-//    // *** turn ***
-//
-//    //  Janxxx82: calls $0.45
-//    ASSERT_STREQ("Janxxx82", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//    ASSERT_NEAR(8.75, engine.getPlayers()->getPlayerByName("Janxxx82")->getStack(), 0.001);
-//    // resets because of turn
-//    ASSERT_NEAR(0.0, engine.getPlayers()->getPlayerByName("Janxxx82")->getAmountContrib(), 0.001);
-//    ASSERT_NEAR(1.85, gameVariables.getPot().getValue(), 0.001);
-//    ASSERT_FALSE(gameVariables.hasBetBeenPlaced());
-//
-//    //  *** RIVER *** [Td Jc 2c Qs] [3h]
-//    //  Wade 204481: checks
-//    ASSERT_STREQ("Wade", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//
-//    //  Janxxx82: checks
-//    ASSERT_STREQ("Janxxx82", engine.getPlayers()->getCurrentPlayer()->getName().c_str());
-//    engine.action();
-//
-//    //  *** SHOW DOWN ***
-//    engine.action();
-//
-//    // how to inject cards into the game to reproduce game without seed which is implementation defined.
-//
-//    //  Wade 204481: shows [Ad 9h] (high card Ace)
-//    //  Janxxx82: shows [Kc Kh] (a pair of Kings)
-//    //  Janxxx82 collected $1.77 from pot
 
 }
 
 
+/**
+ *  PokerStars Hand #222947458003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:32 ET
+    Table 'Aaryn II' 6-max Seat #2 is the button
+    Seat 1: DrLevty ($11.69 in chips)
+    Seat 2: Ohhh Jeee ($4.81 in chips)
+    Seat 3: gokudousan ($8.41 in chips)
+    Seat 4: aka_Kranv1ch ($10 in chips)
+    Seat 5: Malyar-88 ($2 in chips)
+    Seat 6: Lord_Antoan ($10.25 in chips)
+    gokudousan: posts small blind $0.05
+    aka_Kranv1ch: posts big blind $0.10
+    *** HOLE CARDS ***
+    Malyar-88: calls $0.10
+    Lord_Antoan: folds
+    DrLevty: folds
+    Ohhh Jeee: folds
+    gokudousan: raises $0.30 to $0.40
+    aka_Kranv1ch: folds
+    Malyar-88: calls $0.30
+    *** FLOP *** [4s Ah 7d]
+    gokudousan: bets $0.40
+    Malyar-88: raises $1.20 to $1.60 and is all-in
+    gokudousan: calls $1.20
+    *** TURN *** [4s Ah 7d] [Jd]
+    *** RIVER *** [4s Ah 7d Jd] [Tc]
+    *** SHOW DOWN ***
+    gokudousan: shows [As Ts] (two pair, Aces and Tens)
+    Malyar-88: shows [6s 7s] (a pair of Sevens)
+    gokudousan cashed out the hand for $3.05 | Cash Out Fee $0.03
+    Malyar-88 cashed out the hand for $0.83 | Cash Out Fee $0.01
+    *** SUMMARY ***
+    Total pot $4.10 | Rake $0.18
+    Board [4s Ah 7d Jd Tc]
+    Seat 1: DrLevty folded before Flop (didn't bet)
+    Seat 2: Ohhh Jeee (button) folded before Flop (didn't bet)
+    Seat 3: gokudousan (small blind) showed [As Ts] and won ($3.92) with two pair, Aces and Tens (pot not awarded as player cashed out)
+    Seat 4: aka_Kranv1ch (big blind) folded before Flop
+    Seat 5: Malyar-88 showed [6s 7s] and lost with a pair of Sevens (cashed out).
+    Seat 6: Lord_Antoan folded before Flop (didn't bet)
+ */
+TEST_F(GameScenarioTests, TestRealGame3) {
 
+    float potTotal = 0.0;
+    GameVariables gameVariables;
+    gameVariables.setN(1);
+    gameVariables.setSmallBlind(0.05);
+    gameVariables.setBigBlind(0.10);
+
+    gameVariables.injectCommunityCards({"4s", "Ah", "7d", "Jd", "Tc"});
+
+    /*
+     *     Table 'Aaryn II' 6-max Seat #2 is the button
+            Seat 1: DrLevty ($11.69 in chips)
+            Seat 2: Ohhh Jeee ($4.81 in chips) // btn
+            Seat 3: gokudousan ($8.41 in chips)
+            Seat 4: aka_Kranv1ch ($10 in chips)
+            Seat 5: Malyar-88 ($2 in chips)
+            Seat 6: Lord_Antoan ($10.25 in chips)
+            gokudousan: posts small blind $0.05
+            aka_Kranv1ch: posts big blind $0.10
+            *** HOLE CARDS **
+     */
+    using initA = std::initializer_list<Action>;
+    using initF = std::initializer_list<float>;
+
+    PlayerManager players({
+                                  std::make_shared<PolicyPlayer>("DrLevty", 11.69, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("Ohhh Jeee", 4.81, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("gokudousan", 8.41, initA({RAISE, RAISE, CALL}), initF({0.4, 0.4})),
+                                  std::make_shared<PolicyPlayer>("aka_Kranv1ch", 10.0, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("Malyar-88", 2, initA({CALL, CALL, ALL_IN})),
+                                  std::make_shared<PolicyPlayer>("Lord_Antoan", 10.25, initA({FOLD}))
+                          });
+    players.setButton("Ohhh Jeee");
+
+    // setting the button and the current player are different things
+    ASSERT_STREQ(players.getButton()->getName().c_str(), "Ohhh Jeee");
+
+    PokerEngine engine(&players, &gameVariables);
+
+    //gokudousan: shows [As Ts] (two pair, Aces and Tens)
+    //Malyar-88: shows [6s 7s] (a pair of Sevens)
+    engine.getPlayers()->getPlayerByName("gokudousan")->injectHoleCards(std::vector<std::string>({"As", "Ts"}));
+    engine.getPlayers()->getPlayerByName("Malyar-88")->injectHoleCards(std::vector<std::string>({"6s", "7s"}));
+    engine.action();
+    // gokudousan: posts small blind $0.05
+    // aka_Kranv1ch: posts big blind $0.10
+    potTotal += 0.05 + 0.1;
+    ASSERT_POT_TOTAL;
+
+    // *** HOLE CARDS ***
+    // Malyar-88: calls $0.10
+    potTotal += 0.1;
+    assertPlayerCalls(&engine, "Malyar-88");
+    ASSERT_POT_TOTAL;
+
+    // Lord_Antoan: folds
+    assertPlayerFolds(&engine, "Lord_Antoan");
+
+    // DrLevty: folds
+    assertPlayerFolds(&engine, "DrLevty");
+
+    // Ohhh Jeee: folds
+    assertPlayerFolds(&engine, "Ohhh Jeee");
+
+    // gokudousan: raises $0.30 to $0.40
+    potTotal += (0.4 - 0.05) ; // minus the sb remember
+    assertPlayerRaises(&engine, "gokudousan", 0.4);
+    ASSERT_POT_TOTAL;
+
+    // aka_Kranv1ch: folds
+    assertPlayerFolds(&engine, "aka_Kranv1ch");
+
+    assertStreet(&engine, PREFLOP_STREET);
+    // Malyar-88: calls $0.30
+    potTotal += 0.3;
+    assertPlayerCalls(&engine, "Malyar-88", true, false, true);
+    ASSERT_POT_TOTAL;
+    // *** FLOP *** [4s Ah 7d]
+    assertStreet(&engine, FLOP_STREET);
+
+    // gokudousan: bets $0.40
+    potTotal += 0.4;
+    assertPlayerRaises(&engine, "gokudousan", 0.4);
+    ASSERT_POT_TOTAL;
+
+    // Malyar-88: raises $1.20 to $1.60 and is all-in
+    potTotal += 1.6;
+    assertPlayerRaises(&engine, "Malyar-88", 1.6);
+    ASSERT_POT_TOTAL;
+
+    // gokudousan: calls $1.20
+    potTotal += 1.2;
+    assertPlayerCalls(&engine, "gokudousan", true, false, true);
+    ASSERT_POT_TOTAL;
+
+    engine.action();
+
+//    // *** TURN *** [4s Ah 7d] [Jd]
+//    // *** RIVER *** [4s Ah 7d Jd] [Tc]
+//    // *** SHOW DOWN ***
+//    // gokudousan: shows [As Ts] (two pair, Aces and Tens)
+//    // Malyar-88: shows [6s 7s] (a pair of Sevens)
+//    // gokudousan cashed out the hand for $3.05 | Cash Out Fee $0.03
+//    // Malyar-88 cashed out the hand for $0.83 | Cash Out Fee $0.01
+
+}
 
 
 
