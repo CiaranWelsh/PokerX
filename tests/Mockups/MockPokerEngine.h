@@ -20,10 +20,11 @@ public:
     explicit MockPokerEngine(State &state)
             : StateMachine(&state) {};
 
-    MOCK_METHOD(void, setState, (State & ), ());
-    MOCK_METHOD(State*, getState, (), (const));
-    MOCK_METHOD(void, action, (), ());
-    MOCK_METHOD(void, reset, (), ());
+    MOCK_METHOD(void, setState, (State & ), (override));
+    MOCK_METHOD(State*, getState, (), (const, override));
+    MOCK_METHOD(void, action, (), (override));
+    MOCK_METHOD(void, action, (unsigned int), (override));
+    MOCK_METHOD(void, reset, (), (override));
 
 };
 

@@ -36,7 +36,7 @@ namespace pokerx {
          * @brief returns the current state of the
          * state machine
          */
-        [[nodiscard]] State *getState() const;
+        [[nodiscard]] virtual State *getState() const;
 
         /**
          * @brief abstract method for invoking the
@@ -45,6 +45,8 @@ namespace pokerx {
          * game cycle
          */
         virtual void action() = 0;
+
+        virtual void action(unsigned int times) = 0;
 
         /**
          * @brief Abstract method to return the StateMachine back to the

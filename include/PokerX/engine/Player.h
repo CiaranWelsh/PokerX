@@ -44,7 +44,7 @@ namespace pokerx {
 
         void setHasFolded(bool hasFolded) override;
 
-        bool isSittingOut() const override;
+        [[nodiscard]] bool isSittingOut() const override;
 
         void setSittingOut(bool isSittingOut) override;
 
@@ -87,6 +87,8 @@ namespace pokerx {
         void injectHoleCards(std::vector<std::string> cards) override;
 
         [[nodiscard]] HoleCards getInjectedHoleCards() const override ;
+
+        [[nodiscard]] ActionRecordMap getActionRecord() const override ;
 
     protected:
 

@@ -17,13 +17,11 @@ public:
 
     ~MockGameVariables() override = default;
 
-    MOCK_METHOD(Pot &, getPot, (), (override));
+    MOCK_METHOD(Pot, getPot, (), (override));
 
     MOCK_METHOD(float, getAmountToCall, (), (const));
 
     MOCK_METHOD(void, setAmountToCall, (float), (override));
-
-    MOCK_METHOD(void, addToPot, (const Pot &), (override));
 
     MOCK_METHOD(bool, hasBetBeenPlaced, (), (const));
 
@@ -73,6 +71,19 @@ public:
 
     MOCK_METHOD(std::vector<ICardPtr> &, getInjectedCommunityCards, (), (const, override));
 
+    MOCK_METHOD(std::string, lastWinner, (), (override));
+    MOCK_METHOD(Hand, lastWinningHand, (), (override));
+    MOCK_METHOD(float, lastPot, (), (override));
+    MOCK_METHOD(void, setLastWinner, (std::string name), (override));
+    MOCK_METHOD(void, setLastWinningHand, (Hand winner), (override));
+    MOCK_METHOD(void, setLastPot, (float  amount), (override));
+    MOCK_METHOD(bool, allInMode, (), (override));
+    MOCK_METHOD(bool, setAllInMode, (bool allInMode), (override));
+    MOCK_METHOD(std::vector<std::shared_ptr<Pot>>, getPots, () ,(const, override));
+    MOCK_METHOD(unsigned int, getCurrentPotIdx, (), (const, override));
+    MOCK_METHOD(void , setCurrentPotIdx, (unsigned int idx), (override));
+    MOCK_METHOD(std::vector<std::shared_ptr<IPlayer>>, getPotIdentities, (), (const));
+    MOCK_METHOD(void, newPot, (std::shared_ptr<Pot> player), (override));
 
 };
 

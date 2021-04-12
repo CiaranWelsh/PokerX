@@ -815,6 +815,91 @@ TEST_F(GameScenarioTests, TestRealGame2) {
 }
 
 
+
+
+/**
+ * PokerStars Hand #222947470164:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:10:24 ET
+Table 'Aaryn II' 6-max Seat #3 is the button
+Seat 1: DrLevty ($11.69 in chips)
+Seat 2: Ohhh Jeee ($4.81 in chips)
+Seat 3: gokudousan ($9.46 in chips)
+Seat 4: aka_Kranv1ch ($10 in chips)
+Seat 5: Malyar-88 ($0.83 in chips)
+Seat 6: Lord_Antoan ($10.25 in chips)
+aka_Kranv1ch: posts small blind $0.05
+Malyar-88: posts big blind $0.10
+*** HOLE CARDS ***
+Lord_Antoan: folds
+DrLevty: folds
+Ohhh Jeee: folds
+gokudousan: raises $0.20 to $0.30
+aka_Kranv1ch: folds
+Malyar-88: folds
+Uncalled bet ($0.20) returned to gokudousan
+gokudousan collected $0.25 from pot
+gokudousan: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: DrLevty folded before Flop (didn't bet)
+Seat 2: Ohhh Jeee folded before Flop (didn't bet)
+Seat 3: gokudousan (button) collected ($0.25)
+Seat 4: aka_Kranv1ch (small blind) folded before Flop
+Seat 5: Malyar-88 (big blind) folded before Flop
+Seat 6: Lord_Antoan folded before Flop (didn't bet)
+ */
+TEST_F(GameScenarioTests, TestRealGame3) {
+
+    float potTotal = 0.0;
+    GameVariables gameVariables;
+    gameVariables.setN(1);
+    gameVariables.setSmallBlind(0.05);
+    gameVariables.setBigBlind(0.10);
+
+    /*
+    Seat 1: DrLevty ($11.69 in chips)
+    Seat 2: Ohhh Jeee ($4.81 in chips)
+    Seat 3: gokudousan ($9.46 in chips)
+    Seat 4: aka_Kranv1ch ($10 in chips)
+    Seat 5: Malyar-88 ($0.83 in chips)
+    Seat 6: Lord_Antoan ($10.25 in chips)
+     */
+    using initA = std::initializer_list<Action>;
+    using initF = std::initializer_list<float>;
+
+    PlayerManager players({
+                                  std::make_shared<PolicyPlayer>("DrLevty", 11.69, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("Ohhh Jeee", 4.81, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("gokudousan", 9.46, initA({RAISE}), initF({0.3})),
+                                  std::make_shared<PolicyPlayer>("aka_Kranv1ch", 10.0, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("Malyar-88", 0.83, initA({FOLD})),
+                                  std::make_shared<PolicyPlayer>("Lord_Antoan", 10.25, initA({FOLD}))
+                          });
+    players.setButton("gokudousan");
+
+    // setting the button and the current player are different things
+    ASSERT_STREQ(players.getButton()->getName().c_str(), "gokudousan");
+
+    PokerEngine engine(&players, &gameVariables);
+
+    engine.action();
+    // aka_Kranv1ch: posts small blind $0.05
+    // Malyar-88: posts big blind $0.10
+    potTotal += 0.05 + 0.1;
+    ASSERT_POT_TOTAL;
+
+    assertPlayerFolds(&engine, "Lord_Antoan");
+    assertPlayerFolds(&engine, "DrLevty");
+    assertPlayerFolds(&engine, "Ohhh Jeee");
+
+    assertPlayerRaises(&engine, "gokudousan", 0.3);
+    assertPlayerFolds(&engine, "aka_Kranv1ch");
+
+    // pot will be 0 because game end - so turn off this test.
+    assertPlayerFolds(&engine, "Malyar-88", true, true, false);
+
+}
+
+
 /**
  *  PokerStars Hand #222947458003:  Hold'em No Limit ($0.05/$0.10 USD) - 2021/01/23 3:09:32 ET
     Table 'Aaryn II' 6-max Seat #2 is the button
@@ -855,7 +940,7 @@ TEST_F(GameScenarioTests, TestRealGame2) {
     Seat 5: Malyar-88 showed [6s 7s] and lost with a pair of Sevens (cashed out).
     Seat 6: Lord_Antoan folded before Flop (didn't bet)
  */
-TEST_F(GameScenarioTests, TestRealGame3) {
+TEST_F(GameScenarioTests, TestRealGame4) {
 
     float potTotal = 0.0;
     GameVariables gameVariables;
@@ -953,6 +1038,13 @@ TEST_F(GameScenarioTests, TestRealGame3) {
 
     engine.action();
 
+    /*
+    gokudousan: bets $0.40
+    Malyar-88: raises $1.20 to $1.60 and is all-in
+    gokudousan: calls $1.20
+
+     */
+
 //    // *** TURN *** [4s Ah 7d] [Jd]
 //    // *** RIVER *** [4s Ah 7d Jd] [Tc]
 //    // *** SHOW DOWN ***
@@ -962,7 +1054,4 @@ TEST_F(GameScenarioTests, TestRealGame3) {
 //    // Malyar-88 cashed out the hand for $0.83 | Cash Out Fee $0.01
 
 }
-
-
-
 

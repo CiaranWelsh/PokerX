@@ -71,6 +71,7 @@ namespace pokerx {
     void Player::fold() {
         setHasFolded(true);
         numActionsThisStreet_ += 1;
+        actionRecord_[getGameVariables()->getStreet()].push_back(FOLD);
     }
 
     void Player::checkGameVariablesNotNull() const {
@@ -89,6 +90,7 @@ namespace pokerx {
 
         // increment the number of actions this player has taken
         numActionsThisStreet_ += 1;
+        actionRecord_[getGameVariables()->getStreet()].push_back(CHECK);
     }
 
     void Player::call() {
@@ -103,6 +105,7 @@ namespace pokerx {
         stack_ -= amount;
         getGameVariables()->getPot() += amount;
         numActionsThisStreet_ += 1;
+        actionRecord_[getGameVariables()->getStreet()].push_back(CALL);
     }
 
     void Player::allIn() {
@@ -113,6 +116,7 @@ namespace pokerx {
         gameVariables_->setAmountToCall(amount);
         getGameVariables()->getPot() += amount;
         numActionsThisStreet_ += 1;
+        actionRecord_[getGameVariables()->getStreet()].push_back(ALL_IN);
     }
 
     // raise is left virtual but the subclass should call
@@ -130,6 +134,7 @@ namespace pokerx {
         stack_ -= effectiveRaiseAmount;
         amountContrib_ += effectiveRaiseAmount;
         numActionsThisStreet_ += 1;
+        actionRecord_[getGameVariables()->getStreet()].push_back(RAISE);
     }
 
     void Player::postSmallBlind() {
@@ -212,6 +217,11 @@ namespace pokerx {
     HoleCards Player::getInjectedHoleCards() const {
         return injectedHoleCards_;
     };
+
+    ActionRecordMap Player::getActionRecord() const {
+        return actionRecord_;
+    }
+
 
 
 }

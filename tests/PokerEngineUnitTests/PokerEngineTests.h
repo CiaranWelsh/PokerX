@@ -8,6 +8,7 @@
 #include <Mockups/MockGameVariables.h>
 #include <Mockups/MockPlayerManager.h>
 #include <Mockups/MockPlayer.h>
+#include <Mockups/MockDeck.h>
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
 #include "PokerX/engine/PokerEngine.h"
@@ -18,6 +19,9 @@
  */
 class PokerEngineTests : public ::testing::Test {
 public:
+    Deck deck;
+    std::vector<ICardPtr> injCommunityCards;
+    CardCollection cc;
     MockGameVariables gameVariables;
     MockPlayerManager playerManager;
     std::shared_ptr<MockPlayer> btn;
@@ -64,6 +68,20 @@ public:
         ON_CALL(playerManager, getPlayer(6))
                 .WillByDefault(Return(co));
 
+        // give players access to game variables
+        ON_CALL(*btn, getGameVariables)
+            .WillByDefault(Return(&gameVariables));
+        ON_CALL(*sb, getGameVariables)
+            .WillByDefault(Return(&gameVariables));
+        ON_CALL(*bb, getGameVariables)
+            .WillByDefault(Return(&gameVariables));
+        ON_CALL(*utg, getGameVariables)
+            .WillByDefault(Return(&gameVariables));
+        ON_CALL(*hj, getGameVariables)
+            .WillByDefault(Return(&gameVariables));
+        ON_CALL(*co, getGameVariables)
+            .WillByDefault(Return(&gameVariables));
+
         EXPECT_CALL(playerManager, watch)
                 .Times(1); // always gets called once
         EXPECT_CALL(playerManager, nextPlayer)
@@ -71,6 +89,19 @@ public:
 
         ON_CALL(gameVariables, getCurrencySymbol)
             .WillByDefault(Return("$"));
+
+        ON_CALL(gameVariables, getInjectedCommunityCards)
+            .WillByDefault(ReturnRef(injCommunityCards));
+
+        // set some default cards for the deck to pop
+        EXPECT_CALL(gameVariables, getDeck)
+            .WillRepeatedly(ReturnRef(deck));
+        ON_CALL(gameVariables, getCommunityCards)
+            .WillByDefault(Return(cc));
+
+        ON_CALL(gameVariables, getAmountToCall)
+            .WillByDefault(Return(0.3));
+
     };
 
     std::shared_ptr<MockPlayer> makePlayer(std::string& name, float stack) {

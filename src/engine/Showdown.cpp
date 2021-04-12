@@ -34,6 +34,10 @@ namespace pokerx {
                     // make sure to turn pot to 0, so we do not create any new money
                     engine->getGameVariables()->getPot().reset();
                     engine->setState(Reset::getInstance());
+
+                    if (engine->getGameVariables()->numGamesPlayed() == engine->getGameVariables()->getN()){
+                        engine->getGameVariables()->setDone(true);
+                    }
                     return;
                 }
             }

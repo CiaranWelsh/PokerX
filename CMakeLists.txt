@@ -166,8 +166,6 @@ add_library(
         src/engine/Evaluator.cpp
         src/engine/Policy.cpp
         src/engine/PolicyPlayer.cpp
-
-
 )
 
 target_include_directories(

@@ -46,6 +46,7 @@ public:
     MOCK_METHOD(bool, allPlayersTakenAtLeastOneTurn, (), (override));
     MOCK_METHOD(int, getNumPlayersStillInPot, (), (override));
     MOCK_METHOD((std::unordered_map<std::string, Hand>), getRemainingPlayerHands, (), (override));
+    MOCK_METHOD(int, numPlayersAllIn, (), (override));
 };
 
 #endif //POKERX_MOCKPLAYERMANAGER_H

@@ -91,6 +91,8 @@ namespace pokerx {
                 float callAmount = engine->getGameVariables()->getAmountToCall();
                 player->allIn();
 
+                engine->getGameVariables()->newPot(player);
+
                 if (engine->getGameVariables()->hasBetBeenPlaced()) {
                     std::cout << player->getName() << ": raises "
                               << callAmount  << " to "

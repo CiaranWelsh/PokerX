@@ -9,8 +9,9 @@
 
 namespace pokerx {
 
-    Pot &GameVariables::getPot() {
-        return pot_;
+    Pot GameVariables::getPot() {
+        auto pots = getPots();
+        return *pots[getCurrentPotIdx()];
     }
 
     float GameVariables::getAmountToCall() const {
@@ -21,12 +22,6 @@ namespace pokerx {
         notifyObservers(*this, "AmountToCall");
         amount_to_call_ = amountToCall;
     }
-
-    void GameVariables::addToPot(const Pot &pot) {
-        notifyObservers(*this, "Pot");
-        pot_ = pot;
-    }
-
 
     Street GameVariables::getStreet() const {
         return street_;
@@ -85,12 +80,15 @@ namespace pokerx {
     }
 
     void GameVariables::reset() {
-        getPot() = Pot();
+        pots_.resize(0);
+        pots_.push_back(std::move(std::make_shared<Pot>(0)));
+        assert(pots_.size() == 1 && "Size of pot_ should be exactly 1 after reset");
         communityCards_ = CardCollection();
         setAmountToCall(0);
         setBetPlaced(false);
         setStreet(PREFLOP_STREET);
         getDeck().reset();
+        setAllInMode(false);
 //        setDone(false); // no, this is only for a hard reset (end of epoch)
     }
 
@@ -156,5 +154,39 @@ namespace pokerx {
     void GameVariables::setLastPot(float amount) {
         lastPotAmount = amount;
     }
+
+    bool GameVariables::allInMode() {
+        return allInMode_;
+    }
+
+    bool GameVariables::setAllInMode(bool allInMode){
+        allInMode_ = allInMode;
+    }
+
+    std::vector<std::shared_ptr<Pot>> GameVariables::getPots() const {
+        return pots_;
+    }
+
+    unsigned int GameVariables::getCurrentPotIdx() const {
+        return currentPotIdx_;
+    }
+
+    void GameVariables::setCurrentPotIdx(unsigned int idx) {
+        currentPotIdx_ = idx;
+    }
+
+    std::vector<SharedIPlayerPtr> GameVariables::getPotIdentities() const {
+        return potIdentities_;
+    };
+
+    void GameVariables::newPot(std::shared_ptr<IPlayer> player) {
+        // pot at current idx is associated with player
+        potIdentities_.push_back(std::move(player));
+        // and we now create a new pot for the remaining players
+        pots_.push_back(std::make_shared<Pot>(0));
+        currentPotIdx_ += 1;
+    };
+
+
 
 }

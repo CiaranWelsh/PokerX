@@ -21,13 +21,11 @@ namespace pokerx {
 
         ~GameVariables() override = default;
 
-        [[nodiscard]] Pot &getPot() override;
+        [[nodiscard]] Pot getPot() override;
 
         [[nodiscard]] float getAmountToCall() const override;
 
         void setAmountToCall(float amountToCall) override;
-
-        void addToPot(const Pot &pot) override;
 
         [[nodiscard]] Street getStreet() const override;
 
@@ -89,7 +87,21 @@ namespace pokerx {
 
         void setLastPot(float  amount) override;
 
-    };
+        bool allInMode() override;
+
+        bool setAllInMode(bool allInMode) override;
+
+        [[nodiscard]] std::vector<std::shared_ptr<Pot>> getPots() const override;
+
+        [[nodiscard]] unsigned int getCurrentPotIdx() const override;
+
+        void setCurrentPotIdx(unsigned int idx) override;
+
+        [[nodiscard]] std::vector<SharedIPlayerPtr> getPotIdentities() const override;
+
+        void newPot(std::shared_ptr<IPlayer> player);
+
+        };
 }
 
 

@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <PokerX/engine/NextStreet.h>
 #include "PokerX/engine/StreetStart.h"
 #include "PokerX/engine/PlayerToAct.h"
 #include "PokerX/engine/PokerEngine.h"
@@ -22,11 +23,10 @@ namespace pokerx {
             if (truth) {
                 player->setNumActionsThisStreet(0);
                 engine->getGameVariables()->setBetPlaced(false);
-                //player->setAmountContrib(0);
             }
         }
         // set the amount to call variable to 0 for start of all streets
-        // except for PREFLOP when it is equa to big blind
+        // except for PREFLOP when it is equal to big blind
         if (engine->getGameVariables()->getStreet() == PREFLOP_STREET) {
             engine->getGameVariables()->setAmountToCall(
                     engine->getGameVariables()->getBigBlind()
@@ -35,7 +35,13 @@ namespace pokerx {
             engine->getGameVariables()->setAmountToCall(0);
         }
 
-        engine->setState(PlayerToAct::getInstance());
+        // when conditions are right, i.e. all in, we go to Next street
+        if (engine->getGameVariables()->allInMode()){
+            engine->setState(NextStreet::getInstance());
+        } else{
+            engine->setState(PlayerToAct::getInstance());
+        }
+
     }
 
     void StreetStart::exit(StateMachine *machine) {}

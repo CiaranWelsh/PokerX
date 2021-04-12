@@ -115,11 +115,7 @@ TEST_F(PokerEngineStatesTest, CheckBigBlind) {
 
 
 
-
-
-
-
-TEST_F(PokerEngineStatesTest, CheckCheckActioinPlayerStillHasStack) {
+TEST_F(PokerEngineStatesTest, CheckCheckActionPlayerStillHasStack) {
     engine->setState(PlayerToAct::getInstance());
 
     // use UTG player
@@ -525,6 +521,55 @@ TEST_F(PokerEngineStatesTest, TestAllPlayersEqualWhenTheyAreEqual) {
     ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
 
 }
+
+TEST_F(PokerEngineStatesTest, TestAllPlayersEqualOnePlayerAllInOneCall) {
+    engine->setState(AllPlayersEqual::getInstance());
+
+    // will always be true if setState works
+    ASSERT_EQ(engine->getState()->getType(), ALL_PLAYERS_EQUAL_STATE);
+
+    // make up some bets
+    engine->getPlayers()->getPlayer(0)->setStack(50);
+    engine->getPlayers()->getPlayer(0)->setIsAllIn(true);
+
+    // p0 is all in. So has 0 stack left
+    engine->getPlayers()->getPlayer(0)->setStack(0);
+
+    // and all stack is in amount contrib
+    float allInAmount = engine->getPlayers()->getPlayer(0)->getStack();
+    engine->getPlayers()->getPlayer(0)->setAmountContrib(allInAmount);
+
+    // pot has all in amount in.
+    engine->getGameVariables()->getPot() += allInAmount;
+
+    // p1 has called
+    engine->getPlayers()->getPlayer(1)->setAmountContrib(allInAmount);
+    engine->getGameVariables()->getPot() += allInAmount;
+
+    // everyone else has folded
+    engine->getPlayers()->getPlayer(2)->setHasFolded(true);
+    engine->getPlayers()->getPlayer(3)->setHasFolded(true);
+    engine->getPlayers()->getPlayer(4)->setHasFolded(true);
+    engine->getPlayers()->getPlayer(5)->setHasFolded(true);
+
+
+    // all players have to have played at least once this round
+    // before we can move on to next street
+    engine->getPlayers()->getPlayer(0)->setNumActionsThisStreet(1);
+    engine->getPlayers()->getPlayer(1)->setNumActionsThisStreet(1);
+
+    ASSERT_TRUE(engine->getPlayers()->allPlayersEqual());
+    ASSERT_TRUE(engine->getPlayers()->allPlayersTakenAtLeastOneTurn());
+    ASSERT_EQ(engine->getPlayers()->getNumPlayersStillInPot(), 2);
+
+    //  Action on the AllPlayersEqual state
+    engine->action(1);
+
+    ASSERT_EQ(engine->getState()->getType(), NEXT_STREET_STATE);
+
+}
+
+
 
 TEST_F(PokerEngineStatesTest, TestNextStreetPreflopToFlop) {
 

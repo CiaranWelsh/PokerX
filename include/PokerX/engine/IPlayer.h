@@ -14,12 +14,15 @@
 #include <memory>
 #include <utility>
 #include <PokerX/engine/Policy.h>
+#include <PokerX/engine/hands/Hand.h>
 
 #include "PokerX/engine/IGameVariables.h"
 
 namespace pokerx {
 
     class IGameVariables;
+
+    using ActionRecordMap = std::unordered_map<Street, std::vector<Action>>;
 
     class IPlayer : public IObserver<IGameVariables> {
     public:
@@ -183,6 +186,8 @@ namespace pokerx {
 
         [[nodiscard]] virtual HoleCards getInjectedHoleCards() const = 0;
 
+        [[nodiscard]] virtual ActionRecordMap getActionRecord() const = 0;
+
     protected:
         float stack_ = 1000.0;
         bool isAllIn_ = false;
@@ -223,6 +228,13 @@ namespace pokerx {
          * resets to 0 at the start of each street.
          */
         unsigned int numActionsThisStreet_;
+
+        /**
+         * @brief A map of actions this player has taken
+         * Key = Street type
+         * Value list of actions taken in Street
+         */
+        ActionRecordMap actionRecord_;
 
     };
 

@@ -10,24 +10,23 @@
 #include "PokerX/engine/IObservableRawPtr.h"
 #include "PokerX/engine/Deck.h"
 
-#include "PokerX/engine/Player.h"
+#include "PokerX/engine/IPlayer.h"
 
 namespace pokerx {
 
     class Player;
+    class IPlayer;
 
     class IGameVariables : public IObservableRawPtr<IGameVariables> {
     public:
 
         ~IGameVariables() override = default;
 
-        [[nodiscard]] virtual Pot &getPot() = 0;
+        [[nodiscard]] virtual Pot getPot() = 0;
 
         [[nodiscard]] virtual float getAmountToCall() const = 0;
 
         virtual void setAmountToCall(float amountToCall) = 0;
-
-        virtual void addToPot(const Pot &pot) = 0;
 
         [[nodiscard]] virtual Street getStreet() const = 0;
 
@@ -95,9 +94,52 @@ namespace pokerx {
 
         virtual void setLastPot(float  amount) = 0;
 
+        virtual bool allInMode() = 0;
+
+        virtual bool setAllInMode(bool allInMode) = 0;
+
+        [[nodiscard]] virtual std::vector<std::shared_ptr<Pot>> getPots() const = 0;
+
+        [[nodiscard]] virtual unsigned int getCurrentPotIdx() const = 0;
+
+        virtual void setCurrentPotIdx(unsigned int idx) = 0;
+
+        [[nodiscard]] virtual std::vector<std::shared_ptr<IPlayer>> getPotIdentities() const = 0;
+
+        virtual void newPot(std::shared_ptr<IPlayer> player) = 0;
+
     protected:
 
+        /**
+         * Stores the player a particular pot
+         * belongs to. When a player goes all in
+         * the remaining players can continue but the all
+         * in player can only win the amount in "their" pot.
+         */
+        std::vector<std::shared_ptr<IPlayer>> potIdentities_;
 
+        /**
+         * A vector of Pot objects. Most
+         * of the time, only 1 pot will be
+         * needed, but we'll need to spawn
+         * new pots as needed to deal with complex
+         * split pot situations
+         */
+         std::vector<std::shared_ptr<Pot>> pots_;
+
+        /**
+         * Current pot index. When a split pot is needed
+         * the currentPot index increases.
+         */
+         unsigned int currentPotIdx_ = 0;
+
+        /**
+         * boolean indicator as to whether
+         * we are in `allIn` mode. When we play
+         * through cards without betterin g
+         * because a player is all in.
+         */
+         bool allInMode_ = false;
 
         /**
          * Name of player who won last
@@ -191,7 +233,7 @@ namespace pokerx {
          * so users should provide all 5 community cares. Later implementations
          * could make it so that we could inject only the turn or river for example.
          */
-        std::vector<ICardPtr> injectedCommunityCards_;
+        std::vector<ICardPtr> injectedCommunityCards_ = std::vector<ICardPtr>();
 
     };
 

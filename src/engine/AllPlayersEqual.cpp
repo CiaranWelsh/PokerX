@@ -28,6 +28,28 @@ namespace pokerx {
 
         bool all_players_equal = playerManager->allPlayersEqual();
         bool allPlayersPlayedAtLeastOneActionThisRound = playerManager->allPlayersTakenAtLeastOneTurn();
+        int numPlayersAllIn = playerManager->numPlayersAllIn();
+        int numPlayersStillInPot = playerManager->getNumPlayersStillInPot();
+        int numPlayersNotAllIn = numPlayersStillInPot - numPlayersAllIn;
+
+        // if a player is all in and there is only one other player left and that other
+        // player has called the all in
+        // we deal the remaining community cards and head to showdown
+        //todo implement player->getLastAction
+        // Could implement observer for players to log the data produced?
+        // or just store within a Player variable? ? ?
+
+        // first deal with situation where all players are all in
+        // or all but one players are all in
+        if (numPlayersAllIn == numPlayersStillInPot || numPlayersAllIn == (numPlayersStillInPot-1)){
+            engine->getGameVariables()->setAllInMode(true);
+            engine->setState(NextStreet::getInstance());
+            return;
+        }
+
+        // A side pot occurs in a game in which there are more than two players left in
+        // the hand, and one player has bet all the chips they have in front of them (is all-in).
+        // When one player is all-in, the other two may continue to bet between themselves.
 
         if ( (all_players_equal && allPlayersPlayedAtLeastOneActionThisRound) ) {
             // if all players are equal

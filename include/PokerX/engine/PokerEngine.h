@@ -20,7 +20,7 @@ namespace pokerx {
         /**
          * Container base enables dependency injection but the more specialized
          * PlayerManager has methods required by PokerEngine, so we've broken
-         * the liskov substitution principle. So, how do we fix it. 
+         * the liskov substitution principle. So, how do we fix it?
          */
         PokerEngine(IPlayerManager *playerManager, IGameVariables *variables);
 
@@ -38,7 +38,7 @@ namespace pokerx {
         /**
          * @brief calls the action @param times times
          */
-        void action(unsigned int times);
+        void action(unsigned int times) override;
 
         /**
          * @brief Reset the game for another hand
